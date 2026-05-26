@@ -4,28 +4,87 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Japanese Daily News is a podcast for Japanese learners. Each episode covers a real Japanese news story with three speakers: an English host who explains vocabulary/grammar, a Japanese news reader at natural speed, and a slow-repeat reader for key sentences. Episodes are defined as JSON scripts and converted to MP3 audio using Edge TTS + ffmpeg.
+Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Edge TTS + ffmpeg. The site is built with Astro and deployed on Cloudflare Pages.
 
-## Generate an Episode
+## Full Pipeline for a New Episode
 
 ```bash
-pip install edge-tts   # one-time dependency
-python tools/gen-episode.py ep002
+# 1. Write the script
+#    Create scripts/epNNN.json following the format below
+
+# 2. Add furigana + vocab highlights
+.venv/bin/python tools/add-furigana.py epNNN
+
+# 3. Generate audio + timing data
+.venv/bin/python tools/gen-episode.py epNNN
+
+# 4. Generate subtitles (VTT + SRT)
+python3 tools/gen-subtitles.py epNNN
+
+# 5. Copy assets to site
+cp audio/epNNN.mp3 site/public/audio/
+cp subtitles/epNNN.* site/public/subtitles/
+
+# 6. Build and preview
+cd site && npm run dev
+
+# 7. Deploy (push to GitHub, Cloudflare auto-deploys)
+git add . && git commit && git push
 ```
 
-Requires `ffmpeg` and `ffprobe` on PATH. Output goes to `audio/<episode>.mp3`.
+Requires: `ffmpeg`, `ffprobe` on PATH. Python deps in `.venv/` (edge-tts, pykakasi).
 
-## Architecture
+## Script Format (`scripts/epNNN.json`)
 
-**Script format** (`scripts/epNNN.json`): Each script defines `characters` (voice config per speaker role), and `segments` (ordered list of `{speaker, text}` entries). Three speaker roles:
-- `host` — English explanations (en-US-AvaNeural)
-- `news` — Japanese news reading at moderate speed (ja-JP-NanamiNeural, -20%)
-- `slow` — Slow Japanese repeat of key sentences (ja-JP-NanamiNeural, -35%)
+Four speaker roles:
+- `host` — English explanations only, ZERO Japanese characters (en-US-AvaNeural)
+- `news` — Japanese news reading at moderate speed (ja-JP-NanamiNeural, -20%~-25%)
+- `slow` — Slow Japanese repeat of key sentences (ja-JP-NanamiNeural, -35%~-40%)
+- `vocab` — Individual Japanese vocabulary words (ja-JP-NanamiNeural, -30%)
 
-**Generator** (`tools/gen-episode.py`): Async pipeline that TTS-renders each segment, generates silence gaps (duration varies by speaker role via `PAUSE_AFTER`), concatenates everything with ffmpeg, and outputs a single MP3. On TTS failure, inserts 1s of silence as a placeholder.
+Episode structure:
+1. Host intro
+2. Full news (6-7 `news` segments)
+3. Breakdown: `host` cue → `slow` sentence → `vocab` word → `host` explanation (repeat)
+4. Full news replay (same `news` segments)
+5. Quiz: `slow` question → `host` English answer → `vocab` Japanese answer
+6. Vocab recap: `vocab` word → `host` meaning
+7. Host closing + `news` "また明日。"
+
+Critical rules:
+- `host` segments must contain ZERO Japanese characters — all Japanese goes in `vocab`/`slow`/`news` segments
+- Each JSON also includes `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh`, and `level` fields
+
+## Site Architecture (`site/`)
+
+Astro 5 static site. Key files:
+- `src/lib/episodes.ts` — loads episode JSONs, builds timing, types
+- `src/pages/ep/[id].astro` — episode page with player, transcript, practice mode
+- `src/pages/index.astro` — landing page
+- `src/pages/rss.xml.ts` — podcast RSS feed
+- `src/pages/sitemap.xml.ts` — sitemap
+- `src/layouts/Layout.astro` — base layout with GA4, theme/lang toggle
+
+Features: synced transcript, furigana, vocab click tooltips, practice mode (精听), playback speed control, dark mode, EN/中文 toggle, localStorage progress tracking, keyboard shortcuts.
+
+## Tools
+
+- `tools/gen-episode.py` — TTS audio generation + timing manifest
+- `tools/add-furigana.py` — adds ruby HTML + vocab highlights to Japanese segments (uses pykakasi)
+- `tools/gen-subtitles.py` — generates VTT/SRT from timing data
+- `tools/cover.html` — podcast cover image template (screenshot at 3000x3000)
+
+## Deployment
+
+- Site: Cloudflare Pages (`podcast.jpnotes.dev`)
+- Build: `cd site && npm install && npm run build` → output `site/dist`
+- Audio/subtitles committed to git, copied to `site/public/` during build
+- GA4: `G-7W59Y18KC8`
 
 ## Conventions
 
-- Episode IDs use zero-padded format: `ep001`, `ep002`, etc.
-- Scripts are self-contained — each JSON file includes all voice/rate config, so episodes can use different voices if needed.
-- Audio files (mp3/wav) are gitignored; `audio/.gitkeep` preserves the directory.
+- Episode IDs: zero-padded `ep001`, `ep002`, etc.
+- Dates in intro text: written out ("May twenty-fourth"), no year
+- Difficulty levels: `N5-N4` (beginner) or `N4-N3` (intermediate) in `level` field
+- Scripts self-contained — each JSON includes all voice/rate config
+- Companion site: `jpnotes.dev` (grammar notes, cross-linked from grammar cards)
