@@ -30,6 +30,8 @@ const ogImageUrl = new URL(ogImage, SITE).href;
       if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.setAttribute('data-theme','dark')}
       var l=localStorage.getItem('jdn-lang')||((navigator.language||'').startsWith('zh')?'zh':'en');
       document.documentElement.setAttribute('data-lang',l);
+      var fs=localStorage.getItem('jdn-fontsize')||'medium';
+      document.documentElement.setAttribute('data-fontsize',fs);
     })();
   </script>
   <meta charset="UTF-8" />
@@ -54,11 +56,24 @@ const ogImageUrl = new URL(ogImage, SITE).href;
   <script is:inline>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-7W59Y18KC8');</script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Noto+Serif+JP:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,700;1,9..144,400&family=Shippori+Mincho:wght@400;600;700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
 </head>
 <body>
   <slot />
   <script is:inline>
+    var fst = document.getElementById('fontsize-toggle');
+    if (fst) {
+      var cfs = document.documentElement.getAttribute('data-fontsize') || 'medium';
+      fst.querySelectorAll('.fontsize-btn').forEach(function(b) { b.classList.toggle('active', b.getAttribute('data-size') === cfs); });
+      fst.addEventListener('click', function(e) {
+        var b = e.target.closest('.fontsize-btn');
+        if (!b) return;
+        var s = b.getAttribute('data-size');
+        document.documentElement.setAttribute('data-fontsize', s);
+        localStorage.setItem('jdn-fontsize', s);
+        fst.querySelectorAll('.fontsize-btn').forEach(function(x) { x.classList.toggle('active', x.getAttribute('data-size') === s); });
+      });
+    }
     var lt = document.getElementById('lang-toggle');
     if (lt) {
       var cl = document.documentElement.getAttribute('data-lang') || 'en';

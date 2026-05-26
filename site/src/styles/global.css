@@ -22,25 +22,25 @@ button { font-family: inherit; }
 
 /* --- Custom Properties --- */
 :root {
-  --bg: #FAF9F5;
-  --bg-alt: #F0ECE2;
-  --bg-warm: #EDE8DC;
+  --bg: #F3EDDA;
+  --bg-alt: #EAE3CE;
+  --bg-warm: #E0D9C4;
   --bg-dark: #1C1C1E;
-  --text: #1C1C1E;
+  --text: #2C2C2C;
   --text-muted: #6B6560;
   --text-light: #9B9590;
   --text-inverse: #FAF9F5;
   --accent: #C23B22;
   --accent-hover: #A83219;
-  --accent-soft: #FDF2F0;
+  --accent-soft: #F5E6D0;
   --green: #4A7C6F;
-  --green-soft: #EEF5F2;
-  --border: #DDD8CE;
-  --border-light: #EBE7DF;
+  --green-soft: #E5EEDF;
+  --border: #D8D0BA;
+  --border-light: #E0D9C8;
 
-  --font-display: 'Instrument Serif', serif;
-  --font-jp: 'Noto Serif JP', serif;
-  --font-body: 'Plus Jakarta Sans', sans-serif;
+  --font-display: 'Fraunces', serif;
+  --font-jp: 'Shippori Mincho', serif;
+  --font-body: 'Outfit', sans-serif;
 
   --max-width: 72rem;
   --radius: 0.5rem;
@@ -126,6 +126,7 @@ button { font-family: inherit; }
 
 body {
   font-family: var(--font-body);
+  font-size: 1.1875rem;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
@@ -312,6 +313,35 @@ body {
 [data-lang="zh"] .grammar-translation,
 [data-lang="zh"] .grammar-note,
 [data-lang="zh"] .i18n-en { display: none; }
+
+/* --- Font Size Control --- */
+[data-fontsize="small"] { font-size: 1rem; }
+[data-fontsize="medium"] { font-size: 1.1875rem; }
+[data-fontsize="large"] { font-size: 1.375rem; }
+
+.fontsize-toggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 2rem;
+  overflow: hidden;
+  font-size: 0.75rem;
+}
+
+.fontsize-btn {
+  padding: 0.25rem 0.5rem;
+  font-weight: 600;
+  background: transparent;
+  color: var(--text-light);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  line-height: 1;
+}
+
+.fontsize-btn.active {
+  background: var(--text);
+  color: var(--text-inverse);
+}
 
 /* --- Platform Links --- */
 .platform-links {
@@ -853,7 +883,7 @@ body {
 
 /* --- Episode Body (single column) --- */
 .episode-body {
-  max-width: 44rem;
+  max-width: 64rem;
   margin: 0 auto;
   padding: 0 2rem;
   padding-bottom: calc(var(--player-h) + 3rem);
@@ -928,7 +958,7 @@ body {
 .segment-host .segment-dot { background: var(--text-light); }
 .segment-host .segment-label { color: var(--text-light); }
 .segment-host .segment-text {
-  font-size: 0.875rem;
+  font-size: 1.0625rem;
   color: var(--text-muted);
   line-height: 1.7;
 }
@@ -937,7 +967,7 @@ body {
 .segment-news .segment-label { color: var(--accent); }
 .segment-news .segment-text {
   font-family: var(--font-jp);
-  font-size: 1rem;
+  font-size: 1.1875rem;
   color: var(--text);
   line-height: 1.8;
 }
@@ -946,7 +976,7 @@ body {
 .segment-slow .segment-label { color: var(--green); }
 .segment-slow .segment-text {
   font-family: var(--font-jp);
-  font-size: 1.0625rem;
+  font-size: 1.3125rem;
   color: var(--text);
   line-height: 1.8;
 }
@@ -955,7 +985,7 @@ body {
 .segment-vocab .segment-label { color: var(--accent); }
 .segment-vocab .segment-text {
   font-family: var(--font-jp);
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-weight: 600;
   color: var(--accent);
   line-height: 1.6;
@@ -979,7 +1009,8 @@ body {
 ruby { ruby-align: center; }
 ruby rt {
   font-size: 0.55em;
-  color: var(--text-muted);
+  color: var(--text);
+  opacity: 0.6;
   font-weight: 400;
 }
 
