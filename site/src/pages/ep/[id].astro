@@ -1,0 +1,621 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllEpisodes } from '../../lib/episodes';
+import type { ProcessedEpisode } from '../../lib/episodes';
+
+const allEpisodes = getAllEpisodes();
+
+export async function getStaticPaths() {
+  return getAllEpisodes().map(ep => ({
+    params: { id: ep.paddedNum },
+    props: { episode: ep },
+  }));
+}
+
+interface Props { episode: ProcessedEpisode; }
+const { episode } = Astro.props;
+
+const sorted = [...allEpisodes].sort((a, b) => a.episode - b.episode);
+const epIdx = sorted.findIndex(e => e.episode === episode.episode);
+const prevEp = epIdx > 0 ? sorted[epIdx - 1] : null;
+const nextEp = epIdx < sorted.length - 1 ? sorted[epIdx + 1] : null;
+
+const SITE = 'https://podcast.jpnotes.dev';
+const lastSeg = episode.timedSegments[episode.timedSegments.length - 1];
+const durationISO = `PT${Math.round((lastSeg?.end || 0) + 2)}S`;
+
+const episodeJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": `EP ${episode.paddedNum}: ${episode.title}`,
+  "description": episode.description,
+  "url": `${SITE}/ep/${episode.paddedNum}`,
+  "datePublished": episode.date,
+  "duration": durationISO,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": `${SITE}/audio/${episode.id}.mp3`
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "Japanese Daily News",
+    "url": SITE
+  }
+};
+
+function formatDate(d: string) {
+  return new Date(d + 'T00:00:00').toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+  });
+}
+
+function speakerLabel(s: string) {
+  switch (s) {
+    case 'host': return 'Host';
+    case 'news': return 'News';
+    case 'slow': return 'Slow Repeat';
+    case 'vocab': return 'Vocab';
+    default: return s;
+  }
+}
+
+const segs = episode.timedSegments;
+const firstSlowIdx = segs.findIndex(s => s.speaker === 'slow');
+const vocabRecapIdx = segs.findIndex(s =>
+  s.speaker === 'host' &&
+  (s.text.toLowerCase().includes('vocabulary recap') ||
+   s.text.toLowerCase().includes("today's vocabulary"))
+);
+
+const segmentsForClient = segs.map(s => ({
+  i: s.index, s: s.start, e: s.end, sp: s.speaker, t: s.text,
+  r: s.ruby || '',
+}));
+---
+<Layout
+  title={`EP ${episode.paddedNum}: ${episode.title}`}
+  description={episode.description}
+  jsonLd={episodeJsonLd}
+>
+  <nav class="nav">
+    <a href="/" class="nav-logo">Japanese Daily News</a>
+    <div class="nav-links">
+      <a href="/rss.xml" class="nav-link nav-rss-icon">
+        <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+        RSS
+      </a>
+      <div class="lang-toggle" id="lang-toggle">
+        <button class="lang-btn active" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="zh">中</button>
+      </div>
+      <button class="theme-btn" id="theme-toggle" aria-label="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+      </button>
+    </div>
+  </nav>
+
+  <header class="ep-header">
+    <a href="/" class="ep-back">&larr; Episodes</a>
+    <p class="ep-page-meta">
+      Episode {episode.paddedNum} &middot; {formatDate(episode.date)} &middot; {episode.source}
+    </p>
+    <h1 class="ep-page-title">{episode.title}</h1>
+  </header>
+
+  <main class="episode-body">
+    <div class="mode-bar">
+      <div class="mode-toggle">
+        <button class="mode-btn active" data-mode="fulltext"><span class="i18n-en">Full Text</span><span class="i18n-zh">全文</span></button>
+        <button class="mode-btn" data-mode="practice"><span class="i18n-en">Practice</span><span class="i18n-zh">精听</span></button>
+      </div>
+    </div>
+
+    <!-- Transcript -->
+    <div class="transcript" id="transcript">
+      {segs.map((seg, i) => (
+        <>
+          {i === firstSlowIdx && firstSlowIdx > 0 && (
+            <div class="transcript-divider"><span><span class="i18n-en">Breakdown</span><span class="i18n-zh">逐句讲解</span></span></div>
+          )}
+          {i === vocabRecapIdx && vocabRecapIdx > 0 && (
+            <div class="transcript-divider"><span><span class="i18n-en">Vocabulary Recap</span><span class="i18n-zh">词汇回顾</span></span></div>
+          )}
+          <div
+            class={`segment segment-${seg.speaker}`}
+            data-index={seg.index}
+            data-start={seg.start}
+            data-end={seg.end}
+          >
+            <div class="segment-label">
+              <span class="segment-dot"></span>
+              {speakerLabel(seg.speaker)}
+            </div>
+            {seg.ruby
+              ? <div class="segment-text" set:html={seg.ruby} />
+              : <div class="segment-text">{seg.text}</div>
+            }
+          </div>
+        </>
+      ))}
+    </div>
+
+    <!-- Practice mode -->
+    <div class="practice-view" id="practice-view">
+      <div class="practice-card">
+        <div class="practice-progress">
+          <span id="prac-cur">1</span> / <span id="prac-total">0</span>
+        </div>
+        <div class="practice-sentence" id="prac-text"></div>
+        <button class="practice-toggle" id="prac-toggle"><span class="i18n-en">Show explanation</span><span class="i18n-zh">显示解释</span> &darr;</button>
+        <div class="practice-explanation" id="prac-explanation"></div>
+        <div class="practice-nav">
+          <button class="practice-nav-btn" id="prac-prev">&larr; <span class="i18n-en">Prev</span><span class="i18n-zh">上一句</span></button>
+          <button class="practice-nav-btn replay" id="prac-replay">&#8635; <span class="i18n-en">Replay</span><span class="i18n-zh">重播</span></button>
+          <button class="practice-nav-btn" id="prac-next"><span class="i18n-en">Next</span><span class="i18n-zh">下一句</span> &rarr;</button>
+        </div>
+      </div>
+
+      {episode.grammar.length > 0 && (
+        <div class="practice-grammar">
+          <h3 class="practice-grammar-title"><span class="i18n-en">Grammar Reference</span><span class="i18n-zh">语法参考</span></h3>
+          <div class="grammar-list">
+            {episode.grammar.map(g => (
+              <div class="grammar-card">
+                <div class="grammar-header">
+                  <span class="grammar-pattern">{g.pattern}</span>
+                  {g.level && <span class="grammar-level">{g.level}</span>}
+                </div>
+                <div class="grammar-meaning">{g.meaning}</div>
+                {g.meaningZh && <div class="grammar-meaning-zh">{g.meaningZh}</div>}
+                <div class="grammar-formation">{g.formation}</div>
+                <div class="grammar-example" set:html={g.example} />
+                <div class="grammar-translation">{g.translation}</div>
+                {g.note && <div class="grammar-note">{g.note}</div>}
+                {g.noteZh && <div class="grammar-note-zh">{g.noteZh}</div>}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <!-- Vocab & Grammar review -->
+    {(episode.vocabulary.length > 0 || episode.grammar.length > 0) && (
+      <section class="review-section" id="review-section">
+        {episode.vocabulary.length > 0 && (
+          <>
+            <h2 class="review-heading"><span class="i18n-en">Vocabulary</span><span class="i18n-zh">词汇</span></h2>
+            <div class="vocab-grid">
+              {episode.vocabulary.map(v => (
+                <div class="vocab-card">
+                  <div class="vocab-ja">{v.ja}</div>
+                  <div class="vocab-reading">{v.reading}</div>
+                  <div class="vocab-en">{v.en}</div>
+                  {v.zh && <div class="vocab-zh">{v.zh}</div>}
+                </div>
+              ))}
+            </div>
+          </>
+        )}
+        {episode.grammar.length > 0 && (
+          <>
+            <h2 class="review-heading"><span class="i18n-en">Grammar</span><span class="i18n-zh">语法</span></h2>
+            <div class="grammar-list">
+              {episode.grammar.map(g => (
+                <div class="grammar-card">
+                  <div class="grammar-header">
+                    <span class="grammar-pattern">{g.pattern}</span>
+                    {g.level && <span class="grammar-level">{g.level}</span>}
+                  </div>
+                  <div class="grammar-meaning">{g.meaning}</div>
+                  {g.meaningZh && <div class="grammar-meaning-zh">{g.meaningZh}</div>}
+                  <div class="grammar-formation">{g.formation}</div>
+                  <div class="grammar-example" set:html={g.example} />
+                  <div class="grammar-translation">{g.translation}</div>
+                  {g.note && <div class="grammar-note">{g.note}</div>}
+                  {g.noteZh && <div class="grammar-note-zh">{g.noteZh}</div>}
+                </div>
+              ))}
+            </div>
+            <a href="https://jpnotes.dev" class="grammar-jpnotes" target="_blank">
+              <span class="i18n-en">More grammar at jpnotes.dev &rarr;</span>
+              <span class="i18n-zh">更多语法请访问 jpnotes.dev &rarr;</span>
+            </a>
+          </>
+        )}
+      </section>
+    )}
+
+    <!-- Prev / Next -->
+    <nav class="ep-nav">
+      {prevEp ? (
+        <a href={`/ep/${prevEp.paddedNum}`} class="ep-nav-link ep-nav-prev">
+          <span class="ep-nav-label">&larr; <span class="i18n-en">Previous</span><span class="i18n-zh">上一集</span></span>
+          <span class="ep-nav-title">EP {prevEp.paddedNum}: {prevEp.title}</span>
+        </a>
+      ) : <span />}
+      {nextEp ? (
+        <a href={`/ep/${nextEp.paddedNum}`} class="ep-nav-link ep-nav-next">
+          <span class="ep-nav-label"><span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;</span>
+          <span class="ep-nav-title">EP {nextEp.paddedNum}: {nextEp.title}</span>
+        </a>
+      ) : <span />}
+    </nav>
+  </main>
+
+  <!-- Vocab tooltip -->
+  <div id="vocab-tooltip" class="vocab-tooltip" style="display:none">
+    <div class="tt-ja" id="tt-ja"></div>
+    <div class="tt-reading" id="tt-reading"></div>
+    <div class="tt-en" id="tt-en"></div>
+  </div>
+
+  <!-- Player -->
+  <div class="player-bar" id="player">
+    <audio id="audio" preload="auto">
+      <source src={`/audio/${episode.id}.mp3`} type="audio/mpeg" />
+    </audio>
+    <div class="player-inner">
+      <div class="player-progress" id="progressBar">
+        <div class="player-progress-fill" id="progressFill"></div>
+      </div>
+      <div class="player-controls">
+        <button class="play-btn" id="playBtn" aria-label="Play">
+          <svg id="iconPlay" viewBox="0 0 24 24"><polygon points="8,5 19,12 8,19"/></svg>
+          <svg id="iconPause" viewBox="0 0 24 24" style="display:none"><rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/></svg>
+        </button>
+        <div class="player-time">
+          <span class="player-time-current" id="currentTime">0:00</span>
+          <span> / </span>
+          <span id="totalTime">0:00</span>
+        </div>
+        <div class="speed-controls" id="speedControls">
+          <button class="speed-btn" data-speed="0.5">0.5&times;</button>
+          <button class="speed-btn" data-speed="0.75">0.75&times;</button>
+          <button class="speed-btn active" data-speed="1">1&times;</button>
+          <button class="speed-btn" data-speed="1.25">1.25&times;</button>
+          <button class="speed-btn" data-speed="1.5">1.5&times;</button>
+          <button class="speed-btn" data-speed="2">2&times;</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-pzh={JSON.stringify(episode.practiceZh)} style="display:none"></div>
+
+  <script is:inline>
+  document.addEventListener('DOMContentLoaded', function() {
+    var dataEl = document.getElementById('seg-data');
+    var raw = JSON.parse(dataEl.getAttribute('data-v'));
+    var epId = dataEl.getAttribute('data-ep');
+    var practiceZhArr = JSON.parse(dataEl.getAttribute('data-pzh') || '[]');
+    var segments = raw.map(function(r) {
+      return { index: r.i, start: r.s, end: r.e, speaker: r.sp, text: r.t, ruby: r.r };
+    });
+
+    var audio = document.getElementById('audio');
+    var playBtn = document.getElementById('playBtn');
+    var iconPlay = document.getElementById('iconPlay');
+    var iconPause = document.getElementById('iconPause');
+    var progressBar = document.getElementById('progressBar');
+    var progressFill = document.getElementById('progressFill');
+    var currentTimeEl = document.getElementById('currentTime');
+    var totalTimeEl = document.getElementById('totalTime');
+    var speedControls = document.getElementById('speedControls');
+    var segmentEls = document.querySelectorAll('.segment[data-index]');
+    var tooltip = document.getElementById('vocab-tooltip');
+
+    var activeIndex = -1;
+    var isDragging = false;
+    var practiceMode = false;
+    var autoPauseAt = -1;
+    var storageKey = 'jdn-' + epId;
+    var progressKey = 'jdn-progress';
+
+    function getProgress() {
+      try { return JSON.parse(localStorage.getItem(progressKey)) || {}; } catch(e) { return {}; }
+    }
+
+    function saveProgress(field, value) {
+      var p = getProgress();
+      if (!p[epId]) p[epId] = {};
+      p[epId][field] = value;
+      localStorage.setItem(progressKey, JSON.stringify(p));
+    }
+
+    // ===== localStorage: restore =====
+    try {
+      var saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved) {
+        if (saved.time > 1) {
+          audio.currentTime = saved.time;
+          currentTimeEl.textContent = fmt(saved.time);
+        }
+        if (saved.speed && saved.speed !== 1) {
+          audio.playbackRate = saved.speed;
+          var btns = speedControls.querySelectorAll('.speed-btn');
+          for (var k = 0; k < btns.length; k++) {
+            btns[k].classList.toggle('active', parseFloat(btns[k].getAttribute('data-speed')) === saved.speed);
+          }
+        }
+      }
+    } catch(e) {}
+
+    // ===== Practice data =====
+    var practicePairs = [];
+    var pzhIdx = 0;
+    for (var i = 0; i < segments.length; i++) {
+      if (segments[i].speaker === 'slow') {
+        var explanations = [];
+        for (var j = i + 1; j < segments.length && segments[j].speaker === 'host'; j++) {
+          explanations.push(segments[j].text);
+        }
+        practicePairs.push({
+          segIndex: i, start: segments[i].start, end: segments[i].end,
+          text: segments[i].text, ruby: segments[i].ruby,
+          explanation: explanations.join(' '),
+          explanationZh: practiceZhArr[pzhIdx] || ''
+        });
+        pzhIdx++;
+      }
+    }
+    var practiceIdx = 0;
+
+    var pracView = document.getElementById('practice-view');
+    var pracText = document.getElementById('prac-text');
+    var pracCur = document.getElementById('prac-cur');
+    var pracTotal = document.getElementById('prac-total');
+    var pracExplanation = document.getElementById('prac-explanation');
+    var pracToggle = document.getElementById('prac-toggle');
+    var pracPrev = document.getElementById('prac-prev');
+    var pracNext = document.getElementById('prac-next');
+    var pracReplay = document.getElementById('prac-replay');
+    var transcript = document.getElementById('transcript');
+    var reviewSection = document.getElementById('review-section');
+
+    pracTotal.textContent = practicePairs.length;
+
+    function fmt(sec) {
+      if (!sec || isNaN(sec)) return '0:00';
+      var m = Math.floor(sec / 60);
+      var s = Math.floor(sec % 60);
+      return m + ':' + (s < 10 ? '0' : '') + s;
+    }
+
+    function tryPlay() {
+      var p = audio.play();
+      if (p && p.catch) p.catch(function() {});
+    }
+
+    // ===== Play / Pause =====
+    playBtn.addEventListener('click', function() {
+      if (audio.paused) tryPlay(); else audio.pause();
+    });
+
+    audio.addEventListener('play', function() {
+      iconPlay.style.display = 'none';
+      iconPause.style.display = 'block';
+    });
+
+    audio.addEventListener('pause', function() {
+      iconPlay.style.display = 'block';
+      iconPause.style.display = 'none';
+    });
+
+    audio.addEventListener('loadedmetadata', function() {
+      totalTimeEl.textContent = fmt(audio.duration);
+    });
+    if (audio.readyState >= 1) {
+      totalTimeEl.textContent = fmt(audio.duration);
+    }
+
+    // ===== Time update =====
+    var saveCounter = 0;
+    audio.addEventListener('timeupdate', function() {
+      if (!isDragging) {
+        var pct = audio.duration ? (audio.currentTime / audio.duration) * 100 : 0;
+        progressFill.style.width = pct + '%';
+        currentTimeEl.textContent = fmt(audio.currentTime);
+      }
+
+      // Auto-pause in practice mode
+      if (autoPauseAt > 0 && audio.currentTime >= autoPauseAt - 0.08) {
+        audio.pause();
+        autoPauseAt = -1;
+      }
+
+      if (!practiceMode) updateActiveSegment();
+
+      // Mark as listened when past 80%
+      if (audio.duration && audio.currentTime / audio.duration > 0.8) {
+        saveProgress('listened', true);
+      }
+
+      // localStorage: save every ~2s
+      if (++saveCounter % 8 === 0) {
+        try {
+          localStorage.setItem(storageKey, JSON.stringify({
+            time: audio.currentTime,
+            speed: audio.playbackRate
+          }));
+        } catch(e) {}
+      }
+    });
+
+    // ===== Seek =====
+    function seekTo(clientX) {
+      var rect = progressBar.getBoundingClientRect();
+      var pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+      if (audio.duration) {
+        audio.currentTime = pct * audio.duration;
+        progressFill.style.width = (pct * 100) + '%';
+        currentTimeEl.textContent = fmt(audio.currentTime);
+      }
+    }
+    progressBar.addEventListener('mousedown', function(e) { isDragging = true; seekTo(e.clientX); });
+    document.addEventListener('mousemove', function(e) { if (isDragging) seekTo(e.clientX); });
+    document.addEventListener('mouseup', function() { isDragging = false; });
+    progressBar.addEventListener('touchstart', function(e) { isDragging = true; seekTo(e.touches[0].clientX); }, { passive: true });
+    document.addEventListener('touchmove', function(e) { if (isDragging) seekTo(e.touches[0].clientX); });
+    document.addEventListener('touchend', function() { isDragging = false; });
+
+    // ===== Speed =====
+    speedControls.addEventListener('click', function(e) {
+      var btn = e.target.closest('.speed-btn');
+      if (!btn) return;
+      var speed = parseFloat(btn.getAttribute('data-speed'));
+      audio.playbackRate = speed;
+      var btns = speedControls.querySelectorAll('.speed-btn');
+      for (var k = 0; k < btns.length; k++) btns[k].classList.remove('active');
+      btn.classList.add('active');
+      try { localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed })); } catch(e) {}
+    });
+
+    // ===== Transcript sync =====
+    function updateActiveSegment() {
+      var t = audio.currentTime;
+      var newActive = -1;
+      for (var k = 0; k < segments.length; k++) {
+        if (t >= segments[k].start && t < segments[k].end) { newActive = k; break; }
+      }
+      if (newActive !== activeIndex) {
+        for (var k = 0; k < segmentEls.length; k++) segmentEls[k].classList.remove('active');
+        if (newActive >= 0 && segmentEls[newActive]) {
+          segmentEls[newActive].classList.add('active');
+          segmentEls[newActive].scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+        activeIndex = newActive;
+      }
+    }
+
+    for (var k = 0; k < segmentEls.length; k++) {
+      (function(idx) {
+        segmentEls[idx].addEventListener('click', function(e) {
+          if (e.target.closest('.vw')) return;
+          audio.currentTime = segments[idx].start;
+          tryPlay();
+        });
+      })(k);
+    }
+
+    // ===== Vocab tooltip =====
+    document.addEventListener('click', function(e) {
+      var vw = e.target.closest('.vw');
+      if (vw) {
+        e.stopPropagation();
+        var ja = vw.getAttribute('data-ja');
+        var reading = vw.getAttribute('data-reading');
+        var en = vw.getAttribute('data-en');
+        document.getElementById('tt-ja').textContent = ja;
+        document.getElementById('tt-reading').textContent = reading;
+        document.getElementById('tt-en').textContent = en;
+        var rect = vw.getBoundingClientRect();
+        tooltip.style.top = (rect.bottom + window.scrollY + 8) + 'px';
+        tooltip.style.left = (rect.left + rect.width / 2) + 'px';
+        tooltip.style.display = '';
+      } else {
+        tooltip.style.display = 'none';
+      }
+    });
+
+    // ===== Mode toggle =====
+    var modeBtns = document.querySelectorAll('.mode-btn');
+    for (var k = 0; k < modeBtns.length; k++) {
+      modeBtns[k].addEventListener('click', function() {
+        for (var j = 0; j < modeBtns.length; j++) modeBtns[j].classList.remove('active');
+        this.classList.add('active');
+        var mode = this.getAttribute('data-mode');
+        if (mode === 'practice') {
+          practiceMode = true;
+          transcript.style.display = 'none';
+          if (reviewSection) reviewSection.style.display = 'none';
+          pracView.classList.add('visible');
+          showPractice(practiceIdx);
+        } else {
+          practiceMode = false;
+          autoPauseAt = -1;
+          transcript.style.display = '';
+          if (reviewSection) reviewSection.style.display = '';
+          pracView.classList.remove('visible');
+        }
+      });
+    }
+
+    // ===== Practice mode =====
+    function showPractice(idx) {
+      if (idx < 0 || idx >= practicePairs.length) return;
+      practiceIdx = idx;
+      var pair = practicePairs[idx];
+      if (pair.ruby) {
+        pracText.innerHTML = pair.ruby;
+      } else {
+        pracText.textContent = pair.text;
+      }
+      pracCur.textContent = idx + 1;
+      var lang = document.documentElement.getAttribute('data-lang') || 'en';
+      pracExplanation.textContent = (lang === 'zh' && pair.explanationZh) ? pair.explanationZh : pair.explanation;
+      pracExplanation.classList.remove('open');
+      pracToggle.innerHTML = '<span class="i18n-en">Show explanation</span><span class="i18n-zh">显示解释</span> &darr;';
+      pracPrev.disabled = idx === 0;
+      pracNext.disabled = idx === practicePairs.length - 1;
+      if (idx === practicePairs.length - 1) saveProgress('practiced', true);
+
+    }
+
+    function playPractice(idx) {
+      if (idx < 0 || idx >= practicePairs.length) return;
+      showPractice(idx);
+      audio.currentTime = practicePairs[idx].start;
+      autoPauseAt = practicePairs[idx].end;
+      tryPlay();
+    }
+
+    pracReplay.addEventListener('click', function() { playPractice(practiceIdx); });
+    pracText.addEventListener('click', function() { playPractice(practiceIdx); });
+    pracPrev.addEventListener('click', function() { if (practiceIdx > 0) playPractice(practiceIdx - 1); });
+    pracNext.addEventListener('click', function() { if (practiceIdx < practicePairs.length - 1) playPractice(practiceIdx + 1); });
+    pracToggle.addEventListener('click', function() {
+      var open = pracExplanation.classList.toggle('open');
+      pracToggle.innerHTML = open
+        ? '<span class="i18n-en">Hide explanation</span><span class="i18n-zh">隐藏解释</span> &uarr;'
+        : '<span class="i18n-en">Show explanation</span><span class="i18n-zh">显示解释</span> &darr;';
+    });
+
+    // ===== Language switch =====
+    window.addEventListener('langchange', function() {
+      if (practiceMode) showPractice(practiceIdx);
+    });
+
+    // ===== Keyboard =====
+    document.addEventListener('keydown', function(e) {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      switch (e.code) {
+        case 'Space':
+          e.preventDefault();
+    
+          if (audio.paused) tryPlay(); else audio.pause();
+          break;
+        case 'ArrowLeft':
+          e.preventDefault();
+          audio.currentTime = Math.max(0, audio.currentTime - 5);
+          break;
+        case 'ArrowRight':
+          e.preventDefault();
+          audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 5);
+          break;
+        case 'ArrowUp':
+          e.preventDefault();
+          if (practiceMode) { if (practiceIdx > 0) { playPractice(practiceIdx - 1); } }
+          else if (activeIndex > 0) { audio.currentTime = segments[activeIndex - 1].start; tryPlay(); }
+          break;
+        case 'ArrowDown':
+          e.preventDefault();
+          if (practiceMode) { if (practiceIdx < practicePairs.length - 1) { playPractice(practiceIdx + 1); } }
+          else if (activeIndex < segments.length - 1) { audio.currentTime = segments[activeIndex + 1].start; tryPlay(); }
+          break;
+      }
+    });
+  });
+  </script>
+</Layout>

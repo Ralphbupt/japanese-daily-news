@@ -1,0 +1,158 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getAllEpisodes } from '../lib/episodes';
+
+const episodes = getAllEpisodes();
+const latest = episodes[0];
+
+function formatDate(d: string) {
+  return new Date(d + 'T00:00:00').toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+  });
+}
+
+const podcastJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  "name": "Japanese Daily News",
+  "description": "Learn Japanese through real news stories. Daily episodes with native audio, vocabulary breakdown, and grammar review.",
+  "url": "https://podcast.jpnotes.dev",
+  "image": "https://podcast.jpnotes.dev/cover.jpg",
+  "author": { "@type": "Person", "name": "Japanese Daily News" },
+  "inLanguage": ["ja", "en"],
+  "genre": "Education",
+  "webFeed": "https://podcast.jpnotes.dev/rss.xml"
+};
+---
+<Layout jsonLd={podcastJsonLd}>
+  <nav class="nav">
+    <a href="/" class="nav-logo">Japanese Daily News</a>
+    <div class="nav-links">
+      <a href="/about" class="nav-link"><span class="i18n-en">About</span><span class="i18n-zh">关于</span></a>
+      <a href="/rss.xml" class="nav-link nav-rss-icon">
+        <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+        RSS
+      </a>
+      <div class="lang-toggle" id="lang-toggle">
+        <button class="lang-btn active" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="zh">中</button>
+      </div>
+      <button class="theme-btn" id="theme-toggle" aria-label="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+      </button>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title-jp animate-in">日本語<br/>デイリーニュース</h1>
+      <div class="hero-divider animate-in delay-1">
+        <span class="hero-dot"></span>
+      </div>
+      <p class="hero-description animate-in delay-2">
+        <span class="i18n-en">Learn Japanese through real news stories.<br/>Daily episodes with native audio, sentence-by-sentence breakdown, and vocabulary review.</span>
+        <span class="i18n-zh">通过真实新闻学日语。<br/>每日更新，包含母语音频、逐句讲解和词汇复习。</span>
+      </p>
+      <div class="hero-actions animate-in delay-3">
+        {latest && (
+          <a href={`/ep/${latest.paddedNum}`} class="btn btn-primary">
+            &#9654; <span class="i18n-en">Latest Episode</span><span class="i18n-zh">最新一集</span>
+          </a>
+        )}
+        <a href="/rss.xml" class="btn btn-secondary"><span class="i18n-en">Subscribe RSS</span><span class="i18n-zh">订阅 RSS</span></a>
+      </div>
+      <div class="platform-links animate-in delay-4">
+        <span class="platform-label"><span class="i18n-en">Listen on</span><span class="i18n-zh">收听平台</span></span>
+        <a href="#apple" class="platform-link" id="link-apple" title="Apple Podcasts">
+          <svg viewBox="0 0 24 24"><path d="M5.34 0A5.328 5.328 0 000 5.34v13.32A5.328 5.328 0 005.34 24h13.32A5.328 5.328 0 0024 18.66V5.34A5.328 5.328 0 0018.66 0zm6.525 2.568c2.336 0 4.448.902 4.448 3.545 0 1.497-.89 2.76-2.55 2.76-.956 0-1.616-.637-1.616-1.381 0-.956.637-1.497 1.616-1.497.318 0 .478.053.637.106 0-1.168-.956-1.88-2.535-1.88-2.442 0-3.842 1.88-3.842 5.192 0 3.652 1.4 5.722 3.736 5.722 1.616 0 2.76-.796 3.545-2.124l.796.478c-.956 1.656-2.442 2.76-4.554 2.76-3.015 0-5.352-2.336-5.352-6.624 0-4.395 2.442-7.057 5.671-7.057zM12 13.32a1.34 1.34 0 110 2.68 1.34 1.34 0 010-2.68z"/></svg>
+        </a>
+        <a href="#spotify" class="platform-link" id="link-spotify" title="Spotify">
+          <svg viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+        </a>
+        <a href="#youtube" class="platform-link" id="link-youtube" title="YouTube">
+          <svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+        </a>
+        <a href="/rss.xml" class="platform-link" title="RSS Feed">
+          <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="episodes-section">
+    <h2 class="section-label animate-in delay-4"><span class="i18n-en">Episodes</span><span class="i18n-zh">节目列表</span></h2>
+    {episodes.map((ep, i) => (
+      <a href={`/ep/${ep.paddedNum}`} class={`episode-card animate-in delay-${Math.min(i + 4, 5)}`}>
+        <div class="ep-number">{ep.paddedNum}</div>
+        <div class="ep-info">
+          <h3 class="ep-title">
+            {ep.title}
+            {ep.level && <span class="ep-level">{ep.level}</span>}
+            <span class="ep-progress" id={`progress-${ep.id}`} style="display:none">
+              <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </span>
+          </h3>
+          <p class="ep-meta">{ep.source} · {formatDate(ep.date)}</p>
+        </div>
+        <div class="ep-right">
+          <span class="ep-arrow">&rarr;</span>
+        </div>
+      </a>
+    ))}
+  </section>
+
+  <section class="how-section">
+    <div class="how-inner">
+      <h2 class="section-label"><span class="i18n-en">How It Works</span><span class="i18n-zh">使用方法</span></h2>
+      <div class="how-grid">
+        <div class="how-step">
+          <div class="how-number">1</div>
+          <h3 class="how-title"><span class="i18n-en">Listen</span><span class="i18n-zh">听</span></h3>
+          <p class="how-desc"><span class="i18n-en">Hear the full news story read in natural Japanese at a comfortable pace</span><span class="i18n-zh">以舒适的语速听完整的日语新闻</span></p>
+        </div>
+        <div class="how-step">
+          <div class="how-number">2</div>
+          <h3 class="how-title"><span class="i18n-en">Learn</span><span class="i18n-zh">学</span></h3>
+          <p class="how-desc"><span class="i18n-en">Follow the sentence-by-sentence breakdown with English explanations and slow repeats</span><span class="i18n-zh">跟随逐句讲解，配有慢速重复和详细解释</span></p>
+        </div>
+        <div class="how-step">
+          <div class="how-number">3</div>
+          <h3 class="how-title"><span class="i18n-en">Review</span><span class="i18n-zh">复习</span></h3>
+          <p class="how-desc"><span class="i18n-en">Master key vocabulary and grammar with organized study notes</span><span class="i18n-zh">通过整理好的学习笔记掌握核心词汇和语法</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script is:inline>
+    try {
+      var progress = JSON.parse(localStorage.getItem('jdn-progress') || '{}');
+      Object.keys(progress).forEach(function(epId) {
+        var p = progress[epId];
+        var el = document.getElementById('progress-' + epId);
+        if (el && (p.listened || p.practiced)) {
+          el.style.display = '';
+          var label = [];
+          if (p.listened) label.push('Listened');
+          if (p.practiced) label.push('Practiced');
+          el.setAttribute('title', label.join(' + '));
+        }
+      });
+    } catch(e) {}
+  </script>
+
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="https://jpnotes.dev">jpnotes.dev</a>
+      <span class="footer-dot">&middot;</span>
+      <a href="#apple" id="footer-apple">Apple Podcasts</a>
+      <span class="footer-dot">&middot;</span>
+      <a href="#spotify" id="footer-spotify">Spotify</a>
+      <span class="footer-dot">&middot;</span>
+      <a href="#youtube" id="footer-youtube">YouTube</a>
+      <span class="footer-dot">&middot;</span>
+      <a href="/rss.xml">RSS</a>
+    </div>
+  </footer>
+</Layout>

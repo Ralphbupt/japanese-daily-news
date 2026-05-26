@@ -1,0 +1,98 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="About" description="About Japanese Daily News — a free podcast for Japanese learners.">
+  <nav class="nav">
+    <a href="/" class="nav-logo">Japanese Daily News</a>
+    <div class="nav-links">
+      <a href="/rss.xml" class="nav-link nav-rss-icon">
+        <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+        RSS
+      </a>
+      <div class="lang-toggle" id="lang-toggle">
+        <button class="lang-btn active" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="zh">中</button>
+      </div>
+      <button class="theme-btn" id="theme-toggle" aria-label="Toggle theme">
+        <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+      </button>
+    </div>
+  </nav>
+
+  <main class="about-body">
+    <a href="/" class="ep-back">&larr; <span class="i18n-en">Home</span><span class="i18n-zh">首页</span></a>
+
+    <h1 class="about-title">
+      <span class="i18n-en">About This Podcast</span>
+      <span class="i18n-zh">关于本播客</span>
+    </h1>
+
+    <section class="about-section">
+      <h2 class="about-heading"><span class="i18n-en">What is it?</span><span class="i18n-zh">这是什么？</span></h2>
+      <p class="i18n-en">Japanese Daily News is a free podcast for Japanese learners. Each episode covers a real Japanese news story with three layers: a full news reading at natural speed, a sentence-by-sentence breakdown with vocabulary and grammar explanations, and a slow repeat for shadowing practice.</p>
+      <p class="i18n-zh">Japanese Daily News 是一档免费的日语学习播客。每集选取一则真实日语新闻，分三层讲解：自然语速的完整新闻朗读、逐句拆解词汇与语法、以及慢速重复供跟读练习。</p>
+    </section>
+
+    <section class="about-section">
+      <h2 class="about-heading"><span class="i18n-en">Who is it for?</span><span class="i18n-zh">适合谁？</span></h2>
+      <p class="i18n-en">Intermediate learners (JLPT N4–N3) who want to bridge the gap between textbook Japanese and real-world content. You should know basic grammar and about 500 kanji. If you can read hiragana and katakana and have finished a beginner course, you're ready.</p>
+      <p class="i18n-zh">适合中级学习者（JLPT N4–N3），想要从教科书日语过渡到真实内容。你需要掌握基础语法和大约 500 个汉字。如果你已经学完假名和初级课程，就可以开始了。</p>
+    </section>
+
+    <section class="about-section">
+      <h2 class="about-heading"><span class="i18n-en">How to use it</span><span class="i18n-zh">怎么用？</span></h2>
+      <ol class="about-steps">
+        <li>
+          <strong class="i18n-en">First listen</strong><strong class="i18n-zh">第一遍</strong>
+          <span class="i18n-en"> — Play the episode and follow along with the transcript. Don't worry about understanding everything. Focus on the flow.</span>
+          <span class="i18n-zh"> — 播放音频，跟着文字看。不用担心听不懂，先感受整体节奏。</span>
+        </li>
+        <li>
+          <strong class="i18n-en">Breakdown</strong><strong class="i18n-zh">逐句讲解</strong>
+          <span class="i18n-en"> — Listen to the host explain each sentence. Click any Japanese word to see its meaning. Review the vocabulary and grammar sections below.</span>
+          <span class="i18n-zh"> — 听主持人讲解每一句。点击日语单词查看释义。查看下方的词汇和语法区域。</span>
+        </li>
+        <li>
+          <strong class="i18n-en">Practice mode</strong><strong class="i18n-zh">精听模式</strong>
+          <span class="i18n-en"> — Switch to Practice mode. Each key sentence is shown one at a time. Listen, then repeat out loud (shadowing). Click to replay as many times as you need.</span>
+          <span class="i18n-zh"> — 切换到精听模式。逐句显示关键句子。听完后大声跟读。可以反复点击重播。</span>
+        </li>
+        <li>
+          <strong class="i18n-en">Full replay</strong><strong class="i18n-zh">全文重听</strong>
+          <span class="i18n-en"> — Listen to the complete news one more time at the end. You'll understand much more the second time.</span>
+          <span class="i18n-zh"> — 最后再听一遍完整新闻。第二遍你会理解更多。</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="about-section">
+      <h2 class="about-heading"><span class="i18n-en">Features</span><span class="i18n-zh">功能特色</span></h2>
+      <ul class="about-features">
+        <li><span class="i18n-en">Furigana on all Japanese text</span><span class="i18n-zh">所有日语文字标注假名</span></li>
+        <li><span class="i18n-en">Click any word to see its meaning</span><span class="i18n-zh">点击任意单词查看释义</span></li>
+        <li><span class="i18n-en">Synced transcript — highlights as you listen</span><span class="i18n-zh">同步字幕 — 播放时自动高亮</span></li>
+        <li><span class="i18n-en">Adjustable playback speed (0.5x – 2x)</span><span class="i18n-zh">可调播放速度（0.5x – 2x）</span></li>
+        <li><span class="i18n-en">Practice mode for sentence-by-sentence shadowing</span><span class="i18n-zh">精听模式，逐句跟读</span></li>
+        <li><span class="i18n-en">Structured vocabulary and grammar notes</span><span class="i18n-zh">结构化的词汇和语法笔记</span></li>
+        <li><span class="i18n-en">Bilingual interface (English / 中文)</span><span class="i18n-zh">双语界面（English / 中文）</span></li>
+        <li><span class="i18n-en">Dark mode</span><span class="i18n-zh">暗色模式</span></li>
+      </ul>
+    </section>
+
+    <section class="about-section">
+      <h2 class="about-heading"><span class="i18n-en">Related</span><span class="i18n-zh">相关资源</span></h2>
+      <p>
+        <span class="i18n-en">This podcast is a companion to </span>
+        <span class="i18n-zh">本播客是 </span>
+        <a href="https://jpnotes.dev" class="about-link">jpnotes.dev</a>
+        <span class="i18n-en"> — free Japanese grammar notes covering JLPT N5 to N2. Grammar points in this podcast link directly to the corresponding lessons.</span>
+        <span class="i18n-zh"> 的配套项目 — 免费日语语法笔记，覆盖 JLPT N5 到 N2。播客中的语法点直接链接到对应课程。</span>
+      </p>
+    </section>
+
+    <div class="about-cta">
+      <a href="/" class="btn btn-primary">&#9654; <span class="i18n-en">Start Listening</span><span class="i18n-zh">开始收听</span></a>
+    </div>
+  </main>
+</Layout>

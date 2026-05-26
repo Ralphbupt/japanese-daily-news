@@ -1,48 +1,572 @@
 {
   "episode": 2,
-  "title": "食料品の消費税がゼロに？",
-  "date": "2026-05-26",
-  "source": "Nikkei / JapanToday",
+  "title": "東京の電車、24時間になる？",
+  "date": "2026-05-25",
+  "source": "NHK / Mainichi",
+  "level": "N5-N4",
   "characters": {
-    "host": {"voice": "en-US-AvaNeural", "role": "English host", "lang": "en", "rate": "-5%"},
-    "news": {"voice": "ja-JP-NanamiNeural", "role": "News reader", "lang": "ja", "rate": "-20%"},
-    "slow": {"voice": "ja-JP-NanamiNeural", "role": "Slow repeat", "lang": "ja", "rate": "-35%"}
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-40%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
   },
   "segments": [
-    {"speaker": "host", "text": "Welcome to Japanese Daily News. Today is May twenty-sixth, twenty twenty-six. Today's story: the Japanese government is planning to cut the sales tax on food to zero. Let's listen."},
-
-    {"speaker": "news", "text": "日本政府は、食料品の消費税をゼロパーセントにする方針を発表しました。"},
-    {"speaker": "news", "text": "今、日本の消費税は10パーセントです。食料品は8パーセントの軽減税率が適用されています。これをゼロにする計画です。"},
-    {"speaker": "news", "text": "高市早苗首相は、「物価が高くなって、国民の生活が苦しくなっている。食べ物の税金をなくすことで、家計を助けたい」と話しました。"},
-    {"speaker": "news", "text": "この減税は二年間の期間限定です。まず、国会で法案を提出して、早ければ二千二十六年度中に始まる予定です。"},
-    {"speaker": "news", "text": "例えば、今まで百八円だったおにぎりが、百円になります。千八十円だった食料品の買い物が、千円になります。"},
-    {"speaker": "news", "text": "ただし、お酒と外食は対象外です。スーパーやコンビニで買う食べ物と飲み物だけが対象になります。"},
-    {"speaker": "news", "text": "野党からは、「ゼロではなく、すべての消費税を下げるべきだ」という意見も出ています。"},
-
-    {"speaker": "host", "text": "All right. Let's break this down."},
-    {"speaker": "host", "text": "The opening line:"},
-    {"speaker": "slow", "text": "日本政府は、食料品の消費税をゼロパーセントにする方針を発表しました。"},
-    {"speaker": "host", "text": "The Japanese government announced a plan to make the sales tax on food zero percent. The key words: shokuryouhin means food products or groceries. Shouhizei is consumption tax, or sales tax. And houshin means policy or plan."},
-
-    {"speaker": "host", "text": "Then we get context about the current tax rate:"},
-    {"speaker": "slow", "text": "食料品は8パーセントの軽減税率が適用されています。"},
-    {"speaker": "host", "text": "Food currently has a reduced tax rate of eight percent. Keigen zeiritsu means reduced tax rate. Tekiyou sareteimasu means 'is being applied.' Right now Japan has a ten percent sales tax on most things, but food is already lower at eight percent. This plan would take it all the way to zero."},
-
-    {"speaker": "host", "text": "Prime Minister Takaichi explained why:"},
-    {"speaker": "slow", "text": "物価が高くなって、国民の生活が苦しくなっている。"},
-    {"speaker": "host", "text": "Prices have risen and people's lives have become difficult. Bukka means prices, as in the general price level. Kurushiku natteiru means 'has become tough.' This is a very natural way to describe financial hardship in Japanese."},
-
-    {"speaker": "host", "text": "The news gives a concrete example:"},
-    {"speaker": "slow", "text": "今まで百八円だったおにぎりが、百円になります。"},
-    {"speaker": "host", "text": "An onigiri that used to cost one hundred and eight yen will become one hundred yen. Ima made means 'until now.' Simple math, but it makes the policy feel real."},
-
-    {"speaker": "host", "text": "And an important exception:"},
-    {"speaker": "slow", "text": "ただし、お酒と外食は対象外です。"},
-    {"speaker": "host", "text": "However, alcohol and eating out are excluded. Tadashi means 'however,' and taishou gai means 'outside the scope' or 'excluded.' So if you buy food at a supermarket or convenience store, no tax. But restaurants and bars, still taxed."},
-
-    {"speaker": "host", "text": "Today's vocabulary. Shokuryouhin, food products. Shouhizei, consumption tax. Keigen zeiritsu, reduced tax rate. Bukka, price level. Kurushii, tough or difficult. Tadashi, however. Taishou gai, excluded."},
-
-    {"speaker": "host", "text": "That's today's Japanese Daily News. Transcript with furigana at jpnotes.dev. See you tomorrow."},
-    {"speaker": "news", "text": "また明日。"}
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. Today is May twenty-fifth. Today's story: Tokyo might run its trains twenty-four hours a day. Right now, trains stop around midnight. That could change. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "東京都は、電車を24時間走らせることを考えています。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>を24<ruby>時間走<rt>じかんそう</rt></ruby>らせることを<span class=\"vw\" data-ja=\"考えています\" data-reading=\"かんがえています\" data-en=\"is considering\"><ruby>考え<rt>かんがえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、東京の電車は夜12時ごろに止まります。朝5時まで電車はありません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>は<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>12<ruby>時<rt>とき</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (time)\">ごろに</span><span class=\"vw\" data-ja=\"止まります\" data-reading=\"とまります\" data-en=\"stops\"><ruby>止まり<rt>どまり</rt></ruby>ます</span>。<ruby>朝<rt>あさ</rt></ruby>5<ruby>時<rt>とき</rt></ruby>まで<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜遅くまで働く人や、外国からの旅行者にとって、これは不便です。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜遅く<rt>よるおそく</rt></ruby></span>まで<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>にん</rt></ruby>や、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"旅行者\" data-reading=\"りょこうしゃ\" data-en=\"traveler\"><ruby>旅行者<rt>りょこうしゃ</rt></ruby></span>にとって、これは<span class=\"vw\" data-ja=\"不便\" data-reading=\"ふべん\" data-en=\"inconvenient\"><ruby>不便<rt>ふべん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "まず、金曜日と土曜日の夜だけ、試してみる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"まず\" data-reading=\"まず\" data-en=\"first, to begin with\">まず</span>、<ruby>金曜日<rt>きんようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>だけ、<span class=\"vw\" data-ja=\"試してみる\" data-reading=\"ためしてみる\" data-en=\"to try doing\"><ruby>試し<rt>ためし</rt></ruby>てみる</span><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "使う路線は、山手線と中央線です。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"路線\" data-reading=\"ろせん\" data-en=\"train line, route\"><ruby>路線<rt>ろせん</rt></ruby></span>は、<ruby>山手線<rt>やまのてせん</rt></ruby>と<ruby>中央線<rt>ちゅうおうせん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、夜の間に線路の点検をしているので、安全の問題があります。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<ruby>間に<rt>まに</rt></ruby><ruby>線路<rt>せんろ</rt></ruby>の<ruby>点検<rt>てんけん</rt></ruby>をしているので、<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>の<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem, issue\"><ruby>問題<rt>もんだい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京都の担当者は、「安全が一番大切です。よく調べてから決めます」と言いました。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>担当者<rt>たんとうしゃ</rt></ruby>は、「<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>が<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番大切<rt>いちばんたいせつ</rt></ruby></span>です。よく<ruby>調べ<rt>しらべ</rt></ruby>てから<span class=\"vw\" data-ja=\"決めます\" data-reading=\"きめます\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>ます</span>」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Okay. This is a short and simple story. Let's go through it."
+    },
+    {
+      "speaker": "host",
+      "text": "The first sentence:"
+    },
+    {
+      "speaker": "slow",
+      "text": "東京都は、電車を24時間走らせることを考えています。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>を24<ruby>時間走<rt>じかんそう</rt></ruby>らせることを<span class=\"vw\" data-ja=\"考えています\" data-reading=\"かんがえています\" data-en=\"is considering\"><ruby>考え<rt>かんがえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Tokyo Metropolitan Government is thinking about running trains twenty-four hours a day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "電車",
+      "ruby": "<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Train. One of the first words you learn in Japanese. You'll use it every day in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "走らせる",
+      "ruby": "<span class=\"vw\" data-ja=\"走らせる\" data-reading=\"はしらせる\" data-en=\"to make run (causative)\"><ruby>走ら<rt>はしら</rt></ruby>せる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To make something run. This is the causative form — the base verb means 'to run,' and this form means to make something run."
+    },
+    {
+      "speaker": "vocab",
+      "text": "走らせる",
+      "ruby": "<span class=\"vw\" data-ja=\"走らせる\" data-reading=\"はしらせる\" data-en=\"to make run (causative)\"><ruby>走ら<rt>はしら</rt></ruby>せる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Don't worry about the grammar for now. Just remember: trains run, but people make trains run."
+    },
+    {
+      "speaker": "vocab",
+      "text": "考えています",
+      "ruby": "<span class=\"vw\" data-ja=\"考えています\" data-reading=\"かんがえています\" data-en=\"is considering\"><ruby>考え<rt>かんがえ</rt></ruby>ています</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Is thinking about, is considering. It means they are currently thinking about it — no decision yet."
+    },
+    {
+      "speaker": "host",
+      "text": "Next:"
+    },
+    {
+      "speaker": "slow",
+      "text": "今、東京の電車は夜12時ごろに止まります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>は<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>12<ruby>時<rt>とき</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (time)\">ごろに</span><span class=\"vw\" data-ja=\"止まります\" data-reading=\"とまります\" data-en=\"stops\"><ruby>止まり<rt>どまり</rt></ruby>ます</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, Tokyo's trains stop around midnight. 'Yoru' means night. Simple, right? You can also say 'yonaka' for the middle of the night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ごろ",
+      "ruby": "<span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (time)\">ごろ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Around, approximately — but only for time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "時ごろ",
+      "ruby": "<ruby>時<rt>とき</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (time)\">ごろ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Together it means around twelve o'clock. For amounts, you use 'gurai' instead."
+    },
+    {
+      "speaker": "vocab",
+      "text": "止まる",
+      "ruby": "<ruby>止ま<rt>とま</rt></ruby>る"
+    },
+    {
+      "speaker": "host",
+      "text": "to stop. This is one of the most useful verbs for daily life in Japan. For example:"
+    },
+    {
+      "speaker": "slow",
+      "text": "バスが止まりました。",
+      "ruby": "バスが<ruby>止まり<rt>どまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bus stopped."
+    },
+    {
+      "speaker": "host",
+      "text": "Then we learn who needs this:"
+    },
+    {
+      "speaker": "slow",
+      "text": "夜遅くまで働く人や、外国からの旅行者にとって、これは不便です。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜遅く<rt>よるおそく</rt></ruby></span>まで<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>にん</rt></ruby>や、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"旅行者\" data-reading=\"りょこうしゃ\" data-en=\"traveler\"><ruby>旅行者<rt>りょこうしゃ</rt></ruby></span>にとって、これは<span class=\"vw\" data-ja=\"不便\" data-reading=\"ふべん\" data-en=\"inconvenient\"><ruby>不便<rt>ふべん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "For people who work late at night and travelers from abroad, this is inconvenient."
+    },
+    {
+      "speaker": "vocab",
+      "text": "働く",
+      "ruby": "<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To work. A very common verb. You'll hear it in many news stories. 'Ryokousha' means traveler — 'ryokou' is travel and 'sha' means person. So it's a travel person — a traveler. 'Fuben' means inconvenient. The opposite is 'benri,' which means convenient. 'Fu' is a prefix that means 'not' — so not convenient."
+    },
+    {
+      "speaker": "host",
+      "text": "The plan:"
+    },
+    {
+      "speaker": "slow",
+      "text": "まず、金曜日と土曜日の夜だけ、試してみる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"まず\" data-reading=\"まず\" data-en=\"first, to begin with\">まず</span>、<ruby>金曜日<rt>きんようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>だけ、<span class=\"vw\" data-ja=\"試してみる\" data-reading=\"ためしてみる\" data-en=\"to try doing\"><ruby>試し<rt>ためし</rt></ruby>てみる</span><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "First, they plan to try it only on Friday and Saturday nights."
+    },
+    {
+      "speaker": "vocab",
+      "text": "まず",
+      "ruby": "<span class=\"vw\" data-ja=\"まず\" data-reading=\"まず\" data-en=\"first, to begin with\">まず</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "First, to begin with. A great word for explaining steps."
+    },
+    {
+      "speaker": "vocab",
+      "text": "てみる",
+      "ruby": "てみる"
+    },
+    {
+      "speaker": "host",
+      "text": "This ending means 'to try doing something.' When you add it to a verb, it means let's try it and see."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Plan, schedule. Very useful. For example:"
+    },
+    {
+      "speaker": "slow",
+      "text": "明日の予定は何ですか？",
+      "ruby": "<ruby>明日<rt>あした</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>は<ruby>何で<rt>なんで</rt></ruby>すか？"
+    },
+    {
+      "speaker": "host",
+      "text": "What are your plans for tomorrow?"
+    },
+    {
+      "speaker": "host",
+      "text": "Which lines will they use?"
+    },
+    {
+      "speaker": "slow",
+      "text": "使う路線は、山手線と中央線です。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"路線\" data-reading=\"ろせん\" data-en=\"train line, route\"><ruby>路線<rt>ろせん</rt></ruby></span>は、<ruby>山手線<rt>やまのてせん</rt></ruby>と<ruby>中央線<rt>ちゅうおうせん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The lines they'll use are the Yamanote Line and the Chuo Line. If you've been to Tokyo, you know these — the green circle line and the orange line. Train line, route."
+    },
+    {
+      "speaker": "host",
+      "text": "But there's a problem:"
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、夜の間に線路の点検をしているので、安全の問題があります。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<ruby>間に<rt>まに</rt></ruby><ruby>線路<rt>せんろ</rt></ruby>の<ruby>点検<rt>てんけん</rt></ruby>をしているので、<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>の<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem, issue\"><ruby>問題<rt>もんだい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "But they do track inspections during the night, so there are safety concerns."
+    },
+    {
+      "speaker": "vocab",
+      "text": "安全",
+      "ruby": "<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Safety. You'll see this word on signs everywhere in Japan. The opposite is 'kiken,' which means dangerous."
+    },
+    {
+      "speaker": "vocab",
+      "text": "問題",
+      "ruby": "<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem, issue\"><ruby>問題<rt>もんだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Problem, issue. Another word you'll hear constantly."
+    },
+    {
+      "speaker": "host",
+      "text": "And the official's comment:"
+    },
+    {
+      "speaker": "slow",
+      "text": "安全が一番大切です。よく調べてから決めます。",
+      "ruby": "<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>が<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番大切<rt>いちばんたいせつ</rt></ruby></span>です。よく<ruby>調べ<rt>しらべ</rt></ruby>てから<span class=\"vw\" data-ja=\"決めます\" data-reading=\"きめます\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>ます</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Safety is the most important thing. We will investigate carefully before deciding. 'Ichiban' means number one, the most. 'Ichiban taisetsu' means the most important. 'Ichiban suki' means favorite. Very useful pattern."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大切",
+      "ruby": "<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Important, precious. A warm word — you use it for things you truly care about. The next key word means 'to decide.' For example:"
+    },
+    {
+      "speaker": "slow",
+      "text": "まだ決めていません。",
+      "ruby": "まだ<ruby>決め<rt>きめ</rt></ruby>ていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "I haven't decided yet. A phrase you'll use a lot."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "東京都は、電車を24時間走らせることを考えています。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>を24<ruby>時間走<rt>じかんそう</rt></ruby>らせることを<span class=\"vw\" data-ja=\"考えています\" data-reading=\"かんがえています\" data-en=\"is considering\"><ruby>考え<rt>かんがえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、東京の電車は夜12時ごろに止まります。朝5時まで電車はありません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>は<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>12<ruby>時<rt>とき</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (time)\">ごろに</span><span class=\"vw\" data-ja=\"止まります\" data-reading=\"とまります\" data-en=\"stops\"><ruby>止まり<rt>どまり</rt></ruby>ます</span>。<ruby>朝<rt>あさ</rt></ruby>5<ruby>時<rt>とき</rt></ruby>まで<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜遅くまで働く人や、外国からの旅行者にとって、これは不便です。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜遅く<rt>よるおそく</rt></ruby></span>まで<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>にん</rt></ruby>や、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"旅行者\" data-reading=\"りょこうしゃ\" data-en=\"traveler\"><ruby>旅行者<rt>りょこうしゃ</rt></ruby></span>にとって、これは<span class=\"vw\" data-ja=\"不便\" data-reading=\"ふべん\" data-en=\"inconvenient\"><ruby>不便<rt>ふべん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "まず、金曜日と土曜日の夜だけ、試してみる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"まず\" data-reading=\"まず\" data-en=\"first, to begin with\">まず</span>、<ruby>金曜日<rt>きんようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>だけ、<span class=\"vw\" data-ja=\"試してみる\" data-reading=\"ためしてみる\" data-en=\"to try doing\"><ruby>試し<rt>ためし</rt></ruby>てみる</span><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "使う路線は、山手線と中央線です。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"路線\" data-reading=\"ろせん\" data-en=\"train line, route\"><ruby>路線<rt>ろせん</rt></ruby></span>は、<ruby>山手線<rt>やまのてせん</rt></ruby>と<ruby>中央線<rt>ちゅうおうせん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、夜の間に線路の点検をしているので、安全の問題があります。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<ruby>間に<rt>まに</rt></ruby><ruby>線路<rt>せんろ</rt></ruby>の<ruby>点検<rt>てんけん</rt></ruby>をしているので、<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>の<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem, issue\"><ruby>問題<rt>もんだい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京都の担当者は、「安全が一番大切です。よく調べてから決めます」と言いました。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>担当者<rt>たんとうしゃ</rt></ruby>は、「<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>が<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番大切<rt>いちばんたいせつ</rt></ruby></span>です。よく<ruby>調べ<rt>しらべ</rt></ruby>てから<span class=\"vw\" data-ja=\"決めます\" data-reading=\"きめます\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>ます</span>」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、東京の電車は何時に止まりますか？",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>は<ruby>何時<rt>なんじ</rt></ruby>に<span class=\"vw\" data-ja=\"止まります\" data-reading=\"とまります\" data-en=\"stops\"><ruby>止まり<rt>どまり</rt></ruby>ますか</span>？"
+    },
+    {
+      "speaker": "host",
+      "text": "What time do Tokyo trains stop? Around midnight."
+    },
+    {
+      "speaker": "slow",
+      "text": "まず、何曜日に試しますか？",
+      "ruby": "<span class=\"vw\" data-ja=\"まず\" data-reading=\"まず\" data-en=\"first, to begin with\">まず</span>、<ruby>何曜日<rt>なんようび</rt></ruby>に<ruby>試し<rt>ためし</rt></ruby>ますか？"
+    },
+    {
+      "speaker": "host",
+      "text": "What days will they try first? Friday and Saturday."
+    },
+    {
+      "speaker": "slow",
+      "text": "何が一番大切ですか？",
+      "ruby": "<ruby>何<rt>なに</rt></ruby>が<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番大切<rt>いちばんたいせつ</rt></ruby></span>ですか？"
+    },
+    {
+      "speaker": "host",
+      "text": "What is the most important thing? Safety. Now let's do a vocabulary recap. 'Densha' means train. 'Tomarimasu' means stops. 'Hataraku' means to work. 'Fuben' means inconvenient. 'Yotei' means plan or schedule. 'Anzen' means safety. 'Mondai' means problem. 'Ichiban' means number one, the most. 'Taisetsu' means important. And 'kimemasu' means to decide."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "電車",
+      "reading": "でんしゃ",
+      "en": "train",
+      "zh": "电车"
+    },
+    {
+      "ja": "走らせる",
+      "reading": "はしらせる",
+      "en": "to make run (causative)",
+      "zh": "使……运行"
+    },
+    {
+      "ja": "考えています",
+      "reading": "かんがえています",
+      "en": "is considering",
+      "zh": "正在考虑"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "ごろ",
+      "reading": "ごろ",
+      "en": "around (time)",
+      "zh": "大约（时间）"
+    },
+    {
+      "ja": "止まります",
+      "reading": "とまります",
+      "en": "stops",
+      "zh": "停止"
+    },
+    {
+      "ja": "働く",
+      "reading": "はたらく",
+      "en": "to work",
+      "zh": "工作"
+    },
+    {
+      "ja": "旅行者",
+      "reading": "りょこうしゃ",
+      "en": "traveler",
+      "zh": "旅行者"
+    },
+    {
+      "ja": "不便",
+      "reading": "ふべん",
+      "en": "inconvenient",
+      "zh": "不方便"
+    },
+    {
+      "ja": "まず",
+      "reading": "まず",
+      "en": "first, to begin with",
+      "zh": "首先"
+    },
+    {
+      "ja": "試してみる",
+      "reading": "ためしてみる",
+      "en": "to try doing",
+      "zh": "试试看"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "计划、预定"
+    },
+    {
+      "ja": "路線",
+      "reading": "ろせん",
+      "en": "train line, route",
+      "zh": "线路"
+    },
+    {
+      "ja": "安全",
+      "reading": "あんぜん",
+      "en": "safety",
+      "zh": "安全"
+    },
+    {
+      "ja": "問題",
+      "reading": "もんだい",
+      "en": "problem, issue",
+      "zh": "问题"
+    },
+    {
+      "ja": "一番",
+      "reading": "いちばん",
+      "en": "number one, the most",
+      "zh": "最、第一"
+    },
+    {
+      "ja": "大切",
+      "reading": "たいせつ",
+      "en": "important, precious",
+      "zh": "重要的"
+    },
+    {
+      "ja": "決めます",
+      "reading": "きめます",
+      "en": "to decide",
+      "zh": "决定"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことを考えています",
+      "meaning": "is thinking about doing ~",
+      "meaningZh": "正在考虑做……",
+      "formation": "verb (dictionary form) + ことを + 考えています",
+      "example": "電車を24時間走らせることを考えています。",
+      "translation": "They are thinking about running trains 24 hours.",
+      "note": "こと turns the verb phrase into a noun (nominalization). This is a basic and very common pattern.",
+      "noteZh": "こと将动词短语名词化。这是一个基础且非常常用的句型。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜にとって",
+      "meaning": "for ~, from the perspective of ~",
+      "meaningZh": "对……来说",
+      "formation": "noun + にとって",
+      "example": "旅行者にとって、これは不便です。",
+      "translation": "For travelers, this is inconvenient.",
+      "note": "Used to express how something is perceived from someone's viewpoint. Very useful for opinions.",
+      "noteZh": "用于表达从某人的角度来看。非常适合表达意见和看法。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てみる",
+      "meaning": "to try doing ~",
+      "meaningZh": "试着做……看看",
+      "formation": "verb て-form + みる",
+      "example": "試してみる予定です。",
+      "translation": "They plan to try it.",
+      "note": "One of the most useful patterns in Japanese. 食べてみる (try eating), 行ってみる (try going). Implies doing something for the first time to see what happens.",
+      "noteZh": "日语中最实用的句型之一。食べてみる（试吃）、行ってみる（试着去）。表示第一次做某事看看效果。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てから",
+      "meaning": "after doing ~",
+      "meaningZh": "做完……之后",
+      "formation": "verb て-form + から",
+      "example": "よく調べてから決めます。",
+      "translation": "We will decide after investigating carefully.",
+      "note": "Shows sequence: first A, then B. Different from 〜あとで which is more casual. 〜てから emphasizes that A must be completed before B starts.",
+      "noteZh": "表示顺序：先做A，再做B。比〜あとで更强调A必须完成后才开始B。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "东京都正在考虑让电车24小时运行。\n「電車」是电车，日本生活中最常用的词之一。\n「走らせる」是使役形，让电车跑起来。\n「考えています」表示正在考虑中，还没有做出决定。",
+    "现在东京的电车在半夜12点左右停运。\n「ごろ」只用于时间，表示「大约」。\n「止まります」来自「止まる」，停止的意思。\n例句：バスが止まりました（公交车停了）。",
+    "公交车停了。\n这是用「止まりました」的例句。",
+    "对于工作到深夜的人和外国旅行者来说，这很不方便。\n「働く」是工作。\n「旅行者」= 旅行 + 者（人）= 旅行者。\n「不便」= 不 + 便利 = 不方便。",
+    "首先计划只在周五和周六晚上试运行。\n「まず」= 首先，说明步骤时很好用。\n「試してみる」= 试试看，て形 + みる表示尝试做某事。\n例句：明日の予定は何ですか（明天有什么安排）？",
+    "明天有什么安排？\n这是用「予定」的常用例句。",
+    "使用的线路是山手线和中央线。\n「路線」= 线路。如果你去过东京，肯定认识这两条线——绿色环线和橙色中央线。",
+    "但是夜间要进行轨道检查，所以有安全问题。\n「安全」的反义词是「危険」（危险）。\n「問題」= 问题，非常高频的词。",
+    "安全是最重要的。\n会在充分调查之后再做决定。\n「一番」= 最，第一。一番大切 = 最重要。一番好き = 最喜欢。\n「大切」是一个温暖的词，用于真正在意的事物。\n例句：まだ決めていません（还没决定）。",
+    "还没决定。\n这是用「決めます」的常用表达。",
+    "今、東京の電車は何時に止まりますか？",
+    "まず、何曜日に試しますか？",
+    "何が一番大切ですか？"
   ]
 }
