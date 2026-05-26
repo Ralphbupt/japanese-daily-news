@@ -415,9 +415,16 @@ const segmentsForClient = segs.map(s => ({
 
     audio.addEventListener('loadedmetadata', function() {
       totalTimeEl.textContent = fmt(audio.duration);
+      if (audio.currentTime > audio.duration) {
+        audio.currentTime = 0;
+        currentTimeEl.textContent = fmt(0);
+      }
     });
     if (audio.readyState >= 1) {
       totalTimeEl.textContent = fmt(audio.duration);
+      if (audio.currentTime > audio.duration) {
+        audio.currentTime = 0;
+      }
     }
 
     // ===== Time update =====
