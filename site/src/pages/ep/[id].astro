@@ -188,6 +188,10 @@ const segmentsForClient = segs.map(s => ({
     <!-- Vocab & Grammar review -->
     {(episode.vocabulary.length > 0 || episode.grammar.length > 0) && (
       <section class="review-section" id="review-section">
+        <button class="review-toggle" id="review-toggle">
+          <span class="i18n-en">Vocabulary &amp; Grammar</span><span class="i18n-zh">词汇与语法</span> <span class="review-arrow">&darr;</span>
+        </button>
+        <div class="review-content" id="review-content" style="display:none">
         {episode.vocabulary.length > 0 && (
           <>
             <h2 class="review-heading"><span class="i18n-en">Vocabulary</span><span class="i18n-zh">词汇</span></h2>
@@ -229,6 +233,7 @@ const segmentsForClient = segs.map(s => ({
             </a>
           </>
         )}
+        </div>
       </section>
     )}
 
@@ -591,6 +596,17 @@ const segmentsForClient = segs.map(s => ({
     window.addEventListener('langchange', function() {
       if (practiceMode) showPractice(practiceIdx);
     });
+
+    // ===== Review toggle =====
+    var reviewToggle = document.getElementById('review-toggle');
+    var reviewContent = document.getElementById('review-content');
+    if (reviewToggle && reviewContent) {
+      reviewToggle.addEventListener('click', function() {
+        var open = reviewContent.style.display !== 'none';
+        reviewContent.style.display = open ? 'none' : '';
+        reviewToggle.classList.toggle('open', !open);
+      });
+    }
 
     // ===== Keyboard =====
     document.addEventListener('keydown', function(e) {
