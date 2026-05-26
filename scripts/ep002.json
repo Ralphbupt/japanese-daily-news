@@ -1,0 +1,48 @@
+{
+  "episode": 2,
+  "title": "食料品の消費税がゼロに？",
+  "date": "2026-05-26",
+  "source": "Nikkei / JapanToday",
+  "characters": {
+    "host": {"voice": "en-US-AvaNeural", "role": "English host", "lang": "en", "rate": "-5%"},
+    "news": {"voice": "ja-JP-NanamiNeural", "role": "News reader", "lang": "ja", "rate": "-20%"},
+    "slow": {"voice": "ja-JP-NanamiNeural", "role": "Slow repeat", "lang": "ja", "rate": "-35%"}
+  },
+  "segments": [
+    {"speaker": "host", "text": "Welcome to Japanese Daily News. Today is May twenty-sixth, twenty twenty-six. Today's story: the Japanese government is planning to cut the sales tax on food to zero. Let's listen."},
+
+    {"speaker": "news", "text": "日本政府は、食料品の消費税をゼロパーセントにする方針を発表しました。"},
+    {"speaker": "news", "text": "今、日本の消費税は10パーセントです。食料品は8パーセントの軽減税率が適用されています。これをゼロにする計画です。"},
+    {"speaker": "news", "text": "高市早苗首相は、「物価が高くなって、国民の生活が苦しくなっている。食べ物の税金をなくすことで、家計を助けたい」と話しました。"},
+    {"speaker": "news", "text": "この減税は二年間の期間限定です。まず、国会で法案を提出して、早ければ二千二十六年度中に始まる予定です。"},
+    {"speaker": "news", "text": "例えば、今まで百八円だったおにぎりが、百円になります。千八十円だった食料品の買い物が、千円になります。"},
+    {"speaker": "news", "text": "ただし、お酒と外食は対象外です。スーパーやコンビニで買う食べ物と飲み物だけが対象になります。"},
+    {"speaker": "news", "text": "野党からは、「ゼロではなく、すべての消費税を下げるべきだ」という意見も出ています。"},
+
+    {"speaker": "host", "text": "All right. Let's break this down."},
+    {"speaker": "host", "text": "The opening line:"},
+    {"speaker": "slow", "text": "日本政府は、食料品の消費税をゼロパーセントにする方針を発表しました。"},
+    {"speaker": "host", "text": "The Japanese government announced a plan to make the sales tax on food zero percent. The key words: shokuryouhin means food products or groceries. Shouhizei is consumption tax, or sales tax. And houshin means policy or plan."},
+
+    {"speaker": "host", "text": "Then we get context about the current tax rate:"},
+    {"speaker": "slow", "text": "食料品は8パーセントの軽減税率が適用されています。"},
+    {"speaker": "host", "text": "Food currently has a reduced tax rate of eight percent. Keigen zeiritsu means reduced tax rate. Tekiyou sareteimasu means 'is being applied.' Right now Japan has a ten percent sales tax on most things, but food is already lower at eight percent. This plan would take it all the way to zero."},
+
+    {"speaker": "host", "text": "Prime Minister Takaichi explained why:"},
+    {"speaker": "slow", "text": "物価が高くなって、国民の生活が苦しくなっている。"},
+    {"speaker": "host", "text": "Prices have risen and people's lives have become difficult. Bukka means prices, as in the general price level. Kurushiku natteiru means 'has become tough.' This is a very natural way to describe financial hardship in Japanese."},
+
+    {"speaker": "host", "text": "The news gives a concrete example:"},
+    {"speaker": "slow", "text": "今まで百八円だったおにぎりが、百円になります。"},
+    {"speaker": "host", "text": "An onigiri that used to cost one hundred and eight yen will become one hundred yen. Ima made means 'until now.' Simple math, but it makes the policy feel real."},
+
+    {"speaker": "host", "text": "And an important exception:"},
+    {"speaker": "slow", "text": "ただし、お酒と外食は対象外です。"},
+    {"speaker": "host", "text": "However, alcohol and eating out are excluded. Tadashi means 'however,' and taishou gai means 'outside the scope' or 'excluded.' So if you buy food at a supermarket or convenience store, no tax. But restaurants and bars, still taxed."},
+
+    {"speaker": "host", "text": "Today's vocabulary. Shokuryouhin, food products. Shouhizei, consumption tax. Keigen zeiritsu, reduced tax rate. Bukka, price level. Kurushii, tough or difficult. Tadashi, however. Taishou gai, excluded."},
+
+    {"speaker": "host", "text": "That's today's Japanese Daily News. Transcript with furigana at jpnotes.dev. See you tomorrow."},
+    {"speaker": "news", "text": "また明日。"}
+  ]
+}

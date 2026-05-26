@@ -1,0 +1,51 @@
+{
+  "episode": 1,
+  "title": "コンビニの父、鈴木敏文さん死去",
+  "date": "2026-05-25",
+  "source": "NHK / Nikkei",
+  "characters": {
+    "host": {"voice": "en-US-AvaNeural", "role": "English host", "lang": "en", "rate": "-5%"},
+    "news": {"voice": "ja-JP-NanamiNeural", "role": "News reader", "lang": "ja", "rate": "-20%"},
+    "slow": {"voice": "ja-JP-NanamiNeural", "role": "Slow repeat", "lang": "ja", "rate": "-35%"}
+  },
+  "segments": [
+    {"speaker": "host", "text": "Welcome to Japanese Daily News. I'm your host. Today is May twenty-fifth, twenty twenty-six. In today's episode, we're covering one story: the man who brought convenience stores to Japan has passed away. Let's listen to the news in Japanese first, then we'll break it down together."},
+
+    {"speaker": "news", "text": "セブンアンドアイホールディングスの名誉顧問、鈴木敏文さんが、五月十八日に亡くなりました。九十三歳でした。死因は心不全です。"},
+    {"speaker": "news", "text": "鈴木さんは、千九百七十四年に、東京の豊洲に、コンビニエンスストアの日本第一号店を出しました。セブンイレブンです。"},
+    {"speaker": "news", "text": "それまで、日本にコンビニはありませんでした。鈴木さんがアメリカのセブンイレブンを日本に持ってきたのです。"},
+    {"speaker": "news", "text": "今、日本にはコンビニが約五万六千店あります。セブンイレブン、ローソン、ファミリーマート。日本の生活に欠かせないものになりました。"},
+    {"speaker": "news", "text": "鈴木さんは「お客様の立場で考えなさい」といつも言っていました。おにぎり、お弁当、ATM、宅配便の受け取り。コンビニのサービスは、鈴木さんのこの考え方から生まれました。"},
+    {"speaker": "news", "text": "二千十六年に会長を退任し、名誉顧問になりました。日本のコンビニ産業の父と呼ばれています。"},
+
+    {"speaker": "host", "text": "Okay. Let's go through this story piece by piece."},
+    {"speaker": "host", "text": "The first sentence:"},
+    {"speaker": "slow", "text": "セブンアンドアイホールディングスの名誉顧問、鈴木敏文さんが、五月十八日に亡くなりました。"},
+    {"speaker": "host", "text": "Suzuki Toshifumi, honorary advisor of Seven and I Holdings, passed away on May eighteenth. The key word here is nakunarimashita, which means passed away. It's the polite way to say someone died. You'll also hear shikyo, but nakunarimashita is more common in news."},
+
+    {"speaker": "host", "text": "Next:"},
+    {"speaker": "slow", "text": "千九百七十四年に、東京の豊洲に、コンビニエンスストアの日本第一号店を出しました。"},
+    {"speaker": "host", "text": "In nineteen seventy-four, he opened the first convenience store in Japan, in Toyosu, Tokyo. Dai ichigo ten means store number one, the very first store. And dashimashita here means he opened it or put it out."},
+
+    {"speaker": "host", "text": "Then we hear why this was such a big deal:"},
+    {"speaker": "slow", "text": "それまで、日本にコンビニはありませんでした。"},
+    {"speaker": "host", "text": "Until then, there were no convenience stores in Japan. Sore made means 'until then.' A very useful time expression."},
+
+    {"speaker": "host", "text": "The news then talks about how big convenience stores are today:"},
+    {"speaker": "slow", "text": "今、日本にはコンビニが約五万六千店あります。"},
+    {"speaker": "host", "text": "Today, there are approximately fifty-six thousand convenience stores in Japan. Yaku means approximately. Goman rokusen is fifty-six thousand."},
+
+    {"speaker": "host", "text": "And then Suzuki's famous philosophy:"},
+    {"speaker": "slow", "text": "お客様の立場で考えなさい。"},
+    {"speaker": "host", "text": "Think from the customer's perspective. Okyakusama no tachiba de kangaenasai. Tachiba means standpoint or perspective. This is the principle behind everything convenience stores offer in Japan, from onigiri to ATMs to package pickup."},
+
+    {"speaker": "host", "text": "And the last line:"},
+    {"speaker": "slow", "text": "日本のコンビニ産業の父と呼ばれています。"},
+    {"speaker": "host", "text": "He is called the father of Japan's convenience store industry. Yobareteimasu is the passive form of yobu, to call. So literally, he is being called."},
+
+    {"speaker": "host", "text": "Let's do a quick vocabulary recap. Nakunarimashita, passed away. Meiyo komon, honorary advisor. Dai ichigo ten, the very first store. Sore made, until then. Yaku, approximately. Tachiba, standpoint or perspective. Sangyou, industry."},
+
+    {"speaker": "host", "text": "That's today's Japanese Daily News. The full transcript with furigana is on our website, jpnotes.dev. See you tomorrow."},
+    {"speaker": "news", "text": "また明日。"}
+  ]
+}
