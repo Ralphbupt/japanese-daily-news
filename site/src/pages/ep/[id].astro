@@ -493,7 +493,11 @@ const segmentsForClient = segs.map(s => ({
         for (var k = 0; k < segmentEls.length; k++) segmentEls[k].classList.remove('active');
         if (newActive >= 0 && segmentEls[newActive]) {
           segmentEls[newActive].classList.add('active');
-          segmentEls[newActive].scrollIntoView({ behavior: 'smooth', block: 'center' });
+          try {
+            segmentEls[newActive].scrollIntoView({ behavior: 'smooth', block: 'center' });
+          } catch(e) {
+            segmentEls[newActive].scrollIntoView(true);
+          }
         }
         activeIndex = newActive;
       }
