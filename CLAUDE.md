@@ -37,9 +37,9 @@ Requires: `ffmpeg`, `ffprobe` on PATH. Python deps in `.venv/` (edge-tts, pykaka
 ## Script Format (`scripts/epNNN.json`)
 
 Four speaker roles:
-- `host` — English explanations only, ZERO Japanese characters (en-US-AvaNeural)
-- `news` — Japanese news reading at moderate speed (ja-JP-NanamiNeural, -20%~-25%)
-- `slow` — Slow Japanese repeat of key sentences (ja-JP-NanamiNeural, -35%~-40%)
+- `host` (Maya) — English explanations only, ZERO Japanese characters, ZERO romaji (en-US-AvaNeural)
+- `news` — Japanese news reading at moderate speed (ja-JP-NanamiNeural, -25%)
+- `slow` — Slow Japanese repeat of key sentences (ja-JP-NanamiNeural, -30%)
 - `vocab` — Individual Japanese vocabulary words (ja-JP-NanamiNeural, -30%)
 
 Episode structure:
@@ -52,7 +52,11 @@ Episode structure:
 7. Host closing + `news` "また明日。"
 
 Critical rules:
-- `host` segments must contain ZERO Japanese characters — all Japanese goes in `vocab`/`slow`/`news` segments
+- `host` segments must contain ZERO Japanese characters AND ZERO romaji — no 'Takusan', 'Nedan', etc.
+- All Japanese pronunciation goes in `vocab`/`slow`/`news` segments, read by Japanese TTS
+- Host refers to meanings only: "It means price" NOT "'Nedan' means price"
+- No comparing polite vs rude forms (don't mention offensive alternatives)
+- Host name is Maya: "Welcome to Japanese Daily News. I'm Maya."
 - Each JSON also includes `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh`, and `level` fields
 
 ## Site Architecture (`site/`)
@@ -65,7 +69,11 @@ Astro 5 static site. Key files:
 - `src/pages/sitemap.xml.ts` — sitemap
 - `src/layouts/Layout.astro` — base layout with GA4, theme/lang toggle
 
-Features: synced transcript, furigana, vocab click tooltips, practice mode (精听), playback speed control, dark mode, EN/中文 toggle, localStorage progress tracking, keyboard shortcuts.
+Features: synced transcript, furigana, vocab click tooltips, practice mode (精听), playback speed control, dark mode, EN/中文 toggle, font size toggle (S/M/L), localStorage progress tracking, collapsible vocab/grammar section, keyboard shortcuts.
+
+## Versioning
+
+`PAGE_VERSION` in `Layout.astro` head script. When episode content changes, bump this version (format: YYYYMMDDNN). On mismatch, all `jdn-ep*` localStorage entries are cleared automatically.
 
 ## Tools
 
@@ -88,3 +96,7 @@ Features: synced transcript, furigana, vocab click tooltips, practice mode (精�
 - Difficulty levels: `N5-N4` (beginner) or `N4-N3` (intermediate) in `level` field
 - Scripts self-contained — each JSON includes all voice/rate config
 - Companion site: `jpnotes.dev` (grammar notes, cross-linked from grammar cards)
+- Fonts: Fraunces (display), Shippori Mincho (JP), Outfit (body)
+- Light mode: warm yellow paper (#F3EDDA); Dark mode: #1A1A1E
+- Apple Podcasts: submitted (podcasters.apple.com)
+- RSS: `https://podcast.jpnotes.dev/rss.xml`
