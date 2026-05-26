@@ -1,5 +1,13 @@
-audio/*.mp3
-audio/*.wav
 __pycache__/
 *.pyc
 .DS_Store
+.venv/
+node_modules/
+.astro/
+site/node_modules/
+site/dist/
+site/.astro/
+site/public/audio/
+site/public/subtitles/
+scripts/node_modules/
+scripts/.astro/

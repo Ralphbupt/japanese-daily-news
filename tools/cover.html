@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 3000px;
+    height: 3000px;
+    overflow: hidden;
+    background: #F0ECE2;
+    font-family: 'Noto Serif JP', serif;
+    position: relative;
+  }
+
+  /* Subtle paper grain texture */
+  body::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      repeating-conic-gradient(#00000008 0% 25%, transparent 0% 50%) 0 0 / 4px 4px;
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  /* Vermillion left accent bar */
+  .accent-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    background: #C23B22;
+    z-index: 2;
+  }
+
+  /* Thin horizontal rules */
+  .rule-top {
+    position: absolute;
+    top: 280px;
+    left: 240px;
+    right: 240px;
+    height: 2px;
+    background: #C23B22;
+    z-index: 2;
+  }
+
+  .rule-bottom {
+    position: absolute;
+    bottom: 280px;
+    left: 240px;
+    right: 240px;
+    height: 2px;
+    background: #C23B22;
+    z-index: 2;
+  }
+
+  .rule-thin-top {
+    position: absolute;
+    top: 290px;
+    left: 240px;
+    right: 240px;
+    height: 1px;
+    background: #C23B2244;
+    z-index: 2;
+  }
+
+  .rule-thin-bottom {
+    position: absolute;
+    bottom: 290px;
+    left: 240px;
+    right: 240px;
+    height: 1px;
+    background: #C23B2244;
+    z-index: 2;
+  }
+
+  /* Main content */
+  .content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    padding-left: 120px;
+  }
+
+  /* Japanese title — vertical-ish stacked */
+  .title-jp {
+    font-size: 320px;
+    font-weight: 900;
+    color: #1C1C1E;
+    letter-spacing: 0.12em;
+    line-height: 1.2;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .title-jp .line1 {
+    display: block;
+    font-size: 280px;
+    letter-spacing: 0.18em;
+  }
+
+  .title-jp .line2 {
+    display: block;
+    font-size: 200px;
+    letter-spacing: 0.22em;
+    color: #C23B22;
+  }
+
+  /* Divider with hanko */
+  .divider {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    margin: 60px 0 50px;
+  }
+
+  .divider-line {
+    width: 200px;
+    height: 2px;
+    background: #BDB5A6;
+  }
+
+  /* Hanko seal */
+  .hanko {
+    width: 140px;
+    height: 140px;
+    border: 6px solid #C23B22;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .hanko::before {
+    content: '聞';
+    font-size: 80px;
+    font-weight: 900;
+    color: #C23B22;
+    line-height: 1;
+  }
+
+  /* English subtitle */
+  .subtitle {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 64px;
+    font-weight: 400;
+    color: #6B6560;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  /* Small tagline */
+  .tagline {
+    font-size: 42px;
+    color: #9B9590;
+    letter-spacing: 0.15em;
+    margin-top: 30px;
+    font-weight: 400;
+  }
+
+  /* Corner marks */
+  .corner {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    z-index: 4;
+  }
+
+  .corner-tl { top: 200px; right: 200px; border-top: 3px solid #BDB5A6; border-right: 3px solid #BDB5A6; }
+  .corner-br { bottom: 200px; left: 240px; border-bottom: 3px solid #BDB5A6; border-left: 3px solid #BDB5A6; }
+</style>
+</head>
+<body>
+  <div class="accent-bar"></div>
+  <div class="rule-top"></div>
+  <div class="rule-thin-top"></div>
+  <div class="rule-bottom"></div>
+  <div class="rule-thin-bottom"></div>
+  <div class="corner corner-tl"></div>
+  <div class="corner corner-br"></div>
+
+  <div class="content">
+    <div class="title-jp">
+      <span class="line1">日本語</span>
+      <span class="line2">デイリーニュース</span>
+    </div>
+
+    <div class="divider">
+      <div class="divider-line"></div>
+      <div class="hanko"></div>
+      <div class="divider-line"></div>
+    </div>
+
+    <div class="subtitle">Learn Japanese<br>Through Real News</div>
+    <div class="tagline">podcast.jpnotes.dev</div>
+  </div>
+</body>
+</html>

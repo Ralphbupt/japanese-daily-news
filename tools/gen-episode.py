@@ -23,6 +23,7 @@ PAUSE_AFTER = {
     "host": 600,
     "news": 700,
     "slow": 800,
+    "vocab": 400,
 }
 
 
@@ -45,6 +46,9 @@ async def main():
 
     os.makedirs(OUT_DIR, exist_ok=True)
 
+    seg_timings = []
+    current_time = 1.5  # initial 1500ms silence
+
     with tempfile.TemporaryDirectory() as tmpdir:
         for i, seg in enumerate(segments):
             speaker = seg["speaker"]
@@ -65,6 +69,21 @@ async def main():
                     "anullsrc=r=24000:cl=mono", "-t", "1",
                     "-c:a", "libmp3lame", "-b:a", "48k", path
                 ], capture_output=True)
+
+            dur_result = subprocess.run([
+                "ffprobe", "-v", "error", "-show_entries",
+                "format=duration", "-of",
+                "default=noprint_wrappers=1:nokey=1", path
+            ], capture_output=True, text=True)
+            seg_dur = float(dur_result.stdout.strip())
+            seg_timings.append({
+                "index": i,
+                "start": round(current_time, 3),
+                "end": round(current_time + seg_dur, 3),
+            })
+            current_time += seg_dur
+            pause_ms = PAUSE_AFTER.get(speaker, 500)
+            current_time += pause_ms / 1000
 
         print("\nGenerating pauses...")
         all_pauses = set(PAUSE_AFTER.values())
@@ -103,8 +122,19 @@ async def main():
             out_path
         ], capture_output=True, text=True)
         duration_s = float(result.stdout.strip())
+
+        timing_path = os.path.join(SCRIPT_DIR, f"{ep}.timing.json")
+        timing_data = {
+            "episode": script["episode"],
+            "totalDuration": round(duration_s, 3),
+            "segments": seg_timings,
+        }
+        with open(timing_path, "w", encoding="utf-8") as f:
+            json.dump(timing_data, f, indent=2, ensure_ascii=False)
+
         print(f"\nDone!")
         print(f"  Output: {out_path}")
+        print(f"  Timing: {timing_path}")
         print(f"  Duration: {int(duration_s // 60)}:{int(duration_s % 60):02d}")
         print(f"  Size: {size_mb:.1f} MB")
 

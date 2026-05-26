@@ -1,0 +1,13 @@
+{
+  "name": "japanese-daily-news-site",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run copy-audio; astro dev",
+    "build": "npm run copy-audio && astro build",
+    "preview": "astro preview",
+    "copy-audio": "mkdir -p public/audio public/subtitles && cp ../audio/*.mp3 public/audio/ 2>/dev/null; cp ../subtitles/*.vtt ../subtitles/*.srt public/subtitles/ 2>/dev/null || true"
+  },
+  "dependencies": {
+    "astro": "^5.8.0"
+  }
+}

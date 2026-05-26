@@ -1,51 +1,572 @@
 {
   "episode": 1,
-  "title": "コンビニの父、鈴木敏文さん死去",
-  "date": "2026-05-25",
-  "source": "NHK / Nikkei",
+  "title": "日本に来る外国人が3000万人を超えた",
+  "date": "2026-05-24",
+  "source": "NHK / Japan Times",
+  "level": "N5-N4",
   "characters": {
-    "host": {"voice": "en-US-AvaNeural", "role": "English host", "lang": "en", "rate": "-5%"},
-    "news": {"voice": "ja-JP-NanamiNeural", "role": "News reader", "lang": "ja", "rate": "-20%"},
-    "slow": {"voice": "ja-JP-NanamiNeural", "role": "Slow repeat", "lang": "ja", "rate": "-35%"}
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-40%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
   },
   "segments": [
-    {"speaker": "host", "text": "Welcome to Japanese Daily News. I'm your host. Today is May twenty-fifth, twenty twenty-six. In today's episode, we're covering one story: the man who brought convenience stores to Japan has passed away. Let's listen to the news in Japanese first, then we'll break it down together."},
-
-    {"speaker": "news", "text": "セブンアンドアイホールディングスの名誉顧問、鈴木敏文さんが、五月十八日に亡くなりました。九十三歳でした。死因は心不全です。"},
-    {"speaker": "news", "text": "鈴木さんは、千九百七十四年に、東京の豊洲に、コンビニエンスストアの日本第一号店を出しました。セブンイレブンです。"},
-    {"speaker": "news", "text": "それまで、日本にコンビニはありませんでした。鈴木さんがアメリカのセブンイレブンを日本に持ってきたのです。"},
-    {"speaker": "news", "text": "今、日本にはコンビニが約五万六千店あります。セブンイレブン、ローソン、ファミリーマート。日本の生活に欠かせないものになりました。"},
-    {"speaker": "news", "text": "鈴木さんは「お客様の立場で考えなさい」といつも言っていました。おにぎり、お弁当、ATM、宅配便の受け取り。コンビニのサービスは、鈴木さんのこの考え方から生まれました。"},
-    {"speaker": "news", "text": "二千十六年に会長を退任し、名誉顧問になりました。日本のコンビニ産業の父と呼ばれています。"},
-
-    {"speaker": "host", "text": "Okay. Let's go through this story piece by piece."},
-    {"speaker": "host", "text": "The first sentence:"},
-    {"speaker": "slow", "text": "セブンアンドアイホールディングスの名誉顧問、鈴木敏文さんが、五月十八日に亡くなりました。"},
-    {"speaker": "host", "text": "Suzuki Toshifumi, honorary advisor of Seven and I Holdings, passed away on May eighteenth. The key word here is nakunarimashita, which means passed away. It's the polite way to say someone died. You'll also hear shikyo, but nakunarimashita is more common in news."},
-
-    {"speaker": "host", "text": "Next:"},
-    {"speaker": "slow", "text": "千九百七十四年に、東京の豊洲に、コンビニエンスストアの日本第一号店を出しました。"},
-    {"speaker": "host", "text": "In nineteen seventy-four, he opened the first convenience store in Japan, in Toyosu, Tokyo. Dai ichigo ten means store number one, the very first store. And dashimashita here means he opened it or put it out."},
-
-    {"speaker": "host", "text": "Then we hear why this was such a big deal:"},
-    {"speaker": "slow", "text": "それまで、日本にコンビニはありませんでした。"},
-    {"speaker": "host", "text": "Until then, there were no convenience stores in Japan. Sore made means 'until then.' A very useful time expression."},
-
-    {"speaker": "host", "text": "The news then talks about how big convenience stores are today:"},
-    {"speaker": "slow", "text": "今、日本にはコンビニが約五万六千店あります。"},
-    {"speaker": "host", "text": "Today, there are approximately fifty-six thousand convenience stores in Japan. Yaku means approximately. Goman rokusen is fifty-six thousand."},
-
-    {"speaker": "host", "text": "And then Suzuki's famous philosophy:"},
-    {"speaker": "slow", "text": "お客様の立場で考えなさい。"},
-    {"speaker": "host", "text": "Think from the customer's perspective. Okyakusama no tachiba de kangaenasai. Tachiba means standpoint or perspective. This is the principle behind everything convenience stores offer in Japan, from onigiri to ATMs to package pickup."},
-
-    {"speaker": "host", "text": "And the last line:"},
-    {"speaker": "slow", "text": "日本のコンビニ産業の父と呼ばれています。"},
-    {"speaker": "host", "text": "He is called the father of Japan's convenience store industry. Yobareteimasu is the passive form of yobu, to call. So literally, he is being called."},
-
-    {"speaker": "host", "text": "Let's do a quick vocabulary recap. Nakunarimashita, passed away. Meiyo komon, honorary advisor. Dai ichigo ten, the very first store. Sore made, until then. Yaku, approximately. Tachiba, standpoint or perspective. Sangyou, industry."},
-
-    {"speaker": "host", "text": "That's today's Japanese Daily News. The full transcript with furigana is on our website, jpnotes.dev. See you tomorrow."},
-    {"speaker": "news", "text": "また明日。"}
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm your host. Today is May twenty-fourth. This is our very first episode. Today's story: more foreigners are visiting Japan than ever before. The number just passed thirty million. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "去年、日本に来た外国人の数が3000万人を超えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来た<rt>きた</rt></ruby><span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が3000<ruby>万人<rt>ばんにん</rt></ruby>を<span class=\"vw\" data-ja=\"超えました\" data-reading=\"こえました\" data-en=\"exceeded, passed\"><ruby>超え<rt>こえ</rt></ruby>ました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番多い国は中国です。次は韓国、そしてアメリカです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一番多い\" data-reading=\"いちばんおおい\" data-en=\"the most\"><ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby></span><ruby>国<rt>くに</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>です。<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>は<ruby>韓国<rt>かんこく</rt></ruby>、そしてアメリカです。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人に人気がある場所は、東京、大阪、京都です。",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"人気がある\" data-reading=\"にんきがある\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby>がある</span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>は、<ruby>東京<rt>とうきょう</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近は、北海道や沖縄に行く人も増えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>人<rt>にん</rt></ruby>も<span class=\"vw\" data-ja=\"増えています\" data-reading=\"ふえています\" data-en=\"is increasing\"><ruby>増え<rt>ふえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人がたくさん来るので、ホテルの値段が高くなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>がたくさん<ruby>来る<rt>くる</rt></ruby>ので、ホテルの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本語が分からなくて困る外国人もいます。駅やレストランで、英語のメニューや案内が増えています。",
+      "ruby": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らなくて<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span><span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>もいます。<ruby>駅<rt>えき</rt></ruby>やレストランで、<ruby>英語<rt>えいご</rt></ruby>のメニューや<span class=\"vw\" data-ja=\"案内\" data-reading=\"あんない\" data-en=\"guide, information\"><ruby>案内<rt>あんない</rt></ruby></span>が<span class=\"vw\" data-ja=\"増えています\" data-reading=\"ふえています\" data-en=\"is increasing\"><ruby>増え<rt>ふえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本政府は、「もっと多くの外国人に来てほしい」と言っています。",
+      "ruby": "<ruby>日本政府<rt>にほんせいふ</rt></ruby>は、「<span class=\"vw\" data-ja=\"もっと\" data-reading=\"もっと\" data-en=\"more, even more\">もっと</span><ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"来てほしい\" data-reading=\"きてほしい\" data-en=\"want (someone) to come\"><ruby>来て<rt>きて</rt></ruby>ほしい</span>」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Okay. This story uses simple, everyday Japanese. Perfect for beginners. Let's break it down."
+    },
+    {
+      "speaker": "host",
+      "text": "The first sentence:"
+    },
+    {
+      "speaker": "slow",
+      "text": "Exceeded, passed. When a number goes over a target, you use this verb.",
+      "ruby": "Exceeded, passed. When a number goes over a target, you use this verb."
+    },
+    {
+      "speaker": "host",
+      "text": "Last year, the number of foreigners who came to Japan exceeded thirty million."
+    },
+    {
+      "speaker": "vocab",
+      "text": "去年",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year. One of the first time words you learn. This year is 'kotoshi,' and next year is 'rainen.'"
+    },
+    {
+      "speaker": "vocab",
+      "text": "外国人",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Foreigner. The three characters mean outside, country, person. Very logical."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人",
+      "ruby": "<ruby>人<rt>にん</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means person. So the word literally means outside-country-person. Very logical."
+    },
+    {
+      "speaker": "vocab",
+      "text": "超える",
+      "ruby": "<ruby>超え<rt>こえ</rt></ruby>る"
+    },
+    {
+      "speaker": "host",
+      "text": "When a number goes over a target, you use this verb."
+    },
+    {
+      "speaker": "host",
+      "text": "Where are they from?"
+    },
+    {
+      "speaker": "slow",
+      "text": "一番多い国は中国です。次は韓国、そしてアメリカです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一番多い\" data-reading=\"いちばんおおい\" data-en=\"the most\"><ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby></span><ruby>国<rt>くに</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>です。<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>は<ruby>韓国<rt>かんこく</rt></ruby>、そしてアメリカです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The country with the most visitors is China. Next is South Korea, then America. 'Ichiban' means number one, the most."
+    },
+    {
+      "speaker": "vocab",
+      "text": "多い",
+      "ruby": "<ruby>多い<rt>おおい</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means many. Together with 'ichiban,' it means the most numerous."
+    },
+    {
+      "speaker": "vocab",
+      "text": "次",
+      "ruby": "<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Next. Short and useful. You'll hear it everywhere."
+    },
+    {
+      "speaker": "host",
+      "text": "What places are popular?"
+    },
+    {
+      "speaker": "slow",
+      "text": "外国人に人気がある場所は、東京、大阪、京都です。",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"人気がある\" data-reading=\"にんきがある\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby>がある</span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>は、<ruby>東京<rt>とうきょう</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The places popular with foreigners are Tokyo, Osaka, and Kyoto."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気がある",
+      "ruby": "<span class=\"vw\" data-ja=\"人気がある\" data-reading=\"にんきがある\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby>がある</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Popular. Literally: has people's spirit. The first part means popularity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "がある",
+      "ruby": "がある"
+    },
+    {
+      "speaker": "host",
+      "text": "It means 'it exists.' Together: is popular. For example:"
+    },
+    {
+      "speaker": "slow",
+      "text": "この店は人気があります。",
+      "ruby": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "This shop is popular. You can use this pattern for anything."
+    },
+    {
+      "speaker": "vocab",
+      "text": "場所",
+      "ruby": "<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Place, location. A basic but very important word."
+    },
+    {
+      "speaker": "host",
+      "text": "And new trends:"
+    },
+    {
+      "speaker": "slow",
+      "text": "最近は、北海道や沖縄に行く人も増えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>人<rt>にん</rt></ruby>も<span class=\"vw\" data-ja=\"増えています\" data-reading=\"ふえています\" data-en=\"is increasing\"><ruby>増え<rt>ふえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Recently, the number of people going to Hokkaido and Okinawa is also increasing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最近",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Recently. Use it at the beginning of a sentence to talk about current trends."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ています",
+      "ruby": "ています"
+    },
+    {
+      "speaker": "host",
+      "text": "This form means it's an ongoing change — something is increasing right now and continues to increase. You'll hear it a lot in news."
+    },
+    {
+      "speaker": "host",
+      "text": "There's a side effect:"
+    },
+    {
+      "speaker": "slow",
+      "text": "外国人がたくさん来るので、ホテルの値段が高くなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>がたくさん<ruby>来る<rt>くる</rt></ruby>ので、ホテルの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because many foreigners are coming, hotel prices have gone up. 'Takusan' means a lot, many — very basic, very useful. 'Nedan' means price. 'Nedan ga takai' means the price is high. 'Nedan ga yasui' means it's cheap."
+    },
+    {
+      "speaker": "host",
+      "text": "Notice the grammar here:"
+    },
+    {
+      "speaker": "vocab",
+      "text": "ので",
+      "ruby": "ので"
+    },
+    {
+      "speaker": "host",
+      "text": "It means 'because.' It connects the reason and the result. Because foreigners come, prices go up."
+    },
+    {
+      "speaker": "host",
+      "text": "And a challenge:"
+    },
+    {
+      "speaker": "slow",
+      "text": "日本語が分からなくて困る外国人もいます。",
+      "ruby": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らなくて<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span><span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>もいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are also foreigners who don't understand Japanese and have trouble."
+    },
+    {
+      "speaker": "vocab",
+      "text": "分かる",
+      "ruby": "<ruby>分か<rt>わか</rt></ruby>る"
+    },
+    {
+      "speaker": "host",
+      "text": "to understand. One of the most important verbs in Japanese."
+    },
+    {
+      "speaker": "vocab",
+      "text": "困る",
+      "ruby": "<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To be in trouble, to have difficulty. When you're lost in Japan and can't read the signs, that feeling is 'komaru.' The solution:"
+    },
+    {
+      "speaker": "slow",
+      "text": "駅やレストランで、英語のメニューや案内が増えています。",
+      "ruby": "<ruby>駅<rt>えき</rt></ruby>やレストランで、<ruby>英語<rt>えいご</rt></ruby>のメニューや<span class=\"vw\" data-ja=\"案内\" data-reading=\"あんない\" data-en=\"guide, information\"><ruby>案内<rt>あんない</rt></ruby></span>が<span class=\"vw\" data-ja=\"増えています\" data-reading=\"ふえています\" data-en=\"is increasing\"><ruby>増え<rt>ふえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "At stations and restaurants, English menus and guides are increasing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "案内",
+      "ruby": "<span class=\"vw\" data-ja=\"案内\" data-reading=\"あんない\" data-en=\"guide, information\"><ruby>案内<rt>あんない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Guide, information. You'll see this on signs everywhere. 'Annai-jo' means information desk."
+    },
+    {
+      "speaker": "host",
+      "text": "And what the government says:"
+    },
+    {
+      "speaker": "slow",
+      "text": "日本政府は、もっと多くの外国人に来てほしいと言っています。",
+      "ruby": "<ruby>日本政府<rt>にほんせいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"もっと\" data-reading=\"もっと\" data-en=\"more, even more\">もっと</span><ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"来てほしい\" data-reading=\"きてほしい\" data-en=\"want (someone) to come\"><ruby>来て<rt>きて</rt></ruby>ほしいと</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Japanese government says they want even more foreigners to come. 'Motto' means more, even more. 'Motto tabetai' means I want to eat more. 'Motto yukkuri' means more slowly. Very handy word."
+    },
+    {
+      "speaker": "vocab",
+      "text": "てほしい",
+      "ruby": "てほしい"
+    },
+    {
+      "speaker": "host",
+      "text": "It means you want someone else to do something. Different from the 'tai' form, which is what you yourself want to do."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time. You'll understand much more now."
+    },
+    {
+      "speaker": "news",
+      "text": "去年、日本に来た外国人の数が3000万人を超えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来た<rt>きた</rt></ruby><span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が3000<ruby>万人<rt>ばんにん</rt></ruby>を<span class=\"vw\" data-ja=\"超えました\" data-reading=\"こえました\" data-en=\"exceeded, passed\"><ruby>超え<rt>こえ</rt></ruby>ました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番多い国は中国です。次は韓国、そしてアメリカです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一番多い\" data-reading=\"いちばんおおい\" data-en=\"the most\"><ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby></span><ruby>国<rt>くに</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>です。<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>は<ruby>韓国<rt>かんこく</rt></ruby>、そしてアメリカです。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人に人気がある場所は、東京、大阪、京都です。",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"人気がある\" data-reading=\"にんきがある\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby>がある</span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>は、<ruby>東京<rt>とうきょう</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近は、北海道や沖縄に行く人も増えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>人<rt>にん</rt></ruby>も<span class=\"vw\" data-ja=\"増えています\" data-reading=\"ふえています\" data-en=\"is increasing\"><ruby>増え<rt>ふえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人がたくさん来るので、ホテルの値段が高くなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>がたくさん<ruby>来る<rt>くる</rt></ruby>ので、ホテルの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本語が分からなくて困る外国人もいます。駅やレストランで、英語のメニューや案内が増えています。",
+      "ruby": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らなくて<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span><span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>もいます。<ruby>駅<rt>えき</rt></ruby>やレストランで、<ruby>英語<rt>えいご</rt></ruby>のメニューや<span class=\"vw\" data-ja=\"案内\" data-reading=\"あんない\" data-en=\"guide, information\"><ruby>案内<rt>あんない</rt></ruby></span>が<span class=\"vw\" data-ja=\"増えています\" data-reading=\"ふえています\" data-en=\"is increasing\"><ruby>増え<rt>ふえ</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本政府は、「もっと多くの外国人に来てほしい」と言っています。",
+      "ruby": "<ruby>日本政府<rt>にほんせいふ</rt></ruby>は、「<span class=\"vw\" data-ja=\"もっと\" data-reading=\"もっと\" data-en=\"more, even more\">もっと</span><ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"来てほしい\" data-reading=\"きてほしい\" data-en=\"want (someone) to come\"><ruby>来て<rt>きて</rt></ruby>ほしい</span>」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年、何人の外国人が日本に来ましたか？",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>、<ruby>何人<rt>なんにん</rt></ruby>の<span class=\"vw\" data-ja=\"外国人\" data-reading=\"がいこくじん\" data-en=\"foreigner\"><ruby>外国人<rt>がいこくじん</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来ま<rt>きま</rt></ruby>したか？"
+    },
+    {
+      "speaker": "host",
+      "text": "How many foreigners came to Japan last year? Over thirty million."
+    },
+    {
+      "speaker": "slow",
+      "text": "一番多い国はどこですか？",
+      "ruby": "<span class=\"vw\" data-ja=\"一番多い\" data-reading=\"いちばんおおい\" data-en=\"the most\"><ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby></span><ruby>国<rt>くに</rt></ruby>はどこですか？"
+    },
+    {
+      "speaker": "host",
+      "text": "Which country has the most visitors? China."
+    },
+    {
+      "speaker": "slow",
+      "text": "ホテルの値段はどうなっていますか？",
+      "ruby": "ホテルの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>はどうなっていますか？"
+    },
+    {
+      "speaker": "host",
+      "text": "What's happening to hotel prices? They're going up. Now let's do a vocabulary recap. 'Gaikokujin' means foreigner. 'Koemashita' means exceeded. 'Ninki ga aru' means popular. 'Saikin' means recently. 'Fuete imasu' means is increasing. 'Nedan' means price. 'Wakaranai' means don't understand. 'Komaru' means to have trouble. 'Annai' means guide or information. And 'motto' means more, even more."
+    },
+    {
+      "speaker": "host",
+      "text": "That's the first episode of Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "去年",
+      "reading": "きょねん",
+      "en": "last year",
+      "zh": "去年"
+    },
+    {
+      "ja": "外国人",
+      "reading": "がいこくじん",
+      "en": "foreigner",
+      "zh": "外国人"
+    },
+    {
+      "ja": "超えました",
+      "reading": "こえました",
+      "en": "exceeded, passed",
+      "zh": "超过了"
+    },
+    {
+      "ja": "一番多い",
+      "reading": "いちばんおおい",
+      "en": "the most",
+      "zh": "最多的"
+    },
+    {
+      "ja": "次",
+      "reading": "つぎ",
+      "en": "next",
+      "zh": "其次"
+    },
+    {
+      "ja": "人気がある",
+      "reading": "にんきがある",
+      "en": "popular",
+      "zh": "受欢迎的"
+    },
+    {
+      "ja": "場所",
+      "reading": "ばしょ",
+      "en": "place",
+      "zh": "地方"
+    },
+    {
+      "ja": "最近",
+      "reading": "さいきん",
+      "en": "recently",
+      "zh": "最近"
+    },
+    {
+      "ja": "増えています",
+      "reading": "ふえています",
+      "en": "is increasing",
+      "zh": "正在增加"
+    },
+    {
+      "ja": "たくさん",
+      "reading": "たくさん",
+      "en": "a lot, many",
+      "zh": "很多"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "分からない",
+      "reading": "わからない",
+      "en": "don't understand",
+      "zh": "不明白"
+    },
+    {
+      "ja": "困る",
+      "reading": "こまる",
+      "en": "to be in trouble",
+      "zh": "为难、困扰"
+    },
+    {
+      "ja": "案内",
+      "reading": "あんない",
+      "en": "guide, information",
+      "zh": "指南、引导"
+    },
+    {
+      "ja": "もっと",
+      "reading": "もっと",
+      "en": "more, even more",
+      "zh": "更多"
+    },
+    {
+      "ja": "来てほしい",
+      "reading": "きてほしい",
+      "en": "want (someone) to come",
+      "zh": "希望（别人）来"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜を超えました",
+      "meaning": "exceeded ~, passed ~",
+      "meaningZh": "超过了……",
+      "formation": "number/amount + を + 超える",
+      "example": "3000万人を超えました。",
+      "translation": "It exceeded 30 million people.",
+      "note": "Used when a number passes a milestone. 100万を超えた (passed 1 million). Very common in news about statistics.",
+      "noteZh": "当数字超过某个里程碑时使用。100万を超えた（超过100万）。新闻里报道统计数据时非常常见。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜に人気がある",
+      "meaning": "is popular with ~",
+      "meaningZh": "在……中受欢迎",
+      "formation": "noun + に + 人気がある",
+      "example": "外国人に人気がある場所は、東京です。",
+      "translation": "A place popular with foreigners is Tokyo.",
+      "note": "に marks who finds it popular. Can also say 人気がない (not popular). Casual: 人気ある without が.",
+      "noteZh": "に标记谁觉得受欢迎。也可以说人気がない（不受欢迎）。口语可省略が：人気ある。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~",
+      "meaningZh": "因为……",
+      "formation": "verb/adj plain form + ので / な-adj + なので / noun + なので",
+      "example": "外国人がたくさん来るので、値段が高くなっています。",
+      "translation": "Because many foreigners come, prices have gone up.",
+      "note": "Politer than から. Used a lot in explanations and news. な-adjectives and nouns need な before ので.",
+      "noteZh": "比から更礼貌。常用于解释和新闻报道中。な形容词和名词前面要加な再接ので。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want (someone else) to do ~",
+      "meaningZh": "希望（别人）做……",
+      "formation": "verb て-form + ほしい",
+      "example": "もっと多くの外国人に来てほしい。",
+      "translation": "We want more foreigners to come.",
+      "note": "Different from 〜たい which is what YOU want to do. 〜てほしい is what you want OTHERS to do. Common in requests and wishes.",
+      "noteZh": "和〜たい不同。〜たい是自己想做，〜てほしい是希望别人做。常用于请求和愿望。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "去年来日本的外国人超过了3000万。\n「去年」= 去年。今年是「今年」，明年是「来年」。\n「外国人」= 外（外面）+ 国（国家）+ 人 = 外国人。非常有逻辑。\n「超えました」来自「超える」，表示数字超过了某个目标。",
+    "最多的国家是中国，其次是韩国，然后是美国。\n「一番多い」= 最多的。一番 = 第一，多い = 多。\n「次」= 下一个，其次。简短实用。",
+    "在外国人中受欢迎的地方是东京、大阪和京都。\n「人気がある」= 受欢迎。字面意思是「有人气」。\n例句：この店は人気があります（这家店很受欢迎）。\n「場所」= 地方，地点。",
+    "这家店很受欢迎。\n这是用「人気があります」的例句。",
+    "最近，去北海道和冲绳的人也在增加。\n「最近」= 最近。放在句首谈论当前趋势。\n「増えています」表示正在持续增加。新闻中非常常见。",
+    "因为很多外国人来，酒店的价格涨了。\n「たくさん」= 很多。\n「値段」= 价格。値段が高い = 贵。値段が安い = 便宜。\n语法点：ので = 因为。连接原因和结果。",
+    "也有不懂日语而感到困扰的外国人。\n「分からない」来自「分かる」（明白），是最重要的动词之一。\n「困る」= 为难、困扰。在日本看不懂路牌的那种感觉就是困る。",
+    "在车站和餐厅，英语菜单和指南正在增加。\n「案内」= 指南、引导。案内所 = 咨询台。",
+    "日本政府说希望更多的外国人来。\n「もっと」= 更多。もっと食べたい = 想吃更多。もっとゆっくり = 再慢一点。\n「来てほしい」= 希望别人来。てほしい和たい不同：たい是自己想做，てほしい是希望别人做。",
+    "去年、何人の外国人が日本に来ましたか？",
+    "一番多い国はどこですか？",
+    "ホテルの値段はどうなっていますか？"
   ]
 }
