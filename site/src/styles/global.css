@@ -1075,6 +1075,28 @@ ruby rt {
 }
 
 /* --- Review Section (Vocab + Grammar below transcript) --- */
+.review-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 0.5rem 0;
+  transition: color 0.2s;
+}
+
+.review-toggle:hover { color: var(--accent); }
+
+.review-arrow { transition: transform 0.2s; }
+.review-toggle.open .review-arrow { transform: rotate(180deg); }
+
+.review-content { margin-top: 1rem; }
+
 .review-section {
   margin-top: 2.5rem;
   padding-top: 2rem;
