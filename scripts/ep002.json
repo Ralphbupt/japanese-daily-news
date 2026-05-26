@@ -21,7 +21,7 @@
       "voice": "ja-JP-NanamiNeural",
       "role": "Slow repeat",
       "lang": "ja",
-      "rate": "-40%"
+      "rate": "-30%"
     },
     "vocab": {
       "voice": "ja-JP-NanamiNeural",
@@ -33,7 +33,7 @@
   "segments": [
     {
       "speaker": "host",
-      "text": "Welcome to Japanese Daily News. Today is May twenty-fifth. Today's story: Tokyo might run its trains twenty-four hours a day. Right now, trains stop around midnight. That could change. Let's listen."
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May twenty-fifth. Today's story: Tokyo might run its trains twenty-four hours a day. Right now, trains stop around midnight. That could change. Let's listen."
     },
     {
       "speaker": "news",
@@ -72,11 +72,11 @@
     },
     {
       "speaker": "host",
-      "text": "Okay. This is a short and simple story. Let's go through it."
+      "text": "Let's break it down."
     },
     {
       "speaker": "host",
-      "text": "The first sentence:"
+      "text": "The first sentence."
     },
     {
       "speaker": "slow",
@@ -85,7 +85,7 @@
     },
     {
       "speaker": "host",
-      "text": "The Tokyo Metropolitan Government is thinking about running trains twenty-four hours a day."
+      "text": "The Tokyo Metropolitan Government is thinking about running trains twenty-four hours a day. Let's look at the key words."
     },
     {
       "speaker": "vocab",
@@ -103,16 +103,7 @@
     },
     {
       "speaker": "host",
-      "text": "To make something run. This is the causative form — the base verb means 'to run,' and this form means to make something run."
-    },
-    {
-      "speaker": "vocab",
-      "text": "走らせる",
-      "ruby": "<span class=\"vw\" data-ja=\"走らせる\" data-reading=\"はしらせる\" data-en=\"to make run (causative)\"><ruby>走ら<rt>はしら</rt></ruby>せる</span>"
-    },
-    {
-      "speaker": "host",
-      "text": "Don't worry about the grammar for now. Just remember: trains run, but people make trains run."
+      "text": "To make something run. The base verb means to run. This form means to make something run. Trains run, but people make trains run."
     },
     {
       "speaker": "vocab",
@@ -121,11 +112,11 @@
     },
     {
       "speaker": "host",
-      "text": "Is thinking about, is considering. It means they are currently thinking about it — no decision yet."
+      "text": "Is thinking about, is considering. It means they are currently thinking about it. No decision yet."
     },
     {
       "speaker": "host",
-      "text": "Next:"
+      "text": "Next sentence."
     },
     {
       "speaker": "slow",
@@ -134,7 +125,7 @@
     },
     {
       "speaker": "host",
-      "text": "Right now, Tokyo's trains stop around midnight. 'Yoru' means night. Simple, right? You can also say 'yonaka' for the middle of the night."
+      "text": "Right now, Tokyo's trains stop around midnight."
     },
     {
       "speaker": "vocab",
@@ -143,38 +134,20 @@
     },
     {
       "speaker": "host",
-      "text": "Around, approximately — but only for time."
+      "text": "Around, approximately. But only for time. For amounts, you use a different word."
     },
     {
       "speaker": "vocab",
-      "text": "時ごろ",
-      "ruby": "<ruby>時<rt>とき</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (time)\">ごろ</span>"
+      "text": "止まります",
+      "ruby": "<span class=\"vw\" data-ja=\"止まります\" data-reading=\"とまります\" data-en=\"stops\"><ruby>止まり<rt>どまり</rt></ruby>ます</span>"
     },
     {
       "speaker": "host",
-      "text": "Together it means around twelve o'clock. For amounts, you use 'gurai' instead."
-    },
-    {
-      "speaker": "vocab",
-      "text": "止まる",
-      "ruby": "<ruby>止ま<rt>とま</rt></ruby>る"
+      "text": "Stops. One of the most useful verbs for daily life in Japan."
     },
     {
       "speaker": "host",
-      "text": "to stop. This is one of the most useful verbs for daily life in Japan. For example:"
-    },
-    {
-      "speaker": "slow",
-      "text": "バスが止まりました。",
-      "ruby": "バスが<ruby>止まり<rt>どまり</rt></ruby>ました。"
-    },
-    {
-      "speaker": "host",
-      "text": "The bus stopped."
-    },
-    {
-      "speaker": "host",
-      "text": "Then we learn who needs this:"
+      "text": "Who needs this change?"
     },
     {
       "speaker": "slow",
@@ -192,11 +165,29 @@
     },
     {
       "speaker": "host",
-      "text": "To work. A very common verb. You'll hear it in many news stories. 'Ryokousha' means traveler — 'ryokou' is travel and 'sha' means person. So it's a travel person — a traveler. 'Fuben' means inconvenient. The opposite is 'benri,' which means convenient. 'Fu' is a prefix that means 'not' — so not convenient."
+      "text": "To work. A very common verb. You'll hear it in many news stories."
+    },
+    {
+      "speaker": "vocab",
+      "text": "旅行者",
+      "ruby": "<span class=\"vw\" data-ja=\"旅行者\" data-reading=\"りょこうしゃ\" data-en=\"traveler\"><ruby>旅行者<rt>りょこうしゃ</rt></ruby></span>"
     },
     {
       "speaker": "host",
-      "text": "The plan:"
+      "text": "Traveler. The first part means travel, the last character means person."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不便",
+      "ruby": "<span class=\"vw\" data-ja=\"不便\" data-reading=\"ふべん\" data-en=\"inconvenient\"><ruby>不便<rt>ふべん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Inconvenient. The first character is a prefix that means not. The opposite means convenient."
+    },
+    {
+      "speaker": "host",
+      "text": "The plan."
     },
     {
       "speaker": "slow",
@@ -218,12 +209,12 @@
     },
     {
       "speaker": "vocab",
-      "text": "てみる",
-      "ruby": "てみる"
+      "text": "試してみる",
+      "ruby": "<span class=\"vw\" data-ja=\"試してみる\" data-reading=\"ためしてみる\" data-en=\"to try doing\"><ruby>試し<rt>ためし</rt></ruby>てみる</span>"
     },
     {
       "speaker": "host",
-      "text": "This ending means 'to try doing something.' When you add it to a verb, it means let's try it and see."
+      "text": "To try doing something. When you add this ending to a verb, it means let's try it and see."
     },
     {
       "speaker": "vocab",
@@ -232,16 +223,7 @@
     },
     {
       "speaker": "host",
-      "text": "Plan, schedule. Very useful. For example:"
-    },
-    {
-      "speaker": "slow",
-      "text": "明日の予定は何ですか？",
-      "ruby": "<ruby>明日<rt>あした</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>は<ruby>何で<rt>なんで</rt></ruby>すか？"
-    },
-    {
-      "speaker": "host",
-      "text": "What are your plans for tomorrow?"
+      "text": "Plan, schedule. Very useful for everyday conversation."
     },
     {
       "speaker": "host",
@@ -254,11 +236,20 @@
     },
     {
       "speaker": "host",
-      "text": "The lines they'll use are the Yamanote Line and the Chuo Line. If you've been to Tokyo, you know these — the green circle line and the orange line. Train line, route."
+      "text": "The lines they'll use are the Yamanote Line and the Chuo Line. If you've been to Tokyo, you know these. The green circle line and the orange line."
+    },
+    {
+      "speaker": "vocab",
+      "text": "路線",
+      "ruby": "<span class=\"vw\" data-ja=\"路線\" data-reading=\"ろせん\" data-en=\"train line, route\"><ruby>路線<rt>ろせん</rt></ruby></span>"
     },
     {
       "speaker": "host",
-      "text": "But there's a problem:"
+      "text": "Train line, route. Very common in news about transportation."
+    },
+    {
+      "speaker": "host",
+      "text": "But there's a problem."
     },
     {
       "speaker": "slow",
@@ -276,7 +267,7 @@
     },
     {
       "speaker": "host",
-      "text": "Safety. You'll see this word on signs everywhere in Japan. The opposite is 'kiken,' which means dangerous."
+      "text": "Safety. You'll see this word on signs everywhere in Japan."
     },
     {
       "speaker": "vocab",
@@ -289,7 +280,7 @@
     },
     {
       "speaker": "host",
-      "text": "And the official's comment:"
+      "text": "And the official's comment."
     },
     {
       "speaker": "slow",
@@ -298,7 +289,16 @@
     },
     {
       "speaker": "host",
-      "text": "Safety is the most important thing. We will investigate carefully before deciding. 'Ichiban' means number one, the most. 'Ichiban taisetsu' means the most important. 'Ichiban suki' means favorite. Very useful pattern."
+      "text": "Safety is the most important thing. We will investigate carefully before deciding."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一番",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Number one, the most. You can combine it with any adjective. The most important. The most fun. Very useful pattern."
     },
     {
       "speaker": "vocab",
@@ -307,16 +307,16 @@
     },
     {
       "speaker": "host",
-      "text": "Important, precious. A warm word — you use it for things you truly care about. The next key word means 'to decide.' For example:"
+      "text": "Important, precious. A warm word. You use it for things you truly care about."
     },
     {
-      "speaker": "slow",
-      "text": "まだ決めていません。",
-      "ruby": "まだ<ruby>決め<rt>きめ</rt></ruby>ていません。"
+      "speaker": "vocab",
+      "text": "決めます",
+      "ruby": "<span class=\"vw\" data-ja=\"決めます\" data-reading=\"きめます\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>ます</span>"
     },
     {
       "speaker": "host",
-      "text": "I haven't decided yet. A phrase you'll use a lot."
+      "text": "To decide. A word you'll use a lot in daily life."
     },
     {
       "speaker": "host",
@@ -386,7 +386,101 @@
     },
     {
       "speaker": "host",
-      "text": "What is the most important thing? Safety. Now let's do a vocabulary recap. 'Densha' means train. 'Tomarimasu' means stops. 'Hataraku' means to work. 'Fuben' means inconvenient. 'Yotei' means plan or schedule. 'Anzen' means safety. 'Mondai' means problem. 'Ichiban' means number one, the most. 'Taisetsu' means important. And 'kimemasu' means to decide."
+      "text": "What is the most important thing? Safety."
+    },
+    {
+      "speaker": "host",
+      "text": "Vocabulary recap."
+    },
+    {
+      "speaker": "vocab",
+      "text": "電車",
+      "ruby": "<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Train."
+    },
+    {
+      "speaker": "vocab",
+      "text": "止まります",
+      "ruby": "<span class=\"vw\" data-ja=\"止まります\" data-reading=\"とまります\" data-en=\"stops\"><ruby>止まり<rt>どまり</rt></ruby>ます</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Stops."
+    },
+    {
+      "speaker": "vocab",
+      "text": "働く",
+      "ruby": "<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To work."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不便",
+      "ruby": "<span class=\"vw\" data-ja=\"不便\" data-reading=\"ふべん\" data-en=\"inconvenient\"><ruby>不便<rt>ふべん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Inconvenient."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Plan, schedule."
+    },
+    {
+      "speaker": "vocab",
+      "text": "安全",
+      "ruby": "<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Safety."
+    },
+    {
+      "speaker": "vocab",
+      "text": "問題",
+      "ruby": "<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem, issue\"><ruby>問題<rt>もんだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一番",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Number one, the most."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大切",
+      "ruby": "<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Important."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決めます",
+      "ruby": "<span class=\"vw\" data-ja=\"決めます\" data-reading=\"きめます\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>ます</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To decide."
     },
     {
       "speaker": "host",

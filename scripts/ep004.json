@@ -3,6 +3,7 @@
   "title": "食料品の消費税がゼロに？",
   "date": "2026-05-26",
   "source": "Nikkei / JapanToday",
+  "level": "N4-N3",
   "characters": {
     "host": {
       "voice": "en-US-AvaNeural",
@@ -20,7 +21,7 @@
       "voice": "ja-JP-NanamiNeural",
       "role": "Slow repeat",
       "lang": "ja",
-      "rate": "-35%"
+      "rate": "-30%"
     },
     "vocab": {
       "voice": "ja-JP-NanamiNeural",
@@ -32,7 +33,7 @@
   "segments": [
     {
       "speaker": "host",
-      "text": "Welcome to Japanese Daily News. Today is May twenty-sixth. Today's story is big: the Japanese government wants to cut the sales tax on food all the way down to zero. This affects everyone who eats in Japan — so, everyone. Let's hear the news first, then break it down."
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May twenty-sixth. Today's story is big: the Japanese government wants to cut the sales tax on food all the way down to zero. This affects everyone who eats in Japan. Let's listen."
     },
     {
       "speaker": "news",
@@ -71,11 +72,11 @@
     },
     {
       "speaker": "host",
-      "text": "All right. That was a lot. Let's go through it step by step."
+      "text": "Let's break it down."
     },
     {
       "speaker": "host",
-      "text": "The opening line:"
+      "text": "The opening line."
     },
     {
       "speaker": "slow",
@@ -84,7 +85,7 @@
     },
     {
       "speaker": "host",
-      "text": "The Japanese government announced a plan to make the sales tax on food zero percent. Three key words here."
+      "text": "The Japanese government announced a plan to make the sales tax on food zero percent. Let's look at the key words."
     },
     {
       "speaker": "vocab",
@@ -93,7 +94,7 @@
     },
     {
       "speaker": "host",
-      "text": "Food products, or groceries. This word covers rice, vegetables, snacks — anything you eat. You'll see it on signs in Japanese supermarkets."
+      "text": "Food products, groceries. This covers rice, vegetables, snacks. Anything you eat."
     },
     {
       "speaker": "vocab",
@@ -115,7 +116,7 @@
     },
     {
       "speaker": "host",
-      "text": "Now, some background. Japan's sales tax used to be just three percent when it started in nineteen eighty-nine. It went up to five percent, then eight, and finally ten percent in twenty nineteen. Food stayed at eight — that's called a reduced rate. Now the plan is to take food all the way to zero. Next sentence:"
+      "text": "The current situation."
     },
     {
       "speaker": "slow",
@@ -133,33 +134,11 @@
     },
     {
       "speaker": "host",
-      "text": "Reduced tax rate. This is a compound word. Let's break it apart."
-    },
-    {
-      "speaker": "vocab",
-      "text": "軽減",
-      "ruby": "<span class=\"vw\" data-ja=\"軽減\" data-reading=\"けいげん\" data-en=\"reduction, alleviation\"><ruby>軽減<rt>けいげん</rt></ruby></span>"
+      "text": "Reduced tax rate. The first part means reduction. The second part means tax rate. Together: a lightened tax rate."
     },
     {
       "speaker": "host",
-      "text": "It means reduction, or making something lighter."
-    },
-    {
-      "speaker": "vocab",
-      "text": "税率",
-      "ruby": "<span class=\"vw\" data-ja=\"税率\" data-reading=\"ぜいりつ\" data-en=\"tax rate\"><ruby>税率<rt>ぜいりつ</rt></ruby></span>"
-    },
-    {
-      "speaker": "host",
-      "text": "It means tax rate. So together: a lightened tax rate. You'll hear this word a lot in Japanese news about economics."
-    },
-    {
-      "speaker": "host",
-      "text": "Notice the grammar here: the sentence uses the passive form plus the ongoing state. It's not 'someone applies the rate.' It's 'the rate is being applied.' This pattern is very common in news Japanese when describing rules or policies that are currently in effect."
-    },
-    {
-      "speaker": "host",
-      "text": "Now, the Prime Minister explained why this matters:"
+      "text": "Why does this matter?"
     },
     {
       "speaker": "slow",
@@ -177,16 +156,7 @@
     },
     {
       "speaker": "host",
-      "text": "Price level — not the price of one item, but prices in general. When Japanese people say 'the cost of living is high,' they often use this word. For example:"
-    },
-    {
-      "speaker": "slow",
-      "text": "東京は物価が高いです。",
-      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>は<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"price level, cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>が<ruby>高い<rt>たかい</rt></ruby>です。"
-    },
-    {
-      "speaker": "host",
-      "text": "Tokyo has a high cost of living. Very useful sentence to know."
+      "text": "Price level. Not the price of one item, but prices in general. Very common in news about economics."
     },
     {
       "speaker": "vocab",
@@ -195,20 +165,11 @@
     },
     {
       "speaker": "host",
-      "text": "Tough, painful, or difficult. It's used for physical pain, but also financial hardship. You might hear people say:"
-    },
-    {
-      "speaker": "slow",
-      "text": "生活が苦しい。",
-      "ruby": "<ruby>生活<rt>せいかつ</rt></ruby>が<span class=\"vw\" data-ja=\"苦しい\" data-reading=\"くるしい\" data-en=\"tough, difficult, painful\"><ruby>苦しい<rt>くるしい</rt></ruby></span>。"
+      "text": "Tough, painful, difficult. Used for physical pain, but also financial hardship."
     },
     {
       "speaker": "host",
-      "text": "Life is tough. A common expression. Why is the cost of living going up? The main reason is the weak yen. Japan imports a lot of food, and when the yen drops, imports get more expensive. That's why the government feels the need to act."
-    },
-    {
-      "speaker": "host",
-      "text": "The news gives a very concrete example:"
+      "text": "A concrete example."
     },
     {
       "speaker": "slow",
@@ -217,7 +178,7 @@
     },
     {
       "speaker": "host",
-      "text": "An onigiri that cost one hundred and eight yen will become one hundred yen. Eight yen doesn't sound like much, but multiply that across every grocery trip, and it adds up."
+      "text": "An onigiri that cost one hundred and eight yen will become one hundred yen. Eight yen doesn't sound like much, but it adds up across every grocery trip."
     },
     {
       "speaker": "vocab",
@@ -226,11 +187,11 @@
     },
     {
       "speaker": "host",
-      "text": "Until now. A time expression you'll use constantly in Japanese. It marks the before in a before-and-after comparison."
+      "text": "Until now. A time expression you'll use constantly. It marks the before in a before-and-after comparison."
     },
     {
       "speaker": "host",
-      "text": "But there's a catch:"
+      "text": "But there's a catch."
     },
     {
       "speaker": "slow",
@@ -248,16 +209,7 @@
     },
     {
       "speaker": "host",
-      "text": "However. This is the formal version. In casual speech you'd say 'demo' or 'dakedo.'"
-    },
-    {
-      "speaker": "vocab",
-      "text": "だけど",
-      "ruby": "だけど"
-    },
-    {
-      "speaker": "host",
-      "text": "But in news and official documents, you'll always hear 'tadashi.' Very clean, very precise."
+      "text": "However. This is the formal version. In news and official documents, you'll always hear this word."
     },
     {
       "speaker": "vocab",
@@ -266,20 +218,11 @@
     },
     {
       "speaker": "host",
-      "text": "Outside the scope, excluded."
-    },
-    {
-      "speaker": "vocab",
-      "text": "対象",
-      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, subject, covered\"><ruby>対象<rt>たいしょう</rt></ruby></span>"
+      "text": "Outside the scope, excluded. Remove the last character and it means target or covered. So only groceries you take home are included."
     },
     {
       "speaker": "host",
-      "text": "The opposite — without the 'gai' — means 'target' or 'covered.' So if you buy beer at a convenience store — still taxed. If you eat ramen at a restaurant — still taxed. Only groceries you take home."
-    },
-    {
-      "speaker": "host",
-      "text": "And the opposition had something to say:"
+      "text": "And the opposition had something to say."
     },
     {
       "speaker": "slow",
@@ -288,7 +231,7 @@
     },
     {
       "speaker": "host",
-      "text": "The opposition parties say they should lower all consumption tax, not just on food. The grammar point here is 'beki da.'"
+      "text": "The opposition parties say they should lower all consumption tax, not just on food."
     },
     {
       "speaker": "vocab",
@@ -297,11 +240,11 @@
     },
     {
       "speaker": "host",
-      "text": "— 'should do.' It expresses a strong opinion. When politicians use it, they're making an argument, not a suggestion."
+      "text": "Should do. It expresses a strong opinion. Very common in news and editorials."
     },
     {
       "speaker": "host",
-      "text": "Now let's listen to the full story one more time. See how much more you understand now."
+      "text": "Let's listen to the full story one more time."
     },
     {
       "speaker": "news",
@@ -340,7 +283,7 @@
     },
     {
       "speaker": "host",
-      "text": "Now a quick quiz. I'll ask three questions in Japanese. Try to answer before I do."
+      "text": "Quiz time. Three questions."
     },
     {
       "speaker": "slow",
@@ -349,7 +292,7 @@
     },
     {
       "speaker": "host",
-      "text": "What is the current sales tax on food? The answer: eight percent. The plan is to take it to zero."
+      "text": "What is the current sales tax on food? Eight percent. The plan is to take it to zero."
     },
     {
       "speaker": "slow",
@@ -367,15 +310,78 @@
     },
     {
       "speaker": "host",
-      "text": "How many years will this tax cut last? Two years. It's a limited-time measure."
+      "text": "How many years will this tax cut last? Two years."
     },
     {
       "speaker": "host",
-      "text": "Let's wrap up with a vocabulary recap. Food products, groceries. Consumption tax. Reduced tax rate. Price level, cost of living. Tough, difficult. However. Excluded, outside the scope."
+      "text": "Vocabulary recap."
+    },
+    {
+      "speaker": "vocab",
+      "text": "食料品",
+      "ruby": "<span class=\"vw\" data-ja=\"食料品\" data-reading=\"しょくりょうひん\" data-en=\"food products, groceries\"><ruby>食料品<rt>しょくりょうひん</rt></ruby></span>"
     },
     {
       "speaker": "host",
-      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. If you found this helpful, subscribe on Apple Podcasts or Spotify. See you tomorrow."
+      "text": "Food products, groceries."
+    },
+    {
+      "speaker": "vocab",
+      "text": "消費税",
+      "ruby": "<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax, sales tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Consumption tax."
+    },
+    {
+      "speaker": "vocab",
+      "text": "軽減税率",
+      "ruby": "<span class=\"vw\" data-ja=\"軽減税率\" data-reading=\"けいげんぜいりつ\" data-en=\"reduced tax rate\"><ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Reduced tax rate."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物価",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"price level, cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Price level."
+    },
+    {
+      "speaker": "vocab",
+      "text": "苦しい",
+      "ruby": "<span class=\"vw\" data-ja=\"苦しい\" data-reading=\"くるしい\" data-en=\"tough, difficult, painful\"><ruby>苦しい<rt>くるしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Tough, difficult."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ただし",
+      "ruby": "<span class=\"vw\" data-ja=\"ただし\" data-reading=\"ただし\" data-en=\"however, provided that\">ただし</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "However."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対象外",
+      "ruby": "<span class=\"vw\" data-ja=\"対象外\" data-reading=\"たいしょうがい\" data-en=\"excluded, outside the scope\"><ruby>対象外<rt>たいしょうがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Excluded."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
     },
     {
       "speaker": "news",
@@ -519,6 +525,5 @@
       "level": "N3",
       "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#obligation"
     }
-  ],
-  "level": "N4-N3"
+  ]
 }
