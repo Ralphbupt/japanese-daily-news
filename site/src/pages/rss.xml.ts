@@ -43,6 +43,7 @@ export const GET: APIRoute = async () => {
       <enclosure url="${audioUrl}" length="${length}" type="audio/mpeg"/>
       <itunes:duration>${durationSec}</itunes:duration>
       <itunes:episode>${ep.episode}</itunes:episode>
+      <itunes:summary>${escapeXml(ep.description)}</itunes:summary>
       <podcast:transcript url="${SITE}/subtitles/${ep.id}.vtt" type="text/vtt" language="ja"/>
     </item>`;
   }).join('\n');
@@ -69,6 +70,7 @@ export const GET: APIRoute = async () => {
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:summary>A daily Japanese news podcast for learners. Each episode covers a real news story with vocabulary breakdowns, grammar notes, and practice quizzes. Hosted by Maya.</itunes:summary>
 ${items}
   </channel>
 </rss>`;
