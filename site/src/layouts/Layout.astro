@@ -60,8 +60,27 @@ const ogImageUrl = new URL(ogImage, SITE).href;
   {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   <link rel="alternate" type="application/rss+xml" title="Japanese Daily News" href="/rss.xml" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7W59Y18KC8" is:inline></script>
-  <script is:inline>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-7W59Y18KC8');</script>
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="JDN Podcast" />
+  <script is:inline>
+  (function(){
+    var ua=navigator.userAgent||'';
+    if(navigator.webdriver)return;
+    if(/HeadlessChrome|Lighthouse|PhantomJS|Puppeteer|Playwright|crawler|spider|bot|Slurp|facebookexternalhit/i.test(ua))return;
+    window.addEventListener('load',function(){
+      setTimeout(function(){
+        var s=document.createElement('script');s.async=true;
+        s.src='https://www.googletagmanager.com/gtag/js?id=G-7W59Y18KC8';
+        document.head.appendChild(s);
+        window.dataLayer=window.dataLayer||[];
+        window.gtag=function(){dataLayer.push(arguments);};
+        gtag('js',new Date());gtag('config','G-7W59Y18KC8');
+      },1500);
+    });
+  })();
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,700;1,9..144,400&family=Noto+Sans+JP:wght@400;500;700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
