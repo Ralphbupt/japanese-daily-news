@@ -43,13 +43,14 @@ Four speaker roles:
 - `vocab` — Individual Japanese vocabulary words (ja-JP-NanamiNeural, -30%)
 
 Episode structure:
-1. Host intro
-2. Full news (6-7 `news` segments)
-3. Breakdown: `host` cue → `slow` sentence → `vocab` word → `host` explanation (repeat)
+1. Host intro (short — one or two sentences of context, then "Let's listen.")
+2. Full news (9-10 `news` segments — longer article with more detail)
+3. Breakdown: `slow` sentence → `host` translation → `vocab` word → `host` explanation (1-2 sentences max, no verbose transitions)
 4. Full news replay (same `news` segments)
-5. Quiz: `slow` question → `host` English answer → `vocab` Japanese answer
-6. Vocab recap: `vocab` word → `host` meaning
-7. Host closing + `news` "また明日。"
+5. Quiz: `slow` question → `host` English answer
+6. Host closing + `news` "また明日。"
+
+Target duration: ~7:30–8:00. Prioritize Japanese content over host commentary.
 
 Critical rules:
 - `host` segments must contain ZERO Japanese characters AND ZERO romaji — no 'Takusan', 'Nedan', etc.
@@ -96,7 +97,9 @@ Features: synced transcript, furigana, vocab click tooltips, practice mode (精�
 - Difficulty levels: `N5-N4` (beginner) or `N4-N3` (intermediate) in `level` field
 - Scripts self-contained — each JSON includes all voice/rate config
 - Companion site: `jpnotes.dev` (grammar notes, cross-linked from grammar cards)
-- Fonts: Fraunces (display), Shippori Mincho (JP), Outfit (body)
+- Fonts: Fraunces (display), Noto Sans JP (JP), Outfit (body)
 - Light mode: warm yellow paper (#F3EDDA); Dark mode: #1A1A1E
-- Apple Podcasts: submitted (podcasters.apple.com)
+- Apple Podcasts: https://podcasts.apple.com/podcast/id1896815841
+- Spotify: https://open.spotify.com/show/033nVZrL6xnSJDxcXc9PMQ
+- YouTube: https://www.youtube.com/playlist?list=PLFPcxHB9z1CRXO7aEgo5qE_jP_E3cXwKb
 - RSS: `https://podcast.jpnotes.dev/rss.xml`
