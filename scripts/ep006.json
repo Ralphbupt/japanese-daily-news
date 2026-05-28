@@ -33,7 +33,7 @@
   "segments": [
     {
       "speaker": "host",
-      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May twenty-eighth. Today's story is about aviation: a Japanese airline just launched its first flight with a brand-new airplane. Let's listen."
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May twenty-eighth. A Japanese airline just flew a brand-new airplane for the first time. Let's listen."
     },
     {
       "speaker": "news",
@@ -57,6 +57,11 @@
     },
     {
       "speaker": "news",
+      "text": "座席の数は189席で、今までの飛行機より足元のスペースが広くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"座席\" data-reading=\"ざせき\" data-en=\"seat\"><ruby>座席<rt>ざせき</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は189<ruby>席<rt>せき</rt></ruby>で、<ruby>今まで<rt>いままで</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>より<ruby>足元<rt>あしもと</rt></ruby>のスペースが<ruby>広く<rt>ひろく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
       "text": "機内には充電ポートやコンセントがあり、乗客はスマートフォンやパソコンを充電できます。",
       "ruby": "<ruby>機内<rt>きない</rt></ruby>には<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (electricity)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>ポートやコンセントがあり、<span class=\"vw\" data-ja=\"乗客\" data-reading=\"じょうきゃく\" data-en=\"passenger\"><ruby>乗客<rt>じょうきゃく</rt></ruby></span>はスマートフォンやパソコンを<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (electricity)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>できます。"
     },
@@ -67,16 +72,22 @@
     },
     {
       "speaker": "news",
+      "text": "初めての便には約180人の乗客が乗りました。空港では記念のセレモニーが行われました。",
+      "ruby": "<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"便\" data-reading=\"びん\" data-en=\"flight, scheduled service\"><ruby>便<rt>びん</rt></ruby></span>には<ruby>約<rt>やく</rt></ruby>180<ruby>人<rt>にん</rt></ruby>の<span class=\"vw\" data-ja=\"乗客\" data-reading=\"じょうきゃく\" data-en=\"passenger\"><ruby>乗客<rt>じょうきゃく</rt></ruby></span>が<ruby>乗り<rt>のり</rt></ruby>ました。<ruby>空港<rt>くうこう</rt></ruby>では<ruby>記念<rt>きねん</rt></ruby>のセレモニーが<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スカイマークの社長は、「この飛行機で、もっと安くて快適な旅を提供したい」と話しました。",
+      "ruby": "スカイマークの<ruby>社長<rt>しゃちょう</rt></ruby>は、「この<ruby>飛行機<rt>ひこうき</rt></ruby>で、もっと<ruby>安く<rt>やすく</rt></ruby>て<span class=\"vw\" data-ja=\"快適\" data-reading=\"かいてき\" data-en=\"comfortable, pleasant\"><ruby>快適<rt>かいてき</rt></ruby></span>な<ruby>旅<rt>たび</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
       "text": "スカイマークは合計20機を注文しており、これから他の路線にも広げていく予定です。",
       "ruby": "スカイマークは<ruby>合計<rt>ごうけい</rt></ruby>20<ruby>機<rt>き</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しており、これから<ruby>他の<rt>ほかの</rt></ruby><span class=\"vw\" data-ja=\"路線\" data-reading=\"ろせん\" data-en=\"route, line\"><ruby>路線<rt>ろせん</rt></ruby></span>にも<ruby>広げ<rt>ひろげ</rt></ruby>ていく<ruby>予定<rt>よてい</rt></ruby>です。"
     },
     {
       "speaker": "host",
       "text": "Let's break it down."
-    },
-    {
-      "speaker": "host",
-      "text": "The opening line."
     },
     {
       "speaker": "slow",
@@ -94,11 +105,7 @@
     },
     {
       "speaker": "host",
-      "text": "Flight, or scheduled service. You'll see this word at airports and train stations. First flight, last flight. It counts transportation services."
-    },
-    {
-      "speaker": "host",
-      "text": "A first for Japan."
+      "text": "Flight, or scheduled service. You'll see this at airports and train stations."
     },
     {
       "speaker": "slow",
@@ -116,11 +123,7 @@
     },
     {
       "speaker": "host",
-      "text": "Airline. The first two characters mean aviation. The last two mean company. Put them together and you get airline."
-    },
-    {
-      "speaker": "host",
-      "text": "Why this airplane is special."
+      "text": "Airline. Aviation plus company."
     },
     {
       "speaker": "slow",
@@ -129,7 +132,7 @@
     },
     {
       "speaker": "host",
-      "text": "It can use about fifteen percent less fuel than the airplane they used before."
+      "text": "It uses about fifteen percent less fuel than the previous airplane."
     },
     {
       "speaker": "vocab",
@@ -138,11 +141,7 @@
     },
     {
       "speaker": "host",
-      "text": "Fuel. The first character means to burn. The second means material. Burning material. Cars, planes, they all need this."
-    },
-    {
-      "speaker": "host",
-      "text": "Good for the planet."
+      "text": "Fuel. Burn plus material."
     },
     {
       "speaker": "slow",
@@ -151,7 +150,7 @@
     },
     {
       "speaker": "host",
-      "text": "It is said to be environmentally friendly. You'll hear this phrase a lot in Japanese news."
+      "text": "It is said to be environmentally friendly."
     },
     {
       "speaker": "vocab",
@@ -160,11 +159,25 @@
     },
     {
       "speaker": "host",
-      "text": "Environment. One of the most common words in news about climate and sustainability. Very useful to know."
+      "text": "Environment. Very common in news about climate."
+    },
+    {
+      "speaker": "slow",
+      "text": "今までの飛行機より足元のスペースが広くなりました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>より<ruby>足元<rt>あしもと</rt></ruby>のスペースが<ruby>広く<rt>ひろく</rt></ruby>なりました。"
     },
     {
       "speaker": "host",
-      "text": "What's new for passengers."
+      "text": "There's more legroom than the previous airplane."
+    },
+    {
+      "speaker": "vocab",
+      "text": "座席",
+      "ruby": "<span class=\"vw\" data-ja=\"座席\" data-reading=\"ざせき\" data-en=\"seat\"><ruby>座席<rt>ざせき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Seat. You'll see this on trains, planes, and in theaters."
     },
     {
       "speaker": "slow",
@@ -173,7 +186,7 @@
     },
     {
       "speaker": "host",
-      "text": "Passengers can charge their smartphones and computers."
+      "text": "Passengers can charge their phones and computers."
     },
     {
       "speaker": "vocab",
@@ -182,7 +195,7 @@
     },
     {
       "speaker": "host",
-      "text": "Passenger. The first character means to ride. The second means guest. A riding guest. You'll see it on buses, trains, and planes."
+      "text": "Passenger. Ride plus guest."
     },
     {
       "speaker": "vocab",
@@ -191,11 +204,7 @@
     },
     {
       "speaker": "host",
-      "text": "Charging. The first character means to fill. The second means electricity. Fill with electricity. You probably do this every day with your phone."
-    },
-    {
-      "speaker": "host",
-      "text": "And it's surprisingly quiet."
+      "text": "Charging. Fill plus electricity."
     },
     {
       "speaker": "slow",
@@ -204,7 +213,7 @@
     },
     {
       "speaker": "host",
-      "text": "Noise has been reduced by fifty percent compared to previous airplanes. Even the pilots say it's too quiet in the cockpit."
+      "text": "Noise is fifty percent less. Even pilots say it's too quiet."
     },
     {
       "speaker": "vocab",
@@ -213,7 +222,34 @@
     },
     {
       "speaker": "host",
-      "text": "Noise. The first character means noisy. The second means sound. Unwanted sound. The opposite of music."
+      "text": "Noise. Noisy plus sound."
+    },
+    {
+      "speaker": "slow",
+      "text": "もっと安くて快適な旅を提供したい。",
+      "ruby": "もっと<ruby>安く<rt>やすく</rt></ruby>て<span class=\"vw\" data-ja=\"快適\" data-reading=\"かいてき\" data-en=\"comfortable, pleasant\"><ruby>快適<rt>かいてき</rt></ruby></span>な<ruby>旅<rt>たび</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したい。"
+    },
+    {
+      "speaker": "host",
+      "text": "We want to offer cheaper and more comfortable travel."
+    },
+    {
+      "speaker": "vocab",
+      "text": "快適",
+      "ruby": "<span class=\"vw\" data-ja=\"快適\" data-reading=\"かいてき\" data-en=\"comfortable, pleasant\"><ruby>快適<rt>かいてき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Comfortable, pleasant. A comfortable room, a comfortable flight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "路線",
+      "ruby": "<span class=\"vw\" data-ja=\"路線\" data-reading=\"ろせん\" data-en=\"route, line\"><ruby>路線<rt>ろせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Route or line. Used for bus routes, train lines, and flight routes."
     },
     {
       "speaker": "host",
@@ -241,6 +277,11 @@
     },
     {
       "speaker": "news",
+      "text": "座席の数は189席で、今までの飛行機より足元のスペースが広くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"座席\" data-reading=\"ざせき\" data-en=\"seat\"><ruby>座席<rt>ざせき</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は189<ruby>席<rt>せき</rt></ruby>で、<ruby>今まで<rt>いままで</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>より<ruby>足元<rt>あしもと</rt></ruby>のスペースが<ruby>広く<rt>ひろく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
       "text": "機内には充電ポートやコンセントがあり、乗客はスマートフォンやパソコンを充電できます。",
       "ruby": "<ruby>機内<rt>きない</rt></ruby>には<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (electricity)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>ポートやコンセントがあり、<span class=\"vw\" data-ja=\"乗客\" data-reading=\"じょうきゃく\" data-en=\"passenger\"><ruby>乗客<rt>じょうきゃく</rt></ruby></span>はスマートフォンやパソコンを<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (electricity)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>できます。"
     },
@@ -248,6 +289,16 @@
       "speaker": "news",
       "text": "騒音が今までの飛行機より50パーセント少なく、パイロットも「静かすぎる」と驚いています。",
       "ruby": "<span class=\"vw\" data-ja=\"騒音\" data-reading=\"そうおん\" data-en=\"noise\"><ruby>騒音<rt>そうおん</rt></ruby></span>が<ruby>今まで<rt>いままで</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>より50パーセント<ruby>少なく<rt>すくなく</rt></ruby>、パイロットも「<ruby>静か<rt>しずか</rt></ruby>すぎる」と<ruby>驚い<rt>おどろい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "初めての便には約180人の乗客が乗りました。空港では記念のセレモニーが行われました。",
+      "ruby": "<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"便\" data-reading=\"びん\" data-en=\"flight, scheduled service\"><ruby>便<rt>びん</rt></ruby></span>には<ruby>約<rt>やく</rt></ruby>180<ruby>人<rt>にん</rt></ruby>の<span class=\"vw\" data-ja=\"乗客\" data-reading=\"じょうきゃく\" data-en=\"passenger\"><ruby>乗客<rt>じょうきゃく</rt></ruby></span>が<ruby>乗り<rt>のり</rt></ruby>ました。<ruby>空港<rt>くうこう</rt></ruby>では<ruby>記念<rt>きねん</rt></ruby>のセレモニーが<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スカイマークの社長は、「この飛行機で、もっと安くて快適な旅を提供したい」と話しました。",
+      "ruby": "スカイマークの<ruby>社長<rt>しゃちょう</rt></ruby>は、「この<ruby>飛行機<rt>ひこうき</rt></ruby>で、もっと<ruby>安く<rt>やすく</rt></ruby>て<span class=\"vw\" data-ja=\"快適\" data-reading=\"かいてき\" data-en=\"comfortable, pleasant\"><ruby>快適<rt>かいてき</rt></ruby></span>な<ruby>旅<rt>たび</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
     },
     {
       "speaker": "news",
@@ -274,7 +325,7 @@
     },
     {
       "speaker": "host",
-      "text": "How much less fuel does it use? About fifteen percent less than before."
+      "text": "How much less fuel does it use? About fifteen percent."
     },
     {
       "speaker": "slow",
@@ -283,7 +334,7 @@
     },
     {
       "speaker": "host",
-      "text": "What can you do inside the cabin? You can charge your smartphone or computer."
+      "text": "What can you do in the cabin? Charge your phone or computer."
     },
     {
       "speaker": "host",
@@ -327,6 +378,12 @@
       "zh": "环境"
     },
     {
+      "ja": "座席",
+      "reading": "ざせき",
+      "en": "seat",
+      "zh": "座位"
+    },
+    {
       "ja": "充電",
       "reading": "じゅうでん",
       "en": "charging (electricity)",
@@ -345,6 +402,12 @@
       "zh": "噪音"
     },
     {
+      "ja": "快適",
+      "reading": "かいてき",
+      "en": "comfortable, pleasant",
+      "zh": "舒适"
+    },
+    {
       "ja": "路線",
       "reading": "ろせん",
       "en": "route, line",
@@ -352,12 +415,14 @@
     }
   ],
   "practiceZh": [
-    "新しい飛行機の初めての便を飛ばしました。\n新飞机执飞了首个航班。\n「便」在日语中用于班次计数：第一便（首班）、最終便（末班）。\n机场和车站都会用到：成田行きの便（去成田的航班）。",
-    "日本の航空会社がこの飛行機を使うのは初めてです。\n这是日本航空公司首次使用这款飞机。\n「航空会社」：航空（航空）＋会社（公司）＝航空公司。\n「〜のは初めてです」表示「做某事是第一次」：日本に来るのは初めてです（第一次来日本）。",
-    "今まで使っていた飛行機より燃料を約15パーセント少なく使うことができます。\n比以前使用的飞机少用约15%的燃料。\n「〜より」是比较句型：AよりB（比A更B）。\n「燃料」：燃（燃烧）＋料（材料）＝燃料。",
-    "環境にやさしいと言われています。\n据说对环境友好。\n「〜と言われています」表示「据说……」，新闻中常用来引用普遍看法。\n「環境にやさしい」是固定搭配，类似的还有：体にやさしい（对身体好）、目にやさしい（对眼睛好）。",
-    "乗客はスマートフォンやパソコンを充電できます。\n乘客可以给智能手机和电脑充电。\n「乗客」：乗（乘坐）＋客（客人）＝乘客。\n「充電」：充（充满）＋電（电）＝充电。每天都会用到的词！\n充電器（充电器）、充電中（充电中）也很常见。",
-    "騒音が今までの飛行機より50パーセント少なくなりました。\n噪音比以前的飞机减少了50%。\n「騒音」：騒（吵闹）＋音（声音）＝噪音。\n波音737-8采用了新型发动机，大幅降低了噪音。飞行员都说「静かすぎる」（太安静了）。"
+    "新しい飛行機の初めての便を飛ばしました。\n新飞机执飞了首个航班。\n「便」用于班次计数：第一便（首班）、最終便（末班）。",
+    "日本の航空会社がこの飛行機を使うのは初めてです。\n这是日本航空公司首次使用这款飞机。\n「〜のは初めてです」表示「做某事是第一次」：日本に来るのは初めてです（第一次来日本）。",
+    "今まで使っていた飛行機より燃料を約15パーセント少なく使うことができます。\n比以前的飞机少用约15%的燃料。\n「〜より」是比较句型：AよりB（比A更B）。",
+    "環境にやさしいと言われています。\n据说对环境友好。\n「〜と言われています」表示「据说……」。\n「環境にやさしい」是固定搭配，类似：体にやさしい（对身体好）。",
+    "今までの飛行機より足元のスペースが広くなりました。\n比以前的飞机腿部空间更宽敞了。\n「広くなりました」：广＋变成＝变宽了。い形容词变化的基本句型。",
+    "乗客はスマートフォンやパソコンを充電できます。\n乘客可以给手机和电脑充电。\n「充電」：充（充满）＋電（电）＝充电。\n充電器（充电器）、充電中（充电中）也很常见。",
+    "騒音が今までの飛行機より50パーセント少なくなりました。\n噪音比以前的飞机减少了50%。\n飞行员说「静かすぎる」（太安静了）。「〜すぎる」表示过度。",
+    "もっと安くて快適な旅を提供したい。\n想提供更便宜、更舒适的旅行。\n「快適」：舒适。快適な部屋（舒适的房间）、快適な生活（舒适的生活）。"
   ],
   "grammar": [
     {
@@ -367,8 +432,8 @@
       "formation": "verb plain form + のは + 初めてです",
       "example": "日本の航空会社がこの飛行機を使うのは初めてです。",
       "translation": "This is the first time a Japanese airline has used this airplane.",
-      "note": "Combines のは (nominalizer) with 初めて (first time). Common in both spoken and written Japanese. Also: 寿司を食べるのは初めてです (It's my first time eating sushi).",
-      "noteZh": "のは将动词名词化，配合初めて（第一次）使用。口语和书面语都很常见。例：寿司を食べるのは初めてです（第一次吃寿司）。",
+      "note": "Combines のは (nominalizer) with 初めて (first time). Also: 寿司を食べるのは初めてです (It's my first time eating sushi).",
+      "noteZh": "のは将动词名词化，配合初めて使用。例：寿司を食べるのは初めてです（第一次吃寿司）。",
       "level": "N4",
       "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#nominalization"
     },
@@ -376,35 +441,35 @@
       "pattern": "〜より...少なく",
       "meaning": "less ... than ~",
       "meaningZh": "比……更少",
-      "formation": "noun A + より + noun B + が/を + adjective く + verb",
+      "formation": "noun A + より + adjective く + verb",
       "example": "今まで使っていた飛行機より燃料を約15パーセント少なく使うことができます。",
       "translation": "It can use about 15% less fuel than the previously used airplane.",
-      "note": "より marks the comparison target. Works with all adjectives: より高い (taller than), より安い (cheaper than), より少ない (fewer than). Often paired with 約 (approximately) in news.",
-      "noteZh": "「より」标记比较对象。适用于所有形容词：より高い（比……高）、より安い（比……便宜）、より少ない（比……少）。新闻中常搭配「約」（大约）使用。",
+      "note": "より marks the comparison target. Works with all adjectives: より高い (taller than), より安い (cheaper than).",
+      "noteZh": "「より」标记比较对象。适用于所有形容词：より高い（更高）、より安い（更便宜）。",
       "level": "N4",
       "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#comparison"
     },
     {
       "pattern": "〜と言われています",
-      "meaning": "it is said that ~, is considered to be ~",
-      "meaningZh": "据说……、被认为是……",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说……",
       "formation": "plain form + と言われています",
       "example": "環境にやさしいと言われています。",
       "translation": "It is said to be environmentally friendly.",
-      "note": "Passive of と言う. Used to report common knowledge or general opinion without stating who said it. Very common in news. Compare: と言っています (someone specific is saying).",
-      "noteZh": "「と言う」的被动形。用于报道常识或普遍看法，不指明是谁说的。新闻中非常常见。比较：と言っています（某个具体的人在说）。",
+      "note": "Passive of と言う. Reports common knowledge without naming the source. Compare: と言っています (someone specific is saying).",
+      "noteZh": "「と言う」的被动形。报道普遍看法，不指明说话者。比较：と言っています（某人在说）。",
       "level": "N3",
       "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#passive"
     },
     {
       "pattern": "〜ており",
-      "meaning": "formal form of ている (is doing / has done)",
+      "meaning": "formal form of ている",
       "meaningZh": "「ている」的书面语形式",
-      "formation": "verb て-form → ており (replace いる with おる)",
+      "formation": "verb て-form → ており",
       "example": "スカイマークは合計20機を注文しており、これから他の路線にも広げていく予定です。",
       "translation": "Skymark has ordered a total of 20 aircraft and plans to expand to other routes.",
-      "note": "おる is the humble/formal version of いる. In news, ており replaces ていて to connect clauses. Also: 検討しており (is considering), 発表しており (has announced).",
-      "noteZh": "「おる」是「いる」的谦逊/书面语形式。新闻中用「ており」替代「ていて」来连接分句。常见：検討しており（正在研讨）、発表しており（已发表）。",
+      "note": "おる is the formal version of いる. In news, ており replaces ていて to connect clauses.",
+      "noteZh": "「おる」是「いる」的书面语形式。新闻中用「ており」替代「ていて」来连接分句。",
       "level": "N3",
       "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#formal"
     }
