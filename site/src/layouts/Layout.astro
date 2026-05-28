@@ -67,16 +67,18 @@ const ogImageUrl = new URL(ogImage, SITE).href;
   <script is:inline>
   (function(){
     var ua=navigator.userAgent||'';
-    if(navigator.webdriver)return;
-    if(/HeadlessChrome|Lighthouse|PhantomJS|Puppeteer|Playwright|crawler|spider|bot|Slurp|facebookexternalhit/i.test(ua))return;
+    var bot=navigator.webdriver||/HeadlessChrome|Lighthouse|PhantomJS|Puppeteer|Playwright|crawler|spider|bot|Slurp|facebookexternalhit/i.test(ua);
+    if(bot){window.jdnEvent=function(){};return;}
+    window.dataLayer=window.dataLayer||[];
+    window.gtag=function(){dataLayer.push(arguments);};
+    window.jdnEvent=function(n,p){try{window.gtag('event',n,p||{});}catch(e){}};
+    gtag('js',new Date());
+    gtag('config','G-7W59Y18KC8');
     window.addEventListener('load',function(){
       setTimeout(function(){
         var s=document.createElement('script');s.async=true;
         s.src='https://www.googletagmanager.com/gtag/js?id=G-7W59Y18KC8';
         document.head.appendChild(s);
-        window.dataLayer=window.dataLayer||[];
-        window.gtag=function(){dataLayer.push(arguments);};
-        gtag('js',new Date());gtag('config','G-7W59Y18KC8');
       },1500);
     });
   })();
@@ -99,6 +101,7 @@ const ogImageUrl = new URL(ogImage, SITE).href;
         document.documentElement.setAttribute('data-fontsize', s);
         localStorage.setItem('jdn-fontsize', s);
         fst.querySelectorAll('.fontsize-btn').forEach(function(x) { x.classList.toggle('active', x.getAttribute('data-size') === s); });
+        if (window.jdnEvent) window.jdnEvent('fontsize_change', { size: s });
       });
     }
     var lt = document.getElementById('lang-toggle');
@@ -113,16 +116,38 @@ const ogImageUrl = new URL(ogImage, SITE).href;
         localStorage.setItem('jdn-lang', l);
         window.dispatchEvent(new Event('langchange'));
         lt.querySelectorAll('.lang-btn').forEach(function(x) { x.classList.toggle('active', x.getAttribute('data-lang') === l); });
+        if (window.jdnEvent) window.jdnEvent('lang_toggle', { lang: l });
       });
     }
+    document.addEventListener('click', function(e) {
+      if (!window.jdnEvent) return;
+      var a = e.target.closest('a');
+      if (!a) return;
+      var href = a.getAttribute('href') || '';
+      if (href.indexOf('jpnotes.dev') >= 0 && href.indexOf('podcast.jpnotes.dev') < 0) {
+        window.jdnEvent('cross_link_click', { destination: 'jpnotes.dev' }); return;
+      }
+      var blob = href + ' ' + (a.id || '');
+      var isPlatform = a.classList.contains('platform-link') || /^footer-/.test(a.id || '') || href === '/rss.xml';
+      if (isPlatform) {
+        var name = /apple/i.test(blob) ? 'apple' :
+                   /spotify/i.test(blob) ? 'spotify' :
+                   /youtube/i.test(blob) ? 'youtube' :
+                   href === '/rss.xml' ? 'rss' : 'other';
+        window.jdnEvent('platform_click', { platform: name });
+      }
+    });
+
     document.getElementById('theme-toggle').addEventListener('click', function() {
       var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
       if (isDark) {
         document.documentElement.removeAttribute('data-theme');
         localStorage.setItem('theme', 'light');
+        if (window.jdnEvent) window.jdnEvent('theme_toggle', { theme: 'light' });
       } else {
         document.documentElement.setAttribute('data-theme', 'dark');
         localStorage.setItem('theme', 'dark');
+        if (window.jdnEvent) window.jdnEvent('theme_toggle', { theme: 'dark' });
       }
     });
   </script>
