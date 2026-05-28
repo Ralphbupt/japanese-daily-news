@@ -145,6 +145,15 @@ const podcastJsonLd = {
         }
       });
     } catch(e) {}
+
+    document.addEventListener('click', function(e) {
+      var card = e.target.closest('.episode-card');
+      if (card && window.jdnEvent) {
+        var href = card.getAttribute('href') || '';
+        var m = href.match(/ep\/(\w+)/);
+        window.jdnEvent('episode_card_click', { episode_id: m ? 'ep' + m[1] : '' });
+      }
+    });
   </script>
 
   <footer class="footer">

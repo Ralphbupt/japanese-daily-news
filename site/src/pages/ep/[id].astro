@@ -331,6 +331,18 @@ const segmentsForClient = segs.map(s => ({
     var storageKey = 'jdn-' + epId;
     var progressKey = 'jdn-progress';
 
+    // ===== GA4 analytics state =====
+    var gaPlayed = false;
+    var gaCompleted = false;
+    var gaMilestones = { 25: false, 50: false, 75: false };
+    var gaSeekTimer = null;
+    function ga(name, params) {
+      if (!window.jdnEvent) return;
+      params = params || {};
+      params.episode_id = epId;
+      window.jdnEvent(name, params);
+    }
+
     function getProgress() {
       try { return JSON.parse(localStorage.getItem(progressKey)) || {}; } catch(e) { return {}; }
     }
@@ -421,11 +433,16 @@ const segmentsForClient = segs.map(s => ({
     audio.addEventListener('play', function() {
       iconPlay.style.display = 'none';
       iconPause.style.display = 'block';
+      if (!gaPlayed) { gaPlayed = true; ga('audio_play'); }
     });
 
     audio.addEventListener('pause', function() {
       iconPlay.style.display = 'block';
       iconPause.style.display = 'none';
+    });
+
+    audio.addEventListener('ended', function() {
+      if (!gaCompleted) { gaCompleted = true; ga('audio_complete'); }
     });
 
     audio.addEventListener('loadedmetadata', function() {
@@ -464,6 +481,17 @@ const segmentsForClient = segs.map(s => ({
         saveProgress('listened', true);
       }
 
+      // GA4 progress milestones (only count forward progress, not seeking)
+      if (audio.duration && !isDragging) {
+        var pctNow = (audio.currentTime / audio.duration) * 100;
+        [25, 50, 75].forEach(function(m) {
+          if (!gaMilestones[m] && pctNow >= m && pctNow < m + 5) {
+            gaMilestones[m] = true;
+            ga('audio_progress', { progress: m });
+          }
+        });
+      }
+
       // localStorage: save every ~2s
       if (++saveCounter % 8 === 0) {
         try {
@@ -485,12 +513,20 @@ const segmentsForClient = segs.map(s => ({
         currentTimeEl.textContent = fmt(audio.currentTime);
       }
     }
+    function gaSeekDebounced() {
+      if (gaSeekTimer) clearTimeout(gaSeekTimer);
+      gaSeekTimer = setTimeout(function() {
+        if (audio.duration) {
+          ga('audio_seek', { position: Math.round((audio.currentTime / audio.duration) * 100) });
+        }
+      }, 600);
+    }
     progressBar.addEventListener('mousedown', function(e) { isDragging = true; seekTo(e.clientX); });
     document.addEventListener('mousemove', function(e) { if (isDragging) seekTo(e.clientX); });
-    document.addEventListener('mouseup', function() { isDragging = false; });
+    document.addEventListener('mouseup', function() { if (isDragging) { isDragging = false; gaSeekDebounced(); } });
     progressBar.addEventListener('touchstart', function(e) { isDragging = true; seekTo(e.touches[0].clientX); }, { passive: true });
     document.addEventListener('touchmove', function(e) { if (isDragging) seekTo(e.touches[0].clientX); });
-    document.addEventListener('touchend', function() { isDragging = false; });
+    document.addEventListener('touchend', function() { if (isDragging) { isDragging = false; gaSeekDebounced(); } });
 
     // ===== Speed =====
     speedControls.addEventListener('click', function(e) {
@@ -502,6 +538,7 @@ const segmentsForClient = segs.map(s => ({
       for (var k = 0; k < btns.length; k++) btns[k].classList.remove('active');
       btn.classList.add('active');
       try { localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed })); } catch(e) {}
+      ga('audio_speed_change', { speed: speed });
     });
 
     // ===== Transcript sync =====
@@ -550,6 +587,7 @@ const segmentsForClient = segs.map(s => ({
         tooltip.style.top = (rect.bottom + window.scrollY + 8) + 'px';
         tooltip.style.left = (rect.left + rect.width / 2) + 'px';
         tooltip.style.display = '';
+        ga('vocab_click', { word: ja });
       } else {
         tooltip.style.display = 'none';
       }
@@ -568,6 +606,7 @@ const segmentsForClient = segs.map(s => ({
           if (reviewSection) reviewSection.style.display = 'none';
           pracView.classList.add('visible');
           showPractice(practiceIdx);
+          ga('practice_mode_on');
         } else {
           practiceMode = false;
           autoPauseAt = -1;
@@ -631,8 +670,17 @@ const segmentsForClient = segs.map(s => ({
         var open = reviewContent.style.display !== 'none';
         reviewContent.style.display = open ? 'none' : '';
         reviewToggle.classList.toggle('open', !open);
+        if (!open) ga('grammar_expand');
       });
     }
+
+    // ===== Episode nav (prev/next) =====
+    document.addEventListener('click', function(e) {
+      var nav = e.target.closest('.ep-nav-link');
+      if (nav) {
+        ga('episode_nav', { direction: nav.classList.contains('ep-nav-prev') ? 'prev' : 'next' });
+      }
+    });
 
     // ===== Keyboard =====
     document.addEventListener('keydown', function(e) {
