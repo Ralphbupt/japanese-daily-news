@@ -1,0 +1,453 @@
+{
+  "episode": 7,
+  "title": "上野動物園、土曜の夜のどうぶつえんが始まる",
+  "date": "2026-05-28",
+  "source": "東京動物園協会 / 東京都",
+  "level": "N5-N4",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May twenty-eighth. Tokyo's Ueno Zoo just started a special event — you can visit the zoo at night, only on Saturdays. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日は楽しいニュースです。上野動物園で、新しいイベントが始まりました。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>は<span class=\"vw\" data-ja=\"楽しい\" data-reading=\"たのしい\" data-en=\"fun, enjoyable\"><ruby>楽しい<rt>たのしい</rt></ruby></span>ニュースです。<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby>イベントが<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "イベントの名前は「土曜の夜のどうぶつえん」です。土曜日の夜だけ、動物園に入ることができます。",
+      "ruby": "イベントの<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>土曜<rt>どよう</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>のどうぶつえん」です。<ruby>土曜日<rt>どようび</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>だけ、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "時間は夜の6時から9時までです。5月と6月の土曜日、4日間あります。",
+      "ruby": "<ruby>時間<rt>じかん</rt></ruby>は<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の6<ruby>時<rt>じ</rt></ruby>から9<ruby>時<rt>じ</rt></ruby>までです。5<ruby>月<rt>がつ</rt></ruby>と6<ruby>月<rt>がつ</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、<ruby>4日間<rt>よっかかん</rt></ruby>あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一日に1000人が入ることができます。みんな、はやく予約しています。",
+      "ruby": "<ruby>一日<rt>いちにち</rt></ruby>に1000<ruby>人<rt>にん</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>ことができます。みんな、はやく<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation, booking\"><ruby>予約<rt>よやく</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "入園料は大人600円、子供は200円です。65歳以上のお年寄りは300円です。",
+      "ruby": "<ruby>入園料<rt>にゅうえんりょう</rt></ruby>は<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>600<ruby>円<rt>えん</rt></ruby>、<span class=\"vw\" data-ja=\"子供\" data-reading=\"こども\" data-en=\"child\"><ruby>子供<rt>こども</rt></ruby></span>は200<ruby>円<rt>えん</rt></ruby>です。65<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のお<ruby>年寄り<rt>としより</rt></ruby>は300<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜の動物園では、昼間と違う動物を見ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>では、<ruby>昼間<rt>ひるま</rt></ruby>と<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園の中には美しいライトがあります。食べ物を売るお店もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>は<span class=\"vw\" data-ja=\"美しい\" data-reading=\"うつくしい\" data-en=\"beautiful\"><ruby>美しい<rt>うつくしい</rt></ruby></span>ライトがあります。<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>売る<rt>うる</rt></ruby>お<ruby>店<rt>みせ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "上野動物園には新しい「ハシビロカート」もあります。鳥のハシビロコウのデザインの、小さい電気の車です。",
+      "ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>には<ruby>新しい<rt>あたらしい</rt></ruby>「ハシビロカート」もあります。<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>のハシビロコウのデザインの、<ruby>小さい<rt>ちいさい</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、上野動物園にパンダはいませんが、ほかにもたくさん面白い動物がいます。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>にパンダはいませんが、ほかにもたくさん<ruby>面白い<rt>おもしろい</rt></ruby><ruby>動物<rt>どうぶつ</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「子供も大人も楽しい夜になります」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"子供\" data-reading=\"こども\" data-en=\"child\"><ruby>子供<rt>こども</rt></ruby></span>も<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>も<span class=\"vw\" data-ja=\"楽しい\" data-reading=\"たのしい\" data-en=\"fun, enjoyable\"><ruby>楽しい<rt>たのしい</rt></ruby></span><span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>になります」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "上野動物園で、新しいイベントが始まりました。",
+      "ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby>イベントが<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A new event has started at Ueno Zoo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動物園",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Zoo. The kanji literally mean animal plus garden."
+    },
+    {
+      "speaker": "slow",
+      "text": "土曜日の夜だけ、動物園に入ることができます。",
+      "ruby": "<ruby>土曜日<rt>どようび</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>だけ、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "You can enter the zoo only on Saturday nights."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Night. You'll see it in today, tonight, and midnight."
+    },
+    {
+      "speaker": "slow",
+      "text": "時間は夜の6時から9時までです。",
+      "ruby": "<ruby>時間<rt>じかん</rt></ruby>は<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の6<ruby>時<rt>じ</rt></ruby>から9<ruby>時<rt>じ</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The hours are six to nine in the evening."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to start, to begin (intransitive)\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To start, to begin. This is the form used when something starts on its own. The partner verb, with an e instead of an a, is used when a person starts something."
+    },
+    {
+      "speaker": "slow",
+      "text": "一日に1000人が入ることができます。",
+      "ruby": "<ruby>一日<rt>いちにち</rt></ruby>に1000<ruby>人<rt>にん</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "One thousand people can enter per day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "楽しい",
+      "ruby": "<span class=\"vw\" data-ja=\"楽しい\" data-reading=\"たのしい\" data-en=\"fun, enjoyable\"><ruby>楽しい<rt>たのしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Fun, enjoyable. A very common everyday adjective."
+    },
+    {
+      "speaker": "slow",
+      "text": "入園料は大人600円、子供は200円です。",
+      "ruby": "<ruby>入園料<rt>にゅうえんりょう</rt></ruby>は<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>600<ruby>円<rt>えん</rt></ruby>、<span class=\"vw\" data-ja=\"子供\" data-reading=\"こども\" data-en=\"child\"><ruby>子供<rt>こども</rt></ruby></span>は200<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Admission is six hundred yen for adults and two hundred for children."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大人",
+      "ruby": "<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Adult. The kanji are big plus person."
+    },
+    {
+      "speaker": "slow",
+      "text": "夜の動物園では、昼間と違う動物を見ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>では、<ruby>昼間<rt>ひるま</rt></ruby>と<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "At night, you can see animals different from daytime."
+    },
+    {
+      "speaker": "vocab",
+      "text": "子供",
+      "ruby": "<span class=\"vw\" data-ja=\"子供\" data-reading=\"こども\" data-en=\"child\"><ruby>子供<rt>こども</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Child. Plural is the same word plus tachi."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物園の中には美しいライトがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>は<span class=\"vw\" data-ja=\"美しい\" data-reading=\"うつくしい\" data-en=\"beautiful\"><ruby>美しい<rt>うつくしい</rt></ruby></span>ライトがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are beautiful lights inside the zoo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "美しい",
+      "ruby": "<span class=\"vw\" data-ja=\"美しい\" data-reading=\"うつくしい\" data-en=\"beautiful\"><ruby>美しい<rt>うつくしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Beautiful. A more formal word than the everyday one for pretty. Common in writing and news."
+    },
+    {
+      "speaker": "slow",
+      "text": "鳥のハシビロコウのデザインの、小さい電気の車です。",
+      "ruby": "<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>のハシビロコウのデザインの、<ruby>小さい<rt>ちいさい</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a small electric car designed after the shoebill, a bird."
+    },
+    {
+      "speaker": "vocab",
+      "text": "鳥",
+      "ruby": "<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Bird. Same kanji you see in grilled chicken on a menu."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日は楽しいニュースです。上野動物園で、新しいイベントが始まりました。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>は<span class=\"vw\" data-ja=\"楽しい\" data-reading=\"たのしい\" data-en=\"fun, enjoyable\"><ruby>楽しい<rt>たのしい</rt></ruby></span>ニュースです。<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby>イベントが<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "イベントの名前は「土曜の夜のどうぶつえん」です。土曜日の夜だけ、動物園に入ることができます。",
+      "ruby": "イベントの<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>土曜<rt>どよう</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>のどうぶつえん」です。<ruby>土曜日<rt>どようび</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>だけ、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "時間は夜の6時から9時までです。5月と6月の土曜日、4日間あります。",
+      "ruby": "<ruby>時間<rt>じかん</rt></ruby>は<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の6<ruby>時<rt>じ</rt></ruby>から9<ruby>時<rt>じ</rt></ruby>までです。5<ruby>月<rt>がつ</rt></ruby>と6<ruby>月<rt>がつ</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、<ruby>4日間<rt>よっかかん</rt></ruby>あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一日に1000人が入ることができます。みんな、はやく予約しています。",
+      "ruby": "<ruby>一日<rt>いちにち</rt></ruby>に1000<ruby>人<rt>にん</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>ことができます。みんな、はやく<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation, booking\"><ruby>予約<rt>よやく</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "入園料は大人600円、子供は200円です。65歳以上のお年寄りは300円です。",
+      "ruby": "<ruby>入園料<rt>にゅうえんりょう</rt></ruby>は<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>600<ruby>円<rt>えん</rt></ruby>、<span class=\"vw\" data-ja=\"子供\" data-reading=\"こども\" data-en=\"child\"><ruby>子供<rt>こども</rt></ruby></span>は200<ruby>円<rt>えん</rt></ruby>です。65<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のお<ruby>年寄り<rt>としより</rt></ruby>は300<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜の動物園では、昼間と違う動物を見ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>では、<ruby>昼間<rt>ひるま</rt></ruby>と<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園の中には美しいライトがあります。食べ物を売るお店もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>は<span class=\"vw\" data-ja=\"美しい\" data-reading=\"うつくしい\" data-en=\"beautiful\"><ruby>美しい<rt>うつくしい</rt></ruby></span>ライトがあります。<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>売る<rt>うる</rt></ruby>お<ruby>店<rt>みせ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "上野動物園には新しい「ハシビロカート」もあります。鳥のハシビロコウのデザインの、小さい電気の車です。",
+      "ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>には<ruby>新しい<rt>あたらしい</rt></ruby>「ハシビロカート」もあります。<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>のハシビロコウのデザインの、<ruby>小さい<rt>ちいさい</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、上野動物園にパンダはいませんが、ほかにもたくさん面白い動物がいます。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>にパンダはいませんが、ほかにもたくさん<ruby>面白い<rt>おもしろい</rt></ruby><ruby>動物<rt>どうぶつ</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「子供も大人も楽しい夜になります」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"子供\" data-reading=\"こども\" data-en=\"child\"><ruby>子供<rt>こども</rt></ruby></span>も<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>も<span class=\"vw\" data-ja=\"楽しい\" data-reading=\"たのしい\" data-en=\"fun, enjoyable\"><ruby>楽しい<rt>たのしい</rt></ruby></span><span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>になります」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "イベントの名前は何ですか？",
+      "ruby": "イベントの<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？"
+    },
+    {
+      "speaker": "host",
+      "text": "What is the name of the event? Saturday Night Zoo."
+    },
+    {
+      "speaker": "slow",
+      "text": "時間は何時から何時までですか？",
+      "ruby": "<ruby>時間<rt>じかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>から<ruby>何時<rt>なんじ</rt></ruby>までですか？"
+    },
+    {
+      "speaker": "host",
+      "text": "What time does it run? From six pm to nine pm."
+    },
+    {
+      "speaker": "slow",
+      "text": "大人の入園料はいくらですか？",
+      "ruby": "<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>の<ruby>入園料<rt>にゅうえんりょう</rt></ruby>はいくらですか？"
+    },
+    {
+      "speaker": "host",
+      "text": "How much is the adult admission? Six hundred yen."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚、晚上"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to start, to begin (intransitive)",
+      "zh": "开始（自动词）"
+    },
+    {
+      "ja": "楽しい",
+      "reading": "たのしい",
+      "en": "fun, enjoyable",
+      "zh": "快乐的、有趣的"
+    },
+    {
+      "ja": "大人",
+      "reading": "おとな",
+      "en": "adult",
+      "zh": "大人、成人"
+    },
+    {
+      "ja": "子供",
+      "reading": "こども",
+      "en": "child",
+      "zh": "小孩、儿童"
+    },
+    {
+      "ja": "美しい",
+      "reading": "うつくしい",
+      "en": "beautiful",
+      "zh": "美丽的"
+    },
+    {
+      "ja": "鳥",
+      "reading": "とり",
+      "en": "bird",
+      "zh": "鸟"
+    },
+    {
+      "ja": "違う",
+      "reading": "ちがう",
+      "en": "to be different",
+      "zh": "不同、不一样"
+    },
+    {
+      "ja": "予約",
+      "reading": "よやく",
+      "en": "reservation, booking",
+      "zh": "预约、预订"
+    }
+  ],
+  "practiceZh": [
+    "上野動物園で、新しいイベントが始まりました。\n上野动物园开始了一个新活动。\n「始まる」是自动词（事情自己开始）；他动词「始める」表示「（某人）开始做某事」。",
+    "土曜日の夜だけ、動物園に入ることができます。\n只有周六晚上才能进入动物园。\n「〜だけ」表示「只」「仅仅」。\n「〜ことができます」是「能做某事」的礼貌说法，N5 必学句型。",
+    "時間は夜の6時から9時までです。\n时间是晚上6点到9点。\n「〜から〜まで」是「从……到……」最基础的范围句型，时间、地点都能用。",
+    "一日に1000人が入ることができます。\n每天可以进1000人。\n「一日に〜」表示「每天……」。\n「に」在这里表示频率或基准。",
+    "入園料は大人600円、子供は200円です。\n门票大人600日元，小孩200日元。\n「は」做对比标记：大人は…、子供は…，列举两个类别的不同情况。",
+    "夜の動物園では、昼間と違う動物を見ることができます。\n在夜晚的动物园，能看到和白天不同的动物。\n「〜と違う」表示「和……不同」。\n「で」+「は」加强场所的强调。",
+    "動物園の中には美しいライトがあります。\n动物园里有漂亮的灯光。\n「〜の中に〜があります」是「在……里有……」的基础存在句。\n「美しい」比「きれい」更书面。",
+    "鳥のハシビロコウのデザインの、小さい電気の車です。\n这是设计成鸟「鲸头鹳」形状的小电动车。\n「〜のデザイン」表示「……样式的」。\n多个「の」可以连续连接名词。"
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができます",
+      "meaning": "can do ~ (potential)",
+      "meaningZh": "能够做……",
+      "formation": "verb dictionary form + ことができます",
+      "example": "土曜日の夜だけ、動物園に入ることができます。",
+      "translation": "You can enter the zoo only on Saturday nights.",
+      "note": "The polite, written equivalent of the potential form 〜られます. Common in signs, announcements, and news.",
+      "noteZh": "「〜られます」可能形的礼貌书面表达，新闻、告示、广播里非常常见。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#potential"
+    },
+    {
+      "pattern": "〜から〜まで",
+      "meaning": "from ~ to ~",
+      "meaningZh": "从……到……",
+      "formation": "noun + から + noun + まで",
+      "example": "時間は夜の6時から9時までです。",
+      "translation": "The hours are from six pm to nine pm.",
+      "note": "Works for time, place, and many other ranges: 月曜日から金曜日まで (Monday to Friday), 東京から大阪まで (Tokyo to Osaka).",
+      "noteZh": "时间、地点、数量都能用：月曜日から金曜日まで（周一到周五）、東京から大阪まで（东京到大阪）。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#particles"
+    },
+    {
+      "pattern": "〜だけ",
+      "meaning": "only ~",
+      "meaningZh": "只……、仅仅……",
+      "formation": "noun / verb plain form + だけ",
+      "example": "土曜日の夜だけ、動物園に入ることができます。",
+      "translation": "You can enter the zoo only on Saturday nights.",
+      "note": "Limits the scope to that one thing. Compare with しか〜ない which adds a negative nuance (nothing but).",
+      "noteZh": "限定范围在某一项。比较「しか〜ない」（只有……，带否定语气）。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#dake"
+    },
+    {
+      "pattern": "〜と違う",
+      "meaning": "different from ~",
+      "meaningZh": "和……不同",
+      "formation": "noun + と + 違う",
+      "example": "夜の動物園では、昼間と違う動物を見ることができます。",
+      "translation": "At the zoo at night, you can see animals different from those in the daytime.",
+      "note": "違う is also used as a one-word reply meaning that's not right or no. In writing it often follows と to mark the compared item.",
+      "noteZh": "「違う」单独使用也表示「不对」「不是这样」。在句中跟「と」搭配，标记比较对象。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#chigau"
+    }
+  ]
+}

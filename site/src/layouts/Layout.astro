@@ -32,7 +32,7 @@ const ogImageUrl = new URL(ogImage, SITE).href;
       document.documentElement.setAttribute('data-lang',l);
       var fs=localStorage.getItem('jdn-fontsize')||'medium';
       document.documentElement.setAttribute('data-fontsize',fs);
-      var PAGE_VERSION='2026052601';
+      var PAGE_VERSION='2026052901';
       var storedVersion=localStorage.getItem('jdn-version');
       if(storedVersion!==PAGE_VERSION){localStorage.removeItem('jdn-ep001');localStorage.removeItem('jdn-ep002');localStorage.removeItem('jdn-ep003');localStorage.removeItem('jdn-ep004');var keys=Object.keys(localStorage);for(var i=0;i<keys.length;i++){if(keys[i].startsWith('jdn-ep'))localStorage.removeItem(keys[i]);}localStorage.setItem('jdn-version',PAGE_VERSION);}
     })();
