@@ -116,7 +116,7 @@ const ogImageUrl = new URL(ogImage, SITE).href;
         localStorage.setItem('jdn-lang', l);
         window.dispatchEvent(new Event('langchange'));
         lt.querySelectorAll('.lang-btn').forEach(function(x) { x.classList.toggle('active', x.getAttribute('data-lang') === l); });
-        if (window.jdnEvent) window.jdnEvent('lang_toggle', { lang: l });
+        if (window.jdnEvent) window.jdnEvent('language_toggle', { lang: l });
       });
     }
     document.addEventListener('click', function(e) {
