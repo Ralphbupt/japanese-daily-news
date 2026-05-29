@@ -72,6 +72,31 @@ function padNum(n: number): string {
   return String(n).padStart(3, '0');
 }
 
+// Build a unique, descriptive meta description per episode. The host intro
+// follows "Welcome... I'm Maya. Today is <date>. Today's story: <summary>. Let's
+// listen." — we extract just the story summary so each page has a distinct,
+// content-rich description (the old logic emitted the same boilerplate greeting
+// for every episode, which Google treats as duplicate/thin content).
+function buildDescription(raw: RawEpisode): string {
+  const intro = raw.segments.find(s => s.speaker === 'host')?.text || '';
+  let summary = '';
+  const m = intro.match(/Today['’]s story\b[^.!?]*?:\s*(.+?)(?:\s*Let['’]s listen\.?\s*)?$/i);
+  if (m) summary = m[1].trim();
+  if (!summary) {
+    const drop = /welcome to japanese daily news|i['’]m maya|your host|today is\b|let['’]s listen/i;
+    summary = intro
+      .split(/(?<=[.!?])\s+/)
+      .filter(s => s && !drop.test(s))
+      .join(' ')
+      .trim();
+  }
+  if (summary && !/[.!?]$/.test(summary)) summary += '.';
+  if (summary) summary = summary.charAt(0).toUpperCase() + summary.slice(1);
+  const base = summary || raw.title;
+  const level = raw.level ? ` Level ${raw.level}.` : '';
+  return `${base} Learn Japanese with native audio, furigana, vocabulary and grammar.${level}`;
+}
+
 const PAUSE_AFTER: Record<string, number> = {
   host: 0.6,
   news: 0.7,
@@ -123,10 +148,7 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
     } catch { /* use estimates */ }
   }
 
-  const intro = raw.segments.find(s => s.speaker === 'host');
-  const description = intro
-    ? intro.text.split(/\.\s*/).slice(0, 2).join('. ') + '.'
-    : raw.title;
+  const description = buildDescription(raw);
 
   return {
     ...raw,

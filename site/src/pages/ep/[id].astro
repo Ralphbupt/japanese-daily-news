@@ -29,7 +29,7 @@ const episodeJsonLd = {
   "@type": "PodcastEpisode",
   "name": `EP ${episode.paddedNum}: ${episode.title}`,
   "description": episode.description,
-  "url": `${SITE}/ep/${episode.paddedNum}`,
+  "url": `${SITE}/ep/${episode.paddedNum}/`,
   "datePublished": episode.date,
   "duration": durationISO,
   "associatedMedia": {
@@ -248,13 +248,13 @@ const segmentsForClient = segs.map(s => ({
     <!-- Prev / Next -->
     <nav class="ep-nav">
       {prevEp ? (
-        <a href={`/ep/${prevEp.paddedNum}`} class="ep-nav-link ep-nav-prev">
+        <a href={`/ep/${prevEp.paddedNum}/`} class="ep-nav-link ep-nav-prev">
           <span class="ep-nav-label">&larr; <span class="i18n-en">Previous</span><span class="i18n-zh">上一集</span></span>
           <span class="ep-nav-title">EP {prevEp.paddedNum}: {prevEp.title}</span>
         </a>
       ) : <span />}
       {nextEp ? (
-        <a href={`/ep/${nextEp.paddedNum}`} class="ep-nav-link ep-nav-next">
+        <a href={`/ep/${nextEp.paddedNum}/`} class="ep-nav-link ep-nav-next">
           <span class="ep-nav-label"><span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;</span>
           <span class="ep-nav-title">EP {nextEp.paddedNum}: {nextEp.title}</span>
         </a>
