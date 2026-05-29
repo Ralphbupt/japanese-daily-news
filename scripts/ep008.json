@@ -1,0 +1,495 @@
+{
+  "episode": 8,
+  "title": "渋谷区、6月1日からポイ捨てに2000円",
+  "date": "2026-05-29",
+  "source": "渋谷区 / 日テレNEWS",
+  "level": "N5-N4",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May twenty-ninth. From June first, Tokyo's Shibuya Ward will fine people two thousand yen for littering. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "6月1日から、東京の渋谷区で、新しいルールが始まります。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>から、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷区<rt>しぶやく</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「道にゴミを捨ててはいけません」というルールです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road, street\"><ruby>道<rt>みち</rt></ruby></span>に<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<ruby>捨て<rt>すて</rt></ruby>てはいけません」という<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゴミを捨てると、お金を払わなければなりません。お金は2000円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>ると</span>、<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>を<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>は2000<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区の人が、町を見に行きます。ゴミを捨てる人がいたら、すぐ、その場で2000円もらいます。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>町<rt>まち</rt></ruby>を<ruby>見に行き<rt>みにいき</rt></ruby>ます。<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>がいたら、すぐ、その<ruby>場<rt>ば</rt></ruby>で2000<ruby>円<rt>えん</rt></ruby>もらいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "お金は、現金で払います。スマホやカードで払うこともできます。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>は、<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>払い<rt>はらい</rt></ruby>ます。スマホやカードで<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>こともできます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゴミは、たばこや、ペットボトル、紙、ガムなどです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>は、たばこや、ペットボトル、<ruby>紙<rt>かみ</rt></ruby>、ガムなどです。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区の中、どこでもダメです。お店の前も、駅の前も、公園も、みんな同じです。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、どこでもダメです。お<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>も、<span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"(train) station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>も、<span class=\"vw\" data-ja=\"公園\" data-reading=\"こうえん\" data-en=\"park\"><ruby>公園<rt>こうえん</rt></ruby></span>も、みんな<ruby>同じ<rt>おなじ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷は、たくさんの人が来る街です。夜も、若い人や、外国の人がたくさんいます。",
+      "ruby": "<ruby>渋谷<rt>しぶや</rt></ruby>は、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>来る<rt>くる</rt></ruby><span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>です。<ruby>夜<rt>よる</rt></ruby>も、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>や、<ruby>外国<rt>がいこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がたくさんいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、町にゴミがとても多くなりました。それで、新しいルールを作りました。",
+      "ruby": "でも、<ruby>町<rt>まち</rt></ruby>に<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>がとても<ruby>多く<rt>おおく</rt></ruby>なりました。それで、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区のルールは、4月から始まりました。でも、2000円のお金は、6月1日からです。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>は、4<ruby>月<rt>がつ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。でも、2000<ruby>円<rt>えん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>は、6<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "4月の調査では、まだルールを知らない人がたくさんいました。",
+      "ruby": "4<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>では、まだ<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>を<ruby>知ら<rt>しら</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>がたくさんいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区は、「みんなで、きれいな街にしましょう」と話しています。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>は、「みんなで、<span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean, pretty\">きれいな</span><span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>にしましょう」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "旅行で渋谷に行く人も、気をつけてください。",
+      "ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>人<rt>ひと</rt></ruby>も、<ruby>気<rt>き</rt></ruby>をつけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月1日から、東京の渋谷区で、新しいルールが始まります。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>から、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷区<rt>しぶやく</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From June first, a new rule will begin in Tokyo's Shibuya Ward."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ルール",
+      "ruby": "<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Rule. Katakana from the English word."
+    },
+    {
+      "speaker": "slow",
+      "text": "道にゴミを捨ててはいけません。",
+      "ruby": "<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road, street\"><ruby>道<rt>みち</rt></ruby></span>に<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<ruby>捨て<rt>すて</rt></ruby>てはいけません。"
+    },
+    {
+      "speaker": "host",
+      "text": "You must not throw trash on the street."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ゴミ",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Trash, garbage. Usually written in katakana, even though it has a kanji form."
+    },
+    {
+      "speaker": "slow",
+      "text": "ゴミを捨てると、お金を払わなければなりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>ると</span>、<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>を<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you throw trash, you have to pay money."
+    },
+    {
+      "speaker": "vocab",
+      "text": "捨てる",
+      "ruby": "<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To throw away, to discard. A very common verb."
+    },
+    {
+      "speaker": "slow",
+      "text": "お金は2000円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>は2000<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The amount is two thousand yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お金",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Money. The polite o prefix is almost always attached."
+    },
+    {
+      "speaker": "slow",
+      "text": "お金は、現金で払います。スマホやカードで払うこともできます。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>は、<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>払い<rt>はらい</rt></ruby>ます。スマホやカードで<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>こともできます。"
+    },
+    {
+      "speaker": "host",
+      "text": "You pay in cash. Smartphone or card payment is also possible."
+    },
+    {
+      "speaker": "vocab",
+      "text": "払う",
+      "ruby": "<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To pay. Used for bills, fares, and fines."
+    },
+    {
+      "speaker": "slow",
+      "text": "渋谷区の中、どこでもダメです。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、どこでもダメです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Anywhere in Shibuya Ward is not allowed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "街",
+      "ruby": "<span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Town, city block. A very common word for the area outside your home."
+    },
+    {
+      "speaker": "slow",
+      "text": "渋谷は、たくさんの人が来る街です。",
+      "ruby": "<ruby>渋谷<rt>しぶや</rt></ruby>は、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>来る<rt>くる</rt></ruby><span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Shibuya is a town where many people come."
+    },
+    {
+      "speaker": "vocab",
+      "text": "駅",
+      "ruby": "<span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"(train) station\"><ruby>駅<rt>えき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Station. You'll see this on every train sign in Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "みんなで、きれいな街にしましょう。",
+      "ruby": "みんなで、<span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean, pretty\">きれいな</span><span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>にしましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's make the town clean together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "きれい",
+      "ruby": "<span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean, pretty\">きれい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Clean, or pretty. Same word for both meanings."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "6月1日から、東京の渋谷区で、新しいルールが始まります。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>から、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷区<rt>しぶやく</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「道にゴミを捨ててはいけません」というルールです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road, street\"><ruby>道<rt>みち</rt></ruby></span>に<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<ruby>捨て<rt>すて</rt></ruby>てはいけません」という<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゴミを捨てると、お金を払わなければなりません。お金は2000円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>ると</span>、<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>を<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>は2000<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区の人が、町を見に行きます。ゴミを捨てる人がいたら、すぐ、その場で2000円もらいます。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>町<rt>まち</rt></ruby>を<ruby>見に行き<rt>みにいき</rt></ruby>ます。<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>がいたら、すぐ、その<ruby>場<rt>ば</rt></ruby>で2000<ruby>円<rt>えん</rt></ruby>もらいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "お金は、現金で払います。スマホやカードで払うこともできます。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>は、<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>払い<rt>はらい</rt></ruby>ます。スマホやカードで<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>こともできます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゴミは、たばこや、ペットボトル、紙、ガムなどです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>は、たばこや、ペットボトル、<ruby>紙<rt>かみ</rt></ruby>、ガムなどです。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区の中、どこでもダメです。お店の前も、駅の前も、公園も、みんな同じです。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、どこでもダメです。お<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>も、<span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"(train) station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>も、<span class=\"vw\" data-ja=\"公園\" data-reading=\"こうえん\" data-en=\"park\"><ruby>公園<rt>こうえん</rt></ruby></span>も、みんな<ruby>同じ<rt>おなじ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷は、たくさんの人が来る街です。夜も、若い人や、外国の人がたくさんいます。",
+      "ruby": "<ruby>渋谷<rt>しぶや</rt></ruby>は、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>来る<rt>くる</rt></ruby><span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>です。<ruby>夜<rt>よる</rt></ruby>も、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>や、<ruby>外国<rt>がいこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がたくさんいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、町にゴミがとても多くなりました。それで、新しいルールを作りました。",
+      "ruby": "でも、<ruby>町<rt>まち</rt></ruby>に<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>がとても<ruby>多く<rt>おおく</rt></ruby>なりました。それで、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区のルールは、4月から始まりました。でも、2000円のお金は、6月1日からです。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>の<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>は、4<ruby>月<rt>がつ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。でも、2000<ruby>円<rt>えん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>は、6<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "4月の調査では、まだルールを知らない人がたくさんいました。",
+      "ruby": "4<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>では、まだ<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>を<ruby>知ら<rt>しら</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>がたくさんいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "渋谷区は、「みんなで、きれいな街にしましょう」と話しています。",
+      "ruby": "<ruby>渋谷区<rt>しぶやく</rt></ruby>は、「みんなで、<span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean, pretty\">きれいな</span><span class=\"vw\" data-ja=\"街\" data-reading=\"まち\" data-en=\"town, streetscape\"><ruby>街<rt>まち</rt></ruby></span>にしましょう」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "旅行で渋谷に行く人も、気をつけてください。",
+      "ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>人<rt>ひと</rt></ruby>も、<ruby>気<rt>き</rt></ruby>をつけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "2000円のルールはいつ始まりますか？",
+      "ruby": "2000<ruby>円<rt>えん</rt></ruby>の<span class=\"vw\" data-ja=\"ルール\" data-reading=\"るーる\" data-en=\"rule\">ルール</span>はいつ<ruby>始まり<rt>はじまり</rt></ruby>ますか？"
+    },
+    {
+      "speaker": "host",
+      "text": "When does the two thousand yen rule start? June first."
+    },
+    {
+      "speaker": "slow",
+      "text": "ゴミを捨てると、いくら払いますか？",
+      "ruby": "<span class=\"vw\" data-ja=\"ゴミ\" data-reading=\"ごみ\" data-en=\"trash, garbage\">ゴミ</span>を<span class=\"vw\" data-ja=\"捨てる\" data-reading=\"すてる\" data-en=\"to throw away, to discard\"><ruby>捨て<rt>すて</rt></ruby>ると</span>、いくら<ruby>払い<rt>はらい</rt></ruby>ますか？"
+    },
+    {
+      "speaker": "host",
+      "text": "How much do you pay if you throw trash? Two thousand yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "現金がなくても、払うことができますか？",
+      "ruby": "<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>がなくても、<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>ことができますか？"
+    },
+    {
+      "speaker": "host",
+      "text": "Can you pay without cash? Yes — smartphone or card is also possible."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "ルール",
+      "reading": "るーる",
+      "en": "rule",
+      "zh": "规则"
+    },
+    {
+      "ja": "ゴミ",
+      "reading": "ごみ",
+      "en": "trash, garbage",
+      "zh": "垃圾"
+    },
+    {
+      "ja": "捨てる",
+      "reading": "すてる",
+      "en": "to throw away, to discard",
+      "zh": "扔掉、丢弃"
+    },
+    {
+      "ja": "お金",
+      "reading": "おかね",
+      "en": "money",
+      "zh": "钱"
+    },
+    {
+      "ja": "払う",
+      "reading": "はらう",
+      "en": "to pay",
+      "zh": "支付、付钱"
+    },
+    {
+      "ja": "現金",
+      "reading": "げんきん",
+      "en": "cash",
+      "zh": "现金"
+    },
+    {
+      "ja": "街",
+      "reading": "まち",
+      "en": "town, streetscape",
+      "zh": "街道、街区"
+    },
+    {
+      "ja": "駅",
+      "reading": "えき",
+      "en": "(train) station",
+      "zh": "车站"
+    },
+    {
+      "ja": "きれい",
+      "reading": "きれい",
+      "en": "clean, pretty",
+      "zh": "干净、漂亮"
+    },
+    {
+      "ja": "道",
+      "reading": "みち",
+      "en": "road, street",
+      "zh": "路、街"
+    },
+    {
+      "ja": "公園",
+      "reading": "こうえん",
+      "en": "park",
+      "zh": "公园"
+    },
+    {
+      "ja": "調査",
+      "reading": "ちょうさ",
+      "en": "survey, investigation",
+      "zh": "调查"
+    }
+  ],
+  "practiceZh": [
+    "6月1日から、東京の渋谷区で、新しいルールが始まります。\n6月1日起，东京涩谷区将开始一项新规则。\n「〜から」表示「从……开始」。\n「で」表示场所「在……」。",
+    "道にゴミを捨ててはいけません。\n不可以在路上丢垃圾。\n「〜てはいけません」是禁止句型「不可以做……」，N5 必学。\n常用于规则、告示、礼貌劝告。",
+    "ゴミを捨てると、お金を払わなければなりません。\n如果扔垃圾，就必须付钱。\n「〜と」表示「一……就……」的条件结果。\n「〜なければなりません」是「必须……」，礼貌且正式。",
+    "お金は2000円です。\n金额是2000日元。\n「〜は〜です」是日语最基础的主题陈述句。\n「お金」中的「お」是表示礼貌的接头词。",
+    "お金は、現金で払います。スマホやカードで払うこともできます。\n用现金支付。也可以用智能手机或银行卡支付。\n「〜で」表示手段：「現金で」「カードで」。\n「〜こともできます」＝「也能……」，补充说明另一种可能。",
+    "渋谷区の中、どこでもダメです。\n涩谷区内任何地方都不行。\n「どこでも」＝「无论哪里都」。\n「ダメ」是口语「不行/不可以」，新闻里偶尔出现。",
+    "渋谷は、たくさんの人が来る街です。\n涩谷是一座很多人来的街区。\n「〜が来る街」是定语从句修饰「街」：「人が来る」（人来）＋「街」（街区）。\n「街」比「町」更偏「商业街区」的感觉。",
+    "みんなで、きれいな街にしましょう。\n大家一起把街区弄干净吧。\n「〜にしましょう」是「让我们使它变成……」的劝诱形。\n「きれいな街にする」＝把街区变得干净。"
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てはいけません",
+      "meaning": "must not ~, you may not ~",
+      "meaningZh": "不可以……、禁止……",
+      "formation": "verb て-form + は + いけません",
+      "example": "道にゴミを捨ててはいけません。",
+      "translation": "You must not throw trash on the street.",
+      "note": "Standard prohibition. Public signs and rules use this form. The casual equivalent is 〜ちゃダメ.",
+      "noteZh": "标准禁止表达。告示、规则上常用。口语简略形是「〜ちゃダメ」。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#tehaikenai"
+    },
+    {
+      "pattern": "〜なければなりません",
+      "meaning": "must ~, have to ~",
+      "meaningZh": "必须……、不得不……",
+      "formation": "verb negative stem + なければなりません",
+      "example": "ゴミを捨てると、お金を払わなければなりません。",
+      "translation": "If you throw trash, you have to pay money.",
+      "note": "Strong obligation. Slightly stiff; the everyday spoken form is 〜なきゃ. Pairs naturally with rules, laws, and deadlines.",
+      "noteZh": "强烈义务感，稍显生硬。口语常缩成「〜なきゃ」。规则、法律、截止日期场合常用。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#nakerebanarimasen"
+    },
+    {
+      "pattern": "〜と (conditional)",
+      "meaning": "when ~ / if ~, then naturally...",
+      "meaningZh": "一……就……、如果……就……",
+      "formation": "verb plain form + と + (natural consequence)",
+      "example": "ゴミを捨てると、お金を払わなければなりません。",
+      "translation": "If you throw trash, you have to pay money.",
+      "note": "Used for inevitable or rule-based results. Cannot be followed by a command in the main clause — use たら or ば for that.",
+      "noteZh": "用于必然结果或规则性结果。后半句不能跟命令或请求句；那种场合用「たら」或「ば」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#to-conditional"
+    },
+    {
+      "pattern": "〜ましょう",
+      "meaning": "let's ~",
+      "meaningZh": "我们……吧",
+      "formation": "verb stem + ましょう",
+      "example": "みんなで、きれいな街にしましょう。",
+      "translation": "Let's make the town clean together.",
+      "note": "Polite invitation or suggestion. Often paired with みんなで or 一緒に. Public service campaigns rely on this form.",
+      "noteZh": "礼貌的邀请或建议。常配「みんなで」「一緒に」一起用。公益宣传、口号里频繁出现。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#mashou"
+    }
+  ]
+}
