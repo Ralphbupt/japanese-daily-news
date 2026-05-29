@@ -61,7 +61,7 @@ const podcastJsonLd = {
       </p>
       <div class="hero-actions animate-in delay-3">
         {latest && (
-          <a href={`/ep/${latest.paddedNum}`} class="btn btn-primary">
+          <a href={`/ep/${latest.paddedNum}/`} class="btn btn-primary">
             &#9654; <span class="i18n-en">Latest Episode</span><span class="i18n-zh">最新一集</span>
           </a>
         )}
@@ -88,7 +88,7 @@ const podcastJsonLd = {
   <section class="episodes-section">
     <h2 class="section-label animate-in delay-4"><span class="i18n-en">Episodes</span><span class="i18n-zh">节目列表</span></h2>
     {episodes.map((ep, i) => (
-      <a href={`/ep/${ep.paddedNum}`} class={`episode-card animate-in delay-${Math.min(i + 4, 5)}`}>
+      <a href={`/ep/${ep.paddedNum}/`} class={`episode-card animate-in delay-${Math.min(i + 4, 5)}`}>
         <div class="ep-number">{ep.paddedNum}</div>
         <div class="ep-info">
           <h3 class="ep-title">
