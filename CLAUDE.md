@@ -15,20 +15,23 @@ Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnot
 # 2. Add furigana + vocab highlights
 .venv/bin/python tools/add-furigana.py epNNN
 
-# 3. Generate audio + timing data
+# 3. Validate the script (schema + content rules)
+python3 tools/validate-episode.py epNNN
+
+# 4. Generate audio + timing data
 .venv/bin/python tools/gen-episode.py epNNN
 
-# 4. Generate subtitles (VTT + SRT)
+# 5. Generate subtitles (VTT + SRT)
 python3 tools/gen-subtitles.py epNNN
 
-# 5. Copy assets to site
+# 6. Copy assets to site
 cp audio/epNNN.mp3 site/public/audio/
 cp subtitles/epNNN.* site/public/subtitles/
 
-# 6. Build and preview
+# 7. Build and preview
 cd site && npm run dev
 
-# 7. Deploy (push to GitHub, Cloudflare auto-deploys)
+# 8. Deploy (push to GitHub, Cloudflare auto-deploys)
 git add . && git commit && git push
 ```
 
@@ -81,7 +84,12 @@ Features: synced transcript, furigana, vocab click tooltips, practice mode (精�
 - `tools/gen-episode.py` — TTS audio generation + timing manifest
 - `tools/add-furigana.py` — adds ruby HTML + vocab highlights to Japanese segments (uses pykakasi)
 - `tools/gen-subtitles.py` — generates VTT/SRT from timing data
+- `tools/validate-episode.py` — schema + content-rule check (host has no Japanese, vocab has `zh`, ja-segments have `ruby`, etc.). Run with `epNNN`, no args (all), or `--staged` (git pre-commit).
 - `tools/cover.html` — podcast cover image template (screenshot at 3000x3000)
+
+## Git hooks
+
+`.githooks/pre-commit` runs `validate-episode.py --staged` on any staged `scripts/ep*.json`. Enabled for this repo via `git config core.hooksPath .githooks` — re-run that command after a fresh clone.
 
 ## Deployment
 
