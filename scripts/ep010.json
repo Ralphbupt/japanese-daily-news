@@ -1,0 +1,575 @@
+{
+  "episode": 10,
+  "title": "6月1日は「衣替え」の日",
+  "date": "2026-06-01",
+  "source": "季節の話題（衣替え）",
+  "level": "N5-N4",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June first. Today's story is a Japanese custom: June first is the day people switch to their summer clothes. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日は、6月1日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>は、<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月1日は、「衣替え」の日です。",
+      "ruby": "<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」の<ruby>日<rt>ひ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「衣替え」は、服を変えることです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>ることです。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑い季節になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot (weather)\"><ruby>暑い<rt>あつい</rt></ruby></span><span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、夏の服に変えます。",
+      "ruby": "だから、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "夏の服は、すずしいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、すずしいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの学校で、夏の制服になります。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>で、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"制服\" data-reading=\"せいふく\" data-en=\"uniform\"><ruby>制服<rt>せいふく</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社でも、夏の服を着る人が多いです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>でも、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<span class=\"vw\" data-ja=\"着る\" data-reading=\"きる\" data-en=\"to wear\"><ruby>着る<rt>きる</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「衣替え」は、昔から続く習慣です。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、<ruby>昔<rt>むかし</rt></ruby>から<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "平安時代に、始まりました。",
+      "ruby": "<ruby>平安時代<rt>へいあんじだい</rt></ruby>に、<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月1日は、冬の服に変えます。",
+      "ruby": "<ruby>10月<rt>じゅうがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、<ruby>冬<rt>ふゆ</rt></ruby>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑い日も、寒い日も、あります。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot (weather)\"><ruby>暑い<rt>あつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>も、<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>ひ</rt></ruby>も、あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、ゆっくり変える学校もあります。",
+      "ruby": "だから、ゆっくり<ruby>変え<rt>かえ</rt></ruby>る<ruby>学校<rt>がっこう</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の、季節を感じる習慣です。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の、<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>を<ruby>感じ<rt>かんじ</rt></ruby>る<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日は、6月1日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>は、<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Today is June first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "今日",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means today. One of the very first words every learner picks up."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月1日は、「衣替え」の日です。",
+      "ruby": "<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」の<ruby>日<rt>ひ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "June first is the day for changing clothes by season."
+    },
+    {
+      "speaker": "vocab",
+      "text": "衣替え",
+      "ruby": "<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It names the custom of switching your wardrobe when the season changes. The first part means clothing."
+    },
+    {
+      "speaker": "slow",
+      "text": "「衣替え」は、服を変えることです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>ることです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the act of changing your clothes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "服",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clothes. Use it for clothing in general."
+    },
+    {
+      "speaker": "slow",
+      "text": "暑い季節になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot (weather)\"><ruby>暑い<rt>あつい</rt></ruby></span><span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It has become the hot season."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暑い",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot (weather)\"><ruby>暑い<rt>あつい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hot, for the weather. A must-know word for a Japanese summer."
+    },
+    {
+      "speaker": "slow",
+      "text": "だから、夏の服に変えます。",
+      "ruby": "だから、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "So, people change into summer clothes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夏",
+      "ruby": "<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means summer. The four seasons are a favorite topic in Japanese."
+    },
+    {
+      "speaker": "slow",
+      "text": "夏の服は、すずしいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、すずしいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Summer clothes are cool."
+    },
+    {
+      "speaker": "vocab",
+      "text": "涼しい",
+      "ruby": "<span class=\"vw\" data-ja=\"涼しい\" data-reading=\"すずしい\" data-en=\"cool (pleasant)\"><ruby>涼しい<rt>すずしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cool in a pleasant way, the opposite of hot. Perfect for describing a nice breeze."
+    },
+    {
+      "speaker": "slow",
+      "text": "多くの学校で、夏の制服になります。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>で、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"制服\" data-reading=\"せいふく\" data-en=\"uniform\"><ruby>制服<rt>せいふく</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "At many schools, the uniform becomes the summer one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "制服",
+      "ruby": "<span class=\"vw\" data-ja=\"制服\" data-reading=\"せいふく\" data-en=\"uniform\"><ruby>制服<rt>せいふく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means uniform, like the ones students wear. Japanese schools are famous for them."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社でも、夏の服を着る人が多いです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>でも、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<span class=\"vw\" data-ja=\"着る\" data-reading=\"きる\" data-en=\"to wear\"><ruby>着る<rt>きる</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "At companies too, many people wear summer clothes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "着る",
+      "ruby": "<span class=\"vw\" data-ja=\"着る\" data-reading=\"きる\" data-en=\"to wear\"><ruby>着る<rt>きる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to wear, for clothes on the upper body. A very common everyday verb."
+    },
+    {
+      "speaker": "slow",
+      "text": "「衣替え」は、昔から続く習慣です。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、<ruby>昔<rt>むかし</rt></ruby>から<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Changing clothes by season is a custom that has continued since long ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "習慣",
+      "ruby": "<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a custom or habit, something people do regularly."
+    },
+    {
+      "speaker": "slow",
+      "text": "平安時代に、始まりました。",
+      "ruby": "<ruby>平安時代<rt>へいあんじだい</rt></ruby>に、<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It began in the Heian period, about a thousand years ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to begin or to start. The thing itself starts, on its own."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の、季節を感じる習慣です。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の、<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>を<ruby>感じ<rt>かんじ</rt></ruby>る<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a custom that lets you feel the seasons of Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "季節",
+      "ruby": "<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means season. Japan makes a big deal of all four."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日は、6月1日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>は、<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月1日は、「衣替え」の日です。",
+      "ruby": "<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」の<ruby>日<rt>ひ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「衣替え」は、服を変えることです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>ることです。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑い季節になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot (weather)\"><ruby>暑い<rt>あつい</rt></ruby></span><span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、夏の服に変えます。",
+      "ruby": "だから、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "夏の服は、すずしいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、すずしいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの学校で、夏の制服になります。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>で、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"制服\" data-reading=\"せいふく\" data-en=\"uniform\"><ruby>制服<rt>せいふく</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社でも、夏の服を着る人が多いです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>でも、<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<span class=\"vw\" data-ja=\"着る\" data-reading=\"きる\" data-en=\"to wear\"><ruby>着る<rt>きる</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「衣替え」は、昔から続く習慣です。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、<ruby>昔<rt>むかし</rt></ruby>から<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "平安時代に、始まりました。",
+      "ruby": "<ruby>平安時代<rt>へいあんじだい</rt></ruby>に、<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月1日は、冬の服に変えます。",
+      "ruby": "<ruby>10月<rt>じゅうがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、<ruby>冬<rt>ふゆ</rt></ruby>の<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑い日も、寒い日も、あります。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot (weather)\"><ruby>暑い<rt>あつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>も、<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>ひ</rt></ruby>も、あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、ゆっくり変える学校もあります。",
+      "ruby": "だから、ゆっくり<ruby>変え<rt>かえ</rt></ruby>る<ruby>学校<rt>がっこう</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の、季節を感じる習慣です。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の、<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>を<ruby>感じ<rt>かんじ</rt></ruby>る<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom; habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Four questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日は、何の日ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>は、<ruby>何の<rt>なんの</rt></ruby><ruby>日<rt>ひ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What day is today? It is the day to switch to summer clothes."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月1日は、どんな服に変えますか。",
+      "ruby": "<ruby>6月<rt>ろくがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、どんな<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kind of clothes do people change into on June first? Summer clothes."
+    },
+    {
+      "speaker": "slow",
+      "text": "「衣替え」は、いつ始まりましたか。",
+      "ruby": "「<span class=\"vw\" data-ja=\"衣替え\" data-reading=\"ころもがえ\" data-en=\"seasonal change of clothing\"><ruby>衣<rt>ころも</rt></ruby><ruby>替え<rt>かえ</rt></ruby></span>」は、いつ<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When did this custom begin? In the Heian period, long ago."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月1日は、どんな服に変えますか。",
+      "ruby": "<ruby>10月<rt>じゅうがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は、どんな<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>に<ruby>変え<rt>かえ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What clothes do people change into on October first? Winter clothes."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "今日",
+      "reading": "きょう",
+      "en": "today",
+      "zh": "今天"
+    },
+    {
+      "ja": "衣替え",
+      "reading": "ころもがえ",
+      "en": "seasonal change of clothing",
+      "zh": "换季换装"
+    },
+    {
+      "ja": "服",
+      "reading": "ふく",
+      "en": "clothes",
+      "zh": "衣服"
+    },
+    {
+      "ja": "暑い",
+      "reading": "あつい",
+      "en": "hot (weather)",
+      "zh": "热"
+    },
+    {
+      "ja": "夏",
+      "reading": "なつ",
+      "en": "summer",
+      "zh": "夏天"
+    },
+    {
+      "ja": "涼しい",
+      "reading": "すずしい",
+      "en": "cool (pleasant)",
+      "zh": "凉爽"
+    },
+    {
+      "ja": "制服",
+      "reading": "せいふく",
+      "en": "uniform",
+      "zh": "制服"
+    },
+    {
+      "ja": "着る",
+      "reading": "きる",
+      "en": "to wear",
+      "zh": "穿"
+    },
+    {
+      "ja": "習慣",
+      "reading": "しゅうかん",
+      "en": "custom; habit",
+      "zh": "习惯"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "季節",
+      "reading": "きせつ",
+      "en": "season",
+      "zh": "季节"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜になりました",
+      "meaning": "became ~, has become ~",
+      "meaningZh": "变成了……、到了……",
+      "formation": "noun / na-adjective + になりました (i-adjective: ～くなりました)",
+      "example": "暑い季節になりました。",
+      "translation": "It has become the hot season.",
+      "note": "Describes a change of state. なる means 'to become'; なりました is its polite past. With い-adjectives, drop い and add くなりました.",
+      "noteZh": "表示状态的变化。「なる」是「变得」，「なりました」是其礼貌过去式。接い形容词时去掉「い」加「くなりました」。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ninarimasu"
+    },
+    {
+      "pattern": "だから",
+      "meaning": "so, therefore",
+      "meaningZh": "所以、因此",
+      "formation": "sentence. + だから + sentence.",
+      "example": "暑くなりました。だから、夏の服に変えます。",
+      "translation": "It got hot. So, people change into summer clothes.",
+      "note": "Connects a reason to its result at the start of a sentence. The reason comes first, then だから, then what follows from it.",
+      "noteZh": "用于句首，把原因和结果连接起来。先说原因，再用「だから」引出结果。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#dakara"
+    },
+    {
+      "pattern": "〜こと",
+      "meaning": "the act of ~; turning a verb into a noun",
+      "meaningZh": "……这件事（把动词名词化）",
+      "formation": "verb (plain form) + こと",
+      "example": "衣替えは、服を変えることです。",
+      "translation": "Koromogae is the act of changing clothes.",
+      "note": "こと turns a verb or whole phrase into a noun, so you can say 'the act of doing ~'. It lets a verb act as the subject or topic.",
+      "noteZh": "「こと」把动词或短语名词化，表示「做……这件事」，使动词能充当主语或主题。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#koto"
+    },
+    {
+      "pattern": "〜で",
+      "meaning": "at / in (place of an action)",
+      "meaningZh": "在……（动作发生的场所）",
+      "formation": "place noun + で + action verb",
+      "example": "多くの学校で、夏の制服になります。",
+      "translation": "At many schools, the uniform becomes the summer one.",
+      "note": "で marks where an action happens. Different from に, which marks where something exists or a destination.",
+      "noteZh": "「で」表示动作发生的场所，与表示存在地点或目的地的「に」不同。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#de-place"
+    }
+  ],
+  "practiceZh": [
+    "今日は、6月1日です。\n今天是6月1日。\n「〜は〜です」表示「……是……」。",
+    "6月1日は、「衣替え」の日です。\n6月1日是「换装」之日。\n「の」连接两个名词，表示「……的」。",
+    "「衣替え」は、服を変えることです。\n「换装」就是更换衣服这件事。\n「〜こと」把动词「変える」名词化为「更换（这件事）」。",
+    "暑い季節になりました。\n到了炎热的季节。\n「〜になりました」表示「变成了、到了……」。",
+    "だから、夏の服に変えます。\n所以要换成夏天的衣服。\n「だから」表示「所以、因此」。",
+    "夏の服は、すずしいです。\n夏天的衣服很凉爽。\n「涼しい」是い形容词，「凉爽的」。",
+    "多くの学校で、夏の制服になります。\n在很多学校，制服会换成夏季制服。\n「で」表示动作发生的场所「在……」。",
+    "会社でも、夏の服を着る人が多いです。\n在公司里，穿夏装的人也很多。\n「着る」表示「穿（上半身衣物）」。",
+    "「衣替え」は、昔から続く習慣です。\n「换装」是从很久以前延续下来的习惯。\n「昔から」表示「从很久以前就……」。",
+    "平安時代に、始まりました。\n它始于平安时代。\n「始まる」表示「（事物）开始」。",
+    "日本の、季節を感じる習慣です。\n这是一个能感受日本季节的习惯。\n「季節を感じる」意为「感受季节」。"
+  ]
+}

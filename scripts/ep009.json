@@ -1,0 +1,575 @@
+{
+  "episode": 9,
+  "title": "名探偵コナンの映画、大ヒット",
+  "date": "2026-05-30",
+  "source": "オリコン / シネマトゥデイ",
+  "level": "N5-N4",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is May thirtieth. Today's story is fun: the new Detective Conan movie has become a huge hit in Japan. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "アニメ「名探偵コナン」の、映画のニュースです。",
+      "ruby": "アニメ「<ruby>名探偵<rt>めいたんてい</rt></ruby>コナン」の、<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンは、とても人気があるアニメです。",
+      "ruby": "コナンは、とても<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があるアニメです。"
+    },
+    {
+      "speaker": "news",
+      "text": "子供から大人まで、みんなが好きです。",
+      "ruby": "<ruby>子供<rt>こども</rt></ruby>から<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>まで、みんなが<ruby>好き<rt>すき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンのアニメは、30年以上、続いています。",
+      "ruby": "コナンのアニメは、30<ruby>年以上<rt>ねんいじょう</rt></ruby>、<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎年、春に、新しい映画が出ます。",
+      "ruby": "<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>春<rt>はる</rt></ruby>に、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年も、新しい映画が出ました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>も、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "4月10日から、映画館で始まりました。",
+      "ruby": "<ruby>4月<rt>しがつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>から、<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>で<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんの人が、映画館に行きました。",
+      "ruby": "たくさんの<ruby>人<rt>ひと</rt></ruby>が、<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>に<ruby>行き<rt>いき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この映画を見た人は、740万人です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>を<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、740<ruby>万人<rt>まんにん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お金は、108億円を超えました。",
+      "ruby": "お<ruby>金<rt>かね</rt></ruby>は、108<ruby>億円<rt>おくえん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、とても大きい数字です。",
+      "ruby": "これは、とても<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"数字\" data-reading=\"すうじ\" data-en=\"number; figure\"><ruby>数字<rt>すうじ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンの映画は、4年、続けて100億円を超えました。",
+      "ruby": "コナンの<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>は、4<ruby>年<rt>ねん</rt></ruby>、<ruby>続け<rt>つづけ</rt></ruby>て100<ruby>億円<rt>おくえん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、日本の映画で、初めてのことです。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>で、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンは、世界でも人気があります。",
+      "ruby": "コナンは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"the world\"><ruby>世界<rt>せかい</rt></ruby></span>でも<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ファンは、次の映画も楽しみにしています。",
+      "ruby": "ファンは、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>も<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"looking forward to; pleasure\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "コナンは、とても人気があるアニメです。",
+      "ruby": "コナンは、とても<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があるアニメです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Conan is a very popular anime."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popularity, or being popular. You attach it to anything that lots of people love."
+    },
+    {
+      "speaker": "slow",
+      "text": "子供から大人まで、みんなが好きです。",
+      "ruby": "<ruby>子供<rt>こども</rt></ruby>から<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>まで、みんなが<ruby>好き<rt>すき</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Everyone, from children to adults, loves it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大人",
+      "ruby": "<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means adult, a grown-up. The opposite is the word for child."
+    },
+    {
+      "speaker": "slow",
+      "text": "コナンのアニメは、30年以上、続いています。",
+      "ruby": "コナンのアニメは、30<ruby>年以上<rt>ねんいじょう</rt></ruby>、<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Conan anime has continued for more than thirty years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続く",
+      "ruby": "<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue; to last\"><ruby>続く<rt>つづく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue or to last. Use it for anything that keeps going over time."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年も、新しい映画が出ました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>も、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year too, a new movie came out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "新しい",
+      "ruby": "<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means new. It's an adjective, so it can sit right in front of a noun."
+    },
+    {
+      "speaker": "slow",
+      "text": "4月10日から、映画館で始まりました。",
+      "ruby": "<ruby>4月<rt>しがつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>から、<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>で<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It started in theaters from April tenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "映画館",
+      "ruby": "<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means movie theater. The first part means movie, and the ending points to a building or hall."
+    },
+    {
+      "speaker": "slow",
+      "text": "この映画を見た人は、740万人です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>を<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、740<ruby>万人<rt>まんにん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The number of people who saw this movie is seven million four hundred thousand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "映画",
+      "ruby": "<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means movie or film. This is one of the most useful everyday words you'll learn."
+    },
+    {
+      "speaker": "slow",
+      "text": "お金は、108億円を超えました。",
+      "ruby": "お<ruby>金<rt>かね</rt></ruby>は、108<ruby>億円<rt>おくえん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The money went over ten point eight billion yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "超える",
+      "ruby": "<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed; to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to exceed, or to go over. Use it whenever a number passes a line."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、とても大きい数字です。",
+      "ruby": "これは、とても<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"数字\" data-reading=\"すうじ\" data-en=\"number; figure\"><ruby>数字<rt>すうじ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is a very big number."
+    },
+    {
+      "speaker": "vocab",
+      "text": "数字",
+      "ruby": "<span class=\"vw\" data-ja=\"数字\" data-reading=\"すうじ\" data-en=\"number; figure\"><ruby>数字<rt>すうじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a number or figure, the kind you write down. Think of digits on a page."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、日本の映画で、初めてのことです。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>で、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the first time ever for a Japanese movie."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time. People also say it when meeting someone new."
+    },
+    {
+      "speaker": "slow",
+      "text": "コナンは、世界でも人気があります。",
+      "ruby": "コナンは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"the world\"><ruby>世界<rt>せかい</rt></ruby></span>でも<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Conan is popular around the world too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世界",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"the world\"><ruby>世界<rt>せかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the world. Add it to say something is famous worldwide."
+    },
+    {
+      "speaker": "slow",
+      "text": "ファンは、次の映画も楽しみにしています。",
+      "ruby": "ファンは、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>も<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"looking forward to; pleasure\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fans are looking forward to the next movie too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "楽しみ",
+      "ruby": "<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"looking forward to; pleasure\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means something you look forward to. It carries a warm, excited feeling."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "アニメ「名探偵コナン」の、映画のニュースです。",
+      "ruby": "アニメ「<ruby>名探偵<rt>めいたんてい</rt></ruby>コナン」の、<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンは、とても人気があるアニメです。",
+      "ruby": "コナンは、とても<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があるアニメです。"
+    },
+    {
+      "speaker": "news",
+      "text": "子供から大人まで、みんなが好きです。",
+      "ruby": "<ruby>子供<rt>こども</rt></ruby>から<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>まで、みんなが<ruby>好き<rt>すき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンのアニメは、30年以上、続いています。",
+      "ruby": "コナンのアニメは、30<ruby>年以上<rt>ねんいじょう</rt></ruby>、<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎年、春に、新しい映画が出ます。",
+      "ruby": "<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>春<rt>はる</rt></ruby>に、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年も、新しい映画が出ました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>も、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "4月10日から、映画館で始まりました。",
+      "ruby": "<ruby>4月<rt>しがつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>から、<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>で<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんの人が、映画館に行きました。",
+      "ruby": "たくさんの<ruby>人<rt>ひと</rt></ruby>が、<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>に<ruby>行き<rt>いき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この映画を見た人は、740万人です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>を<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、740<ruby>万人<rt>まんにん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お金は、108億円を超えました。",
+      "ruby": "お<ruby>金<rt>かね</rt></ruby>は、108<ruby>億円<rt>おくえん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、とても大きい数字です。",
+      "ruby": "これは、とても<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"数字\" data-reading=\"すうじ\" data-en=\"number; figure\"><ruby>数字<rt>すうじ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンの映画は、4年、続けて100億円を超えました。",
+      "ruby": "コナンの<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>は、4<ruby>年<rt>ねん</rt></ruby>、<ruby>続け<rt>つづけ</rt></ruby>て100<ruby>億円<rt>おくえん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、日本の映画で、初めてのことです。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>で、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コナンは、世界でも人気があります。",
+      "ruby": "コナンは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"the world\"><ruby>世界<rt>せかい</rt></ruby></span>でも<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ファンは、次の映画も楽しみにしています。",
+      "ruby": "ファンは、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>も<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"looking forward to; pleasure\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Four questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "コナンは、どんなアニメですか。",
+      "ruby": "コナンは、どんなアニメですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kind of anime is Conan? It is a very popular one."
+    },
+    {
+      "speaker": "slow",
+      "text": "コナンのアニメは、何年、続いていますか。",
+      "ruby": "コナンのアニメは、<ruby>何年<rt>なんねん</rt></ruby>、<ruby>続い<rt>つづい</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many years has the Conan anime continued? More than thirty years."
+    },
+    {
+      "speaker": "slow",
+      "text": "映画は、いつから始まりましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When did the movie start? From April tenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "何人の人が、映画を見ましたか。",
+      "ruby": "<ruby>何人<rt>なんにん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<span class=\"vw\" data-ja=\"映画\" data-reading=\"えいが\" data-en=\"movie; film\"><ruby>映画<rt>えいが</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many people saw the movie? Seven million four hundred thousand."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popular; popularity",
+      "zh": "人气；受欢迎"
+    },
+    {
+      "ja": "大人",
+      "reading": "おとな",
+      "en": "adult",
+      "zh": "大人；成年人"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue; to last",
+      "zh": "持续；继续"
+    },
+    {
+      "ja": "新しい",
+      "reading": "あたらしい",
+      "en": "new",
+      "zh": "新的"
+    },
+    {
+      "ja": "映画館",
+      "reading": "えいがかん",
+      "en": "movie theater",
+      "zh": "电影院"
+    },
+    {
+      "ja": "映画",
+      "reading": "えいが",
+      "en": "movie; film",
+      "zh": "电影"
+    },
+    {
+      "ja": "超える",
+      "reading": "こえる",
+      "en": "to exceed; to go over",
+      "zh": "超过"
+    },
+    {
+      "ja": "数字",
+      "reading": "すうじ",
+      "en": "number; figure",
+      "zh": "数字"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次；首次"
+    },
+    {
+      "ja": "世界",
+      "reading": "せかい",
+      "en": "the world",
+      "zh": "世界"
+    },
+    {
+      "ja": "楽しみ",
+      "reading": "たのしみ",
+      "en": "looking forward to; pleasure",
+      "zh": "期待；乐趣"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ました",
+      "meaning": "did ~ (past, polite)",
+      "meaningZh": "（过去・礼貌）做了……",
+      "formation": "verb ます-stem + ました",
+      "example": "新しい映画が出ました。",
+      "translation": "A new movie came out.",
+      "note": "The polite past tense. Change ます to ました to talk about something that already happened.",
+      "noteZh": "礼貌体的过去式。把「ます」改成「ました」即可表示已经发生的事。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#mashita"
+    },
+    {
+      "pattern": "〜から〜まで",
+      "meaning": "from ~ to ~ (a range)",
+      "meaningZh": "从……到……",
+      "formation": "noun + から + noun + まで",
+      "example": "子供から大人まで楽しめます。",
+      "translation": "From children to adults, everyone can enjoy it.",
+      "note": "Marks a range with two ends — a starting から and an ending まで. Works for time, place, and groups of people.",
+      "noteZh": "用「から」和「まで」标出范围的起点和终点，可用于时间、地点和人群。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#kara-made"
+    },
+    {
+      "pattern": "〜も",
+      "meaning": "also, too",
+      "meaningZh": "也、还",
+      "formation": "noun + も",
+      "example": "次の映画も楽しみです。",
+      "translation": "I'm looking forward to the next movie too.",
+      "note": "も replaces は or を to mean 'also'. It signals 'this one as well as the others'.",
+      "noteZh": "「も」替换「は」或「を」，表示「也」，含「这个也和其他一样」之意。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#mo"
+    },
+    {
+      "pattern": "〜があります",
+      "meaning": "there is ~, to have ~",
+      "meaningZh": "有……",
+      "formation": "noun + が + あります",
+      "example": "コナンは人気があります。",
+      "translation": "Conan is popular (lit. has popularity).",
+      "note": "あります states the existence of non-living things. Note the natural phrase 人気があります, literally 'has popularity'.",
+      "noteZh": "「あります」表示无生命事物的存在。固定说法「人気があります」直译为「有人气」。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#arimasu"
+    }
+  ],
+  "practiceZh": [
+    "コナンは、とても人気があるアニメです。\n柯南是非常有人气的动画。\n「人気があります」表示「受欢迎、有人气」。",
+    "子供から大人まで、みんなが好きです。\n从小孩到大人，大家都喜欢。\n「〜から〜まで」表示「从……到……」的范围。",
+    "コナンのアニメは、30年以上、続いています。\n柯南的动画已经持续了30多年。\n「続いています」表示「一直持续着」。",
+    "今年も、新しい映画が出ました。\n今年也推出了新电影。\n「〜ました」是礼貌体的过去式。",
+    "4月10日から、映画館で始まりました。\n从4月10日起在电影院上映了。\n「〜から」表示「从……开始」。",
+    "この映画を見た人は、740万人です。\n看过这部电影的人有740万人。\n「〜人（にん）」是数人数的量词。",
+    "お金は、108億円を超えました。\n票房收入超过了108亿日元。\n「〜を超える」表示「超过……」。",
+    "これは、とても大きい数字です。\n这是一个非常大的数字。\n「大きい」是い形容词，意为「很大的」。",
+    "これは、日本の映画で、初めてのことです。\n这在日本电影中是头一次。\n「初めて」表示「第一次、首次」。",
+    "コナンは、世界でも人気があります。\n柯南在世界上也很有人气。\n「〜でも」表示「在……也」。",
+    "ファンは、次の映画も楽しみにしています。\n粉丝们也很期待下一部电影。\n「〜も」表示「也」，「楽しみにしています」表示「期待」。"
+  ]
+}
