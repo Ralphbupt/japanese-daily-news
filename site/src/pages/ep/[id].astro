@@ -109,7 +109,21 @@ const segmentsForClient = segs.map(s => ({
   </nav>
 
   <header class="ep-header">
-    <a href="/" class="ep-back">&larr; Episodes</a>
+    <div class="ep-topbar">
+      <a href="/" class="ep-back">&larr; Episodes</a>
+      <div class="ep-topnav">
+        {prevEp && (
+          <a href={`/ep/${prevEp.paddedNum}/`} class="ep-topnav-link ep-nav-prev" title={`EP ${prevEp.paddedNum}: ${prevEp.title}`}>
+            &larr; <span class="i18n-en">Prev</span><span class="i18n-zh">上一集</span>
+          </a>
+        )}
+        {nextEp && (
+          <a href={`/ep/${nextEp.paddedNum}/`} class="ep-topnav-link ep-nav-next" title={`EP ${nextEp.paddedNum}: ${nextEp.title}`}>
+            <span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;
+          </a>
+        )}
+      </div>
+    </div>
     <p class="ep-page-meta">
       Episode {episode.paddedNum} &middot; {formatDate(episode.date)} &middot; {episode.source}
     </p>
@@ -676,7 +690,7 @@ const segmentsForClient = segs.map(s => ({
 
     // ===== Episode nav (prev/next) =====
     document.addEventListener('click', function(e) {
-      var nav = e.target.closest('.ep-nav-link');
+      var nav = e.target.closest('.ep-nav-link, .ep-topnav-link');
       if (nav) {
         ga('episode_nav', { direction: nav.classList.contains('ep-nav-prev') ? 'prev' : 'next' });
       }

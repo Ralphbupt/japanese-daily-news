@@ -73,14 +73,31 @@ const ogImageUrl = new URL(ogImage, SITE).href;
     window.gtag=function(){dataLayer.push(arguments);};
     window.jdnEvent=function(n,p){try{window.gtag('event',n,p||{});}catch(e){}};
     gtag('js',new Date());
-    gtag('config','G-7W59Y18KC8');
-    window.addEventListener('load',function(){
-      setTimeout(function(){
-        var s=document.createElement('script');s.async=true;
-        s.src='https://www.googletagmanager.com/gtag/js?id=G-7W59Y18KC8';
-        document.head.appendChild(s);
-      },1500);
-    });
+    // Defer GA entirely until the visitor shows a sign of being real:
+    // first scroll, OR ~3s of actual *visible* time (background-tab time doesn't count).
+    // A headless client that just loads the page and leaves never trips either, so it
+    // never sends a page_view. Cost: page_view counts drop closer to real humans.
+    var started=false;
+    function startGA(){
+      if(started)return;started=true;
+      cleanup();
+      gtag('config','G-7W59Y18KC8');
+      var s=document.createElement('script');s.async=true;
+      s.src='https://www.googletagmanager.com/gtag/js?id=G-7W59Y18KC8';
+      document.head.appendChild(s);
+    }
+    var visTimer=null;
+    function startTimer(){if(visTimer==null&&!document.hidden)visTimer=setTimeout(startGA,3000);}
+    function stopTimer(){if(visTimer!=null){clearTimeout(visTimer);visTimer=null;}}
+    function onVis(){if(document.hidden)stopTimer();else startTimer();}
+    function cleanup(){
+      stopTimer();
+      window.removeEventListener('scroll',startGA);
+      document.removeEventListener('visibilitychange',onVis);
+    }
+    window.addEventListener('scroll',startGA,{passive:true,once:true});
+    document.addEventListener('visibilitychange',onVis);
+    startTimer();
   })();
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />

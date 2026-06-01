@@ -545,6 +545,14 @@ body {
   margin: 0 auto;
 }
 
+.ep-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
 .ep-back {
   display: inline-flex;
   align-items: center;
@@ -552,11 +560,34 @@ body {
   font-size: 0.8125rem;
   color: var(--text-muted);
   text-decoration: none;
-  margin-bottom: 1.5rem;
   transition: color 0.2s;
 }
 
 .ep-back:hover { color: var(--accent); }
+
+.ep-topnav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ep-topnav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.ep-topnav-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
 
 .ep-page-meta {
   font-size: 0.8125rem;
