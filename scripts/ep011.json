@@ -1,0 +1,520 @@
+{
+  "episode": 11,
+  "title": "台風6号が日本に近づく 大雨と強い風に注意",
+  "date": "2026-06-02",
+  "source": "気象庁・日本気象協会（台風6号）",
+  "level": "N4-N3",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June second. A powerful storm, Typhoon Number Six, is moving toward Japan. Its name is Jangmi. It is bringing heavy rain and strong winds, from the southwest all the way up toward Tokyo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風6号が、日本に近づいています。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>6<ruby>号<rt>ごう</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この台風の名前は「チャンミー」です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「チャンミー」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、台風は九州の南の海にあります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<span class=\"vw\" data-ja=\"海\" data-reading=\"うみ\" data-en=\"sea; ocean\"><ruby>海<rt>うみ</rt></ruby></span>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、北東へゆっくり進んでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は、<ruby>北東<rt>ほくとう</rt></ruby>へゆっくり<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日の夜まで、九州や四国に近づきます。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>まで、<ruby>九州<rt>きゅうしゅう</rt></ruby>や<ruby>四国<rt>しこく</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>きます。"
+    },
+    {
+      "speaker": "news",
+      "text": "明日は、東京がある関東地方にも近づくでしょう。",
+      "ruby": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>がある<ruby>関東地方<rt>かんとうちほう</rt></ruby>にも<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; to come near\"><ruby>近づ<rt>ちかづ</rt></ruby>くでしょう</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "西日本の太平洋側では、強い雨が降っています。",
+      "ruby": "<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>では、<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span><span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州では、「線状降水帯」ができるかもしれません。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、「<span class=\"vw\" data-ja=\"線状降水帯\" data-reading=\"せんじょうこうすいたい\" data-en=\"linear rain band\"><ruby>線状<rt>せんじょう</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>帯<rt>おび</rt></ruby></span>」ができるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "線状降水帯は、同じ場所に強い雨が長く続くことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"線状降水帯\" data-reading=\"せんじょうこうすいたい\" data-en=\"linear rain band\"><ruby>線状<rt>せんじょう</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>帯<rt>おび</rt></ruby></span>は、<ruby>同じ<rt>おなじ</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>に<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span><span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>長く<rt>ながく</rt></ruby><span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue; to last\"><ruby>続く<rt>つづく</rt></ruby></span>ことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "風もとても強くなって、危ないです。",
+      "ruby": "<span class=\"vw\" data-ja=\"風\" data-reading=\"かぜ\" data-en=\"wind\"><ruby>風<rt>かぜ</rt></ruby></span>もとても<ruby>強く<rt>つよく</rt></ruby>なって、<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、「十分に気をつけてください」と話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、「<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけてください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "川や山の近くの人は、早めに安全な場所へ行きましょう。",
+      "ruby": "<ruby>川<rt>かわ</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>早め<rt>はやめ</rt></ruby>に<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safe; safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風6号が、日本に近づいています。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>6<ruby>号<rt>ごう</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Typhoon Number Six is approaching Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "台風",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means typhoon. Japan sees several of these big tropical storms every year, mostly from summer into autumn."
+    },
+    {
+      "speaker": "slow",
+      "text": "この台風の名前は「チャンミー」です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「チャンミー」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This typhoon's name is Jangmi."
+    },
+    {
+      "speaker": "vocab",
+      "text": "名前",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means name. Each big typhoon in this region gets its own name from a shared list, so people can talk about it clearly."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風は、北東へゆっくり進んでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は、<ruby>北東<rt>ほくとう</rt></ruby>へゆっくり<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The typhoon is slowly moving toward the northeast."
+    },
+    {
+      "speaker": "vocab",
+      "text": "進む",
+      "ruby": "<span class=\"vw\" data-ja=\"進む\" data-reading=\"すすむ\" data-en=\"to advance; to move forward\"><ruby>進む<rt>すすむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to advance or move forward. Picture something pushing steadily ahead in one direction."
+    },
+    {
+      "speaker": "slow",
+      "text": "明日は、東京がある関東地方にも近づくでしょう。",
+      "ruby": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>がある<ruby>関東地方<rt>かんとうちほう</rt></ruby>にも<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; to come near\"><ruby>近づ<rt>ちかづ</rt></ruby>くでしょう</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tomorrow it will probably come close to the Kanto region, where Tokyo is."
+    },
+    {
+      "speaker": "vocab",
+      "text": "近づく",
+      "ruby": "<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; to come near\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to approach, to come near. The first part is the same character used for the word for near."
+    },
+    {
+      "speaker": "slow",
+      "text": "西日本の太平洋側では、強い雨が降っています。",
+      "ruby": "<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>では、<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span><span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the Pacific side of western Japan, heavy rain is falling."
+    },
+    {
+      "speaker": "vocab",
+      "text": "強い",
+      "ruby": "<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means strong. Here it describes heavy rain, but you can also use it for a strong person or a strong wind."
+    },
+    {
+      "speaker": "slow",
+      "text": "九州では、「線状降水帯」ができるかもしれません。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、「<span class=\"vw\" data-ja=\"線状降水帯\" data-reading=\"せんじょうこうすいたい\" data-en=\"linear rain band\"><ruby>線状<rt>せんじょう</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>帯<rt>おび</rt></ruby></span>」ができるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Kyushu, a linear rain band might form."
+    },
+    {
+      "speaker": "vocab",
+      "text": "線状降水帯",
+      "ruby": "<span class=\"vw\" data-ja=\"線状降水帯\" data-reading=\"せんじょうこうすいたい\" data-en=\"linear rain band\"><ruby>線状<rt>せんじょう</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>帯<rt>おび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It names a long, line-shaped band of rain clouds that dumps very heavy rain on the same area for hours. It often causes serious flooding."
+    },
+    {
+      "speaker": "slow",
+      "text": "風もとても強くなって、危ないです。",
+      "ruby": "<span class=\"vw\" data-ja=\"風\" data-reading=\"かぜ\" data-en=\"wind\"><ruby>風<rt>かぜ</rt></ruby></span>もとても<ruby>強く<rt>つよく</rt></ruby>なって、<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The wind is also getting very strong, and it is dangerous."
+    },
+    {
+      "speaker": "vocab",
+      "text": "危ない",
+      "ruby": "<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means dangerous. A very useful safety word to recognize on signs and in warnings."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、「十分に気をつけてください」と話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、「<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけてください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency is saying, please be fully careful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気をつける",
+      "ruby": "<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful; to take care\"><ruby>気を<rt>きを</rt></ruby>つける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be careful, to take care. You will hear it constantly in daily life, often as a friendly goodbye."
+    },
+    {
+      "speaker": "slow",
+      "text": "川や山の近くの人は、早めに安全な場所へ行きましょう。",
+      "ruby": "<ruby>川<rt>かわ</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>早め<rt>はやめ</rt></ruby>に<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safe; safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "People near rivers or mountains should go to a safe place early."
+    },
+    {
+      "speaker": "vocab",
+      "text": "安全",
+      "ruby": "<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safe; safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means safe or safety. The opposite of the dangerous word we just learned."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風6号が、日本に近づいています。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>6<ruby>号<rt>ごう</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この台風の名前は「チャンミー」です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「チャンミー」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、台風は九州の南の海にあります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<span class=\"vw\" data-ja=\"海\" data-reading=\"うみ\" data-en=\"sea; ocean\"><ruby>海<rt>うみ</rt></ruby></span>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、北東へゆっくり進んでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は、<ruby>北東<rt>ほくとう</rt></ruby>へゆっくり<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日の夜まで、九州や四国に近づきます。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>まで、<ruby>九州<rt>きゅうしゅう</rt></ruby>や<ruby>四国<rt>しこく</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>きます。"
+    },
+    {
+      "speaker": "news",
+      "text": "明日は、東京がある関東地方にも近づくでしょう。",
+      "ruby": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>がある<ruby>関東地方<rt>かんとうちほう</rt></ruby>にも<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; to come near\"><ruby>近づ<rt>ちかづ</rt></ruby>くでしょう</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "西日本の太平洋側では、強い雨が降っています。",
+      "ruby": "<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>では、<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span><span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州では、「線状降水帯」ができるかもしれません。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、「<span class=\"vw\" data-ja=\"線状降水帯\" data-reading=\"せんじょうこうすいたい\" data-en=\"linear rain band\"><ruby>線状<rt>せんじょう</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>帯<rt>おび</rt></ruby></span>」ができるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "線状降水帯は、同じ場所に強い雨が長く続くことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"線状降水帯\" data-reading=\"せんじょうこうすいたい\" data-en=\"linear rain band\"><ruby>線状<rt>せんじょう</rt></ruby><ruby>降水<rt>こうすい</rt></ruby><ruby>帯<rt>おび</rt></ruby></span>は、<ruby>同じ<rt>おなじ</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>に<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span><span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>長く<rt>ながく</rt></ruby><span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue; to last\"><ruby>続く<rt>つづく</rt></ruby></span>ことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "風もとても強くなって、危ないです。",
+      "ruby": "<span class=\"vw\" data-ja=\"風\" data-reading=\"かぜ\" data-en=\"wind\"><ruby>風<rt>かぜ</rt></ruby></span>もとても<ruby>強く<rt>つよく</rt></ruby>なって、<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、「十分に気をつけてください」と話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、「<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけてください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "川や山の近くの人は、早めに安全な場所へ行きましょう。",
+      "ruby": "<ruby>川<rt>かわ</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>早め<rt>はやめ</rt></ruby>に<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safe; safety\"><ruby>安全<rt>あんぜん</rt></ruby></span>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風6号は、今どこにありますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>6<ruby>号<rt>ごう</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>どこにありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Where is Typhoon Number Six now? It is in the sea south of Kyushu."
+    },
+    {
+      "speaker": "slow",
+      "text": "九州では、何ができるかもしれませんか。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、<ruby>何<rt>なに</rt></ruby>ができるかもしれませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What might form in Kyushu? A linear rain band, which brings very heavy rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "川や山の近くの人は、どうしたらいいですか。",
+      "ruby": "<ruby>川<rt>かわ</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どうしたらいいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What should people near rivers or mountains do? Go to a safe place early."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "台風",
+      "reading": "たいふう",
+      "en": "typhoon",
+      "zh": "台风"
+    },
+    {
+      "ja": "近づく",
+      "reading": "ちかづく",
+      "en": "to approach; to come near",
+      "zh": "靠近、接近"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字、名称"
+    },
+    {
+      "ja": "進む",
+      "reading": "すすむ",
+      "en": "to advance; to move forward",
+      "zh": "前进、移动"
+    },
+    {
+      "ja": "海",
+      "reading": "うみ",
+      "en": "sea; ocean",
+      "zh": "海"
+    },
+    {
+      "ja": "強い",
+      "reading": "つよい",
+      "en": "strong",
+      "zh": "强烈的、强的"
+    },
+    {
+      "ja": "雨",
+      "reading": "あめ",
+      "en": "rain",
+      "zh": "雨"
+    },
+    {
+      "ja": "線状降水帯",
+      "reading": "せんじょうこうすいたい",
+      "en": "linear rain band",
+      "zh": "线状降水带"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue; to last",
+      "zh": "持续、继续"
+    },
+    {
+      "ja": "風",
+      "reading": "かぜ",
+      "en": "wind",
+      "zh": "风"
+    },
+    {
+      "ja": "危ない",
+      "reading": "あぶない",
+      "en": "dangerous",
+      "zh": "危险的"
+    },
+    {
+      "ja": "気をつける",
+      "reading": "きをつける",
+      "en": "to be careful; to take care",
+      "zh": "小心、注意"
+    },
+    {
+      "ja": "安全",
+      "reading": "あんぜん",
+      "en": "safe; safety",
+      "zh": "安全"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ています",
+      "meaning": "is doing ~; an action in progress or an ongoing state",
+      "meaningZh": "正在……；表示动作正在进行或持续的状态",
+      "formation": "verb て-form + います",
+      "example": "台風が、日本に近づいています。",
+      "translation": "The typhoon is approaching Japan.",
+      "note": "Attach います to the て-form to show an action happening right now, or a state that continues. Here the typhoon is in the middle of moving closer.",
+      "noteZh": "在动词的「て形」后加「います」，表示动作正在进行，或状态在持续。这里指台风正在不断靠近。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#teimasu"
+    },
+    {
+      "pattern": "〜でしょう",
+      "meaning": "probably ~; will likely ~",
+      "meaningZh": "大概……吧；很可能……",
+      "formation": "verb / i-adjective (plain) + でしょう; noun / na-adjective + でしょう",
+      "example": "明日は、関東地方にも近づくでしょう。",
+      "translation": "Tomorrow it will probably approach the Kanto region too.",
+      "note": "Expresses a prediction the speaker is fairly sure of but not certain about. Common in weather forecasts.",
+      "noteZh": "表示说话人有把握但不完全确定的推测，天气预报中非常常见。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#deshou"
+    },
+    {
+      "pattern": "〜かもしれません",
+      "meaning": "might ~; maybe ~",
+      "meaningZh": "也许……、可能……",
+      "formation": "verb / i-adjective (plain) + かもしれません; noun / na-adjective + かもしれません",
+      "example": "九州では、線状降水帯ができるかもしれません。",
+      "translation": "In Kyushu, a linear rain band might form.",
+      "note": "Shows a lower level of certainty than でしょう — the speaker sees it as one real possibility, not a confident prediction.",
+      "noteZh": "确定程度比「でしょう」低，表示说话人认为这只是一种可能性，而非有把握的预测。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#kamoshiremasen"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请……",
+      "formation": "verb て-form + ください",
+      "example": "十分に気をつけてください。",
+      "translation": "Please be fully careful.",
+      "note": "A polite request or instruction. Add the て-form of the verb before ください. Used everywhere, from warnings to everyday favors.",
+      "noteZh": "礼貌的请求或指示。在动词「て形」后加「ください」。从警示到日常请求都会用到。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#tekudasai"
+    }
+  ],
+  "practiceZh": [
+    "台風6号が、日本に近づいています。\n6号台风正在靠近日本。\n「〜ています」表示动作正在进行，「近づく」是「靠近」。",
+    "この台風の名前は「チャンミー」です。\n这个台风的名字是「チャンミー（Jangmi）」。\n「名前」是「名字、名称」；这个名字由韩国提出，意为「玫瑰」。",
+    "台風は、北東へゆっくり進んでいます。\n台风正缓慢地向东北方向移动。\n「へ」表示移动的方向，「進む」是「前进、移动」。",
+    "明日は、東京がある関東地方にも近づくでしょう。\n明天大概也会靠近东京所在的关东地区吧。\n「〜でしょう」表示有把握的推测「大概……吧」。",
+    "西日本の太平洋側では、強い雨が降っています。\n在西日本的太平洋一侧，正下着大雨。\n「で」表示地点，「強い雨」是「强降雨、大雨」。",
+    "九州では、「線状降水帯」ができるかもしれません。\n在九州，也许会形成「线状降水带」。\n「〜かもしれません」表示可能性「也许……」。",
+    "風もとても強くなって、危ないです。\n风也变得非常强，很危险。\n「〜くなって」由「強い」变来，表示「变强」，「危ない」是「危险」。",
+    "気象庁は、「十分に気をつけてください」と話しています。\n气象厅说「请务必多加小心」。\n「〜てください」是礼貌的请求「请……」，「と話す」表示「说……」。",
+    "川や山の近くの人は、早めに安全な場所へ行きましょう。\n住在河边或山边的人，请尽早前往安全的地方。\n「〜ましょう」表示劝诱「（一起）……吧」，「安全な」是な形容词「安全的」。"
+  ]
+}

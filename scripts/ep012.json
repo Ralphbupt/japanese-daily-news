@@ -1,0 +1,521 @@
+{
+  "episode": 12,
+  "title": "サッカー日本代表 ワールドカップへメキシコで合宿",
+  "date": "2026-06-03",
+  "source": "NHK（サッカー日本代表）",
+  "level": "N4-N3",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June third. Japan's national soccer team has arrived in Mexico to get ready for this year's World Cup. They held their first practice in hot, humid weather, over thirty degrees. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーの日本代表が、メキシコに着きました。",
+      "ruby": "サッカーの<ruby>日本代表<rt>にほんだいひょう</rt></ruby>が、メキシコに<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表は、6月2日の夕方、特別な飛行機でモンテレイに到着しました。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、6<ruby>月<rt>がつ</rt></ruby>2<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>飛行機<rt>ひこうき</rt></ruby>でモンテレイに<span class=\"vw\" data-ja=\"到着\" data-reading=\"とうちゃく\" data-en=\"arrival\"><ruby>到着<rt>とうちゃく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "空港では、メキシコに住む日本人などが、選手たちを迎えました。",
+      "ruby": "<ruby>空港<rt>くうこう</rt></ruby>では、メキシコに<ruby>住む<rt>すむ</rt></ruby><ruby>日本人<rt>にほんじん</rt></ruby>などが、<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちを<ruby>迎え<rt>むかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年のワールドカップのために、練習を始めました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のワールドカップのために、<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今度のワールドカップは、アメリカとカナダとメキシコの3つの国で開きます。",
+      "ruby": "<ruby>今度<rt>こんど</rt></ruby>のワールドカップは、アメリカとカナダとメキシコの3つの<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country\"><ruby>国<rt>くに</rt></ruby></span>で<ruby>開き<rt>ひらき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表は、メキシコの「モンテレイ」という町で合宿をしています。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、メキシコの「モンテレイ」という<ruby>町<rt>まち</rt></ruby>で<span class=\"vw\" data-ja=\"合宿\" data-reading=\"がっしゅく\" data-en=\"training camp\"><ruby>合宿<rt>がっしゅく</rt></ruby></span>をしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "選手たちは、メキシコのチームの練習場を借りて、体を動かしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、メキシコのチームの<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習場<rt>れんしゅうじょう</rt></ruby></span>を<ruby>借り<rt>かり</rt></ruby>て、<ruby>体<rt>からだ</rt></ruby>を<ruby>動か<rt>うごか</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月3日、選手たちは初めての練習をしました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>3<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は気温が30度より高くて、とても蒸し暑かったです。",
+      "ruby": "この<ruby>日<rt>にち</rt></ruby>は<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が30<ruby>度<rt>ど</rt></ruby>より<ruby>高く<rt>たかく</rt></ruby>て、とても<ruby>蒸し<rt>むし</rt></ruby><ruby>暑か<rt>あつか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "news",
+      "text": "選手たちは、暑さに慣れるために、パスやミニゲームをしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、<ruby>暑さ<rt>あつさ</rt></ruby>に<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>るために</span>、パスやミニゲームをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "練習は1時間ぐらい続きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>は1<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>続き<rt>つづき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会の間、チームはアメリカのナッシュビルという町に泊まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>、チームはアメリカのナッシュビルという<ruby>町<rt>まち</rt></ruby>に<ruby>泊まり<rt>とまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表は、今度の大会で、ベスト8より上を目指しています。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、<ruby>今度<rt>こんど</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>で、ベスト8より<ruby>上<rt>うえ</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ファンは、「日本代表、頑張ってください」と応援しています。",
+      "ruby": "ファンは、「<ruby>日本代表<rt>にほんだいひょう</rt></ruby>、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください」と<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering; support\"><ruby>応援<rt>おうえん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "サッカーの日本代表が、メキシコに着きました。",
+      "ruby": "サッカーの<ruby>日本代表<rt>にほんだいひょう</rt></ruby>が、メキシコに<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's national soccer team has arrived in Mexico."
+    },
+    {
+      "speaker": "vocab",
+      "text": "代表",
+      "ruby": "<span class=\"vw\" data-ja=\"代表\" data-reading=\"だいひょう\" data-en=\"representative; national team\"><ruby>代表<rt>だいひょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a representative, and in sports it means the national team. So this is the group chosen to play for the whole country."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年のワールドカップのために、練習を始めました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のワールドカップのために、<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "For this year's World Cup, they started practicing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "練習",
+      "ruby": "<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means practice. You'll hear it for sports, music, and language study — any kind of training or rehearsal."
+    },
+    {
+      "speaker": "slow",
+      "text": "今度のワールドカップは、アメリカとカナダとメキシコの3つの国で開きます。",
+      "ruby": "<ruby>今度<rt>こんど</rt></ruby>のワールドカップは、アメリカとカナダとメキシコの3つの<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country\"><ruby>国<rt>くに</rt></ruby></span>で<ruby>開き<rt>ひらき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This World Cup will be held in three countries: the United States, Canada, and Mexico."
+    },
+    {
+      "speaker": "vocab",
+      "text": "国",
+      "ruby": "<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country\"><ruby>国<rt>くに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means country. A very common word you'll see on maps, in the news, and when you travel."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本代表は、メキシコの「モンテレイ」という町で合宿をしています。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、メキシコの「モンテレイ」という<ruby>町<rt>まち</rt></ruby>で<span class=\"vw\" data-ja=\"合宿\" data-reading=\"がっしゅく\" data-en=\"training camp\"><ruby>合宿<rt>がっしゅく</rt></ruby></span>をしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Japanese team is holding a training camp in a city called Monterrey, in Mexico."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合宿",
+      "ruby": "<span class=\"vw\" data-ja=\"合宿\" data-reading=\"がっしゅく\" data-en=\"training camp\"><ruby>合宿<rt>がっしゅく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a training camp, where a team lives and trains together in one place for a while."
+    },
+    {
+      "speaker": "slow",
+      "text": "この日は気温が30度より高くて、とても蒸し暑かったです。",
+      "ruby": "この<ruby>日<rt>にち</rt></ruby>は<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が30<ruby>度<rt>ど</rt></ruby>より<ruby>高く<rt>たかく</rt></ruby>て、とても<ruby>蒸し<rt>むし</rt></ruby><ruby>暑か<rt>あつか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "host",
+      "text": "On this day the temperature was above thirty degrees, and it was very hot and humid."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気温",
+      "ruby": "<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means air temperature. The second character is the same one used in the word for warm."
+    },
+    {
+      "speaker": "slow",
+      "text": "選手たちは、暑さに慣れるために、パスやミニゲームをしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、<ruby>暑さ<rt>あつさ</rt></ruby>に<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>るために</span>、パスやミニゲームをしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "To get used to the heat, the players did passing drills and small games."
+    },
+    {
+      "speaker": "vocab",
+      "text": "慣れる",
+      "ruby": "<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to get used to something. Here the players are getting used to the heat before the big matches."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会の間、チームはアメリカのナッシュビルという町に泊まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>、チームはアメリカのナッシュビルという<ruby>町<rt>まち</rt></ruby>に<ruby>泊まり<rt>とまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "During the tournament, the team will stay in a city called Nashville, in the United States."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大会",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a big tournament or competition. The World Cup is one of the biggest of all."
+    },
+    {
+      "speaker": "slow",
+      "text": "ファンは、「日本代表、頑張ってください」と応援しています。",
+      "ruby": "ファンは、「<ruby>日本代表<rt>にほんだいひょう</rt></ruby>、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください」と<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering; support\"><ruby>応援<rt>おうえん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fans are cheering, saying, please do your best, national team."
+    },
+    {
+      "speaker": "vocab",
+      "text": "応援",
+      "ruby": "<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering; support\"><ruby>応援<rt>おうえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cheering or support. It's what fans do for their team, and also how you encourage a friend."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーの日本代表が、メキシコに着きました。",
+      "ruby": "サッカーの<ruby>日本代表<rt>にほんだいひょう</rt></ruby>が、メキシコに<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表は、6月2日の夕方、特別な飛行機でモンテレイに到着しました。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、6<ruby>月<rt>がつ</rt></ruby>2<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>飛行機<rt>ひこうき</rt></ruby>でモンテレイに<span class=\"vw\" data-ja=\"到着\" data-reading=\"とうちゃく\" data-en=\"arrival\"><ruby>到着<rt>とうちゃく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "空港では、メキシコに住む日本人などが、選手たちを迎えました。",
+      "ruby": "<ruby>空港<rt>くうこう</rt></ruby>では、メキシコに<ruby>住む<rt>すむ</rt></ruby><ruby>日本人<rt>にほんじん</rt></ruby>などが、<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちを<ruby>迎え<rt>むかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年のワールドカップのために、練習を始めました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のワールドカップのために、<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今度のワールドカップは、アメリカとカナダとメキシコの3つの国で開きます。",
+      "ruby": "<ruby>今度<rt>こんど</rt></ruby>のワールドカップは、アメリカとカナダとメキシコの3つの<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country\"><ruby>国<rt>くに</rt></ruby></span>で<ruby>開き<rt>ひらき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表は、メキシコの「モンテレイ」という町で合宿をしています。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、メキシコの「モンテレイ」という<ruby>町<rt>まち</rt></ruby>で<span class=\"vw\" data-ja=\"合宿\" data-reading=\"がっしゅく\" data-en=\"training camp\"><ruby>合宿<rt>がっしゅく</rt></ruby></span>をしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "選手たちは、メキシコのチームの練習場を借りて、体を動かしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、メキシコのチームの<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習場<rt>れんしゅうじょう</rt></ruby></span>を<ruby>借り<rt>かり</rt></ruby>て、<ruby>体<rt>からだ</rt></ruby>を<ruby>動か<rt>うごか</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月3日、選手たちは初めての練習をしました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>3<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は気温が30度より高くて、とても蒸し暑かったです。",
+      "ruby": "この<ruby>日<rt>にち</rt></ruby>は<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が30<ruby>度<rt>ど</rt></ruby>より<ruby>高く<rt>たかく</rt></ruby>て、とても<ruby>蒸し<rt>むし</rt></ruby><ruby>暑か<rt>あつか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "news",
+      "text": "選手たちは、暑さに慣れるために、パスやミニゲームをしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、<ruby>暑さ<rt>あつさ</rt></ruby>に<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>るために</span>、パスやミニゲームをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "練習は1時間ぐらい続きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>は1<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>続き<rt>つづき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会の間、チームはアメリカのナッシュビルという町に泊まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>、チームはアメリカのナッシュビルという<ruby>町<rt>まち</rt></ruby>に<ruby>泊まり<rt>とまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表は、今度の大会で、ベスト8より上を目指しています。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、<ruby>今度<rt>こんど</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>で、ベスト8より<ruby>上<rt>うえ</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ファンは、「日本代表、頑張ってください」と応援しています。",
+      "ruby": "ファンは、「<ruby>日本代表<rt>にほんだいひょう</rt></ruby>、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください」と<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering; support\"><ruby>応援<rt>おうえん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本代表は、どこの国で合宿をしていますか。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、どこの<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country\"><ruby>国<rt>くに</rt></ruby></span>で<span class=\"vw\" data-ja=\"合宿\" data-reading=\"がっしゅく\" data-en=\"training camp\"><ruby>合宿<rt>がっしゅく</rt></ruby></span>をしていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In which country is the Japanese team holding its camp? Mexico, in a city called Monterrey."
+    },
+    {
+      "speaker": "slow",
+      "text": "練習の日、天気はどうでしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice; training\"><ruby>練習<rt>れんしゅう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>、<ruby>天気<rt>てんき</rt></ruby>はどうでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the weather like on the practice day? It was very hot and humid, above thirty degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会の間、チームはどこに泊まりますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big competition\"><ruby>大会<rt>たいかい</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>、チームはどこに<ruby>泊まり<rt>とまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Where will the team stay during the tournament? In Nashville, in the United States."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "代表",
+      "reading": "だいひょう",
+      "en": "representative; national team",
+      "zh": "代表；国家代表队"
+    },
+    {
+      "ja": "着く",
+      "reading": "つく",
+      "en": "to arrive",
+      "zh": "到达、抵达"
+    },
+    {
+      "ja": "到着",
+      "reading": "とうちゃく",
+      "en": "arrival",
+      "zh": "到达、抵达"
+    },
+    {
+      "ja": "迎える",
+      "reading": "むかえる",
+      "en": "to welcome; to greet",
+      "zh": "迎接"
+    },
+    {
+      "ja": "練習",
+      "reading": "れんしゅう",
+      "en": "practice; training",
+      "zh": "练习、训练"
+    },
+    {
+      "ja": "国",
+      "reading": "くに",
+      "en": "country",
+      "zh": "国家"
+    },
+    {
+      "ja": "合宿",
+      "reading": "がっしゅく",
+      "en": "training camp",
+      "zh": "集训、集中住宿训练"
+    },
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "athlete; player",
+      "zh": "选手、运动员"
+    },
+    {
+      "ja": "気温",
+      "reading": "きおん",
+      "en": "air temperature",
+      "zh": "气温"
+    },
+    {
+      "ja": "慣れる",
+      "reading": "なれる",
+      "en": "to get used to",
+      "zh": "习惯、适应"
+    },
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "tournament; big competition",
+      "zh": "大赛、大会"
+    },
+    {
+      "ja": "目指す",
+      "reading": "めざす",
+      "en": "to aim for",
+      "zh": "以……为目标、力争"
+    },
+    {
+      "ja": "応援",
+      "reading": "おうえん",
+      "en": "cheering; support",
+      "zh": "声援、加油、支持"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~; for the purpose of ~",
+      "meaningZh": "为了……（目的）",
+      "formation": "verb (dictionary form) / noun + の + ために",
+      "example": "ワールドカップのために、練習を始めました。",
+      "translation": "They started practicing for the World Cup.",
+      "note": "Shows the purpose or goal of an action. With a noun, use の before ために; with a verb, use the dictionary form.",
+      "noteZh": "表示动作的目的或目标。前接名词时用「の＋ために」，前接动词时用辞书形。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#tameni"
+    },
+    {
+      "pattern": "〜という",
+      "meaning": "called ~; named ~",
+      "meaningZh": "叫做……的、名为……的",
+      "formation": "name + という + noun",
+      "example": "「モンテレイ」という町",
+      "translation": "a city called Monterrey",
+      "note": "Used to introduce the name of something the listener may not know. Put という between the name and the noun it describes.",
+      "noteZh": "用来介绍听者可能不知道的名称。把「という」放在名称和被说明的名词之间。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#toiu"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "more than ~; compared to ~",
+      "meaningZh": "比……（更）",
+      "formation": "noun + より + adjective",
+      "example": "気温が30度より高い。",
+      "translation": "The temperature is higher than thirty degrees.",
+      "note": "Marks the standard you compare against. The thing that is 'more' comes with the adjective after より.",
+      "noteZh": "标示比较的基准。「より」后面的形容词表示「更……」的一方。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#yori"
+    },
+    {
+      "pattern": "〜ています",
+      "meaning": "is doing ~; an ongoing action or state",
+      "meaningZh": "正在……；表示动作正在进行或持续的状态",
+      "formation": "verb て-form + います",
+      "example": "ファンは応援しています。",
+      "translation": "The fans are cheering.",
+      "note": "Attach います to the て-form to show an action happening now, or a state that continues.",
+      "noteZh": "在动词的「て形」后加「います」，表示动作正在进行，或状态在持续。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#teimasu"
+    }
+  ],
+  "practiceZh": [
+    "サッカーの日本代表が、メキシコに着きました。\n日本足球国家队抵达了墨西哥。\n「代表」在体育里指「国家代表队」，「着く」是「到达」。",
+    "今年のワールドカップのために、練習を始めました。\n为了今年的世界杯，他们开始了训练。\n「〜ために」表示目的「为了……」，「練習」是「训练、练习」。",
+    "今度のワールドカップは、アメリカとカナダとメキシコの3つの国で開きます。\n这届世界杯将在美国、加拿大、墨西哥三个国家举办。\n「国」是「国家」，「で」表示动作发生的地点。",
+    "日本代表は、メキシコの「モンテレイ」という町で合宿をしています。\n日本队正在墨西哥一个叫「蒙特雷」的城市集训。\n「〜という」表示「叫做……的」，「合宿」是「集训」。",
+    "この日は気温が30度より高くて、とても蒸し暑かったです。\n这一天气温超过30度，非常闷热。\n「〜より」表示比较「比……」，「気温」是「气温」。",
+    "選手たちは、暑さに慣れるために、パスやミニゲームをしました。\n球员们为了适应炎热，做了传球和小型比赛。\n「慣れる」是「习惯、适应」，「〜ために」表示目的。",
+    "大会の間、チームはアメリカのナッシュビルという町に泊まります。\n比赛期间，球队将住在美国一个叫纳什维尔的城市。\n「大会」是「大赛、大会」，「〜の間」表示「在……期间」。",
+    "ファンは、「日本代表、頑張ってください」と応援しています。\n球迷们喊着「国家队加油」为他们助威。\n「応援」是「声援、加油」，「〜てください」是礼貌请求。"
+  ]
+}

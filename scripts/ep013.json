@@ -1,0 +1,505 @@
+{
+  "episode": 13,
+  "title": "九州北部・中国・近畿が梅雨入り",
+  "date": "2026-06-04",
+  "source": "NHK・気象庁（梅雨入り）",
+  "level": "N4-N3",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June fourth. The rainy season has officially begun in western Japan. The weather agency says northern Kyushu, the Chugoku region, and the Kansai area have all entered the rainy season. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州の北や中国地方、近畿が、梅雨に入りました。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>や<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>が、<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月4日に、気象庁が発表しました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>4<ruby>日<rt>にち</rt></ruby>に、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨は、雨がたくさん降る季節です。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降る<rt>ふる</rt></ruby><span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨は、ふつう7月の中ごろまで続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、ふつう7<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の梅雨入りは、いつもの年とだいたい同じくらいです。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby>入</span>りは、いつもの<ruby>年<rt>ねん</rt></ruby>とだいたい<ruby>同じ<rt>おなじ</rt></ruby>くらいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、日本の近くには「前線」があります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には「<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>」があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "前線と湿った空気のために、西日本では雨や曇りの日が続いています。",
+      "ruby": "<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>と<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>のために、<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>にち</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この季節は、じめじめして、家の中でもカビが出やすくなります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>は、じめじめして、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<span class=\"vw\" data-ja=\"カビ\" data-reading=\"かび\" data-en=\"mold; mildew\">カビ</span>が<ruby>出<rt>で</rt></ruby>やすくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州では、5日にかけて、天気がとても不安定になりそうです。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、5<ruby>日<rt>にち</rt></ruby>にかけて、<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>がとても<span class=\"vw\" data-ja=\"不安定\" data-reading=\"ふあんてい\" data-en=\"unstable\"><ruby>不安定<rt>ふあんてい</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "急に強く降る雨や、雷にも気をつけてください。",
+      "ruby": "<ruby>急に<rt>きゅうに</rt></ruby><ruby>強く<rt>つよく</rt></ruby><ruby>降る<rt>ふる</rt></ruby><ruby>雨<rt>あめ</rt></ruby>や、<span class=\"vw\" data-ja=\"雷\" data-reading=\"かみなり\" data-en=\"thunder; lightning\"><ruby>雷<rt>かみなり</rt></ruby></span>にも<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い雨が降って、川の水が増えるかもしれません。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>て、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase; to rise\"><ruby>増え<rt>ふえ</rt></ruby>るかもしれません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "山の近くでは、土砂崩れに気をつけてください。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>では、<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、「天気の情報をよく見てください」と話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>の<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>をよく<ruby>見て<rt>みて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "九州の北や中国地方、近畿が、梅雨に入りました。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>や<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>が、<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Northern Kyushu, the Chugoku region, and the Kansai area have entered the rainy season."
+    },
+    {
+      "speaker": "vocab",
+      "text": "梅雨",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the rainy season — the long stretch of wet weather across much of Japan in early summer."
+    },
+    {
+      "speaker": "slow",
+      "text": "梅雨は、雨がたくさん降る季節です。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降る<rt>ふる</rt></ruby><span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rainy season is a time of year when a lot of rain falls."
+    },
+    {
+      "speaker": "vocab",
+      "text": "季節",
+      "ruby": "<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means season. Japan is famous for having four very distinct ones."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、日本の近くには「前線」があります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には「<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>」があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, there is a weather front near Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "前線",
+      "ruby": "<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It names a weather front, the boundary between warm and cool air that often brings a long band of rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "前線と湿った空気のために、西日本では雨や曇りの日が続いています。",
+      "ruby": "<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>と<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>のために、<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>にち</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of the front and the moist air, rainy and cloudy days are continuing in western Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続く",
+      "ruby": "<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue; to last\"><ruby>続く<rt>つづく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue or to last. Here the rainy, cloudy days keep going on and on."
+    },
+    {
+      "speaker": "slow",
+      "text": "九州では、5日にかけて、天気がとても不安定になりそうです。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、5<ruby>日<rt>にち</rt></ruby>にかけて、<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>がとても<span class=\"vw\" data-ja=\"不安定\" data-reading=\"ふあんてい\" data-en=\"unstable\"><ruby>不安定<rt>ふあんてい</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Kyushu, through the fifth, the weather looks like it will become very unstable."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不安定",
+      "ruby": "<span class=\"vw\" data-ja=\"不安定\" data-reading=\"ふあんてい\" data-en=\"unstable\"><ruby>不安定<rt>ふあんてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means unstable. For weather, it describes conditions that can change fast and suddenly turn stormy."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い雨が降って、川の水が増えるかもしれません。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>て、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase; to rise\"><ruby>増え<rt>ふえ</rt></ruby>るかもしれません</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Heavy rain may fall, and the water in the rivers might rise."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase; to rise\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase or grow in number. Here it's the water in the rivers rising."
+    },
+    {
+      "speaker": "slow",
+      "text": "山の近くでは、土砂崩れに気をつけてください。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>では、<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Near the mountains, please watch out for landslides."
+    },
+    {
+      "speaker": "vocab",
+      "text": "土砂崩れ",
+      "ruby": "<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a landslide — when rain-soaked earth and rocks slide down a slope. A real danger near mountains in heavy rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、「天気の情報をよく見てください」と話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>の<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>をよく<ruby>見て<rt>みて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency is saying, please check the weather information carefully."
+    },
+    {
+      "speaker": "vocab",
+      "text": "情報",
+      "ruby": "<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means information. You'll see it everywhere, from weather updates to train notices."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州の北や中国地方、近畿が、梅雨に入りました。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>や<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>が、<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月4日に、気象庁が発表しました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>4<ruby>日<rt>にち</rt></ruby>に、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨は、雨がたくさん降る季節です。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降る<rt>ふる</rt></ruby><span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨は、ふつう7月の中ごろまで続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、ふつう7<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の梅雨入りは、いつもの年とだいたい同じくらいです。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby>入</span>りは、いつもの<ruby>年<rt>ねん</rt></ruby>とだいたい<ruby>同じ<rt>おなじ</rt></ruby>くらいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、日本の近くには「前線」があります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には「<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>」があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "前線と湿った空気のために、西日本では雨や曇りの日が続いています。",
+      "ruby": "<span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>と<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>のために、<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>にち</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この季節は、じめじめして、家の中でもカビが出やすくなります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>は、じめじめして、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<span class=\"vw\" data-ja=\"カビ\" data-reading=\"かび\" data-en=\"mold; mildew\">カビ</span>が<ruby>出<rt>で</rt></ruby>やすくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州では、5日にかけて、天気がとても不安定になりそうです。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>では、5<ruby>日<rt>にち</rt></ruby>にかけて、<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>がとても<span class=\"vw\" data-ja=\"不安定\" data-reading=\"ふあんてい\" data-en=\"unstable\"><ruby>不安定<rt>ふあんてい</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "急に強く降る雨や、雷にも気をつけてください。",
+      "ruby": "<ruby>急に<rt>きゅうに</rt></ruby><ruby>強く<rt>つよく</rt></ruby><ruby>降る<rt>ふる</rt></ruby><ruby>雨<rt>あめ</rt></ruby>や、<span class=\"vw\" data-ja=\"雷\" data-reading=\"かみなり\" data-en=\"thunder; lightning\"><ruby>雷<rt>かみなり</rt></ruby></span>にも<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い雨が降って、川の水が増えるかもしれません。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>て、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase; to rise\"><ruby>増え<rt>ふえ</rt></ruby>るかもしれません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "山の近くでは、土砂崩れに気をつけてください。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>では、<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、「天気の情報をよく見てください」と話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>の<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>をよく<ruby>見て<rt>みて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "どの地方が梅雨に入りましたか。",
+      "ruby": "どの<ruby>地方<rt>ちほう</rt></ruby>が<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which regions entered the rainy season? Northern Kyushu, the Chugoku region, and the Kansai area."
+    },
+    {
+      "speaker": "slow",
+      "text": "梅雨は、どんな季節ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、どんな<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kind of season is the rainy season? A season when a lot of rain falls."
+    },
+    {
+      "speaker": "slow",
+      "text": "山の近くでは、何に気をつけますか。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>では、<ruby>何<rt>なに</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Near the mountains, what should people watch out for? Landslides."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "梅雨",
+      "reading": "つゆ",
+      "en": "rainy season",
+      "zh": "梅雨（季）"
+    },
+    {
+      "ja": "季節",
+      "reading": "きせつ",
+      "en": "season",
+      "zh": "季节"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发表、宣布、公布"
+    },
+    {
+      "ja": "前線",
+      "reading": "ぜんせん",
+      "en": "weather front",
+      "zh": "锋面（气象）"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue; to last",
+      "zh": "持续、继续"
+    },
+    {
+      "ja": "カビ",
+      "reading": "かび",
+      "en": "mold; mildew",
+      "zh": "霉、霉菌"
+    },
+    {
+      "ja": "不安定",
+      "reading": "ふあんてい",
+      "en": "unstable",
+      "zh": "不稳定"
+    },
+    {
+      "ja": "雷",
+      "reading": "かみなり",
+      "en": "thunder; lightning",
+      "zh": "雷、打雷"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase; to rise",
+      "zh": "增加、上涨"
+    },
+    {
+      "ja": "土砂崩れ",
+      "reading": "どしゃくずれ",
+      "en": "landslide",
+      "zh": "山体滑坡、塌方"
+    },
+    {
+      "ja": "情報",
+      "reading": "じょうほう",
+      "en": "information",
+      "zh": "信息、情报"
+    },
+    {
+      "ja": "天気",
+      "reading": "てんき",
+      "en": "weather",
+      "zh": "天气"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜そうです",
+      "meaning": "looks like ~; seems like it will ~",
+      "meaningZh": "看起来……、好像快要……",
+      "formation": "verb (ます-stem) / adjective stem + そうです",
+      "example": "天気が不安定になりそうです。",
+      "translation": "The weather looks like it will become unstable.",
+      "note": "This そうです expresses a guess based on how things look right now. Don't confuse it with the そうです that reports hearsay.",
+      "noteZh": "这个「そうです」表示根据眼前情形做出的推测「看起来……」。注意与表示传闻的「そうです」区分。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#souda-appearance"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "because of ~; due to ~",
+      "meaningZh": "因为……、由于……",
+      "formation": "noun + の + ために",
+      "example": "前線と湿った空気のために、雨が続いています。",
+      "translation": "Because of the front and moist air, the rain continues.",
+      "note": "ために can show a cause as well as a purpose. After a noun, use の. Here it explains why the bad weather is happening.",
+      "noteZh": "「ために」既能表示目的，也能表示原因。接名词时用「の」。这里说明坏天气的原因。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#tameni"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~; tends to ~",
+      "meaningZh": "容易……、易于……",
+      "formation": "verb (ます-stem) + やすい",
+      "example": "カビが出やすくなります。",
+      "translation": "Mold becomes easy to grow.",
+      "note": "Attach やすい to a verb stem to say something happens easily or often. Its opposite is にくい (hard to ~).",
+      "noteZh": "在动词「ます形」词干后加「やすい」，表示「容易（发生）……」。反义是「にくい」（难以……）。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#yasui"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请……",
+      "formation": "verb て-form + ください",
+      "example": "土砂崩れに気をつけてください。",
+      "translation": "Please watch out for landslides.",
+      "note": "A polite request or instruction. Add the て-form of the verb before ください.",
+      "noteZh": "礼貌的请求或指示。在动词「て形」后加「ください」。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#tekudasai"
+    }
+  ],
+  "practiceZh": [
+    "九州の北や中国地方、近畿が、梅雨に入りました。\n九州北部、中国地区、近畿地区进入了梅雨季。\n「梅雨」是「梅雨（季）」，「〜に入る」是「进入……」。",
+    "梅雨は、雨がたくさん降る季節です。\n梅雨是一个多雨的季节。\n「季節」是「季节」，「降る」指（雨、雪）「下」。",
+    "今、日本の近くには「前線」があります。\n现在，日本附近有一条「锋面」。\n「前線」是气象用语「锋（面）」，「〜には〜があります」表示存在。",
+    "前線と湿った空気のために、西日本では雨や曇りの日が続いています。\n由于锋面和潮湿的空气，西日本持续着多雨多云的天气。\n「〜のために」在这里表示原因「因为……」，「続く」是「持续」。",
+    "九州では、5日にかけて、天気がとても不安定になりそうです。\n在九州，到5日为止，天气看起来会非常不稳定。\n「〜にかけて」表示「到……为止」，「〜になりそうです」表示「看起来会变得……」。",
+    "強い雨が降って、川の水が増えるかもしれません。\n可能会下大雨，河水也许会上涨。\n「増える」是「增加、上涨」，「〜かもしれません」表示可能性。",
+    "山の近くでは、土砂崩れに気をつけてください。\n在山附近，请小心山体滑坡。\n「土砂崩れ」是「山体滑坡、塌方」，「〜に気をつける」是「小心……」。",
+    "気象庁は、「天気の情報をよく見てください」と話しています。\n气象厅表示「请仔细查看天气信息」。\n「情報」是「信息」，「〜てください」是礼貌请求。"
+  ]
+}
