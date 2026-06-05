@@ -1,0 +1,513 @@
+{
+  "episode": 14,
+  "title": "6月5日は「環境の日」",
+  "date": "2026-06-05",
+  "source": "環境省（環境の日・環境月間）",
+  "level": "N5-N4",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June fifth, which is Environment Day in Japan. It's a day to stop and think about the planet and how we treat it. In fact, all of June is treated as a month for the environment here. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月5日は、「環境の日」です。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>5<ruby>日<rt>にち</rt></ruby>は、「<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "環境の日は、地球の自然について考える日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>は、<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>について<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think; to consider\"><ruby>考え<rt>かんがえ</rt></ruby>る</span><ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、6月を「環境月間」と呼んでいます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、6<ruby>月<rt>がつ</rt></ruby>を「<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span><ruby>月間<rt>げっかん</rt></ruby>」と<ruby>呼ん<rt>よん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この1か月、日本のいろいろな所で、イベントがあります。",
+      "ruby": "この1か<ruby>月<rt>がつ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>のいろいろな<ruby>所<rt>ところ</rt></ruby>で、イベントがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、町のごみを拾う活動があります。",
+      "ruby": "たとえば、<ruby>町<rt>まち</rt></ruby>のごみを<ruby>拾う<rt>ひろう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "木を植えるイベントもあります。",
+      "ruby": "<ruby>木<rt>き</rt></ruby>を<span class=\"vw\" data-ja=\"植える\" data-reading=\"うえる\" data-en=\"to plant\"><ruby>植え<rt>うえ</rt></ruby>る</span>イベントもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "川や海をきれいにする活動も、人気があります。",
+      "ruby": "<ruby>川<rt>かわ</rt></ruby>や<ruby>海<rt>うみ</rt></ruby>をきれいにする<ruby>活動<rt>かつどう</rt></ruby>も、<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "学校でも、子どもたちが環境について勉強します。",
+      "ruby": "<ruby>学校<rt>がっこう</rt></ruby>でも、<ruby>子ども<rt>こども</rt></ruby>たちが<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>について<ruby>勉強<rt>べんきょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、世界では、暑い日が増えています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>では、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>にち</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "プラスチックのごみも、大きな問題です。",
+      "ruby": "プラスチックのごみも、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem; issue\"><ruby>問題<rt>もんだい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "レジ袋を使わない人も、増えてきました。",
+      "ruby": "レジ<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>も、<ruby>増え<rt>ふえ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人一人ができることは、小さいかもしれません。",
+      "ruby": "<ruby>一人一人<rt>ひとりひとり</rt></ruby>ができることは、<ruby>小さい<rt>ちいさい</rt></ruby>かもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、ごみを減らしたり、電気を大切に使ったりできます。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"ごみ\" data-reading=\"ごみ\" data-en=\"trash; garbage\">ごみを</span><ruby>減ら<rt>へら</rt></ruby>したり、<ruby>電気<rt>でんき</rt></ruby>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important; precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>に<ruby>使った<rt>つかった</rt></ruby>りできます。"
+    },
+    {
+      "speaker": "news",
+      "text": "買い物には、自分のかばんを持っていきましょう。",
+      "ruby": "<ruby>買い物<rt>かいもの</rt></ruby>には、<ruby>自分<rt>じぶん</rt></ruby>のかばんを<ruby>持っ<rt>もっ</rt></ruby>ていきましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、「みんなで環境のことを考えましょう」と話しています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、「みんなで<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>のことを<ruby>考え<rt>かんがえ</rt></ruby>ましょう」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月5日は、「環境の日」です。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>5<ruby>日<rt>にち</rt></ruby>は、「<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "June fifth is Environment Day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "環境",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means environment — the natural world around us, the air, water, and land."
+    },
+    {
+      "speaker": "slow",
+      "text": "環境の日は、地球の自然について考える日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>は、<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>について<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think; to consider\"><ruby>考え<rt>かんがえ</rt></ruby>る</span><ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Environment Day is a day to think about the Earth's nature."
+    },
+    {
+      "speaker": "vocab",
+      "text": "自然",
+      "ruby": "<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means nature. Think mountains, rivers, forests — the world not made by people."
+    },
+    {
+      "speaker": "slow",
+      "text": "たとえば、町のごみを拾う活動があります。",
+      "ruby": "たとえば、<ruby>町<rt>まち</rt></ruby>のごみを<ruby>拾う<rt>ひろう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "For example, there are activities to pick up trash around town."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ごみ",
+      "ruby": "<span class=\"vw\" data-ja=\"ごみ\" data-reading=\"ごみ\" data-en=\"trash; garbage\">ごみ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means trash or garbage. A very everyday word you'll see on bins all over Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "木を植えるイベントもあります。",
+      "ruby": "<ruby>木<rt>き</rt></ruby>を<span class=\"vw\" data-ja=\"植える\" data-reading=\"うえる\" data-en=\"to plant\"><ruby>植え<rt>うえ</rt></ruby>る</span>イベントもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are also events for planting trees."
+    },
+    {
+      "speaker": "vocab",
+      "text": "植える",
+      "ruby": "<span class=\"vw\" data-ja=\"植える\" data-reading=\"うえる\" data-en=\"to plant\"><ruby>植え<rt>うえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to plant — putting a tree or seed into the ground so it can grow."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、世界では、暑い日が増えています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>では、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>にち</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, hot days are increasing around the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世界",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means world. Add it to a topic and you've zoomed out to the whole planet."
+    },
+    {
+      "speaker": "slow",
+      "text": "プラスチックのごみも、大きな問題です。",
+      "ruby": "プラスチックのごみも、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem; issue\"><ruby>問題<rt>もんだい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Plastic trash is also a big problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "問題",
+      "ruby": "<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem; issue\"><ruby>問題<rt>もんだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means problem or issue. It's also the word for a question on a test."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、ごみを減らしたり、電気を大切に使ったりできます。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"ごみ\" data-reading=\"ごみ\" data-en=\"trash; garbage\">ごみを</span><ruby>減ら<rt>へら</rt></ruby>したり、<ruby>電気<rt>でんき</rt></ruby>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important; precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>に<ruby>使った<rt>つかった</rt></ruby>りできます。"
+    },
+    {
+      "speaker": "host",
+      "text": "But we can do things like reduce trash and use electricity carefully."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減らす",
+      "ruby": "<span class=\"vw\" data-ja=\"減らす\" data-reading=\"へらす\" data-en=\"to reduce; to cut down\"><ruby>減ら<rt>へら</rt></ruby>す</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to reduce or cut down. The opposite is to increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、「みんなで環境のことを考えましょう」と話しています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、「みんなで<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>のことを<ruby>考え<rt>かんがえ</rt></ruby>ましょう」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government is saying, let's all think about the environment together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "考える",
+      "ruby": "<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think; to consider\"><ruby>考え<rt>かんがえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to think or to consider. Here, to think things over carefully as a group."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月5日は、「環境の日」です。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>5<ruby>日<rt>にち</rt></ruby>は、「<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "環境の日は、地球の自然について考える日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>の<ruby>日<rt>にち</rt></ruby>は、<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>について<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think; to consider\"><ruby>考え<rt>かんがえ</rt></ruby>る</span><ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、6月を「環境月間」と呼んでいます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、6<ruby>月<rt>がつ</rt></ruby>を「<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span><ruby>月間<rt>げっかん</rt></ruby>」と<ruby>呼ん<rt>よん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この1か月、日本のいろいろな所で、イベントがあります。",
+      "ruby": "この1か<ruby>月<rt>がつ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>のいろいろな<ruby>所<rt>ところ</rt></ruby>で、イベントがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、町のごみを拾う活動があります。",
+      "ruby": "たとえば、<ruby>町<rt>まち</rt></ruby>のごみを<ruby>拾う<rt>ひろう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "木を植えるイベントもあります。",
+      "ruby": "<ruby>木<rt>き</rt></ruby>を<span class=\"vw\" data-ja=\"植える\" data-reading=\"うえる\" data-en=\"to plant\"><ruby>植え<rt>うえ</rt></ruby>る</span>イベントもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "川や海をきれいにする活動も、人気があります。",
+      "ruby": "<ruby>川<rt>かわ</rt></ruby>や<ruby>海<rt>うみ</rt></ruby>をきれいにする<ruby>活動<rt>かつどう</rt></ruby>も、<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "学校でも、子どもたちが環境について勉強します。",
+      "ruby": "<ruby>学校<rt>がっこう</rt></ruby>でも、<ruby>子ども<rt>こども</rt></ruby>たちが<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>について<ruby>勉強<rt>べんきょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、世界では、暑い日が増えています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>では、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>にち</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "プラスチックのごみも、大きな問題です。",
+      "ruby": "プラスチックのごみも、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem; issue\"><ruby>問題<rt>もんだい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "レジ袋を使わない人も、増えてきました。",
+      "ruby": "レジ<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>も、<ruby>増え<rt>ふえ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人一人ができることは、小さいかもしれません。",
+      "ruby": "<ruby>一人一人<rt>ひとりひとり</rt></ruby>ができることは、<ruby>小さい<rt>ちいさい</rt></ruby>かもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、ごみを減らしたり、電気を大切に使ったりできます。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"ごみ\" data-reading=\"ごみ\" data-en=\"trash; garbage\">ごみを</span><ruby>減ら<rt>へら</rt></ruby>したり、<ruby>電気<rt>でんき</rt></ruby>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important; precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>に<ruby>使った<rt>つかった</rt></ruby>りできます。"
+    },
+    {
+      "speaker": "news",
+      "text": "買い物には、自分のかばんを持っていきましょう。",
+      "ruby": "<ruby>買い物<rt>かいもの</rt></ruby>には、<ruby>自分<rt>じぶん</rt></ruby>のかばんを<ruby>持っ<rt>もっ</rt></ruby>ていきましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、「みんなで環境のことを考えましょう」と話しています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、「みんなで<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>のことを<ruby>考え<rt>かんがえ</rt></ruby>ましょう」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月5日は、何の日ですか。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>5<ruby>日<rt>にち</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby><ruby>日<rt>にち</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What day is June fifth? It's Environment Day."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、6月を何と呼んでいますか。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、6<ruby>月<rt>がつ</rt></ruby>を<ruby>何と<rt>なんと</rt></ruby><ruby>呼ん<rt>よん</rt></ruby>でいますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What does Japan call the month of June? Environment Month."
+    },
+    {
+      "speaker": "slow",
+      "text": "わたしたちには、どんなことができますか。",
+      "ruby": "わたしたちには、どんなことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kinds of things can we do? Reduce trash, and use electricity carefully."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "環境",
+      "reading": "かんきょう",
+      "en": "environment",
+      "zh": "环境"
+    },
+    {
+      "ja": "自然",
+      "reading": "しぜん",
+      "en": "nature",
+      "zh": "自然、大自然"
+    },
+    {
+      "ja": "地球",
+      "reading": "ちきゅう",
+      "en": "the Earth",
+      "zh": "地球"
+    },
+    {
+      "ja": "ごみ",
+      "reading": "ごみ",
+      "en": "trash; garbage",
+      "zh": "垃圾"
+    },
+    {
+      "ja": "植える",
+      "reading": "うえる",
+      "en": "to plant",
+      "zh": "栽种、种植"
+    },
+    {
+      "ja": "世界",
+      "reading": "せかい",
+      "en": "world",
+      "zh": "世界"
+    },
+    {
+      "ja": "問題",
+      "reading": "もんだい",
+      "en": "problem; issue",
+      "zh": "问题"
+    },
+    {
+      "ja": "減らす",
+      "reading": "へらす",
+      "en": "to reduce; to cut down",
+      "zh": "减少"
+    },
+    {
+      "ja": "大切",
+      "reading": "たいせつ",
+      "en": "important; precious",
+      "zh": "重要、珍惜"
+    },
+    {
+      "ja": "考える",
+      "reading": "かんがえる",
+      "en": "to think; to consider",
+      "zh": "思考、考虑"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜について",
+      "meaning": "about ~; concerning ~",
+      "meaningZh": "关于……、就……",
+      "formation": "noun + について",
+      "example": "地球の自然について考えます。",
+      "translation": "We think about the Earth's nature.",
+      "note": "について marks the topic you talk, think, or write about. The noun before it is what you're focusing on.",
+      "noteZh": "「について」提示谈论、思考或书写的对象，前面的名词就是话题焦点。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#nitsuite"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "do things like ~ and ~ (among others)",
+      "meaningZh": "又……又……、（举例）做……做……",
+      "formation": "verb past (た) + り … verb past + り + する",
+      "example": "ごみを減らしたり、電気を大切に使ったりします。",
+      "translation": "We do things like reducing trash and using electricity carefully.",
+      "note": "Lists a few example actions without claiming they're the only ones. Built from the た-form plus り.",
+      "noteZh": "列举几个有代表性的动作，不表示仅此而已。用动词「た形」加「り」构成。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#tari"
+    },
+    {
+      "pattern": "〜ましょう",
+      "meaning": "let's ~",
+      "meaningZh": "（一起）……吧",
+      "formation": "verb ます-stem + ましょう",
+      "example": "みんなで環境のことを考えましょう。",
+      "translation": "Let's all think about the environment.",
+      "note": "A friendly invitation or suggestion to do something together. Softer than a command.",
+      "noteZh": "友好地邀请或提议一起做某事，语气比命令柔和。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#mashou"
+    },
+    {
+      "pattern": "〜かもしれません",
+      "meaning": "might ~; maybe ~",
+      "meaningZh": "也许……、可能……",
+      "formation": "plain form (i-adj plain + かもしれません)",
+      "example": "できることは小さいかもしれません。",
+      "translation": "What we can do may be small.",
+      "note": "Shows the speaker isn't sure. With i-adjectives, attach it straight to the plain form, as in 小さいかもしれません.",
+      "noteZh": "表示说话人不确定。接い形容词时直接用原形，如「小さいかもしれません」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#kamoshirenai"
+    }
+  ],
+  "practiceZh": [
+    "6月5日は、「環境の日」です。\n6月5日是「环境日」。\n「環境」是「环境」，「〜は〜です」是基本的「……是……」句型。",
+    "環境の日は、地球の自然について考える日です。\n环境日是思考地球自然环境的日子。\n「自然」是「自然、大自然」，「〜について」表示「关于……」。",
+    "たとえば、町のごみを拾う活動があります。\n比如，有捡拾街上垃圾的活动。\n「ごみ」是「垃圾」，「拾う」是「捡」，「活動」是「活动」。",
+    "木を植えるイベントもあります。\n也有植树的活动。\n「植える」是「栽种、种植」，「〜も」表示「也」。",
+    "今、世界では、暑い日が増えています。\n如今，全世界炎热的日子正在增多。\n「世界」是「世界」，「増えています」表示「正在增加」。",
+    "プラスチックのごみも、大きな問題です。\n塑料垃圾也是一个大问题。\n「問題」是「问题」，「大きな」是「大的」。",
+    "でも、ごみを減らしたり、電気を大切に使ったりできます。\n不过，我们可以减少垃圾、节约用电等等。\n「減らす」是「减少」，「〜たり〜たりする」表示列举「又……又……」。",
+    "政府は、「みんなで環境のことを考えましょう」と話しています。\n政府表示「让我们大家一起来思考环境问题吧」。\n「考える」是「思考」，「〜ましょう」是「（一起）……吧」。"
+  ]
+}
