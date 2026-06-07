@@ -1,0 +1,473 @@
+{
+  "episode": 15,
+  "title": "奈良「飛鳥・藤原の宮都」世界遺産へ勧告",
+  "date": "2026-06-06",
+  "source": "文化庁・ICOMOS（飛鳥・藤原の宮都の登録勧告）",
+  "level": "N4-N3",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June sixth. Some big cultural news from Nara: a group of ancient palace and tomb sites called Asuka-Fujiwara looks set to become a World Heritage Site. A UNESCO advisory group has just recommended it for the list. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良県の「飛鳥・藤原の宮都」が、世界遺産になりそうです。",
+      "ruby": "<ruby>奈良県<rt>ならけん</rt></ruby>の「<ruby>飛鳥<rt>あすか</rt></ruby>・<ruby>藤原<rt>ふじわら</rt></ruby>の<ruby>宮都<rt>きゅうと</rt></ruby>」が、<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月6日、ユネスコの専門家のグループが、登録するように勧めました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>6<ruby>日<rt>にち</rt></ruby>、ユネスコの<ruby>専門家<rt>せんもんか</rt></ruby>のグループが、<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>するように<ruby>勧め<rt>すすめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "飛鳥・藤原は、今の奈良県にあります。",
+      "ruby": "<ruby>飛鳥<rt>あすか</rt></ruby>・<ruby>藤原<rt>ふじわら</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>奈良県<rt>ならけん</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "橿原市、桜井市、明日香村の三つの場所です。",
+      "ruby": "<ruby>橿原<rt>かしはら</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>桜井<rt>さくらい</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>明日香<rt>あすか</rt></ruby><ruby>村<rt>むら</rt></ruby>の<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "6世紀の終わりから8世紀の初めごろ、ここに天皇の宮殿がありました。",
+      "ruby": "6<ruby>世紀<rt>せいき</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>から8<ruby>世紀<rt>せいき</rt></ruby>の<ruby>初め<rt>はじめ</rt></ruby>ごろ、ここに<span class=\"vw\" data-ja=\"天皇\" data-reading=\"てんのう\" data-en=\"emperor (of Japan)\"><ruby>天皇<rt>てんのう</rt></ruby></span>の<span class=\"vw\" data-ja=\"宮殿\" data-reading=\"きゅうでん\" data-en=\"palace\"><ruby>宮殿<rt>きゅうでん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "当時、ここは日本の都でした。",
+      "ruby": "<ruby>当時<rt>とうじ</rt></ruby>、ここは<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"都\" data-reading=\"みやこ\" data-en=\"capital (old/classical)\"><ruby>都<rt>みやこ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "飛鳥寺などの古いお寺の跡や、高松塚古墳などの古いお墓も残っています。",
+      "ruby": "<ruby>飛鳥<rt>あすか</rt></ruby><ruby>寺<rt>てら</rt></ruby>などの<ruby>古い<rt>ふるい</rt></ruby>お<ruby>寺<rt>てら</rt></ruby>の<ruby>跡<rt>あと</rt></ruby>や、<ruby>高松<rt>たかまつ</rt></ruby><ruby>塚<rt>つか</rt></ruby><span class=\"vw\" data-ja=\"古墳\" data-reading=\"こふん\" data-en=\"ancient burial mound; kofun\"><ruby>古墳<rt>こふん</rt></ruby></span>などの<ruby>古い<rt>ふるい</rt></ruby>お<ruby>墓<rt>はか</rt></ruby>も<ruby>残っ<rt>のこっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "全部で19の資産が、世界遺産の候補です。",
+      "ruby": "<ruby>全部<rt>ぜんぶ</rt></ruby>で19の<ruby>資産<rt>しさん</rt></ruby>が、<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>の<span class=\"vw\" data-ja=\"候補\" data-reading=\"こうほ\" data-en=\"candidate\"><ruby>候補<rt>こうほ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正式な登録は、7月に韓国のプサンで決まる見通しです。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>は、7<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>のプサンで<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided; to be settled\"><ruby>決ま<rt>きま</rt></ruby>る</span><ruby>見通し<rt>みとおし</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "登録されれば、日本の世界遺産は全部で27件になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>されれば、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で27<ruby>件<rt>けん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "地元の人たちは、「とてもうれしい」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"local area; one's hometown\"><ruby>地元<rt>じもと</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、「とてもうれしい」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "奈良県の「飛鳥・藤原の宮都」が、世界遺産になりそうです。",
+      "ruby": "<ruby>奈良県<rt>ならけん</rt></ruby>の「<ruby>飛鳥<rt>あすか</rt></ruby>・<ruby>藤原<rt>ふじわら</rt></ruby>の<ruby>宮都<rt>きゅうと</rt></ruby>」が、<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nara's Asuka-Fujiwara capital looks set to become a World Heritage Site."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世界遺産",
+      "ruby": "<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means World Heritage Site — a place UNESCO judges so valuable it should be protected for everyone."
+    },
+    {
+      "speaker": "slow",
+      "text": "ユネスコの専門家のグループが、登録するように勧めました。",
+      "ruby": "ユネスコの<ruby>専門家<rt>せんもんか</rt></ruby>のグループが、<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>するように<ruby>勧め<rt>すすめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A group of UNESCO experts recommended that it be registered."
+    },
+    {
+      "speaker": "vocab",
+      "text": "登録",
+      "ruby": "<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means registration — formally entering something onto an official list."
+    },
+    {
+      "speaker": "slow",
+      "text": "6世紀の終わりから8世紀の初めごろ、ここに天皇の宮殿がありました。",
+      "ruby": "6<ruby>世紀<rt>せいき</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>から8<ruby>世紀<rt>せいき</rt></ruby>の<ruby>初め<rt>はじめ</rt></ruby>ごろ、ここに<span class=\"vw\" data-ja=\"天皇\" data-reading=\"てんのう\" data-en=\"emperor (of Japan)\"><ruby>天皇<rt>てんのう</rt></ruby></span>の<span class=\"vw\" data-ja=\"宮殿\" data-reading=\"きゅうでん\" data-en=\"palace\"><ruby>宮殿<rt>きゅうでん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the late sixth to the early eighth century, the emperor's palace stood here."
+    },
+    {
+      "speaker": "vocab",
+      "text": "宮殿",
+      "ruby": "<span class=\"vw\" data-ja=\"宮殿\" data-reading=\"きゅうでん\" data-en=\"palace\"><ruby>宮殿<rt>きゅうでん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means palace — the grand residence of an emperor or king."
+    },
+    {
+      "speaker": "slow",
+      "text": "当時、ここは日本の都でした。",
+      "ruby": "<ruby>当時<rt>とうじ</rt></ruby>、ここは<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"都\" data-reading=\"みやこ\" data-en=\"capital (old/classical)\"><ruby>都<rt>みやこ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "At that time, this was the capital of Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "都",
+      "ruby": "<span class=\"vw\" data-ja=\"都\" data-reading=\"みやこ\" data-en=\"capital (old/classical)\"><ruby>都<rt>みやこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means capital, in the old, classical sense — the seat of the emperor."
+    },
+    {
+      "speaker": "slow",
+      "text": "飛鳥寺などの古いお寺の跡や、高松塚古墳などの古いお墓も残っています。",
+      "ruby": "<ruby>飛鳥<rt>あすか</rt></ruby><ruby>寺<rt>てら</rt></ruby>などの<ruby>古い<rt>ふるい</rt></ruby>お<ruby>寺<rt>てら</rt></ruby>の<ruby>跡<rt>あと</rt></ruby>や、<ruby>高松<rt>たかまつ</rt></ruby><ruby>塚<rt>つか</rt></ruby><span class=\"vw\" data-ja=\"古墳\" data-reading=\"こふん\" data-en=\"ancient burial mound; kofun\"><ruby>古墳<rt>こふん</rt></ruby></span>などの<ruby>古い<rt>ふるい</rt></ruby>お<ruby>墓<rt>はか</rt></ruby>も<ruby>残っ<rt>のこっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The remains of old temples, and old tombs too, still survive here."
+    },
+    {
+      "speaker": "vocab",
+      "text": "残る",
+      "ruby": "<span class=\"vw\" data-ja=\"残る\" data-reading=\"のこる\" data-en=\"to remain; to be left\"><ruby>残る<rt>のこる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to remain or be left behind. Here, the old ruins are still standing after centuries."
+    },
+    {
+      "speaker": "slow",
+      "text": "全部で19の資産が、世界遺産の候補です。",
+      "ruby": "<ruby>全部<rt>ぜんぶ</rt></ruby>で19の<ruby>資産<rt>しさん</rt></ruby>が、<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>の<span class=\"vw\" data-ja=\"候補\" data-reading=\"こうほ\" data-en=\"candidate\"><ruby>候補<rt>こうほ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "In total, nineteen sites are candidates for World Heritage status."
+    },
+    {
+      "speaker": "vocab",
+      "text": "候補",
+      "ruby": "<span class=\"vw\" data-ja=\"候補\" data-reading=\"こうほ\" data-en=\"candidate\"><ruby>候補<rt>こうほ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means candidate — someone or something in the running to be chosen."
+    },
+    {
+      "speaker": "slow",
+      "text": "正式な登録は、7月に韓国のプサンで決まる見通しです。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>は、7<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>のプサンで<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided; to be settled\"><ruby>決ま<rt>きま</rt></ruby>る</span><ruby>見通し<rt>みとおし</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The official registration is expected to be decided in July, in Busan, South Korea."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決まる",
+      "ruby": "<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided; to be settled\"><ruby>決ま<rt>きま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be decided or settled. It's the partner verb of 'to decide something.'"
+    },
+    {
+      "speaker": "slow",
+      "text": "地元の人たちは、「とてもうれしい」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"local area; one's hometown\"><ruby>地元<rt>じもと</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、「とてもうれしい」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Local people are saying they're very happy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地元",
+      "ruby": "<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"local area; one's hometown\"><ruby>地元<rt>じもと</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the local area, or one's home turf — the people who live right there."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良県の「飛鳥・藤原の宮都」が、世界遺産になりそうです。",
+      "ruby": "<ruby>奈良県<rt>ならけん</rt></ruby>の「<ruby>飛鳥<rt>あすか</rt></ruby>・<ruby>藤原<rt>ふじわら</rt></ruby>の<ruby>宮都<rt>きゅうと</rt></ruby>」が、<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月6日、ユネスコの専門家のグループが、登録するように勧めました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>6<ruby>日<rt>にち</rt></ruby>、ユネスコの<ruby>専門家<rt>せんもんか</rt></ruby>のグループが、<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>するように<ruby>勧め<rt>すすめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "飛鳥・藤原は、今の奈良県にあります。",
+      "ruby": "<ruby>飛鳥<rt>あすか</rt></ruby>・<ruby>藤原<rt>ふじわら</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>奈良県<rt>ならけん</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "橿原市、桜井市、明日香村の三つの場所です。",
+      "ruby": "<ruby>橿原<rt>かしはら</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>桜井<rt>さくらい</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>明日香<rt>あすか</rt></ruby><ruby>村<rt>むら</rt></ruby>の<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "6世紀の終わりから8世紀の初めごろ、ここに天皇の宮殿がありました。",
+      "ruby": "6<ruby>世紀<rt>せいき</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>から8<ruby>世紀<rt>せいき</rt></ruby>の<ruby>初め<rt>はじめ</rt></ruby>ごろ、ここに<span class=\"vw\" data-ja=\"天皇\" data-reading=\"てんのう\" data-en=\"emperor (of Japan)\"><ruby>天皇<rt>てんのう</rt></ruby></span>の<span class=\"vw\" data-ja=\"宮殿\" data-reading=\"きゅうでん\" data-en=\"palace\"><ruby>宮殿<rt>きゅうでん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "当時、ここは日本の都でした。",
+      "ruby": "<ruby>当時<rt>とうじ</rt></ruby>、ここは<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"都\" data-reading=\"みやこ\" data-en=\"capital (old/classical)\"><ruby>都<rt>みやこ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "飛鳥寺などの古いお寺の跡や、高松塚古墳などの古いお墓も残っています。",
+      "ruby": "<ruby>飛鳥<rt>あすか</rt></ruby><ruby>寺<rt>てら</rt></ruby>などの<ruby>古い<rt>ふるい</rt></ruby>お<ruby>寺<rt>てら</rt></ruby>の<ruby>跡<rt>あと</rt></ruby>や、<ruby>高松<rt>たかまつ</rt></ruby><ruby>塚<rt>つか</rt></ruby><span class=\"vw\" data-ja=\"古墳\" data-reading=\"こふん\" data-en=\"ancient burial mound; kofun\"><ruby>古墳<rt>こふん</rt></ruby></span>などの<ruby>古い<rt>ふるい</rt></ruby>お<ruby>墓<rt>はか</rt></ruby>も<ruby>残っ<rt>のこっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "全部で19の資産が、世界遺産の候補です。",
+      "ruby": "<ruby>全部<rt>ぜんぶ</rt></ruby>で19の<ruby>資産<rt>しさん</rt></ruby>が、<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>の<span class=\"vw\" data-ja=\"候補\" data-reading=\"こうほ\" data-en=\"candidate\"><ruby>候補<rt>こうほ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正式な登録は、7月に韓国のプサンで決まる見通しです。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>は、7<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>のプサンで<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided; to be settled\"><ruby>決ま<rt>きま</rt></ruby>る</span><ruby>見通し<rt>みとおし</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "登録されれば、日本の世界遺産は全部で27件になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>されれば、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"世界遺産\" data-reading=\"せかいいさん\" data-en=\"World Heritage Site\"><ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で27<ruby>件<rt>けん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "地元の人たちは、「とてもうれしい」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"local area; one's hometown\"><ruby>地元<rt>じもと</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、「とてもうれしい」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "「飛鳥・藤原の宮都」は、どこにありますか。",
+      "ruby": "「<ruby>飛鳥<rt>あすか</rt></ruby>・<ruby>藤原<rt>ふじわら</rt></ruby>の<ruby>宮都<rt>きゅうと</rt></ruby>」は、どこにありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Where is Asuka-Fujiwara? In Nara Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "昔、ここには何がありましたか。",
+      "ruby": "<ruby>昔<rt>むかし</rt></ruby>、ここには<ruby>何<rt>なに</rt></ruby>がありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was here long ago? The emperor's palace — it was Japan's capital."
+    },
+    {
+      "speaker": "slow",
+      "text": "正式な登録は、いつ決まりますか。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration; listing\"><ruby>登録<rt>とうろく</rt></ruby></span>は、いつ<ruby>決ま<rt>きま</rt></ruby>りますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When will the official registration be decided? In July, in Busan, South Korea."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "世界遺産",
+      "reading": "せかいいさん",
+      "en": "World Heritage Site",
+      "zh": "世界遗产"
+    },
+    {
+      "ja": "登録",
+      "reading": "とうろく",
+      "en": "registration; listing",
+      "zh": "登记、注册、列入（名录）"
+    },
+    {
+      "ja": "宮殿",
+      "reading": "きゅうでん",
+      "en": "palace",
+      "zh": "宫殿"
+    },
+    {
+      "ja": "都",
+      "reading": "みやこ",
+      "en": "capital (old/classical)",
+      "zh": "都城、京城（古）"
+    },
+    {
+      "ja": "残る",
+      "reading": "のこる",
+      "en": "to remain; to be left",
+      "zh": "留下、残存"
+    },
+    {
+      "ja": "候補",
+      "reading": "こうほ",
+      "en": "candidate",
+      "zh": "候选、候补"
+    },
+    {
+      "ja": "決まる",
+      "reading": "きまる",
+      "en": "to be decided; to be settled",
+      "zh": "（被）决定（自动词）"
+    },
+    {
+      "ja": "地元",
+      "reading": "じもと",
+      "en": "local area; one's hometown",
+      "zh": "当地、本地"
+    },
+    {
+      "ja": "天皇",
+      "reading": "てんのう",
+      "en": "emperor (of Japan)",
+      "zh": "天皇"
+    },
+    {
+      "ja": "古墳",
+      "reading": "こふん",
+      "en": "ancient burial mound; kofun",
+      "zh": "古坟、古墓"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ように（勧める・言う）",
+      "meaning": "to advise / tell (someone) to do ~",
+      "meaningZh": "（劝、要求、嘱咐）……做某事",
+      "formation": "verb (dictionary/ない form) + ように + 勧める・言う・お願いする…",
+      "example": "登録するように勧めました。",
+      "translation": "They recommended that it be registered.",
+      "note": "ように before verbs of speaking or requesting reports an indirect instruction or piece of advice.",
+      "noteZh": "「ように」接在表示「说、请求、劝告」的动词前，转述间接的指示或建议。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#youni-request"
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "if ~, then ~",
+      "meaningZh": "如果……就……",
+      "formation": "verb conditional (ば-form): change final -u to -eba",
+      "example": "登録されれば、世界遺産は27件になります。",
+      "translation": "If it is registered, there will be 27 World Heritage sites.",
+      "note": "The ば-form states a condition. する→すれば, ある→あれば, される→されれば.",
+      "noteZh": "「ば」形表示条件「如果……」。词尾「u」变「eba」：する→すれば、ある→あれば。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ba-conditional"
+    },
+    {
+      "pattern": "〜など",
+      "meaning": "such as ~; ~ and so on",
+      "meaningZh": "……等、……之类",
+      "formation": "noun + など",
+      "example": "飛鳥寺などの古いお寺の跡が残っています。",
+      "translation": "The remains of old temples such as Asuka-dera survive.",
+      "note": "など gives an example while hinting there are more. It often pairs with や between nouns.",
+      "noteZh": "「など」举例并暗示还有其他，常与名词间的「や」搭配使用。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#nado"
+    },
+    {
+      "pattern": "〜から〜まで",
+      "meaning": "from ~ to ~",
+      "meaningZh": "从……到……",
+      "formation": "noun (time/place) + から … noun + まで",
+      "example": "6世紀の終わりから8世紀の初めまで、ここは都でした。",
+      "translation": "From the end of the 6th century to the start of the 8th, this was the capital.",
+      "note": "から marks the starting point and まで the ending point — works for both time and place.",
+      "noteZh": "「から」表示起点，「まで」表示终点，时间和地点都能用。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#kara-made"
+    }
+  ],
+  "practiceZh": [
+    "奈良県の「飛鳥・藤原の宮都」が、世界遺産になりそうです。\n奈良县的「飞鸟·藤原宫都」看来要成为世界遗产了。\n「世界遺産」是「世界遗产」，「〜になりそうです」表示「看起来要变成……」。",
+    "ユネスコの専門家のグループが、登録するように勧めました。\n联合国教科文组织的专家团队建议（将其）列入名录。\n「登録」是「登记、列入（名录）」，「〜ように勧める」是「建议（做）……」。",
+    "6世紀の終わりから8世紀の初めごろ、ここに天皇の宮殿がありました。\n从6世纪末到8世纪初前后，这里曾有天皇的宫殿。\n「宮殿」是「宫殿」，「〜から〜（まで）」表示时间范围「从……到……」。",
+    "当時、ここは日本の都でした。\n当时，这里是日本的都城。\n「都」（みやこ）是古语「都城、京城」，「当時」是「当时、那时」。",
+    "飛鳥寺などの古いお寺の跡や、高松塚古墳などの古いお墓も残っています。\n飞鸟寺等古老寺院的遗迹，以及高松塚古坟等古墓也都留存着。\n「残る」是「留下、残存」，「など」表示「……等」。",
+    "全部で19の資産が、世界遺産の候補です。\n总共19处资产是世界遗产的候选。\n「候補」是「候选、候补」，「全部で」是「总共、合计」。",
+    "正式な登録は、7月に韓国のプサンで決まる見通しです。\n正式列入预计将于7月在韩国釜山决定。\n「決まる」是「（被）决定」（自动词），「見通し」是「预计、展望」。",
+    "地元の人たちは、「とてもうれしい」と話しています。\n当地居民表示「非常高兴」。\n「地元」是「当地、本地」，「〜と話しています」是「（人们）表示……」。"
+  ]
+}
