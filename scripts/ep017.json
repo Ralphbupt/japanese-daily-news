@@ -1,0 +1,504 @@
+{
+  "episode": 17,
+  "title": "6月4日〜10日は「歯と口の健康週間」",
+  "date": "2026-06-08",
+  "source": "厚生労働省・日本歯科医師会（歯と口の健康週間）",
+  "level": "N5-N4",
+  "contentVersion": "2026060801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June eighth. This week, from the fourth to the tenth, is Japan's Dental and Oral Health Week. It's a yearly reminder to take good care of your teeth. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月4日から10日までは、「歯と口の健康週間」です。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>4<ruby>日<rt>にち</rt></ruby>から10<ruby>日<rt>にち</rt></ruby>までは、「<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>と<span class=\"vw\" data-ja=\"口\" data-reading=\"くち\" data-en=\"mouth\"><ruby>口<rt>くち</rt></ruby></span>の<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span><ruby>週間<rt>しゅうかん</rt></ruby>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、歯を大切にすることを考える1週間です。",
+      "ruby": "これは、<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><ruby>大切<rt>たいせつ</rt></ruby>にすることを<ruby>考え<rt>かんがえ</rt></ruby>る1<ruby>週間<rt>しゅうかん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯が痛いと、ごはんがおいしく食べられません。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>が<span class=\"vw\" data-ja=\"痛い\" data-reading=\"いたい\" data-en=\"painful; it hurts\"><ruby>痛い<rt>いたい</rt></ruby></span>と、ごはんがおいしく<ruby>食べ<rt>たべ</rt></ruby>られません。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、毎日歯をみがくことが大切です。",
+      "ruby": "だから、<ruby>毎日<rt>まいにち</rt></ruby><span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"みがく\" data-reading=\"みがく\" data-en=\"to brush; to polish\">みがくことが</span><ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝と夜、特に寝る前にみがくといいです。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>、<ruby>特に<rt>とくに</rt></ruby><span class=\"vw\" data-ja=\"寝る\" data-reading=\"ねる\" data-en=\"to sleep; to go to bed\"><ruby>寝る<rt>ねる</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>にみがくといいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯みがきは、3分くらいかけてするといいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>みがきは、3<ruby>分く<rt>わく</rt></ruby>らいかけてするといいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "おくの歯も、わすれずにみがきましょう。",
+      "ruby": "おくの<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>も、わすれずにみがきましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "甘いものを食べすぎないことも、大切です。",
+      "ruby": "<span class=\"vw\" data-ja=\"甘い\" data-reading=\"あまい\" data-en=\"sweet\"><ruby>甘い<rt>あまい</rt></ruby></span>ものを<ruby>食べ<rt>たべ</rt></ruby>すぎないことも、<ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べたあとに、口をゆすぐのもいいです。",
+      "ruby": "<ruby>食べた<rt>たべた</rt></ruby>あとに、<span class=\"vw\" data-ja=\"口\" data-reading=\"くち\" data-en=\"mouth\"><ruby>口<rt>くち</rt></ruby></span>をゆすぐのもいいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "子どもも大人も、ときどき歯医者さんに行きましょう。",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>も<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>も、ときどき<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>さんに<ruby>行き<rt>いき</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯医者さんで、歯をきれいにしてもらえます。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>さんで、<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean; pretty\">きれいにしてもらえます</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "健康な歯は、一生の宝物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span>な<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>は、<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>宝物<rt>たからもの</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "元気な歯で、なんでもおいしく食べましょう。",
+      "ruby": "<ruby>元気<rt>げんき</rt></ruby>な<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>で、なんでもおいしく<ruby>食べ<rt>たべ</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "今週は、自分の歯について考えてみましょう。",
+      "ruby": "<ruby>今週<rt>こんしゅう</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>について<ruby>考え<rt>かんがえ</rt></ruby>てみましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月4日から10日までは、「歯と口の健康週間」です。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>4<ruby>日<rt>にち</rt></ruby>から10<ruby>日<rt>にち</rt></ruby>までは、「<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>と<span class=\"vw\" data-ja=\"口\" data-reading=\"くち\" data-en=\"mouth\"><ruby>口<rt>くち</rt></ruby></span>の<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span><ruby>週間<rt>しゅうかん</rt></ruby>」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "June fourth to the tenth is Dental and Oral Health Week."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歯",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tooth, or teeth. You'll hear it in lots of health and food talk."
+    },
+    {
+      "speaker": "slow",
+      "text": "歯が痛いと、ごはんがおいしく食べられません。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>が<span class=\"vw\" data-ja=\"痛い\" data-reading=\"いたい\" data-en=\"painful; it hurts\"><ruby>痛い<rt>いたい</rt></ruby></span>と、ごはんがおいしく<ruby>食べ<rt>たべ</rt></ruby>られません。"
+    },
+    {
+      "speaker": "host",
+      "text": "When your teeth hurt, you can't enjoy your meals."
+    },
+    {
+      "speaker": "vocab",
+      "text": "痛い",
+      "ruby": "<span class=\"vw\" data-ja=\"痛い\" data-reading=\"いたい\" data-en=\"painful; it hurts\"><ruby>痛い<rt>いたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means painful, or it hurts. Use it for anything from a headache to a sore tooth."
+    },
+    {
+      "speaker": "slow",
+      "text": "だから、毎日歯をみがくことが大切です。",
+      "ruby": "だから、<ruby>毎日<rt>まいにち</rt></ruby><span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"みがく\" data-reading=\"みがく\" data-en=\"to brush; to polish\">みがくことが</span><ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "So, brushing your teeth every day is important."
+    },
+    {
+      "speaker": "vocab",
+      "text": "みがく",
+      "ruby": "<span class=\"vw\" data-ja=\"みがく\" data-reading=\"みがく\" data-en=\"to brush; to polish\">みがく</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to brush, or to polish. You do it to your teeth, and to shoes too."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝と夜、特に寝る前にみがくといいです。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>、<ruby>特に<rt>とくに</rt></ruby><span class=\"vw\" data-ja=\"寝る\" data-reading=\"ねる\" data-en=\"to sleep; to go to bed\"><ruby>寝る<rt>ねる</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>にみがくといいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Morning and night — especially before bed — it's good to brush."
+    },
+    {
+      "speaker": "vocab",
+      "text": "寝る",
+      "ruby": "<span class=\"vw\" data-ja=\"寝る\" data-reading=\"ねる\" data-en=\"to sleep; to go to bed\"><ruby>寝る<rt>ねる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to sleep, or to go to bed. Here it's the time just before sleeping."
+    },
+    {
+      "speaker": "slow",
+      "text": "甘いものを食べすぎないことも、大切です。",
+      "ruby": "<span class=\"vw\" data-ja=\"甘い\" data-reading=\"あまい\" data-en=\"sweet\"><ruby>甘い<rt>あまい</rt></ruby></span>ものを<ruby>食べ<rt>たべ</rt></ruby>すぎないことも、<ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Not eating too many sweet things is also important."
+    },
+    {
+      "speaker": "vocab",
+      "text": "甘い",
+      "ruby": "<span class=\"vw\" data-ja=\"甘い\" data-reading=\"あまい\" data-en=\"sweet\"><ruby>甘い<rt>あまい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sweet. Great for candy, tough on your teeth in large amounts."
+    },
+    {
+      "speaker": "slow",
+      "text": "子どもも大人も、ときどき歯医者さんに行きましょう。",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>も<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>も、ときどき<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>さんに<ruby>行き<rt>いき</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Children and adults alike should go to the dentist now and then."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歯医者",
+      "ruby": "<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means dentist — literally the tooth doctor."
+    },
+    {
+      "speaker": "slow",
+      "text": "歯医者さんで、歯をきれいにしてもらえます。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>さんで、<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean; pretty\">きれいにしてもらえます</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the dentist, you can have your teeth cleaned."
+    },
+    {
+      "speaker": "vocab",
+      "text": "きれい",
+      "ruby": "<span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean; pretty\">きれい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clean, and also pretty. Both senses are useful every day."
+    },
+    {
+      "speaker": "slow",
+      "text": "健康な歯は、一生の宝物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span>な<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>は、<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>宝物<rt>たからもの</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Healthy teeth are a treasure for your whole life."
+    },
+    {
+      "speaker": "vocab",
+      "text": "健康",
+      "ruby": "<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means health, or healthy. The whole point of this special week."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月4日から10日までは、「歯と口の健康週間」です。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>4<ruby>日<rt>にち</rt></ruby>から10<ruby>日<rt>にち</rt></ruby>までは、「<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>と<span class=\"vw\" data-ja=\"口\" data-reading=\"くち\" data-en=\"mouth\"><ruby>口<rt>くち</rt></ruby></span>の<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span><ruby>週間<rt>しゅうかん</rt></ruby>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、歯を大切にすることを考える1週間です。",
+      "ruby": "これは、<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><ruby>大切<rt>たいせつ</rt></ruby>にすることを<ruby>考え<rt>かんがえ</rt></ruby>る1<ruby>週間<rt>しゅうかん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯が痛いと、ごはんがおいしく食べられません。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>が<span class=\"vw\" data-ja=\"痛い\" data-reading=\"いたい\" data-en=\"painful; it hurts\"><ruby>痛い<rt>いたい</rt></ruby></span>と、ごはんがおいしく<ruby>食べ<rt>たべ</rt></ruby>られません。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、毎日歯をみがくことが大切です。",
+      "ruby": "だから、<ruby>毎日<rt>まいにち</rt></ruby><span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"みがく\" data-reading=\"みがく\" data-en=\"to brush; to polish\">みがくことが</span><ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝と夜、特に寝る前にみがくといいです。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>、<ruby>特に<rt>とくに</rt></ruby><span class=\"vw\" data-ja=\"寝る\" data-reading=\"ねる\" data-en=\"to sleep; to go to bed\"><ruby>寝る<rt>ねる</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>にみがくといいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯みがきは、3分くらいかけてするといいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>みがきは、3<ruby>分く<rt>わく</rt></ruby>らいかけてするといいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "おくの歯も、わすれずにみがきましょう。",
+      "ruby": "おくの<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>も、わすれずにみがきましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "甘いものを食べすぎないことも、大切です。",
+      "ruby": "<span class=\"vw\" data-ja=\"甘い\" data-reading=\"あまい\" data-en=\"sweet\"><ruby>甘い<rt>あまい</rt></ruby></span>ものを<ruby>食べ<rt>たべ</rt></ruby>すぎないことも、<ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べたあとに、口をゆすぐのもいいです。",
+      "ruby": "<ruby>食べた<rt>たべた</rt></ruby>あとに、<span class=\"vw\" data-ja=\"口\" data-reading=\"くち\" data-en=\"mouth\"><ruby>口<rt>くち</rt></ruby></span>をゆすぐのもいいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "子どもも大人も、ときどき歯医者さんに行きましょう。",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>も<span class=\"vw\" data-ja=\"大人\" data-reading=\"おとな\" data-en=\"adult\"><ruby>大人<rt>おとな</rt></ruby></span>も、ときどき<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>さんに<ruby>行き<rt>いき</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯医者さんで、歯をきれいにしてもらえます。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯医者\" data-reading=\"はいしゃ\" data-en=\"dentist\"><ruby>歯医者<rt>はいしゃ</rt></ruby></span>さんで、<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"clean; pretty\">きれいにしてもらえます</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "健康な歯は、一生の宝物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span>な<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>は、<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>宝物<rt>たからもの</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "元気な歯で、なんでもおいしく食べましょう。",
+      "ruby": "<ruby>元気<rt>げんき</rt></ruby>な<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>で、なんでもおいしく<ruby>食べ<rt>たべ</rt></ruby>ましょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "今週は、自分の歯について考えてみましょう。",
+      "ruby": "<ruby>今週<rt>こんしゅう</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>について<ruby>考え<rt>かんがえ</rt></ruby>てみましょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "「歯と口の健康週間」は、いつですか。",
+      "ruby": "「<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯<rt>は</rt></ruby></span>と<span class=\"vw\" data-ja=\"口\" data-reading=\"くち\" data-en=\"mouth\"><ruby>口<rt>くち</rt></ruby></span>の<span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span><ruby>週間<rt>しゅうかん</rt></ruby>」は、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When is Dental and Oral Health Week? From June fourth to the tenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "歯を健康にするために、毎日何をしますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"歯\" data-reading=\"は\" data-en=\"tooth; teeth\"><ruby>歯を<rt>はを</rt></ruby></span><span class=\"vw\" data-ja=\"健康\" data-reading=\"けんこう\" data-en=\"health; healthy\"><ruby>健康<rt>けんこう</rt></ruby></span>にするために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>何を<rt>なにを</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "To keep your teeth healthy, what do you do every day? Brush your teeth."
+    },
+    {
+      "speaker": "slow",
+      "text": "食べすぎないほうがいいものは、何ですか。",
+      "ruby": "<ruby>食べ<rt>たべ</rt></ruby>すぎないほうがいいものは、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What is it better not to eat too much of? Sweet things."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "歯",
+      "reading": "は",
+      "en": "tooth; teeth",
+      "zh": "牙齿"
+    },
+    {
+      "ja": "痛い",
+      "reading": "いたい",
+      "en": "painful; it hurts",
+      "zh": "疼、痛"
+    },
+    {
+      "ja": "みがく",
+      "reading": "みがく",
+      "en": "to brush; to polish",
+      "zh": "刷（牙）、擦亮"
+    },
+    {
+      "ja": "寝る",
+      "reading": "ねる",
+      "en": "to sleep; to go to bed",
+      "zh": "睡觉"
+    },
+    {
+      "ja": "甘い",
+      "reading": "あまい",
+      "en": "sweet",
+      "zh": "甜"
+    },
+    {
+      "ja": "歯医者",
+      "reading": "はいしゃ",
+      "en": "dentist",
+      "zh": "牙医"
+    },
+    {
+      "ja": "きれい",
+      "reading": "きれい",
+      "en": "clean; pretty",
+      "zh": "干净、漂亮"
+    },
+    {
+      "ja": "健康",
+      "reading": "けんこう",
+      "en": "health; healthy",
+      "zh": "健康"
+    },
+    {
+      "ja": "口",
+      "reading": "くち",
+      "en": "mouth",
+      "zh": "嘴、口"
+    },
+    {
+      "ja": "大人",
+      "reading": "おとな",
+      "en": "adult",
+      "zh": "大人、成年人"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と（条件）",
+      "meaning": "when/if ~, (naturally) ~",
+      "meaningZh": "一……就……（必然结果）",
+      "formation": "verb / adjective plain form + と",
+      "example": "歯が痛いと、ごはんがおいしく食べられません。",
+      "translation": "When your teeth hurt, you can't enjoy your food.",
+      "note": "This と links a condition to a natural, inevitable result. 痛いと = 'once they hurt, then…'",
+      "noteZh": "这个「と」把条件和必然结果相连，「痛いと」＝一疼，就……",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#to-conditional"
+    },
+    {
+      "pattern": "〜すぎる",
+      "meaning": "too ~; ~ too much",
+      "meaningZh": "太……、过于……",
+      "formation": "verb ます-stem / adjective stem + すぎる",
+      "example": "甘いものを食べすぎないでください。",
+      "translation": "Don't eat too many sweet things.",
+      "note": "すぎる says an action or quality goes past the right amount. 食べすぎる = eat too much.",
+      "noteZh": "「すぎる」表示超过适度。「食べすぎる」＝吃太多。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#sugiru"
+    },
+    {
+      "pattern": "〜てみる",
+      "meaning": "try doing ~; do ~ and see",
+      "meaningZh": "试着……、……看看",
+      "formation": "verb て-form + みる",
+      "example": "自分の歯について考えてみましょう。",
+      "translation": "Let's try thinking about our own teeth.",
+      "note": "て-form + みる means do something to see how it goes. It comes from 見る, 'to see.'",
+      "noteZh": "「て形＋みる」表示「试着做……看看」，来自「見る（看）」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#temiru"
+    },
+    {
+      "pattern": "〜といい",
+      "meaning": "it's good to ~; you should ~",
+      "meaningZh": "……比较好、最好……",
+      "formation": "verb plain form + といい(です)",
+      "example": "寝る前に歯をみがくといいです。",
+      "translation": "It's good to brush your teeth before bed.",
+      "note": "A gentle suggestion. Literally, 'if you do ~, it's good.'",
+      "noteZh": "委婉的建议，字面是「如果做……就好」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#toii"
+    }
+  ],
+  "practiceZh": [
+    "6月4日から10日までは、「歯と口の健康週間」です。\n6月4日到10日是「牙齿与口腔健康周」。\n「歯」是「牙齿」，「〜から〜まで」是「从……到……」。",
+    "歯が痛いと、ごはんがおいしく食べられません。\n牙一疼，饭就吃不香了。\n「痛い」是「疼」，「〜と」表示「一……就……」。",
+    "だから、毎日歯をみがくことが大切です。\n所以，每天刷牙很重要。\n「みがく」是「刷（牙）、擦亮」，「だから」是「所以」。",
+    "朝と夜、特に寝る前にみがくといいです。\n早晚，尤其睡前刷一刷比较好。\n「寝る」是「睡觉」，「〜といい」是「最好……、……比较好」。",
+    "甘いものを食べすぎないことも、大切です。\n不吃太多甜食也很重要。\n「甘い」是「甜」，「食べすぎる」是「吃太多」。",
+    "子どもも大人も、ときどき歯医者さんに行きましょう。\n无论孩子还是大人，都要时常去看牙医。\n「歯医者」是「牙医」，「〜も〜も」是「无论……还是……」。",
+    "歯医者さんで、歯をきれいにしてもらえます。\n在牙医那里，可以把牙齿弄干净。\n「きれい」是「干净、漂亮」，「〜てもらえる」是「（请别人为自己）能……」。",
+    "今週は、自分の歯について考えてみましょう。\n这一周，试着想一想自己的牙齿吧。\n「〜について」是「关于……」，「考えてみる」是「试着想想」。"
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "episode": 16,
+  "title": "梅雨の花、あじさいが見ごろ",
+  "date": "2026-06-07",
+  "source": "季節の話題（あじさい）",
+  "level": "N5-N4",
+  "contentVersion": "2026060701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June seventh. Right now, all across Japan, hydrangeas are in full bloom. These round clusters of blue, purple, and pink flowers are the signature sight of the rainy season. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、日本では、あじさいの花がきれいです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>では、あじさいの<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>がきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいは、6月によく咲く花です。",
+      "ruby": "あじさいは、6<ruby>月<rt>がつ</rt></ruby>によく<span class=\"vw\" data-ja=\"咲く\" data-reading=\"さく\" data-en=\"to bloom\"><ruby>咲く<rt>さく</rt></ruby></span><span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "色は、青やむらさき、ピンクや白があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>は、<ruby>青<rt>あお</rt></ruby>やむらさき、ピンクや<ruby>白<rt>しろ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいは、雨がよく似合う花です。",
+      "ruby": "あじさいは、<ruby>雨<rt>あめ</rt></ruby>がよく<span class=\"vw\" data-ja=\"似合う\" data-reading=\"にあう\" data-en=\"to suit; to match\"><ruby>似合う<rt>にあう</rt></ruby></span><span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨の時期に、たくさん咲きます。",
+      "ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>の<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>に、たくさん<ruby>咲き<rt>さき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいの花は、雨にぬれると、もっときれいに見えます。",
+      "ruby": "あじさいの<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>にぬれると、もっときれいに<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいは、土によって色が変わることもあります。",
+      "ruby": "あじさいは、<ruby>土<rt>つち</rt></ruby>によって<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>が<ruby>変わ<rt>かわ</rt></ruby>ることもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の多くの場所に、あじさいで有名なお寺や公園があります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>多く<rt>おおく</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に、あじさいで<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>なお<ruby>寺<rt>てら</rt></ruby>や<span class=\"vw\" data-ja=\"公園\" data-reading=\"こうえん\" data-en=\"park\"><ruby>公園<rt>こうえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "鎌倉のお寺は、あじさいでとても人気です。",
+      "ruby": "<ruby>鎌倉<rt>かまくら</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>は、あじさいでとても<ruby>人気<rt>にんき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "葉の上で、かたつむりを見つけることもあります。",
+      "ruby": "<ruby>葉<rt>は</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>、かたつむりを<ruby>見つ<rt>みつ</rt></ruby>けることもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "この時期、たくさんの人が花を見に行きます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>、たくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>を<ruby>見に行き<rt>みにいき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "写真をとる人も、たくさんいます。",
+      "ruby": "<ruby>写真<rt>しゃしん</rt></ruby>をとる<ruby>人<rt>ひと</rt></ruby>も、たくさんいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨の日も、傘をさして散歩する人がいます。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>も、<span class=\"vw\" data-ja=\"傘\" data-reading=\"かさ\" data-en=\"umbrella\"><ruby>傘<rt>かさ</rt></ruby></span>をさして<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk; a stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "短い間しか見られないので、今がいちばんいい時期です。",
+      "ruby": "<span class=\"vw\" data-ja=\"短い\" data-reading=\"みじかい\" data-en=\"short\"><ruby>短い<rt>みじかい</rt></ruby></span><ruby>間<rt>あいだ</rt></ruby>しか<ruby>見ら<rt>みら</rt></ruby>れないので、<ruby>今<rt>いま</rt></ruby>がいちばんいい<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、日本では、あじさいの花がきれいです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>では、あじさいの<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>がきれいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now in Japan, the hydrangea flowers are beautiful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "花",
+      "ruby": "<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means flower. A word you'll meet again and again through Japan's four seasons."
+    },
+    {
+      "speaker": "slow",
+      "text": "あじさいは、6月によく咲く花です。",
+      "ruby": "あじさいは、6<ruby>月<rt>がつ</rt></ruby>によく<span class=\"vw\" data-ja=\"咲く\" data-reading=\"さく\" data-en=\"to bloom\"><ruby>咲く<rt>さく</rt></ruby></span><span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The hydrangea is a flower that often blooms in June."
+    },
+    {
+      "speaker": "vocab",
+      "text": "咲く",
+      "ruby": "<span class=\"vw\" data-ja=\"咲く\" data-reading=\"さく\" data-en=\"to bloom\"><ruby>咲く<rt>さく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to bloom — what flowers do when they open up."
+    },
+    {
+      "speaker": "slow",
+      "text": "色は、青やむらさき、ピンクや白があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>は、<ruby>青<rt>あお</rt></ruby>やむらさき、ピンクや<ruby>白<rt>しろ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The colors include blue, purple, pink, and white."
+    },
+    {
+      "speaker": "vocab",
+      "text": "色",
+      "ruby": "<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means color. Hydrangeas can even change theirs depending on the soil."
+    },
+    {
+      "speaker": "slow",
+      "text": "あじさいは、雨がよく似合う花です。",
+      "ruby": "あじさいは、<ruby>雨<rt>あめ</rt></ruby>がよく<span class=\"vw\" data-ja=\"似合う\" data-reading=\"にあう\" data-en=\"to suit; to match\"><ruby>似合う<rt>にあう</rt></ruby></span><span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The hydrangea is a flower that suits the rain well."
+    },
+    {
+      "speaker": "vocab",
+      "text": "似合う",
+      "ruby": "<span class=\"vw\" data-ja=\"似合う\" data-reading=\"にあう\" data-en=\"to suit; to match\"><ruby>似合う<rt>にあう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to suit or match well. Here, the flower and the rain just go together."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の多くの場所に、あじさいで有名なお寺や公園があります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>多く<rt>おおく</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に、あじさいで<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>なお<ruby>寺<rt>てら</rt></ruby>や<span class=\"vw\" data-ja=\"公園\" data-reading=\"こうえん\" data-en=\"park\"><ruby>公園<rt>こうえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In many places in Japan, there are temples and parks famous for hydrangeas."
+    },
+    {
+      "speaker": "vocab",
+      "text": "有名",
+      "ruby": "<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means famous. Pair it with 'for' to say what a place is known for."
+    },
+    {
+      "speaker": "slow",
+      "text": "この時期、たくさんの人が花を見に行きます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>、たくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>を<ruby>見に行き<rt>みにいき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In this season, many people go to see the flowers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "時期",
+      "ruby": "<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a period or time of year — a season for something to happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "雨の日も、傘をさして散歩する人がいます。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>も、<span class=\"vw\" data-ja=\"傘\" data-reading=\"かさ\" data-en=\"umbrella\"><ruby>傘<rt>かさ</rt></ruby></span>をさして<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk; a stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even on rainy days, some people put up an umbrella and take a walk."
+    },
+    {
+      "speaker": "vocab",
+      "text": "傘",
+      "ruby": "<span class=\"vw\" data-ja=\"傘\" data-reading=\"かさ\" data-en=\"umbrella\"><ruby>傘<rt>かさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means umbrella — essential gear all through the rainy season."
+    },
+    {
+      "speaker": "slow",
+      "text": "短い間しか見られないので、今がいちばんいい時期です。",
+      "ruby": "<span class=\"vw\" data-ja=\"短い\" data-reading=\"みじかい\" data-en=\"short\"><ruby>短い<rt>みじかい</rt></ruby></span><ruby>間<rt>あいだ</rt></ruby>しか<ruby>見ら<rt>みら</rt></ruby>れないので、<ruby>今<rt>いま</rt></ruby>がいちばんいい<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because you can only see them for a short time, now is the very best season."
+    },
+    {
+      "speaker": "vocab",
+      "text": "短い",
+      "ruby": "<span class=\"vw\" data-ja=\"短い\" data-reading=\"みじかい\" data-en=\"short\"><ruby>短い<rt>みじかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means short — in length or in time. The opposite is long."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、日本では、あじさいの花がきれいです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>では、あじさいの<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>がきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいは、6月によく咲く花です。",
+      "ruby": "あじさいは、6<ruby>月<rt>がつ</rt></ruby>によく<span class=\"vw\" data-ja=\"咲く\" data-reading=\"さく\" data-en=\"to bloom\"><ruby>咲く<rt>さく</rt></ruby></span><span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "色は、青やむらさき、ピンクや白があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>は、<ruby>青<rt>あお</rt></ruby>やむらさき、ピンクや<ruby>白<rt>しろ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいは、雨がよく似合う花です。",
+      "ruby": "あじさいは、<ruby>雨<rt>あめ</rt></ruby>がよく<span class=\"vw\" data-ja=\"似合う\" data-reading=\"にあう\" data-en=\"to suit; to match\"><ruby>似合う<rt>にあう</rt></ruby></span><span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨の時期に、たくさん咲きます。",
+      "ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>の<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>に、たくさん<ruby>咲き<rt>さき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいの花は、雨にぬれると、もっときれいに見えます。",
+      "ruby": "あじさいの<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>にぬれると、もっときれいに<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "あじさいは、土によって色が変わることもあります。",
+      "ruby": "あじさいは、<ruby>土<rt>つち</rt></ruby>によって<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>が<ruby>変わ<rt>かわ</rt></ruby>ることもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の多くの場所に、あじさいで有名なお寺や公園があります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>多く<rt>おおく</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に、あじさいで<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>なお<ruby>寺<rt>てら</rt></ruby>や<span class=\"vw\" data-ja=\"公園\" data-reading=\"こうえん\" data-en=\"park\"><ruby>公園<rt>こうえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "鎌倉のお寺は、あじさいでとても人気です。",
+      "ruby": "<ruby>鎌倉<rt>かまくら</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>は、あじさいでとても<ruby>人気<rt>にんき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "葉の上で、かたつむりを見つけることもあります。",
+      "ruby": "<ruby>葉<rt>は</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>、かたつむりを<ruby>見つ<rt>みつ</rt></ruby>けることもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "この時期、たくさんの人が花を見に行きます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>、たくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>を<ruby>見に行き<rt>みにいき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "写真をとる人も、たくさんいます。",
+      "ruby": "<ruby>写真<rt>しゃしん</rt></ruby>をとる<ruby>人<rt>ひと</rt></ruby>も、たくさんいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨の日も、傘をさして散歩する人がいます。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>も、<span class=\"vw\" data-ja=\"傘\" data-reading=\"かさ\" data-en=\"umbrella\"><ruby>傘<rt>かさ</rt></ruby></span>をさして<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk; a stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "短い間しか見られないので、今がいちばんいい時期です。",
+      "ruby": "<span class=\"vw\" data-ja=\"短い\" data-reading=\"みじかい\" data-en=\"short\"><ruby>短い<rt>みじかい</rt></ruby></span><ruby>間<rt>あいだ</rt></ruby>しか<ruby>見ら<rt>みら</rt></ruby>れないので、<ruby>今<rt>いま</rt></ruby>がいちばんいい<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"period; time of year; season\"><ruby>時期<rt>じき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "あじさいは、何月によく咲きますか。",
+      "ruby": "あじさいは、<ruby>何月<rt>なんがつ</rt></ruby>によく<ruby>咲き<rt>さき</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In what month do hydrangeas often bloom? In June."
+    },
+    {
+      "speaker": "slow",
+      "text": "あじさいには、どんな天気が似合いますか。",
+      "ruby": "あじさいには、どんな<ruby>天気<rt>てんき</rt></ruby>が<ruby>似合い<rt>にあい</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kind of weather suits the hydrangea? Rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "雨の日、人は何をさして散歩しますか。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>は<ruby>何を<rt>なにを</rt></ruby>さして<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk; a stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On rainy days, what do people put up to take a walk? An umbrella."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "花",
+      "reading": "はな",
+      "en": "flower",
+      "zh": "花"
+    },
+    {
+      "ja": "咲く",
+      "reading": "さく",
+      "en": "to bloom",
+      "zh": "开（花）"
+    },
+    {
+      "ja": "色",
+      "reading": "いろ",
+      "en": "color",
+      "zh": "颜色"
+    },
+    {
+      "ja": "似合う",
+      "reading": "にあう",
+      "en": "to suit; to match",
+      "zh": "相配、合适"
+    },
+    {
+      "ja": "有名",
+      "reading": "ゆうめい",
+      "en": "famous",
+      "zh": "有名、闻名"
+    },
+    {
+      "ja": "時期",
+      "reading": "じき",
+      "en": "period; time of year; season",
+      "zh": "时期、时节"
+    },
+    {
+      "ja": "傘",
+      "reading": "かさ",
+      "en": "umbrella",
+      "zh": "伞"
+    },
+    {
+      "ja": "短い",
+      "reading": "みじかい",
+      "en": "short",
+      "zh": "短"
+    },
+    {
+      "ja": "公園",
+      "reading": "こうえん",
+      "en": "park",
+      "zh": "公园"
+    },
+    {
+      "ja": "散歩",
+      "reading": "さんぽ",
+      "en": "a walk; a stroll",
+      "zh": "散步"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜や〜",
+      "meaning": "~ and ~ (among others)",
+      "meaningZh": "……和……（列举其中一部分）",
+      "formation": "noun + や + noun",
+      "example": "青やむらさきの花があります。",
+      "translation": "There are blue and purple flowers, among others.",
+      "note": "や lists a couple of examples and hints there are more, unlike と, which lists a complete set.",
+      "noteZh": "「や」举出其中几个并暗示还有其他；与表示穷尽列举的「と」不同。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ya-listing"
+    },
+    {
+      "pattern": "〜に行く",
+      "meaning": "go (somewhere) to do ~",
+      "meaningZh": "去（做）……",
+      "formation": "verb ます-stem + に + 行く／来る",
+      "example": "花を見に行きます。",
+      "translation": "I go to see the flowers.",
+      "note": "The ます-stem before に行く states the purpose of going. 見に行く = go in order to see.",
+      "noteZh": "「ます形」＋「に行く」表示去的目的。「見に行く」＝去看。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ni-iku"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~; since ~",
+      "meaningZh": "因为……（客观、柔和）",
+      "formation": "plain form (na-adj/noun + な) + ので",
+      "example": "短い間しか見られないので、今がいちばんです。",
+      "translation": "Because you can only see them briefly, now is best.",
+      "note": "ので gives a reason in a soft, objective way. After na-adjectives and nouns, use な + ので.",
+      "noteZh": "「ので」客观柔和地说明原因。接な形容词／名词时用「な＋ので」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#node"
+    },
+    {
+      "pattern": "〜しか〜ない",
+      "meaning": "only ~ (nothing more)",
+      "meaningZh": "只……（仅此，别无其他）",
+      "formation": "noun + しか + negative verb",
+      "example": "短い間しか見られません。",
+      "translation": "You can only see them for a short while.",
+      "note": "しか always pairs with a negative verb, but the meaning is a positive 'only.' More limiting than だけ.",
+      "noteZh": "「しか」必与否定呼应，意思却是肯定的「只」。比「だけ」更强调限定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#shika"
+    }
+  ],
+  "practiceZh": [
+    "今、日本では、あじさいの花がきれいです。\n现在在日本，绣球花开得很漂亮。\n「花」是「花」，「きれい」是「漂亮、干净」（な形容词）。",
+    "あじさいは、6月によく咲く花です。\n绣球花是6月常开的花。\n「咲く」是「开（花）」，「よく」在这里是「经常」。",
+    "色は、青やむらさき、ピンクや白があります。\n颜色有蓝色、紫色、粉色和白色等。\n「色」是「颜色」，「〜や〜」表示列举一部分「……和……等」。",
+    "あじさいは、雨がよく似合う花です。\n绣球花是很配雨的花。\n「似合う」是「相配、合适」，「よく似合う」＝很相配。",
+    "日本の多くの場所に、あじさいで有名なお寺や公園があります。\n在日本很多地方，都有以绣球花闻名的寺院和公园。\n「有名」是「有名、闻名」（な形容词），「〜で有名」＝以……闻名。",
+    "この時期、たくさんの人が花を見に行きます。\n这个时节，很多人去赏花。\n「時期」是「时期、时节」，「見に行く」＝去看。",
+    "雨の日も、傘をさして散歩する人がいます。\n即使下雨天，也有人撑着伞散步。\n「傘」是「伞」，「傘をさす」＝撑伞，「散歩」是「散步」。",
+    "短い間しか見られないので、今がいちばんいい時期です。\n因为只能看很短一段时间，所以现在是最好的时节。\n「〜しか〜ない」＝只……，「〜ので」表示原因。"
+  ]
+}
