@@ -30,6 +30,7 @@ LEVELS = {"N5-N4", "N4-N3", "N3-N2"}
 
 JA_CHAR_RE = re.compile(r"[぀-ゟ゠-ヿ一-鿿]")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+CONTENT_VERSION_RE = re.compile(r"^\d{10}$")
 
 
 def add(errs, path, msg):
@@ -58,6 +59,8 @@ def validate(ep_path, errs):
         add(errs, name, f"'date' must be YYYY-MM-DD, got {d.get('date')!r}")
     if "level" in d and d["level"] not in LEVELS:
         add(errs, name, f"'level' must be one of {sorted(LEVELS)}, got {d['level']!r}")
+    if "contentVersion" in d and not CONTENT_VERSION_RE.match(str(d["contentVersion"])):
+        add(errs, name, f"'contentVersion' must be 10 digits (YYYYMMDDNN), got {d['contentVersion']!r}")
 
     chars = d.get("characters", {})
     for sp in REQUIRED_SPEAKERS:

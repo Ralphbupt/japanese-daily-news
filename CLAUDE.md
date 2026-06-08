@@ -77,7 +77,9 @@ Features: synced transcript, furigana, vocab click tooltips, practice mode (精�
 
 ## Versioning
 
-`PAGE_VERSION` in `Layout.astro` head script. When episode content changes, bump this version (format: YYYYMMDDNN). On mismatch, all `jdn-ep*` localStorage entries are cleared automatically.
+Cache invalidation is **per-episode**, via the `contentVersion` field (format `YYYYMMDDNN`) in each `scripts/epNNN.json`. When an episode's content/timing changes, bump **only that episode's** `contentVersion`. The episode page (`ep/[id].astro`) stores it as `ver` alongside the saved playback position in `jdn-ep<NNN>`; on load, if the stored `ver` no longer matches, only that one episode's saved position is dropped — every other episode's progress is left intact. New episodes get a `contentVersion` at creation.
+
+(Legacy: there used to be a single global `PAGE_VERSION` in `Layout.astro` that wiped *all* `jdn-ep*` entries on any change. It was removed in favor of the per-episode field — don't reintroduce it.)
 
 ## Tools
 
