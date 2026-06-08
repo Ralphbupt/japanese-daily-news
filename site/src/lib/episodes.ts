@@ -54,6 +54,10 @@ export interface RawEpisode {
   grammar?: GrammarPoint[];
   level?: string;
   practiceZh?: string[];
+  /** Per-episode cache key (YYYYMMDDNN). Bump only when THIS episode's
+   *  content/timing changes — invalidates only this episode's saved playback
+   *  position, leaving every other episode's progress intact. */
+  contentVersion?: string;
 }
 
 export interface ProcessedEpisode extends RawEpisode {

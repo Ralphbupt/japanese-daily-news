@@ -314,13 +314,14 @@ const segmentsForClient = segs.map(s => ({
     </div>
   </div>
 
-  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-pzh={JSON.stringify(episode.practiceZh)} style="display:none"></div>
+  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-pzh={JSON.stringify(episode.practiceZh)} style="display:none"></div>
 
   <script is:inline>
   document.addEventListener('DOMContentLoaded', function() {
     var dataEl = document.getElementById('seg-data');
     var raw = JSON.parse(dataEl.getAttribute('data-v'));
     var epId = dataEl.getAttribute('data-ep');
+    var epCv = dataEl.getAttribute('data-cv') || '';
     var practiceZhArr = JSON.parse(dataEl.getAttribute('data-pzh') || '[]');
     var segments = raw.map(function(r) {
       return { index: r.i, start: r.s, end: r.e, speaker: r.sp, text: r.t, ruby: r.r };
@@ -371,6 +372,13 @@ const segmentsForClient = segs.map(s => ({
     // ===== localStorage: restore =====
     try {
       var saved = JSON.parse(localStorage.getItem(storageKey));
+      // Per-episode cache invalidation: if THIS episode has a contentVersion and
+      // it differs from what was saved, the saved playback position is stale
+      // (timing shifted) — drop it. Other episodes are untouched.
+      if (saved && epCv && saved.ver !== epCv) {
+        localStorage.removeItem(storageKey);
+        saved = null;
+      }
       if (saved) {
         if (saved.time > 1) {
           audio.currentTime = saved.time;
@@ -511,7 +519,8 @@ const segmentsForClient = segs.map(s => ({
         try {
           localStorage.setItem(storageKey, JSON.stringify({
             time: audio.currentTime,
-            speed: audio.playbackRate
+            speed: audio.playbackRate,
+            ver: epCv
           }));
         } catch(e) {}
       }
@@ -551,7 +560,7 @@ const segmentsForClient = segs.map(s => ({
       var btns = speedControls.querySelectorAll('.speed-btn');
       for (var k = 0; k < btns.length; k++) btns[k].classList.remove('active');
       btn.classList.add('active');
-      try { localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed })); } catch(e) {}
+      try { localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed, ver: epCv })); } catch(e) {}
       ga('audio_speed_change', { speed: speed });
     });
 
