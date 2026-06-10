@@ -1,0 +1,464 @@
+{
+  "episode": 19,
+  "title": "サッカーワールドカップ、あす開幕",
+  "date": "2026-06-10",
+  "source": "FIFA・日本サッカー協会（ワールドカップ2026）",
+  "level": "N4-N3",
+  "contentVersion": "2026061001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June tenth. The soccer World Cup kicks off tomorrow in North America — and this one is the biggest in history. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーのワールドカップが、あす、6月11日に始まります。",
+      "ruby": "サッカーのワールドカップが、あす、6<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今度の大会は、アメリカとカナダとメキシコの3つの国で行われます。",
+      "ruby": "<ruby>今度<rt>こんど</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>は、アメリカとカナダとメキシコの3つの<ruby>国<rt>くに</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "3つの国が一緒にワールドカップを開くのは、初めてです。",
+      "ruby": "3つの<ruby>国<rt>くに</rt></ruby>が<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span>ワールドカップを<ruby>開く<rt>ひらく</rt></ruby>のは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "出るチームの数は、今までの32から48に増えました。",
+      "ruby": "<ruby>出る<rt>でる</rt></ruby>チームの<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number; amount\"><ruby>数<rt>かず</rt></ruby></span>は、<ruby>今まで<rt>いままで</rt></ruby>の32から48に<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "歴史の中で、一番大きい大会になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>一番<rt>いちばん</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の試合は、メキシコの首都、メキシコシティで行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、メキシコの<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>、メキシコシティで<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、グループFで、オランダ、チュニジア、スウェーデンと試合をします。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、グループFで、オランダ、チュニジア、スウェーデンと<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の最初の試合は、オランダとの試合で、日本時間の6月15日の朝5時に始まります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、オランダとの<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>で、<ruby>日本時間<rt>にほんじかん</rt></ruby>の6<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>5<ruby>時<rt>じ</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会は、7月19日まで続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>は、7<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界中の人たちが、とても楽しみにしています。",
+      "ruby": "<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、とても<ruby>楽しみ<rt>たのしみ</rt></ruby>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "今度の大会は、アメリカとカナダとメキシコの3つの国で行われます。",
+      "ruby": "<ruby>今度<rt>こんど</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>は、アメリカとカナダとメキシコの3つの<ruby>国<rt>くに</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This tournament will be held in three countries: the United States, Canada, and Mexico."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大会",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tournament, or a big event. Marathons, sports days, the Olympics — they all use this word."
+    },
+    {
+      "speaker": "slow",
+      "text": "3つの国が一緒にワールドカップを開くのは、初めてです。",
+      "ruby": "3つの<ruby>国<rt>くに</rt></ruby>が<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span>ワールドカップを<ruby>開く<rt>ひらく</rt></ruby>のは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the first time three countries are hosting the World Cup together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一緒に",
+      "ruby": "<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means together. You'll use it constantly — eating together, going somewhere together, working together."
+    },
+    {
+      "speaker": "slow",
+      "text": "出るチームの数は、今までの32から48に増えました。",
+      "ruby": "<ruby>出る<rt>でる</rt></ruby>チームの<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number; amount\"><ruby>数<rt>かず</rt></ruby></span>は、<ruby>今まで<rt>いままで</rt></ruby>の32から48に<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The number of teams taking part has grown from thirty-two to forty-eight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase, to go up in number. News stories use it all the time for prices, visitors, and populations."
+    },
+    {
+      "speaker": "slow",
+      "text": "歴史の中で、一番大きい大会になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>一番<rt>いちばん</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "It will be the biggest tournament in history."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history. You'll meet it in museums, textbooks, and any sentence about the past."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の試合は、メキシコの首都、メキシコシティで行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、メキシコの<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>、メキシコシティで<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The opening match will be held in Mexico City, the capital of Mexico."
+    },
+    {
+      "speaker": "vocab",
+      "text": "首都",
+      "ruby": "<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a capital city — the main city of a country, like Tokyo for Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、グループFで、オランダ、チュニジア、スウェーデンと試合をします。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、グループFで、オランダ、チュニジア、スウェーデンと<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan is in Group F and will play the Netherlands, Tunisia, and Sweden."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試合",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a match or a game. Any sports contest, from soccer to judo, is one of these."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の最初の試合は、オランダとの試合で、日本時間の6月15日の朝5時に始まります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、オランダとの<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>で、<ruby>日本時間<rt>にほんじかん</rt></ruby>の6<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>5<ruby>時<rt>じ</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's first match is against the Netherlands, starting at five in the morning on June fifteenth, Japan time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最初",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first, or the very beginning. Its opposite means the last."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会は、7月19日まで続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>は、7<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tournament continues until July nineteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続く",
+      "ruby": "<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue\"><ruby>続く<rt>つづく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue, to go on. Weather forecasts love it — rain that continues all week."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーのワールドカップが、あす、6月11日に始まります。",
+      "ruby": "サッカーのワールドカップが、あす、6<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今度の大会は、アメリカとカナダとメキシコの3つの国で行われます。",
+      "ruby": "<ruby>今度<rt>こんど</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>は、アメリカとカナダとメキシコの3つの<ruby>国<rt>くに</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "3つの国が一緒にワールドカップを開くのは、初めてです。",
+      "ruby": "3つの<ruby>国<rt>くに</rt></ruby>が<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span>ワールドカップを<ruby>開く<rt>ひらく</rt></ruby>のは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "出るチームの数は、今までの32から48に増えました。",
+      "ruby": "<ruby>出る<rt>でる</rt></ruby>チームの<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number; amount\"><ruby>数<rt>かず</rt></ruby></span>は、<ruby>今まで<rt>いままで</rt></ruby>の32から48に<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "歴史の中で、一番大きい大会になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>一番<rt>いちばん</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の試合は、メキシコの首都、メキシコシティで行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、メキシコの<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>、メキシコシティで<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、グループFで、オランダ、チュニジア、スウェーデンと試合をします。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、グループFで、オランダ、チュニジア、スウェーデンと<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の最初の試合は、オランダとの試合で、日本時間の6月15日の朝5時に始まります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、オランダとの<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>で、<ruby>日本時間<rt>にほんじかん</rt></ruby>の6<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>5<ruby>時<rt>じ</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会は、7月19日まで続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>は、7<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界中の人たちが、とても楽しみにしています。",
+      "ruby": "<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、とても<ruby>楽しみ<rt>たのしみ</rt></ruby>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "ワールドカップは、いくつの国で行われますか。",
+      "ruby": "ワールドカップは、いくつの<ruby>国<rt>くに</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In how many countries is the World Cup being held? Three — the United States, Canada, and Mexico."
+    },
+    {
+      "speaker": "slow",
+      "text": "出るチームの数は、いくつに増えましたか。",
+      "ruby": "<ruby>出る<rt>でる</rt></ruby>チームの<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number; amount\"><ruby>数<rt>かず</rt></ruby></span>は、いくつに<ruby>増え<rt>ふえ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "To how many teams did the tournament grow? Forty-eight, up from thirty-two."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の最初の試合は、いつ始まりますか。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、いつ<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When does Japan's first match start? At five in the morning on June fifteenth, Japan time."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "tournament; big event",
+      "zh": "大赛、大会"
+    },
+    {
+      "ja": "一緒に",
+      "reading": "いっしょに",
+      "en": "together",
+      "zh": "一起"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    },
+    {
+      "ja": "首都",
+      "reading": "しゅと",
+      "en": "capital city",
+      "zh": "首都"
+    },
+    {
+      "ja": "試合",
+      "reading": "しあい",
+      "en": "match; game",
+      "zh": "比赛"
+    },
+    {
+      "ja": "最初",
+      "reading": "さいしょ",
+      "en": "the first; the beginning",
+      "zh": "最初、第一个"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue",
+      "zh": "持续、继续"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次、初次"
+    },
+    {
+      "ja": "数",
+      "reading": "かず",
+      "en": "number; amount",
+      "zh": "数量"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜で行われる",
+      "meaning": "to be held at/in ~ (passive)",
+      "meaningZh": "在……举行（被动）",
+      "formation": "place + で + 行われる",
+      "example": "今度の大会は、アメリカとカナダとメキシコの3つの国で行われます。",
+      "translation": "This tournament will be held in three countries: the US, Canada, and Mexico.",
+      "note": "行われる is the passive of 行う (to hold/carry out). News Japanese uses it constantly for events, ceremonies, and elections.",
+      "noteZh": "「行われる」是「行う」的被动形。新闻日语中描述活动、仪式、选举时非常常用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#passive"
+    },
+    {
+      "pattern": "〜のは初めてだ",
+      "meaning": "it is the first time that ~",
+      "meaningZh": "……还是第一次",
+      "formation": "verb (dictionary form) + のは + 初めてだ／です",
+      "example": "3つの国が一緒にワールドカップを開くのは、初めてです。",
+      "translation": "It's the first time three countries are hosting the World Cup together.",
+      "note": "の turns the whole clause into a noun, and 初めて says it has never happened before.",
+      "noteZh": "「の」把整个句子名词化，「初めて」表示此前从未发生过。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#nominalization"
+    },
+    {
+      "pattern": "AからBに増える",
+      "meaning": "to increase from A to B",
+      "meaningZh": "从A增加到B",
+      "formation": "number A + から + number B + に + 増える",
+      "example": "出るチームの数は、今までの32から48に増えました。",
+      "translation": "The number of teams has increased from thirty-two to forty-eight.",
+      "note": "から marks the starting point and に the result. Swap in 減る to talk about decreases the same way.",
+      "noteZh": "「から」表示起点，「に」表示变化结果。把动词换成「減る」就能同样表达减少。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#change-of-state"
+    },
+    {
+      "pattern": "〜まで続く",
+      "meaning": "to continue until ~",
+      "meaningZh": "持续到……为止",
+      "formation": "time/date + まで + 続く",
+      "example": "大会は、7月19日まで続きます。",
+      "translation": "The tournament continues until July nineteenth.",
+      "note": "まで marks the end point in time or space. Paired with 続く, it tells you how long something lasts.",
+      "noteZh": "「まで」表示时间或空间的终点，和「続く」搭配表示持续到什么时候。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#kara-made"
+    }
+  ],
+  "practiceZh": [
+    "今度の大会は、アメリカとカナダとメキシコの3つの国で行われます。\n这次大赛将在美国、加拿大、墨西哥三个国家举行。\n「行われる」是「行う」的被动形，新闻里表示「被举行」。",
+    "3つの国が一緒にワールドカップを開くのは、初めてです。\n三个国家一起举办世界杯还是第一次。\n「〜のは初めてです」表示「……还是头一次」。",
+    "出るチームの数は、今までの32から48に増えました。\n参赛球队的数量从以往的32支增加到了48支。\n「AからBに増える」表示「从A增加到B」。",
+    "歴史の中で、一番大きい大会になります。\n这将成为历史上规模最大的一届大赛。\n「一番＋形容词」表示最高级，「〜になります」表示变化的结果。",
+    "最初の試合は、メキシコの首都、メキシコシティで行われます。\n首场比赛将在墨西哥首都墨西哥城举行。\n「首都」即「首都」，名词之间用顿号并列作补充说明。",
+    "日本は、グループFで、オランダ、チュニジア、スウェーデンと試合をします。\n日本队在F组，将与荷兰、突尼斯、瑞典交手。\n「〜と試合をする」表示「和……比赛」。",
+    "日本の最初の試合は、オランダとの試合で、日本時間の6月15日の朝5時に始まります。\n日本队的首场比赛对阵荷兰，日本时间6月15日早上5点开始。\n「〜との試合」表示「与……的比赛」，时间点用「に」。",
+    "大会は、7月19日まで続きます。\n大赛将持续到7月19日。\n「〜まで続く」表示「持续到……为止」。"
+  ]
+}
