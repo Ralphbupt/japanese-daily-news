@@ -310,11 +310,14 @@ const segmentsForClient = segs.map(s => ({
           <button class="speed-btn" data-speed="1.5">1.5&times;</button>
           <button class="speed-btn" data-speed="2">2&times;</button>
         </div>
+        <button class="speed-btn autoplay-btn" id="autoplayBtn" title="Auto-play next episode / 自动连播下一集">
+          <span class="i18n-en">Auto &rsaquo;</span><span class="i18n-zh">连播 &rsaquo;</span>
+        </button>
       </div>
     </div>
   </div>
 
-  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-pzh={JSON.stringify(episode.practiceZh)} style="display:none"></div>
+  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} style="display:none"></div>
 
   <script is:inline>
   document.addEventListener('DOMContentLoaded', function() {
@@ -322,6 +325,7 @@ const segmentsForClient = segs.map(s => ({
     var raw = JSON.parse(dataEl.getAttribute('data-v'));
     var epId = dataEl.getAttribute('data-ep');
     var epCv = dataEl.getAttribute('data-cv') || '';
+    var nextEpNum = dataEl.getAttribute('data-next') || '';
     var practiceZhArr = JSON.parse(dataEl.getAttribute('data-pzh') || '[]');
     var segments = raw.map(function(r) {
       return { index: r.i, start: r.s, end: r.e, speaker: r.sp, text: r.t, ruby: r.r };
@@ -394,6 +398,25 @@ const segmentsForClient = segs.map(s => ({
       }
     } catch(e) {}
 
+    // ===== Autoplay next episode =====
+    var autoplayKey = 'jdn-autoplay';
+    var autoplayBtn = document.getElementById('autoplayBtn');
+    var autoplayOn = false;
+    try { autoplayOn = localStorage.getItem(autoplayKey) === '1'; } catch(e) {}
+    autoplayBtn.classList.toggle('active', autoplayOn);
+    autoplayBtn.addEventListener('click', function() {
+      autoplayOn = !autoplayOn;
+      autoplayBtn.classList.toggle('active', autoplayOn);
+      try { localStorage.setItem(autoplayKey, autoplayOn ? '1' : '0'); } catch(e) {}
+      ga('autoplay_toggle', { on: autoplayOn ? 1 : 0 });
+    });
+    // Arriving from a finished episode: start playing (browsers may block; then
+    // the user just taps play — the button state is already correct)
+    if (/[?&]autoplay=1/.test(location.search)) {
+      try { history.replaceState(null, '', location.pathname); } catch(e) {}
+      if (autoplayOn) tryPlay();
+    }
+
     // ===== Practice data =====
     var practicePairs = [];
     var pzhIdx = 0;
@@ -465,6 +488,12 @@ const segmentsForClient = segs.map(s => ({
 
     audio.addEventListener('ended', function() {
       if (!gaCompleted) { gaCompleted = true; ga('audio_complete'); }
+      // Finished: reset saved position so a revisit starts from the top (keep speed)
+      try { localStorage.setItem(storageKey, JSON.stringify({ time: 0, speed: audio.playbackRate, ver: epCv })); } catch(e) {}
+      if (autoplayOn && nextEpNum) {
+        ga('autoplay_next');
+        setTimeout(function() { location.href = '/ep/' + nextEpNum + '/?autoplay=1'; }, 600);
+      }
     });
 
     audio.addEventListener('loadedmetadata', function() {
