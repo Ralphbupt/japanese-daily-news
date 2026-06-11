@@ -15,8 +15,9 @@ Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnot
 # 2. Add furigana + vocab highlights
 .venv/bin/python tools/add-furigana.py epNNN
 
-# 3. Validate the script (schema + content rules)
+# 3. Validate the script (schema + content rules) and audit furigana readings
 python3 tools/validate-episode.py epNNN
+python3 tools/audit-furigana.py epNNN   # pykakasi mislabels multi-reading kanji; fix any SUSPECT lines in the JSON by hand
 
 # 4. Generate audio + timing data
 .venv/bin/python tools/gen-episode.py epNNN
@@ -77,7 +78,7 @@ Features: synced transcript, furigana, vocab click tooltips, practice mode (精�
 
 ## Versioning
 
-Cache invalidation is **per-episode**, via the `contentVersion` field (format `YYYYMMDDNN`) in each `scripts/epNNN.json`. When an episode's content/timing changes, bump **only that episode's** `contentVersion`. The episode page (`ep/[id].astro`) stores it as `ver` alongside the saved playback position in `jdn-ep<NNN>`; on load, if the stored `ver` no longer matches, only that one episode's saved position is dropped — every other episode's progress is left intact. New episodes get a `contentVersion` at creation.
+Cache invalidation is **per-episode**, via the `contentVersion` field (format `YYYYMMDDNN`) in each `scripts/epNNN.json`. When an episode's content/timing changes, bump **only that episode's** `contentVersion`. Display-only fixes that leave audio/timing untouched (e.g. furigana corrections) do **not** need a bump — bumping would needlessly clear listeners' saved playback positions. The episode page (`ep/[id].astro`) stores it as `ver` alongside the saved playback position in `jdn-ep<NNN>`; on load, if the stored `ver` no longer matches, only that one episode's saved position is dropped — every other episode's progress is left intact. New episodes get a `contentVersion` at creation.
 
 (Legacy: there used to be a single global `PAGE_VERSION` in `Layout.astro` that wiped *all* `jdn-ep*` entries on any change. It was removed in favor of the per-episode field — don't reintroduce it.)
 
@@ -87,6 +88,7 @@ Cache invalidation is **per-episode**, via the `contentVersion` field (format `Y
 - `tools/add-furigana.py` — adds ruby HTML + vocab highlights to Japanese segments (uses pykakasi)
 - `tools/gen-subtitles.py` — generates VTT/SRT from timing data
 - `tools/validate-episode.py` — schema + content-rule check (host has no Japanese, vocab has `zh`, ja-segments have `ruby`, etc.). Run with `epNNN`, no args (all), or `--staged` (git pre-commit).
+- `tools/audit-furigana.py` — flags suspicious pykakasi readings (multi-reading kanji like 日/時/人/間, special date readings ついたち〜とおか, mis-splits, rendaku). Report-only; fix flagged readings in the JSON by hand. `--readings` dumps every distinct base=reading pair.
 - `tools/cover.html` — podcast cover image template (screenshot at 3000x3000)
 
 ## Git hooks
