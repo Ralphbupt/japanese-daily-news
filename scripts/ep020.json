@@ -1,0 +1,464 @@
+{
+  "episode": 20,
+  "title": "日本の多くの場所で梅雨入り",
+  "date": "2026-06-11",
+  "source": "気象庁・日本気象協会",
+  "level": "N4-N3",
+  "contentVersion": "2026061101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June eleventh. The rainy season has officially arrived across most of Japan — and on the traditional calendar, today is the very day it is said to begin. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本で、雨の多い「梅雨」の季節が始まりました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で、<ruby>雨<rt>あめ</rt></ruby>の<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」の<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、関東甲信と東海は、今月7日ごろに梅雨入りしました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>関東<rt>かんとう</rt></ruby><ruby>甲信<rt>こうしん</rt></ruby>と<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>ごろに<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>りしました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "近畿や中国、九州など、ほかの多くの場所も、今月の初めに梅雨入りしています。",
+      "ruby": "<ruby>近畿<rt>きんき</rt></ruby>や<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>など、ほかの<ruby>多く<rt>おおく</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>も、<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>初め<rt>はじめ</rt></ruby>に<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>りしています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨は、6月から7月にかけて、雨や曇りの日が多くなる季節です。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、6<ruby>月<rt>がつ</rt></ruby>から7<ruby>月<rt>がつ</rt></ruby>にかけて、<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なる<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「梅雨」という言葉は、「梅」と「雨」の漢字で書きます。梅の実ができる時期の雨だから、と言われています。",
+      "ruby": "「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」という<ruby>言葉<rt>ことば</rt></ruby>は、「<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>」と「<ruby>雨<rt>あめ</rt></ruby>」の<ruby>漢字<rt>かんじ</rt></ruby>で<ruby>書き<rt>かき</rt></ruby>ます。<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>実<rt>み</rt></ruby>ができる<ruby>時期<rt>じき</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>だから、と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨の間は、湿度が高くて、蒸し暑い日が続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>は、<span class=\"vw\" data-ja=\"湿度\" data-reading=\"しつど\" data-en=\"humidity\"><ruby>湿度<rt>しつど</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>て、<span class=\"vw\" data-ja=\"蒸し暑い\" data-reading=\"むしあつい\" data-en=\"hot and humid\"><ruby>蒸し暑い<rt>むしあつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎日のように雨が降るので、洗濯物が乾きにくくなります。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>ので、<span class=\"vw\" data-ja=\"洗濯物\" data-reading=\"せんたくもの\" data-en=\"laundry\"><ruby>洗濯物<rt>せんたくもの</rt></ruby></span>が<ruby>乾き<rt>かわき</rt></ruby>にくくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大雨が降ることもあるので、気象庁は、最新の天気予報に注意してほしいと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>が<ruby>降る<rt>ふる</rt></ruby>こともあるので、<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>最新<rt>さいしん</rt></ruby>の<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>してほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨が終わると、本格的な夏が来ます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>ると、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; real\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨の季節には、あじさいの花など、楽しみもたくさんあります。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>には、あじさいの<ruby>花<rt>はな</rt></ruby>など、<ruby>楽しみ<rt>たのしみ</rt></ruby>もたくさんあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本で、雨の多い「梅雨」の季節が始まりました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で、<ruby>雨<rt>あめ</rt></ruby>の<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」の<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, the rainy season — the rainiest weeks of the year — has begun."
+    },
+    {
+      "speaker": "vocab",
+      "text": "梅雨",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the rainy season, the long stretch of wet weather in early summer. We'll hear where the name comes from in a moment."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁によると、関東甲信と東海は、今月7日ごろに梅雨入りしました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>関東<rt>かんとう</rt></ruby><ruby>甲信<rt>こうしん</rt></ruby>と<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>ごろに<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>りしました</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the Meteorological Agency, the regions around Tokyo and Nagoya entered the rainy season around the seventh of this month."
+    },
+    {
+      "speaker": "vocab",
+      "text": "梅雨入り",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>り</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the start of the rainy season. The ending means entering — so the season is something you enter, like a door into weeks of rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "梅雨は、6月から7月にかけて、雨や曇りの日が多くなる季節です。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、6<ruby>月<rt>がつ</rt></ruby>から7<ruby>月<rt>がつ</rt></ruby>にかけて、<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なる<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rainy season runs from June into July, a time when rainy and cloudy days become more common."
+    },
+    {
+      "speaker": "vocab",
+      "text": "季節",
+      "ruby": "<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means season. Japan is proud of having four distinct ones — this rainy stretch is sometimes called the unofficial fifth."
+    },
+    {
+      "speaker": "slow",
+      "text": "「梅雨」という言葉は、「梅」と「雨」の漢字で書きます。梅の実ができる時期の雨だから、と言われています。",
+      "ruby": "「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」という<ruby>言葉<rt>ことば</rt></ruby>は、「<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>」と「<ruby>雨<rt>あめ</rt></ruby>」の<ruby>漢字<rt>かんじ</rt></ruby>で<ruby>書き<rt>かき</rt></ruby>ます。<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>実<rt>み</rt></ruby>ができる<ruby>時期<rt>じき</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>だから、と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The word is written with the characters for plum and rain — people say it's because the rain falls just when plums ripen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "梅",
+      "ruby": "<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means plum. Plum blossoms open in early spring, and the fruit ripens right now — in the rain that carries its name."
+    },
+    {
+      "speaker": "slow",
+      "text": "梅雨の間は、湿度が高くて、蒸し暑い日が続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>は、<span class=\"vw\" data-ja=\"湿度\" data-reading=\"しつど\" data-en=\"humidity\"><ruby>湿度<rt>しつど</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>て、<span class=\"vw\" data-ja=\"蒸し暑い\" data-reading=\"むしあつい\" data-en=\"hot and humid\"><ruby>蒸し暑い<rt>むしあつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "During the rainy season, humidity stays high and hot, sticky days continue."
+    },
+    {
+      "speaker": "vocab",
+      "text": "蒸し暑い",
+      "ruby": "<span class=\"vw\" data-ja=\"蒸し暑い\" data-reading=\"むしあつい\" data-en=\"hot and humid\"><ruby>蒸し暑い<rt>むしあつい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hot and humid — that steamy, sticky kind of heat. The first part comes from the verb for steaming food."
+    },
+    {
+      "speaker": "slow",
+      "text": "毎日のように雨が降るので、洗濯物が乾きにくくなります。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>ので、<span class=\"vw\" data-ja=\"洗濯物\" data-reading=\"せんたくもの\" data-en=\"laundry\"><ruby>洗濯物<rt>せんたくもの</rt></ruby></span>が<ruby>乾き<rt>かわき</rt></ruby>にくくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because it rains almost every day, laundry becomes hard to dry."
+    },
+    {
+      "speaker": "vocab",
+      "text": "洗濯物",
+      "ruby": "<span class=\"vw\" data-ja=\"洗濯物\" data-reading=\"せんたくもの\" data-en=\"laundry\"><ruby>洗濯物<rt>せんたくもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means laundry — the clothes you wash and hang up. A very real daily problem in this season."
+    },
+    {
+      "speaker": "slow",
+      "text": "大雨が降ることもあるので、気象庁は、最新の天気予報に注意してほしいと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>が<ruby>降る<rt>ふる</rt></ruby>こともあるので、<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>最新<rt>さいしん</rt></ruby>の<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>してほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Heavy rain sometimes falls, so the Meteorological Agency is asking people to keep an eye on the latest weather forecast."
+    },
+    {
+      "speaker": "vocab",
+      "text": "天気予報",
+      "ruby": "<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means weather forecast. The first half is weather, the second half means prediction."
+    },
+    {
+      "speaker": "slow",
+      "text": "梅雨が終わると、本格的な夏が来ます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>ると、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; real\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the rainy season ends, full-blown summer arrives."
+    },
+    {
+      "speaker": "vocab",
+      "text": "本格的",
+      "ruby": "<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; real\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means full-scale, or the real thing. Real summer, real winter, even a restaurant's authentic curry — all described with this word."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本で、雨の多い「梅雨」の季節が始まりました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で、<ruby>雨<rt>あめ</rt></ruby>の<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」の<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、関東甲信と東海は、今月7日ごろに梅雨入りしました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>関東<rt>かんとう</rt></ruby><ruby>甲信<rt>こうしん</rt></ruby>と<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>ごろに<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>りしました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "近畿や中国、九州など、ほかの多くの場所も、今月の初めに梅雨入りしています。",
+      "ruby": "<ruby>近畿<rt>きんき</rt></ruby>や<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>など、ほかの<ruby>多く<rt>おおく</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>も、<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>初め<rt>はじめ</rt></ruby>に<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>りしています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨は、6月から7月にかけて、雨や曇りの日が多くなる季節です。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>は、6<ruby>月<rt>がつ</rt></ruby>から7<ruby>月<rt>がつ</rt></ruby>にかけて、<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なる<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「梅雨」という言葉は、「梅」と「雨」の漢字で書きます。梅の実ができる時期の雨だから、と言われています。",
+      "ruby": "「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」という<ruby>言葉<rt>ことば</rt></ruby>は、「<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>」と「<ruby>雨<rt>あめ</rt></ruby>」の<ruby>漢字<rt>かんじ</rt></ruby>で<ruby>書き<rt>かき</rt></ruby>ます。<span class=\"vw\" data-ja=\"梅\" data-reading=\"うめ\" data-en=\"plum\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>実<rt>み</rt></ruby>ができる<ruby>時期<rt>じき</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>だから、と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨の間は、湿度が高くて、蒸し暑い日が続きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>は、<span class=\"vw\" data-ja=\"湿度\" data-reading=\"しつど\" data-en=\"humidity\"><ruby>湿度<rt>しつど</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>て、<span class=\"vw\" data-ja=\"蒸し暑い\" data-reading=\"むしあつい\" data-en=\"hot and humid\"><ruby>蒸し暑い<rt>むしあつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎日のように雨が降るので、洗濯物が乾きにくくなります。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>ので、<span class=\"vw\" data-ja=\"洗濯物\" data-reading=\"せんたくもの\" data-en=\"laundry\"><ruby>洗濯物<rt>せんたくもの</rt></ruby></span>が<ruby>乾き<rt>かわき</rt></ruby>にくくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大雨が降ることもあるので、気象庁は、最新の天気予報に注意してほしいと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>が<ruby>降る<rt>ふる</rt></ruby>こともあるので、<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>最新<rt>さいしん</rt></ruby>の<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>してほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "梅雨が終わると、本格的な夏が来ます。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>ると、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; real\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨の季節には、あじさいの花など、楽しみもたくさんあります。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>には、あじさいの<ruby>花<rt>はな</rt></ruby>など、<ruby>楽しみ<rt>たのしみ</rt></ruby>もたくさんあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "関東甲信と東海は、いつ梅雨入りしましたか。",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby><ruby>甲信<rt>こうしん</rt></ruby>と<ruby>東海<rt>とうかい</rt></ruby>は、いつ<span class=\"vw\" data-ja=\"梅雨入り\" data-reading=\"つゆいり\" data-en=\"start of the rainy season\"><ruby>梅雨入<rt>つゆいり</rt></ruby>りしましたか</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "When did the regions around Tokyo and Nagoya enter the rainy season? Around the seventh of this month."
+    },
+    {
+      "speaker": "slow",
+      "text": "「梅雨」という言葉には、どんな漢字が使われていますか。",
+      "ruby": "「<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>」という<ruby>言葉<rt>ことば</rt></ruby>には、どんな<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>使わ<rt>つかわ</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which characters are used to write the name of this season? Plum and rain — because the rain falls when plums ripen."
+    },
+    {
+      "speaker": "slow",
+      "text": "梅雨が終わると、何が来ますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>ると、<ruby>何<rt>なに</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What comes when the rainy season ends? Full-blown summer."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "梅雨",
+      "reading": "つゆ",
+      "en": "rainy season",
+      "zh": "梅雨"
+    },
+    {
+      "ja": "梅雨入り",
+      "reading": "つゆいり",
+      "en": "start of the rainy season",
+      "zh": "入梅"
+    },
+    {
+      "ja": "季節",
+      "reading": "きせつ",
+      "en": "season",
+      "zh": "季节"
+    },
+    {
+      "ja": "梅",
+      "reading": "うめ",
+      "en": "plum",
+      "zh": "梅子、梅树"
+    },
+    {
+      "ja": "湿度",
+      "reading": "しつど",
+      "en": "humidity",
+      "zh": "湿度"
+    },
+    {
+      "ja": "蒸し暑い",
+      "reading": "むしあつい",
+      "en": "hot and humid",
+      "zh": "闷热"
+    },
+    {
+      "ja": "洗濯物",
+      "reading": "せんたくもの",
+      "en": "laundry",
+      "zh": "要洗的衣物、洗好的衣物"
+    },
+    {
+      "ja": "大雨",
+      "reading": "おおあめ",
+      "en": "heavy rain",
+      "zh": "大雨、暴雨"
+    },
+    {
+      "ja": "天気予報",
+      "reading": "てんきよほう",
+      "en": "weather forecast",
+      "zh": "天气预报"
+    },
+    {
+      "ja": "本格的",
+      "reading": "ほんかくてき",
+      "en": "full-scale; real",
+      "zh": "正式的、真正的"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "根据……",
+      "formation": "noun + によると + reported information",
+      "example": "気象庁によると、関東甲信と東海は、今月7日ごろに梅雨入りしました。",
+      "translation": "According to the Meteorological Agency, Kanto-Koshin and Tokai entered the rainy season around the seventh of this month.",
+      "note": "によると names the source of information. It pairs naturally with reporting forms like そうだ or ということだ, and news Japanese uses it in almost every story.",
+      "noteZh": "「によると」用来标明消息来源，常与「そうだ」「ということだ」等传闻表达搭配，新闻日语中几乎每条新闻都会用到。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#niyoruto"
+    },
+    {
+      "pattern": "AからBにかけて",
+      "meaning": "from A through B (over a span)",
+      "meaningZh": "从A到B（横跨一段时间或范围）",
+      "formation": "time/place A + から + time/place B + にかけて",
+      "example": "梅雨は、6月から7月にかけて、雨や曇りの日が多くなる季節です。",
+      "translation": "The rainy season is the time from June into July when rainy and cloudy days increase.",
+      "note": "Unlike から〜まで, にかけて draws a soft span without sharp endpoints — perfect for weather and seasons that fade in and out.",
+      "noteZh": "与「から〜まで」不同，「にかけて」表示一个边界模糊的大致范围，最适合描述天气、季节这类渐变的事物。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#nikakete"
+    },
+    {
+      "pattern": "〜と言われている",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说……、人们都说……",
+      "formation": "plain-form clause + と言われている",
+      "example": "梅の実ができる時期の雨だから、と言われています。",
+      "translation": "It is said to be because the rain falls in the season when plums ripen.",
+      "note": "The passive of 言う presents something as common belief rather than the speaker's own claim — handy for origins, legends, and reputations.",
+      "noteZh": "「言う」的被动形，表示这是大家普遍的说法而非说话人的断言，常用于由来、传说和评价。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#passive"
+    },
+    {
+      "pattern": "〜こともある",
+      "meaning": "sometimes ~; there are times when ~",
+      "meaningZh": "有时也会……",
+      "formation": "verb (dictionary form) + こともある",
+      "example": "大雨が降ることもあるので、最新の天気予報に注意してほしいと話しています。",
+      "translation": "Heavy rain sometimes falls, so they ask people to watch the latest forecast.",
+      "note": "こともある marks something that happens occasionally, not regularly. Compare ことがある after past tense, which talks about experience instead.",
+      "noteZh": "「こともある」表示偶尔会发生的事。注意区分接在过去形后的「ことがある」，那个表示曾经的经历。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#koto-mo-aru"
+    }
+  ],
+  "practiceZh": [
+    "日本で、雨の多い「梅雨」の季節が始まりました。\n在日本，多雨的「梅雨」季节开始了。\n「雨の多い」修饰名词，「が始まる」表示自动词的开始。",
+    "気象庁によると、関東甲信と東海は、今月7日ごろに梅雨入りしました。\n据气象厅消息，关东甲信和东海地区在本月7日前后入梅了。\n「〜によると」标明消息来源；「ごろ」表示大约的时间点。",
+    "梅雨は、6月から7月にかけて、雨や曇りの日が多くなる季節です。\n梅雨是从6月到7月期间雨天和阴天增多的季节。\n「AからBにかけて」表示横跨一段时间的大致范围。",
+    "「梅雨」という言葉は、「梅」と「雨」の漢字で書きます。梅の実ができる時期の雨だから、と言われています。\n「梅雨」这个词用「梅」和「雨」两个汉字书写。据说是因为这是梅子结果时节下的雨。\n「〜と言われている」表示「据说……」，陈述普遍的说法。",
+    "梅雨の間は、湿度が高くて、蒸し暑い日が続きます。\n梅雨期间湿度很高，闷热的日子持续不断。\n「〜の間は」表示「在……期间」；形容词て形「高くて」连接两个描述。",
+    "毎日のように雨が降るので、洗濯物が乾きにくくなります。\n几乎每天都下雨，所以洗的衣服变得很难晾干。\n「毎日のように」＝「几乎每天」；「〜にくい」接动词ます形，表示「难以……」。",
+    "大雨が降ることもあるので、気象庁は、最新の天気予報に注意してほしいと話しています。\n有时还会下大雨，所以气象厅呼吁大家留意最新的天气预报。\n「〜こともある」表示「有时也会……」；「〜てほしい」表示希望别人做某事。",
+    "梅雨が終わると、本格的な夏が来ます。\n梅雨一结束，真正的夏天就来了。\n「〜と」条件句表示「一……就……」的自然结果。"
+  ]
+}
