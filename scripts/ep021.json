@@ -1,0 +1,460 @@
+{
+  "episode": 21,
+  "title": "イランへの攻撃中止で、株価が大きく上がる",
+  "date": "2026-06-12",
+  "source": "日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026061201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twelfth. Tokyo's stock market had a huge day — Japan's main stock index jumped more than twenty-five hundred yen at one point, after an announcement from Washington eased fears about a conflict in the Middle East. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月12日、東京の株式市場で、日経平均株価が大きく上がりました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"株式市場\" data-reading=\"かぶしきしじょう\" data-en=\"stock market\"><ruby>株式市場<rt>かぶしきしじょう</rt></ruby></span>で、<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "株価は、前の日に比べて、一時2500円以上高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は、<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>て、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>2500<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "理由は、アメリカのトランプ大統領の発表です。",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>の<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "トランプ大統領は11日、予定していたイランへの攻撃を中止したと、自分のSNSで明らかにしました。",
+      "ruby": "トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は11<ruby>日<rt>にち</rt></ruby>、<ruby>予定<rt>よてい</rt></ruby>していたイランへの<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>したと、<ruby>自分<rt>じぶん</rt></ruby>のSNSで<ruby>明らか<rt>あきらか</rt></ruby>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦いが終わるかもしれないという期待から、世界の市場に安心感が広がりました。",
+      "ruby": "<ruby>戦い<rt>たたかい</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るかもしれないという<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待<rt>きたい</rt></ruby></span>から、<ruby>世界<rt>せかい</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>に<span class=\"vw\" data-ja=\"安心感\" data-reading=\"あんしんかん\" data-en=\"sense of relief\"><ruby>安心感<rt>あんしんかん</rt></ruby></span>が<ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの市場では、半導体の会社の株が大きく上がりました。",
+      "ruby": "アメリカの<ruby>市場<rt>しじょう</rt></ruby>では、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の市場でも、半導体に関係する会社の株を買う動きが強まりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>でも、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><span class=\"vw\" data-ja=\"動き\" data-reading=\"うごき\" data-en=\"movement; trend\"><ruby>動き<rt>うごき</rt></ruby></span>が<ruby>強ま<rt>つよま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日経平均株価は、一時6万6800円くらいまで上がりました。",
+      "ruby": "<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>6<ruby>万<rt>まん</rt></ruby>6800<ruby>円<rt>えん</rt></ruby>くらいまで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、「中東の状況を、これからも注意して見る必要があります」と話しています。",
+      "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は、「<ruby>中東<rt>ちゅうとう</rt></ruby>の<span class=\"vw\" data-ja=\"状況\" data-reading=\"じょうきょう\" data-en=\"situation\"><ruby>状況<rt>じょうきょう</rt></ruby></span>を、これからも<ruby>注意<rt>ちゅうい</rt></ruby>して<ruby>見る<rt>みる</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月12日、東京の株式市場で、日経平均株価が大きく上がりました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"株式市場\" data-reading=\"かぶしきしじょう\" data-en=\"stock market\"><ruby>株式市場<rt>かぶしきしじょう</rt></ruby></span>で、<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On June twelfth, on the Tokyo stock market, Japan's main stock index rose sharply."
+    },
+    {
+      "speaker": "vocab",
+      "text": "株価",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means stock price. The first character means stock, the second means price — you'll hear it in every market report."
+    },
+    {
+      "speaker": "slow",
+      "text": "株価は、前の日に比べて、一時2500円以上高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は、<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>て、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>2500<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Compared with the previous day, the index was at one point more than twenty-five hundred yen higher."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一時",
+      "ruby": "<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for a time, or at one point. News stories love this word — it says something happened briefly, not all day."
+    },
+    {
+      "speaker": "slow",
+      "text": "理由は、アメリカのトランプ大統領の発表です。",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>の<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The reason was an announcement from the American president."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means announcement, making something public. Companies, governments, even students presenting in class all use this word."
+    },
+    {
+      "speaker": "slow",
+      "text": "トランプ大統領は11日、予定していたイランへの攻撃を中止したと、自分のSNSで明らかにしました。",
+      "ruby": "トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は11<ruby>日<rt>にち</rt></ruby>、<ruby>予定<rt>よてい</rt></ruby>していたイランへの<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>したと、<ruby>自分<rt>じぶん</rt></ruby>のSNSで<ruby>明らか<rt>あきらか</rt></ruby>にしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the eleventh, the president revealed on his own social media that he had called off a planned attack on Iran."
+    },
+    {
+      "speaker": "vocab",
+      "text": "中止",
+      "ruby": "<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cancellation — stopping something that was planned. Rained-out fireworks, cancelled events, and here, a called-off attack."
+    },
+    {
+      "speaker": "slow",
+      "text": "戦いが終わるかもしれないという期待から、世界の市場に安心感が広がりました。",
+      "ruby": "<ruby>戦い<rt>たたかい</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るかもしれないという<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待<rt>きたい</rt></ruby></span>から、<ruby>世界<rt>せかい</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>に<span class=\"vw\" data-ja=\"安心感\" data-reading=\"あんしんかん\" data-en=\"sense of relief\"><ruby>安心感<rt>あんしんかん</rt></ruby></span>が<ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hopes that the fighting might end spread a sense of relief through markets around the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "期待",
+      "ruby": "<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待<rt>きたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means expectation or hope — looking forward to something good. Markets run on exactly this feeling."
+    },
+    {
+      "speaker": "slow",
+      "text": "アメリカの市場では、半導体の会社の株が大きく上がりました。",
+      "ruby": "アメリカの<ruby>市場<rt>しじょう</rt></ruby>では、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the American market, shares of semiconductor companies rose sharply."
+    },
+    {
+      "speaker": "vocab",
+      "text": "半導体",
+      "ruby": "<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means semiconductor — the chips inside phones and computers. The first character means half, because these materials half-conduct electricity."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の市場でも、半導体に関係する会社の株を買う動きが強まりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>でも、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><span class=\"vw\" data-ja=\"動き\" data-reading=\"うごき\" data-en=\"movement; trend\"><ruby>動き<rt>うごき</rt></ruby></span>が<ruby>強ま<rt>つよま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Tokyo too, the move to buy shares of chip-related companies grew stronger."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動き",
+      "ruby": "<span class=\"vw\" data-ja=\"動き\" data-reading=\"うごき\" data-en=\"movement; trend\"><ruby>動き<rt>うごき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means movement or trend. It comes from the verb to move, and news Japanese uses it for what investors, politicians, or whole countries are doing."
+    },
+    {
+      "speaker": "slow",
+      "text": "専門家は、「中東の状況を、これからも注意して見る必要があります」と話しています。",
+      "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は、「<ruby>中東<rt>ちゅうとう</rt></ruby>の<span class=\"vw\" data-ja=\"状況\" data-reading=\"じょうきょう\" data-en=\"situation\"><ruby>状況<rt>じょうきょう</rt></ruby></span>を、これからも<ruby>注意<rt>ちゅうい</rt></ruby>して<ruby>見る<rt>みる</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Experts say the situation in the Middle East still needs to be watched carefully."
+    },
+    {
+      "speaker": "vocab",
+      "text": "状況",
+      "ruby": "<span class=\"vw\" data-ja=\"状況\" data-reading=\"じょうきょう\" data-en=\"situation\"><ruby>状況<rt>じょうきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means situation — how things stand right now. A very common word in news, business, and everyday check-ins."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月12日、東京の株式市場で、日経平均株価が大きく上がりました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"株式市場\" data-reading=\"かぶしきしじょう\" data-en=\"stock market\"><ruby>株式市場<rt>かぶしきしじょう</rt></ruby></span>で、<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "株価は、前の日に比べて、一時2500円以上高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は、<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>て、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>2500<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "理由は、アメリカのトランプ大統領の発表です。",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>の<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "トランプ大統領は11日、予定していたイランへの攻撃を中止したと、自分のSNSで明らかにしました。",
+      "ruby": "トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は11<ruby>日<rt>にち</rt></ruby>、<ruby>予定<rt>よてい</rt></ruby>していたイランへの<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>したと、<ruby>自分<rt>じぶん</rt></ruby>のSNSで<ruby>明らか<rt>あきらか</rt></ruby>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦いが終わるかもしれないという期待から、世界の市場に安心感が広がりました。",
+      "ruby": "<ruby>戦い<rt>たたかい</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るかもしれないという<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待<rt>きたい</rt></ruby></span>から、<ruby>世界<rt>せかい</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>に<span class=\"vw\" data-ja=\"安心感\" data-reading=\"あんしんかん\" data-en=\"sense of relief\"><ruby>安心感<rt>あんしんかん</rt></ruby></span>が<ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの市場では、半導体の会社の株が大きく上がりました。",
+      "ruby": "アメリカの<ruby>市場<rt>しじょう</rt></ruby>では、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の市場でも、半導体に関係する会社の株を買う動きが強まりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>でも、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><span class=\"vw\" data-ja=\"動き\" data-reading=\"うごき\" data-en=\"movement; trend\"><ruby>動き<rt>うごき</rt></ruby></span>が<ruby>強ま<rt>つよま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日経平均株価は、一時6万6800円くらいまで上がりました。",
+      "ruby": "<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>6<ruby>万<rt>まん</rt></ruby>6800<ruby>円<rt>えん</rt></ruby>くらいまで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、「中東の状況を、これからも注意して見る必要があります」と話しています。",
+      "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は、「<ruby>中東<rt>ちゅうとう</rt></ruby>の<span class=\"vw\" data-ja=\"状況\" data-reading=\"じょうきょう\" data-en=\"situation\"><ruby>状況<rt>じょうきょう</rt></ruby></span>を、これからも<ruby>注意<rt>ちゅうい</rt></ruby>して<ruby>見る<rt>みる</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月12日、日経平均株価は、前の日に比べて、一時いくら以上高くなりましたか。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は、<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>て、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a time; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>いくら<ruby>以上<rt>いじょう</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Compared with the previous day, how much higher was the index at one point? More than twenty-five hundred yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "トランプ大統領は、何を中止したと明らかにしましたか。",
+      "ruby": "トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>したと<ruby>明らか<rt>あきらか</rt></ruby>にしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What did the president reveal he had called off? A planned attack on Iran."
+    },
+    {
+      "speaker": "slow",
+      "text": "どんな会社の株を買う動きが強まりましたか。",
+      "ruby": "どんな<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><span class=\"vw\" data-ja=\"動き\" data-reading=\"うごき\" data-en=\"movement; trend\"><ruby>動き<rt>うごき</rt></ruby></span>が<ruby>強ま<rt>つよま</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Shares of what kind of companies were investors rushing to buy? Companies related to semiconductors."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "株価",
+      "reading": "かぶか",
+      "en": "stock price",
+      "zh": "股价"
+    },
+    {
+      "ja": "株式市場",
+      "reading": "かぶしきしじょう",
+      "en": "stock market",
+      "zh": "股票市场"
+    },
+    {
+      "ja": "一時",
+      "reading": "いちじ",
+      "en": "for a time; at one point",
+      "zh": "一时、一度"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发表、公布"
+    },
+    {
+      "ja": "攻撃",
+      "reading": "こうげき",
+      "en": "attack",
+      "zh": "攻击"
+    },
+    {
+      "ja": "中止",
+      "reading": "ちゅうし",
+      "en": "cancellation; calling off",
+      "zh": "中止、取消"
+    },
+    {
+      "ja": "期待",
+      "reading": "きたい",
+      "en": "expectation; hope",
+      "zh": "期待"
+    },
+    {
+      "ja": "安心感",
+      "reading": "あんしんかん",
+      "en": "sense of relief",
+      "zh": "安心感、放心的感觉"
+    },
+    {
+      "ja": "半導体",
+      "reading": "はんどうたい",
+      "en": "semiconductor",
+      "zh": "半导体"
+    },
+    {
+      "ja": "動き",
+      "reading": "うごき",
+      "en": "movement; trend",
+      "zh": "动向、动态"
+    },
+    {
+      "ja": "状況",
+      "reading": "じょうきょう",
+      "en": "situation",
+      "zh": "状况、局势"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "名詞＋への＋名詞",
+      "meaning": "(an action) toward/against ~",
+      "meaningZh": "对……的……（方向、对象）",
+      "formation": "noun A + への + noun B",
+      "example": "予定していたイランへの攻撃を中止したと明らかにしました。",
+      "translation": "He revealed that he had called off the planned attack on Iran.",
+      "note": "へ marks direction, and adding の lets the whole phrase modify a noun: an attack toward Iran, a letter to a friend, a trip to Japan. News headlines use this constantly.",
+      "noteZh": "「へ」表示方向，加「の」后整个短语可以修饰名词：对伊朗的攻击、给朋友的信、去日本的旅行。新闻标题中极为常见。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#e-no"
+    },
+    {
+      "pattern": "〜に比べて",
+      "meaning": "compared with ~",
+      "meaningZh": "与……相比",
+      "formation": "noun + に比べて + comparison",
+      "example": "株価は、前の日に比べて、一時2500円以上高くなりました。",
+      "translation": "Compared with the previous day, the stock index was at one point more than 2,500 yen higher.",
+      "note": "に比べて sets a baseline for comparison. The thing after it is what changed — higher, lower, more, less — relative to that baseline.",
+      "noteZh": "「に比べて」先立一个比较基准，后面说相对于这个基准发生了什么变化——更高、更低、更多、更少。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#nikurabete"
+    },
+    {
+      "pattern": "〜という＋名詞",
+      "meaning": "the ~ that ...; ~ called ...",
+      "meaningZh": "「……」这样的……（用句子修饰名词）",
+      "formation": "plain-form clause + という + noun",
+      "example": "戦いが終わるかもしれないという期待から、安心感が広がりました。",
+      "translation": "From the hope that the fighting might end, a sense of relief spread.",
+      "note": "という packages a whole sentence into a label for the following noun — the hope that the fighting may end, the news that prices rose. Essential for understanding news Japanese.",
+      "noteZh": "「という」把整个句子打包成后面名词的内容——「战斗可能结束」这一期待、「物价上涨」这一消息。读懂新闻日语的必备语法。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#toiu"
+    },
+    {
+      "pattern": "〜必要がある",
+      "meaning": "it is necessary to ~",
+      "meaningZh": "有必要……、需要……",
+      "formation": "verb (dictionary form) + 必要がある",
+      "example": "中東の状況を、これからも注意して見る必要があります。",
+      "translation": "It is necessary to keep watching the situation in the Middle East carefully.",
+      "note": "A formal way to say something must be done, softer than なければならない. Common in expert comments and official statements.",
+      "noteZh": "比「なければならない」语气更客观正式的「必须」，专家评论和官方表态中常用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#hitsuyou-ga-aru"
+    }
+  ],
+  "practiceZh": [
+    "6月12日、東京の株式市場で、日経平均株価が大きく上がりました。\n6月12日，在东京股票市场，日经平均股价大幅上涨。\n「大きく」是形容词副词化（大きい→大きく）修饰动词「上がる」。",
+    "株価は、前の日に比べて、一時2500円以上高くなりました。\n股价与前一天相比，一度上涨了2500日元以上。\n「〜に比べて」表示「与……相比」；「一時」＝「一度、暂时」。",
+    "理由は、アメリカのトランプ大統領の発表です。\n原因是美国特朗普总统的声明。\n「理由は〜です」是说明原因的基本句型，新闻中常用来承上启下。",
+    "トランプ大統領は11日、予定していたイランへの攻撃を中止したと、自分のSNSで明らかにしました。\n特朗普总统11日在自己的社交媒体上公开表示，已中止了原定对伊朗的攻击。\n「予定していた」修饰名词；「〜への攻撃」＝「对……的攻击」；「〜と明らかにする」表示公开宣布的内容。",
+    "戦いが終わるかもしれないという期待から、世界の市場に安心感が広がりました。\n出于「战斗也许会结束」的期待，安心感在世界市场上蔓延开来。\n「〜という期待」用句子修饰名词；「〜から」在这里表示原因。",
+    "アメリカの市場では、半導体の会社の株が大きく上がりました。\n在美国市场，半导体公司的股票大幅上涨。\n「〜では」＝场所「で」＋对比「は」，突出「在美国市场」这一范围。",
+    "東京の市場でも、半導体に関係する会社の株を買う動きが強まりました。\n在东京市场，购买半导体相关公司股票的动向也增强了。\n「〜に関係する」修饰名词；「動きが強まる」＝「（某种）动向增强」，新闻惯用表达。",
+    "専門家は、「中東の状況を、これからも注意して見る必要があります」と話しています。\n专家表示：「今后仍有必要密切关注中东局势。」\n「〜必要がある」＝「有必要……」；「〜と話しています」用于转述发言。"
+  ]
+}
