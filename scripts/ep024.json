@@ -1,0 +1,454 @@
+{
+  "episode": 24,
+  "title": "サッカーW杯、日本がオランダと2対2で引き分け",
+  "date": "2026-06-15",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026061501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June fifteenth. Japan played its first match at the World Cup, against one of the strongest teams in the world, the Netherlands — and came from behind twice to earn a hard-fought draw. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーのワールドカップが始まり、日本代表が初めての試合をしました。",
+      "ruby": "サッカーのワールドカップが<ruby>始まり<rt>はじまり</rt></ruby>、<ruby>日本代表<rt>にほんだいひょう</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月15日、日本は、強い相手のオランダと戦いました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent; the other party\"><ruby>相手<rt>あいて</rt></ruby></span>のオランダと<ruby>戦い<rt>たたかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合は、2対2の引き分けでした。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>は、2<ruby>対<rt>たい</rt></ruby>2の<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、2回も先に点を取られましたが、あきらめませんでした。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、2<ruby>回<rt>かい</rt></ruby>も<ruby>先に<rt>さきに</rt></ruby><ruby>点<rt>てん</rt></ruby>を<ruby>取ら<rt>とら</rt></ruby>れましたが、あきらめませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "後半、中村選手が1点を返して、同点にしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>、<ruby>中村<rt>なかむら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が1<ruby>点<rt>てん</rt></ruby>を<ruby>返し<rt>かえし</rt></ruby>て、<span class=\"vw\" data-ja=\"同点\" data-reading=\"どうてん\" data-en=\"tied score; level\"><ruby>同点<rt>どうてん</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合の終わりごろ、鎌田選手がゴールを決めて、もう一度追いつきました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろ、<ruby>鎌田<rt>かまだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がゴールを<ruby>決め<rt>きめ</rt></ruby>て、もう<ruby>一度<rt>いちど</rt></ruby><ruby>追い<rt>おい</rt></ruby>つきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この引き分けで、日本は大切な勝ち点を1つ取りました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>で、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"勝ち点\" data-reading=\"かちてん\" data-en=\"points (in the standings)\"><ruby>勝ち<rt>かち</rt></ruby><ruby>点<rt>てん</rt></ruby></span>を1つ<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合の途中、久保選手はけがをして、交代しました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>、<ruby>久保<rt>くぼ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>はけがをして、<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"substitution; changing places\"><ruby>交代<rt>こうたい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "森保監督は、「チーム全員で、最後まで戦いました」と話しました。",
+      "ruby": "<ruby>森保<rt>もりやす</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager; head coach\"><ruby>監督<rt>かんとく</rt></ruby></span>は、「チーム<ruby>全員<rt>ぜんいん</rt></ruby>で、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>戦い<rt>たたかい</rt></ruby>ました」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "サッカーのワールドカップが始まり、日本代表が初めての試合をしました。",
+      "ruby": "サッカーのワールドカップが<ruby>始まり<rt>はじまり</rt></ruby>、<ruby>日本代表<rt>にほんだいひょう</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The soccer World Cup began, and Japan's national team played its first match."
+    },
+    {
+      "speaker": "vocab",
+      "text": "代表",
+      "ruby": "<span class=\"vw\" data-ja=\"代表\" data-reading=\"だいひょう\" data-en=\"representative; national team\"><ruby>代表<rt>だいひょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means representative — and for a country's sports team, it means the national team. The players who represent the whole country."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月15日、日本は、強い相手のオランダと戦いました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent; the other party\"><ruby>相手<rt>あいて</rt></ruby></span>のオランダと<ruby>戦い<rt>たたかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On June fifteenth, Japan played against a strong opponent, the Netherlands."
+    },
+    {
+      "speaker": "vocab",
+      "text": "相手",
+      "ruby": "<span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent; the other party\"><ruby>相手<rt>あいて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the other side — an opponent, or a partner in conversation. Who you're facing, whether in a game or a chat."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合は、2対2の引き分けでした。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>は、2<ruby>対<rt>たい</rt></ruby>2の<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The match was a two-to-two draw."
+    },
+    {
+      "speaker": "vocab",
+      "text": "引き分け",
+      "ruby": "<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a draw, a tie — when neither side wins. It comes from pulling evenly, both sides level."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、2回も先に点を取られましたが、あきらめませんでした。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、2<ruby>回<rt>かい</rt></ruby>も<ruby>先に<rt>さきに</rt></ruby><ruby>点<rt>てん</rt></ruby>を<ruby>取ら<rt>とら</rt></ruby>れましたが、あきらめませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan fell behind twice, but didn't give up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "あきらめる",
+      "ruby": "<span class=\"vw\" data-ja=\"あきらめる\" data-reading=\"あきらめる\" data-en=\"to give up\">あきらめる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to give up, to quit trying. Here it's negative — they did not give up, and that's how they earned the draw."
+    },
+    {
+      "speaker": "slow",
+      "text": "後半、中村選手が1点を返して、同点にしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>、<ruby>中村<rt>なかむら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が1<ruby>点<rt>てん</rt></ruby>を<ruby>返し<rt>かえし</rt></ruby>て、<span class=\"vw\" data-ja=\"同点\" data-reading=\"どうてん\" data-en=\"tied score; level\"><ruby>同点<rt>どうてん</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the second half, player Nakamura got a goal back and tied the score."
+    },
+    {
+      "speaker": "vocab",
+      "text": "同点",
+      "ruby": "<span class=\"vw\" data-ja=\"同点\" data-reading=\"どうてん\" data-en=\"tied score; level\"><ruby>同点<rt>どうてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tied score, level on points. The first character means same, the second means point — same number of points."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合の終わりごろ、鎌田選手がゴールを決めて、もう一度追いつきました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろ、<ruby>鎌田<rt>かまだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がゴールを<ruby>決め<rt>きめ</rt></ruby>て、もう<ruby>一度<rt>いちど</rt></ruby><ruby>追い<rt>おい</rt></ruby>つきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Near the end of the match, player Kamada scored a goal and drew level once again."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決める",
+      "ruby": "<span class=\"vw\" data-ja=\"決める\" data-reading=\"きめる\" data-en=\"to decide; to score (a goal)\"><ruby>決め<rt>きめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decide — and in sports, to score a goal cleanly. To get a goal in is to decide it."
+    },
+    {
+      "speaker": "slow",
+      "text": "この引き分けで、日本は大切な勝ち点を1つ取りました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>で、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"勝ち点\" data-reading=\"かちてん\" data-en=\"points (in the standings)\"><ruby>勝ち<rt>かち</rt></ruby><ruby>点<rt>てん</rt></ruby></span>を1つ<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With this draw, Japan earned one valuable point in the standings."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勝ち点",
+      "ruby": "<span class=\"vw\" data-ja=\"勝ち点\" data-reading=\"かちてん\" data-en=\"points (in the standings)\"><ruby>勝ち<rt>かち</rt></ruby><ruby>点<rt>てん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a point in the standings — the points a team earns from wins and draws. A win gives three, a draw gives one."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合の途中、久保選手はけがをして、交代しました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>、<ruby>久保<rt>くぼ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>はけがをして、<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"substitution; changing places\"><ruby>交代<rt>こうたい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "During the match, player Kubo got injured and was substituted."
+    },
+    {
+      "speaker": "vocab",
+      "text": "交代",
+      "ruby": "<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"substitution; changing places\"><ruby>交代<rt>こうたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a substitution, a changing of places. One player comes off and another comes on."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーのワールドカップが始まり、日本代表が初めての試合をしました。",
+      "ruby": "サッカーのワールドカップが<ruby>始まり<rt>はじまり</rt></ruby>、<ruby>日本代表<rt>にほんだいひょう</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月15日、日本は、強い相手のオランダと戦いました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent; the other party\"><ruby>相手<rt>あいて</rt></ruby></span>のオランダと<ruby>戦い<rt>たたかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合は、2対2の引き分けでした。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>は、2<ruby>対<rt>たい</rt></ruby>2の<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、2回も先に点を取られましたが、あきらめませんでした。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、2<ruby>回<rt>かい</rt></ruby>も<ruby>先に<rt>さきに</rt></ruby><ruby>点<rt>てん</rt></ruby>を<ruby>取ら<rt>とら</rt></ruby>れましたが、あきらめませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "後半、中村選手が1点を返して、同点にしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>、<ruby>中村<rt>なかむら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が1<ruby>点<rt>てん</rt></ruby>を<ruby>返し<rt>かえし</rt></ruby>て、<span class=\"vw\" data-ja=\"同点\" data-reading=\"どうてん\" data-en=\"tied score; level\"><ruby>同点<rt>どうてん</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合の終わりごろ、鎌田選手がゴールを決めて、もう一度追いつきました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろ、<ruby>鎌田<rt>かまだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がゴールを<ruby>決め<rt>きめ</rt></ruby>て、もう<ruby>一度<rt>いちど</rt></ruby><ruby>追い<rt>おい</rt></ruby>つきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この引き分けで、日本は大切な勝ち点を1つ取りました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"引き分け\" data-reading=\"ひきわけ\" data-en=\"draw; tie\"><ruby>引き分け<rt>ひきわけ</rt></ruby></span>で、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"勝ち点\" data-reading=\"かちてん\" data-en=\"points (in the standings)\"><ruby>勝ち<rt>かち</rt></ruby><ruby>点<rt>てん</rt></ruby></span>を1つ<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合の途中、久保選手はけがをして、交代しました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>、<ruby>久保<rt>くぼ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>はけがをして、<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"substitution; changing places\"><ruby>交代<rt>こうたい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "森保監督は、「チーム全員で、最後まで戦いました」と話しました。",
+      "ruby": "<ruby>森保<rt>もりやす</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager; head coach\"><ruby>監督<rt>かんとく</rt></ruby></span>は、「チーム<ruby>全員<rt>ぜんいん</rt></ruby>で、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>戦い<rt>たたかい</rt></ruby>ました」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、初めての試合でどのチームと戦いましたか。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>でどのチームと<ruby>戦い<rt>たたかい</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which team did Japan play in its first match? The Netherlands."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合は、何対何でしたか。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>は、<ruby>何<rt>なに</rt></ruby><ruby>対<rt>たい</rt></ruby><ruby>何で<rt>なんで</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the final score? Two to two — a draw."
+    },
+    {
+      "speaker": "slow",
+      "text": "だれが最後に同点のゴールを決めましたか。",
+      "ruby": "だれが<ruby>最後<rt>さいご</rt></ruby>に<span class=\"vw\" data-ja=\"同点\" data-reading=\"どうてん\" data-en=\"tied score; level\"><ruby>同点<rt>どうてん</rt></ruby></span>のゴールを<ruby>決め<rt>きめ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Who scored the final equalizing goal? Player Kamada, near the end of the match."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "代表",
+      "reading": "だいひょう",
+      "en": "representative; national team",
+      "zh": "代表、国家队"
+    },
+    {
+      "ja": "相手",
+      "reading": "あいて",
+      "en": "opponent; the other party",
+      "zh": "对手、对方"
+    },
+    {
+      "ja": "引き分け",
+      "reading": "ひきわけ",
+      "en": "draw; tie",
+      "zh": "平局"
+    },
+    {
+      "ja": "あきらめる",
+      "reading": "あきらめる",
+      "en": "to give up",
+      "zh": "放弃"
+    },
+    {
+      "ja": "同点",
+      "reading": "どうてん",
+      "en": "tied score; level",
+      "zh": "同分、平分"
+    },
+    {
+      "ja": "決める",
+      "reading": "きめる",
+      "en": "to decide; to score (a goal)",
+      "zh": "决定、攻入（球）"
+    },
+    {
+      "ja": "勝ち点",
+      "reading": "かちてん",
+      "en": "points (in the standings)",
+      "zh": "积分、胜点"
+    },
+    {
+      "ja": "交代",
+      "reading": "こうたい",
+      "en": "substitution; changing places",
+      "zh": "替换、轮换"
+    },
+    {
+      "ja": "後半",
+      "reading": "こうはん",
+      "en": "second half; latter half",
+      "zh": "下半场、后半"
+    },
+    {
+      "ja": "監督",
+      "reading": "かんとく",
+      "en": "manager; head coach",
+      "zh": "主教练、监督"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜（ら）れる（受身）",
+      "meaning": "passive: to have ~ done to one",
+      "meaningZh": "被动：被……",
+      "formation": "verb passive form (取る → 取られる)",
+      "example": "日本は、2回も先に点を取られました。",
+      "translation": "Japan had a point taken against them first, twice.",
+      "note": "The passive shifts focus to the one affected. 点を取る is to score; 点を取られる is to have a point scored against you. The で／に marks who did it, when stated.",
+      "noteZh": "被动态把焦点放在受影响的一方。「点を取る」是得分，「点を取られる」是被对方得分。需要时用「に」标出动作者。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#passive"
+    },
+    {
+      "pattern": "〜も（数量＋も）",
+      "meaning": "as many as ~; even ~ (emphasis)",
+      "meaningZh": "竟……、多达……（强调数量之多）",
+      "formation": "number/counter + も",
+      "example": "日本は、2回も先に点を取られました。",
+      "translation": "Japan fell behind first as many as two times.",
+      "note": "Putting も after a number stresses that the amount is surprisingly large. 2回も means twice — and that's a lot. Contrast with 2回しか (only twice).",
+      "noteZh": "数量词后加「も」，强调数量之多、出乎意料。「2回も」＝竟有两次（之多）。与「2回しか」（只有两次）相对。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#kazu-mo"
+    },
+    {
+      "pattern": "〜にする",
+      "meaning": "to make it ~; to turn it into ~",
+      "meaningZh": "使其变成……、弄成……",
+      "formation": "noun + にする",
+      "example": "中村選手が1点を返して、同点にしました。",
+      "translation": "Player Nakamura got a point back and made it a tied game.",
+      "note": "〜にする means to bring about a state on purpose — to make something become X. 同点にする is to make the score level. Compare 〜になる (becomes, on its own).",
+      "noteZh": "「〜にする」表示有意造成某种状态——使其变成X。「同点にする」＝把比分扳成平局。与「〜になる」（自然变成）相对。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ni-suru"
+    },
+    {
+      "pattern": "〜と話す／と言う（引用）",
+      "meaning": "to say that ~ (quoting)",
+      "meaningZh": "说道「……」（引用）",
+      "formation": "quoted words + と + 話す／言う",
+      "example": "森保監督は、「チーム全員で、最後まで戦いました」と話しました。",
+      "translation": "Manager Moriyasu said, \"The whole team fought to the very end.\"",
+      "note": "と marks the end of what was said, then comes a speaking verb. It works for both direct quotes (in 「」) and reported speech. The backbone of every news interview.",
+      "noteZh": "「と」标出引用内容的结尾，后接表示「说」的动词。直接引用（用「」）和间接转述都适用，是新闻采访报道的基本句型。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#to-iu-quote"
+    }
+  ],
+  "practiceZh": [
+    "サッカーのワールドカップが始まり、日本代表が初めての試合をしました。\n足球世界杯开幕，日本国家队进行了第一场比赛。\n「始まり」是「始まる」的连用形中顿；「日本代表」＝日本国家队。",
+    "6月15日、日本は、強い相手のオランダと戦いました。\n6月15日，日本与强敌荷兰交战。\n「強い相手の」修饰「オランダ」；「〜と戦う」＝与……作战、对阵。",
+    "試合は、2対2の引き分けでした。\n比赛以2比2平局结束。\n「2対2」读作「に たい に」；「引き分け」＝平局。",
+    "日本は、2回も先に点を取られましたが、あきらめませんでした。\n日本竟两次被对方先得分，但没有放弃。\n「2回も」强调次数之多；「取られる」是被动（被得分）；「が」表示转折。",
+    "後半、中村選手が1点を返して、同点にしました。\n下半场，中村选手扳回1分，把比分扳平。\n「1点を返す」＝扳回一分；「同点にする」＝弄成平分。",
+    "試合の終わりごろ、鎌田選手がゴールを決めて、もう一度追いつきました。\n比赛快结束时，镰田选手攻入一球，再次追平。\n「終わりごろ」＝快结束的时候；「ゴールを決める」＝攻入进球；「もう一度」＝再一次。",
+    "この引き分けで、日本は大切な勝ち点を1つ取りました。\n凭借这场平局，日本拿到了宝贵的1个积分。\n「〜で」表示凭借、由于；「勝ち点」＝（联赛的）积分。",
+    "試合の途中、久保選手はけがをして、交代しました。\n比赛途中，久保选手受伤被换下。\n「途中」＝中途；「けがをする」＝受伤；「交代する」＝替换、换人。"
+  ]
+}

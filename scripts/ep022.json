@@ -1,0 +1,454 @@
+{
+  "episode": 22,
+  "title": "スペースX、史上最大のIPOで上場",
+  "date": "2026-06-13",
+  "source": "日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026061301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June thirteenth. Yesterday, Elon Musk's rocket company SpaceX went public on the American stock market, and it raised about twelve trillion yen — the largest amount in history. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの会社「スペースX」が、6月12日にアメリカの株式市場に上場しました。",
+      "ruby": "アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>「スペースX」が、6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>にアメリカの<span class=\"vw\" data-ja=\"株式市場\" data-reading=\"かぶしきしじょう\" data-en=\"stock market\"><ruby>株式市場<rt>かぶしきしじょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この上場で集めたお金の金額は、約12兆円でした。",
+      "ruby": "この<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>で<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>は、<ruby>約<rt>やく</rt></ruby>12<ruby>兆円<rt>ちょうえん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、世界の歴史の中で、いちばん大きな金額です。",
+      "ruby": "これは、<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、いちばん<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スペースXは、ロケットを使って、人や荷物を宇宙に運ぶ会社です。",
+      "ruby": "スペースXは、ロケットを<ruby>使って<rt>つかって</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>や<ruby>荷物<rt>にもつ</rt></ruby>を<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>運ぶ<rt>はこぶ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "イーロン・マスクさんがつくった会社で、世界でとても有名です。",
+      "ruby": "イーロン・マスクさんがつくった<ruby>会社<rt>かいしゃ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でとても<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous; well-known\"><ruby>有名<rt>ゆうめい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「スターリンク」という、宇宙からインターネットを届けるサービスもしています。",
+      "ruby": "また、「スターリンク」という、<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>からインターネットを<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to get something to someone\"><ruby>届け<rt>とどけ</rt></ruby>る</span>サービスもしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "集めたお金は、新しいロケットやAIの開発に使う予定です。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>ロケットやAIの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>に<ruby>使う<rt>つかう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "上場した日、株の値段は、最初の値段より11%高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>した<ruby>日<rt>ひ</rt></ruby>、<ruby>株<rt>かぶ</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、<ruby>最初<rt>さいしょ</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>より11%<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの投資家が、この会社のこれからに期待しています。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"投資家\" data-reading=\"とうしか\" data-en=\"investor\"><ruby>投資家<rt>とうしか</rt></ruby></span>が、この<ruby>会社<rt>かいしゃ</rt></ruby>のこれからに<ruby>期待し<rt>きたいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "アメリカの会社「スペースX」が、6月12日にアメリカの株式市場に上場しました。",
+      "ruby": "アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>「スペースX」が、6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>にアメリカの<span class=\"vw\" data-ja=\"株式市場\" data-reading=\"かぶしきしじょう\" data-en=\"stock market\"><ruby>株式市場<rt>かぶしきしじょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The American company SpaceX was listed on the American stock market on June twelfth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上場",
+      "ruby": "<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means listing — when a company's shares start trading on the stock market for the first time. This is the big moment everyone was waiting for."
+    },
+    {
+      "speaker": "slow",
+      "text": "この上場で集めたお金の金額は、約12兆円でした。",
+      "ruby": "この<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>で<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>は、<ruby>約<rt>やく</rt></ruby>12<ruby>兆円<rt>ちょうえん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The amount of money raised through this listing was about twelve trillion yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "金額",
+      "ruby": "<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means amount of money — a sum. The first character means gold or money, the second means a quantity, so together, how much money."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、世界の歴史の中で、いちばん大きな金額です。",
+      "ruby": "これは、<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、いちばん<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the largest amount in the history of the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history. You'll see it in news, in school subjects, and in phrases like the biggest in history, just like here."
+    },
+    {
+      "speaker": "slow",
+      "text": "スペースXは、ロケットを使って、人や荷物を宇宙に運ぶ会社です。",
+      "ruby": "スペースXは、ロケットを<ruby>使って<rt>つかって</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>や<ruby>荷物<rt>にもつ</rt></ruby>を<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>運ぶ<rt>はこぶ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "SpaceX is a company that uses rockets to carry people and cargo into space."
+    },
+    {
+      "speaker": "vocab",
+      "text": "宇宙",
+      "ruby": "<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means space, or the universe. Think of rockets, stars, and astronauts — all part of this word."
+    },
+    {
+      "speaker": "slow",
+      "text": "イーロン・マスクさんがつくった会社で、世界でとても有名です。",
+      "ruby": "イーロン・マスクさんがつくった<ruby>会社<rt>かいしゃ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でとても<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous; well-known\"><ruby>有名<rt>ゆうめい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's a company founded by Elon Musk, and it's very famous around the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "有名",
+      "ruby": "<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous; well-known\"><ruby>有名<rt>ゆうめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means famous, well-known. It's a na-adjective, so to describe a noun you add na — a famous person, a famous place."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、「スターリンク」という、宇宙からインターネットを届けるサービスもしています。",
+      "ruby": "また、「スターリンク」という、<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>からインターネットを<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to get something to someone\"><ruby>届け<rt>とどけ</rt></ruby>る</span>サービスもしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also runs a service called Starlink, which delivers internet from space."
+    },
+    {
+      "speaker": "vocab",
+      "text": "届ける",
+      "ruby": "<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to get something to someone\"><ruby>届け<rt>とどけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to deliver, to get something to someone. The mail, a package, or here, an internet signal from space."
+    },
+    {
+      "speaker": "slow",
+      "text": "集めたお金は、新しいロケットやAIの開発に使う予定です。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>ロケットやAIの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>に<ruby>使う<rt>つかう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The money raised is planned to be used for developing new rockets and AI."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開発",
+      "ruby": "<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means development — creating something new, like new technology or products. Companies do a lot of this word."
+    },
+    {
+      "speaker": "slow",
+      "text": "上場した日、株の値段は、最初の値段より11%高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>した<ruby>日<rt>ひ</rt></ruby>、<ruby>株<rt>かぶ</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、<ruby>最初<rt>さいしょ</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>より11%<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the day of the listing, the share price rose eleven percent above the starting price."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price — how much something costs. You'll hear it shopping, and in markets like this one."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの会社「スペースX」が、6月12日にアメリカの株式市場に上場しました。",
+      "ruby": "アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>「スペースX」が、6<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>にアメリカの<span class=\"vw\" data-ja=\"株式市場\" data-reading=\"かぶしきしじょう\" data-en=\"stock market\"><ruby>株式市場<rt>かぶしきしじょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この上場で集めたお金の金額は、約12兆円でした。",
+      "ruby": "この<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>で<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>は、<ruby>約<rt>やく</rt></ruby>12<ruby>兆円<rt>ちょうえん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、世界の歴史の中で、いちばん大きな金額です。",
+      "ruby": "これは、<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、いちばん<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スペースXは、ロケットを使って、人や荷物を宇宙に運ぶ会社です。",
+      "ruby": "スペースXは、ロケットを<ruby>使って<rt>つかって</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>や<ruby>荷物<rt>にもつ</rt></ruby>を<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>運ぶ<rt>はこぶ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "イーロン・マスクさんがつくった会社で、世界でとても有名です。",
+      "ruby": "イーロン・マスクさんがつくった<ruby>会社<rt>かいしゃ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でとても<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous; well-known\"><ruby>有名<rt>ゆうめい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「スターリンク」という、宇宙からインターネットを届けるサービスもしています。",
+      "ruby": "また、「スターリンク」という、<span class=\"vw\" data-ja=\"宇宙\" data-reading=\"うちゅう\" data-en=\"space; the universe\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>からインターネットを<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to get something to someone\"><ruby>届け<rt>とどけ</rt></ruby>る</span>サービスもしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "集めたお金は、新しいロケットやAIの開発に使う予定です。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>ロケットやAIの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>に<ruby>使う<rt>つかう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "上場した日、株の値段は、最初の値段より11%高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>した<ruby>日<rt>ひ</rt></ruby>、<ruby>株<rt>かぶ</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、<ruby>最初<rt>さいしょ</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>より11%<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの投資家が、この会社のこれからに期待しています。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"投資家\" data-reading=\"とうしか\" data-en=\"investor\"><ruby>投資家<rt>とうしか</rt></ruby></span>が、この<ruby>会社<rt>かいしゃ</rt></ruby>のこれからに<ruby>期待し<rt>きたいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "スペースXは、何をする会社ですか。",
+      "ruby": "スペースXは、<ruby>何を<rt>なにを</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kind of company is SpaceX? A company that uses rockets to carry people and cargo into space."
+    },
+    {
+      "speaker": "slow",
+      "text": "この上場で集めたお金の金額は、いくらでしたか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"上場\" data-reading=\"じょうじょう\" data-en=\"(stock market) listing; going public\"><ruby>上場<rt>じょうじょう</rt></ruby></span>で<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money; sum\"><ruby>金額<rt>きんがく</rt></ruby></span>は、いくらでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How much money was raised through this listing? About twelve trillion yen — the largest amount in history."
+    },
+    {
+      "speaker": "slow",
+      "text": "集めたお金は、何に使う予定ですか。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>に<ruby>使う<rt>つかう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What is the money planned to be used for? Developing new rockets and AI."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "上場",
+      "reading": "じょうじょう",
+      "en": "(stock market) listing; going public",
+      "zh": "上市"
+    },
+    {
+      "ja": "金額",
+      "reading": "きんがく",
+      "en": "amount of money; sum",
+      "zh": "金额"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    },
+    {
+      "ja": "宇宙",
+      "reading": "うちゅう",
+      "en": "space; the universe",
+      "zh": "宇宙、太空"
+    },
+    {
+      "ja": "有名",
+      "reading": "ゆうめい",
+      "en": "famous; well-known",
+      "zh": "有名、著名"
+    },
+    {
+      "ja": "届ける",
+      "reading": "とどける",
+      "en": "to deliver; to get something to someone",
+      "zh": "送达、传送"
+    },
+    {
+      "ja": "開発",
+      "reading": "かいはつ",
+      "en": "development",
+      "zh": "开发、研发"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "投資家",
+      "reading": "とうしか",
+      "en": "investor",
+      "zh": "投资者"
+    },
+    {
+      "ja": "株式市場",
+      "reading": "かぶしきしじょう",
+      "en": "stock market",
+      "zh": "股票市场"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という＋名詞",
+      "meaning": "~ called ...; the ~ that ...",
+      "meaningZh": "叫做……的……；称为……的……",
+      "formation": "noun / clause + という + noun",
+      "example": "「スターリンク」という、宇宙からインターネットを届けるサービス。",
+      "translation": "a service called Starlink, which delivers internet from space",
+      "note": "という introduces a name or label for the following noun — a company called X, a service called Y. Very common when news introduces something for the first time.",
+      "noteZh": "「という」给后面的名词引出一个名称或说明——叫做X的公司、称为Y的服务。新闻第一次介绍某事物时常用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#toiu"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "than ~; compared to ~",
+      "meaningZh": "比……",
+      "formation": "noun + より + comparison",
+      "example": "株の値段は、最初の値段より11%高くなりました。",
+      "translation": "The share price became 11% higher than the starting price.",
+      "note": "より marks the standard you compare against. The thing before より is the baseline; what comes after says how it differs — higher, lower, faster.",
+      "noteZh": "「より」标出比较的基准，「より」前面是基准，后面说明差别——更高、更低、更快。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#yori"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "to be planned / scheduled to ~",
+      "meaningZh": "预定……、计划……",
+      "formation": "verb (dictionary form) + 予定です",
+      "example": "集めたお金は、新しいロケットやAIの開発に使う予定です。",
+      "translation": "The money raised is planned to be used for developing new rockets and AI.",
+      "note": "予定 means a plan or schedule. Attach it after a dictionary-form verb to say something is set to happen, more concrete than just つもり (intention).",
+      "noteZh": "「予定」是计划、安排。接在动词原形后表示「预定要做某事」，比「つもり」（打算）更落实、更客观。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#yotei"
+    },
+    {
+      "pattern": "いちばん〜",
+      "meaning": "the most ~; the ~est",
+      "meaningZh": "最……",
+      "formation": "いちばん + adjective / の中でいちばん",
+      "example": "世界の歴史の中で、いちばん大きな金額です。",
+      "translation": "It is the largest amount in the history of the world.",
+      "note": "いちばん before an adjective makes the superlative — the biggest, the best. Pair it with 〜の中で (among ~) to set the group you're comparing within.",
+      "noteZh": "「いちばん」放在形容词前构成最高级——最大、最好。常与「〜の中で」（在……之中）搭配，圈定比较范围。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ichiban"
+    }
+  ],
+  "practiceZh": [
+    "アメリカの会社「スペースX」が、6月12日にアメリカの株式市場に上場しました。\n美国公司「SpaceX」于6月12日在美国股票市场上市了。\n「上場する」＝（在证券市场）上市；「〜に上場する」用「に」标出上市的市场。",
+    "この上場で集めたお金の金額は、約12兆円でした。\n通过这次上市筹集的资金金额约为12万亿日元。\n「集めた」是动词过去式修饰名词「お金」；「約」＝大约。",
+    "これは、世界の歴史の中で、いちばん大きな金額です。\n这是世界历史上最大的金额。\n「〜の中で、いちばん〜」＝「在……之中最……」，构成最高级。",
+    "スペースXは、ロケットを使って、人や荷物を宇宙に運ぶ会社です。\nSpaceX是用火箭把人和货物运往宇宙的公司。\n「〜を使って」＝「使用……来……」；「運ぶ」修饰「会社」。",
+    "イーロン・マスクさんがつくった会社で、世界でとても有名です。\n这是埃隆·马斯克创立的公司，在世界上非常有名。\n「つくった」修饰名词「会社」；「〜で」在这里连接两句，相当于「是……，而且……」。",
+    "また、「スターリンク」という、宇宙からインターネットを届けるサービスもしています。\n此外，还经营着叫做「星链」的、从太空传送互联网的服务。\n「〜という＋名詞」给名词引出名称；「届ける」＝送达、传送。",
+    "集めたお金は、新しいロケットやAIの開発に使う予定です。\n筹集到的资金计划用于新火箭和AI的开发。\n「〜予定です」＝预定、计划做某事；「AやB」＝A和B等（列举）。",
+    "上場した日、株の値段は、最初の値段より11%高くなりました。\n上市当天，股票价格比最初的价格上涨了11%。\n「〜より」＝比……；「高くなる」＝变高（形容词＋なる表示变化）。"
+  ]
+}

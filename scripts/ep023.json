@@ -1,0 +1,454 @@
+{
+  "episode": 23,
+  "title": "全日本大学野球、関西大が54年ぶり優勝",
+  "date": "2026-06-14",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026061401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June fourteenth. In college baseball, the team from Kansai University won the national championship — their first title in fifty-four years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月14日、大学野球の日本一を決める大会の決勝が、東京でありました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>大学野球<rt>だいがくやきゅう</rt></ruby>の<ruby>日本一<rt>にっぽんいち</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>が、<ruby>東京<rt>とうきょう</rt></ruby>でありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決勝では、関西大学と慶応大学が対戦しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>では、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>と<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>が<span class=\"vw\" data-ja=\"対戦\" data-reading=\"たいせん\" data-en=\"to face off; to compete against\"><ruby>対戦<rt>たいせん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合は、関西大学が2対1で勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game; match\"><ruby>試合<rt>しあい</rt></ruby></span>は、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>が2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "関西大学の優勝は、54年ぶりで、3回目です。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>は、54<ruby>年<rt>ねん</rt></ruby>ぶりで、3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "関西大学は、4回に1点を取って、先に点を取りました。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>は、4<ruby>回<rt>かい</rt></ruby>に1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取っ<rt>とっ</rt></ruby>て、<ruby>先に<rt>さきに</rt></ruby><span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "5回には、山本選手がホームランを打って、点を増やしました。",
+      "ruby": "5<ruby>回<rt>かい</rt></ruby>には、<ruby>山本<rt>やまもと</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がホームランを<ruby>打っ<rt>うっ</rt></ruby>て、<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>増やし<rt>ふやし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "先発の米澤投手は、5回を投げて、相手に点を与えませんでした。",
+      "ruby": "<ruby>先発<rt>せんぱつ</rt></ruby>の<ruby>米澤<rt>よねざわ</rt></ruby><span class=\"vw\" data-ja=\"投手\" data-reading=\"とうしゅ\" data-en=\"pitcher\"><ruby>投手<rt>とうしゅ</rt></ruby></span>は、5<ruby>回<rt>かい</rt></ruby>を<ruby>投げ<rt>なげ</rt></ruby>て、<ruby>相手<rt>あいて</rt></ruby>に<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>与え<rt>あたえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "慶応大学は、8回に1点を返しましたが、最後まで追いつけませんでした。",
+      "ruby": "<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>は、8<ruby>回<rt>かい</rt></ruby>に1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>返し<rt>かえし</rt></ruby>ましたが、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>追い<rt>おい</rt></ruby>つけませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "優勝した選手たちは、グラウンドでとても喜んでいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、グラウンドでとても<ruby>喜んで<rt>よろこんで</rt></ruby>いました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "6月14日、大学野球の日本一を決める大会の決勝が、東京でありました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>大学野球<rt>だいがくやきゅう</rt></ruby>の<ruby>日本一<rt>にっぽんいち</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>が、<ruby>東京<rt>とうきょう</rt></ruby>でありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On June fourteenth, the final of the tournament that decides Japan's best college baseball team was held in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決勝",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the final — the last game that decides the winner. The first character means to decide, the second means victory."
+    },
+    {
+      "speaker": "slow",
+      "text": "決勝では、関西大学と慶応大学が対戦しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>では、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>と<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>が<span class=\"vw\" data-ja=\"対戦\" data-reading=\"たいせん\" data-en=\"to face off; to compete against\"><ruby>対戦<rt>たいせん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the final, Kansai University faced Keio University."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対戦",
+      "ruby": "<span class=\"vw\" data-ja=\"対戦\" data-reading=\"たいせん\" data-en=\"to face off; to compete against\"><ruby>対戦<rt>たいせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to face off, to compete against. You'll hear it for any match between two teams or players."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合は、関西大学が2対1で勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game; match\"><ruby>試合<rt>しあい</rt></ruby></span>は、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>が2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the game, Kansai University won, two to one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試合",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game; match\"><ruby>試合<rt>しあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a game or a match. This is the everyday word for any sports contest."
+    },
+    {
+      "speaker": "slow",
+      "text": "関西大学の優勝は、54年ぶりで、3回目です。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>は、54<ruby>年<rt>ねん</rt></ruby>ぶりで、3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was Kansai University's first championship in fifty-four years, and their third overall."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winning the championship — finishing first. The word literally combines being superior with victory."
+    },
+    {
+      "speaker": "slow",
+      "text": "関西大学は、4回に1点を取って、先に点を取りました。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>は、4<ruby>回<rt>かい</rt></ruby>に1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取っ<rt>とっ</rt></ruby>て、<ruby>先に<rt>さきに</rt></ruby><span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kansai University took one point in the fourth inning, scoring first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "点",
+      "ruby": "<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a point, or a score. To take a point is to score; you'll hear it in every sports report."
+    },
+    {
+      "speaker": "slow",
+      "text": "5回には、山本選手がホームランを打って、点を増やしました。",
+      "ruby": "5<ruby>回<rt>かい</rt></ruby>には、<ruby>山本<rt>やまもと</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がホームランを<ruby>打っ<rt>うっ</rt></ruby>て、<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>増やし<rt>ふやし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the fifth inning, player Yamamoto hit a home run, adding to the score."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選手",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an athlete or a player. Add it after a name or sport to mean that player — useful all over sports news."
+    },
+    {
+      "speaker": "slow",
+      "text": "先発の米澤投手は、5回を投げて、相手に点を与えませんでした。",
+      "ruby": "<ruby>先発<rt>せんぱつ</rt></ruby>の<ruby>米澤<rt>よねざわ</rt></ruby><span class=\"vw\" data-ja=\"投手\" data-reading=\"とうしゅ\" data-en=\"pitcher\"><ruby>投手<rt>とうしゅ</rt></ruby></span>は、5<ruby>回<rt>かい</rt></ruby>を<ruby>投げ<rt>なげ</rt></ruby>て、<ruby>相手<rt>あいて</rt></ruby>に<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>与え<rt>あたえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The starting pitcher, Yonezawa, pitched five innings and gave up no points to the other team."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投手",
+      "ruby": "<span class=\"vw\" data-ja=\"投手\" data-reading=\"とうしゅ\" data-en=\"pitcher\"><ruby>投手<rt>とうしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means pitcher — the player who throws the ball in baseball. The first character means to throw."
+    },
+    {
+      "speaker": "slow",
+      "text": "慶応大学は、8回に1点を返しましたが、最後まで追いつけませんでした。",
+      "ruby": "<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>は、8<ruby>回<rt>かい</rt></ruby>に1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>返し<rt>かえし</rt></ruby>ましたが、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>追い<rt>おい</rt></ruby>つけませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Keio University got one point back in the eighth inning, but couldn't catch up in the end."
+    },
+    {
+      "speaker": "vocab",
+      "text": "追いつく",
+      "ruby": "<span class=\"vw\" data-ja=\"追いつく\" data-reading=\"おいつく\" data-en=\"to catch up; to draw level\"><ruby>追い<rt>おい</rt></ruby>つく</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to catch up, to draw level. Here, the team that was behind couldn't quite reach the other's score."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月14日、大学野球の日本一を決める大会の決勝が、東京でありました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>大学野球<rt>だいがくやきゅう</rt></ruby>の<ruby>日本一<rt>にっぽんいち</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament; big event\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>が、<ruby>東京<rt>とうきょう</rt></ruby>でありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決勝では、関西大学と慶応大学が対戦しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>では、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>と<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>が<span class=\"vw\" data-ja=\"対戦\" data-reading=\"たいせん\" data-en=\"to face off; to compete against\"><ruby>対戦<rt>たいせん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合は、関西大学が2対1で勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game; match\"><ruby>試合<rt>しあい</rt></ruby></span>は、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>が2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "関西大学の優勝は、54年ぶりで、3回目です。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>は、54<ruby>年<rt>ねん</rt></ruby>ぶりで、3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "関西大学は、4回に1点を取って、先に点を取りました。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>は、4<ruby>回<rt>かい</rt></ruby>に1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取っ<rt>とっ</rt></ruby>て、<ruby>先に<rt>さきに</rt></ruby><span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "5回には、山本選手がホームランを打って、点を増やしました。",
+      "ruby": "5<ruby>回<rt>かい</rt></ruby>には、<ruby>山本<rt>やまもと</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がホームランを<ruby>打っ<rt>うっ</rt></ruby>て、<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>増やし<rt>ふやし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "先発の米澤投手は、5回を投げて、相手に点を与えませんでした。",
+      "ruby": "<ruby>先発<rt>せんぱつ</rt></ruby>の<ruby>米澤<rt>よねざわ</rt></ruby><span class=\"vw\" data-ja=\"投手\" data-reading=\"とうしゅ\" data-en=\"pitcher\"><ruby>投手<rt>とうしゅ</rt></ruby></span>は、5<ruby>回<rt>かい</rt></ruby>を<ruby>投げ<rt>なげ</rt></ruby>て、<ruby>相手<rt>あいて</rt></ruby>に<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>与え<rt>あたえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "慶応大学は、8回に1点を返しましたが、最後まで追いつけませんでした。",
+      "ruby": "<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>は、8<ruby>回<rt>かい</rt></ruby>に1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point; score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>返し<rt>かえし</rt></ruby>ましたが、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>追い<rt>おい</rt></ruby>つけませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "優勝した選手たちは、グラウンドでとても喜んでいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete; player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは、グラウンドでとても<ruby>喜んで<rt>よろこんで</rt></ruby>いました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "決勝で、関西大学は何対何で勝ちましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (match)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>で、<ruby>関西大学<rt>かんさいだいがく</rt></ruby>は<ruby>何<rt>なに</rt></ruby><ruby>対<rt>たい</rt></ruby><ruby>何で<rt>なんで</rt></ruby><ruby>勝ち<rt>かち</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the final, what was the score when Kansai University won? Two to one."
+    },
+    {
+      "speaker": "slow",
+      "text": "関西大学の優勝は、何年ぶりですか。",
+      "ruby": "<ruby>関西大学<rt>かんさいだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship; victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>は、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How long had it been since Kansai University's last championship? Fifty-four years."
+    },
+    {
+      "speaker": "slow",
+      "text": "だれがホームランを打ちましたか。",
+      "ruby": "だれがホームランを<ruby>打ち<rt>うち</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Who hit a home run? Player Yamamoto, in the fifth inning."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "決勝",
+      "reading": "けっしょう",
+      "en": "final (match)",
+      "zh": "决赛"
+    },
+    {
+      "ja": "対戦",
+      "reading": "たいせん",
+      "en": "to face off; to compete against",
+      "zh": "对战、交手"
+    },
+    {
+      "ja": "試合",
+      "reading": "しあい",
+      "en": "game; match",
+      "zh": "比赛"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "winning the championship; victory",
+      "zh": "夺冠、冠军"
+    },
+    {
+      "ja": "点",
+      "reading": "てん",
+      "en": "point; score",
+      "zh": "分、得分"
+    },
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "athlete; player",
+      "zh": "选手、运动员"
+    },
+    {
+      "ja": "投手",
+      "reading": "とうしゅ",
+      "en": "pitcher",
+      "zh": "投手"
+    },
+    {
+      "ja": "追いつく",
+      "reading": "おいつく",
+      "en": "to catch up; to draw level",
+      "zh": "追上、追平"
+    },
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "tournament; big event",
+      "zh": "大赛、大会"
+    },
+    {
+      "ja": "返す",
+      "reading": "かえす",
+      "en": "to return; to get (a point) back",
+      "zh": "扳回、归还"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~; after an interval of ~",
+      "meaningZh": "时隔……、相隔……（之久）",
+      "formation": "period of time + ぶり",
+      "example": "関西大学の優勝は、54年ぶりで、3回目です。",
+      "translation": "Kansai University's championship was their first in 54 years, and their third overall.",
+      "note": "ぶり attaches to a length of time to say it's the first time that long. 54年ぶり means nothing like it had happened for 54 years. Very common in sports and records news.",
+      "noteZh": "「ぶり」接在时间长度后，表示「时隔这么久第一次」。「54年ぶり」＝时隔54年（才再次发生）。体育和纪录类新闻极常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#buri"
+    },
+    {
+      "pattern": "〜て、〜",
+      "meaning": "~ and then ~ (connecting actions in order)",
+      "meaningZh": "……然后……（动作先后连接）",
+      "formation": "verb te-form + following clause",
+      "example": "山本選手がホームランを打って、点を増やしました。",
+      "translation": "Player Yamamoto hit a home run and increased the score.",
+      "note": "The te-form links actions in sequence: did A, then B. It's the workhorse connector of Japanese — one event leading into the next.",
+      "noteZh": "动词て形把动作按顺序连接起来：先做A，再做B。是日语中最常用的连接方式，表示一件事接着另一件事。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#te-form"
+    },
+    {
+      "pattern": "〜が、〜",
+      "meaning": "~ but ~ (contrast)",
+      "meaningZh": "虽然……但是……（转折）",
+      "formation": "clause A + が、+ clause B",
+      "example": "8回に1点を返しましたが、最後まで追いつけませんでした。",
+      "translation": "They got one point back in the eighth inning, but couldn't catch up in the end.",
+      "note": "Mid-sentence が marks a contrast — A happened, but B is the opposite of what you'd expect. Here, they scored, but still lost.",
+      "noteZh": "句中的「が」表示转折——A发生了，但B却出乎意料。这里是「扳回一分，但最终仍没追上」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ga-contrast"
+    },
+    {
+      "pattern": "〜ませんでした",
+      "meaning": "did not ~ (polite past negative)",
+      "meaningZh": "（过去）没有……（礼貌体）",
+      "formation": "verb stem + ませんでした",
+      "example": "先発の米澤投手は、相手に点を与えませんでした。",
+      "translation": "The starting pitcher Yonezawa did not give up any points to the other team.",
+      "note": "ませんでした is the polite past-negative — something did not happen. Built from ません (present negative) plus でした (past). Standard in news reporting.",
+      "noteZh": "「ませんでした」是礼貌体的过去否定——某事没有发生。由「ません」（现在否定）＋「でした」（过去）构成，新闻报道中标准用法。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#masen-deshita"
+    }
+  ],
+  "practiceZh": [
+    "6月14日、大学野球の日本一を決める大会の決勝が、東京でありました。\n6月14日，决定大学棒球全日本第一的大赛决赛在东京举行。\n「日本一を決める」修饰「大会」；「（行事）がある」＝（活动）举行。",
+    "決勝では、関西大学と慶応大学が対戦しました。\n决赛中，关西大学和庆应大学交手了。\n「AとBが対戦する」＝A与B对战；「〜では」＝在……（场合）。",
+    "試合は、関西大学が2対1で勝ちました。\n比赛中，关西大学以2比1获胜。\n「〜対〜」读作「〜たい〜」，表示比分；「〜で勝つ」＝以……取胜。",
+    "関西大学の優勝は、54年ぶりで、3回目です。\n关西大学的夺冠是时隔54年，也是第3次。\n「〜ぶり」＝时隔……；「〜回目」＝第……次。",
+    "関西大学は、4回に1点を取って、先に点を取りました。\n关西大学在第4局拿下1分，率先得分。\n「4回に」的「に」标出时间点；「先に」＝率先、抢先。",
+    "5回には、山本選手がホームランを打って、点を増やしました。\n第5局，山本选手打出本垒打，扩大了比分。\n「〜て、〜」连接先后动作；「点を増やす」＝增加得分。",
+    "先発の米澤投手は、5回を投げて、相手に点を与えませんでした。\n先发投手米泽投了5局，没有让对手得分。\n「相手に点を与える」＝让对手得分；「ませんでした」是过去否定。",
+    "慶応大学は、8回に1点を返しましたが、最後まで追いつけませんでした。\n庆应大学在第8局扳回1分，但最终没能追上。\n「〜が、〜」表示转折；「追いつけませんでした」是「追いつく」的可能形否定过去。"
+  ]
+}
