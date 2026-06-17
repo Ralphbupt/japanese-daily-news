@@ -1,0 +1,454 @@
+{
+  "episode": 26,
+  "title": "鶏肉の値段が過去最高に、円安が原因",
+  "date": "2026-06-17",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026061701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June seventeenth. The price of chicken in Japan has climbed to its highest level on record — and a weaker yen is a big part of the reason. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "鶏肉の値段が、今までで一番高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国の調査によると、鶏肉100グラムの平均の値段は、157円でした。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>によると、<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>100グラムの<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、157<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、2015年に記録をとり始めてから、一番高い値段です。",
+      "ruby": "これは、2015<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record; data\"><ruby>記録<rt>きろく</rt></ruby></span>をとり<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が上がった理由の一つは、円安です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "円が安いと、外国から買うニワトリのエサが高くなります。",
+      "ruby": "<ruby>円<rt>えん</rt></ruby>が<ruby>安い<rt>やすい</rt></ruby>と、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>買う<rt>かう</rt></ruby>ニワトリの<span class=\"vw\" data-ja=\"エサ\" data-reading=\"えさ\" data-en=\"feed; food for animals\">エサ</span>が<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "エサが高くなると、鶏肉を作るお金も増えて、値段が上がります。",
+      "ruby": "<span class=\"vw\" data-ja=\"エサ\" data-reading=\"えさ\" data-en=\"feed; food for animals\">エサ</span>が<ruby>高く<rt>たかく</rt></ruby>なると、<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>て、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "牛肉や、外国から運ばれる肉の値段も、高くなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"牛肉\" data-reading=\"ぎゅうにく\" data-en=\"beef\"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span>や、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>運ば<rt>はこば</rt></ruby>れる<ruby>肉<rt>にく</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>も、<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎日の食事を作る家庭にとって、厳しい状況が続いています。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>家庭<rt>かてい</rt></ruby>にとって、<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"strict; harsh; tough\"><ruby>厳しい<rt>きびしい</rt></ruby></span><ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "お店では、少しでも安い肉を選ぶお客さんが増えているそうです。",
+      "ruby": "お<ruby>店<rt>みせ</rt></ruby>では、<ruby>少し<rt>すこし</rt></ruby>でも<ruby>安い<rt>やすい</rt></ruby><ruby>肉<rt>にく</rt></ruby>を<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose; to pick\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>増え<rt>ふえ</rt></ruby>ているそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "鶏肉の値段が、今までで一番高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The price of chicken has become the highest it has ever been."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price — how much something costs. A very everyday word; you'll see it on every shelf and menu."
+    },
+    {
+      "speaker": "slow",
+      "text": "国の調査によると、鶏肉100グラムの平均の値段は、157円でした。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>によると、<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>100グラムの<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、157<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to a national survey, the average price of one hundred grams of chicken was one hundred fifty-seven yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調査",
+      "ruby": "<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a survey or investigation — looking into something carefully. The government does one to track prices across the whole country."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、2015年に記録をとり始めてから、一番高い値段です。",
+      "ruby": "これは、2015<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record; data\"><ruby>記録<rt>きろく</rt></ruby></span>をとり<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the highest price since they began keeping records in twenty fifteen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録",
+      "ruby": "<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record; data\"><ruby>記録<rt>きろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a record — written-down data, or a best-ever mark in sports. Here it's the kept data on prices over the years."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段が上がった理由の一つは、円安です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "One reason the price went up is the weak yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "円安",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a weak yen — when the yen is worth less against other money. The first character is yen, the second means cheap. A cheap yen makes imports expensive."
+    },
+    {
+      "speaker": "slow",
+      "text": "円が安いと、外国から買うニワトリのエサが高くなります。",
+      "ruby": "<ruby>円<rt>えん</rt></ruby>が<ruby>安い<rt>やすい</rt></ruby>と、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>買う<rt>かう</rt></ruby>ニワトリの<span class=\"vw\" data-ja=\"エサ\" data-reading=\"えさ\" data-en=\"feed; food for animals\">エサ</span>が<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the yen is cheap, the chicken feed bought from abroad becomes more expensive."
+    },
+    {
+      "speaker": "vocab",
+      "text": "エサ",
+      "ruby": "<span class=\"vw\" data-ja=\"エサ\" data-reading=\"えさ\" data-en=\"feed; food for animals\">エサ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means feed or food for animals. Much of Japan's chicken feed is imported, so its cost rides on the exchange rate."
+    },
+    {
+      "speaker": "slow",
+      "text": "牛肉や、外国から運ばれる肉の値段も、高くなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"牛肉\" data-reading=\"ぎゅうにく\" data-en=\"beef\"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span>や、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>運ば<rt>はこば</rt></ruby>れる<ruby>肉<rt>にく</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>も、<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Beef, and meat brought in from abroad, are also getting more expensive."
+    },
+    {
+      "speaker": "vocab",
+      "text": "牛肉",
+      "ruby": "<span class=\"vw\" data-ja=\"牛肉\" data-reading=\"ぎゅうにく\" data-en=\"beef\"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means beef. The first character is cow, the second is meat. The same pattern gives you chicken meat and pork."
+    },
+    {
+      "speaker": "slow",
+      "text": "毎日の食事を作る家庭にとって、厳しい状況が続いています。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>家庭<rt>かてい</rt></ruby>にとって、<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"strict; harsh; tough\"><ruby>厳しい<rt>きびしい</rt></ruby></span><ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "For households that cook every day, a tough situation continues."
+    },
+    {
+      "speaker": "vocab",
+      "text": "厳しい",
+      "ruby": "<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"strict; harsh; tough\"><ruby>厳しい<rt>きびしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means strict, harsh, or tough. Here it describes a hard, demanding situation — a hard time for the family budget."
+    },
+    {
+      "speaker": "slow",
+      "text": "お店では、少しでも安い肉を選ぶお客さんが増えているそうです。",
+      "ruby": "お<ruby>店<rt>みせ</rt></ruby>では、<ruby>少し<rt>すこし</rt></ruby>でも<ruby>安い<rt>やすい</rt></ruby><ruby>肉<rt>にく</rt></ruby>を<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose; to pick\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>増え<rt>ふえ</rt></ruby>ているそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the shops, it's said more customers are choosing even slightly cheaper meat."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose; to pick\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to choose, to pick. When prices rise, shoppers carefully choose the cheaper option."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "鶏肉の値段が、今までで一番高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国の調査によると、鶏肉100グラムの平均の値段は、157円でした。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>によると、<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>100グラムの<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、157<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、2015年に記録をとり始めてから、一番高い値段です。",
+      "ruby": "これは、2015<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record; data\"><ruby>記録<rt>きろく</rt></ruby></span>をとり<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が上がった理由の一つは、円安です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "円が安いと、外国から買うニワトリのエサが高くなります。",
+      "ruby": "<ruby>円<rt>えん</rt></ruby>が<ruby>安い<rt>やすい</rt></ruby>と、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>買う<rt>かう</rt></ruby>ニワトリの<span class=\"vw\" data-ja=\"エサ\" data-reading=\"えさ\" data-en=\"feed; food for animals\">エサ</span>が<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "エサが高くなると、鶏肉を作るお金も増えて、値段が上がります。",
+      "ruby": "<span class=\"vw\" data-ja=\"エサ\" data-reading=\"えさ\" data-en=\"feed; food for animals\">エサ</span>が<ruby>高く<rt>たかく</rt></ruby>なると、<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>て、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "牛肉や、外国から運ばれる肉の値段も、高くなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"牛肉\" data-reading=\"ぎゅうにく\" data-en=\"beef\"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span>や、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>運ば<rt>はこば</rt></ruby>れる<ruby>肉<rt>にく</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>も、<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎日の食事を作る家庭にとって、厳しい状況が続いています。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>家庭<rt>かてい</rt></ruby>にとって、<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"strict; harsh; tough\"><ruby>厳しい<rt>きびしい</rt></ruby></span><ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "お店では、少しでも安い肉を選ぶお客さんが増えているそうです。",
+      "ruby": "お<ruby>店<rt>みせ</rt></ruby>では、<ruby>少し<rt>すこし</rt></ruby>でも<ruby>安い<rt>やすい</rt></ruby><ruby>肉<rt>にく</rt></ruby>を<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose; to pick\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>増え<rt>ふえ</rt></ruby>ているそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "鶏肉の値段は、今までと比べてどうなりましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、<ruby>今まで<rt>いままで</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>てどうなりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How does the price of chicken compare to before? It became the highest ever."
+    },
+    {
+      "speaker": "slow",
+      "text": "鶏肉100グラムの平均の値段は、いくらでしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"鶏肉\" data-reading=\"とりにく\" data-en=\"chicken (meat)\"><ruby>鶏肉<rt>とりにく</rt></ruby></span>100グラムの<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、いくらでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the average price of one hundred grams of chicken? One hundred fifty-seven yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段が上がった理由の一つは、何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What is one reason the price went up? The weak yen."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "鶏肉",
+      "reading": "とりにく",
+      "en": "chicken (meat)",
+      "zh": "鸡肉"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "調査",
+      "reading": "ちょうさ",
+      "en": "survey; investigation",
+      "zh": "调查"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "記録",
+      "reading": "きろく",
+      "en": "record; data",
+      "zh": "记录"
+    },
+    {
+      "ja": "円安",
+      "reading": "えんやす",
+      "en": "weak yen",
+      "zh": "日元贬值"
+    },
+    {
+      "ja": "エサ",
+      "reading": "えさ",
+      "en": "feed; food for animals",
+      "zh": "饲料"
+    },
+    {
+      "ja": "牛肉",
+      "reading": "ぎゅうにく",
+      "en": "beef",
+      "zh": "牛肉"
+    },
+    {
+      "ja": "厳しい",
+      "reading": "きびしい",
+      "en": "strict; harsh; tough",
+      "zh": "严峻、严厉"
+    },
+    {
+      "ja": "選ぶ",
+      "reading": "えらぶ",
+      "en": "to choose; to pick",
+      "zh": "选择"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "据……（消息来源）",
+      "formation": "noun (source) + によると",
+      "example": "国の調査によると、平均の値段は157円でした。",
+      "translation": "According to a national survey, the average price was 157 yen.",
+      "note": "〜によると names the source of information. It usually pairs with hearsay at the end, like 〜そうだ. The backbone of every news report: according to X, ....",
+      "noteZh": "「〜によると」标出信息来源，句末常配合传闻的「〜そうだ」。是新闻报道的基本句型：据某某称，……。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ni-yoruto"
+    },
+    {
+      "pattern": "〜と（条件）",
+      "meaning": "whenever/if ~, then (natural result)",
+      "meaningZh": "一……就……（必然结果）",
+      "formation": "verb/adjective plain form + と",
+      "example": "円が安いと、エサが高くなります。",
+      "translation": "When the yen is cheap, feed becomes expensive.",
+      "note": "This と links a condition to a result that naturally follows. 円が安いと…高くなる means a cheap yen always leads to higher costs. Use it for general truths and cause-effect, not one-time requests.",
+      "noteZh": "这个「と」把条件与必然结果相连。「円が安いと…高くなる」＝日元一便宜，（成本）就会上涨。用于普遍规律和因果，不用于一次性的请求。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#to-conditional"
+    },
+    {
+      "pattern": "〜にとって",
+      "meaning": "for ~; from the standpoint of ~",
+      "meaningZh": "对……来说",
+      "formation": "noun + にとって",
+      "example": "毎日の食事を作る家庭にとって、厳しい状況です。",
+      "translation": "For households that cook every day, it's a tough situation.",
+      "note": "〜にとって marks whose viewpoint you're judging from. 家庭にとって厳しい means hard from a family's point of view. Often followed by words like 大切 (important) or 厳しい (tough).",
+      "noteZh": "「〜にとって」标出从谁的角度来看、来评价。「家庭にとって厳しい」＝从家庭的角度看很艰难。后面常接「大切」「厳しい」等评价词。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ni-totte"
+    },
+    {
+      "pattern": "〜そうだ（伝聞）",
+      "meaning": "I hear that ~; it is said that ~",
+      "meaningZh": "听说……、据说……（传闻）",
+      "formation": "plain form + そうだ",
+      "example": "安い肉を選ぶお客さんが増えているそうです。",
+      "translation": "I hear that more customers are choosing cheaper meat.",
+      "note": "This そうだ reports information you heard from somewhere else, unchanged. It attaches to the plain form (増えている → 増えているそうだ). Don't confuse it with looks-like そうだ, which attaches to the stem (増えそう).",
+      "noteZh": "这个「そうだ」表示原样转述从别处听来的信息，接在简体形之后（増えている→増えているそうだ）。不要与表样态的「そうだ」（接词干，増えそう＝看起来要增加）混淆。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#souda-densetsu"
+    }
+  ],
+  "practiceZh": [
+    "鶏肉の値段が、今までで一番高くなりました。\n鸡肉的价格涨到了有史以来最高。\n「今までで一番」＝至今为止最……；「高くなる」＝变贵（形容词＋なる）。",
+    "国の調査によると、鶏肉100グラムの平均の値段は、157円でした。\n据国家调查，鸡肉100克的平均价格为157日元。\n「〜によると」＝据……称；「平均の値段」＝平均价格；「157円」读作「ひゃく ごじゅう なな えん」。",
+    "これは、2015年に記録をとり始めてから、一番高い値段です。\n这是自2015年开始记录以来的最高价。\n「記録をとる」＝做记录；「〜始めてから」＝自从开始……以来；「一番高い」＝最高的。",
+    "値段が上がった理由の一つは、円安です。\n价格上涨的原因之一是日元贬值。\n「理由の一つ」＝原因之一；「円安」＝日元贬值（与「円高」相对）。",
+    "円が安いと、外国から買うニワトリのエサが高くなります。\n日元一便宜，从国外购买的鸡饲料就会变贵。\n「〜と」表示条件必然结果；「外国から買う」修饰「エサ」；「ニワトリ」＝鸡。",
+    "牛肉や、外国から運ばれる肉の値段も、高くなっています。\n牛肉以及从国外运来的肉，价格也在上涨。\n「〜や」列举；「運ばれる」是被动（被运来）；「高くなっています」＝正在变贵（持续）。",
+    "毎日の食事を作る家庭にとって、厳しい状況が続いています。\n对每天做饭的家庭来说，严峻的状况仍在持续。\n「〜にとって」＝对……来说；「厳しい状況」＝严峻的状况；「続いています」＝持续着。",
+    "お店では、少しでも安い肉を選ぶお客さんが増えているそうです。\n据说在店里，挑选稍微便宜一点的肉的顾客在增多。\n「少しでも」＝哪怕一点点；「安い肉を選ぶ」修饰「お客さん」；「〜そうです」＝据说（传闻）。"
+  ]
+}
