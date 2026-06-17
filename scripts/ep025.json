@@ -1,0 +1,454 @@
+{
+  "episode": 25,
+  "title": "群馬・埼玉で震度5弱の地震、津波の心配なし",
+  "date": "2026-06-16",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026061601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June sixteenth. On the evening of the sixteenth, a strong earthquake hit the Kanto region near Tokyo. Two prefectures felt a level five-weak quake, but there was no danger of a tsunami. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "16日の夜、関東地方で大きな地震がありました。",
+      "ruby": "16<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>関東地方<rt>かんとうちほう</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後7時46分ごろ、茨城県の南部を震源とする地震が起きました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>7<ruby>時<rt>じ</rt></ruby>46<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>茨城県<rt>いばらきけん</rt></ruby>の<ruby>南部<rt>なんぶ</rt></ruby>を<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter; focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>とする<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県と埼玉県では、最大で震度5弱を観測しました。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>と<ruby>埼玉県<rt>さいたまけん</rt></ruby>では、<ruby>最大<rt>さいだい</rt></ruby>で<span class=\"vw\" data-ja=\"震度\" data-reading=\"しんど\" data-en=\"seismic intensity (Japan's 0-7 scale)\"><ruby>震度<rt>しんど</rt></ruby></span>5<ruby>弱<rt>じゃく</rt></ruby>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; to measure/observe\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い揺れで、棚から物が落ちた家もありました。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>で、<ruby>棚<rt>たな</rt></ruby>から<ruby>物<rt>もの</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>た<ruby>家<rt>いえ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震の大きさを表すマグニチュードは、5.5でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>マグニチュードは、5.5でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震による津波の心配はありません。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>による<span class=\"vw\" data-ja=\"津波\" data-reading=\"つなみ\" data-en=\"tsunami\"><ruby>津波<rt>つなみ</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、大きなけがや、建物の被害は報告されていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、<ruby>大き<rt>おおき</rt></ruby>なけがや、<ruby>建物<rt>たてもの</rt></ruby>の<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage; harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>報告<rt>ほうこく</rt></ruby>されていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、これから1週間ほど、強い地震に注意するように呼びかけています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、これから1<ruby>週間<rt>しゅうかん</rt></ruby>ほど、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>するように<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "揺れの強かった地域の人は、安全に気をつけてください。",
+      "ruby": "<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>の<ruby>強か<rt>つよか</rt></ruby>った<ruby>地域<rt>ちいき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety; safe\"><ruby>安全<rt>あんぜん</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "16日の夜、関東地方で大きな地震がありました。",
+      "ruby": "16<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>関東地方<rt>かんとうちほう</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the evening of the sixteenth, there was a big earthquake in the Kanto region."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地震",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means earthquake. The first character means earth or ground, the second means to shake — the ground shaking."
+    },
+    {
+      "speaker": "slow",
+      "text": "午後7時46分ごろ、茨城県の南部を震源とする地震が起きました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>7<ruby>時<rt>じ</rt></ruby>46<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>茨城県<rt>いばらきけん</rt></ruby>の<ruby>南部<rt>なんぶ</rt></ruby>を<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter; focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>とする<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At around seven forty-six in the evening, an earthquake occurred with its epicenter in southern Ibaraki Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "震源",
+      "ruby": "<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter; focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the epicenter — the underground point where an earthquake begins. The first character is quake, the second is source."
+    },
+    {
+      "speaker": "slow",
+      "text": "群馬県と埼玉県では、最大で震度5弱を観測しました。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>と<ruby>埼玉県<rt>さいたまけん</rt></ruby>では、<ruby>最大<rt>さいだい</rt></ruby>で<span class=\"vw\" data-ja=\"震度\" data-reading=\"しんど\" data-en=\"seismic intensity (Japan's 0-7 scale)\"><ruby>震度<rt>しんど</rt></ruby></span>5<ruby>弱<rt>じゃく</rt></ruby>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; to measure/observe\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Gunma and Saitama Prefectures, they measured a maximum of level five-weak."
+    },
+    {
+      "speaker": "vocab",
+      "text": "震度",
+      "ruby": "<span class=\"vw\" data-ja=\"震度\" data-reading=\"しんど\" data-en=\"seismic intensity (Japan's 0-7 scale)\"><ruby>震度<rt>しんど</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means seismic intensity — how strongly the ground shakes at a place, on Japan's zero-to-seven scale. Don't confuse it with magnitude, which is the size of the quake itself."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い揺れで、棚から物が落ちた家もありました。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>で、<ruby>棚<rt>たな</rt></ruby>から<ruby>物<rt>もの</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>た<ruby>家<rt>いえ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the strong shaking, in some homes things fell off the shelves."
+    },
+    {
+      "speaker": "vocab",
+      "text": "揺れ",
+      "ruby": "<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shaking or a tremor. It's the noun from the verb to sway, to shake — the motion you actually feel."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地震による津波の心配はありません。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>による<span class=\"vw\" data-ja=\"津波\" data-reading=\"つなみ\" data-en=\"tsunami\"><ruby>津波<rt>つなみ</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>はありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "There is no danger of a tsunami from this earthquake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "津波",
+      "ruby": "<span class=\"vw\" data-ja=\"津波\" data-reading=\"つなみ\" data-en=\"tsunami\"><ruby>津波<rt>つなみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tsunami — a giant sea wave that an undersea quake can cause. It's already an English word, borrowed straight from Japanese."
+    },
+    {
+      "speaker": "slow",
+      "text": "今のところ、大きなけがや、建物の被害は報告されていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、<ruby>大き<rt>おおき</rt></ruby>なけがや、<ruby>建物<rt>たてもの</rt></ruby>の<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage; harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>報告<rt>ほうこく</rt></ruby>されていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, no serious injuries or damage to buildings have been reported."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被害",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage; harm\"><ruby>被害<rt>ひがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means damage or harm — the loss caused by a disaster or accident. You'll hear it constantly in news about storms, floods, and quakes."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、これから1週間ほど、強い地震に注意するように呼びかけています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、これから1<ruby>週間<rt>しゅうかん</rt></ruby>ほど、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>するように<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Meteorological Agency is urging people to watch out for strong earthquakes for about a week."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people, to urge — to publicly ask everyone to do something. It literally combines to call and to hang, like sending a call out to the crowd."
+    },
+    {
+      "speaker": "slow",
+      "text": "揺れの強かった地域の人は、安全に気をつけてください。",
+      "ruby": "<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>の<ruby>強か<rt>つよか</rt></ruby>った<ruby>地域<rt>ちいき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety; safe\"><ruby>安全<rt>あんぜん</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "People in areas with strong shaking, please take care to stay safe."
+    },
+    {
+      "speaker": "vocab",
+      "text": "安全",
+      "ruby": "<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety; safe\"><ruby>安全<rt>あんぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means safety, or safe. The opposite is danger. It works as a noun and as a describing word — a safe place, or simply safety."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "16日の夜、関東地方で大きな地震がありました。",
+      "ruby": "16<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>関東地方<rt>かんとうちほう</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後7時46分ごろ、茨城県の南部を震源とする地震が起きました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>7<ruby>時<rt>じ</rt></ruby>46<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>茨城県<rt>いばらきけん</rt></ruby>の<ruby>南部<rt>なんぶ</rt></ruby>を<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter; focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>とする<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県と埼玉県では、最大で震度5弱を観測しました。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>と<ruby>埼玉県<rt>さいたまけん</rt></ruby>では、<ruby>最大<rt>さいだい</rt></ruby>で<span class=\"vw\" data-ja=\"震度\" data-reading=\"しんど\" data-en=\"seismic intensity (Japan's 0-7 scale)\"><ruby>震度<rt>しんど</rt></ruby></span>5<ruby>弱<rt>じゃく</rt></ruby>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; to measure/observe\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い揺れで、棚から物が落ちた家もありました。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>で、<ruby>棚<rt>たな</rt></ruby>から<ruby>物<rt>もの</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>た<ruby>家<rt>いえ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震の大きさを表すマグニチュードは、5.5でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>マグニチュードは、5.5でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震による津波の心配はありません。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>による<span class=\"vw\" data-ja=\"津波\" data-reading=\"つなみ\" data-en=\"tsunami\"><ruby>津波<rt>つなみ</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、大きなけがや、建物の被害は報告されていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、<ruby>大き<rt>おおき</rt></ruby>なけがや、<ruby>建物<rt>たてもの</rt></ruby>の<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage; harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>報告<rt>ほうこく</rt></ruby>されていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、これから1週間ほど、強い地震に注意するように呼びかけています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、これから1<ruby>週間<rt>しゅうかん</rt></ruby>ほど、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>するように<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "揺れの強かった地域の人は、安全に気をつけてください。",
+      "ruby": "<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>の<ruby>強か<rt>つよか</rt></ruby>った<ruby>地域<rt>ちいき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"安全\" data-reading=\"あんぜん\" data-en=\"safety; safe\"><ruby>安全<rt>あんぜん</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "地震があったのは、何日の夜でしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>があったのは、<ruby>何日<rt>なんにち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the evening of which day was the earthquake? The sixteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "群馬県と埼玉県では、最大でどのくらいの震度を観測しましたか。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>と<ruby>埼玉県<rt>さいたまけん</rt></ruby>では、<ruby>最大<rt>さいだい</rt></ruby>でどのくらいの<span class=\"vw\" data-ja=\"震度\" data-reading=\"しんど\" data-en=\"seismic intensity (Japan's 0-7 scale)\"><ruby>震度<rt>しんど</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; to measure/observe\"><ruby>観測<rt>かんそく</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the maximum seismic intensity measured in Gunma and Saitama? Level five-weak."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地震で、津波の心配はありましたか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"津波\" data-reading=\"つなみ\" data-en=\"tsunami\"><ruby>津波<rt>つなみ</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>はありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Was there any danger of a tsunami from this quake? No, there was none."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "地震",
+      "reading": "じしん",
+      "en": "earthquake",
+      "zh": "地震"
+    },
+    {
+      "ja": "震源",
+      "reading": "しんげん",
+      "en": "epicenter; focus of a quake",
+      "zh": "震源"
+    },
+    {
+      "ja": "震度",
+      "reading": "しんど",
+      "en": "seismic intensity (Japan's 0-7 scale)",
+      "zh": "震度（日本0-7级烈度）"
+    },
+    {
+      "ja": "揺れ",
+      "reading": "ゆれ",
+      "en": "shaking; tremor",
+      "zh": "摇晃、震动"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation; to measure/observe",
+      "zh": "观测、监测"
+    },
+    {
+      "ja": "津波",
+      "reading": "つなみ",
+      "en": "tsunami",
+      "zh": "海啸"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage; harm",
+      "zh": "受害、损失"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁、号召"
+    },
+    {
+      "ja": "安全",
+      "reading": "あんぜん",
+      "en": "safety; safe",
+      "zh": "安全"
+    },
+    {
+      "ja": "気象庁",
+      "reading": "きしょうちょう",
+      "en": "Japan Meteorological Agency",
+      "zh": "气象厅"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜を震源とする",
+      "meaning": "with ~ as the epicenter; centered on ~",
+      "meaningZh": "以……为震源（中心）",
+      "formation": "noun (place) + を震源とする + noun",
+      "example": "茨城県の南部を震源とする地震が起きました。",
+      "translation": "An earthquake occurred with its epicenter in southern Ibaraki.",
+      "note": "〜を…とする means to treat A as B, to set A as B. 〜を震源とする地震 is an earthquake whose epicenter is at that place. The same shape appears as 〜を中心とする (centered on ~).",
+      "noteZh": "「〜を…とする」表示把A当作／设为B。「〜を震源とする地震」＝以某地为震源的地震。同一句型也见于「〜を中心とする」（以……为中心）。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#wo-to-suru"
+    },
+    {
+      "pattern": "〜による",
+      "meaning": "caused by ~; due to ~",
+      "meaningZh": "由……引起的、因……造成的",
+      "formation": "noun + による + noun",
+      "example": "この地震による津波の心配はありません。",
+      "translation": "There is no danger of a tsunami caused by this earthquake.",
+      "note": "〜による marks the cause behind a noun. 地震による被害 is damage caused by an earthquake. When it modifies a verb instead, it becomes 〜によって.",
+      "noteZh": "「〜による」用来标出后面名词的起因。「地震による被害」＝地震造成的损失。若修饰动词则用「〜によって」。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ni-yoru"
+    },
+    {
+      "pattern": "〜ように（呼びかける／言う）",
+      "meaning": "to urge/tell someone to ~",
+      "meaningZh": "呼吁／要求（某人）做……",
+      "formation": "verb dictionary form + ように + 呼びかける／言う／頼む",
+      "example": "注意するように呼びかけています。",
+      "translation": "They are urging people to be careful.",
+      "note": "ように softens a request into an indirect instruction. 注意するように言う is to tell someone to be careful. With a negative verb: 〜ないように (telling someone not to ~).",
+      "noteZh": "「ように」把要求变成委婉的间接指示。「注意するように言う」＝（叮嘱）让人小心。接否定时用「〜ないように」（叮嘱别做……）。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#youni-iu"
+    },
+    {
+      "pattern": "〜ほど",
+      "meaning": "about ~; approximately ~ (amount/extent)",
+      "meaningZh": "大约……、……左右（程度・数量）",
+      "formation": "number/quantity + ほど",
+      "example": "これから1週間ほど、強い地震に注意してください。",
+      "translation": "Please watch out for strong quakes for about a week from now.",
+      "note": "After a quantity, ほど means roughly that much — like くらい. 1週間ほど is about one week. In other patterns ほど also marks degree (the more ~, the more ~), but here it's just an estimate.",
+      "noteZh": "接在数量后，「ほど」表示大约那么多，与「くらい」相近。「1週間ほど」＝大约一周。「ほど」在别的句型中也表程度（越……越……），此处只是估算。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#hodo"
+    }
+  ],
+  "practiceZh": [
+    "16日の夜、関東地方で大きな地震がありました。\n16日晚上，关东地区发生了大地震。\n「関東地方」＝关东地区（东京周边）；「地震がある」＝发生地震。",
+    "午後7時46分ごろ、茨城県の南部を震源とする地震が起きました。\n下午7点46分左右，发生了以茨城县南部为震源的地震。\n「〜ごろ」＝……左右（时间点）；「〜を震源とする」＝以……为震源；「起きる」＝（地震等）发生。",
+    "群馬県と埼玉県では、最大で震度5弱を観測しました。\n群马县和埼玉县观测到最大震度5弱。\n「最大で」＝最大、最高达；「震度5弱」读作「しんど ご じゃく」；「観測する」＝观测、测得。",
+    "強い揺れで、棚から物が落ちた家もありました。\n由于强烈摇晃，有些人家东西从架子上掉了下来。\n「揺れで」的「で」表原因；「棚から物が落ちる」＝东西从架子掉落；「〜家もある」＝也有……的人家。",
+    "この地震による津波の心配はありません。\n这次地震没有引发海啸的担忧。\n「〜による」＝由……引起的；「心配はありません」＝没有担忧、不必担心。",
+    "今のところ、大きなけがや、建物の被害は報告されていません。\n目前尚未收到重大伤亡或建筑受损的报告。\n「今のところ」＝目前为止；「〜や〜」列举；「報告されていません」是被动＋ている的否定（尚未被报告）。",
+    "気象庁は、これから1週間ほど、強い地震に注意するように呼びかけています。\n气象厅呼吁今后一周左右注意强震。\n「1週間ほど」＝大约一周；「〜ように呼びかける」＝呼吁（人们）……；「注意する」＝注意、当心。",
+    "揺れの強かった地域の人は、安全に気をつけてください。\n摇晃强烈地区的居民请注意安全。\n「揺れの強かった」修饰「地域」；「安全に気をつける」＝注意安全；「〜てください」＝请……。"
+  ]
+}
