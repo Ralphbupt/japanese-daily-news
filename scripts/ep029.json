@@ -1,0 +1,454 @@
+{
+  "episode": 29,
+  "title": "中国がタングステンの輸出を制限、日本に影響",
+  "date": "2026-06-20",
+  "source": "NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026062001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twentieth. China is limiting exports of a metal called tungsten, and that's a worry for Japanese makers of phones and chips. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国が、「タングステン」という金属を、外国に売るのを制限すると発表しました。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が、「<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>」という<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を、<ruby>外国<rt>がいこく</rt></ruby>に<ruby>売る<rt>うる</rt></ruby>のを<ruby>制限<rt>せいげん</rt></ruby>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "タングステンは、とてもかたくて、熱につよい金属です。",
+      "ruby": "<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>は、とてもかたくて、<span class=\"vw\" data-ja=\"熱\" data-reading=\"ねつ\" data-en=\"heat; fever\"><ruby>熱<rt>ねつ</rt></ruby></span>につよい<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンや、半導体や、工場の道具を作るときに使います。",
+      "ruby": "スマートフォンや、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>や、<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"道具\" data-reading=\"どうぐ\" data-en=\"tool; instrument\"><ruby>道具<rt>どうぐ</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ときに<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界のタングステンの多くは、中国で作られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>の<ruby>多く<rt>おおく</rt></ruby>は、<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、中国がこの金属を売らないと、ほかの国はとても困ります。",
+      "ruby": "だから、<ruby>中国<rt>ちゅうごく</rt></ruby>がこの<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を<ruby>売ら<rt>うら</rt></ruby>ないと、ほかの<ruby>国<rt>くに</rt></ruby>はとても<ruby>困り<rt>こまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の会社も、タングステンの多くを中国から買っています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>も、<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>の<ruby>多く<rt>おおく</rt></ruby>を<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>買っ<rt>かっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、日本の会社は、ほかの国から買う方法を探しています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>は、ほかの<ruby>国<rt>くに</rt></ruby>から<ruby>買う<rt>かう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じ金属を、何度も使えるようにする研究も進んでいます。",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を、<ruby>何度<rt>なんど</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>るようにする<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research; study\"><ruby>研究<rt>けんきゅう</rt></ruby></span>も<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "大切な金属を安定して手に入れることが、これからの大きな課題です。",
+      "ruby": "<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>して<ruby>手に入れ<rt>てにいれ</rt></ruby>ることが、これからの<ruby>大き<rt>おおき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "中国が、「タングステン」という金属を、外国に売るのを制限すると発表しました。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が、「<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>」という<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を、<ruby>外国<rt>がいこく</rt></ruby>に<ruby>売る<rt>うる</rt></ruby>のを<ruby>制限<rt>せいげん</rt></ruby>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "China announced it will restrict selling a metal called tungsten to other countries."
+    },
+    {
+      "speaker": "vocab",
+      "text": "金属",
+      "ruby": "<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means metal — iron, gold, copper, and so on. Tungsten is one kind of metal."
+    },
+    {
+      "speaker": "slow",
+      "text": "タングステンは、とてもかたくて、熱につよい金属です。",
+      "ruby": "<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>は、とてもかたくて、<span class=\"vw\" data-ja=\"熱\" data-reading=\"ねつ\" data-en=\"heat; fever\"><ruby>熱<rt>ねつ</rt></ruby></span>につよい<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tungsten is a very hard metal that stands up well to heat."
+    },
+    {
+      "speaker": "vocab",
+      "text": "熱",
+      "ruby": "<span class=\"vw\" data-ja=\"熱\" data-reading=\"ねつ\" data-en=\"heat; fever\"><ruby>熱<rt>ねつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means heat. The same word also means a fever when you're sick. Here, resistant to heat."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマートフォンや、半導体や、工場の道具を作るときに使います。",
+      "ruby": "スマートフォンや、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>や、<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"道具\" data-reading=\"どうぐ\" data-en=\"tool; instrument\"><ruby>道具<rt>どうぐ</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ときに<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's used to make things like smartphones, semiconductors, and factory tools."
+    },
+    {
+      "speaker": "vocab",
+      "text": "道具",
+      "ruby": "<span class=\"vw\" data-ja=\"道具\" data-reading=\"どうぐ\" data-en=\"tool; instrument\"><ruby>道具<rt>どうぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tool or instrument. Cooking tools, factory tools — the all-purpose word for tools."
+    },
+    {
+      "speaker": "slow",
+      "text": "世界のタングステンの多くは、中国で作られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>の<ruby>多く<rt>おおく</rt></ruby>は、<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Much of the world's tungsten is made in China."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世界",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the world. A related word means the whole world over, everywhere."
+    },
+    {
+      "speaker": "slow",
+      "text": "だから、中国がこの金属を売らないと、ほかの国はとても困ります。",
+      "ruby": "だから、<ruby>中国<rt>ちゅうごく</rt></ruby>がこの<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を<ruby>売ら<rt>うら</rt></ruby>ないと、ほかの<ruby>国<rt>くに</rt></ruby>はとても<ruby>困り<rt>こまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "So if China doesn't sell this metal, other countries are in real trouble."
+    },
+    {
+      "speaker": "vocab",
+      "text": "困る",
+      "ruby": "<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble; be at a loss\"><ruby>困る<rt>こまる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be in trouble, to be at a loss, or stuck about what to do. A very useful everyday verb."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の会社も、タングステンの多くを中国から買っています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>も、<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>の<ruby>多く<rt>おおく</rt></ruby>を<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>買っ<rt>かっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japanese companies, too, buy much of their tungsten from China."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会社",
+      "ruby": "<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a company or firm — the place people mean when they say they're heading in to work."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、日本の会社は、ほかの国から買う方法を探しています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>は、ほかの<ruby>国<rt>くに</rt></ruby>から<ruby>買う<rt>かう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, Japanese companies are searching for ways to buy from other countries."
+    },
+    {
+      "speaker": "vocab",
+      "text": "探す",
+      "ruby": "<span class=\"vw\" data-ja=\"探す\" data-reading=\"さがす\" data-en=\"to look for; search\"><ruby>探す<rt>さがす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to look for or search for something — look for your keys, look for a job, look for a new supplier."
+    },
+    {
+      "speaker": "slow",
+      "text": "同じ金属を、何度も使えるようにする研究も進んでいます。",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を、<ruby>何度<rt>なんど</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>るようにする<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research; study\"><ruby>研究<rt>けんきゅう</rt></ruby></span>も<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Research on reusing the same metal again and again is also moving forward."
+    },
+    {
+      "speaker": "vocab",
+      "text": "研究",
+      "ruby": "<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research; study\"><ruby>研究<rt>けんきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means research or study — the careful digging into a question that scientists do. The person who does it is a researcher."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国が、「タングステン」という金属を、外国に売るのを制限すると発表しました。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が、「<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>」という<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を、<ruby>外国<rt>がいこく</rt></ruby>に<ruby>売る<rt>うる</rt></ruby>のを<ruby>制限<rt>せいげん</rt></ruby>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "タングステンは、とてもかたくて、熱につよい金属です。",
+      "ruby": "<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>は、とてもかたくて、<span class=\"vw\" data-ja=\"熱\" data-reading=\"ねつ\" data-en=\"heat; fever\"><ruby>熱<rt>ねつ</rt></ruby></span>につよい<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンや、半導体や、工場の道具を作るときに使います。",
+      "ruby": "スマートフォンや、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>や、<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"道具\" data-reading=\"どうぐ\" data-en=\"tool; instrument\"><ruby>道具<rt>どうぐ</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ときに<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界のタングステンの多くは、中国で作られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>の<ruby>多く<rt>おおく</rt></ruby>は、<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、中国がこの金属を売らないと、ほかの国はとても困ります。",
+      "ruby": "だから、<ruby>中国<rt>ちゅうごく</rt></ruby>がこの<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を<ruby>売ら<rt>うら</rt></ruby>ないと、ほかの<ruby>国<rt>くに</rt></ruby>はとても<ruby>困り<rt>こまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の会社も、タングステンの多くを中国から買っています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>も、<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>の<ruby>多く<rt>おおく</rt></ruby>を<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>買っ<rt>かっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、日本の会社は、ほかの国から買う方法を探しています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>は、ほかの<ruby>国<rt>くに</rt></ruby>から<ruby>買う<rt>かう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じ金属を、何度も使えるようにする研究も進んでいます。",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を、<ruby>何度<rt>なんど</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>るようにする<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research; study\"><ruby>研究<rt>けんきゅう</rt></ruby></span>も<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "大切な金属を安定して手に入れることが、これからの大きな課題です。",
+      "ruby": "<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>して<ruby>手に入れ<rt>てにいれ</rt></ruby>ることが、これからの<ruby>大き<rt>おおき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "中国は、何を制限すると発表しましたか。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>制限<rt>せいげん</rt></ruby>すると<ruby>発表<rt>はっぴょう</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What did China announce it would restrict? Selling the metal tungsten to other countries."
+    },
+    {
+      "speaker": "slow",
+      "text": "タングステンは、何を作るときに使いますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"タングステン\" data-reading=\"タングステン\" data-en=\"tungsten\">タングステン</span>は、<ruby>何を<rt>なにを</rt></ruby><ruby>作る<rt>つくる</rt></ruby>ときに<ruby>使い<rt>つかい</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What is tungsten used to make? Things like smartphones, semiconductors, and factory tools."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の会社は、今、何をしていますか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"会社\" data-reading=\"かいしゃ\" data-en=\"company; firm\"><ruby>会社<rt>かいしゃ</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>、<ruby>何を<rt>なにを</rt></ruby>していますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What are Japanese companies doing now? Looking for other countries to buy from, and researching how to reuse the metal."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "タングステン",
+      "reading": "タングステン",
+      "en": "tungsten",
+      "zh": "钨"
+    },
+    {
+      "ja": "金属",
+      "reading": "きんぞく",
+      "en": "metal",
+      "zh": "金属"
+    },
+    {
+      "ja": "半導体",
+      "reading": "はんどうたい",
+      "en": "semiconductor",
+      "zh": "半导体"
+    },
+    {
+      "ja": "熱",
+      "reading": "ねつ",
+      "en": "heat; fever",
+      "zh": "热、发烧"
+    },
+    {
+      "ja": "道具",
+      "reading": "どうぐ",
+      "en": "tool; instrument",
+      "zh": "工具"
+    },
+    {
+      "ja": "世界",
+      "reading": "せかい",
+      "en": "world",
+      "zh": "世界"
+    },
+    {
+      "ja": "困る",
+      "reading": "こまる",
+      "en": "to be in trouble; be at a loss",
+      "zh": "为难、困扰"
+    },
+    {
+      "ja": "会社",
+      "reading": "かいしゃ",
+      "en": "company; firm",
+      "zh": "公司"
+    },
+    {
+      "ja": "探す",
+      "reading": "さがす",
+      "en": "to look for; search",
+      "zh": "寻找"
+    },
+    {
+      "ja": "研究",
+      "reading": "けんきゅう",
+      "en": "research; study",
+      "zh": "研究"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という",
+      "meaning": "called ~; named ~",
+      "meaningZh": "叫做……、名为……",
+      "formation": "name + という + noun",
+      "example": "「タングステン」という金属。",
+      "translation": "A metal called tungsten.",
+      "note": "〜という introduces the name of something the listener may not know. タングステンという金属 = a metal called tungsten. Use it the first time you mention an unfamiliar name.",
+      "noteZh": "「〜という」用来引出对方可能不熟悉的名称。「タングステンという金属」＝叫做钨的金属。第一次提到陌生名称时用它。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#toiu"
+    },
+    {
+      "pattern": "〜ないと",
+      "meaning": "if (one) doesn't ~, then ...",
+      "meaningZh": "如果不……（就）……",
+      "formation": "verb plain negative ない + と",
+      "example": "中国が売らないと、ほかの国は困ります。",
+      "translation": "If China doesn't sell, other countries are in trouble.",
+      "note": "This と links a condition to a result that naturally follows. With a negative verb, 売らないと means 'if (they) don't sell, then ....' In speech it also becomes a way to say 'I have to' — 行かないと.",
+      "noteZh": "这个「と」把条件与必然结果相连。接否定时「売らないと」＝如果不卖，就……。口语里「行かないと」还可表示「不去不行＝得去」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#to-conditional"
+    },
+    {
+      "pattern": "〜ようにする",
+      "meaning": "to make it so that ~; arrange so that ~",
+      "meaningZh": "（设法）使……、做到……",
+      "formation": "verb dictionary / potential form + ようにする",
+      "example": "金属を何度も使えるようにします。",
+      "translation": "They make it so the metal can be used many times.",
+      "note": "〜ようにする means working toward a state. With a potential verb, 使えるようにする = make it so it can be used. Keep it apart from 〜ようになる, which is 'come to be able to' on its own.",
+      "noteZh": "「〜ようにする」表示朝某个状态去努力。接可能形时「使えるようにする」＝使其变得能够使用。注意与「〜ようになる」（自然变得会……）区分。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#youni-suru"
+    },
+    {
+      "pattern": "〜ています",
+      "meaning": "is ~ing; (state) continues",
+      "meaningZh": "正在……、（持续的状态）",
+      "formation": "verb て-form + います",
+      "example": "日本の会社は方法を探しています。",
+      "translation": "Japanese companies are looking for a way.",
+      "note": "〜ています shows an action in progress (探しています = is searching) or an ongoing state (作られています = is made). Very common in news to describe what is happening now.",
+      "noteZh": "「〜ています」表示动作正在进行（探しています＝正在找），或持续的状态（作られています＝（一直）被生产）。新闻里常用来描述当下的情况。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#teimasu"
+    }
+  ],
+  "practiceZh": [
+    "中国が、「タングステン」という金属を、外国に売るのを制限すると発表しました。\n中国宣布将限制向外国出售一种叫「钨」的金属。\n「〜という」＝叫做……；「売るのを制限する」＝限制出售；「発表する」＝宣布、发布。",
+    "タングステンは、とてもかたくて、熱につよい金属です。\n钨是一种非常坚硬、耐热的金属。\n「かたい」＝硬的；「熱につよい」＝耐热；「〜くて」连接形容词。",
+    "スマートフォンや、半導体や、工場の道具を作るときに使います。\n它用于制造智能手机、半导体、工厂工具等。\n「〜や〜や」＝……啊……啊（举例）；「半導体」＝半导体；「作るときに」＝制造的时候。",
+    "世界のタングステンの多くは、中国で作られています。\n全世界的钨大多在中国生产。\n「世界の」＝世界的；「多く」＝大部分；「作られています」是被动（被生产）。",
+    "だから、中国がこの金属を売らないと、ほかの国はとても困ります。\n所以，中国如果不卖这种金属，其他国家就会很为难。\n「だから」＝所以；「〜ないと」＝如果不……就……；「困る」＝为难、困扰。",
+    "日本の会社も、タングステンの多くを中国から買っています。\n日本的公司也大多从中国购买钨。\n「〜も」＝也；「中国から買う」＝从中国购买；「会社」＝公司。",
+    "今、日本の会社は、ほかの国から買う方法を探しています。\n现在，日本企业正在寻找从其他国家购买的办法。\n「方法」＝方法；「探す」＝寻找；「〜ています」表示正在进行。",
+    "同じ金属を、何度も使えるようにする研究も進んでいます。\n让同一种金属能反复使用的研究也在推进。\n「何度も」＝多次、反复；「使えるようにする」＝使……能够使用；「進む」＝推进、进展。"
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "episode": 27,
+  "title": "日本銀行が金利を1%に上げました",
+  "date": "2026-06-18",
+  "source": "NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026061801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June eighteenth. The Bank of Japan has raised its interest rate to one percent — something we haven't seen in a very long time. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行が、金利を1%に上げました。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>が、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を1%に<ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利は、お金を借りるときにはらう、お金の値段のことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow\"><ruby>借り<rt>かり</rt></ruby>るときにはらう</span>、お<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利が1%になるのは、とても久しぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が1%になるのは、とても<span class=\"vw\" data-ja=\"久しぶり\" data-reading=\"ひさしぶり\" data-en=\"after a long time\"><ruby>久し<rt>ひさし</rt></ruby>ぶりです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近、いろいろな物の値段が高くなっています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、いろいろな<ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで、日本銀行は金利を上げることにしました。",
+      "ruby": "それで、<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>は<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<span class=\"vw\" data-ja=\"上げる\" data-reading=\"あげる\" data-en=\"to raise; lift up\"><ruby>上げ<rt>あげ</rt></ruby>ることにしました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利が上がると、銀行に貯金している人は、もらえるお金が少し増えます。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ると、<ruby>銀行<rt>ぎんこう</rt></ruby>に<span class=\"vw\" data-ja=\"貯金\" data-reading=\"ちょきん\" data-en=\"savings; saving money\"><ruby>貯金<rt>ちょきん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は、もらえるお<ruby>金<rt>かね</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、お金を借りている人は、返すお金が増えます。",
+      "ruby": "でも、お<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"返す\" data-reading=\"かえす\" data-en=\"to return; pay back\"><ruby>返す<rt>かえす</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "家を買うためにお金を借りた家庭は、毎月のお金が増えるかもしれません。",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ためにお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>た<ruby>家庭<rt>かてい</rt></ruby>は、<ruby>毎月<rt>まいつき</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>が<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>るかもしれません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "これから、私たちの生活がどうなるか、みんなが見ています。",
+      "ruby": "これから、<ruby>私たち<rt>わたしたち</rt></ruby>の<span class=\"vw\" data-ja=\"生活\" data-reading=\"せいかつ\" data-en=\"daily life\"><ruby>生活<rt>せいかつ</rt></ruby></span>がどうなるか、みんなが<ruby>見て<rt>みて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行が、金利を1%に上げました。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>が、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を1%に<ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Bank of Japan raised its interest rate to one percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "金利",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the interest rate — the cost of borrowing money, given as a percentage. A higher rate means costlier loans."
+    },
+    {
+      "speaker": "slow",
+      "text": "金利は、お金を借りるときにはらう、お金の値段のことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow\"><ruby>借り<rt>かり</rt></ruby>るときにはらう</span>、お<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The interest rate is the price of money — what you pay when you borrow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "借りる",
+      "ruby": "<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow\"><ruby>借り<rt>かり</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to borrow. Its partner word is to lend: you borrow from the bank, and the bank lends to you."
+    },
+    {
+      "speaker": "slow",
+      "text": "金利が1%になるのは、とても久しぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が1%になるのは、とても<span class=\"vw\" data-ja=\"久しぶり\" data-reading=\"ひさしぶり\" data-en=\"after a long time\"><ruby>久し<rt>ひさし</rt></ruby>ぶりです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "It has been a very long time since the rate was at one percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "久しぶり",
+      "ruby": "<span class=\"vw\" data-ja=\"久しぶり\" data-reading=\"ひさしぶり\" data-en=\"after a long time\"><ruby>久し<rt>ひさし</rt></ruby>ぶり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means after a long time. You'll also hear it as a greeting — the equivalent of 'long time no see.'"
+    },
+    {
+      "speaker": "slow",
+      "text": "最近、いろいろな物の値段が高くなっています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、いろいろな<ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Lately, the prices of all kinds of things have been going up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price — how much something costs. You'll see this word on every shelf and menu."
+    },
+    {
+      "speaker": "slow",
+      "text": "それで、日本銀行は金利を上げることにしました。",
+      "ruby": "それで、<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>は<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<span class=\"vw\" data-ja=\"上げる\" data-reading=\"あげる\" data-en=\"to raise; lift up\"><ruby>上げ<rt>あげ</rt></ruby>ることにしました</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "So the Bank of Japan decided to raise the rate."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上げる",
+      "ruby": "<span class=\"vw\" data-ja=\"上げる\" data-reading=\"あげる\" data-en=\"to raise; lift up\"><ruby>上げ<rt>あげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to raise or lift something up. Here the bank raises the rate. The partner verb, to go up on its own, is a different word."
+    },
+    {
+      "speaker": "slow",
+      "text": "金利が上がると、銀行に貯金している人は、もらえるお金が少し増えます。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ると、<ruby>銀行<rt>ぎんこう</rt></ruby>に<span class=\"vw\" data-ja=\"貯金\" data-reading=\"ちょきん\" data-en=\"savings; saving money\"><ruby>貯金<rt>ちょきん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は、もらえるお<ruby>金<rt>かね</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the rate goes up, people who keep savings at the bank earn a little more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "貯金",
+      "ruby": "<span class=\"vw\" data-ja=\"貯金\" data-reading=\"ちょきん\" data-en=\"savings; saving money\"><ruby>貯金<rt>ちょきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means savings — money you keep in the bank. The two characters together mean 'store up money.'"
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、お金を借りている人は、返すお金が増えます。",
+      "ruby": "でも、お<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"返す\" data-reading=\"かえす\" data-en=\"to return; pay back\"><ruby>返す<rt>かえす</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "But people who have borrowed money now have more to pay back."
+    },
+    {
+      "speaker": "vocab",
+      "text": "返す",
+      "ruby": "<span class=\"vw\" data-ja=\"返す\" data-reading=\"かえす\" data-en=\"to return; pay back\"><ruby>返す<rt>かえす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to return something or pay it back — return a borrowed book, or pay back borrowed money."
+    },
+    {
+      "speaker": "slow",
+      "text": "家を買うためにお金を借りた家庭は、毎月のお金が増えるかもしれません。",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ためにお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>た<ruby>家庭<rt>かてい</rt></ruby>は、<ruby>毎月<rt>まいつき</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>が<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>るかもしれません</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Households that borrowed money to buy a home might pay more each month."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase — to grow in number or amount. The opposite is to decrease."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行が、金利を1%に上げました。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>が、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を1%に<ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利は、お金を借りるときにはらう、お金の値段のことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow\"><ruby>借り<rt>かり</rt></ruby>るときにはらう</span>、お<ruby>金<rt>かね</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利が1%になるのは、とても久しぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が1%になるのは、とても<span class=\"vw\" data-ja=\"久しぶり\" data-reading=\"ひさしぶり\" data-en=\"after a long time\"><ruby>久し<rt>ひさし</rt></ruby>ぶりです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近、いろいろな物の値段が高くなっています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、いろいろな<ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで、日本銀行は金利を上げることにしました。",
+      "ruby": "それで、<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>は<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<span class=\"vw\" data-ja=\"上げる\" data-reading=\"あげる\" data-en=\"to raise; lift up\"><ruby>上げ<rt>あげ</rt></ruby>ることにしました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利が上がると、銀行に貯金している人は、もらえるお金が少し増えます。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ると、<ruby>銀行<rt>ぎんこう</rt></ruby>に<span class=\"vw\" data-ja=\"貯金\" data-reading=\"ちょきん\" data-en=\"savings; saving money\"><ruby>貯金<rt>ちょきん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は、もらえるお<ruby>金<rt>かね</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、お金を借りている人は、返すお金が増えます。",
+      "ruby": "でも、お<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"返す\" data-reading=\"かえす\" data-en=\"to return; pay back\"><ruby>返す<rt>かえす</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "家を買うためにお金を借りた家庭は、毎月のお金が増えるかもしれません。",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ためにお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>た<ruby>家庭<rt>かてい</rt></ruby>は、<ruby>毎月<rt>まいつき</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>が<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>るかもしれません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "これから、私たちの生活がどうなるか、みんなが見ています。",
+      "ruby": "これから、<ruby>私たち<rt>わたしたち</rt></ruby>の<span class=\"vw\" data-ja=\"生活\" data-reading=\"せいかつ\" data-en=\"daily life\"><ruby>生活<rt>せいかつ</rt></ruby></span>がどうなるか、みんなが<ruby>見て<rt>みて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行は、金利を何%に上げましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<ruby>何<rt>なに</rt></ruby>%に<ruby>上げ<rt>あげ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What percent did the Bank of Japan raise its rate to? One percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "なぜ日本銀行は金利を上げましたか。",
+      "ruby": "なぜ<span class=\"vw\" data-ja=\"日本銀行\" data-reading=\"にほんぎんこう\" data-en=\"Bank of Japan\"><ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby></span>は<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Why did the Bank of Japan raise the rate? Because prices have been going up."
+    },
+    {
+      "speaker": "slow",
+      "text": "お金を借りている人は、これからどうなりますか。",
+      "ruby": "お<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、これからどうなりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What happens for people who have borrowed money? They have more to pay back."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "日本銀行",
+      "reading": "にほんぎんこう",
+      "en": "Bank of Japan",
+      "zh": "日本银行"
+    },
+    {
+      "ja": "金利",
+      "reading": "きんり",
+      "en": "interest rate",
+      "zh": "利率"
+    },
+    {
+      "ja": "借りる",
+      "reading": "かりる",
+      "en": "to borrow",
+      "zh": "借（入）"
+    },
+    {
+      "ja": "久しぶり",
+      "reading": "ひさしぶり",
+      "en": "after a long time",
+      "zh": "时隔很久、好久"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "上げる",
+      "reading": "あげる",
+      "en": "to raise; lift up",
+      "zh": "提高、上调"
+    },
+    {
+      "ja": "貯金",
+      "reading": "ちょきん",
+      "en": "savings; saving money",
+      "zh": "存款、储蓄"
+    },
+    {
+      "ja": "返す",
+      "reading": "かえす",
+      "en": "to return; pay back",
+      "zh": "归还、偿还"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "生活",
+      "reading": "せいかつ",
+      "en": "daily life",
+      "zh": "生活"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜とき",
+      "meaning": "when ~; at the time of ~",
+      "meaningZh": "……的时候",
+      "formation": "verb / adjective plain form + とき",
+      "example": "お金を借りるとき、金利をはらいます。",
+      "translation": "When you borrow money, you pay interest.",
+      "note": "〜とき marks the moment an action happens. The verb before it stays in plain form: 借りるとき (when borrowing). Use the dictionary form for 'when about to / while,' and the past form (〜たとき) for 'after.'",
+      "noteZh": "「〜とき」表示某动作发生的时间点，前面动词用简体：「借りるとき」＝借的时候。动词原形表示「正要/正在」，过去形（〜たとき）表示「……之后」。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#toki"
+    },
+    {
+      "pattern": "〜ことにする",
+      "meaning": "to decide to ~",
+      "meaningZh": "（自己）决定（做）……",
+      "formation": "verb dictionary form + ことにする",
+      "example": "日本銀行は金利を上げることにしました。",
+      "translation": "The Bank of Japan decided to raise the rate.",
+      "note": "〜ことにする expresses a decision someone makes of their own will. Compare 〜ことになる, where the decision is made for you, by circumstances or by others.",
+      "noteZh": "「〜ことにする」表示自己主动做出的决定。对比「〜ことになる」（由情况或他人决定，「（被）定为……」）。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#koto-ni-suru"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~; for the purpose of ~",
+      "meaningZh": "为了……",
+      "formation": "verb dictionary form / noun + の + ために",
+      "example": "家を買うために、お金を借りました。",
+      "translation": "They borrowed money in order to buy a house.",
+      "note": "〜ために gives the purpose of an action you take on purpose, and the subject stays the same before and after. To say 'so that something (you don't control) won't happen,' use 〜ないように instead.",
+      "noteZh": "「〜ために」表示有意去做某事的目的，前后主语一致。若是「为了不发生（不可控的事）」则用「〜ないように」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#tameni"
+    },
+    {
+      "pattern": "〜かもしれません",
+      "meaning": "might ~; perhaps ~",
+      "meaningZh": "可能……、也许……",
+      "formation": "plain form + かもしれません",
+      "example": "毎月のお金が増えるかもしれません。",
+      "translation": "The monthly cost might increase.",
+      "note": "〜かもしれません shows the speaker thinks something is possible but isn't sure — less certain than 〜でしょう. Attach it to the plain form: 増える → 増えるかもしれません.",
+      "noteZh": "「〜かもしれません」表示说话人觉得「有可能」，但不确定，比「〜でしょう」更没把握。接简体：増える→増えるかもしれません。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#kamoshirenai"
+    }
+  ],
+  "practiceZh": [
+    "日本銀行が、金利を1%に上げました。\n日本银行把利率上调到了1%。\n「金利」＝利率；「〜を上げる」＝上调、提高；「1%」读作「いちパーセント」。",
+    "金利は、お金を借りるときにはらう、お金の値段のことです。\n利率，就是借钱时要付的「钱的价格」。\n「〜とき」＝……的时候；「借りる」＝借入；「はらう」＝支付。",
+    "金利が1%になるのは、とても久しぶりです。\n利率达到1%，已经很久没有过了。\n「〜になる」＝变成……；「久しぶり」＝时隔很久、好久。",
+    "最近、いろいろな物の値段が高くなっています。\n最近，各种东西的价格都在上涨。\n「最近」＝最近；「いろいろな」＝各种各样的；「高くなる」＝变贵（形容词＋なる）。",
+    "それで、日本銀行は金利を上げることにしました。\n于是，日本银行决定上调利率。\n「それで」＝因此、于是；「〜ことにする」＝（自己）决定做……。",
+    "金利が上がると、銀行に貯金している人は、もらえるお金が少し増えます。\n利率一涨，在银行存钱的人能拿到的钱就会稍微增加。\n「〜と」表条件必然；「貯金」＝存款；「増える」＝增加。",
+    "でも、お金を借りている人は、返すお金が増えます。\n但是，借了钱的人，要还的钱会变多。\n「でも」＝但是；「借りている」＝借着（状态）；「返す」＝归还。",
+    "家を買うためにお金を借りた家庭は、毎月のお金が増えるかもしれません。\n为买房而借钱的家庭，每月要付的钱可能会增加。\n「〜ために」＝为了……；「〜かもしれない」＝可能、也许；「毎月」＝每月。"
+  ]
+}
