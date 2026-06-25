@@ -1,0 +1,447 @@
+{
+  "episode": 33,
+  "title": "青森県でM6地震、新幹線が中断、日経平均が反発、モロッコがワールドカップで勝利",
+  "date": "2026-06-25",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026062501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twenty-fifth. An earthquake hits Aomori Prefecture, bullet trains are stopped, the stock market bounces back, and Morocco wins a World Cup game. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森県で強い地震が起きました。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>で<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後3時ごろ、青森県の南部で強い地震が起こりました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>南部<rt>なんぶ</rt></ruby>で<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起こ<rt>おこ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震の大きさはマグニチュード6.2で、揺れの強さは6強でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>は<span class=\"vw\" data-ja=\"マグニチュード\" data-reading=\"まぐにちゅーど\" data-en=\"magnitude (of an earthquake)\">マグニチュード</span>6.2で、<ruby>揺れ<rt>ゆれ</rt></ruby>の<ruby>強さ<rt>つよさ</rt></ruby>は6<ruby>強<rt>きょう</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震の影響で、東北新幹線と秋田新幹線が一時運休しました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>東北新幹線<rt>とうほくしんかんせん</rt></ruby>と<ruby>秋田<rt>あきた</rt></ruby><span class=\"vw\" data-ja=\"新幹線\" data-reading=\"しんかんせん\" data-en=\"bullet train; shinkansen\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>が<ruby>一時<rt>いちじ</rt></ruby><ruby>運休<rt>うんきゅう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、高速道路も交通が止まりました。",
+      "ruby": "また、<ruby>高速道路<rt>こうそくどうろ</rt></ruby>も<ruby>交通<rt>こうつう</rt></ruby>が<ruby>止まり<rt>とまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "八戸市と上北郡では、すべての小学校と中学校が休校になりました。",
+      "ruby": "<ruby>八戸<rt>はちのへ</rt></ruby><ruby>市<rt>し</rt></ruby>と<ruby>上北<rt>かみきた</rt></ruby><ruby>郡<rt>ぐん</rt></ruby>では、すべての<ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>が<ruby>休校<rt>きゅうこう</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。日経平均株価が反発しました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>が<ruby>反発<rt>はんぱつ</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "25日の東京株式市場で、日経平均株価は2000円以上上がりました。",
+      "ruby": "25<ruby>日<rt>にち</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><ruby>株式市場<rt>かぶしきしじょう</rt></ruby>で、<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は2000<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "株価は71000円の付近まで回復しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は71000<ruby>円<rt>えん</rt></ruby>の<ruby>付近<rt>ふきん</rt></ruby>まで<ruby>回復<rt>かいふく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。ワールドカップでモロッコが勝ちました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。ワールドカップでモロッコが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "モロッコがハイチに勝って、決勝トーナメントに進みました。",
+      "ruby": "モロッコがハイチに<ruby>勝っ<rt>かっ</rt></ruby>て、<span class=\"vw\" data-ja=\"決勝トーナメント\" data-reading=\"けっしょうとーなめんと\" data-en=\"knockout stage; final tournament\"><ruby>決勝<rt>けっしょう</rt></ruby>トーナメント</span>に<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合は2対2で同点になっていました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>は2<ruby>対<rt>つい</rt></ruby>2で<ruby>同点<rt>どうてん</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、モロッコが後半で3点を入れて、最終的に5対2で勝ちました。",
+      "ruby": "しかし、モロッコが<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>で3<ruby>点<rt>てん</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>て、<ruby>最終的<rt>さいしゅうてき</rt></ruby>に5<ruby>対<rt>つい</rt></ruby>2で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森県で強い地震が起きました。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>で<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A strong earthquake occurred in Aomori Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地震",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Earthquake. This is one of the most important words in Japan, a country where earthquakes happen frequently."
+    },
+    {
+      "speaker": "slow",
+      "text": "地震の大きさはマグニチュード6.2で、揺れの強さは6強でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>は<span class=\"vw\" data-ja=\"マグニチュード\" data-reading=\"まぐにちゅーど\" data-en=\"magnitude (of an earthquake)\">マグニチュード</span>6.2で、<ruby>揺れ<rt>ゆれ</rt></ruby>の<ruby>強さ<rt>つよさ</rt></ruby>は6<ruby>強<rt>きょう</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The earthquake measured magnitude 6.2, with a shaking intensity of strong 6 on the Japanese scale."
+    },
+    {
+      "speaker": "vocab",
+      "text": "マグニチュード",
+      "ruby": "<span class=\"vw\" data-ja=\"マグニチュード\" data-reading=\"まぐにちゅーど\" data-en=\"magnitude (of an earthquake)\">マグニチュード</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Magnitude. This describes the size of an earthquake. A magnitude 6.2 is quite strong."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地震の影響で、東北新幹線と秋田新幹線が一時運休しました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>東北新幹線<rt>とうほくしんかんせん</rt></ruby>と<ruby>秋田<rt>あきた</rt></ruby><span class=\"vw\" data-ja=\"新幹線\" data-reading=\"しんかんせん\" data-en=\"bullet train; shinkansen\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>が<ruby>一時<rt>いちじ</rt></ruby><ruby>運休<rt>うんきゅう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Due to the earthquake, the Tohoku Shinkansen and Akita Shinkansen temporarily stopped service."
+    },
+    {
+      "speaker": "vocab",
+      "text": "新幹線",
+      "ruby": "<span class=\"vw\" data-ja=\"新幹線\" data-reading=\"しんかんせん\" data-en=\"bullet train; shinkansen\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Bullet train. Shinkansen is the name of Japan's high-speed rail system."
+    },
+    {
+      "speaker": "slow",
+      "text": "日経平均株価は2000円以上上がりました。",
+      "ruby": "<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は2000<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Nikkei average stock price rose more than 2,000 yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "株価",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Stock price. The word means the price at which stocks are trading."
+    },
+    {
+      "speaker": "slow",
+      "text": "モロッコがハイチに勝って、決勝トーナメントに進みました。",
+      "ruby": "モロッコがハイチに<ruby>勝っ<rt>かっ</rt></ruby>て、<span class=\"vw\" data-ja=\"決勝トーナメント\" data-reading=\"けっしょうとーなめんと\" data-en=\"knockout stage; final tournament\"><ruby>決勝<rt>けっしょう</rt></ruby>トーナメント</span>に<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Morocco defeated Haiti and advanced to the knockout stage."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決勝トーナメント",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝トーナメント\" data-reading=\"けっしょうとーなめんと\" data-en=\"knockout stage; final tournament\"><ruby>決勝<rt>けっしょう</rt></ruby>トーナメント</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Knockout stage or finals tournament. In sports, this refers to the advanced stages where teams must win to continue."
+    },
+    {
+      "speaker": "slow",
+      "text": "モロッコが後半で3点を入れて、最終的に5対2で勝ちました。",
+      "ruby": "モロッコが<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>で3<ruby>点<rt>てん</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>て、<ruby>最終的<rt>さいしゅうてき</rt></ruby>に5<ruby>対<rt>つい</rt></ruby>2で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Morocco scored three points in the second half and ultimately won five to two."
+    },
+    {
+      "speaker": "vocab",
+      "text": "後半",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Second half. This describes the second part of a game or match."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森県で強い地震が起きました。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>で<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後3時ごろ、青森県の南部で強い地震が起こりました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>南部<rt>なんぶ</rt></ruby>で<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>が<ruby>起こ<rt>おこ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震の大きさはマグニチュード6.2で、揺れの強さは6強でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>は<span class=\"vw\" data-ja=\"マグニチュード\" data-reading=\"まぐにちゅーど\" data-en=\"magnitude (of an earthquake)\">マグニチュード</span>6.2で、<ruby>揺れ<rt>ゆれ</rt></ruby>の<ruby>強さ<rt>つよさ</rt></ruby>は6<ruby>強<rt>きょう</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震の影響で、東北新幹線と秋田新幹線が一時運休しました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>東北新幹線<rt>とうほくしんかんせん</rt></ruby>と<ruby>秋田<rt>あきた</rt></ruby><span class=\"vw\" data-ja=\"新幹線\" data-reading=\"しんかんせん\" data-en=\"bullet train; shinkansen\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>が<ruby>一時<rt>いちじ</rt></ruby><ruby>運休<rt>うんきゅう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、高速道路も交通が止まりました。",
+      "ruby": "また、<ruby>高速道路<rt>こうそくどうろ</rt></ruby>も<ruby>交通<rt>こうつう</rt></ruby>が<ruby>止まり<rt>とまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "八戸市と上北郡では、すべての小学校と中学校が休校になりました。",
+      "ruby": "<ruby>八戸<rt>はちのへ</rt></ruby><ruby>市<rt>し</rt></ruby>と<ruby>上北<rt>かみきた</rt></ruby><ruby>郡<rt>ぐん</rt></ruby>では、すべての<ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>が<ruby>休校<rt>きゅうこう</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。日経平均株価が反発しました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>が<ruby>反発<rt>はんぱつ</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "25日の東京株式市場で、日経平均株価は2000円以上上がりました。",
+      "ruby": "25<ruby>日<rt>にち</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><ruby>株式市場<rt>かぶしきしじょう</rt></ruby>で、<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は2000<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "株価は71000円の付近まで回復しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>は71000<ruby>円<rt>えん</rt></ruby>の<ruby>付近<rt>ふきん</rt></ruby>まで<ruby>回復<rt>かいふく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。ワールドカップでモロッコが勝ちました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。ワールドカップでモロッコが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "モロッコがハイチに勝って、決勝トーナメントに進みました。",
+      "ruby": "モロッコがハイチに<ruby>勝っ<rt>かっ</rt></ruby>て、<span class=\"vw\" data-ja=\"決勝トーナメント\" data-reading=\"けっしょうとーなめんと\" data-en=\"knockout stage; final tournament\"><ruby>決勝<rt>けっしょう</rt></ruby>トーナメント</span>に<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合は2対2で同点になっていました。",
+      "ruby": "<ruby>試合<rt>しあい</rt></ruby>は2<ruby>対<rt>つい</rt></ruby>2で<ruby>同点<rt>どうてん</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、モロッコが後半で3点を入れて、最終的に5対2で勝ちました。",
+      "ruby": "しかし、モロッコが<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half; latter half\"><ruby>後半<rt>こうはん</rt></ruby></span>で3<ruby>点<rt>てん</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>て、<ruby>最終的<rt>さいしゅうてき</rt></ruby>に5<ruby>対<rt>つい</rt></ruby>2で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森県の地震の大きさはどのくらいですか。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>の<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>はどのくらいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the size of the earthquake in Aomori? Answer: Magnitude 6.2."
+    },
+    {
+      "speaker": "slow",
+      "text": "日経平均株価はいくら上がりましたか。",
+      "ruby": "<ruby>日経平均<rt>にっけいへいきん</rt></ruby><span class=\"vw\" data-ja=\"株価\" data-reading=\"かぶか\" data-en=\"stock price\"><ruby>株価<rt>かぶか</rt></ruby></span>はいくら<ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How much did the Nikkei average stock price rise? Answer: More than 2,000 yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "ワールドカップでモロッコはハイチとの試合でいくつの点を入れましたか。",
+      "ruby": "ワールドカップでモロッコはハイチとの<ruby>試合<rt>しあい</rt></ruby>でいくつの<ruby>点<rt>てん</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many points did Morocco score against Haiti in the World Cup game? Answer: Five points in total."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "地震",
+      "reading": "じしん",
+      "en": "earthquake",
+      "zh": "地震"
+    },
+    {
+      "ja": "マグニチュード",
+      "reading": "まぐにちゅーど",
+      "en": "magnitude (of an earthquake)",
+      "zh": "震级；里氏震级"
+    },
+    {
+      "ja": "新幹線",
+      "reading": "しんかんせん",
+      "en": "bullet train; shinkansen",
+      "zh": "新干线（日本的高铁）"
+    },
+    {
+      "ja": "株価",
+      "reading": "かぶか",
+      "en": "stock price",
+      "zh": "股价"
+    },
+    {
+      "ja": "反発する",
+      "reading": "はんぱつする",
+      "en": "to bounce back; to rebound",
+      "zh": "反弹；反发"
+    },
+    {
+      "ja": "決勝トーナメント",
+      "reading": "けっしょうとーなめんと",
+      "en": "knockout stage; final tournament",
+      "zh": "决赛阶段；淘汰赛"
+    },
+    {
+      "ja": "後半",
+      "reading": "こうはん",
+      "en": "second half; latter half",
+      "zh": "下半场；后半部分"
+    },
+    {
+      "ja": "運休する",
+      "reading": "うんきゅうする",
+      "en": "to suspend service",
+      "zh": "停运；暂停运行"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜の影響で",
+      "meaning": "due to the influence of; as a result of",
+      "meaningZh": "由于...的影响；因为...",
+      "formation": "noun + の + 影響で",
+      "example": "この地震の影響で、新幹線が一時運休しました。",
+      "translation": "Due to the influence of this earthquake, the shinkansen suspended service temporarily.",
+      "note": "Used to show cause and effect in formal contexts",
+      "noteZh": "在正式语境中用于表示因果关系",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#の影響で"
+    },
+    {
+      "pattern": "〜一時的に / 一時",
+      "meaning": "temporarily; for a moment",
+      "meaningZh": "暂时地；临时性地",
+      "formation": "adj + 一時的に / verb + 一時 + noun",
+      "example": "東北新幹線が一時運休しました。",
+      "translation": "The Tohoku Shinkansen temporarily suspended service.",
+      "note": "一時 means temporary or momentary; often used with verbs",
+      "noteZh": "一時表示临时或瞬间；常与动词搭配",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#一時"
+    },
+    {
+      "pattern": "〜付近",
+      "meaning": "vicinity; around; close to",
+      "meaningZh": "附近；在...左右",
+      "formation": "number/noun + 付近",
+      "example": "株価は71000円の付近まで回復しました。",
+      "translation": "The stock price recovered to around 71,000 yen.",
+      "note": "Used with numbers and locations to indicate approximate position",
+      "noteZh": "用于数字和位置，表示大约的位置或范围",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#付近"
+    },
+    {
+      "pattern": "〜最終的に",
+      "meaning": "ultimately; in the end",
+      "meaningZh": "最终地；结果是",
+      "formation": "adverb + 最終的に + clause",
+      "example": "モロッコが後半で3点を入れて、最終的に5対2で勝ちました。",
+      "translation": "Morocco scored three points in the second half and ultimately won five to two.",
+      "note": "Shows the final outcome or conclusion",
+      "noteZh": "表示最终结果或结论",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#最終的に"
+    }
+  ],
+  "practiceZh": [
+    "青森県で強い地震が起きました。\n青森县发生了强烈地震。\n起きる = to occur/happen",
+    "午後3時ごろ、青森県の南部で強い地震が起こりました。\n大约下午3点左右，青森县南部发生了强烈地震。\nごろ = around/about；南部 = southern part",
+    "地震の大きさはマグニチュード6.2で、揺れの強さは6強でした。\n地震的大小是里氏6.2级，震动强度是6强。\nマグニチュード = magnitude；揺れ = shaking",
+    "この地震の影響で、東北新幹線と秋田新幹線が一時運休しました。\n由于这场地震的影响，东北新干线和秋田新干线暂时停运。\n影響 = influence/impact；一時 = temporary",
+    "日経平均株価は2000円以上上がりました。\n日经平均股价上涨了2000日元以上。\n上がる = to rise/go up",
+    "株価は71000円の付近まで回復しました。\n股价恢复到71000日元左右。\n付近 = vicinity/around；回復 = recovery",
+    "モロッコがハイチに勝って、決勝トーナメントに進みました。\n摩洛哥战胜了海地，晋级到决赛阶段。\n勝つ = to win；進む = to advance",
+    "試合は2対2で同点になっていました。\n比赛当时是2比2打成平手。\n同点 = tied/same points",
+    "モロッコが後半で3点を入れて、最終的に5対2で勝ちました。\n摩洛哥在下半场打进3球，最终以5比2获胜。\n後半 = second half；入れる = to score/put in"
+  ]
+}
