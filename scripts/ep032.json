@@ -1,0 +1,437 @@
+{
+  "episode": 32,
+  "title": "台風7号が沖縄に接近、任天堂の株価が下落、小児がん薬が足りなくなる",
+  "date": "2026-06-24",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026062401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twenty-fourth. Three big stories: Typhoon number seven is heading toward Okinawa, Nintendo's stock price is falling, and there's a shortage of childhood cancer medicines. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い台風7号が、沖縄に近づいています。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>が、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、台風7号は25日から27日にかけて、沖縄に接近する見込みです。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>は25<ruby>日<rt>にち</rt></ruby>から27<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>沖縄<rt>おきなわ</rt></ruby>に<span class=\"vw\" data-ja=\"接近する\" data-reading=\"せっきんする\" data-en=\"to approach; to draw near\"><ruby>接近す<rt>せっきんす</rt></ruby>る</span><ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "風が非常に強くなり、雨もたくさん降る可能性があります。",
+      "ruby": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>強く<rt>つよく</rt></ruby>なり、<ruby>雨<rt>あめ</rt></ruby>もたくさん<ruby>降る<rt>ふる</rt></ruby><ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、西日本では梅雨前線が活発になっているため、大雨になるおそれがあります。",
+      "ruby": "また、<ruby>西日本<rt>にしにほん</rt></ruby>では<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨前線<rt>ばいうぜんせん</rt></ruby></span>が<ruby>活発<rt>かっぱつ</rt></ruby>になっているため、<ruby>大雨<rt>おおあめ</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。任天堂の株価が大きく下がりました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。<ruby>任天堂<rt>にんてんどう</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月9日、任天堂は新しいゲームの発表会を開きました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>9<ruby>日<rt>ここのか</rt></ruby>、<ruby>任天堂<rt>にんてんどう</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby>ゲームの<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>を<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、投資家たちは発表会の内容に期待していたほど満足しませんでした。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"投資家\" data-reading=\"とうしか\" data-en=\"investor\"><ruby>投資家<rt>とうしか</rt></ruby></span>たちは<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>の<ruby>内容<rt>ないよう</rt></ruby>に<ruby>期待し<rt>きたいし</rt></ruby>ていたほど<ruby>満足<rt>まんぞく</rt></ruby>しませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、株価が7182円まで下がり、8月の最高値から53パーセント減少しました。",
+      "ruby": "そのため、<ruby>株価<rt>かぶか</rt></ruby>が7182<ruby>円<rt>えん</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>り、8<ruby>月<rt>がつ</rt></ruby>の<ruby>最高値<rt>さいたかね</rt></ruby>から53パーセント<ruby>減少<rt>げんしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。小児がんの薬が足りなくなる可能性があります。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がんの</span><ruby>薬<rt>くすり</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなる<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "小児がんの治療に使う11種類の薬が、1つの会社だけで作られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がんの</span><ruby>治療<rt>ちりょう</rt></ruby>に<ruby>使う<rt>つかう</rt></ruby>11<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>が、1つの<ruby>会社<rt>かいしゃ</rt></ruby>だけで<ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、国が薬の価格を下げたため、その会社は薬を作ってもお金がもうかりません。",
+      "ruby": "しかし、<ruby>国<rt>くに</rt></ruby>が<ruby>薬<rt>くすり</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>たため、その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>薬<rt>くすり</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>てもお<ruby>金<rt>きん</rt></ruby>がもうかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "医療の現場では、薬が足りなくなることを心配しています。",
+      "ruby": "<ruby>医療<rt>いりょう</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>では、<ruby>薬<rt>くすり</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなることを<ruby>心配<rt>しんぱい</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い台風7号が、沖縄に近づいています。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>が、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "host",
+      "text": "A strong typhoon number seven is approaching Okinawa."
+    },
+    {
+      "speaker": "vocab",
+      "text": "台風",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Typhoon. This word is used for the strong tropical storms that happen in summer and fall."
+    },
+    {
+      "speaker": "slow",
+      "text": "西日本では梅雨前線が活発になっているため、大雨になるおそれがあります。",
+      "ruby": "<ruby>西日本<rt>にしにほん</rt></ruby>では<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨前線<rt>ばいうぜんせん</rt></ruby></span>が<ruby>活発<rt>かっぱつ</rt></ruby>になっているため、<ruby>大雨<rt>おおあめ</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the rainy season front is active in western Japan, there is a risk of heavy rain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "梅雨",
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Rainy season. In Japan, the rainy season comes between spring and summer."
+    },
+    {
+      "speaker": "slow",
+      "text": "任天堂は新しいゲームの発表会を開きました。",
+      "ruby": "<ruby>任天堂<rt>にんてんどう</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby>ゲームの<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>を<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nintendo held a presentation for new games."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表会",
+      "ruby": "<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Press conference or presentation. The word means an event where something new is announced."
+    },
+    {
+      "speaker": "slow",
+      "text": "投資家たちは発表会の内容に期待していたほど満足しませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"投資家\" data-reading=\"とうしか\" data-en=\"investor\"><ruby>投資家<rt>とうしか</rt></ruby></span>たちは<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>の<ruby>内容<rt>ないよう</rt></ruby>に<ruby>期待し<rt>きたいし</rt></ruby>ていたほど<ruby>満足<rt>まんぞく</rt></ruby>しませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The investors were not satisfied with the presentation content as much as they had expected."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投資家",
+      "ruby": "<span class=\"vw\" data-ja=\"投資家\" data-reading=\"とうしか\" data-en=\"investor\"><ruby>投資家<rt>とうしか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Investor. Someone who puts money into companies to try to make more money."
+    },
+    {
+      "speaker": "slow",
+      "text": "小児がんの治療に使う11種類の薬が、1つの会社だけで作られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がんの</span><ruby>治療<rt>ちりょう</rt></ruby>に<ruby>使う<rt>つかう</rt></ruby>11<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>が、1つの<ruby>会社<rt>かいしゃ</rt></ruby>だけで<ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eleven types of medicines used to treat childhood cancer are made by only one company."
+    },
+    {
+      "speaker": "vocab",
+      "text": "小児がん",
+      "ruby": "<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がん</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Childhood cancer. The word shoni means child or children, and gan means cancer."
+    },
+    {
+      "speaker": "slow",
+      "text": "国が薬の価格を下げたため、その会社は薬を作ってもお金がもうかりません。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>が<ruby>薬<rt>くすり</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>たため、その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>薬<rt>くすり</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>てもお<ruby>金<rt>きん</rt></ruby>がもうかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the government lowered the price of medicines, the company cannot make a profit even if they produce the medicine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "もうかる",
+      "ruby": "<span class=\"vw\" data-ja=\"もうかる\" data-reading=\"もうかる\" data-en=\"to make a profit\">もうかる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To make a profit or earn money. It is the opposite of losing money."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い台風7号が、沖縄に近づいています。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>が、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、台風7号は25日から27日にかけて、沖縄に接近する見込みです。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>は25<ruby>日<rt>にち</rt></ruby>から27<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>沖縄<rt>おきなわ</rt></ruby>に<span class=\"vw\" data-ja=\"接近する\" data-reading=\"せっきんする\" data-en=\"to approach; to draw near\"><ruby>接近す<rt>せっきんす</rt></ruby>る</span><ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "風が非常に強くなり、雨もたくさん降る可能性があります。",
+      "ruby": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>強く<rt>つよく</rt></ruby>なり、<ruby>雨<rt>あめ</rt></ruby>もたくさん<ruby>降る<rt>ふる</rt></ruby><ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、西日本では梅雨前線が活発になっているため、大雨になるおそれがあります。",
+      "ruby": "また、<ruby>西日本<rt>にしにほん</rt></ruby>では<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨前線<rt>ばいうぜんせん</rt></ruby></span>が<ruby>活発<rt>かっぱつ</rt></ruby>になっているため、<ruby>大雨<rt>おおあめ</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。任天堂の株価が大きく下がりました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。<ruby>任天堂<rt>にんてんどう</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6月9日、任天堂は新しいゲームの発表会を開きました。",
+      "ruby": "6<ruby>月<rt>がつ</rt></ruby>9<ruby>日<rt>ここのか</rt></ruby>、<ruby>任天堂<rt>にんてんどう</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby>ゲームの<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>を<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、投資家たちは発表会の内容に期待していたほど満足しませんでした。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"投資家\" data-reading=\"とうしか\" data-en=\"investor\"><ruby>投資家<rt>とうしか</rt></ruby></span>たちは<span class=\"vw\" data-ja=\"発表会\" data-reading=\"はっぴょうかい\" data-en=\"press conference; presentation\"><ruby>発表会<rt>はっぴょうかい</rt></ruby></span>の<ruby>内容<rt>ないよう</rt></ruby>に<ruby>期待し<rt>きたいし</rt></ruby>ていたほど<ruby>満足<rt>まんぞく</rt></ruby>しませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、株価が7182円まで下がり、8月の最高値から53パーセント減少しました。",
+      "ruby": "そのため、<ruby>株価<rt>かぶか</rt></ruby>が7182<ruby>円<rt>えん</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>り、8<ruby>月<rt>がつ</rt></ruby>の<ruby>最高値<rt>さいたかね</rt></ruby>から53パーセント<ruby>減少<rt>げんしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。小児がんの薬が足りなくなる可能性があります。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がんの</span><ruby>薬<rt>くすり</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなる<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "小児がんの治療に使う11種類の薬が、1つの会社だけで作られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がんの</span><ruby>治療<rt>ちりょう</rt></ruby>に<ruby>使う<rt>つかう</rt></ruby>11<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>が、1つの<ruby>会社<rt>かいしゃ</rt></ruby>だけで<ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、国が薬の価格を下げたため、その会社は薬を作ってもお金がもうかりません。",
+      "ruby": "しかし、<ruby>国<rt>くに</rt></ruby>が<ruby>薬<rt>くすり</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>たため、その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>薬<rt>くすり</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>てもお<ruby>金<rt>きん</rt></ruby>がもうかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "医療の現場では、薬が足りなくなることを心配しています。",
+      "ruby": "<ruby>医療<rt>いりょう</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>では、<ruby>薬<rt>くすり</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなることを<ruby>心配<rt>しんぱい</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風7号は何日から何日にかけて、沖縄に接近しますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>は<ruby>何日<rt>なんにち</rt></ruby>から<ruby>何日<rt>なんにち</rt></ruby>にかけて、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>接近し<rt>せっきんし</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When does Typhoon number seven approach Okinawa? Answer: From the twenty-fifth to the twenty-seventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "任天堂の株価は、8月の最高値からどのくらい減少しましたか。",
+      "ruby": "<ruby>任天堂<rt>にんてんどう</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>は、8<ruby>月<rt>がつ</rt></ruby>の<ruby>最高値<rt>さいたかね</rt></ruby>からどのくらい<ruby>減少<rt>げんしょう</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How much did Nintendo's stock price decrease from its August high? Answer: Fifty-three percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "小児がんの薬は何種類ありますか。そして、何社で作られていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"小児がん\" data-reading=\"しょうにがん\" data-en=\"childhood cancer\"><ruby>小児<rt>しょうに</rt></ruby>がんの</span><ruby>薬<rt>くすり</rt></ruby>は<ruby>何種類<rt>なんしゅるい</rt></ruby>ありますか。そして、<ruby>何<rt>なに</rt></ruby><ruby>社<rt>しゃ</rt></ruby>で<ruby>作ら<rt>つくら</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many types of childhood cancer medicines are there, and how many companies make them? Answer: Eleven types, made by only one company."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "台風",
+      "reading": "たいふう",
+      "en": "typhoon",
+      "zh": "台风"
+    },
+    {
+      "ja": "梅雨",
+      "reading": "つゆ",
+      "en": "rainy season",
+      "zh": "梅雨（日本的雨季）"
+    },
+    {
+      "ja": "発表会",
+      "reading": "はっぴょうかい",
+      "en": "press conference; presentation",
+      "zh": "新闻发布会；发表会"
+    },
+    {
+      "ja": "投資家",
+      "reading": "とうしか",
+      "en": "investor",
+      "zh": "投资者"
+    },
+    {
+      "ja": "小児がん",
+      "reading": "しょうにがん",
+      "en": "childhood cancer",
+      "zh": "小儿癌症"
+    },
+    {
+      "ja": "もうかる",
+      "reading": "もうかる",
+      "en": "to make a profit",
+      "zh": "获利；赚钱"
+    },
+    {
+      "ja": "接近する",
+      "reading": "せっきんする",
+      "en": "to approach; to draw near",
+      "zh": "接近；靠近"
+    },
+    {
+      "ja": "供給",
+      "reading": "きょうきゅう",
+      "en": "supply",
+      "zh": "供应；供给"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜にかけて",
+      "meaning": "throughout; over (a period of time)",
+      "meaningZh": "从...到...期间；贯穿整个期间",
+      "formation": "noun + に + かけて",
+      "example": "25日から27日にかけて、沖縄に接近する",
+      "translation": "From the 25th through the 27th, it approaches Okinawa",
+      "note": "Often used for time periods or spatial extents",
+      "noteZh": "常用于表示时间段或空间范围",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#にかけて"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because; due to; for the sake of",
+      "meaningZh": "因为；由于；为了",
+      "formation": "clause + ため / noun + のため",
+      "example": "梅雨前線が活発になっているため、大雨になるおそれがあります",
+      "translation": "Because the rainy season front is active, there is a possibility of heavy rain",
+      "note": "Expresses cause or reason in formal contexts",
+      "noteZh": "用于正式语境中表达原因或理由",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜ほど",
+      "meaning": "as much as; to the extent that",
+      "meaningZh": "像...那样；到...的程度",
+      "formation": "verb/adjective + ほど",
+      "example": "期待していたほど満足しませんでした",
+      "translation": "They were not as satisfied as they had expected",
+      "note": "Used to compare the degree or extent of something",
+      "noteZh": "用于比较某事物的程度或范围",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ほど"
+    },
+    {
+      "pattern": "〜とはいえ / にせよ",
+      "meaning": "although; even though; it may be that",
+      "meaningZh": "虽然；即使；尽管",
+      "formation": "clause + とはいえ",
+      "example": "薬を作ってもお金がもうかりません",
+      "translation": "Even if they make the medicine, they cannot make a profit",
+      "note": "Contrasts two ideas or shows contradiction",
+      "noteZh": "对比两个观点或显示矛盾",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#こともあり"
+    }
+  ],
+  "practiceZh": [
+    "強い台風7号が、沖縄に近づいています。\n一场强劲的台风第7号正在靠近冲绳。\n台风 = typhoon；近づく = to approach",
+    "気象庁によると、台風7号は25日から27日にかけて、沖縄に接近する見込みです。\n根据气象厅的说法，台风第7号预计从25日到27日期间接近沖绳。\n见込み = expectation/forecast；〜にかけて = over/throughout",
+    "また、西日本では梅雨前線が活発になっているため、大雨になるおそれがあります。\n另外，西日本的梅雨前线变得活跃，因此有可能下大雨。\nため = because；おそれ = risk/possibility",
+    "6月9日、任天堂は新しいゲームの発表会を開きました。\n6月9日，任天堂举办了新游戏的发表会。\n発表会 = presentation/press conference；開く = to hold",
+    "投資家たちは発表会の内容に期待していたほど満足しませんでした。\n投资者们对发表会的内容不如预期那样满意。\n投資家 = investor；ほど = to the extent that",
+    "そのため、株価が7182円まで下がり、8月の最高値から53パーセント減少しました。\n因此，股价跌至7182日元，从8月的最高值下跌了53%。\nそのため = therefore/as a result；株価 = stock price",
+    "小児がんの治療に使う11種類の薬が、1つの会社だけで作られています。\n治疗小儿癌症用的11种药物仅由一家公司生产。\n小児がん = childhood cancer；種類 = type/kind",
+    "国が薬の価格を下げたため、その会社は薬を作ってもお金がもうかりません。\n因为国家降低了药物价格，那家公司即使生产药物也无法获利。\nもうかる = to make profit；ため = because",
+    "医療の現場では、薬が足りなくなることを心配しています。\n医疗第一线担心药物短缺。\n現場 = front line/site；足りなくなる = to become insufficient"
+  ]
+}
