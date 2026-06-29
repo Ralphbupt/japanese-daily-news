@@ -1,0 +1,427 @@
+{
+  "episode": 34,
+  "title": "両陛下がベルギーから帰国、2つの台風が関東に接近、東京の小学校で火事",
+  "date": "2026-06-26",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026062601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twenty-sixth. The Emperor and Empress return home from Belgium, two typhoons approach the Kanto region, and a fire breaks out at a Tokyo elementary school. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下と皇后陛下がベルギーから帰国しました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>がベルギーから<ruby>帰国<rt>きこく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は、ベルギーの王室に招かれて、1週間ほど訪問していました。",
+      "ruby": "<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>は、ベルギーの<ruby>王室<rt>おうしつ</rt></ruby>に<ruby>招か<rt>まねか</rt></ruby>れて、1<ruby>週間<rt>しゅうかん</rt></ruby>ほど<ruby>訪問<rt>ほうもん</rt></ruby>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "滞在の間、両陛下はベルギーの国王や王妃と会いました。",
+      "ruby": "<ruby>滞在<rt>たいざい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>はベルギーの<ruby>国王<rt>こくおう</rt></ruby>や<ruby>王妃<rt>おうひ</rt></ruby>と<ruby>会い<rt>あい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は飛行機で、無事に日本へ戻りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>は<ruby>飛行機<rt>ひこうき</rt></ruby>で、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>戻り<rt>もどり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。2つの台風が日本に近づいています。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。2つの<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風8号と台風7号が、続けて関東地方に接近する見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>8<ruby>号<rt>ごう</rt></ruby>と<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>が、<ruby>続け<rt>つづけ</rt></ruby>て<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<span class=\"vw\" data-ja=\"接近する\" data-reading=\"せっきんする\" data-en=\"to approach; to draw near\"><ruby>接近す<rt>せっきんす</rt></ruby>る</span><ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、関東で大雨になるおそれがあると注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>関東<rt>かんとう</rt></ruby>で<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>になるおそれがあると<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い風と雨で、電車や飛行機が止まるかもしれません。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>と<ruby>雨<rt>あめ</rt></ruby>で、<ruby>電車<rt>でんしゃ</rt></ruby>や<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。東京の小学校で火事がありました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>で<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この火事のあと、東京都の教育委員会は、火事に注意するよう呼びかけました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>のあと、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "教育委員会は、すべての学校に防火を徹底するよう求めました。",
+      "ruby": "<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、すべての<ruby>学校<rt>がっこう</rt></ruby>に<span class=\"vw\" data-ja=\"防火\" data-reading=\"ぼうか\" data-en=\"fire prevention\"><ruby>防火<rt>ぼうか</rt></ruby></span>を<ruby>徹底<rt>てってい</rt></ruby>するよう<ruby>求め<rt>もとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "天皇陛下と皇后陛下がベルギーから帰国しました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>がベルギーから<ruby>帰国<rt>きこく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Emperor and Empress returned home from Belgium."
+    },
+    {
+      "speaker": "vocab",
+      "text": "帰国",
+      "ruby": "<ruby>帰国<rt>きこく</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "Returning to one's own country. The first character means to return, and the second means country."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は、ベルギーの王室に招かれて、1週間ほど訪問していました。",
+      "ruby": "<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>は、ベルギーの<ruby>王室<rt>おうしつ</rt></ruby>に<ruby>招か<rt>まねか</rt></ruby>れて、1<ruby>週間<rt>しゅうかん</rt></ruby>ほど<ruby>訪問<rt>ほうもん</rt></ruby>していました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Their Majesties were invited by the Belgian royal family and had been visiting for about a week."
+    },
+    {
+      "speaker": "vocab",
+      "text": "訪問",
+      "ruby": "<ruby>訪問<rt>ほうもん</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "A visit, especially a formal one. You'll see it for official trips and house calls alike."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風8号と台風7号が、続けて関東地方に接近する見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>8<ruby>号<rt>ごう</rt></ruby>と<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>が、<ruby>続け<rt>つづけ</rt></ruby>て<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<span class=\"vw\" data-ja=\"接近する\" data-reading=\"せっきんする\" data-en=\"to approach; to draw near\"><ruby>接近す<rt>せっきんす</rt></ruby>る</span><ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Typhoon number eight and typhoon number seven are expected to approach the Kanto region one after another."
+    },
+    {
+      "speaker": "vocab",
+      "text": "接近",
+      "ruby": "<ruby>接近<rt>せっきん</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "To approach or draw near. In weather news it's the standard word for a storm coming closer."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、関東で大雨になるおそれがあると注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>関東<rt>かんとう</rt></ruby>で<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>になるおそれがあると<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency is warning that there is a risk of heavy rain in the Kanto region."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大雨",
+      "ruby": "<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Heavy rain. It simply joins the character for big with the character for rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の小学校で火事がありました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>で<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "There was a fire at an elementary school in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火事",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A fire, the destructive kind. Don't mix it up with the everyday word for flame used in cooking."
+    },
+    {
+      "speaker": "slow",
+      "text": "教育委員会は、すべての学校に防火を徹底するよう求めました。",
+      "ruby": "<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、すべての<ruby>学校<rt>がっこう</rt></ruby>に<span class=\"vw\" data-ja=\"防火\" data-reading=\"ぼうか\" data-en=\"fire prevention\"><ruby>防火<rt>ぼうか</rt></ruby></span>を<ruby>徹底<rt>てってい</rt></ruby>するよう<ruby>求め<rt>もとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The board of education asked all schools to thoroughly prevent fires."
+    },
+    {
+      "speaker": "vocab",
+      "text": "防火",
+      "ruby": "<span class=\"vw\" data-ja=\"防火\" data-reading=\"ぼうか\" data-en=\"fire prevention\"><ruby>防火<rt>ぼうか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Fire prevention. The first character means to prevent, the second means fire."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下と皇后陛下がベルギーから帰国しました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>がベルギーから<ruby>帰国<rt>きこく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は、ベルギーの王室に招かれて、1週間ほど訪問していました。",
+      "ruby": "<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>は、ベルギーの<ruby>王室<rt>おうしつ</rt></ruby>に<ruby>招か<rt>まねか</rt></ruby>れて、1<ruby>週間<rt>しゅうかん</rt></ruby>ほど<ruby>訪問<rt>ほうもん</rt></ruby>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "滞在の間、両陛下はベルギーの国王や王妃と会いました。",
+      "ruby": "<ruby>滞在<rt>たいざい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>はベルギーの<ruby>国王<rt>こくおう</rt></ruby>や<ruby>王妃<rt>おうひ</rt></ruby>と<ruby>会い<rt>あい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は飛行機で、無事に日本へ戻りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>は<ruby>飛行機<rt>ひこうき</rt></ruby>で、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>戻り<rt>もどり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。2つの台風が日本に近づいています。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。2つの<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風8号と台風7号が、続けて関東地方に接近する見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>8<ruby>号<rt>ごう</rt></ruby>と<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>7<ruby>号<rt>ごう</rt></ruby>が、<ruby>続け<rt>つづけ</rt></ruby>て<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<span class=\"vw\" data-ja=\"接近する\" data-reading=\"せっきんする\" data-en=\"to approach; to draw near\"><ruby>接近す<rt>せっきんす</rt></ruby>る</span><ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、関東で大雨になるおそれがあると注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>関東<rt>かんとう</rt></ruby>で<span class=\"vw\" data-ja=\"大雨\" data-reading=\"おおあめ\" data-en=\"heavy rain\"><ruby>大雨<rt>おおあめ</rt></ruby></span>になるおそれがあると<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い風と雨で、電車や飛行機が止まるかもしれません。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>と<ruby>雨<rt>あめ</rt></ruby>で、<ruby>電車<rt>でんしゃ</rt></ruby>や<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。東京の小学校で火事がありました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>で<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この火事のあと、東京都の教育委員会は、火事に注意するよう呼びかけました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>のあと、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (destructive)\"><ruby>火事<rt>かじ</rt></ruby></span>に<ruby>注意<rt>ちゅうい</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "教育委員会は、すべての学校に防火を徹底するよう求めました。",
+      "ruby": "<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、すべての<ruby>学校<rt>がっこう</rt></ruby>に<span class=\"vw\" data-ja=\"防火\" data-reading=\"ぼうか\" data-en=\"fire prevention\"><ruby>防火<rt>ぼうか</rt></ruby></span>を<ruby>徹底<rt>てってい</rt></ruby>するよう<ruby>求め<rt>もとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は、どの国を訪問していましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties (the Emperor and Empress)\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>は、どの<ruby>国<rt>くに</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>していましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which country had Their Majesties been visiting? Answer: Belgium."
+    },
+    {
+      "speaker": "slow",
+      "text": "いくつの台風が関東地方に接近していますか。",
+      "ruby": "いくつの<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>が<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<ruby>接近し<rt>せっきんし</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many typhoons are approaching the Kanto region? Answer: Two."
+    },
+    {
+      "speaker": "slow",
+      "text": "教育委員会は、学校に何を求めましたか。",
+      "ruby": "<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>何を<rt>なにを</rt></ruby><ruby>求め<rt>もとめ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What did the board of education ask schools to do? Answer: To thoroughly prevent fires."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "両陛下",
+      "reading": "りょうへいか",
+      "en": "Their Majesties (the Emperor and Empress)",
+      "zh": "天皇皇后两位陛下"
+    },
+    {
+      "ja": "帰国する",
+      "reading": "きこくする",
+      "en": "to return to one's home country",
+      "zh": "回国；归国"
+    },
+    {
+      "ja": "訪問する",
+      "reading": "ほうもんする",
+      "en": "to visit (formally)",
+      "zh": "访问；拜访"
+    },
+    {
+      "ja": "台風",
+      "reading": "たいふう",
+      "en": "typhoon",
+      "zh": "台风"
+    },
+    {
+      "ja": "接近する",
+      "reading": "せっきんする",
+      "en": "to approach; to draw near",
+      "zh": "接近；靠近"
+    },
+    {
+      "ja": "大雨",
+      "reading": "おおあめ",
+      "en": "heavy rain",
+      "zh": "大雨"
+    },
+    {
+      "ja": "火事",
+      "reading": "かじ",
+      "en": "fire (destructive)",
+      "zh": "火灾"
+    },
+    {
+      "ja": "防火",
+      "reading": "ぼうか",
+      "en": "fire prevention",
+      "zh": "防火"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that; there is a fear that",
+      "meaningZh": "有...的危险；恐怕会...",
+      "formation": "plain form + おそれがある",
+      "example": "関東で大雨になるおそれがあります。",
+      "translation": "There is a risk of heavy rain in the Kanto region.",
+      "note": "Used for warnings about possible bad outcomes",
+      "noteZh": "用于对可能发生的坏结果发出警告",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜ように求める / 呼びかける",
+      "meaning": "to ask / call on someone to do something",
+      "meaningZh": "要求/呼吁(某人)做...",
+      "formation": "verb (plain) + よう + に + 求める / 呼びかける",
+      "example": "学校に防火を徹底するよう求めました。",
+      "translation": "They asked schools to thoroughly prevent fires.",
+      "note": "An indirect, formal way of making a request",
+      "noteZh": "一种间接、正式的请求方式",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ように求める"
+    },
+    {
+      "pattern": "〜に招かれる",
+      "meaning": "to be invited by",
+      "meaningZh": "受...邀请",
+      "formation": "noun + に + 招かれる",
+      "example": "両陛下はベルギーの王室に招かれました。",
+      "translation": "Their Majesties were invited by the Belgian royal family.",
+      "note": "Passive form of 招く; the inviter is marked with に",
+      "noteZh": "招く的被动形；邀请方用に标示",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に招かれる"
+    },
+    {
+      "pattern": "〜ほど",
+      "meaning": "about; approximately",
+      "meaningZh": "大约；左右",
+      "formation": "quantity + ほど",
+      "example": "両陛下は1週間ほど訪問していました。",
+      "translation": "Their Majesties had been visiting for about a week.",
+      "note": "ほど softens a number to mean roughly that amount",
+      "noteZh": "ほど使数量变得模糊，表示大约那么多",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ほど"
+    }
+  ],
+  "practiceZh": [
+    "天皇陛下と皇后陛下がベルギーから帰国しました。\n天皇陛下和皇后陛下从比利时回国了。\n帰国する = to return home；から = from",
+    "両陛下は、ベルギーの王室に招かれて、1週間ほど訪問していました。\n两位陛下受比利时王室邀请，访问了大约一周。\n招かれる = 被邀请；訪問する = to visit",
+    "滞在の間、両陛下はベルギーの国王や王妃と会いました。\n停留期间，两位陛下与比利时国王和王妃会面了。\n〜の間 = 在...期间；王妃 = queen",
+    "両陛下は飛行機で、無事に日本へ戻りました。\n两位陛下乘飞机平安回到了日本。\n無事に = safely；戻る = to return",
+    "台風8号と台風7号が、続けて関東地方に接近する見込みです。\n台风8号和7号预计将接连接近关东地区。\n続けて = 接连地；見込み = expectation/forecast",
+    "気象庁は、関東で大雨になるおそれがあると注意を呼びかけています。\n气象厅呼吁注意，关东地区恐怕会下大雨。\nおそれがある = 有...的危险；呼びかける = to call on",
+    "強い風と雨で、電車や飛行機が止まるかもしれません。\n由于强风和大雨，电车和飞机可能会停运。\n〜かもしれません = 也许/可能",
+    "東京の小学校で火事がありました。\n东京的一所小学发生了火灾。\n火事 = fire；ありました = there was",
+    "教育委員会は、すべての学校に防火を徹底するよう求めました。\n教育委员会要求所有学校彻底做好防火。\n防火 = fire prevention；徹底する = to be thorough"
+  ]
+}
