@@ -1,0 +1,437 @@
+{
+  "episode": 36,
+  "title": "ワールドカップの32チームが決定、狛江市長選で松原氏が3選、自衛隊が南鳥島にミサイル配備",
+  "date": "2026-06-28",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026062801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twenty-eighth. The thirty-two teams for the World Cup knockout round are set, Mr. Matsubara wins a third term as mayor of Komae, and the Self-Defense Forces deploy missiles to Minami-Torishima island. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーのワールドカップで、グループステージが終わりました。",
+      "ruby": "サッカーのワールドカップで、<span class=\"vw\" data-ja=\"グループステージ\" data-reading=\"ぐるーぷすてーじ\" data-en=\"group stage\">グループステージ</span>が<ruby>終わり<rt>おわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決勝トーナメントに進む32チームが出そろいました。",
+      "ruby": "<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進む<rt>すすむ</rt></ruby>32チームが<ruby>出そ<rt>でそ</rt></ruby>ろいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表も、決勝トーナメントに進んでいます。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>も、<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "32チームは、29日から決勝トーナメントに出場します。",
+      "ruby": "32チームは、29<ruby>日<rt>にち</rt></ruby>から<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>出場<rt>しゅつじょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、負けたら終わりの厳しい戦いになります。",
+      "ruby": "これからは、<ruby>負け<rt>まけ</rt></ruby>たら<ruby>終わり<rt>おわり</rt></ruby>の<ruby>厳しい<rt>きびしい</rt></ruby><ruby>戦い<rt>たたかい</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。東京の狛江市で、市長を決める選挙がありました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>狛江市<rt>こまえし</rt></ruby>で、<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "選挙の結果、松原さんが3回目の当選をしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<ruby>結果<rt>けっか</rt></ruby>、<ruby>松原<rt>まつばら</rt></ruby>さんが3<ruby>回目<rt>かいめ</rt></ruby>の<ruby>当選<rt>とうせん</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松原さんは、これから4年間、狛江市の市長を続けます。",
+      "ruby": "<ruby>松原<rt>まつばら</rt></ruby>さんは、これから4<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>狛江市<rt>こまえし</rt></ruby>の<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。自衛隊が南鳥島にミサイルを配備しました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<span class=\"vw\" data-ja=\"自衛隊\" data-reading=\"じえいたい\" data-en=\"the Self-Defense Forces\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>が<ruby>南<rt>みなみ</rt></ruby><ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>にミサイルを<ruby>配備<rt>はいび</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "南鳥島は、東京から遠く離れた、太平洋の小さな島です。",
+      "ruby": "<ruby>南<rt>みなみ</rt></ruby><ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>遠く<rt>とおく</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た、<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>島<rt>しま</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "自衛隊は、この島に地対艦ミサイルを初めて置きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"自衛隊\" data-reading=\"じえいたい\" data-en=\"the Self-Defense Forces\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>は、この<ruby>島<rt>しま</rt></ruby>に<ruby>地対<rt>ちたい</rt></ruby><ruby>艦<rt>かん</rt></ruby>ミサイルを<ruby>初めて<rt>はじめて</rt></ruby><ruby>置き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、日本の南の海を守るための配備だと、防衛省は説明しています。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<span class=\"vw\" data-ja=\"守る\" data-reading=\"まもる\" data-en=\"to protect; to defend\"><ruby>守る<rt>まもる</rt></ruby></span>ための<ruby>配備<rt>はいび</rt></ruby>だと、<ruby>防衛<rt>ぼうえい</rt></ruby><ruby>省<rt>しょう</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "32チームは、29日から決勝トーナメントに出場します。",
+      "ruby": "32チームは、29<ruby>日<rt>にち</rt></ruby>から<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>出場<rt>しゅつじょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twenty-ninth, the thirty-two teams will compete in the knockout round."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出場",
+      "ruby": "<ruby>出場<rt>しゅつじょう</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "Taking part in a match or event. The first character means to go out, the second means place or arena."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の狛江市で、市長を決める選挙がありました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>狛江市<rt>こまえし</rt></ruby>で、<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the city of Komae in Tokyo, there was an election to choose the mayor."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選挙",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "An election. It's the word for any vote that chooses a leader or representative."
+    },
+    {
+      "speaker": "slow",
+      "text": "選挙の結果、松原さんが3回目の当選をしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<ruby>結果<rt>けっか</rt></ruby>、<ruby>松原<rt>まつばら</rt></ruby>さんが3<ruby>回目<rt>かいめ</rt></ruby>の<ruby>当選<rt>とうせん</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "As a result of the election, Mr. Matsubara won for the third time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "当選",
+      "ruby": "<ruby>当選<rt>とうせん</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "Winning an election. The opposite, losing one, uses a different word entirely."
+    },
+    {
+      "speaker": "slow",
+      "text": "松原さんは、これから4年間、狛江市の市長を続けます。",
+      "ruby": "<ruby>松原<rt>まつばら</rt></ruby>さんは、これから4<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>狛江市<rt>こまえし</rt></ruby>の<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Mr. Matsubara will continue as mayor of Komae for the next four years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "市長",
+      "ruby": "<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Mayor, the head of a city. The first character means city, the second means chief or leader."
+    },
+    {
+      "speaker": "slow",
+      "text": "自衛隊が南鳥島にミサイルを配備しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"自衛隊\" data-reading=\"じえいたい\" data-en=\"the Self-Defense Forces\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>が<ruby>南<rt>みなみ</rt></ruby><ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>にミサイルを<ruby>配備<rt>はいび</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Self-Defense Forces deployed missiles to Minami-Torishima."
+    },
+    {
+      "speaker": "vocab",
+      "text": "配備",
+      "ruby": "<ruby>配備<rt>はいび</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "Deployment, placing equipment or people where they are needed. You'll hear it in news about defense and disaster response."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、日本の南の海を守るための配備です。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<span class=\"vw\" data-ja=\"守る\" data-reading=\"まもる\" data-en=\"to protect; to defend\"><ruby>守る<rt>まもる</rt></ruby></span>ための<ruby>配備<rt>はいび</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is a deployment to protect the seas to the south of Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "守る",
+      "ruby": "<span class=\"vw\" data-ja=\"守る\" data-reading=\"まもる\" data-en=\"to protect; to defend\"><ruby>守る<rt>まもる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To protect or defend. The same verb is used for keeping a promise or following a rule."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "サッカーのワールドカップで、グループステージが終わりました。",
+      "ruby": "サッカーのワールドカップで、<span class=\"vw\" data-ja=\"グループステージ\" data-reading=\"ぐるーぷすてーじ\" data-en=\"group stage\">グループステージ</span>が<ruby>終わり<rt>おわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決勝トーナメントに進む32チームが出そろいました。",
+      "ruby": "<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進む<rt>すすむ</rt></ruby>32チームが<ruby>出そ<rt>でそ</rt></ruby>ろいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本代表も、決勝トーナメントに進んでいます。",
+      "ruby": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>も、<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進ん<rt>すすん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "32チームは、29日から決勝トーナメントに出場します。",
+      "ruby": "32チームは、29<ruby>日<rt>にち</rt></ruby>から<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>出場<rt>しゅつじょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、負けたら終わりの厳しい戦いになります。",
+      "ruby": "これからは、<ruby>負け<rt>まけ</rt></ruby>たら<ruby>終わり<rt>おわり</rt></ruby>の<ruby>厳しい<rt>きびしい</rt></ruby><ruby>戦い<rt>たたかい</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。東京の狛江市で、市長を決める選挙がありました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>狛江市<rt>こまえし</rt></ruby>で、<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "選挙の結果、松原さんが3回目の当選をしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<ruby>結果<rt>けっか</rt></ruby>、<ruby>松原<rt>まつばら</rt></ruby>さんが3<ruby>回目<rt>かいめ</rt></ruby>の<ruby>当選<rt>とうせん</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松原さんは、これから4年間、狛江市の市長を続けます。",
+      "ruby": "<ruby>松原<rt>まつばら</rt></ruby>さんは、これから4<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>狛江市<rt>こまえし</rt></ruby>の<span class=\"vw\" data-ja=\"市長\" data-reading=\"しちょう\" data-en=\"mayor\"><ruby>市長<rt>しちょう</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。自衛隊が南鳥島にミサイルを配備しました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<span class=\"vw\" data-ja=\"自衛隊\" data-reading=\"じえいたい\" data-en=\"the Self-Defense Forces\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>が<ruby>南<rt>みなみ</rt></ruby><ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>にミサイルを<ruby>配備<rt>はいび</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "南鳥島は、東京から遠く離れた、太平洋の小さな島です。",
+      "ruby": "<ruby>南<rt>みなみ</rt></ruby><ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>遠く<rt>とおく</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た、<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>島<rt>しま</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "自衛隊は、この島に地対艦ミサイルを初めて置きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"自衛隊\" data-reading=\"じえいたい\" data-en=\"the Self-Defense Forces\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>は、この<ruby>島<rt>しま</rt></ruby>に<ruby>地対<rt>ちたい</rt></ruby><ruby>艦<rt>かん</rt></ruby>ミサイルを<ruby>初めて<rt>はじめて</rt></ruby><ruby>置き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、日本の南の海を守るための配備だと、防衛省は説明しています。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<span class=\"vw\" data-ja=\"守る\" data-reading=\"まもる\" data-en=\"to protect; to defend\"><ruby>守る<rt>まもる</rt></ruby></span>ための<ruby>配備<rt>はいび</rt></ruby>だと、<ruby>防衛<rt>ぼうえい</rt></ruby><ruby>省<rt>しょう</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "決勝トーナメントには、いくつのチームが進みましたか。",
+      "ruby": "<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントには、いくつのチームが<ruby>進み<rt>すすみ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many teams advanced to the knockout round? Answer: Thirty-two teams."
+    },
+    {
+      "speaker": "slow",
+      "text": "狛江市の選挙で、松原さんは何回目の当選をしましたか。",
+      "ruby": "<ruby>狛江市<rt>こまえし</rt></ruby>の<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>で、<ruby>松原<rt>まつばら</rt></ruby>さんは<ruby>何回目<rt>なんかいめ</rt></ruby>の<ruby>当選<rt>とうせん</rt></ruby>をしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Komae election, how many times has Mr. Matsubara now won? Answer: His third time."
+    },
+    {
+      "speaker": "slow",
+      "text": "自衛隊は、南鳥島に何を配備しましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"自衛隊\" data-reading=\"じえいたい\" data-en=\"the Self-Defense Forces\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>は、<ruby>南<rt>みなみ</rt></ruby><ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>に<ruby>何を<rt>なにを</rt></ruby><ruby>配備<rt>はいび</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What did the Self-Defense Forces deploy to Minami-Torishima? Answer: Missiles, specifically anti-ship missiles."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "出場する",
+      "reading": "しゅつじょうする",
+      "en": "to take part in; to appear (in a match/event)",
+      "zh": "参赛；出场"
+    },
+    {
+      "ja": "グループステージ",
+      "reading": "ぐるーぷすてーじ",
+      "en": "group stage",
+      "zh": "小组赛阶段"
+    },
+    {
+      "ja": "選挙",
+      "reading": "せんきょ",
+      "en": "election",
+      "zh": "选举"
+    },
+    {
+      "ja": "当選する",
+      "reading": "とうせんする",
+      "en": "to win an election; to be elected",
+      "zh": "当选"
+    },
+    {
+      "ja": "市長",
+      "reading": "しちょう",
+      "en": "mayor",
+      "zh": "市长"
+    },
+    {
+      "ja": "自衛隊",
+      "reading": "じえいたい",
+      "en": "the Self-Defense Forces",
+      "zh": "自卫队"
+    },
+    {
+      "ja": "配備する",
+      "reading": "はいびする",
+      "en": "to deploy; to station",
+      "zh": "部署；配置"
+    },
+    {
+      "ja": "守る",
+      "reading": "まもる",
+      "en": "to protect; to defend",
+      "zh": "保护；守卫"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜たら（条件）",
+      "meaning": "if; when (something happens, then...)",
+      "meaningZh": "如果...就...；一旦...",
+      "formation": "verb (past plain) + ら",
+      "example": "負けたら終わりです。",
+      "translation": "If you lose, it's over.",
+      "note": "Conditional; the second clause follows from the first",
+      "noteZh": "条件句；后半句是前半句的结果",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たら"
+    },
+    {
+      "pattern": "〜ための",
+      "meaning": "for the purpose of; in order to",
+      "meaningZh": "为了...的",
+      "formation": "verb (plain) + ための + noun",
+      "example": "日本の海を守るための配備です。",
+      "translation": "It is a deployment for the purpose of protecting Japan's seas.",
+      "note": "ための modifies a noun and shows its purpose",
+      "noteZh": "ための修饰名词，表示其目的",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ための"
+    },
+    {
+      "pattern": "〜回目",
+      "meaning": "the Nth time",
+      "meaningZh": "第...次",
+      "formation": "number + 回目",
+      "example": "松原さんが3回目の当選をしました。",
+      "translation": "Mr. Matsubara was elected for the third time.",
+      "note": "目 turns a count into an ordinal: 3回 three times, 3回目 the third time",
+      "noteZh": "目把次数变成序数：3回(三次)，3回目(第三次)",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#回目"
+    },
+    {
+      "pattern": "〜続ける",
+      "meaning": "to keep doing; to continue to do",
+      "meaningZh": "继续做...；持续...",
+      "formation": "verb stem + 続ける",
+      "example": "松原さんは市長を続けます。",
+      "translation": "Mr. Matsubara will continue as mayor.",
+      "note": "Attaches to a verb stem to show the action goes on",
+      "noteZh": "接在动词连用形后，表示动作持续下去",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#続ける"
+    }
+  ],
+  "practiceZh": [
+    "サッカーのワールドカップで、グループステージが終わりました。\n足球世界杯的小组赛阶段结束了。\nグループステージ = group stage；終わる = to end",
+    "決勝トーナメントに進む32チームが出そろいました。\n晋级淘汰赛的32支球队全部产生了。\n出そろう = (全部)凑齐；進む = to advance",
+    "日本代表も、決勝トーナメントに進んでいます。\n日本国家队也晋级了淘汰赛。\n代表 = 国家队；〜ている = 状态的持续",
+    "32チームは、29日から決勝トーナメントに出場します。\n32支球队将从29日开始参加淘汰赛。\n出場する = to take part；〜から = starting from",
+    "これからは、負けたら終わりの厳しい戦いになります。\n接下来将是输了就结束的残酷比赛。\n負けたら = 如果输了；厳しい = severe",
+    "東京の狛江市で、市長を決める選挙がありました。\n在东京狛江市，举行了决定市长的选举。\n選挙 = election；〜を決める = to decide",
+    "選挙の結果、松原さんが3回目の当選をしました。\n选举结果，松原先生第3次当选。\n当選する = to be elected；3回目 = 第3次",
+    "自衛隊が南鳥島にミサイルを配備しました。\n自卫队在南鸟岛部署了导弹。\n自衛隊 = Self-Defense Forces；配備する = to deploy",
+    "これは、日本の南の海を守るための配備だと、防衛省は説明しています。\n防卫省说明，这是为了守卫日本南部海域而进行的部署。\n守るための = 为了守卫的；〜と説明する = to explain that"
+  ]
+}

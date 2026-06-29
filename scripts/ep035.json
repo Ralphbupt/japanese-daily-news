@@ -1,0 +1,427 @@
+{
+  "episode": 35,
+  "title": "台風8号が関東に上陸、阪神が4日ぶりに試合、東京市場で半導体株が下落",
+  "date": "2026-06-27",
+  "source": "NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026062701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-20%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is June twenty-seventh. Typhoon number eight makes landfall in the Kanto region, the Hanshin baseball team finally plays after four days of rain, and semiconductor stocks fall sharply in Tokyo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風8号が関東に上陸しました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>8<ruby>号<rt>ごう</rt></ruby>が<ruby>関東<rt>かんとう</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "27日の朝、台風8号が関東地方に上陸し、強い雨と風をもたらしました。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>8<ruby>号<rt>ごう</rt></ruby>が<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>し、<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>と<ruby>風<rt>かぜ</rt></ruby>をもたらしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのあと、台風7号も近づいて、各地で大雨になりました。",
+      "ruby": "そのあと、<ruby>台風<rt>たいふう</rt></ruby>7<ruby>号<rt>ごう</rt></ruby>も<ruby>近づ<rt>ちかづ</rt></ruby>いて、<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places; many areas\"><ruby>各地<rt>かくち</rt></ruby></span>で<ruby>大雨<rt>おおあめ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は大雨警報を出して、注意を呼びかけました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby><span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning; alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>て、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "電車やバスが止まって、交通に大きな影響が出ました。",
+      "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>やバスが<ruby>止ま<rt>とま</rt></ruby>って、<span class=\"vw\" data-ja=\"交通\" data-reading=\"こうつう\" data-en=\"traffic; transportation\"><ruby>交通<rt>こうつう</rt></ruby></span>に<ruby>大き<rt>おおき</rt></ruby>な<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。プロ野球の阪神の試合が、4日ぶりに行われました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>阪神<rt>はんしん</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>が、4<ruby>日<rt>よっか</rt></ruby>ぶりに<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "阪神は、雨のために3試合連続で中止になっていました。",
+      "ruby": "<ruby>阪神<rt>はんしん</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>のために3<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span><ruby>連続<rt>れんぞく</rt></ruby>で<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "27日、阪神は広島と試合をして、久しぶりにグラウンドに立ちました。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>、<ruby>阪神<rt>はんしん</rt></ruby>は<ruby>広島<rt>ひろしま</rt></ruby>と<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>をして、<ruby>久し<rt>ひさし</rt></ruby>ぶりにグラウンドに<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。東京株式市場で、半導体の株が大きく下がりました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<ruby>東京<rt>とうきょう</rt></ruby><ruby>株式市場<rt>かぶしきしじょう</rt></ruby>で、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ハイテク関連の会社の株が、たくさん売られました。",
+      "ruby": "ハイテク<ruby>関連<rt>かんれん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>が、たくさん<ruby>売ら<rt>うら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、内需関連の株は、比較的安定していました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>内需<rt>ないじゅ</rt></ruby><ruby>関連<rt>かんれん</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>は、<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>安定<rt>あんてい</rt></ruby>していました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "27日の朝、台風8号が関東地方に上陸し、強い雨と風をもたらしました。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>8<ruby>号<rt>ごう</rt></ruby>が<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>し、<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>と<ruby>風<rt>かぜ</rt></ruby>をもたらしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the twenty-seventh, typhoon number eight made landfall in the Kanto region, bringing strong rain and wind."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上陸",
+      "ruby": "<ruby>上陸<rt>じょうりく</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "Landfall, when a typhoon or ship reaches land. The first character means up, the second means land."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのあと、台風7号も近づいて、各地で大雨になりました。",
+      "ruby": "そのあと、<ruby>台風<rt>たいふう</rt></ruby>7<ruby>号<rt>ごう</rt></ruby>も<ruby>近づ<rt>ちかづ</rt></ruby>いて、<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places; many areas\"><ruby>各地<rt>かくち</rt></ruby></span>で<ruby>大雨<rt>おおあめ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After that, typhoon number seven also drew near, and it rained heavily in many places."
+    },
+    {
+      "speaker": "vocab",
+      "text": "各地",
+      "ruby": "<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places; many areas\"><ruby>各地<rt>かくち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Various places, all over. The first character means each, the second means place."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は大雨警報を出して、注意を呼びかけました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby><span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning; alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>て、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency issued a heavy rain warning and called for caution."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警報",
+      "ruby": "<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning; alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A warning or alarm, the urgent kind. It's a step more serious than an advisory."
+    },
+    {
+      "speaker": "slow",
+      "text": "電車やバスが止まって、交通に大きな影響が出ました。",
+      "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>やバスが<ruby>止ま<rt>とま</rt></ruby>って、<span class=\"vw\" data-ja=\"交通\" data-reading=\"こうつう\" data-en=\"traffic; transportation\"><ruby>交通<rt>こうつう</rt></ruby></span>に<ruby>大き<rt>おおき</rt></ruby>な<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "Trains and buses stopped, and there was a big impact on transportation."
+    },
+    {
+      "speaker": "vocab",
+      "text": "交通",
+      "ruby": "<span class=\"vw\" data-ja=\"交通\" data-reading=\"こうつう\" data-en=\"traffic; transportation\"><ruby>交通<rt>こうつう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Traffic or transportation. It covers the movement of people and vehicles in general."
+    },
+    {
+      "speaker": "slow",
+      "text": "阪神は、雨のために3試合連続で中止になっていました。",
+      "ruby": "<ruby>阪神<rt>はんしん</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>のために3<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span><ruby>連続<rt>れんぞく</rt></ruby>で<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>になっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hanshin had had three games in a row cancelled because of rain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "中止",
+      "ruby": "<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Cancellation, calling something off partway or before it starts. The first character means middle, the second means stop."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京株式市場で、半導体の株が大きく下がりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby><ruby>株式市場<rt>かぶしきしじょう</rt></ruby>で、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the Tokyo stock market, semiconductor stocks fell sharply."
+    },
+    {
+      "speaker": "vocab",
+      "text": "半導体",
+      "ruby": "<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Semiconductor, the material at the heart of computer chips. It's a word you'll hear constantly in business news."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風8号が関東に上陸しました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>8<ruby>号<rt>ごう</rt></ruby>が<ruby>関東<rt>かんとう</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "27日の朝、台風8号が関東地方に上陸し、強い雨と風をもたらしました。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>8<ruby>号<rt>ごう</rt></ruby>が<ruby>関東地方<rt>かんとうちほう</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>し、<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>と<ruby>風<rt>かぜ</rt></ruby>をもたらしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのあと、台風7号も近づいて、各地で大雨になりました。",
+      "ruby": "そのあと、<ruby>台風<rt>たいふう</rt></ruby>7<ruby>号<rt>ごう</rt></ruby>も<ruby>近づ<rt>ちかづ</rt></ruby>いて、<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places; many areas\"><ruby>各地<rt>かくち</rt></ruby></span>で<ruby>大雨<rt>おおあめ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は大雨警報を出して、注意を呼びかけました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby><span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning; alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>て、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "電車やバスが止まって、交通に大きな影響が出ました。",
+      "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>やバスが<ruby>止ま<rt>とま</rt></ruby>って、<span class=\"vw\" data-ja=\"交通\" data-reading=\"こうつう\" data-en=\"traffic; transportation\"><ruby>交通<rt>こうつう</rt></ruby></span>に<ruby>大き<rt>おおき</rt></ruby>な<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "次のニュースです。プロ野球の阪神の試合が、4日ぶりに行われました。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>ニュースです。プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>阪神<rt>はんしん</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>が、4<ruby>日<rt>よっか</rt></ruby>ぶりに<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "阪神は、雨のために3試合連続で中止になっていました。",
+      "ruby": "<ruby>阪神<rt>はんしん</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>のために3<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span><ruby>連続<rt>れんぞく</rt></ruby>で<span class=\"vw\" data-ja=\"中止\" data-reading=\"ちゅうし\" data-en=\"cancellation; calling off\"><ruby>中止<rt>ちゅうし</rt></ruby></span>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "27日、阪神は広島と試合をして、久しぶりにグラウンドに立ちました。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>、<ruby>阪神<rt>はんしん</rt></ruby>は<ruby>広島<rt>ひろしま</rt></ruby>と<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>をして、<ruby>久し<rt>ひさし</rt></ruby>ぶりにグラウンドに<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後のニュースです。東京株式市場で、半導体の株が大きく下がりました。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>のニュースです。<ruby>東京<rt>とうきょう</rt></ruby><ruby>株式市場<rt>かぶしきしじょう</rt></ruby>で、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ハイテク関連の会社の株が、たくさん売られました。",
+      "ruby": "ハイテク<ruby>関連<rt>かんれん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>が、たくさん<ruby>売ら<rt>うら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、内需関連の株は、比較的安定していました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>内需<rt>ないじゅ</rt></ruby><ruby>関連<rt>かんれん</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>は、<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>安定<rt>あんてい</rt></ruby>していました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "27日の朝、関東に上陸したのは何号の台風ですか。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>したのは<ruby>何号<rt>なんごう</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which typhoon made landfall in Kanto on the morning of the twenty-seventh? Answer: Typhoon number eight."
+    },
+    {
+      "speaker": "slow",
+      "text": "阪神の試合は、何日ぶりに行われましたか。",
+      "ruby": "<ruby>阪神<rt>はんしん</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match; game\"><ruby>試合<rt>しあい</rt></ruby></span>は、<ruby>何日<rt>なんにち</rt></ruby>ぶりに<ruby>行わ<rt>おこなわ</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "After how many days was the Hanshin game finally played? Answer: After four days."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京株式市場で、どんな株が大きく下がりましたか。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby><ruby>株式市場<rt>かぶしきしじょう</rt></ruby>で、どんな<ruby>株<rt>かぶ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What kind of stocks fell sharply on the Tokyo stock market? Answer: Semiconductor stocks."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript with furigana at podcast.jpnotes.dev. Subscribe on Apple Podcasts or Spotify. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "上陸する",
+      "reading": "じょうりくする",
+      "en": "to make landfall; to land",
+      "zh": "登陆"
+    },
+    {
+      "ja": "各地",
+      "reading": "かくち",
+      "en": "various places; many areas",
+      "zh": "各地"
+    },
+    {
+      "ja": "警報",
+      "reading": "けいほう",
+      "en": "warning; alarm",
+      "zh": "警报"
+    },
+    {
+      "ja": "交通",
+      "reading": "こうつう",
+      "en": "traffic; transportation",
+      "zh": "交通"
+    },
+    {
+      "ja": "中止",
+      "reading": "ちゅうし",
+      "en": "cancellation; calling off",
+      "zh": "中止；取消"
+    },
+    {
+      "ja": "半導体",
+      "reading": "はんどうたい",
+      "en": "semiconductor",
+      "zh": "半导体"
+    },
+    {
+      "ja": "下がる",
+      "reading": "さがる",
+      "en": "to fall; to drop; to go down",
+      "zh": "下跌；下降"
+    },
+    {
+      "ja": "試合",
+      "reading": "しあい",
+      "en": "match; game",
+      "zh": "比赛"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のために",
+      "meaning": "because of; due to",
+      "meaningZh": "因为；由于",
+      "formation": "noun + の + ために",
+      "example": "雨のために3試合連続で中止になりました。",
+      "translation": "Three games in a row were cancelled because of rain.",
+      "note": "Here ために shows a cause; with a verb it can also show purpose",
+      "noteZh": "这里的ために表示原因；接动词时也可表示目的",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#のために"
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning": "after an interval of; for the first time in",
+      "meaningZh": "时隔...；隔了...之久",
+      "formation": "time period + ぶり",
+      "example": "阪神の試合が4日ぶりに行われました。",
+      "translation": "The Hanshin game was played for the first time in four days.",
+      "note": "Marks how long it has been since the last time something happened",
+      "noteZh": "表示距上次发生某事过了多久",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜一方で",
+      "meaning": "on the other hand; while",
+      "meaningZh": "另一方面；与此同时",
+      "formation": "clause + 一方で + clause",
+      "example": "半導体の株が下がった一方で、内需関連の株は安定していました。",
+      "translation": "While semiconductor stocks fell, domestic-demand stocks stayed stable.",
+      "note": "Contrasts two situations happening at the same time",
+      "noteZh": "对比同时发生的两种情况",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一方で"
+    },
+    {
+      "pattern": "〜になる（受け身的な結果）",
+      "meaning": "to end up; to become (a result)",
+      "meaningZh": "变成；结果(成为)...",
+      "formation": "noun + に + なる",
+      "example": "3試合連続で中止になりました。",
+      "translation": "It ended up being cancelled three games in a row.",
+      "note": "中止になる describes the outcome rather than who decided it",
+      "noteZh": "中止になる强调结果，而非谁做的决定",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#になる"
+    }
+  ],
+  "practiceZh": [
+    "台風8号が関東に上陸しました。\n台风8号在关东登陆了。\n上陸する = to make landfall；関東 = 关东地区",
+    "27日の朝、台風8号が関東地方に上陸し、強い雨と風をもたらしました。\n27日早上，台风8号在关东地区登陆，带来了强雨和强风。\nもたらす = 带来；強い = strong",
+    "そのあと、台風7号も近づいて、各地で大雨になりました。\n之后，台风7号也靠近了，各地下起了大雨。\n各地 = various places；近づく = to approach",
+    "気象庁は大雨警報を出して、注意を呼びかけました。\n气象厅发布了大雨警报，呼吁注意。\n警報を出す = to issue a warning；呼びかける = to call on",
+    "電車やバスが止まって、交通に大きな影響が出ました。\n电车和巴士停运，对交通造成了很大影响。\n交通 = traffic；影響が出る = an impact appears",
+    "プロ野球の阪神の試合が、4日ぶりに行われました。\n职业棒球阪神队的比赛时隔4天终于举行了。\n〜ぶり = 时隔...；行われる = to be held",
+    "阪神は、雨のために3試合連続で中止になっていました。\n阪神队因为下雨，连续3场比赛被取消了。\n〜のために = 因为；中止 = cancellation",
+    "東京株式市場で、半導体の株が大きく下がりました。\n在东京股市，半导体股票大幅下跌。\n半導体 = semiconductor；下がる = to fall",
+    "一方で、内需関連の株は、比較的安定していました。\n另一方面，内需相关的股票则相对稳定。\n一方で = on the other hand；安定する = to be stable"
+  ]
+}
