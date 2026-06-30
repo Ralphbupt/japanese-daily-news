@@ -17,8 +17,10 @@ cd "$REPO"
 
 LEVEL="${1:-n5}"
 case "$LEVEL" in
-  n5) LEVELFIELD="N5-N4"; LEVELDESC="a BEGINNER-friendly, lighter/simpler real news story (morning N5)";;
-  n4) LEVELFIELD="N4-N3"; LEVELDESC="a more substantial INTERMEDIATE real news story (evening N4)";;
+  n5) LEVELFIELD="N5-N4"; LEVELDESC="a BEGINNER-friendly, lighter/simpler real news story (morning N5)"
+      STYLE="Target duration ~7:30-8:00 with 9-10 news segments, per CLAUDE.md.";;
+  n4) LEVELFIELD="N4-N3"; LEVELDESC="a more substantial INTERMEDIATE real news story (evening N4)"
+      STYLE="EVENING STYLE (overrides CLAUDE.md defaults): make this episode LONGER and DENSER in Japanese. Target ~9:00-10:00. Use 13-15 news segments and more breakdown sentences so there is MORE Japanese listening. Keep host (Maya) commentary MINIMAL: one short line per intro/translation, no verbose transitions or extra explanation. Prioritize Japanese volume over English commentary.";;
   *)  echo "usage: $0 n5|n4" >&2; exit 2;;
 esac
 
@@ -52,7 +54,8 @@ Steps:
    host (Maya) has ZERO Japanese characters and ZERO romaji; 9-10 news segments;
    breakdown; full replay; quiz; closing. Include vocabulary (with zh), grammar
    (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD", and contentVersion
-   = today's date YYYYMMDD followed by "01". Target ~7:30-8:00.
+   = today's date YYYYMMDD followed by "01".
+   STYLE FOR THIS RUN: $STYLE
 4. Run the pipeline. Use .venv/bin/python for ALL python tools (system python3 is
    too old). ffmpeg/ffprobe are already on PATH:
      .venv/bin/python tools/add-furigana.py epNNN
