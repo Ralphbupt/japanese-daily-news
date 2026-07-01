@@ -1,0 +1,578 @@
+{
+  "episode": 42,
+  "title": "2025年の出生数が過去最少の67万人、出生率も過去最低の1.14に",
+  "date": "2026-07-01",
+  "source": "NHK / 日本経済新聞 / 厚生労働省 人口動態統計",
+  "level": "N4-N3",
+  "contentVersion": "2026070101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July first. Japan's government has announced that the number of babies born last year fell to a new record low. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省は、去年、2025年に生まれた赤ちゃんの数を発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"厚生労働省\" data-reading=\"こうせいろうどうしょう\" data-en=\"Ministry of Health, Labour and Welfare\"><ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>、2025<ruby>年<rt>ねん</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年、日本で生まれた子どもは、67万1236人でした。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、67<ruby>万<rt>まん</rt></ruby>1236<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、前の年より1万4937人少なく、2.2パーセント減りました。",
+      "ruby": "これは、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>より1<ruby>万<rt>まん</rt></ruby>4937<ruby>人<rt>にん</rt></ruby><ruby>少なく<rt>すくなく</rt></ruby>、2.2パーセント<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1899年に統計を始めてから、一番少ない数です。",
+      "ruby": "1899<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>一番<rt>いちばん</rt></ruby><ruby>少ない<rt>すくない</rt></ruby><ruby>数<rt>かず</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人の女性が一生に産む子どもの数を表す「合計特殊出生率」は、1.14でした。",
+      "ruby": "<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>一生<rt>いっしょう</rt></ruby>に<ruby>産む<rt>うむ</rt></ruby><ruby>子ども<rt>こども</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>「<span class=\"vw\" data-ja=\"合計特殊出生率\" data-reading=\"ごうけいとくしゅしゅっしょうりつ\" data-en=\"total fertility rate\"><ruby>合計<rt>ごうけい</rt></ruby><ruby>特殊<rt>とくしゅ</rt></ruby><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>」は、1.14でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、前の年の1.15より下がって、過去最低になりました。",
+      "ruby": "これは、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>の1.15より<ruby>下が<rt>さが</rt></ruby>って、<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "出生率が下がるのは、10年続けてです。",
+      "ruby": "<span class=\"vw\" data-ja=\"出生率\" data-reading=\"しゅっしょうりつ\" data-en=\"birth rate\"><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>るのは、10<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、結婚した夫婦の数は、48万9119組で、0.8パーセント増えました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>結婚<rt>けっこん</rt></ruby>した<span class=\"vw\" data-ja=\"夫婦\" data-reading=\"ふうふ\" data-en=\"married couple\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は、48<ruby>万<rt>まん</rt></ruby>9119<ruby>組<rt>くみ</rt></ruby>で、0.8パーセント<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "結婚が増えたのは、2年続けてです。",
+      "ruby": "<ruby>結婚<rt>けっこん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たのは、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てです。"
+    },
+    {
+      "speaker": "news",
+      "text": "都道府県で見ると、出生率には「西高東低」の傾向があります。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby>で<ruby>見る<rt>みる</rt></ruby>と、<span class=\"vw\" data-ja=\"出生率\" data-reading=\"しゅっしょうりつ\" data-en=\"birth rate\"><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>には「<ruby>西高東低<rt>せいこうとうてい</rt></ruby>」の<span class=\"vw\" data-ja=\"傾向\" data-reading=\"けいこう\" data-en=\"tendency; trend\"><ruby>傾向<rt>けいこう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京都は0.96で、3年続けて「1」を下回りました。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は0.96で、3<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て「1」を<ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番高いのは沖縄県で、1.52でした。",
+      "ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby>のは<ruby>沖縄県<rt>おきなわけん</rt></ruby>で、1.52でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、若い人が結婚しやすく、子どもを育てやすい社会が必要だと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門家\" data-reading=\"せんもんか\" data-en=\"expert; specialist\"><ruby>専門家<rt>せんもんか</rt></ruby></span>は、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>しやすく、<ruby>子ども<rt>こども</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>やすい<ruby>社会<rt>しゃかい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、これからも子育ての支援を進めたいとしています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、これからも<ruby>子育て<rt>こそだて</rt></ruby>の<span class=\"vw\" data-ja=\"支援\" data-reading=\"しえん\" data-en=\"support; aid\"><ruby>支援<rt>しえん</rt></ruby></span>を<ruby>進め<rt>すすめ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "厚生労働省は、去年、2025年に生まれた赤ちゃんの数を発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"厚生労働省\" data-reading=\"こうせいろうどうしょう\" data-en=\"Ministry of Health, Labour and Welfare\"><ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>、2025<ruby>年<rt>ねん</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Ministry of Health, Labour and Welfare announced the number of babies born last year, in 2025."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce; to make public\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To announce, to make public."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年、日本で生まれた子どもは、67万1236人でした。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、67<ruby>万<rt>まん</rt></ruby>1236<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The number of children born in Japan last year was 671,236."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"生まれる\" data-reading=\"うまれる\" data-en=\"to be born\"><ruby>生まれ<rt>うまれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To be born."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、前の年より1万4937人少なく、2.2パーセント減りました。",
+      "ruby": "これは、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>より1<ruby>万<rt>まん</rt></ruby>4937<ruby>人<rt>にん</rt></ruby><ruby>少なく<rt>すくなく</rt></ruby>、2.2パーセント<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is 14,937 fewer than the year before, a fall of 2.2 percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease; to go down\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To decrease, to go down."
+    },
+    {
+      "speaker": "slow",
+      "text": "1899年に統計を始めてから、一番少ない数です。",
+      "ruby": "1899<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>一番<rt>いちばん</rt></ruby><ruby>少ない<rt>すくない</rt></ruby><ruby>数<rt>かず</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the smallest number since record-keeping began in 1899."
+    },
+    {
+      "speaker": "vocab",
+      "text": "統計",
+      "ruby": "<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Statistics, official record-keeping."
+    },
+    {
+      "speaker": "slow",
+      "text": "一人の女性が一生に産む子どもの数を表す「合計特殊出生率」は、1.14でした。",
+      "ruby": "<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>一生<rt>いっしょう</rt></ruby>に<ruby>産む<rt>うむ</rt></ruby><ruby>子ども<rt>こども</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>「<span class=\"vw\" data-ja=\"合計特殊出生率\" data-reading=\"ごうけいとくしゅしゅっしょうりつ\" data-en=\"total fertility rate\"><ruby>合計<rt>ごうけい</rt></ruby><ruby>特殊<rt>とくしゅ</rt></ruby><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>」は、1.14でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The total fertility rate, which shows how many children one woman has in her lifetime, was 1.14."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合計特殊出生率",
+      "ruby": "<span class=\"vw\" data-ja=\"合計特殊出生率\" data-reading=\"ごうけいとくしゅしゅっしょうりつ\" data-en=\"total fertility rate\"><ruby>合計<rt>ごうけい</rt></ruby><ruby>特殊<rt>とくしゅ</rt></ruby><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "The total fertility rate."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、前の年の1.15より下がって、過去最低になりました。",
+      "ruby": "これは、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>の1.15より<ruby>下が<rt>さが</rt></ruby>って、<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is down from 1.15 the year before, a record low."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過去最低",
+      "ruby": "<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "The lowest ever, a record low."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方で、結婚した夫婦の数は、48万9119組で、0.8パーセント増えました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>結婚<rt>けっこん</rt></ruby>した<span class=\"vw\" data-ja=\"夫婦\" data-reading=\"ふうふ\" data-en=\"married couple\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は、48<ruby>万<rt>まん</rt></ruby>9119<ruby>組<rt>くみ</rt></ruby>で、0.8パーセント<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, the number of couples who married was 489,119, up 0.8 percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夫婦",
+      "ruby": "<span class=\"vw\" data-ja=\"夫婦\" data-reading=\"ふうふ\" data-en=\"married couple\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A married couple."
+    },
+    {
+      "speaker": "slow",
+      "text": "都道府県で見ると、出生率には「西高東低」の傾向があります。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby>で<ruby>見る<rt>みる</rt></ruby>と、<span class=\"vw\" data-ja=\"出生率\" data-reading=\"しゅっしょうりつ\" data-en=\"birth rate\"><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>には「<ruby>西高東低<rt>せいこうとうてい</rt></ruby>」の<span class=\"vw\" data-ja=\"傾向\" data-reading=\"けいこう\" data-en=\"tendency; trend\"><ruby>傾向<rt>けいこう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "By prefecture, birth rates tend to be higher in the west and lower in the east."
+    },
+    {
+      "speaker": "vocab",
+      "text": "傾向",
+      "ruby": "<span class=\"vw\" data-ja=\"傾向\" data-reading=\"けいこう\" data-en=\"tendency; trend\"><ruby>傾向<rt>けいこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A tendency, a trend."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京都は0.96で、3年続けて「1」を下回りました。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は0.96で、3<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て「1」を<ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tokyo was 0.96, below one for the third year in a row."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下回る",
+      "ruby": "<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below; to be under\"><ruby>下回る<rt>したまわる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To fall below, to be under a figure."
+    },
+    {
+      "speaker": "slow",
+      "text": "専門家は、若い人が結婚しやすく、子どもを育てやすい社会が必要だと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門家\" data-reading=\"せんもんか\" data-en=\"expert; specialist\"><ruby>専門家<rt>せんもんか</rt></ruby></span>は、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>しやすく、<ruby>子ども<rt>こども</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>やすい<ruby>社会<rt>しゃかい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Experts say Japan needs a society where young people find it easy to marry and to raise children."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育てる",
+      "ruby": "<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To raise, to bring up a child."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省は、去年、2025年に生まれた赤ちゃんの数を発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"厚生労働省\" data-reading=\"こうせいろうどうしょう\" data-en=\"Ministry of Health, Labour and Welfare\"><ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>、2025<ruby>年<rt>ねん</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年、日本で生まれた子どもは、67万1236人でした。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、67<ruby>万<rt>まん</rt></ruby>1236<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、前の年より1万4937人少なく、2.2パーセント減りました。",
+      "ruby": "これは、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>より1<ruby>万<rt>まん</rt></ruby>4937<ruby>人<rt>にん</rt></ruby><ruby>少なく<rt>すくなく</rt></ruby>、2.2パーセント<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1899年に統計を始めてから、一番少ない数です。",
+      "ruby": "1899<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>一番<rt>いちばん</rt></ruby><ruby>少ない<rt>すくない</rt></ruby><ruby>数<rt>かず</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人の女性が一生に産む子どもの数を表す「合計特殊出生率」は、1.14でした。",
+      "ruby": "<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>一生<rt>いっしょう</rt></ruby>に<ruby>産む<rt>うむ</rt></ruby><ruby>子ども<rt>こども</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>「<span class=\"vw\" data-ja=\"合計特殊出生率\" data-reading=\"ごうけいとくしゅしゅっしょうりつ\" data-en=\"total fertility rate\"><ruby>合計<rt>ごうけい</rt></ruby><ruby>特殊<rt>とくしゅ</rt></ruby><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>」は、1.14でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、前の年の1.15より下がって、過去最低になりました。",
+      "ruby": "これは、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>の1.15より<ruby>下が<rt>さが</rt></ruby>って、<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "出生率が下がるのは、10年続けてです。",
+      "ruby": "<span class=\"vw\" data-ja=\"出生率\" data-reading=\"しゅっしょうりつ\" data-en=\"birth rate\"><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>るのは、10<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、結婚した夫婦の数は、48万9119組で、0.8パーセント増えました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>結婚<rt>けっこん</rt></ruby>した<span class=\"vw\" data-ja=\"夫婦\" data-reading=\"ふうふ\" data-en=\"married couple\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は、48<ruby>万<rt>まん</rt></ruby>9119<ruby>組<rt>くみ</rt></ruby>で、0.8パーセント<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "結婚が増えたのは、2年続けてです。",
+      "ruby": "<ruby>結婚<rt>けっこん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たのは、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てです。"
+    },
+    {
+      "speaker": "news",
+      "text": "都道府県で見ると、出生率には「西高東低」の傾向があります。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby>で<ruby>見る<rt>みる</rt></ruby>と、<span class=\"vw\" data-ja=\"出生率\" data-reading=\"しゅっしょうりつ\" data-en=\"birth rate\"><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>には「<ruby>西高東低<rt>せいこうとうてい</rt></ruby>」の<span class=\"vw\" data-ja=\"傾向\" data-reading=\"けいこう\" data-en=\"tendency; trend\"><ruby>傾向<rt>けいこう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京都は0.96で、3年続けて「1」を下回りました。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は0.96で、3<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て「1」を<ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番高いのは沖縄県で、1.52でした。",
+      "ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby>のは<ruby>沖縄県<rt>おきなわけん</rt></ruby>で、1.52でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、若い人が結婚しやすく、子どもを育てやすい社会が必要だと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門家\" data-reading=\"せんもんか\" data-en=\"expert; specialist\"><ruby>専門家<rt>せんもんか</rt></ruby></span>は、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>しやすく、<ruby>子ども<rt>こども</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>やすい<ruby>社会<rt>しゃかい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、これからも子育ての支援を進めたいとしています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、これからも<ruby>子育て<rt>こそだて</rt></ruby>の<span class=\"vw\" data-ja=\"支援\" data-reading=\"しえん\" data-en=\"support; aid\"><ruby>支援<rt>しえん</rt></ruby></span>を<ruby>進め<rt>すすめ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年、日本で生まれた子どもは、何人でしたか。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、<ruby>何人<rt>なんにん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many children were born in Japan last year? Answer: 671,236."
+    },
+    {
+      "speaker": "slow",
+      "text": "合計特殊出生率は、いくつでしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"合計特殊出生率\" data-reading=\"ごうけいとくしゅしゅっしょうりつ\" data-en=\"total fertility rate\"><ruby>合計<rt>ごうけい</rt></ruby><ruby>特殊<rt>とくしゅ</rt></ruby><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>は、いくつでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the total fertility rate? Answer: 1.14, a record low."
+    },
+    {
+      "speaker": "slow",
+      "text": "出生率が一番高い都道府県は、どこですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"出生率\" data-reading=\"しゅっしょうりつ\" data-en=\"birth rate\"><ruby>出生率<rt>しゅっしょうりつ</rt></ruby></span>が<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>都道府県<rt>とどうふけん</rt></ruby>は、どこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which prefecture had the highest birth rate? Answer: Okinawa, at 1.52."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript and vocabulary are on the site. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "厚生労働省",
+      "reading": "こうせいろうどうしょう",
+      "en": "Ministry of Health, Labour and Welfare",
+      "zh": "厚生劳动省"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce; to make public",
+      "zh": "公布；宣布"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生；诞生"
+    },
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "婴儿"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease; to go down",
+      "zh": "减少"
+    },
+    {
+      "ja": "統計",
+      "reading": "とうけい",
+      "en": "statistics",
+      "zh": "统计"
+    },
+    {
+      "ja": "合計特殊出生率",
+      "reading": "ごうけいとくしゅしゅっしょうりつ",
+      "en": "total fertility rate",
+      "zh": "总和生育率"
+    },
+    {
+      "ja": "出生率",
+      "reading": "しゅっしょうりつ",
+      "en": "birth rate",
+      "zh": "出生率"
+    },
+    {
+      "ja": "過去最低",
+      "reading": "かこさいてい",
+      "en": "record low; lowest ever",
+      "zh": "历史最低"
+    },
+    {
+      "ja": "夫婦",
+      "reading": "ふうふ",
+      "en": "married couple",
+      "zh": "夫妻；夫妇"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "傾向",
+      "reading": "けいこう",
+      "en": "tendency; trend",
+      "zh": "倾向；趋势"
+    },
+    {
+      "ja": "下回る",
+      "reading": "したまわる",
+      "en": "to fall below; to be under",
+      "zh": "低于；不足"
+    },
+    {
+      "ja": "育てる",
+      "reading": "そだてる",
+      "en": "to raise; to bring up",
+      "zh": "养育；培养"
+    },
+    {
+      "ja": "専門家",
+      "reading": "せんもんか",
+      "en": "expert; specialist",
+      "zh": "专家"
+    },
+    {
+      "ja": "支援",
+      "reading": "しえん",
+      "en": "support; aid",
+      "zh": "支援；扶持"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜より",
+      "meaning": "than ~ (comparison)",
+      "meaningZh": "比…（比较）",
+      "formation": "noun + より + comparison",
+      "example": "前の年より1万4937人少ない。",
+      "translation": "14,937 fewer than the year before.",
+      "note": "Marks the standard something is compared against; the thing that is 'more' or 'less' comes after より",
+      "noteZh": "标示比较的基准，「より」后面接较多或较少的一方",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#より"
+    },
+    {
+      "pattern": "〜てから",
+      "meaning": "after ~; since ~",
+      "meaningZh": "…之后；自从…",
+      "formation": "verb (て form) + から",
+      "example": "1899年に統計を始めてから、一番少ない数です。",
+      "translation": "It is the smallest number since statistics began in 1899.",
+      "note": "Shows a starting point in time; here it marks the point from which the record is counted",
+      "noteZh": "表示时间的起点，这里指从该时点算起",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てから"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~",
+      "meaningZh": "容易…；好…",
+      "formation": "verb (ます stem) + やすい",
+      "example": "子どもを育てやすい社会が必要です。",
+      "translation": "A society where it is easy to raise children is needed.",
+      "note": "Attaches to a verb stem to say an action is easy or comfortable to do; opposite of 〜にくい",
+      "noteZh": "接在动词ます形词干后，表示某动作容易做，反义为「〜にくい」",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#やすい"
+    },
+    {
+      "pattern": "〜としている",
+      "meaning": "states that ~; takes the position that ~",
+      "meaningZh": "表示…；认为…",
+      "formation": "plain form + としている",
+      "example": "政府は、子育ての支援を進めたいとしています。",
+      "translation": "The government states that it wants to advance support for child-rearing.",
+      "note": "Common in news to report an organisation's stated position or intention",
+      "noteZh": "新闻中常用，转述机构表明的立场或意向",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#としている"
+    }
+  ],
+  "practiceZh": [
+    "厚生労働省は、去年、2025年に生まれた赤ちゃんの数を発表しました。\n厚生劳动省公布了去年、也就是2025年出生的婴儿数量。\n厚生労働省 = Ministry of Health, Labour and Welfare；発表する = to announce；赤ちゃん = baby",
+    "去年、日本で生まれた子どもは、67万1236人でした。\n去年在日本出生的孩子是67万1236人。\n生まれる = to be born；子ども = child",
+    "これは、前の年より1万4937人少なく、2.2パーセント減りました。\n这比前一年少了1万4937人，减少了2.2%。\n〜より = than；少ない = few；減る = to decrease",
+    "1899年に統計を始めてから、一番少ない数です。\n这是自1899年开始统计以来最少的数字。\n統計 = statistics；〜てから = since；一番 = most",
+    "一人の女性が一生に産む子どもの数を表す「合計特殊出生率」は、1.14でした。\n表示一名女性一生所生孩子数量的「总和生育率」为1.14。\n女性 = woman；産む = to give birth；合計特殊出生率 = total fertility rate",
+    "これは、前の年の1.15より下がって、過去最低になりました。\n这比前一年的1.15下降，创下历史最低。\n下がる = to fall；過去最低 = record low",
+    "一方で、結婚した夫婦の数は、48万9119組で、0.8パーセント増えました。\n另一方面，结婚的夫妻数为48万9119对，增加了0.8%。\n一方で = on the other hand；夫婦 = couple；増える = to increase",
+    "都道府県で見ると、出生率には「西高東低」の傾向があります。\n从各都道府县来看，出生率呈现「西高东低」的趋势。\n都道府県 = prefectures；傾向 = tendency",
+    "東京都は0.96で、3年続けて「1」を下回りました。\n东京都为0.96，连续3年低于「1」。\n続けて = in a row；下回る = to fall below",
+    "専門家は、若い人が結婚しやすく、子どもを育てやすい社会が必要だと話しています。\n专家表示，需要一个让年轻人容易结婚、容易养育孩子的社会。\n専門家 = expert；〜やすい = easy to；育てる = to raise"
+  ]
+}
