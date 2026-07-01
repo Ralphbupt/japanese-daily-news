@@ -1,0 +1,504 @@
+{
+  "episode": 43,
+  "title": "東京・日本科学未来館で「大南極展」開幕、南極観測70年を記念",
+  "date": "2026-07-01",
+  "source": "日本科学未来館 (Miraikan) / NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026070101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July first. A big new exhibition about Antarctica opens in Tokyo today, celebrating seventy years of Japanese research at the South Pole. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の日本科学未来館で、今日、7月1日から特別展「大南極展」が始まります。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby><ruby>科学<rt>かがく</rt></ruby><ruby>未来<rt>みらい</rt></ruby><ruby>館<rt>かん</rt></ruby>で、<ruby>今日<rt>きょう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>「<ruby>大<rt>だい</rt></ruby><ruby>南極<rt>なんきょく</rt></ruby><ruby>展<rt>てん</rt></ruby>」が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この特別展は、日本が南極の観測を始めてから70年になるのを記念して開かれます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>が<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから70<ruby>年<rt>ねん</rt></ruby>になるのを<ruby>記念<rt>きねん</rt></ruby>して<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場では、南極の本物の氷を触ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; site\"><ruby>会場<rt>かいじょう</rt></ruby></span>では、<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing; genuine article\"><ruby>本物<rt>ほんもの</rt></ruby></span>の<ruby>氷<rt>こおり</rt></ruby>を<span class=\"vw\" data-ja=\"触る\" data-reading=\"さわる\" data-en=\"to touch\"><ruby>触る<rt>さわる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この氷は、何千年も前に雪として降ったものです。",
+      "ruby": "この<ruby>氷<rt>こおり</rt></ruby>は、<ruby>何千<rt>なんぜん</rt></ruby><ruby>年<rt>ねん</rt></ruby>も<ruby>前<rt>まえ</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>として<ruby>降っ<rt>ふっ</rt></ruby>たものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "地下2499メートルから取り出した氷には、34万年前の空気が入っています。",
+      "ruby": "<ruby>地下<rt>ちか</rt></ruby>2499メートルから<ruby>取り出し<rt>とりだし</rt></ruby>た<ruby>氷<rt>こおり</rt></ruby>には、34<ruby>万年<rt>まんねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "南極で見つかった隕石も展示されます。月や火星から来たと考えられる珍しい隕石もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>で<ruby>見つ<rt>みつ</rt></ruby>かった<span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>も<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>されます。<ruby>月<rt>つき</rt></ruby>や<ruby>火星<rt>かせい</rt></ruby>から<ruby>来た<rt>きた</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られる<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ブリザードと呼ばれる強い風と雪を、体験できるコーナーもあります。",
+      "ruby": "ブリザードと<ruby>呼ば<rt>よば</rt></ruby>れる<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>と<ruby>雪<rt>ゆき</rt></ruby>を、<ruby>体験<rt>たいけん</rt></ruby>できるコーナーもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンの観測や、美しいオーロラについての展示もあります。",
+      "ruby": "ペンギンの<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>や、<ruby>美しい<rt>うつくしい</rt></ruby>オーロラについての<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "特別展は9月27日まで開かれます。夏休みの自由研究にもぴったりだと、話題になっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>自由研究<rt>じゆうけんきゅう</rt></ruby>にもぴったりだと、<span class=\"vw\" data-ja=\"話題\" data-reading=\"わだい\" data-en=\"topic; talk of the town\"><ruby>話題<rt>わだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の日本科学未来館で、今日、7月1日から特別展「大南極展」が始まります。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby><ruby>科学<rt>かがく</rt></ruby><ruby>未来<rt>みらい</rt></ruby><ruby>館<rt>かん</rt></ruby>で、<ruby>今日<rt>きょう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>「<ruby>大<rt>だい</rt></ruby><ruby>南極<rt>なんきょく</rt></ruby><ruby>展<rt>てん</rt></ruby>」が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Miraikan science museum in Tokyo opens a special exhibition called \"The Great Antarctic Exhibition\" today, July first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin; to start\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To begin, to start."
+    },
+    {
+      "speaker": "slow",
+      "text": "この特別展は、日本が南極の観測を始めてから70年になるのを記念して開かれます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>が<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから70<ruby>年<rt>ねん</rt></ruby>になるのを<ruby>記念<rt>きねん</rt></ruby>して<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The exhibition marks seventy years since Japan began observing Antarctica."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記念する",
+      "ruby": "<span class=\"vw\" data-ja=\"記念する\" data-reading=\"きねんする\" data-en=\"to commemorate; to mark an occasion\"><ruby>記念<rt>きねん</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To commemorate, to mark an occasion."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場では、南極の本物の氷を触ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; site\"><ruby>会場<rt>かいじょう</rt></ruby></span>では、<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing; genuine article\"><ruby>本物<rt>ほんもの</rt></ruby></span>の<ruby>氷<rt>こおり</rt></ruby>を<span class=\"vw\" data-ja=\"触る\" data-reading=\"さわる\" data-en=\"to touch\"><ruby>触る<rt>さわる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the venue, you can touch real ice from Antarctica."
+    },
+    {
+      "speaker": "vocab",
+      "text": "触る",
+      "ruby": "<span class=\"vw\" data-ja=\"触る\" data-reading=\"さわる\" data-en=\"to touch\"><ruby>触る<rt>さわる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To touch."
+    },
+    {
+      "speaker": "slow",
+      "text": "この氷は、何千年も前に雪として降ったものです。",
+      "ruby": "この<ruby>氷<rt>こおり</rt></ruby>は、<ruby>何千<rt>なんぜん</rt></ruby><ruby>年<rt>ねん</rt></ruby>も<ruby>前<rt>まえ</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>として<ruby>降っ<rt>ふっ</rt></ruby>たものです。"
+    },
+    {
+      "speaker": "host",
+      "text": "This ice fell as snow many thousands of years ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "降る",
+      "ruby": "<span class=\"vw\" data-ja=\"降る\" data-reading=\"ふる\" data-en=\"to fall (snow or rain)\"><ruby>降る<rt>ふる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To fall, used for snow or rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "地下2499メートルから取り出した氷には、34万年前の空気が入っています。",
+      "ruby": "<ruby>地下<rt>ちか</rt></ruby>2499メートルから<ruby>取り出し<rt>とりだし</rt></ruby>た<ruby>氷<rt>こおり</rt></ruby>には、34<ruby>万年<rt>まんねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ice taken from 2,499 meters underground holds air from 340,000 years ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "空気",
+      "ruby": "<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Air."
+    },
+    {
+      "speaker": "slow",
+      "text": "南極で見つかった隕石も展示されます。月や火星から来たと考えられる珍しい隕石もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>で<ruby>見つ<rt>みつ</rt></ruby>かった<span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>も<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>されます。<ruby>月<rt>つき</rt></ruby>や<ruby>火星<rt>かせい</rt></ruby>から<ruby>来た<rt>きた</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られる<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meteorites found in Antarctica are also on display, including rare ones thought to have come from the moon or Mars."
+    },
+    {
+      "speaker": "vocab",
+      "text": "隕石",
+      "ruby": "<span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A meteorite."
+    },
+    {
+      "speaker": "slow",
+      "text": "ブリザードと呼ばれる強い風と雪を、体験できるコーナーもあります。",
+      "ruby": "ブリザードと<ruby>呼ば<rt>よば</rt></ruby>れる<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>と<ruby>雪<rt>ゆき</rt></ruby>を、<ruby>体験<rt>たいけん</rt></ruby>できるコーナーもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There is also a corner where you can experience a blizzard, with strong wind and snow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "体験する",
+      "ruby": "<span class=\"vw\" data-ja=\"体験する\" data-reading=\"たいけんする\" data-en=\"to experience firsthand\"><ruby>体験<rt>たいけん</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To experience something firsthand."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンの観測や、美しいオーロラについての展示もあります。",
+      "ruby": "ペンギンの<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>や、<ruby>美しい<rt>うつくしい</rt></ruby>オーロラについての<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are displays about penguin observation and the beautiful auroras too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "展示",
+      "ruby": "<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A display, an exhibit."
+    },
+    {
+      "speaker": "slow",
+      "text": "特別展は9月27日まで開かれます。夏休みの自由研究にもぴったりだと、話題になっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>自由研究<rt>じゆうけんきゅう</rt></ruby>にもぴったりだと、<span class=\"vw\" data-ja=\"話題\" data-reading=\"わだい\" data-en=\"topic; talk of the town\"><ruby>話題<rt>わだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The exhibition runs until September twenty-seventh, and it's being talked about as perfect for summer homework projects."
+    },
+    {
+      "speaker": "vocab",
+      "text": "話題",
+      "ruby": "<span class=\"vw\" data-ja=\"話題\" data-reading=\"わだい\" data-en=\"topic; talk of the town\"><ruby>話題<rt>わだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A topic, the talk of the town."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の日本科学未来館で、今日、7月1日から特別展「大南極展」が始まります。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby><ruby>科学<rt>かがく</rt></ruby><ruby>未来<rt>みらい</rt></ruby><ruby>館<rt>かん</rt></ruby>で、<ruby>今日<rt>きょう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>「<ruby>大<rt>だい</rt></ruby><ruby>南極<rt>なんきょく</rt></ruby><ruby>展<rt>てん</rt></ruby>」が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この特別展は、日本が南極の観測を始めてから70年になるのを記念して開かれます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>が<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから70<ruby>年<rt>ねん</rt></ruby>になるのを<ruby>記念<rt>きねん</rt></ruby>して<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場では、南極の本物の氷を触ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; site\"><ruby>会場<rt>かいじょう</rt></ruby></span>では、<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing; genuine article\"><ruby>本物<rt>ほんもの</rt></ruby></span>の<ruby>氷<rt>こおり</rt></ruby>を<span class=\"vw\" data-ja=\"触る\" data-reading=\"さわる\" data-en=\"to touch\"><ruby>触る<rt>さわる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この氷は、何千年も前に雪として降ったものです。",
+      "ruby": "この<ruby>氷<rt>こおり</rt></ruby>は、<ruby>何千<rt>なんぜん</rt></ruby><ruby>年<rt>ねん</rt></ruby>も<ruby>前<rt>まえ</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>として<ruby>降っ<rt>ふっ</rt></ruby>たものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "地下2499メートルから取り出した氷には、34万年前の空気が入っています。",
+      "ruby": "<ruby>地下<rt>ちか</rt></ruby>2499メートルから<ruby>取り出し<rt>とりだし</rt></ruby>た<ruby>氷<rt>こおり</rt></ruby>には、34<ruby>万年<rt>まんねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "南極で見つかった隕石も展示されます。月や火星から来たと考えられる珍しい隕石もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>で<ruby>見つ<rt>みつ</rt></ruby>かった<span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>も<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>されます。<ruby>月<rt>つき</rt></ruby>や<ruby>火星<rt>かせい</rt></ruby>から<ruby>来た<rt>きた</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られる<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><span class=\"vw\" data-ja=\"隕石\" data-reading=\"いんせき\" data-en=\"meteorite\"><ruby>隕石<rt>いんせき</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ブリザードと呼ばれる強い風と雪を、体験できるコーナーもあります。",
+      "ruby": "ブリザードと<ruby>呼ば<rt>よば</rt></ruby>れる<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>と<ruby>雪<rt>ゆき</rt></ruby>を、<ruby>体験<rt>たいけん</rt></ruby>できるコーナーもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンの観測や、美しいオーロラについての展示もあります。",
+      "ruby": "ペンギンの<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>や、<ruby>美しい<rt>うつくしい</rt></ruby>オーロラについての<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display; exhibit\"><ruby>展示<rt>てんじ</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "特別展は9月27日まで開かれます。夏休みの自由研究にもぴったりだと、話題になっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>自由研究<rt>じゆうけんきゅう</rt></ruby>にもぴったりだと、<span class=\"vw\" data-ja=\"話題\" data-reading=\"わだい\" data-en=\"topic; talk of the town\"><ruby>話題<rt>わだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "「大南極展」は、どこで始まりますか。",
+      "ruby": "「<ruby>大<rt>だい</rt></ruby><ruby>南極<rt>なんきょく</rt></ruby><ruby>展<rt>てん</rt></ruby>」は、どこで<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Where does \"The Great Antarctic Exhibition\" open? Answer: at the Miraikan science museum in Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "この特別展は、何年を記念して開かれますか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"特別展\" data-reading=\"とくべつてん\" data-en=\"special exhibition\"><ruby>特別展<rt>とくべつてん</rt></ruby></span>は、<ruby>何年<rt>なんねん</rt></ruby>を<ruby>記念<rt>きねん</rt></ruby>して<ruby>開か<rt>ひらか</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How many years is the exhibition marking? Answer: seventy years since Japan began observing Antarctica."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場で触ることができる、南極の本物のものは何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; site\"><ruby>会場<rt>かいじょう</rt></ruby></span>で<span class=\"vw\" data-ja=\"触る\" data-reading=\"さわる\" data-en=\"to touch\"><ruby>触る<rt>さわる</rt></ruby></span>ことができる、<span class=\"vw\" data-ja=\"南極\" data-reading=\"なんきょく\" data-en=\"Antarctica; the South Pole\"><ruby>南極<rt>なんきょく</rt></ruby></span>の<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing; genuine article\"><ruby>本物<rt>ほんもの</rt></ruby></span>のものは<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What real Antarctic thing can you touch at the venue? Answer: real Antarctic ice."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript and vocabulary are on the site. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "南極",
+      "reading": "なんきょく",
+      "en": "Antarctica; the South Pole",
+      "zh": "南极"
+    },
+    {
+      "ja": "特別展",
+      "reading": "とくべつてん",
+      "en": "special exhibition",
+      "zh": "特别展"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin; to start",
+      "zh": "开始"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation (scientific)",
+      "zh": "观测"
+    },
+    {
+      "ja": "記念する",
+      "reading": "きねんする",
+      "en": "to commemorate; to mark an occasion",
+      "zh": "纪念"
+    },
+    {
+      "ja": "会場",
+      "reading": "かいじょう",
+      "en": "venue; site",
+      "zh": "会场"
+    },
+    {
+      "ja": "本物",
+      "reading": "ほんもの",
+      "en": "the real thing; genuine article",
+      "zh": "真品；实物"
+    },
+    {
+      "ja": "触る",
+      "reading": "さわる",
+      "en": "to touch",
+      "zh": "触摸；碰"
+    },
+    {
+      "ja": "降る",
+      "reading": "ふる",
+      "en": "to fall (snow or rain)",
+      "zh": "（雪、雨）下"
+    },
+    {
+      "ja": "空気",
+      "reading": "くうき",
+      "en": "air",
+      "zh": "空气"
+    },
+    {
+      "ja": "隕石",
+      "reading": "いんせき",
+      "en": "meteorite",
+      "zh": "陨石"
+    },
+    {
+      "ja": "珍しい",
+      "reading": "めずらしい",
+      "en": "rare; unusual",
+      "zh": "稀有；罕见"
+    },
+    {
+      "ja": "体験する",
+      "reading": "たいけんする",
+      "en": "to experience firsthand",
+      "zh": "体验"
+    },
+    {
+      "ja": "展示",
+      "reading": "てんじ",
+      "en": "display; exhibit",
+      "zh": "展示；展出"
+    },
+    {
+      "ja": "話題",
+      "reading": "わだい",
+      "en": "topic; talk of the town",
+      "zh": "话题；热门话题"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜から",
+      "meaning": "from ~ (starting time or point)",
+      "meaningZh": "从…（起点）",
+      "formation": "noun (time/place) + から",
+      "example": "7月1日から始まります。",
+      "translation": "It begins from July first.",
+      "note": "Marks a starting point in time or space; here it marks the day the exhibition opens",
+      "noteZh": "标示时间或空间的起点，这里指展览开始的日子",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#から"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~; be able to ~",
+      "meaningZh": "能…；可以…",
+      "formation": "verb (dictionary form) + ことができる",
+      "example": "本物の氷を触ることができます。",
+      "translation": "You can touch real ice.",
+      "note": "A polite way to express ability or possibility; the verb before こと stays in dictionary form",
+      "noteZh": "较正式的表达能力或可能性的说法，こと前的动词用辞书形",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "called ~; known as ~",
+      "meaningZh": "被称为…；叫做…",
+      "formation": "noun + と呼ばれる",
+      "example": "ブリザードと呼ばれる強い風。",
+      "translation": "Strong wind called a blizzard.",
+      "note": "Passive form of 呼ぶ (to call); often used to introduce a name or term",
+      "noteZh": "「呼ぶ」的被动形，常用来引出名称或术语",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と呼ばれる"
+    },
+    {
+      "pattern": "〜と考えられる",
+      "meaning": "is thought to ~; is considered ~",
+      "meaningZh": "被认为…；据推测…",
+      "formation": "plain form + と考えられる",
+      "example": "月や火星から来たと考えられる隕石。",
+      "translation": "Meteorites thought to have come from the moon or Mars.",
+      "note": "Used to report a widely held view or scientific estimate without naming who thinks it",
+      "noteZh": "用来陈述普遍看法或科学推测，不点明是谁认为",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と考えられる"
+    }
+  ],
+  "practiceZh": [
+    "東京の日本科学未来館で、今日、7月1日から特別展「大南極展」が始まります。\n在东京的日本科学未来馆，今天、7月1日起特别展「大南极展」开始举办。\n特別展 = special exhibition；始まる = to begin",
+    "この特別展は、日本が南極の観測を始めてから70年になるのを記念して開かれます。\n这个特别展是为纪念日本开始南极观测70周年而举办的。\n南極 = Antarctica；観測 = observation；記念する = to commemorate",
+    "会場では、南極の本物の氷を触ることができます。\n在会场可以触摸南极的真冰。\n会場 = venue；本物 = the real thing；触る = to touch；〜ことができる = can",
+    "この氷は、何千年も前に雪として降ったものです。\n这些冰是几千年前作为雪降下来的。\n何千年 = thousands of years；雪 = snow；降る = to fall",
+    "地下2499メートルから取り出した氷には、34万年前の空気が入っています。\n从地下2499米取出的冰里，含有34万年前的空气。\n地下 = underground；取り出す = to take out；空気 = air",
+    "南極で見つかった隕石も展示されます。\n在南极发现的陨石也会展出。\n見つかる = to be found；隕石 = meteorite；展示 = display",
+    "月や火星から来たと考えられる珍しい隕石もあります。\n也有被认为来自月球或火星的珍稀陨石。\n火星 = Mars；〜と考えられる = is thought to；珍しい = rare",
+    "ブリザードと呼ばれる強い風と雪を、体験できるコーナーもあります。\n还有可以体验被称为暴风雪的强风和雪的区域。\n〜と呼ばれる = called；強い = strong；体験する = to experience",
+    "ペンギンの観測や、美しいオーロラについての展示もあります。\n还有关于企鹅观测和美丽极光的展示。\nペンギン = penguin；美しい = beautiful；オーロラ = aurora",
+    "特別展は9月27日まで開かれます。夏休みの自由研究にもぴったりだと、話題になっています。\n特别展将举办到9月27日。据说很适合暑假的自由研究，成为热门话题。\n夏休み = summer vacation；自由研究 = independent study project；話題 = topic"
+  ]
+}
