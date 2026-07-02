@@ -1,0 +1,588 @@
+{
+  "episode": 44,
+  "title": "気象庁が40度以上の日を「酷暑日」と決定、今年の夏の天気予報から使用",
+  "date": "2026-07-02",
+  "source": "NHK / 日本経済新聞 / 気象庁 / 日本気象協会",
+  "level": "N4-N3",
+  "contentVersion": "2026070201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July second. Japan's weather agency has created a new word for days when the temperature climbs past forty degrees, and forecasts will start using it this summer. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、最高気温が40度以上の日を表す、新しい言葉を決めました。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい言葉は「酷暑日」です。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>は「<span class=\"vw\" data-ja=\"酷暑日\" data-reading=\"こくしょび\" data-en=\"extreme-heat day (40°C or higher)\"><ruby>酷暑<rt>こくしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、今年の夏から、天気予報でこの言葉を使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>から、<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>でこの<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今まで、最高気温が25度以上の日は「夏日」、30度以上の日は「真夏日」と呼んでいました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が25<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"夏日\" data-reading=\"なつび\" data-en=\"summer day (25°C or higher)\"><ruby>夏日<rt>なつび</rt></ruby></span>」、30<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"midsummer day (30°C or higher)\"><ruby>真夏日<rt>まなつび</rt></ruby></span>」と<ruby>呼ん<rt>よん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、35度以上の日は「猛暑日」と呼んでいました。",
+      "ruby": "そして、35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"猛暑日\" data-reading=\"もうしょび\" data-en=\"scorching day (35°C or higher)\"><ruby>猛暑<rt>もうしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」と<ruby>呼ん<rt>よん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、40度以上のとても暑い日を表す言葉は、ありませんでした。",
+      "ruby": "でも、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のとても<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span><ruby>言葉<rt>ことば</rt></ruby>は、ありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで、40度以上の日を、新しく「酷暑日」と呼ぶことにしました。",
+      "ruby": "そこで、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を、<ruby>新しく<rt>あたらしく</rt></ruby>「<span class=\"vw\" data-ja=\"酷暑日\" data-reading=\"こくしょび\" data-en=\"extreme-heat day (40°C or higher)\"><ruby>酷暑<rt>こくしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」と<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call; to name\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>ことにしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、この言葉を決めるために、多くの人にアンケートを行いました。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、この<ruby>言葉<rt>ことば</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るために、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"アンケート\" data-reading=\"あんけーと\" data-en=\"questionnaire; survey\">アンケート</span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国から、47万を超える意見が集まりました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>から、47<ruby>万<rt>まん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>る<span class=\"vw\" data-ja=\"意見\" data-reading=\"いけん\" data-en=\"opinion; view\"><ruby>意見<rt>いけん</rt></ruby></span>が<ruby>集まり<rt>あつまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、2018年から毎年、40度以上を記録する場所が出ています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、2018<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby>、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<span class=\"vw\" data-ja=\"記録する\" data-reading=\"きろくする\" data-en=\"to record; to register (a figure)\"><ruby>記録<rt>きろく</rt></ruby>する</span><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年、2025年は、群馬県伊勢崎市で41.8度を記録し、観測史上、一番高い気温になりました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、2025<ruby>年<rt>ねん</rt></ruby>は、<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>伊勢崎<rt>いせさき</rt></ruby><ruby>市<rt>し</rt></ruby>で41.8<ruby>度<rt>ど</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>し、<span class=\"vw\" data-ja=\"観測史上\" data-reading=\"かんそくしじょう\" data-en=\"in the history of observation; ever recorded\"><ruby>観測<rt>かんそく</rt></ruby><ruby>史上<rt>しじょう</rt></ruby></span>、<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "40度以上を記録した場所は、のべ30地点で、過去最多でした。",
+      "ruby": "40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>は、のべ30<ruby>地点<rt>ちてん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"the most ever; record high (in number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、暑さの危険をわかりやすく伝えて、熱中症に気をつけてほしいと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>暑さ<rt>あつさ</rt></ruby>の<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; risk\"><ruby>危険<rt>きけん</rt></ruby></span>をわかりやすく<ruby>伝え<rt>つたえ</rt></ruby>て、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、最高気温が40度以上の日を表す、新しい言葉を決めました。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency has decided on a new word for days when the daytime high reaches forty degrees or more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最高気温",
+      "ruby": "<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "The highest temperature of the day; the daytime high."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい言葉は「酷暑日」です。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>は「<span class=\"vw\" data-ja=\"酷暑日\" data-reading=\"こくしょび\" data-en=\"extreme-heat day (40°C or higher)\"><ruby>酷暑<rt>こくしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new word means an extreme-heat day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "酷暑日",
+      "ruby": "<span class=\"vw\" data-ja=\"酷暑日\" data-reading=\"こくしょび\" data-en=\"extreme-heat day (40°C or higher)\"><ruby>酷暑<rt>こくしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "An extreme-heat day: a day of forty degrees Celsius or higher."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、今年の夏から、天気予報でこの言葉を使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>から、<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>でこの<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Starting this summer, the agency will use this word in weather forecasts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "天気予報",
+      "ruby": "<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather forecast."
+    },
+    {
+      "speaker": "slow",
+      "text": "今まで、最高気温が25度以上の日は「夏日」、30度以上の日は「真夏日」と呼んでいました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が25<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"夏日\" data-reading=\"なつび\" data-en=\"summer day (25°C or higher)\"><ruby>夏日<rt>なつび</rt></ruby></span>」、30<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"midsummer day (30°C or higher)\"><ruby>真夏日<rt>まなつび</rt></ruby></span>」と<ruby>呼ん<rt>よん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until now, days of twenty-five degrees or more, and days of thirty or more, each had their own name."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call; to name\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To call, to name something."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、35度以上の日は「猛暑日」と呼んでいました。",
+      "ruby": "そして、35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"猛暑日\" data-reading=\"もうしょび\" data-en=\"scorching day (35°C or higher)\"><ruby>猛暑<rt>もうしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」と<ruby>呼ん<rt>よん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "And days of thirty-five degrees or more had their own name too, the old top category."
+    },
+    {
+      "speaker": "vocab",
+      "text": "猛暑日",
+      "ruby": "<span class=\"vw\" data-ja=\"猛暑日\" data-reading=\"もうしょび\" data-en=\"scorching day (35°C or higher)\"><ruby>猛暑<rt>もうしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A scorching day: thirty-five degrees or higher."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、40度以上のとても暑い日を表す言葉は、ありませんでした。",
+      "ruby": "でも、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のとても<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span><ruby>言葉<rt>ことば</rt></ruby>は、ありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "But there was no word for the very hot days of forty degrees or more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "表す",
+      "ruby": "<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To express, to represent, to stand for."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、この言葉を決めるために、多くの人にアンケートを行いました。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、この<ruby>言葉<rt>ことば</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るために、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"アンケート\" data-reading=\"あんけーと\" data-en=\"questionnaire; survey\">アンケート</span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "To decide on the word, the agency ran a survey of many people."
+    },
+    {
+      "speaker": "vocab",
+      "text": "アンケート",
+      "ruby": "<span class=\"vw\" data-ja=\"アンケート\" data-reading=\"あんけーと\" data-en=\"questionnaire; survey\">アンケート</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A questionnaire, a survey."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、2018年から毎年、40度以上を記録する場所が出ています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、2018<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby>、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<span class=\"vw\" data-ja=\"記録する\" data-reading=\"きろくする\" data-en=\"to record; to register (a figure)\"><ruby>記録<rt>きろく</rt></ruby>する</span><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, since 2018, some place has recorded forty degrees or more every year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録する",
+      "ruby": "<span class=\"vw\" data-ja=\"記録する\" data-reading=\"きろくする\" data-en=\"to record; to register (a figure)\"><ruby>記録<rt>きろく</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To record, to register a figure such as a temperature."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年、2025年は、群馬県伊勢崎市で41.8度を記録し、観測史上、一番高い気温になりました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、2025<ruby>年<rt>ねん</rt></ruby>は、<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>伊勢崎<rt>いせさき</rt></ruby><ruby>市<rt>し</rt></ruby>で41.8<ruby>度<rt>ど</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>し、<span class=\"vw\" data-ja=\"観測史上\" data-reading=\"かんそくしじょう\" data-en=\"in the history of observation; ever recorded\"><ruby>観測<rt>かんそく</rt></ruby><ruby>史上<rt>しじょう</rt></ruby></span>、<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year, in 2025, a city in Gunma hit 41.8 degrees, the highest temperature ever observed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観測史上",
+      "ruby": "<span class=\"vw\" data-ja=\"観測史上\" data-reading=\"かんそくしじょう\" data-en=\"in the history of observation; ever recorded\"><ruby>観測<rt>かんそく</rt></ruby><ruby>史上<rt>しじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "In the history of observation; ever recorded."
+    },
+    {
+      "speaker": "slow",
+      "text": "40度以上を記録した場所は、のべ30地点で、過去最多でした。",
+      "ruby": "40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>は、のべ30<ruby>地点<rt>ちてん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"the most ever; record high (in number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The places that hit forty degrees came to thirty in total, the most ever."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過去最多",
+      "ruby": "<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"the most ever; record high (in number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "The most ever; a record high in number."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、暑さの危険をわかりやすく伝えて、熱中症に気をつけてほしいと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>暑さ<rt>あつさ</rt></ruby>の<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; risk\"><ruby>危険<rt>きけん</rt></ruby></span>をわかりやすく<ruby>伝え<rt>つたえ</rt></ruby>て、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency says it wants to convey the danger of the heat clearly, so people watch out for heatstroke."
+    },
+    {
+      "speaker": "vocab",
+      "text": "熱中症",
+      "ruby": "<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Heatstroke."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、最高気温が40度以上の日を表す、新しい言葉を決めました。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい言葉は「酷暑日」です。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>は「<span class=\"vw\" data-ja=\"酷暑日\" data-reading=\"こくしょび\" data-en=\"extreme-heat day (40°C or higher)\"><ruby>酷暑<rt>こくしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、今年の夏から、天気予報でこの言葉を使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>から、<span class=\"vw\" data-ja=\"天気予報\" data-reading=\"てんきよほう\" data-en=\"weather forecast\"><ruby>天気予報<rt>てんきよほう</rt></ruby></span>でこの<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今まで、最高気温が25度以上の日は「夏日」、30度以上の日は「真夏日」と呼んでいました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が25<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"夏日\" data-reading=\"なつび\" data-en=\"summer day (25°C or higher)\"><ruby>夏日<rt>なつび</rt></ruby></span>」、30<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"midsummer day (30°C or higher)\"><ruby>真夏日<rt>まなつび</rt></ruby></span>」と<ruby>呼ん<rt>よん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、35度以上の日は「猛暑日」と呼んでいました。",
+      "ruby": "そして、35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"猛暑日\" data-reading=\"もうしょび\" data-en=\"scorching day (35°C or higher)\"><ruby>猛暑<rt>もうしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」と<ruby>呼ん<rt>よん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、40度以上のとても暑い日を表す言葉は、ありませんでした。",
+      "ruby": "でも、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のとても<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to express; to represent\"><ruby>表す<rt>あらわす</rt></ruby></span><ruby>言葉<rt>ことば</rt></ruby>は、ありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで、40度以上の日を、新しく「酷暑日」と呼ぶことにしました。",
+      "ruby": "そこで、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を、<ruby>新しく<rt>あたらしく</rt></ruby>「<span class=\"vw\" data-ja=\"酷暑日\" data-reading=\"こくしょび\" data-en=\"extreme-heat day (40°C or higher)\"><ruby>酷暑<rt>こくしょ</rt></ruby><ruby>日<rt>び</rt></ruby></span>」と<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call; to name\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>ことにしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、この言葉を決めるために、多くの人にアンケートを行いました。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、この<ruby>言葉<rt>ことば</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るために、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"アンケート\" data-reading=\"あんけーと\" data-en=\"questionnaire; survey\">アンケート</span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国から、47万を超える意見が集まりました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>から、47<ruby>万<rt>まん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>る<span class=\"vw\" data-ja=\"意見\" data-reading=\"いけん\" data-en=\"opinion; view\"><ruby>意見<rt>いけん</rt></ruby></span>が<ruby>集まり<rt>あつまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、2018年から毎年、40度以上を記録する場所が出ています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、2018<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby>、40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<span class=\"vw\" data-ja=\"記録する\" data-reading=\"きろくする\" data-en=\"to record; to register (a figure)\"><ruby>記録<rt>きろく</rt></ruby>する</span><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年、2025年は、群馬県伊勢崎市で41.8度を記録し、観測史上、一番高い気温になりました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、2025<ruby>年<rt>ねん</rt></ruby>は、<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>伊勢崎<rt>いせさき</rt></ruby><ruby>市<rt>し</rt></ruby>で41.8<ruby>度<rt>ど</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>し、<span class=\"vw\" data-ja=\"観測史上\" data-reading=\"かんそくしじょう\" data-en=\"in the history of observation; ever recorded\"><ruby>観測<rt>かんそく</rt></ruby><ruby>史上<rt>しじょう</rt></ruby></span>、<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "40度以上を記録した場所は、のべ30地点で、過去最多でした。",
+      "ruby": "40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>は、のべ30<ruby>地点<rt>ちてん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"the most ever; record high (in number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、暑さの危険をわかりやすく伝えて、熱中症に気をつけてほしいと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>暑さ<rt>あつさ</rt></ruby>の<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; risk\"><ruby>危険<rt>きけん</rt></ruby></span>をわかりやすく<ruby>伝え<rt>つたえ</rt></ruby>て、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "最高気温が40度以上の日を、新しく何と呼びますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature; daytime high\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>何と<rt>なんと</rt></ruby><ruby>呼び<rt>よび</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What is the new name for a day with a high of forty degrees or more? Answer: an extreme-heat day."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、いつからこの言葉を使いますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、いつからこの<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "When will the agency start using this word? Answer: from this summer."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年、日本で一番高かった気温は、何度でしたか。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高かっ<rt>たかっ</rt></ruby>た<ruby>気温<rt>きおん</rt></ruby>は、<ruby>何度<rt>なんど</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What was the highest temperature in Japan last year? Answer: 41.8 degrees, in Isesaki City, Gunma."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Full transcript and vocabulary are on the site. Stay cool, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "気象庁",
+      "reading": "きしょうちょう",
+      "en": "Japan Meteorological Agency",
+      "zh": "气象厅"
+    },
+    {
+      "ja": "最高気温",
+      "reading": "さいこうきおん",
+      "en": "highest temperature; daytime high",
+      "zh": "最高气温"
+    },
+    {
+      "ja": "酷暑日",
+      "reading": "こくしょび",
+      "en": "extreme-heat day (40°C or higher)",
+      "zh": "酷暑日（40度以上）"
+    },
+    {
+      "ja": "猛暑日",
+      "reading": "もうしょび",
+      "en": "scorching day (35°C or higher)",
+      "zh": "酷热日（35度以上）"
+    },
+    {
+      "ja": "真夏日",
+      "reading": "まなつび",
+      "en": "midsummer day (30°C or higher)",
+      "zh": "盛夏日（30度以上）"
+    },
+    {
+      "ja": "夏日",
+      "reading": "なつび",
+      "en": "summer day (25°C or higher)",
+      "zh": "夏日（25度以上）"
+    },
+    {
+      "ja": "天気予報",
+      "reading": "てんきよほう",
+      "en": "weather forecast",
+      "zh": "天气预报"
+    },
+    {
+      "ja": "呼ぶ",
+      "reading": "よぶ",
+      "en": "to call; to name",
+      "zh": "称呼；叫作"
+    },
+    {
+      "ja": "表す",
+      "reading": "あらわす",
+      "en": "to express; to represent",
+      "zh": "表示；代表"
+    },
+    {
+      "ja": "アンケート",
+      "reading": "あんけーと",
+      "en": "questionnaire; survey",
+      "zh": "问卷调查"
+    },
+    {
+      "ja": "意見",
+      "reading": "いけん",
+      "en": "opinion; view",
+      "zh": "意见"
+    },
+    {
+      "ja": "記録する",
+      "reading": "きろくする",
+      "en": "to record; to register (a figure)",
+      "zh": "记录；创下"
+    },
+    {
+      "ja": "観測史上",
+      "reading": "かんそくしじょう",
+      "en": "in the history of observation; ever recorded",
+      "zh": "观测史上"
+    },
+    {
+      "ja": "過去最多",
+      "reading": "かこさいた",
+      "en": "the most ever; record high (in number)",
+      "zh": "历史最多"
+    },
+    {
+      "ja": "危険",
+      "reading": "きけん",
+      "en": "danger; risk",
+      "zh": "危险"
+    },
+    {
+      "ja": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "en": "heatstroke",
+      "zh": "中暑"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜以上",
+      "meaning": "~ or more; ~ and above",
+      "meaningZh": "…以上",
+      "formation": "number/quantity + 以上",
+      "example": "最高気温が40度以上の日。",
+      "translation": "A day with a high of forty degrees or more.",
+      "note": "Attaches to a number to mean that figure and anything above it; the opposite is 〜以下",
+      "noteZh": "接在数量后，表示该数字及其以上，反义为「〜以下」",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#以上"
+    },
+    {
+      "pattern": "〜ことにする",
+      "meaning": "to decide to ~",
+      "meaningZh": "决定…",
+      "formation": "verb (dictionary form) + ことにする",
+      "example": "40度以上の日を「酷暑日」と呼ぶことにしました。",
+      "translation": "They decided to call days of forty degrees or more an 'extreme-heat day'.",
+      "note": "Expresses a decision the speaker or group makes by their own will; the past form 〜ことにした reports the decision",
+      "noteZh": "表示说话者或团体自己做出的决定，过去式「〜ことにした」表明已决定",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことにする"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~; for the purpose of ~",
+      "meaningZh": "为了…",
+      "formation": "verb (dictionary form) / noun + の + ために",
+      "example": "この言葉を決めるために、アンケートを行いました。",
+      "translation": "In order to decide on this word, they ran a survey.",
+      "note": "Shows the purpose or goal of an action; the action that follows is done to achieve it",
+      "noteZh": "表示动作的目的或目标，后项动作是为达成前项而做",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ために"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "to want someone to ~",
+      "meaningZh": "希望（对方）…",
+      "formation": "verb (て form) + ほしい",
+      "example": "熱中症に気をつけてほしいと話しています。",
+      "translation": "They say they want people to watch out for heatstroke.",
+      "note": "Expresses a wish for another person to do something; the person is often marked with に",
+      "noteZh": "表示希望别人做某事，对象常用「に」标示",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てほしい"
+    }
+  ],
+  "practiceZh": [
+    "気象庁は、最高気温が40度以上の日を表す、新しい言葉を決めました。\n气象厅决定了一个表示最高气温40度以上的日子的新词。\n気象庁 = Japan Meteorological Agency；最高気温 = daytime high；表す = to represent",
+    "新しい言葉は「酷暑日」です。\n新词是「酷暑日」。\n酷暑日 = extreme-heat day (40°C+)",
+    "気象庁は、今年の夏から、天気予報でこの言葉を使います。\n气象厅从今年夏天起，将在天气预报中使用这个词。\n天気予報 = weather forecast；使う = to use",
+    "今まで、最高気温が25度以上の日は「夏日」、30度以上の日は「真夏日」と呼んでいました。\n此前，最高气温25度以上的日子叫「夏日」，30度以上的日子叫「真夏日」。\n〜以上 = or more；呼ぶ = to call",
+    "そして、35度以上の日は「猛暑日」と呼んでいました。\n而35度以上的日子则叫「猛暑日」。\n猛暑日 = scorching day (35°C+)",
+    "でも、40度以上のとても暑い日を表す言葉は、ありませんでした。\n但是，一直没有表示40度以上酷热日子的词。\n暑い = hot；表す = to represent",
+    "気象庁は、この言葉を決めるために、多くの人にアンケートを行いました。\n气象厅为了决定这个词，向许多人做了问卷调查。\n〜ために = in order to；アンケート = survey；行う = to conduct",
+    "全国から、47万を超える意見が集まりました。\n从全国收集到了超过47万条意见。\n意見 = opinion；超える = to exceed；集まる = to gather",
+    "日本では、2018年から毎年、40度以上を記録する場所が出ています。\n在日本，自2018年起每年都有地方录得40度以上的气温。\n記録する = to record；場所 = place",
+    "去年、2025年は、群馬県伊勢崎市で41.8度を記録し、観測史上、一番高い気温になりました。\n去年、也就是2025年，群马县伊势崎市录得41.8度，成为观测史上最高气温。\n観測史上 = ever recorded；一番高い = highest",
+    "40度以上を記録した場所は、のべ30地点で、過去最多でした。\n录得40度以上的地点累计达30处，为历史最多。\n過去最多 = the most ever；地点 = location",
+    "気象庁は、暑さの危険をわかりやすく伝えて、熱中症に気をつけてほしいと話しています。\n气象厅表示，希望通俗易懂地传达高温的危险，让大家注意中暑。\n危険 = danger；伝える = to convey；熱中症 = heatstroke；〜てほしい = want someone to"
+  ]
+}
