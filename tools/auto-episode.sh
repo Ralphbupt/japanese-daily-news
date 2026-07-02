@@ -28,6 +28,13 @@ mkdir -p "$REPO/logs"
 STAMP="$(date -u +%Y%m%dT%H%M%SZ)"
 LOG="$REPO/logs/auto-$STAMP-$LEVEL.log"
 
+# Stamp episodes with the Beijing calendar date. Cron is pinned to Asia/Shanghai
+# (CRON_TZ), but the machine's local TZ is America/New_York — the morning Beijing
+# run fires in the NY evening, one calendar day behind. Without this the headless
+# session would read "today" as the NY date and label the episode a day early.
+TODAY_BJ="$(TZ=Asia/Shanghai date +%Y-%m-%d)"
+VER_BJ="$(TZ=Asia/Shanghai date +%Y%m%d)01"
+
 # Keep local main in sync before generating (cron may run while you also work).
 git pull --rebase --autostash origin main >>"$LOG" 2>&1 || true
 
@@ -53,8 +60,9 @@ Steps:
 3. Write scripts/epNNN.json per the Script Format and ALL Critical rules:
    host (Maya) has ZERO Japanese characters and ZERO romaji; 9-10 news segments;
    breakdown; full replay; quiz; closing. Include vocabulary (with zh), grammar
-   (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD", and contentVersion
-   = today's date YYYYMMDD followed by "01".
+   (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD". The "date" field MUST
+   be exactly "$TODAY_BJ" (today's Beijing date — do NOT use your own notion of
+   today), and contentVersion MUST be exactly "$VER_BJ".
    STYLE FOR THIS RUN: $STYLE
 4. Run the pipeline. Use .venv/bin/python for ALL python tools (system python3 is
    too old). ffmpeg/ffprobe are already on PATH:
