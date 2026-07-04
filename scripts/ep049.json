@@ -1,0 +1,485 @@
+{
+  "episode": 49,
+  "title": "すみだ水族館で今年生まれたペンギンの赤ちゃん2羽が、今日から順番に「プールデビュー」",
+  "date": "2026-07-05",
+  "source": "すみだ水族館 公式サイト / 朝日新聞デジタル",
+  "level": "N5-N4",
+  "contentVersion": "2026070501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July fifth. At an aquarium in Tokyo, two baby penguins born this spring are about to swim in front of visitors for the very first time. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京スカイツリーの近くにある「すみだ水族館」で、かわいいニュースがあります。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<ruby>近く<rt>ちかく</rt></ruby>にある「すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>」で、かわいいニュースがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の4月、この水族館で、マゼランペンギンの赤ちゃんが2羽、生まれました。名前は「じんべえ」と「きび」です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>、この<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、マゼランペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が2<ruby>羽<rt>わ</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby>ました。<ruby>名前<rt>なまえ</rt></ruby>は「じんべえ」と「きび」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンの赤ちゃんは、生まれてすぐには泳ぐことができません。最初は水に入らないで、よちよちと歩く練習をします。",
+      "ruby": "ペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>生まれ<rt>うまれ</rt></ruby>てすぐには<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことができません。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>ないで、よちよちと<ruby>歩く<rt>あるく</rt></ruby><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "2羽は少しずつ体が大きくなって、今、いよいよ水の中で泳ぐ練習を始めました。プールで泳ぐことは、大人になるための大切な一歩です。",
+      "ruby": "2<ruby>羽<rt>わ</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>体<rt>からだ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なって、<ruby>今<rt>いま</rt></ruby>、いよいよ<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことは、<ruby>大人<rt>おとな</rt></ruby>になるための<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"一歩\" data-reading=\"いっぽ\" data-en=\"one step\"><ruby>一歩<rt>いっぽ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、お客さんの前で初めてプールで泳ぐことを「プールデビュー」と呼んでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>前<rt>まえ</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことを「プールデビュー」と<ruby>呼ん<rt>よん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「じんべえ」のプールデビューは7月5日、「きび」は7月11日です。時間は、午後2時からの30分ぐらいです。",
+      "ruby": "「じんべえ」のプールデビューは7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>、「きび」は7<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>です。<ruby>時間<rt>じかん</rt></ruby>は、<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon; p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>2<ruby>時<rt>じ</rt></ruby>からの30<ruby>分<rt>ぷん</rt></ruby>ぐらいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "デビューの前には、朝早く、赤ちゃんが泳ぐ練習を見られる特別なイベントもあります。見られる人の数は決まっています。",
+      "ruby": "デビューの<ruby>前<rt>まえ</rt></ruby>には、<ruby>朝早く<rt>あさはやく</rt></ruby>、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>見ら<rt>みら</rt></ruby>れる<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントもあります。<ruby>見ら<rt>みら</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>決ま<rt>きま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の中の店では、赤ちゃんの写真が付いたグッズやケーキも売っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><ruby>店<rt>みせ</rt></ruby>では、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"写真\" data-reading=\"しゃしん\" data-en=\"photograph; photo\"><ruby>写真<rt>しゃしん</rt></ruby></span>が<ruby>付い<rt>つい</rt></ruby>たグッズやケーキも<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "5月に生まれた「だんご」と「とうふ」という赤ちゃんも、これから順番にプールデビューする予定です。",
+      "ruby": "5<ruby>月<rt>がつ</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た「だんご」と「とうふ」という<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>も、これから<span class=\"vw\" data-ja=\"順番\" data-reading=\"じゅんばん\" data-en=\"order; turn\"><ruby>順番<rt>じゅんばん</rt></ruby></span>にプールデビューする<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京スカイツリーの近くにある「すみだ水族館」で、かわいいニュースがあります。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<ruby>近く<rt>ちかく</rt></ruby>にある「すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>」で、かわいいニュースがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the Sumida Aquarium, near the Tokyo Skytree, there's some adorable news."
+    },
+    {
+      "speaker": "vocab",
+      "text": "水族館",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Aquarium."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の4月、この水族館で、マゼランペンギンの赤ちゃんが2羽、生まれました。名前は「じんべえ」と「きび」です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>、この<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、マゼランペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が2<ruby>羽<rt>わ</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby>ました。<ruby>名前<rt>なまえ</rt></ruby>は「じんべえ」と「きび」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This April, two baby Magellanic penguins were born here at the aquarium, and each was given a cute name."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"生まれる\" data-reading=\"うまれる\" data-en=\"to be born\"><ruby>生まれ<rt>うまれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To be born."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンの赤ちゃんは、生まれてすぐには泳ぐことができません。最初は水に入らないで、よちよちと歩く練習をします。",
+      "ruby": "ペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>生まれ<rt>うまれ</rt></ruby>てすぐには<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことができません。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>ないで、よちよちと<ruby>歩く<rt>あるく</rt></ruby><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "host",
+      "text": "Baby penguins can't swim right after they're born. At first they stay out of the water and practice waddling on land."
+    },
+    {
+      "speaker": "vocab",
+      "text": "泳ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To swim."
+    },
+    {
+      "speaker": "slow",
+      "text": "2羽は少しずつ体が大きくなって、今、いよいよ水の中で泳ぐ練習を始めました。プールで泳ぐことは、大人になるための大切な一歩です。",
+      "ruby": "2<ruby>羽<rt>わ</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>体<rt>からだ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なって、<ruby>今<rt>いま</rt></ruby>、いよいよ<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことは、<ruby>大人<rt>おとな</rt></ruby>になるための<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"一歩\" data-reading=\"いっぽ\" data-en=\"one step\"><ruby>一歩<rt>いっぽ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Little by little the two have grown, and now they've finally started practicing in the water — a big step toward becoming adults."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一歩",
+      "ruby": "<span class=\"vw\" data-ja=\"一歩\" data-reading=\"いっぽ\" data-en=\"one step\"><ruby>一歩<rt>いっぽ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "One step."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館は、お客さんの前で初めてプールで泳ぐことを「プールデビュー」と呼んでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>前<rt>まえ</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことを「プールデビュー」と<ruby>呼ん<rt>よん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium calls a chick's first swim in the pool in front of guests its \"pool debut.\""
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "For the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "「じんべえ」のプールデビューは7月5日、「きび」は7月11日です。時間は、午後2時からの30分ぐらいです。",
+      "ruby": "「じんべえ」のプールデビューは7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>、「きび」は7<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>です。<ruby>時間<rt>じかん</rt></ruby>は、<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon; p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>2<ruby>時<rt>じ</rt></ruby>からの30<ruby>分<rt>ぷん</rt></ruby>ぐらいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "One chick's pool debut is July fifth, the other's is July eleventh, starting at two in the afternoon for about thirty minutes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "午後",
+      "ruby": "<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon; p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Afternoon; p.m."
+    },
+    {
+      "speaker": "slow",
+      "text": "デビューの前には、朝早く、赤ちゃんが泳ぐ練習を見られる特別なイベントもあります。見られる人の数は決まっています。",
+      "ruby": "デビューの<ruby>前<rt>まえ</rt></ruby>には、<ruby>朝早く<rt>あさはやく</rt></ruby>、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>見ら<rt>みら</rt></ruby>れる<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントもあります。<ruby>見ら<rt>みら</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>決ま<rt>きま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Before the debut, there are also special early-morning events where you can watch the babies practice swimming. The number of visitors is limited."
+    },
+    {
+      "speaker": "vocab",
+      "text": "特別",
+      "ruby": "<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Special."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館の中の店では、赤ちゃんの写真が付いたグッズやケーキも売っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><ruby>店<rt>みせ</rt></ruby>では、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"写真\" data-reading=\"しゃしん\" data-en=\"photograph; photo\"><ruby>写真<rt>しゃしん</rt></ruby></span>が<ruby>付い<rt>つい</rt></ruby>たグッズやケーキも<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The shops inside the aquarium sell goods and cakes featuring photos of the baby penguins."
+    },
+    {
+      "speaker": "vocab",
+      "text": "写真",
+      "ruby": "<span class=\"vw\" data-ja=\"写真\" data-reading=\"しゃしん\" data-en=\"photograph; photo\"><ruby>写真<rt>しゃしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Photograph."
+    },
+    {
+      "speaker": "slow",
+      "text": "5月に生まれた「だんご」と「とうふ」という赤ちゃんも、これから順番にプールデビューする予定です。",
+      "ruby": "5<ruby>月<rt>がつ</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た「だんご」と「とうふ」という<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>も、これから<span class=\"vw\" data-ja=\"順番\" data-reading=\"じゅんばん\" data-en=\"order; turn\"><ruby>順番<rt>じゅんばん</rt></ruby></span>にプールデビューする<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two more babies, born in May, are also set to make their pool debuts in turn."
+    },
+    {
+      "speaker": "vocab",
+      "text": "順番",
+      "ruby": "<span class=\"vw\" data-ja=\"順番\" data-reading=\"じゅんばん\" data-en=\"order; turn\"><ruby>順番<rt>じゅんばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Order; turn."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京スカイツリーの近くにある「すみだ水族館」で、かわいいニュースがあります。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<ruby>近く<rt>ちかく</rt></ruby>にある「すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>」で、かわいいニュースがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の4月、この水族館で、マゼランペンギンの赤ちゃんが2羽、生まれました。名前は「じんべえ」と「きび」です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>、この<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、マゼランペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が2<ruby>羽<rt>わ</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby>ました。<ruby>名前<rt>なまえ</rt></ruby>は「じんべえ」と「きび」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンの赤ちゃんは、生まれてすぐには泳ぐことができません。最初は水に入らないで、よちよちと歩く練習をします。",
+      "ruby": "ペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>生まれ<rt>うまれ</rt></ruby>てすぐには<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことができません。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>ないで、よちよちと<ruby>歩く<rt>あるく</rt></ruby><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "2羽は少しずつ体が大きくなって、今、いよいよ水の中で泳ぐ練習を始めました。プールで泳ぐことは、大人になるための大切な一歩です。",
+      "ruby": "2<ruby>羽<rt>わ</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>体<rt>からだ</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なって、<ruby>今<rt>いま</rt></ruby>、いよいよ<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことは、<ruby>大人<rt>おとな</rt></ruby>になるための<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"一歩\" data-reading=\"いっぽ\" data-en=\"one step\"><ruby>一歩<rt>いっぽ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、お客さんの前で初めてプールで泳ぐことを「プールデビュー」と呼んでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>前<rt>まえ</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことを「プールデビュー」と<ruby>呼ん<rt>よん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「じんべえ」のプールデビューは7月5日、「きび」は7月11日です。時間は、午後2時からの30分ぐらいです。",
+      "ruby": "「じんべえ」のプールデビューは7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>、「きび」は7<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>です。<ruby>時間<rt>じかん</rt></ruby>は、<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon; p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>2<ruby>時<rt>じ</rt></ruby>からの30<ruby>分<rt>ぷん</rt></ruby>ぐらいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "デビューの前には、朝早く、赤ちゃんが泳ぐ練習を見られる特別なイベントもあります。見られる人の数は決まっています。",
+      "ruby": "デビューの<ruby>前<rt>まえ</rt></ruby>には、<ruby>朝早く<rt>あさはやく</rt></ruby>、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"練習\" data-reading=\"れんしゅう\" data-en=\"practice\"><ruby>練習<rt>れんしゅう</rt></ruby></span>を<ruby>見ら<rt>みら</rt></ruby>れる<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントもあります。<ruby>見ら<rt>みら</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>決ま<rt>きま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の中の店では、赤ちゃんの写真が付いたグッズやケーキも売っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><ruby>店<rt>みせ</rt></ruby>では、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"写真\" data-reading=\"しゃしん\" data-en=\"photograph; photo\"><ruby>写真<rt>しゃしん</rt></ruby></span>が<ruby>付い<rt>つい</rt></ruby>たグッズやケーキも<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "5月に生まれた「だんご」と「とうふ」という赤ちゃんも、これから順番にプールデビューする予定です。",
+      "ruby": "5<ruby>月<rt>がつ</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た「だんご」と「とうふ」という<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>も、これから<span class=\"vw\" data-ja=\"順番\" data-reading=\"じゅんばん\" data-en=\"order; turn\"><ruby>順番<rt>じゅんばん</rt></ruby></span>にプールデビューする<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "すみだ水族館で、ペンギンの赤ちゃんが生まれたのは何月ですか。",
+      "ruby": "すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、ペンギンの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>たのは<ruby>何月<rt>なんがつ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In what month were the baby penguins born at the Sumida Aquarium? Answer: this April."
+    },
+    {
+      "speaker": "slow",
+      "text": "お客さんの前で初めてプールで泳ぐことを、何と呼んでいますか。",
+      "ruby": "お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>前<rt>まえ</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>プールで<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことを、<ruby>何と<rt>なんと</rt></ruby><ruby>呼ん<rt>よん</rt></ruby>でいますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What does the aquarium call a chick's first swim in the pool in front of guests? Answer: its \"pool debut.\""
+    },
+    {
+      "speaker": "slow",
+      "text": "5月に生まれた赤ちゃんは、これからどうする予定ですか。",
+      "ruby": "5<ruby>月<rt>がつ</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、これからどうする<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "What are the babies born in May set to do next? Answer: make their own pool debuts, one after another."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. From wobbly first steps on land to a first swim — a sweet reminder that everyone starts as a beginner. Full transcript and vocabulary are on the site. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "水族館",
+      "reading": "すいぞくかん",
+      "en": "aquarium",
+      "zh": "水族馆"
+    },
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "婴儿；宝宝"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生；诞生"
+    },
+    {
+      "ja": "泳ぐ",
+      "reading": "およぐ",
+      "en": "to swim",
+      "zh": "游泳"
+    },
+    {
+      "ja": "練習",
+      "reading": "れんしゅう",
+      "en": "practice",
+      "zh": "练习"
+    },
+    {
+      "ja": "一歩",
+      "reading": "いっぽ",
+      "en": "one step",
+      "zh": "一步"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "初次；第一次"
+    },
+    {
+      "ja": "午後",
+      "reading": "ごご",
+      "en": "afternoon; p.m.",
+      "zh": "下午"
+    },
+    {
+      "ja": "特別",
+      "reading": "とくべつ",
+      "en": "special",
+      "zh": "特别；特殊"
+    },
+    {
+      "ja": "写真",
+      "reading": "しゃしん",
+      "en": "photograph; photo",
+      "zh": "照片"
+    },
+    {
+      "ja": "順番",
+      "reading": "じゅんばん",
+      "en": "order; turn",
+      "zh": "顺序；轮流"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan; schedule",
+      "zh": "预定；计划"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる／できない",
+      "meaning": "can / cannot do ~",
+      "meaningZh": "能／不能…；会／不会…",
+      "formation": "verb (dictionary form) + ことができる／できない",
+      "example": "生まれてすぐには泳ぐことができません。",
+      "translation": "They can't swim right after they're born.",
+      "note": "A polite way to say whether an action is possible; the dictionary-form verb + ことができる",
+      "noteZh": "用「動詞辞書形＋ことができる」表示能力或可能，语气比可能形更书面",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜ための",
+      "meaning": "for (the purpose of) ~",
+      "meaningZh": "为了…（的）",
+      "formation": "verb (dictionary form) / noun + の + ための + noun",
+      "example": "大人になるための大切な一歩です。",
+      "translation": "It's an important step toward becoming an adult.",
+      "note": "ための modifies a following noun and shows the goal or purpose of an action",
+      "noteZh": "「ための＋名詞」修饰后面的名词，表示目的",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜と呼んでいます",
+      "meaning": "call (something) ~",
+      "meaningZh": "把…称为…；叫做…",
+      "formation": "noun + を + name + と + 呼ぶ",
+      "example": "お客さんの前で初めて泳ぐことを「プールデビュー」と呼んでいます。",
+      "translation": "They call a chick's first swim in front of guests its \"pool debut.\"",
+      "note": "と marks the name given to something; 呼んでいます means \"call/is called\"",
+      "noteZh": "「と」标示所取的名称，「呼んでいます」表示称呼、叫做",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "is scheduled / planned to ~",
+      "meaningZh": "预定…；打算…",
+      "formation": "verb (dictionary form) / noun + の + 予定です",
+      "example": "これから順番にプールデビューする予定です。",
+      "translation": "They are scheduled to make their pool debuts in turn from now on.",
+      "note": "Used for arranged, expected future plans; more fixed than つもり (personal intention)",
+      "noteZh": "表示已安排好的、预定的将来计划，比表个人意图的「つもり」更客观确定",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定"
+    }
+  ],
+  "practiceZh": [
+    "東京スカイツリーの近くにある「すみだ水族館」で、かわいいニュースがあります。\n在东京晴空塔附近的「墨田水族馆」，有一则可爱的新闻。\n水族館 = aquarium；近く = near",
+    "今年の4月、この水族館で、マゼランペンギンの赤ちゃんが2羽、生まれました。名前は「じんべえ」と「きび」です。\n今年4月，这家水族馆里出生了两只麦哲伦企鹅宝宝。名字叫「じんべえ」和「きび」。\n生まれる = to be born；2羽 = two (birds)",
+    "ペンギンの赤ちゃんは、生まれてすぐには泳ぐことができません。最初は水に入らないで、よちよちと歩く練習をします。\n企鹅宝宝出生后并不能马上游泳。一开始不下水，而是摇摇晃晃地练习走路。\n泳ぐ = to swim；練習 = practice；〜ことができない = cannot",
+    "2羽は少しずつ体が大きくなって、今、いよいよ水の中で泳ぐ練習を始めました。プールで泳ぐことは、大人になるための大切な一歩です。\n两只小企鹅一点点长大，如今终于开始在水里练习游泳了。在泳池里游泳，是它们长大成年的重要一步。\n一歩 = a step；〜ための = for the purpose of",
+    "水族館は、お客さんの前で初めてプールで泳ぐことを「プールデビュー」と呼んでいます。\n水族馆把在游客面前第一次在泳池里游泳，称为「泳池首秀（プールデビュー）」。\n初めて = for the first time；〜と呼ぶ = to call",
+    "「じんべえ」のプールデビューは7月5日、「きび」は7月11日です。時間は、午後2時からの30分ぐらいです。\n「じんべえ」的泳池首秀在7月5日，「きび」在7月11日。时间是下午2点开始，约30分钟。\n午後 = afternoon；〜ぐらい = about",
+    "デビューの前には、朝早く、赤ちゃんが泳ぐ練習を見られる特別なイベントもあります。見られる人の数は決まっています。\n首秀之前，还有可以在清晨观看宝宝游泳练习的特别活动。能观看的人数是有限定的。\n特別 = special；数 = number；決まる = to be decided/fixed",
+    "水族館の中の店では、赤ちゃんの写真が付いたグッズやケーキも売っています。\n水族馆里的商店还卖着印有宝宝照片的周边商品和蛋糕。\n写真 = photo；付く = to be attached；売る = to sell",
+    "5月に生まれた「だんご」と「とうふ」という赤ちゃんも、これから順番にプールデビューする予定です。\n5月出生的、名叫「だんご」和「とうふ」的宝宝，接下来也预定依次进行泳池首秀。\n順番 = order/turn；予定 = plan/schedule"
+  ]
+}
