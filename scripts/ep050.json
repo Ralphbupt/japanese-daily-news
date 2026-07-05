@@ -1,0 +1,577 @@
+{
+  "episode": 50,
+  "title": "2026年の路線価が発表、全国平均が2.9%上昇で現行方式で過去最大の伸び　地方やリゾート地にも波及",
+  "date": "2026-07-05",
+  "source": "国税庁 / 日本経済新聞 / NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026070501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July fifth. Japan's National Tax Agency just released this year's official land values, and prices rose nationwide by the most in over a decade. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁は7月1日、今年の「路線価」を発表しました。路線価は、道に面した土地の1平方メートルあたりの値段です。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の「<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>」を<ruby>発表<rt>はっぴょう</rt></ruby>しました。<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>道<rt>みち</rt></ruby>に<ruby>面し<rt>めんし</rt></ruby>た<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の1<ruby>平方<rt>へいほう</rt></ruby>メートルあたりの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "路線価は、人が亡くなったときにかかる税金などを計算するときに使われます。毎年1回、発表されます。",
+      "ruby": "<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったときにかかる<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>などを<ruby>計算<rt>けいさん</rt></ruby>するときに<ruby>使わ<rt>つかわ</rt></ruby>れます。<ruby>毎年<rt>まいとし</rt></ruby>1<ruby>回<rt>かい</rt></ruby>、<ruby>発表<rt>はっぴょう</rt></ruby>されます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の路線価は、全国の平均が、去年より2.9パーセント上がりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が、<ruby>去年<rt>きょねん</rt></ruby>より2.9パーセント<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この上がり方は、今の計算方法になった2010年からで、いちばん大きいです。",
+      "ruby": "この<ruby>上がり方<rt>あがりかた</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>計算方法<rt>けいさんほうほう</rt></ruby>になった2010<ruby>年<rt>ねん</rt></ruby>からで、いちばん<ruby>大きい<rt>おおきい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の平均が上がったのは、これで5年連続です。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったのは、これで5<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive; continuous\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "土地の値段が上がった理由は、いくつかあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>は、いくつかあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一つは、日本や外国から、土地を買うためのお金がたくさん集まっていることです。",
+      "ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から、<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>買う<rt>かう</rt></ruby>ためのお<ruby>金<rt>かね</rt></ruby>がたくさん<ruby>集ま<rt>あつま</rt></ruby>っていることです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、町の中に住みたい人が多いことや、日本に来る観光客が増えていることも、影響しています。",
+      "ruby": "また、<ruby>町<rt>まち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>住み<rt>すみ</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ことや、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist; sightseer\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ていることも、<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect; impact\"><ruby>影響<rt>えいきょう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "都道府県別で見ると、東京都がいちばん高く、去年より9.4パーセント上がりました。沖縄県や大阪府も、5パーセントを超えました。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby><ruby>別<rt>べつ</rt></ruby>で<ruby>見る<rt>みる</rt></ruby>と、<ruby>東京都<rt>とうきょうと</rt></ruby>がいちばん<ruby>高く<rt>たかく</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>より9.4パーセント<ruby>上が<rt>あが</rt></ruby>りました。<ruby>沖縄県<rt>おきなわけん</rt></ruby>や<ruby>大阪府<rt>おおさかふ</rt></ruby>も、5パーセントを<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "県庁がある市の中でいちばん高い場所を見ると、去年より値段が下がった市は、一つもありませんでした。",
+      "ruby": "<ruby>県庁<rt>けんちょう</rt></ruby>がある<ruby>市<rt>し</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>高い<rt>たかい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>去年<rt>きょねん</rt></ruby>より<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>った<ruby>市<rt>し</rt></ruby>は、<ruby>一つ<rt>ひとつ</rt></ruby>もありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が下がった市がなかったのは、バブルのころの1991年からで、35年ぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>った<ruby>市<rt>し</rt></ruby>がなかったのは、バブルのころの1991<ruby>年<rt>ねん</rt></ruby>からで、35<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "特に大きく上がったのは、外国でも人気があるスキー場や温泉の近くです。長野県の白馬村は、去年より32.7パーセントも上がりました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>ったのは、<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>があるスキー<ruby>場<rt>ば</rt></ruby>や<span class=\"vw\" data-ja=\"温泉\" data-reading=\"おんせん\" data-en=\"hot spring\"><ruby>温泉<rt>おんせん</rt></ruby></span>の<ruby>近く<rt>ちかく</rt></ruby>です。<ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>白馬<rt>はくば</rt></ruby><ruby>村<rt>むら</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より32.7パーセントも<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁は、「土地の値段が上がる強い流れが、地方にも広がっている」と話しています。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>る<ruby>強い<rt>つよい</rt></ruby><ruby>流れ<rt>ながれ</rt></ruby>が、<ruby>地方<rt>ちほう</rt></ruby>にも<ruby>広が<rt>ひろが</rt></ruby>っている」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁は7月1日、今年の「路線価」を発表しました。路線価は、道に面した土地の1平方メートルあたりの値段です。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の「<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>」を<ruby>発表<rt>はっぴょう</rt></ruby>しました。<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>道<rt>みち</rt></ruby>に<ruby>面し<rt>めんし</rt></ruby>た<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の1<ruby>平方<rt>へいほう</rt></ruby>メートルあたりの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July first, the National Tax Agency released this year's roadside land values — the price of land per square meter along a road."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Price."
+    },
+    {
+      "speaker": "slow",
+      "text": "路線価は、人が亡くなったときにかかる税金などを計算するときに使われます。毎年1回、発表されます。",
+      "ruby": "<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったときにかかる<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>などを<ruby>計算<rt>けいさん</rt></ruby>するときに<ruby>使わ<rt>つかわ</rt></ruby>れます。<ruby>毎年<rt>まいとし</rt></ruby>1<ruby>回<rt>かい</rt></ruby>、<ruby>発表<rt>はっぴょう</rt></ruby>されます。"
+    },
+    {
+      "speaker": "host",
+      "text": "These values are used to calculate taxes, such as when someone passes away, and they are announced once a year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "税金",
+      "ruby": "<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Tax."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の路線価は、全国の平均が、去年より2.9パーセント上がりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が、<ruby>去年<rt>きょねん</rt></ruby>より2.9パーセント<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year the nationwide average rose 2.9 percent from last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Average."
+    },
+    {
+      "speaker": "slow",
+      "text": "この上がり方は、今の計算方法になった2010年からで、いちばん大きいです。",
+      "ruby": "この<ruby>上がり方<rt>あがりかた</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>計算方法<rt>けいさんほうほう</rt></ruby>になった2010<ruby>年<rt>ねん</rt></ruby>からで、いちばん<ruby>大きい<rt>おおきい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "That's the biggest increase since the current calculation method began in 2010."
+    },
+    {
+      "speaker": "vocab",
+      "text": "方法",
+      "ruby": "<span class=\"vw\" data-ja=\"方法\" data-reading=\"ほうほう\" data-en=\"method; way\"><ruby>方法<rt>ほうほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Method; way."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の平均が上がったのは、これで5年連続です。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったのは、これで5<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive; continuous\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the fifth year in a row the national average has risen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連続",
+      "ruby": "<span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive; continuous\"><ruby>連続<rt>れんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "In a row; consecutive."
+    },
+    {
+      "speaker": "slow",
+      "text": "一つは、日本や外国から、土地を買うためのお金がたくさん集まっていることです。",
+      "ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から、<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>買う<rt>かう</rt></ruby>ためのお<ruby>金<rt>かね</rt></ruby>がたくさん<ruby>集ま<rt>あつま</rt></ruby>っていることです。"
+    },
+    {
+      "speaker": "host",
+      "text": "One reason is that a lot of money for buying land is gathering from both Japan and abroad."
+    },
+    {
+      "speaker": "vocab",
+      "text": "集まる",
+      "ruby": "<span class=\"vw\" data-ja=\"集まる\" data-reading=\"あつまる\" data-en=\"to gather; to collect; to come together\"><ruby>集まる<rt>あつまる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To gather; to collect."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、町の中に住みたい人が多いことや、日本に来る観光客が増えていることも、影響しています。",
+      "ruby": "また、<ruby>町<rt>まち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>住み<rt>すみ</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ことや、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist; sightseer\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ていることも、<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect; impact\"><ruby>影響<rt>えいきょう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Strong demand to live in city centers, and a rise in tourists, also play a part."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観光客",
+      "ruby": "<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist; sightseer\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Tourist; sightseer."
+    },
+    {
+      "speaker": "slow",
+      "text": "都道府県別で見ると、東京都がいちばん高く、去年より9.4パーセント上がりました。沖縄県や大阪府も、5パーセントを超えました。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby><ruby>別<rt>べつ</rt></ruby>で<ruby>見る<rt>みる</rt></ruby>と、<ruby>東京都<rt>とうきょうと</rt></ruby>がいちばん<ruby>高く<rt>たかく</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>より9.4パーセント<ruby>上が<rt>あが</rt></ruby>りました。<ruby>沖縄県<rt>おきなわけん</rt></ruby>や<ruby>大阪府<rt>おおさかふ</rt></ruby>も、5パーセントを<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "By prefecture, Tokyo was highest, up 9.4 percent; Okinawa and Osaka also topped five percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "超える",
+      "ruby": "<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed; to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To exceed; to go over."
+    },
+    {
+      "speaker": "slow",
+      "text": "県庁がある市の中でいちばん高い場所を見ると、去年より値段が下がった市は、一つもありませんでした。",
+      "ruby": "<ruby>県庁<rt>けんちょう</rt></ruby>がある<ruby>市<rt>し</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>高い<rt>たかい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>去年<rt>きょねん</rt></ruby>より<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>った<ruby>市<rt>し</rt></ruby>は、<ruby>一つ<rt>ひとつ</rt></ruby>もありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Among prefectural-capital cities, not a single one saw its top land value fall."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下がる",
+      "ruby": "<span class=\"vw\" data-ja=\"下がる\" data-reading=\"さがる\" data-en=\"to fall; to go down; to drop\"><ruby>下が<rt>さが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To fall; to go down."
+    },
+    {
+      "speaker": "slow",
+      "text": "特に大きく上がったのは、外国でも人気があるスキー場や温泉の近くです。長野県の白馬村は、去年より32.7パーセントも上がりました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>ったのは、<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>があるスキー<ruby>場<rt>ば</rt></ruby>や<span class=\"vw\" data-ja=\"温泉\" data-reading=\"おんせん\" data-en=\"hot spring\"><ruby>温泉<rt>おんせん</rt></ruby></span>の<ruby>近く<rt>ちかく</rt></ruby>です。<ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>白馬<rt>はくば</rt></ruby><ruby>村<rt>むら</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より32.7パーセントも<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The biggest gains were near ski resorts and hot springs popular even overseas; Nagano's Hakuba rose 32.7 percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "温泉",
+      "ruby": "<span class=\"vw\" data-ja=\"温泉\" data-reading=\"おんせん\" data-en=\"hot spring\"><ruby>温泉<rt>おんせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Hot spring."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁は、「土地の値段が上がる強い流れが、地方にも広がっている」と話しています。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>る<ruby>強い<rt>つよい</rt></ruby><ruby>流れ<rt>ながれ</rt></ruby>が、<ruby>地方<rt>ちほう</rt></ruby>にも<ruby>広が<rt>ひろが</rt></ruby>っている」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Tax Agency says the strong upward trend in land prices is spreading to the regions too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "広がる",
+      "ruby": "<span class=\"vw\" data-ja=\"広がる\" data-reading=\"ひろがる\" data-en=\"to spread; to widen\"><ruby>広が<rt>ひろが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To spread; to widen."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁は7月1日、今年の「路線価」を発表しました。路線価は、道に面した土地の1平方メートルあたりの値段です。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の「<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>」を<ruby>発表<rt>はっぴょう</rt></ruby>しました。<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>道<rt>みち</rt></ruby>に<ruby>面し<rt>めんし</rt></ruby>た<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の1<ruby>平方<rt>へいほう</rt></ruby>メートルあたりの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "路線価は、人が亡くなったときにかかる税金などを計算するときに使われます。毎年1回、発表されます。",
+      "ruby": "<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったときにかかる<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>などを<ruby>計算<rt>けいさん</rt></ruby>するときに<ruby>使わ<rt>つかわ</rt></ruby>れます。<ruby>毎年<rt>まいとし</rt></ruby>1<ruby>回<rt>かい</rt></ruby>、<ruby>発表<rt>はっぴょう</rt></ruby>されます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の路線価は、全国の平均が、去年より2.9パーセント上がりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が、<ruby>去年<rt>きょねん</rt></ruby>より2.9パーセント<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この上がり方は、今の計算方法になった2010年からで、いちばん大きいです。",
+      "ruby": "この<ruby>上がり方<rt>あがりかた</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>計算方法<rt>けいさんほうほう</rt></ruby>になった2010<ruby>年<rt>ねん</rt></ruby>からで、いちばん<ruby>大きい<rt>おおきい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の平均が上がったのは、これで5年連続です。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったのは、これで5<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive; continuous\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "土地の値段が上がった理由は、いくつかあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>は、いくつかあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一つは、日本や外国から、土地を買うためのお金がたくさん集まっていることです。",
+      "ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から、<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>買う<rt>かう</rt></ruby>ためのお<ruby>金<rt>かね</rt></ruby>がたくさん<ruby>集ま<rt>あつま</rt></ruby>っていることです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、町の中に住みたい人が多いことや、日本に来る観光客が増えていることも、影響しています。",
+      "ruby": "また、<ruby>町<rt>まち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>住み<rt>すみ</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ことや、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist; sightseer\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ていることも、<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect; impact\"><ruby>影響<rt>えいきょう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "都道府県別で見ると、東京都がいちばん高く、去年より9.4パーセント上がりました。沖縄県や大阪府も、5パーセントを超えました。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby><ruby>別<rt>べつ</rt></ruby>で<ruby>見る<rt>みる</rt></ruby>と、<ruby>東京都<rt>とうきょうと</rt></ruby>がいちばん<ruby>高く<rt>たかく</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>より9.4パーセント<ruby>上が<rt>あが</rt></ruby>りました。<ruby>沖縄県<rt>おきなわけん</rt></ruby>や<ruby>大阪府<rt>おおさかふ</rt></ruby>も、5パーセントを<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "県庁がある市の中でいちばん高い場所を見ると、去年より値段が下がった市は、一つもありませんでした。",
+      "ruby": "<ruby>県庁<rt>けんちょう</rt></ruby>がある<ruby>市<rt>し</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>高い<rt>たかい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>去年<rt>きょねん</rt></ruby>より<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>った<ruby>市<rt>し</rt></ruby>は、<ruby>一つ<rt>ひとつ</rt></ruby>もありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が下がった市がなかったのは、バブルのころの1991年からで、35年ぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>下が<rt>さが</rt></ruby>った<ruby>市<rt>し</rt></ruby>がなかったのは、バブルのころの1991<ruby>年<rt>ねん</rt></ruby>からで、35<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "特に大きく上がったのは、外国でも人気があるスキー場や温泉の近くです。長野県の白馬村は、去年より32.7パーセントも上がりました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>ったのは、<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>があるスキー<ruby>場<rt>ば</rt></ruby>や<span class=\"vw\" data-ja=\"温泉\" data-reading=\"おんせん\" data-en=\"hot spring\"><ruby>温泉<rt>おんせん</rt></ruby></span>の<ruby>近く<rt>ちかく</rt></ruby>です。<ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>白馬<rt>はくば</rt></ruby><ruby>村<rt>むら</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より32.7パーセントも<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁は、「土地の値段が上がる強い流れが、地方にも広がっている」と話しています。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"土地\" data-reading=\"とち\" data-en=\"land; a plot of ground\"><ruby>土地<rt>とち</rt></ruby></span>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>る<ruby>強い<rt>つよい</rt></ruby><ruby>流れ<rt>ながれ</rt></ruby>が、<ruby>地方<rt>ちほう</rt></ruby>にも<ruby>広が<rt>ひろが</rt></ruby>っている」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Three questions."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の路線価は、全国の平均が、去年よりどのくらい上がりましたか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>は、<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が、<ruby>去年<rt>きょねん</rt></ruby>よりどのくらい<ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How much did the nationwide average rise this year? Answer: 2.9 percent — the biggest increase since 2010."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の平均が上がったのは、何年連続ですか。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったのは、<ruby>何年<rt>なんねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive; continuous\"><ruby>連続<rt>れんぞく</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "For how many years in a row has the national average risen? Answer: five years in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "都道府県別で、いちばん路線価が高かったのは、どこですか。",
+      "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby><ruby>別<rt>べつ</rt></ruby>で、いちばん<span class=\"vw\" data-ja=\"路線価\" data-reading=\"ろせんか\" data-en=\"roadside land value (used for tax)\"><ruby>路線価<rt>ろせんか</rt></ruby></span>が<ruby>高かっ<rt>たかっ</rt></ruby>たのは、どこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which prefecture had the highest land values? Answer: Tokyo, up 9.4 percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's today's Japanese Daily News. Land prices are climbing again — and this time the gains are reaching resort towns and smaller regions, not just the big cities. Full transcript and vocabulary are on the site. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "路線価",
+      "reading": "ろせんか",
+      "en": "roadside land value (used for tax)",
+      "zh": "路线价（沿路土地评估价，用于计税）"
+    },
+    {
+      "ja": "土地",
+      "reading": "とち",
+      "en": "land; a plot of ground",
+      "zh": "土地"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "税金",
+      "reading": "ぜいきん",
+      "en": "tax",
+      "zh": "税金；税款"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "方法",
+      "reading": "ほうほう",
+      "en": "method; way",
+      "zh": "方法"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "in a row; consecutive; continuous",
+      "zh": "连续"
+    },
+    {
+      "ja": "集まる",
+      "reading": "あつまる",
+      "en": "to gather; to collect; to come together",
+      "zh": "聚集；汇集"
+    },
+    {
+      "ja": "観光客",
+      "reading": "かんこうきゃく",
+      "en": "tourist; sightseer",
+      "zh": "观光客；游客"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "influence; effect; impact",
+      "zh": "影响"
+    },
+    {
+      "ja": "超える",
+      "reading": "こえる",
+      "en": "to exceed; to go over",
+      "zh": "超过；超出"
+    },
+    {
+      "ja": "下がる",
+      "reading": "さがる",
+      "en": "to fall; to go down; to drop",
+      "zh": "下降；下跌"
+    },
+    {
+      "ja": "温泉",
+      "reading": "おんせん",
+      "en": "hot spring",
+      "zh": "温泉"
+    },
+    {
+      "ja": "広がる",
+      "reading": "ひろがる",
+      "en": "to spread; to widen",
+      "zh": "扩大；蔓延；扩散"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜あたり",
+      "meaning": "per ~; for each ~",
+      "meaningZh": "每…；平均每…",
+      "formation": "counter/noun + あたり",
+      "example": "1平方メートルあたりの値段です。",
+      "translation": "It is the price per square meter.",
+      "note": "Added after a unit to express a rate or amount for each single unit",
+      "noteZh": "接在单位后面，表示每一单位的比率或数量",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#あたり"
+    },
+    {
+      "pattern": "〜ために / 〜ための",
+      "meaning": "for the purpose of ~; in order to ~",
+      "meaningZh": "为了…",
+      "formation": "verb (dictionary form) / noun + の + ために",
+      "example": "土地を買うためのお金がたくさん集まっています。",
+      "translation": "A lot of money for buying land is gathering.",
+      "note": "Marks the purpose or goal; ための modifies a following noun",
+      "noteZh": "表示目的或意图，「ための」用来修饰后面的名词",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ために"
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~ (time)",
+      "meaningZh": "时隔…；相隔…之久",
+      "formation": "time span + ぶり",
+      "example": "1991年からで、35年ぶりです。",
+      "translation": "It's the first time in 35 years, since 1991.",
+      "note": "Says that something is happening again after a long interval",
+      "noteZh": "表示某事相隔一段时间后再次发生",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "数量＋も",
+      "meaning": "as much as ~; as many as ~",
+      "meaningZh": "多达…；竟有…",
+      "formation": "number/quantity + も",
+      "example": "32.7パーセントも上がりました。",
+      "translation": "It rose by as much as 32.7 percent.",
+      "note": "Adds も after a number to stress that the amount is surprisingly large",
+      "noteZh": "在数量词后加「も」，强调数量之多出乎意料",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#quantity-mo"
+    }
+  ],
+  "practiceZh": [
+    "国税庁は7月1日、今年の「路線価」を発表しました。路線価は、道に面した土地の1平方メートルあたりの値段です。\n国税厅于7月1日公布了今年的「路线价」。路线价是面向道路的土地每平方米的价格。\n路線価 = roadside land value；〜あたり = per",
+    "路線価は、人が亡くなったときにかかる税金などを計算するときに使われます。毎年1回、発表されます。\n路线价用于计算人去世时产生的税金等，每年公布一次。\n税金 = tax；計算する = to calculate",
+    "今年の路線価は、全国の平均が、去年より2.9パーセント上がりました。\n今年的路线价，全国平均比去年上涨了2.9%。\n平均 = average；上がる = to rise",
+    "この上がり方は、今の計算方法になった2010年からで、いちばん大きいです。\n这一涨幅是自采用现行计算方法的2010年以来最大的。\n方法 = method；いちばん = the most",
+    "全国の平均が上がったのは、これで5年連続です。\n全国平均上涨，这已是连续第5年。\n連続 = in a row；上がる = to rise",
+    "土地の値段が上がった理由は、いくつかあります。\n土地价格上涨的原因有好几个。\n土地 = land；理由 = reason",
+    "一つは、日本や外国から、土地を買うためのお金がたくさん集まっていることです。\n其中之一是，来自日本国内和国外、用于购买土地的资金大量涌入。\n〜ために = in order to；集まる = to gather",
+    "また、町の中に住みたい人が多いことや、日本に来る観光客が増えていることも、影響しています。\n此外，想住在市中心的人多，以及来日本的游客增加，也有影响。\n観光客 = tourist；影響 = effect",
+    "都道府県別で見ると、東京都がいちばん高く、去年より9.4パーセント上がりました。沖縄県や大阪府も、5パーセントを超えました。\n按都道府县来看，东京都最高，比去年上涨了9.4%。冲绳县和大阪府也超过了5%。\n〜別 = by (category)；超える = to exceed",
+    "県庁がある市の中でいちばん高い場所を見ると、去年より値段が下がった市は、一つもありませんでした。\n在有县政府的城市中，看最高的地点，比去年价格下跌的城市一个也没有。\n下がる = to fall；一つも〜ない = not even one",
+    "値段が下がった市がなかったのは、バブルのころの1991年からで、35年ぶりです。\n没有城市价格下跌，这是自泡沫时期的1991年以来、时隔35年的事。\n〜ぶり = for the first time in；ころ = around (the time)",
+    "特に大きく上がったのは、外国でも人気があるスキー場や温泉の近くです。長野県の白馬村は、去年より32.7パーセントも上がりました。\n涨幅特别大的是在国外也很有人气的滑雪场和温泉附近。长野县的白马村比去年竟上涨了32.7%。\n温泉 = hot spring；数量＋も = as much as",
+    "国税庁は、「土地の値段が上がる強い流れが、地方にも広がっている」と話しています。\n国税厅表示：「土地价格上涨的强劲趋势正在向地方扩散。」\n地方 = regions；広がる = to spread"
+  ]
+}
