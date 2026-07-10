@@ -1,0 +1,675 @@
+{
+  "episode": 58,
+  "title": "大型で非常に強い台風9号が沖縄・先島諸島に接近　11日にかけて最大瞬間風速60メートルの猛烈な風、気象庁が暴風・高波・高潮に厳重警戒を呼びかけ",
+  "date": "2026-07-10",
+  "source": "NHK NEWS WEB / 気象庁 / 日本気象協会 tenki.jp / 各社",
+  "level": "N4-N3",
+  "contentVersion": "2026071001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July tenth. A large, very powerful typhoon is bearing down on Okinawa's southern islands right now. Today's story is about the warnings and what people there are being told to do. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風のニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大型で非常に強い台風9号が、沖縄に近づいています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large in scale\"><ruby>大型<rt>おおがた</rt></ruby></span>で<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span><ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>9<ruby>号<rt>ごう</rt></ruby>が、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、11日の午前中に、沖縄の先島諸島にかなり接近する見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は、11<ruby>日<rt>にち</rt></ruby>の<ruby>午前中<rt>ごぜんちゅう</rt></ruby>に、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>先島諸島<rt>さきしましょとう</rt></ruby>にかなり<span class=\"vw\" data-ja=\"接近\" data-reading=\"せっきん\" data-en=\"close approach\"><ruby>接近<rt>せっきん</rt></ruby></span>する<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、宮古島などの地域に、厳重に警戒するよう呼びかけています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>宮古島<rt>みやこじま</rt></ruby>などの<ruby>地域<rt>ちいき</rt></ruby>に、<span class=\"vw\" data-ja=\"厳重に\" data-reading=\"げんじゅうに\" data-en=\"strictly; severely\"><ruby>厳重<rt>げんじゅう</rt></ruby>に</span><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日に予想される最大風速は45メートル、最大瞬間風速は60メートルです。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>に<ruby>予想<rt>よそう</rt></ruby>される<span class=\"vw\" data-ja=\"最大風速\" data-reading=\"さいだいふうそく\" data-en=\"maximum sustained wind speed\"><ruby>最大<rt>さいだい</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby></span>は45メートル、<ruby>最大<rt>さいだい</rt></ruby><ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は60メートルです。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、人が外で立っていられないほどの、猛烈な風です。",
+      "ruby": "これは、<ruby>人<rt>ひと</rt></ruby>が<ruby>外<rt>そと</rt></ruby>で<ruby>立っ<rt>たっ</rt></ruby>ていられないほどの、<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce; violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>な<ruby>風<rt>かぜ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "先島諸島では、一部の家が壊れるおそれもあります。",
+      "ruby": "<ruby>先島諸島<rt>さきしましょとう</rt></ruby>では、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>が<span class=\"vw\" data-ja=\"壊れる\" data-reading=\"こわれる\" data-en=\"to break; to be destroyed\"><ruby>壊れ<rt>こわれ</rt></ruby>る</span>おそれもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "海も大きく荒れて、高い波や高潮にも注意が必要です。",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>も<ruby>大きく<rt>おおきく</rt></ruby><ruby>荒れ<rt>あれ</rt></ruby>て、<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"波\" data-reading=\"なみ\" data-en=\"wave\"><ruby>波<rt>なみ</rt></ruby></span>や<span class=\"vw\" data-ja=\"高潮\" data-reading=\"たかしお\" data-en=\"storm surge\"><ruby>高潮<rt>たかしお</rt></ruby></span>にも<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い雨が続き、土砂災害や川の氾濫の危険もあります。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>、<span class=\"vw\" data-ja=\"土砂災害\" data-reading=\"どしゃさいがい\" data-en=\"landslide; sediment disaster\"><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby></span>や<ruby>川<rt>かわ</rt></ruby>の<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflow\"><ruby>氾濫<rt>はんらん</rt></ruby></span>の<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "飛行機や船が欠航するなど、交通への影響も出ています。",
+      "ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>や<ruby>船<rt>ふね</rt></ruby>が<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"cancellation of a flight or ferry\"><ruby>欠航<rt>けっこう</rt></ruby></span>するなど、<ruby>交通<rt>こうつう</rt></ruby>への<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; impact\"><ruby>影響<rt>えいきょう</rt></ruby></span>も<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、早めに安全な場所へ避難するよう伝えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>するよう<ruby>伝え<rt>つたえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "危険なので、外に出ないで、丈夫な建物の中で過ごしてください。",
+      "ruby": "<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>なので、<ruby>外<rt>そと</rt></ruby>に<ruby>出な<rt>でな</rt></ruby>いで、<span class=\"vw\" data-ja=\"丈夫\" data-reading=\"じょうぶ\" data-en=\"sturdy; solidly built\"><ruby>丈夫<rt>じょうぶ</rt></ruby></span>な<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>してください。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風はそのあと、東シナ海を進んで、台湾に向かう見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>はそのあと、<ruby>東<rt>ひがし</rt></ruby>シナ<ruby>海<rt>うみ</rt></ruby>を<ruby>進ん<rt>すすん</rt></ruby>で、<ruby>台湾<rt>たいわん</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>う<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "大型で非常に強い台風9号が、沖縄に近づいています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large in scale\"><ruby>大型<rt>おおがた</rt></ruby></span>で<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span><ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>9<ruby>号<rt>ごう</rt></ruby>が、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "host",
+      "text": "A large, very strong Typhoon No. 9 is approaching Okinawa."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大型",
+      "ruby": "<span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large in scale\"><ruby>大型<rt>おおがた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means large in scale."
+    },
+    {
+      "speaker": "vocab",
+      "text": "近づく",
+      "ruby": "<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; to come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to approach or come closer."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風は、11日の午前中に、沖縄の先島諸島にかなり接近する見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は、11<ruby>日<rt>にち</rt></ruby>の<ruby>午前中<rt>ごぜんちゅう</rt></ruby>に、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>先島諸島<rt>さきしましょとう</rt></ruby>にかなり<span class=\"vw\" data-ja=\"接近\" data-reading=\"せっきん\" data-en=\"close approach\"><ruby>接近<rt>せっきん</rt></ruby></span>する<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The typhoon is expected to come quite close to Okinawa's Sakishima Islands on the morning of the eleventh."
+    },
+    {
+      "speaker": "vocab",
+      "text": "接近",
+      "ruby": "<span class=\"vw\" data-ja=\"接近\" data-reading=\"せっきん\" data-en=\"close approach\"><ruby>接近<rt>せっきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a close approach."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込み",
+      "ruby": "<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an expectation or forecast of what will happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、宮古島などの地域に、厳重に警戒するよう呼びかけています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>宮古島<rt>みやこじま</rt></ruby>などの<ruby>地域<rt>ちいき</rt></ruby>に、<span class=\"vw\" data-ja=\"厳重に\" data-reading=\"げんじゅうに\" data-en=\"strictly; severely\"><ruby>厳重<rt>げんじゅう</rt></ruby>に</span><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Meteorological Agency is urging areas such as Miyakojima to be on strict guard."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警戒",
+      "ruby": "<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means caution or being on guard against danger."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on or urge people to do something."
+    },
+    {
+      "speaker": "slow",
+      "text": "11日に予想される最大風速は45メートル、最大瞬間風速は60メートルです。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>に<ruby>予想<rt>よそう</rt></ruby>される<span class=\"vw\" data-ja=\"最大風速\" data-reading=\"さいだいふうそく\" data-en=\"maximum sustained wind speed\"><ruby>最大<rt>さいだい</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby></span>は45メートル、<ruby>最大<rt>さいだい</rt></ruby><ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は60メートルです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The maximum wind speed expected on the eleventh is forty-five meters per second, with gusts up to sixty."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最大風速",
+      "ruby": "<span class=\"vw\" data-ja=\"最大風速\" data-reading=\"さいだいふうそく\" data-en=\"maximum sustained wind speed\"><ruby>最大<rt>さいだい</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the maximum sustained wind speed."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、人が外で立っていられないほどの、猛烈な風です。",
+      "ruby": "これは、<ruby>人<rt>ひと</rt></ruby>が<ruby>外<rt>そと</rt></ruby>で<ruby>立っ<rt>たっ</rt></ruby>ていられないほどの、<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce; violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>な<ruby>風<rt>かぜ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is a violent wind, so strong that a person cannot stay standing outside."
+    },
+    {
+      "speaker": "vocab",
+      "text": "猛烈",
+      "ruby": "<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce; violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fierce or violent."
+    },
+    {
+      "speaker": "slow",
+      "text": "先島諸島では、一部の家が壊れるおそれもあります。",
+      "ruby": "<ruby>先島諸島<rt>さきしましょとう</rt></ruby>では、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>が<span class=\"vw\" data-ja=\"壊れる\" data-reading=\"こわれる\" data-en=\"to break; to be destroyed\"><ruby>壊れ<rt>こわれ</rt></ruby>る</span>おそれもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Sakishima Islands, there is even a risk that some houses could be destroyed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "壊れる",
+      "ruby": "<span class=\"vw\" data-ja=\"壊れる\" data-reading=\"こわれる\" data-en=\"to break; to be destroyed\"><ruby>壊れ<rt>こわれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to break or be destroyed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おそれ",
+      "ruby": "<span class=\"vw\" data-ja=\"おそれ\" data-reading=\"おそれ\" data-en=\"risk; fear that something may happen\">おそれ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a risk or fear that something bad may happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "海も大きく荒れて、高い波や高潮にも注意が必要です。",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>も<ruby>大きく<rt>おおきく</rt></ruby><ruby>荒れ<rt>あれ</rt></ruby>て、<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"波\" data-reading=\"なみ\" data-en=\"wave\"><ruby>波<rt>なみ</rt></ruby></span>や<span class=\"vw\" data-ja=\"高潮\" data-reading=\"たかしお\" data-en=\"storm surge\"><ruby>高潮<rt>たかしお</rt></ruby></span>にも<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The sea is also very rough, and caution is needed for high waves and storm surge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高潮",
+      "ruby": "<span class=\"vw\" data-ja=\"高潮\" data-reading=\"たかしお\" data-en=\"storm surge\"><ruby>高潮<rt>たかしお</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a storm surge, when the sea level rises abnormally."
+    },
+    {
+      "speaker": "vocab",
+      "text": "波",
+      "ruby": "<span class=\"vw\" data-ja=\"波\" data-reading=\"なみ\" data-en=\"wave\"><ruby>波<rt>なみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a wave."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い雨が続き、土砂災害や川の氾濫の危険もあります。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>、<span class=\"vw\" data-ja=\"土砂災害\" data-reading=\"どしゃさいがい\" data-en=\"landslide; sediment disaster\"><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby></span>や<ruby>川<rt>かわ</rt></ruby>の<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflow\"><ruby>氾濫<rt>はんらん</rt></ruby></span>の<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Heavy rain continues, and there is also a danger of landslides and rivers overflowing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "土砂災害",
+      "ruby": "<span class=\"vw\" data-ja=\"土砂災害\" data-reading=\"どしゃさいがい\" data-en=\"landslide; sediment disaster\"><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a landslide or sediment disaster."
+    },
+    {
+      "speaker": "vocab",
+      "text": "氾濫",
+      "ruby": "<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflow\"><ruby>氾濫<rt>はんらん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means flooding, when a river overflows."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、早めに安全な場所へ避難するよう伝えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>するよう<ruby>伝え<rt>つたえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency is telling people to evacuate to a safe place early."
+    },
+    {
+      "speaker": "vocab",
+      "text": "避難",
+      "ruby": "<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means evacuation, moving to a safe place."
+    },
+    {
+      "speaker": "slow",
+      "text": "危険なので、外に出ないで、丈夫な建物の中で過ごしてください。",
+      "ruby": "<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>なので、<ruby>外<rt>そと</rt></ruby>に<ruby>出な<rt>でな</rt></ruby>いで、<span class=\"vw\" data-ja=\"丈夫\" data-reading=\"じょうぶ\" data-en=\"sturdy; solidly built\"><ruby>丈夫<rt>じょうぶ</rt></ruby></span>な<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>してください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because it's dangerous, please stay inside a sturdy building and don't go outside."
+    },
+    {
+      "speaker": "vocab",
+      "text": "丈夫",
+      "ruby": "<span class=\"vw\" data-ja=\"丈夫\" data-reading=\"じょうぶ\" data-en=\"sturdy; solidly built\"><ruby>丈夫<rt>じょうぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Here it means sturdy or solidly built."
+    },
+    {
+      "speaker": "vocab",
+      "text": "危険",
+      "ruby": "<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means danger or dangerous."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "台風のニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大型で非常に強い台風9号が、沖縄に近づいています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large in scale\"><ruby>大型<rt>おおがた</rt></ruby></span>で<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span><ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>9<ruby>号<rt>ごう</rt></ruby>が、<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いています。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、11日の午前中に、沖縄の先島諸島にかなり接近する見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>は、11<ruby>日<rt>にち</rt></ruby>の<ruby>午前中<rt>ごぜんちゅう</rt></ruby>に、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>先島諸島<rt>さきしましょとう</rt></ruby>にかなり<span class=\"vw\" data-ja=\"接近\" data-reading=\"せっきん\" data-en=\"close approach\"><ruby>接近<rt>せっきん</rt></ruby></span>する<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、宮古島などの地域に、厳重に警戒するよう呼びかけています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>宮古島<rt>みやこじま</rt></ruby>などの<ruby>地域<rt>ちいき</rt></ruby>に、<span class=\"vw\" data-ja=\"厳重に\" data-reading=\"げんじゅうに\" data-en=\"strictly; severely\"><ruby>厳重<rt>げんじゅう</rt></ruby>に</span><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日に予想される最大風速は45メートル、最大瞬間風速は60メートルです。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>に<ruby>予想<rt>よそう</rt></ruby>される<span class=\"vw\" data-ja=\"最大風速\" data-reading=\"さいだいふうそく\" data-en=\"maximum sustained wind speed\"><ruby>最大<rt>さいだい</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby></span>は45メートル、<ruby>最大<rt>さいだい</rt></ruby><ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は60メートルです。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、人が外で立っていられないほどの、猛烈な風です。",
+      "ruby": "これは、<ruby>人<rt>ひと</rt></ruby>が<ruby>外<rt>そと</rt></ruby>で<ruby>立っ<rt>たっ</rt></ruby>ていられないほどの、<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce; violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>な<ruby>風<rt>かぜ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "先島諸島では、一部の家が壊れるおそれもあります。",
+      "ruby": "<ruby>先島諸島<rt>さきしましょとう</rt></ruby>では、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>が<span class=\"vw\" data-ja=\"壊れる\" data-reading=\"こわれる\" data-en=\"to break; to be destroyed\"><ruby>壊れ<rt>こわれ</rt></ruby>る</span>おそれもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "海も大きく荒れて、高い波や高潮にも注意が必要です。",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>も<ruby>大きく<rt>おおきく</rt></ruby><ruby>荒れ<rt>あれ</rt></ruby>て、<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"波\" data-reading=\"なみ\" data-en=\"wave\"><ruby>波<rt>なみ</rt></ruby></span>や<span class=\"vw\" data-ja=\"高潮\" data-reading=\"たかしお\" data-en=\"storm surge\"><ruby>高潮<rt>たかしお</rt></ruby></span>にも<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い雨が続き、土砂災害や川の氾濫の危険もあります。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>、<span class=\"vw\" data-ja=\"土砂災害\" data-reading=\"どしゃさいがい\" data-en=\"landslide; sediment disaster\"><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby></span>や<ruby>川<rt>かわ</rt></ruby>の<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflow\"><ruby>氾濫<rt>はんらん</rt></ruby></span>の<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "飛行機や船が欠航するなど、交通への影響も出ています。",
+      "ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>や<ruby>船<rt>ふね</rt></ruby>が<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"cancellation of a flight or ferry\"><ruby>欠航<rt>けっこう</rt></ruby></span>するなど、<ruby>交通<rt>こうつう</rt></ruby>への<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; impact\"><ruby>影響<rt>えいきょう</rt></ruby></span>も<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、早めに安全な場所へ避難するよう伝えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>するよう<ruby>伝え<rt>つたえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "危険なので、外に出ないで、丈夫な建物の中で過ごしてください。",
+      "ruby": "<span class=\"vw\" data-ja=\"危険\" data-reading=\"きけん\" data-en=\"danger; dangerous\"><ruby>危険<rt>きけん</rt></ruby></span>なので、<ruby>外<rt>そと</rt></ruby>に<ruby>出な<rt>でな</rt></ruby>いで、<span class=\"vw\" data-ja=\"丈夫\" data-reading=\"じょうぶ\" data-en=\"sturdy; solidly built\"><ruby>丈夫<rt>じょうぶ</rt></ruby></span>な<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>してください。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風はそのあと、東シナ海を進んで、台湾に向かう見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>はそのあと、<ruby>東<rt>ひがし</rt></ruby>シナ<ruby>海<rt>うみ</rt></ruby>を<ruby>進ん<rt>すすん</rt></ruby>で、<ruby>台湾<rt>たいわん</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>う<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風9号は、いつ先島諸島に接近する見込みですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"台風\" data-reading=\"たいふう\" data-en=\"typhoon\"><ruby>台風<rt>たいふう</rt></ruby></span>9<ruby>号<rt>ごう</rt></ruby>は、いつ<ruby>先島諸島<rt>さきしましょとう</rt></ruby>に<span class=\"vw\" data-ja=\"接近\" data-reading=\"せっきん\" data-en=\"close approach\"><ruby>接近<rt>せっきん</rt></ruby></span>する<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the eleventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "11日に予想される最大瞬間風速は、何メートルですか。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>に<ruby>予想<rt>よそう</rt></ruby>される<ruby>最大<rt>さいだい</rt></ruby><ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>メートルですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty meters per second."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、人々にどうするよう伝えていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<ruby>人々<rt>ひとびと</rt></ruby>にどうするよう<ruby>伝え<rt>つたえ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "To evacuate to a safe place early and stay inside a sturdy building."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're in Okinawa, please stay safe indoors and follow the local warnings. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "台風",
+      "reading": "たいふう",
+      "en": "typhoon",
+      "zh": "台风"
+    },
+    {
+      "ja": "大型",
+      "reading": "おおがた",
+      "en": "large in scale",
+      "zh": "大型"
+    },
+    {
+      "ja": "非常に",
+      "reading": "ひじょうに",
+      "en": "extremely; very",
+      "zh": "非常；极其"
+    },
+    {
+      "ja": "近づく",
+      "reading": "ちかづく",
+      "en": "to approach; to come closer",
+      "zh": "靠近；接近"
+    },
+    {
+      "ja": "接近",
+      "reading": "せっきん",
+      "en": "close approach",
+      "zh": "接近；逼近"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "expectation; forecast",
+      "zh": "预计；预料"
+    },
+    {
+      "ja": "気象庁",
+      "reading": "きしょうちょう",
+      "en": "Japan Meteorological Agency",
+      "zh": "气象厅"
+    },
+    {
+      "ja": "厳重に",
+      "reading": "げんじゅうに",
+      "en": "strictly; severely",
+      "zh": "严密地；严格地"
+    },
+    {
+      "ja": "警戒",
+      "reading": "けいかい",
+      "en": "caution; vigilance",
+      "zh": "警戒；戒备"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁；号召"
+    },
+    {
+      "ja": "最大風速",
+      "reading": "さいだいふうそく",
+      "en": "maximum sustained wind speed",
+      "zh": "最大风速"
+    },
+    {
+      "ja": "猛烈",
+      "reading": "もうれつ",
+      "en": "fierce; violent",
+      "zh": "猛烈；剧烈"
+    },
+    {
+      "ja": "壊れる",
+      "reading": "こわれる",
+      "en": "to break; to be destroyed",
+      "zh": "损坏；坏掉"
+    },
+    {
+      "ja": "おそれ",
+      "reading": "おそれ",
+      "en": "risk; fear that something may happen",
+      "zh": "有…之虞；危险"
+    },
+    {
+      "ja": "波",
+      "reading": "なみ",
+      "en": "wave",
+      "zh": "波浪；海浪"
+    },
+    {
+      "ja": "高潮",
+      "reading": "たかしお",
+      "en": "storm surge",
+      "zh": "风暴潮"
+    },
+    {
+      "ja": "土砂災害",
+      "reading": "どしゃさいがい",
+      "en": "landslide; sediment disaster",
+      "zh": "泥石流灾害；山体滑坡"
+    },
+    {
+      "ja": "氾濫",
+      "reading": "はんらん",
+      "en": "flooding; overflow",
+      "zh": "泛滥；决堤"
+    },
+    {
+      "ja": "欠航",
+      "reading": "けっこう",
+      "en": "cancellation of a flight or ferry",
+      "zh": "停航；停飞"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "effect; impact",
+      "zh": "影响"
+    },
+    {
+      "ja": "避難",
+      "reading": "ひなん",
+      "en": "evacuation",
+      "zh": "避难；疏散"
+    },
+    {
+      "ja": "丈夫",
+      "reading": "じょうぶ",
+      "en": "sturdy; solidly built",
+      "zh": "结实；坚固"
+    },
+    {
+      "ja": "建物",
+      "reading": "たてもの",
+      "en": "building",
+      "zh": "建筑物；楼房"
+    },
+    {
+      "ja": "危険",
+      "reading": "きけん",
+      "en": "danger; dangerous",
+      "zh": "危险"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜見込みです",
+      "meaning": "is expected to ~; is likely to ~",
+      "meaningZh": "预计…；有望…",
+      "formation": "plain verb / noun + 見込みです",
+      "example": "台風は先島諸島に接近する見込みです。",
+      "translation": "The typhoon is expected to approach the Sakishima Islands.",
+      "note": "Used in news to state a forecast or prediction",
+      "noteZh": "新闻中用来表示预测或预计的结果",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#みこみ"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk / fear that ~",
+      "meaningZh": "有…的危险；恐怕会…",
+      "formation": "plain verb / noun + の + おそれがある",
+      "example": "一部の家が壊れるおそれもあります。",
+      "translation": "There is even a risk that some houses could be destroyed.",
+      "note": "Used for the danger of something bad happening",
+      "noteZh": "表示可能发生不好的事情的担忧",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜ように（呼びかける・伝える）",
+      "meaning": "to urge / tell someone to do ~",
+      "meaningZh": "呼吁／告诉（某人）去做…",
+      "formation": "plain verb + よう + に + 呼びかける／伝える",
+      "example": "厳重に警戒するよう呼びかけています。",
+      "translation": "They are urging people to be on strict guard.",
+      "note": "Reports an indirect request or instruction; に is often dropped in news style",
+      "noteZh": "表示间接的请求或指示；新闻体中常省略に",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~; since ~",
+      "meaningZh": "因为…；由于…",
+      "formation": "plain form (na-adj / noun + な) + ので",
+      "example": "危険なので、外に出ないでください。",
+      "translation": "Because it is dangerous, please don't go outside.",
+      "note": "States an objective reason; softer and more polite than から",
+      "noteZh": "表示客观理由，语气比から更委婉、更礼貌",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ので"
+    }
+  ],
+  "practiceZh": [
+    "大型で非常に強い台風9号が、沖縄に近づいています。\n大型且非常强的9号台风正在靠近冲绳。\n大型 = large；近づく = to approach",
+    "台風は、11日の午前中に、沖縄の先島諸島にかなり接近する見込みです。\n预计台风将于11日上午相当靠近冲绳的先岛诸岛。\n接近 = close approach；見込み = expectation",
+    "気象庁は、宮古島などの地域に、厳重に警戒するよう呼びかけています。\n气象厅呼吁宫古岛等地区严加戒备。\n警戒 = vigilance；呼びかける = to urge",
+    "11日に予想される最大風速は45メートル、最大瞬間風速は60メートルです。\n预计11日的最大风速为45米，最大瞬时风速为60米。\n最大風速 = max wind speed；瞬間 = instant",
+    "これは、人が外で立っていられないほどの、猛烈な風です。\n这是让人无法在户外站立的猛烈的风。\n猛烈 = fierce；ほど = to the extent that",
+    "先島諸島では、一部の家が壊れるおそれもあります。\n在先岛诸岛，部分房屋甚至有损坏的危险。\n壊れる = to break；おそれ = risk",
+    "海も大きく荒れて、高い波や高潮にも注意が必要です。\n海面也大幅波涛汹涌，需要注意巨浪和风暴潮。\n波 = wave；高潮 = storm surge",
+    "強い雨が続き、土砂災害や川の氾濫の危険もあります。\n强降雨持续，也有泥石流灾害和河川泛滥的危险。\n土砂災害 = landslide；氾濫 = flooding",
+    "飛行機や船が欠航するなど、交通への影響も出ています。\n飞机和船只停航等，也对交通造成了影响。\n欠航 = cancellation；影響 = impact",
+    "気象庁は、早めに安全な場所へ避難するよう伝えています。\n气象厅呼吁人们尽早前往安全的地方避难。\n避難 = evacuation；早めに = early",
+    "危険なので、外に出ないで、丈夫な建物の中で過ごしてください。\n因为危险，请不要外出，在结实的建筑物内度过。\n丈夫 = sturdy；建物 = building"
+  ]
+}
