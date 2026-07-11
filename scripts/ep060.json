@@ -1,0 +1,666 @@
+{
+  "episode": 60,
+  "title": "使わなくなったスマホやパソコンを宅配便・引っ越し業者が回収　環境省が7月から北海道・関東・九州・四国で実証事業、トラックの空きスペースで「都市鉱山」からレアメタルを取り出す狙い",
+  "date": "2026-07-11",
+  "source": "NHK / 日本経済新聞 / 環境省 / 各社",
+  "level": "N4-N3",
+  "contentVersion": "2026071101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July eleventh. Here's a story about turning old gadgets into treasure: Japan is testing a new way to collect used phones and computers using delivery trucks. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "環境と資源についてのニュースです。",
+      "ruby": "<ruby>環境<rt>かんきょう</rt></ruby>と<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>についてのニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "使わなくなったスマートフォンやパソコンを、宅配便や引っ越しの会社が集める実証実験が始まります。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>なくなったスマートフォンやパソコンを、<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"home delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>や<span class=\"vw\" data-ja=\"引っ越し\" data-reading=\"ひっこし\" data-en=\"moving (house)\"><ruby>引っ越し<rt>ひっこし</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>る<span class=\"vw\" data-ja=\"実証実験\" data-reading=\"じっしょうじっけん\" data-en=\"demonstration test; pilot\"><ruby>実証<rt>じっしょう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、日本の環境省が行う取り組みです。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>が<ruby>行う<rt>おこなう</rt></ruby><span class=\"vw\" data-ja=\"取り組み\" data-reading=\"とりくみ\" data-en=\"effort; initiative\"><ruby>取り組み<rt>とりくみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月から来年の1月まで、北海道、関東、九州、四国の4つの地域で行われます。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>まで、<ruby>北海道<rt>ほっかいどう</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>、<ruby>四国<rt>しこく</rt></ruby>の4つの<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region; area\"><ruby>地域<rt>ちいき</rt></ruby></span>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "トラックの空いているスペースを使って、荷物と一緒に古い家電も運びます。",
+      "ruby": "トラックの<ruby>空い<rt>あい</rt></ruby>ているスペースを<ruby>使って<rt>つかって</rt></ruby>、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; parcel\"><ruby>荷物<rt>にもつ</rt></ruby></span>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>も<ruby>運び<rt>はこび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、荷物を届けた帰りのトラックに、いらなくなった家電を乗せます。",
+      "ruby": "たとえば、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; parcel\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>届け<rt>とどけ</rt></ruby>た<ruby>帰り<rt>かえり</rt></ruby>のトラックに、いらなくなった<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>を<ruby>乗せ<rt>のせ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "こうすれば、新しく車を走らせなくても、家電を集めることができます。",
+      "ruby": "こうすれば、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>走ら<rt>はしら</rt></ruby>せなくても、<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "集めた家電は、環境省が認めたリサイクルの会社に送られます。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>た<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>が<ruby>認め<rt>みとめ</rt></ruby>たリサイクルの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>送ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンやパソコンの中には、金や銀、そしてレアメタルと呼ばれる貴重な金属が入っています。",
+      "ruby": "スマートフォンやパソコンの<ruby>中に<rt>なかに</rt></ruby>は、<ruby>金<rt>きん</rt></ruby>や<ruby>銀<rt>ぎん</rt></ruby>、そしてレアメタルと<ruby>呼ば<rt>よば</rt></ruby>れる<span class=\"vw\" data-ja=\"貴重\" data-reading=\"きちょう\" data-en=\"precious; valuable\"><ruby>貴重<rt>きちょう</rt></ruby></span>な<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんの古い電子機器が集まる場所は、「都市鉱山」と呼ばれています。",
+      "ruby": "たくさんの<ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"電子機器\" data-reading=\"でんしきき\" data-en=\"electronic device\"><ruby>電子機器<rt>でんしきき</rt></ruby></span>が<ruby>集まる<rt>あつまる</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>は、「<span class=\"vw\" data-ja=\"都市鉱山\" data-reading=\"としこうざん\" data-en=\"urban mine\"><ruby>都市<rt>とし</rt></ruby><ruby>鉱山<rt>こうざん</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の都市鉱山には、世界のおよそ16パーセントにあたる金があると言われています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"都市鉱山\" data-reading=\"としこうざん\" data-en=\"urban mine\"><ruby>都市<rt>とし</rt></ruby><ruby>鉱山<rt>こうざん</rt></ruby></span>には、<ruby>世界<rt>せかい</rt></ruby>のおよそ16パーセントにあたる<ruby>金<rt>きん</rt></ruby>があると<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この取り組みの背景には、資源を安定して手に入れたいという狙いがあります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"取り組み\" data-reading=\"とりくみ\" data-en=\"effort; initiative\"><ruby>取り組み<rt>とりくみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background\"><ruby>背景<rt>はいけい</rt></ruby></span>には、<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>して<ruby>手に入れ<rt>てにいれ</rt></ruby>たいという<span class=\"vw\" data-ja=\"狙い\" data-reading=\"ねらい\" data-en=\"aim; goal\"><ruby>狙い<rt>ねらい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国が今年1月、レアアースの輸出の管理を強くしたため、日本は国内で資源を循環させようとしています。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>1<ruby>月<rt>がつ</rt></ruby>、レアアースの<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"control; management\"><ruby>管理<rt>かんり</rt></ruby></span>を<ruby>強く<rt>つよく</rt></ruby>したため、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>国内<rt>こくない</rt></ruby>で<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>を<span class=\"vw\" data-ja=\"循環\" data-reading=\"じゅんかん\" data-en=\"circulation\"><ruby>循環<rt>じゅんかん</rt></ruby></span>させようとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、個人情報が心配で、古いスマートフォンを手放せない人も多く、これが課題です。",
+      "ruby": "ただ、<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>で、<ruby>古い<rt>ふるい</rt></ruby>スマートフォンを<ruby>手放せ<rt>てばなせ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>も<ruby>多く<rt>おおく</rt></ruby>、これが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue; challenge\"><ruby>課題<rt>かだい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "環境省は、この実験の結果を見て、全国に広げるかどうかを考えます。",
+      "ruby": "<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>は、この<ruby>実験<rt>じっけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>、<ruby>全国<rt>ぜんこく</rt></ruby>に<span class=\"vw\" data-ja=\"広げる\" data-reading=\"ひろげる\" data-en=\"to expand; to spread\"><ruby>広げ<rt>ひろげ</rt></ruby>るかどうかを</span><ruby>考え<rt>かんがえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "使わなくなったスマートフォンやパソコンを、宅配便や引っ越しの会社が集める実証実験が始まります。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>なくなったスマートフォンやパソコンを、<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"home delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>や<span class=\"vw\" data-ja=\"引っ越し\" data-reading=\"ひっこし\" data-en=\"moving (house)\"><ruby>引っ越し<rt>ひっこし</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>る<span class=\"vw\" data-ja=\"実証実験\" data-reading=\"じっしょうじっけん\" data-en=\"demonstration test; pilot\"><ruby>実証<rt>じっしょう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "A pilot test is starting in which delivery and moving companies collect the smartphones and computers people no longer use."
+    },
+    {
+      "speaker": "vocab",
+      "text": "実証実験",
+      "ruby": "<span class=\"vw\" data-ja=\"実証実験\" data-reading=\"じっしょうじっけん\" data-en=\"demonstration test; pilot\"><ruby>実証<rt>じっしょう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a pilot test, a trial to prove something works."
+    },
+    {
+      "speaker": "vocab",
+      "text": "宅配便",
+      "ruby": "<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"home delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a home delivery service."
+    },
+    {
+      "speaker": "slow",
+      "text": "今月から来年の1月まで、北海道、関東、九州、四国の4つの地域で行われます。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>まで、<ruby>北海道<rt>ほっかいどう</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>、<ruby>四国<rt>しこく</rt></ruby>の4つの<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region; area\"><ruby>地域<rt>ちいき</rt></ruby></span>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "It will run from this month until next January, in four regions: Hokkaido, Kanto, Kyushu, and Shikoku."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地域",
+      "ruby": "<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region; area\"><ruby>地域<rt>ちいき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a region or area."
+    },
+    {
+      "speaker": "slow",
+      "text": "トラックの空いているスペースを使って、荷物と一緒に古い家電も運びます。",
+      "ruby": "トラックの<ruby>空い<rt>あい</rt></ruby>ているスペースを<ruby>使って<rt>つかって</rt></ruby>、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; parcel\"><ruby>荷物<rt>にもつ</rt></ruby></span>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>も<ruby>運び<rt>はこび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Using the empty space in a truck, old appliances are carried along with the regular parcels."
+    },
+    {
+      "speaker": "vocab",
+      "text": "荷物",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; parcel\"><ruby>荷物<rt>にもつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means luggage or a parcel."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry; to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to carry or transport."
+    },
+    {
+      "speaker": "slow",
+      "text": "集めた家電は、環境省が認めたリサイクルの会社に送られます。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>た<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>が<ruby>認め<rt>みとめ</rt></ruby>たリサイクルの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>送ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The collected appliances are sent to recycling companies approved by the Ministry of the Environment."
+    },
+    {
+      "speaker": "vocab",
+      "text": "認める",
+      "ruby": "<span class=\"vw\" data-ja=\"認める\" data-reading=\"みとめる\" data-en=\"to approve; to recognize\"><ruby>認め<rt>みとめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to approve or to recognize."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマートフォンやパソコンの中には、金や銀、そしてレアメタルと呼ばれる貴重な金属が入っています。",
+      "ruby": "スマートフォンやパソコンの<ruby>中に<rt>なかに</rt></ruby>は、<ruby>金<rt>きん</rt></ruby>や<ruby>銀<rt>ぎん</rt></ruby>、そしてレアメタルと<ruby>呼ば<rt>よば</rt></ruby>れる<span class=\"vw\" data-ja=\"貴重\" data-reading=\"きちょう\" data-en=\"precious; valuable\"><ruby>貴重<rt>きちょう</rt></ruby></span>な<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Inside smartphones and computers there are precious metals: gold, silver, and what are called rare metals."
+    },
+    {
+      "speaker": "vocab",
+      "text": "貴重",
+      "ruby": "<span class=\"vw\" data-ja=\"貴重\" data-reading=\"きちょう\" data-en=\"precious; valuable\"><ruby>貴重<rt>きちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means precious or valuable."
+    },
+    {
+      "speaker": "vocab",
+      "text": "金属",
+      "ruby": "<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means metal."
+    },
+    {
+      "speaker": "slow",
+      "text": "たくさんの古い電子機器が集まる場所は、「都市鉱山」と呼ばれています。",
+      "ruby": "たくさんの<ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"電子機器\" data-reading=\"でんしきき\" data-en=\"electronic device\"><ruby>電子機器<rt>でんしきき</rt></ruby></span>が<ruby>集まる<rt>あつまる</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>は、「<span class=\"vw\" data-ja=\"都市鉱山\" data-reading=\"としこうざん\" data-en=\"urban mine\"><ruby>都市<rt>とし</rt></ruby><ruby>鉱山<rt>こうざん</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "A place where lots of old electronic devices gather is called an urban mine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "都市鉱山",
+      "ruby": "<span class=\"vw\" data-ja=\"都市鉱山\" data-reading=\"としこうざん\" data-en=\"urban mine\"><ruby>都市<rt>とし</rt></ruby><ruby>鉱山<rt>こうざん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means urban mine, the metals hidden inside discarded electronics."
+    },
+    {
+      "speaker": "slow",
+      "text": "この取り組みの背景には、資源を安定して手に入れたいという狙いがあります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"取り組み\" data-reading=\"とりくみ\" data-en=\"effort; initiative\"><ruby>取り組み<rt>とりくみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background\"><ruby>背景<rt>はいけい</rt></ruby></span>には、<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>して<ruby>手に入れ<rt>てにいれ</rt></ruby>たいという<span class=\"vw\" data-ja=\"狙い\" data-reading=\"ねらい\" data-en=\"aim; goal\"><ruby>狙い<rt>ねらい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Behind this effort is the aim of securing resources in a stable way."
+    },
+    {
+      "speaker": "vocab",
+      "text": "背景",
+      "ruby": "<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background\"><ruby>背景<rt>はいけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means background."
+    },
+    {
+      "speaker": "vocab",
+      "text": "狙い",
+      "ruby": "<span class=\"vw\" data-ja=\"狙い\" data-reading=\"ねらい\" data-en=\"aim; goal\"><ruby>狙い<rt>ねらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an aim or goal."
+    },
+    {
+      "speaker": "slow",
+      "text": "中国が今年1月、レアアースの輸出の管理を強くしたため、日本は国内で資源を循環させようとしています。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>1<ruby>月<rt>がつ</rt></ruby>、レアアースの<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"control; management\"><ruby>管理<rt>かんり</rt></ruby></span>を<ruby>強く<rt>つよく</rt></ruby>したため、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>国内<rt>こくない</rt></ruby>で<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>を<span class=\"vw\" data-ja=\"循環\" data-reading=\"じゅんかん\" data-en=\"circulation\"><ruby>循環<rt>じゅんかん</rt></ruby></span>させようとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because China tightened control of rare earth exports this January, Japan is trying to circulate resources at home."
+    },
+    {
+      "speaker": "vocab",
+      "text": "輸出",
+      "ruby": "<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means export."
+    },
+    {
+      "speaker": "vocab",
+      "text": "循環",
+      "ruby": "<span class=\"vw\" data-ja=\"循環\" data-reading=\"じゅんかん\" data-en=\"circulation\"><ruby>循環<rt>じゅんかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means circulation, resources going round and being reused."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただ、個人情報が心配で、古いスマートフォンを手放せない人も多く、これが課題です。",
+      "ruby": "ただ、<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>で、<ruby>古い<rt>ふるい</rt></ruby>スマートフォンを<ruby>手放せ<rt>てばなせ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>も<ruby>多く<rt>おおく</rt></ruby>、これが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue; challenge\"><ruby>課題<rt>かだい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Still, many people worry about personal data and can't let go of their old phones, and that's a challenge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "個人情報",
+      "ruby": "<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means personal information."
+    },
+    {
+      "speaker": "vocab",
+      "text": "課題",
+      "ruby": "<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue; challenge\"><ruby>課題<rt>かだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an issue or challenge to solve."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "環境と資源についてのニュースです。",
+      "ruby": "<ruby>環境<rt>かんきょう</rt></ruby>と<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>についてのニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "使わなくなったスマートフォンやパソコンを、宅配便や引っ越しの会社が集める実証実験が始まります。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>なくなったスマートフォンやパソコンを、<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"home delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>や<span class=\"vw\" data-ja=\"引っ越し\" data-reading=\"ひっこし\" data-en=\"moving (house)\"><ruby>引っ越し<rt>ひっこし</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>る<span class=\"vw\" data-ja=\"実証実験\" data-reading=\"じっしょうじっけん\" data-en=\"demonstration test; pilot\"><ruby>実証<rt>じっしょう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、日本の環境省が行う取り組みです。",
+      "ruby": "これは、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>が<ruby>行う<rt>おこなう</rt></ruby><span class=\"vw\" data-ja=\"取り組み\" data-reading=\"とりくみ\" data-en=\"effort; initiative\"><ruby>取り組み<rt>とりくみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月から来年の1月まで、北海道、関東、九州、四国の4つの地域で行われます。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>まで、<ruby>北海道<rt>ほっかいどう</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>、<ruby>四国<rt>しこく</rt></ruby>の4つの<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region; area\"><ruby>地域<rt>ちいき</rt></ruby></span>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "トラックの空いているスペースを使って、荷物と一緒に古い家電も運びます。",
+      "ruby": "トラックの<ruby>空い<rt>あい</rt></ruby>ているスペースを<ruby>使って<rt>つかって</rt></ruby>、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; parcel\"><ruby>荷物<rt>にもつ</rt></ruby></span>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>も<ruby>運び<rt>はこび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、荷物を届けた帰りのトラックに、いらなくなった家電を乗せます。",
+      "ruby": "たとえば、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; parcel\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>届け<rt>とどけ</rt></ruby>た<ruby>帰り<rt>かえり</rt></ruby>のトラックに、いらなくなった<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>を<ruby>乗せ<rt>のせ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "こうすれば、新しく車を走らせなくても、家電を集めることができます。",
+      "ruby": "こうすれば、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>走ら<rt>はしら</rt></ruby>せなくても、<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "集めた家電は、環境省が認めたリサイクルの会社に送られます。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>た<span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>が<ruby>認め<rt>みとめ</rt></ruby>たリサイクルの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>送ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンやパソコンの中には、金や銀、そしてレアメタルと呼ばれる貴重な金属が入っています。",
+      "ruby": "スマートフォンやパソコンの<ruby>中に<rt>なかに</rt></ruby>は、<ruby>金<rt>きん</rt></ruby>や<ruby>銀<rt>ぎん</rt></ruby>、そしてレアメタルと<ruby>呼ば<rt>よば</rt></ruby>れる<span class=\"vw\" data-ja=\"貴重\" data-reading=\"きちょう\" data-en=\"precious; valuable\"><ruby>貴重<rt>きちょう</rt></ruby></span>な<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんの古い電子機器が集まる場所は、「都市鉱山」と呼ばれています。",
+      "ruby": "たくさんの<ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"電子機器\" data-reading=\"でんしきき\" data-en=\"electronic device\"><ruby>電子機器<rt>でんしきき</rt></ruby></span>が<ruby>集まる<rt>あつまる</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>は、「<span class=\"vw\" data-ja=\"都市鉱山\" data-reading=\"としこうざん\" data-en=\"urban mine\"><ruby>都市<rt>とし</rt></ruby><ruby>鉱山<rt>こうざん</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の都市鉱山には、世界のおよそ16パーセントにあたる金があると言われています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"都市鉱山\" data-reading=\"としこうざん\" data-en=\"urban mine\"><ruby>都市<rt>とし</rt></ruby><ruby>鉱山<rt>こうざん</rt></ruby></span>には、<ruby>世界<rt>せかい</rt></ruby>のおよそ16パーセントにあたる<ruby>金<rt>きん</rt></ruby>があると<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この取り組みの背景には、資源を安定して手に入れたいという狙いがあります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"取り組み\" data-reading=\"とりくみ\" data-en=\"effort; initiative\"><ruby>取り組み<rt>とりくみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background\"><ruby>背景<rt>はいけい</rt></ruby></span>には、<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>して<ruby>手に入れ<rt>てにいれ</rt></ruby>たいという<span class=\"vw\" data-ja=\"狙い\" data-reading=\"ねらい\" data-en=\"aim; goal\"><ruby>狙い<rt>ねらい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国が今年1月、レアアースの輸出の管理を強くしたため、日本は国内で資源を循環させようとしています。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>1<ruby>月<rt>がつ</rt></ruby>、レアアースの<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"control; management\"><ruby>管理<rt>かんり</rt></ruby></span>を<ruby>強く<rt>つよく</rt></ruby>したため、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>国内<rt>こくない</rt></ruby>で<span class=\"vw\" data-ja=\"資源\" data-reading=\"しげん\" data-en=\"resource\"><ruby>資源<rt>しげん</rt></ruby></span>を<span class=\"vw\" data-ja=\"循環\" data-reading=\"じゅんかん\" data-en=\"circulation\"><ruby>循環<rt>じゅんかん</rt></ruby></span>させようとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、個人情報が心配で、古いスマートフォンを手放せない人も多く、これが課題です。",
+      "ruby": "ただ、<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>で、<ruby>古い<rt>ふるい</rt></ruby>スマートフォンを<ruby>手放せ<rt>てばなせ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>も<ruby>多く<rt>おおく</rt></ruby>、これが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue; challenge\"><ruby>課題<rt>かだい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "環境省は、この実験の結果を見て、全国に広げるかどうかを考えます。",
+      "ruby": "<span class=\"vw\" data-ja=\"環境省\" data-reading=\"かんきょうしょう\" data-en=\"Ministry of the Environment\"><ruby>環境<rt>かんきょう</rt></ruby><ruby>省<rt>しょう</rt></ruby></span>は、この<ruby>実験<rt>じっけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>、<ruby>全国<rt>ぜんこく</rt></ruby>に<span class=\"vw\" data-ja=\"広げる\" data-reading=\"ひろげる\" data-en=\"to expand; to spread\"><ruby>広げ<rt>ひろげ</rt></ruby>るかどうかを</span><ruby>考え<rt>かんがえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "この実証実験では、何を使って古い家電を集めますか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"実証実験\" data-reading=\"じっしょうじっけん\" data-en=\"demonstration test; pilot\"><ruby>実証<rt>じっしょう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby></span>では、<ruby>何を<rt>なにを</rt></ruby><ruby>使って<rt>つかって</rt></ruby><ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"家電\" data-reading=\"かでん\" data-en=\"home appliance\"><ruby>家電<rt>かでん</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The empty space in delivery and moving companies' trucks."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマートフォンやパソコンには、どんな金属が入っていますか。",
+      "ruby": "スマートフォンやパソコンには、どんな<span class=\"vw\" data-ja=\"金属\" data-reading=\"きんぞく\" data-en=\"metal\"><ruby>金属<rt>きんぞく</rt></ruby></span>が<ruby>入っ<rt>はいっ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Gold, silver, and rare metals."
+    },
+    {
+      "speaker": "slow",
+      "text": "この取り組みの背景には、どんな狙いがありますか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"取り組み\" data-reading=\"とりくみ\" data-en=\"effort; initiative\"><ruby>取り組み<rt>とりくみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background\"><ruby>背景<rt>はいけい</rt></ruby></span>には、どんな<span class=\"vw\" data-ja=\"狙い\" data-reading=\"ねらい\" data-en=\"aim; goal\"><ruby>狙い<rt>ねらい</rt></ruby></span>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aim of getting resources in a stable way at home, after China tightened rare earth export controls."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. So your old phone in a drawer isn't just junk; it's a tiny piece of an urban mine full of gold and rare metals. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "資源",
+      "reading": "しげん",
+      "en": "resource",
+      "zh": "资源"
+    },
+    {
+      "ja": "実証実験",
+      "reading": "じっしょうじっけん",
+      "en": "demonstration test; pilot",
+      "zh": "实证实验；试点"
+    },
+    {
+      "ja": "宅配便",
+      "reading": "たくはいびん",
+      "en": "home delivery service",
+      "zh": "快递；宅配"
+    },
+    {
+      "ja": "引っ越し",
+      "reading": "ひっこし",
+      "en": "moving (house)",
+      "zh": "搬家"
+    },
+    {
+      "ja": "環境省",
+      "reading": "かんきょうしょう",
+      "en": "Ministry of the Environment",
+      "zh": "环境省"
+    },
+    {
+      "ja": "取り組み",
+      "reading": "とりくみ",
+      "en": "effort; initiative",
+      "zh": "举措；努力"
+    },
+    {
+      "ja": "地域",
+      "reading": "ちいき",
+      "en": "region; area",
+      "zh": "地区；区域"
+    },
+    {
+      "ja": "荷物",
+      "reading": "にもつ",
+      "en": "luggage; parcel",
+      "zh": "行李；货物"
+    },
+    {
+      "ja": "家電",
+      "reading": "かでん",
+      "en": "home appliance",
+      "zh": "家电"
+    },
+    {
+      "ja": "運ぶ",
+      "reading": "はこぶ",
+      "en": "to carry; to transport",
+      "zh": "搬运；运送"
+    },
+    {
+      "ja": "認める",
+      "reading": "みとめる",
+      "en": "to approve; to recognize",
+      "zh": "认可；承认"
+    },
+    {
+      "ja": "貴重",
+      "reading": "きちょう",
+      "en": "precious; valuable",
+      "zh": "珍贵；宝贵"
+    },
+    {
+      "ja": "金属",
+      "reading": "きんぞく",
+      "en": "metal",
+      "zh": "金属"
+    },
+    {
+      "ja": "電子機器",
+      "reading": "でんしきき",
+      "en": "electronic device",
+      "zh": "电子设备"
+    },
+    {
+      "ja": "都市鉱山",
+      "reading": "としこうざん",
+      "en": "urban mine",
+      "zh": "城市矿山"
+    },
+    {
+      "ja": "背景",
+      "reading": "はいけい",
+      "en": "background",
+      "zh": "背景"
+    },
+    {
+      "ja": "狙い",
+      "reading": "ねらい",
+      "en": "aim; goal",
+      "zh": "目的；意图"
+    },
+    {
+      "ja": "輸出",
+      "reading": "ゆしゅつ",
+      "en": "export",
+      "zh": "出口；输出"
+    },
+    {
+      "ja": "管理",
+      "reading": "かんり",
+      "en": "control; management",
+      "zh": "管理；管控"
+    },
+    {
+      "ja": "循環",
+      "reading": "じゅんかん",
+      "en": "circulation",
+      "zh": "循环"
+    },
+    {
+      "ja": "個人情報",
+      "reading": "こじんじょうほう",
+      "en": "personal information",
+      "zh": "个人信息"
+    },
+    {
+      "ja": "課題",
+      "reading": "かだい",
+      "en": "issue; challenge",
+      "zh": "课题；难题"
+    },
+    {
+      "ja": "広げる",
+      "reading": "ひろげる",
+      "en": "to expand; to spread",
+      "zh": "扩大；推广"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~; to be known as ~",
+      "meaningZh": "被称为…；被叫作…",
+      "formation": "noun / phrase + と + 呼ばれる (passive of 呼ぶ)",
+      "example": "たくさんの古い電子機器が集まる場所は、「都市鉱山」と呼ばれています。",
+      "translation": "A place where many old electronic devices gather is called an urban mine.",
+      "note": "と marks the name; 呼ばれる is the passive of 呼ぶ (to call)",
+      "noteZh": "と标示名称，呼ばれる是呼ぶ的被动形",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#呼ばれる"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because ~; due to ~",
+      "meaningZh": "因为…；由于…",
+      "formation": "verb (plain) / noun + の + ため",
+      "example": "中国がレアアースの輸出の管理を強くしたため、日本は資源を循環させようとしています。",
+      "translation": "Because China tightened control of rare earth exports, Japan is trying to circulate resources.",
+      "note": "ため here gives a reason; it can also mean 'in order to' with a non-past verb",
+      "noteZh": "此处ため表示原因；接非过去动词时也可表示目的",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜という〜",
+      "meaning": "the ~ that (says/is) ~",
+      "meaningZh": "叫作…的…；…这样的…",
+      "formation": "phrase + という + noun",
+      "example": "資源を安定して手に入れたいという狙いがあります。",
+      "translation": "There is an aim of securing resources in a stable way.",
+      "note": "という links a quoted idea or content to the following noun",
+      "noteZh": "という把引用的想法或内容连接到后面的名词",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否…",
+      "formation": "verb / い-adjective (plain) + かどうか; noun / な-adjective + かどうか",
+      "example": "全国に広げるかどうかを考えます。",
+      "translation": "They will consider whether or not to expand it nationwide.",
+      "note": "Embeds a yes/no question inside a larger sentence",
+      "noteZh": "把一个是非疑问嵌入更大的句子中",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#かどうか"
+    }
+  ],
+  "practiceZh": [
+    "環境と資源についてのニュースです。\n这是一条关于环境和资源的新闻。\n環境 = environment；資源 = resource",
+    "使わなくなったスマートフォンやパソコンを、宅配便や引っ越しの会社が集める実証実験が始まります。\n快递公司和搬家公司收集人们不再使用的智能手机和电脑的试点实验即将开始。\n宅配便 = home delivery；実証実験 = pilot test",
+    "これは、日本の環境省が行う取り組みです。\n这是日本环境省开展的一项举措。\n環境省 = Ministry of the Environment；取り組み = effort",
+    "今月から来年の1月まで、北海道、関東、九州、四国の4つの地域で行われます。\n从本月起到明年1月，将在北海道、关东、九州、四国四个地区进行。\n地域 = region；行われる = to be carried out",
+    "トラックの空いているスペースを使って、荷物と一緒に古い家電も運びます。\n利用卡车空着的空间，把旧家电和货物一起运送。\n荷物 = parcel；運ぶ = to carry",
+    "たとえば、荷物を届けた帰りのトラックに、いらなくなった家電を乗せます。\n例如，把不需要的家电装到送完货返程的卡车上。\n届ける = to deliver；乗せる = to load",
+    "こうすれば、新しく車を走らせなくても、家電を集めることができます。\n这样一来，即使不额外派车，也能收集家电。\n走らせる = to run (a vehicle)；集める = to collect",
+    "集めた家電は、環境省が認めたリサイクルの会社に送られます。\n收集来的家电会被送到环境省认可的回收公司。\n認める = to approve；送られる = to be sent",
+    "スマートフォンやパソコンの中には、金や銀、そしてレアメタルと呼ばれる貴重な金属が入っています。\n智能手机和电脑里含有金、银以及被称为稀有金属的珍贵金属。\n貴重 = precious；金属 = metal",
+    "たくさんの古い電子機器が集まる場所は、「都市鉱山」と呼ばれています。\n聚集大量旧电子设备的地方被称为“城市矿山”。\n電子機器 = electronic device；都市鉱山 = urban mine",
+    "日本の都市鉱山には、世界のおよそ16パーセントにあたる金があると言われています。\n据说日本的城市矿山里，含有相当于全球约16%的黄金。\nあたる = to correspond to；金 = gold",
+    "この取り組みの背景には、資源を安定して手に入れたいという狙いがあります。\n这项举措的背景，是希望稳定地获得资源这一意图。\n背景 = background；狙い = aim",
+    "中国が今年1月、レアアースの輸出の管理を強くしたため、日本は国内で資源を循環させようとしています。\n由于中国在今年1月加强了稀土出口管理，日本正试图在国内实现资源循环。\n輸出 = export；循環 = circulation",
+    "ただ、個人情報が心配で、古いスマートフォンを手放せない人も多く、これが課題です。\n不过，由于担心个人信息，许多人无法放手旧智能手机，这是一个难题。\n個人情報 = personal information；課題 = challenge",
+    "環境省は、この実験の結果を見て、全国に広げるかどうかを考えます。\n环境省将根据这次实验的结果，考虑是否推广到全国。\n結果 = result；広げる = to expand"
+  ]
+}
