@@ -1,0 +1,585 @@
+{
+  "episode": 62,
+  "title": "2026年7月の飲食料品の値上げは2566品目　帝国データバンク調査、中東情勢の悪化による原油高と円安が要因　年間の値上げは1万4902品目で5年連続1万品目超え",
+  "date": "2026-07-12",
+  "source": "帝国データバンク / NHK / 各社",
+  "level": "N4-N3",
+  "contentVersion": "2026071201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July twelfth. Tonight, a look at Japan's rising food prices, and the global forces pushing them up. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物や飲み物の値上げについてのニュースです。",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>や<ruby>飲み物<rt>のみもの</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>についてのニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクという会社が、食品を作る主な195社を調べて、値段の変化を調査しました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクという<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>主な<rt>おもな</rt></ruby>195<ruby>社<rt>しゃ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>て、<ruby>値段<rt>ねだん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、2026年7月に値上げされる飲食料品は、2566品目になりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、2026<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>される<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>は、2566<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1か月に値上げされる品目が2000を超えるのは、今年の4月以来、3か月ぶりです。",
+      "ruby": "1か<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>される<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>が2000を<ruby>超え<rt>こえ</rt></ruby>るのは、<ruby>今年<rt>ことし</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、3か<ruby>月<rt>がつ</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月の値上げで最も多かったのは、即席めんや缶詰などの「加工食品」でした。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多か<rt>おおか</rt></ruby>ったのは、<ruby>即席<rt>そくせき</rt></ruby>めんや<span class=\"vw\" data-ja=\"缶詰\" data-reading=\"かんづめ\" data-en=\"canned food\"><ruby>缶詰<rt>かんづめ</rt></ruby></span>などの「<span class=\"vw\" data-ja=\"加工食品\" data-reading=\"かこうしょくひん\" data-en=\"processed food\"><ruby>加工<rt>かこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>」でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "食パンや菓子パンなどの「パン」も、大手メーカーを中心に、たくさん値上げされました。",
+      "ruby": "<ruby>食<rt>しょく</rt></ruby>パンや<ruby>菓子パン<rt>かしぱん</rt></ruby>などの「パン」も、<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; big-name maker\"><ruby>大手<rt>おおて</rt></ruby></span>メーカーを<ruby>中心<rt>ちゅうしん</rt></ruby>に、たくさん<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1回あたりの値上げ率は、平均で11パーセントでした。",
+      "ruby": "1<ruby>回<rt>かい</rt></ruby>あたりの<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span><ruby>率<rt>りつ</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>で11パーセントでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げの主な理由は、中東の情勢が悪くなったことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>主な<rt>おもな</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>は、<ruby>中東<rt>ちゅうとう</rt></ruby>の<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>が<ruby>悪く<rt>わるく</rt></ruby>なったことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "情勢の悪化で、原油の価格が上がり、材料の値段も高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>の<ruby>悪化<rt>あっか</rt></ruby>で、<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>り、<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"material; ingredient\"><ruby>材料<rt>ざいりょう</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "トレーやフィルムなどの容器の値段も、上がっています。",
+      "ruby": "トレーやフィルムなどの<span class=\"vw\" data-ja=\"容器\" data-reading=\"ようき\" data-en=\"container; packaging\"><ruby>容器<rt>ようき</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も、<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、円安も進んでいて、6月末には1ドルが162円になりました。",
+      "ruby": "さらに、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen; cheap yen\"><ruby>円安<rt>えんやす</rt></ruby></span>も<ruby>進ん<rt>すすん</rt></ruby>でいて、6<ruby>月末<rt>げつまつ</rt></ruby>には1ドルが162<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、およそ39年ぶりの円安の水準です。",
+      "ruby": "これは、およそ39<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen; cheap yen\"><ruby>円安<rt>えんやす</rt></ruby></span>の<span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2026年に値上げされた飲食料品は、合わせて1万4902品目になりました。",
+      "ruby": "2026<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>された<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>は、<ruby>合わ<rt>あわ</rt></ruby>せて1<ruby>万<rt>まん</rt></ruby>4902<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "年間で1万品目を超えるのは、2022年から5年連続です。",
+      "ruby": "<ruby>年間<rt>ねんかん</rt></ruby>で1<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>るのは、2022<ruby>年<rt>ねん</rt></ruby>から5<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクは、9月には3000品目を超え、今年で最も多くなると予想しています。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクは、9<ruby>月<rt>がつ</rt></ruby>には3000<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なると<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "帝国データバンクという会社が、食品を作る主な195社を調べて、値段の変化を調査しました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクという<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>主な<rt>おもな</rt></ruby>195<ruby>社<rt>しゃ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>て、<ruby>値段<rt>ねだん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A company called Teikoku Databank surveyed a hundred and ninety-five major food makers and tracked how their prices changed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調査",
+      "ruby": "<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a survey or an investigation."
+    },
+    {
+      "speaker": "slow",
+      "text": "その結果、2026年7月に値上げされる飲食料品は、2566品目になりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、2026<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>される<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>は、2566<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "As a result, the number of food and drink products getting a price hike in July reached two thousand five hundred sixty-six items."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飲食料品",
+      "ruby": "<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means food and drink products."
+    },
+    {
+      "speaker": "vocab",
+      "text": "品目",
+      "ruby": "<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an item, or a kind of product."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月の値上げで最も多かったのは、即席めんや缶詰などの「加工食品」でした。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多か<rt>おおか</rt></ruby>ったのは、<ruby>即席<rt>そくせき</rt></ruby>めんや<span class=\"vw\" data-ja=\"缶詰\" data-reading=\"かんづめ\" data-en=\"canned food\"><ruby>缶詰<rt>かんづめ</rt></ruby></span>などの「<span class=\"vw\" data-ja=\"加工食品\" data-reading=\"かこうしょくひん\" data-en=\"processed food\"><ruby>加工<rt>かこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>」でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The category with the most increases in July was processed foods, like instant noodles and canned goods."
+    },
+    {
+      "speaker": "vocab",
+      "text": "加工食品",
+      "ruby": "<span class=\"vw\" data-ja=\"加工食品\" data-reading=\"かこうしょくひん\" data-en=\"processed food\"><ruby>加工<rt>かこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means processed food."
+    },
+    {
+      "speaker": "vocab",
+      "text": "缶詰",
+      "ruby": "<span class=\"vw\" data-ja=\"缶詰\" data-reading=\"かんづめ\" data-en=\"canned food\"><ruby>缶詰<rt>かんづめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means canned food."
+    },
+    {
+      "speaker": "slow",
+      "text": "食パンや菓子パンなどの「パン」も、大手メーカーを中心に、たくさん値上げされました。",
+      "ruby": "<ruby>食<rt>しょく</rt></ruby>パンや<ruby>菓子パン<rt>かしぱん</rt></ruby>などの「パン」も、<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; big-name maker\"><ruby>大手<rt>おおて</rt></ruby></span>メーカーを<ruby>中心<rt>ちゅうしん</rt></ruby>に、たくさん<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Breads, such as sliced bread and sweet buns, were also raised in large numbers, mainly by the big makers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大手",
+      "ruby": "<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; big-name maker\"><ruby>大手<rt>おおて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a major, big-name company."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げの主な理由は、中東の情勢が悪くなったことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>主な<rt>おもな</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>は、<ruby>中東<rt>ちゅうとう</rt></ruby>の<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>が<ruby>悪く<rt>わるく</rt></ruby>なったことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The main reason for the increases is that the situation in the Middle East has worsened."
+    },
+    {
+      "speaker": "vocab",
+      "text": "情勢",
+      "ruby": "<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the situation, or the state of affairs."
+    },
+    {
+      "speaker": "slow",
+      "text": "情勢の悪化で、原油の価格が上がり、材料の値段も高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>の<ruby>悪化<rt>あっか</rt></ruby>で、<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>り、<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"material; ingredient\"><ruby>材料<rt>ざいりょう</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of that, crude oil prices went up, and the cost of raw materials rose too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原油",
+      "ruby": "<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means crude oil."
+    },
+    {
+      "speaker": "vocab",
+      "text": "材料",
+      "ruby": "<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"material; ingredient\"><ruby>材料<rt>ざいりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means materials, or ingredients."
+    },
+    {
+      "speaker": "slow",
+      "text": "さらに、円安も進んでいて、6月末には1ドルが162円になりました。",
+      "ruby": "さらに、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen; cheap yen\"><ruby>円安<rt>えんやす</rt></ruby></span>も<ruby>進ん<rt>すすん</rt></ruby>でいて、6<ruby>月末<rt>げつまつ</rt></ruby>には1ドルが162<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On top of that, the yen has weakened, and at the end of June one dollar reached a hundred sixty-two yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "円安",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen; cheap yen\"><ruby>円安<rt>えんやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a weak yen, when the yen loses value against the dollar."
+    },
+    {
+      "speaker": "slow",
+      "text": "帝国データバンクは、9月には3000品目を超え、今年で最も多くなると予想しています。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクは、9<ruby>月<rt>がつ</rt></ruby>には3000<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なると<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Teikoku Databank predicts that September will top three thousand items, the most of any month this year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予想",
+      "ruby": "<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a forecast or a prediction."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物や飲み物の値上げについてのニュースです。",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>や<ruby>飲み物<rt>のみもの</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>についてのニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクという会社が、食品を作る主な195社を調べて、値段の変化を調査しました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクという<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>主な<rt>おもな</rt></ruby>195<ruby>社<rt>しゃ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>て、<ruby>値段<rt>ねだん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、2026年7月に値上げされる飲食料品は、2566品目になりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、2026<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>される<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>は、2566<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1か月に値上げされる品目が2000を超えるのは、今年の4月以来、3か月ぶりです。",
+      "ruby": "1か<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>される<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>が2000を<ruby>超え<rt>こえ</rt></ruby>るのは、<ruby>今年<rt>ことし</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、3か<ruby>月<rt>がつ</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月の値上げで最も多かったのは、即席めんや缶詰などの「加工食品」でした。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多か<rt>おおか</rt></ruby>ったのは、<ruby>即席<rt>そくせき</rt></ruby>めんや<span class=\"vw\" data-ja=\"缶詰\" data-reading=\"かんづめ\" data-en=\"canned food\"><ruby>缶詰<rt>かんづめ</rt></ruby></span>などの「<span class=\"vw\" data-ja=\"加工食品\" data-reading=\"かこうしょくひん\" data-en=\"processed food\"><ruby>加工<rt>かこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>」でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "食パンや菓子パンなどの「パン」も、大手メーカーを中心に、たくさん値上げされました。",
+      "ruby": "<ruby>食<rt>しょく</rt></ruby>パンや<ruby>菓子パン<rt>かしぱん</rt></ruby>などの「パン」も、<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; big-name maker\"><ruby>大手<rt>おおて</rt></ruby></span>メーカーを<ruby>中心<rt>ちゅうしん</rt></ruby>に、たくさん<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1回あたりの値上げ率は、平均で11パーセントでした。",
+      "ruby": "1<ruby>回<rt>かい</rt></ruby>あたりの<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span><ruby>率<rt>りつ</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>で11パーセントでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げの主な理由は、中東の情勢が悪くなったことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>主な<rt>おもな</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>は、<ruby>中東<rt>ちゅうとう</rt></ruby>の<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>が<ruby>悪く<rt>わるく</rt></ruby>なったことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "情勢の悪化で、原油の価格が上がり、材料の値段も高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"情勢\" data-reading=\"じょうせい\" data-en=\"situation; state of affairs\"><ruby>情勢<rt>じょうせい</rt></ruby></span>の<ruby>悪化<rt>あっか</rt></ruby>で、<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>り、<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"material; ingredient\"><ruby>材料<rt>ざいりょう</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "トレーやフィルムなどの容器の値段も、上がっています。",
+      "ruby": "トレーやフィルムなどの<span class=\"vw\" data-ja=\"容器\" data-reading=\"ようき\" data-en=\"container; packaging\"><ruby>容器<rt>ようき</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も、<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、円安も進んでいて、6月末には1ドルが162円になりました。",
+      "ruby": "さらに、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen; cheap yen\"><ruby>円安<rt>えんやす</rt></ruby></span>も<ruby>進ん<rt>すすん</rt></ruby>でいて、6<ruby>月末<rt>げつまつ</rt></ruby>には1ドルが162<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、およそ39年ぶりの円安の水準です。",
+      "ruby": "これは、およそ39<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen; cheap yen\"><ruby>円安<rt>えんやす</rt></ruby></span>の<span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2026年に値上げされた飲食料品は、合わせて1万4902品目になりました。",
+      "ruby": "2026<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>された<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>は、<ruby>合わ<rt>あわ</rt></ruby>せて1<ruby>万<rt>まん</rt></ruby>4902<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "年間で1万品目を超えるのは、2022年から5年連続です。",
+      "ruby": "<ruby>年間<rt>ねんかん</rt></ruby>で1<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>るのは、2022<ruby>年<rt>ねん</rt></ruby>から5<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクは、9月には3000品目を超え、今年で最も多くなると予想しています。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクは、9<ruby>月<rt>がつ</rt></ruby>には3000<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なると<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "2026年7月に値上げされる飲食料品は、何品目になりましたか。",
+      "ruby": "2026<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>される<span class=\"vw\" data-ja=\"飲食料品\" data-reading=\"いんしょくりょうひん\" data-en=\"food and drink products\"><ruby>飲食料<rt>いんしょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span>は、<ruby>何品<rt>なんぴん</rt></ruby><ruby>目に<rt>めに</rt></ruby>なりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two thousand five hundred sixty-six items."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げの主な理由は何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; raising prices\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>主な<rt>おもな</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The worsening situation in the Middle East, which pushed up crude oil and material costs, along with a weaker yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "年間で1万品目を超えるのは、何年連続ですか。",
+      "ruby": "<ruby>年間<rt>ねんかん</rt></ruby>で1<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item; kind of product\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>るのは、<ruby>何年<rt>なんねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"in a row; consecutive\"><ruby>連続<rt>れんぞく</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five years in a row, since twenty twenty-two."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. The prices you see at the supermarket are shaped by things happening far away, from the price of oil to the value of the yen. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "値上げ",
+      "reading": "ねあげ",
+      "en": "price increase; raising prices",
+      "zh": "涨价；提价"
+    },
+    {
+      "ja": "飲食料品",
+      "reading": "いんしょくりょうひん",
+      "en": "food and drink products",
+      "zh": "食品和饮料"
+    },
+    {
+      "ja": "品目",
+      "reading": "ひんもく",
+      "en": "item; kind of product",
+      "zh": "品种；项目"
+    },
+    {
+      "ja": "調査",
+      "reading": "ちょうさ",
+      "en": "survey; investigation",
+      "zh": "调查"
+    },
+    {
+      "ja": "加工食品",
+      "reading": "かこうしょくひん",
+      "en": "processed food",
+      "zh": "加工食品"
+    },
+    {
+      "ja": "缶詰",
+      "reading": "かんづめ",
+      "en": "canned food",
+      "zh": "罐头"
+    },
+    {
+      "ja": "大手",
+      "reading": "おおて",
+      "en": "major company; big-name maker",
+      "zh": "大型企业；大厂商"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "情勢",
+      "reading": "じょうせい",
+      "en": "situation; state of affairs",
+      "zh": "局势；形势"
+    },
+    {
+      "ja": "原油",
+      "reading": "げんゆ",
+      "en": "crude oil",
+      "zh": "原油"
+    },
+    {
+      "ja": "価格",
+      "reading": "かかく",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "材料",
+      "reading": "ざいりょう",
+      "en": "material; ingredient",
+      "zh": "材料；原料"
+    },
+    {
+      "ja": "容器",
+      "reading": "ようき",
+      "en": "container; packaging",
+      "zh": "容器；包装"
+    },
+    {
+      "ja": "円安",
+      "reading": "えんやす",
+      "en": "weak yen; cheap yen",
+      "zh": "日元贬值"
+    },
+    {
+      "ja": "水準",
+      "reading": "すいじゅん",
+      "en": "level; standard",
+      "zh": "水准；水平"
+    },
+    {
+      "ja": "予想",
+      "reading": "よそう",
+      "en": "forecast; prediction",
+      "zh": "预测；预料"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "in a row; consecutive",
+      "zh": "连续"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜される（受身）",
+      "meaning": "to be ~ed (passive)",
+      "meaningZh": "被…（被动）",
+      "formation": "verb stem + される / られる",
+      "example": "7月に値上げされる飲食料品は、2566品目になりました。",
+      "translation": "The food and drink products that will be raised in price in July came to 2,566 items.",
+      "note": "the passive lets the news focus on the thing affected, without naming who does the action",
+      "noteZh": "被动句让新闻聚焦受影响的事物，而不必点明动作的执行者",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#受身"
+    },
+    {
+      "pattern": "〜を中心に",
+      "meaning": "centered on ~; mainly ~",
+      "meaningZh": "以…为中心；主要是…",
+      "formation": "noun + を中心に",
+      "example": "大手メーカーを中心に、たくさん値上げされました。",
+      "translation": "Prices were raised in large numbers, mainly by the big makers.",
+      "note": "points to the core group or place where something is concentrated",
+      "noteZh": "指出某事集中发生的核心群体或地点",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#を中心に"
+    },
+    {
+      "pattern": "〜あたり",
+      "meaning": "per ~; for each ~",
+      "meaningZh": "每…；平均每…",
+      "formation": "noun / counter + あたり",
+      "example": "1回あたりの値上げ率は、平均で11パーセントでした。",
+      "translation": "The rate of increase per round was 11 percent on average.",
+      "note": "used to give a rate or amount for each single unit",
+      "noteZh": "用来表示每一个单位的比率或数量",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#あたり"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~; ever since ~",
+      "meaningZh": "自…以来；自从…",
+      "formation": "noun / verb (て-form) + 以来",
+      "example": "品目が2000を超えるのは、今年の4月以来です。",
+      "translation": "The items topping 2,000 is the first time since April this year.",
+      "note": "marks a starting point in the past that continues up to now",
+      "noteZh": "标示过去的某个起点，一直延续到现在",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#以来"
+    }
+  ],
+  "practiceZh": [
+    "食べ物や飲み物の値上げについてのニュースです。\n这是一条关于食品和饮料涨价的新闻。\n値上げ = price increase；飲み物 = drink",
+    "帝国データバンクという会社が、食品を作る主な195社を調べて、値段の変化を調査しました。\n帝国数据银行公司调查了195家主要食品制造企业，考察了价格的变化。\n調査 = survey；値段 = price",
+    "その結果、2026年7月に値上げされる飲食料品は、2566品目になりました。\n结果显示，2026年7月涨价的食品饮料达到2566个品种。\n飲食料品 = food and drink；品目 = item",
+    "1か月に値上げされる品目が2000を超えるのは、今年の4月以来、3か月ぶりです。\n单月涨价品种超过2000个，是自今年4月以来时隔三个月。\n超える = to exceed；以来 = since",
+    "7月の値上げで最も多かったのは、即席めんや缶詰などの「加工食品」でした。\n7月涨价最多的是方便面、罐头等“加工食品”。\n加工食品 = processed food；缶詰 = canned food",
+    "食パンや菓子パンなどの「パン」も、大手メーカーを中心に、たくさん値上げされました。\n吐司、甜面包等“面包”类，也以大型厂商为主大量涨价。\n大手 = major company；パン = bread",
+    "1回あたりの値上げ率は、平均で11パーセントでした。\n每次涨价的幅度平均为11%。\n平均 = average；率 = rate",
+    "値上げの主な理由は、中東の情勢が悪くなったことです。\n涨价的主要原因是中东局势恶化。\n情勢 = situation；理由 = reason",
+    "情勢の悪化で、原油の価格が上がり、材料の値段も高くなりました。\n由于局势恶化，原油价格上涨，原材料的价格也变高了。\n原油 = crude oil；材料 = material",
+    "トレーやフィルムなどの容器の値段も、上がっています。\n托盘、薄膜等包装容器的价格也在上涨。\n容器 = container；上がる = to rise",
+    "さらに、円安も進んでいて、6月末には1ドルが162円になりました。\n此外，日元贬值也在加剧，6月底1美元兑到了162日元。\n円安 = weak yen；進む = to advance",
+    "これは、およそ39年ぶりの円安の水準です。\n这是大约39年来最严重的日元贬值水平。\n水準 = level；ぶり = after (an interval)",
+    "2026年に値上げされた飲食料品は、合わせて1万4902品目になりました。\n2026年涨价的食品饮料合计达到14902个品种。\n合わせて = in total；飲食料品 = food and drink",
+    "年間で1万品目を超えるのは、2022年から5年連続です。\n全年超过1万个品种，是自2022年起连续第5年。\n連続 = consecutive；年間 = annual",
+    "帝国データバンクは、9月には3000品目を超え、今年で最も多くなると予想しています。\n帝国数据银行预测，9月将超过3000个品种，成为今年最多的一个月。\n予想 = forecast；最も = most"
+  ]
+}
