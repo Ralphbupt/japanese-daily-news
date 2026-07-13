@@ -1,0 +1,600 @@
+{
+  "episode": 64,
+  "title": "選挙中のSNSの偽情報対策の改正法が成立　7月13日、参議院本会議で可決　AIで作った画像や動画の投稿には「AIで作成」と表示する義務、SNS事業者にも偽情報の悪影響を減らす対策を義務づけ　罰則はなく、2027年3月施行で来年春の統一地方選挙から適用",
+  "date": "2026-07-13",
+  "source": "NHK / 日本経済新聞 / 中日新聞 / FNN / 各社",
+  "level": "N4-N3",
+  "contentVersion": "2026071301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July thirteenth. Japan's parliament has just passed a new law to fight fake information on social media during elections. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "選挙のときに、インターネットで広がるうその情報を防ぐための法律が、7月13日に成立しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のときに、インターネットで<span class=\"vw\" data-ja=\"広がる\" data-reading=\"ひろがる\" data-en=\"to spread\"><ruby>広が<rt>ひろが</rt></ruby>るうその</span><span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span class=\"vw\" data-ja=\"防ぐ\" data-reading=\"ふせぐ\" data-en=\"to prevent\"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span>ための<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>が、7<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"成立\" data-reading=\"せいりつ\" data-en=\"passage; enactment (of a law)\"><ruby>成立<rt>せいりつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この法律は、参議院の本会議で、多くの賛成を得て可決されました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、<ruby>参議院<rt>さんぎいん</rt></ruby>の<ruby>本会議<rt>ほんかいぎ</rt></ruby>で、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"approval; agreement\"><ruby>賛成<rt>さんせい</rt></ruby></span>を<ruby>得て<rt>えて</rt></ruby><span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "公職選挙法などを改正するもので、6つの政党がいっしょに国会に提出しました。",
+      "ruby": "<ruby>公職選挙法<rt>こうしょくせんきょほう</rt></ruby>などを<ruby>改正<rt>かいせい</rt></ruby>するもので、6つの<span class=\"vw\" data-ja=\"政党\" data-reading=\"せいとう\" data-en=\"political party\"><ruby>政党<rt>せいとう</rt></ruby></span>がいっしょに<ruby>国会<rt>こっかい</rt></ruby>に<span class=\"vw\" data-ja=\"提出\" data-reading=\"ていしゅつ\" data-en=\"submission\"><ruby>提出<rt>ていしゅつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "近年、選挙のたびに、SNSでうその情報や、ほかの人を傷つける書き込みが広がり、問題になっていました。",
+      "ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のたびに、SNSでうその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>や、ほかの<ruby>人<rt>ひと</rt></ruby>を<span class=\"vw\" data-ja=\"傷つける\" data-reading=\"きずつける\" data-en=\"to hurt; to harm\"><ruby>傷つ<rt>きずつ</rt></ruby>ける</span><ruby>書き込み<rt>かきこみ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>り、<ruby>問題<rt>もんだい</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい法律では、AIで作ったり変えたりした画像や動画を投稿するとき、そのことを表示するように義務づけます。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>では、AIで<ruby>作っ<rt>つくっ</rt></ruby>たり<ruby>変え<rt>かえ</rt></ruby>たりした<ruby>画像<rt>がぞう</rt></ruby>や<ruby>動画<rt>どうが</rt></ruby>を<span class=\"vw\" data-ja=\"投稿\" data-reading=\"とうこう\" data-en=\"to post (online)\"><ruby>投稿<rt>とうこう</rt></ruby></span>するとき、そのことを<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; labeling\"><ruby>表示す<rt>ひょうじす</rt></ruby></span>るように<ruby>義務<rt>ぎむ</rt></ruby>づけます。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、「これはAIで作りました」と表示することが必要になります。",
+      "ruby": "たとえば、「これはAIで<ruby>作り<rt>つくり</rt></ruby>ました」と<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; labeling\"><ruby>表示す<rt>ひょうじす</rt></ruby></span>ることが<ruby>必要<rt>ひつよう</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、SNSを運営する会社には、うその情報による悪い影響を減らす対策が義務づけられます。",
+      "ruby": "また、SNSを<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"to operate; to run\"><ruby>運営<rt>うんえい</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>には、うその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>による<ruby>悪い<rt>わるい</rt></ruby><span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>を<ruby>減ら<rt>へら</rt></ruby>す<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measure\"><ruby>対策<rt>たいさく</rt></ruby></span>が<ruby>義務<rt>ぎむ</rt></ruby>づけられます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、どんな対策をするかは、それぞれの会社が決めることができます。",
+      "ruby": "ただし、どんな<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measure\"><ruby>対策<rt>たいさく</rt></ruby></span>をするかは、それぞれの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この法律には罰則がなく、どこまで効果があるかが課題だと言われています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>には<span class=\"vw\" data-ja=\"罰則\" data-reading=\"ばっそく\" data-en=\"penalty\"><ruby>罰則<rt>ばっそく</rt></ruby></span>がなく、どこまで<ruby>効果<rt>こうか</rt></ruby>があるかが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "インターネットを使う人も、うその情報で選挙の公正を害してはいけないと、はっきり書かれました。",
+      "ruby": "インターネットを<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>も、うその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>で<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"公正\" data-reading=\"こうせい\" data-en=\"fairness\"><ruby>公正<rt>こうせい</rt></ruby></span>を<ruby>害し<rt>がいし</rt></ruby>てはいけないと、はっきり<ruby>書か<rt>かか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい法律は、来年、2027年の3月1日から始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>、2027<ruby>年<rt>ねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、来年の春に行われる統一地方選挙から適用される予定です。",
+      "ruby": "そして、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れる<span class=\"vw\" data-ja=\"統一地方選挙\" data-reading=\"とういつちほうせんきょ\" data-en=\"unified local elections\"><ruby>統一<rt>とういつ</rt></ruby><ruby>地方選挙<rt>ちほうせんきょ</rt></ruby></span>から<span class=\"vw\" data-ja=\"適用\" data-reading=\"てきよう\" data-en=\"application (of a rule)\"><ruby>適用<rt>てきよう</rt></ruby></span>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正しい情報をもとに投票することが、これからますます大切になりそうです。",
+      "ruby": "<ruby>正しい<rt>ただしい</rt></ruby><span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>をもとに<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>することが、これからますます<ruby>大切<rt>たいせつ</rt></ruby>になりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "選挙のときに、インターネットで広がるうその情報を防ぐための法律が、7月13日に成立しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のときに、インターネットで<span class=\"vw\" data-ja=\"広がる\" data-reading=\"ひろがる\" data-en=\"to spread\"><ruby>広が<rt>ひろが</rt></ruby>るうその</span><span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span class=\"vw\" data-ja=\"防ぐ\" data-reading=\"ふせぐ\" data-en=\"to prevent\"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span>ための<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>が、7<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"成立\" data-reading=\"せいりつ\" data-en=\"passage; enactment (of a law)\"><ruby>成立<rt>せいりつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A law to stop the spread of false information online during elections was passed on July thirteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "成立",
+      "ruby": "<span class=\"vw\" data-ja=\"成立\" data-reading=\"せいりつ\" data-en=\"passage; enactment (of a law)\"><ruby>成立<rt>せいりつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a law being passed and coming into being."
+    },
+    {
+      "speaker": "slow",
+      "text": "この法律は、参議院の本会議で、多くの賛成を得て可決されました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、<ruby>参議院<rt>さんぎいん</rt></ruby>の<ruby>本会議<rt>ほんかいぎ</rt></ruby>で、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"approval; agreement\"><ruby>賛成<rt>さんせい</rt></ruby></span>を<ruby>得て<rt>えて</rt></ruby><span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The law was approved in a plenary session of the upper house with broad support."
+    },
+    {
+      "speaker": "vocab",
+      "text": "可決",
+      "ruby": "<span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a bill being approved by a vote."
+    },
+    {
+      "speaker": "slow",
+      "text": "公職選挙法などを改正するもので、6つの政党がいっしょに国会に提出しました。",
+      "ruby": "<ruby>公職選挙法<rt>こうしょくせんきょほう</rt></ruby>などを<ruby>改正<rt>かいせい</rt></ruby>するもので、6つの<span class=\"vw\" data-ja=\"政党\" data-reading=\"せいとう\" data-en=\"political party\"><ruby>政党<rt>せいとう</rt></ruby></span>がいっしょに<ruby>国会<rt>こっかい</rt></ruby>に<span class=\"vw\" data-ja=\"提出\" data-reading=\"ていしゅつ\" data-en=\"submission\"><ruby>提出<rt>ていしゅつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It revises the election law, and six political parties submitted it together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "政党",
+      "ruby": "<span class=\"vw\" data-ja=\"政党\" data-reading=\"せいとう\" data-en=\"political party\"><ruby>政党<rt>せいとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a political party."
+    },
+    {
+      "speaker": "slow",
+      "text": "近年、選挙のたびに、SNSでうその情報や、ほかの人を傷つける書き込みが広がり、問題になっていました。",
+      "ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のたびに、SNSでうその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>や、ほかの<ruby>人<rt>ひと</rt></ruby>を<span class=\"vw\" data-ja=\"傷つける\" data-reading=\"きずつける\" data-en=\"to hurt; to harm\"><ruby>傷つ<rt>きずつ</rt></ruby>ける</span><ruby>書き込み<rt>かきこみ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>り、<ruby>問題<rt>もんだい</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In recent years, every election, false posts and hurtful comments spread and became a problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "傷つける",
+      "ruby": "<span class=\"vw\" data-ja=\"傷つける\" data-reading=\"きずつける\" data-en=\"to hurt; to harm\"><ruby>傷つ<rt>きずつ</rt></ruby>ける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hurt or harm someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい法律では、AIで作ったり変えたりした画像や動画を投稿するとき、そのことを表示するように義務づけます。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>では、AIで<ruby>作っ<rt>つくっ</rt></ruby>たり<ruby>変え<rt>かえ</rt></ruby>たりした<ruby>画像<rt>がぞう</rt></ruby>や<ruby>動画<rt>どうが</rt></ruby>を<span class=\"vw\" data-ja=\"投稿\" data-reading=\"とうこう\" data-en=\"to post (online)\"><ruby>投稿<rt>とうこう</rt></ruby></span>するとき、そのことを<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; labeling\"><ruby>表示す<rt>ひょうじす</rt></ruby></span>るように<ruby>義務<rt>ぎむ</rt></ruby>づけます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Under the new law, when you post AI-made or AI-edited images or video, you must label that fact."
+    },
+    {
+      "speaker": "vocab",
+      "text": "義務づける",
+      "ruby": "<span class=\"vw\" data-ja=\"義務づける\" data-reading=\"ぎむづける\" data-en=\"to make mandatory\"><ruby>義務<rt>ぎむ</rt></ruby>づける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to make something a required duty."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、SNSを運営する会社には、うその情報による悪い影響を減らす対策が義務づけられます。",
+      "ruby": "また、SNSを<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"to operate; to run\"><ruby>運営<rt>うんえい</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>には、うその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>による<ruby>悪い<rt>わるい</rt></ruby><span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>を<ruby>減ら<rt>へら</rt></ruby>す<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measure\"><ruby>対策<rt>たいさく</rt></ruby></span>が<ruby>義務<rt>ぎむ</rt></ruby>づけられます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Companies that run social media must also take measures to reduce the bad effects of false information."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対策",
+      "ruby": "<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measure\"><ruby>対策<rt>たいさく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a countermeasure, a step taken to deal with a problem."
+    },
+    {
+      "speaker": "slow",
+      "text": "この法律には罰則がなく、どこまで効果があるかが課題だと言われています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>には<span class=\"vw\" data-ja=\"罰則\" data-reading=\"ばっそく\" data-en=\"penalty\"><ruby>罰則<rt>ばっそく</rt></ruby></span>がなく、どこまで<ruby>効果<rt>こうか</rt></ruby>があるかが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The law has no penalties, so how effective it will be is said to be a challenge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "罰則",
+      "ruby": "<span class=\"vw\" data-ja=\"罰則\" data-reading=\"ばっそく\" data-en=\"penalty\"><ruby>罰則<rt>ばっそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a penalty or punishment set by a rule."
+    },
+    {
+      "speaker": "slow",
+      "text": "インターネットを使う人も、うその情報で選挙の公正を害してはいけないと、はっきり書かれました。",
+      "ruby": "インターネットを<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>も、うその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>で<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"公正\" data-reading=\"こうせい\" data-en=\"fairness\"><ruby>公正<rt>こうせい</rt></ruby></span>を<ruby>害し<rt>がいし</rt></ruby>てはいけないと、はっきり<ruby>書か<rt>かか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It clearly states that internet users, too, must not harm the fairness of elections with false information."
+    },
+    {
+      "speaker": "vocab",
+      "text": "公正",
+      "ruby": "<span class=\"vw\" data-ja=\"公正\" data-reading=\"こうせい\" data-en=\"fairness\"><ruby>公正<rt>こうせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fairness or impartiality."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、来年の春に行われる統一地方選挙から適用される予定です。",
+      "ruby": "そして、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れる<span class=\"vw\" data-ja=\"統一地方選挙\" data-reading=\"とういつちほうせんきょ\" data-en=\"unified local elections\"><ruby>統一<rt>とういつ</rt></ruby><ruby>地方選挙<rt>ちほうせんきょ</rt></ruby></span>から<span class=\"vw\" data-ja=\"適用\" data-reading=\"てきよう\" data-en=\"application (of a rule)\"><ruby>適用<rt>てきよう</rt></ruby></span>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "And it is set to apply from next spring's unified local elections."
+    },
+    {
+      "speaker": "vocab",
+      "text": "適用",
+      "ruby": "<span class=\"vw\" data-ja=\"適用\" data-reading=\"てきよう\" data-en=\"application (of a rule)\"><ruby>適用<rt>てきよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means applying a rule or law to a situation."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "選挙のときに、インターネットで広がるうその情報を防ぐための法律が、7月13日に成立しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のときに、インターネットで<span class=\"vw\" data-ja=\"広がる\" data-reading=\"ひろがる\" data-en=\"to spread\"><ruby>広が<rt>ひろが</rt></ruby>るうその</span><span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span class=\"vw\" data-ja=\"防ぐ\" data-reading=\"ふせぐ\" data-en=\"to prevent\"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span>ための<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>が、7<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"成立\" data-reading=\"せいりつ\" data-en=\"passage; enactment (of a law)\"><ruby>成立<rt>せいりつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この法律は、参議院の本会議で、多くの賛成を得て可決されました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、<ruby>参議院<rt>さんぎいん</rt></ruby>の<ruby>本会議<rt>ほんかいぎ</rt></ruby>で、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"approval; agreement\"><ruby>賛成<rt>さんせい</rt></ruby></span>を<ruby>得て<rt>えて</rt></ruby><span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "公職選挙法などを改正するもので、6つの政党がいっしょに国会に提出しました。",
+      "ruby": "<ruby>公職選挙法<rt>こうしょくせんきょほう</rt></ruby>などを<ruby>改正<rt>かいせい</rt></ruby>するもので、6つの<span class=\"vw\" data-ja=\"政党\" data-reading=\"せいとう\" data-en=\"political party\"><ruby>政党<rt>せいとう</rt></ruby></span>がいっしょに<ruby>国会<rt>こっかい</rt></ruby>に<span class=\"vw\" data-ja=\"提出\" data-reading=\"ていしゅつ\" data-en=\"submission\"><ruby>提出<rt>ていしゅつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "近年、選挙のたびに、SNSでうその情報や、ほかの人を傷つける書き込みが広がり、問題になっていました。",
+      "ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のたびに、SNSでうその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>や、ほかの<ruby>人<rt>ひと</rt></ruby>を<span class=\"vw\" data-ja=\"傷つける\" data-reading=\"きずつける\" data-en=\"to hurt; to harm\"><ruby>傷つ<rt>きずつ</rt></ruby>ける</span><ruby>書き込み<rt>かきこみ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>り、<ruby>問題<rt>もんだい</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい法律では、AIで作ったり変えたりした画像や動画を投稿するとき、そのことを表示するように義務づけます。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>では、AIで<ruby>作っ<rt>つくっ</rt></ruby>たり<ruby>変え<rt>かえ</rt></ruby>たりした<ruby>画像<rt>がぞう</rt></ruby>や<ruby>動画<rt>どうが</rt></ruby>を<span class=\"vw\" data-ja=\"投稿\" data-reading=\"とうこう\" data-en=\"to post (online)\"><ruby>投稿<rt>とうこう</rt></ruby></span>するとき、そのことを<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; labeling\"><ruby>表示す<rt>ひょうじす</rt></ruby></span>るように<ruby>義務<rt>ぎむ</rt></ruby>づけます。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、「これはAIで作りました」と表示することが必要になります。",
+      "ruby": "たとえば、「これはAIで<ruby>作り<rt>つくり</rt></ruby>ました」と<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; labeling\"><ruby>表示す<rt>ひょうじす</rt></ruby></span>ることが<ruby>必要<rt>ひつよう</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、SNSを運営する会社には、うその情報による悪い影響を減らす対策が義務づけられます。",
+      "ruby": "また、SNSを<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"to operate; to run\"><ruby>運営<rt>うんえい</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>には、うその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>による<ruby>悪い<rt>わるい</rt></ruby><span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>を<ruby>減ら<rt>へら</rt></ruby>す<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measure\"><ruby>対策<rt>たいさく</rt></ruby></span>が<ruby>義務<rt>ぎむ</rt></ruby>づけられます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、どんな対策をするかは、それぞれの会社が決めることができます。",
+      "ruby": "ただし、どんな<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measure\"><ruby>対策<rt>たいさく</rt></ruby></span>をするかは、それぞれの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この法律には罰則がなく、どこまで効果があるかが課題だと言われています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>には<span class=\"vw\" data-ja=\"罰則\" data-reading=\"ばっそく\" data-en=\"penalty\"><ruby>罰則<rt>ばっそく</rt></ruby></span>がなく、どこまで<ruby>効果<rt>こうか</rt></ruby>があるかが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "インターネットを使う人も、うその情報で選挙の公正を害してはいけないと、はっきり書かれました。",
+      "ruby": "インターネットを<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>も、うその<span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>で<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"公正\" data-reading=\"こうせい\" data-en=\"fairness\"><ruby>公正<rt>こうせい</rt></ruby></span>を<ruby>害し<rt>がいし</rt></ruby>てはいけないと、はっきり<ruby>書か<rt>かか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい法律は、来年、2027年の3月1日から始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>、2027<ruby>年<rt>ねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、来年の春に行われる統一地方選挙から適用される予定です。",
+      "ruby": "そして、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れる<span class=\"vw\" data-ja=\"統一地方選挙\" data-reading=\"とういつちほうせんきょ\" data-en=\"unified local elections\"><ruby>統一<rt>とういつ</rt></ruby><ruby>地方選挙<rt>ちほうせんきょ</rt></ruby></span>から<span class=\"vw\" data-ja=\"適用\" data-reading=\"てきよう\" data-en=\"application (of a rule)\"><ruby>適用<rt>てきよう</rt></ruby></span>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正しい情報をもとに投票することが、これからますます大切になりそうです。",
+      "ruby": "<ruby>正しい<rt>ただしい</rt></ruby><span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>をもとに<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>することが、これからますます<ruby>大切<rt>たいせつ</rt></ruby>になりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "選挙のSNSの偽情報を防ぐ法律は、いつ成立しましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のSNSの<ruby>偽<rt>にせ</rt></ruby><span class=\"vw\" data-ja=\"情報\" data-reading=\"じょうほう\" data-en=\"information\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span class=\"vw\" data-ja=\"防ぐ\" data-reading=\"ふせぐ\" data-en=\"to prevent\"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、いつ<span class=\"vw\" data-ja=\"成立\" data-reading=\"せいりつ\" data-en=\"passage; enactment (of a law)\"><ruby>成立<rt>せいりつ</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It passed on July thirteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "この新しい法律は、いつから始まりますか。",
+      "ruby": "この<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"法律\" data-reading=\"ほうりつ\" data-en=\"law\"><ruby>法律<rt>ほうりつ</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It starts on March first, 2027."
+    },
+    {
+      "speaker": "slow",
+      "text": "AIで作った画像や動画を投稿するとき、何をしなければなりませんか。",
+      "ruby": "AIで<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>画像<rt>がぞう</rt></ruby>や<ruby>動画<rt>どうが</rt></ruby>を<span class=\"vw\" data-ja=\"投稿\" data-reading=\"とうこう\" data-en=\"to post (online)\"><ruby>投稿<rt>とうこう</rt></ruby></span>するとき、<ruby>何を<rt>なにを</rt></ruby>しなければなりませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "You must show that it was made with AI."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Japan passed a law requiring AI-made election content to be labeled and asking social media companies to curb false information, though it carries no penalties and takes effect in March. It's a reminder to check your sources before you vote. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "選挙",
+      "reading": "せんきょ",
+      "en": "election",
+      "zh": "选举"
+    },
+    {
+      "ja": "情報",
+      "reading": "じょうほう",
+      "en": "information",
+      "zh": "信息；情报"
+    },
+    {
+      "ja": "広がる",
+      "reading": "ひろがる",
+      "en": "to spread",
+      "zh": "扩散；蔓延"
+    },
+    {
+      "ja": "防ぐ",
+      "reading": "ふせぐ",
+      "en": "to prevent",
+      "zh": "防止；预防"
+    },
+    {
+      "ja": "法律",
+      "reading": "ほうりつ",
+      "en": "law",
+      "zh": "法律"
+    },
+    {
+      "ja": "成立",
+      "reading": "せいりつ",
+      "en": "passage; enactment (of a law)",
+      "zh": "（法律）通过；成立"
+    },
+    {
+      "ja": "可決",
+      "reading": "かけつ",
+      "en": "approval (of a bill)",
+      "zh": "（议案）通过"
+    },
+    {
+      "ja": "賛成",
+      "reading": "さんせい",
+      "en": "approval; agreement",
+      "zh": "赞成"
+    },
+    {
+      "ja": "政党",
+      "reading": "せいとう",
+      "en": "political party",
+      "zh": "政党"
+    },
+    {
+      "ja": "提出",
+      "reading": "ていしゅつ",
+      "en": "submission",
+      "zh": "提交；提出"
+    },
+    {
+      "ja": "傷つける",
+      "reading": "きずつける",
+      "en": "to hurt; to harm",
+      "zh": "伤害"
+    },
+    {
+      "ja": "投稿",
+      "reading": "とうこう",
+      "en": "to post (online)",
+      "zh": "发帖；投稿"
+    },
+    {
+      "ja": "表示",
+      "reading": "ひょうじ",
+      "en": "display; labeling",
+      "zh": "标示；显示"
+    },
+    {
+      "ja": "義務づける",
+      "reading": "ぎむづける",
+      "en": "to make mandatory",
+      "zh": "规定为义务；强制要求"
+    },
+    {
+      "ja": "運営",
+      "reading": "うんえい",
+      "en": "to operate; to run",
+      "zh": "运营；经营"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "influence; effect",
+      "zh": "影响"
+    },
+    {
+      "ja": "対策",
+      "reading": "たいさく",
+      "en": "countermeasure; measure",
+      "zh": "对策；措施"
+    },
+    {
+      "ja": "罰則",
+      "reading": "ばっそく",
+      "en": "penalty",
+      "zh": "罚则；处罚规定"
+    },
+    {
+      "ja": "課題",
+      "reading": "かだい",
+      "en": "challenge; issue",
+      "zh": "课题；难题"
+    },
+    {
+      "ja": "公正",
+      "reading": "こうせい",
+      "en": "fairness",
+      "zh": "公正"
+    },
+    {
+      "ja": "適用",
+      "reading": "てきよう",
+      "en": "application (of a rule)",
+      "zh": "适用"
+    },
+    {
+      "ja": "統一地方選挙",
+      "reading": "とういつちほうせんきょ",
+      "en": "unified local elections",
+      "zh": "统一地方选举"
+    },
+    {
+      "ja": "投票",
+      "reading": "とうひょう",
+      "en": "voting",
+      "zh": "投票"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ための",
+      "meaning": "for the purpose of ~; in order to ~",
+      "meaningZh": "为了…的",
+      "formation": "verb (dictionary form) / noun + の + ための + noun",
+      "example": "うその情報を防ぐための法律。",
+      "translation": "A law to prevent false information.",
+      "note": "ための modifies the following noun, showing its purpose",
+      "noteZh": "ための修饰后面的名词，表示其目的",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ために"
+    },
+    {
+      "pattern": "〜たびに",
+      "meaning": "every time ~; whenever ~",
+      "meaningZh": "每当…；每次…",
+      "formation": "verb (dictionary form) / noun + の + たびに",
+      "example": "選挙のたびに、うその情報が広がっていました。",
+      "translation": "Every election, false information spread.",
+      "note": "たびに says the second thing happens each time the first does",
+      "noteZh": "たびに表示每当前项发生，后项就会发生",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#たびに"
+    },
+    {
+      "pattern": "〜ように(義務づける)",
+      "meaning": "to require that ~; so that ~",
+      "meaningZh": "要求做到…；以便…",
+      "formation": "verb (dictionary form) + ように + verb of instruction",
+      "example": "そのことを表示するように義務づけます。",
+      "translation": "It requires that this be labeled.",
+      "note": "ように before a verb of instruction shows what one is told or required to do",
+      "noteZh": "ように接指示性动词，表示要求或指示做某事",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜てはいけない",
+      "meaning": "must not ~",
+      "meaningZh": "不可以…；不能…",
+      "formation": "verb て-form + はいけない",
+      "example": "選挙の公正を害してはいけない。",
+      "translation": "You must not harm the fairness of elections.",
+      "note": "てはいけない states a prohibition",
+      "noteZh": "てはいけない表示禁止",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てはいけない"
+    },
+    {
+      "pattern": "〜をもとに",
+      "meaning": "based on ~",
+      "meaningZh": "以…为依据；根据…",
+      "formation": "noun + をもとに",
+      "example": "正しい情報をもとに投票する。",
+      "translation": "To vote based on correct information.",
+      "note": "をもとに shows the basis or foundation for an action",
+      "noteZh": "をもとに表示行动所依据的基础",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#をもとに"
+    }
+  ],
+  "practiceZh": [
+    "選挙のときに、インターネットで広がるうその情報を防ぐための法律が、7月13日に成立しました。\n7月13日，一部旨在防止选举期间网上虚假信息扩散的法律获得通过。\n防ぐ = to prevent；成立 = to be enacted",
+    "この法律は、参議院の本会議で、多くの賛成を得て可決されました。\n这部法律在参议院全体会议上获得多数赞成而通过。\n賛成 = approval；可決 = to be approved",
+    "公職選挙法などを改正するもので、6つの政党がいっしょに国会に提出しました。\n它修改了公职选举法等法律，由6个政党共同向国会提交。\n政党 = political party；提出 = to submit",
+    "近年、選挙のたびに、SNSでうその情報や、ほかの人を傷つける書き込みが広がり、問題になっていました。\n近年来，每逢选举，社交媒体上就会扩散虚假信息和伤害他人的言论，成为问题。\nたびに = every time；傷つける = to hurt",
+    "新しい法律では、AIで作ったり変えたりした画像や動画を投稿するとき、そのことを表示するように義務づけます。\n新法律规定，发布用AI制作或修改的图片和视频时，必须标示这一点。\n投稿 = to post；義務づける = to make mandatory",
+    "たとえば、「これはAIで作りました」と表示することが必要になります。\n例如，需要标注“这是用AI制作的”。\n表示 = to label；必要 = necessary",
+    "また、SNSを運営する会社には、うその情報による悪い影響を減らす対策が義務づけられます。\n此外，运营社交媒体的公司有义务采取减少虚假信息不良影响的对策。\n運営 = to operate；対策 = countermeasure",
+    "この法律には罰則がなく、どこまで効果があるかが課題だと言われています。\n这部法律没有罚则，其效果究竟有多大被认为是一个课题。\n罰則 = penalty；課題 = challenge",
+    "インターネットを使う人も、うその情報で選挙の公正を害してはいけないと、はっきり書かれました。\n法律明确写明，使用网络的人也不得以虚假信息损害选举的公正。\n公正 = fairness；害する = to harm",
+    "そして、来年の春に行われる統一地方選挙から適用される予定です。\n并且预定从明年春天举行的统一地方选举开始适用。\n統一地方選挙 = unified local elections；適用 = to apply",
+    "正しい情報をもとに投票することが、これからますます大切になりそうです。\n以正确的信息为依据进行投票，今后似乎会变得越来越重要。\nをもとに = based on；投票 = voting"
+  ]
+}
