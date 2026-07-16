@@ -1,0 +1,564 @@
+{
+  "episode": 70,
+  "title": "国内のEV（電気自動車）乗用車の販売台数が前年同期比で2倍余に　日本自動車販売協会連合会などのまとめで、2026年1月から6月に国内で売れたEV乗用車は59337台、前年の同じ時期のおよそ2.1倍で、新車の乗用車に占める割合は約3%と過去最高に　一番売れたのはトヨタのSUV「bZ4X」で13777台、メーカーの新型車投入と国の購入補助金の拡充が追い風",
+  "date": "2026-07-16",
+  "source": "NHK / 読売新聞 / 日本自動車販売協会連合会 / 各社",
+  "level": "N4-N3",
+  "contentVersion": "2026071601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July sixteenth. Sales of electric cars in Japan have more than doubled in the first half of this year. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の上半期、日本で売れた電気自動車の数が、去年の同じ時期の2倍以上に増えました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>上半期<rt>かみはんき</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>た<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>の2<ruby>倍以上<rt>ばいいじょう</rt></ruby>に<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "電気自動車は、ガソリンを使わず、電気で走る車で、「EV」とも呼ばれます。",
+      "ruby": "<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>は、ガソリンを<ruby>使わ<rt>つかわ</rt></ruby>ず、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走る<rt>はしる</rt></ruby><ruby>車<rt>くるま</rt></ruby>で、「EV」とも<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "自動車の販売を調べている団体によると、1月から6月に国内で売れたEV乗用車の販売台数は、59337台でした。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>販売<rt>はんばい</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ている<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"organization; group\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、1<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>たEV<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of units sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>は、59337<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、去年の同じ時期のおよそ2.1倍で、とても大きな伸びです。",
+      "ruby": "これは、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>のおよそ2.1<ruby>倍<rt>ばい</rt></ruby>で、とても<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"伸び\" data-reading=\"のび\" data-en=\"growth; increase\"><ruby>伸び<rt>のび</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しく売られた乗用車全体の中で、EVが占める割合は約3%になり、過去最高になりました。",
+      "ruby": "<ruby>新しく<rt>あたらしく</rt></ruby><ruby>売ら<rt>うら</rt></ruby>れた<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、EVが<ruby>占め<rt>しめ</rt></ruby>る<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>3%になり、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番売れたEVは、トヨタのSUV「bZ4X」という車で、13777台でした。",
+      "ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>たEVは、トヨタのSUV「bZ4X」という<ruby>車<rt>くるま</rt></ruby>で、13777<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この車は去年の同じ時期のおよそ69倍も売れ、大きな人気を集めました。",
+      "ruby": "この<ruby>車<rt>くるま</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>のおよそ69<ruby>倍<rt>ばい</rt></ruby>も<ruby>売れ<rt>うれ</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "EVがよく売れるようになった理由の一つは、メーカーが新しい車を次々に発表したことです。",
+      "ruby": "EVがよく<ruby>売れ<rt>うれ</rt></ruby>るようになった<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、メーカーが<ruby>新しい<rt>あたらしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>次々<rt>つぎつぎ</rt></ruby>に<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; release\"><ruby>発表<rt>はっぴょう</rt></ruby></span>したことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "もう一つの理由は、国がEVを買う人に出す補助金を増やしたことです。",
+      "ruby": "もう<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>がEVを<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>を<ruby>増やし<rt>ふやし</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "補助金を使うと、少し高いEVでも、買いやすい値段になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>と、<ruby>少し<rt>すこし</rt></ruby><ruby>高い<rt>たかい</rt></ruby>EVでも、<ruby>買い<rt>かい</rt></ruby>やすい<ruby>値段<rt>ねだん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、EVはまだ乗用車全体の3%ほどで、ガソリンで走る車のほうがずっと多いです。",
+      "ruby": "ただ、EVはまだ<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>の3%ほどで、ガソリンで<ruby>走る<rt>はしる</rt></ruby><ruby>車<rt>くるま</rt></ruby>のほうがずっと<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "EVを充電する場所が少ないことや、車の値段が高いことが、これからの課題だと言われています。",
+      "ruby": "EVを<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ことや、<ruby>車<rt>くるま</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>ことが、これからの<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "それでも、環境に優しい車として、EVがこれからもっと増えるかどうか、注目が集まっています。",
+      "ruby": "それでも、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>として、EVがこれからもっと<ruby>増え<rt>ふえ</rt></ruby>るかどうか、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の上半期、日本で売れた電気自動車の数が、去年の同じ時期の2倍以上に増えました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>上半期<rt>かみはんき</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>た<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>の2<ruby>倍以上<rt>ばいいじょう</rt></ruby>に<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the first half of this year, the number of electric cars sold in Japan rose to more than double the same period last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "電気自動車",
+      "ruby": "<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an electric vehicle, a car that runs on electricity."
+    },
+    {
+      "speaker": "slow",
+      "text": "自動車の販売を調べている団体によると、1月から6月に国内で売れたEV乗用車の販売台数は、59337台でした。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>販売<rt>はんばい</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ている<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"organization; group\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、1<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>たEV<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of units sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>は、59337<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to a group that tracks car sales, 59,337 EV passenger cars were sold in the country from January to June."
+    },
+    {
+      "speaker": "vocab",
+      "text": "販売台数",
+      "ruby": "<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of units sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the number of units sold."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、去年の同じ時期のおよそ2.1倍で、とても大きな伸びです。",
+      "ruby": "これは、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>のおよそ2.1<ruby>倍<rt>ばい</rt></ruby>で、とても<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"伸び\" data-reading=\"のび\" data-en=\"growth; increase\"><ruby>伸び<rt>のび</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is about 2.1 times the same period last year, a very big increase."
+    },
+    {
+      "speaker": "vocab",
+      "text": "伸び",
+      "ruby": "<span class=\"vw\" data-ja=\"伸び\" data-reading=\"のび\" data-en=\"growth; increase\"><ruby>伸び<rt>のび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means growth or an increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しく売られた乗用車全体の中で、EVが占める割合は約3%になり、過去最高になりました。",
+      "ruby": "<ruby>新しく<rt>あたらしく</rt></ruby><ruby>売ら<rt>うら</rt></ruby>れた<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、EVが<ruby>占め<rt>しめ</rt></ruby>る<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>3%になり、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Among all new passenger cars sold, EVs made up about 3 percent, a record high."
+    },
+    {
+      "speaker": "vocab",
+      "text": "割合",
+      "ruby": "<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a proportion or percentage."
+    },
+    {
+      "speaker": "slow",
+      "text": "この車は去年の同じ時期のおよそ69倍も売れ、大きな人気を集めました。",
+      "ruby": "この<ruby>車<rt>くるま</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>のおよそ69<ruby>倍<rt>ばい</rt></ruby>も<ruby>売れ<rt>うれ</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This car sold about 69 times more than the same period last year and became very popular."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popularity."
+    },
+    {
+      "speaker": "slow",
+      "text": "EVがよく売れるようになった理由の一つは、メーカーが新しい車を次々に発表したことです。",
+      "ruby": "EVがよく<ruby>売れ<rt>うれ</rt></ruby>るようになった<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、メーカーが<ruby>新しい<rt>あたらしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>次々<rt>つぎつぎ</rt></ruby>に<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; release\"><ruby>発表<rt>はっぴょう</rt></ruby></span>したことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "One reason EVs began selling well is that makers released new cars one after another."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; release\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement or release."
+    },
+    {
+      "speaker": "slow",
+      "text": "もう一つの理由は、国がEVを買う人に出す補助金を増やしたことです。",
+      "ruby": "もう<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>がEVを<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>を<ruby>増やし<rt>ふやし</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Another reason is that the government increased the subsidies it gives to people who buy EVs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "補助金",
+      "ruby": "<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a subsidy, money the government gives to help with a purchase."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただ、EVはまだ乗用車全体の3%ほどで、ガソリンで走る車のほうがずっと多いです。",
+      "ruby": "ただ、EVはまだ<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>の3%ほどで、ガソリンで<ruby>走る<rt>はしる</rt></ruby><ruby>車<rt>くるま</rt></ruby>のほうがずっと<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Still, EVs are only about 3 percent of all passenger cars, and gasoline cars are far more common."
+    },
+    {
+      "speaker": "vocab",
+      "text": "乗用車",
+      "ruby": "<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a passenger car."
+    },
+    {
+      "speaker": "slow",
+      "text": "EVを充電する場所が少ないことや、車の値段が高いことが、これからの課題だと言われています。",
+      "ruby": "EVを<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ことや、<ruby>車<rt>くるま</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>ことが、これからの<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Few places to charge EVs, and the high price of the cars, are said to be challenges going forward."
+    },
+    {
+      "speaker": "vocab",
+      "text": "充電",
+      "ruby": "<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means charging, filling a battery with electricity."
+    },
+    {
+      "speaker": "slow",
+      "text": "それでも、環境に優しい車として、EVがこれからもっと増えるかどうか、注目が集まっています。",
+      "ruby": "それでも、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>として、EVがこれからもっと<ruby>増え<rt>ふえ</rt></ruby>るかどうか、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even so, attention is growing over whether EVs, as cars that are kind to the environment, will keep increasing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "環境",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the environment."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今年の上半期、日本で売れた電気自動車の数が、去年の同じ時期の2倍以上に増えました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>上半期<rt>かみはんき</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>た<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>の2<ruby>倍以上<rt>ばいいじょう</rt></ruby>に<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "電気自動車は、ガソリンを使わず、電気で走る車で、「EV」とも呼ばれます。",
+      "ruby": "<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>は、ガソリンを<ruby>使わ<rt>つかわ</rt></ruby>ず、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走る<rt>はしる</rt></ruby><ruby>車<rt>くるま</rt></ruby>で、「EV」とも<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "自動車の販売を調べている団体によると、1月から6月に国内で売れたEV乗用車の販売台数は、59337台でした。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>販売<rt>はんばい</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ている<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"organization; group\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、1<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>たEV<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of units sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>は、59337<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、去年の同じ時期のおよそ2.1倍で、とても大きな伸びです。",
+      "ruby": "これは、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>のおよそ2.1<ruby>倍<rt>ばい</rt></ruby>で、とても<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"伸び\" data-reading=\"のび\" data-en=\"growth; increase\"><ruby>伸び<rt>のび</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しく売られた乗用車全体の中で、EVが占める割合は約3%になり、過去最高になりました。",
+      "ruby": "<ruby>新しく<rt>あたらしく</rt></ruby><ruby>売ら<rt>うら</rt></ruby>れた<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、EVが<ruby>占め<rt>しめ</rt></ruby>る<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>3%になり、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番売れたEVは、トヨタのSUV「bZ4X」という車で、13777台でした。",
+      "ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>たEVは、トヨタのSUV「bZ4X」という<ruby>車<rt>くるま</rt></ruby>で、13777<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この車は去年の同じ時期のおよそ69倍も売れ、大きな人気を集めました。",
+      "ruby": "この<ruby>車<rt>くるま</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>のおよそ69<ruby>倍<rt>ばい</rt></ruby>も<ruby>売れ<rt>うれ</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "EVがよく売れるようになった理由の一つは、メーカーが新しい車を次々に発表したことです。",
+      "ruby": "EVがよく<ruby>売れ<rt>うれ</rt></ruby>るようになった<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、メーカーが<ruby>新しい<rt>あたらしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>次々<rt>つぎつぎ</rt></ruby>に<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; release\"><ruby>発表<rt>はっぴょう</rt></ruby></span>したことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "もう一つの理由は、国がEVを買う人に出す補助金を増やしたことです。",
+      "ruby": "もう<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>がEVを<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>を<ruby>増やし<rt>ふやし</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "補助金を使うと、少し高いEVでも、買いやすい値段になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>と、<ruby>少し<rt>すこし</rt></ruby><ruby>高い<rt>たかい</rt></ruby>EVでも、<ruby>買い<rt>かい</rt></ruby>やすい<ruby>値段<rt>ねだん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、EVはまだ乗用車全体の3%ほどで、ガソリンで走る車のほうがずっと多いです。",
+      "ruby": "ただ、EVはまだ<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>の3%ほどで、ガソリンで<ruby>走る<rt>はしる</rt></ruby><ruby>車<rt>くるま</rt></ruby>のほうがずっと<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "EVを充電する場所が少ないことや、車の値段が高いことが、これからの課題だと言われています。",
+      "ruby": "EVを<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ことや、<ruby>車<rt>くるま</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>ことが、これからの<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "それでも、環境に優しい車として、EVがこれからもっと増えるかどうか、注目が集まっています。",
+      "ruby": "それでも、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>として、EVがこれからもっと<ruby>増え<rt>ふえ</rt></ruby>るかどうか、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の上半期に国内で売れたEV乗用車は、何台でしたか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>上半期<rt>かみはんき</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>たEV<span class=\"vw\" data-ja=\"乗用車\" data-reading=\"じょうようしゃ\" data-en=\"passenger car\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span>は、<ruby>何台<rt>なんだい</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About 59,337 units."
+    },
+    {
+      "speaker": "slow",
+      "text": "一番売れたEVは、何という車でしたか。",
+      "ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>たEVは、<ruby>何と<rt>なんと</rt></ruby>いう<ruby>車<rt>くるま</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Toyota's SUV, the bZ4X."
+    },
+    {
+      "speaker": "slow",
+      "text": "EVがよく売れるようになった理由は何ですか。",
+      "ruby": "EVがよく<ruby>売れ<rt>うれ</rt></ruby>るようになった<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Makers released many new models, and the government increased purchase subsidies."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. EV sales in Japan more than doubled in the first half of the year, reaching about sixty thousand units and a record three percent of new passenger cars, led by Toyota's bZ4X, thanks to new models and bigger government subsidies. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "en": "electric vehicle (EV)",
+      "zh": "电动汽车"
+    },
+    {
+      "ja": "乗用車",
+      "reading": "じょうようしゃ",
+      "en": "passenger car",
+      "zh": "乘用车；轿车"
+    },
+    {
+      "ja": "販売台数",
+      "reading": "はんばいだいすう",
+      "en": "number of units sold",
+      "zh": "销量；销售台数"
+    },
+    {
+      "ja": "団体",
+      "reading": "だんたい",
+      "en": "organization; group",
+      "zh": "团体；机构"
+    },
+    {
+      "ja": "伸び",
+      "reading": "のび",
+      "en": "growth; increase",
+      "zh": "增长"
+    },
+    {
+      "ja": "割合",
+      "reading": "わりあい",
+      "en": "proportion; percentage",
+      "zh": "比例；占比"
+    },
+    {
+      "ja": "過去最高",
+      "reading": "かこさいこう",
+      "en": "record high",
+      "zh": "历史最高"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popularity",
+      "zh": "人气；受欢迎"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; release",
+      "zh": "发布；公布"
+    },
+    {
+      "ja": "補助金",
+      "reading": "ほじょきん",
+      "en": "subsidy",
+      "zh": "补贴；补助金"
+    },
+    {
+      "ja": "充電",
+      "reading": "じゅうでん",
+      "en": "charging (a battery)",
+      "zh": "充电"
+    },
+    {
+      "ja": "課題",
+      "reading": "かだい",
+      "en": "challenge; issue",
+      "zh": "课题；难题"
+    },
+    {
+      "ja": "環境",
+      "reading": "かんきょう",
+      "en": "environment",
+      "zh": "环境"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention",
+      "zh": "关注；瞩目"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "根据…；据…（所说）",
+      "formation": "noun + によると",
+      "example": "自動車の販売を調べている団体によると、59337台でした。",
+      "translation": "According to a group that tracks car sales, it was 59,337 units.",
+      "note": "によると shows the source of information you are reporting",
+      "noteZh": "によると表示所转述信息的来源",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "come to ~; reach the point where ~",
+      "meaningZh": "变得…；开始（能）…",
+      "formation": "verb (dictionary/potential form) + ようになる",
+      "example": "EVがよく売れるようになりました。",
+      "translation": "EVs came to sell well.",
+      "note": "ようになる shows a gradual change to a new situation",
+      "noteZh": "ようになる表示逐渐变化到新的状态",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜と (条件)",
+      "meaning": "when ~ / if ~ (then a natural result)",
+      "meaningZh": "一…就…（自然结果）",
+      "formation": "verb (dictionary form) + と",
+      "example": "補助金を使うと、買いやすい値段になります。",
+      "translation": "When you use the subsidy, it becomes an easy price to buy.",
+      "note": "と links a condition to a result that naturally follows",
+      "noteZh": "と连接条件与随之自然产生的结果",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と条件"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as ~ (in the role/capacity of)",
+      "meaningZh": "作为…；以…身份",
+      "formation": "noun + として",
+      "example": "環境に優しい車として、注目が集まっています。",
+      "translation": "As a car that is kind to the environment, it is drawing attention.",
+      "note": "として shows the role or category something is treated as",
+      "noteZh": "として表示某事物被看作的角色或类别",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#として"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否…；…与否",
+      "formation": "plain-form clause + かどうか",
+      "example": "EVがもっと増えるかどうか、注目が集まっています。",
+      "translation": "Attention is focused on whether or not EVs will increase further.",
+      "note": "かどうか expresses an open question with two possibilities",
+      "noteZh": "かどうか表示尚未确定、有两种可能的疑问",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#かどうか"
+    }
+  ],
+  "practiceZh": [
+    "今年の上半期、日本で売れた電気自動車の数が、去年の同じ時期の2倍以上に増えました。\n今年上半年，日本销售的电动汽车数量比去年同期增加了两倍以上。\n電気自動車 = electric vehicle；上半期 = first half of the year",
+    "電気自動車は、ガソリンを使わず、電気で走る車で、「EV」とも呼ばれます。\n电动汽车是不使用汽油、靠电力行驶的车，也被称为「EV」。\nガソリン = gasoline；呼ばれる = to be called",
+    "自動車の販売を調べている団体によると、1月から6月に国内で売れたEV乗用車の販売台数は、59337台でした。\n据调查汽车销售的机构称，1月到6月国内销售的EV乘用车销量为59337台。\n団体 = organization；販売台数 = number of units sold",
+    "これは、去年の同じ時期のおよそ2.1倍で、とても大きな伸びです。\n这是去年同期的约2.1倍，是非常大的增长。\n伸び = growth；およそ = approximately",
+    "新しく売られた乗用車全体の中で、EVが占める割合は約3%になり、過去最高になりました。\n在所有新销售的乘用车中，EV所占比例达到约3%，创下历史最高。\n割合 = proportion；過去最高 = record high",
+    "この車は去年の同じ時期のおよそ69倍も売れ、大きな人気を集めました。\n这款车的销量约为去年同期的69倍，赢得了极高的人气。\n人気 = popularity；集める = to gather",
+    "EVがよく売れるようになった理由の一つは、メーカーが新しい車を次々に発表したことです。\nEV变得畅销的原因之一，是厂商接连发布了新车。\n発表 = announcement；次々に = one after another",
+    "もう一つの理由は、国がEVを買う人に出す補助金を増やしたことです。\n另一个原因是，国家增加了发给购买EV的人的补贴。\n補助金 = subsidy；増やす = to increase",
+    "ただ、EVはまだ乗用車全体の3%ほどで、ガソリンで走る車のほうがずっと多いです。\n不过，EV仍只占乘用车整体的约3%，靠汽油行驶的车要多得多。\n乗用車 = passenger car；ずっと = by far",
+    "EVを充電する場所が少ないことや、車の値段が高いことが、これからの課題だと言われています。\n给EV充电的地方少、车价高，这些被认为是今后的课题。\n充電 = charging；課題 = challenge",
+    "それでも、環境に優しい車として、EVがこれからもっと増えるかどうか、注目が集まっています。\n即便如此，作为对环境友好的车，EV今后是否会进一步增加，正受到关注。\n環境 = environment；かどうか = whether or not"
+  ]
+}
