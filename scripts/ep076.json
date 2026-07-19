@@ -1,0 +1,562 @@
+{
+  "episode": 76,
+  "title": "日本初の「水素ハイブリッド電車」HYBARIが2027年度末に営業運転へ　JR東日本が7月14日に発表　水素で電気を作る燃料電池と蓄電池を組み合わせ、水素と空気中の酸素を化学反応させて走るため二酸化炭素を出さない　神奈川県の鶴見線と南武線の一部で使われ、一回の水素充填で約70キロ走行できる　当初2030年ごろとしていた実用化を前倒しし、さらに長い距離を走れる次世代車両も2030年度末の営業運転を目指して開発する",
+  "date": "2026-07-19",
+  "source": "JR東日本 / Impress Watch / 鉄道コム / NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026071901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July nineteenth. Today's story: Japan's first hydrogen-powered train is finally heading into passenger service. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は7月14日、日本で初めての「水素ハイブリッド電車」について発表しました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の「<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>ハイブリッド<ruby>電車<rt>でんしゃ</rt></ruby>」について<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この電車の名前は「HYBARI」です。2027年度の終わりごろから、営業運転を始める予定です。",
+      "ruby": "この<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「HYBARI」です。2027<ruby>年度<rt>ねんど</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろから、<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "HYBARIは、神奈川県を走る鶴見線と、南武線の一部で使われます。",
+      "ruby": "HYBARIは、<ruby>神奈川県<rt>かながわけん</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>鶴見線<rt>つるみせん</rt></ruby>と、<ruby>南武線<rt>なんぶせん</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>で<ruby>使わ<rt>つかわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この電車は、水素で電気を作る「燃料電池」と、電気をためる「蓄電池」を組み合わせています。",
+      "ruby": "この<ruby>電車<rt>でんしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>で<ruby>電気<rt>でんき</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>「<span class=\"vw\" data-ja=\"燃料電池\" data-reading=\"ねんりょうでんち\" data-en=\"fuel cell\"><ruby>燃料<rt>ねんりょう</rt></ruby><ruby>電池<rt>でんち</rt></ruby></span>」と、<ruby>電気<rt>でんき</rt></ruby>をためる「<span class=\"vw\" data-ja=\"蓄電池\" data-reading=\"ちくでんち\" data-en=\"storage battery\"><ruby>蓄電池<rt>ちくでんち</rt></ruby></span>」を<ruby>組み合わせ<rt>くみあわせ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水素と、空気の中の酸素を化学反応させて、電気を作ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>と、<ruby>空気<rt>くうき</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"酸素\" data-reading=\"さんそ\" data-en=\"oxygen\"><ruby>酸素<rt>さんそ</rt></ruby></span>を<ruby>化学反応<rt>かがくはんのう</rt></ruby>させて、<ruby>電気<rt>でんき</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、走るときに二酸化炭素を出しません。",
+      "ruby": "だから、<ruby>走る<rt>はしる</rt></ruby>ときに<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ません。"
+    },
+    {
+      "speaker": "news",
+      "text": "二酸化炭素は、地球温暖化の大きな原因の一つです。",
+      "ruby": "<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"地球温暖化\" data-reading=\"ちきゅうおんだんか\" data-en=\"global warming\"><ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "HYBARIは、環境にやさしい電車として期待されています。",
+      "ruby": "HYBARIは、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>にやさしい<ruby>電車<rt>でんしゃ</rt></ruby>として<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電車に水素を入れるのは、神奈川県にある車両の基地です。一回入れると、約70キロメートル走れます。",
+      "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>に<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>を<ruby>入れ<rt>いれ</rt></ruby>るのは、<ruby>神奈川県<rt>かながわけん</rt></ruby>にある<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>基地<rt>きち</rt></ruby>です。<ruby>一回<rt>いっかい</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>ると、<ruby>約<rt>やく</rt></ruby>70キロメートル<ruby>走れ<rt>はしれ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、5年ほど前から試験用の車両で実験を続けてきました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、5<ruby>年<rt>ねん</rt></ruby>ほど<ruby>前<rt>まえ</rt></ruby>から<ruby>試験用<rt>しけんよう</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>で<ruby>実験<rt>じっけん</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "初めは2030年ごろの実用化を目指していましたが、今回、その計画を前倒しにしました。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>は2030<ruby>年<rt>ねん</rt></ruby>ごろの<span class=\"vw\" data-ja=\"実用化\" data-reading=\"じつようか\" data-en=\"putting into practical use\"><ruby>実用化<rt>じつようか</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ていましたが、<ruby>今回<rt>こんかい</rt></ruby>、その<ruby>計画<rt>けいかく</rt></ruby>を<span class=\"vw\" data-ja=\"前倒し\" data-reading=\"まえだおし\" data-en=\"moving up (a schedule); bringing forward\"><ruby>前倒し<rt>まえだおし</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらにJR東日本は、もっと長い距離を走れる「次世代」の水素ハイブリッド電車も開発すると発表しました。",
+      "ruby": "さらにJR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、もっと<ruby>長い<rt>ながい</rt></ruby><ruby>距離<rt>きょり</rt></ruby>を<ruby>走れ<rt>はしれ</rt></ruby>る「<span class=\"vw\" data-ja=\"次世代\" data-reading=\"じせだい\" data-en=\"next generation\"><ruby>次世代<rt>じせだい</rt></ruby></span>」の<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>ハイブリッド<ruby>電車<rt>でんしゃ</rt></ruby>も<ruby>開発<rt>かいはつ</rt></ruby>すると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい電車は、坂道の多い区間でも走れるようにして、2030年度の終わりごろの営業運転を目指します。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>は、<ruby>坂道<rt>さかみち</rt></ruby>の<ruby>多い<rt>おおい</rt></ruby><ruby>区間<rt>くかん</rt></ruby>でも<ruby>走れ<rt>はしれ</rt></ruby>るようにして、2030<ruby>年度<rt>ねんど</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろの<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "二酸化炭素を出さない電車が、これから少しずつ増えていきそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出さ<rt>ださ</rt></ruby>ない<ruby>電車<rt>でんしゃ</rt></ruby>が、これから<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>増え<rt>ふえ</rt></ruby>ていきそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は7月14日、日本で初めての「水素ハイブリッド電車」について発表しました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の「<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>ハイブリッド<ruby>電車<rt>でんしゃ</rt></ruby>」について<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July fourteenth, JR East announced Japan's first hydrogen hybrid train."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce, or to make something public."
+    },
+    {
+      "speaker": "slow",
+      "text": "この電車の名前は「HYBARI」です。2027年度の終わりごろから、営業運転を始める予定です。",
+      "ruby": "この<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「HYBARI」です。2027<ruby>年度<rt>ねんど</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろから、<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The train is called HYBARI, and passenger service is set to begin around the end of fiscal year 2027."
+    },
+    {
+      "speaker": "vocab",
+      "text": "営業運転",
+      "ruby": "<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means running a train in regular, paying service, not just a test."
+    },
+    {
+      "speaker": "slow",
+      "text": "この電車は、水素で電気を作る「燃料電池」と、電気をためる「蓄電池」を組み合わせています。",
+      "ruby": "この<ruby>電車<rt>でんしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>で<ruby>電気<rt>でんき</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>「<span class=\"vw\" data-ja=\"燃料電池\" data-reading=\"ねんりょうでんち\" data-en=\"fuel cell\"><ruby>燃料<rt>ねんりょう</rt></ruby><ruby>電池<rt>でんち</rt></ruby></span>」と、<ruby>電気<rt>でんき</rt></ruby>をためる「<span class=\"vw\" data-ja=\"蓄電池\" data-reading=\"ちくでんち\" data-en=\"storage battery\"><ruby>蓄電池<rt>ちくでんち</rt></ruby></span>」を<ruby>組み合わせ<rt>くみあわせ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The train combines a fuel cell that makes electricity from hydrogen with a storage battery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "燃料電池",
+      "ruby": "<span class=\"vw\" data-ja=\"燃料電池\" data-reading=\"ねんりょうでんち\" data-en=\"fuel cell\"><ruby>燃料<rt>ねんりょう</rt></ruby><ruby>電池<rt>でんち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fuel cell, a device that turns fuel into electricity."
+    },
+    {
+      "speaker": "slow",
+      "text": "水素と、空気の中の酸素を化学反応させて、電気を作ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>と、<ruby>空気<rt>くうき</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"酸素\" data-reading=\"さんそ\" data-en=\"oxygen\"><ruby>酸素<rt>さんそ</rt></ruby></span>を<ruby>化学反応<rt>かがくはんのう</rt></ruby>させて、<ruby>電気<rt>でんき</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "It makes electricity by reacting hydrogen with oxygen from the air."
+    },
+    {
+      "speaker": "vocab",
+      "text": "酸素",
+      "ruby": "<span class=\"vw\" data-ja=\"酸素\" data-reading=\"さんそ\" data-en=\"oxygen\"><ruby>酸素<rt>さんそ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means oxygen, the gas in the air we breathe."
+    },
+    {
+      "speaker": "slow",
+      "text": "だから、走るときに二酸化炭素を出しません。",
+      "ruby": "だから、<ruby>走る<rt>はしる</rt></ruby>ときに<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ません。"
+    },
+    {
+      "speaker": "host",
+      "text": "So it gives off no carbon dioxide while running."
+    },
+    {
+      "speaker": "vocab",
+      "text": "二酸化炭素",
+      "ruby": "<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means carbon dioxide."
+    },
+    {
+      "speaker": "slow",
+      "text": "二酸化炭素は、地球温暖化の大きな原因の一つです。",
+      "ruby": "<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"地球温暖化\" data-reading=\"ちきゅうおんだんか\" data-en=\"global warming\"><ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Carbon dioxide is one of the major causes of global warming."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地球温暖化",
+      "ruby": "<span class=\"vw\" data-ja=\"地球温暖化\" data-reading=\"ちきゅうおんだんか\" data-en=\"global warming\"><ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means global warming."
+    },
+    {
+      "speaker": "slow",
+      "text": "HYBARIは、環境にやさしい電車として期待されています。",
+      "ruby": "HYBARIは、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>にやさしい<ruby>電車<rt>でんしゃ</rt></ruby>として<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "HYBARI is hoped to be an environmentally friendly train."
+    },
+    {
+      "speaker": "vocab",
+      "text": "環境",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the environment, the natural world around us."
+    },
+    {
+      "speaker": "slow",
+      "text": "電車に水素を入れるのは、神奈川県にある車両の基地です。",
+      "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>に<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>を<ruby>入れ<rt>いれ</rt></ruby>るのは、<ruby>神奈川県<rt>かながわけん</rt></ruby>にある<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>基地<rt>きち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The hydrogen is put into the train at a rail depot in Kanagawa Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "水素",
+      "ruby": "<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hydrogen, the lightest gas."
+    },
+    {
+      "speaker": "slow",
+      "text": "初めは2030年ごろの実用化を目指していましたが、今回、その計画を前倒しにしました。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>は2030<ruby>年<rt>ねん</rt></ruby>ごろの<span class=\"vw\" data-ja=\"実用化\" data-reading=\"じつようか\" data-en=\"putting into practical use\"><ruby>実用化<rt>じつようか</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ていましたが、<ruby>今回<rt>こんかい</rt></ruby>、その<ruby>計画<rt>けいかく</rt></ruby>を<span class=\"vw\" data-ja=\"前倒し\" data-reading=\"まえだおし\" data-en=\"moving up (a schedule); bringing forward\"><ruby>前倒し<rt>まえだおし</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At first they aimed for practical use around 2030, but now they have moved that plan up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "前倒し",
+      "ruby": "<span class=\"vw\" data-ja=\"前倒し\" data-reading=\"まえだおし\" data-en=\"moving up (a schedule); bringing forward\"><ruby>前倒し<rt>まえだおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bringing a schedule forward, doing something earlier than first planned."
+    },
+    {
+      "speaker": "slow",
+      "text": "さらにJR東日本は、もっと長い距離を走れる「次世代」の水素ハイブリッド電車も開発すると発表しました。",
+      "ruby": "さらにJR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、もっと<ruby>長い<rt>ながい</rt></ruby><ruby>距離<rt>きょり</rt></ruby>を<ruby>走れ<rt>はしれ</rt></ruby>る「<span class=\"vw\" data-ja=\"次世代\" data-reading=\"じせだい\" data-en=\"next generation\"><ruby>次世代<rt>じせだい</rt></ruby></span>」の<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>ハイブリッド<ruby>電車<rt>でんしゃ</rt></ruby>も<ruby>開発<rt>かいはつ</rt></ruby>すると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR East also announced it will develop a next-generation hydrogen hybrid train that can run longer distances."
+    },
+    {
+      "speaker": "vocab",
+      "text": "次世代",
+      "ruby": "<span class=\"vw\" data-ja=\"次世代\" data-reading=\"じせだい\" data-en=\"next generation\"><ruby>次世代<rt>じせだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the next generation."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は7月14日、日本で初めての「水素ハイブリッド電車」について発表しました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の「<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>ハイブリッド<ruby>電車<rt>でんしゃ</rt></ruby>」について<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この電車の名前は「HYBARI」です。2027年度の終わりごろから、営業運転を始める予定です。",
+      "ruby": "この<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「HYBARI」です。2027<ruby>年度<rt>ねんど</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろから、<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "HYBARIは、神奈川県を走る鶴見線と、南武線の一部で使われます。",
+      "ruby": "HYBARIは、<ruby>神奈川県<rt>かながわけん</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>鶴見線<rt>つるみせん</rt></ruby>と、<ruby>南武線<rt>なんぶせん</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>で<ruby>使わ<rt>つかわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この電車は、水素で電気を作る「燃料電池」と、電気をためる「蓄電池」を組み合わせています。",
+      "ruby": "この<ruby>電車<rt>でんしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>で<ruby>電気<rt>でんき</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>「<span class=\"vw\" data-ja=\"燃料電池\" data-reading=\"ねんりょうでんち\" data-en=\"fuel cell\"><ruby>燃料<rt>ねんりょう</rt></ruby><ruby>電池<rt>でんち</rt></ruby></span>」と、<ruby>電気<rt>でんき</rt></ruby>をためる「<span class=\"vw\" data-ja=\"蓄電池\" data-reading=\"ちくでんち\" data-en=\"storage battery\"><ruby>蓄電池<rt>ちくでんち</rt></ruby></span>」を<ruby>組み合わせ<rt>くみあわせ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水素と、空気の中の酸素を化学反応させて、電気を作ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>と、<ruby>空気<rt>くうき</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"酸素\" data-reading=\"さんそ\" data-en=\"oxygen\"><ruby>酸素<rt>さんそ</rt></ruby></span>を<ruby>化学反応<rt>かがくはんのう</rt></ruby>させて、<ruby>電気<rt>でんき</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから、走るときに二酸化炭素を出しません。",
+      "ruby": "だから、<ruby>走る<rt>はしる</rt></ruby>ときに<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ません。"
+    },
+    {
+      "speaker": "news",
+      "text": "二酸化炭素は、地球温暖化の大きな原因の一つです。",
+      "ruby": "<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"地球温暖化\" data-reading=\"ちきゅうおんだんか\" data-en=\"global warming\"><ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "HYBARIは、環境にやさしい電車として期待されています。",
+      "ruby": "HYBARIは、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>にやさしい<ruby>電車<rt>でんしゃ</rt></ruby>として<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電車に水素を入れるのは、神奈川県にある車両の基地です。一回入れると、約70キロメートル走れます。",
+      "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>に<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>を<ruby>入れ<rt>いれ</rt></ruby>るのは、<ruby>神奈川県<rt>かながわけん</rt></ruby>にある<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>基地<rt>きち</rt></ruby>です。<ruby>一回<rt>いっかい</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>ると、<ruby>約<rt>やく</rt></ruby>70キロメートル<ruby>走れ<rt>はしれ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、5年ほど前から試験用の車両で実験を続けてきました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、5<ruby>年<rt>ねん</rt></ruby>ほど<ruby>前<rt>まえ</rt></ruby>から<ruby>試験用<rt>しけんよう</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>で<ruby>実験<rt>じっけん</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "初めは2030年ごろの実用化を目指していましたが、今回、その計画を前倒しにしました。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>は2030<ruby>年<rt>ねん</rt></ruby>ごろの<span class=\"vw\" data-ja=\"実用化\" data-reading=\"じつようか\" data-en=\"putting into practical use\"><ruby>実用化<rt>じつようか</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ていましたが、<ruby>今回<rt>こんかい</rt></ruby>、その<ruby>計画<rt>けいかく</rt></ruby>を<span class=\"vw\" data-ja=\"前倒し\" data-reading=\"まえだおし\" data-en=\"moving up (a schedule); bringing forward\"><ruby>前倒し<rt>まえだおし</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらにJR東日本は、もっと長い距離を走れる「次世代」の水素ハイブリッド電車も開発すると発表しました。",
+      "ruby": "さらにJR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、もっと<ruby>長い<rt>ながい</rt></ruby><ruby>距離<rt>きょり</rt></ruby>を<ruby>走れ<rt>はしれ</rt></ruby>る「<span class=\"vw\" data-ja=\"次世代\" data-reading=\"じせだい\" data-en=\"next generation\"><ruby>次世代<rt>じせだい</rt></ruby></span>」の<span class=\"vw\" data-ja=\"水素\" data-reading=\"すいそ\" data-en=\"hydrogen\"><ruby>水素<rt>すいそ</rt></ruby></span>ハイブリッド<ruby>電車<rt>でんしゃ</rt></ruby>も<ruby>開発<rt>かいはつ</rt></ruby>すると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい電車は、坂道の多い区間でも走れるようにして、2030年度の終わりごろの営業運転を目指します。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>は、<ruby>坂道<rt>さかみち</rt></ruby>の<ruby>多い<rt>おおい</rt></ruby><ruby>区間<rt>くかん</rt></ruby>でも<ruby>走れ<rt>はしれ</rt></ruby>るようにして、2030<ruby>年度<rt>ねんど</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろの<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "二酸化炭素を出さない電車が、これから少しずつ増えていきそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"二酸化炭素\" data-reading=\"にさんかたんそ\" data-en=\"carbon dioxide\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出さ<rt>ださ</rt></ruby>ない<ruby>電車<rt>でんしゃ</rt></ruby>が、これから<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>増え<rt>ふえ</rt></ruby>ていきそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "HYBARIは、何を使って電気を作りますか。",
+      "ruby": "HYBARIは、<ruby>何を<rt>なにを</rt></ruby><ruby>使って<rt>つかって</rt></ruby><ruby>電気<rt>でんき</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hydrogen — a fuel cell reacts it with oxygen from the air to make electricity."
+    },
+    {
+      "speaker": "slow",
+      "text": "HYBARIは、走るときに何を出しませんか。",
+      "ruby": "HYBARIは、<ruby>走る<rt>はしる</rt></ruby>ときに<ruby>何を<rt>なにを</rt></ruby><ruby>出し<rt>だし</rt></ruby>ませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Carbon dioxide — that's why it's seen as good for the environment."
+    },
+    {
+      "speaker": "slow",
+      "text": "HYBARIの営業運転は、いつごろ始まる予定ですか。",
+      "ruby": "HYBARIの<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"commercial (passenger) service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>は、いつごろ<ruby>始ま<rt>はじま</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around the end of fiscal year 2027, on the Tsurumi Line and part of the Nambu Line."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. JR East says its HYBARI train, Japan's first hydrogen hybrid, will enter passenger service around the end of fiscal 2027 — combining a fuel cell and a battery, reacting hydrogen with oxygen to run with no carbon dioxide. It travels about seventy kilometers per fill, the plan was moved up from 2030, and a longer-range next-generation train is now in the works. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; to announce",
+      "zh": "发表；宣布"
+    },
+    {
+      "ja": "営業運転",
+      "reading": "えいぎょううんてん",
+      "en": "commercial (passenger) service",
+      "zh": "商业运营；正式运行"
+    },
+    {
+      "ja": "水素",
+      "reading": "すいそ",
+      "en": "hydrogen",
+      "zh": "氢"
+    },
+    {
+      "ja": "燃料電池",
+      "reading": "ねんりょうでんち",
+      "en": "fuel cell",
+      "zh": "燃料电池"
+    },
+    {
+      "ja": "蓄電池",
+      "reading": "ちくでんち",
+      "en": "storage battery",
+      "zh": "蓄电池"
+    },
+    {
+      "ja": "酸素",
+      "reading": "さんそ",
+      "en": "oxygen",
+      "zh": "氧气"
+    },
+    {
+      "ja": "二酸化炭素",
+      "reading": "にさんかたんそ",
+      "en": "carbon dioxide",
+      "zh": "二氧化碳"
+    },
+    {
+      "ja": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "en": "global warming",
+      "zh": "全球变暖"
+    },
+    {
+      "ja": "環境",
+      "reading": "かんきょう",
+      "en": "environment",
+      "zh": "环境"
+    },
+    {
+      "ja": "実用化",
+      "reading": "じつようか",
+      "en": "putting into practical use",
+      "zh": "实用化；投入实用"
+    },
+    {
+      "ja": "前倒し",
+      "reading": "まえだおし",
+      "en": "moving up (a schedule); bringing forward",
+      "zh": "提前"
+    },
+    {
+      "ja": "次世代",
+      "reading": "じせだい",
+      "en": "next generation",
+      "zh": "下一代；新一代"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜について",
+      "meaning": "about ~; regarding ~",
+      "meaningZh": "关于…；就…（而言）",
+      "formation": "noun + について",
+      "example": "「水素ハイブリッド電車」について発表しました。",
+      "translation": "They made an announcement about the hydrogen hybrid train.",
+      "note": "について marks the topic that an action (speaking, writing, thinking) is directed at",
+      "noteZh": "について标示说、写、想等动作所针对的话题",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#について"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as ~; in the role of ~",
+      "meaningZh": "作为…；当作…",
+      "formation": "noun + として",
+      "example": "環境にやさしい電車として期待されています。",
+      "translation": "It is expected to serve as an environmentally friendly train.",
+      "note": "として gives the role, status, or category in which something is regarded",
+      "noteZh": "として表示某物被看作的身份、立场或类别",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#として"
+    },
+    {
+      "pattern": "〜させる（使役）",
+      "meaning": "to make / let ~ happen (causative)",
+      "meaningZh": "使…；让…（使役）",
+      "formation": "verb (nai-stem) + せる／させる",
+      "example": "酸素を化学反応させて、電気を作ります。",
+      "translation": "It causes the oxygen to react chemically and makes electricity.",
+      "note": "させる is the causative; here it means to make a reaction happen",
+      "noteZh": "させる是使役形，这里表示使某反应发生",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#使役"
+    },
+    {
+      "pattern": "〜てくる（継続）",
+      "meaning": "have been ~ing (up to now)",
+      "meaningZh": "一直…（持续至今）",
+      "formation": "verb (te-form) + くる",
+      "example": "5年ほど前から実験を続けてきました。",
+      "translation": "They have kept up the experiments for about five years now.",
+      "note": "てくる here shows an action continuing from the past up to the present",
+      "noteZh": "てくる在此表示动作从过去持续到现在",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜ようにする",
+      "meaning": "to make it so that ~; to arrange so ~",
+      "meaningZh": "使得…；做到…",
+      "formation": "verb (dictionary/potential form) + ようにする",
+      "example": "坂道でも走れるようにして、営業運転を目指します。",
+      "translation": "They will make it so it can run even on slopes, aiming for passenger service.",
+      "note": "ようにする expresses making an effort or arrangement so a state is achieved",
+      "noteZh": "ようにする表示努力或采取措施以实现某种状态",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようにする"
+    }
+  ],
+  "practiceZh": [
+    "JR東日本は7月14日、日本で初めての「水素ハイブリッド電車」について発表しました。\nJR东日本7月14日就日本首列「氢混合动力电车」进行了发布。\n初めて = for the first time；について = about；発表 = to announce",
+    "この電車の名前は「HYBARI」です。2027年度の終わりごろから、営業運転を始める予定です。\n这列电车的名字是「HYBARI」。计划从2027财年末左右开始正式运营。\n名前 = name；営業運転 = commercial service；予定 = plan/schedule",
+    "この電車は、水素で電気を作る「燃料電池」と、電気をためる「蓄電池」を組み合わせています。\n这列电车把用氢发电的「燃料电池」和储电的「蓄电池」组合在一起。\n燃料電池 = fuel cell；蓄電池 = storage battery；組み合わせる = to combine",
+    "水素と、空気の中の酸素を化学反応させて、電気を作ります。\n让氢和空气中的氧气发生化学反应来发电。\n酸素 = oxygen；化学反応 = chemical reaction；〜させる = to make (it) happen",
+    "だから、走るときに二酸化炭素を出しません。\n所以行驶时不排放二氧化碳。\nだから = so/therefore；二酸化炭素 = carbon dioxide；出す = to emit",
+    "二酸化炭素は、地球温暖化の大きな原因の一つです。\n二氧化碳是全球变暖的一大原因之一。\n地球温暖化 = global warming；原因 = cause；一つ = one (of)",
+    "HYBARIは、環境にやさしい電車として期待されています。\nHYBARI作为对环境友好的电车受到期待。\n環境 = environment；〜にやさしい = friendly to；〜として = as",
+    "電車に水素を入れるのは、神奈川県にある車両の基地です。一回入れると、約70キロメートル走れます。\n给电车加氢的地方是位于神奈川县的车辆基地。加一次可行驶约70公里。\n水素 = hydrogen；基地 = base/depot；走れる = can run",
+    "初めは2030年ごろの実用化を目指していましたが、今回、その計画を前倒しにしました。\n起初以2030年左右投入实用为目标，这次把计划提前了。\n実用化 = practical use；目指す = to aim for；前倒し = to move up",
+    "さらにJR東日本は、もっと長い距離を走れる「次世代」の水素ハイブリッド電車も開発すると発表しました。\nJR东日本还宣布将开发能行驶更长距离的「下一代」氢混合动力电车。\nさらに = furthermore；次世代 = next generation；開発 = development",
+    "新しい電車は、坂道の多い区間でも走れるようにして、2030年度の終わりごろの営業運転を目指します。\n新电车将做到即使在坡道多的路段也能行驶，力争在2030财年末左右正式运营。\n坂道 = slope；区間 = section；〜ようにする = to make it so that"
+  ]
+}
