@@ -1,0 +1,547 @@
+{
+  "episode": 78,
+  "title": "日本の小惑星探査機「はやぶさ2」が小惑星「トリフネ」のフライバイに成功　7月5日、地球から約700万キロ離れた小惑星トリフネのすぐそばを秒速約5キロで通り過ぎ、中心から約800メートルまで近づいて4つの機器すべてで観測に成功　最接近の2時間前からは探査機が自分で判断する「自律航法」に切り替えた　数百メートル級の小惑星に探査機を正確に近づける技術を証明し、将来の「地球防衛」に役立つと期待される　2020年にリュウグウの砂を届けたあとの延長ミッションで、2031年には別の小惑星に到着する予定",
+  "date": "2026-07-20",
+  "source": "JAXA 宇宙科学研究所 / アストロアーツ / Impress Watch",
+  "level": "N4-N3",
+  "contentVersion": "2026072001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July twentieth. Today's story comes from space. Japan's asteroid probe Hayabusa2 just pulled off a high-speed, super-close flyby of a small asteroid nicknamed Torifune. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月5日、日本の小惑星探査機「はやぶさ2」が、小惑星「トリフネ」のすぐそばを通り過ぎる「フライバイ」に成功しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span><span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「はやぶさ2」が、<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>「トリフネ」のすぐそばを<ruby>通り<rt>とおり</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>る「フライバイ」に<ruby>成功<rt>せいこう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "トリフネは、地球から約700万キロ離れたところにある小惑星です。2024年に「トリフネ」という正式な名前がつけられました。",
+      "ruby": "トリフネは、<ruby>地球<rt>ちきゅう</rt></ruby>から<ruby>約<rt>やく</rt></ruby>700<ruby>万<rt>まん</rt></ruby>キロ<ruby>離れ<rt>はなれ</rt></ruby>たところにある<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>です。2024<ruby>年<rt>ねん</rt></ruby>に「トリフネ」という<span class=\"vw\" data-ja=\"正式\" data-reading=\"せいしき\" data-en=\"official; formal\"><ruby>正式<rt>せいしき</rt></ruby></span>な<ruby>名前<rt>なまえ</rt></ruby>がつけられました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大きさは長さ約700メートルで、細長い形をしています。約5時間に1回、くるくると回っていると考えられています。",
+      "ruby": "<ruby>大きさ<rt>おおきさ</rt></ruby>は<ruby>長さ<rt>ながさ</rt></ruby><ruby>約<rt>やく</rt></ruby>700メートルで、<ruby>細長い<rt>ほそながい</rt></ruby><ruby>形<rt>かたち</rt></ruby>をしています。<ruby>約<rt>やく</rt></ruby>5<ruby>時間<rt>じかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>、くるくると<ruby>回っ<rt>まわっ</rt></ruby>ていると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "はやぶさ2は、最接近の3時間前まで、地上の管制室から指示を受けて飛びました。",
+      "ruby": "はやぶさ2は、<ruby>最接近<rt>さいせっきん</rt></ruby>の3<ruby>時間前<rt>じかんまえ</rt></ruby>まで、<ruby>地上<rt>ちじょう</rt></ruby>の<ruby>管制室<rt>かんせいしつ</rt></ruby>から<ruby>指示<rt>しじ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>て<ruby>飛び<rt>とび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして2時間前からは、探査機が自分で判断して進む「自律航法」に切り替えました。",
+      "ruby": "そして2<ruby>時間前<rt>じかんまえ</rt></ruby>からは、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が<ruby>自分<rt>じぶん</rt></ruby>で<span class=\"vw\" data-ja=\"判断\" data-reading=\"はんだん\" data-en=\"judgment; decision\"><ruby>判断<rt>はんだん</rt></ruby></span>して<ruby>進む<rt>すすむ</rt></ruby>「<ruby>自律<rt>じりつ</rt></ruby><ruby>航法<rt>こうほう</rt></ruby>」に<ruby>切り替え<rt>きりかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本時間の7月5日午後6時半ごろ、はやぶさ2はトリフネのすぐ近くを通り過ぎました。",
+      "ruby": "<ruby>日本時間<rt>にほんじかん</rt></ruby>の7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>6<ruby>時半<rt>じはん</rt></ruby>ごろ、はやぶさ2はトリフネのすぐ<ruby>近く<rt>ちかく</rt></ruby>を<ruby>通り<rt>とおり</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このとき、はやぶさ2はトリフネの中心から約800メートルまで近づく予定でした。",
+      "ruby": "このとき、はやぶさ2はトリフネの<ruby>中心<rt>ちゅうしん</rt></ruby>から<ruby>約<rt>やく</rt></ruby>800メートルまで<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>予定<rt>よてい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "二つの相対速度は秒速約5キロで、とても速いスピードでした。",
+      "ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>相対速度<rt>そうたいそくど</rt></ruby>は<ruby>秒速<rt>びょうそく</rt></ruby><ruby>約<rt>やく</rt></ruby>5キロで、とても<ruby>速い<rt>はやい</rt></ruby>スピードでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これだけ速く、これだけ近くを通る「超近接フライバイ」は、とても難しい技術です。",
+      "ruby": "これだけ<ruby>速く<rt>はやく</rt></ruby>、これだけ<ruby>近く<rt>ちかく</rt></ruby>を<ruby>通る<rt>とおる</rt></ruby>「<ruby>超<rt>ちょう</rt></ruby><ruby>近接<rt>きんせつ</rt></ruby>フライバイ」は、とても<ruby>難しい<rt>むずかしい</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "はやぶさ2は、カメラや赤外線の装置など、4つの機器すべてで観測データを取ることに成功しました。",
+      "ruby": "はやぶさ2は、カメラや<ruby>赤外線<rt>せきがいせん</rt></ruby>の<ruby>装置<rt>そうち</rt></ruby>など、4つの<ruby>機器<rt>きき</rt></ruby>すべてで<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測<rt>かんそく</rt></ruby></span>データを<ruby>取る<rt>とる</rt></ruby>ことに<ruby>成功<rt>せいこう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の成功で、日本は数百メートルほどの小惑星に、探査機を正確に近づける技術を証明しました。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>成功<rt>せいこう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>数百<rt>すうひゃく</rt></ruby>メートルほどの<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>に、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>ける<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"証明\" data-reading=\"しょうめい\" data-en=\"proof; to prove\"><ruby>証明し<rt>しょうめいし</rt></ruby></span>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この技術は、将来、地球に近づく危険な小惑星の進む道を変える「地球防衛」に役立つと期待されています。",
+      "ruby": "この<ruby>技術<rt>ぎじゅつ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>地球<rt>ちきゅう</rt></ruby>に<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>危険<rt>きけん</rt></ruby>な<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>の<ruby>進む<rt>すすむ</rt></ruby><ruby>道<rt>みち</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>る「<ruby>地球防衛<rt>ちきゅうぼうえい</rt></ruby>」に<ruby>役立つ<rt>やくたつ</rt></ruby>と<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "はやぶさ2は、2020年に小惑星「リュウグウ」の砂を地球に届けたあと、新しいミッションを続けています。",
+      "ruby": "はやぶさ2は、2020<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>「リュウグウ」の<ruby>砂<rt>すな</rt></ruby>を<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>届け<rt>とどけ</rt></ruby>たあと、<ruby>新しい<rt>あたらしい</rt></ruby>ミッションを<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、2027年から2028年に地球の近くを通り、2031年には別の小惑星に到着する予定です。",
+      "ruby": "これからは、2027<ruby>年<rt>ねん</rt></ruby>から2028<ruby>年<rt>ねん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>を<ruby>通り<rt>とおり</rt></ruby>、2031<ruby>年<rt>ねん</rt></ruby>には<ruby>別の<rt>べつの</rt></ruby><span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>に<span class=\"vw\" data-ja=\"到着\" data-reading=\"とうちゃく\" data-en=\"arrival\"><ruby>到着<rt>とうちゃく</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月5日、日本の小惑星探査機「はやぶさ2」が、小惑星「トリフネ」のすぐそばを通り過ぎる「フライバイ」に成功しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span><span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「はやぶさ2」が、<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>「トリフネ」のすぐそばを<ruby>通り<rt>とおり</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>る「フライバイ」に<ruby>成功<rt>せいこう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July fifth, Japan's asteroid probe Hayabusa2 succeeded in a flyby, passing right by the asteroid Torifune."
+    },
+    {
+      "speaker": "vocab",
+      "text": "探査機",
+      "ruby": "<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a space probe — an unmanned spacecraft that explores."
+    },
+    {
+      "speaker": "slow",
+      "text": "トリフネは、地球から約700万キロ離れたところにある小惑星です。2024年に「トリフネ」という正式な名前がつけられました。",
+      "ruby": "トリフネは、<ruby>地球<rt>ちきゅう</rt></ruby>から<ruby>約<rt>やく</rt></ruby>700<ruby>万<rt>まん</rt></ruby>キロ<ruby>離れ<rt>はなれ</rt></ruby>たところにある<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>です。2024<ruby>年<rt>ねん</rt></ruby>に「トリフネ」という<span class=\"vw\" data-ja=\"正式\" data-reading=\"せいしき\" data-en=\"official; formal\"><ruby>正式<rt>せいしき</rt></ruby></span>な<ruby>名前<rt>なまえ</rt></ruby>がつけられました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Torifune is an asteroid about seven million kilometers from Earth. It was given the name Torifune in twenty twenty-four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "離れる",
+      "ruby": "<span class=\"vw\" data-ja=\"離れる\" data-reading=\"はなれる\" data-en=\"to be far; separated\"><ruby>離れ<rt>はなれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be far away, or separated by some distance."
+    },
+    {
+      "speaker": "slow",
+      "text": "大きさは長さ約700メートルで、細長い形をしています。約5時間に1回、くるくると回っていると考えられています。",
+      "ruby": "<ruby>大きさ<rt>おおきさ</rt></ruby>は<ruby>長さ<rt>ながさ</rt></ruby><ruby>約<rt>やく</rt></ruby>700メートルで、<ruby>細長い<rt>ほそながい</rt></ruby><ruby>形<rt>かたち</rt></ruby>をしています。<ruby>約<rt>やく</rt></ruby>5<ruby>時間<rt>じかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>、くるくると<ruby>回っ<rt>まわっ</rt></ruby>ていると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is about seven hundred meters long with a slender shape. It's thought to spin around once about every five hours."
+    },
+    {
+      "speaker": "vocab",
+      "text": "回る",
+      "ruby": "<span class=\"vw\" data-ja=\"回る\" data-reading=\"まわる\" data-en=\"to spin; turn\"><ruby>回る<rt>まわる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to spin or turn around."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして2時間前からは、探査機が自分で判断して進む「自律航法」に切り替えました。",
+      "ruby": "そして2<ruby>時間前<rt>じかんまえ</rt></ruby>からは、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が<ruby>自分<rt>じぶん</rt></ruby>で<span class=\"vw\" data-ja=\"判断\" data-reading=\"はんだん\" data-en=\"judgment; decision\"><ruby>判断<rt>はんだん</rt></ruby></span>して<ruby>進む<rt>すすむ</rt></ruby>「<ruby>自律<rt>じりつ</rt></ruby><ruby>航法<rt>こうほう</rt></ruby>」に<ruby>切り替え<rt>きりかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then, from two hours before, it switched to autonomous navigation, flying by its own judgment."
+    },
+    {
+      "speaker": "vocab",
+      "text": "判断",
+      "ruby": "<span class=\"vw\" data-ja=\"判断\" data-reading=\"はんだん\" data-en=\"judgment; decision\"><ruby>判断<rt>はんだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means judgment, or making a decision."
+    },
+    {
+      "speaker": "slow",
+      "text": "このとき、はやぶさ2はトリフネの中心から約800メートルまで近づく予定でした。",
+      "ruby": "このとき、はやぶさ2はトリフネの<ruby>中心<rt>ちゅうしん</rt></ruby>から<ruby>約<rt>やく</rt></ruby>800メートルまで<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>予定<rt>よてい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "At that moment, Hayabusa2 was set to come within about eight hundred meters of Torifune's center."
+    },
+    {
+      "speaker": "vocab",
+      "text": "近づく",
+      "ruby": "<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to come closer, to approach."
+    },
+    {
+      "speaker": "slow",
+      "text": "はやぶさ2は、カメラや赤外線の装置など、4つの機器すべてで観測データを取ることに成功しました。",
+      "ruby": "はやぶさ2は、カメラや<ruby>赤外線<rt>せきがいせん</rt></ruby>の<ruby>装置<rt>そうち</rt></ruby>など、4つの<ruby>機器<rt>きき</rt></ruby>すべてで<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測<rt>かんそく</rt></ruby></span>データを<ruby>取る<rt>とる</rt></ruby>ことに<ruby>成功<rt>せいこう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hayabusa2 succeeded in gathering observation data with all four of its instruments, including cameras and infrared devices."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観測",
+      "ruby": "<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測<rt>かんそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means observation — watching and measuring something scientifically."
+    },
+    {
+      "speaker": "slow",
+      "text": "今回の成功で、日本は数百メートルほどの小惑星に、探査機を正確に近づける技術を証明しました。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>成功<rt>せいこう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>数百<rt>すうひゃく</rt></ruby>メートルほどの<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>に、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>ける<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"証明\" data-reading=\"しょうめい\" data-en=\"proof; to prove\"><ruby>証明し<rt>しょうめいし</rt></ruby></span>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With this success, Japan proved it can bring a probe precisely close to an asteroid just a few hundred meters across."
+    },
+    {
+      "speaker": "vocab",
+      "text": "証明",
+      "ruby": "<span class=\"vw\" data-ja=\"証明\" data-reading=\"しょうめい\" data-en=\"proof; to prove\"><ruby>証明<rt>しょうめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means proof, or to prove something."
+    },
+    {
+      "speaker": "slow",
+      "text": "この技術は、将来、地球に近づく危険な小惑星の進む道を変える「地球防衛」に役立つと期待されています。",
+      "ruby": "この<ruby>技術<rt>ぎじゅつ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>地球<rt>ちきゅう</rt></ruby>に<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>危険<rt>きけん</rt></ruby>な<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>の<ruby>進む<rt>すすむ</rt></ruby><ruby>道<rt>みち</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>る「<ruby>地球防衛<rt>ちきゅうぼうえい</rt></ruby>」に<ruby>役立つ<rt>やくたつ</rt></ruby>と<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "This technology is expected to help with planetary defense — changing the path of a dangerous asteroid heading toward Earth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "防衛",
+      "ruby": "<span class=\"vw\" data-ja=\"防衛\" data-reading=\"ぼうえい\" data-en=\"defense\"><ruby>防衛<rt>ぼうえい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means defense, protecting against something."
+    },
+    {
+      "speaker": "slow",
+      "text": "はやぶさ2は、2020年に小惑星「リュウグウ」の砂を地球に届けたあと、新しいミッションを続けています。",
+      "ruby": "はやぶさ2は、2020<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>「リュウグウ」の<ruby>砂<rt>すな</rt></ruby>を<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>届け<rt>とどけ</rt></ruby>たあと、<ruby>新しい<rt>あたらしい</rt></ruby>ミッションを<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "After delivering sand from the asteroid Ryugu to Earth in twenty twenty, Hayabusa2 has continued on a new mission."
+    },
+    {
+      "speaker": "vocab",
+      "text": "届ける",
+      "ruby": "<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver\"><ruby>届け<rt>とどけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to deliver, to bring something to its destination."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "7月5日、日本の小惑星探査機「はやぶさ2」が、小惑星「トリフネ」のすぐそばを通り過ぎる「フライバイ」に成功しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span><span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「はやぶさ2」が、<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>「トリフネ」のすぐそばを<ruby>通り<rt>とおり</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>る「フライバイ」に<ruby>成功<rt>せいこう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "トリフネは、地球から約700万キロ離れたところにある小惑星です。2024年に「トリフネ」という正式な名前がつけられました。",
+      "ruby": "トリフネは、<ruby>地球<rt>ちきゅう</rt></ruby>から<ruby>約<rt>やく</rt></ruby>700<ruby>万<rt>まん</rt></ruby>キロ<ruby>離れ<rt>はなれ</rt></ruby>たところにある<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>です。2024<ruby>年<rt>ねん</rt></ruby>に「トリフネ」という<span class=\"vw\" data-ja=\"正式\" data-reading=\"せいしき\" data-en=\"official; formal\"><ruby>正式<rt>せいしき</rt></ruby></span>な<ruby>名前<rt>なまえ</rt></ruby>がつけられました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大きさは長さ約700メートルで、細長い形をしています。約5時間に1回、くるくると回っていると考えられています。",
+      "ruby": "<ruby>大きさ<rt>おおきさ</rt></ruby>は<ruby>長さ<rt>ながさ</rt></ruby><ruby>約<rt>やく</rt></ruby>700メートルで、<ruby>細長い<rt>ほそながい</rt></ruby><ruby>形<rt>かたち</rt></ruby>をしています。<ruby>約<rt>やく</rt></ruby>5<ruby>時間<rt>じかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>、くるくると<ruby>回っ<rt>まわっ</rt></ruby>ていると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "はやぶさ2は、最接近の3時間前まで、地上の管制室から指示を受けて飛びました。",
+      "ruby": "はやぶさ2は、<ruby>最接近<rt>さいせっきん</rt></ruby>の3<ruby>時間前<rt>じかんまえ</rt></ruby>まで、<ruby>地上<rt>ちじょう</rt></ruby>の<ruby>管制室<rt>かんせいしつ</rt></ruby>から<ruby>指示<rt>しじ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>て<ruby>飛び<rt>とび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして2時間前からは、探査機が自分で判断して進む「自律航法」に切り替えました。",
+      "ruby": "そして2<ruby>時間前<rt>じかんまえ</rt></ruby>からは、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が<ruby>自分<rt>じぶん</rt></ruby>で<span class=\"vw\" data-ja=\"判断\" data-reading=\"はんだん\" data-en=\"judgment; decision\"><ruby>判断<rt>はんだん</rt></ruby></span>して<ruby>進む<rt>すすむ</rt></ruby>「<ruby>自律<rt>じりつ</rt></ruby><ruby>航法<rt>こうほう</rt></ruby>」に<ruby>切り替え<rt>きりかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本時間の7月5日午後6時半ごろ、はやぶさ2はトリフネのすぐ近くを通り過ぎました。",
+      "ruby": "<ruby>日本時間<rt>にほんじかん</rt></ruby>の7<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>6<ruby>時半<rt>じはん</rt></ruby>ごろ、はやぶさ2はトリフネのすぐ<ruby>近く<rt>ちかく</rt></ruby>を<ruby>通り<rt>とおり</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このとき、はやぶさ2はトリフネの中心から約800メートルまで近づく予定でした。",
+      "ruby": "このとき、はやぶさ2はトリフネの<ruby>中心<rt>ちゅうしん</rt></ruby>から<ruby>約<rt>やく</rt></ruby>800メートルまで<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>予定<rt>よてい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "二つの相対速度は秒速約5キロで、とても速いスピードでした。",
+      "ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>相対速度<rt>そうたいそくど</rt></ruby>は<ruby>秒速<rt>びょうそく</rt></ruby><ruby>約<rt>やく</rt></ruby>5キロで、とても<ruby>速い<rt>はやい</rt></ruby>スピードでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "これだけ速く、これだけ近くを通る「超近接フライバイ」は、とても難しい技術です。",
+      "ruby": "これだけ<ruby>速く<rt>はやく</rt></ruby>、これだけ<ruby>近く<rt>ちかく</rt></ruby>を<ruby>通る<rt>とおる</rt></ruby>「<ruby>超<rt>ちょう</rt></ruby><ruby>近接<rt>きんせつ</rt></ruby>フライバイ」は、とても<ruby>難しい<rt>むずかしい</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "はやぶさ2は、カメラや赤外線の装置など、4つの機器すべてで観測データを取ることに成功しました。",
+      "ruby": "はやぶさ2は、カメラや<ruby>赤外線<rt>せきがいせん</rt></ruby>の<ruby>装置<rt>そうち</rt></ruby>など、4つの<ruby>機器<rt>きき</rt></ruby>すべてで<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測<rt>かんそく</rt></ruby></span>データを<ruby>取る<rt>とる</rt></ruby>ことに<ruby>成功<rt>せいこう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の成功で、日本は数百メートルほどの小惑星に、探査機を正確に近づける技術を証明しました。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>成功<rt>せいこう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>数百<rt>すうひゃく</rt></ruby>メートルほどの<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>に、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>ける<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"証明\" data-reading=\"しょうめい\" data-en=\"proof; to prove\"><ruby>証明し<rt>しょうめいし</rt></ruby></span>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この技術は、将来、地球に近づく危険な小惑星の進む道を変える「地球防衛」に役立つと期待されています。",
+      "ruby": "この<ruby>技術<rt>ぎじゅつ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>地球<rt>ちきゅう</rt></ruby>に<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; come closer\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>危険<rt>きけん</rt></ruby>な<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>の<ruby>進む<rt>すすむ</rt></ruby><ruby>道<rt>みち</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>る「<ruby>地球防衛<rt>ちきゅうぼうえい</rt></ruby>」に<ruby>役立つ<rt>やくたつ</rt></ruby>と<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "はやぶさ2は、2020年に小惑星「リュウグウ」の砂を地球に届けたあと、新しいミッションを続けています。",
+      "ruby": "はやぶさ2は、2020<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>「リュウグウ」の<ruby>砂<rt>すな</rt></ruby>を<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>届け<rt>とどけ</rt></ruby>たあと、<ruby>新しい<rt>あたらしい</rt></ruby>ミッションを<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、2027年から2028年に地球の近くを通り、2031年には別の小惑星に到着する予定です。",
+      "ruby": "これからは、2027<ruby>年<rt>ねん</rt></ruby>から2028<ruby>年<rt>ねん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>を<ruby>通り<rt>とおり</rt></ruby>、2031<ruby>年<rt>ねん</rt></ruby>には<ruby>別の<rt>べつの</rt></ruby><span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>に<span class=\"vw\" data-ja=\"到着\" data-reading=\"とうちゃく\" data-en=\"arrival\"><ruby>到着<rt>とうちゃく</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "はやぶさ2は、どの小惑星のフライバイに成功しましたか。",
+      "ruby": "はやぶさ2は、どの<span class=\"vw\" data-ja=\"小惑星\" data-reading=\"しょうわくせい\" data-en=\"asteroid\"><ruby>小惑星<rt>しょうわくせい</rt></ruby></span>のフライバイに<ruby>成功<rt>せいこう</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The asteroid nicknamed Torifune."
+    },
+    {
+      "speaker": "slow",
+      "text": "トリフネの大きさは、どれくらいですか。",
+      "ruby": "トリフネの<ruby>大きさ<rt>おおきさ</rt></ruby>は、どれくらいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seven hundred meters long."
+    },
+    {
+      "speaker": "slow",
+      "text": "この技術は、将来、何に役立つと期待されていますか。",
+      "ruby": "この<ruby>技術<rt>ぎじゅつ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>何<rt>なに</rt></ruby>に<ruby>役立つ<rt>やくたつ</rt></ruby>と<ruby>期待さ<rt>きたいさ</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Planetary defense — changing the course of a dangerous asteroid that could approach Earth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. On July fifth, Japan's probe Hayabusa2 made a super-close, high-speed flyby of the asteroid Torifune, about seven million kilometers from Earth. It came within roughly eight hundred meters of the asteroid's center at about five kilometers per second, and all four of its instruments collected data. The success shows Japan can steer a probe precisely up to a small asteroid — a skill that could one day help protect Earth. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "探査機",
+      "reading": "たんさき",
+      "en": "space probe",
+      "zh": "探测器"
+    },
+    {
+      "ja": "小惑星",
+      "reading": "しょうわくせい",
+      "en": "asteroid",
+      "zh": "小行星"
+    },
+    {
+      "ja": "離れる",
+      "reading": "はなれる",
+      "en": "to be far; separated",
+      "zh": "离开；相距"
+    },
+    {
+      "ja": "正式",
+      "reading": "せいしき",
+      "en": "official; formal",
+      "zh": "正式"
+    },
+    {
+      "ja": "回る",
+      "reading": "まわる",
+      "en": "to spin; turn",
+      "zh": "旋转；转动"
+    },
+    {
+      "ja": "判断",
+      "reading": "はんだん",
+      "en": "judgment; decision",
+      "zh": "判断"
+    },
+    {
+      "ja": "近づく",
+      "reading": "ちかづく",
+      "en": "to approach; come closer",
+      "zh": "靠近；接近"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation",
+      "zh": "观测"
+    },
+    {
+      "ja": "証明",
+      "reading": "しょうめい",
+      "en": "proof; to prove",
+      "zh": "证明"
+    },
+    {
+      "ja": "防衛",
+      "reading": "ぼうえい",
+      "en": "defense",
+      "zh": "防卫；防御"
+    },
+    {
+      "ja": "届ける",
+      "reading": "とどける",
+      "en": "to deliver",
+      "zh": "送到；送达"
+    },
+    {
+      "ja": "到着",
+      "reading": "とうちゃく",
+      "en": "arrival",
+      "zh": "到达"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜に成功する",
+      "meaning": "to succeed in ~",
+      "meaningZh": "成功（做到）…",
+      "formation": "noun + に成功する",
+      "example": "「はやぶさ2」がフライバイに成功しました。",
+      "translation": "Hayabusa2 succeeded in the flyby.",
+      "note": "に marks the thing that was achieved",
+      "noteZh": "に标记所达成的事情",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#に成功する"
+    },
+    {
+      "pattern": "〜たあと（で）",
+      "meaning": "after doing ~",
+      "meaningZh": "…之后",
+      "formation": "verb past-form + あと（で）",
+      "example": "砂を地球に届けたあと、新しいミッションを続けています。",
+      "translation": "After delivering the sand to Earth, it continues a new mission.",
+      "note": "たあと shows one action happens after another finishes",
+      "noteZh": "たあと表示某动作在另一动作结束之后发生",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たあとで"
+    },
+    {
+      "pattern": "〜と考えられている",
+      "meaning": "it is thought that ~",
+      "meaningZh": "被认为…；据认为…",
+      "formation": "plain form + と考えられている",
+      "example": "約5時間に1回、回っていると考えられています。",
+      "translation": "It is thought to rotate once about every five hours.",
+      "note": "passive form used to state a widely held view without naming who thinks it",
+      "noteZh": "被动形式，表示普遍看法，不点明是谁认为",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と考えられている"
+    },
+    {
+      "pattern": "〜と期待されている",
+      "meaning": "is expected to ~",
+      "meaningZh": "被期待…；受到期待…",
+      "formation": "plain form + と期待されている",
+      "example": "地球防衛に役立つと期待されています。",
+      "translation": "It is expected to be useful for planetary defense.",
+      "note": "passive of 期待する; expresses a hope held by people in general",
+      "noteZh": "期待する的被动形，表示人们普遍的期望",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と期待されている"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "is scheduled / planned to ~",
+      "meaningZh": "预定…；计划…",
+      "formation": "verb dictionary-form / noun + の + 予定です",
+      "example": "2031年には別の小惑星に到着する予定です。",
+      "translation": "It is scheduled to arrive at another asteroid in twenty thirty-one.",
+      "note": "予定 states a fixed plan or schedule",
+      "noteZh": "予定表示已定的计划或安排",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定"
+    }
+  ],
+  "practiceZh": [
+    "7月5日、日本の小惑星探査機「はやぶさ2」が、小惑星「トリフネ」のすぐそばを通り過ぎる「フライバイ」に成功しました。\n7月5日，日本的小行星探测器「隼鸟2号」成功完成了从小行星「Torifune」旁边掠过的「飞掠（flyby）」。\n探査機 = probe；小惑星 = asteroid；成功する = to succeed",
+    "トリフネは、地球から約700万キロ離れたところにある小惑星です。2024年に「トリフネ」という正式な名前がつけられました。\nTorifune是一颗位于距地球约700万公里处的小行星。2024年被正式命名为「Torifune」。\n離れる = to be far；正式 = official；名前がつく = to be named",
+    "大きさは長さ約700メートルで、細長い形をしています。約5時間に1回、くるくると回っていると考えられています。\n它的大小约长700米，形状细长。据认为大约每5小时自转一圈。\n細長い = slender；回る = to spin；と考えられている = it is thought that",
+    "はやぶさ2は、最接近の3時間前まで、地上の管制室から指示を受けて飛びました。\n隼鸟2号在最接近的3小时前，一直接受地面控制室的指令飞行。\n最接近 = closest approach；管制室 = control room；指示 = instruction",
+    "そして2時間前からは、探査機が自分で判断して進む「自律航法」に切り替えました。\n然后从2小时前开始，切换为探测器自行判断前进的「自主导航」。\n判断 = judgment；自律航法 = autonomous navigation；切り替える = to switch",
+    "日本時間の7月5日午後6時半ごろ、はやぶさ2はトリフネのすぐ近くを通り過ぎました。\n日本时间7月5日下午6点半左右，隼鸟2号从Torifune的近旁掠过。\n日本時間 = Japan time；すぐ近く = very close；通り過ぎる = to pass by",
+    "このとき、はやぶさ2はトリフネの中心から約800メートルまで近づく予定でした。\n此时，隼鸟2号预定接近到距Torifune中心约800米处。\n中心 = center；近づく = to approach；予定 = plan",
+    "二つの相対速度は秒速約5キロで、とても速いスピードでした。\n两者的相对速度约为每秒5公里，是非常快的速度。\n相対速度 = relative speed；秒速 = per second；速い = fast",
+    "これだけ速く、これだけ近くを通る「超近接フライバイ」は、とても難しい技術です。\n以如此快的速度、如此近的距离通过的「超近距飞掠」，是非常困难的技术。\n超近接 = super close range；通る = to pass；技術 = technology",
+    "はやぶさ2は、カメラや赤外線の装置など、4つの機器すべてで観測データを取ることに成功しました。\n隼鸟2号用相机、红外线装置等全部4台仪器，都成功获取了观测数据。\n装置 = device；機器 = instrument；観測 = observation",
+    "今回の成功で、日本は数百メートルほどの小惑星に、探査機を正確に近づける技術を証明しました。\n通过这次成功，日本证明了能将探测器精确接近数百米大小的小行星的技术。\n数百メートル = a few hundred meters；正確に = precisely；証明する = to prove",
+    "この技術は、将来、地球に近づく危険な小惑星の進む道を変える「地球防衛」に役立つと期待されています。\n人们期待这项技术将来能用于改变靠近地球的危险小行星轨道的「行星防御」。\n将来 = future；防衛 = defense；役立つ = to be useful",
+    "はやぶさ2は、2020年に小惑星「リュウグウ」の砂を地球に届けたあと、新しいミッションを続けています。\n隼鸟2号在2020年将小行星「龙宫」的砂子送回地球后，仍在继续新的任务。\n砂 = sand；届ける = to deliver；〜たあと = after doing",
+    "これからは、2027年から2028年に地球の近くを通り、2031年には別の小惑星に到着する予定です。\n今后计划在2027年至2028年经过地球附近，2031年到达另一颗小行星。\n通る = to pass；別の = another；到着 = arrival"
+  ]
+}
