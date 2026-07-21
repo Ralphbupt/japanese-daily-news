@@ -1,0 +1,607 @@
+{
+  "episode": 80,
+  "title": "慶応大学のiPS脊髄損傷治療、最長4年で長期の安全性を確認",
+  "date": "2026-07-21",
+  "source": "NHK NEWS WEB / 日本経済新聞 / 慶応義塾大学",
+  "level": "N4-N3",
+  "contentVersion": "2026072101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July twenty-first. Today's story comes from medical science. Keio University reported that its clinical study transplanting cells made from iPS cells into spinal cord injury patients showed no serious side effects over the long term. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月21日、慶応義塾大学のグループが、iPS細胞から作った細胞を脊髄損傷の患者に移植する臨床研究で、長い間、重い副作用が見られなかったと発表しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>、<ruby>慶応義塾大学<rt>けいおうぎじゅくだいがく</rt></ruby>のグループが、iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>細胞<rt>さいぼう</rt></ruby>を<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>する<span class=\"vw\" data-ja=\"臨床研究\" data-reading=\"りんしょうけんきゅう\" data-en=\"clinical study\"><ruby>臨床研<rt>りんしょうけん</rt></ruby><ruby>究<rt>きゅう</rt></ruby></span>で、<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>かん</rt></ruby>、<ruby>重い<rt>おもい</rt></ruby><span class=\"vw\" data-ja=\"副作用\" data-reading=\"ふくさよう\" data-en=\"side effect\"><ruby>副作用<rt>ふくさよう</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れなかったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "脊髄損傷は、事故や病気で背骨の中の神経が傷つき、体が動かなくなったり、感覚がなくなったりする、治すことがとても難しい怪我です。",
+      "ruby": "<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>は、<ruby>事故<rt>じこ</rt></ruby>や<ruby>病気<rt>びょうき</rt></ruby>で<ruby>背骨<rt>せぼね</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>が<ruby>傷つ<rt>きずつ</rt></ruby>き、<ruby>体<rt>からだ</rt></ruby>が<ruby>動か<rt>うごか</rt></ruby>なくなったり、<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>がなくなったりする、<ruby>治す<rt>なおす</rt></ruby>ことがとても<ruby>難しい<rt>むずかしい</rt></ruby><ruby>怪我<rt>けが</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究のグループは、iPS細胞から神経のもとになる細胞を作り、大きく傷ついた4人の患者に移植しました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>のグループは、iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>神経<rt>しんけい</rt></ruby>のもとになる<ruby>細胞<rt>さいぼう</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>、<ruby>大きく<rt>おおきく</rt></ruby><ruby>傷つ<rt>きずつ</rt></ruby>いた4<ruby>人<rt>にん</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の移植は2021年12月に行われ、これは世界で初めての試みでした。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>の<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>は2021<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れ、これは<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"試み\" data-reading=\"こころみ\" data-en=\"attempt; trial\"><ruby>試み<rt>こころみ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "細胞を移植したのは、怪我をしてから2週間から4週間ほどの「亜急性期」と呼ばれる時期です。",
+      "ruby": "<ruby>細胞<rt>さいぼう</rt></ruby>を<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>したのは、<ruby>怪我<rt>けが</rt></ruby>をしてから2<ruby>週間<rt>しゅうかん</rt></ruby>から4<ruby>週間<rt>しゅうかん</rt></ruby>ほどの「<span class=\"vw\" data-ja=\"亜急性期\" data-reading=\"あきゅうせいき\" data-en=\"subacute phase\"><ruby>亜急性<rt>あきゅうせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れる<ruby>時期<rt>じき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後、患者はリハビリを続けながら、長い人で4年間、体の経過を観察されました。",
+      "ruby": "その<ruby>後<rt>のち</rt></ruby>、<ruby>患者<rt>かんじゃ</rt></ruby>はリハビリを<ruby>続け<rt>つづけ</rt></ruby>ながら、<ruby>長い<rt>ながい</rt></ruby><ruby>人<rt>ひと</rt></ruby>で4<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress; course\"><ruby>経過<rt>けいか</rt></ruby></span>を<ruby>観察<rt>かんさつ</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、移植した細胞ががんのような腫瘍に変わることはなく、神経の状態が悪くなることもありませんでした。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>した<ruby>細胞<rt>さいぼう</rt></ruby>ががんのような<span class=\"vw\" data-ja=\"腫瘍\" data-reading=\"しゅよう\" data-en=\"tumor\"><ruby>腫瘍<rt>しゅよう</rt></ruby></span>に<ruby>変わ<rt>かわ</rt></ruby>ることはなく、<ruby>神経<rt>しんけい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なることもありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究をまとめた岡野栄之教授は、「長期的な安全性が確認できた」と話しています。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>をまとめた<ruby>岡野<rt>おかの</rt></ruby><ruby>栄之<rt>ひでゆき</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>は、「<ruby>長期的<rt>ちょうきてき</rt></ruby>な<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>が<ruby>確認<rt>かくにん</rt></ruby>できた」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "4人のうち何人かは、手足を少し動かせるようになるなど、感覚や体の働きが良くなる様子も見られました。",
+      "ruby": "4<ruby>人<rt>にん</rt></ruby>のうち<ruby>何人<rt>なんにん</rt></ruby>かは、<ruby>手足<rt>てあし</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby><ruby>動か<rt>うごか</rt></ruby>せるようになるなど、<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>や<ruby>体<rt>からだ</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>なる<ruby>様子<rt>ようす</rt></ruby>も<ruby>見ら<rt>みら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、患者の数が4人と少ないため、本当に効果があるかどうかは、まだはっきりとは分かっていません。",
+      "ruby": "ただし、<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が4<ruby>人<rt>にん</rt></ruby>と<ruby>少ない<rt>すくない</rt></ruby>ため、<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; effectiveness\"><ruby>効果<rt>こうか</rt></ruby></span>があるかどうかは、まだはっきりとは<ruby>分か<rt>わか</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "この研究の成果は、国際的な科学雑誌「ネイチャー・メディシン」に論文として発表されました。",
+      "ruby": "この<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>は、<ruby>国際的<rt>こくさいてき</rt></ruby>な<ruby>科学雑誌<rt>かがくざっし</rt></ruby>「ネイチャー・メディシン」に<ruby>論文<rt>ろんぶん</rt></ruby>として<ruby>発表<rt>はっぴょう</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、慶応大学から生まれた会社が、国の許可を得るための治験を引き継ぐ予定です。",
+      "ruby": "これからは、<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>から<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>国<rt>くに</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>を<ruby>得る<rt>える</rt></ruby>ための<span class=\"vw\" data-ja=\"治験\" data-reading=\"ちけん\" data-en=\"clinical trial (for approval)\"><ruby>治験<rt>ちけん</rt></ruby></span>を<ruby>引き継ぐ<rt>ひきつぐ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに2027年以降には、怪我をしてから時間がたった「慢性期」の患者を対象にした、新しい臨床試験も計画されています。",
+      "ruby": "さらに2027<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>には、<ruby>怪我<rt>けが</rt></ruby>をしてから<ruby>時間<rt>じかん</rt></ruby>がたった「<span class=\"vw\" data-ja=\"慢性期\" data-reading=\"まんせいき\" data-en=\"chronic phase\"><ruby>慢性<rt>まんせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>」の<ruby>患者<rt>かんじゃ</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>にした、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>臨床<rt>りんしょう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>も<ruby>計画<rt>けいかく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの患者や家族が、この新しい治療が広く使えるようになる日を待っています。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>が、この<ruby>新しい<rt>あたらしい</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>が<ruby>広く<rt>ひろく</rt></ruby><ruby>使え<rt>つかえ</rt></ruby>るようになる<ruby>日<rt>ひ</rt></ruby>を<ruby>待っ<rt>まっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月21日、慶応義塾大学のグループが、iPS細胞から作った細胞を脊髄損傷の患者に移植する臨床研究で、長い間、重い副作用が見られなかったと発表しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>、<ruby>慶応義塾大学<rt>けいおうぎじゅくだいがく</rt></ruby>のグループが、iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>細胞<rt>さいぼう</rt></ruby>を<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>する<span class=\"vw\" data-ja=\"臨床研究\" data-reading=\"りんしょうけんきゅう\" data-en=\"clinical study\"><ruby>臨床研<rt>りんしょうけん</rt></ruby><ruby>究<rt>きゅう</rt></ruby></span>で、<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>かん</rt></ruby>、<ruby>重い<rt>おもい</rt></ruby><span class=\"vw\" data-ja=\"副作用\" data-reading=\"ふくさよう\" data-en=\"side effect\"><ruby>副作用<rt>ふくさよう</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れなかったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July twenty-first, a Keio University group announced that in its clinical study transplanting cells made from iPS cells into spinal cord injury patients, no serious side effects were seen over a long period."
+    },
+    {
+      "speaker": "vocab",
+      "text": "副作用",
+      "ruby": "<span class=\"vw\" data-ja=\"副作用\" data-reading=\"ふくさよう\" data-en=\"side effect\"><ruby>副作用<rt>ふくさよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a side effect — an unwanted reaction to a treatment."
+    },
+    {
+      "speaker": "slow",
+      "text": "脊髄損傷は、事故や病気で背骨の中の神経が傷つき、体が動かなくなったり、感覚がなくなったりする、治すことがとても難しい怪我です。",
+      "ruby": "<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>は、<ruby>事故<rt>じこ</rt></ruby>や<ruby>病気<rt>びょうき</rt></ruby>で<ruby>背骨<rt>せぼね</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>が<ruby>傷つ<rt>きずつ</rt></ruby>き、<ruby>体<rt>からだ</rt></ruby>が<ruby>動か<rt>うごか</rt></ruby>なくなったり、<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>がなくなったりする、<ruby>治す<rt>なおす</rt></ruby>ことがとても<ruby>難しい<rt>むずかしい</rt></ruby><ruby>怪我<rt>けが</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "A spinal cord injury damages the nerves inside the backbone, so the body may stop moving or lose feeling — and it's very hard to cure."
+    },
+    {
+      "speaker": "vocab",
+      "text": "脊髄損傷",
+      "ruby": "<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means spinal cord injury."
+    },
+    {
+      "speaker": "slow",
+      "text": "研究のグループは、iPS細胞から神経のもとになる細胞を作り、大きく傷ついた4人の患者に移植しました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>のグループは、iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>神経<rt>しんけい</rt></ruby>のもとになる<ruby>細胞<rt>さいぼう</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>、<ruby>大きく<rt>おおきく</rt></ruby><ruby>傷つ<rt>きずつ</rt></ruby>いた4<ruby>人<rt>にん</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The research group made cells that become the basis of nerves and transplanted them into four badly injured patients."
+    },
+    {
+      "speaker": "vocab",
+      "text": "移植",
+      "ruby": "<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a transplant — placing cells or an organ into the body."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の移植は2021年12月に行われ、これは世界で初めての試みでした。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>の<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>は2021<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れ、これは<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"試み\" data-reading=\"こころみ\" data-en=\"attempt; trial\"><ruby>試み<rt>こころみ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first transplant took place in December twenty twenty-one, and it was the first attempt in the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試み",
+      "ruby": "<span class=\"vw\" data-ja=\"試み\" data-reading=\"こころみ\" data-en=\"attempt; trial\"><ruby>試み<rt>こころみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an attempt, a trial of something new."
+    },
+    {
+      "speaker": "slow",
+      "text": "細胞を移植したのは、怪我をしてから2週間から4週間ほどの「亜急性期」と呼ばれる時期です。",
+      "ruby": "<ruby>細胞<rt>さいぼう</rt></ruby>を<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>したのは、<ruby>怪我<rt>けが</rt></ruby>をしてから2<ruby>週間<rt>しゅうかん</rt></ruby>から4<ruby>週間<rt>しゅうかん</rt></ruby>ほどの「<span class=\"vw\" data-ja=\"亜急性期\" data-reading=\"あきゅうせいき\" data-en=\"subacute phase\"><ruby>亜急性<rt>あきゅうせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れる<ruby>時期<rt>じき</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The cells were transplanted in the so-called subacute phase, about two to four weeks after the injury."
+    },
+    {
+      "speaker": "vocab",
+      "text": "亜急性期",
+      "ruby": "<span class=\"vw\" data-ja=\"亜急性期\" data-reading=\"あきゅうせいき\" data-en=\"subacute phase\"><ruby>亜急性<rt>あきゅうせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the subacute phase — the period soon after an injury, but not the very first days."
+    },
+    {
+      "speaker": "slow",
+      "text": "その後、患者はリハビリを続けながら、長い人で4年間、体の経過を観察されました。",
+      "ruby": "その<ruby>後<rt>のち</rt></ruby>、<ruby>患者<rt>かんじゃ</rt></ruby>はリハビリを<ruby>続け<rt>つづけ</rt></ruby>ながら、<ruby>長い<rt>ながい</rt></ruby><ruby>人<rt>ひと</rt></ruby>で4<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress; course\"><ruby>経過<rt>けいか</rt></ruby></span>を<ruby>観察<rt>かんさつ</rt></ruby>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After that, while continuing rehabilitation, the patients were observed for up to four years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "経過",
+      "ruby": "<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress; course\"><ruby>経過<rt>けいか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the progress or course of something over time."
+    },
+    {
+      "speaker": "slow",
+      "text": "その結果、移植した細胞ががんのような腫瘍に変わることはなく、神経の状態が悪くなることもありませんでした。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>した<ruby>細胞<rt>さいぼう</rt></ruby>ががんのような<span class=\"vw\" data-ja=\"腫瘍\" data-reading=\"しゅよう\" data-en=\"tumor\"><ruby>腫瘍<rt>しゅよう</rt></ruby></span>に<ruby>変わ<rt>かわ</rt></ruby>ることはなく、<ruby>神経<rt>しんけい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なることもありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "As a result, the transplanted cells did not turn into a cancer-like tumor, and the condition of the nerves did not worsen either."
+    },
+    {
+      "speaker": "vocab",
+      "text": "腫瘍",
+      "ruby": "<span class=\"vw\" data-ja=\"腫瘍\" data-reading=\"しゅよう\" data-en=\"tumor\"><ruby>腫瘍<rt>しゅよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tumor — an abnormal lump of cells."
+    },
+    {
+      "speaker": "slow",
+      "text": "研究をまとめた岡野栄之教授は、「長期的な安全性が確認できた」と話しています。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>をまとめた<ruby>岡野<rt>おかの</rt></ruby><ruby>栄之<rt>ひでゆき</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>は、「<ruby>長期的<rt>ちょうきてき</rt></ruby>な<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>が<ruby>確認<rt>かくにん</rt></ruby>できた」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Professor Okano Hideyuki, who led the research, says long-term safety has been confirmed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "安全性",
+      "ruby": "<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means safety, the quality of being safe."
+    },
+    {
+      "speaker": "slow",
+      "text": "4人のうち何人かは、手足を少し動かせるようになるなど、感覚や体の働きが良くなる様子も見られました。",
+      "ruby": "4<ruby>人<rt>にん</rt></ruby>のうち<ruby>何人<rt>なんにん</rt></ruby>かは、<ruby>手足<rt>てあし</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby><ruby>動か<rt>うごか</rt></ruby>せるようになるなど、<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>や<ruby>体<rt>からだ</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>なる<ruby>様子<rt>ようす</rt></ruby>も<ruby>見ら<rt>みら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some of the four were even able to move their limbs a little, showing signs that feeling and body function improved."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感覚",
+      "ruby": "<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means feeling or sensation."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただし、患者の数が4人と少ないため、本当に効果があるかどうかは、まだはっきりとは分かっていません。",
+      "ruby": "ただし、<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が4<ruby>人<rt>にん</rt></ruby>と<ruby>少ない<rt>すくない</rt></ruby>ため、<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; effectiveness\"><ruby>効果<rt>こうか</rt></ruby></span>があるかどうかは、まだはっきりとは<ruby>分か<rt>わか</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "However, because there were only four patients, whether it truly works is not yet clearly known."
+    },
+    {
+      "speaker": "vocab",
+      "text": "効果",
+      "ruby": "<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; effectiveness\"><ruby>効果<rt>こうか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an effect, or how well something works."
+    },
+    {
+      "speaker": "slow",
+      "text": "これからは、慶応大学から生まれた会社が、国の許可を得るための治験を引き継ぐ予定です。",
+      "ruby": "これからは、<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>から<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>国<rt>くに</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>を<ruby>得る<rt>える</rt></ruby>ための<span class=\"vw\" data-ja=\"治験\" data-reading=\"ちけん\" data-en=\"clinical trial (for approval)\"><ruby>治験<rt>ちけん</rt></ruby></span>を<ruby>引き継ぐ<rt>ひきつぐ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "From here, a company born out of Keio University plans to take over the trials needed to get national approval."
+    },
+    {
+      "speaker": "vocab",
+      "text": "治験",
+      "ruby": "<span class=\"vw\" data-ja=\"治験\" data-reading=\"ちけん\" data-en=\"clinical trial (for approval)\"><ruby>治験<rt>ちけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a clinical trial, done to get a treatment approved."
+    },
+    {
+      "speaker": "slow",
+      "text": "さらに2027年以降には、怪我をしてから時間がたった「慢性期」の患者を対象にした、新しい臨床試験も計画されています。",
+      "ruby": "さらに2027<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>には、<ruby>怪我<rt>けが</rt></ruby>をしてから<ruby>時間<rt>じかん</rt></ruby>がたった「<span class=\"vw\" data-ja=\"慢性期\" data-reading=\"まんせいき\" data-en=\"chronic phase\"><ruby>慢性<rt>まんせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>」の<ruby>患者<rt>かんじゃ</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>にした、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>臨床<rt>りんしょう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>も<ruby>計画<rt>けいかく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In addition, from twenty twenty-seven, a new trial is planned for chronic-phase patients, long after their injury."
+    },
+    {
+      "speaker": "vocab",
+      "text": "慢性期",
+      "ruby": "<span class=\"vw\" data-ja=\"慢性期\" data-reading=\"まんせいき\" data-en=\"chronic phase\"><ruby>慢性<rt>まんせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the chronic phase — a long time after the injury first happened."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "7月21日、慶応義塾大学のグループが、iPS細胞から作った細胞を脊髄損傷の患者に移植する臨床研究で、長い間、重い副作用が見られなかったと発表しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>、<ruby>慶応義塾大学<rt>けいおうぎじゅくだいがく</rt></ruby>のグループが、iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>細胞<rt>さいぼう</rt></ruby>を<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>する<span class=\"vw\" data-ja=\"臨床研究\" data-reading=\"りんしょうけんきゅう\" data-en=\"clinical study\"><ruby>臨床研<rt>りんしょうけん</rt></ruby><ruby>究<rt>きゅう</rt></ruby></span>で、<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>かん</rt></ruby>、<ruby>重い<rt>おもい</rt></ruby><span class=\"vw\" data-ja=\"副作用\" data-reading=\"ふくさよう\" data-en=\"side effect\"><ruby>副作用<rt>ふくさよう</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れなかったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "脊髄損傷は、事故や病気で背骨の中の神経が傷つき、体が動かなくなったり、感覚がなくなったりする、治すことがとても難しい怪我です。",
+      "ruby": "<span class=\"vw\" data-ja=\"脊髄損傷\" data-reading=\"せきずいそんしょう\" data-en=\"spinal cord injury\"><ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby></span>は、<ruby>事故<rt>じこ</rt></ruby>や<ruby>病気<rt>びょうき</rt></ruby>で<ruby>背骨<rt>せぼね</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>が<ruby>傷つ<rt>きずつ</rt></ruby>き、<ruby>体<rt>からだ</rt></ruby>が<ruby>動か<rt>うごか</rt></ruby>なくなったり、<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>がなくなったりする、<ruby>治す<rt>なおす</rt></ruby>ことがとても<ruby>難しい<rt>むずかしい</rt></ruby><ruby>怪我<rt>けが</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究のグループは、iPS細胞から神経のもとになる細胞を作り、大きく傷ついた4人の患者に移植しました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>のグループは、iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>神経<rt>しんけい</rt></ruby>のもとになる<ruby>細胞<rt>さいぼう</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>、<ruby>大きく<rt>おおきく</rt></ruby><ruby>傷つ<rt>きずつ</rt></ruby>いた4<ruby>人<rt>にん</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の移植は2021年12月に行われ、これは世界で初めての試みでした。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>の<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>は2021<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れ、これは<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"試み\" data-reading=\"こころみ\" data-en=\"attempt; trial\"><ruby>試み<rt>こころみ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "細胞を移植したのは、怪我をしてから2週間から4週間ほどの「亜急性期」と呼ばれる時期です。",
+      "ruby": "<ruby>細胞<rt>さいぼう</rt></ruby>を<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>したのは、<ruby>怪我<rt>けが</rt></ruby>をしてから2<ruby>週間<rt>しゅうかん</rt></ruby>から4<ruby>週間<rt>しゅうかん</rt></ruby>ほどの「<span class=\"vw\" data-ja=\"亜急性期\" data-reading=\"あきゅうせいき\" data-en=\"subacute phase\"><ruby>亜急性<rt>あきゅうせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れる<ruby>時期<rt>じき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後、患者はリハビリを続けながら、長い人で4年間、体の経過を観察されました。",
+      "ruby": "その<ruby>後<rt>のち</rt></ruby>、<ruby>患者<rt>かんじゃ</rt></ruby>はリハビリを<ruby>続け<rt>つづけ</rt></ruby>ながら、<ruby>長い<rt>ながい</rt></ruby><ruby>人<rt>ひと</rt></ruby>で4<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress; course\"><ruby>経過<rt>けいか</rt></ruby></span>を<ruby>観察<rt>かんさつ</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、移植した細胞ががんのような腫瘍に変わることはなく、神経の状態が悪くなることもありませんでした。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>した<ruby>細胞<rt>さいぼう</rt></ruby>ががんのような<span class=\"vw\" data-ja=\"腫瘍\" data-reading=\"しゅよう\" data-en=\"tumor\"><ruby>腫瘍<rt>しゅよう</rt></ruby></span>に<ruby>変わ<rt>かわ</rt></ruby>ることはなく、<ruby>神経<rt>しんけい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なることもありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究をまとめた岡野栄之教授は、「長期的な安全性が確認できた」と話しています。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>をまとめた<ruby>岡野<rt>おかの</rt></ruby><ruby>栄之<rt>ひでゆき</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>は、「<ruby>長期的<rt>ちょうきてき</rt></ruby>な<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>が<ruby>確認<rt>かくにん</rt></ruby>できた」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "4人のうち何人かは、手足を少し動かせるようになるなど、感覚や体の働きが良くなる様子も見られました。",
+      "ruby": "4<ruby>人<rt>にん</rt></ruby>のうち<ruby>何人<rt>なんにん</rt></ruby>かは、<ruby>手足<rt>てあし</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby><ruby>動か<rt>うごか</rt></ruby>せるようになるなど、<span class=\"vw\" data-ja=\"感覚\" data-reading=\"かんかく\" data-en=\"feeling; sensation\"><ruby>感覚<rt>かんかく</rt></ruby></span>や<ruby>体<rt>からだ</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>なる<ruby>様子<rt>ようす</rt></ruby>も<ruby>見ら<rt>みら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、患者の数が4人と少ないため、本当に効果があるかどうかは、まだはっきりとは分かっていません。",
+      "ruby": "ただし、<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が4<ruby>人<rt>にん</rt></ruby>と<ruby>少ない<rt>すくない</rt></ruby>ため、<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; effectiveness\"><ruby>効果<rt>こうか</rt></ruby></span>があるかどうかは、まだはっきりとは<ruby>分か<rt>わか</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "この研究の成果は、国際的な科学雑誌「ネイチャー・メディシン」に論文として発表されました。",
+      "ruby": "この<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>は、<ruby>国際的<rt>こくさいてき</rt></ruby>な<ruby>科学雑誌<rt>かがくざっし</rt></ruby>「ネイチャー・メディシン」に<ruby>論文<rt>ろんぶん</rt></ruby>として<ruby>発表<rt>はっぴょう</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、慶応大学から生まれた会社が、国の許可を得るための治験を引き継ぐ予定です。",
+      "ruby": "これからは、<ruby>慶応大学<rt>けいおうだいがく</rt></ruby>から<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>国<rt>くに</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>を<ruby>得る<rt>える</rt></ruby>ための<span class=\"vw\" data-ja=\"治験\" data-reading=\"ちけん\" data-en=\"clinical trial (for approval)\"><ruby>治験<rt>ちけん</rt></ruby></span>を<ruby>引き継ぐ<rt>ひきつぐ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに2027年以降には、怪我をしてから時間がたった「慢性期」の患者を対象にした、新しい臨床試験も計画されています。",
+      "ruby": "さらに2027<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>には、<ruby>怪我<rt>けが</rt></ruby>をしてから<ruby>時間<rt>じかん</rt></ruby>がたった「<span class=\"vw\" data-ja=\"慢性期\" data-reading=\"まんせいき\" data-en=\"chronic phase\"><ruby>慢性<rt>まんせい</rt></ruby><ruby>期<rt>き</rt></ruby></span>」の<ruby>患者<rt>かんじゃ</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>にした、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>臨床<rt>りんしょう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>も<ruby>計画<rt>けいかく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの患者や家族が、この新しい治療が広く使えるようになる日を待っています。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>が、この<ruby>新しい<rt>あたらしい</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>が<ruby>広く<rt>ひろく</rt></ruby><ruby>使え<rt>つかえ</rt></ruby>るようになる<ruby>日<rt>ひ</rt></ruby>を<ruby>待っ<rt>まっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "iPS細胞から作った細胞を、何という怪我の患者に移植しましたか。",
+      "ruby": "iPS<ruby>細胞<rt>さいぼう</rt></ruby>から<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>細胞<rt>さいぼう</rt></ruby>を、<ruby>何と<rt>なんと</rt></ruby>いう<ruby>怪我<rt>けが</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Patients with a spinal cord injury."
+    },
+    {
+      "speaker": "slow",
+      "text": "何人の患者に移植し、長い人で何年間、経過を観察しましたか。",
+      "ruby": "<ruby>何人<rt>なんにん</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>に<span class=\"vw\" data-ja=\"移植\" data-reading=\"いしょく\" data-en=\"transplant\"><ruby>移植<rt>いしょく</rt></ruby></span>し、<ruby>長い<rt>ながい</rt></ruby><ruby>人<rt>ひと</rt></ruby>で<ruby>何年間<rt>なんねんかん</rt></ruby>、<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress; course\"><ruby>経過<rt>けいか</rt></ruby></span>を<ruby>観察<rt>かんさつ</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four patients, observed for up to four years."
+    },
+    {
+      "speaker": "slow",
+      "text": "長い間の観察で、重い副作用や腫瘍は見られましたか。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><ruby>間の<rt>まの</rt></ruby><ruby>観察<rt>かんさつ</rt></ruby>で、<ruby>重い<rt>おもい</rt></ruby><span class=\"vw\" data-ja=\"副作用\" data-reading=\"ふくさよう\" data-en=\"side effect\"><ruby>副作用<rt>ふくさよう</rt></ruby></span>や<span class=\"vw\" data-ja=\"腫瘍\" data-reading=\"しゅよう\" data-en=\"tumor\"><ruby>腫瘍<rt>しゅよう</rt></ruby></span>は<ruby>見ら<rt>みら</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No — no serious side effects or tumors were seen, and long-term safety was confirmed."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. On July twenty-first, Keio University reported that its world-first clinical study, transplanting cells made from iPS cells into four spinal cord injury patients, showed no serious side effects and no tumors over as long as four years. Some patients even regained a little movement and feeling, though with only four patients the real effect is still unclear. A university startup will now take over the approval trials, and a new trial for chronic patients is planned from twenty twenty-seven. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "脊髄損傷",
+      "reading": "せきずいそんしょう",
+      "en": "spinal cord injury",
+      "zh": "脊髓损伤"
+    },
+    {
+      "ja": "移植",
+      "reading": "いしょく",
+      "en": "transplant",
+      "zh": "移植"
+    },
+    {
+      "ja": "臨床研究",
+      "reading": "りんしょうけんきゅう",
+      "en": "clinical study",
+      "zh": "临床研究"
+    },
+    {
+      "ja": "副作用",
+      "reading": "ふくさよう",
+      "en": "side effect",
+      "zh": "副作用"
+    },
+    {
+      "ja": "試み",
+      "reading": "こころみ",
+      "en": "attempt; trial",
+      "zh": "尝试"
+    },
+    {
+      "ja": "亜急性期",
+      "reading": "あきゅうせいき",
+      "en": "subacute phase",
+      "zh": "亚急性期"
+    },
+    {
+      "ja": "経過",
+      "reading": "けいか",
+      "en": "progress; course",
+      "zh": "经过；病程"
+    },
+    {
+      "ja": "腫瘍",
+      "reading": "しゅよう",
+      "en": "tumor",
+      "zh": "肿瘤"
+    },
+    {
+      "ja": "安全性",
+      "reading": "あんぜんせい",
+      "en": "safety",
+      "zh": "安全性"
+    },
+    {
+      "ja": "感覚",
+      "reading": "かんかく",
+      "en": "feeling; sensation",
+      "zh": "感觉"
+    },
+    {
+      "ja": "効果",
+      "reading": "こうか",
+      "en": "effect; effectiveness",
+      "zh": "效果"
+    },
+    {
+      "ja": "治験",
+      "reading": "ちけん",
+      "en": "clinical trial (for approval)",
+      "zh": "临床试验（药物审批）"
+    },
+    {
+      "ja": "慢性期",
+      "reading": "まんせいき",
+      "en": "chronic phase",
+      "zh": "慢性期"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜が見られる／見られなかった",
+      "meaning": "is seen / was not seen; is observed",
+      "meaningZh": "可见…／未见…；被观察到",
+      "formation": "noun + が見られる（passive of 見る）",
+      "example": "重い副作用が見られなかった。",
+      "translation": "No serious side effects were seen.",
+      "note": "passive of 見る, used to state neutrally what was or wasn't observed",
+      "noteZh": "見る的被动形，客观陈述观察到或未观察到的情况",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#られる受身"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "do things like ~ and ~",
+      "meaningZh": "又…又…；…之类的",
+      "formation": "verb past-form + り + verb past-form + り + する",
+      "example": "体が動かなくなったり、感覚がなくなったりする。",
+      "translation": "The body stops moving and loses feeling, and so on.",
+      "note": "lists representative examples, implying there may be others",
+      "noteZh": "列举有代表性的例子，暗示还有其他情况",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たりたり"
+    },
+    {
+      "pattern": "〜ながら",
+      "meaning": "while doing ~",
+      "meaningZh": "一边…一边…",
+      "formation": "verb stem + ながら",
+      "example": "リハビリを続けながら、経過を観察されました。",
+      "translation": "While continuing rehab, they were observed.",
+      "note": "two actions by the same subject happening at the same time",
+      "noteZh": "同一主语同时进行的两个动作",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ながら"
+    },
+    {
+      "pattern": "〜ため（に）",
+      "meaning": "because of ~; due to ~",
+      "meaningZh": "因为…；由于…",
+      "formation": "plain form / noun + の + ため",
+      "example": "患者の数が少ないため、まだ分かっていません。",
+      "translation": "Because the number of patients is small, it is not yet known.",
+      "note": "states a reason in a slightly formal, written tone",
+      "noteZh": "较书面、正式地表示原因",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜を対象にする",
+      "meaning": "to target ~; aimed at ~",
+      "meaningZh": "以…为对象",
+      "formation": "noun + を対象にする／対象にした",
+      "example": "慢性期の患者を対象にした臨床試験。",
+      "translation": "A clinical trial aimed at chronic-phase patients.",
+      "note": "shows the group or thing that is the focus of an action",
+      "noteZh": "表示动作所针对的群体或事物",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#を対象に"
+    }
+  ],
+  "practiceZh": [
+    "7月21日、慶応義塾大学のグループが、iPS細胞から作った細胞を脊髄損傷の患者に移植する臨床研究で、長い間、重い副作用が見られなかったと発表しました。\n7月21日，庆应义塾大学的团队宣布，在将iPS细胞制成的细胞移植给脊髓损伤患者的临床研究中，长期未出现严重的副作用。\n移植 = transplant；脊髄損傷 = spinal cord injury；副作用 = side effect",
+    "脊髄損傷は、事故や病気で背骨の中の神経が傷つき、体が動かなくなったり、感覚がなくなったりする、治すことがとても難しい怪我です。\n脊髓损伤是指因事故或疾病使脊柱内的神经受损，身体无法活动、失去感觉，是非常难以治愈的伤。\n神経 = nerve；感覚 = feeling；〜たり〜たり = do things like",
+    "研究のグループは、iPS細胞から神経のもとになる細胞を作り、大きく傷ついた4人の患者に移植しました。\n研究团队用iPS细胞制作成为神经基础的细胞，移植给了严重受伤的4名患者。\nもとになる = to become the basis；傷つく = to be injured；移植 = transplant",
+    "最初の移植は2021年12月に行われ、これは世界で初めての試みでした。\n首次移植于2021年12月进行，这是世界上首次的尝试。\n最初 = first；行われる = to be carried out；試み = attempt",
+    "細胞を移植したのは、怪我をしてから2週間から4週間ほどの「亜急性期」と呼ばれる時期です。\n移植细胞是在受伤后约2到4周、被称为「亚急性期」的时期。\n怪我 = injury；亜急性期 = subacute phase；と呼ばれる = called",
+    "その後、患者はリハビリを続けながら、長い人で4年間、体の経過を観察されました。\n之后，患者一边持续康复训练，长者被观察了4年的身体经过。\nリハビリ = rehabilitation；〜ながら = while；経過 = course/progress",
+    "その結果、移植した細胞ががんのような腫瘍に変わることはなく、神経の状態が悪くなることもありませんでした。\n结果，移植的细胞没有变成像癌症那样的肿瘤，神经的状态也没有恶化。\n腫瘍 = tumor；状態 = condition；悪くなる = to worsen",
+    "研究をまとめた岡野栄之教授は、「長期的な安全性が確認できた」と話しています。\n汇总该研究的冈野荣之教授表示：「已确认了长期的安全性。」\nまとめる = to compile；長期的 = long-term；安全性 = safety",
+    "4人のうち何人かは、手足を少し動かせるようになるなど、感覚や体の働きが良くなる様子も見られました。\n4人中有几人变得能稍微活动手脚，也可见到感觉和身体机能变好的样子。\n手足 = limbs；感覚 = feeling；働き = function",
+    "ただし、患者の数が4人と少ないため、本当に効果があるかどうかは、まだはっきりとは分かっていません。\n不过，由于患者人数只有4人较少，是否真的有效果目前尚不清楚。\n〜ため = because；効果 = effect；〜かどうか = whether or not",
+    "この研究の成果は、国際的な科学雑誌「ネイチャー・メディシン」に論文として発表されました。\n这项研究的成果作为论文发表在了国际科学杂志《自然·医学》上。\n成果 = result；科学雑誌 = science journal；論文 = paper",
+    "これからは、慶応大学から生まれた会社が、国の許可を得るための治験を引き継ぐ予定です。\n今后，由庆应大学孕育出的公司将接手为获得国家批准而进行的临床试验。\n許可 = permission；治験 = clinical trial；引き継ぐ = to take over",
+    "さらに2027年以降には、怪我をしてから時間がたった「慢性期」の患者を対象にした、新しい臨床試験も計画されています。\n此外，自2027年起，还计划开展以受伤后已过一段时间的「慢性期」患者为对象的新临床试验。\n以降 = from ~ onward；慢性期 = chronic phase；〜を対象に = targeting",
+    "多くの患者や家族が、この新しい治療が広く使えるようになる日を待っています。\n许多患者和家属都在等待这种新治疗能够被广泛使用的那一天。\n治療 = treatment；広く = widely；待つ = to wait"
+  ]
+}
