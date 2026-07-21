@@ -55,8 +55,12 @@ Steps:
 1. Next id: list scripts/ep*.json, take the highest NNN, add 1, zero-pad (e.g. ep039).
 2. Find a REAL, recent (last few days) Japanese news story with WebSearch
    (fall back to WebFetch of NHK / NHK NEWS WEB EASY / major outlets). Pick one
-   suitable for the level. Read the titles/topics of the last ~10 episodes and
-   AVOID repeating a story already covered. NEVER fabricate news.
+   suitable for the level. Then dedupe against ALL past episodes: run
+     grep -h '"title"' scripts/ep*.json
+   to list every previous title (they are short one-line headlines) and AVOID
+   any story already covered in ANY earlier episode, not just recent ones —
+   e.g. the same event, festival, launch, or announcement under different
+   wording. NEVER fabricate news.
 3. Write scripts/epNNN.json per the Script Format and ALL Critical rules:
    host (Maya) has ZERO Japanese characters and ZERO romaji; 9-10 news segments;
    breakdown; full replay; quiz; closing. Include vocabulary (with zh), grammar
