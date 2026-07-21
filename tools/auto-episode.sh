@@ -3,7 +3,7 @@
 #   Usage: tools/auto-episode.sh n5|n4
 #   Env:   JDN_DRY=1  -> generate everything but do NOT commit/push (for testing)
 #
-# Drives a headless Claude Code (Opus 4.8) session that finds real Japanese
+# Drives a headless Claude Code (Fable 5) session that finds real Japanese
 # news, writes scripts/epNNN.json, runs the full pipeline (furigana, validate,
 # audit, audio, subtitles, copy assets) and pushes -> Cloudflare auto-deploys.
 #
@@ -63,6 +63,10 @@ Steps:
    (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD". The "date" field MUST
    be exactly "$TODAY_BJ" (today's Beijing date — do NOT use your own notion of
    today), and contentVersion MUST be exactly "$VER_BJ".
+   The "title" field MUST be a SHORT Japanese headline, max ~40 characters,
+   ONE clause, NO date, NO details (e.g. 「高級ぶどう「ルビーロマン」が金沢で初競り、一房100万円」).
+   It appears as the episode title in podcast apps and the site — put the full
+   story details in the news segments, NEVER in the title.
    STYLE FOR THIS RUN: $STYLE
 4. Run the pipeline. Use .venv/bin/python for ALL python tools (system python3 is
    too old). ffmpeg/ffprobe are already on PATH:
@@ -88,7 +92,7 @@ EOF
 
 echo "[$STAMP] level=$LEVEL dry=${JDN_DRY:-0} -> $LOG"
 claude -p "$PROMPT" \
-  --model claude-opus-4-8 \
+  --model claude-fable-5 \
   --dangerously-skip-permissions \
   >>"$LOG" 2>&1
 
