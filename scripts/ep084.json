@@ -1,0 +1,548 @@
+{
+  "episode": 84,
+  "title": "新型ロケット「イプシロンS」の燃焼試験が成功",
+  "date": "2026-07-23",
+  "source": "NHK NEWS WEB / sorae / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026072301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July twenty-third. Today's story is about space. Japan's new small rocket Epsilon S passed its last big engine test this morning, after two explosions had delayed the project for years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JAXA・宇宙航空研究開発機構は7月23日、新しいロケット「イプシロンS」のエンジンの燃焼試験を行い、無事に終わったと発表しました。",
+      "ruby": "JAXA・<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>航空<rt>こうくう</rt></ruby><ruby>研究開発機構<rt>けんきゅうかいはつきこう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby>ロケット「イプシロンS」のエンジンの<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>終わ<rt>おわ</rt></ruby>ったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験は午前9時から、鹿児島県の種子島宇宙センターで行われました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>は<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>じ</rt></ruby>から、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島<rt>たねがしま</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>センターで<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験をしたのは、ロケットの2段目のエンジンで、「M-35a」と呼ばれています。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>をしたのは、ロケットの2<ruby>段目<rt>だんめ</rt></ruby>のエンジンで、「M-35a」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "エンジンは計画どおり、約130秒間、正常に燃え続け、良い結果が得られたということです。",
+      "ruby": "エンジンは<ruby>計画<rt>けいかく</rt></ruby>どおり、<ruby>約<rt>やく</rt></ruby>130<ruby>秒間<rt>びょうかん</rt></ruby>、<span class=\"vw\" data-ja=\"正常に\" data-reading=\"せいじょうに\" data-en=\"normally; without problems\"><ruby>正常<rt>せいじょう</rt></ruby>に</span><ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>、<ruby>良い<rt>よい</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>得ら<rt>えら</rt></ruby>れたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "イプシロンSは、固体燃料を使う日本の小型ロケットで、JAXAなどが開発を進めています。",
+      "ruby": "イプシロンSは、<span class=\"vw\" data-ja=\"固体燃料\" data-reading=\"こたいねんりょう\" data-en=\"solid fuel\"><ruby>固体<rt>こたい</rt></ruby><ruby>燃料<rt>ねんりょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小型<rt>こがた</rt></ruby>ロケットで、JAXAなどが<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>を<ruby>進め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、これまでの開発は、順調ではありませんでした。",
+      "ruby": "しかし、これまでの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"順調\" data-reading=\"じゅんちょう\" data-en=\"going smoothly\"><ruby>順調<rt>じゅんちょう</rt></ruby></span>ではありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2023年7月、秋田県の実験場で行われた燃焼試験で、エンジンが爆発しました。",
+      "ruby": "2023<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>、<ruby>秋田県<rt>あきたけん</rt></ruby>の<ruby>実験場<rt>じっけんじょう</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れた<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>で、エンジンが<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年11月には、種子島での試験でも爆発が起きて、打ち上げの計画が大きく遅れていました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>には、<ruby>種子島<rt>たねがしま</rt></ruby>での<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>でも<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>て、<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>の<ruby>計画<rt>けいかく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JAXAは事故の原因を調べて、エンジンの設計や材料を見直してきました。",
+      "ruby": "JAXAは<ruby>事故<rt>じこ</rt></ruby>の<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>て、エンジンの<ruby>設計<rt>せっけい</rt></ruby>や<ruby>材料<rt>ざいりょう</rt></ruby>を<ruby>見直し<rt>みなおし</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の試験は、打ち上げの前の、最後の大きな試験でした。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>の、<ruby>最後<rt>さいご</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験を見守った担当者は「ほっとした」と話し、喜びの声が広がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>を<ruby>見守っ<rt>みまもっ</rt></ruby>た<span class=\"vw\" data-ja=\"担当者\" data-reading=\"たんとうしゃ\" data-en=\"person in charge\"><ruby>担当者<rt>たんとうしゃ</rt></ruby></span>は「ほっとした」と<ruby>話し<rt>はなし</rt></ruby>、<ruby>喜び<rt>よろこび</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JAXAは今後、実際に飛ぶためのエンジンを作り、2026年度中に1号機の打ち上げを目指します。",
+      "ruby": "JAXAは<ruby>今後<rt>こんご</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby><ruby>飛ぶ<rt>とぶ</rt></ruby>ためのエンジンを<ruby>作り<rt>つくり</rt></ruby>、2026<ruby>年度中<rt>ねんどちゅう</rt></ruby>に1<ruby>号機<rt>ごうき</rt></ruby>の<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "イプシロンSは、小さな人工衛星を安く宇宙に運ぶロケットとして、期待されています。",
+      "ruby": "イプシロンSは、<ruby>小さ<rt>ちいさ</rt></ruby>な<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>安く<rt>やすく</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>運ぶ<rt>はこぶ</rt></ruby>ロケットとして、<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待さ<rt>きたいさ</rt></ruby></span>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "JAXA・宇宙航空研究開発機構は7月23日、新しいロケット「イプシロンS」のエンジンの燃焼試験を行い、無事に終わったと発表しました。",
+      "ruby": "JAXA・<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>航空<rt>こうくう</rt></ruby><ruby>研究開発機構<rt>けんきゅうかいはつきこう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby>ロケット「イプシロンS」のエンジンの<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>終わ<rt>おわ</rt></ruby>ったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July twenty-third, Japan's space agency ran a combustion test of the new Epsilon S rocket engine and announced it finished safely."
+    },
+    {
+      "speaker": "vocab",
+      "text": "燃焼",
+      "ruby": "<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼<rt>ねんしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means combustion — burning fuel."
+    },
+    {
+      "speaker": "slow",
+      "text": "試験は午前9時から、鹿児島県の種子島宇宙センターで行われました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>は<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>じ</rt></ruby>から、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島<rt>たねがしま</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>センターで<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The test was held from nine in the morning at the Tanegashima Space Center in Kagoshima Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "行う",
+      "ruby": "<span class=\"vw\" data-ja=\"行う\" data-reading=\"おこなう\" data-en=\"to carry out; to hold\"><ruby>行う<rt>おこなう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to carry out or hold, very common in news."
+    },
+    {
+      "speaker": "slow",
+      "text": "エンジンは計画どおり、約130秒間、正常に燃え続け、良い結果が得られたということです。",
+      "ruby": "エンジンは<ruby>計画<rt>けいかく</rt></ruby>どおり、<ruby>約<rt>やく</rt></ruby>130<ruby>秒間<rt>びょうかん</rt></ruby>、<span class=\"vw\" data-ja=\"正常に\" data-reading=\"せいじょうに\" data-en=\"normally; without problems\"><ruby>正常<rt>せいじょう</rt></ruby>に</span><ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>、<ruby>良い<rt>よい</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>得ら<rt>えら</rt></ruby>れたということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The engine burned normally for about one hundred thirty seconds, just as planned, with good results."
+    },
+    {
+      "speaker": "vocab",
+      "text": "正常に",
+      "ruby": "<span class=\"vw\" data-ja=\"正常に\" data-reading=\"せいじょうに\" data-en=\"normally; without problems\"><ruby>正常<rt>せいじょう</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means normally — without any problem."
+    },
+    {
+      "speaker": "slow",
+      "text": "2023年7月、秋田県の実験場で行われた燃焼試験で、エンジンが爆発しました。",
+      "ruby": "2023<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>、<ruby>秋田県<rt>あきたけん</rt></ruby>の<ruby>実験場<rt>じっけんじょう</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れた<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>で、エンジンが<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In July twenty twenty-three, the engine exploded during a test at a site in Akita Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "爆発",
+      "ruby": "<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an explosion."
+    },
+    {
+      "speaker": "slow",
+      "text": "2024年11月には、種子島での試験でも爆発が起きて、打ち上げの計画が大きく遅れていました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>には、<ruby>種子島<rt>たねがしま</rt></ruby>での<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>でも<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>て、<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>の<ruby>計画<rt>けいかく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In November twenty twenty-four, another explosion happened at Tanegashima, and the launch plan fell far behind."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遅れる",
+      "ruby": "<span class=\"vw\" data-ja=\"遅れる\" data-reading=\"おくれる\" data-en=\"to be delayed\"><ruby>遅れ<rt>おくれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be delayed or fall behind schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "JAXAは事故の原因を調べて、エンジンの設計や材料を見直してきました。",
+      "ruby": "JAXAは<ruby>事故<rt>じこ</rt></ruby>の<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>て、エンジンの<ruby>設計<rt>せっけい</rt></ruby>や<ruby>材料<rt>ざいりょう</rt></ruby>を<ruby>見直し<rt>みなおし</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency investigated the causes of the accidents and has been revising the engine's design and materials."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見直す",
+      "ruby": "<span class=\"vw\" data-ja=\"見直す\" data-reading=\"みなおす\" data-en=\"to review; to revise\"><ruby>見直す<rt>みなおす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to review something and fix its problems."
+    },
+    {
+      "speaker": "slow",
+      "text": "JAXAは今後、実際に飛ぶためのエンジンを作り、2026年度中に1号機の打ち上げを目指します。",
+      "ruby": "JAXAは<ruby>今後<rt>こんご</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby><ruby>飛ぶ<rt>とぶ</rt></ruby>ためのエンジンを<ruby>作り<rt>つくり</rt></ruby>、2026<ruby>年度中<rt>ねんどちゅう</rt></ruby>に1<ruby>号機<rt>ごうき</rt></ruby>の<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next, the agency will build the flight engine and aims to launch the first rocket within this fiscal year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "目指す",
+      "ruby": "<span class=\"vw\" data-ja=\"目指す\" data-reading=\"めざす\" data-en=\"to aim for\"><ruby>目指す<rt>めざす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to aim for a goal."
+    },
+    {
+      "speaker": "slow",
+      "text": "イプシロンSは、小さな人工衛星を安く宇宙に運ぶロケットとして、期待されています。",
+      "ruby": "イプシロンSは、<ruby>小さ<rt>ちいさ</rt></ruby>な<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>安く<rt>やすく</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>運ぶ<rt>はこぶ</rt></ruby>ロケットとして、<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待さ<rt>きたいさ</rt></ruby></span>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Epsilon S is expected to carry small satellites to space at low cost."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人工衛星",
+      "ruby": "<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an artificial satellite."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "JAXA・宇宙航空研究開発機構は7月23日、新しいロケット「イプシロンS」のエンジンの燃焼試験を行い、無事に終わったと発表しました。",
+      "ruby": "JAXA・<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>航空<rt>こうくう</rt></ruby><ruby>研究開発機構<rt>けんきゅうかいはつきこう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby>ロケット「イプシロンS」のエンジンの<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>終わ<rt>おわ</rt></ruby>ったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験は午前9時から、鹿児島県の種子島宇宙センターで行われました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>は<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>じ</rt></ruby>から、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島<rt>たねがしま</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>センターで<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験をしたのは、ロケットの2段目のエンジンで、「M-35a」と呼ばれています。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>をしたのは、ロケットの2<ruby>段目<rt>だんめ</rt></ruby>のエンジンで、「M-35a」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "エンジンは計画どおり、約130秒間、正常に燃え続け、良い結果が得られたということです。",
+      "ruby": "エンジンは<ruby>計画<rt>けいかく</rt></ruby>どおり、<ruby>約<rt>やく</rt></ruby>130<ruby>秒間<rt>びょうかん</rt></ruby>、<span class=\"vw\" data-ja=\"正常に\" data-reading=\"せいじょうに\" data-en=\"normally; without problems\"><ruby>正常<rt>せいじょう</rt></ruby>に</span><ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>、<ruby>良い<rt>よい</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>得ら<rt>えら</rt></ruby>れたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "イプシロンSは、固体燃料を使う日本の小型ロケットで、JAXAなどが開発を進めています。",
+      "ruby": "イプシロンSは、<span class=\"vw\" data-ja=\"固体燃料\" data-reading=\"こたいねんりょう\" data-en=\"solid fuel\"><ruby>固体<rt>こたい</rt></ruby><ruby>燃料<rt>ねんりょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小型<rt>こがた</rt></ruby>ロケットで、JAXAなどが<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>を<ruby>進め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、これまでの開発は、順調ではありませんでした。",
+      "ruby": "しかし、これまでの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"順調\" data-reading=\"じゅんちょう\" data-en=\"going smoothly\"><ruby>順調<rt>じゅんちょう</rt></ruby></span>ではありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2023年7月、秋田県の実験場で行われた燃焼試験で、エンジンが爆発しました。",
+      "ruby": "2023<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>、<ruby>秋田県<rt>あきたけん</rt></ruby>の<ruby>実験場<rt>じっけんじょう</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れた<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>で、エンジンが<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年11月には、種子島での試験でも爆発が起きて、打ち上げの計画が大きく遅れていました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>には、<ruby>種子島<rt>たねがしま</rt></ruby>での<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>でも<span class=\"vw\" data-ja=\"爆発\" data-reading=\"ばくはつ\" data-en=\"explosion\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>て、<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>の<ruby>計画<rt>けいかく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JAXAは事故の原因を調べて、エンジンの設計や材料を見直してきました。",
+      "ruby": "JAXAは<ruby>事故<rt>じこ</rt></ruby>の<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>て、エンジンの<ruby>設計<rt>せっけい</rt></ruby>や<ruby>材料<rt>ざいりょう</rt></ruby>を<ruby>見直し<rt>みなおし</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の試験は、打ち上げの前の、最後の大きな試験でした。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>の、<ruby>最後<rt>さいご</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験を見守った担当者は「ほっとした」と話し、喜びの声が広がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test\"><ruby>試験<rt>しけん</rt></ruby></span>を<ruby>見守っ<rt>みまもっ</rt></ruby>た<span class=\"vw\" data-ja=\"担当者\" data-reading=\"たんとうしゃ\" data-en=\"person in charge\"><ruby>担当者<rt>たんとうしゃ</rt></ruby></span>は「ほっとした」と<ruby>話し<rt>はなし</rt></ruby>、<ruby>喜び<rt>よろこび</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JAXAは今後、実際に飛ぶためのエンジンを作り、2026年度中に1号機の打ち上げを目指します。",
+      "ruby": "JAXAは<ruby>今後<rt>こんご</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby><ruby>飛ぶ<rt>とぶ</rt></ruby>ためのエンジンを<ruby>作り<rt>つくり</rt></ruby>、2026<ruby>年度中<rt>ねんどちゅう</rt></ruby>に1<ruby>号機<rt>ごうき</rt></ruby>の<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "イプシロンSは、小さな人工衛星を安く宇宙に運ぶロケットとして、期待されています。",
+      "ruby": "イプシロンSは、<ruby>小さ<rt>ちいさ</rt></ruby>な<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>安く<rt>やすく</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>運ぶ<rt>はこぶ</rt></ruby>ロケットとして、<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待さ<rt>きたいさ</rt></ruby></span>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "エンジンの燃焼試験は、どこで行われましたか。",
+      "ruby": "エンジンの<span class=\"vw\" data-ja=\"燃焼\" data-reading=\"ねんしょう\" data-en=\"combustion; burning\"><ruby>燃焼試験<rt>ねんしょうしけん</rt></ruby></span>は、どこで<ruby>行わ<rt>おこなわ</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the Tanegashima Space Center in Kagoshima Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "エンジンは、何秒間、燃え続けましたか。",
+      "ruby": "エンジンは、<ruby>何秒<rt>なんびょう</rt></ruby><ruby>間<rt>かん</rt></ruby>、<ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one hundred thirty seconds, just as planned."
+    },
+    {
+      "speaker": "slow",
+      "text": "JAXAは、いつまでに1号機の打ち上げを目指していますか。",
+      "ruby": "JAXAは、いつまでに1<ruby>号機<rt>ごうき</rt></ruby>の<span class=\"vw\" data-ja=\"打ち上げ\" data-reading=\"うちあげ\" data-en=\"launch (of a rocket)\"><ruby>打ち上げ<rt>うちあげ</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Within fiscal twenty twenty-six — by the end of March twenty twenty-seven."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. On July twenty-third, Japan's space agency successfully completed the last major ground test of the Epsilon S rocket's second-stage engine at Tanegashima, after explosions in twenty twenty-three and twenty twenty-four had delayed the project. The first launch is now planned within this fiscal year. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "燃焼",
+      "reading": "ねんしょう",
+      "en": "combustion; burning",
+      "zh": "燃烧"
+    },
+    {
+      "ja": "試験",
+      "reading": "しけん",
+      "en": "test",
+      "zh": "试验；测试"
+    },
+    {
+      "ja": "行う",
+      "reading": "おこなう",
+      "en": "to carry out; to hold",
+      "zh": "举行；进行"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发表；公布"
+    },
+    {
+      "ja": "正常に",
+      "reading": "せいじょうに",
+      "en": "normally; without problems",
+      "zh": "正常地"
+    },
+    {
+      "ja": "固体燃料",
+      "reading": "こたいねんりょう",
+      "en": "solid fuel",
+      "zh": "固体燃料"
+    },
+    {
+      "ja": "開発",
+      "reading": "かいはつ",
+      "en": "development",
+      "zh": "开发；研制"
+    },
+    {
+      "ja": "順調",
+      "reading": "じゅんちょう",
+      "en": "going smoothly",
+      "zh": "顺利"
+    },
+    {
+      "ja": "爆発",
+      "reading": "ばくはつ",
+      "en": "explosion",
+      "zh": "爆炸"
+    },
+    {
+      "ja": "原因",
+      "reading": "げんいん",
+      "en": "cause",
+      "zh": "原因"
+    },
+    {
+      "ja": "遅れる",
+      "reading": "おくれる",
+      "en": "to be delayed",
+      "zh": "延迟；耽误"
+    },
+    {
+      "ja": "見直す",
+      "reading": "みなおす",
+      "en": "to review; to revise",
+      "zh": "重新审视；修改"
+    },
+    {
+      "ja": "担当者",
+      "reading": "たんとうしゃ",
+      "en": "person in charge",
+      "zh": "负责人"
+    },
+    {
+      "ja": "打ち上げ",
+      "reading": "うちあげ",
+      "en": "launch (of a rocket)",
+      "zh": "发射"
+    },
+    {
+      "ja": "目指す",
+      "reading": "めざす",
+      "en": "to aim for",
+      "zh": "以…为目标"
+    },
+    {
+      "ja": "人工衛星",
+      "reading": "じんこうえいせい",
+      "en": "artificial satellite",
+      "zh": "人造卫星"
+    },
+    {
+      "ja": "期待",
+      "reading": "きたい",
+      "en": "expectation; hope",
+      "zh": "期待"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜どおり",
+      "meaning": "just as; according to",
+      "meaningZh": "按照…；正如…",
+      "formation": "noun + どおり",
+      "example": "エンジンは計画どおり、約130秒間、正常に燃え続けました。",
+      "translation": "The engine kept burning normally for about 130 seconds, just as planned.",
+      "note": "attaches to nouns like 計画 or 予定 to say something happened exactly as expected",
+      "noteZh": "接在「計画」「予定」等名词后，表示事情完全按预期进行",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#どおり"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is reported that; they say that",
+      "meaningZh": "据说…；据报道…",
+      "formation": "plain form + ということです",
+      "example": "良い結果が得られたということです。",
+      "translation": "It is reported that good results were obtained.",
+      "note": "hearsay expression used constantly in news to report information from a source",
+      "noteZh": "表示传闻，新闻中常用来转述消息来源的内容",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    },
+    {
+      "pattern": "〜ため（の／に）",
+      "meaning": "for the purpose of",
+      "meaningZh": "为了…",
+      "formation": "verb dictionary form + ため（の + noun）",
+      "example": "実際に飛ぶためのエンジンを作ります。",
+      "translation": "They will build the engine for actually flying.",
+      "note": "ための + noun describes what the noun is for",
+      "noteZh": "「ための＋名词」表示该名词的用途或目的",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜てくる（〜てきました）",
+      "meaning": "has been doing (up to now)",
+      "meaningZh": "一直…（持续到现在）",
+      "formation": "verb て-form + くる",
+      "example": "エンジンの設計や材料を見直してきました。",
+      "translation": "They have been revising the engine's design and materials.",
+      "note": "shows an action continuing from the past up to the present",
+      "noteZh": "表示动作从过去持续到现在",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜と期待されている",
+      "meaning": "is expected to",
+      "meaningZh": "被期待…；有望…",
+      "formation": "noun + として + 期待されている",
+      "example": "人工衛星を安く宇宙に運ぶロケットとして、期待されています。",
+      "translation": "It is expected to be a rocket that carries satellites to space cheaply.",
+      "note": "passive of 期待する, used in news for hopes placed on something",
+      "noteZh": "「期待する」的被动形式，新闻中表示各方对某事物寄予厚望",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と期待されている"
+    }
+  ],
+  "practiceZh": [
+    "JAXA・宇宙航空研究開発機構は7月23日、新しいロケット「イプシロンS」のエンジンの燃焼試験を行い、無事に終わったと発表しました。\nJAXA（宇宙航空研究开发机构）7月23日对新型火箭“Epsilon S”的发动机进行了燃烧试验，并宣布试验顺利结束。\n燃焼試験 = combustion test；無事に = safely；発表 = to announce",
+    "試験は午前9時から、鹿児島県の種子島宇宙センターで行われました。\n试验于上午9点开始，在鹿儿岛县的种子岛宇宙中心进行。\n午前 = morning (a.m.)；行われる = to be held",
+    "試験をしたのは、ロケットの2段目のエンジンで、「M-35a」と呼ばれています。\n接受试验的是火箭的第二级发动机，名为“M-35a”。\n2段目 = second stage；呼ばれる = to be called",
+    "エンジンは計画どおり、約130秒間、正常に燃え続け、良い結果が得られたということです。\n据悉，发动机按计划正常燃烧了约130秒，取得了良好的结果。\n計画どおり = as planned；正常に = normally；結果 = result",
+    "イプシロンSは、固体燃料を使う日本の小型ロケットで、JAXAなどが開発を進めています。\nEpsilon S是使用固体燃料的日本小型火箭，由JAXA等机构推进研制。\n固体燃料 = solid fuel；小型 = small-sized；開発 = development",
+    "しかし、これまでの開発は、順調ではありませんでした。\n然而，此前的研制过程并不顺利。\nこれまで = up to now；順調 = smooth, without trouble",
+    "2023年7月、秋田県の実験場で行われた燃焼試験で、エンジンが爆発しました。\n2023年7月，在秋田县试验场进行的燃烧试验中，发动机发生了爆炸。\n実験場 = test site；爆発 = explosion",
+    "2024年11月には、種子島での試験でも爆発が起きて、打ち上げの計画が大きく遅れていました。\n2024年11月，在种子岛的试验中也发生了爆炸，发射计划因此大幅推迟。\n起きる = to happen；打ち上げ = launch；遅れる = to be delayed",
+    "JAXAは事故の原因を調べて、エンジンの設計や材料を見直してきました。\nJAXA调查了事故原因，并一直在重新审视发动机的设计和材料。\n原因 = cause；設計 = design；見直す = to review",
+    "今回の試験は、打ち上げの前の、最後の大きな試験でした。\n这次试验是发射前最后一项重大试验。\n今回 = this time；最後 = last",
+    "試験を見守った担当者は「ほっとした」と話し、喜びの声が広がりました。\n关注试验的负责人表示“松了一口气”，喜悦之声不断传开。\n見守る = to watch over；担当者 = person in charge；ほっとする = to feel relieved",
+    "JAXAは今後、実際に飛ぶためのエンジンを作り、2026年度中に1号機の打ち上げを目指します。\nJAXA今后将制造实际飞行用的发动机，力争在2026年度内发射1号机。\n実際に = actually；1号機 = first unit；目指す = to aim for",
+    "イプシロンSは、小さな人工衛星を安く宇宙に運ぶロケットとして、期待されています。\n人们期待Epsilon S成为能以低成本将小型人造卫星送入太空的火箭。\n人工衛星 = artificial satellite；運ぶ = to carry；期待される = to be expected"
+  ]
+}
