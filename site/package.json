@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "dev": "npm run copy-audio; astro dev",
-    "build": "npm run copy-audio && astro build",
+    "build": "npm run copy-audio && astro build && node indexnow.mjs",
     "preview": "astro preview",
     "copy-audio": "mkdir -p public/audio public/subtitles && cp ../audio/*.mp3 public/audio/ 2>/dev/null; cp ../subtitles/*.vtt ../subtitles/*.srt public/subtitles/ 2>/dev/null || true"
   },
