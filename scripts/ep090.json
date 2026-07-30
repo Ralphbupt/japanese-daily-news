@@ -1,0 +1,435 @@
+{
+  "episode": 90,
+  "title": "沖縄美ら海水族館がアカマンボウの人工ふ化に世界で初めて成功",
+  "date": "2026-07-31",
+  "source": "沖縄美ら島財団 プレスリリース / 沖縄美ら海水族館",
+  "level": "N5-N4",
+  "contentVersion": "2026073101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July thirty-first. An aquarium in Okinawa has done something no one in the world had ever done: it hatched the babies of a big, beautiful ocean fish called the opah. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "沖縄県の美ら海水族館が、「アカマンボウ」という魚の赤ちゃんを、人の手で卵からかえすことに、世界で初めて成功しました。",
+      "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>美ら海<rt>ちゅらうみ</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>が、「<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>」という<ruby>魚<rt>さかな</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を、<ruby>人<rt>ひと</rt></ruby>の<ruby>手<rt>て</rt></ruby>で<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>からかえすことに、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アカマンボウは、丸い形の大きい魚です。体は銀色で、ひれは赤くて、とてもきれいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<span class=\"vw\" data-ja=\"丸い\" data-reading=\"まるい\" data-en=\"round\"><ruby>丸い<rt>まるい</rt></ruby></span><ruby>形<rt>かたち</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>です。<ruby>体<rt>からだ</rt></ruby>は<span class=\"vw\" data-ja=\"銀色\" data-reading=\"ぎんいろ\" data-en=\"silver color\"><ruby>銀色<rt>ぎんいろ</rt></ruby></span>で、ひれは<ruby>赤く<rt>あかく</rt></ruby>て、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アカマンボウは、海の上のほうから、深さ500メートルくらいの所まで泳いでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<ruby>海<rt>うみ</rt></ruby>の<ruby>上の<rt>うえの</rt></ruby>ほうから、<span class=\"vw\" data-ja=\"深さ\" data-reading=\"ふかさ\" data-en=\"depth\"><ruby>深さ<rt>ふかさ</rt></ruby></span>500メートルくらいの<ruby>所<rt>ところ</rt></ruby>まで<ruby>泳い<rt>およい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、アカマンボウは、体の全部が海の水より温かい、世界でただ一つの魚です。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<ruby>体<rt>からだ</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>より<span class=\"vw\" data-ja=\"温かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>温かい<rt>あたたかい</rt></ruby></span>、<ruby>世界<rt>せかい</rt></ruby>でただ<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の人たちは、沖縄の近くの海でとれたアカマンボウから、卵をとりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でとれた<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>から、<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>をとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の人たちは、その卵を大切に育てて、赤ちゃんが生まれるまで、毎日、世話をしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、その<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>育て<rt>そだて</rt></ruby>て、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>るまで、<ruby>毎日<rt>まいにち</rt></ruby>、<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care; looking after\"><ruby>世話<rt>せわ</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生まれた赤ちゃんは、大きさが7ミリくらいで、体は細くて、透明です。",
+      "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>大きさ<rt>おおきさ</rt></ruby>が7ミリくらいで、<ruby>体<rt>からだ</rt></ruby>は<ruby>細く<rt>ほそく</rt></ruby>て、<span class=\"vw\" data-ja=\"透明\" data-reading=\"とうめい\" data-en=\"transparent\"><ruby>透明<rt>とうめい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは今、水族館の1階の部屋で、見ることができます。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の1<ruby>階<rt>かい</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>で、<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、「大きな海の魚のことは、まだ分からないことが多いです。この研究は、とても大切です」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、「<ruby>大き<rt>おおき</rt></ruby>な<ruby>海<rt>うみ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>のことは、まだ<ruby>分か<rt>わか</rt></ruby>らないことが<ruby>多い<rt>おおい</rt></ruby>です。この<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research\"><ruby>研究<rt>けんきゅう</rt></ruby></span>は、とても<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "沖縄県の美ら海水族館が、「アカマンボウ」という魚の赤ちゃんを、人の手で卵からかえすことに、世界で初めて成功しました。",
+      "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>美ら海<rt>ちゅらうみ</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>が、「<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>」という<ruby>魚<rt>さかな</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を、<ruby>人<rt>ひと</rt></ruby>の<ruby>手<rt>て</rt></ruby>で<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>からかえすことに、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Churaumi Aquarium in Okinawa succeeded, for the first time in the world, in hatching the babies of a fish called the opah from eggs, by human hands."
+    },
+    {
+      "speaker": "vocab",
+      "text": "成功",
+      "ruby": "<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means success. With the verb after it, it becomes to succeed."
+    },
+    {
+      "speaker": "slow",
+      "text": "アカマンボウは、丸い形の大きい魚です。体は銀色で、ひれは赤くて、とてもきれいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<span class=\"vw\" data-ja=\"丸い\" data-reading=\"まるい\" data-en=\"round\"><ruby>丸い<rt>まるい</rt></ruby></span><ruby>形<rt>かたち</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>です。<ruby>体<rt>からだ</rt></ruby>は<span class=\"vw\" data-ja=\"銀色\" data-reading=\"ぎんいろ\" data-en=\"silver color\"><ruby>銀色<rt>ぎんいろ</rt></ruby></span>で、ひれは<ruby>赤く<rt>あかく</rt></ruby>て、とてもきれいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The opah is a big fish with a round shape. Its body is silver, and its fins are red and very beautiful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "丸い",
+      "ruby": "<span class=\"vw\" data-ja=\"丸い\" data-reading=\"まるい\" data-en=\"round\"><ruby>丸い<rt>まるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means round."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、アカマンボウは、体の全部が海の水より温かい、世界でただ一つの魚です。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<ruby>体<rt>からだ</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>より<span class=\"vw\" data-ja=\"温かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>温かい<rt>あたたかい</rt></ruby></span>、<ruby>世界<rt>せかい</rt></ruby>でただ<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "And the opah is the only fish in the world whose whole body is warmer than the sea water around it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "温かい",
+      "ruby": "<span class=\"vw\" data-ja=\"温かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>温かい<rt>あたたかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means warm."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館の人たちは、その卵を大切に育てて、赤ちゃんが生まれるまで、毎日、世話をしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、その<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>育て<rt>そだて</rt></ruby>て、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>るまで、<ruby>毎日<rt>まいにち</rt></ruby>、<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care; looking after\"><ruby>世話<rt>せわ</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium staff raised the eggs with great care, looking after them every day until the babies were born."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世話",
+      "ruby": "<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care; looking after\"><ruby>世話<rt>せわ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means care, or looking after someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "生まれた赤ちゃんは、大きさが7ミリくらいで、体は細くて、透明です。",
+      "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>大きさ<rt>おおきさ</rt></ruby>が7ミリくらいで、<ruby>体<rt>からだ</rt></ruby>は<ruby>細く<rt>ほそく</rt></ruby>て、<span class=\"vw\" data-ja=\"透明\" data-reading=\"とうめい\" data-en=\"transparent\"><ruby>透明<rt>とうめい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The newborn babies are about seven millimeters long, with thin, transparent bodies."
+    },
+    {
+      "speaker": "vocab",
+      "text": "透明",
+      "ruby": "<span class=\"vw\" data-ja=\"透明\" data-reading=\"とうめい\" data-en=\"transparent\"><ruby>透明<rt>とうめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means transparent, or see-through."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館は、「大きな海の魚のことは、まだ分からないことが多いです。この研究は、とても大切です」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、「<ruby>大き<rt>おおき</rt></ruby>な<ruby>海<rt>うみ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>のことは、まだ<ruby>分か<rt>わか</rt></ruby>らないことが<ruby>多い<rt>おおい</rt></ruby>です。この<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research\"><ruby>研究<rt>けんきゅう</rt></ruby></span>は、とても<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium says there is still a lot we don't know about big ocean fish, so this research is very important."
+    },
+    {
+      "speaker": "vocab",
+      "text": "研究",
+      "ruby": "<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research\"><ruby>研究<rt>けんきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means research, or study."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "沖縄県の美ら海水族館が、「アカマンボウ」という魚の赤ちゃんを、人の手で卵からかえすことに、世界で初めて成功しました。",
+      "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>美ら海<rt>ちゅらうみ</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>が、「<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>」という<ruby>魚<rt>さかな</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を、<ruby>人<rt>ひと</rt></ruby>の<ruby>手<rt>て</rt></ruby>で<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>からかえすことに、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アカマンボウは、丸い形の大きい魚です。体は銀色で、ひれは赤くて、とてもきれいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<span class=\"vw\" data-ja=\"丸い\" data-reading=\"まるい\" data-en=\"round\"><ruby>丸い<rt>まるい</rt></ruby></span><ruby>形<rt>かたち</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>です。<ruby>体<rt>からだ</rt></ruby>は<span class=\"vw\" data-ja=\"銀色\" data-reading=\"ぎんいろ\" data-en=\"silver color\"><ruby>銀色<rt>ぎんいろ</rt></ruby></span>で、ひれは<ruby>赤く<rt>あかく</rt></ruby>て、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アカマンボウは、海の上のほうから、深さ500メートルくらいの所まで泳いでいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<ruby>海<rt>うみ</rt></ruby>の<ruby>上の<rt>うえの</rt></ruby>ほうから、<span class=\"vw\" data-ja=\"深さ\" data-reading=\"ふかさ\" data-en=\"depth\"><ruby>深さ<rt>ふかさ</rt></ruby></span>500メートルくらいの<ruby>所<rt>ところ</rt></ruby>まで<ruby>泳い<rt>およい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、アカマンボウは、体の全部が海の水より温かい、世界でただ一つの魚です。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>は、<ruby>体<rt>からだ</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>より<span class=\"vw\" data-ja=\"温かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>温かい<rt>あたたかい</rt></ruby></span>、<ruby>世界<rt>せかい</rt></ruby>でただ<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の人たちは、沖縄の近くの海でとれたアカマンボウから、卵をとりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でとれた<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>から、<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>をとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の人たちは、その卵を大切に育てて、赤ちゃんが生まれるまで、毎日、世話をしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは、その<span class=\"vw\" data-ja=\"卵\" data-reading=\"たまご\" data-en=\"egg\"><ruby>卵<rt>たまご</rt></ruby></span>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>育て<rt>そだて</rt></ruby>て、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>るまで、<ruby>毎日<rt>まいにち</rt></ruby>、<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care; looking after\"><ruby>世話<rt>せわ</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生まれた赤ちゃんは、大きさが7ミリくらいで、体は細くて、透明です。",
+      "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>大きさ<rt>おおきさ</rt></ruby>が7ミリくらいで、<ruby>体<rt>からだ</rt></ruby>は<ruby>細く<rt>ほそく</rt></ruby>て、<span class=\"vw\" data-ja=\"透明\" data-reading=\"とうめい\" data-en=\"transparent\"><ruby>透明<rt>とうめい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは今、水族館の1階の部屋で、見ることができます。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の1<ruby>階<rt>かい</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>で、<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、「大きな海の魚のことは、まだ分からないことが多いです。この研究は、とても大切です」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、「<ruby>大き<rt>おおき</rt></ruby>な<ruby>海<rt>うみ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>のことは、まだ<ruby>分か<rt>わか</rt></ruby>らないことが<ruby>多い<rt>おおい</rt></ruby>です。この<span class=\"vw\" data-ja=\"研究\" data-reading=\"けんきゅう\" data-en=\"research\"><ruby>研究<rt>けんきゅう</rt></ruby></span>は、とても<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "生まれたアカマンボウの赤ちゃんは、どのくらいの大きさですか。",
+      "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、どのくらいの<ruby>大きさ<rt>おおきさ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seven millimeters — smaller than your fingernail."
+    },
+    {
+      "speaker": "slow",
+      "text": "アカマンボウの体は、海の水より温かいですか、冷たいですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"アカマンボウ\" data-reading=\"あかまんぼう\" data-en=\"opah (fish)\">アカマンボウ</span>の<ruby>体<rt>からだ</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>より<span class=\"vw\" data-ja=\"温かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>温かい<rt>あたたかい</rt></ruby></span>ですか、<ruby>冷たい<rt>つめたい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Warmer. It is the only fish in the world whose whole body stays warmer than the sea water."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. An aquarium in Okinawa became the first in the world to hatch baby opah, a big warm-bodied ocean fish, and the tiny transparent babies are now on display. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "アカマンボウ",
+      "reading": "あかまんぼう",
+      "en": "opah (fish)",
+      "zh": "月鱼"
+    },
+    {
+      "ja": "水族館",
+      "reading": "すいぞくかん",
+      "en": "aquarium",
+      "zh": "水族馆"
+    },
+    {
+      "ja": "卵",
+      "reading": "たまご",
+      "en": "egg",
+      "zh": "蛋；卵"
+    },
+    {
+      "ja": "かえす",
+      "reading": "かえす",
+      "en": "to hatch (an egg)",
+      "zh": "孵化"
+    },
+    {
+      "ja": "成功",
+      "reading": "せいこう",
+      "en": "success",
+      "zh": "成功"
+    },
+    {
+      "ja": "丸い",
+      "reading": "まるい",
+      "en": "round",
+      "zh": "圆的"
+    },
+    {
+      "ja": "銀色",
+      "reading": "ぎんいろ",
+      "en": "silver color",
+      "zh": "银色"
+    },
+    {
+      "ja": "深さ",
+      "reading": "ふかさ",
+      "en": "depth",
+      "zh": "深度"
+    },
+    {
+      "ja": "温かい",
+      "reading": "あたたかい",
+      "en": "warm",
+      "zh": "温暖的"
+    },
+    {
+      "ja": "育てる",
+      "reading": "そだてる",
+      "en": "to raise; to bring up",
+      "zh": "培育；养育"
+    },
+    {
+      "ja": "世話",
+      "reading": "せわ",
+      "en": "care; looking after",
+      "zh": "照顾"
+    },
+    {
+      "ja": "透明",
+      "reading": "とうめい",
+      "en": "transparent",
+      "zh": "透明"
+    },
+    {
+      "ja": "研究",
+      "reading": "けんきゅう",
+      "en": "research",
+      "zh": "研究"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という + noun",
+      "meaning": "a ~ called ...",
+      "meaningZh": "叫做…的…",
+      "formation": "name + という + noun",
+      "example": "「アカマンボウ」という魚の赤ちゃん",
+      "translation": "The babies of a fish called the opah",
+      "note": "という introduces the name of something the listener may not know",
+      "noteZh": "という用来介绍听者可能不知道的名称",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#という"
+    },
+    {
+      "pattern": "〜くて",
+      "meaning": "connecting い-adjectives: ~ and ...",
+      "meaningZh": "い形容词的连接形：…而且…",
+      "formation": "い-adjective stem + くて",
+      "example": "ひれは赤くて、とてもきれいです。",
+      "translation": "Its fins are red and very beautiful.",
+      "note": "くて links an い-adjective to the rest of the sentence",
+      "noteZh": "くて把い形容词和句子的后半部分连接起来",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#くて"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "more than ~; compared to ~",
+      "meaningZh": "比…",
+      "formation": "noun + より + adjective",
+      "example": "体の全部が海の水より温かい。",
+      "translation": "Its whole body is warmer than the sea water.",
+      "note": "より marks the thing being compared against",
+      "noteZh": "より表示比较的对象",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#より"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can do ~; to be able to ~",
+      "meaningZh": "能够…；可以…",
+      "formation": "verb dictionary-form + ことができる",
+      "example": "水族館の1階の部屋で、見ることができます。",
+      "translation": "You can see them in a room on the first floor of the aquarium.",
+      "note": "ことができる expresses ability or possibility",
+      "noteZh": "ことができる表示能力或可能性",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜と話しています",
+      "meaning": "says that ~ (reporting speech)",
+      "meaningZh": "（某人）说…（转述）",
+      "formation": "quote + と + 話しています",
+      "example": "水族館は、「この研究は、とても大切です」と話しています。",
+      "translation": "The aquarium says this research is very important.",
+      "note": "と marks a quote; 話しています is common in news to report what someone said",
+      "noteZh": "と表示引用的内容；話しています常用于新闻中转述别人的话",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と話しています"
+    }
+  ],
+  "practiceZh": [
+    "沖縄県の美ら海水族館が、「アカマンボウ」という魚の赤ちゃんを、人の手で卵からかえすことに、世界で初めて成功しました。\n冲绳县的美丽海水族馆在世界上首次成功地用人工方法孵化出了名为「月鱼」的鱼的宝宝。\n水族館 = aquarium；卵 = egg；かえす = to hatch；成功 = success",
+    "アカマンボウは、丸い形の大きい魚です。体は銀色で、ひれは赤くて、とてもきれいです。\n月鱼是一种体形圆圆的大鱼。身体是银色的，鱼鳍是红色的，非常漂亮。\n丸い = round；形 = shape；銀色 = silver；ひれ = fin",
+    "アカマンボウは、海の上のほうから、深さ500メートルくらいの所まで泳いでいます。\n月鱼从海的上层一直游到大约500米深的地方。\n深さ = depth；所 = place；泳ぐ = to swim",
+    "そして、アカマンボウは、体の全部が海の水より温かい、世界でただ一つの魚です。\n而且，月鱼是世界上唯一一种全身都比海水温暖的鱼。\n体の全部 = the whole body；より = more than；温かい = warm；ただ一つ = the only one",
+    "水族館の人たちは、沖縄の近くの海でとれたアカマンボウから、卵をとりました。\n水族馆的工作人员从冲绳附近海域捕获的月鱼身上取出了卵。\n近く = nearby；とれる = to be caught；とる = to take",
+    "水族館の人たちは、その卵を大切に育てて、赤ちゃんが生まれるまで、毎日、世話をしました。\n水族馆的工作人员精心培育这些卵，每天照顾它们，直到宝宝出生。\n育てる = to raise；生まれる = to be born；世話 = care",
+    "生まれた赤ちゃんは、大きさが7ミリくらいで、体は細くて、透明です。\n出生的宝宝大约7毫米长，身体细细的，而且是透明的。\n大きさ = size；細い = thin；透明 = transparent",
+    "赤ちゃんは今、水族館の1階の部屋で、見ることができます。\n现在可以在水族馆一楼的展厅里看到这些宝宝。\n1階 = first floor；部屋 = room；見ることができる = can see",
+    "水族館は、「大きな海の魚のことは、まだ分からないことが多いです。この研究は、とても大切です」と話しています。\n水族馆表示：「关于大型海洋鱼类，还有很多不了解的地方。这项研究非常重要。」\n分からない = not known；研究 = research；大切 = important"
+  ]
+}
