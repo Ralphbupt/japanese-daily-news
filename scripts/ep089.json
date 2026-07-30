@@ -1,0 +1,544 @@
+{
+  "episode": 89,
+  "title": "熊本県で震度7の大地震、避難生活が続く",
+  "date": "2026-07-30",
+  "source": "時事通信 / NHK NEWS WEB / ウェザーニュース / 気象庁",
+  "level": "N4-N3",
+  "contentVersion": "2026073001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July thirtieth. Today's story is a serious one. A powerful earthquake struck Kumamoto Prefecture in southwestern Japan earlier this week, and rescue and relief work is still going on. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月28日の午後4時27分ごろ、熊本県で、マグニチュード7.1の大きな地震がありました。宇城市と氷川町では、震度7の非常に強い揺れを観測しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>27<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>熊本県<rt>くまもとけん</rt></ruby>で、マグニチュード7.1の<ruby>大き<rt>おおき</rt></ruby>な<ruby>地震<rt>じしん</rt></ruby>がありました。<ruby>宇城<rt>うき</rt></ruby><ruby>市<rt>し</rt></ruby>と<ruby>氷川<rt>ひかわ</rt></ruby><ruby>町<rt>ちょう</rt></ruby>では、<ruby>震度<rt>しんど</rt></ruby>7の<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; recording (of data)\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によりますと、震源は熊本県の熊本地方で、深さはおよそ10キロでした。八代市や宇土市などでも、震度6強の強い揺れがありました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter; hypocenter\"><ruby>震源<rt>しんげん</rt></ruby></span>は<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>熊本<rt>くまもと</rt></ruby><ruby>地方<rt>ちほう</rt></ruby>で、<ruby>深さ<rt>ふかさ</rt></ruby>はおよそ10キロでした。<ruby>八代<rt>やつしろ</rt></ruby><ruby>市<rt>し</rt></ruby>や<ruby>宇土<rt>うと</rt></ruby><ruby>市<rt>し</rt></ruby>などでも、<ruby>震度<rt>しんど</rt></ruby>6<ruby>強<rt>きょう</rt></ruby>の<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震で、建物が壊れたり、家具が倒れたりして、これまでに34人が亡くなりました。けがをした人も大勢います。",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>たり、<ruby>家具<rt>かぐ</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>たりして、これまでに34<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なりました。けがをした<ruby>人<rt>ひと</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "亡くなった人は、八代市で11人、嘉島町で7人、氷川町で4人などとなっています。",
+      "ruby": "<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は、<ruby>八代<rt>やつしろ</rt></ruby><ruby>市<rt>し</rt></ruby>で11<ruby>人<rt>にん</rt></ruby>、<ruby>嘉<rt>か</rt></ruby><ruby>島<rt>しま</rt></ruby><ruby>町<rt>まち</rt></ruby>で7<ruby>人<rt>にん</rt></ruby>、<ruby>氷川<rt>ひかわ</rt></ruby><ruby>町<rt>ちょう</rt></ruby>で4<ruby>人<rt>にん</rt></ruby>などとなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震のあとも揺れが続いていて、震度1以上の余震は、これまでに270回を超えました。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>のあとも<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ていて、<ruby>震度<rt>しんど</rt></ruby>1<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"余震\" data-reading=\"よしん\" data-en=\"aftershock\"><ruby>余震<rt>よしん</rt></ruby></span>は、これまでに270<ruby>回<rt>かい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今も、およそ9500人が、県内の400か所以上の避難所で、避難生活を送っています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>も、およそ9500<ruby>人<rt>にん</rt></ruby>が、<ruby>県内<rt>けんない</rt></ruby>の400か<ruby>所<rt>しょ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>で、<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送っ<rt>おくっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水道や電気にも大きな被害が出ています。少なくともおよそ8万戸で断水が続き、およそ1万2000戸で停電しています。",
+      "ruby": "<ruby>水道<rt>すいどう</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>にも<ruby>大き<rt>おおき</rt></ruby>な<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。<ruby>少なくとも<rt>すくなくとも</rt></ruby>およそ8<ruby>万<rt>まん</rt></ruby><ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"断水\" data-reading=\"だんすい\" data-en=\"water outage; water supply cut\"><ruby>断水<rt>だんすい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>、およそ1<ruby>万<rt>まん</rt></ruby>2000<ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電気は、31日の夕方までに復旧する見込みですが、水道の復旧には、まだ時間がかかりそうです。",
+      "ruby": "<ruby>電気<rt>でんき</rt></ruby>は、31<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>までに<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; recovery (of services)\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>する<ruby>見込み<rt>みこみ</rt></ruby>ですが、<ruby>水道<rt>すいどう</rt></ruby>の<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; recovery (of services)\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>には、まだ<ruby>時間<rt>じかん</rt></ruby>がかかりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "交通にも影響が出ています。九州新幹線は、レールが折れるなど、200か所以上で被害が見つかり、運転を見合わせています。",
+      "ruby": "<ruby>交通<rt>こうつう</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>は、レールが<ruby>折れ<rt>おれ</rt></ruby>るなど、200か<ruby>所<rt>しょ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>が<ruby>見つ<rt>みつ</rt></ruby>かり、<ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せています。"
+    },
+    {
+      "speaker": "news",
+      "text": "熊本県では、連日、最高気温が35度以上になる、厳しい暑さが続いています。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>では、<ruby>連日<rt>れんじつ</rt></ruby>、<ruby>最高気温<rt>さいこうきおん</rt></ruby>が35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる、<ruby>厳しい<rt>きびしい</rt></ruby><ruby>暑さ<rt>あつさ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、政府は、避難所に簡易型のクーラーを設置するなど、熱中症を防ぐための対策を急いでいます。",
+      "ruby": "このため、<ruby>政府<rt>せいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>に<ruby>簡易型<rt>かんいがた</rt></ruby>のクーラーを<span class=\"vw\" data-ja=\"設置\" data-reading=\"せっち\" data-en=\"installation; setting up\"><ruby>設置<rt>せっち</rt></ruby></span>するなど、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>を<ruby>防ぐ<rt>ふせぐ</rt></ruby>ための<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measures\"><ruby>対策<rt>たいさく</rt></ruby></span>を<ruby>急い<rt>いそい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、熊本県庁に現地対策本部を設置して、救助や支援に全力で取り組むとしています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>熊本県<rt>くまもとけん</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>に<ruby>現地<rt>げんち</rt></ruby><span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measures\"><ruby>対策<rt>たいさく</rt></ruby></span><ruby>本部<rt>ほんぶ</rt></ruby>を<span class=\"vw\" data-ja=\"設置\" data-reading=\"せっち\" data-en=\"installation; setting up\"><ruby>設置<rt>せっち</rt></ruby></span>して、<ruby>救助<rt>きゅうじょ</rt></ruby>や<span class=\"vw\" data-ja=\"支援\" data-reading=\"しえん\" data-en=\"support; aid\"><ruby>支援<rt>しえん</rt></ruby></span>に<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>取り組む<rt>とりくむ</rt></ruby>としています。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、今後1週間ほどは、同じくらいの強い地震が起きるおそれがあるとして、注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>今後<rt>こんご</rt></ruby>1<ruby>週間<rt>しゅうかん</rt></ruby>ほどは、<ruby>同じ<rt>おなじ</rt></ruby>くらいの<ruby>強い<rt>つよい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るおそれがあるとして、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑さの中での避難生活が長くなっていて、一日も早い復旧が求められています。",
+      "ruby": "<ruby>暑さ<rt>あつさ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>での<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span><ruby>生活<rt>せいかつ</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>なっていて、<ruby>一日<rt>いちにち</rt></ruby>も<ruby>早い<rt>はやい</rt></ruby><span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; recovery (of services)\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>が<ruby>求め<rt>もとめ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月28日の午後4時27分ごろ、熊本県で、マグニチュード7.1の大きな地震がありました。宇城市と氷川町では、震度7の非常に強い揺れを観測しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>27<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>熊本県<rt>くまもとけん</rt></ruby>で、マグニチュード7.1の<ruby>大き<rt>おおき</rt></ruby>な<ruby>地震<rt>じしん</rt></ruby>がありました。<ruby>宇城<rt>うき</rt></ruby><ruby>市<rt>し</rt></ruby>と<ruby>氷川<rt>ひかわ</rt></ruby><ruby>町<rt>ちょう</rt></ruby>では、<ruby>震度<rt>しんど</rt></ruby>7の<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; recording (of data)\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At around four twenty-seven in the afternoon on July twenty-eighth, a magnitude seven point one earthquake struck Kumamoto Prefecture. The cities of Uki and Hikawa recorded shaking of intensity seven, the highest level on Japan's scale."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観測",
+      "ruby": "<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; recording (of data)\"><ruby>観測<rt>かんそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to observe and record something, like earthquakes or weather."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地震で、建物が壊れたり、家具が倒れたりして、これまでに34人が亡くなりました。けがをした人も大勢います。",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>たり、<ruby>家具<rt>かぐ</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>たりして、これまでに34<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なりました。けがをした<ruby>人<rt>ひと</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "In this earthquake, buildings collapsed and furniture fell over. So far, thirty-four people have died, and many more were injured."
+    },
+    {
+      "speaker": "vocab",
+      "text": "亡くなる",
+      "ruby": "<span class=\"vw\" data-ja=\"亡くなる\" data-reading=\"なくなる\" data-en=\"to pass away\"><ruby>亡く<rt>なく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a polite, gentle way to say that someone has died."
+    },
+    {
+      "speaker": "slow",
+      "text": "地震のあとも揺れが続いていて、震度1以上の余震は、これまでに270回を超えました。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>のあとも<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ていて、<ruby>震度<rt>しんど</rt></ruby>1<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"余震\" data-reading=\"よしん\" data-en=\"aftershock\"><ruby>余震<rt>よしん</rt></ruby></span>は、これまでに270<ruby>回<rt>かい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The shaking has continued since the main quake, and aftershocks of intensity one or higher have already topped two hundred seventy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "余震",
+      "ruby": "<span class=\"vw\" data-ja=\"余震\" data-reading=\"よしん\" data-en=\"aftershock\"><ruby>余震<rt>よしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an aftershock — a smaller quake that follows a big one."
+    },
+    {
+      "speaker": "slow",
+      "text": "今も、およそ9500人が、県内の400か所以上の避難所で、避難生活を送っています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>も、およそ9500<ruby>人<rt>にん</rt></ruby>が、<ruby>県内<rt>けんない</rt></ruby>の400か<ruby>所<rt>しょ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>で、<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送っ<rt>おくっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even now, about nine thousand five hundred people are living as evacuees at more than four hundred shelters in the prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "避難",
+      "ruby": "<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means evacuation — moving to a safe place."
+    },
+    {
+      "speaker": "slow",
+      "text": "水道や電気にも大きな被害が出ています。少なくともおよそ8万戸で断水が続き、およそ1万2000戸で停電しています。",
+      "ruby": "<ruby>水道<rt>すいどう</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>にも<ruby>大き<rt>おおき</rt></ruby>な<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。<ruby>少なくとも<rt>すくなくとも</rt></ruby>およそ8<ruby>万<rt>まん</rt></ruby><ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"断水\" data-reading=\"だんすい\" data-en=\"water outage; water supply cut\"><ruby>断水<rt>だんすい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>、およそ1<ruby>万<rt>まん</rt></ruby>2000<ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Water and electricity were hit hard. At least about eighty thousand homes have no running water, and about twelve thousand have no power."
+    },
+    {
+      "speaker": "vocab",
+      "text": "断水",
+      "ruby": "<span class=\"vw\" data-ja=\"断水\" data-reading=\"だんすい\" data-en=\"water outage; water supply cut\"><ruby>断水<rt>だんすい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the water supply being cut off."
+    },
+    {
+      "speaker": "slow",
+      "text": "交通にも影響が出ています。九州新幹線は、レールが折れるなど、200か所以上で被害が見つかり、運転を見合わせています。",
+      "ruby": "<ruby>交通<rt>こうつう</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>は、レールが<ruby>折れ<rt>おれ</rt></ruby>るなど、200か<ruby>所<rt>しょ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>が<ruby>見つ<rt>みつ</rt></ruby>かり、<ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Transport is affected too. The Kyushu bullet train has suspended service after damage was found at more than two hundred spots, including broken rails."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見合わせる",
+      "ruby": "<span class=\"vw\" data-ja=\"見合わせる\" data-reading=\"みあわせる\" data-en=\"to suspend; to hold off\"><ruby>見合わ<rt>みあわ</rt></ruby>せる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to suspend or hold off on something, like train service."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、政府は、避難所に簡易型のクーラーを設置するなど、熱中症を防ぐための対策を急いでいます。",
+      "ruby": "このため、<ruby>政府<rt>せいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>に<ruby>簡易型<rt>かんいがた</rt></ruby>のクーラーを<span class=\"vw\" data-ja=\"設置\" data-reading=\"せっち\" data-en=\"installation; setting up\"><ruby>設置<rt>せっち</rt></ruby></span>するなど、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>を<ruby>防ぐ<rt>ふせぐ</rt></ruby>ための<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measures\"><ruby>対策<rt>たいさく</rt></ruby></span>を<ruby>急い<rt>いそい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of the heat, the government is rushing measures against heatstroke, such as installing simple air conditioners in shelters."
+    },
+    {
+      "speaker": "vocab",
+      "text": "熱中症",
+      "ruby": "<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means heatstroke — illness caused by extreme heat."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、今後1週間ほどは、同じくらいの強い地震が起きるおそれがあるとして、注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>今後<rt>こんご</rt></ruby>1<ruby>週間<rt>しゅうかん</rt></ruby>ほどは、<ruby>同じ<rt>おなじ</rt></ruby>くらいの<ruby>強い<rt>つよい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るおそれがあるとして、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency warns that quakes of similar strength could occur over the next week or so, and is urging caution."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people to do something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "7月28日の午後4時27分ごろ、熊本県で、マグニチュード7.1の大きな地震がありました。宇城市と氷川町では、震度7の非常に強い揺れを観測しました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>27<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>熊本県<rt>くまもとけん</rt></ruby>で、マグニチュード7.1の<ruby>大き<rt>おおき</rt></ruby>な<ruby>地震<rt>じしん</rt></ruby>がありました。<ruby>宇城<rt>うき</rt></ruby><ruby>市<rt>し</rt></ruby>と<ruby>氷川<rt>ひかわ</rt></ruby><ruby>町<rt>ちょう</rt></ruby>では、<ruby>震度<rt>しんど</rt></ruby>7の<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; recording (of data)\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によりますと、震源は熊本県の熊本地方で、深さはおよそ10キロでした。八代市や宇土市などでも、震度6強の強い揺れがありました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter; hypocenter\"><ruby>震源<rt>しんげん</rt></ruby></span>は<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>熊本<rt>くまもと</rt></ruby><ruby>地方<rt>ちほう</rt></ruby>で、<ruby>深さ<rt>ふかさ</rt></ruby>はおよそ10キロでした。<ruby>八代<rt>やつしろ</rt></ruby><ruby>市<rt>し</rt></ruby>や<ruby>宇土<rt>うと</rt></ruby><ruby>市<rt>し</rt></ruby>などでも、<ruby>震度<rt>しんど</rt></ruby>6<ruby>強<rt>きょう</rt></ruby>の<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震で、建物が壊れたり、家具が倒れたりして、これまでに34人が亡くなりました。けがをした人も大勢います。",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>たり、<ruby>家具<rt>かぐ</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>たりして、これまでに34<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なりました。けがをした<ruby>人<rt>ひと</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "亡くなった人は、八代市で11人、嘉島町で7人、氷川町で4人などとなっています。",
+      "ruby": "<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は、<ruby>八代<rt>やつしろ</rt></ruby><ruby>市<rt>し</rt></ruby>で11<ruby>人<rt>にん</rt></ruby>、<ruby>嘉<rt>か</rt></ruby><ruby>島<rt>しま</rt></ruby><ruby>町<rt>まち</rt></ruby>で7<ruby>人<rt>にん</rt></ruby>、<ruby>氷川<rt>ひかわ</rt></ruby><ruby>町<rt>ちょう</rt></ruby>で4<ruby>人<rt>にん</rt></ruby>などとなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震のあとも揺れが続いていて、震度1以上の余震は、これまでに270回を超えました。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>のあとも<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ていて、<ruby>震度<rt>しんど</rt></ruby>1<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"余震\" data-reading=\"よしん\" data-en=\"aftershock\"><ruby>余震<rt>よしん</rt></ruby></span>は、これまでに270<ruby>回<rt>かい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今も、およそ9500人が、県内の400か所以上の避難所で、避難生活を送っています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>も、およそ9500<ruby>人<rt>にん</rt></ruby>が、<ruby>県内<rt>けんない</rt></ruby>の400か<ruby>所<rt>しょ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>で、<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送っ<rt>おくっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水道や電気にも大きな被害が出ています。少なくともおよそ8万戸で断水が続き、およそ1万2000戸で停電しています。",
+      "ruby": "<ruby>水道<rt>すいどう</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>にも<ruby>大き<rt>おおき</rt></ruby>な<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。<ruby>少なくとも<rt>すくなくとも</rt></ruby>およそ8<ruby>万<rt>まん</rt></ruby><ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"断水\" data-reading=\"だんすい\" data-en=\"water outage; water supply cut\"><ruby>断水<rt>だんすい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>、およそ1<ruby>万<rt>まん</rt></ruby>2000<ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電気は、31日の夕方までに復旧する見込みですが、水道の復旧には、まだ時間がかかりそうです。",
+      "ruby": "<ruby>電気<rt>でんき</rt></ruby>は、31<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>までに<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; recovery (of services)\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>する<ruby>見込み<rt>みこみ</rt></ruby>ですが、<ruby>水道<rt>すいどう</rt></ruby>の<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; recovery (of services)\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>には、まだ<ruby>時間<rt>じかん</rt></ruby>がかかりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "交通にも影響が出ています。九州新幹線は、レールが折れるなど、200か所以上で被害が見つかり、運転を見合わせています。",
+      "ruby": "<ruby>交通<rt>こうつう</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>は、レールが<ruby>折れ<rt>おれ</rt></ruby>るなど、200か<ruby>所<rt>しょ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>が<ruby>見つ<rt>みつ</rt></ruby>かり、<ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せています。"
+    },
+    {
+      "speaker": "news",
+      "text": "熊本県では、連日、最高気温が35度以上になる、厳しい暑さが続いています。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>では、<ruby>連日<rt>れんじつ</rt></ruby>、<ruby>最高気温<rt>さいこうきおん</rt></ruby>が35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる、<ruby>厳しい<rt>きびしい</rt></ruby><ruby>暑さ<rt>あつさ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、政府は、避難所に簡易型のクーラーを設置するなど、熱中症を防ぐための対策を急いでいます。",
+      "ruby": "このため、<ruby>政府<rt>せいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>に<ruby>簡易型<rt>かんいがた</rt></ruby>のクーラーを<span class=\"vw\" data-ja=\"設置\" data-reading=\"せっち\" data-en=\"installation; setting up\"><ruby>設置<rt>せっち</rt></ruby></span>するなど、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>を<ruby>防ぐ<rt>ふせぐ</rt></ruby>ための<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measures\"><ruby>対策<rt>たいさく</rt></ruby></span>を<ruby>急い<rt>いそい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、熊本県庁に現地対策本部を設置して、救助や支援に全力で取り組むとしています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>熊本県<rt>くまもとけん</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>に<ruby>現地<rt>げんち</rt></ruby><span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure; measures\"><ruby>対策<rt>たいさく</rt></ruby></span><ruby>本部<rt>ほんぶ</rt></ruby>を<span class=\"vw\" data-ja=\"設置\" data-reading=\"せっち\" data-en=\"installation; setting up\"><ruby>設置<rt>せっち</rt></ruby></span>して、<ruby>救助<rt>きゅうじょ</rt></ruby>や<span class=\"vw\" data-ja=\"支援\" data-reading=\"しえん\" data-en=\"support; aid\"><ruby>支援<rt>しえん</rt></ruby></span>に<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>取り組む<rt>とりくむ</rt></ruby>としています。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、今後1週間ほどは、同じくらいの強い地震が起きるおそれがあるとして、注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>今後<rt>こんご</rt></ruby>1<ruby>週間<rt>しゅうかん</rt></ruby>ほどは、<ruby>同じ<rt>おなじ</rt></ruby>くらいの<ruby>強い<rt>つよい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るおそれがあるとして、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑さの中での避難生活が長くなっていて、一日も早い復旧が求められています。",
+      "ruby": "<ruby>暑さ<rt>あつさ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>での<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span><ruby>生活<rt>せいかつ</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>なっていて、<ruby>一日<rt>いちにち</rt></ruby>も<ruby>早い<rt>はやい</rt></ruby><span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; recovery (of services)\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>が<ruby>求め<rt>もとめ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月28日に熊本県で起きた地震では、最大でどのくらいの揺れを観測しましたか。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>に<ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た<ruby>地震<rt>じしん</rt></ruby>では、<ruby>最大<rt>さいだい</rt></ruby>でどのくらいの<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking; tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; recording (of data)\"><ruby>観測<rt>かんそく</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Intensity seven, the highest level on Japan's seismic scale, in the cities of Uki and Hikawa."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、およそ何人が避難所で避難生活を送っていますか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、およそ<ruby>何人<rt>なんにん</rt></ruby>が<span class=\"vw\" data-ja=\"避難所\" data-reading=\"ひなんじょ\" data-en=\"evacuation shelter\"><ruby>避難所<rt>ひなんじょ</rt></ruby></span>で<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送っ<rt>おくっ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About nine thousand five hundred people, at more than four hundred shelters."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. On July twenty-eighth, a magnitude seven point one earthquake struck Kumamoto Prefecture, with shaking of intensity seven at its strongest. Thirty-four people have died, and about nine thousand five hundred people are staying in shelters amid intense summer heat, while water and power outages continue and the Kyushu bullet train remains suspended. Our thoughts are with everyone affected. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation; recording (of data)",
+      "zh": "观测"
+    },
+    {
+      "ja": "震源",
+      "reading": "しんげん",
+      "en": "epicenter; hypocenter",
+      "zh": "震源"
+    },
+    {
+      "ja": "揺れ",
+      "reading": "ゆれ",
+      "en": "shaking; tremor",
+      "zh": "摇晃；震动"
+    },
+    {
+      "ja": "亡くなる",
+      "reading": "なくなる",
+      "en": "to pass away",
+      "zh": "去世"
+    },
+    {
+      "ja": "余震",
+      "reading": "よしん",
+      "en": "aftershock",
+      "zh": "余震"
+    },
+    {
+      "ja": "避難",
+      "reading": "ひなん",
+      "en": "evacuation",
+      "zh": "避难"
+    },
+    {
+      "ja": "避難所",
+      "reading": "ひなんじょ",
+      "en": "evacuation shelter",
+      "zh": "避难所"
+    },
+    {
+      "ja": "断水",
+      "reading": "だんすい",
+      "en": "water outage; water supply cut",
+      "zh": "停水"
+    },
+    {
+      "ja": "停電",
+      "reading": "ていでん",
+      "en": "power outage",
+      "zh": "停电"
+    },
+    {
+      "ja": "復旧",
+      "reading": "ふっきゅう",
+      "en": "restoration; recovery (of services)",
+      "zh": "修复；恢复"
+    },
+    {
+      "ja": "見合わせる",
+      "reading": "みあわせる",
+      "en": "to suspend; to hold off",
+      "zh": "暂停；停运"
+    },
+    {
+      "ja": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "en": "heatstroke",
+      "zh": "中暑"
+    },
+    {
+      "ja": "対策",
+      "reading": "たいさく",
+      "en": "countermeasure; measures",
+      "zh": "对策；措施"
+    },
+    {
+      "ja": "設置",
+      "reading": "せっち",
+      "en": "installation; setting up",
+      "zh": "设置；安装"
+    },
+    {
+      "ja": "支援",
+      "reading": "しえん",
+      "en": "support; aid",
+      "zh": "支援"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to (polite news style)",
+      "meaningZh": "据…（新闻礼貌说法）",
+      "formation": "noun + によりますと",
+      "example": "気象庁によりますと、震源は熊本県の熊本地方でした。",
+      "translation": "According to the Meteorological Agency, the quake was centered in the Kumamoto region of Kumamoto Prefecture.",
+      "note": "polite form of によると; the standard way news reports cite a source",
+      "noteZh": "によると的礼貌形式，是新闻中引用消息来源的标准说法",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "do things like A and B",
+      "meaningZh": "又…又…；表示列举",
+      "formation": "verb た-form + り + verb た-form + り + する",
+      "example": "建物が壊れたり、家具が倒れたりして、大きな被害が出ました。",
+      "translation": "Buildings broke and furniture fell over, causing great damage.",
+      "note": "lists example actions without implying they are the only ones",
+      "noteZh": "列举有代表性的动作，暗示还有其他类似情况",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たり"
+    },
+    {
+      "pattern": "〜見込みだ",
+      "meaning": "be expected to",
+      "meaningZh": "预计…；有望…",
+      "formation": "verb dictionary form + 見込みだ",
+      "example": "電気は、31日の夕方までに復旧する見込みです。",
+      "translation": "Power is expected to be restored by the evening of the thirty-first.",
+      "note": "gives an official forecast or outlook; very common in news",
+      "noteZh": "表示官方的预测或前景，新闻中非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見込み"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that",
+      "meaningZh": "有…的危险；恐怕会…",
+      "formation": "verb dictionary form / noun + の + おそれがある",
+      "example": "同じくらいの強い地震が起きるおそれがあります。",
+      "translation": "There is a risk that quakes of similar strength will occur.",
+      "note": "used for possible bad outcomes; standard in weather and disaster news",
+      "noteZh": "用于可能发生的不好结果，是气象和灾害新闻的固定表达",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜そうだ（様態）",
+      "meaning": "looks like; seems about to",
+      "meaningZh": "看样子…；好像要…",
+      "formation": "verb ます-stem + そうだ",
+      "example": "水道の復旧には、まだ時間がかかりそうです。",
+      "translation": "Restoring the water supply looks like it will take more time.",
+      "note": "expresses a judgment from how things appear, not hearsay",
+      "noteZh": "表示根据情况做出的推测，注意与传闻的そうだ区分",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#そうだ"
+    }
+  ],
+  "practiceZh": [
+    "7月28日の午後4時27分ごろ、熊本県で、マグニチュード7.1の大きな地震がありました。宇城市と氷川町では、震度7の非常に強い揺れを観測しました。\n7月28日下午4点27分左右，熊本县发生了7.1级大地震。宇城市和冰川町观测到震度7的极强摇晃。\nマグニチュード = magnitude；震度 = seismic intensity；観測 = to observe/record",
+    "気象庁によりますと、震源は熊本県の熊本地方で、深さはおよそ10キロでした。八代市や宇土市などでも、震度6強の強い揺れがありました。\n据气象厅消息，震源位于熊本县熊本地方，深度约10公里。八代市和宇土市等地也出现了震度6强的强烈摇晃。\n気象庁 = Meteorological Agency；震源 = epicenter；およそ = about",
+    "この地震で、建物が壊れたり、家具が倒れたりして、これまでに34人が亡くなりました。けがをした人も大勢います。\n这次地震造成建筑物损坏、家具倒塌，目前已有34人遇难，还有许多人受伤。\n壊れる = to break；倒れる = to fall over；大勢 = many people",
+    "亡くなった人は、八代市で11人、嘉島町で7人、氷川町で4人などとなっています。\n遇难者中，八代市11人，嘉岛町7人，冰川町4人。\n亡くなる = to pass away；〜となっています = amounts to (news style)",
+    "地震のあとも揺れが続いていて、震度1以上の余震は、これまでに270回を超えました。\n地震之后摇晃仍在继续，震度1以上的余震已超过270次。\n余震 = aftershock；超える = to exceed",
+    "今も、およそ9500人が、県内の400か所以上の避難所で、避難生活を送っています。\n现在仍有约9500人在县内400多处避难所过着避难生活。\n避難所 = shelter；避難生活を送る = to live as an evacuee",
+    "水道や電気にも大きな被害が出ています。少なくともおよそ8万戸で断水が続き、およそ1万2000戸で停電しています。\n供水和供电也遭受重大损失。至少约8万户停水，约1万2000户停电。\n断水 = water outage；停電 = power outage；戸 = household",
+    "電気は、31日の夕方までに復旧する見込みですが、水道の復旧には、まだ時間がかかりそうです。\n电力预计在31日傍晚前恢复，但供水的恢复还需要时间。\n復旧 = restoration；見込み = outlook；かかる = to take (time)",
+    "交通にも影響が出ています。九州新幹線は、レールが折れるなど、200か所以上で被害が見つかり、運転を見合わせています。\n交通也受到影响。九州新干线发现钢轨断裂等200多处损坏，目前停运。\n影響 = influence；折れる = to snap；見合わせる = to suspend",
+    "熊本県では、連日、最高気温が35度以上になる、厳しい暑さが続いています。\n熊本县连日来最高气温超过35度，酷暑持续。\n連日 = day after day；最高気温 = highest temperature；厳しい = severe",
+    "このため、政府は、避難所に簡易型のクーラーを設置するなど、熱中症を防ぐための対策を急いでいます。\n因此，政府正抓紧采取防暑措施，比如在避难所安装简易空调。\n設置 = to install；熱中症 = heatstroke；対策 = countermeasure",
+    "政府は、熊本県庁に現地対策本部を設置して、救助や支援に全力で取り組むとしています。\n政府在熊本县厅设立了当地对策本部，表示将全力开展救援和支援。\n現地 = on-site；救助 = rescue；取り組む = to tackle",
+    "気象庁は、今後1週間ほどは、同じくらいの強い地震が起きるおそれがあるとして、注意を呼びかけています。\n气象厅呼吁注意，今后一周左右仍可能发生同等强度的地震。\n今後 = from now on；おそれがある = there is a risk；呼びかける = to urge",
+    "暑さの中での避難生活が長くなっていて、一日も早い復旧が求められています。\n酷暑中的避难生活正在变长，人们期盼早日恢复。\n一日も早い = as soon as possible；求められる = to be called for"
+  ]
+}
