@@ -1,0 +1,527 @@
+{
+  "episode": 91,
+  "title": "日本人の人口、42年ぶりに1億2000万人を下回る",
+  "date": "2026-07-31",
+  "source": "共同通信 / 日本経済新聞 / 毎日新聞 / 総務省",
+  "level": "N4-N3",
+  "contentVersion": "2026073101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is July thirty-first. Tonight's story is about a historic milestone for Japan: the country's population has fallen below one hundred twenty million for the first time in forty-two years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は、7月29日、住民基本台帳をもとに、今年1月1日現在の日本の人口を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は、7<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>、<ruby>住民基本台帳<rt>じゅうみんきほんだいちょう</rt></ruby>をもとに、<ruby>今年<rt>ことし</rt></ruby>1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby><ruby>現在<rt>げんざい</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>を<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それによりますと、日本人の人口は、1億1973万6483人でした。1億2000万人を下回るのは、1984年以来、42年ぶりです。",
+      "ruby": "それによりますと、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、1<ruby>億<rt>おく</rt></ruby>1973<ruby>万<rt>まん</rt></ruby>6483<ruby>人<rt>にん</rt></ruby>でした。1<ruby>億<rt>おく</rt></ruby>2000<ruby>万人<rt>まんにん</rt></ruby>を<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below\"><ruby>下回る<rt>したまわる</rt></ruby></span>のは、1984<ruby>年<rt>ねん</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、42<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本人の人口は、去年より、およそ91万7000人減りました。減少は17年連続で、減った人数も割合も、調査を始めた1968年以降で最大です。",
+      "ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より、およそ91<ruby>万<rt>まん</rt></ruby>7000<ruby>人<rt>にん</rt></ruby><ruby>減り<rt>へり</rt></ruby>ました。<span class=\"vw\" data-ja=\"減少\" data-reading=\"げんしょう\" data-en=\"decrease; decline\"><ruby>減少<rt>げんしょう</rt></ruby></span>は17<ruby>年<rt>ねん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で、<ruby>減っ<rt>へっ</rt></ruby>た<ruby>人数<rt>にんずう</rt></ruby>も<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; rate\"><ruby>割合<rt>わりあい</rt></ruby></span>も、<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た1968<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>で<ruby>最大<rt>さいだい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "人口が減った一番の理由は、生まれる子どもより、亡くなる人のほうが多い「自然減」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>た<ruby>一番<rt>いちばん</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>生まれ<rt>うまれ</rt></ruby>る<ruby>子ども<rt>こども</rt></ruby>より、<ruby>亡く<rt>なく</rt></ruby>なる<ruby>人<rt>ひと</rt></ruby>のほうが<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"自然減\" data-reading=\"しぜんげん\" data-en=\"natural population decrease\"><ruby>自然<rt>しぜん</rt></ruby><ruby>減<rt>げん</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この1年間に生まれた子どもは、およそ67万人で、過去最少でした。一方、亡くなった人は、およそ159万人でした。",
+      "ruby": "この1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、およそ67<ruby>万人<rt>まんにん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最少\" data-reading=\"かこさいしょう\" data-en=\"record low\"><ruby>過去<rt>かこ</rt></ruby><ruby>最少<rt>さいしょう</rt></ruby></span>でした。<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は、およそ159<ruby>万人<rt>まんにん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、自然減は、およそ92万3000人で、過去最大になりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"自然減\" data-reading=\"しぜんげん\" data-en=\"natural population decrease\"><ruby>自然<rt>しぜん</rt></ruby><ruby>減<rt>げん</rt></ruby></span>は、およそ92<ruby>万<rt>まん</rt></ruby>3000<ruby>人<rt>にん</rt></ruby>で、<ruby>過去<rt>かこ</rt></ruby><ruby>最大<rt>さいだい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "都道府県別に見ると、日本人の人口が増えたのは東京都だけで、残りの46の道府県では、すべて減りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span><ruby>別に<rt>べつに</rt></ruby><ruby>見る<rt>みる</rt></ruby>と、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>たのは<ruby>東京都<rt>とうきょうと</rt></ruby>だけで、<ruby>残り<rt>のこり</rt></ruby>の46の<ruby>道府県<rt>どうふけん</rt></ruby>では、すべて<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、日本に住む外国人は、403万1159人で、過去最多になりました。400万人を超えたのは、初めてです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>は、403<ruby>万<rt>まん</rt></ruby>1159<ruby>人<rt>にん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record high (number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>になりました。400<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>たのは、<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人の人口は、去年より、およそ35万人増えました。すべての都道府県で増えています。",
+      "ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より、およそ35<ruby>万人<rt>まんにん</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ました。すべての<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>で<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人は、働く世代の若い人が多く、工場やお店、介護の現場など、さまざまな仕事を支えています。",
+      "ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>は、<ruby>働く<rt>はたらく</rt></ruby><ruby>世代<rt>せだい</rt></ruby>の<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>工場<rt>こうじょう</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>、<ruby>介護<rt>かいご</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>など、さまざまな<ruby>仕事<rt>しごと</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、生まれる子どもが減って、高齢者が増えているため、働く人の不足が、ますます大きな課題になっています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>生まれ<rt>うまれ</rt></ruby>る<ruby>子ども<rt>こども</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>て、<span class=\"vw\" data-ja=\"高齢者\" data-reading=\"こうれいしゃ\" data-en=\"elderly people\"><ruby>高齢者<rt>こうれいしゃ</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ているため、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"不足\" data-reading=\"ふそく\" data-en=\"shortage; lack\"><ruby>不足<rt>ふそく</rt></ruby></span>が、ますます<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、子育ての支援を強めるとともに、外国人が安心して働き、暮らせる環境づくりを進めるとしています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>子育て<rt>こそだて</rt></ruby>の<span class=\"vw\" data-ja=\"支援\" data-reading=\"しえん\" data-en=\"support; aid\"><ruby>支援<rt>しえん</rt></ruby></span>を<ruby>強め<rt>つよめ</rt></ruby>るとともに、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>安心し<rt>あんしんし</rt></ruby>て<ruby>働き<rt>はたらき</rt></ruby>、<ruby>暮ら<rt>くら</rt></ruby>せる<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment; conditions\"><ruby>環境<rt>かんきょう</rt></ruby></span>づくりを<ruby>進め<rt>すすめ</rt></ruby>るとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "人口の減少は、社会や経済に大きな影響を与えるため、今後の対策が注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>の<span class=\"vw\" data-ja=\"減少\" data-reading=\"げんしょう\" data-en=\"decrease; decline\"><ruby>減少<rt>げんしょう</rt></ruby></span>は、<ruby>社会<rt>しゃかい</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>に<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>を<ruby>与え<rt>あたえ</rt></ruby>るため、<ruby>今後<rt>こんご</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>が<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; interest\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "それによりますと、日本人の人口は、1億1973万6483人でした。1億2000万人を下回るのは、1984年以来、42年ぶりです。",
+      "ruby": "それによりますと、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、1<ruby>億<rt>おく</rt></ruby>1973<ruby>万<rt>まん</rt></ruby>6483<ruby>人<rt>にん</rt></ruby>でした。1<ruby>億<rt>おく</rt></ruby>2000<ruby>万人<rt>まんにん</rt></ruby>を<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below\"><ruby>下回る<rt>したまわる</rt></ruby></span>のは、1984<ruby>年<rt>ねん</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、42<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the report, Japan's Japanese population was one hundred nineteen million, seven hundred thirty-six thousand, four hundred eighty-three. It fell below one hundred twenty million for the first time in forty-two years, since nineteen eighty-four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下回る",
+      "ruby": "<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below\"><ruby>下回る<rt>したまわる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fall below a certain level or number."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本人の人口は、去年より、およそ91万7000人減りました。減少は17年連続で、減った人数も割合も、調査を始めた1968年以降で最大です。",
+      "ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より、およそ91<ruby>万<rt>まん</rt></ruby>7000<ruby>人<rt>にん</rt></ruby><ruby>減り<rt>へり</rt></ruby>ました。<span class=\"vw\" data-ja=\"減少\" data-reading=\"げんしょう\" data-en=\"decrease; decline\"><ruby>減少<rt>げんしょう</rt></ruby></span>は17<ruby>年<rt>ねん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で、<ruby>減っ<rt>へっ</rt></ruby>た<ruby>人数<rt>にんずう</rt></ruby>も<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; rate\"><ruby>割合<rt>わりあい</rt></ruby></span>も、<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た1968<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>で<ruby>最大<rt>さいだい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The population fell by about nine hundred seventeen thousand from last year. It has declined for seventeen years in a row, and both the number and the rate of decline are the largest since the survey began in nineteen sixty-eight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "割合",
+      "ruby": "<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; rate\"><ruby>割合<rt>わりあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a ratio or rate — a share of the whole."
+    },
+    {
+      "speaker": "slow",
+      "text": "この1年間に生まれた子どもは、およそ67万人で、過去最少でした。一方、亡くなった人は、およそ159万人でした。",
+      "ruby": "この1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、およそ67<ruby>万人<rt>まんにん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最少\" data-reading=\"かこさいしょう\" data-en=\"record low\"><ruby>過去<rt>かこ</rt></ruby><ruby>最少<rt>さいしょう</rt></ruby></span>でした。<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は、およそ159<ruby>万人<rt>まんにん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "About six hundred seventy thousand babies were born this past year, a record low. Meanwhile, about one point five nine million people passed away."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過去最少",
+      "ruby": "<span class=\"vw\" data-ja=\"過去最少\" data-reading=\"かこさいしょう\" data-en=\"record low\"><ruby>過去<rt>かこ</rt></ruby><ruby>最少<rt>さいしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the lowest number on record."
+    },
+    {
+      "speaker": "slow",
+      "text": "都道府県別に見ると、日本人の人口が増えたのは東京都だけで、残りの46の道府県では、すべて減りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span><ruby>別に<rt>べつに</rt></ruby><ruby>見る<rt>みる</rt></ruby>と、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>たのは<ruby>東京都<rt>とうきょうと</rt></ruby>だけで、<ruby>残り<rt>のこり</rt></ruby>の46の<ruby>道府県<rt>どうふけん</rt></ruby>では、すべて<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "By prefecture, Tokyo was the only one where the Japanese population grew. It fell in all of the other forty-six prefectures."
+    },
+    {
+      "speaker": "vocab",
+      "text": "都道府県",
+      "ruby": "<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It refers to Japan's forty-seven prefectures."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、日本に住む外国人は、403万1159人で、過去最多になりました。400万人を超えたのは、初めてです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>は、403<ruby>万<rt>まん</rt></ruby>1159<ruby>人<rt>にん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record high (number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>になりました。400<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>たのは、<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, foreign residents reached a record four million, thirty-one thousand — topping four million for the first time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "超える",
+      "ruby": "<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed; to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to exceed or go over a number."
+    },
+    {
+      "speaker": "slow",
+      "text": "外国人は、働く世代の若い人が多く、工場やお店、介護の現場など、さまざまな仕事を支えています。",
+      "ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>は、<ruby>働く<rt>はたらく</rt></ruby><ruby>世代<rt>せだい</rt></ruby>の<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>工場<rt>こうじょう</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>、<ruby>介護<rt>かいご</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>など、さまざまな<ruby>仕事<rt>しごと</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Many foreign residents are young working-age people, and they support all kinds of jobs — in factories, shops, and elder care."
+    },
+    {
+      "speaker": "vocab",
+      "text": "支える",
+      "ruby": "<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support; to sustain\"><ruby>支え<rt>ささえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to support or sustain something."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、生まれる子どもが減って、高齢者が増えているため、働く人の不足が、ますます大きな課題になっています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>生まれ<rt>うまれ</rt></ruby>る<ruby>子ども<rt>こども</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>て、<span class=\"vw\" data-ja=\"高齢者\" data-reading=\"こうれいしゃ\" data-en=\"elderly people\"><ruby>高齢者<rt>こうれいしゃ</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ているため、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"不足\" data-reading=\"ふそく\" data-en=\"shortage; lack\"><ruby>不足<rt>ふそく</rt></ruby></span>が、ますます<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "With fewer children being born and more elderly people, the shortage of workers is becoming a bigger and bigger challenge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不足",
+      "ruby": "<span class=\"vw\" data-ja=\"不足\" data-reading=\"ふそく\" data-en=\"shortage; lack\"><ruby>不足<rt>ふそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a shortage — not having enough of something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は、7月29日、住民基本台帳をもとに、今年1月1日現在の日本の人口を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は、7<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>、<ruby>住民基本台帳<rt>じゅうみんきほんだいちょう</rt></ruby>をもとに、<ruby>今年<rt>ことし</rt></ruby>1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby><ruby>現在<rt>げんざい</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>を<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それによりますと、日本人の人口は、1億1973万6483人でした。1億2000万人を下回るのは、1984年以来、42年ぶりです。",
+      "ruby": "それによりますと、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、1<ruby>億<rt>おく</rt></ruby>1973<ruby>万<rt>まん</rt></ruby>6483<ruby>人<rt>にん</rt></ruby>でした。1<ruby>億<rt>おく</rt></ruby>2000<ruby>万人<rt>まんにん</rt></ruby>を<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below\"><ruby>下回る<rt>したまわる</rt></ruby></span>のは、1984<ruby>年<rt>ねん</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、42<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本人の人口は、去年より、およそ91万7000人減りました。減少は17年連続で、減った人数も割合も、調査を始めた1968年以降で最大です。",
+      "ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より、およそ91<ruby>万<rt>まん</rt></ruby>7000<ruby>人<rt>にん</rt></ruby><ruby>減り<rt>へり</rt></ruby>ました。<span class=\"vw\" data-ja=\"減少\" data-reading=\"げんしょう\" data-en=\"decrease; decline\"><ruby>減少<rt>げんしょう</rt></ruby></span>は17<ruby>年<rt>ねん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で、<ruby>減っ<rt>へっ</rt></ruby>た<ruby>人数<rt>にんずう</rt></ruby>も<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; rate\"><ruby>割合<rt>わりあい</rt></ruby></span>も、<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た1968<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>で<ruby>最大<rt>さいだい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "人口が減った一番の理由は、生まれる子どもより、亡くなる人のほうが多い「自然減」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>た<ruby>一番<rt>いちばん</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>生まれ<rt>うまれ</rt></ruby>る<ruby>子ども<rt>こども</rt></ruby>より、<ruby>亡く<rt>なく</rt></ruby>なる<ruby>人<rt>ひと</rt></ruby>のほうが<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"自然減\" data-reading=\"しぜんげん\" data-en=\"natural population decrease\"><ruby>自然<rt>しぜん</rt></ruby><ruby>減<rt>げん</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この1年間に生まれた子どもは、およそ67万人で、過去最少でした。一方、亡くなった人は、およそ159万人でした。",
+      "ruby": "この1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>子ども<rt>こども</rt></ruby>は、およそ67<ruby>万人<rt>まんにん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最少\" data-reading=\"かこさいしょう\" data-en=\"record low\"><ruby>過去<rt>かこ</rt></ruby><ruby>最少<rt>さいしょう</rt></ruby></span>でした。<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は、およそ159<ruby>万人<rt>まんにん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、自然減は、およそ92万3000人で、過去最大になりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"自然減\" data-reading=\"しぜんげん\" data-en=\"natural population decrease\"><ruby>自然<rt>しぜん</rt></ruby><ruby>減<rt>げん</rt></ruby></span>は、およそ92<ruby>万<rt>まん</rt></ruby>3000<ruby>人<rt>にん</rt></ruby>で、<ruby>過去<rt>かこ</rt></ruby><ruby>最大<rt>さいだい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "都道府県別に見ると、日本人の人口が増えたのは東京都だけで、残りの46の道府県では、すべて減りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span><ruby>別に<rt>べつに</rt></ruby><ruby>見る<rt>みる</rt></ruby>と、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>たのは<ruby>東京都<rt>とうきょうと</rt></ruby>だけで、<ruby>残り<rt>のこり</rt></ruby>の46の<ruby>道府県<rt>どうふけん</rt></ruby>では、すべて<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、日本に住む外国人は、403万1159人で、過去最多になりました。400万人を超えたのは、初めてです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>は、403<ruby>万<rt>まん</rt></ruby>1159<ruby>人<rt>にん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record high (number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>になりました。400<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>たのは、<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人の人口は、去年より、およそ35万人増えました。すべての都道府県で増えています。",
+      "ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より、およそ35<ruby>万人<rt>まんにん</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ました。すべての<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>で<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人は、働く世代の若い人が多く、工場やお店、介護の現場など、さまざまな仕事を支えています。",
+      "ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>は、<ruby>働く<rt>はたらく</rt></ruby><ruby>世代<rt>せだい</rt></ruby>の<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>工場<rt>こうじょう</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>、<ruby>介護<rt>かいご</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>など、さまざまな<ruby>仕事<rt>しごと</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、生まれる子どもが減って、高齢者が増えているため、働く人の不足が、ますます大きな課題になっています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>生まれ<rt>うまれ</rt></ruby>る<ruby>子ども<rt>こども</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>て、<span class=\"vw\" data-ja=\"高齢者\" data-reading=\"こうれいしゃ\" data-en=\"elderly people\"><ruby>高齢者<rt>こうれいしゃ</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ているため、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"不足\" data-reading=\"ふそく\" data-en=\"shortage; lack\"><ruby>不足<rt>ふそく</rt></ruby></span>が、ますます<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、子育ての支援を強めるとともに、外国人が安心して働き、暮らせる環境づくりを進めるとしています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>子育て<rt>こそだて</rt></ruby>の<span class=\"vw\" data-ja=\"支援\" data-reading=\"しえん\" data-en=\"support; aid\"><ruby>支援<rt>しえん</rt></ruby></span>を<ruby>強め<rt>つよめ</rt></ruby>るとともに、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>安心し<rt>あんしんし</rt></ruby>て<ruby>働き<rt>はたらき</rt></ruby>、<ruby>暮ら<rt>くら</rt></ruby>せる<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment; conditions\"><ruby>環境<rt>かんきょう</rt></ruby></span>づくりを<ruby>進め<rt>すすめ</rt></ruby>るとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "人口の減少は、社会や経済に大きな影響を与えるため、今後の対策が注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>の<span class=\"vw\" data-ja=\"減少\" data-reading=\"げんしょう\" data-en=\"decrease; decline\"><ruby>減少<rt>げんしょう</rt></ruby></span>は、<ruby>社会<rt>しゃかい</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>に<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>を<ruby>与え<rt>あたえ</rt></ruby>るため、<ruby>今後<rt>こんご</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>が<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; interest\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本人の人口が1億2000万人を下回ったのは、何年ぶりですか。",
+      "ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>が1<ruby>億<rt>おく</rt></ruby>2000<ruby>万人<rt>まんにん</rt></ruby>を<ruby>下回<rt>げかい</rt></ruby>ったのは、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty-two years — it is the first time since nineteen eighty-four."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本に住む外国人の人口は、およそ何万人になりましたか。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>は、およそ<ruby>何万人<rt>なんまんにん</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About four million, thirty-one thousand — a record high, and the first time above four million."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. As of January first this year, Japan's Japanese population fell below one hundred twenty million for the first time in forty-two years, after a record drop of about nine hundred seventeen thousand people. Tokyo was the only prefecture that grew, while foreign residents topped four million for the first time. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "人口",
+      "reading": "じんこう",
+      "en": "population",
+      "zh": "人口"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; to announce",
+      "zh": "发表；公布"
+    },
+    {
+      "ja": "下回る",
+      "reading": "したまわる",
+      "en": "to fall below",
+      "zh": "低于；跌破"
+    },
+    {
+      "ja": "減少",
+      "reading": "げんしょう",
+      "en": "decrease; decline",
+      "zh": "减少"
+    },
+    {
+      "ja": "割合",
+      "reading": "わりあい",
+      "en": "ratio; rate",
+      "zh": "比例；比率"
+    },
+    {
+      "ja": "自然減",
+      "reading": "しぜんげん",
+      "en": "natural population decrease",
+      "zh": "自然减少"
+    },
+    {
+      "ja": "過去最少",
+      "reading": "かこさいしょう",
+      "en": "record low",
+      "zh": "历史最少"
+    },
+    {
+      "ja": "過去最多",
+      "reading": "かこさいた",
+      "en": "record high (number)",
+      "zh": "历史最多"
+    },
+    {
+      "ja": "都道府県",
+      "reading": "とどうふけん",
+      "en": "prefectures (of Japan)",
+      "zh": "都道府县"
+    },
+    {
+      "ja": "超える",
+      "reading": "こえる",
+      "en": "to exceed; to go over",
+      "zh": "超过"
+    },
+    {
+      "ja": "支える",
+      "reading": "ささえる",
+      "en": "to support; to sustain",
+      "zh": "支撑；支持"
+    },
+    {
+      "ja": "高齢者",
+      "reading": "こうれいしゃ",
+      "en": "elderly people",
+      "zh": "老年人"
+    },
+    {
+      "ja": "不足",
+      "reading": "ふそく",
+      "en": "shortage; lack",
+      "zh": "不足；短缺"
+    },
+    {
+      "ja": "課題",
+      "reading": "かだい",
+      "en": "challenge; issue",
+      "zh": "课题；难题"
+    },
+    {
+      "ja": "支援",
+      "reading": "しえん",
+      "en": "support; aid",
+      "zh": "支援"
+    },
+    {
+      "ja": "環境",
+      "reading": "かんきょう",
+      "en": "environment; conditions",
+      "zh": "环境"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "influence; effect",
+      "zh": "影响"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention; interest",
+      "zh": "关注"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔…；…以来第一次",
+      "formation": "time period + ぶり",
+      "example": "1億2000万人を下回るのは、42年ぶりです。",
+      "translation": "It is the first time in forty-two years that the population has fallen below one hundred twenty million.",
+      "note": "emphasizes how long it has been since something last happened",
+      "noteZh": "强调距离上次发生已经过了多长时间",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since",
+      "meaningZh": "自…以来",
+      "formation": "noun / verb て-form + 以来",
+      "example": "1億2000万人を下回るのは、1984年以来です。",
+      "translation": "It is the first time since nineteen eighty-four that the population has fallen below one hundred twenty million.",
+      "note": "marks the starting point of a state that has continued until now",
+      "noteZh": "表示从某个时间点开始一直持续到现在",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#以来"
+    },
+    {
+      "pattern": "〜をもとに",
+      "meaning": "based on",
+      "meaningZh": "以…为基础；根据…",
+      "formation": "noun + をもとに",
+      "example": "総務省は、住民基本台帳をもとに、日本の人口を発表しました。",
+      "translation": "The ministry announced Japan's population based on the resident registry.",
+      "note": "the following action uses the noun as its source or foundation",
+      "noteZh": "表示以某事物为依据或材料进行后面的动作",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#をもとに"
+    },
+    {
+      "pattern": "一方（で）",
+      "meaning": "meanwhile; on the other hand",
+      "meaningZh": "另一方面；与此同时",
+      "formation": "sentence + 。一方、 + sentence",
+      "example": "生まれた子どもは過去最少でした。一方、亡くなった人は、およそ159万人でした。",
+      "translation": "Births were a record low. Meanwhile, about one point five nine million people passed away.",
+      "note": "contrasts two facts or shows two sides of a situation; very common in news",
+      "noteZh": "对比两个事实或展示事情的两面，新闻中非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一方"
+    },
+    {
+      "pattern": "〜とともに",
+      "meaning": "together with; as well as",
+      "meaningZh": "与…同时；在…的同时",
+      "formation": "verb dictionary form / noun + とともに",
+      "example": "政府は、子育ての支援を強めるとともに、環境づくりを進めるとしています。",
+      "translation": "The government says it will strengthen child-care support and, at the same time, improve living conditions.",
+      "note": "formal way to say two actions happen together; common in written and news Japanese",
+      "noteZh": "表示两个动作同时进行的书面语，常见于新闻",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とともに"
+    }
+  ],
+  "practiceZh": [
+    "総務省は、7月29日、住民基本台帳をもとに、今年1月1日現在の日本の人口を発表しました。\n7月29日，总务省根据居民基本台帐，公布了今年1月1日时点的日本人口。\n総務省 = Ministry of Internal Affairs；住民基本台帳 = resident registry；現在 = as of",
+    "それによりますと、日本人の人口は、1億1973万6483人でした。1億2000万人を下回るのは、1984年以来、42年ぶりです。\n据此，日本人的人口为1亿1973万6483人。跌破1亿2000万人是自1984年以来、时隔42年的第一次。\n下回る = to fall below；以来 = since；〜ぶり = for the first time in",
+    "日本人の人口は、去年より、およそ91万7000人減りました。減少は17年連続で、減った人数も割合も、調査を始めた1968年以降で最大です。\n日本人的人口比去年减少了约91万7000人。已连续17年减少，减少的人数和比例都是1968年开始调查以来最大的。\n減少 = decrease；連続 = consecutive；割合 = ratio",
+    "人口が減った一番の理由は、生まれる子どもより、亡くなる人のほうが多い「自然減」です。\n人口减少的最主要原因是去世的人比出生的孩子多的“自然减少”。\n理由 = reason；亡くなる = to pass away；自然減 = natural decrease",
+    "この1年間に生まれた子どもは、およそ67万人で、過去最少でした。一方、亡くなった人は、およそ159万人でした。\n这一年出生的孩子约67万人，创历史最少。另一方面，去世的人约159万人。\n過去最少 = record low；一方 = meanwhile；およそ = about",
+    "その結果、自然減は、およそ92万3000人で、過去最大になりました。\n结果，自然减少约92万3000人，创历史最大。\nその結果 = as a result；過去最大 = largest on record",
+    "都道府県別に見ると、日本人の人口が増えたのは東京都だけで、残りの46の道府県では、すべて減りました。\n按都道府县来看，日本人人口增加的只有东京都，其余46个道府县全部减少。\n都道府県 = prefectures；〜別 = by (category)；残り = the rest",
+    "一方、日本に住む外国人は、403万1159人で、過去最多になりました。400万人を超えたのは、初めてです。\n另一方面，住在日本的外国人为403万1159人，创历史最多。超过400万人尚属首次。\n外国人 = foreign residents；過去最多 = record high；超える = to exceed",
+    "外国人の人口は、去年より、およそ35万人増えました。すべての都道府県で増えています。\n外国人人口比去年增加了约35万人。在所有都道府县都在增加。\n増える = to increase；すべて = all",
+    "外国人は、働く世代の若い人が多く、工場やお店、介護の現場など、さまざまな仕事を支えています。\n外国人中处于劳动年龄的年轻人很多，支撑着工厂、商店、护理一线等各种工作。\n世代 = generation；介護 = elder care；支える = to support",
+    "日本では、生まれる子どもが減って、高齢者が増えているため、働く人の不足が、ますます大きな課題になっています。\n在日本，出生的孩子在减少，老年人在增加，劳动力不足正成为越来越大的课题。\n高齢者 = elderly people；不足 = shortage；課題 = challenge",
+    "政府は、子育ての支援を強めるとともに、外国人が安心して働き、暮らせる環境づくりを進めるとしています。\n政府表示，将在加强育儿支援的同时，推进让外国人能安心工作和生活的环境建设。\n支援 = support；とともに = along with；環境づくり = creating an environment",
+    "人口の減少は、社会や経済に大きな影響を与えるため、今後の対策が注目されています。\n人口减少将对社会和经济产生重大影响，今后的对策备受关注。\n影響を与える = to affect；今後 = from now on；注目 = attention"
+  ]
+}
