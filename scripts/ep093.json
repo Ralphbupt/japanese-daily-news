@@ -1,0 +1,557 @@
+{
+  "episode": 93,
+  "title": "情報活動の司令塔「国家情報局」が発足",
+  "date": "2026-08-01",
+  "source": "NHK NEWS WEB / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026080101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August first. Japan has just launched a new intelligence agency — a single command center for gathering and analyzing information about national security and diplomacy. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "きのう7月31日、国の安全保障や外交に関する情報を集めて分析する、新しい組織「国家情報局」が発足しました。",
+      "ruby": "きのう7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>に<ruby>関す<rt>かんす</rt></ruby>る<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>「<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>」が<span class=\"vw\" data-ja=\"発足\" data-reading=\"ほっそく\" data-en=\"launch; inauguration (of an organization)\"><ruby>発足<rt>ほっそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国家情報局は、これまでの「内閣情報調査室」という組織を改組してつくられ、内閣官房に置かれます。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>は、これまでの「<ruby>内閣<rt>ないかく</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>調査室<rt>ちょうさしつ</rt></ruby>」という<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>を<span class=\"vw\" data-ja=\"改組\" data-reading=\"かいそ\" data-en=\"reorganization (of an institution)\"><ruby>改組<rt>かいそ</rt></ruby></span>してつくられ、<ruby>内閣<rt>ないかく</rt></ruby><ruby>官房<rt>かんぼう</rt></ruby>に<ruby>置か<rt>おか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本ではこれまで、外交や安全保障の情報を、外務省や防衛省、警察庁など、多くの組織がべつべつに集めてきました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>ではこれまで、<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>や<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>外務省<rt>がいむしょう</rt></ruby>や<ruby>防衛<rt>ぼうえい</rt></ruby><ruby>省<rt>しょう</rt></ruby>、<ruby>警察庁<rt>けいさつちょう</rt></ruby>など、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>がべつべつに<ruby>集め<rt>あつめ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、組織の間で情報がうまく共有されず、大事な情報が総理大臣に早く届かないおそれがあると、指摘されてきました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>情報<rt>じょうほう</rt></ruby>がうまく<span class=\"vw\" data-ja=\"共有\" data-reading=\"きょうゆう\" data-en=\"sharing (information, etc.)\"><ruby>共有<rt>きょうゆう</rt></ruby></span>されず、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>総理大臣<rt>そうりだいじん</rt></ruby>に<ruby>早く<rt>はやく</rt></ruby><ruby>届か<rt>とどか</rt></ruby>ないおそれがあると、<span class=\"vw\" data-ja=\"指摘\" data-reading=\"してき\" data-en=\"pointing out (a problem)\"><ruby>指摘<rt>してき</rt></ruby></span>されてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで政府は、ばらばらだった情報をひとつにまとめる「司令塔」として、国家情報局をつくることを決めました。",
+      "ruby": "そこで<ruby>政府<rt>せいふ</rt></ruby>は、ばらばらだった<ruby>情報<rt>じょうほう</rt></ruby>をひとつにまとめる「<span class=\"vw\" data-ja=\"司令塔\" data-reading=\"しれいとう\" data-en=\"command center; control tower (figurative)\"><ruby>司令<rt>しれい</rt></ruby><ruby>塔<rt>とう</rt></ruby></span>」として、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>をつくることを<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国家情報局の職員は、およそ730人です。情報を分析する部や、経済の情報を担当する部など、7つの部があります。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>の<span class=\"vw\" data-ja=\"職員\" data-reading=\"しょくいん\" data-en=\"staff member; personnel\"><ruby>職員<rt>しょくいん</rt></ruby></span>は、およそ730<ruby>人<rt>にん</rt></ruby>です。<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する<ruby>部<rt>ぶ</rt></ruby>や、<ruby>経済<rt>けいざい</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"担当\" data-reading=\"たんとう\" data-en=\"being in charge of\"><ruby>担当<rt>たんとう</rt></ruby></span>する<ruby>部<rt>ぶ</rt></ruby>など、7つの<ruby>部<rt>ぶ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "人工衛星を使って、ほかの国の様子を調べる「内閣衛星情報センター」も、国家情報局の一部になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>、ほかの<ruby>国<rt>くに</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>る「<ruby>内閣<rt>ないかく</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>センター」も、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "初代の局長には、これまで内閣情報官を務めてきた、警察庁出身の原和也氏が就任しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"初代\" data-reading=\"しょだい\" data-en=\"first (director, president, etc.)\"><ruby>初代<rt>しょだい</rt></ruby></span>の<ruby>局長<rt>きょくちょう</rt></ruby>には、これまで<ruby>内閣<rt>ないかく</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>官<rt>かん</rt></ruby>を<ruby>務め<rt>つとめ</rt></ruby>てきた、<ruby>警察庁<rt>けいさつちょう</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>原<rt>はら</rt></ruby><ruby>和也<rt>かずや</rt></ruby><ruby>氏<rt>し</rt></ruby>が<span class=\"vw\" data-ja=\"就任\" data-reading=\"しゅうにん\" data-en=\"assuming a post\"><ruby>就任<rt>しゅうにん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、同じ31日には、総理大臣がトップを務める「国家情報会議」の初めての会議も開かれました。",
+      "ruby": "また、<ruby>同じ<rt>おなじ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>には、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>がトップを<ruby>務め<rt>つとめ</rt></ruby>る「<ruby>国家<rt>こっか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>」の<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>も<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国家情報会議には、官房長官や外務大臣、防衛大臣など、安全保障に関係する大臣が参加します。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>には、<ruby>官房<rt>かんぼう</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>や<ruby>外務大臣<rt>がいむだいじん</rt></ruby>、<ruby>防衛大臣<rt>ぼうえいだいじん</rt></ruby>など、<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>大臣<rt>だいじん</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "この会議は、国家情報局が集めて分析した情報をもとに、国の安全保障や外交の大事な方針を話し合います。",
+      "ruby": "この<ruby>会議<rt>かいぎ</rt></ruby>は、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>て<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>した<ruby>情報<rt>じょうほう</rt></ruby>をもとに、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>の<ruby>大事<rt>だいじ</rt></ruby>な<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; course of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>を<ruby>話し合い<rt>はなしあい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、経済安全保障や、インターネット上の偽情報への対策などの分野でも、情報を集める力を強めていく方針です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>経済<rt>けいざい</rt></ruby><span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や、インターネット<ruby>上の<rt>うえの</rt></ruby><span class=\"vw\" data-ja=\"偽情報\" data-reading=\"にせじょうほう\" data-en=\"false information; disinformation\"><ruby>偽<rt>にせ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby></span>への<ruby>対策<rt>たいさく</rt></ruby>などの<ruby>分野<rt>ぶんや</rt></ruby>でも、<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>を<ruby>強め<rt>つよめ</rt></ruby>ていく<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; course of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい組織が集めた情報を、政府がどのように政策に生かしていくのか、これからの働きが注目されています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>が<ruby>集め<rt>あつめ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>政府<rt>せいふ</rt></ruby>がどのように<ruby>政策<rt>せいさく</rt></ruby>に<ruby>生か<rt>いか</rt></ruby>していくのか、これからの<ruby>働き<rt>はたらき</rt></ruby>が<ruby>注目<rt>ちゅうもく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "きのう7月31日、国の安全保障や外交に関する情報を集めて分析する、新しい組織「国家情報局」が発足しました。",
+      "ruby": "きのう7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>に<ruby>関す<rt>かんす</rt></ruby>る<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>「<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>」が<span class=\"vw\" data-ja=\"発足\" data-reading=\"ほっそく\" data-en=\"launch; inauguration (of an organization)\"><ruby>発足<rt>ほっそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yesterday, July thirty-first, a new organization called the National Intelligence Bureau was launched. It gathers and analyzes information related to national security and diplomacy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発足",
+      "ruby": "<span class=\"vw\" data-ja=\"発足\" data-reading=\"ほっそく\" data-en=\"launch; inauguration (of an organization)\"><ruby>発足<rt>ほっそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the launch or start of a new organization."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本ではこれまで、外交や安全保障の情報を、外務省や防衛省、警察庁など、多くの組織がべつべつに集めてきました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>ではこれまで、<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>や<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>外務省<rt>がいむしょう</rt></ruby>や<ruby>防衛<rt>ぼうえい</rt></ruby><ruby>省<rt>しょう</rt></ruby>、<ruby>警察庁<rt>けいさつちょう</rt></ruby>など、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>がべつべつに<ruby>集め<rt>あつめ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until now, many different bodies — the foreign ministry, the defense ministry, the police agency and others — collected diplomatic and security information separately."
+    },
+    {
+      "speaker": "vocab",
+      "text": "組織",
+      "ruby": "<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an organization or a body."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、組織の間で情報がうまく共有されず、大事な情報が総理大臣に早く届かないおそれがあると、指摘されてきました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>情報<rt>じょうほう</rt></ruby>がうまく<span class=\"vw\" data-ja=\"共有\" data-reading=\"きょうゆう\" data-en=\"sharing (information, etc.)\"><ruby>共有<rt>きょうゆう</rt></ruby></span>されず、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>総理大臣<rt>そうりだいじん</rt></ruby>に<ruby>早く<rt>はやく</rt></ruby><ruby>届か<rt>とどか</rt></ruby>ないおそれがあると、<span class=\"vw\" data-ja=\"指摘\" data-reading=\"してき\" data-en=\"pointing out (a problem)\"><ruby>指摘<rt>してき</rt></ruby></span>されてきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But information was not shared well between organizations, and critics warned that important information might not reach the prime minister quickly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "共有",
+      "ruby": "<span class=\"vw\" data-ja=\"共有\" data-reading=\"きょうゆう\" data-en=\"sharing (information, etc.)\"><ruby>共有<rt>きょうゆう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sharing something, like information, with others."
+    },
+    {
+      "speaker": "slow",
+      "text": "そこで政府は、ばらばらだった情報をひとつにまとめる「司令塔」として、国家情報局をつくることを決めました。",
+      "ruby": "そこで<ruby>政府<rt>せいふ</rt></ruby>は、ばらばらだった<ruby>情報<rt>じょうほう</rt></ruby>をひとつにまとめる「<span class=\"vw\" data-ja=\"司令塔\" data-reading=\"しれいとう\" data-en=\"command center; control tower (figurative)\"><ruby>司令<rt>しれい</rt></ruby><ruby>塔<rt>とう</rt></ruby></span>」として、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>をつくることを<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "So the government decided to create the new bureau as a command center that pulls the scattered information together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "司令塔",
+      "ruby": "<span class=\"vw\" data-ja=\"司令塔\" data-reading=\"しれいとう\" data-en=\"command center; control tower (figurative)\"><ruby>司令<rt>しれい</rt></ruby><ruby>塔<rt>とう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It literally means a control tower — a role that directs and coordinates everything."
+    },
+    {
+      "speaker": "slow",
+      "text": "国家情報局の職員は、およそ730人です。情報を分析する部や、経済の情報を担当する部など、7つの部があります。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>の<span class=\"vw\" data-ja=\"職員\" data-reading=\"しょくいん\" data-en=\"staff member; personnel\"><ruby>職員<rt>しょくいん</rt></ruby></span>は、およそ730<ruby>人<rt>にん</rt></ruby>です。<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する<ruby>部<rt>ぶ</rt></ruby>や、<ruby>経済<rt>けいざい</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"担当\" data-reading=\"たんとう\" data-en=\"being in charge of\"><ruby>担当<rt>たんとう</rt></ruby></span>する<ruby>部<rt>ぶ</rt></ruby>など、7つの<ruby>部<rt>ぶ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bureau has about seven hundred thirty staff members in seven departments, including ones for analysis and for economic information."
+    },
+    {
+      "speaker": "vocab",
+      "text": "分析",
+      "ruby": "<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means analysis — examining information carefully to understand it."
+    },
+    {
+      "speaker": "slow",
+      "text": "人工衛星を使って、ほかの国の様子を調べる「内閣衛星情報センター」も、国家情報局の一部になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>、ほかの<ruby>国<rt>くに</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>る「<ruby>内閣<rt>ないかく</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>センター」も、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The center that uses satellites to observe conditions in other countries also became part of the new bureau."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人工衛星",
+      "ruby": "<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an artificial satellite."
+    },
+    {
+      "speaker": "slow",
+      "text": "初代の局長には、これまで内閣情報官を務めてきた、警察庁出身の原和也氏が就任しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"初代\" data-reading=\"しょだい\" data-en=\"first (director, president, etc.)\"><ruby>初代<rt>しょだい</rt></ruby></span>の<ruby>局長<rt>きょくちょう</rt></ruby>には、これまで<ruby>内閣<rt>ないかく</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>官<rt>かん</rt></ruby>を<ruby>務め<rt>つとめ</rt></ruby>てきた、<ruby>警察庁<rt>けいさつちょう</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>原<rt>はら</rt></ruby><ruby>和也<rt>かずや</rt></ruby><ruby>氏<rt>し</rt></ruby>が<span class=\"vw\" data-ja=\"就任\" data-reading=\"しゅうにん\" data-en=\"assuming a post\"><ruby>就任<rt>しゅうにん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hara Kazuya, a former police official who has served as the cabinet's top intelligence officer, became the bureau's first director."
+    },
+    {
+      "speaker": "vocab",
+      "text": "就任",
+      "ruby": "<span class=\"vw\" data-ja=\"就任\" data-reading=\"しゅうにん\" data-en=\"assuming a post\"><ruby>就任<rt>しゅうにん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means taking up an official post or position."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、経済安全保障や、インターネット上の偽情報への対策などの分野でも、情報を集める力を強めていく方針です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>経済<rt>けいざい</rt></ruby><span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や、インターネット<ruby>上の<rt>うえの</rt></ruby><span class=\"vw\" data-ja=\"偽情報\" data-reading=\"にせじょうほう\" data-en=\"false information; disinformation\"><ruby>偽<rt>にせ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby></span>への<ruby>対策<rt>たいさく</rt></ruby>などの<ruby>分野<rt>ぶんや</rt></ruby>でも、<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>を<ruby>強め<rt>つよめ</rt></ruby>ていく<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; course of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government also plans to strengthen intelligence gathering in areas like economic security and countering false information online."
+    },
+    {
+      "speaker": "vocab",
+      "text": "方針",
+      "ruby": "<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; course of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a policy or planned course of action."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい組織が集めた情報を、政府がどのように政策に生かしていくのか、これからの働きが注目されています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>が<ruby>集め<rt>あつめ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>政府<rt>せいふ</rt></ruby>がどのように<ruby>政策<rt>せいさく</rt></ruby>に<ruby>生か<rt>いか</rt></ruby>していくのか、これからの<ruby>働き<rt>はたらき</rt></ruby>が<ruby>注目<rt>ちゅうもく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "How the government will use the new bureau's information in its policies is now being watched closely."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生かす",
+      "ruby": "<span class=\"vw\" data-ja=\"生かす\" data-reading=\"いかす\" data-en=\"to make good use of\"><ruby>生か<rt>いか</rt></ruby>す</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to make good use of something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "きのう7月31日、国の安全保障や外交に関する情報を集めて分析する、新しい組織「国家情報局」が発足しました。",
+      "ruby": "きのう7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>に<ruby>関す<rt>かんす</rt></ruby>る<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>「<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>」が<span class=\"vw\" data-ja=\"発足\" data-reading=\"ほっそく\" data-en=\"launch; inauguration (of an organization)\"><ruby>発足<rt>ほっそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国家情報局は、これまでの「内閣情報調査室」という組織を改組してつくられ、内閣官房に置かれます。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>は、これまでの「<ruby>内閣<rt>ないかく</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>調査室<rt>ちょうさしつ</rt></ruby>」という<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>を<span class=\"vw\" data-ja=\"改組\" data-reading=\"かいそ\" data-en=\"reorganization (of an institution)\"><ruby>改組<rt>かいそ</rt></ruby></span>してつくられ、<ruby>内閣<rt>ないかく</rt></ruby><ruby>官房<rt>かんぼう</rt></ruby>に<ruby>置か<rt>おか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本ではこれまで、外交や安全保障の情報を、外務省や防衛省、警察庁など、多くの組織がべつべつに集めてきました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>ではこれまで、<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>や<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>外務省<rt>がいむしょう</rt></ruby>や<ruby>防衛<rt>ぼうえい</rt></ruby><ruby>省<rt>しょう</rt></ruby>、<ruby>警察庁<rt>けいさつちょう</rt></ruby>など、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>がべつべつに<ruby>集め<rt>あつめ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、組織の間で情報がうまく共有されず、大事な情報が総理大臣に早く届かないおそれがあると、指摘されてきました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>情報<rt>じょうほう</rt></ruby>がうまく<span class=\"vw\" data-ja=\"共有\" data-reading=\"きょうゆう\" data-en=\"sharing (information, etc.)\"><ruby>共有<rt>きょうゆう</rt></ruby></span>されず、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>総理大臣<rt>そうりだいじん</rt></ruby>に<ruby>早く<rt>はやく</rt></ruby><ruby>届か<rt>とどか</rt></ruby>ないおそれがあると、<span class=\"vw\" data-ja=\"指摘\" data-reading=\"してき\" data-en=\"pointing out (a problem)\"><ruby>指摘<rt>してき</rt></ruby></span>されてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで政府は、ばらばらだった情報をひとつにまとめる「司令塔」として、国家情報局をつくることを決めました。",
+      "ruby": "そこで<ruby>政府<rt>せいふ</rt></ruby>は、ばらばらだった<ruby>情報<rt>じょうほう</rt></ruby>をひとつにまとめる「<span class=\"vw\" data-ja=\"司令塔\" data-reading=\"しれいとう\" data-en=\"command center; control tower (figurative)\"><ruby>司令<rt>しれい</rt></ruby><ruby>塔<rt>とう</rt></ruby></span>」として、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>をつくることを<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国家情報局の職員は、およそ730人です。情報を分析する部や、経済の情報を担当する部など、7つの部があります。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>の<span class=\"vw\" data-ja=\"職員\" data-reading=\"しょくいん\" data-en=\"staff member; personnel\"><ruby>職員<rt>しょくいん</rt></ruby></span>は、およそ730<ruby>人<rt>にん</rt></ruby>です。<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する<ruby>部<rt>ぶ</rt></ruby>や、<ruby>経済<rt>けいざい</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"担当\" data-reading=\"たんとう\" data-en=\"being in charge of\"><ruby>担当<rt>たんとう</rt></ruby></span>する<ruby>部<rt>ぶ</rt></ruby>など、7つの<ruby>部<rt>ぶ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "人工衛星を使って、ほかの国の様子を調べる「内閣衛星情報センター」も、国家情報局の一部になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"人工衛星\" data-reading=\"じんこうえいせい\" data-en=\"artificial satellite\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>、ほかの<ruby>国<rt>くに</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>る「<ruby>内閣<rt>ないかく</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>センター」も、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "初代の局長には、これまで内閣情報官を務めてきた、警察庁出身の原和也氏が就任しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"初代\" data-reading=\"しょだい\" data-en=\"first (director, president, etc.)\"><ruby>初代<rt>しょだい</rt></ruby></span>の<ruby>局長<rt>きょくちょう</rt></ruby>には、これまで<ruby>内閣<rt>ないかく</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>官<rt>かん</rt></ruby>を<ruby>務め<rt>つとめ</rt></ruby>てきた、<ruby>警察庁<rt>けいさつちょう</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>原<rt>はら</rt></ruby><ruby>和也<rt>かずや</rt></ruby><ruby>氏<rt>し</rt></ruby>が<span class=\"vw\" data-ja=\"就任\" data-reading=\"しゅうにん\" data-en=\"assuming a post\"><ruby>就任<rt>しゅうにん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、同じ31日には、総理大臣がトップを務める「国家情報会議」の初めての会議も開かれました。",
+      "ruby": "また、<ruby>同じ<rt>おなじ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>には、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>がトップを<ruby>務め<rt>つとめ</rt></ruby>る「<ruby>国家<rt>こっか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>」の<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>も<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国家情報会議には、官房長官や外務大臣、防衛大臣など、安全保障に関係する大臣が参加します。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>には、<ruby>官房<rt>かんぼう</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>や<ruby>外務大臣<rt>がいむだいじん</rt></ruby>、<ruby>防衛大臣<rt>ぼうえいだいじん</rt></ruby>など、<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>大臣<rt>だいじん</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "この会議は、国家情報局が集めて分析した情報をもとに、国の安全保障や外交の大事な方針を話し合います。",
+      "ruby": "この<ruby>会議<rt>かいぎ</rt></ruby>は、<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>て<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>した<ruby>情報<rt>じょうほう</rt></ruby>をもとに、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"外交\" data-reading=\"がいこう\" data-en=\"diplomacy\"><ruby>外交<rt>がいこう</rt></ruby></span>の<ruby>大事<rt>だいじ</rt></ruby>な<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; course of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>を<ruby>話し合い<rt>はなしあい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、経済安全保障や、インターネット上の偽情報への対策などの分野でも、情報を集める力を強めていく方針です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>経済<rt>けいざい</rt></ruby><span class=\"vw\" data-ja=\"安全保障\" data-reading=\"あんぜんほしょう\" data-en=\"national security\"><ruby>安全<rt>あんぜん</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby></span>や、インターネット<ruby>上の<rt>うえの</rt></ruby><span class=\"vw\" data-ja=\"偽情報\" data-reading=\"にせじょうほう\" data-en=\"false information; disinformation\"><ruby>偽<rt>にせ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby></span>への<ruby>対策<rt>たいさく</rt></ruby>などの<ruby>分野<rt>ぶんや</rt></ruby>でも、<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>を<ruby>強め<rt>つよめ</rt></ruby>ていく<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; course of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい組織が集めた情報を、政府がどのように政策に生かしていくのか、これからの働きが注目されています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>が<ruby>集め<rt>あつめ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>政府<rt>せいふ</rt></ruby>がどのように<ruby>政策<rt>せいさく</rt></ruby>に<ruby>生か<rt>いか</rt></ruby>していくのか、これからの<ruby>働き<rt>はたらき</rt></ruby>が<ruby>注目<rt>ちゅうもく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "きのう7月31日に発足した、情報を集めて分析する新しい組織の名前は、何ですか。",
+      "ruby": "きのう7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"発足\" data-reading=\"ほっそく\" data-en=\"launch; inauguration (of an organization)\"><ruby>発足<rt>ほっそく</rt></ruby></span>した、<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て<span class=\"vw\" data-ja=\"分析\" data-reading=\"ぶんせき\" data-en=\"analysis\"><ruby>分析<rt>ぶんせき</rt></ruby></span>する<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"組織\" data-reading=\"そしき\" data-en=\"organization; body\"><ruby>組織<rt>そしき</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The National Intelligence Bureau, created out of the former cabinet intelligence office."
+    },
+    {
+      "speaker": "slow",
+      "text": "国家情報局では、およそ何人の職員が働いていますか。",
+      "ruby": "<ruby>国家<rt>こっか</rt></ruby><ruby>情報局<rt>じょうほうきょく</rt></ruby>では、およそ<ruby>何人<rt>なんにん</rt></ruby>の<span class=\"vw\" data-ja=\"職員\" data-reading=\"しょくいん\" data-en=\"staff member; personnel\"><ruby>職員<rt>しょくいん</rt></ruby></span>が<ruby>働い<rt>はたらい</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seven hundred thirty people, working in seven departments."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Japan launched its new National Intelligence Bureau on July thirty-first, bringing together security and diplomatic intelligence that used to be scattered across many agencies. It has about seven hundred thirty staff, and it supports a new council led by the prime minister that met for the first time the same day. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "発足",
+      "reading": "ほっそく",
+      "en": "launch; inauguration (of an organization)",
+      "zh": "成立、启动"
+    },
+    {
+      "ja": "安全保障",
+      "reading": "あんぜんほしょう",
+      "en": "national security",
+      "zh": "安全保障"
+    },
+    {
+      "ja": "外交",
+      "reading": "がいこう",
+      "en": "diplomacy",
+      "zh": "外交"
+    },
+    {
+      "ja": "分析",
+      "reading": "ぶんせき",
+      "en": "analysis",
+      "zh": "分析"
+    },
+    {
+      "ja": "組織",
+      "reading": "そしき",
+      "en": "organization; body",
+      "zh": "组织"
+    },
+    {
+      "ja": "改組",
+      "reading": "かいそ",
+      "en": "reorganization (of an institution)",
+      "zh": "改组"
+    },
+    {
+      "ja": "共有",
+      "reading": "きょうゆう",
+      "en": "sharing (information, etc.)",
+      "zh": "共享"
+    },
+    {
+      "ja": "指摘",
+      "reading": "してき",
+      "en": "pointing out (a problem)",
+      "zh": "指出"
+    },
+    {
+      "ja": "司令塔",
+      "reading": "しれいとう",
+      "en": "command center; control tower (figurative)",
+      "zh": "司令塔；指挥中枢"
+    },
+    {
+      "ja": "職員",
+      "reading": "しょくいん",
+      "en": "staff member; personnel",
+      "zh": "职员"
+    },
+    {
+      "ja": "担当",
+      "reading": "たんとう",
+      "en": "being in charge of",
+      "zh": "负责"
+    },
+    {
+      "ja": "人工衛星",
+      "reading": "じんこうえいせい",
+      "en": "artificial satellite",
+      "zh": "人造卫星"
+    },
+    {
+      "ja": "初代",
+      "reading": "しょだい",
+      "en": "first (director, president, etc.)",
+      "zh": "首任、第一代"
+    },
+    {
+      "ja": "就任",
+      "reading": "しゅうにん",
+      "en": "assuming a post",
+      "zh": "就任"
+    },
+    {
+      "ja": "方針",
+      "reading": "ほうしん",
+      "en": "policy; course of action",
+      "zh": "方针"
+    },
+    {
+      "ja": "偽情報",
+      "reading": "にせじょうほう",
+      "en": "false information; disinformation",
+      "zh": "虚假信息"
+    },
+    {
+      "ja": "生かす",
+      "reading": "いかす",
+      "en": "to make good use of",
+      "zh": "活用、有效利用"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜に関する",
+      "meaning": "related to; concerning",
+      "meaningZh": "关于…；与…有关",
+      "formation": "noun + に関する + noun",
+      "example": "安全保障や外交に関する情報を集めて分析します。",
+      "translation": "It gathers and analyzes information related to national security and diplomacy.",
+      "note": "formal, written style; modifies the following noun. The verb form is に関して",
+      "noteZh": "书面语，修饰后面的名词；动词形式为に関して",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に関する"
+    },
+    {
+      "pattern": "〜ず（に）",
+      "meaning": "without doing; not doing (formal negative)",
+      "meaningZh": "不…；没有…（书面否定形式）",
+      "formation": "verb ない-stem + ず（する → せず）",
+      "example": "組織の間で情報がうまく共有されず、問題になりました。",
+      "translation": "Information was not shared well between organizations, which became a problem.",
+      "note": "literary equivalent of 〜ないで／〜なくて; very common in news writing",
+      "noteZh": "相当于〜ないで／〜なくて的书面形式，新闻中非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ず"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as; in the role of",
+      "meaningZh": "作为…；以…的身份",
+      "formation": "noun + として",
+      "example": "情報をまとめる「司令塔」として、国家情報局がつくられました。",
+      "translation": "The National Intelligence Bureau was created as a command center that brings information together.",
+      "note": "marks a role, capacity, or function",
+      "noteZh": "表示身份、资格或作用",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#として"
+    },
+    {
+      "pattern": "〜をもとに",
+      "meaning": "based on",
+      "meaningZh": "以…为基础；根据…",
+      "formation": "noun + をもとに",
+      "example": "分析した情報をもとに、大事な方針を話し合います。",
+      "translation": "Based on the analyzed information, they discuss important policies.",
+      "note": "the following action uses the noun as its material or foundation",
+      "noteZh": "表示以前项为材料、依据进行后项动作",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#をもとに"
+    },
+    {
+      "pattern": "〜ていく",
+      "meaning": "go on doing; do from now on",
+      "meaningZh": "…下去；今后继续…",
+      "formation": "verb て-form + いく",
+      "example": "情報を集める力を強めていく方針です。",
+      "translation": "The policy is to keep strengthening the ability to gather information.",
+      "note": "expresses change or continuation moving forward in time",
+      "noteZh": "表示变化或动作从现在向将来持续发展",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ていく"
+    }
+  ],
+  "practiceZh": [
+    "きのう7月31日、国の安全保障や外交に関する情報を集めて分析する、新しい組織「国家情報局」が発足しました。\n昨天7月31日，收集并分析国家安全保障和外交相关信息的新组织“国家情报局”正式成立。\n安全保障 = national security；分析 = analysis；発足 = launch",
+    "国家情報局は、これまでの「内閣情報調査室」という組織を改組してつくられ、内閣官房に置かれます。\n国家情报局由原来的“内阁情报调查室”改组而成，设在内阁官房。\n改組 = reorganization；内閣官房 = Cabinet Secretariat；置かれる = to be placed",
+    "日本ではこれまで、外交や安全保障の情報を、外務省や防衛省、警察庁など、多くの組織がべつべつに集めてきました。\n在日本，一直以来外交和安全保障的信息由外务省、防卫省、警察厅等许多组织分别收集。\n外務省 = Ministry of Foreign Affairs；防衛省 = Ministry of Defense；べつべつに = separately",
+    "しかし、組織の間で情報がうまく共有されず、大事な情報が総理大臣に早く届かないおそれがあると、指摘されてきました。\n但是，组织之间信息共享不畅，有人指出重要信息可能无法及时送达首相。\n共有 = sharing；届く = to reach；指摘 = to point out",
+    "そこで政府は、ばらばらだった情報をひとつにまとめる「司令塔」として、国家情報局をつくることを決めました。\n因此，政府决定设立国家情报局，作为把分散的信息汇总起来的“司令塔”。\n司令塔 = command center；まとめる = to bring together；ばらばら = scattered",
+    "国家情報局の職員は、およそ730人です。情報を分析する部や、経済の情報を担当する部など、7つの部があります。\n国家情报局约有730名职员，设有分析信息的部门和负责经济信息的部门等7个部。\n職員 = staff；担当 = in charge of；部 = department",
+    "人工衛星を使って、ほかの国の様子を調べる「内閣衛星情報センター」も、国家情報局の一部になりました。\n利用人造卫星观察其他国家情况的“内阁卫星情报中心”也成为国家情报局的一部分。\n人工衛星 = satellite；様子 = state of affairs；一部 = a part",
+    "初代の局長には、これまで内閣情報官を務めてきた、警察庁出身の原和也氏が就任しました。\n曾任内阁情报官、出身警察厅的原和也先生就任首任局长。\n初代 = first (generation)；務める = to serve as；就任 = to assume a post",
+    "また、同じ31日には、総理大臣がトップを務める「国家情報会議」の初めての会議も開かれました。\n同一天31日，由首相担任最高负责人的“国家情报会议”也召开了首次会议。\nトップ = top / head；開かれる = to be held；初めて = for the first time",
+    "国家情報会議には、官房長官や外務大臣、防衛大臣など、安全保障に関係する大臣が参加します。\n国家情报会议由官房长官、外务大臣、防卫大臣等与安全保障相关的大臣参加。\n官房長官 = Chief Cabinet Secretary；大臣 = minister；参加 = to participate",
+    "この会議は、国家情報局が集めて分析した情報をもとに、国の安全保障や外交の大事な方針を話し合います。\n该会议将基于国家情报局收集分析的信息，讨论国家安全保障和外交的重要方针。\n〜をもとに = based on；方針 = policy；話し合う = to discuss",
+    "政府は、経済安全保障や、インターネット上の偽情報への対策などの分野でも、情報を集める力を強めていく方針です。\n政府计划在经济安全保障、网络虚假信息对策等领域也加强信息收集能力。\n偽情報 = false information；対策 = countermeasure；強める = to strengthen",
+    "新しい組織が集めた情報を、政府がどのように政策に生かしていくのか、これからの働きが注目されています。\n新组织收集的信息，政府将如何运用到政策中，其今后的表现备受关注。\n生かす = to make use of；政策 = policy；注目 = attention"
+  ]
+}
