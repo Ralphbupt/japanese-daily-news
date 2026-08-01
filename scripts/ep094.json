@@ -1,0 +1,447 @@
+{
+  "episode": 94,
+  "title": "最低賃金が上がる、全国平均で時給1176円に",
+  "date": "2026-08-02",
+  "source": "厚生労働省 中央最低賃金審議会 / NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026080201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August second. This week, Japan decided on a plan to raise the minimum wage. The national average will go up to a new record. It is important news for everyone who works, especially part-time workers. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本で、働く人の「最低賃金」が上がります。最低賃金は、会社が働く人に払う、一番低い給料のことです。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で、<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>の「<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>」が<ruby>上が<rt>あが</rt></ruby>ります。<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>、<ruby>一番<rt>いちばん</rt></ruby><ruby>低い<rt>ひくい</rt></ruby><span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月、国の審議会は、最低賃金を55円上げる目安を決めました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"審議会\" data-reading=\"しんぎかい\" data-en=\"council; advisory panel\"><ruby>審議会<rt>しんぎかい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>を55<ruby>円<rt>えん</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目安\" data-reading=\"めやす\" data-en=\"guideline; rough target\"><ruby>目安<rt>めやす</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の平均は、1時間で1176円になります。今の平均は、1121円です。約5パーセント高くなります。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、1<ruby>時間<rt>じかん</rt></ruby>で1176<ruby>円<rt>えん</rt></ruby>になります。<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、1121<ruby>円<rt>えん</rt></ruby>です。<ruby>約<rt>やく</rt></ruby>5パーセント<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "上げる金額は、去年より少なくなりました。物の値段の上がり方が、少し落ち着いてきたからです。",
+      "ruby": "<span class=\"vw\" data-ja=\"上げる\" data-reading=\"あげる\" data-en=\"to raise\"><ruby>上げ<rt>あげ</rt></ruby>る</span><span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money\"><ruby>金額<rt>きんがく</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>少なく<rt>すくなく</rt></ruby>なりました。<ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>の<ruby>上がり方<rt>あがりかた</rt></ruby>が、<ruby>少し<rt>すこし</rt></ruby><ruby>落ち着い<rt>おちつい</rt></ruby>てきたからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "最低賃金は、都道府県で違います。東京など、大きい町のほうが高いです。",
+      "ruby": "<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>で<ruby>違い<rt>ちがい</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>など、<ruby>大きい<rt>おおきい</rt></ruby><ruby>町<rt>まち</rt></ruby>のほうが<ruby>高い<rt>たかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これから、それぞれの都道府県が、新しい金額を決めます。",
+      "ruby": "これから、それぞれの<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>が、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money\"><ruby>金額<rt>きんがく</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい最低賃金は、今年の10月ごろから始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>ごろから<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルバイトやパートで働く人の給料も、高くなります。8時間働くと、今より約440円多くなります。",
+      "ruby": "アルバイトやパートで<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>も、<ruby>高く<rt>たかく</rt></ruby>なります。8<ruby>時間<rt>じかん</rt></ruby><span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span>と、<ruby>今<rt>いま</rt></ruby>より<ruby>約<rt>やく</rt></ruby>440<ruby>円<rt>えん</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "働く人には、うれしいニュースです。しかし、給料を払う小さい会社には、大変なニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>には、うれしいニュースです。しかし、<span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span><ruby>小さい<rt>ちいさい</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>には、<ruby>大変<rt>たいへん</rt></ruby>なニュースです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本で、働く人の「最低賃金」が上がります。最低賃金は、会社が働く人に払う、一番低い給料のことです。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で、<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>の「<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>」が<ruby>上が<rt>あが</rt></ruby>ります。<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>、<ruby>一番<rt>いちばん</rt></ruby><ruby>低い<rt>ひくい</rt></ruby><span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's minimum wage is going up. The minimum wage is the lowest pay that a company must give to its workers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "給料",
+      "ruby": "<span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means salary, or pay."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月、国の審議会は、最低賃金を55円上げる目安を決めました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"審議会\" data-reading=\"しんぎかい\" data-en=\"council; advisory panel\"><ruby>審議会<rt>しんぎかい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>を55<ruby>円<rt>えん</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目安\" data-reading=\"めやす\" data-en=\"guideline; rough target\"><ruby>目安<rt>めやす</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In July, a national council decided on a guideline to raise the minimum wage by fifty-five yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "目安",
+      "ruby": "<span class=\"vw\" data-ja=\"目安\" data-reading=\"めやす\" data-en=\"guideline; rough target\"><ruby>目安<rt>めやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a guideline, or a rough target."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の平均は、1時間で1176円になります。今の平均は、1121円です。約5パーセント高くなります。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、1<ruby>時間<rt>じかん</rt></ruby>で1176<ruby>円<rt>えん</rt></ruby>になります。<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、1121<ruby>円<rt>えん</rt></ruby>です。<ruby>約<rt>やく</rt></ruby>5パーセント<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The national average will become one thousand one hundred seventy-six yen per hour. Right now, the average is one thousand one hundred twenty-one yen, so that is about five percent higher."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an average."
+    },
+    {
+      "speaker": "slow",
+      "text": "最低賃金は、都道府県で違います。東京など、大きい町のほうが高いです。",
+      "ruby": "<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>で<ruby>違い<rt>ちがい</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>など、<ruby>大きい<rt>おおきい</rt></ruby><ruby>町<rt>まち</rt></ruby>のほうが<ruby>高い<rt>たかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The minimum wage is different in each prefecture. In big cities like Tokyo, it is higher."
+    },
+    {
+      "speaker": "vocab",
+      "text": "違う",
+      "ruby": "<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be different."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい最低賃金は、今年の10月ごろから始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>ごろから<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new minimum wage will start around October this year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin; to start\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to begin, or to start."
+    },
+    {
+      "speaker": "slow",
+      "text": "働く人には、うれしいニュースです。しかし、給料を払う小さい会社には、大変なニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>には、うれしいニュースです。しかし、<span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span><ruby>小さい<rt>ちいさい</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>には、<ruby>大変<rt>たいへん</rt></ruby>なニュースです。"
+    },
+    {
+      "speaker": "host",
+      "text": "For workers, this is happy news. But for small companies that pay the salaries, it is hard news."
+    },
+    {
+      "speaker": "vocab",
+      "text": "払う",
+      "ruby": "<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pay."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "日本で、働く人の「最低賃金」が上がります。最低賃金は、会社が働く人に払う、一番低い給料のことです。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で、<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>の「<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>」が<ruby>上が<rt>あが</rt></ruby>ります。<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>、<ruby>一番<rt>いちばん</rt></ruby><ruby>低い<rt>ひくい</rt></ruby><span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月、国の審議会は、最低賃金を55円上げる目安を決めました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"審議会\" data-reading=\"しんぎかい\" data-en=\"council; advisory panel\"><ruby>審議会<rt>しんぎかい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>を55<ruby>円<rt>えん</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目安\" data-reading=\"めやす\" data-en=\"guideline; rough target\"><ruby>目安<rt>めやす</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の平均は、1時間で1176円になります。今の平均は、1121円です。約5パーセント高くなります。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、1<ruby>時間<rt>じかん</rt></ruby>で1176<ruby>円<rt>えん</rt></ruby>になります。<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、1121<ruby>円<rt>えん</rt></ruby>です。<ruby>約<rt>やく</rt></ruby>5パーセント<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "上げる金額は、去年より少なくなりました。物の値段の上がり方が、少し落ち着いてきたからです。",
+      "ruby": "<span class=\"vw\" data-ja=\"上げる\" data-reading=\"あげる\" data-en=\"to raise\"><ruby>上げ<rt>あげ</rt></ruby>る</span><span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money\"><ruby>金額<rt>きんがく</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>少なく<rt>すくなく</rt></ruby>なりました。<ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>の<ruby>上がり方<rt>あがりかた</rt></ruby>が、<ruby>少し<rt>すこし</rt></ruby><ruby>落ち着い<rt>おちつい</rt></ruby>てきたからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "最低賃金は、都道府県で違います。東京など、大きい町のほうが高いです。",
+      "ruby": "<span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>で<ruby>違い<rt>ちがい</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>など、<ruby>大きい<rt>おおきい</rt></ruby><ruby>町<rt>まち</rt></ruby>のほうが<ruby>高い<rt>たかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これから、それぞれの都道府県が、新しい金額を決めます。",
+      "ruby": "これから、それぞれの<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"prefectures (of Japan)\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>が、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"金額\" data-reading=\"きんがく\" data-en=\"amount of money\"><ruby>金額<rt>きんがく</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい最低賃金は、今年の10月ごろから始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>ごろから<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルバイトやパートで働く人の給料も、高くなります。8時間働くと、今より約440円多くなります。",
+      "ruby": "アルバイトやパートで<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>も、<ruby>高く<rt>たかく</rt></ruby>なります。8<ruby>時間<rt>じかん</rt></ruby><span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span>と、<ruby>今<rt>いま</rt></ruby>より<ruby>約<rt>やく</rt></ruby>440<ruby>円<rt>えん</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "働く人には、うれしいニュースです。しかし、給料を払う小さい会社には、大変なニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>には、うれしいニュースです。しかし、<span class=\"vw\" data-ja=\"給料\" data-reading=\"きゅうりょう\" data-en=\"salary; pay\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span><ruby>小さい<rt>ちいさい</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>には、<ruby>大変<rt>たいへん</rt></ruby>なニュースです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の平均の新しい最低賃金は、1時間でいくらですか。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、1<ruby>時間<rt>じかん</rt></ruby>でいくらですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One thousand one hundred seventy-six yen per hour."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい最低賃金は、いつごろから始まりますか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"最低賃金\" data-reading=\"さいていちんぎん\" data-en=\"minimum wage\"><ruby>最低賃金<rt>さいていちんぎん</rt></ruby></span>は、いつごろから<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around October this year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Japan plans to raise its minimum wage by fifty-five yen, to a national average of one thousand one hundred seventy-six yen per hour, starting around October. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "最低賃金",
+      "reading": "さいていちんぎん",
+      "en": "minimum wage",
+      "zh": "最低工资"
+    },
+    {
+      "ja": "働く",
+      "reading": "はたらく",
+      "en": "to work",
+      "zh": "工作"
+    },
+    {
+      "ja": "払う",
+      "reading": "はらう",
+      "en": "to pay",
+      "zh": "支付"
+    },
+    {
+      "ja": "給料",
+      "reading": "きゅうりょう",
+      "en": "salary; pay",
+      "zh": "工资；薪水"
+    },
+    {
+      "ja": "審議会",
+      "reading": "しんぎかい",
+      "en": "council; advisory panel",
+      "zh": "审议会"
+    },
+    {
+      "ja": "目安",
+      "reading": "めやす",
+      "en": "guideline; rough target",
+      "zh": "标准；大致目标"
+    },
+    {
+      "ja": "上げる",
+      "reading": "あげる",
+      "en": "to raise",
+      "zh": "提高"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "金額",
+      "reading": "きんがく",
+      "en": "amount of money",
+      "zh": "金额"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "落ち着く",
+      "reading": "おちつく",
+      "en": "to calm down; to settle",
+      "zh": "平稳；稳定"
+    },
+    {
+      "ja": "違う",
+      "reading": "ちがう",
+      "en": "to be different",
+      "zh": "不同"
+    },
+    {
+      "ja": "都道府県",
+      "reading": "とどうふけん",
+      "en": "prefectures (of Japan)",
+      "zh": "都道府县"
+    },
+    {
+      "ja": "決める",
+      "reading": "きめる",
+      "en": "to decide",
+      "zh": "决定"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin; to start",
+      "zh": "开始"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜くなる",
+      "meaning": "to become ~",
+      "meaningZh": "变得…",
+      "formation": "い-adjective stem + くなる",
+      "example": "今より約5パーセント高くなります。",
+      "translation": "It will become about five percent higher than now.",
+      "note": "くなる shows a change of state with い-adjectives",
+      "noteZh": "くなる接在い形容词后，表示状态的变化",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#くなる"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "than ~ (comparison)",
+      "meaningZh": "比…",
+      "formation": "noun + より",
+      "example": "上げる金額は、去年より少なくなりました。",
+      "translation": "The amount of the raise became smaller than last year.",
+      "note": "より marks the thing you are comparing against",
+      "noteZh": "より表示比较的对象",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#より"
+    },
+    {
+      "pattern": "〜からです",
+      "meaning": "it is because ~",
+      "meaningZh": "是因为…",
+      "formation": "plain sentence + からです",
+      "example": "物の値段の上がり方が、少し落ち着いてきたからです。",
+      "translation": "It is because the rise in prices has calmed down a little.",
+      "note": "からです gives the reason for what was said before",
+      "noteZh": "からです用于说明前面所说内容的原因",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#から"
+    },
+    {
+      "pattern": "〜てくる",
+      "meaning": "has been ~ing; change up to now",
+      "meaningZh": "…起来；表示变化持续到现在",
+      "formation": "verb て-form + くる",
+      "example": "物の値段の上がり方が、落ち着いてきました。",
+      "translation": "The rise in prices has been calming down.",
+      "note": "てくる shows a change that has continued up to the present",
+      "noteZh": "てくる表示变化一直持续到现在",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜ごろ",
+      "meaning": "around ~ (time)",
+      "meaningZh": "…左右（时间）",
+      "formation": "time noun + ごろ",
+      "example": "新しい最低賃金は、今年の10月ごろから始まります。",
+      "translation": "The new minimum wage will start around October this year.",
+      "note": "ごろ makes a point in time approximate",
+      "noteZh": "ごろ表示大概的时间点",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ごろ"
+    }
+  ],
+  "practiceZh": [
+    "日本で、働く人の「最低賃金」が上がります。最低賃金は、会社が働く人に払う、一番低い給料のことです。\n在日本，劳动者的「最低工资」要上调了。最低工资是指公司支付给劳动者的最低薪水。\n働く = to work；払う = to pay；給料 = salary",
+    "7月、国の審議会は、最低賃金を55円上げる目安を決めました。\n7月，国家的审议会决定了将最低工资上调55日元的标准。\n審議会 = council；上げる = to raise；目安 = guideline",
+    "全国の平均は、1時間で1176円になります。今の平均は、1121円です。約5パーセント高くなります。\n全国平均将变为每小时1176日元。现在的平均是1121日元。将提高约5%。\n全国 = nationwide；平均 = average；約 = about",
+    "上げる金額は、去年より少なくなりました。物の値段の上がり方が、少し落ち着いてきたからです。\n上调的金额比去年少了。这是因为物价上涨的势头稍微平稳下来了。\n金額 = amount；値段 = price；落ち着く = to calm down",
+    "最低賃金は、都道府県で違います。東京など、大きい町のほうが高いです。\n最低工资因都道府县而不同。东京等大城市更高一些。\n都道府県 = prefectures；違う = to be different",
+    "これから、それぞれの都道府県が、新しい金額を決めます。\n接下来，各个都道府县将决定新的金额。\nそれぞれ = each；決める = to decide",
+    "新しい最低賃金は、今年の10月ごろから始まります。\n新的最低工资将从今年10月左右开始实施。\nごろ = around (time)；始まる = to begin",
+    "アルバイトやパートで働く人の給料も、高くなります。8時間働くと、今より約440円多くなります。\n打工和兼职人员的工资也会变高。工作8小时的话，比现在多约440日元。\nアルバイト = part-time job；働く = to work；約 = about",
+    "働く人には、うれしいニュースです。しかし、給料を払う小さい会社には、大変なニュースです。\n对劳动者来说是令人高兴的消息。但是，对支付工资的小公司来说，是很艰难的消息。\nうれしい = happy；しかし = however；大変 = hard, tough"
+  ]
+}
