@@ -1,0 +1,586 @@
+{
+  "episode": 95,
+  "title": "紙の健康保険証が終了、「マイナ保険証」へ完全移行",
+  "date": "2026-08-02",
+  "source": "時事通信 / Yahoo!ニュース / ITmedia",
+  "level": "N4-N3",
+  "contentVersion": "2026080201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August second. As of yesterday, Japan's old paper health insurance cards can no longer be used at hospitals — the country has fully switched to a digital insurance card built into the national ID card. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "きのう8月1日から、病院や薬局で使う保険証が、マイナンバーカードと一体になった「マイナ保険証」に完全に移行しました。",
+      "ruby": "きのう8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>病院<rt>びょういん</rt></ruby>や<ruby>薬局<rt>やっきょく</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>が、マイナンバーカードと<ruby>一体<rt>いったい</rt></ruby>になった「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」に<ruby>完全<rt>かんぜん</rt></ruby>に<span class=\"vw\" data-ja=\"移行\" data-reading=\"いこう\" data-en=\"transition; migration (to a new system)\"><ruby>移行<rt>いこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い間使われてきた紙の健康保険証は、7月31日で完全に使えなくなりました。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>あいだ</rt></ruby><ruby>使わ<rt>つかわ</rt></ruby>れてきた<ruby>紙<rt>かみ</rt></ruby>の<ruby>健康保険証<rt>けんこうほけんしょう</rt></ruby>は、7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>で<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>使え<rt>つかえ</rt></ruby>なくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、病気やけがで病院に行くとき、保険証を見せると、医療費の一部を払うだけで治療を受けられます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>病気<rt>びょうき</rt></ruby>やけがで<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とき、<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>見せ<rt>みせ</rt></ruby>ると、<span class=\"vw\" data-ja=\"医療費\" data-reading=\"いりょうひ\" data-en=\"medical expenses\"><ruby>医療費<rt>いりょうひ</rt></ruby></span>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>だけで<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "news",
+      "text": "紙の保険証は、おととしの12月に新しい発行が終わり、去年の12月までに、すべての期限が切れました。",
+      "ruby": "<ruby>紙<rt>かみ</rt></ruby>の<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>は、おととしの12<ruby>月<rt>がつ</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"発行\" data-reading=\"はっこう\" data-en=\"issuance; issuing\"><ruby>発行<rt>はっこう</rt></ruby></span>が<ruby>終わり<rt>おわり</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>までに、すべての<span class=\"vw\" data-ja=\"期限\" data-reading=\"きげん\" data-en=\"time limit; expiration date\"><ruby>期限<rt>きげん</rt></ruby></span>が<ruby>切れ<rt>きれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後も、特別な措置として、期限が切れた保険証を使うことができましたが、この措置が7月31日で終わりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>も、<ruby>特別<rt>とくべつ</rt></ruby>な<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>として、<span class=\"vw\" data-ja=\"期限\" data-reading=\"きげん\" data-en=\"time limit; expiration date\"><ruby>期限<rt>きげん</rt></ruby></span>が<ruby>切れ<rt>きれ</rt></ruby>た<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>ことができましたが、この<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>が7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>で<ruby>終わり<rt>おわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月1日からは、「マイナ保険証」か、「資格確認書」という書類のどちらかが必要です。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からは、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」か、「<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>」という<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>のどちらかが<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「資格確認書」は、マイナ保険証を持っていない人に、申請しなくても、無料で送られます。",
+      "ruby": "「<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>」は、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ていない<ruby>人<rt>ひと</rt></ruby>に、<span class=\"vw\" data-ja=\"申請\" data-reading=\"しんせい\" data-en=\"application; formal request\"><ruby>申請<rt>しんせい</rt></ruby></span>しなくても、<ruby>無料<rt>むりょう</rt></ruby>で<ruby>送ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省によりますと、6月の終わりの時点で、およそ9487万人が、マイナ保険証を登録しています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>によりますと、6<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、およそ9487<ruby>万人<rt>まんにん</rt></ruby>が、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration\"><ruby>登録<rt>とうろく</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、5月に病院などに行った人のうち、実際にマイナ保険証を使った人は、68.5%でした。",
+      "ruby": "しかし、5<ruby>月<rt>がつ</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>などに<ruby>行った<rt>いった</rt></ruby><ruby>人<rt>ひと</rt></ruby>のうち、<ruby>実際に<rt>じっさいに</rt></ruby>マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使った<rt>つかった</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、68.5%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "マイナ保険証を使うと、医師や薬剤師が、過去の薬や健康診断の情報を見ることができ、より良い治療につながると、政府は説明しています。",
+      "ruby": "マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>と、<ruby>医師<rt>いし</rt></ruby>や<span class=\"vw\" data-ja=\"薬剤師\" data-reading=\"やくざいし\" data-en=\"pharmacist\"><ruby>薬剤師<rt>やくざいし</rt></ruby></span>が、<ruby>過去<rt>かこ</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>や<span class=\"vw\" data-ja=\"健康診断\" data-reading=\"けんこうしんだん\" data-en=\"health checkup\"><ruby>健康診断<rt>けんこうしんだん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができ、より<ruby>良い<rt>よい</rt></ruby><span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>につながると、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "マイナ保険証も資格確認書も持たずに病院に行くと、原則として、医療費の全額を、いったん自分で払わなければなりません。",
+      "ruby": "マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>も<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>も<ruby>持た<rt>もた</rt></ruby>ずに<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>と、<span class=\"vw\" data-ja=\"原則\" data-reading=\"げんそく\" data-en=\"principle; as a rule\"><ruby>原則<rt>げんそく</rt></ruby></span>として、<span class=\"vw\" data-ja=\"医療費\" data-reading=\"いりょうひ\" data-en=\"medical expenses\"><ruby>医療費<rt>いりょうひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"全額\" data-reading=\"ぜんがく\" data-en=\"full amount\"><ruby>全額<rt>ぜんがく</rt></ruby></span>を、いったん<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働大臣は、「マイナ保険証か資格確認書が手元にあるか、確認してほしい」と呼びかけています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働<rt>ろうどう</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>は、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>か<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>が<ruby>手元<rt>てもと</rt></ruby>にあるか、<ruby>確認し<rt>かくにんし</rt></ruby>てほしい」と<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、地震の被害を受けた熊本県の人たちは、書類がなくても、いつも通りの負担で診療を受けられる特例が続きます。",
+      "ruby": "また、<ruby>地震<rt>じしん</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>た<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>がなくても、いつも<ruby>通り<rt>とうり</rt></ruby>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden; share of the cost\"><ruby>負担<rt>ふたん</rt></ruby></span>で<ruby>診療<rt>しんりょう</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>られる<span class=\"vw\" data-ja=\"特例\" data-reading=\"とくれい\" data-en=\"special exception\"><ruby>特例<rt>とくれい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "制度が大きく変わる中で、病院の窓口で混乱が起きないか、注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; institution\"><ruby>制度<rt>せいど</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<ruby>中<rt>なか</rt></ruby>で、<ruby>病院<rt>びょういん</rt></ruby>の<span class=\"vw\" data-ja=\"窓口\" data-reading=\"まどぐち\" data-en=\"service counter; reception window\"><ruby>窓口<rt>まどぐち</rt></ruby></span>で<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"confusion; disorder\"><ruby>混乱<rt>こんらん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ないか、<ruby>注目<rt>ちゅうもく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "きのう8月1日から、病院や薬局で使う保険証が、マイナンバーカードと一体になった「マイナ保険証」に完全に移行しました。",
+      "ruby": "きのう8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>病院<rt>びょういん</rt></ruby>や<ruby>薬局<rt>やっきょく</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>が、マイナンバーカードと<ruby>一体<rt>いったい</rt></ruby>になった「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」に<ruby>完全<rt>かんぜん</rt></ruby>に<span class=\"vw\" data-ja=\"移行\" data-reading=\"いこう\" data-en=\"transition; migration (to a new system)\"><ruby>移行<rt>いこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since yesterday, August first, the insurance card used at hospitals and pharmacies has fully switched to the digital version built into the national ID card."
+    },
+    {
+      "speaker": "vocab",
+      "text": "移行",
+      "ruby": "<span class=\"vw\" data-ja=\"移行\" data-reading=\"いこう\" data-en=\"transition; migration (to a new system)\"><ruby>移行<rt>いこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a transition — moving from an old system to a new one."
+    },
+    {
+      "speaker": "slow",
+      "text": "その後も、特別な措置として、期限が切れた保険証を使うことができましたが、この措置が7月31日で終わりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>も、<ruby>特別<rt>とくべつ</rt></ruby>な<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>として、<span class=\"vw\" data-ja=\"期限\" data-reading=\"きげん\" data-en=\"time limit; expiration date\"><ruby>期限<rt>きげん</rt></ruby></span>が<ruby>切れ<rt>きれ</rt></ruby>た<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>ことができましたが、この<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>が7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>で<ruby>終わり<rt>おわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After that, as a special measure, people could still use expired cards, but that measure ended on July thirty-first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "措置",
+      "ruby": "<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a measure or step taken by the government."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月1日からは、「マイナ保険証」か、「資格確認書」という書類のどちらかが必要です。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からは、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」か、「<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>」という<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>のどちらかが<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "From August first, you need either the digital insurance card or a paper document that certifies your eligibility."
+    },
+    {
+      "speaker": "vocab",
+      "text": "書類",
+      "ruby": "<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means documents or papers."
+    },
+    {
+      "speaker": "slow",
+      "text": "「資格確認書」は、マイナ保険証を持っていない人に、申請しなくても、無料で送られます。",
+      "ruby": "「<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>」は、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ていない<ruby>人<rt>ひと</rt></ruby>に、<span class=\"vw\" data-ja=\"申請\" data-reading=\"しんせい\" data-en=\"application; formal request\"><ruby>申請<rt>しんせい</rt></ruby></span>しなくても、<ruby>無料<rt>むりょう</rt></ruby>で<ruby>送ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "That certificate is sent free of charge, with no application needed, to people who don't have the digital card."
+    },
+    {
+      "speaker": "vocab",
+      "text": "申請",
+      "ruby": "<span class=\"vw\" data-ja=\"申請\" data-reading=\"しんせい\" data-en=\"application; formal request\"><ruby>申請<rt>しんせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an application or formal request."
+    },
+    {
+      "speaker": "slow",
+      "text": "厚生労働省によりますと、6月の終わりの時点で、およそ9487万人が、マイナ保険証を登録しています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>によりますと、6<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、およそ9487<ruby>万人<rt>まんにん</rt></ruby>が、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration\"><ruby>登録<rt>とうろく</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the health ministry, about ninety-four point nine million people had registered by the end of June."
+    },
+    {
+      "speaker": "vocab",
+      "text": "登録",
+      "ruby": "<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration\"><ruby>登録<rt>とうろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means registration."
+    },
+    {
+      "speaker": "slow",
+      "text": "マイナ保険証を使うと、医師や薬剤師が、過去の薬や健康診断の情報を見ることができ、より良い治療につながると、政府は説明しています。",
+      "ruby": "マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>と、<ruby>医師<rt>いし</rt></ruby>や<span class=\"vw\" data-ja=\"薬剤師\" data-reading=\"やくざいし\" data-en=\"pharmacist\"><ruby>薬剤師<rt>やくざいし</rt></ruby></span>が、<ruby>過去<rt>かこ</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>や<span class=\"vw\" data-ja=\"健康診断\" data-reading=\"けんこうしんだん\" data-en=\"health checkup\"><ruby>健康診断<rt>けんこうしんだん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができ、より<ruby>良い<rt>よい</rt></ruby><span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>につながると、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the digital card, doctors and pharmacists can see your past medications and health checkup records, which the government says leads to better treatment."
+    },
+    {
+      "speaker": "vocab",
+      "text": "治療",
+      "ruby": "<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means medical treatment."
+    },
+    {
+      "speaker": "slow",
+      "text": "マイナ保険証も資格確認書も持たずに病院に行くと、原則として、医療費の全額を、いったん自分で払わなければなりません。",
+      "ruby": "マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>も<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>も<ruby>持た<rt>もた</rt></ruby>ずに<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>と、<span class=\"vw\" data-ja=\"原則\" data-reading=\"げんそく\" data-en=\"principle; as a rule\"><ruby>原則<rt>げんそく</rt></ruby></span>として、<span class=\"vw\" data-ja=\"医療費\" data-reading=\"いりょうひ\" data-en=\"medical expenses\"><ruby>医療費<rt>いりょうひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"全額\" data-reading=\"ぜんがく\" data-en=\"full amount\"><ruby>全額<rt>ぜんがく</rt></ruby></span>を、いったん<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you go to a hospital without either one, as a rule you must first pay the full medical cost yourself."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原則",
+      "ruby": "<span class=\"vw\" data-ja=\"原則\" data-reading=\"げんそく\" data-en=\"principle; as a rule\"><ruby>原則<rt>げんそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a principle — in the news it is used like the phrase 'as a rule'."
+    },
+    {
+      "speaker": "slow",
+      "text": "厚生労働大臣は、「マイナ保険証か資格確認書が手元にあるか、確認してほしい」と呼びかけています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働<rt>ろうどう</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>は、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>か<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>が<ruby>手元<rt>てもと</rt></ruby>にあるか、<ruby>確認し<rt>かくにんし</rt></ruby>てほしい」と<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The health minister is urging everyone to check that they have the digital card or the certificate at hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people or appeal to them to do something."
+    },
+    {
+      "speaker": "slow",
+      "text": "制度が大きく変わる中で、病院の窓口で混乱が起きないか、注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; institution\"><ruby>制度<rt>せいど</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<ruby>中<rt>なか</rt></ruby>で、<ruby>病院<rt>びょういん</rt></ruby>の<span class=\"vw\" data-ja=\"窓口\" data-reading=\"まどぐち\" data-en=\"service counter; reception window\"><ruby>窓口<rt>まどぐち</rt></ruby></span>で<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"confusion; disorder\"><ruby>混乱<rt>こんらん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ないか、<ruby>注目<rt>ちゅうもく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "With such a big change to the system, people are watching whether confusion will occur at hospital reception counters."
+    },
+    {
+      "speaker": "vocab",
+      "text": "混乱",
+      "ruby": "<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"confusion; disorder\"><ruby>混乱<rt>こんらん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means confusion or disorder."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "きのう8月1日から、病院や薬局で使う保険証が、マイナンバーカードと一体になった「マイナ保険証」に完全に移行しました。",
+      "ruby": "きのう8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>病院<rt>びょういん</rt></ruby>や<ruby>薬局<rt>やっきょく</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>が、マイナンバーカードと<ruby>一体<rt>いったい</rt></ruby>になった「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」に<ruby>完全<rt>かんぜん</rt></ruby>に<span class=\"vw\" data-ja=\"移行\" data-reading=\"いこう\" data-en=\"transition; migration (to a new system)\"><ruby>移行<rt>いこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い間使われてきた紙の健康保険証は、7月31日で完全に使えなくなりました。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>あいだ</rt></ruby><ruby>使わ<rt>つかわ</rt></ruby>れてきた<ruby>紙<rt>かみ</rt></ruby>の<ruby>健康保険証<rt>けんこうほけんしょう</rt></ruby>は、7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>で<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>使え<rt>つかえ</rt></ruby>なくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、病気やけがで病院に行くとき、保険証を見せると、医療費の一部を払うだけで治療を受けられます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>病気<rt>びょうき</rt></ruby>やけがで<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とき、<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>見せ<rt>みせ</rt></ruby>ると、<span class=\"vw\" data-ja=\"医療費\" data-reading=\"いりょうひ\" data-en=\"medical expenses\"><ruby>医療費<rt>いりょうひ</rt></ruby></span>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>だけで<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "news",
+      "text": "紙の保険証は、おととしの12月に新しい発行が終わり、去年の12月までに、すべての期限が切れました。",
+      "ruby": "<ruby>紙<rt>かみ</rt></ruby>の<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>は、おととしの12<ruby>月<rt>がつ</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"発行\" data-reading=\"はっこう\" data-en=\"issuance; issuing\"><ruby>発行<rt>はっこう</rt></ruby></span>が<ruby>終わり<rt>おわり</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>までに、すべての<span class=\"vw\" data-ja=\"期限\" data-reading=\"きげん\" data-en=\"time limit; expiration date\"><ruby>期限<rt>きげん</rt></ruby></span>が<ruby>切れ<rt>きれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後も、特別な措置として、期限が切れた保険証を使うことができましたが、この措置が7月31日で終わりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>も、<ruby>特別<rt>とくべつ</rt></ruby>な<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>として、<span class=\"vw\" data-ja=\"期限\" data-reading=\"きげん\" data-en=\"time limit; expiration date\"><ruby>期限<rt>きげん</rt></ruby></span>が<ruby>切れ<rt>きれ</rt></ruby>た<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>ことができましたが、この<span class=\"vw\" data-ja=\"措置\" data-reading=\"そち\" data-en=\"measure; step (taken by authorities)\"><ruby>措置<rt>そち</rt></ruby></span>が7<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>で<ruby>終わり<rt>おわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月1日からは、「マイナ保険証」か、「資格確認書」という書類のどちらかが必要です。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からは、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」か、「<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>」という<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>のどちらかが<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「資格確認書」は、マイナ保険証を持っていない人に、申請しなくても、無料で送られます。",
+      "ruby": "「<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>」は、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ていない<ruby>人<rt>ひと</rt></ruby>に、<span class=\"vw\" data-ja=\"申請\" data-reading=\"しんせい\" data-en=\"application; formal request\"><ruby>申請<rt>しんせい</rt></ruby></span>しなくても、<ruby>無料<rt>むりょう</rt></ruby>で<ruby>送ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省によりますと、6月の終わりの時点で、およそ9487万人が、マイナ保険証を登録しています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>によりますと、6<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、およそ9487<ruby>万人<rt>まんにん</rt></ruby>が、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"登録\" data-reading=\"とうろく\" data-en=\"registration\"><ruby>登録<rt>とうろく</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、5月に病院などに行った人のうち、実際にマイナ保険証を使った人は、68.5%でした。",
+      "ruby": "しかし、5<ruby>月<rt>がつ</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>などに<ruby>行った<rt>いった</rt></ruby><ruby>人<rt>ひと</rt></ruby>のうち、<ruby>実際に<rt>じっさいに</rt></ruby>マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使った<rt>つかった</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、68.5%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "マイナ保険証を使うと、医師や薬剤師が、過去の薬や健康診断の情報を見ることができ、より良い治療につながると、政府は説明しています。",
+      "ruby": "マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使う<rt>つかう</rt></ruby>と、<ruby>医師<rt>いし</rt></ruby>や<span class=\"vw\" data-ja=\"薬剤師\" data-reading=\"やくざいし\" data-en=\"pharmacist\"><ruby>薬剤師<rt>やくざいし</rt></ruby></span>が、<ruby>過去<rt>かこ</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>や<span class=\"vw\" data-ja=\"健康診断\" data-reading=\"けんこうしんだん\" data-en=\"health checkup\"><ruby>健康診断<rt>けんこうしんだん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができ、より<ruby>良い<rt>よい</rt></ruby><span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>につながると、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "マイナ保険証も資格確認書も持たずに病院に行くと、原則として、医療費の全額を、いったん自分で払わなければなりません。",
+      "ruby": "マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>も<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>も<ruby>持た<rt>もた</rt></ruby>ずに<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>と、<span class=\"vw\" data-ja=\"原則\" data-reading=\"げんそく\" data-en=\"principle; as a rule\"><ruby>原則<rt>げんそく</rt></ruby></span>として、<span class=\"vw\" data-ja=\"医療費\" data-reading=\"いりょうひ\" data-en=\"medical expenses\"><ruby>医療費<rt>いりょうひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"全額\" data-reading=\"ぜんがく\" data-en=\"full amount\"><ruby>全額<rt>ぜんがく</rt></ruby></span>を、いったん<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働大臣は、「マイナ保険証か資格確認書が手元にあるか、確認してほしい」と呼びかけています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働<rt>ろうどう</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>は、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>か<ruby>資格<rt>しかく</rt></ruby><ruby>確認書<rt>かくにんしょ</rt></ruby>が<ruby>手元<rt>てもと</rt></ruby>にあるか、<ruby>確認し<rt>かくにんし</rt></ruby>てほしい」と<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、地震の被害を受けた熊本県の人たちは、書類がなくても、いつも通りの負担で診療を受けられる特例が続きます。",
+      "ruby": "また、<ruby>地震<rt>じしん</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>た<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>がなくても、いつも<ruby>通り<rt>とうり</rt></ruby>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden; share of the cost\"><ruby>負担<rt>ふたん</rt></ruby></span>で<ruby>診療<rt>しんりょう</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>られる<span class=\"vw\" data-ja=\"特例\" data-reading=\"とくれい\" data-en=\"special exception\"><ruby>特例<rt>とくれい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "制度が大きく変わる中で、病院の窓口で混乱が起きないか、注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; institution\"><ruby>制度<rt>せいど</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<ruby>中<rt>なか</rt></ruby>で、<ruby>病院<rt>びょういん</rt></ruby>の<span class=\"vw\" data-ja=\"窓口\" data-reading=\"まどぐち\" data-en=\"service counter; reception window\"><ruby>窓口<rt>まどぐち</rt></ruby></span>で<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"confusion; disorder\"><ruby>混乱<rt>こんらん</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ないか、<ruby>注目<rt>ちゅうもく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月1日からは、「マイナ保険証」か、もう一つ、何という書類が必要ですか。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からは、「マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>」か、もう<ruby>一つ<rt>ひとつ</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>いう<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents; papers\"><ruby>書類<rt>しょるい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The eligibility confirmation certificate — a document sent free of charge to people without the digital card."
+    },
+    {
+      "speaker": "slow",
+      "text": "5月に病院などに行った人のうち、マイナ保険証を使った人は、何パーセントでしたか。",
+      "ruby": "5<ruby>月<rt>がつ</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>などに<ruby>行った<rt>いった</rt></ruby><ruby>人<rt>ひと</rt></ruby>のうち、マイナ<span class=\"vw\" data-ja=\"保険証\" data-reading=\"ほけんしょう\" data-en=\"health insurance card\"><ruby>保険証<rt>ほけんしょう</rt></ruby></span>を<ruby>使った<rt>つかった</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>パーセントでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty-eight point five percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. As of August first, Japan's paper health insurance cards are gone for good. At the hospital you now need the digital insurance card or the eligibility certificate, and people with neither must pay the full cost up front. Only about sixty-eight percent of patients were actually using the digital card in May, so the government is urging everyone to check what they have before they get sick. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "移行",
+      "reading": "いこう",
+      "en": "transition; migration (to a new system)",
+      "zh": "过渡、转移"
+    },
+    {
+      "ja": "保険証",
+      "reading": "ほけんしょう",
+      "en": "health insurance card",
+      "zh": "医保卡（健康保险证）"
+    },
+    {
+      "ja": "医療費",
+      "reading": "いりょうひ",
+      "en": "medical expenses",
+      "zh": "医疗费"
+    },
+    {
+      "ja": "治療",
+      "reading": "ちりょう",
+      "en": "medical treatment",
+      "zh": "治疗"
+    },
+    {
+      "ja": "発行",
+      "reading": "はっこう",
+      "en": "issuance; issuing",
+      "zh": "发行、签发"
+    },
+    {
+      "ja": "期限",
+      "reading": "きげん",
+      "en": "time limit; expiration date",
+      "zh": "期限"
+    },
+    {
+      "ja": "措置",
+      "reading": "そち",
+      "en": "measure; step (taken by authorities)",
+      "zh": "措施"
+    },
+    {
+      "ja": "書類",
+      "reading": "しょるい",
+      "en": "documents; papers",
+      "zh": "文件、资料"
+    },
+    {
+      "ja": "申請",
+      "reading": "しんせい",
+      "en": "application; formal request",
+      "zh": "申请"
+    },
+    {
+      "ja": "登録",
+      "reading": "とうろく",
+      "en": "registration",
+      "zh": "登记、注册"
+    },
+    {
+      "ja": "薬剤師",
+      "reading": "やくざいし",
+      "en": "pharmacist",
+      "zh": "药剂师"
+    },
+    {
+      "ja": "健康診断",
+      "reading": "けんこうしんだん",
+      "en": "health checkup",
+      "zh": "体检"
+    },
+    {
+      "ja": "原則",
+      "reading": "げんそく",
+      "en": "principle; as a rule",
+      "zh": "原则"
+    },
+    {
+      "ja": "全額",
+      "reading": "ぜんがく",
+      "en": "full amount",
+      "zh": "全额"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁"
+    },
+    {
+      "ja": "負担",
+      "reading": "ふたん",
+      "en": "burden; share of the cost",
+      "zh": "负担"
+    },
+    {
+      "ja": "特例",
+      "reading": "とくれい",
+      "en": "special exception",
+      "zh": "特例"
+    },
+    {
+      "ja": "制度",
+      "reading": "せいど",
+      "en": "system; institution",
+      "zh": "制度"
+    },
+    {
+      "ja": "窓口",
+      "reading": "まどぐち",
+      "en": "service counter; reception window",
+      "zh": "窗口"
+    },
+    {
+      "ja": "混乱",
+      "reading": "こんらん",
+      "en": "confusion; disorder",
+      "zh": "混乱"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to (polite news style)",
+      "meaningZh": "据…（新闻中的郑重说法）",
+      "formation": "noun + によりますと／によると",
+      "example": "厚生労働省によりますと、およそ9487万人が登録しています。",
+      "translation": "According to the health ministry, about 94.87 million people have registered.",
+      "note": "polite form of 〜によると, used constantly in news reports to cite a source",
+      "noteZh": "〜によると的礼貌形式，新闻报道中引用消息来源时非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜なくても",
+      "meaning": "even if one does not do",
+      "meaningZh": "即使不…也…",
+      "formation": "verb ない-stem + なくても",
+      "example": "申請しなくても、無料で送られます。",
+      "translation": "Even if you do not apply, it is sent to you for free.",
+      "note": "て-form of ない + も; the result holds even without the action",
+      "noteZh": "ない的て形加も，表示即使没有前项动作，后项依然成立",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくても"
+    },
+    {
+      "pattern": "〜のうち",
+      "meaning": "among; out of (a group)",
+      "meaningZh": "在…之中；…当中",
+      "formation": "noun + のうち",
+      "example": "病院に行った人のうち、マイナ保険証を使った人は68.5%でした。",
+      "translation": "Among the people who went to hospitals, 68.5 percent used the digital insurance card.",
+      "note": "picks out a part from a whole group; very common with statistics",
+      "noteZh": "从整体中挑出一部分，常与统计数字连用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#うち"
+    },
+    {
+      "pattern": "〜なければなりません",
+      "meaning": "must; have to",
+      "meaningZh": "必须…；不得不…",
+      "formation": "verb ない-stem + なければなりません",
+      "example": "医療費の全額を、いったん自分で払わなければなりません。",
+      "translation": "You must first pay the full medical cost yourself.",
+      "note": "expresses obligation; casual forms are 〜なければならない／〜なきゃ",
+      "noteZh": "表示义务；口语形式为〜なければならない／〜なきゃ",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なければならない"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want someone to do",
+      "meaningZh": "希望（别人）做…",
+      "formation": "verb て-form + ほしい",
+      "example": "手元にあるか、確認してほしいと呼びかけています。",
+      "translation": "They are calling on people, saying they want them to check whether they have it at hand.",
+      "note": "the speaker wants another person to do the action; common in official appeals",
+      "noteZh": "表示说话人希望他人做某事，常见于政府呼吁",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てほしい"
+    }
+  ],
+  "practiceZh": [
+    "きのう8月1日から、病院や薬局で使う保険証が、マイナンバーカードと一体になった「マイナ保険証」に完全に移行しました。\n从昨天8月1日起，在医院和药店使用的保险证已完全过渡到与个人编号卡一体化的“マイナ保险证”。\n薬局 = pharmacy；一体 = integrated；移行 = transition",
+    "長い間使われてきた紙の健康保険証は、7月31日で完全に使えなくなりました。\n长期使用的纸质健康保险证已于7月31日完全停止使用。\n長い間 = for a long time；紙 = paper；使えなくなる = to become unusable",
+    "日本では、病気やけがで病院に行くとき、保険証を見せると、医療費の一部を払うだけで治療を受けられます。\n在日本，因生病或受伤去医院时，出示保险证只需支付一部分医疗费即可接受治疗。\n医療費 = medical expenses；一部 = a part；治療 = treatment",
+    "紙の保険証は、おととしの12月に新しい発行が終わり、去年の12月までに、すべての期限が切れました。\n纸质保险证于前年12月停止新发行，到去年12月已全部过期。\n発行 = issuance；期限 = expiration；切れる = to expire",
+    "その後も、特別な措置として、期限が切れた保険証を使うことができましたが、この措置が7月31日で終わりました。\n此后作为特别措施，过期的保险证仍可继续使用，但该措施已于7月31日结束。\n特別な = special；措置 = measure；終わる = to end",
+    "8月1日からは、「マイナ保険証」か、「資格確認書」という書類のどちらかが必要です。\n从8月1日起，必须持有“マイナ保险证”或“资格确认书”这两种证件之一。\n資格 = eligibility；書類 = document；どちらか = either one",
+    "「資格確認書」は、マイナ保険証を持っていない人に、申請しなくても、無料で送られます。\n“资格确认书”会免费寄送给没有マイナ保险证的人，无需申请。\n申請 = application；無料 = free of charge；送られる = to be sent",
+    "厚生労働省によりますと、6月の終わりの時点で、およそ9487万人が、マイナ保険証を登録しています。\n据厚生劳动省介绍，截至6月底约有9487万人登记了マイナ保险证。\n厚生労働省 = Ministry of Health, Labour and Welfare；時点 = point in time；登録 = registration",
+    "しかし、5月に病院などに行った人のうち、実際にマイナ保険証を使った人は、68.5%でした。\n但是，在5月去医院等就诊的人当中，实际使用マイナ保险证的人只占68.5%。\n〜のうち = among；実際に = actually；パーセント = percent",
+    "マイナ保険証を使うと、医師や薬剤師が、過去の薬や健康診断の情報を見ることができ、より良い治療につながると、政府は説明しています。\n政府解释说，使用マイナ保险证后，医生和药剂师可以查看过去的用药和体检信息，从而带来更好的治疗。\n薬剤師 = pharmacist；健康診断 = health checkup；つながる = to lead to",
+    "マイナ保険証も資格確認書も持たずに病院に行くと、原則として、医療費の全額を、いったん自分で払わなければなりません。\n如果两者都没有就去医院，原则上必须先自己垫付全部医疗费。\n原則として = as a rule；全額 = full amount；いったん = for the time being",
+    "厚生労働大臣は、「マイナ保険証か資格確認書が手元にあるか、確認してほしい」と呼びかけています。\n厚生劳动大臣呼吁大家“确认手边是否有マイナ保险证或资格确认书”。\n大臣 = minister；手元 = at hand；呼びかける = to call on",
+    "また、地震の被害を受けた熊本県の人たちは、書類がなくても、いつも通りの負担で診療を受けられる特例が続きます。\n此外，受地震灾害影响的熊本县居民即使没有证件，也可继续按平时的自付比例就诊，这一特例将持续。\n被害 = damage；負担 = burden (of cost)；特例 = special exception",
+    "制度が大きく変わる中で、病院の窓口で混乱が起きないか、注目されています。\n在制度发生重大变化之际，医院窗口是否会出现混乱备受关注。\n制度 = system；窓口 = service counter；混乱 = confusion"
+  ]
+}
