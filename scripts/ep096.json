@@ -1,0 +1,447 @@
+{
+  "episode": 96,
+  "title": "東北の夏の祭り「青森ねぶた祭」が始まる",
+  "date": "2026-08-03",
+  "source": "東奥日報 / 青森ねぶた祭オフィシャルサイト",
+  "level": "N5-N4",
+  "contentVersion": "2026080301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August third. This weekend, one of Japan's most famous summer festivals started in Aomori, in the north of Japan. Huge glowing paper figures parade through the city at night. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月2日、青森県の青森市で、大きい夏の祭り「青森ねぶた祭」が始まりました。祭りは、8月7日まで続きます。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>青森市<rt>あおもりし</rt></ruby>で、<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>」が<ruby>始まり<rt>はじまり</rt></ruby>ました。<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ねぶた」は、紙で作った、大きい人形です。中に電気が入っていて、夜、明るく光ります。",
+      "ruby": "「ねぶた」は、<span class=\"vw\" data-ja=\"紙\" data-reading=\"かみ\" data-en=\"paper\"><ruby>紙<rt>かみ</rt></ruby></span>で<ruby>作っ<rt>つくっ</rt></ruby>た、<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"人形\" data-reading=\"にんぎょう\" data-en=\"doll; figure\"><ruby>人形<rt>にんぎょう</rt></ruby></span>です。<ruby>中に<rt>なかに</rt></ruby><ruby>電気<rt>でんき</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>ていて、<ruby>夜<rt>よる</rt></ruby>、<ruby>明るく<rt>あかるく</rt></ruby><ruby>光り<rt>ひかり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ねぶたは、とても大きいです。横は約9メートル、高さは約5メートルあります。",
+      "ruby": "ねぶたは、とても<ruby>大きい<rt>おおきい</rt></ruby>です。<span class=\"vw\" data-ja=\"横\" data-reading=\"よこ\" data-en=\"width; side\"><ruby>横<rt>よこ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>9メートル、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>5メートルあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、約20台の大きいねぶたが、夜の町をゆっくり進みます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>20<ruby>台<rt>だい</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby>ねぶたが、<ruby>夜<rt>よる</rt></ruby>の<ruby>町<rt>まち</rt></ruby>をゆっくり<ruby>進み<rt>すすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ねぶたの絵は、日本の昔の話や、強い武士などです。色は赤や青などで、とてもきれいです。",
+      "ruby": "ねぶたの<ruby>絵<rt>え</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times; long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>や、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"武士\" data-reading=\"ぶし\" data-en=\"samurai; warrior\"><ruby>武士<rt>ぶし</rt></ruby></span>などです。<ruby>色<rt>いろ</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>や<ruby>青<rt>あお</rt></ruby>などで、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ねぶたの周りでは、たくさんの人が「ラッセラー」と言いながら、跳んで踊ります。この人たちは「ハネト」と呼ばれます。",
+      "ruby": "ねぶたの<ruby>周り<rt>まわり</rt></ruby>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が「ラッセラー」と<ruby>言い<rt>いい</rt></ruby>ながら、<ruby>跳ん<rt>とん</rt></ruby>で<ruby>踊り<rt>おどり</rt></ruby>ます。この<ruby>人<rt>ひと</rt></ruby>たちは「ハネト」と<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "祭りの衣装を着れば、誰でもハネトになって、祭りに参加できます。",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>の<span class=\"vw\" data-ja=\"衣装\" data-reading=\"いしょう\" data-en=\"costume\"><ruby>衣装<rt>いしょう</rt></ruby></span>を<ruby>着れ<rt>きれ</rt></ruby>ば、<ruby>誰<rt>だれ</rt></ruby>でもハネトになって、<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>に<ruby>参加<rt>さんか</rt></ruby>できます。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森ねぶた祭は、東北の三つの大きい夏祭りの一つです。毎年、日本や外国から、たくさんの人が見に来ます。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>は、<ruby>東北<rt>とうほく</rt></ruby>の<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏祭り<rt>なつまつり</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後の日の8月7日は、昼に、ねぶたが町を進みます。夜は、花火が上がって、ねぶたは船で海の上を進みます。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>は、<ruby>昼<rt>ひる</rt></ruby>に、ねぶたが<ruby>町<rt>まち</rt></ruby>を<ruby>進み<rt>すすみ</rt></ruby>ます。<ruby>夜<rt>よる</rt></ruby>は、<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>って、ねぶたは<ruby>船<rt>ふね</rt></ruby>で<ruby>海<rt>うみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>進み<rt>すすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月2日、青森県の青森市で、大きい夏の祭り「青森ねぶた祭」が始まりました。祭りは、8月7日まで続きます。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>青森市<rt>あおもりし</rt></ruby>で、<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>」が<ruby>始まり<rt>はじまり</rt></ruby>ました。<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "On August second, in Aomori City in Aomori Prefecture, a big summer festival, the Nebuta Festival, began. The festival continues until August seventh."
+    },
+    {
+      "speaker": "vocab",
+      "text": "祭り",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a festival."
+    },
+    {
+      "speaker": "slow",
+      "text": "「ねぶた」は、紙で作った、大きい人形です。中に電気が入っていて、夜、明るく光ります。",
+      "ruby": "「ねぶた」は、<span class=\"vw\" data-ja=\"紙\" data-reading=\"かみ\" data-en=\"paper\"><ruby>紙<rt>かみ</rt></ruby></span>で<ruby>作っ<rt>つくっ</rt></ruby>た、<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"人形\" data-reading=\"にんぎょう\" data-en=\"doll; figure\"><ruby>人形<rt>にんぎょう</rt></ruby></span>です。<ruby>中に<rt>なかに</rt></ruby><ruby>電気<rt>でんき</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>ていて、<ruby>夜<rt>よる</rt></ruby>、<ruby>明るく<rt>あかるく</rt></ruby><ruby>光り<rt>ひかり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The nebuta are big figures made of paper. There are lights inside, so at night they shine brightly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "光る",
+      "ruby": "<span class=\"vw\" data-ja=\"光る\" data-reading=\"ひかる\" data-en=\"to shine\"><ruby>光る<rt>ひかる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to shine."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、約20台の大きいねぶたが、夜の町をゆっくり進みます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>20<ruby>台<rt>だい</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby>ねぶたが、<ruby>夜<rt>よる</rt></ruby>の<ruby>町<rt>まち</rt></ruby>をゆっくり<ruby>進み<rt>すすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, about twenty big nebuta will move slowly through the town at night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "進む",
+      "ruby": "<span class=\"vw\" data-ja=\"進む\" data-reading=\"すすむ\" data-en=\"to move forward; to advance\"><ruby>進む<rt>すすむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to move forward, or to advance."
+    },
+    {
+      "speaker": "slow",
+      "text": "ねぶたの周りでは、たくさんの人が「ラッセラー」と言いながら、跳んで踊ります。この人たちは「ハネト」と呼ばれます。",
+      "ruby": "ねぶたの<ruby>周り<rt>まわり</rt></ruby>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が「ラッセラー」と<ruby>言い<rt>いい</rt></ruby>ながら、<ruby>跳ん<rt>とん</rt></ruby>で<ruby>踊り<rt>おどり</rt></ruby>ます。この<ruby>人<rt>ひと</rt></ruby>たちは「ハネト」と<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around the nebuta, many people jump and dance while shouting a festival call. These dancers are called haneto."
+    },
+    {
+      "speaker": "vocab",
+      "text": "踊る",
+      "ruby": "<span class=\"vw\" data-ja=\"踊る\" data-reading=\"おどる\" data-en=\"to dance\"><ruby>踊る<rt>おどる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to dance."
+    },
+    {
+      "speaker": "slow",
+      "text": "祭りの衣装を着れば、誰でもハネトになって、祭りに参加できます。",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>の<span class=\"vw\" data-ja=\"衣装\" data-reading=\"いしょう\" data-en=\"costume\"><ruby>衣装<rt>いしょう</rt></ruby></span>を<ruby>着れ<rt>きれ</rt></ruby>ば、<ruby>誰<rt>だれ</rt></ruby>でもハネトになって、<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>に<ruby>参加<rt>さんか</rt></ruby>できます。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you wear the festival costume, anyone can become a dancer and join the festival."
+    },
+    {
+      "speaker": "vocab",
+      "text": "参加する",
+      "ruby": "<span class=\"vw\" data-ja=\"参加する\" data-reading=\"さんかする\" data-en=\"to participate\"><ruby>参加<rt>さんか</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to participate, or to take part."
+    },
+    {
+      "speaker": "slow",
+      "text": "最後の日の8月7日は、昼に、ねぶたが町を進みます。夜は、花火が上がって、ねぶたは船で海の上を進みます。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>は、<ruby>昼<rt>ひる</rt></ruby>に、ねぶたが<ruby>町<rt>まち</rt></ruby>を<ruby>進み<rt>すすみ</rt></ruby>ます。<ruby>夜<rt>よる</rt></ruby>は、<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>って、ねぶたは<ruby>船<rt>ふね</rt></ruby>で<ruby>海<rt>うみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>進み<rt>すすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the last day, August seventh, the nebuta parade through the town in the daytime. At night, fireworks go up, and the nebuta go out onto the sea on boats."
+    },
+    {
+      "speaker": "vocab",
+      "text": "花火",
+      "ruby": "<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fireworks."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "8月2日、青森県の青森市で、大きい夏の祭り「青森ねぶた祭」が始まりました。祭りは、8月7日まで続きます。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>青森市<rt>あおもりし</rt></ruby>で、<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>」が<ruby>始まり<rt>はじまり</rt></ruby>ました。<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ねぶた」は、紙で作った、大きい人形です。中に電気が入っていて、夜、明るく光ります。",
+      "ruby": "「ねぶた」は、<span class=\"vw\" data-ja=\"紙\" data-reading=\"かみ\" data-en=\"paper\"><ruby>紙<rt>かみ</rt></ruby></span>で<ruby>作っ<rt>つくっ</rt></ruby>た、<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"人形\" data-reading=\"にんぎょう\" data-en=\"doll; figure\"><ruby>人形<rt>にんぎょう</rt></ruby></span>です。<ruby>中に<rt>なかに</rt></ruby><ruby>電気<rt>でんき</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>ていて、<ruby>夜<rt>よる</rt></ruby>、<ruby>明るく<rt>あかるく</rt></ruby><ruby>光り<rt>ひかり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ねぶたは、とても大きいです。横は約9メートル、高さは約5メートルあります。",
+      "ruby": "ねぶたは、とても<ruby>大きい<rt>おおきい</rt></ruby>です。<span class=\"vw\" data-ja=\"横\" data-reading=\"よこ\" data-en=\"width; side\"><ruby>横<rt>よこ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>9メートル、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>5メートルあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、約20台の大きいねぶたが、夜の町をゆっくり進みます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>20<ruby>台<rt>だい</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby>ねぶたが、<ruby>夜<rt>よる</rt></ruby>の<ruby>町<rt>まち</rt></ruby>をゆっくり<ruby>進み<rt>すすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ねぶたの絵は、日本の昔の話や、強い武士などです。色は赤や青などで、とてもきれいです。",
+      "ruby": "ねぶたの<ruby>絵<rt>え</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times; long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>や、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"武士\" data-reading=\"ぶし\" data-en=\"samurai; warrior\"><ruby>武士<rt>ぶし</rt></ruby></span>などです。<ruby>色<rt>いろ</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>や<ruby>青<rt>あお</rt></ruby>などで、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ねぶたの周りでは、たくさんの人が「ラッセラー」と言いながら、跳んで踊ります。この人たちは「ハネト」と呼ばれます。",
+      "ruby": "ねぶたの<ruby>周り<rt>まわり</rt></ruby>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が「ラッセラー」と<ruby>言い<rt>いい</rt></ruby>ながら、<ruby>跳ん<rt>とん</rt></ruby>で<ruby>踊り<rt>おどり</rt></ruby>ます。この<ruby>人<rt>ひと</rt></ruby>たちは「ハネト」と<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "祭りの衣装を着れば、誰でもハネトになって、祭りに参加できます。",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>の<span class=\"vw\" data-ja=\"衣装\" data-reading=\"いしょう\" data-en=\"costume\"><ruby>衣装<rt>いしょう</rt></ruby></span>を<ruby>着れ<rt>きれ</rt></ruby>ば、<ruby>誰<rt>だれ</rt></ruby>でもハネトになって、<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>に<ruby>参加<rt>さんか</rt></ruby>できます。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森ねぶた祭は、東北の三つの大きい夏祭りの一つです。毎年、日本や外国から、たくさんの人が見に来ます。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>は、<ruby>東北<rt>とうほく</rt></ruby>の<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏祭り<rt>なつまつり</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後の日の8月7日は、昼に、ねぶたが町を進みます。夜は、花火が上がって、ねぶたは船で海の上を進みます。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>は、<ruby>昼<rt>ひる</rt></ruby>に、ねぶたが<ruby>町<rt>まち</rt></ruby>を<ruby>進み<rt>すすみ</rt></ruby>ます。<ruby>夜<rt>よる</rt></ruby>は、<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>って、ねぶたは<ruby>船<rt>ふね</rt></ruby>で<ruby>海<rt>うみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>進み<rt>すすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森ねぶた祭は、いつまで続きますか。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>は、いつまで<ruby>続き<rt>つづき</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until August seventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "ねぶたの横の長さは、約何メートルですか。",
+      "ruby": "ねぶたの<span class=\"vw\" data-ja=\"横\" data-reading=\"よこ\" data-en=\"width; side\"><ruby>横<rt>よこ</rt></ruby></span>の<ruby>長さ<rt>ながさ</rt></ruby>は、<ruby>約<rt>やく</rt></ruby><ruby>何<rt>なん</rt></ruby>メートルですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About nine meters."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. The Nebuta Festival has started in Aomori, and about twenty huge glowing figures will parade through the city every night until August seventh. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "祭り",
+      "reading": "まつり",
+      "en": "festival",
+      "zh": "节日；祭典"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue",
+      "zh": "持续"
+    },
+    {
+      "ja": "紙",
+      "reading": "かみ",
+      "en": "paper",
+      "zh": "纸"
+    },
+    {
+      "ja": "人形",
+      "reading": "にんぎょう",
+      "en": "doll; figure",
+      "zh": "人偶"
+    },
+    {
+      "ja": "光る",
+      "reading": "ひかる",
+      "en": "to shine",
+      "zh": "发光"
+    },
+    {
+      "ja": "横",
+      "reading": "よこ",
+      "en": "width; side",
+      "zh": "宽度；横向"
+    },
+    {
+      "ja": "高さ",
+      "reading": "たかさ",
+      "en": "height",
+      "zh": "高度"
+    },
+    {
+      "ja": "進む",
+      "reading": "すすむ",
+      "en": "to move forward; to advance",
+      "zh": "前进"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "old times; long ago",
+      "zh": "从前；很久以前"
+    },
+    {
+      "ja": "武士",
+      "reading": "ぶし",
+      "en": "samurai; warrior",
+      "zh": "武士"
+    },
+    {
+      "ja": "跳ぶ",
+      "reading": "とぶ",
+      "en": "to jump",
+      "zh": "跳"
+    },
+    {
+      "ja": "踊る",
+      "reading": "おどる",
+      "en": "to dance",
+      "zh": "跳舞"
+    },
+    {
+      "ja": "衣装",
+      "reading": "いしょう",
+      "en": "costume",
+      "zh": "服装；戏服"
+    },
+    {
+      "ja": "参加する",
+      "reading": "さんかする",
+      "en": "to participate",
+      "zh": "参加"
+    },
+    {
+      "ja": "花火",
+      "reading": "はなび",
+      "en": "fireworks",
+      "zh": "烟花"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~",
+      "meaningZh": "到…为止",
+      "formation": "time/place noun + まで",
+      "example": "祭りは、8月7日まで続きます。",
+      "translation": "The festival continues until August seventh.",
+      "note": "まで marks the end point of a time or place",
+      "noteZh": "まで表示时间或地点的终点",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#まで"
+    },
+    {
+      "pattern": "〜ながら",
+      "meaning": "while doing ~",
+      "meaningZh": "一边…一边…",
+      "formation": "verb ます-stem + ながら",
+      "example": "たくさんの人が「ラッセラー」と言いながら、跳んで踊ります。",
+      "translation": "Many people jump and dance while shouting the festival call.",
+      "note": "ながら shows two actions done by the same person at the same time",
+      "noteZh": "ながら表示同一个人同时做两个动作",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ながら"
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "if ~ (conditional)",
+      "meaningZh": "如果…的话",
+      "formation": "verb ば-form (着る → 着れば)",
+      "example": "祭りの衣装を着れば、誰でも祭りに参加できます。",
+      "translation": "If you wear the festival costume, anyone can join the festival.",
+      "note": "ば expresses a condition — if the first part happens, the second follows",
+      "noteZh": "ば表示条件——只要满足前项，就会有后项",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ば"
+    },
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~",
+      "meaningZh": "被称为…",
+      "formation": "name + と + 呼ばれる (passive of 呼ぶ)",
+      "example": "この人たちは「ハネト」と呼ばれます。",
+      "translation": "These people are called haneto.",
+      "note": "と呼ばれる is the passive form of 呼ぶ, used for names and nicknames",
+      "noteZh": "と呼ばれる是呼ぶ的被动形式，用于名称和称呼",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#られる"
+    },
+    {
+      "pattern": "〜の一つ",
+      "meaning": "one of ~",
+      "meaningZh": "…之一",
+      "formation": "noun + の一つ",
+      "example": "青森ねぶた祭は、東北の三つの大きい夏祭りの一つです。",
+      "translation": "The Aomori Nebuta Festival is one of the three big summer festivals of Tohoku.",
+      "note": "の一つ picks out one member of a group",
+      "noteZh": "の一つ表示某个群体中的一个成员",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#の一つ"
+    }
+  ],
+  "practiceZh": [
+    "8月2日、青森県の青森市で、大きい夏の祭り「青森ねぶた祭」が始まりました。祭りは、8月7日まで続きます。\n8月2日，在青森县青森市，盛大的夏日祭典「青森睡魔祭」开幕了。祭典将持续到8月7日。\n祭り = festival；始まる = to begin；続く = to continue",
+    "「ねぶた」は、紙で作った、大きい人形です。中に電気が入っていて、夜、明るく光ります。\n「睡魔灯笼」是用纸做的巨大人偶。里面装有灯，夜晚会明亮地发光。\n紙 = paper；人形 = doll, figure；光る = to shine",
+    "ねぶたは、とても大きいです。横は約9メートル、高さは約5メートルあります。\n睡魔灯笼非常大。宽约9米，高约5米。\n横 = width；高さ = height；約 = about",
+    "今年は、約20台の大きいねぶたが、夜の町をゆっくり進みます。\n今年，约20台大型睡魔灯笼将在夜晚的街道上缓缓前行。\n〜台 = counter for machines/floats；進む = to move forward",
+    "ねぶたの絵は、日本の昔の話や、強い武士などです。色は赤や青などで、とてもきれいです。\n睡魔灯笼上画的是日本古老的故事和强大的武士等。颜色有红色、蓝色等，非常漂亮。\n昔 = old times；武士 = samurai；きれい = beautiful",
+    "ねぶたの周りでは、たくさんの人が「ラッセラー」と言いながら、跳んで踊ります。この人たちは「ハネト」と呼ばれます。\n在睡魔灯笼的周围，很多人一边喊着「拉塞拉」，一边跳跃舞蹈。这些人被称为「跳人」。\n周り = around；跳ぶ = to jump；踊る = to dance",
+    "祭りの衣装を着れば、誰でもハネトになって、祭りに参加できます。\n只要穿上祭典的服装，任何人都可以成为「跳人」，参加祭典。\n衣装 = costume；誰でも = anyone；参加する = to participate",
+    "青森ねぶた祭は、東北の三つの大きい夏祭りの一つです。毎年、日本や外国から、たくさんの人が見に来ます。\n青森睡魔祭是东北三大夏日祭典之一。每年都有很多人从日本各地和国外前来观看。\n東北 = Tohoku region；毎年 = every year；外国 = foreign country",
+    "最後の日の8月7日は、昼に、ねぶたが町を進みます。夜は、花火が上がって、ねぶたは船で海の上を進みます。\n最后一天8月7日，白天睡魔灯笼在街上巡游。晚上燃放烟花，睡魔灯笼乘船在海上巡游。\n最後 = last；花火 = fireworks；船 = boat"
+  ]
+}
