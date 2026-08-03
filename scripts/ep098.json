@@ -1,0 +1,366 @@
+{
+  "episode": 98,
+  "title": "火の神の名前を持つ「カグツチクラゲ」を世界初展示",
+  "date": "2026-08-04",
+  "source": "新江ノ島水族館 / 鶴岡市立加茂水族館",
+  "level": "N5-N4",
+  "contentVersion": "2026080401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August fourth. A brand-new species of jellyfish, named after the Japanese god of fire, has just gone on display for the first time anywhere in the world, at two aquariums in Japan. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月2日から、神奈川県の新江ノ島水族館と、山形県の加茂水族館で、新しいクラゲの展示が始まりました。世界で初めての展示です。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>から、<ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>江<rt>え</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>と、<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>加茂<rt>かも</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このクラゲの名前は、「カグツチクラゲ」です。日本の昔の話に出てくる、火の神様「カグツチ」から、名前を付けました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<ruby>名前<rt>なまえ</rt></ruby>は、「カグツチクラゲ」です。<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times, long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>に<ruby>出て<rt>でて</rt></ruby>くる、<ruby>火<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>「カグツチ」から、<ruby>名前<rt>なまえ</rt></ruby>を<ruby>付け<rt>つけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "カグツチクラゲは、2022年に、沖縄県の久米島の近くの海で見つかりました。そして今年、新しい種類のクラゲになりました。",
+      "ruby": "カグツチクラゲは、2022<ruby>年<rt>ねん</rt></ruby>に、<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>久米<rt>くめ</rt></ruby><ruby>島<rt>じま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>見つ<rt>みつ</rt></ruby>かりました。そして<ruby>今年<rt>ことし</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, species\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "体は箱の形で、透明です。足のような「触手」が4本あります。2本は短くて、2本はとても長いです。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>は<ruby>箱<rt>はこ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>で、<span class=\"vw\" data-ja=\"透明\" data-reading=\"とうめい\" data-en=\"transparent\"><ruby>透明<rt>とうめい</rt></ruby></span>です。<ruby>足<rt>あし</rt></ruby>のような「<span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>」が4<ruby>本<rt>ほん</rt></ruby>あります。2<ruby>本<rt>ほん</rt></ruby>は<ruby>短く<rt>みじかく</rt></ruby>て、2<ruby>本<rt>ほん</rt></ruby>はとても<ruby>長い<rt>ながい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い触手には、小さいこぶが、たくさん並んでいます。このこぶは、小さいエビのような生き物に、よく似ています。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>には、<ruby>小さい<rt>ちいさい</rt></ruby>こぶが、たくさん<ruby>並ん<rt>ならん</rt></ruby>でいます。このこぶは、<ruby>小さい<rt>ちいさい</rt></ruby>エビのような<ruby>生き物<rt>いきもの</rt></ruby>に、よく<ruby>似て<rt>にて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "魚は、このこぶを食べ物だと思って、近くに来ます。カグツチクラゲは、その魚を捕まえて食べます。",
+      "ruby": "<ruby>魚<rt>さかな</rt></ruby>は、このこぶを<ruby>食べ物<rt>たべもの</rt></ruby>だと<ruby>思って<rt>おもって</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>来ま<rt>きま</rt></ruby>す。カグツチクラゲは、その<ruby>魚<rt>さかな</rt></ruby>を<ruby>捕ま<rt>つかま</rt></ruby>えて<ruby>食べ<rt>たべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い触手が水の中でゆれると、火のように見えます。だから、火の神様の名前が付きました。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>が<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でゆれると、<ruby>火<rt>ひ</rt></ruby>のように<ruby>見え<rt>みえ</rt></ruby>ます。だから、<ruby>火<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>付き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新江ノ島水族館は、クラゲの展示で有名です。いろいろな種類のクラゲを見ることができます。",
+      "ruby": "<ruby>新<rt>しん</rt></ruby><ruby>江<rt>え</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>で<ruby>有名<rt>ゆうめい</rt></ruby>です。いろいろな<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, species\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "山形県の加茂水族館も、クラゲで有名な水族館です。夏休みに、たくさんの人が見に来るでしょう。",
+      "ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>加茂<rt>かも</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>も、<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>です。<ruby>夏休み<rt>なつやすみ</rt></ruby>に、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来る<rt>くる</rt></ruby>でしょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月2日から、神奈川県の新江ノ島水族館と、山形県の加茂水族館で、新しいクラゲの展示が始まりました。世界で初めての展示です。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>から、<ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>江<rt>え</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>と、<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>加茂<rt>かも</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "From August second, at the Enoshima Aquarium in Kanagawa and the Kamo Aquarium in Yamagata, an exhibit of a new jellyfish began. It is the first exhibit in the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "水族館",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an aquarium."
+    },
+    {
+      "speaker": "slow",
+      "text": "このクラゲの名前は、「カグツチクラゲ」です。日本の昔の話に出てくる、火の神様「カグツチ」から、名前を付けました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<ruby>名前<rt>なまえ</rt></ruby>は、「カグツチクラゲ」です。<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times, long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>に<ruby>出て<rt>でて</rt></ruby>くる、<ruby>火<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>「カグツチ」から、<ruby>名前<rt>なまえ</rt></ruby>を<ruby>付け<rt>つけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This jellyfish is called the Kagutsuchi jellyfish. It was named after Kagutsuchi, the god of fire who appears in old Japanese stories."
+    },
+    {
+      "speaker": "vocab",
+      "text": "神様",
+      "ruby": "<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a god."
+    },
+    {
+      "speaker": "slow",
+      "text": "カグツチクラゲは、2022年に、沖縄県の久米島の近くの海で見つかりました。そして今年、新しい種類のクラゲになりました。",
+      "ruby": "カグツチクラゲは、2022<ruby>年<rt>ねん</rt></ruby>に、<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>久米<rt>くめ</rt></ruby><ruby>島<rt>じま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>見つ<rt>みつ</rt></ruby>かりました。そして<ruby>今年<rt>ことし</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, species\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Kagutsuchi jellyfish was found in twenty twenty-two, in the sea near Kumejima island in Okinawa. And this year, it was recognized as a new species of jellyfish."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見つかる",
+      "ruby": "<span class=\"vw\" data-ja=\"見つかる\" data-reading=\"みつかる\" data-en=\"to be found, to be discovered\"><ruby>見つ<rt>みつ</rt></ruby>かる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be found, or to be discovered."
+    },
+    {
+      "speaker": "slow",
+      "text": "長い触手が水の中でゆれると、火のように見えます。だから、火の神様の名前が付きました。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>が<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でゆれると、<ruby>火<rt>ひ</rt></ruby>のように<ruby>見え<rt>みえ</rt></ruby>ます。だから、<ruby>火<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>付き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the long tentacles sway in the water, they look like fire. That is why it was given the name of the god of fire."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ゆれる",
+      "ruby": "<span class=\"vw\" data-ja=\"ゆれる\" data-reading=\"ゆれる\" data-en=\"to sway, to swing\">ゆれる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to sway, or to swing."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "8月2日から、神奈川県の新江ノ島水族館と、山形県の加茂水族館で、新しいクラゲの展示が始まりました。世界で初めての展示です。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>から、<ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>江<rt>え</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>と、<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>加茂<rt>かも</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このクラゲの名前は、「カグツチクラゲ」です。日本の昔の話に出てくる、火の神様「カグツチ」から、名前を付けました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<ruby>名前<rt>なまえ</rt></ruby>は、「カグツチクラゲ」です。<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times, long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>に<ruby>出て<rt>でて</rt></ruby>くる、<ruby>火<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>「カグツチ」から、<ruby>名前<rt>なまえ</rt></ruby>を<ruby>付け<rt>つけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "カグツチクラゲは、2022年に、沖縄県の久米島の近くの海で見つかりました。そして今年、新しい種類のクラゲになりました。",
+      "ruby": "カグツチクラゲは、2022<ruby>年<rt>ねん</rt></ruby>に、<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>久米<rt>くめ</rt></ruby><ruby>島<rt>じま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>見つ<rt>みつ</rt></ruby>かりました。そして<ruby>今年<rt>ことし</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, species\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "体は箱の形で、透明です。足のような「触手」が4本あります。2本は短くて、2本はとても長いです。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>は<ruby>箱<rt>はこ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>で、<span class=\"vw\" data-ja=\"透明\" data-reading=\"とうめい\" data-en=\"transparent\"><ruby>透明<rt>とうめい</rt></ruby></span>です。<ruby>足<rt>あし</rt></ruby>のような「<span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>」が4<ruby>本<rt>ほん</rt></ruby>あります。2<ruby>本<rt>ほん</rt></ruby>は<ruby>短く<rt>みじかく</rt></ruby>て、2<ruby>本<rt>ほん</rt></ruby>はとても<ruby>長い<rt>ながい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い触手には、小さいこぶが、たくさん並んでいます。このこぶは、小さいエビのような生き物に、よく似ています。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>には、<ruby>小さい<rt>ちいさい</rt></ruby>こぶが、たくさん<ruby>並ん<rt>ならん</rt></ruby>でいます。このこぶは、<ruby>小さい<rt>ちいさい</rt></ruby>エビのような<ruby>生き物<rt>いきもの</rt></ruby>に、よく<ruby>似て<rt>にて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "魚は、このこぶを食べ物だと思って、近くに来ます。カグツチクラゲは、その魚を捕まえて食べます。",
+      "ruby": "<ruby>魚<rt>さかな</rt></ruby>は、このこぶを<ruby>食べ物<rt>たべもの</rt></ruby>だと<ruby>思って<rt>おもって</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>来ま<rt>きま</rt></ruby>す。カグツチクラゲは、その<ruby>魚<rt>さかな</rt></ruby>を<ruby>捕ま<rt>つかま</rt></ruby>えて<ruby>食べ<rt>たべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い触手が水の中でゆれると、火のように見えます。だから、火の神様の名前が付きました。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"触手\" data-reading=\"しょくしゅ\" data-en=\"tentacle\"><ruby>触手<rt>しょくしゅ</rt></ruby></span>が<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でゆれると、<ruby>火<rt>ひ</rt></ruby>のように<ruby>見え<rt>みえ</rt></ruby>ます。だから、<ruby>火<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>付き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新江ノ島水族館は、クラゲの展示で有名です。いろいろな種類のクラゲを見ることができます。",
+      "ruby": "<ruby>新<rt>しん</rt></ruby><ruby>江<rt>え</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>の<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"exhibit, display\"><ruby>展示<rt>てんじ</rt></ruby></span>で<ruby>有名<rt>ゆうめい</rt></ruby>です。いろいろな<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, species\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "山形県の加茂水族館も、クラゲで有名な水族館です。夏休みに、たくさんの人が見に来るでしょう。",
+      "ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>加茂<rt>かも</rt></ruby><span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>も、<span class=\"vw\" data-ja=\"クラゲ\" data-reading=\"くらげ\" data-en=\"jellyfish\">クラゲ</span>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>です。<ruby>夏休み<rt>なつやすみ</rt></ruby>に、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来る<rt>くる</rt></ruby>でしょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "カグツチクラゲは、どこの海で見つかりましたか。",
+      "ruby": "カグツチクラゲは、どこの<ruby>海<rt>うみ</rt></ruby>で<ruby>見つ<rt>みつ</rt></ruby>かりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the sea near Kumejima island, in Okinawa."
+    },
+    {
+      "speaker": "slow",
+      "text": "カグツチクラゲの名前は、何の神様から付けましたか。",
+      "ruby": "カグツチクラゲの<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"神様\" data-reading=\"かみさま\" data-en=\"god\"><ruby>神様<rt>かみさま</rt></ruby></span>から<ruby>付け<rt>つけ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The god of fire."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. A newly discovered jellyfish named after the god of fire is now on display for the first time in the world, at two aquariums in Japan. If you visit this summer, you can see its long tentacles swaying like flames. Thank you for listening. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "水族館",
+      "reading": "すいぞくかん",
+      "en": "aquarium",
+      "zh": "水族馆"
+    },
+    {
+      "ja": "クラゲ",
+      "reading": "くらげ",
+      "en": "jellyfish",
+      "zh": "水母"
+    },
+    {
+      "ja": "展示",
+      "reading": "てんじ",
+      "en": "exhibit, display",
+      "zh": "展示；展览"
+    },
+    {
+      "ja": "神様",
+      "reading": "かみさま",
+      "en": "god",
+      "zh": "神；神明"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "old times, long ago",
+      "zh": "从前；古时候"
+    },
+    {
+      "ja": "見つかる",
+      "reading": "みつかる",
+      "en": "to be found, to be discovered",
+      "zh": "被发现；被找到"
+    },
+    {
+      "ja": "種類",
+      "reading": "しゅるい",
+      "en": "kind, species",
+      "zh": "种类；品种"
+    },
+    {
+      "ja": "透明",
+      "reading": "とうめい",
+      "en": "transparent",
+      "zh": "透明"
+    },
+    {
+      "ja": "触手",
+      "reading": "しょくしゅ",
+      "en": "tentacle",
+      "zh": "触手"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to line up, to be lined up",
+      "zh": "排列；排队"
+    },
+    {
+      "ja": "捕まえる",
+      "reading": "つかまえる",
+      "en": "to catch",
+      "zh": "抓住；捕捉"
+    },
+    {
+      "ja": "ゆれる",
+      "reading": "ゆれる",
+      "en": "to sway, to swing",
+      "zh": "摇晃；摆动"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜から（起点）",
+      "meaning": "from ~ (starting point)",
+      "meaningZh": "从…开始",
+      "formation": "time/place noun + から",
+      "example": "8月2日から、新しいクラゲの展示が始まりました。",
+      "translation": "From August second, the exhibit of a new jellyfish began.",
+      "note": "から marks the starting point of a time or place",
+      "noteZh": "から表示时间或地点的起点",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#から"
+    },
+    {
+      "pattern": "〜のように見える",
+      "meaning": "to look like ~",
+      "meaningZh": "看起来像…",
+      "formation": "noun + のように見える",
+      "example": "長い触手が水の中でゆれると、火のように見えます。",
+      "translation": "When the long tentacles sway in the water, they look like fire.",
+      "note": "のように compares something to a noun; 見える means 'to look, to appear'",
+      "noteZh": "のように用名词打比方；見える表示\"看起来\"",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can do ~, to be able to ~",
+      "meaningZh": "能够…；可以…",
+      "formation": "verb dictionary form + ことができる",
+      "example": "いろいろな種類のクラゲを見ることができます。",
+      "translation": "You can see many kinds of jellyfish.",
+      "note": "A polite way to express ability or possibility",
+      "noteZh": "表示能力或可能性的礼貌说法",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    }
+  ],
+  "practiceZh": [
+    "8月2日から、神奈川県の新江ノ島水族館と、山形県の加茂水族館で、新しいクラゲの展示が始まりました。世界で初めての展示です。\n从8月2日起，在神奈川县的新江之岛水族馆和山形县的加茂水族馆，一种新水母的展示开始了。这是世界上首次展出。\n水族館 = aquarium；展示 = exhibit；初めて = for the first time",
+    "このクラゲの名前は、「カグツチクラゲ」です。日本の昔の話に出てくる、火の神様「カグツチ」から、名前を付けました。\n这种水母的名字叫「加具土水母」。它的名字来自日本古老传说中的火神「加具土」。\n昔 = old times；神様 = god；名前を付ける = to name",
+    "カグツチクラゲは、2022年に、沖縄県の久米島の近くの海で見つかりました。そして今年、新しい種類のクラゲになりました。\n加具土水母于2022年在冲绳县久米岛附近的海域被发现。今年，它被确认为新品种的水母。\n見つかる = to be found；種類 = kind, species",
+    "体は箱の形で、透明です。足のような「触手」が4本あります。2本は短くて、2本はとても長いです。\n它的身体是箱形的，而且透明。它有4条像脚一样的\"触手\"。2条很短，2条非常长。\n形 = shape；透明 = transparent；触手 = tentacle",
+    "魚は、このこぶを食べ物だと思って、近くに来ます。カグツチクラゲは、その魚を捕まえて食べます。\n鱼以为这些小瘤是食物，就游近过来。加具土水母便抓住那些鱼吃掉。\n食べ物 = food；捕まえる = to catch",
+    "長い触手が水の中でゆれると、火のように見えます。だから、火の神様の名前が付きました。\n长长的触手在水中摇曳时，看起来就像火焰。因此它得到了火神的名字。\nゆれる = to sway；火 = fire；〜のように見える = to look like ~"
+  ]
+}
