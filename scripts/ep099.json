@@ -1,0 +1,625 @@
+{
+  "episode": 99,
+  "title": "日産自動車の決算、2年ぶりに黒字転換",
+  "date": "2026-08-04",
+  "source": "日本経済新聞 / 時事通信 / 日刊自動車新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026080401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August fourth. Automaker Nissan is back in the black for the first time in two years, after deep cost cuts — but its road ahead is still rough. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "自動車メーカーの日産自動車は3日、今年4月から6月までの3か月間の決算を発表しました。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーの<ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は<ruby>3日<rt>みっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの3か<ruby>月間<rt>げつかん</rt></ruby>の<span class=\"vw\" data-ja=\"決算\" data-reading=\"けっさん\" data-en=\"financial results; settlement of accounts\"><ruby>決算<rt>けっさん</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決算の説明会は、横浜市にある日産のグローバル本社で開かれました。",
+      "ruby": "<span class=\"vw\" data-ja=\"決算\" data-reading=\"けっさん\" data-en=\"financial results; settlement of accounts\"><ruby>決算<rt>けっさん</rt></ruby></span>の<ruby>説明会<rt>せつめいかい</rt></ruby>は、<ruby>横浜市<rt>よこはまし</rt></ruby>にある<ruby>日産<rt>にっさん</rt></ruby>のグローバル<ruby>本社<rt>ほんしゃ</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終的な利益は37億円の黒字で、2年ぶりの黒字転換となりました。",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<ruby>利益<rt>りえき</rt></ruby>は37<ruby>億円<rt>おくえん</rt></ruby>の<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>で、2<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"黒字転換\" data-reading=\"くろじてんかん\" data-en=\"return to profitability\"><ruby>黒字<rt>くろじ</rt></ruby><ruby>転換<rt>てんかん</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日産はこれまで、販売の不振などで赤字が続き、厳しい経営の状態でした。",
+      "ruby": "<ruby>日産<rt>にっさん</rt></ruby>はこれまで、<ruby>販売<rt>はんばい</rt></ruby>の<span class=\"vw\" data-ja=\"不振\" data-reading=\"ふしん\" data-en=\"slump; poor performance\"><ruby>不振<rt>ふしん</rt></ruby></span>などで<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"deficit; in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>、<ruby>厳しい<rt>きびしい</rt></ruby><span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<ruby>状態<rt>じょうたい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "売り上げは2兆9600億円あまりで、去年の同じ時期より9.5%増えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"売り上げ\" data-reading=\"うりあげ\" data-en=\"sales; revenue\"><ruby>売り上げ<rt>うりあげ</rt></ruby></span>は2<ruby>兆<rt>ちょう</rt></ruby>9600<ruby>億円<rt>おくえん</rt></ruby>あまりで、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>より9.5%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "本業のもうけを示す営業利益も、778億円の黒字となりました。",
+      "ruby": "<ruby>本業<rt>ほんぎょう</rt></ruby>のもうけを<ruby>示す<rt>しめす</rt></ruby><span class=\"vw\" data-ja=\"営業利益\" data-reading=\"えいぎょうりえき\" data-en=\"operating profit\"><ruby>営業利益<rt>えいぎょうりえき</rt></ruby></span>も、778<ruby>億円<rt>おくえん</rt></ruby>の<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "黒字になった大きな理由は、工場を減らすなどの「構造改革」で、コストを大きく下げたことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>になった<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>すなどの「<span class=\"vw\" data-ja=\"構造改革\" data-reading=\"こうぞうかいかく\" data-en=\"structural reform\"><ruby>構造<rt>こうぞう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby></span>」で、コストを<ruby>大きく<rt>おおきく</rt></ruby><ruby>下げ<rt>さげ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、アメリカの関税の負担が軽くなったことや、円安も、利益を押し上げました。",
+      "ruby": "また、アメリカの<span class=\"vw\" data-ja=\"関税\" data-reading=\"かんぜい\" data-en=\"tariff; customs duty\"><ruby>関税<rt>かんぜい</rt></ruby></span>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>が<ruby>軽く<rt>かるく</rt></ruby>なったことや、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>も、<ruby>利益<rt>りえき</rt></ruby>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界全体での販売台数は、70万1000台でした。",
+      "ruby": "<ruby>世界全体<rt>せかいぜんたい</rt></ruby>での<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of vehicles sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>は、70<ruby>万<rt>まん</rt></ruby>1000<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国では、電気自動車などの「新エネルギー車」の販売が好調で、去年の同じ時期より7.2%増えました。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>では、<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>などの「<ruby>新<rt>しん</rt></ruby>エネルギー<ruby>車<rt>しゃ</rt></ruby>」の<ruby>販売<rt>はんばい</rt></ruby>が<span class=\"vw\" data-ja=\"好調\" data-reading=\"こうちょう\" data-en=\"strong; doing well\"><ruby>好調<rt>こうちょう</rt></ruby></span>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>より7.2%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本でも、新型の「キックス」が人気を集め、販売は1.3%増えました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>でも、<ruby>新型<rt>しんがた</rt></ruby>の「キックス」が<ruby>人気<rt>にんき</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>、<ruby>販売<rt>はんばい</rt></ruby>は1.3%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、日産は、今年度の世界での販売台数の見通しを、15万台引き下げました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>日産<rt>にっさん</rt></ruby>は、<ruby>今年度<rt>こんねんど</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>での<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of vehicles sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>を、15<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>引き下げ<rt>ひきさげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国での需要の減少や、中東情勢の混乱を見込んでいるためです。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>での<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>の<ruby>減少<rt>げんしょう</rt></ruby>や、<ruby>中東情勢<rt>ちゅうとうじょうせい</rt></ruby>の<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"turmoil; confusion\"><ruby>混乱<rt>こんらん</rt></ruby></span>を<ruby>見込ん<rt>みこん</rt></ruby>でいるためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "2年ぶりの黒字となりましたが、通期の見通しは厳しく、経営の立て直しは、これからも続きます。",
+      "ruby": "2<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>となりましたが、<ruby>通期<rt>つうき</rt></ruby>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>は<ruby>厳しく<rt>きびしく</rt></ruby>、<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<span class=\"vw\" data-ja=\"立て直し\" data-reading=\"たてなおし\" data-en=\"rebuilding; turnaround\"><ruby>立て直し<rt>たてなおし</rt></ruby></span>は、これからも<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "自動車メーカーの日産自動車は3日、今年4月から6月までの3か月間の決算を発表しました。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーの<ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は<ruby>3日<rt>みっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの3か<ruby>月間<rt>げつかん</rt></ruby>の<span class=\"vw\" data-ja=\"決算\" data-reading=\"けっさん\" data-en=\"financial results; settlement of accounts\"><ruby>決算<rt>けっさん</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Automaker Nissan announced its financial results for the three months from April to June on the third."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決算",
+      "ruby": "<span class=\"vw\" data-ja=\"決算\" data-reading=\"けっさん\" data-en=\"financial results; settlement of accounts\"><ruby>決算<rt>けっさん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means financial results — a company's report of profit and loss."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終的な利益は37億円の黒字で、2年ぶりの黒字転換となりました。",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<ruby>利益<rt>りえき</rt></ruby>は37<ruby>億円<rt>おくえん</rt></ruby>の<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>で、2<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"黒字転換\" data-reading=\"くろじてんかん\" data-en=\"return to profitability\"><ruby>黒字<rt>くろじ</rt></ruby><ruby>転換<rt>てんかん</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bottom-line profit was three point seven billion yen — the first return to the black in two years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "黒字",
+      "ruby": "<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a surplus — being in the black, the opposite of a deficit."
+    },
+    {
+      "speaker": "slow",
+      "text": "日産はこれまで、販売の不振などで赤字が続き、厳しい経営の状態でした。",
+      "ruby": "<ruby>日産<rt>にっさん</rt></ruby>はこれまで、<ruby>販売<rt>はんばい</rt></ruby>の<span class=\"vw\" data-ja=\"不振\" data-reading=\"ふしん\" data-en=\"slump; poor performance\"><ruby>不振<rt>ふしん</rt></ruby></span>などで<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"deficit; in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>、<ruby>厳しい<rt>きびしい</rt></ruby><span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<ruby>状態<rt>じょうたい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until now, weak sales had kept the company in the red, in a tough business condition."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不振",
+      "ruby": "<span class=\"vw\" data-ja=\"不振\" data-reading=\"ふしん\" data-en=\"slump; poor performance\"><ruby>不振<rt>ふしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a slump — when sales or performance are weak."
+    },
+    {
+      "speaker": "slow",
+      "text": "売り上げは2兆9600億円あまりで、去年の同じ時期より9.5%増えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"売り上げ\" data-reading=\"うりあげ\" data-en=\"sales; revenue\"><ruby>売り上げ<rt>うりあげ</rt></ruby></span>は2<ruby>兆<rt>ちょう</rt></ruby>9600<ruby>億円<rt>おくえん</rt></ruby>あまりで、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>より9.5%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Revenue was just over two point nine six trillion yen, up nine point five percent from a year earlier."
+    },
+    {
+      "speaker": "vocab",
+      "text": "売り上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"売り上げ\" data-reading=\"うりあげ\" data-en=\"sales; revenue\"><ruby>売り上げ<rt>うりあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sales, or revenue."
+    },
+    {
+      "speaker": "slow",
+      "text": "黒字になった大きな理由は、工場を減らすなどの「構造改革」で、コストを大きく下げたことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>になった<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>すなどの「<span class=\"vw\" data-ja=\"構造改革\" data-reading=\"こうぞうかいかく\" data-en=\"structural reform\"><ruby>構造<rt>こうぞう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby></span>」で、コストを<ruby>大きく<rt>おおきく</rt></ruby><ruby>下げ<rt>さげ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The main reason for the profit was structural reform, such as cutting factories, which sharply lowered costs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "構造改革",
+      "ruby": "<span class=\"vw\" data-ja=\"構造改革\" data-reading=\"こうぞうかいかく\" data-en=\"structural reform\"><ruby>構造<rt>こうぞう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means structural reform — rebuilding how a company works."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、アメリカの関税の負担が軽くなったことや、円安も、利益を押し上げました。",
+      "ruby": "また、アメリカの<span class=\"vw\" data-ja=\"関税\" data-reading=\"かんぜい\" data-en=\"tariff; customs duty\"><ruby>関税<rt>かんぜい</rt></ruby></span>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>が<ruby>軽く<rt>かるく</rt></ruby>なったことや、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>も、<ruby>利益<rt>りえき</rt></ruby>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A lighter burden from American tariffs and the weak yen also pushed profits up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "関税",
+      "ruby": "<span class=\"vw\" data-ja=\"関税\" data-reading=\"かんぜい\" data-en=\"tariff; customs duty\"><ruby>関税<rt>かんぜい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tariff — a tax on imported goods."
+    },
+    {
+      "speaker": "slow",
+      "text": "中国では、電気自動車などの「新エネルギー車」の販売が好調で、去年の同じ時期より7.2%増えました。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>では、<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>などの「<ruby>新<rt>しん</rt></ruby>エネルギー<ruby>車<rt>しゃ</rt></ruby>」の<ruby>販売<rt>はんばい</rt></ruby>が<span class=\"vw\" data-ja=\"好調\" data-reading=\"こうちょう\" data-en=\"strong; doing well\"><ruby>好調<rt>こうちょう</rt></ruby></span>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>より7.2%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In China, sales of new energy vehicles such as electric cars were strong, up seven point two percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "好調",
+      "ruby": "<span class=\"vw\" data-ja=\"好調\" data-reading=\"こうちょう\" data-en=\"strong; doing well\"><ruby>好調<rt>こうちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means doing well — in good shape."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、日産は、今年度の世界での販売台数の見通しを、15万台引き下げました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>日産<rt>にっさん</rt></ruby>は、<ruby>今年度<rt>こんねんど</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>での<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of vehicles sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>を、15<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>引き下げ<rt>ひきさげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, Nissan cut its global sales forecast for this fiscal year by one hundred fifty thousand vehicles."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見通し",
+      "ruby": "<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means outlook, or forecast."
+    },
+    {
+      "speaker": "slow",
+      "text": "中国での需要の減少や、中東情勢の混乱を見込んでいるためです。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>での<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>の<ruby>減少<rt>げんしょう</rt></ruby>や、<ruby>中東情勢<rt>ちゅうとうじょうせい</rt></ruby>の<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"turmoil; confusion\"><ruby>混乱<rt>こんらん</rt></ruby></span>を<ruby>見込ん<rt>みこん</rt></ruby>でいるためです。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is because it expects weaker demand in China and turmoil in the Middle East."
+    },
+    {
+      "speaker": "vocab",
+      "text": "需要",
+      "ruby": "<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means demand."
+    },
+    {
+      "speaker": "slow",
+      "text": "2年ぶりの黒字となりましたが、通期の見通しは厳しく、経営の立て直しは、これからも続きます。",
+      "ruby": "2<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>となりましたが、<ruby>通期<rt>つうき</rt></ruby>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>は<ruby>厳しく<rt>きびしく</rt></ruby>、<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<span class=\"vw\" data-ja=\"立て直し\" data-reading=\"たてなおし\" data-en=\"rebuilding; turnaround\"><ruby>立て直し<rt>たてなおし</rt></ruby></span>は、これからも<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Despite the return to profit, the full-year outlook is severe, and the company's rebuilding continues."
+    },
+    {
+      "speaker": "vocab",
+      "text": "立て直し",
+      "ruby": "<span class=\"vw\" data-ja=\"立て直し\" data-reading=\"たてなおし\" data-en=\"rebuilding; turnaround\"><ruby>立て直し<rt>たてなおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rebuilding — getting back on track."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "自動車メーカーの日産自動車は3日、今年4月から6月までの3か月間の決算を発表しました。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーの<ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は<ruby>3日<rt>みっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの3か<ruby>月間<rt>げつかん</rt></ruby>の<span class=\"vw\" data-ja=\"決算\" data-reading=\"けっさん\" data-en=\"financial results; settlement of accounts\"><ruby>決算<rt>けっさん</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決算の説明会は、横浜市にある日産のグローバル本社で開かれました。",
+      "ruby": "<span class=\"vw\" data-ja=\"決算\" data-reading=\"けっさん\" data-en=\"financial results; settlement of accounts\"><ruby>決算<rt>けっさん</rt></ruby></span>の<ruby>説明会<rt>せつめいかい</rt></ruby>は、<ruby>横浜市<rt>よこはまし</rt></ruby>にある<ruby>日産<rt>にっさん</rt></ruby>のグローバル<ruby>本社<rt>ほんしゃ</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終的な利益は37億円の黒字で、2年ぶりの黒字転換となりました。",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<ruby>利益<rt>りえき</rt></ruby>は37<ruby>億円<rt>おくえん</rt></ruby>の<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>で、2<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"黒字転換\" data-reading=\"くろじてんかん\" data-en=\"return to profitability\"><ruby>黒字<rt>くろじ</rt></ruby><ruby>転換<rt>てんかん</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日産はこれまで、販売の不振などで赤字が続き、厳しい経営の状態でした。",
+      "ruby": "<ruby>日産<rt>にっさん</rt></ruby>はこれまで、<ruby>販売<rt>はんばい</rt></ruby>の<span class=\"vw\" data-ja=\"不振\" data-reading=\"ふしん\" data-en=\"slump; poor performance\"><ruby>不振<rt>ふしん</rt></ruby></span>などで<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"deficit; in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>、<ruby>厳しい<rt>きびしい</rt></ruby><span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<ruby>状態<rt>じょうたい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "売り上げは2兆9600億円あまりで、去年の同じ時期より9.5%増えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"売り上げ\" data-reading=\"うりあげ\" data-en=\"sales; revenue\"><ruby>売り上げ<rt>うりあげ</rt></ruby></span>は2<ruby>兆<rt>ちょう</rt></ruby>9600<ruby>億円<rt>おくえん</rt></ruby>あまりで、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>より9.5%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "本業のもうけを示す営業利益も、778億円の黒字となりました。",
+      "ruby": "<ruby>本業<rt>ほんぎょう</rt></ruby>のもうけを<ruby>示す<rt>しめす</rt></ruby><span class=\"vw\" data-ja=\"営業利益\" data-reading=\"えいぎょうりえき\" data-en=\"operating profit\"><ruby>営業利益<rt>えいぎょうりえき</rt></ruby></span>も、778<ruby>億円<rt>おくえん</rt></ruby>の<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "黒字になった大きな理由は、工場を減らすなどの「構造改革」で、コストを大きく下げたことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>になった<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>すなどの「<span class=\"vw\" data-ja=\"構造改革\" data-reading=\"こうぞうかいかく\" data-en=\"structural reform\"><ruby>構造<rt>こうぞう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby></span>」で、コストを<ruby>大きく<rt>おおきく</rt></ruby><ruby>下げ<rt>さげ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、アメリカの関税の負担が軽くなったことや、円安も、利益を押し上げました。",
+      "ruby": "また、アメリカの<span class=\"vw\" data-ja=\"関税\" data-reading=\"かんぜい\" data-en=\"tariff; customs duty\"><ruby>関税<rt>かんぜい</rt></ruby></span>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>が<ruby>軽く<rt>かるく</rt></ruby>なったことや、<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>も、<ruby>利益<rt>りえき</rt></ruby>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界全体での販売台数は、70万1000台でした。",
+      "ruby": "<ruby>世界全体<rt>せかいぜんたい</rt></ruby>での<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of vehicles sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>は、70<ruby>万<rt>まん</rt></ruby>1000<ruby>台<rt>だい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国では、電気自動車などの「新エネルギー車」の販売が好調で、去年の同じ時期より7.2%増えました。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>では、<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>などの「<ruby>新<rt>しん</rt></ruby>エネルギー<ruby>車<rt>しゃ</rt></ruby>」の<ruby>販売<rt>はんばい</rt></ruby>が<span class=\"vw\" data-ja=\"好調\" data-reading=\"こうちょう\" data-en=\"strong; doing well\"><ruby>好調<rt>こうちょう</rt></ruby></span>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>時期<rt>じき</rt></ruby>より7.2%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本でも、新型の「キックス」が人気を集め、販売は1.3%増えました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>でも、<ruby>新型<rt>しんがた</rt></ruby>の「キックス」が<ruby>人気<rt>にんき</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>、<ruby>販売<rt>はんばい</rt></ruby>は1.3%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、日産は、今年度の世界での販売台数の見通しを、15万台引き下げました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>日産<rt>にっさん</rt></ruby>は、<ruby>今年度<rt>こんねんど</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>での<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of vehicles sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>を、15<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>引き下げ<rt>ひきさげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国での需要の減少や、中東情勢の混乱を見込んでいるためです。",
+      "ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>での<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>の<ruby>減少<rt>げんしょう</rt></ruby>や、<ruby>中東情勢<rt>ちゅうとうじょうせい</rt></ruby>の<span class=\"vw\" data-ja=\"混乱\" data-reading=\"こんらん\" data-en=\"turmoil; confusion\"><ruby>混乱<rt>こんらん</rt></ruby></span>を<ruby>見込ん<rt>みこん</rt></ruby>でいるためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "2年ぶりの黒字となりましたが、通期の見通しは厳しく、経営の立て直しは、これからも続きます。",
+      "ruby": "2<ruby>年<rt>ねん</rt></ruby>ぶりの<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>となりましたが、<ruby>通期<rt>つうき</rt></ruby>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>は<ruby>厳しく<rt>きびしく</rt></ruby>、<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<span class=\"vw\" data-ja=\"立て直し\" data-reading=\"たてなおし\" data-en=\"rebuilding; turnaround\"><ruby>立て直し<rt>たてなおし</rt></ruby></span>は、これからも<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "日産自動車の最終的な利益は、何億円の黒字でしたか。",
+      "ruby": "<ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>の<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<ruby>利益<rt>りえき</rt></ruby>は、<ruby>何億円<rt>なんおくえん</rt></ruby>の<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three point seven billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "黒字になったのは、何年ぶりですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"黒字\" data-reading=\"くろじ\" data-en=\"surplus; in the black\"><ruby>黒字<rt>くろじ</rt></ruby></span>になったのは、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two years — the first profit in two years."
+    },
+    {
+      "speaker": "slow",
+      "text": "日産は、今年度の販売台数の見通しを、何万台引き下げましたか。",
+      "ruby": "<ruby>日産<rt>にっさん</rt></ruby>は、<ruby>今年度<rt>こんねんど</rt></ruby>の<span class=\"vw\" data-ja=\"販売台数\" data-reading=\"はんばいだいすう\" data-en=\"number of vehicles sold\"><ruby>販売台数<rt>はんばいだいすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>を、<ruby>何万<rt>なんまん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>引き下げ<rt>ひきさげ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred fifty thousand vehicles, because of weaker demand in China and turmoil in the Middle East."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Nissan climbed out of the red for the first time in two years, but its recovery is far from finished. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "決算",
+      "reading": "けっさん",
+      "en": "financial results; settlement of accounts",
+      "zh": "财务结算；财报"
+    },
+    {
+      "ja": "黒字",
+      "reading": "くろじ",
+      "en": "surplus; in the black",
+      "zh": "盈余；黑字"
+    },
+    {
+      "ja": "赤字",
+      "reading": "あかじ",
+      "en": "deficit; in the red",
+      "zh": "亏损；赤字"
+    },
+    {
+      "ja": "黒字転換",
+      "reading": "くろじてんかん",
+      "en": "return to profitability",
+      "zh": "扭亏为盈"
+    },
+    {
+      "ja": "不振",
+      "reading": "ふしん",
+      "en": "slump; poor performance",
+      "zh": "低迷；不振"
+    },
+    {
+      "ja": "経営",
+      "reading": "けいえい",
+      "en": "management; running a business",
+      "zh": "经营"
+    },
+    {
+      "ja": "売り上げ",
+      "reading": "うりあげ",
+      "en": "sales; revenue",
+      "zh": "销售额"
+    },
+    {
+      "ja": "営業利益",
+      "reading": "えいぎょうりえき",
+      "en": "operating profit",
+      "zh": "营业利润"
+    },
+    {
+      "ja": "構造改革",
+      "reading": "こうぞうかいかく",
+      "en": "structural reform",
+      "zh": "结构改革"
+    },
+    {
+      "ja": "関税",
+      "reading": "かんぜい",
+      "en": "tariff; customs duty",
+      "zh": "关税"
+    },
+    {
+      "ja": "負担",
+      "reading": "ふたん",
+      "en": "burden",
+      "zh": "负担"
+    },
+    {
+      "ja": "円安",
+      "reading": "えんやす",
+      "en": "weak yen",
+      "zh": "日元贬值"
+    },
+    {
+      "ja": "押し上げる",
+      "reading": "おしあげる",
+      "en": "to push up",
+      "zh": "推高"
+    },
+    {
+      "ja": "販売台数",
+      "reading": "はんばいだいすう",
+      "en": "number of vehicles sold",
+      "zh": "销售数量"
+    },
+    {
+      "ja": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "en": "electric vehicle",
+      "zh": "电动汽车"
+    },
+    {
+      "ja": "好調",
+      "reading": "こうちょう",
+      "en": "strong; doing well",
+      "zh": "势头良好"
+    },
+    {
+      "ja": "見通し",
+      "reading": "みとおし",
+      "en": "outlook; forecast",
+      "zh": "前景；预测"
+    },
+    {
+      "ja": "引き下げる",
+      "reading": "ひきさげる",
+      "en": "to lower; to cut (a figure)",
+      "zh": "下调"
+    },
+    {
+      "ja": "需要",
+      "reading": "じゅよう",
+      "en": "demand",
+      "zh": "需求"
+    },
+    {
+      "ja": "情勢",
+      "reading": "じょうせい",
+      "en": "situation; state of affairs",
+      "zh": "局势"
+    },
+    {
+      "ja": "混乱",
+      "reading": "こんらん",
+      "en": "turmoil; confusion",
+      "zh": "混乱"
+    },
+    {
+      "ja": "立て直し",
+      "reading": "たてなおし",
+      "en": "rebuilding; turnaround",
+      "zh": "重振；重建"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔…（再次）",
+      "formation": "length of time + ぶり",
+      "example": "最終的な利益は37億円の黒字で、2年ぶりの黒字転換となりました。",
+      "translation": "The bottom-line profit was 3.7 billion yen, the first return to the black in two years.",
+      "note": "attaches to a length of time; something happens again after that interval — very common in news",
+      "noteZh": "接在时间长度后，表示时隔多久再次发生，新闻中非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "数量＋あまり",
+      "meaning": "a little more than; over (a number)",
+      "meaningZh": "…多；…余",
+      "formation": "round number + あまり",
+      "example": "売り上げは2兆9600億円あまりで、去年の同じ時期より9.5%増えました。",
+      "translation": "Revenue was over 2.96 trillion yen, up 9.5 percent from the same period last year.",
+      "note": "follows a round figure to mean 'a little more than that amount'; written style, frequent in news",
+      "noteZh": "接在整数后表示\"比该数字稍多\"，书面语，新闻中常见",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#あまり"
+    },
+    {
+      "pattern": "〜となる",
+      "meaning": "to become (formal)",
+      "meaningZh": "成为（书面语）",
+      "formation": "noun + となる",
+      "example": "本業のもうけを示す営業利益も、778億円の黒字となりました。",
+      "translation": "Operating profit, which shows earnings from the core business, was also a 77.8 billion yen surplus.",
+      "note": "formal, written equivalent of になる; the standard choice in news reports",
+      "noteZh": "になる的书面语说法，新闻报道中的标准用法",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#となる"
+    },
+    {
+      "pattern": "一方、〜",
+      "meaning": "on the other hand",
+      "meaningZh": "另一方面",
+      "formation": "sentence. + 一方、sentence",
+      "example": "一方、日産は、今年度の世界での販売台数の見通しを、15万台引き下げました。",
+      "translation": "On the other hand, Nissan lowered its global sales forecast for this fiscal year by 150,000 vehicles.",
+      "note": "introduces a contrasting fact at the start of a sentence; a signpost word in news",
+      "noteZh": "置于句首引出对比事实，新闻中的转折标志词",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一方"
+    },
+    {
+      "pattern": "〜ためです",
+      "meaning": "it is because ~",
+      "meaningZh": "是因为…",
+      "formation": "plain form + ためです",
+      "example": "中国での需要の減少や、中東情勢の混乱を見込んでいるためです。",
+      "translation": "That is because it expects falling demand in China and turmoil in the Middle East.",
+      "note": "ends a sentence that explains the reason for the previous statement",
+      "noteZh": "用于句尾，说明前一句话的原因",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    }
+  ],
+  "practiceZh": [
+    "自動車メーカーの日産自動車は3日、今年4月から6月までの3か月間の決算を発表しました。\n汽车制造商日产汽车于3日公布了今年4月至6月三个月的财报。\n自動車メーカー = automaker；決算 = financial results；発表 = announcement",
+    "決算の説明会は、横浜市にある日産のグローバル本社で開かれました。\n财报说明会在位于横滨市的日产全球总部举行。\n説明会 = briefing；本社 = headquarters；開かれる = to be held",
+    "最終的な利益は37億円の黒字で、2年ぶりの黒字転換となりました。\n最终利润为37亿日元的盈余，实现了两年来首次扭亏为盈。\n最終的 = final；黒字 = surplus；〜ぶり = for the first time in",
+    "日産はこれまで、販売の不振などで赤字が続き、厳しい経営の状態でした。\n日产此前因销售低迷等原因持续亏损，经营状况严峻。\n不振 = slump；赤字 = deficit；経営 = management",
+    "売り上げは2兆9600億円あまりで、去年の同じ時期より9.5%増えました。\n销售额超过2万9600亿日元，比去年同期增长9.5%。\n売り上げ = revenue；〜あまり = over；増える = to increase",
+    "本業のもうけを示す営業利益も、778億円の黒字となりました。\n显示主营业务盈利的营业利润也实现了778亿日元的盈余。\n本業 = core business；もうけ = earnings；営業利益 = operating profit",
+    "黒字になった大きな理由は、工場を減らすなどの「構造改革」で、コストを大きく下げたことです。\n实现盈利的主要原因是通过削减工厂等\"结构改革\"大幅降低了成本。\n工場 = factory；構造改革 = structural reform；コスト = cost",
+    "また、アメリカの関税の負担が軽くなったことや、円安も、利益を押し上げました。\n此外，美国关税负担的减轻和日元贬值也推高了利润。\n関税 = tariff；負担 = burden；押し上げる = to push up",
+    "世界全体での販売台数は、70万1000台でした。\n全球销量为70万1000辆。\n世界全体 = worldwide；販売台数 = units sold；〜台 = counter for vehicles",
+    "中国では、電気自動車などの「新エネルギー車」の販売が好調で、去年の同じ時期より7.2%増えました。\n在中国，电动汽车等\"新能源车\"销售强劲，比去年同期增长7.2%。\n電気自動車 = electric vehicle；好調 = strong；同じ時期 = same period",
+    "日本でも、新型の「キックス」が人気を集め、販売は1.3%増えました。\n在日本，新款\"Kicks\"也很受欢迎，销量增长1.3%。\n新型 = new model；人気を集める = to gain popularity；販売 = sales",
+    "一方、日産は、今年度の世界での販売台数の見通しを、15万台引き下げました。\n另一方面，日产将本年度全球销量预期下调了15万辆。\n一方 = on the other hand；見通し = outlook；引き下げる = to lower",
+    "中国での需要の減少や、中東情勢の混乱を見込んでいるためです。\n这是因为预计中国需求减少以及中东局势混乱。\n需要 = demand；情勢 = situation；見込む = to expect",
+    "2年ぶりの黒字となりましたが、通期の見通しは厳しく、経営の立て直しは、これからも続きます。\n虽然实现了两年来的首次盈利，但全年前景依然严峻，经营重整仍将继续。\n通期 = full year；厳しい = severe；立て直し = rebuilding"
+  ]
+}
