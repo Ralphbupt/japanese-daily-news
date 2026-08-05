@@ -1,0 +1,626 @@
+{
+  "episode": 101,
+  "title": "将棋の西山朋佳さん、女性初の棋士資格に挑む",
+  "date": "2026-08-05",
+  "source": "共同通信 / スポーツニッポン / 中日新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026080501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August fifth. In the world of shogi, Japanese chess, Tomoka Nishiyama is one title away from becoming the first woman ever to qualify as a full professional player. Today she met the press before her big match. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "将棋の西山朋佳白玲が5日、東京・渋谷の将棋会館で記者会見を開きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>西山<rt>にしやま</rt></ruby><ruby>朋<rt>とも</rt></ruby><ruby>佳<rt>か</rt></ruby><ruby>白玲<rt>はくれい</rt></ruby>が<ruby>5日<rt>いつか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>・<ruby>渋谷<rt>しぶや</rt></ruby>の<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋会館<rt>しょうぎかいかん</rt></ruby></span>で<span class=\"vw\" data-ja=\"記者会見\" data-reading=\"きしゃかいけん\" data-en=\"press conference\"><ruby>記者会見<rt>きしゃかいけん</rt></ruby></span>を<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "西山さんは、女性として初めて「棋士」になる資格に挑戦しています。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんは、<ruby>女性<rt>じょせい</rt></ruby>として<ruby>初めて<rt>はじめて</rt></ruby>「<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>」になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>に<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge; attempt\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "将棋の世界には、「棋士」と「女流棋士」という、2つの制度があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>世界<rt>せかい</rt></ruby>には、「<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>」と「<span class=\"vw\" data-ja=\"女流棋士\" data-reading=\"じょりゅうきし\" data-en=\"women's professional shogi player\"><ruby>女流棋士<rt>じょりゅうきし</rt></ruby></span>」という、2つの<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; framework\"><ruby>制度<rt>せいど</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い将棋の歴史の中で、女性が棋士になったことは、まだ一度もありません。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>女性<rt>じょせい</rt></ruby>が<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になったことは、まだ<ruby>一度<rt>いちど</rt></ruby>もありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本将棋連盟は去年、新しいルールを作りました。",
+      "ruby": "<ruby>日本将棋連盟<rt>にほんしょうぎれんめい</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby>ルールを<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女性のタイトル戦「白玲戦」で、合計5期優勝すれば、棋士になる資格が得られます。",
+      "ruby": "<ruby>女性<rt>じょせい</rt></ruby>の<span class=\"vw\" data-ja=\"タイトル戦\" data-reading=\"タイトルせん\" data-en=\"title match\">タイトル<ruby>戦<rt>せん</rt></ruby></span>「<ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>」で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total; in total\"><ruby>合計<rt>ごうけい</rt></ruby></span>5<ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>すれば、<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>が<ruby>得ら<rt>えら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "西山さんはこれまでに4期優勝していて、資格まで、あと1期に迫っています。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんはこれまでに4<ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて、<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>まで、あと1<ruby>期<rt>き</rt></ruby>に<ruby>迫っ<rt>せまっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月22日から、第6期白玲戦の七番勝負が始まります。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>から、<ruby>第<rt>だい</rt></ruby>6<ruby>期<rt>き</rt></ruby><ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<span class=\"vw\" data-ja=\"七番勝負\" data-reading=\"ななばんしょうぶ\" data-en=\"best-of-seven match\"><ruby>七<rt>なな</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>勝負<rt>しょうぶ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "挑戦者は、福間香奈女流五冠です。二人は、長年のライバルです。",
+      "ruby": "<span class=\"vw\" data-ja=\"挑戦者\" data-reading=\"ちょうせんしゃ\" data-en=\"challenger\"><ruby>挑戦者<rt>ちょうせんしゃ</rt></ruby></span>は、<ruby>福間<rt>ふくま</rt></ruby><ruby>香奈<rt>かな</rt></ruby><span class=\"vw\" data-ja=\"女流\" data-reading=\"じょりゅう\" data-en=\"women's (division)\"><ruby>女流<rt>じょりゅう</rt></ruby></span><ruby>五<rt>ご</rt></ruby><ruby>冠<rt>かん</rt></ruby>です。<ruby>二人<rt>ふたり</rt></ruby>は、<span class=\"vw\" data-ja=\"長年\" data-reading=\"ながねん\" data-en=\"many years; longtime\"><ruby>長年<rt>ながねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"ライバル\" data-reading=\"ライバル\" data-en=\"rival\">ライバル</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "七番勝負では、先に4勝したほうが優勝します。",
+      "ruby": "<span class=\"vw\" data-ja=\"七番勝負\" data-reading=\"ななばんしょうぶ\" data-en=\"best-of-seven match\"><ruby>七<rt>なな</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>勝負<rt>しょうぶ</rt></ruby></span>では、<ruby>先に<rt>さきに</rt></ruby>4<ruby>勝<rt>しょう</rt></ruby>したほうが<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "持ち時間は一人4時間で、女流のタイトル戦の中で、最も長い勝負です。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち時間\" data-reading=\"もちじかん\" data-en=\"thinking time (allotted to each player)\"><ruby>持ち時間<rt>もちじかん</rt></ruby></span>は<ruby>一人<rt>ひとり</rt></ruby>4<ruby>時間<rt>じかん</rt></ruby>で、<span class=\"vw\" data-ja=\"女流\" data-reading=\"じょりゅう\" data-en=\"women's (division)\"><ruby>女流<rt>じょりゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"タイトル戦\" data-reading=\"タイトルせん\" data-en=\"title match\">タイトル<ruby>戦<rt>せん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"match; showdown\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "西山さんは会見で、「一局一局に、全力を尽くしたい」と話しました。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんは<ruby>会見<rt>かいけん</rt></ruby>で、「<ruby>一局<rt>いっきょく</rt></ruby><ruby>一局<rt>いっきょく</rt></ruby>に、<span class=\"vw\" data-ja=\"全力\" data-reading=\"ぜんりょく\" data-en=\"full strength; all one's effort\"><ruby>全力<rt>ぜんりょく</rt></ruby></span>を<ruby>尽くし<rt>つくし</rt></ruby>たい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女性初の棋士が誕生するのか、歴史的な勝負に、注目が集まっています。",
+      "ruby": "<ruby>女性<rt>じょせい</rt></ruby><ruby>初<rt>はつ</rt></ruby>の<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>が<span class=\"vw\" data-ja=\"誕生\" data-reading=\"たんじょう\" data-en=\"birth; emergence\"><ruby>誕生<rt>たんじょう</rt></ruby></span>するのか、<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史的<rt>れきしてき</rt></ruby></span>な<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"match; showdown\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>に、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; public interest\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "将棋の西山朋佳白玲が5日、東京・渋谷の将棋会館で記者会見を開きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>西山<rt>にしやま</rt></ruby><ruby>朋<rt>とも</rt></ruby><ruby>佳<rt>か</rt></ruby><ruby>白玲<rt>はくれい</rt></ruby>が<ruby>5日<rt>いつか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>・<ruby>渋谷<rt>しぶや</rt></ruby>の<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋会館<rt>しょうぎかいかん</rt></ruby></span>で<span class=\"vw\" data-ja=\"記者会見\" data-reading=\"きしゃかいけん\" data-en=\"press conference\"><ruby>記者会見<rt>きしゃかいけん</rt></ruby></span>を<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Shogi player Tomoka Nishiyama held a press conference in Shibuya, Tokyo, on the fifth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記者会見",
+      "ruby": "<span class=\"vw\" data-ja=\"記者会見\" data-reading=\"きしゃかいけん\" data-en=\"press conference\"><ruby>記者会見<rt>きしゃかいけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means press conference."
+    },
+    {
+      "speaker": "slow",
+      "text": "西山さんは、女性として初めて「棋士」になる資格に挑戦しています。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんは、<ruby>女性<rt>じょせい</rt></ruby>として<ruby>初めて<rt>はじめて</rt></ruby>「<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>」になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>に<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge; attempt\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "She is aiming to become the first woman ever qualified as a full professional player."
+    },
+    {
+      "speaker": "vocab",
+      "text": "資格",
+      "ruby": "<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means qualification — being officially eligible for something."
+    },
+    {
+      "speaker": "slow",
+      "text": "将棋の世界には、「棋士」と「女流棋士」という、2つの制度があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>世界<rt>せかい</rt></ruby>には、「<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>」と「<span class=\"vw\" data-ja=\"女流棋士\" data-reading=\"じょりゅうきし\" data-en=\"women's professional shogi player\"><ruby>女流棋士<rt>じょりゅうきし</rt></ruby></span>」という、2つの<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; framework\"><ruby>制度<rt>せいど</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The shogi world has two separate systems — full professionals and women's professionals."
+    },
+    {
+      "speaker": "vocab",
+      "text": "制度",
+      "ruby": "<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; framework\"><ruby>制度<rt>せいど</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means system — an official framework of rules."
+    },
+    {
+      "speaker": "slow",
+      "text": "長い将棋の歴史の中で、女性が棋士になったことは、まだ一度もありません。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>女性<rt>じょせい</rt></ruby>が<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になったことは、まだ<ruby>一度<rt>いちど</rt></ruby>もありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "In shogi's long history, no woman has ever become a full professional."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history."
+    },
+    {
+      "speaker": "slow",
+      "text": "女性のタイトル戦「白玲戦」で、合計5期優勝すれば、棋士になる資格が得られます。",
+      "ruby": "<ruby>女性<rt>じょせい</rt></ruby>の<span class=\"vw\" data-ja=\"タイトル戦\" data-reading=\"タイトルせん\" data-en=\"title match\">タイトル<ruby>戦<rt>せん</rt></ruby></span>「<ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>」で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total; in total\"><ruby>合計<rt>ごうけい</rt></ruby></span>5<ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>すれば、<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>が<ruby>得ら<rt>えら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Winning the top women's title match five times in total earns the right to become a full professional."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winning the championship — taking first place."
+    },
+    {
+      "speaker": "slow",
+      "text": "西山さんはこれまでに4期優勝していて、資格まで、あと1期に迫っています。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんはこれまでに4<ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて、<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>まで、あと1<ruby>期<rt>き</rt></ruby>に<ruby>迫っ<rt>せまっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "She has won it four times, so she is just one title away."
+    },
+    {
+      "speaker": "vocab",
+      "text": "迫る",
+      "ruby": "<span class=\"vw\" data-ja=\"迫る\" data-reading=\"せまる\" data-en=\"to close in on; to draw near\"><ruby>迫る<rt>せまる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to close in on — to get very near to something."
+    },
+    {
+      "speaker": "slow",
+      "text": "挑戦者は、福間香奈女流五冠です。二人は、長年のライバルです。",
+      "ruby": "<span class=\"vw\" data-ja=\"挑戦者\" data-reading=\"ちょうせんしゃ\" data-en=\"challenger\"><ruby>挑戦者<rt>ちょうせんしゃ</rt></ruby></span>は、<ruby>福間<rt>ふくま</rt></ruby><ruby>香奈<rt>かな</rt></ruby><span class=\"vw\" data-ja=\"女流\" data-reading=\"じょりゅう\" data-en=\"women's (division)\"><ruby>女流<rt>じょりゅう</rt></ruby></span><ruby>五<rt>ご</rt></ruby><ruby>冠<rt>かん</rt></ruby>です。<ruby>二人<rt>ふたり</rt></ruby>は、<span class=\"vw\" data-ja=\"長年\" data-reading=\"ながねん\" data-en=\"many years; longtime\"><ruby>長年<rt>ながねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"ライバル\" data-reading=\"ライバル\" data-en=\"rival\">ライバル</span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The challenger is Kana Fukuma, who holds five women's titles. The two are longtime rivals."
+    },
+    {
+      "speaker": "vocab",
+      "text": "挑戦者",
+      "ruby": "<span class=\"vw\" data-ja=\"挑戦者\" data-reading=\"ちょうせんしゃ\" data-en=\"challenger\"><ruby>挑戦者<rt>ちょうせんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means challenger."
+    },
+    {
+      "speaker": "slow",
+      "text": "持ち時間は一人4時間で、女流のタイトル戦の中で、最も長い勝負です。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち時間\" data-reading=\"もちじかん\" data-en=\"thinking time (allotted to each player)\"><ruby>持ち時間<rt>もちじかん</rt></ruby></span>は<ruby>一人<rt>ひとり</rt></ruby>4<ruby>時間<rt>じかん</rt></ruby>で、<span class=\"vw\" data-ja=\"女流\" data-reading=\"じょりゅう\" data-en=\"women's (division)\"><ruby>女流<rt>じょりゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"タイトル戦\" data-reading=\"タイトルせん\" data-en=\"title match\">タイトル<ruby>戦<rt>せん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"match; showdown\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Each player gets four hours of thinking time — the longest of any women's title match."
+    },
+    {
+      "speaker": "vocab",
+      "text": "持ち時間",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち時間\" data-reading=\"もちじかん\" data-en=\"thinking time (allotted to each player)\"><ruby>持ち時間<rt>もちじかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the thinking time each player is allowed during a game."
+    },
+    {
+      "speaker": "slow",
+      "text": "西山さんは会見で、「一局一局に、全力を尽くしたい」と話しました。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんは<ruby>会見<rt>かいけん</rt></ruby>で、「<ruby>一局<rt>いっきょく</rt></ruby><ruby>一局<rt>いっきょく</rt></ruby>に、<span class=\"vw\" data-ja=\"全力\" data-reading=\"ぜんりょく\" data-en=\"full strength; all one's effort\"><ruby>全力<rt>ぜんりょく</rt></ruby></span>を<ruby>尽くし<rt>つくし</rt></ruby>たい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the press conference, she said she wants to give her all, one game at a time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全力",
+      "ruby": "<span class=\"vw\" data-ja=\"全力\" data-reading=\"ぜんりょく\" data-en=\"full strength; all one's effort\"><ruby>全力<rt>ぜんりょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means full strength — all of one's effort."
+    },
+    {
+      "speaker": "slow",
+      "text": "女性初の棋士が誕生するのか、歴史的な勝負に、注目が集まっています。",
+      "ruby": "<ruby>女性<rt>じょせい</rt></ruby><ruby>初<rt>はつ</rt></ruby>の<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>が<span class=\"vw\" data-ja=\"誕生\" data-reading=\"たんじょう\" data-en=\"birth; emergence\"><ruby>誕生<rt>たんじょう</rt></ruby></span>するのか、<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史的<rt>れきしてき</rt></ruby></span>な<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"match; showdown\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>に、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; public interest\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Will the first female full professional be born? This historic showdown is drawing attention."
+    },
+    {
+      "speaker": "vocab",
+      "text": "注目",
+      "ruby": "<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; public interest\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attention — public interest."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "将棋の西山朋佳白玲が5日、東京・渋谷の将棋会館で記者会見を開きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>西山<rt>にしやま</rt></ruby><ruby>朋<rt>とも</rt></ruby><ruby>佳<rt>か</rt></ruby><ruby>白玲<rt>はくれい</rt></ruby>が<ruby>5日<rt>いつか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>・<ruby>渋谷<rt>しぶや</rt></ruby>の<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋会館<rt>しょうぎかいかん</rt></ruby></span>で<span class=\"vw\" data-ja=\"記者会見\" data-reading=\"きしゃかいけん\" data-en=\"press conference\"><ruby>記者会見<rt>きしゃかいけん</rt></ruby></span>を<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "西山さんは、女性として初めて「棋士」になる資格に挑戦しています。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんは、<ruby>女性<rt>じょせい</rt></ruby>として<ruby>初めて<rt>はじめて</rt></ruby>「<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>」になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>に<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge; attempt\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "将棋の世界には、「棋士」と「女流棋士」という、2つの制度があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>世界<rt>せかい</rt></ruby>には、「<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>」と「<span class=\"vw\" data-ja=\"女流棋士\" data-reading=\"じょりゅうきし\" data-en=\"women's professional shogi player\"><ruby>女流棋士<rt>じょりゅうきし</rt></ruby></span>」という、2つの<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system; framework\"><ruby>制度<rt>せいど</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "長い将棋の歴史の中で、女性が棋士になったことは、まだ一度もありません。",
+      "ruby": "<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"将棋\" data-reading=\"しょうぎ\" data-en=\"shogi; Japanese chess\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>女性<rt>じょせい</rt></ruby>が<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になったことは、まだ<ruby>一度<rt>いちど</rt></ruby>もありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本将棋連盟は去年、新しいルールを作りました。",
+      "ruby": "<ruby>日本将棋連盟<rt>にほんしょうぎれんめい</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby>ルールを<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女性のタイトル戦「白玲戦」で、合計5期優勝すれば、棋士になる資格が得られます。",
+      "ruby": "<ruby>女性<rt>じょせい</rt></ruby>の<span class=\"vw\" data-ja=\"タイトル戦\" data-reading=\"タイトルせん\" data-en=\"title match\">タイトル<ruby>戦<rt>せん</rt></ruby></span>「<ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>」で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total; in total\"><ruby>合計<rt>ごうけい</rt></ruby></span>5<ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>すれば、<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>が<ruby>得ら<rt>えら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "西山さんはこれまでに4期優勝していて、資格まで、あと1期に迫っています。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんはこれまでに4<ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて、<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>まで、あと1<ruby>期<rt>き</rt></ruby>に<ruby>迫っ<rt>せまっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月22日から、第6期白玲戦の七番勝負が始まります。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>から、<ruby>第<rt>だい</rt></ruby>6<ruby>期<rt>き</rt></ruby><ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<span class=\"vw\" data-ja=\"七番勝負\" data-reading=\"ななばんしょうぶ\" data-en=\"best-of-seven match\"><ruby>七<rt>なな</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>勝負<rt>しょうぶ</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "挑戦者は、福間香奈女流五冠です。二人は、長年のライバルです。",
+      "ruby": "<span class=\"vw\" data-ja=\"挑戦者\" data-reading=\"ちょうせんしゃ\" data-en=\"challenger\"><ruby>挑戦者<rt>ちょうせんしゃ</rt></ruby></span>は、<ruby>福間<rt>ふくま</rt></ruby><ruby>香奈<rt>かな</rt></ruby><span class=\"vw\" data-ja=\"女流\" data-reading=\"じょりゅう\" data-en=\"women's (division)\"><ruby>女流<rt>じょりゅう</rt></ruby></span><ruby>五<rt>ご</rt></ruby><ruby>冠<rt>かん</rt></ruby>です。<ruby>二人<rt>ふたり</rt></ruby>は、<span class=\"vw\" data-ja=\"長年\" data-reading=\"ながねん\" data-en=\"many years; longtime\"><ruby>長年<rt>ながねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"ライバル\" data-reading=\"ライバル\" data-en=\"rival\">ライバル</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "七番勝負では、先に4勝したほうが優勝します。",
+      "ruby": "<span class=\"vw\" data-ja=\"七番勝負\" data-reading=\"ななばんしょうぶ\" data-en=\"best-of-seven match\"><ruby>七<rt>なな</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>勝負<rt>しょうぶ</rt></ruby></span>では、<ruby>先に<rt>さきに</rt></ruby>4<ruby>勝<rt>しょう</rt></ruby>したほうが<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "持ち時間は一人4時間で、女流のタイトル戦の中で、最も長い勝負です。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち時間\" data-reading=\"もちじかん\" data-en=\"thinking time (allotted to each player)\"><ruby>持ち時間<rt>もちじかん</rt></ruby></span>は<ruby>一人<rt>ひとり</rt></ruby>4<ruby>時間<rt>じかん</rt></ruby>で、<span class=\"vw\" data-ja=\"女流\" data-reading=\"じょりゅう\" data-en=\"women's (division)\"><ruby>女流<rt>じょりゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"タイトル戦\" data-reading=\"タイトルせん\" data-en=\"title match\">タイトル<ruby>戦<rt>せん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"match; showdown\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "西山さんは会見で、「一局一局に、全力を尽くしたい」と話しました。",
+      "ruby": "<ruby>西山<rt>にしやま</rt></ruby>さんは<ruby>会見<rt>かいけん</rt></ruby>で、「<ruby>一局<rt>いっきょく</rt></ruby><ruby>一局<rt>いっきょく</rt></ruby>に、<span class=\"vw\" data-ja=\"全力\" data-reading=\"ぜんりょく\" data-en=\"full strength; all one's effort\"><ruby>全力<rt>ぜんりょく</rt></ruby></span>を<ruby>尽くし<rt>つくし</rt></ruby>たい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女性初の棋士が誕生するのか、歴史的な勝負に、注目が集まっています。",
+      "ruby": "<ruby>女性<rt>じょせい</rt></ruby><ruby>初<rt>はつ</rt></ruby>の<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>が<span class=\"vw\" data-ja=\"誕生\" data-reading=\"たんじょう\" data-en=\"birth; emergence\"><ruby>誕生<rt>たんじょう</rt></ruby></span>するのか、<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史的<rt>れきしてき</rt></ruby></span>な<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"match; showdown\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>に、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; public interest\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "白玲戦で、合計何期優勝すれば、棋士になる資格が得られますか。",
+      "ruby": "<ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total; in total\"><ruby>合計<rt>ごうけい</rt></ruby></span><ruby>何<rt>なん</rt></ruby><ruby>期<rt>き</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"winning the championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>すれば、<span class=\"vw\" data-ja=\"棋士\" data-reading=\"きし\" data-en=\"professional shogi player\"><ruby>棋士<rt>きし</rt></ruby></span>になる<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification\"><ruby>資格<rt>しかく</rt></ruby></span>が<ruby>得ら<rt>えら</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five times in total. Nishiyama has won four so far."
+    },
+    {
+      "speaker": "slow",
+      "text": "第6期白玲戦の七番勝負は、いつから始まりますか。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>6<ruby>期<rt>き</rt></ruby><ruby>白玲<rt>はくれい</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<span class=\"vw\" data-ja=\"七番勝負\" data-reading=\"ななばんしょうぶ\" data-en=\"best-of-seven match\"><ruby>七<rt>なな</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>勝負<rt>しょうぶ</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "August twenty-second."
+    },
+    {
+      "speaker": "slow",
+      "text": "持ち時間は、一人何時間ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち時間\" data-reading=\"もちじかん\" data-en=\"thinking time (allotted to each player)\"><ruby>持ち時間<rt>もちじかん</rt></ruby></span>は、<ruby>一人<rt>ひとり</rt></ruby><ruby>何時間<rt>なんじかん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four hours each — the longest of any women's title match."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. One more title, and shogi history changes forever. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "将棋",
+      "reading": "しょうぎ",
+      "en": "shogi; Japanese chess",
+      "zh": "将棋（日本象棋）"
+    },
+    {
+      "ja": "記者会見",
+      "reading": "きしゃかいけん",
+      "en": "press conference",
+      "zh": "记者会见"
+    },
+    {
+      "ja": "棋士",
+      "reading": "きし",
+      "en": "professional shogi player",
+      "zh": "职业棋手（正式棋士）"
+    },
+    {
+      "ja": "女流棋士",
+      "reading": "じょりゅうきし",
+      "en": "women's professional shogi player",
+      "zh": "女流棋士"
+    },
+    {
+      "ja": "女流",
+      "reading": "じょりゅう",
+      "en": "women's (division)",
+      "zh": "女流（女子组别）"
+    },
+    {
+      "ja": "資格",
+      "reading": "しかく",
+      "en": "qualification",
+      "zh": "资格"
+    },
+    {
+      "ja": "挑戦",
+      "reading": "ちょうせん",
+      "en": "challenge; attempt",
+      "zh": "挑战"
+    },
+    {
+      "ja": "挑戦者",
+      "reading": "ちょうせんしゃ",
+      "en": "challenger",
+      "zh": "挑战者"
+    },
+    {
+      "ja": "制度",
+      "reading": "せいど",
+      "en": "system; framework",
+      "zh": "制度"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    },
+    {
+      "ja": "連盟",
+      "reading": "れんめい",
+      "en": "federation; association",
+      "zh": "联盟；协会"
+    },
+    {
+      "ja": "タイトル戦",
+      "reading": "タイトルせん",
+      "en": "title match",
+      "zh": "头衔战"
+    },
+    {
+      "ja": "合計",
+      "reading": "ごうけい",
+      "en": "total; in total",
+      "zh": "合计；总共"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "winning the championship",
+      "zh": "夺冠；获胜"
+    },
+    {
+      "ja": "迫る",
+      "reading": "せまる",
+      "en": "to close in on; to draw near",
+      "zh": "逼近；临近"
+    },
+    {
+      "ja": "七番勝負",
+      "reading": "ななばんしょうぶ",
+      "en": "best-of-seven match",
+      "zh": "七番棋（七局四胜制）"
+    },
+    {
+      "ja": "長年",
+      "reading": "ながねん",
+      "en": "many years; longtime",
+      "zh": "多年；长年"
+    },
+    {
+      "ja": "ライバル",
+      "reading": "ライバル",
+      "en": "rival",
+      "zh": "竞争对手"
+    },
+    {
+      "ja": "持ち時間",
+      "reading": "もちじかん",
+      "en": "thinking time (allotted to each player)",
+      "zh": "持时（每方思考时间）"
+    },
+    {
+      "ja": "勝負",
+      "reading": "しょうぶ",
+      "en": "match; showdown",
+      "zh": "胜负；对决"
+    },
+    {
+      "ja": "全力",
+      "reading": "ぜんりょく",
+      "en": "full strength; all one's effort",
+      "zh": "全力"
+    },
+    {
+      "ja": "尽くす",
+      "reading": "つくす",
+      "en": "to give one's all; to devote",
+      "zh": "竭尽；尽（全力）"
+    },
+    {
+      "ja": "誕生",
+      "reading": "たんじょう",
+      "en": "birth; emergence",
+      "zh": "诞生"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention; public interest",
+      "zh": "关注；瞩目"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜として初めて",
+      "meaning": "as the first ~ (to do something)",
+      "meaningZh": "作为首个…（做某事）",
+      "formation": "noun + として初めて",
+      "example": "西山さんは、女性として初めて「棋士」になる資格に挑戦しています。",
+      "translation": "Nishiyama is trying to become the first woman to earn the qualification to be a full professional.",
+      "note": "として marks a role or capacity; adding 初めて makes 'as the first ~' — very common in news about records and firsts",
+      "noteZh": "として表示身份、资格，加上初めて表示\"作为首个…\"，新闻报道\"首次\"时非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#として"
+    },
+    {
+      "pattern": "一度も〜ない",
+      "meaning": "never; not even once",
+      "meaningZh": "一次也没有…",
+      "formation": "一度も + negative form",
+      "example": "女性が棋士になったことは、まだ一度もありません。",
+      "translation": "Not even once has a woman become a full professional player.",
+      "note": "一度も strengthens a negative sentence; often paired with 〜たことがない for experience",
+      "noteZh": "一度も加强否定语气，常与表示经历的〜たことがない搭配使用",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一度も"
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "if ~ (conditional)",
+      "meaningZh": "如果…就…",
+      "formation": "verb ば-form (優勝する → 優勝すれば)",
+      "example": "合計5期優勝すれば、棋士になる資格が得られます。",
+      "translation": "If she wins five terms in total, she earns the qualification to become a full professional.",
+      "note": "the ば conditional states a general rule or condition and its result — the standard choice for explaining rules",
+      "noteZh": "ば条件形用于说明一般规则、条件和结果，解释规定时的标准用法",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ば"
+    },
+    {
+      "pattern": "〜のか",
+      "meaning": "whether ~; the question of ~",
+      "meaningZh": "是否…（引出疑问）",
+      "formation": "plain form + のか",
+      "example": "女性初の棋士が誕生するのか、歴史的な勝負に、注目が集まっています。",
+      "translation": "Will the first female professional be born? The historic match is drawing attention.",
+      "note": "embeds a question inside a sentence, leaving it open — news often uses it to build suspense about an outcome",
+      "noteZh": "将疑问句嵌入句中，留下悬念，新闻中常用来表示结果尚未可知",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#のか"
+    },
+    {
+      "pattern": "「〜」と話しました",
+      "meaning": "said that ~ (quotation)",
+      "meaningZh": "说了\"…\"（引用）",
+      "formation": "「quote」 + と + 話す/言う (past)",
+      "example": "西山さんは会見で、「一局一局に、全力を尽くしたい」と話しました。",
+      "translation": "At the press conference, Nishiyama said, \"I want to give my all, one game at a time.\"",
+      "note": "と marks a direct quote before verbs of speaking; と話しました is the standard news way to report someone's words",
+      "noteZh": "と用于标记直接引语，と話しました是新闻转述发言的标准表达",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と"
+    }
+  ],
+  "practiceZh": [
+    "将棋の西山朋佳白玲が5日、東京・渋谷の将棋会館で記者会見を開きました。\n将棋白玲头衔保持者西山朋佳5日在东京涩谷的将棋会馆举行了记者会见。\n将棋 = shogi；将棋会館 = shogi hall；記者会見 = press conference",
+    "西山さんは、女性として初めて「棋士」になる資格に挑戦しています。\n西山正在挑战成为首位获得\"棋士\"资格的女性。\n〜として初めて = as the first；棋士 = professional player；資格 = qualification",
+    "将棋の世界には、「棋士」と「女流棋士」という、2つの制度があります。\n将棋界有\"棋士\"和\"女流棋士\"两种制度。\n世界 = world；女流棋士 = women's professional；制度 = system",
+    "長い将棋の歴史の中で、女性が棋士になったことは、まだ一度もありません。\n在将棋悠久的历史中，还从来没有女性成为过棋士。\n歴史 = history；〜たことがない = have never；一度も = not even once",
+    "日本将棋連盟は去年、新しいルールを作りました。\n日本将棋联盟去年制定了新规则。\n連盟 = federation；去年 = last year；ルール = rule",
+    "女性のタイトル戦「白玲戦」で、合計5期優勝すれば、棋士になる資格が得られます。\n在女子头衔战\"白玲战\"中累计夺冠5期，就能获得成为棋士的资格。\nタイトル戦 = title match；合計 = in total；優勝 = championship victory",
+    "西山さんはこれまでに4期優勝していて、資格まで、あと1期に迫っています。\n西山至今已夺冠4期，距离资格只差1期。\nこれまでに = so far；あと〜 = ~ more to go；迫る = to close in on",
+    "今月22日から、第6期白玲戦の七番勝負が始まります。\n本月22日起，第6期白玲战七番棋开赛。\n今月 = this month；第6期 = 6th term；七番勝負 = best-of-seven match",
+    "挑戦者は、福間香奈女流五冠です。二人は、長年のライバルです。\n挑战者是女流五冠福间香奈。两人是多年的对手。\n挑戦者 = challenger；長年 = many years；ライバル = rival",
+    "七番勝負では、先に4勝したほうが優勝します。\n在七番棋中，先胜4局的一方夺冠。\n先に = first；4勝 = four wins；〜ほう = the side that",
+    "持ち時間は一人4時間で、女流のタイトル戦の中で、最も長い勝負です。\n每人持时4小时，是女流头衔战中时间最长的对决。\n持ち時間 = thinking time；最も = most；勝負 = match",
+    "西山さんは会見で、「一局一局に、全力を尽くしたい」と話しました。\n西山在会见中说：\"想在每一局中都竭尽全力。\"\n一局一局 = each game；全力 = full strength；尽くす = to give one's all",
+    "女性初の棋士が誕生するのか、歴史的な勝負に、注目が集まっています。\n首位女性棋士能否诞生，这场历史性对决备受瞩目。\n誕生 = birth；〜のか = whether；注目 = attention"
+  ]
+}
