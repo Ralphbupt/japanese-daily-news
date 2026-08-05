@@ -1,0 +1,435 @@
+{
+  "episode": 102,
+  "title": "日本一の七夕、仙台七夕まつりが始まる",
+  "date": "2026-08-06",
+  "source": "河北新報 / 仙台七夕まつり協賛会",
+  "level": "N5-N4",
+  "contentVersion": "2026080601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August sixth. This morning in Sendai, in northern Japan, the city's famous star festival begins — the streets fill with thousands of giant paper streamers. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日8月6日、宮城県の仙台市で、夏の大きい祭り「仙台七夕まつり」が始まります。祭りは、8月8日まで続きます。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>仙台市<rt>せんだいし</rt></ruby>で、<ruby>夏<rt>なつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>祭り<rt>まつり</rt></ruby>「<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつり」が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>祭り<rt>まつり</rt></ruby>は、8<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "仙台七夕まつりは、日本で一番大きい七夕の祭りです。今から約400年前の江戸時代から続いています。",
+      "ruby": "<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつりは、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>の<ruby>祭り<rt>まつり</rt></ruby>です。<ruby>今<rt>いま</rt></ruby>から<ruby>約<rt>やく</rt></ruby>400<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>江戸時代<rt>えどじだい</rt></ruby>から<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "駅の近くのアーケードの通りに、約3000本の七夕の飾りがあります。長い紙が風でゆれて、とてもきれいです。",
+      "ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>のアーケードの<ruby>通り<rt>とおり</rt></ruby>に、<ruby>約<rt>やく</rt></ruby>3000<ruby>本<rt>ほん</rt></ruby>の<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>の<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>があります。<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"紙\" data-reading=\"かみ\" data-en=\"paper\"><ruby>紙<rt>かみ</rt></ruby></span>が<span class=\"vw\" data-ja=\"風\" data-reading=\"かぜ\" data-en=\"wind\"><ruby>風<rt>かぜ</rt></ruby></span>でゆれて、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "飾りは、和紙と竹で作ります。お店や会社の人たちが、何か月もかけて、手で作ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"和紙\" data-reading=\"わし\" data-en=\"Japanese paper\"><ruby>和紙<rt>わし</rt></ruby></span>と<ruby>竹<rt>たけ</rt></ruby>で<ruby>作り<rt>つくり</rt></ruby>ます。お<ruby>店<rt>みせ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、<ruby>何か月<rt>なんかげつ</rt></ruby>もかけて、<ruby>手<rt>て</rt></ruby>で<ruby>作り<rt>つくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "飾りには、七つの種類があります。それぞれに、「勉強が上手になりますように」などの願いがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>には、<ruby>七つ<rt>ななつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>があります。それぞれに、「<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりますように」などの<span class=\"vw\" data-ja=\"願い\" data-reading=\"ねがい\" data-en=\"wish\"><ruby>願い<rt>ねがい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "昨日の夜は、前夜祭の花火大会がありました。約1万6000発の花火が、仙台の夜空に上がりました。",
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、<ruby>前夜祭<rt>ぜんやさい</rt></ruby>の<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>がありました。<ruby>約<rt>やく</rt></ruby>1<ruby>万<rt>まん</rt></ruby>6000<ruby>発<rt>はつ</rt></ruby>の<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>が、<ruby>仙台<rt>せんだい</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "七夕は、普通は7月7日の行事です。でも、仙台では、昔のカレンダーに近い8月に祭りをします。",
+      "ruby": "<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>は、<ruby>普通<rt>ふつう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>です。でも、<ruby>仙台<rt>せんだい</rt></ruby>では、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times; long ago\"><ruby>昔<rt>むかし</rt></ruby></span>のカレンダーに<ruby>近い<rt>ちかい</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>に<ruby>祭り<rt>まつり</rt></ruby>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "祭りの三日間で、約200万人の人が来ます。外国からの観光客も、たくさん来ます。",
+      "ruby": "<ruby>祭り<rt>まつり</rt></ruby>の<ruby>三日間<rt>みっかかん</rt></ruby>で、<ruby>約<rt>やく</rt></ruby>200<ruby>万人<rt>まんにん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>も、たくさん<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "仙台七夕まつりは、青森の「ねぶた祭」、秋田の「竿燈まつり」と同じ、東北の三つの大きい夏祭りの一つです。",
+      "ruby": "<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつりは、<ruby>青森<rt>あおもり</rt></ruby>の「ねぶた<ruby>祭<rt>まつり</rt></ruby>」、<ruby>秋田<rt>あきた</rt></ruby>の「<ruby>竿燈<rt>かんとう</rt></ruby>まつり」と<ruby>同じ<rt>おなじ</rt></ruby>、<ruby>東北<rt>とうほく</rt></ruby>の<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏祭り<rt>なつまつり</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日8月6日、宮城県の仙台市で、夏の大きい祭り「仙台七夕まつり」が始まります。祭りは、8月8日まで続きます。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>仙台市<rt>せんだいし</rt></ruby>で、<ruby>夏<rt>なつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>祭り<rt>まつり</rt></ruby>「<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつり」が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>祭り<rt>まつり</rt></ruby>は、8<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Today, August sixth, in Sendai City in Miyagi Prefecture, the big summer Tanabata Festival begins. The festival continues until August eighth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to begin."
+    },
+    {
+      "speaker": "slow",
+      "text": "駅の近くのアーケードの通りに、約3000本の七夕の飾りがあります。長い紙が風でゆれて、とてもきれいです。",
+      "ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>のアーケードの<ruby>通り<rt>とおり</rt></ruby>に、<ruby>約<rt>やく</rt></ruby>3000<ruby>本<rt>ほん</rt></ruby>の<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>の<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>があります。<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"紙\" data-reading=\"かみ\" data-en=\"paper\"><ruby>紙<rt>かみ</rt></ruby></span>が<span class=\"vw\" data-ja=\"風\" data-reading=\"かぜ\" data-en=\"wind\"><ruby>風<rt>かぜ</rt></ruby></span>でゆれて、とてもきれいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the covered shopping streets near the station, there are about three thousand Tanabata decorations. The long paper streamers sway in the wind — they are very beautiful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飾り",
+      "ruby": "<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a decoration."
+    },
+    {
+      "speaker": "slow",
+      "text": "飾りは、和紙と竹で作ります。お店や会社の人たちが、何か月もかけて、手で作ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"和紙\" data-reading=\"わし\" data-en=\"Japanese paper\"><ruby>和紙<rt>わし</rt></ruby></span>と<ruby>竹<rt>たけ</rt></ruby>で<ruby>作り<rt>つくり</rt></ruby>ます。お<ruby>店<rt>みせ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、<ruby>何か月<rt>なんかげつ</rt></ruby>もかけて、<ruby>手<rt>て</rt></ruby>で<ruby>作り<rt>つくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The decorations are made of Japanese paper and bamboo. People from local shops and companies spend many months making them by hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "作る",
+      "ruby": "<span class=\"vw\" data-ja=\"作る\" data-reading=\"つくる\" data-en=\"to make\"><ruby>作る<rt>つくる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to make."
+    },
+    {
+      "speaker": "slow",
+      "text": "昨日の夜は、前夜祭の花火大会がありました。約1万6000発の花火が、仙台の夜空に上がりました。",
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、<ruby>前夜祭<rt>ぜんやさい</rt></ruby>の<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>がありました。<ruby>約<rt>やく</rt></ruby>1<ruby>万<rt>まん</rt></ruby>6000<ruby>発<rt>はつ</rt></ruby>の<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>が、<ruby>仙台<rt>せんだい</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last night, there was a fireworks show on the eve of the festival. About sixteen thousand fireworks rose into the night sky over Sendai."
+    },
+    {
+      "speaker": "vocab",
+      "text": "花火",
+      "ruby": "<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fireworks."
+    },
+    {
+      "speaker": "slow",
+      "text": "七夕は、普通は7月7日の行事です。でも、仙台では、昔のカレンダーに近い8月に祭りをします。",
+      "ruby": "<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>は、<ruby>普通<rt>ふつう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>です。でも、<ruby>仙台<rt>せんだい</rt></ruby>では、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times; long ago\"><ruby>昔<rt>むかし</rt></ruby></span>のカレンダーに<ruby>近い<rt>ちかい</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>に<ruby>祭り<rt>まつり</rt></ruby>をします。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tanabata is usually a July seventh event. But in Sendai, the festival is held in August, closer to the old calendar."
+    },
+    {
+      "speaker": "vocab",
+      "text": "昔",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times; long ago\"><ruby>昔<rt>むかし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means old times, or long ago."
+    },
+    {
+      "speaker": "slow",
+      "text": "祭りの三日間で、約200万人の人が来ます。外国からの観光客も、たくさん来ます。",
+      "ruby": "<ruby>祭り<rt>まつり</rt></ruby>の<ruby>三日間<rt>みっかかん</rt></ruby>で、<ruby>約<rt>やく</rt></ruby>200<ruby>万人<rt>まんにん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>も、たくさん<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "host",
+      "text": "Over the three days of the festival, about two million people come. Many tourists from other countries come too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観光客",
+      "ruby": "<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tourist."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日8月6日、宮城県の仙台市で、夏の大きい祭り「仙台七夕まつり」が始まります。祭りは、8月8日まで続きます。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>仙台市<rt>せんだいし</rt></ruby>で、<ruby>夏<rt>なつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>祭り<rt>まつり</rt></ruby>「<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつり」が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>祭り<rt>まつり</rt></ruby>は、8<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "仙台七夕まつりは、日本で一番大きい七夕の祭りです。今から約400年前の江戸時代から続いています。",
+      "ruby": "<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつりは、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>の<ruby>祭り<rt>まつり</rt></ruby>です。<ruby>今<rt>いま</rt></ruby>から<ruby>約<rt>やく</rt></ruby>400<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>江戸時代<rt>えどじだい</rt></ruby>から<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "駅の近くのアーケードの通りに、約3000本の七夕の飾りがあります。長い紙が風でゆれて、とてもきれいです。",
+      "ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>のアーケードの<ruby>通り<rt>とおり</rt></ruby>に、<ruby>約<rt>やく</rt></ruby>3000<ruby>本<rt>ほん</rt></ruby>の<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>の<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>があります。<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"紙\" data-reading=\"かみ\" data-en=\"paper\"><ruby>紙<rt>かみ</rt></ruby></span>が<span class=\"vw\" data-ja=\"風\" data-reading=\"かぜ\" data-en=\"wind\"><ruby>風<rt>かぜ</rt></ruby></span>でゆれて、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "飾りは、和紙と竹で作ります。お店や会社の人たちが、何か月もかけて、手で作ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"和紙\" data-reading=\"わし\" data-en=\"Japanese paper\"><ruby>和紙<rt>わし</rt></ruby></span>と<ruby>竹<rt>たけ</rt></ruby>で<ruby>作り<rt>つくり</rt></ruby>ます。お<ruby>店<rt>みせ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、<ruby>何か月<rt>なんかげつ</rt></ruby>もかけて、<ruby>手<rt>て</rt></ruby>で<ruby>作り<rt>つくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "飾りには、七つの種類があります。それぞれに、「勉強が上手になりますように」などの願いがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>には、<ruby>七つ<rt>ななつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>があります。それぞれに、「<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりますように」などの<span class=\"vw\" data-ja=\"願い\" data-reading=\"ねがい\" data-en=\"wish\"><ruby>願い<rt>ねがい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "昨日の夜は、前夜祭の花火大会がありました。約1万6000発の花火が、仙台の夜空に上がりました。",
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、<ruby>前夜祭<rt>ぜんやさい</rt></ruby>の<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>がありました。<ruby>約<rt>やく</rt></ruby>1<ruby>万<rt>まん</rt></ruby>6000<ruby>発<rt>はつ</rt></ruby>の<span class=\"vw\" data-ja=\"花火\" data-reading=\"はなび\" data-en=\"fireworks\"><ruby>花火<rt>はなび</rt></ruby></span>が、<ruby>仙台<rt>せんだい</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "七夕は、普通は7月7日の行事です。でも、仙台では、昔のカレンダーに近い8月に祭りをします。",
+      "ruby": "<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>は、<ruby>普通<rt>ふつう</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>です。でも、<ruby>仙台<rt>せんだい</rt></ruby>では、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"old times; long ago\"><ruby>昔<rt>むかし</rt></ruby></span>のカレンダーに<ruby>近い<rt>ちかい</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>に<ruby>祭り<rt>まつり</rt></ruby>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "祭りの三日間で、約200万人の人が来ます。外国からの観光客も、たくさん来ます。",
+      "ruby": "<ruby>祭り<rt>まつり</rt></ruby>の<ruby>三日間<rt>みっかかん</rt></ruby>で、<ruby>約<rt>やく</rt></ruby>200<ruby>万人<rt>まんにん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>も、たくさん<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "仙台七夕まつりは、青森の「ねぶた祭」、秋田の「竿燈まつり」と同じ、東北の三つの大きい夏祭りの一つです。",
+      "ruby": "<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつりは、<ruby>青森<rt>あおもり</rt></ruby>の「ねぶた<ruby>祭<rt>まつり</rt></ruby>」、<ruby>秋田<rt>あきた</rt></ruby>の「<ruby>竿燈<rt>かんとう</rt></ruby>まつり」と<ruby>同じ<rt>おなじ</rt></ruby>、<ruby>東北<rt>とうほく</rt></ruby>の<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>大きい<rt>おおきい</rt></ruby><ruby>夏祭り<rt>なつまつり</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "仙台七夕まつりは、いつまで続きますか。",
+      "ruby": "<ruby>仙台七夕<rt>せんだいたなばた</rt></ruby>まつりは、いつまで<ruby>続き<rt>つづき</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until August eighth."
+    },
+    {
+      "speaker": "slow",
+      "text": "アーケードの通りに、七夕の飾りが約何本ありますか。",
+      "ruby": "アーケードの<ruby>通り<rt>とおり</rt></ruby>に、<span class=\"vw\" data-ja=\"七夕\" data-reading=\"たなばた\" data-en=\"Tanabata; the Star Festival\"><ruby>七夕<rt>たなばた</rt></ruby></span>の<span class=\"vw\" data-ja=\"飾り\" data-reading=\"かざり\" data-en=\"decoration\"><ruby>飾り<rt>かざり</rt></ruby></span>が<ruby>約<rt>やく</rt></ruby><ruby>何本<rt>なんぼん</rt></ruby>ありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three thousand."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. The Sendai Tanabata Festival runs until August eighth. If you ever walk under those three thousand paper streamers, you can make a wish of your own. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "七夕",
+      "reading": "たなばた",
+      "en": "Tanabata; the Star Festival",
+      "zh": "七夕"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue",
+      "zh": "持续"
+    },
+    {
+      "ja": "飾り",
+      "reading": "かざり",
+      "en": "decoration",
+      "zh": "装饰"
+    },
+    {
+      "ja": "紙",
+      "reading": "かみ",
+      "en": "paper",
+      "zh": "纸"
+    },
+    {
+      "ja": "風",
+      "reading": "かぜ",
+      "en": "wind",
+      "zh": "风"
+    },
+    {
+      "ja": "和紙",
+      "reading": "わし",
+      "en": "Japanese paper",
+      "zh": "和纸（日本纸）"
+    },
+    {
+      "ja": "作る",
+      "reading": "つくる",
+      "en": "to make",
+      "zh": "制作"
+    },
+    {
+      "ja": "願い",
+      "reading": "ねがい",
+      "en": "wish",
+      "zh": "愿望"
+    },
+    {
+      "ja": "花火",
+      "reading": "はなび",
+      "en": "fireworks",
+      "zh": "烟花"
+    },
+    {
+      "ja": "夜空",
+      "reading": "よぞら",
+      "en": "night sky",
+      "zh": "夜空"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "old times; long ago",
+      "zh": "从前；很久以前"
+    },
+    {
+      "ja": "観光客",
+      "reading": "かんこうきゃく",
+      "en": "tourist",
+      "zh": "游客"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~",
+      "meaningZh": "到…为止",
+      "formation": "noun (time/place) + まで",
+      "example": "祭りは、8月8日まで続きます。",
+      "translation": "The festival continues until August eighth.",
+      "note": "まで marks the end point of a time or place range",
+      "noteZh": "まで表示时间或地点范围的终点",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#まで"
+    },
+    {
+      "pattern": "〜で作る",
+      "meaning": "to make with/from ~ (material)",
+      "meaningZh": "用…制作",
+      "formation": "noun (material) + で + 作る",
+      "example": "飾りは、和紙と竹で作ります。",
+      "translation": "The decorations are made with Japanese paper and bamboo.",
+      "note": "で marks the material or tool used to make something",
+      "noteZh": "で表示制作时使用的材料或工具",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#で"
+    },
+    {
+      "pattern": "〜ますように",
+      "meaning": "may ~ (a wish or prayer)",
+      "meaningZh": "但愿…；希望…（愿望）",
+      "formation": "verb ます-form + ように",
+      "example": "「勉強が上手になりますように」などの願いがあります。",
+      "translation": "There are wishes such as: may I become good at my studies.",
+      "note": "ますように expresses a hope or prayer, often written on Tanabata paper strips",
+      "noteZh": "ますように表示祈愿，常写在七夕的短册上",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "何 + counter + も",
+      "meaning": "many ~ (emphasizes a large amount)",
+      "meaningZh": "好几…（强调数量多）",
+      "formation": "何 + counter + も",
+      "example": "何か月もかけて、手で作ります。",
+      "translation": "They spend many months making them by hand.",
+      "note": "何か月も means 'for months and months' — the も adds emphasis",
+      "noteZh": "何か月も表示「好几个月」，も起强调作用",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#も"
+    },
+    {
+      "pattern": "〜と同じ",
+      "meaning": "the same as ~",
+      "meaningZh": "和…一样",
+      "formation": "noun + と同じ",
+      "example": "青森の「ねぶた祭」と同じ、東北の大きい夏祭りの一つです。",
+      "translation": "Like the Nebuta Festival in Aomori, it is one of Tohoku's big summer festivals.",
+      "note": "と同じ compares two things and says they are alike or in the same group",
+      "noteZh": "と同じ用于比较两个事物，表示相同或属于同类",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#おなじ"
+    }
+  ],
+  "practiceZh": [
+    "今日8月6日、宮城県の仙台市で、夏の大きい祭り「仙台七夕まつり」が始まります。祭りは、8月8日まで続きます。\n今天8月6日，在宫城县仙台市，盛大的夏日祭典「仙台七夕祭」开幕。祭典将持续到8月8日。\n祭り = festival；始まる = to begin；〜まで = until",
+    "仙台七夕まつりは、日本で一番大きい七夕の祭りです。今から約400年前の江戸時代から続いています。\n仙台七夕祭是日本最大的七夕祭典。从大约400年前的江户时代延续至今。\n一番 = the most；江戸時代 = Edo period；続く = to continue",
+    "駅の近くのアーケードの通りに、約3000本の七夕の飾りがあります。長い紙が風でゆれて、とてもきれいです。\n在车站附近的拱廊商店街上，挂着约3000件七夕装饰。长长的纸条随风摇曳，非常漂亮。\n飾り = decoration；紙 = paper；風 = wind；ゆれる = to sway",
+    "飾りは、和紙と竹で作ります。お店や会社の人たちが、何か月もかけて、手で作ります。\n装饰是用和纸和竹子做的。商店和公司的人们花好几个月的时间手工制作。\n和紙 = Japanese paper；竹 = bamboo；作る = to make；何か月も = for months",
+    "飾りには、七つの種類があります。それぞれに、「勉強が上手になりますように」などの願いがあります。\n装饰有七种。每一种都寄托着「希望学习进步」等愿望。\n種類 = kind；それぞれ = each；願い = wish",
+    "昨日の夜は、前夜祭の花火大会がありました。約1万6000発の花火が、仙台の夜空に上がりました。\n昨天晚上举行了前夜祭的烟花大会。约1万6000发烟花升上了仙台的夜空。\n花火 = fireworks；夜空 = night sky；上がる = to rise",
+    "七夕は、普通は7月7日の行事です。でも、仙台では、昔のカレンダーに近い8月に祭りをします。\n七夕通常是7月7日的节日。但是在仙台，祭典在接近旧历的8月举行。\n普通 = usually；行事 = event；昔 = old times",
+    "祭りの三日間で、約200万人の人が来ます。外国からの観光客も、たくさん来ます。\n祭典三天里约有200万人前来。也有很多来自外国的游客。\n三日間 = three days；観光客 = tourist",
+    "仙台七夕まつりは、青森の「ねぶた祭」、秋田の「竿燈まつり」と同じ、東北の三つの大きい夏祭りの一つです。\n仙台七夕祭和青森的「睡魔祭」、秋田的「竿灯祭」一样，是东北三大夏日祭典之一。\n〜と同じ = same as；〜の一つ = one of ~"
+  ]
+}
