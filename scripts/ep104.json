@@ -1,0 +1,458 @@
+{
+  "episode": 104,
+  "title": "今日は「立秋」、暦の上では秋が始まる",
+  "date": "2026-08-07",
+  "source": "国立天文台 暦要項 / NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026080701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August seventh. It is still the middle of a very hot summer, but on Japan's traditional calendar, today is actually the first day of autumn. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日8月7日は、「立秋」です。暦の上では、今日から秋が始まります。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>は、「<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>」です。<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar (traditional)\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>から<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「立秋」は、「二十四節気」の一つです。二十四節気は、昔のカレンダーで、一年を24に分けたものです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>」は、「<ruby>二十四<rt>にじゅうし</rt></ruby><ruby>節気<rt>せっき</rt></ruby>」の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>二十四<rt>にじゅうし</rt></ruby><ruby>節気<rt>せっき</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>のカレンダーで、<ruby>一年<rt>いちねん</rt></ruby>を24に<ruby>分け<rt>わけ</rt></ruby>たものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "二十四節気には、「立春」や「立夏」、「立冬」もあります。「立」には、「始まる」という意味があります。",
+      "ruby": "<ruby>二十四<rt>にじゅうし</rt></ruby><ruby>節気<rt>せっき</rt></ruby>には、「<ruby>立春<rt>りっしゅん</rt></ruby>」や「<ruby>立夏<rt>りっか</rt></ruby>」、「<ruby>立冬<rt>りっとう</rt></ruby>」もあります。「<ruby>立<rt>りつ</rt></ruby>」には、「<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin\"><ruby>始ま<rt>はじま</rt></ruby>る</span>」という<ruby>意味<rt>いみ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、本当は、今が一年で一番暑いときです。今年の夏もとても暑くて、35度以上の日が続いています。",
+      "ruby": "でも、<ruby>本当<rt>ほんとう</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>が<ruby>一年<rt>いちねん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot\"><ruby>暑い<rt>あつい</rt></ruby></span>ときです。<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>もとても<ruby>暑く<rt>あつく</rt></ruby>て、35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "立秋のあとの暑さを、「残暑」と言います。「残った暑さ」という意味です。",
+      "ruby": "<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>のあとの<ruby>暑さ<rt>あつさ</rt></ruby>を、「<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑<rt>ざんしょ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。「<ruby>残っ<rt>のこっ</rt></ruby>た<ruby>暑さ<rt>あつさ</rt></ruby>」という<ruby>意味<rt>いみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日から、手紙のあいさつも変わります。「暑中見舞い」ではなくて、「残暑見舞い」を送ります。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>から、<span class=\"vw\" data-ja=\"手紙\" data-reading=\"てがみ\" data-en=\"letter\"><ruby>手紙<rt>てがみ</rt></ruby></span>のあいさつも<ruby>変わり<rt>かわり</rt></ruby>ます。「<ruby>暑中見舞い<rt>しょちゅうみまい</rt></ruby>」ではなくて、「<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑見舞い<rt>ざんしょみまい</rt></ruby></span>」を<ruby>送り<rt>おくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "残暑はまだ厳しいです。熱中症に気をつけて、水をたくさん飲んでください。",
+      "ruby": "<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑<rt>ざんしょ</rt></ruby></span>はまだ<ruby>厳しい<rt>きびしい</rt></ruby>です。<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけて、<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>でください。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、少しずつ、秋は近づいています。夕方には、ヒグラシというセミが、涼しい声で鳴きます。",
+      "ruby": "でも、<ruby>少し<rt>すこし</rt></ruby>ずつ、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>は<ruby>近づ<rt>ちかづ</rt></ruby>いています。<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>には、ヒグラシという<span class=\"vw\" data-ja=\"セミ\" data-reading=\"せみ\" data-en=\"cicada\">セミ</span>が、<ruby>涼しい<rt>すずしい</rt></ruby><ruby>声<rt>こえ</rt></ruby>で<ruby>鳴き<rt>なき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "空には、トンボが飛びはじめます。日が沈む時間も、少しずつ早くなります。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>には、<span class=\"vw\" data-ja=\"トンボ\" data-reading=\"とんぼ\" data-en=\"dragonfly\">トンボ</span>が<ruby>飛び<rt>とび</rt></ruby>はじめます。<ruby>日<rt>ひ</rt></ruby>が<ruby>沈む<rt>しずむ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>早く<rt>はやく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑い日はまだ続きますが、暦の上では、今日から秋です。あなたも、小さい秋を探してみませんか。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot\"><ruby>暑い<rt>あつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>はまだ<ruby>続き<rt>つづき</rt></ruby>ますが、<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar (traditional)\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>から<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>です。あなたも、<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>を<ruby>探し<rt>さがし</rt></ruby>てみませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日8月7日は、「立秋」です。暦の上では、今日から秋が始まります。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>は、「<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>」です。<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar (traditional)\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>から<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Today, August seventh, is the first day of autumn on Japan's traditional calendar. On paper, autumn starts today."
+    },
+    {
+      "speaker": "vocab",
+      "text": "秋",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means autumn."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、本当は、今が一年で一番暑いときです。今年の夏もとても暑くて、35度以上の日が続いています。",
+      "ruby": "でも、<ruby>本当<rt>ほんとう</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>が<ruby>一年<rt>いちねん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot\"><ruby>暑い<rt>あつい</rt></ruby></span>ときです。<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>もとても<ruby>暑く<rt>あつく</rt></ruby>て、35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "But in reality, this is the hottest time of the whole year. This summer has been very hot too, with day after day of thirty-five degrees Celsius or more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暑い",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot\"><ruby>暑い<rt>あつい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hot."
+    },
+    {
+      "speaker": "slow",
+      "text": "立秋のあとの暑さを、「残暑」と言います。「残った暑さ」という意味です。",
+      "ruby": "<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>のあとの<ruby>暑さ<rt>あつさ</rt></ruby>を、「<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑<rt>ざんしょ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。「<ruby>残っ<rt>のこっ</rt></ruby>た<ruby>暑さ<rt>あつさ</rt></ruby>」という<ruby>意味<rt>いみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The heat that comes after this day has a special name. It means the heat that remains, or lingering heat."
+    },
+    {
+      "speaker": "vocab",
+      "text": "残る",
+      "ruby": "<span class=\"vw\" data-ja=\"残る\" data-reading=\"のこる\" data-en=\"to remain; to be left over\"><ruby>残る<rt>のこる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to remain, or to be left over."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日から、手紙のあいさつも変わります。「暑中見舞い」ではなくて、「残暑見舞い」を送ります。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>から、<span class=\"vw\" data-ja=\"手紙\" data-reading=\"てがみ\" data-en=\"letter\"><ruby>手紙<rt>てがみ</rt></ruby></span>のあいさつも<ruby>変わり<rt>かわり</rt></ruby>ます。「<ruby>暑中見舞い<rt>しょちゅうみまい</rt></ruby>」ではなくて、「<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑見舞い<rt>ざんしょみまい</rt></ruby></span>」を<ruby>送り<rt>おくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From today, the greetings in letters also change. Instead of a midsummer greeting card, people now send a late-summer greeting card."
+    },
+    {
+      "speaker": "vocab",
+      "text": "手紙",
+      "ruby": "<span class=\"vw\" data-ja=\"手紙\" data-reading=\"てがみ\" data-en=\"letter\"><ruby>手紙<rt>てがみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a letter."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、少しずつ、秋は近づいています。夕方には、ヒグラシというセミが、涼しい声で鳴きます。",
+      "ruby": "でも、<ruby>少し<rt>すこし</rt></ruby>ずつ、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>は<ruby>近づ<rt>ちかづ</rt></ruby>いています。<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>には、ヒグラシという<span class=\"vw\" data-ja=\"セミ\" data-reading=\"せみ\" data-en=\"cicada\">セミ</span>が、<ruby>涼しい<rt>すずしい</rt></ruby><ruby>声<rt>こえ</rt></ruby>で<ruby>鳴き<rt>なき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "But little by little, autumn is coming closer. In the early evening, a special kind of cicada sings with a cool, clear voice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夕方",
+      "ruby": "<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means early evening."
+    },
+    {
+      "speaker": "slow",
+      "text": "空には、トンボが飛びはじめます。日が沈む時間も、少しずつ早くなります。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>には、<span class=\"vw\" data-ja=\"トンボ\" data-reading=\"とんぼ\" data-en=\"dragonfly\">トンボ</span>が<ruby>飛び<rt>とび</rt></ruby>はじめます。<ruby>日<rt>ひ</rt></ruby>が<ruby>沈む<rt>しずむ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>早く<rt>はやく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Dragonflies start to fly in the sky. And the sun sets a little earlier each day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飛ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"飛ぶ\" data-reading=\"とぶ\" data-en=\"to fly\"><ruby>飛ぶ<rt>とぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fly."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日8月7日は、「立秋」です。暦の上では、今日から秋が始まります。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>8<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>は、「<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>」です。<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar (traditional)\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>から<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "「立秋」は、「二十四節気」の一つです。二十四節気は、昔のカレンダーで、一年を24に分けたものです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>」は、「<ruby>二十四<rt>にじゅうし</rt></ruby><ruby>節気<rt>せっき</rt></ruby>」の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>二十四<rt>にじゅうし</rt></ruby><ruby>節気<rt>せっき</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>のカレンダーで、<ruby>一年<rt>いちねん</rt></ruby>を24に<ruby>分け<rt>わけ</rt></ruby>たものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "二十四節気には、「立春」や「立夏」、「立冬」もあります。「立」には、「始まる」という意味があります。",
+      "ruby": "<ruby>二十四<rt>にじゅうし</rt></ruby><ruby>節気<rt>せっき</rt></ruby>には、「<ruby>立春<rt>りっしゅん</rt></ruby>」や「<ruby>立夏<rt>りっか</rt></ruby>」、「<ruby>立冬<rt>りっとう</rt></ruby>」もあります。「<ruby>立<rt>りつ</rt></ruby>」には、「<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin\"><ruby>始ま<rt>はじま</rt></ruby>る</span>」という<ruby>意味<rt>いみ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、本当は、今が一年で一番暑いときです。今年の夏もとても暑くて、35度以上の日が続いています。",
+      "ruby": "でも、<ruby>本当<rt>ほんとう</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>が<ruby>一年<rt>いちねん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot\"><ruby>暑い<rt>あつい</rt></ruby></span>ときです。<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>もとても<ruby>暑く<rt>あつく</rt></ruby>て、35<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "立秋のあとの暑さを、「残暑」と言います。「残った暑さ」という意味です。",
+      "ruby": "<span class=\"vw\" data-ja=\"立秋\" data-reading=\"りっしゅう\" data-en=\"the first day of autumn on the traditional calendar\"><ruby>立秋<rt>りっしゅう</rt></ruby></span>のあとの<ruby>暑さ<rt>あつさ</rt></ruby>を、「<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑<rt>ざんしょ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。「<ruby>残っ<rt>のこっ</rt></ruby>た<ruby>暑さ<rt>あつさ</rt></ruby>」という<ruby>意味<rt>いみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日から、手紙のあいさつも変わります。「暑中見舞い」ではなくて、「残暑見舞い」を送ります。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>から、<span class=\"vw\" data-ja=\"手紙\" data-reading=\"てがみ\" data-en=\"letter\"><ruby>手紙<rt>てがみ</rt></ruby></span>のあいさつも<ruby>変わり<rt>かわり</rt></ruby>ます。「<ruby>暑中見舞い<rt>しょちゅうみまい</rt></ruby>」ではなくて、「<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑見舞い<rt>ざんしょみまい</rt></ruby></span>」を<ruby>送り<rt>おくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "残暑はまだ厳しいです。熱中症に気をつけて、水をたくさん飲んでください。",
+      "ruby": "<span class=\"vw\" data-ja=\"残暑\" data-reading=\"ざんしょ\" data-en=\"lingering summer heat\"><ruby>残暑<rt>ざんしょ</rt></ruby></span>はまだ<ruby>厳しい<rt>きびしい</rt></ruby>です。<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけて、<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>でください。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、少しずつ、秋は近づいています。夕方には、ヒグラシというセミが、涼しい声で鳴きます。",
+      "ruby": "でも、<ruby>少し<rt>すこし</rt></ruby>ずつ、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>は<ruby>近づ<rt>ちかづ</rt></ruby>いています。<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>には、ヒグラシという<span class=\"vw\" data-ja=\"セミ\" data-reading=\"せみ\" data-en=\"cicada\">セミ</span>が、<ruby>涼しい<rt>すずしい</rt></ruby><ruby>声<rt>こえ</rt></ruby>で<ruby>鳴き<rt>なき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "空には、トンボが飛びはじめます。日が沈む時間も、少しずつ早くなります。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>には、<span class=\"vw\" data-ja=\"トンボ\" data-reading=\"とんぼ\" data-en=\"dragonfly\">トンボ</span>が<ruby>飛び<rt>とび</rt></ruby>はじめます。<ruby>日<rt>ひ</rt></ruby>が<ruby>沈む<rt>しずむ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>早く<rt>はやく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "暑い日はまだ続きますが、暦の上では、今日から秋です。あなたも、小さい秋を探してみませんか。",
+      "ruby": "<span class=\"vw\" data-ja=\"暑い\" data-reading=\"あつい\" data-en=\"hot\"><ruby>暑い<rt>あつい</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>はまだ<ruby>続き<rt>つづき</rt></ruby>ますが、<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar (traditional)\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>から<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>です。あなたも、<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>を<ruby>探し<rt>さがし</rt></ruby>てみませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "暦の上では、今日から、何が始まりますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar (traditional)\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>から、<ruby>何<rt>なに</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Autumn. On the traditional calendar, autumn starts today."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の夏は、何度以上の日が続いていますか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は、<ruby>何度<rt>なんど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty-five degrees Celsius or more."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. The calendar says autumn, but the heat is not over yet, so please drink plenty of water and take care of yourself. And maybe this evening, listen for that cool cicada voice in the air. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "立秋",
+      "reading": "りっしゅう",
+      "en": "the first day of autumn on the traditional calendar",
+      "zh": "立秋"
+    },
+    {
+      "ja": "暦",
+      "reading": "こよみ",
+      "en": "calendar (traditional)",
+      "zh": "历法；日历"
+    },
+    {
+      "ja": "秋",
+      "reading": "あき",
+      "en": "autumn",
+      "zh": "秋天"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "暑い",
+      "reading": "あつい",
+      "en": "hot",
+      "zh": "热"
+    },
+    {
+      "ja": "残暑",
+      "reading": "ざんしょ",
+      "en": "lingering summer heat",
+      "zh": "残暑；立秋后的余热"
+    },
+    {
+      "ja": "残る",
+      "reading": "のこる",
+      "en": "to remain; to be left over",
+      "zh": "剩下；留下"
+    },
+    {
+      "ja": "手紙",
+      "reading": "てがみ",
+      "en": "letter",
+      "zh": "信"
+    },
+    {
+      "ja": "あいさつ",
+      "reading": "あいさつ",
+      "en": "greeting",
+      "zh": "问候；寒暄"
+    },
+    {
+      "ja": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "en": "heatstroke",
+      "zh": "中暑"
+    },
+    {
+      "ja": "夕方",
+      "reading": "ゆうがた",
+      "en": "early evening",
+      "zh": "傍晚"
+    },
+    {
+      "ja": "セミ",
+      "reading": "せみ",
+      "en": "cicada",
+      "zh": "蝉"
+    },
+    {
+      "ja": "トンボ",
+      "reading": "とんぼ",
+      "en": "dragonfly",
+      "zh": "蜻蜓"
+    },
+    {
+      "ja": "飛ぶ",
+      "reading": "とぶ",
+      "en": "to fly",
+      "zh": "飞"
+    },
+    {
+      "ja": "近づく",
+      "reading": "ちかづく",
+      "en": "to come closer",
+      "zh": "靠近；临近"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という意味です",
+      "meaning": "it means ~",
+      "meaningZh": "意思是…",
+      "formation": "phrase + という意味です",
+      "example": "「残った暑さ」という意味です。",
+      "translation": "It means 'the heat that remains.'",
+      "note": "used to explain what a word or phrase means",
+      "noteZh": "用于解释某个词或短语的意思",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#という意味"
+    },
+    {
+      "pattern": "一番〜",
+      "meaning": "the most ~",
+      "meaningZh": "最…",
+      "formation": "(range +で) + 一番 + adjective",
+      "example": "今が一年で一番暑いときです。",
+      "translation": "Now is the hottest time of the year.",
+      "note": "一番 literally means 'number one' and makes a superlative",
+      "noteZh": "一番字面意思是「第一」，用来表示最高级",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ichiban"
+    },
+    {
+      "pattern": "〜ています",
+      "meaning": "is ~ing; ongoing state",
+      "meaningZh": "正在…；持续的状态",
+      "formation": "verb て-form + います",
+      "example": "35度以上の日が続いています。",
+      "translation": "Days of thirty-five degrees or more are continuing.",
+      "note": "describes an action or state that continues now",
+      "noteZh": "表示现在持续的动作或状态",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ています"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请做…",
+      "formation": "verb て-form + ください",
+      "example": "水をたくさん飲んでください。",
+      "translation": "Please drink plenty of water.",
+      "note": "a polite request or instruction",
+      "noteZh": "礼貌的请求或指示",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#てください"
+    },
+    {
+      "pattern": "〜てみませんか",
+      "meaning": "why not try ~?",
+      "meaningZh": "要不要试着…？",
+      "formation": "verb て-form + みませんか",
+      "example": "あなたも、小さい秋を探してみませんか。",
+      "translation": "Why don't you try looking for small signs of autumn, too?",
+      "note": "てみる means 'to try doing'; ませんか makes a friendly invitation",
+      "noteZh": "てみる表示「试着做」；ませんか构成友好的邀请",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#temiru"
+    }
+  ],
+  "practiceZh": [
+    "今日8月7日は、「立秋」です。暦の上では、今日から秋が始まります。\n今天8月7日是「立秋」。在历法上，秋天从今天开始。\n暦 = traditional calendar；秋 = autumn；始まる = to begin",
+    "「立秋」は、「二十四節気」の一つです。二十四節気は、昔のカレンダーで、一年を24に分けたものです。\n「立秋」是「二十四节气」之一。二十四节气是旧历中把一年分成24份的方法。\n〜の一つ = one of ~；昔 = old times；分ける = to divide",
+    "二十四節気には、「立春」や「立夏」、「立冬」もあります。「立」には、「始まる」という意味があります。\n二十四节气中还有「立春」「立夏」「立冬」。「立」有「开始」的意思。\n〜や〜 = ~ and ~ (etc.)；意味 = meaning",
+    "でも、本当は、今が一年で一番暑いときです。今年の夏もとても暑くて、35度以上の日が続いています。\n但实际上，现在是一年中最热的时候。今年夏天也非常热，35度以上的天气持续不断。\n本当は = in reality；一番 = the most；続く = to continue",
+    "立秋のあとの暑さを、「残暑」と言います。「残った暑さ」という意味です。\n立秋之后的炎热叫做「残暑」。意思是「残留的炎热」。\n暑さ = heat；残る = to remain；〜と言います = is called ~",
+    "今日から、手紙のあいさつも変わります。「暑中見舞い」ではなくて、「残暑見舞い」を送ります。\n从今天起，书信中的问候语也会改变。寄的不再是「暑中见舞」，而是「残暑见舞」。\n手紙 = letter；あいさつ = greeting；送る = to send",
+    "残暑はまだ厳しいです。熱中症に気をつけて、水をたくさん飲んでください。\n残暑依然严酷。请注意预防中暑，多喝水。\n厳しい = severe；熱中症 = heatstroke；気をつける = to be careful",
+    "でも、少しずつ、秋は近づいています。夕方には、ヒグラシというセミが、涼しい声で鳴きます。\n不过，秋天正在一点点临近。傍晚时分，一种叫「日暮蝉」的蝉会用清凉的声音鸣叫。\n少しずつ = little by little；夕方 = early evening；鳴く = to sing (animal)",
+    "空には、トンボが飛びはじめます。日が沈む時間も、少しずつ早くなります。\n蜻蜓开始在天空中飞舞。太阳落山的时间也一点点变早。\nトンボ = dragonfly；飛ぶ = to fly；沈む = to set (sun)",
+    "暑い日はまだ続きますが、暦の上では、今日から秋です。あなたも、小さい秋を探してみませんか。\n炎热的日子还会继续，但在历法上，秋天从今天开始了。你也来找找身边小小的秋意吧？\n続く = to continue；探す = to look for；〜てみませんか = why not try ~?"
+  ]
+}
