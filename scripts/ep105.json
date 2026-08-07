@@ -1,0 +1,589 @@
+{
+  "episode": 105,
+  "title": "秋田市に国内最大級のAIデータセンター建設へ",
+  "date": "2026-08-07",
+  "source": "NHK / 秋田魁新報 / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026080701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August seventh. This week, two companies announced a plan to build Japan's biggest AI data center — not in Tokyo, but in Akita City in northern Japan, at a cost of over two trillion yen. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋田市のIT企業「エスツー」とアメリカのAI企業「ビットグリット」は6日、秋田市に国内最大級のAIデータセンターを建設する計画を発表しました。",
+      "ruby": "<ruby>秋田市<rt>あきたし</rt></ruby>のIT<ruby>企業<rt>きぎょう</rt></ruby>「エスツー」とアメリカのAI<ruby>企業<rt>きぎょう</rt></ruby>「ビットグリット」は<ruby>6日<rt>むいか</rt></ruby>、<ruby>秋田市<rt>あきたし</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby><ruby>最大級<rt>さいだいきゅう</rt></ruby>のAIデータセンターを<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "データセンターは、AI、人工知能などの計算に使う、たくさんのコンピューターを集めた施設です。",
+      "ruby": "データセンターは、AI、<span class=\"vw\" data-ja=\"人工知能\" data-reading=\"じんこうちのう\" data-en=\"artificial intelligence\"><ruby>人工知能<rt>じんこうちのう</rt></ruby></span>などの<ruby>計算<rt>けいさん</rt></ruby>に<ruby>使う<rt>つかう</rt></ruby>、たくさんのコンピューターを<ruby>集め<rt>あつめ</rt></ruby>た<span class=\"vw\" data-ja=\"施設\" data-reading=\"しせつ\" data-en=\"facility\"><ruby>施設<rt>しせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設される場所は、秋田県と秋田市が整備を進めている、秋田市北部の工業団地です。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>される<ruby>場所<rt>ばしょ</rt></ruby>は、<ruby>秋田県<rt>あきたけん</rt></ruby>と<ruby>秋田市<rt>あきたし</rt></ruby>が<span class=\"vw\" data-ja=\"整備\" data-reading=\"せいび\" data-en=\"development; building up (infrastructure)\"><ruby>整備<rt>せいび</rt></ruby></span>を<ruby>進め<rt>すすめ</rt></ruby>ている、<ruby>秋田市<rt>あきたし</rt></ruby><ruby>北部<rt>ほくぶ</rt></ruby>の<span class=\"vw\" data-ja=\"工業団地\" data-reading=\"こうぎょうだんち\" data-en=\"industrial park\"><ruby>工業<rt>こうぎょう</rt></ruby><ruby>団地<rt>だんち</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設費は2兆円以上になる見込みで、データセンターとしては国内で最大級の規模です。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>は2<ruby>兆円<rt>ちょうえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>で、データセンターとしては<ruby>国内<rt>こくない</rt></ruby>で<ruby>最大級<rt>さいだいきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"規模\" data-reading=\"きぼ\" data-en=\"scale; size\"><ruby>規模<rt>きぼ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2つの会社は、2030年代前半の稼働開始を目指しています。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、2030<ruby>年代前半<rt>ねんだいぜんはん</rt></ruby>の<span class=\"vw\" data-ja=\"稼働\" data-reading=\"かどう\" data-en=\"operation (of a facility)\"><ruby>稼働<rt>かどう</rt></ruby></span><ruby>開始<rt>かいし</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電力には、秋田県の沖合で進んでいる洋上風力発電の電気を活用する計画です。",
+      "ruby": "<ruby>電力<rt>でんりょく</rt></ruby>には、<ruby>秋田県<rt>あきたけん</rt></ruby>の<span class=\"vw\" data-ja=\"沖合\" data-reading=\"おきあい\" data-en=\"offshore waters\"><ruby>沖合<rt>おきあい</rt></ruby></span>で<ruby>進ん<rt>すすん</rt></ruby>でいる<span class=\"vw\" data-ja=\"洋上風力発電\" data-reading=\"ようじょうふうりょくはつでん\" data-en=\"offshore wind power generation\"><ruby>洋上<rt>ようじょう</rt></ruby><ruby>風力発電<rt>ふうりょくはつでん</rt></ruby></span>の<ruby>電気<rt>でんき</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "洋上風力発電は、海の上に大きな風車を建てて、風の力で電気を作る仕組みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"洋上風力発電\" data-reading=\"ようじょうふうりょくはつでん\" data-en=\"offshore wind power generation\"><ruby>洋上<rt>ようじょう</rt></ruby><ruby>風力発電<rt>ふうりょくはつでん</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"風車\" data-reading=\"ふうしゃ\" data-en=\"wind turbine; windmill\"><ruby>風車<rt>ふうしゃ</rt></ruby></span>を<ruby>建て<rt>たて</rt></ruby>て、<ruby>風<rt>かぜ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"mechanism; system\"><ruby>仕組み<rt>しくみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "AIの利用が世界中で急速に広がり、計算のための電力とデータセンターが足りなくなっています。",
+      "ruby": "AIの<ruby>利用<rt>りよう</rt></ruby>が<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"急速に\" data-reading=\"きゅうそくに\" data-en=\"rapidly\"><ruby>急速<rt>きゅうそく</rt></ruby>に</span><ruby>広が<rt>ひろが</rt></ruby>り、<ruby>計算<rt>けいさん</rt></ruby>のための<ruby>電力<rt>でんりょく</rt></ruby>とデータセンターが<ruby>足り<rt>たり</rt></ruby>なくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この計画には、中東のアラブ首長国連邦が投資する方向で、協議が進められています。",
+      "ruby": "この<ruby>計画<rt>けいかく</rt></ruby>には、<ruby>中東<rt>ちゅうとう</rt></ruby>のアラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>が<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>方向<rt>ほうこう</rt></ruby>で、<span class=\"vw\" data-ja=\"協議\" data-reading=\"きょうぎ\" data-en=\"talks; consultation\"><ruby>協議<rt>きょうぎ</rt></ruby></span>が<ruby>進め<rt>すすめ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の安全性や、再生可能エネルギーを活用できることが、評価されたということです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>や、<span class=\"vw\" data-ja=\"再生可能エネルギー\" data-reading=\"さいせいかのうエネルギー\" data-en=\"renewable energy\"><ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギー</span>を<ruby>活用<rt>かつよう</rt></ruby>できることが、<span class=\"vw\" data-ja=\"評価\" data-reading=\"ひょうか\" data-en=\"evaluation; recognition\"><ruby>評価<rt>ひょうか</rt></ruby></span>されたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月19日には、アラブ首長国連邦の大使らが秋田県を訪れ、知事や市長と会談する予定です。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>には、アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>の<span class=\"vw\" data-ja=\"大使\" data-reading=\"たいし\" data-en=\"ambassador\"><ruby>大使<rt>たいし</rt></ruby></span>らが<ruby>秋田県<rt>あきたけん</rt></ruby>を<ruby>訪れ<rt>おとずれ</rt></ruby>、<ruby>知事<rt>ちじ</rt></ruby>や<ruby>市長<rt>しちょう</rt></ruby>と<span class=\"vw\" data-ja=\"会談\" data-reading=\"かいだん\" data-en=\"talks; official meeting\"><ruby>会談<rt>かいだん</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋田県は、国がデータセンターの整備に適しているとして選んだ、全国9つの地域の一つです。",
+      "ruby": "<ruby>秋田県<rt>あきたけん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>がデータセンターの<span class=\"vw\" data-ja=\"整備\" data-reading=\"せいび\" data-en=\"development; building up (infrastructure)\"><ruby>整備<rt>せいび</rt></ruby></span>に<ruby>適し<rt>てきし</rt></ruby>ているとして<ruby>選ん<rt>えらん</rt></ruby>だ、<ruby>全国<rt>ぜんこく</rt></ruby>9つの<ruby>地域<rt>ちいき</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設が実現すれば、多くの雇用が生まれ、地域の経済への大きな効果が期待されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>が<ruby>実現<rt>じつげん</rt></ruby>すれば、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"雇用\" data-reading=\"こよう\" data-en=\"employment\"><ruby>雇用<rt>こよう</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>への<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; benefit\"><ruby>効果<rt>こうか</rt></ruby></span>が<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "県と市は、この計画を、人口減少が続く秋田の新しい産業のチャンスにしたいとしています。",
+      "ruby": "<ruby>県<rt>けん</rt></ruby>と<ruby>市<rt>し</rt></ruby>は、この<ruby>計画<rt>けいかく</rt></ruby>を、<span class=\"vw\" data-ja=\"人口減少\" data-reading=\"じんこうげんしょう\" data-en=\"population decline\"><ruby>人口<rt>じんこう</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><ruby>秋田<rt>あきた</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"産業\" data-reading=\"さんぎょう\" data-en=\"industry\"><ruby>産業<rt>さんぎょう</rt></ruby></span>のチャンスにしたいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "秋田市のIT企業「エスツー」とアメリカのAI企業「ビットグリット」は6日、秋田市に国内最大級のAIデータセンターを建設する計画を発表しました。",
+      "ruby": "<ruby>秋田市<rt>あきたし</rt></ruby>のIT<ruby>企業<rt>きぎょう</rt></ruby>「エスツー」とアメリカのAI<ruby>企業<rt>きぎょう</rt></ruby>「ビットグリット」は<ruby>6日<rt>むいか</rt></ruby>、<ruby>秋田市<rt>あきたし</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby><ruby>最大級<rt>さいだいきゅう</rt></ruby>のAIデータセンターを<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "An IT company from Akita and an American AI company announced a plan to build one of Japan's largest AI data centers in Akita City."
+    },
+    {
+      "speaker": "vocab",
+      "text": "建設",
+      "ruby": "<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means construction."
+    },
+    {
+      "speaker": "slow",
+      "text": "建設費は2兆円以上になる見込みで、データセンターとしては国内で最大級の規模です。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>は2<ruby>兆円<rt>ちょうえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>で、データセンターとしては<ruby>国内<rt>こくない</rt></ruby>で<ruby>最大級<rt>さいだいきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"規模\" data-reading=\"きぼ\" data-en=\"scale; size\"><ruby>規模<rt>きぼ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Construction costs are expected to top two trillion yen, making it one of the biggest data centers in the country."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込み",
+      "ruby": "<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an outlook — something expected to happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "電力には、秋田県の沖合で進んでいる洋上風力発電の電気を活用する計画です。",
+      "ruby": "<ruby>電力<rt>でんりょく</rt></ruby>には、<ruby>秋田県<rt>あきたけん</rt></ruby>の<span class=\"vw\" data-ja=\"沖合\" data-reading=\"おきあい\" data-en=\"offshore waters\"><ruby>沖合<rt>おきあい</rt></ruby></span>で<ruby>進ん<rt>すすん</rt></ruby>でいる<span class=\"vw\" data-ja=\"洋上風力発電\" data-reading=\"ようじょうふうりょくはつでん\" data-en=\"offshore wind power generation\"><ruby>洋上<rt>ようじょう</rt></ruby><ruby>風力発電<rt>ふうりょくはつでん</rt></ruby></span>の<ruby>電気<rt>でんき</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "For electricity, the plan is to use offshore wind power being developed off the coast of Akita."
+    },
+    {
+      "speaker": "vocab",
+      "text": "洋上風力発電",
+      "ruby": "<span class=\"vw\" data-ja=\"洋上風力発電\" data-reading=\"ようじょうふうりょくはつでん\" data-en=\"offshore wind power generation\"><ruby>洋上<rt>ようじょう</rt></ruby><ruby>風力発電<rt>ふうりょくはつでん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means offshore wind power generation."
+    },
+    {
+      "speaker": "slow",
+      "text": "この計画には、中東のアラブ首長国連邦が投資する方向で、協議が進められています。",
+      "ruby": "この<ruby>計画<rt>けいかく</rt></ruby>には、<ruby>中東<rt>ちゅうとう</rt></ruby>のアラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>が<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>方向<rt>ほうこう</rt></ruby>で、<span class=\"vw\" data-ja=\"協議\" data-reading=\"きょうぎ\" data-en=\"talks; consultation\"><ruby>協議<rt>きょうぎ</rt></ruby></span>が<ruby>進め<rt>すすめ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The United Arab Emirates is in talks to invest in the project."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投資",
+      "ruby": "<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means investment."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の安全性や、再生可能エネルギーを活用できることが、評価されたということです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>や、<span class=\"vw\" data-ja=\"再生可能エネルギー\" data-reading=\"さいせいかのうエネルギー\" data-en=\"renewable energy\"><ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギー</span>を<ruby>活用<rt>かつよう</rt></ruby>できることが、<span class=\"vw\" data-ja=\"評価\" data-reading=\"ひょうか\" data-en=\"evaluation; recognition\"><ruby>評価<rt>ひょうか</rt></ruby></span>されたということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's safety, and the fact that renewable energy can be used, were reportedly valued highly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "再生可能エネルギー",
+      "ruby": "<span class=\"vw\" data-ja=\"再生可能エネルギー\" data-reading=\"さいせいかのうエネルギー\" data-en=\"renewable energy\"><ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギー</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means renewable energy."
+    },
+    {
+      "speaker": "slow",
+      "text": "建設が実現すれば、多くの雇用が生まれ、地域の経済への大きな効果が期待されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>が<ruby>実現<rt>じつげん</rt></ruby>すれば、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"雇用\" data-reading=\"こよう\" data-en=\"employment\"><ruby>雇用<rt>こよう</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>への<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; benefit\"><ruby>効果<rt>こうか</rt></ruby></span>が<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "If construction goes ahead, many jobs would be created, and a big boost to the local economy is expected."
+    },
+    {
+      "speaker": "vocab",
+      "text": "雇用",
+      "ruby": "<span class=\"vw\" data-ja=\"雇用\" data-reading=\"こよう\" data-en=\"employment\"><ruby>雇用<rt>こよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means employment."
+    },
+    {
+      "speaker": "slow",
+      "text": "県と市は、この計画を、人口減少が続く秋田の新しい産業のチャンスにしたいとしています。",
+      "ruby": "<ruby>県<rt>けん</rt></ruby>と<ruby>市<rt>し</rt></ruby>は、この<ruby>計画<rt>けいかく</rt></ruby>を、<span class=\"vw\" data-ja=\"人口減少\" data-reading=\"じんこうげんしょう\" data-en=\"population decline\"><ruby>人口<rt>じんこう</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><ruby>秋田<rt>あきた</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"産業\" data-reading=\"さんぎょう\" data-en=\"industry\"><ruby>産業<rt>さんぎょう</rt></ruby></span>のチャンスにしたいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The prefecture and city want to turn the plan into a new industry for Akita, where the population keeps shrinking."
+    },
+    {
+      "speaker": "vocab",
+      "text": "産業",
+      "ruby": "<span class=\"vw\" data-ja=\"産業\" data-reading=\"さんぎょう\" data-en=\"industry\"><ruby>産業<rt>さんぎょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means industry."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "秋田市のIT企業「エスツー」とアメリカのAI企業「ビットグリット」は6日、秋田市に国内最大級のAIデータセンターを建設する計画を発表しました。",
+      "ruby": "<ruby>秋田市<rt>あきたし</rt></ruby>のIT<ruby>企業<rt>きぎょう</rt></ruby>「エスツー」とアメリカのAI<ruby>企業<rt>きぎょう</rt></ruby>「ビットグリット」は<ruby>6日<rt>むいか</rt></ruby>、<ruby>秋田市<rt>あきたし</rt></ruby>に<ruby>国内<rt>こくない</rt></ruby><ruby>最大級<rt>さいだいきゅう</rt></ruby>のAIデータセンターを<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "データセンターは、AI、人工知能などの計算に使う、たくさんのコンピューターを集めた施設です。",
+      "ruby": "データセンターは、AI、<span class=\"vw\" data-ja=\"人工知能\" data-reading=\"じんこうちのう\" data-en=\"artificial intelligence\"><ruby>人工知能<rt>じんこうちのう</rt></ruby></span>などの<ruby>計算<rt>けいさん</rt></ruby>に<ruby>使う<rt>つかう</rt></ruby>、たくさんのコンピューターを<ruby>集め<rt>あつめ</rt></ruby>た<span class=\"vw\" data-ja=\"施設\" data-reading=\"しせつ\" data-en=\"facility\"><ruby>施設<rt>しせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設される場所は、秋田県と秋田市が整備を進めている、秋田市北部の工業団地です。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>される<ruby>場所<rt>ばしょ</rt></ruby>は、<ruby>秋田県<rt>あきたけん</rt></ruby>と<ruby>秋田市<rt>あきたし</rt></ruby>が<span class=\"vw\" data-ja=\"整備\" data-reading=\"せいび\" data-en=\"development; building up (infrastructure)\"><ruby>整備<rt>せいび</rt></ruby></span>を<ruby>進め<rt>すすめ</rt></ruby>ている、<ruby>秋田市<rt>あきたし</rt></ruby><ruby>北部<rt>ほくぶ</rt></ruby>の<span class=\"vw\" data-ja=\"工業団地\" data-reading=\"こうぎょうだんち\" data-en=\"industrial park\"><ruby>工業<rt>こうぎょう</rt></ruby><ruby>団地<rt>だんち</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設費は2兆円以上になる見込みで、データセンターとしては国内で最大級の規模です。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>は2<ruby>兆円<rt>ちょうえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>で、データセンターとしては<ruby>国内<rt>こくない</rt></ruby>で<ruby>最大級<rt>さいだいきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"規模\" data-reading=\"きぼ\" data-en=\"scale; size\"><ruby>規模<rt>きぼ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2つの会社は、2030年代前半の稼働開始を目指しています。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、2030<ruby>年代前半<rt>ねんだいぜんはん</rt></ruby>の<span class=\"vw\" data-ja=\"稼働\" data-reading=\"かどう\" data-en=\"operation (of a facility)\"><ruby>稼働<rt>かどう</rt></ruby></span><ruby>開始<rt>かいし</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電力には、秋田県の沖合で進んでいる洋上風力発電の電気を活用する計画です。",
+      "ruby": "<ruby>電力<rt>でんりょく</rt></ruby>には、<ruby>秋田県<rt>あきたけん</rt></ruby>の<span class=\"vw\" data-ja=\"沖合\" data-reading=\"おきあい\" data-en=\"offshore waters\"><ruby>沖合<rt>おきあい</rt></ruby></span>で<ruby>進ん<rt>すすん</rt></ruby>でいる<span class=\"vw\" data-ja=\"洋上風力発電\" data-reading=\"ようじょうふうりょくはつでん\" data-en=\"offshore wind power generation\"><ruby>洋上<rt>ようじょう</rt></ruby><ruby>風力発電<rt>ふうりょくはつでん</rt></ruby></span>の<ruby>電気<rt>でんき</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "洋上風力発電は、海の上に大きな風車を建てて、風の力で電気を作る仕組みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"洋上風力発電\" data-reading=\"ようじょうふうりょくはつでん\" data-en=\"offshore wind power generation\"><ruby>洋上<rt>ようじょう</rt></ruby><ruby>風力発電<rt>ふうりょくはつでん</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"風車\" data-reading=\"ふうしゃ\" data-en=\"wind turbine; windmill\"><ruby>風車<rt>ふうしゃ</rt></ruby></span>を<ruby>建て<rt>たて</rt></ruby>て、<ruby>風<rt>かぜ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"mechanism; system\"><ruby>仕組み<rt>しくみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "AIの利用が世界中で急速に広がり、計算のための電力とデータセンターが足りなくなっています。",
+      "ruby": "AIの<ruby>利用<rt>りよう</rt></ruby>が<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"急速に\" data-reading=\"きゅうそくに\" data-en=\"rapidly\"><ruby>急速<rt>きゅうそく</rt></ruby>に</span><ruby>広が<rt>ひろが</rt></ruby>り、<ruby>計算<rt>けいさん</rt></ruby>のための<ruby>電力<rt>でんりょく</rt></ruby>とデータセンターが<ruby>足り<rt>たり</rt></ruby>なくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この計画には、中東のアラブ首長国連邦が投資する方向で、協議が進められています。",
+      "ruby": "この<ruby>計画<rt>けいかく</rt></ruby>には、<ruby>中東<rt>ちゅうとう</rt></ruby>のアラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>が<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>方向<rt>ほうこう</rt></ruby>で、<span class=\"vw\" data-ja=\"協議\" data-reading=\"きょうぎ\" data-en=\"talks; consultation\"><ruby>協議<rt>きょうぎ</rt></ruby></span>が<ruby>進め<rt>すすめ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の安全性や、再生可能エネルギーを活用できることが、評価されたということです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"安全性\" data-reading=\"あんぜんせい\" data-en=\"safety\"><ruby>安全性<rt>あんぜんせい</rt></ruby></span>や、<span class=\"vw\" data-ja=\"再生可能エネルギー\" data-reading=\"さいせいかのうエネルギー\" data-en=\"renewable energy\"><ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギー</span>を<ruby>活用<rt>かつよう</rt></ruby>できることが、<span class=\"vw\" data-ja=\"評価\" data-reading=\"ひょうか\" data-en=\"evaluation; recognition\"><ruby>評価<rt>ひょうか</rt></ruby></span>されたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月19日には、アラブ首長国連邦の大使らが秋田県を訪れ、知事や市長と会談する予定です。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>には、アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>の<span class=\"vw\" data-ja=\"大使\" data-reading=\"たいし\" data-en=\"ambassador\"><ruby>大使<rt>たいし</rt></ruby></span>らが<ruby>秋田県<rt>あきたけん</rt></ruby>を<ruby>訪れ<rt>おとずれ</rt></ruby>、<ruby>知事<rt>ちじ</rt></ruby>や<ruby>市長<rt>しちょう</rt></ruby>と<span class=\"vw\" data-ja=\"会談\" data-reading=\"かいだん\" data-en=\"talks; official meeting\"><ruby>会談<rt>かいだん</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋田県は、国がデータセンターの整備に適しているとして選んだ、全国9つの地域の一つです。",
+      "ruby": "<ruby>秋田県<rt>あきたけん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>がデータセンターの<span class=\"vw\" data-ja=\"整備\" data-reading=\"せいび\" data-en=\"development; building up (infrastructure)\"><ruby>整備<rt>せいび</rt></ruby></span>に<ruby>適し<rt>てきし</rt></ruby>ているとして<ruby>選ん<rt>えらん</rt></ruby>だ、<ruby>全国<rt>ぜんこく</rt></ruby>9つの<ruby>地域<rt>ちいき</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設が実現すれば、多くの雇用が生まれ、地域の経済への大きな効果が期待されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>が<ruby>実現<rt>じつげん</rt></ruby>すれば、<ruby>多く<rt>おおく</rt></ruby>の<span class=\"vw\" data-ja=\"雇用\" data-reading=\"こよう\" data-en=\"employment\"><ruby>雇用<rt>こよう</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>への<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"効果\" data-reading=\"こうか\" data-en=\"effect; benefit\"><ruby>効果<rt>こうか</rt></ruby></span>が<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "県と市は、この計画を、人口減少が続く秋田の新しい産業のチャンスにしたいとしています。",
+      "ruby": "<ruby>県<rt>けん</rt></ruby>と<ruby>市<rt>し</rt></ruby>は、この<ruby>計画<rt>けいかく</rt></ruby>を、<span class=\"vw\" data-ja=\"人口減少\" data-reading=\"じんこうげんしょう\" data-en=\"population decline\"><ruby>人口<rt>じんこう</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><ruby>秋田<rt>あきた</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"産業\" data-reading=\"さんぎょう\" data-en=\"industry\"><ruby>産業<rt>さんぎょう</rt></ruby></span>のチャンスにしたいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "国内最大級のAIデータセンターは、どこに建設される計画ですか。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby><ruby>最大級<rt>さいだいきゅう</rt></ruby>のAIデータセンターは、どこに<span class=\"vw\" data-ja=\"建設\" data-reading=\"けんせつ\" data-en=\"construction\"><ruby>建設<rt>けんせつ</rt></ruby></span>される<ruby>計画<rt>けいかく</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Akita City — in an industrial park in the northern part of the city."
+    },
+    {
+      "speaker": "slow",
+      "text": "建設費は、いくら以上になる見込みですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>は、いくら<ruby>以上<rt>いじょう</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Over two trillion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "データセンターの電力には、何の電気を活用する計画ですか。",
+      "ruby": "データセンターの<ruby>電力<rt>でんりょく</rt></ruby>には、<ruby>何の<rt>なんの</rt></ruby><ruby>電気<rt>でんき</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Offshore wind power, generated off the coast of Akita."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. A two-trillion-yen bet on AI could give a quiet northern city a whole new future. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "建設",
+      "reading": "けんせつ",
+      "en": "construction",
+      "zh": "建设"
+    },
+    {
+      "ja": "人工知能",
+      "reading": "じんこうちのう",
+      "en": "artificial intelligence",
+      "zh": "人工智能"
+    },
+    {
+      "ja": "施設",
+      "reading": "しせつ",
+      "en": "facility",
+      "zh": "设施"
+    },
+    {
+      "ja": "整備",
+      "reading": "せいび",
+      "en": "development; building up (infrastructure)",
+      "zh": "建设；整备"
+    },
+    {
+      "ja": "工業団地",
+      "reading": "こうぎょうだんち",
+      "en": "industrial park",
+      "zh": "工业园区"
+    },
+    {
+      "ja": "建設費",
+      "reading": "けんせつひ",
+      "en": "construction cost",
+      "zh": "建设费用"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "outlook; expectation",
+      "zh": "预计；预期"
+    },
+    {
+      "ja": "規模",
+      "reading": "きぼ",
+      "en": "scale; size",
+      "zh": "规模"
+    },
+    {
+      "ja": "稼働",
+      "reading": "かどう",
+      "en": "operation (of a facility)",
+      "zh": "运转；投入运营"
+    },
+    {
+      "ja": "沖合",
+      "reading": "おきあい",
+      "en": "offshore waters",
+      "zh": "近海；海面上"
+    },
+    {
+      "ja": "洋上風力発電",
+      "reading": "ようじょうふうりょくはつでん",
+      "en": "offshore wind power generation",
+      "zh": "海上风力发电"
+    },
+    {
+      "ja": "風車",
+      "reading": "ふうしゃ",
+      "en": "wind turbine; windmill",
+      "zh": "风车；风力涡轮机"
+    },
+    {
+      "ja": "仕組み",
+      "reading": "しくみ",
+      "en": "mechanism; system",
+      "zh": "机制；构造"
+    },
+    {
+      "ja": "急速に",
+      "reading": "きゅうそくに",
+      "en": "rapidly",
+      "zh": "迅速地"
+    },
+    {
+      "ja": "協議",
+      "reading": "きょうぎ",
+      "en": "talks; consultation",
+      "zh": "协商；磋商"
+    },
+    {
+      "ja": "投資",
+      "reading": "とうし",
+      "en": "investment",
+      "zh": "投资"
+    },
+    {
+      "ja": "安全性",
+      "reading": "あんぜんせい",
+      "en": "safety",
+      "zh": "安全性"
+    },
+    {
+      "ja": "再生可能エネルギー",
+      "reading": "さいせいかのうエネルギー",
+      "en": "renewable energy",
+      "zh": "可再生能源"
+    },
+    {
+      "ja": "評価",
+      "reading": "ひょうか",
+      "en": "evaluation; recognition",
+      "zh": "评价；认可"
+    },
+    {
+      "ja": "大使",
+      "reading": "たいし",
+      "en": "ambassador",
+      "zh": "大使"
+    },
+    {
+      "ja": "会談",
+      "reading": "かいだん",
+      "en": "talks; official meeting",
+      "zh": "会谈"
+    },
+    {
+      "ja": "雇用",
+      "reading": "こよう",
+      "en": "employment",
+      "zh": "就业；雇用"
+    },
+    {
+      "ja": "効果",
+      "reading": "こうか",
+      "en": "effect; benefit",
+      "zh": "效果"
+    },
+    {
+      "ja": "人口減少",
+      "reading": "じんこうげんしょう",
+      "en": "population decline",
+      "zh": "人口减少"
+    },
+    {
+      "ja": "産業",
+      "reading": "さんぎょう",
+      "en": "industry",
+      "zh": "产业"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜見込みだ",
+      "meaning": "is expected to; the outlook is that",
+      "meaningZh": "预计会…；预期…",
+      "formation": "verb plain form + 見込みだ / noun + の + 見込みだ",
+      "example": "建設費は2兆円以上になる見込みで、データセンターとしては国内で最大級の規模です。",
+      "translation": "Construction costs are expected to be over two trillion yen, one of the largest scales for a data center in Japan.",
+      "note": "standard news phrase for forecasts and estimates; softer than a definite statement",
+      "noteZh": "新闻中表示预测、估计的标准说法，比断定语气缓和",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見込み"
+    },
+    {
+      "pattern": "〜としては",
+      "meaning": "as a ~; for a ~ (compared with others in its category)",
+      "meaningZh": "作为…来说；就…而言",
+      "formation": "noun + としては",
+      "example": "データセンターとしては国内で最大級の規模です。",
+      "translation": "As data centers go, it is among the largest in the country.",
+      "note": "sets up a category before comparing within it; common in news rankings and records",
+      "noteZh": "先设定一个类别，再在该类别内进行比较，新闻中谈排名或纪录时常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#としては"
+    },
+    {
+      "pattern": "〜を目指す",
+      "meaning": "to aim for; to work toward",
+      "meaningZh": "以…为目标；力争…",
+      "formation": "noun + を目指す",
+      "example": "2つの会社は、2030年代前半の稼働開始を目指しています。",
+      "translation": "The two companies are aiming to start operations in the early 2030s.",
+      "note": "very common in news for goals and target dates of projects",
+      "noteZh": "新闻中表示项目目标或预定时间时非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#目指す"
+    },
+    {
+      "pattern": "〜すれば",
+      "meaning": "if ~ (conditional)",
+      "meaningZh": "如果…的话",
+      "formation": "verb ば-form (する → すれば)",
+      "example": "建設が実現すれば、多くの雇用が生まれ、地域の経済への大きな効果が期待されています。",
+      "translation": "If the construction goes ahead, many jobs will be created and a large economic effect is expected for the region.",
+      "note": "the ば conditional often states a logical result that follows naturally from the condition",
+      "noteZh": "ば条件句常表示由条件自然引出的合乎逻辑的结果",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ば"
+    },
+    {
+      "pattern": "〜が期待されている",
+      "meaning": "~ is expected / hoped for",
+      "meaningZh": "…受到期待；有望…",
+      "formation": "noun + が期待されている (passive of 期待する)",
+      "example": "多くの雇用が生まれ、地域の経済への大きな効果が期待されています。",
+      "translation": "Many jobs would be created, and a large effect on the local economy is expected.",
+      "note": "news-style passive that reports hopes and expectations without naming who holds them",
+      "noteZh": "新闻体被动句，不点明主语地转述人们的期待",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#られる"
+    }
+  ],
+  "practiceZh": [
+    "秋田市のIT企業「エスツー」とアメリカのAI企業「ビットグリット」は6日、秋田市に国内最大級のAIデータセンターを建設する計画を発表しました。\n秋田市IT企业\"S2\"和美国AI企业\"bitgrit\"6日宣布，计划在秋田市建设日本国内最大级别的AI数据中心。\n企業 = company；建設 = construction；発表 = announcement",
+    "データセンターは、AI、人工知能などの計算に使う、たくさんのコンピューターを集めた施設です。\n数据中心是汇集大量计算机、用于AI（人工智能）等计算的设施。\n人工知能 = artificial intelligence；計算 = computation；施設 = facility",
+    "建設される場所は、秋田県と秋田市が整備を進めている、秋田市北部の工業団地です。\n建设地点是秋田县和秋田市正在推进建设的秋田市北部工业园区。\n整備 = development；北部 = northern part；工業団地 = industrial park",
+    "建設費は2兆円以上になる見込みで、データセンターとしては国内で最大級の規模です。\n建设费用预计将超过2万亿日元，作为数据中心是日本国内最大级别的规模。\n建設費 = construction cost；見込み = outlook；規模 = scale",
+    "2つの会社は、2030年代前半の稼働開始を目指しています。\n两家公司力争在2030年代前半期开始运营。\n前半 = first half；稼働 = operation；目指す = to aim for",
+    "電力には、秋田県の沖合で進んでいる洋上風力発電の電気を活用する計画です。\n电力方面，计划利用秋田县近海正在推进的海上风力发电的电力。\n電力 = electric power；沖合 = offshore；活用 = utilization",
+    "洋上風力発電は、海の上に大きな風車を建てて、風の力で電気を作る仕組みです。\n海上风力发电是在海上建造大型风车、利用风力发电的机制。\n風車 = wind turbine；風の力 = power of wind；仕組み = mechanism",
+    "AIの利用が世界中で急速に広がり、計算のための電力とデータセンターが足りなくなっています。\nAI的应用正在全世界迅速普及，用于计算的电力和数据中心正变得不够用。\n利用 = use；急速に = rapidly；足りない = insufficient",
+    "この計画には、中東のアラブ首長国連邦が投資する方向で、協議が進められています。\n中东的阿拉伯联合酋长国正朝着向该计划投资的方向推进协商。\n中東 = Middle East；投資 = investment；協議 = talks",
+    "日本の安全性や、再生可能エネルギーを活用できることが、評価されたということです。\n据悉，日本的安全性以及能够利用可再生能源这一点得到了认可。\n安全性 = safety；再生可能エネルギー = renewable energy；評価 = recognition",
+    "今月19日には、アラブ首長国連邦の大使らが秋田県を訪れ、知事や市長と会談する予定です。\n本月19日，阿拉伯联合酋长国大使等人将访问秋田县，与知事和市长举行会谈。\n大使 = ambassador；知事 = governor；会談 = talks",
+    "秋田県は、国がデータセンターの整備に適しているとして選んだ、全国9つの地域の一つです。\n秋田县是国家选定的适合建设数据中心的全国9个地区之一。\n適している = suitable；選ぶ = to choose；地域 = region",
+    "建設が実現すれば、多くの雇用が生まれ、地域の経済への大きな効果が期待されています。\n如果建设得以实现，将创造大量就业，预计会对当地经济产生巨大效果。\n実現 = realization；雇用 = employment；効果 = effect",
+    "県と市は、この計画を、人口減少が続く秋田の新しい産業のチャンスにしたいとしています。\n县和市表示，希望把该计划变成人口持续减少的秋田的新产业机会。\n人口減少 = population decline；産業 = industry；チャンス = chance"
+  ]
+}
