@@ -1,0 +1,589 @@
+{
+  "episode": 107,
+  "title": "お盆の帰省ラッシュが本格化",
+  "date": "2026-08-08",
+  "source": "NHK / JR各社 / 高速道路各社",
+  "level": "N4-N3",
+  "contentVersion": "2026080801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August eighth. Japan's great summer homecoming has begun — this weekend, millions of people are heading back to their hometowns by bullet train, car, and plane for the mid-August holiday. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "お盆をふるさとや行楽地で過ごす人たちの帰省ラッシュが、この週末から本格化しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"お盆\" data-reading=\"おぼん\" data-en=\"Obon (mid-August holiday to honor ancestors)\">お<ruby>盆<rt>ぼん</rt></ruby></span>をふるさとや<span class=\"vw\" data-ja=\"行楽地\" data-reading=\"こうらくち\" data-en=\"resort; leisure spot\"><ruby>行楽地<rt>こうらくち</rt></ruby></span>で<ruby>過ご<rt>すご</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>たちの<span class=\"vw\" data-ja=\"帰省\" data-reading=\"きせい\" data-en=\"returning to one's hometown\"><ruby>帰省<rt>きせい</rt></ruby></span><span class=\"vw\" data-ja=\"ラッシュ\" data-reading=\"ラッシュ\" data-en=\"rush\">ラッシュ</span>が、この<ruby>週末<rt>しゅうまつ</rt></ruby>から<span class=\"vw\" data-ja=\"本格化\" data-reading=\"ほんかくか\" data-en=\"getting into full swing\"><ruby>本格化<rt>ほんかくか</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "「帰省」とは、生まれ育ったふるさとに帰ることです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"帰省\" data-reading=\"きせい\" data-en=\"returning to one's hometown\"><ruby>帰省<rt>きせい</rt></ruby></span>」とは、<ruby>生まれ<rt>うまれ</rt></ruby><ruby>育っ<rt>そだっ</rt></ruby>たふるさとに<ruby>帰る<rt>かえる</rt></ruby>ことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "お盆は、亡くなった家族やご先祖を迎える日本の伝統的な行事で、多くの人がふるさとに帰って、お墓参りをします。",
+      "ruby": "<span class=\"vw\" data-ja=\"お盆\" data-reading=\"おぼん\" data-en=\"Obon (mid-August holiday to honor ancestors)\">お<ruby>盆<rt>ぼん</rt></ruby></span>は、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>家族<rt>かぞく</rt></ruby>やご<span class=\"vw\" data-ja=\"先祖\" data-reading=\"せんぞ\" data-en=\"ancestor\"><ruby>先祖<rt>せんぞ</rt></ruby></span>を<ruby>迎え<rt>むかえ</rt></ruby>る<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"伝統的\" data-reading=\"でんとうてき\" data-en=\"traditional\"><ruby>伝統的<rt>でんとうてき</rt></ruby></span>な<span class=\"vw\" data-ja=\"行事\" data-reading=\"ぎょうじ\" data-en=\"event; observance\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>で、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がふるさとに<ruby>帰っ<rt>かえっ</rt></ruby>て、<span class=\"vw\" data-ja=\"お墓参り\" data-reading=\"おはかまいり\" data-en=\"visiting the family grave\">お<ruby>墓参り<rt>はかまいり</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの会社が今月8日ごろから夏休みに入るため、新幹線や高速道路、空の便は、大きな荷物を持った家族連れなどで混雑しています。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>今月<rt>こんげつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>ごろから<ruby>夏休み<rt>なつやすみ</rt></ruby>に<ruby>入る<rt>はいる</rt></ruby>ため、<ruby>新幹線<rt>しんかんせん</rt></ruby>や<ruby>高速道路<rt>こうそくどうろ</rt></ruby>、<span class=\"vw\" data-ja=\"空の便\" data-reading=\"そらのびん\" data-en=\"flights; air services\"><ruby>空<rt>そら</rt></ruby>の<ruby>便<rt>びん</rt></ruby></span>は、<ruby>大き<rt>おおき</rt></ruby>な<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>た<span class=\"vw\" data-ja=\"家族連れ\" data-reading=\"かぞくづれ\" data-en=\"families (traveling together)\"><ruby>家族連れ<rt>かぞくづれ</rt></ruby></span>などで<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR各社によりますと、ふるさとに向かう下りの新幹線は、8日が混雑のピークで、指定席は午前を中心にほぼ満席となっています。",
+      "ruby": "JR<ruby>各社<rt>かくしゃ</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとに</span><ruby>向か<rt>むか</rt></ruby>う<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>の<ruby>新幹線<rt>しんかんせん</rt></ruby>は、<ruby>8日<rt>ようか</rt></ruby>が<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>で、<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>は<ruby>午前<rt>ごぜん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>にほぼ<span class=\"vw\" data-ja=\"満席\" data-reading=\"まんせき\" data-en=\"fully booked; no seats left\"><ruby>満席<rt>まんせき</rt></ruby></span>となっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線の「のぞみ」は、混雑を避けるため、今月7日から16日まで、すべての座席が指定席になっています。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>の「のぞみ」は、<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>を<ruby>避け<rt>さけ</rt></ruby>るため、<ruby>今月<rt>こんげつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>から16<ruby>日<rt>にち</rt></ruby>まで、すべての<ruby>座席<rt>ざせき</rt></ruby>が<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この期間は自由席がないため、JR東海は、早めに座席を予約するよう呼びかけています。",
+      "ruby": "この<ruby>期間<rt>きかん</rt></ruby>は<span class=\"vw\" data-ja=\"自由席\" data-reading=\"じゆうせき\" data-en=\"non-reserved seat\"><ruby>自由席<rt>じゆうせき</rt></ruby></span>がないため、JR<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>座席<rt>ざせき</rt></ruby>を<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation\"><ruby>予約<rt>よやく</rt></ruby></span>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "高速道路の下りも、8日と9日が混雑のピークで、各地で長い渋滞が予想されています。",
+      "ruby": "<ruby>高速道路<rt>こうそくどうろ</rt></ruby>の<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>も、<ruby>8日<rt>ようか</rt></ruby>と<ruby>9日<rt>ここのか</rt></ruby>が<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>で、<ruby>各地<rt>かくち</rt></ruby>で<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>が<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "場所によっては、最大でおよそ45キロの渋滞が予想されているところもあります。",
+      "ruby": "<ruby>場所<rt>ばしょ</rt></ruby>によっては、<ruby>最大<rt>さいだい</rt></ruby>でおよそ45キロの<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>が<ruby>予想<rt>よそう</rt></ruby>されているところもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "空の便も、国内線の下りは、8日と9日を中心にほぼ満席となっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"空の便\" data-reading=\"そらのびん\" data-en=\"flights; air services\"><ruby>空<rt>そら</rt></ruby>の<ruby>便<rt>びん</rt></ruby></span>も、<ruby>国内線<rt>こくないせん</rt></ruby>の<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>は、<ruby>8日<rt>ようか</rt></ruby>と<ruby>9日<rt>ここのか</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>にほぼ<span class=\"vw\" data-ja=\"満席\" data-reading=\"まんせき\" data-en=\"fully booked; no seats left\"><ruby>満席<rt>まんせき</rt></ruby></span>となっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、ふるさとから都市に戻るUターンラッシュのピークは、今月15日と16日になる見込みです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとから</span><ruby>都市<rt>とし</rt></ruby>に<ruby>戻る<rt>もどる</rt></ruby>Uターンラッシュの<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>は、<ruby>今月<rt>こんげつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>と16<ruby>日<rt>にち</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "各地で厳しい暑さが続いているため、渋滞の中での熱中症や、車のトラブルにも注意が必要です。",
+      "ruby": "<ruby>各地<rt>かくち</rt></ruby>で<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"severe; harsh\"><ruby>厳しい<rt>いかめしい</rt></ruby></span><ruby>暑さ<rt>あつさ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>での<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>や、<ruby>車<rt>くるま</rt></ruby>のトラブルにも<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "高速道路の会社は、出発する前に渋滞の情報を確認し、時間に余裕を持って行動してほしいと呼びかけています。",
+      "ruby": "<ruby>高速道路<rt>こうそくどうろ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>確認し<rt>かくにんし</rt></ruby>、<ruby>時間<rt>じかん</rt></ruby>に<span class=\"vw\" data-ja=\"余裕\" data-reading=\"よゆう\" data-en=\"leeway; room to spare\"><ruby>余裕<rt>よゆう</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行動<rt>こうどう</rt></ruby>してほしいと<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "久しぶりにふるさとで家族と過ごす、日本の夏の大切な時間が始まります。",
+      "ruby": "<ruby>久し<rt>ひさし</rt></ruby>ぶりにふるさとで<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過ご<rt>すご</rt></ruby>す、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "お盆をふるさとや行楽地で過ごす人たちの帰省ラッシュが、この週末から本格化しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"お盆\" data-reading=\"おぼん\" data-en=\"Obon (mid-August holiday to honor ancestors)\">お<ruby>盆<rt>ぼん</rt></ruby></span>をふるさとや<span class=\"vw\" data-ja=\"行楽地\" data-reading=\"こうらくち\" data-en=\"resort; leisure spot\"><ruby>行楽地<rt>こうらくち</rt></ruby></span>で<ruby>過ご<rt>すご</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>たちの<span class=\"vw\" data-ja=\"帰省\" data-reading=\"きせい\" data-en=\"returning to one's hometown\"><ruby>帰省<rt>きせい</rt></ruby></span><span class=\"vw\" data-ja=\"ラッシュ\" data-reading=\"ラッシュ\" data-en=\"rush\">ラッシュ</span>が、この<ruby>週末<rt>しゅうまつ</rt></ruby>から<span class=\"vw\" data-ja=\"本格化\" data-reading=\"ほんかくか\" data-en=\"getting into full swing\"><ruby>本格化<rt>ほんかくか</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The homecoming rush — people heading to their hometowns and resorts for the holiday — is in full swing this weekend."
+    },
+    {
+      "speaker": "vocab",
+      "text": "帰省",
+      "ruby": "<span class=\"vw\" data-ja=\"帰省\" data-reading=\"きせい\" data-en=\"returning to one's hometown\"><ruby>帰省<rt>きせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means returning to your hometown."
+    },
+    {
+      "speaker": "slow",
+      "text": "お盆は、亡くなった家族やご先祖を迎える日本の伝統的な行事で、多くの人がふるさとに帰って、お墓参りをします。",
+      "ruby": "<span class=\"vw\" data-ja=\"お盆\" data-reading=\"おぼん\" data-en=\"Obon (mid-August holiday to honor ancestors)\">お<ruby>盆<rt>ぼん</rt></ruby></span>は、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>家族<rt>かぞく</rt></ruby>やご<span class=\"vw\" data-ja=\"先祖\" data-reading=\"せんぞ\" data-en=\"ancestor\"><ruby>先祖<rt>せんぞ</rt></ruby></span>を<ruby>迎え<rt>むかえ</rt></ruby>る<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"伝統的\" data-reading=\"でんとうてき\" data-en=\"traditional\"><ruby>伝統的<rt>でんとうてき</rt></ruby></span>な<span class=\"vw\" data-ja=\"行事\" data-reading=\"ぎょうじ\" data-en=\"event; observance\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>で、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がふるさとに<ruby>帰っ<rt>かえっ</rt></ruby>て、<span class=\"vw\" data-ja=\"お墓参り\" data-reading=\"おはかまいり\" data-en=\"visiting the family grave\">お<ruby>墓参り<rt>はかまいり</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "host",
+      "text": "The holiday is a traditional event for welcoming the spirits of deceased family and ancestors — many people go home and visit the family grave."
+    },
+    {
+      "speaker": "vocab",
+      "text": "先祖",
+      "ruby": "<span class=\"vw\" data-ja=\"先祖\" data-reading=\"せんぞ\" data-en=\"ancestor\"><ruby>先祖<rt>せんぞ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ancestor."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR各社によりますと、ふるさとに向かう下りの新幹線は、8日が混雑のピークで、指定席は午前を中心にほぼ満席となっています。",
+      "ruby": "JR<ruby>各社<rt>かくしゃ</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとに</span><ruby>向か<rt>むか</rt></ruby>う<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>の<ruby>新幹線<rt>しんかんせん</rt></ruby>は、<ruby>8日<rt>ようか</rt></ruby>が<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>で、<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>は<ruby>午前<rt>ごぜん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>にほぼ<span class=\"vw\" data-ja=\"満席\" data-reading=\"まんせき\" data-en=\"fully booked; no seats left\"><ruby>満席<rt>まんせき</rt></ruby></span>となっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the railway companies, outbound bullet trains peak today, the eighth, and reserved seats are almost sold out, especially in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "満席",
+      "ruby": "<span class=\"vw\" data-ja=\"満席\" data-reading=\"まんせき\" data-en=\"fully booked; no seats left\"><ruby>満席<rt>まんせき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fully booked — no seats left."
+    },
+    {
+      "speaker": "slow",
+      "text": "東海道新幹線の「のぞみ」は、混雑を避けるため、今月7日から16日まで、すべての座席が指定席になっています。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>の「のぞみ」は、<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>を<ruby>避け<rt>さけ</rt></ruby>るため、<ruby>今月<rt>こんげつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>から16<ruby>日<rt>にち</rt></ruby>まで、すべての<ruby>座席<rt>ざせき</rt></ruby>が<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "To ease the crush, the fastest trains on the main Tokyo–Osaka bullet-train line are running with all seats reserved from the seventh through the sixteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "指定席",
+      "ruby": "<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a reserved seat."
+    },
+    {
+      "speaker": "slow",
+      "text": "場所によっては、最大でおよそ45キロの渋滞が予想されているところもあります。",
+      "ruby": "<ruby>場所<rt>ばしょ</rt></ruby>によっては、<ruby>最大<rt>さいだい</rt></ruby>でおよそ45キロの<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>が<ruby>予想<rt>よそう</rt></ruby>されているところもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In some places, traffic jams of up to about forty-five kilometers are expected."
+    },
+    {
+      "speaker": "vocab",
+      "text": "渋滞",
+      "ruby": "<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a traffic jam."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、ふるさとから都市に戻るUターンラッシュのピークは、今月15日と16日になる見込みです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとから</span><ruby>都市<rt>とし</rt></ruby>に<ruby>戻る<rt>もどる</rt></ruby>Uターンラッシュの<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>は、<ruby>今月<rt>こんげつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>と16<ruby>日<rt>にち</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, the return rush back to the cities is expected to peak on the fifteenth and sixteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一方",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means meanwhile, or on the other hand."
+    },
+    {
+      "speaker": "slow",
+      "text": "高速道路の会社は、出発する前に渋滞の情報を確認し、時間に余裕を持って行動してほしいと呼びかけています。",
+      "ruby": "<ruby>高速道路<rt>こうそくどうろ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>確認し<rt>かくにんし</rt></ruby>、<ruby>時間<rt>じかん</rt></ruby>に<span class=\"vw\" data-ja=\"余裕\" data-reading=\"よゆう\" data-en=\"leeway; room to spare\"><ruby>余裕<rt>よゆう</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行動<rt>こうどう</rt></ruby>してほしいと<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Highway operators are urging drivers to check traffic information before leaving and to allow plenty of extra time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "余裕",
+      "ruby": "<span class=\"vw\" data-ja=\"余裕\" data-reading=\"よゆう\" data-en=\"leeway; room to spare\"><ruby>余裕<rt>よゆう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means extra room — time or space to spare."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "お盆をふるさとや行楽地で過ごす人たちの帰省ラッシュが、この週末から本格化しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"お盆\" data-reading=\"おぼん\" data-en=\"Obon (mid-August holiday to honor ancestors)\">お<ruby>盆<rt>ぼん</rt></ruby></span>をふるさとや<span class=\"vw\" data-ja=\"行楽地\" data-reading=\"こうらくち\" data-en=\"resort; leisure spot\"><ruby>行楽地<rt>こうらくち</rt></ruby></span>で<ruby>過ご<rt>すご</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>たちの<span class=\"vw\" data-ja=\"帰省\" data-reading=\"きせい\" data-en=\"returning to one's hometown\"><ruby>帰省<rt>きせい</rt></ruby></span><span class=\"vw\" data-ja=\"ラッシュ\" data-reading=\"ラッシュ\" data-en=\"rush\">ラッシュ</span>が、この<ruby>週末<rt>しゅうまつ</rt></ruby>から<span class=\"vw\" data-ja=\"本格化\" data-reading=\"ほんかくか\" data-en=\"getting into full swing\"><ruby>本格化<rt>ほんかくか</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "「帰省」とは、生まれ育ったふるさとに帰ることです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"帰省\" data-reading=\"きせい\" data-en=\"returning to one's hometown\"><ruby>帰省<rt>きせい</rt></ruby></span>」とは、<ruby>生まれ<rt>うまれ</rt></ruby><ruby>育っ<rt>そだっ</rt></ruby>たふるさとに<ruby>帰る<rt>かえる</rt></ruby>ことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "お盆は、亡くなった家族やご先祖を迎える日本の伝統的な行事で、多くの人がふるさとに帰って、お墓参りをします。",
+      "ruby": "<span class=\"vw\" data-ja=\"お盆\" data-reading=\"おぼん\" data-en=\"Obon (mid-August holiday to honor ancestors)\">お<ruby>盆<rt>ぼん</rt></ruby></span>は、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>家族<rt>かぞく</rt></ruby>やご<span class=\"vw\" data-ja=\"先祖\" data-reading=\"せんぞ\" data-en=\"ancestor\"><ruby>先祖<rt>せんぞ</rt></ruby></span>を<ruby>迎え<rt>むかえ</rt></ruby>る<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"伝統的\" data-reading=\"でんとうてき\" data-en=\"traditional\"><ruby>伝統的<rt>でんとうてき</rt></ruby></span>な<span class=\"vw\" data-ja=\"行事\" data-reading=\"ぎょうじ\" data-en=\"event; observance\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>で、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がふるさとに<ruby>帰っ<rt>かえっ</rt></ruby>て、<span class=\"vw\" data-ja=\"お墓参り\" data-reading=\"おはかまいり\" data-en=\"visiting the family grave\">お<ruby>墓参り<rt>はかまいり</rt></ruby></span>をします。"
+    },
+    {
+      "speaker": "news",
+      "text": "多くの会社が今月8日ごろから夏休みに入るため、新幹線や高速道路、空の便は、大きな荷物を持った家族連れなどで混雑しています。",
+      "ruby": "<ruby>多く<rt>おおく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>今月<rt>こんげつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>ごろから<ruby>夏休み<rt>なつやすみ</rt></ruby>に<ruby>入る<rt>はいる</rt></ruby>ため、<ruby>新幹線<rt>しんかんせん</rt></ruby>や<ruby>高速道路<rt>こうそくどうろ</rt></ruby>、<span class=\"vw\" data-ja=\"空の便\" data-reading=\"そらのびん\" data-en=\"flights; air services\"><ruby>空<rt>そら</rt></ruby>の<ruby>便<rt>びん</rt></ruby></span>は、<ruby>大き<rt>おおき</rt></ruby>な<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>た<span class=\"vw\" data-ja=\"家族連れ\" data-reading=\"かぞくづれ\" data-en=\"families (traveling together)\"><ruby>家族連れ<rt>かぞくづれ</rt></ruby></span>などで<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR各社によりますと、ふるさとに向かう下りの新幹線は、8日が混雑のピークで、指定席は午前を中心にほぼ満席となっています。",
+      "ruby": "JR<ruby>各社<rt>かくしゃ</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとに</span><ruby>向か<rt>むか</rt></ruby>う<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>の<ruby>新幹線<rt>しんかんせん</rt></ruby>は、<ruby>8日<rt>ようか</rt></ruby>が<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>で、<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>は<ruby>午前<rt>ごぜん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>にほぼ<span class=\"vw\" data-ja=\"満席\" data-reading=\"まんせき\" data-en=\"fully booked; no seats left\"><ruby>満席<rt>まんせき</rt></ruby></span>となっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線の「のぞみ」は、混雑を避けるため、今月7日から16日まで、すべての座席が指定席になっています。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>の「のぞみ」は、<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>を<ruby>避け<rt>さけ</rt></ruby>るため、<ruby>今月<rt>こんげつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>から16<ruby>日<rt>にち</rt></ruby>まで、すべての<ruby>座席<rt>ざせき</rt></ruby>が<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この期間は自由席がないため、JR東海は、早めに座席を予約するよう呼びかけています。",
+      "ruby": "この<ruby>期間<rt>きかん</rt></ruby>は<span class=\"vw\" data-ja=\"自由席\" data-reading=\"じゆうせき\" data-en=\"non-reserved seat\"><ruby>自由席<rt>じゆうせき</rt></ruby></span>がないため、JR<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>座席<rt>ざせき</rt></ruby>を<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation\"><ruby>予約<rt>よやく</rt></ruby></span>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "高速道路の下りも、8日と9日が混雑のピークで、各地で長い渋滞が予想されています。",
+      "ruby": "<ruby>高速道路<rt>こうそくどうろ</rt></ruby>の<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>も、<ruby>8日<rt>ようか</rt></ruby>と<ruby>9日<rt>ここのか</rt></ruby>が<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>で、<ruby>各地<rt>かくち</rt></ruby>で<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>が<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "場所によっては、最大でおよそ45キロの渋滞が予想されているところもあります。",
+      "ruby": "<ruby>場所<rt>ばしょ</rt></ruby>によっては、<ruby>最大<rt>さいだい</rt></ruby>でおよそ45キロの<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>が<ruby>予想<rt>よそう</rt></ruby>されているところもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "空の便も、国内線の下りは、8日と9日を中心にほぼ満席となっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"空の便\" data-reading=\"そらのびん\" data-en=\"flights; air services\"><ruby>空<rt>そら</rt></ruby>の<ruby>便<rt>びん</rt></ruby></span>も、<ruby>国内線<rt>こくないせん</rt></ruby>の<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>は、<ruby>8日<rt>ようか</rt></ruby>と<ruby>9日<rt>ここのか</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>にほぼ<span class=\"vw\" data-ja=\"満席\" data-reading=\"まんせき\" data-en=\"fully booked; no seats left\"><ruby>満席<rt>まんせき</rt></ruby></span>となっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、ふるさとから都市に戻るUターンラッシュのピークは、今月15日と16日になる見込みです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとから</span><ruby>都市<rt>とし</rt></ruby>に<ruby>戻る<rt>もどる</rt></ruby>Uターンラッシュの<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>は、<ruby>今月<rt>こんげつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>と16<ruby>日<rt>にち</rt></ruby>になる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "各地で厳しい暑さが続いているため、渋滞の中での熱中症や、車のトラブルにも注意が必要です。",
+      "ruby": "<ruby>各地<rt>かくち</rt></ruby>で<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"severe; harsh\"><ruby>厳しい<rt>いかめしい</rt></ruby></span><ruby>暑さ<rt>あつさ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>での<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>や、<ruby>車<rt>くるま</rt></ruby>のトラブルにも<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "高速道路の会社は、出発する前に渋滞の情報を確認し、時間に余裕を持って行動してほしいと呼びかけています。",
+      "ruby": "<ruby>高速道路<rt>こうそくどうろ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"渋滞\" data-reading=\"じゅうたい\" data-en=\"traffic jam\"><ruby>渋滞<rt>じゅうたい</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>確認し<rt>かくにんし</rt></ruby>、<ruby>時間<rt>じかん</rt></ruby>に<span class=\"vw\" data-ja=\"余裕\" data-reading=\"よゆう\" data-en=\"leeway; room to spare\"><ruby>余裕<rt>よゆう</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行動<rt>こうどう</rt></ruby>してほしいと<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "久しぶりにふるさとで家族と過ごす、日本の夏の大切な時間が始まります。",
+      "ruby": "<ruby>久し<rt>ひさし</rt></ruby>ぶりにふるさとで<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過ご<rt>すご</rt></ruby>す、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ふるさとに向かう下りの新幹線の混雑のピークは、何日ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"ふるさと\" data-reading=\"ふるさと\" data-en=\"hometown\">ふるさとに</span><ruby>向か<rt>むか</rt></ruby>う<span class=\"vw\" data-ja=\"下り\" data-reading=\"くだり\" data-en=\"outbound (away from the big cities)\"><ruby>下り<rt>くだり</rt></ruby></span>の<ruby>新幹線<rt>しんかんせん</rt></ruby>の<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>は、<ruby>何日<rt>なんにち</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The eighth — today, with reserved seats nearly full in the morning."
+    },
+    {
+      "speaker": "slow",
+      "text": "東海道新幹線の「のぞみ」は、いつからいつまで、すべての座席が指定席になっていますか。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>の「のぞみ」は、いつからいつまで、すべての<ruby>座席<rt>ざせき</rt></ruby>が<span class=\"vw\" data-ja=\"指定席\" data-reading=\"していせき\" data-en=\"reserved seat\"><ruby>指定席<rt>していせき</rt></ruby></span>になっていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the seventh through the sixteenth of this month."
+    },
+    {
+      "speaker": "slow",
+      "text": "Uターンラッシュのピークは、いつになる見込みですか。",
+      "ruby": "Uターンラッシュの<span class=\"vw\" data-ja=\"ピーク\" data-reading=\"ピーク\" data-en=\"peak\">ピーク</span>は、いつになる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The fifteenth and sixteenth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're traveling this weekend, stay cool, be patient in the crowds, and safe travels home. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "お盆",
+      "reading": "おぼん",
+      "en": "Obon (mid-August holiday to honor ancestors)",
+      "zh": "盂兰盆节"
+    },
+    {
+      "ja": "帰省",
+      "reading": "きせい",
+      "en": "returning to one's hometown",
+      "zh": "回乡；返乡"
+    },
+    {
+      "ja": "ラッシュ",
+      "reading": "ラッシュ",
+      "en": "rush",
+      "zh": "高峰"
+    },
+    {
+      "ja": "ふるさと",
+      "reading": "ふるさと",
+      "en": "hometown",
+      "zh": "故乡"
+    },
+    {
+      "ja": "行楽地",
+      "reading": "こうらくち",
+      "en": "resort; leisure spot",
+      "zh": "游玩胜地"
+    },
+    {
+      "ja": "本格化",
+      "reading": "ほんかくか",
+      "en": "getting into full swing",
+      "zh": "全面展开"
+    },
+    {
+      "ja": "先祖",
+      "reading": "せんぞ",
+      "en": "ancestor",
+      "zh": "祖先"
+    },
+    {
+      "ja": "伝統的",
+      "reading": "でんとうてき",
+      "en": "traditional",
+      "zh": "传统的"
+    },
+    {
+      "ja": "行事",
+      "reading": "ぎょうじ",
+      "en": "event; observance",
+      "zh": "例行活动"
+    },
+    {
+      "ja": "お墓参り",
+      "reading": "おはかまいり",
+      "en": "visiting the family grave",
+      "zh": "扫墓"
+    },
+    {
+      "ja": "空の便",
+      "reading": "そらのびん",
+      "en": "flights; air services",
+      "zh": "航班"
+    },
+    {
+      "ja": "混雑",
+      "reading": "こんざつ",
+      "en": "congestion; crowding",
+      "zh": "拥挤"
+    },
+    {
+      "ja": "家族連れ",
+      "reading": "かぞくづれ",
+      "en": "families (traveling together)",
+      "zh": "携家带口的人"
+    },
+    {
+      "ja": "下り",
+      "reading": "くだり",
+      "en": "outbound (away from the big cities)",
+      "zh": "下行（出城方向）"
+    },
+    {
+      "ja": "ピーク",
+      "reading": "ピーク",
+      "en": "peak",
+      "zh": "高峰；顶峰"
+    },
+    {
+      "ja": "指定席",
+      "reading": "していせき",
+      "en": "reserved seat",
+      "zh": "对号入座的座位"
+    },
+    {
+      "ja": "満席",
+      "reading": "まんせき",
+      "en": "fully booked; no seats left",
+      "zh": "满座"
+    },
+    {
+      "ja": "自由席",
+      "reading": "じゆうせき",
+      "en": "non-reserved seat",
+      "zh": "自由座位"
+    },
+    {
+      "ja": "予約",
+      "reading": "よやく",
+      "en": "reservation",
+      "zh": "预订"
+    },
+    {
+      "ja": "渋滞",
+      "reading": "じゅうたい",
+      "en": "traffic jam",
+      "zh": "堵车"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "outlook; expectation",
+      "zh": "预计"
+    },
+    {
+      "ja": "厳しい",
+      "reading": "きびしい",
+      "en": "severe; harsh",
+      "zh": "严酷的"
+    },
+    {
+      "ja": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "en": "heatstroke",
+      "zh": "中暑"
+    },
+    {
+      "ja": "余裕",
+      "reading": "よゆう",
+      "en": "leeway; room to spare",
+      "zh": "富余；从容"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to (polite news style)",
+      "meaningZh": "据…（新闻中的礼貌说法）",
+      "formation": "noun + によりますと",
+      "example": "JR各社によりますと、下りの新幹線は、8日が混雑のピークです。",
+      "translation": "According to the JR companies, outbound bullet trains hit their congestion peak on the eighth.",
+      "note": "the polite spoken-news form of 〜によると; introduces the source of information",
+      "noteZh": "〜によると的郑重形式，新闻播报中用来交代消息来源",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because; due to",
+      "meaningZh": "因为…；由于…",
+      "formation": "verb/adjective plain form + ため / noun + の + ため",
+      "example": "多くの会社が夏休みに入るため、新幹線や高速道路は混雑しています。",
+      "translation": "Because many companies are starting their summer vacation, bullet trains and highways are crowded.",
+      "note": "formal reason-giving; very common in news; more written-style than から",
+      "noteZh": "书面语气的原因表达，新闻中常见，比から正式",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜を中心に",
+      "meaning": "mainly; centered on",
+      "meaningZh": "以…为中心；主要集中在…",
+      "formation": "noun + を中心に",
+      "example": "指定席は午前を中心にほぼ満席となっています。",
+      "translation": "Reserved seats are nearly full, mainly in the morning.",
+      "note": "marks the core or focus of a situation; common in news for times, places, and groups",
+      "noteZh": "表示事物集中的核心，新闻中常用于时间、地点、人群",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#を中心に"
+    },
+    {
+      "pattern": "〜よう呼びかける",
+      "meaning": "to call on people to do something",
+      "meaningZh": "呼吁（人们）做…",
+      "formation": "verb dictionary form / ない form + よう(に)呼びかける",
+      "example": "JR東海は、早めに座席を予約するよう呼びかけています。",
+      "translation": "JR Central is calling on passengers to reserve seats early.",
+      "note": "standard news phrase for public appeals by companies, police, or government",
+      "noteZh": "新闻中表示企业、警方或政府向公众发出呼吁的固定说法",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#よう求める"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want someone to do something",
+      "meaningZh": "希望（别人）做…",
+      "formation": "verb て form + ほしい",
+      "example": "時間に余裕を持って行動してほしいと呼びかけています。",
+      "translation": "They are asking people to act with plenty of time to spare.",
+      "note": "expresses a request or wish directed at others; in news, often inside quoted appeals",
+      "noteZh": "表示希望他人做某事，新闻中常出现在转述的呼吁里",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てほしい"
+    }
+  ],
+  "practiceZh": [
+    "お盆をふるさとや行楽地で過ごす人たちの帰省ラッシュが、この週末から本格化しています。\n回故乡或去度假地过盂兰盆节的人们的返乡高峰，从这个周末开始全面展开。\n行楽地 = 游玩胜地；本格化 = 全面展开",
+    "「帰省」とは、生まれ育ったふるさとに帰ることです。\n“帰省”指的是回到自己出生长大的故乡。\n生まれ育つ = 出生并长大",
+    "お盆は、亡くなった家族やご先祖を迎える日本の伝統的な行事で、多くの人がふるさとに帰って、お墓参りをします。\n盂兰盆节是迎接去世的家人和祖先的日本传统节日，很多人回到故乡扫墓。\n先祖 = 祖先；行事 = 例行活动；お墓参り = 扫墓",
+    "多くの会社が今月8日ごろから夏休みに入るため、新幹線や高速道路、空の便は、大きな荷物を持った家族連れなどで混雑しています。\n因为很多公司从本月8日左右开始放暑假，新干线、高速公路和航班都挤满了带着大件行李的家庭旅客。\n空の便 = 航班；家族連れ = 携家带口的人；混雑 = 拥挤",
+    "JR各社によりますと、ふるさとに向かう下りの新幹線は、8日が混雑のピークで、指定席は午前を中心にほぼ満席となっています。\n据JR各公司介绍，开往故乡方向的下行新干线8日迎来拥挤高峰，对号座位以上午为主几乎全部售罄。\n下り = 下行；指定席 = 对号座位；満席 = 满座",
+    "東海道新幹線の「のぞみ」は、混雑を避けるため、今月7日から16日まで、すべての座席が指定席になっています。\n东海道新干线“希望号”为避免拥挤，本月7日至16日全部座位改为对号入座。\n避ける = 避免；座席 = 座位",
+    "この期間は自由席がないため、JR東海は、早めに座席を予約するよう呼びかけています。\n由于这段时间没有自由座位，JR东海呼吁乘客尽早预订座位。\n自由席 = 自由座位；予約 = 预订",
+    "高速道路の下りも、8日と9日が混雑のピークで、各地で長い渋滞が予想されています。\n高速公路下行方向也在8日和9日迎来拥堵高峰，预计各地会出现长距离堵车。\n渋滞 = 堵车；予想 = 预测",
+    "場所によっては、最大でおよそ45キロの渋滞が予想されているところもあります。\n有的地方预计最长会出现约45公里的拥堵。\n場所によっては = 有的地方；最大で = 最长达",
+    "空の便も、国内線の下りは、8日と9日を中心にほぼ満席となっています。\n航班方面，国内线下行方向也以8日和9日为主几乎全部满座。\n国内線 = 国内航线",
+    "一方、ふるさとから都市に戻るUターンラッシュのピークは、今月15日と16日になる見込みです。\n另一方面，从故乡返回城市的返程高峰预计将出现在本月15日和16日。\n一方 = 另一方面；見込み = 预计",
+    "各地で厳しい暑さが続いているため、渋滞の中での熱中症や、車のトラブルにも注意が必要です。\n由于各地持续酷暑，还需注意堵车时的中暑和车辆故障。\n厳しい = 严酷；熱中症 = 中暑",
+    "高速道路の会社は、出発する前に渋滞の情報を確認し、時間に余裕を持って行動してほしいと呼びかけています。\n高速公路公司呼吁大家出发前确认路况信息，留出充足时间行动。\n確認 = 确认；余裕 = 富余",
+    "久しぶりにふるさとで家族と過ごす、日本の夏の大切な時間が始まります。\n久违地在故乡与家人共度的、日本夏天的重要时光开始了。\n久しぶりに = 久违地；過ごす = 度过"
+  ]
+}
