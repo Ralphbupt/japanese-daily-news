@@ -1,0 +1,429 @@
+{
+  "episode": 110,
+  "title": "横浜の動物園で国内初のオオアリクイの双子が誕生",
+  "date": "2026-08-10",
+  "source": "朝日新聞 / 共同通信 / よこはま動物園ズーラシア公式ブログ",
+  "level": "N5-N4",
+  "contentVersion": "2026081001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August tenth. At the Zoorasia zoo in Yokohama, twin baby giant anteaters were born this spring — the first anteater twins ever in Japan. Now there is happy news about them. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "横浜市の動物園「ズーラシア」で、オオアリクイの双子の赤ちゃんが生まれました。オオアリクイの双子は、日本で初めてです。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>「ズーラシア」で、オオアリクイの<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。オオアリクイの<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "オオアリクイは、南アメリカの動物です。口が長くて、しっぽが大きいです。長い舌で、アリを食べます。",
+      "ruby": "オオアリクイは、<ruby>南<rt>みなみ</rt></ruby>アメリカの<ruby>動物<rt>どうぶつ</rt></ruby>です。<ruby>口<rt>くち</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>て、<span class=\"vw\" data-ja=\"しっぽ\" data-reading=\"しっぽ\" data-en=\"tail\">しっぽが</span><ruby>大きい<rt>おおきい</rt></ruby>です。<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"舌\" data-reading=\"した\" data-en=\"tongue\"><ruby>舌<rt>した</rt></ruby></span>で、アリを<ruby>食べ<rt>たべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、5月2日の夜に生まれました。この動物園でオオアリクイの赤ちゃんが生まれたのは、23年ぶりです。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、5<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>でオオアリクイの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たのは、23<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "生まれたとき、赤ちゃんは小さくて、体が弱かったです。大きさは、普通の赤ちゃんの半分ぐらいでした。",
+      "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>たとき、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<ruby>小さく<rt>ちいさく</rt></ruby>て、<ruby>体<rt>からだ</rt></ruby>が<ruby>弱か<rt>よわか</rt></ruby>ったです。<ruby>大きさ<rt>おおきさ</rt></ruby>は、<ruby>普通<rt>ふつう</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<span class=\"vw\" data-ja=\"半分\" data-reading=\"はんぶん\" data-en=\"half\"><ruby>半分<rt>はんぶん</rt></ruby></span>ぐらいでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんは、初めての子育てで、赤ちゃんを育てることが難しかったです。ですから、動物園の人がミルクをあげて、赤ちゃんを育てました。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"子育て\" data-reading=\"こそだて\" data-en=\"raising children; parenting\"><ruby>子育て<rt>こそだて</rt></ruby></span>で、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>ることが</span><ruby>難しか<rt>むずかしか</rt></ruby>ったです。ですから、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>がミルクをあげて、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹は、少しずつ元気になりました。今、体の重さは、生まれたときの2倍以上です。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>元気<rt>げんき</rt></ruby>になりました。<ruby>今<rt>いま</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"重さ\" data-reading=\"おもさ\" data-en=\"weight\"><ruby>重さ<rt>おもさ</rt></ruby></span>は、<ruby>生まれ<rt>うまれ</rt></ruby>たときの2<ruby>倍以上<rt>ばいいじょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹の性格は違います。1匹は、静かでよく寝ます。もう1匹は、元気でよく動きます。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"性格\" data-reading=\"せいかく\" data-en=\"personality; character\"><ruby>性格<rt>せいかく</rt></ruby></span>は<ruby>違い<rt>ちがい</rt></ruby>ます。1<ruby>匹<rt>ひき</rt></ruby>は、<ruby>静か<rt>しずか</rt></ruby>でよく<ruby>寝ま<rt>ねま</rt></ruby>す。もう1<ruby>匹<rt>ひき</rt></ruby>は、<ruby>元気<rt>げんき</rt></ruby>でよく<ruby>動き<rt>うごき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、8月6日に、「赤ちゃんを特別に公開します」と発表しました。赤ちゃんの名前を決める投票もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>に、「<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>特別<rt>とくべつ</rt></ruby>に<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>します」と<ruby>発表<rt>はっぴょう</rt></ruby>しました。<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園の人は、「元気に育ってくれて、うれしいです。ぜひ、会いに来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は、「<ruby>元気<rt>げんき</rt></ruby>に<ruby>育っ<rt>そだっ</rt></ruby>てくれて、うれしいです。ぜひ、<ruby>会い<rt>あい</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "横浜市の動物園「ズーラシア」で、オオアリクイの双子の赤ちゃんが生まれました。オオアリクイの双子は、日本で初めてです。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>「ズーラシア」で、オオアリクイの<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。オオアリクイの<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a zoo in the city of Yokohama, twin baby giant anteaters were born. They are the first giant anteater twins ever born in Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "双子",
+      "ruby": "<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means twins — two babies born at the same time."
+    },
+    {
+      "speaker": "slow",
+      "text": "オオアリクイは、南アメリカの動物です。口が長くて、しっぽが大きいです。長い舌で、アリを食べます。",
+      "ruby": "オオアリクイは、<ruby>南<rt>みなみ</rt></ruby>アメリカの<ruby>動物<rt>どうぶつ</rt></ruby>です。<ruby>口<rt>くち</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>て、<span class=\"vw\" data-ja=\"しっぽ\" data-reading=\"しっぽ\" data-en=\"tail\">しっぽが</span><ruby>大きい<rt>おおきい</rt></ruby>です。<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"舌\" data-reading=\"した\" data-en=\"tongue\"><ruby>舌<rt>した</rt></ruby></span>で、アリを<ruby>食べ<rt>たべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The giant anteater is an animal from South America. It has a long snout and a big tail, and it eats ants with its long tongue."
+    },
+    {
+      "speaker": "vocab",
+      "text": "しっぽ",
+      "ruby": "<span class=\"vw\" data-ja=\"しっぽ\" data-reading=\"しっぽ\" data-en=\"tail\">しっぽ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tail — the tail of an animal."
+    },
+    {
+      "speaker": "slow",
+      "text": "お母さんは、初めての子育てで、赤ちゃんを育てることが難しかったです。ですから、動物園の人がミルクをあげて、赤ちゃんを育てました。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"子育て\" data-reading=\"こそだて\" data-en=\"raising children; parenting\"><ruby>子育て<rt>こそだて</rt></ruby></span>で、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>ることが</span><ruby>難しか<rt>むずかしか</rt></ruby>ったです。ですから、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>がミルクをあげて、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was the mother's first time caring for babies, and raising them was difficult for her. So the zoo staff gave the babies milk and raised them by hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育てる",
+      "ruby": "<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to raise or to bring up — for example, raising a child or an animal."
+    },
+    {
+      "speaker": "slow",
+      "text": "2匹の性格は違います。1匹は、静かでよく寝ます。もう1匹は、元気でよく動きます。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"性格\" data-reading=\"せいかく\" data-en=\"personality; character\"><ruby>性格<rt>せいかく</rt></ruby></span>は<ruby>違い<rt>ちがい</rt></ruby>ます。1<ruby>匹<rt>ひき</rt></ruby>は、<ruby>静か<rt>しずか</rt></ruby>でよく<ruby>寝ま<rt>ねま</rt></ruby>す。もう1<ruby>匹<rt>ひき</rt></ruby>は、<ruby>元気<rt>げんき</rt></ruby>でよく<ruby>動き<rt>うごき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The two babies have different personalities. One is quiet and sleeps a lot. The other one is lively and moves around a lot."
+    },
+    {
+      "speaker": "vocab",
+      "text": "性格",
+      "ruby": "<span class=\"vw\" data-ja=\"性格\" data-reading=\"せいかく\" data-en=\"personality; character\"><ruby>性格<rt>せいかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means personality or character."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物園は、8月6日に、「赤ちゃんを特別に公開します」と発表しました。赤ちゃんの名前を決める投票もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>に、「<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>特別<rt>とくべつ</rt></ruby>に<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>します」と<ruby>発表<rt>はっぴょう</rt></ruby>しました。<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On August sixth, the zoo announced that it will show the babies to visitors in a special viewing. There will also be a vote to choose the babies' names."
+    },
+    {
+      "speaker": "vocab",
+      "text": "公開",
+      "ruby": "<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means opening something to the public — here, showing the baby animals to visitors."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "横浜市の動物園「ズーラシア」で、オオアリクイの双子の赤ちゃんが生まれました。オオアリクイの双子は、日本で初めてです。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>「ズーラシア」で、オオアリクイの<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。オオアリクイの<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "オオアリクイは、南アメリカの動物です。口が長くて、しっぽが大きいです。長い舌で、アリを食べます。",
+      "ruby": "オオアリクイは、<ruby>南<rt>みなみ</rt></ruby>アメリカの<ruby>動物<rt>どうぶつ</rt></ruby>です。<ruby>口<rt>くち</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>て、<span class=\"vw\" data-ja=\"しっぽ\" data-reading=\"しっぽ\" data-en=\"tail\">しっぽが</span><ruby>大きい<rt>おおきい</rt></ruby>です。<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"舌\" data-reading=\"した\" data-en=\"tongue\"><ruby>舌<rt>した</rt></ruby></span>で、アリを<ruby>食べ<rt>たべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、5月2日の夜に生まれました。この動物園でオオアリクイの赤ちゃんが生まれたのは、23年ぶりです。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、5<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>でオオアリクイの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たのは、23<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "生まれたとき、赤ちゃんは小さくて、体が弱かったです。大きさは、普通の赤ちゃんの半分ぐらいでした。",
+      "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>たとき、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<ruby>小さく<rt>ちいさく</rt></ruby>て、<ruby>体<rt>からだ</rt></ruby>が<ruby>弱か<rt>よわか</rt></ruby>ったです。<ruby>大きさ<rt>おおきさ</rt></ruby>は、<ruby>普通<rt>ふつう</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<span class=\"vw\" data-ja=\"半分\" data-reading=\"はんぶん\" data-en=\"half\"><ruby>半分<rt>はんぶん</rt></ruby></span>ぐらいでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんは、初めての子育てで、赤ちゃんを育てることが難しかったです。ですから、動物園の人がミルクをあげて、赤ちゃんを育てました。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"子育て\" data-reading=\"こそだて\" data-en=\"raising children; parenting\"><ruby>子育て<rt>こそだて</rt></ruby></span>で、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>ることが</span><ruby>難しか<rt>むずかしか</rt></ruby>ったです。ですから、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>がミルクをあげて、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹は、少しずつ元気になりました。今、体の重さは、生まれたときの2倍以上です。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>元気<rt>げんき</rt></ruby>になりました。<ruby>今<rt>いま</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"重さ\" data-reading=\"おもさ\" data-en=\"weight\"><ruby>重さ<rt>おもさ</rt></ruby></span>は、<ruby>生まれ<rt>うまれ</rt></ruby>たときの2<ruby>倍以上<rt>ばいいじょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹の性格は違います。1匹は、静かでよく寝ます。もう1匹は、元気でよく動きます。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"性格\" data-reading=\"せいかく\" data-en=\"personality; character\"><ruby>性格<rt>せいかく</rt></ruby></span>は<ruby>違い<rt>ちがい</rt></ruby>ます。1<ruby>匹<rt>ひき</rt></ruby>は、<ruby>静か<rt>しずか</rt></ruby>でよく<ruby>寝ま<rt>ねま</rt></ruby>す。もう1<ruby>匹<rt>ひき</rt></ruby>は、<ruby>元気<rt>げんき</rt></ruby>でよく<ruby>動き<rt>うごき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、8月6日に、「赤ちゃんを特別に公開します」と発表しました。赤ちゃんの名前を決める投票もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>に、「<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>特別<rt>とくべつ</rt></ruby>に<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>します」と<ruby>発表<rt>はっぴょう</rt></ruby>しました。<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園の人は、「元気に育ってくれて、うれしいです。ぜひ、会いに来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は、「<ruby>元気<rt>げんき</rt></ruby>に<ruby>育っ<rt>そだっ</rt></ruby>てくれて、うれしいです。ぜひ、<ruby>会い<rt>あい</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズーラシアで生まれた赤ちゃんは、何の動物ですか。",
+      "ruby": "ズーラシアで<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby><ruby>動物<rt>どうぶつ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Giant anteaters — twin babies, the first anteater twins ever born in Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物園の人は、どうやって赤ちゃんを育てましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は、どうやって<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "They gave the babies milk and raised them by hand, because it was the mother's first time and caring for the tiny twins was difficult."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Two tiny twins, born at half the usual size, are now more than double their birth weight and will soon meet their fans at the zoo. If you visit Yokohama this summer, maybe you can see them too. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "双子",
+      "reading": "ふたご",
+      "en": "twins",
+      "zh": "双胞胎"
+    },
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "しっぽ",
+      "reading": "しっぽ",
+      "en": "tail",
+      "zh": "尾巴"
+    },
+    {
+      "ja": "舌",
+      "reading": "した",
+      "en": "tongue",
+      "zh": "舌头"
+    },
+    {
+      "ja": "弱い",
+      "reading": "よわい",
+      "en": "weak",
+      "zh": "虚弱；弱"
+    },
+    {
+      "ja": "半分",
+      "reading": "はんぶん",
+      "en": "half",
+      "zh": "一半"
+    },
+    {
+      "ja": "子育て",
+      "reading": "こそだて",
+      "en": "raising children; parenting",
+      "zh": "育儿"
+    },
+    {
+      "ja": "育てる",
+      "reading": "そだてる",
+      "en": "to raise; to bring up",
+      "zh": "养育；培育"
+    },
+    {
+      "ja": "重さ",
+      "reading": "おもさ",
+      "en": "weight",
+      "zh": "重量"
+    },
+    {
+      "ja": "性格",
+      "reading": "せいかく",
+      "en": "personality; character",
+      "zh": "性格"
+    },
+    {
+      "ja": "公開",
+      "reading": "こうかい",
+      "en": "opening to the public",
+      "zh": "公开；开放参观"
+    },
+    {
+      "ja": "投票",
+      "reading": "とうひょう",
+      "en": "vote; voting",
+      "zh": "投票"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表；宣布"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぐらい",
+      "meaning": "about ~; approximately ~",
+      "meaningZh": "大约…；…左右",
+      "formation": "noun/amount + ぐらい",
+      "example": "大きさは、普通の赤ちゃんの半分ぐらいでした。",
+      "translation": "Their size was about half that of a normal baby.",
+      "note": "ぐらい（くらい）shows an approximate amount or degree",
+      "noteZh": "ぐらい（くらい）表示大概的数量或程度",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#くらい"
+    },
+    {
+      "pattern": "〜とき",
+      "meaning": "when ~",
+      "meaningZh": "…的时候",
+      "formation": "verb た-form + とき",
+      "example": "生まれたとき、赤ちゃんは小さくて、体が弱かったです。",
+      "translation": "When they were born, the babies were small and weak.",
+      "note": "とき turns a clause into a time expression meaning 'when ~'",
+      "noteZh": "とき接在句子后表示「…的时候」",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#とき"
+    },
+    {
+      "pattern": "〜てくれる",
+      "meaning": "someone does ~ (for me/us, thankfully)",
+      "meaningZh": "（别人）为我…；带着感谢的语气",
+      "formation": "verb て-form + くれる",
+      "example": "元気に育ってくれて、うれしいです。",
+      "translation": "We are happy that they have grown up healthy (for us).",
+      "note": "てくれる adds a feeling of gratitude — the action benefits the speaker",
+      "noteZh": "てくれる表示别人的行为让说话人受益，带有感谢的心情",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくれる"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请…",
+      "formation": "verb て-form + ください",
+      "example": "ぜひ、会いに来てください。",
+      "translation": "Please come and see them.",
+      "note": "てください is a polite request; ぜひ adds 'by all means'",
+      "noteZh": "てください表示礼貌的请求；ぜひ表示「务必、一定」",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#てください"
+    },
+    {
+      "pattern": "〜と発表する",
+      "meaning": "announce that ~",
+      "meaningZh": "宣布…",
+      "formation": "quote + と + 発表する／話す",
+      "example": "動物園は、「赤ちゃんを特別に公開します」と発表しました。",
+      "translation": "The zoo announced, 'We will show the babies in a special viewing.'",
+      "note": "と marks a quotation before verbs like 発表する and 話す",
+      "noteZh": "と用于引用内容，后接発表する、話す等动词",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    }
+  ],
+  "practiceZh": [
+    "横浜市の動物園「ズーラシア」で、オオアリクイの双子の赤ちゃんが生まれました。オオアリクイの双子は、日本で初めてです。\n在横滨市的动物园「ZOORASIA」，大食蚁兽双胞胎宝宝出生了。大食蚁兽双胞胎在日本还是第一次。\n双子 = twins；初めて = for the first time",
+    "オオアリクイは、南アメリカの動物です。口が長くて、しっぽが大きいです。長い舌で、アリを食べます。\n大食蚁兽是南美洲的动物。嘴巴很长，尾巴很大。用长长的舌头吃蚂蚁。\nしっぽ = tail；舌 = tongue；アリ = ant",
+    "赤ちゃんは、5月2日の夜に生まれました。この動物園でオオアリクイの赤ちゃんが生まれたのは、23年ぶりです。\n宝宝在5月2日晚上出生。这家动物园时隔23年再次迎来大食蚁兽宝宝。\n生まれる = to be born；〜ぶり = after an interval of ~",
+    "生まれたとき、赤ちゃんは小さくて、体が弱かったです。大きさは、普通の赤ちゃんの半分ぐらいでした。\n出生的时候，宝宝很小，身体很弱。大小只有普通宝宝的一半左右。\n弱い = weak；半分 = half；〜ぐらい = about ~",
+    "お母さんは、初めての子育てで、赤ちゃんを育てることが難しかったです。ですから、動物園の人がミルクをあげて、赤ちゃんを育てました。\n妈妈是第一次育儿，养育宝宝很困难。因此，动物园的工作人员喂奶，把宝宝养大。\n子育て = parenting；育てる = to raise",
+    "2匹は、少しずつ元気になりました。今、体の重さは、生まれたときの2倍以上です。\n两只宝宝一点一点地恢复了健康。现在体重是出生时的2倍以上。\n少しずつ = little by little；重さ = weight",
+    "2匹の性格は違います。1匹は、静かでよく寝ます。もう1匹は、元気でよく動きます。\n两只宝宝的性格不同。一只很安静，经常睡觉。另一只很活泼，经常活动。\n性格 = personality；違う = to be different",
+    "動物園は、8月6日に、「赤ちゃんを特別に公開します」と発表しました。赤ちゃんの名前を決める投票もあります。\n动物园在8月6日宣布：「将特别公开宝宝。」还有决定宝宝名字的投票。\n公開 = opening to the public；投票 = vote",
+    "動物園の人は、「元気に育ってくれて、うれしいです。ぜひ、会いに来てください」と話しています。\n动物园的工作人员说：「它们健康地长大，我们很高兴。请一定来看看它们。」\n育つ = to grow up；ぜひ = by all means"
+  ]
+}
