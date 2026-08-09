@@ -1,0 +1,596 @@
+{
+  "episode": 109,
+  "title": "食料自給率が37%に低下、過去最低に",
+  "date": "2026-08-09",
+  "source": "NHK / 農林水産省 / 時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026080901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August ninth. Japan now grows less of its own food than ever before — the country's food self-sufficiency rate has fallen to a record low. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産省は、昨年度の日本の食料自給率が、カロリーベースで37%だったと発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昨年度\" data-reading=\"さくねんど\" data-en=\"last fiscal year\"><ruby>昨年度<rt>さくねんど</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>が、カロリーベースで37%だったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "前の年度より1ポイント低くなり、過去最低を更新しました。",
+      "ruby": "<ruby>前<rt>まえ</rt></ruby>の<ruby>年度<rt>ねんど</rt></ruby>より1ポイント<ruby>低く<rt>ひくく</rt></ruby>なり、<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"renewing (a record)\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "食料自給率とは、国内で消費される食料のうち、どのくらいが国内で生産されているかを示す割合です。",
+      "ruby": "<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>とは、<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>で<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>される<ruby>食料<rt>しょくりょう</rt></ruby>のうち、どのくらいが<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>で<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>されているかを<span class=\"vw\" data-ja=\"示す\" data-reading=\"しめす\" data-en=\"to show; to indicate\"><ruby>示す<rt>しめす</rt></ruby></span><span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "つまり、日本人が食べている食料の6割以上は、外国からの輸入に頼っていることになります。",
+      "ruby": "つまり、<ruby>日本人<rt>にほんじん</rt></ruby>が<ruby>食べて<rt>たべて</rt></ruby>いる<ruby>食料<rt>しょくりょう</rt></ruby>の6<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>に<ruby>頼っ<rt>たよっ</rt></ruby>ていることになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "自給率が下がった一番大きな理由は、コメの消費が減ったことです。",
+      "ruby": "<ruby>自給率<rt>じきゅうりつ</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>った<ruby>一番<rt>いちばん</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、コメの<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメの価格が高くなったため、コメを買う量を減らした人が多かったとみられています。",
+      "ruby": "コメの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なったため、コメを<ruby>買う<rt>かう</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人が1年間に食べるコメの量は、前の年度の53.3キロから52キロに減りました。",
+      "ruby": "<ruby>一人<rt>ひとり</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>るコメの<ruby>量<rt>りょう</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>年度<rt>ねんど</rt></ruby>の53.3キロから52キロに<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、外国から輸入されるコメが増えたことも、自給率を押し下げました。",
+      "ruby": "また、<ruby>外国<rt>がいこく</rt></ruby>から<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>されるコメが<ruby>増え<rt>ふえ</rt></ruby>たことも、<ruby>自給率<rt>じきゅうりつ</rt></ruby>を<ruby>押し<rt>おし</rt></ruby><ruby>下げ<rt>さげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメは、日本でほぼ100%生産できる、自給率を支える大切な食料です。",
+      "ruby": "コメは、<ruby>日本<rt>にっぽん</rt></ruby>でほぼ100%<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>できる、<ruby>自給率<rt>じきゅうりつ</rt></ruby>を<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support\"><ruby>支え<rt>ささえ</rt></ruby>る</span><ruby>大切<rt>たいせつ</rt></ruby>な<ruby>食料<rt>しょくりょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、パンやめんの原料の小麦、大豆、肉や卵のえさの多くは、外国からの輸入に頼っています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、パンやめんの<span class=\"vw\" data-ja=\"原料\" data-reading=\"げんりょう\" data-en=\"raw material; ingredient\"><ruby>原料<rt>げんりょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"小麦\" data-reading=\"こむぎ\" data-en=\"wheat\"><ruby>小麦<rt>こむぎ</rt></ruby></span>、<span class=\"vw\" data-ja=\"大豆\" data-reading=\"だいず\" data-en=\"soybean\"><ruby>大豆<rt>だいず</rt></ruby></span>、<ruby>肉<rt>にく</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>のえさの<ruby>多く<rt>おおく</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>に<ruby>頼っ<rt>たよっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界では、戦争や異常気象の影響で、食料の輸入が難しくなる心配も高まっています。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>では、<ruby>戦争<rt>せんそう</rt></ruby>や<span class=\"vw\" data-ja=\"異常気象\" data-reading=\"いじょうきしょう\" data-en=\"extreme weather\"><ruby>異常気象<rt>いじょうきしょう</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>食料<rt>しょくりょう</rt></ruby>の<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>が<ruby>難しく<rt>むずかしく</rt></ruby>なる<ruby>心配<rt>しんぱい</rt></ruby>も<ruby>高ま<rt>たかま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、2030年度までに食料自給率を45%に上げる目標を立てていますが、達成は簡単ではありません。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、2030<ruby>年度<rt>ねんど</rt></ruby>までに<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>を45%に<ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目標\" data-reading=\"もくひょう\" data-en=\"goal; target\"><ruby>目標<rt>もくひょう</rt></ruby></span>を<ruby>立て<rt>たて</rt></ruby>ていますが、<span class=\"vw\" data-ja=\"達成\" data-reading=\"たっせい\" data-en=\"achievement; attainment\"><ruby>達成<rt>たっせい</rt></ruby></span>は<ruby>簡単<rt>かんたん</rt></ruby>ではありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産省は、国内の生産を増やすことや、コメの消費を増やすことが大切だとしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>の<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ことや、コメの<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ことが<ruby>大切<rt>たいせつ</rt></ruby>だとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "農林水産省は、昨年度の日本の食料自給率が、カロリーベースで37%だったと発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昨年度\" data-reading=\"さくねんど\" data-en=\"last fiscal year\"><ruby>昨年度<rt>さくねんど</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>が、カロリーベースで37%だったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Agriculture Ministry announced that last fiscal year's food self-sufficiency rate was thirty-seven percent on a calorie basis."
+    },
+    {
+      "speaker": "vocab",
+      "text": "食料自給率",
+      "ruby": "<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the food self-sufficiency rate — how much of its food a country produces itself."
+    },
+    {
+      "speaker": "slow",
+      "text": "前の年度より1ポイント低くなり、過去最低を更新しました。",
+      "ruby": "<ruby>前<rt>まえ</rt></ruby>の<ruby>年度<rt>ねんど</rt></ruby>より1ポイント<ruby>低く<rt>ひくく</rt></ruby>なり、<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"renewing (a record)\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That's down one point from the year before — a new record low."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過去最低",
+      "ruby": "<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the lowest ever."
+    },
+    {
+      "speaker": "slow",
+      "text": "食料自給率とは、国内で消費される食料のうち、どのくらいが国内で生産されているかを示す割合です。",
+      "ruby": "<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>とは、<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>で<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>される<ruby>食料<rt>しょくりょう</rt></ruby>のうち、どのくらいが<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>で<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>されているかを<span class=\"vw\" data-ja=\"示す\" data-reading=\"しめす\" data-en=\"to show; to indicate\"><ruby>示す<rt>しめす</rt></ruby></span><span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rate shows how much of the food consumed in the country is produced domestically."
+    },
+    {
+      "speaker": "vocab",
+      "text": "割合",
+      "ruby": "<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a ratio or percentage."
+    },
+    {
+      "speaker": "slow",
+      "text": "つまり、日本人が食べている食料の6割以上は、外国からの輸入に頼っていることになります。",
+      "ruby": "つまり、<ruby>日本人<rt>にほんじん</rt></ruby>が<ruby>食べて<rt>たべて</rt></ruby>いる<ruby>食料<rt>しょくりょう</rt></ruby>の6<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>に<ruby>頼っ<rt>たよっ</rt></ruby>ていることになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In other words, more than sixty percent of the food eaten in Japan depends on imports."
+    },
+    {
+      "speaker": "vocab",
+      "text": "輸入",
+      "ruby": "<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means imports — bringing goods in from abroad."
+    },
+    {
+      "speaker": "slow",
+      "text": "コメの価格が高くなったため、コメを買う量を減らした人が多かったとみられています。",
+      "ruby": "コメの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なったため、コメを<ruby>買う<rt>かう</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったとみられています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because rice prices went up, many people appear to have cut back on how much rice they buy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "価格",
+      "ruby": "<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "一人が1年間に食べるコメの量は、前の年度の53.3キロから52キロに減りました。",
+      "ruby": "<ruby>一人<rt>ひとり</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>るコメの<ruby>量<rt>りょう</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>年度<rt>ねんど</rt></ruby>の53.3キロから52キロに<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Rice eaten per person fell from fifty-three point three kilograms a year to fifty-two."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、パンやめんの原料の小麦、大豆、肉や卵のえさの多くは、外国からの輸入に頼っています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、パンやめんの<span class=\"vw\" data-ja=\"原料\" data-reading=\"げんりょう\" data-en=\"raw material; ingredient\"><ruby>原料<rt>げんりょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"小麦\" data-reading=\"こむぎ\" data-en=\"wheat\"><ruby>小麦<rt>こむぎ</rt></ruby></span>、<span class=\"vw\" data-ja=\"大豆\" data-reading=\"だいず\" data-en=\"soybean\"><ruby>大豆<rt>だいず</rt></ruby></span>、<ruby>肉<rt>にく</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>のえさの<ruby>多く<rt>おおく</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>に<ruby>頼っ<rt>たよっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, most of the wheat for bread and noodles, the soybeans, and the feed for meat and eggs come from overseas."
+    },
+    {
+      "speaker": "vocab",
+      "text": "頼る",
+      "ruby": "<span class=\"vw\" data-ja=\"頼る\" data-reading=\"たよる\" data-en=\"to rely on\"><ruby>頼る<rt>たよる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to rely on."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、2030年度までに食料自給率を45%に上げる目標を立てていますが、達成は簡単ではありません。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、2030<ruby>年度<rt>ねんど</rt></ruby>までに<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>を45%に<ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目標\" data-reading=\"もくひょう\" data-en=\"goal; target\"><ruby>目標<rt>もくひょう</rt></ruby></span>を<ruby>立て<rt>たて</rt></ruby>ていますが、<span class=\"vw\" data-ja=\"達成\" data-reading=\"たっせい\" data-en=\"achievement; attainment\"><ruby>達成<rt>たっせい</rt></ruby></span>は<ruby>簡単<rt>かんたん</rt></ruby>ではありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government aims to raise the rate to forty-five percent by fiscal twenty-thirty, but reaching that goal won't be easy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "目標",
+      "ruby": "<span class=\"vw\" data-ja=\"目標\" data-reading=\"もくひょう\" data-en=\"goal; target\"><ruby>目標<rt>もくひょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a goal or target."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産省は、昨年度の日本の食料自給率が、カロリーベースで37%だったと発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昨年度\" data-reading=\"さくねんど\" data-en=\"last fiscal year\"><ruby>昨年度<rt>さくねんど</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>が、カロリーベースで37%だったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "前の年度より1ポイント低くなり、過去最低を更新しました。",
+      "ruby": "<ruby>前<rt>まえ</rt></ruby>の<ruby>年度<rt>ねんど</rt></ruby>より1ポイント<ruby>低く<rt>ひくく</rt></ruby>なり、<span class=\"vw\" data-ja=\"過去最低\" data-reading=\"かこさいてい\" data-en=\"record low; lowest ever\"><ruby>過去最低<rt>かこさいてい</rt></ruby></span>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"renewing (a record)\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "食料自給率とは、国内で消費される食料のうち、どのくらいが国内で生産されているかを示す割合です。",
+      "ruby": "<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>とは、<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>で<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>される<ruby>食料<rt>しょくりょう</rt></ruby>のうち、どのくらいが<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>で<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>されているかを<span class=\"vw\" data-ja=\"示す\" data-reading=\"しめす\" data-en=\"to show; to indicate\"><ruby>示す<rt>しめす</rt></ruby></span><span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "つまり、日本人が食べている食料の6割以上は、外国からの輸入に頼っていることになります。",
+      "ruby": "つまり、<ruby>日本人<rt>にほんじん</rt></ruby>が<ruby>食べて<rt>たべて</rt></ruby>いる<ruby>食料<rt>しょくりょう</rt></ruby>の6<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>に<ruby>頼っ<rt>たよっ</rt></ruby>ていることになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "自給率が下がった一番大きな理由は、コメの消費が減ったことです。",
+      "ruby": "<ruby>自給率<rt>じきゅうりつ</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>った<ruby>一番<rt>いちばん</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、コメの<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメの価格が高くなったため、コメを買う量を減らした人が多かったとみられています。",
+      "ruby": "コメの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>高く<rt>たかく</rt></ruby>なったため、コメを<ruby>買う<rt>かう</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人が1年間に食べるコメの量は、前の年度の53.3キロから52キロに減りました。",
+      "ruby": "<ruby>一人<rt>ひとり</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>るコメの<ruby>量<rt>りょう</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>年度<rt>ねんど</rt></ruby>の53.3キロから52キロに<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、外国から輸入されるコメが増えたことも、自給率を押し下げました。",
+      "ruby": "また、<ruby>外国<rt>がいこく</rt></ruby>から<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>されるコメが<ruby>増え<rt>ふえ</rt></ruby>たことも、<ruby>自給率<rt>じきゅうりつ</rt></ruby>を<ruby>押し<rt>おし</rt></ruby><ruby>下げ<rt>さげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメは、日本でほぼ100%生産できる、自給率を支える大切な食料です。",
+      "ruby": "コメは、<ruby>日本<rt>にっぽん</rt></ruby>でほぼ100%<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>できる、<ruby>自給率<rt>じきゅうりつ</rt></ruby>を<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support\"><ruby>支え<rt>ささえ</rt></ruby>る</span><ruby>大切<rt>たいせつ</rt></ruby>な<ruby>食料<rt>しょくりょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、パンやめんの原料の小麦、大豆、肉や卵のえさの多くは、外国からの輸入に頼っています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、パンやめんの<span class=\"vw\" data-ja=\"原料\" data-reading=\"げんりょう\" data-en=\"raw material; ingredient\"><ruby>原料<rt>げんりょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"小麦\" data-reading=\"こむぎ\" data-en=\"wheat\"><ruby>小麦<rt>こむぎ</rt></ruby></span>、<span class=\"vw\" data-ja=\"大豆\" data-reading=\"だいず\" data-en=\"soybean\"><ruby>大豆<rt>だいず</rt></ruby></span>、<ruby>肉<rt>にく</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>のえさの<ruby>多く<rt>おおく</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からの<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>に<ruby>頼っ<rt>たよっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界では、戦争や異常気象の影響で、食料の輸入が難しくなる心配も高まっています。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>では、<ruby>戦争<rt>せんそう</rt></ruby>や<span class=\"vw\" data-ja=\"異常気象\" data-reading=\"いじょうきしょう\" data-en=\"extreme weather\"><ruby>異常気象<rt>いじょうきしょう</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>食料<rt>しょくりょう</rt></ruby>の<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>が<ruby>難しく<rt>むずかしく</rt></ruby>なる<ruby>心配<rt>しんぱい</rt></ruby>も<ruby>高ま<rt>たかま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、2030年度までに食料自給率を45%に上げる目標を立てていますが、達成は簡単ではありません。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、2030<ruby>年度<rt>ねんど</rt></ruby>までに<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>を45%に<ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目標\" data-reading=\"もくひょう\" data-en=\"goal; target\"><ruby>目標<rt>もくひょう</rt></ruby></span>を<ruby>立て<rt>たて</rt></ruby>ていますが、<span class=\"vw\" data-ja=\"達成\" data-reading=\"たっせい\" data-en=\"achievement; attainment\"><ruby>達成<rt>たっせい</rt></ruby></span>は<ruby>簡単<rt>かんたん</rt></ruby>ではありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産省は、国内の生産を増やすことや、コメの消費を増やすことが大切だとしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"domestic; within the country\"><ruby>国内<rt>こくない</rt></ruby></span>の<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ことや、コメの<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ことが<ruby>大切<rt>たいせつ</rt></ruby>だとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "昨年度の日本の食料自給率は、カロリーベースで何パーセントでしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"昨年度\" data-reading=\"さくねんど\" data-en=\"last fiscal year\"><ruby>昨年度<rt>さくねんど</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>は、カロリーベースで<ruby>何<rt>なに</rt></ruby>パーセントでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty-seven percent — a record low."
+    },
+    {
+      "speaker": "slow",
+      "text": "自給率が下がった一番大きな理由は、何の消費が減ったことですか。",
+      "ruby": "<ruby>自給率<rt>じきゅうりつ</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>った<ruby>一番<rt>いちばん</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たことですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Rice — higher prices pushed consumption down."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、2030年度までに食料自給率を何パーセントに上げる目標を立てていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、2030<ruby>年度<rt>ねんど</rt></ruby>までに<span class=\"vw\" data-ja=\"食料自給率\" data-reading=\"しょくりょうじきゅうりつ\" data-en=\"food self-sufficiency rate\"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>自給率<rt>じきゅうりつ</rt></ruby></span>を<ruby>何<rt>なに</rt></ruby>パーセントに<ruby>上げ<rt>あげ</rt></ruby>る<span class=\"vw\" data-ja=\"目標\" data-reading=\"もくひょう\" data-en=\"goal; target\"><ruby>目標<rt>もくひょう</rt></ruby></span>を<ruby>立て<rt>たて</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty-five percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Next time you sit down to a Japanese meal, think about how far each ingredient traveled to reach the table. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "農林水産省",
+      "reading": "のうりんすいさんしょう",
+      "en": "Ministry of Agriculture, Forestry and Fisheries",
+      "zh": "农林水产省"
+    },
+    {
+      "ja": "食料自給率",
+      "reading": "しょくりょうじきゅうりつ",
+      "en": "food self-sufficiency rate",
+      "zh": "粮食自给率"
+    },
+    {
+      "ja": "昨年度",
+      "reading": "さくねんど",
+      "en": "last fiscal year",
+      "zh": "上一年度"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发布；公布"
+    },
+    {
+      "ja": "過去最低",
+      "reading": "かこさいてい",
+      "en": "record low; lowest ever",
+      "zh": "历史最低"
+    },
+    {
+      "ja": "更新",
+      "reading": "こうしん",
+      "en": "renewing (a record)",
+      "zh": "刷新（纪录）"
+    },
+    {
+      "ja": "国内",
+      "reading": "こくない",
+      "en": "domestic; within the country",
+      "zh": "国内"
+    },
+    {
+      "ja": "消費",
+      "reading": "しょうひ",
+      "en": "consumption",
+      "zh": "消费；消耗"
+    },
+    {
+      "ja": "生産",
+      "reading": "せいさん",
+      "en": "production",
+      "zh": "生产"
+    },
+    {
+      "ja": "示す",
+      "reading": "しめす",
+      "en": "to show; to indicate",
+      "zh": "表示；显示"
+    },
+    {
+      "ja": "割合",
+      "reading": "わりあい",
+      "en": "ratio; percentage",
+      "zh": "比例"
+    },
+    {
+      "ja": "輸入",
+      "reading": "ゆにゅう",
+      "en": "import",
+      "zh": "进口"
+    },
+    {
+      "ja": "頼る",
+      "reading": "たよる",
+      "en": "to rely on",
+      "zh": "依赖；依靠"
+    },
+    {
+      "ja": "価格",
+      "reading": "かかく",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease",
+      "zh": "减少"
+    },
+    {
+      "ja": "押し下げる",
+      "reading": "おしさげる",
+      "en": "to push down",
+      "zh": "拉低；压低"
+    },
+    {
+      "ja": "支える",
+      "reading": "ささえる",
+      "en": "to support",
+      "zh": "支撑"
+    },
+    {
+      "ja": "原料",
+      "reading": "げんりょう",
+      "en": "raw material; ingredient",
+      "zh": "原料"
+    },
+    {
+      "ja": "小麦",
+      "reading": "こむぎ",
+      "en": "wheat",
+      "zh": "小麦"
+    },
+    {
+      "ja": "大豆",
+      "reading": "だいず",
+      "en": "soybean",
+      "zh": "大豆"
+    },
+    {
+      "ja": "えさ",
+      "reading": "えさ",
+      "en": "animal feed",
+      "zh": "饲料"
+    },
+    {
+      "ja": "異常気象",
+      "reading": "いじょうきしょう",
+      "en": "extreme weather",
+      "zh": "异常气象"
+    },
+    {
+      "ja": "目標",
+      "reading": "もくひょう",
+      "en": "goal; target",
+      "zh": "目标"
+    },
+    {
+      "ja": "達成",
+      "reading": "たっせい",
+      "en": "achievement; attainment",
+      "zh": "达成；实现"
+    },
+    {
+      "ja": "政府",
+      "reading": "せいふ",
+      "en": "government",
+      "zh": "政府"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と発表しました",
+      "meaning": "announced that ...",
+      "meaningZh": "宣布…；公布…",
+      "formation": "plain-form clause + と発表する",
+      "example": "農林水産省は、食料自給率が37%だったと発表しました。",
+      "translation": "The Agriculture Ministry announced that the food self-sufficiency rate was thirty-seven percent.",
+      "note": "the standard news pattern for official announcements; と marks the quoted content",
+      "noteZh": "新闻中报道官方发布消息的固定句式，と提示所引用的内容",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と言う"
+    },
+    {
+      "pattern": "〜のうち",
+      "meaning": "out of; among",
+      "meaningZh": "在…之中；…当中",
+      "formation": "noun + のうち",
+      "example": "国内で消費される食料のうち、どのくらいが国内で生産されているか。",
+      "translation": "Out of the food consumed in the country, how much is produced domestically?",
+      "note": "picks out a part from a whole; very common with statistics and percentages",
+      "noteZh": "从整体中取出一部分，统计和比例的新闻中非常常见",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#うち"
+    },
+    {
+      "pattern": "〜とみられています",
+      "meaning": "it is thought that; it appears that",
+      "meaningZh": "被认为…；据推测…",
+      "formation": "plain-form clause + とみられている",
+      "example": "コメを買う量を減らした人が多かったとみられています。",
+      "translation": "It is thought that many people cut back on how much rice they buy.",
+      "note": "news style for analysis or estimates that are not officially confirmed",
+      "noteZh": "新闻中表示分析、推测而非官方确认信息的说法",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とみられる"
+    },
+    {
+      "pattern": "〜に頼る",
+      "meaning": "to rely on; to depend on",
+      "meaningZh": "依赖…；依靠…",
+      "formation": "noun + に頼る",
+      "example": "小麦や大豆の多くは、外国からの輸入に頼っています。",
+      "translation": "Most wheat and soybeans depend on imports from abroad.",
+      "note": "に marks what is relied on; 〜に頼っている describes an ongoing state",
+      "noteZh": "に表示依赖的对象，〜に頼っている表示持续的状态",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に頼る"
+    },
+    {
+      "pattern": "〜ことになります",
+      "meaning": "it means that; it follows that",
+      "meaningZh": "也就是说…；等于是…",
+      "formation": "plain-form clause + ことになる",
+      "example": "食料の6割以上は、輸入に頼っていることになります。",
+      "translation": "That means more than sixty percent of the food depends on imports.",
+      "note": "draws a logical conclusion from the facts just stated; often follows つまり",
+      "noteZh": "由前述事实推出的结论，常与つまり连用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ことになる"
+    }
+  ],
+  "practiceZh": [
+    "農林水産省は、昨年度の日本の食料自給率が、カロリーベースで37%だったと発表しました。\n农林水产省公布，日本上一年度的粮食自给率按热量计算为37%。\n食料自給率 = 粮食自给率；カロリーベース = 以热量计算",
+    "前の年度より1ポイント低くなり、過去最低を更新しました。\n比前一年度下降1个百分点，刷新了历史最低纪录。\n過去最低 = 历史最低；更新 = 刷新",
+    "食料自給率とは、国内で消費される食料のうち、どのくらいが国内で生産されているかを示す割合です。\n所谓粮食自给率，是表示国内消费的粮食中有多少是国内生产的比例。\n消費 = 消费；割合 = 比例",
+    "つまり、日本人が食べている食料の6割以上は、外国からの輸入に頼っていることになります。\n也就是说，日本人所吃的粮食有六成以上依赖从外国进口。\n輸入 = 进口；頼る = 依赖",
+    "自給率が下がった一番大きな理由は、コメの消費が減ったことです。\n自给率下降的最大原因是大米消费量减少。\n理由 = 原因；減る = 减少",
+    "コメの価格が高くなったため、コメを買う量を減らした人が多かったとみられています。\n据分析，由于米价上涨，很多人减少了购买大米的数量。\n価格 = 价格；とみられる = 据推测",
+    "一人が1年間に食べるコメの量は、前の年度の53.3キロから52キロに減りました。\n每人每年吃的大米量从前一年度的53.3公斤减少到52公斤。\n量 = 数量",
+    "また、外国から輸入されるコメが増えたことも、自給率を押し下げました。\n此外，从外国进口的大米增加，也拉低了自给率。\n押し下げる = 拉低",
+    "コメは、日本でほぼ100%生産できる、自給率を支える大切な食料です。\n大米是日本几乎能100%自产、支撑自给率的重要粮食。\n支える = 支撑；生産 = 生产",
+    "一方、パンやめんの原料の小麦、大豆、肉や卵のえさの多くは、外国からの輸入に頼っています。\n另一方面，做面包和面条的原料小麦、大豆，以及肉和鸡蛋的饲料，大多依赖外国进口。\n原料 = 原料；えさ = 饲料",
+    "世界では、戦争や異常気象の影響で、食料の輸入が難しくなる心配も高まっています。\n在世界范围内，受战争和异常气象影响，人们越来越担心粮食进口会变得困难。\n異常気象 = 异常气象；心配 = 担心",
+    "政府は、2030年度までに食料自給率を45%に上げる目標を立てていますが、達成は簡単ではありません。\n政府制定了到2030年度将粮食自给率提高到45%的目标，但实现并不容易。\n目標 = 目标；達成 = 达成",
+    "農林水産省は、国内の生産を増やすことや、コメの消費を増やすことが大切だとしています。\n农林水产省表示，增加国内生产和增加大米消费很重要。\n増やす = 增加"
+  ]
+}
