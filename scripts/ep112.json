@@ -1,0 +1,429 @@
+{
+  "episode": 112,
+  "title": "今日は「山の日」、記念の全国大会が飛騨高山で開催",
+  "date": "2026-08-11",
+  "source": "岐阜県公式サイト / 全国山の日協議会 / NHKニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026081101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August eleventh — and in Japan, today is a national holiday: Mountain Day. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日、8月11日は「山の日」です。「山の日」は、2016年に始まった、一番新しい国民の祝日です。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>、8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>は「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」です。「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、2016<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>った、<ruby>一番<rt>いちばん</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><ruby>国民<rt>こくみん</rt></ruby>の<span class=\"vw\" data-ja=\"祝日\" data-reading=\"しゅくじつ\" data-en=\"national holiday\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「山の日」は、山に親しんで、山の恵みに感謝する日です。日本は、国の約70%が山で、山は生活にとても近いです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>に<ruby>親し<rt>したし</rt></ruby>んで、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<span class=\"vw\" data-ja=\"恵み\" data-reading=\"めぐみ\" data-en=\"blessing; bounty\"><ruby>恵み<rt>めぐみ</rt></ruby></span>に<span class=\"vw\" data-ja=\"感謝する\" data-reading=\"かんしゃする\" data-en=\"to thank; to be grateful\"><ruby>感謝す<rt>かんしゃす</rt></ruby>る</span><ruby>日<rt>ひ</rt></ruby>です。<ruby>日本<rt>にほん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>の<ruby>約<rt>やく</rt></ruby>70%が<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>で、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>は<ruby>生活<rt>せいかつ</rt></ruby>にとても<ruby>近い<rt>ちかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "なぜ8月11日でしょうか。漢字の「八」は山の形に見えて、「11」は木が並んでいる形に見えるから、と言われています。",
+      "ruby": "なぜ8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>でしょうか。<span class=\"vw\" data-ja=\"漢字\" data-reading=\"かんじ\" data-en=\"kanji; Chinese character\"><ruby>漢字<rt>かんじ</rt></ruby></span>の「<ruby>八<rt>はち</rt></ruby>」は<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape; form\"><ruby>形<rt>かたち</rt></ruby></span>に<ruby>見え<rt>みえ</rt></ruby>て、「11」は<ruby>木<rt>き</rt></ruby>が<ruby>並ん<rt>ならん</rt></ruby>でいる<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape; form\"><ruby>形<rt>かたち</rt></ruby></span>に<ruby>見え<rt>みえ</rt></ruby>るから、と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年で10回目の「山の日」記念全国大会が、岐阜県高山市で開かれています。大会は、昨日から始まりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>で10<ruby>回目<rt>かいめ</rt></ruby>の「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span><ruby>全国大会<rt>ぜんこくたいかい</rt></ruby>が、<ruby>岐阜県<rt>ぎふけん</rt></ruby><ruby>高山<rt>たかやま</rt></ruby><ruby>市<rt>し</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れています。<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"big event; convention\"><ruby>大会<rt>たいかい</rt></ruby></span>は、<ruby>昨日<rt>きのう</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場では、自然の体験や、山の食べ物のお店など、いろいろなイベントがあります。家族で楽しむことができます。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>では、<ruby>自然<rt>しぜん</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"experience (hands-on)\"><ruby>体験<rt>たいけん</rt></ruby></span>や、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>食べ物<rt>たべもの</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>など、いろいろなイベントがあります。<ruby>家族<rt>かぞく</rt></ruby>で<ruby>楽し<rt>たのし</rt></ruby>むことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "高山市は、岐阜県の山の中にある町です。古い町並みが有名で、外国人の観光客にも人気があります。",
+      "ruby": "<ruby>高山<rt>たかやま</rt></ruby><ruby>市<rt>し</rt></ruby>は、<ruby>岐阜県<rt>ぎふけん</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>ある<ruby>町<rt>まち</rt></ruby>です。<ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"町並み\" data-reading=\"まちなみ\" data-en=\"townscape; row of old streets\"><ruby>町並み<rt>まちなみ</rt></ruby></span>が<ruby>有名<rt>ゆうめい</rt></ruby>で、<ruby>外国人<rt>がいこくじん</rt></ruby>の<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>にも<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「山の日」は、お盆の休みと近いです。ですから、家族や友だちと、山に登る人がたくさんいます。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、お<ruby>盆<rt>ぼん</rt></ruby>の<ruby>休み<rt>やすみ</rt></ruby>と<ruby>近い<rt>ちかい</rt></ruby>です。ですから、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友<rt>とも</rt></ruby>だちと、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>に<span class=\"vw\" data-ja=\"登る\" data-reading=\"のぼる\" data-en=\"to climb\"><ruby>登る<rt>のぼる</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>がたくさんいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、夏の山は、天気が変わりやすいです。暑い日は、熱中症の心配もあります。水を持って、気をつけて登ってください。",
+      "ruby": "しかし、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>は、<ruby>天気<rt>てんき</rt></ruby>が<ruby>変わり<rt>かわり</rt></ruby>やすいです。<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>もあります。<ruby>水<rt>みず</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て、<ruby>気を<rt>きを</rt></ruby>つけて<ruby>登っ<rt>のぼっ</rt></ruby>てください。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日は、近くの山や公園で、自然を楽しんでみませんか。山の空気は、きっと気持ちがいいですよ。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>は、<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>や<ruby>公園<rt>こうえん</rt></ruby>で、<ruby>自然<rt>しぜん</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでみませんか。<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>空気<rt>くうき</rt></ruby>は、きっと<ruby>気持ち<rt>きもち</rt></ruby>がいいですよ。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日、8月11日は「山の日」です。「山の日」は、2016年に始まった、一番新しい国民の祝日です。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>、8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>は「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」です。「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、2016<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>った、<ruby>一番<rt>いちばん</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><ruby>国民<rt>こくみん</rt></ruby>の<span class=\"vw\" data-ja=\"祝日\" data-reading=\"しゅくじつ\" data-en=\"national holiday\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Today, August eleventh, is Mountain Day. It is Japan's newest national holiday — it started in 2016."
+    },
+    {
+      "speaker": "vocab",
+      "text": "祝日",
+      "ruby": "<span class=\"vw\" data-ja=\"祝日\" data-reading=\"しゅくじつ\" data-en=\"national holiday\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means national holiday — a special day off decided by law."
+    },
+    {
+      "speaker": "slow",
+      "text": "「山の日」は、山に親しんで、山の恵みに感謝する日です。日本は、国の約70%が山で、山は生活にとても近いです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>に<ruby>親し<rt>したし</rt></ruby>んで、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<span class=\"vw\" data-ja=\"恵み\" data-reading=\"めぐみ\" data-en=\"blessing; bounty\"><ruby>恵み<rt>めぐみ</rt></ruby></span>に<span class=\"vw\" data-ja=\"感謝する\" data-reading=\"かんしゃする\" data-en=\"to thank; to be grateful\"><ruby>感謝す<rt>かんしゃす</rt></ruby>る</span><ruby>日<rt>ひ</rt></ruby>です。<ruby>日本<rt>にほん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>の<ruby>約<rt>やく</rt></ruby>70%が<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>で、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>は<ruby>生活<rt>せいかつ</rt></ruby>にとても<ruby>近い<rt>ちかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Mountain Day is a day to get close to the mountains and be thankful for their blessings. About seventy percent of Japan is mountains, so mountains are very close to everyday life."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感謝する",
+      "ruby": "<span class=\"vw\" data-ja=\"感謝する\" data-reading=\"かんしゃする\" data-en=\"to thank; to be grateful\"><ruby>感謝す<rt>かんしゃす</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to thank, or to feel grateful."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年で10回目の「山の日」記念全国大会が、岐阜県高山市で開かれています。大会は、昨日から始まりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>で10<ruby>回目<rt>かいめ</rt></ruby>の「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span><ruby>全国大会<rt>ぜんこくたいかい</rt></ruby>が、<ruby>岐阜県<rt>ぎふけん</rt></ruby><ruby>高山<rt>たかやま</rt></ruby><ruby>市<rt>し</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れています。<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"big event; convention\"><ruby>大会<rt>たいかい</rt></ruby></span>は、<ruby>昨日<rt>きのう</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year's Mountain Day national ceremony — the tenth one — is being held in the city of Takayama, in Gifu Prefecture. It started yesterday."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記念",
+      "ruby": "<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means commemoration — something special done to remember an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "「山の日」は、お盆の休みと近いです。ですから、家族や友だちと、山に登る人がたくさんいます。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、お<ruby>盆<rt>ぼん</rt></ruby>の<ruby>休み<rt>やすみ</rt></ruby>と<ruby>近い<rt>ちかい</rt></ruby>です。ですから、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友<rt>とも</rt></ruby>だちと、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>に<span class=\"vw\" data-ja=\"登る\" data-reading=\"のぼる\" data-en=\"to climb\"><ruby>登る<rt>のぼる</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>がたくさんいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Mountain Day is close to the mid-August holiday season, so many people climb mountains with their family and friends."
+    },
+    {
+      "speaker": "vocab",
+      "text": "登る",
+      "ruby": "<span class=\"vw\" data-ja=\"登る\" data-reading=\"のぼる\" data-en=\"to climb\"><ruby>登る<rt>のぼる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to climb — for example, climbing a mountain."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、夏の山は、天気が変わりやすいです。暑い日は、熱中症の心配もあります。水を持って、気をつけて登ってください。",
+      "ruby": "しかし、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>は、<ruby>天気<rt>てんき</rt></ruby>が<ruby>変わり<rt>かわり</rt></ruby>やすいです。<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>もあります。<ruby>水<rt>みず</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て、<ruby>気を<rt>きを</rt></ruby>つけて<ruby>登っ<rt>のぼっ</rt></ruby>てください。"
+    },
+    {
+      "speaker": "host",
+      "text": "But in summer, mountain weather changes easily. On hot days there is also a risk of heatstroke. Bring water, and climb carefully."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気をつける",
+      "ruby": "<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful\"><ruby>気を<rt>きを</rt></ruby>つける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be careful, or to watch out."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日、8月11日は「山の日」です。「山の日」は、2016年に始まった、一番新しい国民の祝日です。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>、8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>は「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」です。「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、2016<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>った、<ruby>一番<rt>いちばん</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><ruby>国民<rt>こくみん</rt></ruby>の<span class=\"vw\" data-ja=\"祝日\" data-reading=\"しゅくじつ\" data-en=\"national holiday\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「山の日」は、山に親しんで、山の恵みに感謝する日です。日本は、国の約70%が山で、山は生活にとても近いです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>に<ruby>親し<rt>したし</rt></ruby>んで、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<span class=\"vw\" data-ja=\"恵み\" data-reading=\"めぐみ\" data-en=\"blessing; bounty\"><ruby>恵み<rt>めぐみ</rt></ruby></span>に<span class=\"vw\" data-ja=\"感謝する\" data-reading=\"かんしゃする\" data-en=\"to thank; to be grateful\"><ruby>感謝す<rt>かんしゃす</rt></ruby>る</span><ruby>日<rt>ひ</rt></ruby>です。<ruby>日本<rt>にほん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>の<ruby>約<rt>やく</rt></ruby>70%が<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>で、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>は<ruby>生活<rt>せいかつ</rt></ruby>にとても<ruby>近い<rt>ちかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "なぜ8月11日でしょうか。漢字の「八」は山の形に見えて、「11」は木が並んでいる形に見えるから、と言われています。",
+      "ruby": "なぜ8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>でしょうか。<span class=\"vw\" data-ja=\"漢字\" data-reading=\"かんじ\" data-en=\"kanji; Chinese character\"><ruby>漢字<rt>かんじ</rt></ruby></span>の「<ruby>八<rt>はち</rt></ruby>」は<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape; form\"><ruby>形<rt>かたち</rt></ruby></span>に<ruby>見え<rt>みえ</rt></ruby>て、「11」は<ruby>木<rt>き</rt></ruby>が<ruby>並ん<rt>ならん</rt></ruby>でいる<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape; form\"><ruby>形<rt>かたち</rt></ruby></span>に<ruby>見え<rt>みえ</rt></ruby>るから、と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年で10回目の「山の日」記念全国大会が、岐阜県高山市で開かれています。大会は、昨日から始まりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>で10<ruby>回目<rt>かいめ</rt></ruby>の「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span><ruby>全国大会<rt>ぜんこくたいかい</rt></ruby>が、<ruby>岐阜県<rt>ぎふけん</rt></ruby><ruby>高山<rt>たかやま</rt></ruby><ruby>市<rt>し</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れています。<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"big event; convention\"><ruby>大会<rt>たいかい</rt></ruby></span>は、<ruby>昨日<rt>きのう</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場では、自然の体験や、山の食べ物のお店など、いろいろなイベントがあります。家族で楽しむことができます。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>では、<ruby>自然<rt>しぜん</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"experience (hands-on)\"><ruby>体験<rt>たいけん</rt></ruby></span>や、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>食べ物<rt>たべもの</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>など、いろいろなイベントがあります。<ruby>家族<rt>かぞく</rt></ruby>で<ruby>楽し<rt>たのし</rt></ruby>むことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "高山市は、岐阜県の山の中にある町です。古い町並みが有名で、外国人の観光客にも人気があります。",
+      "ruby": "<ruby>高山<rt>たかやま</rt></ruby><ruby>市<rt>し</rt></ruby>は、<ruby>岐阜県<rt>ぎふけん</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>ある<ruby>町<rt>まち</rt></ruby>です。<ruby>古い<rt>ふるい</rt></ruby><span class=\"vw\" data-ja=\"町並み\" data-reading=\"まちなみ\" data-en=\"townscape; row of old streets\"><ruby>町並み<rt>まちなみ</rt></ruby></span>が<ruby>有名<rt>ゆうめい</rt></ruby>で、<ruby>外国人<rt>がいこくじん</rt></ruby>の<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>にも<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「山の日」は、お盆の休みと近いです。ですから、家族や友だちと、山に登る人がたくさんいます。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、お<ruby>盆<rt>ぼん</rt></ruby>の<ruby>休み<rt>やすみ</rt></ruby>と<ruby>近い<rt>ちかい</rt></ruby>です。ですから、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友<rt>とも</rt></ruby>だちと、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>に<span class=\"vw\" data-ja=\"登る\" data-reading=\"のぼる\" data-en=\"to climb\"><ruby>登る<rt>のぼる</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>がたくさんいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、夏の山は、天気が変わりやすいです。暑い日は、熱中症の心配もあります。水を持って、気をつけて登ってください。",
+      "ruby": "しかし、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>は、<ruby>天気<rt>てんき</rt></ruby>が<ruby>変わり<rt>かわり</rt></ruby>やすいです。<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>もあります。<ruby>水<rt>みず</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て、<ruby>気を<rt>きを</rt></ruby>つけて<ruby>登っ<rt>のぼっ</rt></ruby>てください。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日は、近くの山や公園で、自然を楽しんでみませんか。山の空気は、きっと気持ちがいいですよ。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>は、<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>や<ruby>公園<rt>こうえん</rt></ruby>で、<ruby>自然<rt>しぜん</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでみませんか。<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>空気<rt>くうき</rt></ruby>は、きっと<ruby>気持ち<rt>きもち</rt></ruby>がいいですよ。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "「山の日」は、何をする日ですか。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」は、<ruby>何を<rt>なにを</rt></ruby>する<ruby>日<rt>ひ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a day to get close to the mountains and be thankful for what they give us."
+    },
+    {
+      "speaker": "slow",
+      "text": "「山の日」の記念の大会は、どこで開かれていますか。",
+      "ruby": "「<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」の<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"big event; convention\"><ruby>大会<rt>たいかい</rt></ruby></span>は、どこで<ruby>開か<rt>ひらか</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the city of Takayama, in Gifu Prefecture — a mountain town famous for its beautiful old streets."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Happy Mountain Day — maybe it's a good day for a walk in nature, wherever you are. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "祝日",
+      "reading": "しゅくじつ",
+      "en": "national holiday",
+      "zh": "法定节日"
+    },
+    {
+      "ja": "山",
+      "reading": "やま",
+      "en": "mountain",
+      "zh": "山"
+    },
+    {
+      "ja": "親しむ",
+      "reading": "したしむ",
+      "en": "to get close to; to become familiar with",
+      "zh": "亲近"
+    },
+    {
+      "ja": "恵み",
+      "reading": "めぐみ",
+      "en": "blessing; bounty",
+      "zh": "恩惠"
+    },
+    {
+      "ja": "感謝する",
+      "reading": "かんしゃする",
+      "en": "to thank; to be grateful",
+      "zh": "感谢"
+    },
+    {
+      "ja": "漢字",
+      "reading": "かんじ",
+      "en": "kanji; Chinese character",
+      "zh": "汉字"
+    },
+    {
+      "ja": "形",
+      "reading": "かたち",
+      "en": "shape; form",
+      "zh": "形状"
+    },
+    {
+      "ja": "記念",
+      "reading": "きねん",
+      "en": "commemoration",
+      "zh": "纪念"
+    },
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "big event; convention",
+      "zh": "大会"
+    },
+    {
+      "ja": "体験",
+      "reading": "たいけん",
+      "en": "experience (hands-on)",
+      "zh": "体验"
+    },
+    {
+      "ja": "町並み",
+      "reading": "まちなみ",
+      "en": "townscape; row of old streets",
+      "zh": "街道景观"
+    },
+    {
+      "ja": "観光客",
+      "reading": "かんこうきゃく",
+      "en": "tourist",
+      "zh": "游客"
+    },
+    {
+      "ja": "登る",
+      "reading": "のぼる",
+      "en": "to climb",
+      "zh": "攀登；爬（山）"
+    },
+    {
+      "ja": "熱中症",
+      "reading": "ねっちゅうしょう",
+      "en": "heatstroke",
+      "zh": "中暑"
+    },
+    {
+      "ja": "気をつける",
+      "reading": "きをつける",
+      "en": "to be careful",
+      "zh": "小心；注意"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と言われています",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说…",
+      "formation": "clause + と言われています",
+      "example": "「八」は山の形に見えるから、と言われています。",
+      "translation": "It is said that it is because the kanji for 'eight' looks like the shape of a mountain.",
+      "note": "と言われています reports a common explanation or belief without naming who says it",
+      "noteZh": "と言われています用于转述大家普遍的说法，不指明是谁说的",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と言われている"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can do ~; be able to do ~",
+      "meaningZh": "能够…；可以…",
+      "formation": "verb dictionary form + ことができる",
+      "example": "家族で楽しむことができます。",
+      "translation": "Families can enjoy it together.",
+      "note": "ことができる expresses ability or possibility in a polite, neutral way",
+      "noteZh": "ことができる表示「能够做某事」，语气礼貌而中性",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~; tends to ~",
+      "meaningZh": "容易…；动不动就…",
+      "formation": "verb stem + やすい",
+      "example": "夏の山は、天気が変わりやすいです。",
+      "translation": "In summer mountains, the weather changes easily.",
+      "note": "やすい attaches to a verb stem and means the action happens easily or often",
+      "noteZh": "やすい接在动词ます形词干后，表示「容易发生、常常发生」",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#やすい"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请…",
+      "formation": "verb て-form + ください",
+      "example": "水を持って、気をつけて登ってください。",
+      "translation": "Please bring water and climb carefully.",
+      "note": "てください is a polite request or piece of advice",
+      "noteZh": "てください表示礼貌的请求或建议",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#てください"
+    },
+    {
+      "pattern": "〜てみませんか",
+      "meaning": "why not try ~?",
+      "meaningZh": "要不要试试…？",
+      "formation": "verb て-form + みませんか",
+      "example": "近くの山や公園で、自然を楽しんでみませんか。",
+      "translation": "Why not try enjoying nature at a nearby mountain or park?",
+      "note": "てみる means 'try doing'; ませんか turns it into a friendly invitation",
+      "noteZh": "てみる表示「尝试做」；ませんか使句子变成友好的邀请",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#temiru"
+    }
+  ],
+  "practiceZh": [
+    "今日、8月11日は「山の日」です。「山の日」は、2016年に始まった、一番新しい国民の祝日です。\n今天8月11日是「山之日」。「山之日」是2016年开始的、最新的国民节日。\n祝日 = national holiday；始まる = to begin",
+    "「山の日」は、山に親しんで、山の恵みに感謝する日です。日本は、国の約70%が山で、山は生活にとても近いです。\n「山之日」是亲近山、感谢山的恩惠的日子。日本约70%的国土是山，山与生活非常贴近。\n親しむ = to get close to；恵み = blessing；感謝する = to thank",
+    "なぜ8月11日でしょうか。漢字の「八」は山の形に見えて、「11」は木が並んでいる形に見えるから、と言われています。\n为什么是8月11日呢？据说是因为汉字的「八」看起来像山的形状，「11」看起来像树木并排站立的样子。\n漢字 = kanji；形 = shape；並ぶ = to line up",
+    "今年で10回目の「山の日」記念全国大会が、岐阜県高山市で開かれています。大会は、昨日から始まりました。\n今年第10届「山之日」纪念全国大会正在岐阜县高山市举行。大会从昨天开始了。\n記念 = commemoration；大会 = big event；開かれる = to be held",
+    "会場では、自然の体験や、山の食べ物のお店など、いろいろなイベントがあります。家族で楽しむことができます。\n会场上有自然体验、山区美食摊位等各种活动。全家人都可以尽情享受。\n体験 = hands-on experience；いろいろな = various",
+    "高山市は、岐阜県の山の中にある町です。古い町並みが有名で、外国人の観光客にも人気があります。\n高山市是位于岐阜县山中的城市。以古老的街道闻名，在外国游客中也很有人气。\n町並み = townscape；観光客 = tourist；人気 = popularity",
+    "「山の日」は、お盆の休みと近いです。ですから、家族や友だちと、山に登る人がたくさんいます。\n「山之日」和盂兰盆节假期很近。因此，很多人和家人朋友一起去爬山。\nお盆 = Obon holidays；登る = to climb",
+    "しかし、夏の山は、天気が変わりやすいです。暑い日は、熱中症の心配もあります。水を持って、気をつけて登ってください。\n但是，夏天的山天气多变。炎热的日子还有中暑的危险。请带上水，小心地爬山。\n変わりやすい = changeable；熱中症 = heatstroke；気をつける = to be careful",
+    "今日は、近くの山や公園で、自然を楽しんでみませんか。山の空気は、きっと気持ちがいいですよ。\n今天，要不要在附近的山或公园里享受大自然呢？山里的空气一定很舒服哦。\n〜てみませんか = why not try ~？；きっと = surely"
+  ]
+}
