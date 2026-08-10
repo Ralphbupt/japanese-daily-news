@@ -1,0 +1,644 @@
+{
+  "episode": 111,
+  "title": "ニチレイへのサイバー攻撃、盗まれた情報が公開か",
+  "date": "2026-08-10",
+  "source": "NHK / 共同通信 / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026081001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August tenth. Last month, Nichirei, one of Japan's biggest frozen-food companies, was hit by a cyberattack — and now hackers have published the stolen data. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "冷凍食品大手の「ニチレイ」がサイバー攻撃を受け、盗まれたとみられるデータがインターネット上で公開されたことが分かりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span><span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; industry leader\"><ruby>大手<rt>おおて</rt></ruby></span>の「ニチレイ」が<span class=\"vw\" data-ja=\"サイバー攻撃\" data-reading=\"サイバーこうげき\" data-en=\"cyberattack\">サイバー<ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>、<ruby>盗ま<rt>ぬすま</rt></ruby>れたとみられるデータがインターネット<ruby>上<rt>じょう</rt></ruby>で<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>されたことが<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "データを公開したのは、「ランサムハウス」と名乗るロシア系のハッカー集団です。",
+      "ruby": "データを<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>したのは、「ランサムハウス」と<span class=\"vw\" data-ja=\"名乗る\" data-reading=\"なのる\" data-en=\"to call oneself\"><ruby>名乗る<rt>なのる</rt></ruby></span>ロシア<ruby>系<rt>けい</rt></ruby>のハッカー<span class=\"vw\" data-ja=\"集団\" data-reading=\"しゅうだん\" data-en=\"group\"><ruby>集団<rt>しゅうだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "データには、従業員や取引先の個人情報などが含まれているとみられています。",
+      "ruby": "データには、<span class=\"vw\" data-ja=\"従業員\" data-reading=\"じゅうぎょういん\" data-en=\"employee\"><ruby>従業員<rt>じゅうぎょういん</rt></ruby></span>や<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner; client company\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>の<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>などが<ruby>含ま<rt>ふくま</rt></ruby>れているとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ニチレイは7月13日、会社のシステムに不正アクセスがあり、システム障害が起きたと発表しました。",
+      "ruby": "ニチレイは7<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>があり、システム<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; malfunction\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この影響で、冷凍食品などの注文や出荷が、一時できなくなりました。",
+      "ruby": "この<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span>などの<span class=\"vw\" data-ja=\"注文\" data-reading=\"ちゅうもん\" data-en=\"order (for goods)\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>や<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment; shipping out\"><ruby>出荷<rt>しゅっか</rt></ruby></span>が、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; for a time\"><ruby>一時<rt>いちじ</rt></ruby></span>できなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ニチレイの物流サービスは、スーパーやレストランなど、全国の約5000の会社が利用しています。",
+      "ruby": "ニチレイの<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span>サービスは、スーパーやレストランなど、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>約<rt>やく</rt></ruby>5000の<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"利用\" data-reading=\"りよう\" data-en=\"use; utilization\"><ruby>利用<rt>りよう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、一部の店では、冷凍食品やアイスクリームが届かなくなる影響が出ました。",
+      "ruby": "そのため、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>では、<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span>やアイスクリームが<ruby>届か<rt>とどか</rt></ruby>なくなる<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、被害を広げないためにシステムを止めて、一部の出荷を手作業で続けました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage; harm\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>広げ<rt>ひろげ</rt></ruby>ないためにシステムを<ruby>止め<rt>とめ</rt></ruby>て、<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment; shipping out\"><ruby>出荷<rt>しゅっか</rt></ruby></span>を<span class=\"vw\" data-ja=\"手作業\" data-reading=\"てさぎょう\" data-en=\"manual work; by hand\"><ruby>手作業<rt>てさぎょう</rt></ruby></span>で<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "システムは少しずつ回復し、約10日後の7月24日に、通常の営業に戻りました。",
+      "ruby": "システムは<ruby>少し<rt>すこし</rt></ruby>ずつ<span class=\"vw\" data-ja=\"回復\" data-reading=\"かいふく\" data-en=\"recovery\"><ruby>回復<rt>かいふく</rt></ruby></span>し、<ruby>約<rt>やく</rt></ruby>10<ruby>日後<rt>にちご</rt></ruby>の7<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>に、<span class=\"vw\" data-ja=\"通常\" data-reading=\"つうじょう\" data-en=\"normal; usual\"><ruby>通常<rt>つうじょう</rt></ruby></span>の<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>戻り<rt>もどり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ニチレイは、個人情報が漏れた可能性があるとして、国の個人情報保護委員会に報告しました。",
+      "ruby": "ニチレイは、<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>が<ruby>漏れ<rt>もれ</rt></ruby>た<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるとして、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、情報が漏れた可能性のある人には、順番に通知を行っています。",
+      "ruby": "また、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>た<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>のある<ruby>人<rt>ひと</rt></ruby>には、<ruby>順番<rt>じゅんばん</rt></ruby>に<span class=\"vw\" data-ja=\"通知\" data-reading=\"つうち\" data-en=\"notification\"><ruby>通知<rt>つうち</rt></ruby></span>を<ruby>行って<rt>おこなって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では最近、食品会社や物流会社を狙ったサイバー攻撃が増えています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<ruby>食品<rt>しょくひん</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>や<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>狙っ<rt>ねらっ</rt></ruby>た<span class=\"vw\" data-ja=\"サイバー攻撃\" data-reading=\"サイバーこうげき\" data-en=\"cyberattack\">サイバー<ruby>攻撃<rt>こうげき</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、どの会社も普段からセキュリティ対策を強めることが大切だと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門家\" data-reading=\"せんもんか\" data-en=\"expert\"><ruby>専門家<rt>せんもんか</rt></ruby></span>は、どの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>普段<rt>ふだん</rt></ruby>からセキュリティ<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>を<span class=\"vw\" data-ja=\"強める\" data-reading=\"つよめる\" data-en=\"to strengthen\"><ruby>強め<rt>つよめ</rt></ruby>ることが</span><ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "冷凍食品大手の「ニチレイ」がサイバー攻撃を受け、盗まれたとみられるデータがインターネット上で公開されたことが分かりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span><span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; industry leader\"><ruby>大手<rt>おおて</rt></ruby></span>の「ニチレイ」が<span class=\"vw\" data-ja=\"サイバー攻撃\" data-reading=\"サイバーこうげき\" data-en=\"cyberattack\">サイバー<ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>、<ruby>盗ま<rt>ぬすま</rt></ruby>れたとみられるデータがインターネット<ruby>上<rt>じょう</rt></ruby>で<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>されたことが<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Frozen-food giant Nichirei was hit by a cyberattack, and data believed to be stolen has now been published on the internet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "サイバー攻撃",
+      "ruby": "<span class=\"vw\" data-ja=\"サイバー攻撃\" data-reading=\"サイバーこうげき\" data-en=\"cyberattack\">サイバー<ruby>攻撃<rt>こうげき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a cyberattack."
+    },
+    {
+      "speaker": "slow",
+      "text": "データを公開したのは、「ランサムハウス」と名乗るロシア系のハッカー集団です。",
+      "ruby": "データを<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>したのは、「ランサムハウス」と<span class=\"vw\" data-ja=\"名乗る\" data-reading=\"なのる\" data-en=\"to call oneself\"><ruby>名乗る<rt>なのる</rt></ruby></span>ロシア<ruby>系<rt>けい</rt></ruby>のハッカー<span class=\"vw\" data-ja=\"集団\" data-reading=\"しゅうだん\" data-en=\"group\"><ruby>集団<rt>しゅうだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The data was released by a Russia-linked hacker group calling itself RansomHouse."
+    },
+    {
+      "speaker": "vocab",
+      "text": "集団",
+      "ruby": "<span class=\"vw\" data-ja=\"集団\" data-reading=\"しゅうだん\" data-en=\"group\"><ruby>集団<rt>しゅうだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a group."
+    },
+    {
+      "speaker": "slow",
+      "text": "データには、従業員や取引先の個人情報などが含まれているとみられています。",
+      "ruby": "データには、<span class=\"vw\" data-ja=\"従業員\" data-reading=\"じゅうぎょういん\" data-en=\"employee\"><ruby>従業員<rt>じゅうぎょういん</rt></ruby></span>や<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner; client company\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>の<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>などが<ruby>含ま<rt>ふくま</rt></ruby>れているとみられています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The data appears to include personal information of employees and business partners."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取引先",
+      "ruby": "<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner; client company\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a business partner — a company you do business with."
+    },
+    {
+      "speaker": "slow",
+      "text": "ニチレイは7月13日、会社のシステムに不正アクセスがあり、システム障害が起きたと発表しました。",
+      "ruby": "ニチレイは7<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>があり、システム<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; malfunction\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July thirteenth, Nichirei announced that its systems had been accessed illegally and stopped working."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不正アクセス",
+      "ruby": "<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means unauthorized access — breaking into a computer system."
+    },
+    {
+      "speaker": "slow",
+      "text": "この影響で、冷凍食品などの注文や出荷が、一時できなくなりました。",
+      "ruby": "この<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span>などの<span class=\"vw\" data-ja=\"注文\" data-reading=\"ちゅうもん\" data-en=\"order (for goods)\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>や<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment; shipping out\"><ruby>出荷<rt>しゅっか</rt></ruby></span>が、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; for a time\"><ruby>一時<rt>いちじ</rt></ruby></span>できなくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, orders and shipments of frozen foods were temporarily impossible."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出荷",
+      "ruby": "<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment; shipping out\"><ruby>出荷<rt>しゅっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shipping goods out."
+    },
+    {
+      "speaker": "slow",
+      "text": "ニチレイの物流サービスは、スーパーやレストランなど、全国の約5000の会社が利用しています。",
+      "ruby": "ニチレイの<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span>サービスは、スーパーやレストランなど、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>約<rt>やく</rt></ruby>5000の<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"利用\" data-reading=\"りよう\" data-en=\"use; utilization\"><ruby>利用<rt>りよう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five thousand companies nationwide — supermarkets, restaurants and more — use Nichirei's logistics service."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物流",
+      "ruby": "<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means logistics — moving and delivering goods."
+    },
+    {
+      "speaker": "slow",
+      "text": "システムは少しずつ回復し、約10日後の7月24日に、通常の営業に戻りました。",
+      "ruby": "システムは<ruby>少し<rt>すこし</rt></ruby>ずつ<span class=\"vw\" data-ja=\"回復\" data-reading=\"かいふく\" data-en=\"recovery\"><ruby>回復<rt>かいふく</rt></ruby></span>し、<ruby>約<rt>やく</rt></ruby>10<ruby>日後<rt>にちご</rt></ruby>の7<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>に、<span class=\"vw\" data-ja=\"通常\" data-reading=\"つうじょう\" data-en=\"normal; usual\"><ruby>通常<rt>つうじょう</rt></ruby></span>の<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>戻り<rt>もどり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The systems recovered little by little, and normal operations resumed on July twenty-fourth, about ten days later."
+    },
+    {
+      "speaker": "vocab",
+      "text": "回復",
+      "ruby": "<span class=\"vw\" data-ja=\"回復\" data-reading=\"かいふく\" data-en=\"recovery\"><ruby>回復<rt>かいふく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means recovery."
+    },
+    {
+      "speaker": "slow",
+      "text": "ニチレイは、個人情報が漏れた可能性があるとして、国の個人情報保護委員会に報告しました。",
+      "ruby": "ニチレイは、<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>が<ruby>漏れ<rt>もれ</rt></ruby>た<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるとして、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Saying personal information may have leaked, Nichirei reported the case to the national data protection authority."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漏れる",
+      "ruby": "<span class=\"vw\" data-ja=\"漏れる\" data-reading=\"もれる\" data-en=\"to leak out\"><ruby>漏れ<rt>もれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leak out."
+    },
+    {
+      "speaker": "slow",
+      "text": "専門家は、どの会社も普段からセキュリティ対策を強めることが大切だと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門家\" data-reading=\"せんもんか\" data-en=\"expert\"><ruby>専門家<rt>せんもんか</rt></ruby></span>は、どの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>普段<rt>ふだん</rt></ruby>からセキュリティ<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>を<span class=\"vw\" data-ja=\"強める\" data-reading=\"つよめる\" data-en=\"to strengthen\"><ruby>強め<rt>つよめ</rt></ruby>ることが</span><ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Experts say every company should strengthen its security measures on a daily basis."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対策",
+      "ruby": "<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means countermeasures — steps taken against a problem."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "冷凍食品大手の「ニチレイ」がサイバー攻撃を受け、盗まれたとみられるデータがインターネット上で公開されたことが分かりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span><span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; industry leader\"><ruby>大手<rt>おおて</rt></ruby></span>の「ニチレイ」が<span class=\"vw\" data-ja=\"サイバー攻撃\" data-reading=\"サイバーこうげき\" data-en=\"cyberattack\">サイバー<ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>、<ruby>盗ま<rt>ぬすま</rt></ruby>れたとみられるデータがインターネット<ruby>上<rt>じょう</rt></ruby>で<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>されたことが<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "データを公開したのは、「ランサムハウス」と名乗るロシア系のハッカー集団です。",
+      "ruby": "データを<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>したのは、「ランサムハウス」と<span class=\"vw\" data-ja=\"名乗る\" data-reading=\"なのる\" data-en=\"to call oneself\"><ruby>名乗る<rt>なのる</rt></ruby></span>ロシア<ruby>系<rt>けい</rt></ruby>のハッカー<span class=\"vw\" data-ja=\"集団\" data-reading=\"しゅうだん\" data-en=\"group\"><ruby>集団<rt>しゅうだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "データには、従業員や取引先の個人情報などが含まれているとみられています。",
+      "ruby": "データには、<span class=\"vw\" data-ja=\"従業員\" data-reading=\"じゅうぎょういん\" data-en=\"employee\"><ruby>従業員<rt>じゅうぎょういん</rt></ruby></span>や<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner; client company\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>の<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>などが<ruby>含ま<rt>ふくま</rt></ruby>れているとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ニチレイは7月13日、会社のシステムに不正アクセスがあり、システム障害が起きたと発表しました。",
+      "ruby": "ニチレイは7<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>があり、システム<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; malfunction\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この影響で、冷凍食品などの注文や出荷が、一時できなくなりました。",
+      "ruby": "この<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span>などの<span class=\"vw\" data-ja=\"注文\" data-reading=\"ちゅうもん\" data-en=\"order (for goods)\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>や<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment; shipping out\"><ruby>出荷<rt>しゅっか</rt></ruby></span>が、<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; for a time\"><ruby>一時<rt>いちじ</rt></ruby></span>できなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ニチレイの物流サービスは、スーパーやレストランなど、全国の約5000の会社が利用しています。",
+      "ruby": "ニチレイの<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span>サービスは、スーパーやレストランなど、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>約<rt>やく</rt></ruby>5000の<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"利用\" data-reading=\"りよう\" data-en=\"use; utilization\"><ruby>利用<rt>りよう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、一部の店では、冷凍食品やアイスクリームが届かなくなる影響が出ました。",
+      "ruby": "そのため、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>では、<span class=\"vw\" data-ja=\"冷凍食品\" data-reading=\"れいとうしょくひん\" data-en=\"frozen food\"><ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby></span>やアイスクリームが<ruby>届か<rt>とどか</rt></ruby>なくなる<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、被害を広げないためにシステムを止めて、一部の出荷を手作業で続けました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage; harm\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>広げ<rt>ひろげ</rt></ruby>ないためにシステムを<ruby>止め<rt>とめ</rt></ruby>て、<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment; shipping out\"><ruby>出荷<rt>しゅっか</rt></ruby></span>を<span class=\"vw\" data-ja=\"手作業\" data-reading=\"てさぎょう\" data-en=\"manual work; by hand\"><ruby>手作業<rt>てさぎょう</rt></ruby></span>で<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "システムは少しずつ回復し、約10日後の7月24日に、通常の営業に戻りました。",
+      "ruby": "システムは<ruby>少し<rt>すこし</rt></ruby>ずつ<span class=\"vw\" data-ja=\"回復\" data-reading=\"かいふく\" data-en=\"recovery\"><ruby>回復<rt>かいふく</rt></ruby></span>し、<ruby>約<rt>やく</rt></ruby>10<ruby>日後<rt>にちご</rt></ruby>の7<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>に、<span class=\"vw\" data-ja=\"通常\" data-reading=\"つうじょう\" data-en=\"normal; usual\"><ruby>通常<rt>つうじょう</rt></ruby></span>の<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>戻り<rt>もどり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ニチレイは、個人情報が漏れた可能性があるとして、国の個人情報保護委員会に報告しました。",
+      "ruby": "ニチレイは、<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span>が<ruby>漏れ<rt>もれ</rt></ruby>た<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるとして、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"個人情報\" data-reading=\"こじんじょうほう\" data-en=\"personal information\"><ruby>個人情報<rt>こじんじょうほう</rt></ruby></span><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、情報が漏れた可能性のある人には、順番に通知を行っています。",
+      "ruby": "また、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>た<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>のある<ruby>人<rt>ひと</rt></ruby>には、<ruby>順番<rt>じゅんばん</rt></ruby>に<span class=\"vw\" data-ja=\"通知\" data-reading=\"つうち\" data-en=\"notification\"><ruby>通知<rt>つうち</rt></ruby></span>を<ruby>行って<rt>おこなって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では最近、食品会社や物流会社を狙ったサイバー攻撃が増えています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<ruby>食品<rt>しょくひん</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>や<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>狙っ<rt>ねらっ</rt></ruby>た<span class=\"vw\" data-ja=\"サイバー攻撃\" data-reading=\"サイバーこうげき\" data-en=\"cyberattack\">サイバー<ruby>攻撃<rt>こうげき</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、どの会社も普段からセキュリティ対策を強めることが大切だと話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門家\" data-reading=\"せんもんか\" data-en=\"expert\"><ruby>専門家<rt>せんもんか</rt></ruby></span>は、どの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>普段<rt>ふだん</rt></ruby>からセキュリティ<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>を<span class=\"vw\" data-ja=\"強める\" data-reading=\"つよめる\" data-en=\"to strengthen\"><ruby>強め<rt>つよめ</rt></ruby>ることが</span><ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ニチレイのデータを公開したのは、何と名乗るハッカー集団ですか。",
+      "ruby": "ニチレイのデータを<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"making public; publishing\"><ruby>公開<rt>こうかい</rt></ruby></span>したのは、<ruby>何と<rt>なんと</rt></ruby><span class=\"vw\" data-ja=\"名乗る\" data-reading=\"なのる\" data-en=\"to call oneself\"><ruby>名乗る<rt>なのる</rt></ruby></span>ハッカー<span class=\"vw\" data-ja=\"集団\" data-reading=\"しゅうだん\" data-en=\"group\"><ruby>集団<rt>しゅうだん</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A Russia-linked group calling itself RansomHouse."
+    },
+    {
+      "speaker": "slow",
+      "text": "ニチレイの物流サービスは、全国の約いくつの会社が利用していますか。",
+      "ruby": "ニチレイの<span class=\"vw\" data-ja=\"物流\" data-reading=\"ぶつりゅう\" data-en=\"logistics; distribution\"><ruby>物流<rt>ぶつりゅう</rt></ruby></span>サービスは、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>約<rt>やく</rt></ruby>いくつの<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"利用\" data-reading=\"りよう\" data-en=\"use; utilization\"><ruby>利用<rt>りよう</rt></ruby></span>していますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five thousand companies."
+    },
+    {
+      "speaker": "slow",
+      "text": "ニチレイのシステムは、いつ通常の営業に戻りましたか。",
+      "ruby": "ニチレイのシステムは、いつ<span class=\"vw\" data-ja=\"通常\" data-reading=\"つうじょう\" data-en=\"normal; usual\"><ruby>通常<rt>つうじょう</rt></ruby></span>の<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>戻り<rt>もどり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On July twenty-fourth — about ten days after the attack."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Cyberattacks like this can quietly reach all the way to the frozen-food aisle of your local supermarket. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "冷凍食品",
+      "reading": "れいとうしょくひん",
+      "en": "frozen food",
+      "zh": "冷冻食品"
+    },
+    {
+      "ja": "大手",
+      "reading": "おおて",
+      "en": "major company; industry leader",
+      "zh": "大型企业；行业巨头"
+    },
+    {
+      "ja": "サイバー攻撃",
+      "reading": "サイバーこうげき",
+      "en": "cyberattack",
+      "zh": "网络攻击"
+    },
+    {
+      "ja": "盗む",
+      "reading": "ぬすむ",
+      "en": "to steal",
+      "zh": "偷；窃取"
+    },
+    {
+      "ja": "公開",
+      "reading": "こうかい",
+      "en": "making public; publishing",
+      "zh": "公开；公布"
+    },
+    {
+      "ja": "名乗る",
+      "reading": "なのる",
+      "en": "to call oneself",
+      "zh": "自称"
+    },
+    {
+      "ja": "集団",
+      "reading": "しゅうだん",
+      "en": "group",
+      "zh": "集团；团伙"
+    },
+    {
+      "ja": "従業員",
+      "reading": "じゅうぎょういん",
+      "en": "employee",
+      "zh": "员工"
+    },
+    {
+      "ja": "取引先",
+      "reading": "とりひきさき",
+      "en": "business partner; client company",
+      "zh": "客户；交易对象"
+    },
+    {
+      "ja": "個人情報",
+      "reading": "こじんじょうほう",
+      "en": "personal information",
+      "zh": "个人信息"
+    },
+    {
+      "ja": "含む",
+      "reading": "ふくむ",
+      "en": "to include; to contain",
+      "zh": "包含"
+    },
+    {
+      "ja": "不正アクセス",
+      "reading": "ふせいアクセス",
+      "en": "unauthorized access",
+      "zh": "非法访问"
+    },
+    {
+      "ja": "障害",
+      "reading": "しょうがい",
+      "en": "failure; malfunction",
+      "zh": "故障"
+    },
+    {
+      "ja": "注文",
+      "reading": "ちゅうもん",
+      "en": "order (for goods)",
+      "zh": "订购；订单"
+    },
+    {
+      "ja": "出荷",
+      "reading": "しゅっか",
+      "en": "shipment; shipping out",
+      "zh": "发货；出货"
+    },
+    {
+      "ja": "一時",
+      "reading": "いちじ",
+      "en": "temporarily; for a time",
+      "zh": "一时；暂时"
+    },
+    {
+      "ja": "物流",
+      "reading": "ぶつりゅう",
+      "en": "logistics; distribution",
+      "zh": "物流"
+    },
+    {
+      "ja": "利用",
+      "reading": "りよう",
+      "en": "use; utilization",
+      "zh": "利用；使用"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage; harm",
+      "zh": "受害；损失"
+    },
+    {
+      "ja": "手作業",
+      "reading": "てさぎょう",
+      "en": "manual work; by hand",
+      "zh": "手工作业"
+    },
+    {
+      "ja": "回復",
+      "reading": "かいふく",
+      "en": "recovery",
+      "zh": "恢复"
+    },
+    {
+      "ja": "通常",
+      "reading": "つうじょう",
+      "en": "normal; usual",
+      "zh": "通常；正常"
+    },
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak out",
+      "zh": "泄露"
+    },
+    {
+      "ja": "可能性",
+      "reading": "かのうせい",
+      "en": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "ja": "報告",
+      "reading": "ほうこく",
+      "en": "report",
+      "zh": "报告"
+    },
+    {
+      "ja": "通知",
+      "reading": "つうち",
+      "en": "notification",
+      "zh": "通知"
+    },
+    {
+      "ja": "狙う",
+      "reading": "ねらう",
+      "en": "to target; to aim at",
+      "zh": "瞄准；以…为目标"
+    },
+    {
+      "ja": "専門家",
+      "reading": "せんもんか",
+      "en": "expert",
+      "zh": "专家"
+    },
+    {
+      "ja": "対策",
+      "reading": "たいさく",
+      "en": "countermeasure",
+      "zh": "对策；措施"
+    },
+    {
+      "ja": "強める",
+      "reading": "つよめる",
+      "en": "to strengthen",
+      "zh": "加强"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことが分かりました",
+      "meaning": "it was learned that ...; it has come to light that ...",
+      "meaningZh": "获悉…；据了解…",
+      "formation": "plain-form clause + ことが分かる",
+      "example": "盗まれたとみられるデータが公開されたことが分かりました。",
+      "translation": "It was learned that data believed to be stolen has been published.",
+      "note": "standard news opener for newly revealed facts; softer than a direct announcement",
+      "noteZh": "新闻中报道新披露事实的固定说法，比直接宣布语气缓和",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことがわかる"
+    },
+    {
+      "pattern": "〜を受ける",
+      "meaning": "to suffer; to be subjected to",
+      "meaningZh": "遭受…；受到…",
+      "formation": "noun + を受ける",
+      "example": "ニチレイがサイバー攻撃を受けました。",
+      "translation": "Nichirei was hit by a cyberattack.",
+      "note": "used with 攻撃・被害・影響 etc.; the subject is the one affected",
+      "noteZh": "常与「攻撃・被害・影響」等搭配，主语是受影响的一方",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#を受ける"
+    },
+    {
+      "pattern": "〜の影響で",
+      "meaning": "due to the effects of ...",
+      "meaningZh": "受…的影响",
+      "formation": "noun (or この/その) + の影響で",
+      "example": "この影響で、注文や出荷が一時できなくなりました。",
+      "translation": "Because of this, orders and shipments were temporarily impossible.",
+      "note": "very common news connector for cause and effect",
+      "noteZh": "新闻中表示因果关系的常用连接方式",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#影響で"
+    },
+    {
+      "pattern": "〜なくなる",
+      "meaning": "to stop being possible; to no longer happen",
+      "meaningZh": "变得不能…；不再…",
+      "formation": "verb ない-form (drop い) + くなる",
+      "example": "冷凍食品やアイスクリームが届かなくなりました。",
+      "translation": "Frozen foods and ice cream stopped arriving.",
+      "note": "describes a change into a negative state; できなくなる = become unable to do",
+      "noteZh": "表示变成否定状态的变化，「できなくなる」即变得无法做",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくなる"
+    },
+    {
+      "pattern": "〜可能性がある",
+      "meaning": "there is a possibility that ...",
+      "meaningZh": "有…的可能性",
+      "formation": "plain-form clause + 可能性がある",
+      "example": "個人情報が漏れた可能性があります。",
+      "translation": "There is a possibility that personal information leaked.",
+      "note": "news style for unconfirmed but plausible facts; often paired with として when giving a reason",
+      "noteZh": "新闻中表示未经确认但可能属实的信息，说明理由时常与として连用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#可能性がある"
+    }
+  ],
+  "practiceZh": [
+    "冷凍食品大手の「ニチレイ」がサイバー攻撃を受け、盗まれたとみられるデータがインターネット上で公開されたことが分かりました。\n据了解，冷冻食品巨头“日冷”遭到网络攻击，疑似被窃取的数据已在互联网上被公开。\n冷凍食品 = 冷冻食品；サイバー攻撃 = 网络攻击",
+    "データを公開したのは、「ランサムハウス」と名乗るロシア系のハッカー集団です。\n公开数据的是一个自称“RansomHouse”的俄罗斯系黑客团伙。\n名乗る = 自称；集団 = 团伙",
+    "データには、従業員や取引先の個人情報などが含まれているとみられています。\n据分析，数据中包含员工和客户的个人信息等。\n従業員 = 员工；取引先 = 客户",
+    "ニチレイは7月13日、会社のシステムに不正アクセスがあり、システム障害が起きたと発表しました。\n日冷公司于7月13日宣布，公司系统遭到非法访问，发生了系统故障。\n不正アクセス = 非法访问；障害 = 故障",
+    "この影響で、冷凍食品などの注文や出荷が、一時できなくなりました。\n受此影响，冷冻食品等的订购和发货一度无法进行。\n注文 = 订购；出荷 = 发货",
+    "ニチレイの物流サービスは、スーパーやレストランなど、全国の約5000の会社が利用しています。\n日冷的物流服务被超市、餐厅等全国约5000家公司使用。\n物流 = 物流；利用 = 使用",
+    "そのため、一部の店では、冷凍食品やアイスクリームが届かなくなる影響が出ました。\n因此，部分商店出现了冷冻食品和冰淇淋无法送达的影响。\n届く = 送达；影響 = 影响",
+    "会社は、被害を広げないためにシステムを止めて、一部の出荷を手作業で続けました。\n公司为了不扩大损失而停止了系统，用手工作业继续了一部分发货。\n被害 = 损失；手作業 = 手工作业",
+    "システムは少しずつ回復し、約10日後の7月24日に、通常の営業に戻りました。\n系统逐渐恢复，在约10天后的7月24日恢复了正常营业。\n回復 = 恢复；通常 = 正常",
+    "ニチレイは、個人情報が漏れた可能性があるとして、国の個人情報保護委員会に報告しました。\n日冷以个人信息可能泄露为由，向国家个人信息保护委员会作了报告。\n漏れる = 泄露；可能性 = 可能性",
+    "また、情報が漏れた可能性のある人には、順番に通知を行っています。\n此外，正在依次通知信息可能泄露的人。\n順番に = 依次；通知 = 通知",
+    "日本では最近、食品会社や物流会社を狙ったサイバー攻撃が増えています。\n最近在日本，针对食品公司和物流公司的网络攻击正在增加。\n狙う = 瞄准；増える = 增加",
+    "専門家は、どの会社も普段からセキュリティ対策を強めることが大切だと話しています。\n专家表示，每家公司平时都加强安全对策很重要。\n対策 = 对策；強める = 加强"
+  ]
+}
