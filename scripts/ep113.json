@@ -1,0 +1,604 @@
+{
+  "episode": 113,
+  "title": "H3ロケット9号機、「みちびき7号機」の打ち上げに成功",
+  "date": "2026-08-11",
+  "source": "NHK / sorae / 南日本新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026081101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August eleventh. Before dawn this morning, Japan's new flagship rocket lifted off, carrying a key satellite for the country's own version of GPS. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の新しい大型ロケット「H3」の9号機が、今日の朝早く、鹿児島県の種子島宇宙センターから打ち上げられました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large-sized\"><ruby>大型<rt>おおがた</rt></ruby></span>ロケット「H3」の9<ruby>号機<rt>ごうき</rt></ruby>が、<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島<rt>たねがしま</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>センターから<ruby>打ち上げ<rt>うちあげ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロケットは午前4時23分に発射され、大きな音とともに、まだ暗い夜の空へのぼっていきました。",
+      "ruby": "ロケットは<ruby>午前<rt>ごぜん</rt></ruby>4<ruby>時<rt>じ</rt></ruby>23<ruby>分<rt>ふん</rt></ruby>に<span class=\"vw\" data-ja=\"発射\" data-reading=\"はっしゃ\" data-en=\"launch; firing\"><ruby>発射<rt>はっしゃ</rt></ruby></span>され、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音<rt>おと</rt></ruby>とともに、まだ<ruby>暗い<rt>くらい</rt></ruby><ruby>夜<rt>よる</rt></ruby>の<ruby>空<rt>そら</rt></ruby>へのぼっていきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "H3ロケットには、政府の測位衛星「みちびき7号機」が搭載されていました。",
+      "ruby": "H3ロケットには、<ruby>政府<rt>せいふ</rt></ruby>の<span class=\"vw\" data-ja=\"測位\" data-reading=\"そくい\" data-en=\"positioning; position-fixing\"><ruby>測位<rt>そくい</rt></ruby></span><span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>「みちびき7<ruby>号機<rt>ごうき</rt></ruby>」が<span class=\"vw\" data-ja=\"搭載\" data-reading=\"とうさい\" data-en=\"carried on board\"><ruby>搭載<rt>とうさい</rt></ruby></span>されていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "打ち上げからおよそ30分後、衛星は予定どおり分離され、打ち上げは成功しました。",
+      "ruby": "<ruby>打ち上げ<rt>うちあげ</rt></ruby>からおよそ30<ruby>分後<rt>ふんご</rt></ruby>、<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>は<ruby>予定<rt>よてい</rt></ruby>どおり<span class=\"vw\" data-ja=\"分離\" data-reading=\"ぶんり\" data-en=\"separation\"><ruby>分離<rt>ぶんり</rt></ruby></span>され、<ruby>打ち上げ<rt>うちあげ</rt></ruby>は<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「みちびき」は、「日本版GPS」とも呼ばれる、準天頂衛星システムの衛星です。",
+      "ruby": "「みちびき」は、「<ruby>日本版<rt>にほんばん</rt></ruby>GPS」とも<ruby>呼ば<rt>よば</rt></ruby>れる、<span class=\"vw\" data-ja=\"準天頂衛星\" data-reading=\"じゅんてんちょうえいせい\" data-en=\"quasi-zenith satellite\"><ruby>準<rt>じゅん</rt></ruby><ruby>天頂<rt>てんちょう</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby></span>システムの<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "準天頂衛星は、日本のほぼ真上を長く飛ぶ特別な軌道を回るため、高いビルや山が多い場所でも電波が届きやすいという特長があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"準天頂衛星\" data-reading=\"じゅんてんちょうえいせい\" data-en=\"quasi-zenith satellite\"><ruby>準<rt>じゅん</rt></ruby><ruby>天頂<rt>てんちょう</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>のほぼ<span class=\"vw\" data-ja=\"真上\" data-reading=\"まうえ\" data-en=\"directly above\"><ruby>真上<rt>まうえ</rt></ruby></span>を<ruby>長く<rt>ながく</rt></ruby><ruby>飛ぶ<rt>とぶ</rt></ruby><ruby>特別<rt>とくべつ</rt></ruby>な<span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>を<ruby>回る<rt>まわる</rt></ruby>ため、<ruby>高い<rt>たかい</rt></ruby>ビルや<ruby>山<rt>やま</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>でも<span class=\"vw\" data-ja=\"電波\" data-reading=\"でんぱ\" data-en=\"radio wave; signal\"><ruby>電波<rt>でんぱ</rt></ruby></span>が<ruby>届き<rt>とどき</rt></ruby>やすいという<span class=\"vw\" data-ja=\"特長\" data-reading=\"とくちょう\" data-en=\"strong point; feature\"><ruby>特長<rt>とくちょう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の7号機で、システムは7機体制になり、外国の衛星に頼らずに、日本だけで位置を測ることができるようになります。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の7<ruby>号機<rt>ごうき</rt></ruby>で、システムは7<ruby>機<rt>き</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>になり、<ruby>外国<rt>がいこく</rt></ruby>の<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>に<ruby>頼ら<rt>たよら</rt></ruby>ずに、<ruby>日本<rt>にっぽん</rt></ruby>だけで<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置<rt>いち</rt></ruby></span>を<span class=\"vw\" data-ja=\"測る\" data-reading=\"はかる\" data-en=\"to measure\"><ruby>測る<rt>はかる</rt></ruby></span>ことができるようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "みちびきの位置情報は、スマートフォンの地図や車のカーナビのほか、農業の自動運転トラクターや、ドローンの配達などにも使われています。",
+      "ruby": "みちびきの<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>は、スマートフォンの<span class=\"vw\" data-ja=\"地図\" data-reading=\"ちず\" data-en=\"map\"><ruby>地図<rt>ちず</rt></ruby></span>や<ruby>車<rt>くるま</rt></ruby>のカーナビのほか、<span class=\"vw\" data-ja=\"農業\" data-reading=\"のうぎょう\" data-en=\"agriculture\"><ruby>農業<rt>のうぎょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"self-driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>トラクターや、ドローンの<span class=\"vw\" data-ja=\"配達\" data-reading=\"はいたつ\" data-en=\"delivery\"><ruby>配達<rt>はいたつ</rt></ruby></span>などにも<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "誤差わずか数センチという、正確な位置情報を届けるサービスもあり、利用はさらに広がる見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"誤差\" data-reading=\"ごさ\" data-en=\"margin of error\"><ruby>誤差<rt>ごさ</rt></ruby></span>わずか<ruby>数<rt>すう</rt></ruby>センチという、<span class=\"vw\" data-ja=\"正確\" data-reading=\"せいかく\" data-en=\"accurate; precise\"><ruby>正確<rt>せいかく</rt></ruby></span>な<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>を<ruby>届け<rt>とどけ</rt></ruby>るサービスもあり、<ruby>利用<rt>りよう</rt></ruby>はさらに<ruby>広が<rt>ひろが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "H3は、長く日本の宇宙開発を支えた「H2A」の後継として開発された、新しい主力ロケットです。",
+      "ruby": "H3は、<ruby>長く<rt>ながく</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"宇宙開発\" data-reading=\"うちゅうかいはつ\" data-en=\"space development\"><ruby>宇宙開発<rt>うちゅうかいはつ</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>た「H2A」の<span class=\"vw\" data-ja=\"後継\" data-reading=\"こうけい\" data-en=\"successor\"><ruby>後継<rt>こうけい</rt></ruby></span>として<ruby>開発<rt>かいはつ</rt></ruby>された、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"主力\" data-reading=\"しゅりょく\" data-en=\"main force; flagship\"><ruby>主力<rt>しゅりょく</rt></ruby></span>ロケットです。"
+    },
+    {
+      "speaker": "news",
+      "text": "種子島の見学場所には朝早くから多くのファンが集まり、打ち上げが成功すると、大きな拍手と歓声が起きました。",
+      "ruby": "<ruby>種子島<rt>たねがしま</rt></ruby>の<ruby>見学<rt>けんがく</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>には<ruby>朝早く<rt>あさはやく</rt></ruby>から<ruby>多く<rt>おおく</rt></ruby>のファンが<ruby>集まり<rt>あつまり</rt></ruby>、<ruby>打ち上げ<rt>うちあげ</rt></ruby>が<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>すると、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>と<span class=\"vw\" data-ja=\"歓声\" data-reading=\"かんせい\" data-en=\"cheers\"><ruby>歓声<rt>かんせい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の新しい大型ロケット「H3」の9号機が、今日の朝早く、鹿児島県の種子島宇宙センターから打ち上げられました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large-sized\"><ruby>大型<rt>おおがた</rt></ruby></span>ロケット「H3」の9<ruby>号機<rt>ごうき</rt></ruby>が、<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島<rt>たねがしま</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>センターから<ruby>打ち上げ<rt>うちあげ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Early this morning, unit nine of Japan's new large rocket lifted off from the Tanegashima Space Center in Kagoshima Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "打ち上げる",
+      "ruby": "<span class=\"vw\" data-ja=\"打ち上げる\" data-reading=\"うちあげる\" data-en=\"to launch\"><ruby>打ち上げ<rt>うちあげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to launch — to send a rocket up into the sky."
+    },
+    {
+      "speaker": "slow",
+      "text": "H3ロケットには、政府の測位衛星「みちびき7号機」が搭載されていました。",
+      "ruby": "H3ロケットには、<ruby>政府<rt>せいふ</rt></ruby>の<span class=\"vw\" data-ja=\"測位\" data-reading=\"そくい\" data-en=\"positioning; position-fixing\"><ruby>測位<rt>そくい</rt></ruby></span><span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>「みちびき7<ruby>号機<rt>ごうき</rt></ruby>」が<span class=\"vw\" data-ja=\"搭載\" data-reading=\"とうさい\" data-en=\"carried on board\"><ruby>搭載<rt>とうさい</rt></ruby></span>されていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rocket was carrying Michibiki number seven, a government positioning satellite."
+    },
+    {
+      "speaker": "vocab",
+      "text": "搭載",
+      "ruby": "<span class=\"vw\" data-ja=\"搭載\" data-reading=\"とうさい\" data-en=\"carried on board\"><ruby>搭載<rt>とうさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means carried on board."
+    },
+    {
+      "speaker": "slow",
+      "text": "打ち上げからおよそ30分後、衛星は予定どおり分離され、打ち上げは成功しました。",
+      "ruby": "<ruby>打ち上げ<rt>うちあげ</rt></ruby>からおよそ30<ruby>分後<rt>ふんご</rt></ruby>、<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>は<ruby>予定<rt>よてい</rt></ruby>どおり<span class=\"vw\" data-ja=\"分離\" data-reading=\"ぶんり\" data-en=\"separation\"><ruby>分離<rt>ぶんり</rt></ruby></span>され、<ruby>打ち上げ<rt>うちあげ</rt></ruby>は<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About thirty minutes after liftoff, the satellite separated as planned, and the launch was a success."
+    },
+    {
+      "speaker": "vocab",
+      "text": "分離",
+      "ruby": "<span class=\"vw\" data-ja=\"分離\" data-reading=\"ぶんり\" data-en=\"separation\"><ruby>分離<rt>ぶんり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means separation — coming apart from something."
+    },
+    {
+      "speaker": "slow",
+      "text": "準天頂衛星は、日本のほぼ真上を長く飛ぶ特別な軌道を回るため、高いビルや山が多い場所でも電波が届きやすいという特長があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"準天頂衛星\" data-reading=\"じゅんてんちょうえいせい\" data-en=\"quasi-zenith satellite\"><ruby>準<rt>じゅん</rt></ruby><ruby>天頂<rt>てんちょう</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>のほぼ<span class=\"vw\" data-ja=\"真上\" data-reading=\"まうえ\" data-en=\"directly above\"><ruby>真上<rt>まうえ</rt></ruby></span>を<ruby>長く<rt>ながく</rt></ruby><ruby>飛ぶ<rt>とぶ</rt></ruby><ruby>特別<rt>とくべつ</rt></ruby>な<span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>を<ruby>回る<rt>まわる</rt></ruby>ため、<ruby>高い<rt>たかい</rt></ruby>ビルや<ruby>山<rt>やま</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>でも<span class=\"vw\" data-ja=\"電波\" data-reading=\"でんぱ\" data-en=\"radio wave; signal\"><ruby>電波<rt>でんぱ</rt></ruby></span>が<ruby>届き<rt>とどき</rt></ruby>やすいという<span class=\"vw\" data-ja=\"特長\" data-reading=\"とくちょう\" data-en=\"strong point; feature\"><ruby>特長<rt>とくちょう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "These satellites follow a special orbit almost directly over Japan, so the signal reaches even places full of tall buildings and mountains."
+    },
+    {
+      "speaker": "vocab",
+      "text": "軌道",
+      "ruby": "<span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an orbit — the path a satellite follows."
+    },
+    {
+      "speaker": "slow",
+      "text": "今回の7号機で、システムは7機体制になり、外国の衛星に頼らずに、日本だけで位置を測ることができるようになります。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の7<ruby>号機<rt>ごうき</rt></ruby>で、システムは7<ruby>機<rt>き</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>になり、<ruby>外国<rt>がいこく</rt></ruby>の<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>に<ruby>頼ら<rt>たよら</rt></ruby>ずに、<ruby>日本<rt>にっぽん</rt></ruby>だけで<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置<rt>いち</rt></ruby></span>を<span class=\"vw\" data-ja=\"測る\" data-reading=\"はかる\" data-en=\"to measure\"><ruby>測る<rt>はかる</rt></ruby></span>ことができるようになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "With this seventh satellite, Japan can now measure positions on its own, without relying on foreign satellites."
+    },
+    {
+      "speaker": "vocab",
+      "text": "頼る",
+      "ruby": "<span class=\"vw\" data-ja=\"頼る\" data-reading=\"たよる\" data-en=\"to rely on\"><ruby>頼る<rt>たよる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to rely on."
+    },
+    {
+      "speaker": "slow",
+      "text": "みちびきの位置情報は、スマートフォンの地図や車のカーナビのほか、農業の自動運転トラクターや、ドローンの配達などにも使われています。",
+      "ruby": "みちびきの<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>は、スマートフォンの<span class=\"vw\" data-ja=\"地図\" data-reading=\"ちず\" data-en=\"map\"><ruby>地図<rt>ちず</rt></ruby></span>や<ruby>車<rt>くるま</rt></ruby>のカーナビのほか、<span class=\"vw\" data-ja=\"農業\" data-reading=\"のうぎょう\" data-en=\"agriculture\"><ruby>農業<rt>のうぎょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"self-driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>トラクターや、ドローンの<span class=\"vw\" data-ja=\"配達\" data-reading=\"はいたつ\" data-en=\"delivery\"><ruby>配達<rt>はいたつ</rt></ruby></span>などにも<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The positioning data is used in smartphone maps and car navigation, and also in self-driving farm tractors and drone deliveries."
+    },
+    {
+      "speaker": "vocab",
+      "text": "自動運転",
+      "ruby": "<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"self-driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means self-driving — a machine that steers itself."
+    },
+    {
+      "speaker": "slow",
+      "text": "誤差わずか数センチという、正確な位置情報を届けるサービスもあり、利用はさらに広がる見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"誤差\" data-reading=\"ごさ\" data-en=\"margin of error\"><ruby>誤差<rt>ごさ</rt></ruby></span>わずか<ruby>数<rt>すう</rt></ruby>センチという、<span class=\"vw\" data-ja=\"正確\" data-reading=\"せいかく\" data-en=\"accurate; precise\"><ruby>正確<rt>せいかく</rt></ruby></span>な<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>を<ruby>届け<rt>とどけ</rt></ruby>るサービスもあり、<ruby>利用<rt>りよう</rt></ruby>はさらに<ruby>広が<rt>ひろが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "One service delivers positions accurate to within just a few centimeters, and its use is expected to keep spreading."
+    },
+    {
+      "speaker": "vocab",
+      "text": "誤差",
+      "ruby": "<span class=\"vw\" data-ja=\"誤差\" data-reading=\"ごさ\" data-en=\"margin of error\"><ruby>誤差<rt>ごさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a margin of error."
+    },
+    {
+      "speaker": "slow",
+      "text": "H3は、長く日本の宇宙開発を支えた「H2A」の後継として開発された、新しい主力ロケットです。",
+      "ruby": "H3は、<ruby>長く<rt>ながく</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"宇宙開発\" data-reading=\"うちゅうかいはつ\" data-en=\"space development\"><ruby>宇宙開発<rt>うちゅうかいはつ</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>た「H2A」の<span class=\"vw\" data-ja=\"後継\" data-reading=\"こうけい\" data-en=\"successor\"><ruby>後継<rt>こうけい</rt></ruby></span>として<ruby>開発<rt>かいはつ</rt></ruby>された、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"主力\" data-reading=\"しゅりょく\" data-en=\"main force; flagship\"><ruby>主力<rt>しゅりょく</rt></ruby></span>ロケットです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The H3 is Japan's new main rocket, developed as the successor to the long-serving H2A."
+    },
+    {
+      "speaker": "vocab",
+      "text": "後継",
+      "ruby": "<span class=\"vw\" data-ja=\"後継\" data-reading=\"こうけい\" data-en=\"successor\"><ruby>後継<rt>こうけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a successor."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "日本の新しい大型ロケット「H3」の9号機が、今日の朝早く、鹿児島県の種子島宇宙センターから打ち上げられました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"大型\" data-reading=\"おおがた\" data-en=\"large-sized\"><ruby>大型<rt>おおがた</rt></ruby></span>ロケット「H3」の9<ruby>号機<rt>ごうき</rt></ruby>が、<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島<rt>たねがしま</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>センターから<ruby>打ち上げ<rt>うちあげ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロケットは午前4時23分に発射され、大きな音とともに、まだ暗い夜の空へのぼっていきました。",
+      "ruby": "ロケットは<ruby>午前<rt>ごぜん</rt></ruby>4<ruby>時<rt>じ</rt></ruby>23<ruby>分<rt>ふん</rt></ruby>に<span class=\"vw\" data-ja=\"発射\" data-reading=\"はっしゃ\" data-en=\"launch; firing\"><ruby>発射<rt>はっしゃ</rt></ruby></span>され、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音<rt>おと</rt></ruby>とともに、まだ<ruby>暗い<rt>くらい</rt></ruby><ruby>夜<rt>よる</rt></ruby>の<ruby>空<rt>そら</rt></ruby>へのぼっていきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "H3ロケットには、政府の測位衛星「みちびき7号機」が搭載されていました。",
+      "ruby": "H3ロケットには、<ruby>政府<rt>せいふ</rt></ruby>の<span class=\"vw\" data-ja=\"測位\" data-reading=\"そくい\" data-en=\"positioning; position-fixing\"><ruby>測位<rt>そくい</rt></ruby></span><span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>「みちびき7<ruby>号機<rt>ごうき</rt></ruby>」が<span class=\"vw\" data-ja=\"搭載\" data-reading=\"とうさい\" data-en=\"carried on board\"><ruby>搭載<rt>とうさい</rt></ruby></span>されていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "打ち上げからおよそ30分後、衛星は予定どおり分離され、打ち上げは成功しました。",
+      "ruby": "<ruby>打ち上げ<rt>うちあげ</rt></ruby>からおよそ30<ruby>分後<rt>ふんご</rt></ruby>、<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>は<ruby>予定<rt>よてい</rt></ruby>どおり<span class=\"vw\" data-ja=\"分離\" data-reading=\"ぶんり\" data-en=\"separation\"><ruby>分離<rt>ぶんり</rt></ruby></span>され、<ruby>打ち上げ<rt>うちあげ</rt></ruby>は<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「みちびき」は、「日本版GPS」とも呼ばれる、準天頂衛星システムの衛星です。",
+      "ruby": "「みちびき」は、「<ruby>日本版<rt>にほんばん</rt></ruby>GPS」とも<ruby>呼ば<rt>よば</rt></ruby>れる、<span class=\"vw\" data-ja=\"準天頂衛星\" data-reading=\"じゅんてんちょうえいせい\" data-en=\"quasi-zenith satellite\"><ruby>準<rt>じゅん</rt></ruby><ruby>天頂<rt>てんちょう</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby></span>システムの<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "準天頂衛星は、日本のほぼ真上を長く飛ぶ特別な軌道を回るため、高いビルや山が多い場所でも電波が届きやすいという特長があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"準天頂衛星\" data-reading=\"じゅんてんちょうえいせい\" data-en=\"quasi-zenith satellite\"><ruby>準<rt>じゅん</rt></ruby><ruby>天頂<rt>てんちょう</rt></ruby><ruby>衛星<rt>えいせい</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>のほぼ<span class=\"vw\" data-ja=\"真上\" data-reading=\"まうえ\" data-en=\"directly above\"><ruby>真上<rt>まうえ</rt></ruby></span>を<ruby>長く<rt>ながく</rt></ruby><ruby>飛ぶ<rt>とぶ</rt></ruby><ruby>特別<rt>とくべつ</rt></ruby>な<span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>を<ruby>回る<rt>まわる</rt></ruby>ため、<ruby>高い<rt>たかい</rt></ruby>ビルや<ruby>山<rt>やま</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>でも<span class=\"vw\" data-ja=\"電波\" data-reading=\"でんぱ\" data-en=\"radio wave; signal\"><ruby>電波<rt>でんぱ</rt></ruby></span>が<ruby>届き<rt>とどき</rt></ruby>やすいという<span class=\"vw\" data-ja=\"特長\" data-reading=\"とくちょう\" data-en=\"strong point; feature\"><ruby>特長<rt>とくちょう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の7号機で、システムは7機体制になり、外国の衛星に頼らずに、日本だけで位置を測ることができるようになります。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の7<ruby>号機<rt>ごうき</rt></ruby>で、システムは7<ruby>機<rt>き</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>になり、<ruby>外国<rt>がいこく</rt></ruby>の<span class=\"vw\" data-ja=\"衛星\" data-reading=\"えいせい\" data-en=\"satellite\"><ruby>衛星<rt>えいせい</rt></ruby></span>に<ruby>頼ら<rt>たよら</rt></ruby>ずに、<ruby>日本<rt>にっぽん</rt></ruby>だけで<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置<rt>いち</rt></ruby></span>を<span class=\"vw\" data-ja=\"測る\" data-reading=\"はかる\" data-en=\"to measure\"><ruby>測る<rt>はかる</rt></ruby></span>ことができるようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "みちびきの位置情報は、スマートフォンの地図や車のカーナビのほか、農業の自動運転トラクターや、ドローンの配達などにも使われています。",
+      "ruby": "みちびきの<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>は、スマートフォンの<span class=\"vw\" data-ja=\"地図\" data-reading=\"ちず\" data-en=\"map\"><ruby>地図<rt>ちず</rt></ruby></span>や<ruby>車<rt>くるま</rt></ruby>のカーナビのほか、<span class=\"vw\" data-ja=\"農業\" data-reading=\"のうぎょう\" data-en=\"agriculture\"><ruby>農業<rt>のうぎょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"self-driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>トラクターや、ドローンの<span class=\"vw\" data-ja=\"配達\" data-reading=\"はいたつ\" data-en=\"delivery\"><ruby>配達<rt>はいたつ</rt></ruby></span>などにも<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "誤差わずか数センチという、正確な位置情報を届けるサービスもあり、利用はさらに広がる見込みです。",
+      "ruby": "<span class=\"vw\" data-ja=\"誤差\" data-reading=\"ごさ\" data-en=\"margin of error\"><ruby>誤差<rt>ごさ</rt></ruby></span>わずか<ruby>数<rt>すう</rt></ruby>センチという、<span class=\"vw\" data-ja=\"正確\" data-reading=\"せいかく\" data-en=\"accurate; precise\"><ruby>正確<rt>せいかく</rt></ruby></span>な<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>を<ruby>届け<rt>とどけ</rt></ruby>るサービスもあり、<ruby>利用<rt>りよう</rt></ruby>はさらに<ruby>広が<rt>ひろが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "H3は、長く日本の宇宙開発を支えた「H2A」の後継として開発された、新しい主力ロケットです。",
+      "ruby": "H3は、<ruby>長く<rt>ながく</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"宇宙開発\" data-reading=\"うちゅうかいはつ\" data-en=\"space development\"><ruby>宇宙開発<rt>うちゅうかいはつ</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>た「H2A」の<span class=\"vw\" data-ja=\"後継\" data-reading=\"こうけい\" data-en=\"successor\"><ruby>後継<rt>こうけい</rt></ruby></span>として<ruby>開発<rt>かいはつ</rt></ruby>された、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"主力\" data-reading=\"しゅりょく\" data-en=\"main force; flagship\"><ruby>主力<rt>しゅりょく</rt></ruby></span>ロケットです。"
+    },
+    {
+      "speaker": "news",
+      "text": "種子島の見学場所には朝早くから多くのファンが集まり、打ち上げが成功すると、大きな拍手と歓声が起きました。",
+      "ruby": "<ruby>種子島<rt>たねがしま</rt></ruby>の<ruby>見学<rt>けんがく</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>には<ruby>朝早く<rt>あさはやく</rt></ruby>から<ruby>多く<rt>おおく</rt></ruby>のファンが<ruby>集まり<rt>あつまり</rt></ruby>、<ruby>打ち上げ<rt>うちあげ</rt></ruby>が<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>すると、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>と<span class=\"vw\" data-ja=\"歓声\" data-reading=\"かんせい\" data-en=\"cheers\"><ruby>歓声<rt>かんせい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "H3ロケット9号機は、どこから打ち上げられましたか。",
+      "ruby": "H3ロケット9<ruby>号機<rt>ごうき</rt></ruby>は、どこから<ruby>打ち上げ<rt>うちあげ</rt></ruby>られましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the Tanegashima Space Center in Kagoshima Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "今回の打ち上げで、「みちびき」のシステムは何機体制になりましたか。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>打ち上げ<rt>うちあげ</rt></ruby>で、「みちびき」のシステムは<ruby>何機<rt>なんき</rt></ruby><span class=\"vw\" data-ja=\"体制\" data-reading=\"たいせい\" data-en=\"system; setup\"><ruby>体制<rt>たいせい</rt></ruby></span>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven satellites."
+    },
+    {
+      "speaker": "slow",
+      "text": "みちびきの位置情報は、たとえば何に使われていますか。",
+      "ruby": "みちびきの<span class=\"vw\" data-ja=\"位置\" data-reading=\"いち\" data-en=\"position; location\"><ruby>位置情報<rt>いちじょうほう</rt></ruby></span>は、たとえば<ruby>何<rt>なに</rt></ruby>に<ruby>使わ<rt>つかわ</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Smartphone maps, car navigation, self-driving farm tractors, and drone deliveries."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. With its own eyes in the sky, Japan's maps and machines are about to get a lot more precise. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "大型",
+      "reading": "おおがた",
+      "en": "large-sized",
+      "zh": "大型"
+    },
+    {
+      "ja": "打ち上げる",
+      "reading": "うちあげる",
+      "en": "to launch",
+      "zh": "发射"
+    },
+    {
+      "ja": "発射",
+      "reading": "はっしゃ",
+      "en": "launch; firing",
+      "zh": "发射"
+    },
+    {
+      "ja": "測位",
+      "reading": "そくい",
+      "en": "positioning; position-fixing",
+      "zh": "定位"
+    },
+    {
+      "ja": "衛星",
+      "reading": "えいせい",
+      "en": "satellite",
+      "zh": "卫星"
+    },
+    {
+      "ja": "搭載",
+      "reading": "とうさい",
+      "en": "carried on board",
+      "zh": "搭载"
+    },
+    {
+      "ja": "分離",
+      "reading": "ぶんり",
+      "en": "separation",
+      "zh": "分离"
+    },
+    {
+      "ja": "成功",
+      "reading": "せいこう",
+      "en": "success",
+      "zh": "成功"
+    },
+    {
+      "ja": "準天頂衛星",
+      "reading": "じゅんてんちょうえいせい",
+      "en": "quasi-zenith satellite",
+      "zh": "准天顶卫星"
+    },
+    {
+      "ja": "真上",
+      "reading": "まうえ",
+      "en": "directly above",
+      "zh": "正上方"
+    },
+    {
+      "ja": "軌道",
+      "reading": "きどう",
+      "en": "orbit",
+      "zh": "轨道"
+    },
+    {
+      "ja": "電波",
+      "reading": "でんぱ",
+      "en": "radio wave; signal",
+      "zh": "电波；信号"
+    },
+    {
+      "ja": "届く",
+      "reading": "とどく",
+      "en": "to reach; to arrive",
+      "zh": "到达；传到"
+    },
+    {
+      "ja": "特長",
+      "reading": "とくちょう",
+      "en": "strong point; feature",
+      "zh": "特长；优点"
+    },
+    {
+      "ja": "体制",
+      "reading": "たいせい",
+      "en": "system; setup",
+      "zh": "体制；体系"
+    },
+    {
+      "ja": "頼る",
+      "reading": "たよる",
+      "en": "to rely on",
+      "zh": "依靠"
+    },
+    {
+      "ja": "位置",
+      "reading": "いち",
+      "en": "position; location",
+      "zh": "位置"
+    },
+    {
+      "ja": "測る",
+      "reading": "はかる",
+      "en": "to measure",
+      "zh": "测量"
+    },
+    {
+      "ja": "地図",
+      "reading": "ちず",
+      "en": "map",
+      "zh": "地图"
+    },
+    {
+      "ja": "農業",
+      "reading": "のうぎょう",
+      "en": "agriculture",
+      "zh": "农业"
+    },
+    {
+      "ja": "自動運転",
+      "reading": "じどううんてん",
+      "en": "self-driving",
+      "zh": "自动驾驶"
+    },
+    {
+      "ja": "配達",
+      "reading": "はいたつ",
+      "en": "delivery",
+      "zh": "配送"
+    },
+    {
+      "ja": "誤差",
+      "reading": "ごさ",
+      "en": "margin of error",
+      "zh": "误差"
+    },
+    {
+      "ja": "正確",
+      "reading": "せいかく",
+      "en": "accurate; precise",
+      "zh": "准确"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "outlook; expectation",
+      "zh": "预计；前景"
+    },
+    {
+      "ja": "宇宙開発",
+      "reading": "うちゅうかいはつ",
+      "en": "space development",
+      "zh": "航天开发"
+    },
+    {
+      "ja": "後継",
+      "reading": "こうけい",
+      "en": "successor",
+      "zh": "后继；接班"
+    },
+    {
+      "ja": "主力",
+      "reading": "しゅりょく",
+      "en": "main force; flagship",
+      "zh": "主力"
+    },
+    {
+      "ja": "拍手",
+      "reading": "はくしゅ",
+      "en": "applause",
+      "zh": "鼓掌"
+    },
+    {
+      "ja": "歓声",
+      "reading": "かんせい",
+      "en": "cheers",
+      "zh": "欢呼声"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜とともに",
+      "meaning": "together with; along with",
+      "meaningZh": "随着…；和…一起",
+      "formation": "noun + とともに",
+      "example": "大きな音とともに、まだ暗い夜の空へのぼっていきました。",
+      "translation": "It rose into the still-dark night sky together with a huge roar.",
+      "note": "formal, written style; in news it often pairs an action with a sound, change, or event",
+      "noteZh": "书面语，新闻中常用来表示伴随某种声音、变化或事件发生",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とともに"
+    },
+    {
+      "pattern": "〜ずに",
+      "meaning": "without doing ...",
+      "meaningZh": "不…而…；没有…就…",
+      "formation": "verb ない-stem + ずに (する → せずに)",
+      "example": "外国の衛星に頼らずに、日本だけで位置を測ることができます。",
+      "translation": "Japan can measure positions on its own, without relying on foreign satellites.",
+      "note": "written equivalent of 〜ないで; describes doing B without doing A",
+      "noteZh": "〜ないで的书面形式，表示在不做A的情况下做B",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ずに"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to reach the point where ...; to come to be able to ...",
+      "meaningZh": "变得能…；开始…",
+      "formation": "dictionary form / 可能形 + ようになる",
+      "example": "日本だけで位置を測ることができるようになります。",
+      "translation": "It will become possible to measure positions using Japan's satellites alone.",
+      "note": "marks a change of state or ability over time, very common with できる",
+      "noteZh": "表示状态或能力随时间发生变化，常与できる连用",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜見込みです",
+      "meaning": "it is expected that ...",
+      "meaningZh": "预计…；有望…",
+      "formation": "plain-form clause + 見込みです",
+      "example": "利用はさらに広がる見込みです。",
+      "translation": "Its use is expected to spread even further.",
+      "note": "news style for forecasts and outlooks; softer than a definite statement",
+      "noteZh": "新闻中表示预测和展望的说法，比断定语气缓和",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#みこみ"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as ...; in the role of ...",
+      "meaningZh": "作为…",
+      "formation": "noun + として",
+      "example": "H2Aの後継として開発された、新しい主力ロケットです。",
+      "translation": "It is the new flagship rocket, developed as the successor to the H2A.",
+      "note": "states a role, status, or capacity in which something acts",
+      "noteZh": "表示以某种身份、资格或名义",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#として"
+    }
+  ],
+  "practiceZh": [
+    "日本の新しい大型ロケット「H3」の9号機が、今日の朝早く、鹿児島県の種子島宇宙センターから打ち上げられました。\n今天清晨，日本新型大型火箭“H3”9号机从鹿儿岛县的种子岛宇宙中心发射升空。\n大型 = 大型；打ち上げる = 发射",
+    "ロケットは午前4時23分に発射され、大きな音とともに、まだ暗い夜の空へのぼっていきました。\n火箭于凌晨4点23分点火发射，伴随着巨大的轰鸣声，升入尚未破晓的夜空。\n発射 = 发射；とともに = 伴随着",
+    "H3ロケットには、政府の測位衛星「みちびき7号機」が搭載されていました。\nH3火箭上搭载着政府的定位卫星“引路”7号机。\n測位 = 定位；搭載 = 搭载",
+    "打ち上げからおよそ30分後、衛星は予定どおり分離され、打ち上げは成功しました。\n发射约30分钟后，卫星按计划分离，发射取得成功。\n分離 = 分离；予定どおり = 按计划",
+    "「みちびき」は、「日本版GPS」とも呼ばれる、準天頂衛星システムの衛星です。\n“引路”是被称为“日本版GPS”的准天顶卫星系统的卫星。\n呼ばれる = 被称为；衛星 = 卫星",
+    "準天頂衛星は、日本のほぼ真上を長く飛ぶ特別な軌道を回るため、高いビルや山が多い場所でも電波が届きやすいという特長があります。\n准天顶卫星沿着长时间位于日本正上方的特殊轨道运行，因此即使在高楼和山地多的地方，信号也容易到达。\n真上 = 正上方；軌道 = 轨道；電波 = 信号",
+    "今回の7号機で、システムは7機体制になり、外国の衛星に頼らずに、日本だけで位置を測ることができるようになります。\n随着这次7号机的加入，系统形成7星体制，日本无需依靠外国卫星就能独立进行定位。\n体制 = 体制；頼る = 依靠；測る = 测量",
+    "みちびきの位置情報は、スマートフォンの地図や車のカーナビのほか、農業の自動運転トラクターや、ドローンの配達などにも使われています。\n“引路”的位置信息除了用于智能手机地图和汽车导航外，还用于农业自动驾驶拖拉机和无人机配送等。\n自動運転 = 自动驾驶；配達 = 配送",
+    "誤差わずか数センチという、正確な位置情報を届けるサービスもあり、利用はさらに広がる見込みです。\n还有误差仅几厘米的高精度定位服务，预计应用范围将进一步扩大。\n誤差 = 误差；見込み = 预计",
+    "H3は、長く日本の宇宙開発を支えた「H2A」の後継として開発された、新しい主力ロケットです。\nH3是作为长期支撑日本航天开发的“H2A”的后继型号而研制的新型主力火箭。\n後継 = 后继；主力 = 主力",
+    "種子島の見学場には朝早くから多くのファンが集まり、打ち上げが成功すると、大きな拍手と歓声が起きました。\n种子岛的观看区从清晨起就聚集了众多爱好者，发射成功时响起了热烈的掌声和欢呼声。\n拍手 = 鼓掌；歓声 = 欢呼声"
+  ]
+}
