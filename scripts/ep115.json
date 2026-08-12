@@ -1,0 +1,538 @@
+{
+  "episode": 115,
+  "title": "日本人の大腸がん、半数に腸内細菌の毒素が関与",
+  "date": "2026-08-12",
+  "source": "時事通信 / 日本経済新聞 / 毎日新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026081201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twelfth. Japanese researchers have announced a major discovery: a toxin made by gut bacteria appears to be behind nearly half of the country's colorectal cancer cases. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪大学と東京大学などの研究チームは、日本人の大腸がんの半数近くに、腸内細菌が作る毒素が関わっているとみられるという研究結果を発表しました。",
+      "ruby": "<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>と<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><ruby>半数<rt>はんすう</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>に、<span class=\"vw\" data-ja=\"腸内細菌\" data-reading=\"ちょうないさいきん\" data-en=\"gut bacteria\"><ruby>腸内<rt>ちょうない</rt></ruby><ruby>細菌<rt>さいきん</rt></ruby></span>が<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>が<ruby>関わ<rt>かかわ</rt></ruby>っているとみられるという<ruby>研究結果<rt>けんきゅうけっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大腸がんは、日本で最も患者の数が多いがんの一つで、1年におよそ15万人が新しく診断されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんは</span>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>がんの<ruby>一つ<rt>ひとつ</rt></ruby>で、1<ruby>年<rt>ねん</rt></ruby>におよそ15<ruby>万人<rt>まんにん</rt></ruby>が<ruby>新しく<rt>あたらしく</rt></ruby><span class=\"vw\" data-ja=\"診断\" data-reading=\"しんだん\" data-en=\"diagnosis\"><ruby>診断<rt>しんだん</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究チームは、東京の国立がん研究センター中央病院と、大阪大学の病院で、大腸がんの患者200人のがんの遺伝子全体を詳しく解析しました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センター<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>と、<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>200<ruby>人<rt>にん</rt></ruby>のがんの<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子全体<rt>いでんしぜんたい</rt></ruby></span>を<ruby>詳しく<rt>くわしく</rt></ruby><span class=\"vw\" data-ja=\"解析\" data-reading=\"かいせき\" data-en=\"analysis\"><ruby>解析<rt>かいせき</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、腸の中にいる一部の大腸菌が作る「コリバクチン」という毒素が、がんに関係する遺伝子を傷つけた痕跡が見つかりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"腸\" data-reading=\"ちょう\" data-en=\"intestines; gut\"><ruby>腸<rt>ちょう</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>いる<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>が<ruby>作る<rt>つくる</rt></ruby>「コリバクチン」という<span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>が、がんに<ruby>関係<rt>かんけい</rt></ruby>する<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>を<ruby>傷つ<rt>きずつ</rt></ruby>けた<span class=\"vw\" data-ja=\"痕跡\" data-reading=\"こんせき\" data-en=\"trace; mark\"><ruby>痕跡<rt>こんせき</rt></ruby></span>が<ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コリバクチンによる遺伝子の変異は、全体の約45%の患者で、がんの発生に関わっていたとみられます。",
+      "ruby": "コリバクチンによる<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<span class=\"vw\" data-ja=\"変異\" data-reading=\"へんい\" data-en=\"mutation\"><ruby>変異<rt>へんい</rt></ruby></span>は、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>約<rt>やく</rt></ruby>45%の<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>で、がんの<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence; onset\"><ruby>発生<rt>はっせい</rt></ruby></span>に<ruby>関わ<rt>かかわ</rt></ruby>っていたとみられます。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、40歳になる前に大腸がんになった若い患者だけを見ると、その割合は約70%に上りました。",
+      "ruby": "さらに、40<ruby>歳<rt>とし</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんになった</span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>だけを<ruby>見る<rt>みる</rt></ruby>と、その<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>70%に<ruby>上り<rt>のぼり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "近年、世界中で若い人の大腸がんが増えていて、その原因は大きな謎になっていました。",
+      "ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんが</span><ruby>増え<rt>ふえ</rt></ruby>ていて、その<ruby>原因<rt>げんいん</rt></ruby>は<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"謎\" data-reading=\"なぞ\" data-en=\"mystery\"><ruby>謎<rt>なぞ</rt></ruby></span>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の研究は、この謎を解くための、重要な手がかりになると期待されています。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、この<span class=\"vw\" data-ja=\"謎\" data-reading=\"なぞ\" data-en=\"mystery\"><ruby>謎<rt>なぞ</rt></ruby></span>を<ruby>解く<rt>とく</rt></ruby>ための、<ruby>重要な<rt>じゅうような</rt></ruby><span class=\"vw\" data-ja=\"手がかり\" data-reading=\"てがかり\" data-en=\"clue\"><ruby>手がかり<rt>てがかり</rt></ruby></span>になると<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待さ<rt>きたいさ</rt></ruby></span>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "コリバクチンを作る大腸菌は、健康な人の腸の中にもいることがあり、毒素による遺伝子の傷は、若いころにつく可能性があると考えられています。",
+      "ruby": "コリバクチンを<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>は、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"腸\" data-reading=\"ちょう\" data-en=\"intestines; gut\"><ruby>腸<rt>ちょう</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>もいることがあり、<span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>による<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<ruby>傷<rt>きず</rt></ruby>は、<ruby>若い<rt>わかい</rt></ruby>ころにつく<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究チームは、胃がんの原因になるピロリ菌の除菌のように、この大腸菌を取り除いて、大腸がんを予防する方法の開発を目指しています。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>胃<rt>い</rt></ruby>がんの<ruby>原因<rt>げんいん</rt></ruby>になるピロリ<ruby>菌<rt>きん</rt></ruby>の<span class=\"vw\" data-ja=\"除菌\" data-reading=\"じょきん\" data-en=\"eliminating bacteria\"><ruby>除菌<rt>じょきん</rt></ruby></span>のように、この<span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>を<ruby>取り除い<rt>とりのぞい</rt></ruby>て、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんを</span><span class=\"vw\" data-ja=\"予防\" data-reading=\"よぼう\" data-en=\"prevention\"><ruby>予防<rt>よぼう</rt></ruby></span>する<ruby>方法<rt>ほうほう</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究がさらに進めば、原因となる細菌を検査で見つけて、がんになる前に対策ができるようになるかもしれません。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>がさらに<ruby>進め<rt>すすめ</rt></ruby>ば、<ruby>原因<rt>げんいん</rt></ruby>となる<span class=\"vw\" data-ja=\"細菌\" data-reading=\"さいきん\" data-en=\"bacteria\"><ruby>細菌<rt>さいきん</rt></ruby></span>を<span class=\"vw\" data-ja=\"検査\" data-reading=\"けんさ\" data-en=\"test; examination\"><ruby>検査<rt>けんさ</rt></ruby></span>で<ruby>見つ<rt>みつ</rt></ruby>けて、がんになる<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>ができるようになるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪大学と東京大学などの研究チームは、日本人の大腸がんの半数近くに、腸内細菌が作る毒素が関わっているとみられるという研究結果を発表しました。",
+      "ruby": "<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>と<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><ruby>半数<rt>はんすう</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>に、<span class=\"vw\" data-ja=\"腸内細菌\" data-reading=\"ちょうないさいきん\" data-en=\"gut bacteria\"><ruby>腸内<rt>ちょうない</rt></ruby><ruby>細菌<rt>さいきん</rt></ruby></span>が<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>が<ruby>関わ<rt>かかわ</rt></ruby>っているとみられるという<ruby>研究結果<rt>けんきゅうけっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A research team including universities in Osaka and Tokyo announced that a toxin made by gut bacteria appears to be involved in nearly half of colorectal cancer cases in Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "毒素",
+      "ruby": "<span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a toxin — a poison made by a living thing."
+    },
+    {
+      "speaker": "slow",
+      "text": "研究チームは、東京の国立がん研究センター中央病院と、大阪大学の病院で、大腸がんの患者200人のがんの遺伝子全体を詳しく解析しました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センター<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>と、<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>200<ruby>人<rt>にん</rt></ruby>のがんの<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子全体<rt>いでんしぜんたい</rt></ruby></span>を<ruby>詳しく<rt>くわしく</rt></ruby><span class=\"vw\" data-ja=\"解析\" data-reading=\"かいせき\" data-en=\"analysis\"><ruby>解析<rt>かいせき</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The team analyzed the complete cancer genomes of two hundred patients at hospitals in Tokyo and Osaka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "解析",
+      "ruby": "<span class=\"vw\" data-ja=\"解析\" data-reading=\"かいせき\" data-en=\"analysis\"><ruby>解析<rt>かいせき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means analysis — examining data in detail."
+    },
+    {
+      "speaker": "slow",
+      "text": "その結果、腸の中にいる一部の大腸菌が作る「コリバクチン」という毒素が、がんに関係する遺伝子を傷つけた痕跡が見つかりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"腸\" data-reading=\"ちょう\" data-en=\"intestines; gut\"><ruby>腸<rt>ちょう</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>いる<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>が<ruby>作る<rt>つくる</rt></ruby>「コリバクチン」という<span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>が、がんに<ruby>関係<rt>かんけい</rt></ruby>する<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>を<ruby>傷つ<rt>きずつ</rt></ruby>けた<span class=\"vw\" data-ja=\"痕跡\" data-reading=\"こんせき\" data-en=\"trace; mark\"><ruby>痕跡<rt>こんせき</rt></ruby></span>が<ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "They found traces showing that a toxin made by certain E. coli bacteria in the gut had damaged cancer-related genes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遺伝子",
+      "ruby": "<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a gene."
+    },
+    {
+      "speaker": "slow",
+      "text": "コリバクチンによる遺伝子の変異は、全体の約45%の患者で、がんの発生に関わっていたとみられます。",
+      "ruby": "コリバクチンによる<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<span class=\"vw\" data-ja=\"変異\" data-reading=\"へんい\" data-en=\"mutation\"><ruby>変異<rt>へんい</rt></ruby></span>は、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>約<rt>やく</rt></ruby>45%の<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>で、がんの<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence; onset\"><ruby>発生<rt>はっせい</rt></ruby></span>に<ruby>関わ<rt>かかわ</rt></ruby>っていたとみられます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The mutations caused by the toxin appear to have played a role in about forty-five percent of all the patients."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変異",
+      "ruby": "<span class=\"vw\" data-ja=\"変異\" data-reading=\"へんい\" data-en=\"mutation\"><ruby>変異<rt>へんい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a mutation — a change in a gene."
+    },
+    {
+      "speaker": "slow",
+      "text": "さらに、40歳になる前に大腸がんになった若い患者だけを見ると、その割合は約70%に上りました。",
+      "ruby": "さらに、40<ruby>歳<rt>とし</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんになった</span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>だけを<ruby>見る<rt>みる</rt></ruby>と、その<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>70%に<ruby>上り<rt>のぼり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Among patients who developed the disease before age forty, the figure rose to about seventy percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "割合",
+      "ruby": "<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a ratio or percentage."
+    },
+    {
+      "speaker": "slow",
+      "text": "研究チームは、胃がんの原因になるピロリ菌の除菌のように、この大腸菌を取り除いて、大腸がんを予防する方法の開発を目指しています。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>胃<rt>い</rt></ruby>がんの<ruby>原因<rt>げんいん</rt></ruby>になるピロリ<ruby>菌<rt>きん</rt></ruby>の<span class=\"vw\" data-ja=\"除菌\" data-reading=\"じょきん\" data-en=\"eliminating bacteria\"><ruby>除菌<rt>じょきん</rt></ruby></span>のように、この<span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>を<ruby>取り除い<rt>とりのぞい</rt></ruby>て、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんを</span><span class=\"vw\" data-ja=\"予防\" data-reading=\"よぼう\" data-en=\"prevention\"><ruby>予防<rt>よぼう</rt></ruby></span>する<ruby>方法<rt>ほうほう</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The team hopes to prevent colorectal cancer by removing these bacteria, the way stomach cancer is prevented by eliminating pylori bacteria."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取り除く",
+      "ruby": "<span class=\"vw\" data-ja=\"取り除く\" data-reading=\"とりのぞく\" data-en=\"to remove\"><ruby>取り除く<rt>とりのぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to remove — to take something away."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "大阪大学と東京大学などの研究チームは、日本人の大腸がんの半数近くに、腸内細菌が作る毒素が関わっているとみられるという研究結果を発表しました。",
+      "ruby": "<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>と<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>日本人<rt>にほんじん</rt></ruby>の<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><ruby>半数<rt>はんすう</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>に、<span class=\"vw\" data-ja=\"腸内細菌\" data-reading=\"ちょうないさいきん\" data-en=\"gut bacteria\"><ruby>腸内<rt>ちょうない</rt></ruby><ruby>細菌<rt>さいきん</rt></ruby></span>が<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>が<ruby>関わ<rt>かかわ</rt></ruby>っているとみられるという<ruby>研究結果<rt>けんきゅうけっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大腸がんは、日本で最も患者の数が多いがんの一つで、1年におよそ15万人が新しく診断されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんは</span>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>がんの<ruby>一つ<rt>ひとつ</rt></ruby>で、1<ruby>年<rt>ねん</rt></ruby>におよそ15<ruby>万人<rt>まんにん</rt></ruby>が<ruby>新しく<rt>あたらしく</rt></ruby><span class=\"vw\" data-ja=\"診断\" data-reading=\"しんだん\" data-en=\"diagnosis\"><ruby>診断<rt>しんだん</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究チームは、東京の国立がん研究センター中央病院と、大阪大学の病院で、大腸がんの患者200人のがんの遺伝子全体を詳しく解析しました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センター<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>と、<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>200<ruby>人<rt>にん</rt></ruby>のがんの<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子全体<rt>いでんしぜんたい</rt></ruby></span>を<ruby>詳しく<rt>くわしく</rt></ruby><span class=\"vw\" data-ja=\"解析\" data-reading=\"かいせき\" data-en=\"analysis\"><ruby>解析<rt>かいせき</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、腸の中にいる一部の大腸菌が作る「コリバクチン」という毒素が、がんに関係する遺伝子を傷つけた痕跡が見つかりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<span class=\"vw\" data-ja=\"腸\" data-reading=\"ちょう\" data-en=\"intestines; gut\"><ruby>腸<rt>ちょう</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>いる<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>が<ruby>作る<rt>つくる</rt></ruby>「コリバクチン」という<span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>が、がんに<ruby>関係<rt>かんけい</rt></ruby>する<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>を<ruby>傷つ<rt>きずつ</rt></ruby>けた<span class=\"vw\" data-ja=\"痕跡\" data-reading=\"こんせき\" data-en=\"trace; mark\"><ruby>痕跡<rt>こんせき</rt></ruby></span>が<ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コリバクチンによる遺伝子の変異は、全体の約45%の患者で、がんの発生に関わっていたとみられます。",
+      "ruby": "コリバクチンによる<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<span class=\"vw\" data-ja=\"変異\" data-reading=\"へんい\" data-en=\"mutation\"><ruby>変異<rt>へんい</rt></ruby></span>は、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>約<rt>やく</rt></ruby>45%の<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>で、がんの<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence; onset\"><ruby>発生<rt>はっせい</rt></ruby></span>に<ruby>関わ<rt>かかわ</rt></ruby>っていたとみられます。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、40歳になる前に大腸がんになった若い患者だけを見ると、その割合は約70%に上りました。",
+      "ruby": "さらに、40<ruby>歳<rt>とし</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんになった</span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>だけを<ruby>見る<rt>みる</rt></ruby>と、その<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>70%に<ruby>上り<rt>のぼり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "近年、世界中で若い人の大腸がんが増えていて、その原因は大きな謎になっていました。",
+      "ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんが</span><ruby>増え<rt>ふえ</rt></ruby>ていて、その<ruby>原因<rt>げんいん</rt></ruby>は<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"謎\" data-reading=\"なぞ\" data-en=\"mystery\"><ruby>謎<rt>なぞ</rt></ruby></span>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の研究は、この謎を解くための、重要な手がかりになると期待されています。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、この<span class=\"vw\" data-ja=\"謎\" data-reading=\"なぞ\" data-en=\"mystery\"><ruby>謎<rt>なぞ</rt></ruby></span>を<ruby>解く<rt>とく</rt></ruby>ための、<ruby>重要な<rt>じゅうような</rt></ruby><span class=\"vw\" data-ja=\"手がかり\" data-reading=\"てがかり\" data-en=\"clue\"><ruby>手がかり<rt>てがかり</rt></ruby></span>になると<span class=\"vw\" data-ja=\"期待\" data-reading=\"きたい\" data-en=\"expectation; hope\"><ruby>期待さ<rt>きたいさ</rt></ruby></span>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "コリバクチンを作る大腸菌は、健康な人の腸の中にもいることがあり、毒素による遺伝子の傷は、若いころにつく可能性があると考えられています。",
+      "ruby": "コリバクチンを<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>は、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"腸\" data-reading=\"ちょう\" data-en=\"intestines; gut\"><ruby>腸<rt>ちょう</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>もいることがあり、<span class=\"vw\" data-ja=\"毒素\" data-reading=\"どくそ\" data-en=\"toxin\"><ruby>毒素<rt>どくそ</rt></ruby></span>による<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<ruby>傷<rt>きず</rt></ruby>は、<ruby>若い<rt>わかい</rt></ruby>ころにつく<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究チームは、胃がんの原因になるピロリ菌の除菌のように、この大腸菌を取り除いて、大腸がんを予防する方法の開発を目指しています。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、<ruby>胃<rt>い</rt></ruby>がんの<ruby>原因<rt>げんいん</rt></ruby>になるピロリ<ruby>菌<rt>きん</rt></ruby>の<span class=\"vw\" data-ja=\"除菌\" data-reading=\"じょきん\" data-en=\"eliminating bacteria\"><ruby>除菌<rt>じょきん</rt></ruby></span>のように、この<span class=\"vw\" data-ja=\"大腸菌\" data-reading=\"だいちょうきん\" data-en=\"E. coli bacteria\"><ruby>大腸菌<rt>だいちょうきん</rt></ruby></span>を<ruby>取り除い<rt>とりのぞい</rt></ruby>て、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんを</span><span class=\"vw\" data-ja=\"予防\" data-reading=\"よぼう\" data-en=\"prevention\"><ruby>予防<rt>よぼう</rt></ruby></span>する<ruby>方法<rt>ほうほう</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究がさらに進めば、原因となる細菌を検査で見つけて、がんになる前に対策ができるようになるかもしれません。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>がさらに<ruby>進め<rt>すすめ</rt></ruby>ば、<ruby>原因<rt>げんいん</rt></ruby>となる<span class=\"vw\" data-ja=\"細菌\" data-reading=\"さいきん\" data-en=\"bacteria\"><ruby>細菌<rt>さいきん</rt></ruby></span>を<span class=\"vw\" data-ja=\"検査\" data-reading=\"けんさ\" data-en=\"test; examination\"><ruby>検査<rt>けんさ</rt></ruby></span>で<ruby>見つ<rt>みつ</rt></ruby>けて、がんになる<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>ができるようになるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "コリバクチンによる遺伝子の変異は、全体の約何パーセントの患者で、がんの発生に関わっていましたか。",
+      "ruby": "コリバクチンによる<span class=\"vw\" data-ja=\"遺伝子\" data-reading=\"いでんし\" data-en=\"gene\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<span class=\"vw\" data-ja=\"変異\" data-reading=\"へんい\" data-en=\"mutation\"><ruby>変異<rt>へんい</rt></ruby></span>は、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>約<rt>やく</rt></ruby><ruby>何<rt>なに</rt></ruby>パーセントの<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>で、がんの<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence; onset\"><ruby>発生<rt>はっせい</rt></ruby></span>に<ruby>関わ<rt>かかわ</rt></ruby>っていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About forty-five percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "40歳になる前に大腸がんになった若い患者では、割合は約何パーセントでしたか。",
+      "ruby": "40<ruby>歳<rt>とし</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんになった</span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>では、<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"ratio; percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby><ruby>何<rt>なに</rt></ruby>パーセントでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seventy percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "研究チームは、どうやって大腸がんを予防することを目指していますか。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>チームは、どうやって<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんを</span><span class=\"vw\" data-ja=\"予防\" data-reading=\"よぼう\" data-en=\"prevention\"><ruby>予防<rt>よぼう</rt></ruby></span>することを<ruby>目指し<rt>めざし</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "By removing the toxin-making bacteria from the gut."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If scientists can catch these bacteria early, colorectal cancer may one day become a preventable disease. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "大腸がん",
+      "reading": "だいちょうがん",
+      "en": "colorectal cancer",
+      "zh": "大肠癌"
+    },
+    {
+      "ja": "腸内細菌",
+      "reading": "ちょうないさいきん",
+      "en": "gut bacteria",
+      "zh": "肠道细菌"
+    },
+    {
+      "ja": "毒素",
+      "reading": "どくそ",
+      "en": "toxin",
+      "zh": "毒素"
+    },
+    {
+      "ja": "関わる",
+      "reading": "かかわる",
+      "en": "to be involved in",
+      "zh": "与…有关"
+    },
+    {
+      "ja": "患者",
+      "reading": "かんじゃ",
+      "en": "patient",
+      "zh": "患者"
+    },
+    {
+      "ja": "診断",
+      "reading": "しんだん",
+      "en": "diagnosis",
+      "zh": "诊断"
+    },
+    {
+      "ja": "解析",
+      "reading": "かいせき",
+      "en": "analysis",
+      "zh": "解析；分析"
+    },
+    {
+      "ja": "大腸菌",
+      "reading": "だいちょうきん",
+      "en": "E. coli bacteria",
+      "zh": "大肠杆菌"
+    },
+    {
+      "ja": "遺伝子",
+      "reading": "いでんし",
+      "en": "gene",
+      "zh": "基因"
+    },
+    {
+      "ja": "傷つける",
+      "reading": "きずつける",
+      "en": "to damage",
+      "zh": "损伤"
+    },
+    {
+      "ja": "痕跡",
+      "reading": "こんせき",
+      "en": "trace; mark",
+      "zh": "痕迹"
+    },
+    {
+      "ja": "変異",
+      "reading": "へんい",
+      "en": "mutation",
+      "zh": "变异"
+    },
+    {
+      "ja": "発生",
+      "reading": "はっせい",
+      "en": "occurrence; onset",
+      "zh": "发生"
+    },
+    {
+      "ja": "割合",
+      "reading": "わりあい",
+      "en": "ratio; percentage",
+      "zh": "比例"
+    },
+    {
+      "ja": "謎",
+      "reading": "なぞ",
+      "en": "mystery",
+      "zh": "谜"
+    },
+    {
+      "ja": "手がかり",
+      "reading": "てがかり",
+      "en": "clue",
+      "zh": "线索"
+    },
+    {
+      "ja": "期待",
+      "reading": "きたい",
+      "en": "expectation; hope",
+      "zh": "期待"
+    },
+    {
+      "ja": "腸",
+      "reading": "ちょう",
+      "en": "intestines; gut",
+      "zh": "肠"
+    },
+    {
+      "ja": "可能性",
+      "reading": "かのうせい",
+      "en": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "ja": "除菌",
+      "reading": "じょきん",
+      "en": "eliminating bacteria",
+      "zh": "除菌；杀菌"
+    },
+    {
+      "ja": "取り除く",
+      "reading": "とりのぞく",
+      "en": "to remove",
+      "zh": "去除"
+    },
+    {
+      "ja": "予防",
+      "reading": "よぼう",
+      "en": "prevention",
+      "zh": "预防"
+    },
+    {
+      "ja": "細菌",
+      "reading": "さいきん",
+      "en": "bacteria",
+      "zh": "细菌"
+    },
+    {
+      "ja": "検査",
+      "reading": "けんさ",
+      "en": "test; examination",
+      "zh": "检查"
+    },
+    {
+      "ja": "対策",
+      "reading": "たいさく",
+      "en": "countermeasure",
+      "zh": "对策"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という＋名詞",
+      "meaning": "a ... called ...; named ...",
+      "meaningZh": "叫做…的…；名为…的…",
+      "formation": "name + という + noun",
+      "example": "「コリバクチン」という毒素が、遺伝子を傷つけた痕跡が見つかりました。",
+      "translation": "Traces were found showing that a toxin called colibactin had damaged genes.",
+      "note": "introduces the name of something the listener may not know yet",
+      "noteZh": "用于介绍听话人可能还不知道的名称",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    },
+    {
+      "pattern": "〜とみられる",
+      "meaning": "it is believed that ...; it appears that ...",
+      "meaningZh": "被认为…；据推测…",
+      "formation": "plain-form clause + とみられる",
+      "example": "変異は、全体の約45%の患者で、がんの発生に関わっていたとみられます。",
+      "translation": "The mutations are believed to have been involved in cancer development in about forty-five percent of the patients.",
+      "note": "very common in news reports; states a conclusion based on evidence, softer than a definite claim",
+      "noteZh": "新闻报道中的常用表达，表示根据证据得出的推断，语气比断定缓和",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とみられる"
+    },
+    {
+      "pattern": "〜のように",
+      "meaning": "like ...; in the same way as ...",
+      "meaningZh": "像…一样",
+      "formation": "noun + のように + verb/clause",
+      "example": "ピロリ菌の除菌のように、この大腸菌を取り除いて、大腸がんを予防する方法を目指しています。",
+      "translation": "They aim to prevent colorectal cancer by removing these bacteria, just like the eradication of pylori bacteria.",
+      "note": "gives a familiar example to explain something new",
+      "noteZh": "举出熟悉的例子来说明新事物",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜ための＋名詞",
+      "meaning": "a ... for the purpose of ...",
+      "meaningZh": "为了…的…",
+      "formation": "verb dictionary form / noun + の + ための + noun",
+      "example": "今回の研究は、この謎を解くための、重要な手がかりになると期待されています。",
+      "translation": "This research is expected to become an important clue for solving the mystery.",
+      "note": "ための modifies a noun; ために modifies a verb phrase",
+      "noteZh": "ための修饰名词；ために修饰动词短语",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜かもしれません",
+      "meaning": "might ...; may possibly ...",
+      "meaningZh": "也许…；可能…",
+      "formation": "plain-form clause + かもしれません",
+      "example": "がんになる前に対策ができるようになるかもしれません。",
+      "translation": "It may become possible to take measures before cancer develops.",
+      "note": "expresses possibility; weaker certainty than でしょう",
+      "noteZh": "表示可能性，确定程度比でしょう低",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#かもしれない"
+    }
+  ],
+  "practiceZh": [
+    "大阪大学と東京大学などの研究チームは、日本人の大腸がんの半数近くに、腸内細菌が作る毒素が関わっているとみられるという研究結果を発表しました。\n大阪大学和东京大学等的研究团队发表研究结果称，日本人的大肠癌中近半数被认为与肠道细菌产生的毒素有关。\n大腸がん = 大肠癌；毒素 = 毒素；関わる = 与…有关",
+    "大腸がんは、日本で最も患者の数が多いがんの一つで、1年におよそ15万人が新しく診断されています。\n大肠癌是日本患者人数最多的癌症之一，每年约有15万人被新确诊。\n患者 = 患者；診断 = 诊断",
+    "研究チームは、東京の国立がん研究センター中央病院と、大阪大学の病院で、大腸がんの患者200人のがんの遺伝子全体を詳しく解析しました。\n研究团队在东京的国立癌症研究中心中央医院和大阪大学的医院，对200名大肠癌患者的癌症全基因组进行了详细解析。\n遺伝子 = 基因；解析 = 解析",
+    "その結果、腸の中にいる一部の大腸菌が作る「コリバクチン」という毒素が、がんに関係する遺伝子を傷つけた痕跡が見つかりました。\n结果发现，肠道中一部分大肠杆菌产生的名为“可利拉汀（colibactin）”的毒素，留下了损伤癌症相关基因的痕迹。\n大腸菌 = 大肠杆菌；傷つける = 损伤；痕跡 = 痕迹",
+    "コリバクチンによる遺伝子の変異は、全体の約45%の患者で、がんの発生に関わっていたとみられます。\n由可利拉汀引起的基因变异，被认为在全部患者中约45%的人的癌症发生中起了作用。\n変異 = 变异；発生 = 发生",
+    "さらに、40歳になる前に大腸がんになった若い患者だけを見ると、その割合は約70%に上りました。\n此外，仅看40岁前患大肠癌的年轻患者，这一比例高达约70%。\n割合 = 比例",
+    "近年、世界中で若い人の大腸がんが増えていて、その原因は大きな謎になっていました。\n近年来，世界各地年轻人的大肠癌不断增加，其原因一直是个大谜。\n謎 = 谜",
+    "今回の研究は、この謎を解くための、重要な手がかりになると期待されています。\n这项研究被期待成为解开这个谜团的重要线索。\n手がかり = 线索；期待 = 期待",
+    "コリバクチンを作る大腸菌は、健康な人の腸の中にもいることがあり、毒素による遺伝子の傷は、若いころにつく可能性があると考えられています。\n产生可利拉汀的大肠杆菌有时也存在于健康人的肠道中，毒素造成的基因损伤被认为可能是在年轻时形成的。\n腸 = 肠；可能性 = 可能性",
+    "研究チームは、胃がんの原因になるピロリ菌の除菌のように、この大腸菌を取り除いて、大腸がんを予防する方法の開発を目指しています。\n研究团队的目标是，像根除导致胃癌的幽门螺杆菌那样，通过清除这种大肠杆菌来开发预防大肠癌的方法。\n除菌 = 除菌；取り除く = 去除；予防 = 预防",
+    "研究がさらに進めば、原因となる細菌を検査で見つけて、がんになる前に対策ができるようになるかもしれません。\n如果研究进一步推进，也许就能通过检查发现致病细菌，在患癌之前采取对策。\n検査 = 检查；対策 = 对策"
+  ]
+}
