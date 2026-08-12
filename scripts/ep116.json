@@ -1,0 +1,396 @@
+{
+  "episode": 116,
+  "title": "海を越えたふすま絵、東京で150年ぶりの再会",
+  "date": "2026-08-13",
+  "source": "青森放送 / 東奥日報 / 陸奥新報",
+  "level": "N5-N4",
+  "contentVersion": "2026081301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August thirteenth. Today's story is about three old Japanese paintings that were separated about one hundred fifty years ago — one stayed in Japan, and two crossed the ocean. Now they are together again in Tokyo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の美術館で、日本とイギリスとアメリカにある古い「ふすま絵」が、約150年ぶりに一緒に並びました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>で、<ruby>日本<rt>にほん</rt></ruby>とイギリスとアメリカにある<ruby>古い<rt>ふるい</rt></ruby>「ふすま<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>」が、<ruby>約<rt>やく</rt></ruby>150<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ふすま絵は、「ふすま」という日本の家の戸に描いた絵です。今回の絵は、江戸時代に、「狩野派」という有名な絵師のグループが描きました。",
+      "ruby": "ふすま<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、「ふすま」という<ruby>日本<rt>にほん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>戸<rt>と</rt></ruby>に<ruby>描い<rt>えがい</rt></ruby>た<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>です。<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>江戸時代<rt>えどじだい</rt></ruby>に、「<ruby>狩野<rt>かのう</rt></ruby><ruby>派<rt>は</rt></ruby>」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵師<rt>えし</rt></ruby>のグループが<ruby>描き<rt>えがき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "絵は、昔、奈良県の神社にありました。しかし、約150年前の明治時代に、ばらばらになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; the old days\"><ruby>昔<rt>むかし</rt></ruby></span>、<ruby>奈良県<rt>ならけん</rt></ruby>の<span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>にありました。しかし、<ruby>約<rt>やく</rt></ruby>150<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>明治時代<rt>めいじじだい</rt></ruby>に、ばらばらになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一つは、青森県中泊町の「宮越家」という古い家が、100年以上、大切に守ってきました。春の花と鳥の絵です。",
+      "ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>青森県<rt>あおもりけん</rt></ruby><ruby>中泊<rt>なかどまり</rt></ruby><ruby>町<rt>まち</rt></ruby>の「<ruby>宮越<rt>みやこし</rt></ruby><ruby>家<rt>け</rt></ruby>」という<ruby>古い<rt>ふるい</rt></ruby><ruby>家<rt>いえ</rt></ruby>が、100<ruby>年以上<rt>ねんいじょう</rt></ruby>、<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>守っ<rt>まもっ</rt></ruby>てきました。<ruby>春<rt>はる</rt></ruby>の<ruby>花<rt>はな</rt></ruby>と<ruby>鳥<rt>とり</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ほかの二つの絵は、海を越えて、イギリスの大英博物館と、アメリカのシアトル美術館に渡りました。",
+      "ruby": "ほかの<ruby>二つ<rt>ふたつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>を<ruby>越え<rt>こえ</rt></ruby>て、イギリスの<ruby>大英博物館<rt>だいえいはくぶつかん</rt></ruby>と、アメリカのシアトル<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>に<ruby>渡り<rt>わたり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年の調査で、この三つの絵は、もともと同じ一連の作品だったことがわかりました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>で、この<ruby>三つ<rt>みっつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、もともと<ruby>同じ<rt>おなじ</rt></ruby><ruby>一連<rt>いちれん</rt></ruby>の<span class=\"vw\" data-ja=\"作品\" data-reading=\"さくひん\" data-en=\"work (of art)\"><ruby>作品<rt>さくひん</rt></ruby></span>だったことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、三つの絵は、東京・上野の東京都美術館の展覧会で、一緒に展示されています。展覧会は、10月18日までです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>三つ<rt>みっつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>東京<rt>とうきょう</rt></ruby>・<ruby>上野<rt>うえの</rt></ruby>の<ruby>東京都<rt>とうきょうと</rt></ruby><span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>の<span class=\"vw\" data-ja=\"展覧会\" data-reading=\"てんらんかい\" data-en=\"exhibition\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>で、<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>展示<rt>てんじ</rt></ruby>されています。<span class=\"vw\" data-ja=\"展覧会\" data-reading=\"てんらんかい\" data-en=\"exhibition\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中泊町の人たちは、「150年ぶりの奇跡の再会です。とてもうれしいです」と話しています。",
+      "ruby": "<ruby>中泊<rt>なかどまり</rt></ruby><ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、「150<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>奇跡<rt>きせき</rt></ruby>の<span class=\"vw\" data-ja=\"再会\" data-reading=\"さいかい\" data-en=\"reunion; meeting again\"><ruby>再会<rt>さいかい</rt></ruby></span>です。とてもうれしいです」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "展覧会は、そのあと、大阪でも開かれる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"展覧会\" data-reading=\"てんらんかい\" data-en=\"exhibition\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>は、そのあと、<ruby>大阪<rt>おおさか</rt></ruby>でも<ruby>開か<rt>ひらか</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の美術館で、日本とイギリスとアメリカにある古い「ふすま絵」が、約150年ぶりに一緒に並びました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>で、<ruby>日本<rt>にほん</rt></ruby>とイギリスとアメリカにある<ruby>古い<rt>ふるい</rt></ruby>「ふすま<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>」が、<ruby>約<rt>やく</rt></ruby>150<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At an art museum in Tokyo, old Japanese sliding-door paintings kept in Japan, Britain, and America were placed side by side for the first time in about one hundred fifty years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "美術館",
+      "ruby": "<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means art museum — a place where you can see paintings and other works of art."
+    },
+    {
+      "speaker": "slow",
+      "text": "絵は、昔、奈良県の神社にありました。しかし、約150年前の明治時代に、ばらばらになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; the old days\"><ruby>昔<rt>むかし</rt></ruby></span>、<ruby>奈良県<rt>ならけん</rt></ruby>の<span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>にありました。しかし、<ruby>約<rt>やく</rt></ruby>150<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>明治時代<rt>めいじじだい</rt></ruby>に、ばらばらになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Long ago, the paintings were at a shrine in Nara Prefecture. But about one hundred fifty years ago, in the Meiji era, they were scattered."
+    },
+    {
+      "speaker": "vocab",
+      "text": "昔",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; the old days\"><ruby>昔<rt>むかし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means long ago, or the old days."
+    },
+    {
+      "speaker": "slow",
+      "text": "一つは、青森県中泊町の「宮越家」という古い家が、100年以上、大切に守ってきました。春の花と鳥の絵です。",
+      "ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>青森県<rt>あおもりけん</rt></ruby><ruby>中泊<rt>なかどまり</rt></ruby><ruby>町<rt>まち</rt></ruby>の「<ruby>宮越<rt>みやこし</rt></ruby><ruby>家<rt>け</rt></ruby>」という<ruby>古い<rt>ふるい</rt></ruby><ruby>家<rt>いえ</rt></ruby>が、100<ruby>年以上<rt>ねんいじょう</rt></ruby>、<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>守っ<rt>まもっ</rt></ruby>てきました。<ruby>春<rt>はる</rt></ruby>の<ruby>花<rt>はな</rt></ruby>と<ruby>鳥<rt>とり</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "One of them was carefully protected for more than one hundred years by an old family in Nakadomari Town, Aomori Prefecture. It is a painting of spring flowers and birds."
+    },
+    {
+      "speaker": "vocab",
+      "text": "守る",
+      "ruby": "<span class=\"vw\" data-ja=\"守る\" data-reading=\"まもる\" data-en=\"to protect\"><ruby>守る<rt>まもる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to protect, or to keep something safe."
+    },
+    {
+      "speaker": "slow",
+      "text": "ほかの二つの絵は、海を越えて、イギリスの大英博物館と、アメリカのシアトル美術館に渡りました。",
+      "ruby": "ほかの<ruby>二つ<rt>ふたつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>を<ruby>越え<rt>こえ</rt></ruby>て、イギリスの<ruby>大英博物館<rt>だいえいはくぶつかん</rt></ruby>と、アメリカのシアトル<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>に<ruby>渡り<rt>わたり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The other two paintings crossed the sea — one went to the British Museum in the United Kingdom, and one to the Seattle Art Museum in the United States."
+    },
+    {
+      "speaker": "vocab",
+      "text": "海を越える",
+      "ruby": "<span class=\"vw\" data-ja=\"海を越える\" data-reading=\"うみをこえる\" data-en=\"to cross the sea\"><ruby>海<rt>うみ</rt></ruby>を<ruby>越え<rt>こえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to cross the sea — to go over the ocean to another country."
+    },
+    {
+      "speaker": "slow",
+      "text": "2024年の調査で、この三つの絵は、もともと同じ一連の作品だったことがわかりました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>で、この<ruby>三つ<rt>みっつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、もともと<ruby>同じ<rt>おなじ</rt></ruby><ruby>一連<rt>いちれん</rt></ruby>の<span class=\"vw\" data-ja=\"作品\" data-reading=\"さくひん\" data-en=\"work (of art)\"><ruby>作品<rt>さくひん</rt></ruby></span>だったことがわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Through research in twenty twenty-four, experts found out that these three paintings were originally part of the same set."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調査",
+      "ruby": "<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means survey or investigation — studying something carefully to learn the facts."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "東京の美術館で、日本とイギリスとアメリカにある古い「ふすま絵」が、約150年ぶりに一緒に並びました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>で、<ruby>日本<rt>にほん</rt></ruby>とイギリスとアメリカにある<ruby>古い<rt>ふるい</rt></ruby>「ふすま<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>」が、<ruby>約<rt>やく</rt></ruby>150<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ふすま絵は、「ふすま」という日本の家の戸に描いた絵です。今回の絵は、江戸時代に、「狩野派」という有名な絵師のグループが描きました。",
+      "ruby": "ふすま<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、「ふすま」という<ruby>日本<rt>にほん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>戸<rt>と</rt></ruby>に<ruby>描い<rt>えがい</rt></ruby>た<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>です。<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>江戸時代<rt>えどじだい</rt></ruby>に、「<ruby>狩野<rt>かのう</rt></ruby><ruby>派<rt>は</rt></ruby>」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵師<rt>えし</rt></ruby>のグループが<ruby>描き<rt>えがき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "絵は、昔、奈良県の神社にありました。しかし、約150年前の明治時代に、ばらばらになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; the old days\"><ruby>昔<rt>むかし</rt></ruby></span>、<ruby>奈良県<rt>ならけん</rt></ruby>の<span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>にありました。しかし、<ruby>約<rt>やく</rt></ruby>150<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>明治時代<rt>めいじじだい</rt></ruby>に、ばらばらになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一つは、青森県中泊町の「宮越家」という古い家が、100年以上、大切に守ってきました。春の花と鳥の絵です。",
+      "ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>青森県<rt>あおもりけん</rt></ruby><ruby>中泊<rt>なかどまり</rt></ruby><ruby>町<rt>まち</rt></ruby>の「<ruby>宮越<rt>みやこし</rt></ruby><ruby>家<rt>け</rt></ruby>」という<ruby>古い<rt>ふるい</rt></ruby><ruby>家<rt>いえ</rt></ruby>が、100<ruby>年以上<rt>ねんいじょう</rt></ruby>、<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>守っ<rt>まもっ</rt></ruby>てきました。<ruby>春<rt>はる</rt></ruby>の<ruby>花<rt>はな</rt></ruby>と<ruby>鳥<rt>とり</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ほかの二つの絵は、海を越えて、イギリスの大英博物館と、アメリカのシアトル美術館に渡りました。",
+      "ruby": "ほかの<ruby>二つ<rt>ふたつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>を<ruby>越え<rt>こえ</rt></ruby>て、イギリスの<ruby>大英博物館<rt>だいえいはくぶつかん</rt></ruby>と、アメリカのシアトル<span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>に<ruby>渡り<rt>わたり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年の調査で、この三つの絵は、もともと同じ一連の作品だったことがわかりました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey; investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>で、この<ruby>三つ<rt>みっつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、もともと<ruby>同じ<rt>おなじ</rt></ruby><ruby>一連<rt>いちれん</rt></ruby>の<span class=\"vw\" data-ja=\"作品\" data-reading=\"さくひん\" data-en=\"work (of art)\"><ruby>作品<rt>さくひん</rt></ruby></span>だったことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、三つの絵は、東京・上野の東京都美術館の展覧会で、一緒に展示されています。展覧会は、10月18日までです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>三つ<rt>みっつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>東京<rt>とうきょう</rt></ruby>・<ruby>上野<rt>うえの</rt></ruby>の<ruby>東京都<rt>とうきょうと</rt></ruby><span class=\"vw\" data-ja=\"美術館\" data-reading=\"びじゅつかん\" data-en=\"art museum\"><ruby>美術館<rt>びじゅつかん</rt></ruby></span>の<span class=\"vw\" data-ja=\"展覧会\" data-reading=\"てんらんかい\" data-en=\"exhibition\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>で、<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>展示<rt>てんじ</rt></ruby>されています。<span class=\"vw\" data-ja=\"展覧会\" data-reading=\"てんらんかい\" data-en=\"exhibition\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中泊町の人たちは、「150年ぶりの奇跡の再会です。とてもうれしいです」と話しています。",
+      "ruby": "<ruby>中泊<rt>なかどまり</rt></ruby><ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、「150<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>奇跡<rt>きせき</rt></ruby>の<span class=\"vw\" data-ja=\"再会\" data-reading=\"さいかい\" data-en=\"reunion; meeting again\"><ruby>再会<rt>さいかい</rt></ruby></span>です。とてもうれしいです」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "展覧会は、そのあと、大阪でも開かれる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"展覧会\" data-reading=\"てんらんかい\" data-en=\"exhibition\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>は、そのあと、<ruby>大阪<rt>おおさか</rt></ruby>でも<ruby>開か<rt>ひらか</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "三つのふすま絵は、昔、どこにありましたか。",
+      "ruby": "<ruby>三つ<rt>みっつ</rt></ruby>のふすま<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; the old days\"><ruby>昔<rt>むかし</rt></ruby></span>、どこにありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "They were at a shrine in Nara Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森県の古い家は、何年ぐらい、絵を守ってきましたか。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>古い<rt>ふるい</rt></ruby><ruby>家<rt>いえ</rt></ruby>は、<ruby>何年<rt>なんねん</rt></ruby>ぐらい、<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>を<ruby>守っ<rt>まもっ</rt></ruby>てきましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "For more than one hundred years."
+    },
+    {
+      "speaker": "slow",
+      "text": "三つの絵は、今、どこで見ることができますか。",
+      "ruby": "<ruby>三つ<rt>みっつ</rt></ruby>の<span class=\"vw\" data-ja=\"絵\" data-reading=\"え\" data-en=\"picture; painting\"><ruby>絵<rt>え</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>、どこで<ruby>見る<rt>みる</rt></ruby>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the Tokyo Metropolitan Art Museum in Ueno, Tokyo. The exhibition runs until October eighteenth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Three paintings that were separated for one hundred fifty years are finally side by side again in Tokyo. If you are in Japan this autumn, you can go and see this once-in-a-lifetime reunion. See you tomorrow!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "美術館",
+      "reading": "びじゅつかん",
+      "en": "art museum",
+      "zh": "美术馆"
+    },
+    {
+      "ja": "博物館",
+      "reading": "はくぶつかん",
+      "en": "museum",
+      "zh": "博物馆"
+    },
+    {
+      "ja": "絵",
+      "reading": "え",
+      "en": "picture; painting",
+      "zh": "画"
+    },
+    {
+      "ja": "描く",
+      "reading": "えがく",
+      "en": "to draw; to paint",
+      "zh": "画（画）"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "long ago; the old days",
+      "zh": "从前；很久以前"
+    },
+    {
+      "ja": "神社",
+      "reading": "じんじゃ",
+      "en": "Shinto shrine",
+      "zh": "神社"
+    },
+    {
+      "ja": "守る",
+      "reading": "まもる",
+      "en": "to protect",
+      "zh": "守护；保护"
+    },
+    {
+      "ja": "海を越える",
+      "reading": "うみをこえる",
+      "en": "to cross the sea",
+      "zh": "跨越大海"
+    },
+    {
+      "ja": "調査",
+      "reading": "ちょうさ",
+      "en": "survey; investigation",
+      "zh": "调查"
+    },
+    {
+      "ja": "作品",
+      "reading": "さくひん",
+      "en": "work (of art)",
+      "zh": "作品"
+    },
+    {
+      "ja": "展覧会",
+      "reading": "てんらんかい",
+      "en": "exhibition",
+      "zh": "展览会"
+    },
+    {
+      "ja": "再会",
+      "reading": "さいかい",
+      "en": "reunion; meeting again",
+      "zh": "重逢；再会"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~; after an interval of ~",
+      "meaningZh": "时隔…（再次）",
+      "formation": "period of time + ぶり",
+      "example": "古いふすま絵が、約150年ぶりに一緒に並びました。",
+      "translation": "The old sliding-door paintings were placed side by side for the first time in about one hundred fifty years.",
+      "note": "ぶり attaches to a length of time to show how long it has been since something last happened; very common in news",
+      "noteZh": "「ぶり」接在时间长度后，表示「时隔这么久才再次发生」，新闻中极常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜という + noun",
+      "meaning": "a ~ called ...; ... named ~",
+      "meaningZh": "叫做…的…",
+      "formation": "name + という + noun",
+      "example": "「宮越家」という古い家が、100年以上、大切に守ってきました。",
+      "translation": "An old family called the Miyakoshi family carefully protected it for more than one hundred years.",
+      "note": "Used to introduce a name the listener may not know; the noun after という says what kind of thing it is",
+      "noteZh": "用于介绍对方可能不知道的名字，という后面的名词说明它是什么",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    },
+    {
+      "pattern": "〜ことがわかる",
+      "meaning": "to find out that ~; it becomes clear that ~",
+      "meaningZh": "得知…；弄清楚…",
+      "formation": "plain-form clause + ことがわかる",
+      "example": "三つの絵は、同じ一連の作品だったことがわかりました。",
+      "translation": "It was found that the three paintings were part of the same set of works.",
+      "note": "Common in news to report a discovery or research result",
+      "noteZh": "新闻中常用来报道新发现或调查结果",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことがわかる"
+    }
+  ],
+  "practiceZh": [
+    "東京の美術館で、日本とイギリスとアメリカにある古い「ふすま絵」が、約150年ぶりに一緒に並びました。\n在东京的美术馆，分别收藏于日本、英国和美国的古老「隔扇画」时隔约150年再次并排展出。\n美術館 = art museum；約 = about；並ぶ = to line up",
+    "ふすま絵は、「ふすま」という日本の家の戸に描いた絵です。今回の絵は、江戸時代に、「狩野派」という有名な絵師のグループが描きました。\n隔扇画是画在日本房屋的「隔扇」门上的画。这次的画是江户时代由著名画师流派「狩野派」绘制的。\n戸 = door；描く = to paint；江戸時代 = Edo period",
+    "絵は、昔、奈良県の神社にありました。しかし、約150年前の明治時代に、ばらばらになりました。\n这些画从前在奈良县的神社里。但是在约150年前的明治时代，它们被分散了。\n昔 = long ago；神社 = shrine；ばらばら = scattered",
+    "一つは、青森県中泊町の「宮越家」という古い家が、100年以上、大切に守ってきました。春の花と鳥の絵です。\n其中一幅由青森县中泊町的旧家「宫越家」珍藏守护了100多年，是描绘春天花鸟的画。\n守る = to protect；以上 = more than；春 = spring",
+    "ほかの二つの絵は、海を越えて、イギリスの大英博物館と、アメリカのシアトル美術館に渡りました。\n另外两幅画漂洋过海，分别流传到了英国的大英博物馆和美国的西雅图艺术博物馆。\n海を越える = to cross the sea；博物館 = museum；渡る = to go across",
+    "2024年の調査で、この三つの絵は、もともと同じ一連の作品だったことがわかりました。\n通过2024年的调查，人们发现这三幅画原本是同一组作品。\n調査 = investigation；もともと = originally；作品 = work of art",
+    "今、三つの絵は、東京・上野の東京都美術館の展覧会で、一緒に展示されています。展覧会は、10月18日までです。\n现在，这三幅画正在东京上野的东京都美术馆的展览会上一同展出。展览会持续到10月18日。\n展覧会 = exhibition；展示 = display；まで = until",
+    "中泊町の人たちは、「150年ぶりの奇跡の再会です。とてもうれしいです」と話しています。\n中泊町的人们说：「这是时隔150年的奇迹重逢，我们非常高兴。」\n奇跡 = miracle；再会 = reunion；うれしい = happy",
+    "展覧会は、そのあと、大阪でも開かれる予定です。\n展览会之后还计划在大阪举办。\nそのあと = after that；開かれる = to be held；予定 = plan"
+  ]
+}
