@@ -1,0 +1,414 @@
+{
+  "episode": 118,
+  "title": "夏の夜空に流れ星、ペルセウス座流星群が見ごろ",
+  "date": "2026-08-14",
+  "source": "国立天文台 / tenki.jp / ウェザーニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026081401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August fourteenth. It's shooting star season — one of the year's most famous meteor showers is lighting up Japan's summer night sky, and this year the conditions are perfect. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、夏の夜空で、たくさんの流れ星を見ることができます。「ペルセウス座流星群」です。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>で、たくさんの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。「ペルセウス<ruby>座<rt>ざ</rt></ruby><span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペルセウス座流星群は、一年で一番有名な流星群の一つです。毎年、8月の中ごろに、たくさんの流れ星が見えます。",
+      "ruby": "ペルセウス<ruby>座<rt>ざ</rt></ruby><span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>は、<ruby>一年<rt>いちねん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>な<span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>毎年<rt>まいとし</rt></ruby>、8<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>に、たくさんの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>が<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "国立天文台によると、今年は、8月13日の昼に、流れ星の数が一番多くなりました。",
+      "ruby": "<ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>は、8<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>に、<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "見ごろは、12日の夜から13日の朝と、13日の夜から14日の朝です。",
+      "ruby": "<span class=\"vw\" data-ja=\"見ごろ\" data-reading=\"みごろ\" data-en=\"the best time to see\"><ruby>見<rt>み</rt></ruby>ごろ</span>は、12<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から13<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>と、13<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>14日<rt>じゅうよっか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、13日が新月です。月の光がないので、星がとてもよく見えます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、13<ruby>日<rt>にち</rt></ruby>が<span class=\"vw\" data-ja=\"新月\" data-reading=\"しんげつ\" data-en=\"new moon\"><ruby>新月<rt>しんげつ</rt></ruby></span>です。<ruby>月<rt>つき</rt></ruby>の<span class=\"vw\" data-ja=\"光\" data-reading=\"ひかり\" data-en=\"light\"><ruby>光<rt>ひかり</rt></ruby></span>がないので、<span class=\"vw\" data-ja=\"星\" data-reading=\"ほし\" data-en=\"star\"><ruby>星<rt>ほし</rt></ruby></span>がとてもよく<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "空が暗い場所では、1時間に35個ぐらいの流れ星が見えるかもしれません。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、1<ruby>時間<rt>じかん</rt></ruby>に35<ruby>個<rt>こ</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>が<ruby>見え<rt>みえ</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "流れ星は、夜9時ごろから見え始めます。夜中を過ぎると、数はもっと多くなります。",
+      "ruby": "<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>は、<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>ごろから<ruby>見え<rt>みえ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ます。<span class=\"vw\" data-ja=\"夜中\" data-reading=\"よなか\" data-en=\"middle of the night\"><ruby>夜中<rt>よなか</rt></ruby></span>を<ruby>過ぎ<rt>すぎ</rt></ruby>ると、<ruby>数<rt>かず</rt></ruby>はもっと<ruby>多く<rt>おおく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "国立天文台は、「空の広いところを、ゆっくり見てください。目が暗さに慣れるまで、15分ぐらいかかります」と言っています。",
+      "ruby": "<ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>は、「<ruby>空<rt>そら</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby>ところを、ゆっくり<ruby>見て<rt>みて</rt></ruby>ください。<ruby>目<rt>め</rt></ruby>が<ruby>暗さ<rt>くらさ</rt></ruby>に<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>るまで</span>、15<ruby>分<rt>ふん</rt></ruby>ぐらいかかります」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "町の明るい場所では、流れ星は少ししか見えません。安全な暗い場所で、夏の夜空を楽しんでください。",
+      "ruby": "<ruby>町<rt>まち</rt></ruby>の<ruby>明るい<rt>あかるい</rt></ruby><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>は<ruby>少し<rt>すこし</rt></ruby>しか<ruby>見え<rt>みえ</rt></ruby>ません。<ruby>安全<rt>あんぜん</rt></ruby>な<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>で、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>を<ruby>楽し<rt>たのし</rt></ruby>んでください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、夏の夜空で、たくさんの流れ星を見ることができます。「ペルセウス座流星群」です。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>で、たくさんの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。「ペルセウス<ruby>座<rt>ざ</rt></ruby><span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, in the summer night sky, you can see many shooting stars. This is the Perseid meteor shower."
+    },
+    {
+      "speaker": "vocab",
+      "text": "流れ星",
+      "ruby": "<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shooting star — a small light that moves quickly across the night sky."
+    },
+    {
+      "speaker": "slow",
+      "text": "見ごろは、12日の夜から13日の朝と、13日の夜から14日の朝です。",
+      "ruby": "<span class=\"vw\" data-ja=\"見ごろ\" data-reading=\"みごろ\" data-en=\"the best time to see\"><ruby>見<rt>み</rt></ruby>ごろ</span>は、12<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から13<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>と、13<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>14日<rt>じゅうよっか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The best time to watch is from the night of the twelfth to the morning of the thirteenth, and from the night of the thirteenth to the morning of the fourteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見ごろ",
+      "ruby": "<span class=\"vw\" data-ja=\"見ごろ\" data-reading=\"みごろ\" data-en=\"the best time to see\"><ruby>見<rt>けん</rt></ruby>ごろ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the best time to see something."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、13日が新月です。月の光がないので、星がとてもよく見えます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、13<ruby>日<rt>にち</rt></ruby>が<span class=\"vw\" data-ja=\"新月\" data-reading=\"しんげつ\" data-en=\"new moon\"><ruby>新月<rt>しんげつ</rt></ruby></span>です。<ruby>月<rt>つき</rt></ruby>の<span class=\"vw\" data-ja=\"光\" data-reading=\"ひかり\" data-en=\"light\"><ruby>光<rt>ひかり</rt></ruby></span>がないので、<span class=\"vw\" data-ja=\"星\" data-reading=\"ほし\" data-en=\"star\"><ruby>星<rt>ほし</rt></ruby></span>がとてもよく<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, the thirteenth is a new moon. Because there is no moonlight, the stars look very clear."
+    },
+    {
+      "speaker": "vocab",
+      "text": "新月",
+      "ruby": "<span class=\"vw\" data-ja=\"新月\" data-reading=\"しんげつ\" data-en=\"new moon\"><ruby>新月<rt>しんげつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means new moon — the time of the month when you cannot see the moon, so the night sky is at its darkest."
+    },
+    {
+      "speaker": "slow",
+      "text": "空が暗い場所では、1時間に35個ぐらいの流れ星が見えるかもしれません。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、1<ruby>時間<rt>じかん</rt></ruby>に35<ruby>個<rt>こ</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>が<ruby>見え<rt>みえ</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "In places where the sky is dark, you might see about thirty-five shooting stars in one hour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暗い",
+      "ruby": "<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means dark."
+    },
+    {
+      "speaker": "slow",
+      "text": "国立天文台は、「空の広いところを、ゆっくり見てください。目が暗さに慣れるまで、15分ぐらいかかります」と言っています。",
+      "ruby": "<ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>は、「<ruby>空<rt>そら</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby>ところを、ゆっくり<ruby>見て<rt>みて</rt></ruby>ください。<ruby>目<rt>め</rt></ruby>が<ruby>暗さ<rt>くらさ</rt></ruby>に<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>るまで</span>、15<ruby>分<rt>ふん</rt></ruby>ぐらいかかります」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "The National Astronomical Observatory says: look slowly at a wide area of the sky. It takes about fifteen minutes for your eyes to get used to the darkness."
+    },
+    {
+      "speaker": "vocab",
+      "text": "慣れる",
+      "ruby": "<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to get used to something."
+    },
+    {
+      "speaker": "slow",
+      "text": "町の明るい場所では、流れ星は少ししか見えません。安全な暗い場所で、夏の夜空を楽しんでください。",
+      "ruby": "<ruby>町<rt>まち</rt></ruby>の<ruby>明るい<rt>あかるい</rt></ruby><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>は<ruby>少し<rt>すこし</rt></ruby>しか<ruby>見え<rt>みえ</rt></ruby>ません。<ruby>安全<rt>あんぜん</rt></ruby>な<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>で、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>を<ruby>楽し<rt>たのし</rt></ruby>んでください。"
+    },
+    {
+      "speaker": "host",
+      "text": "In bright places in town, you can only see a few shooting stars. Please enjoy the summer night sky from a safe, dark place."
+    },
+    {
+      "speaker": "vocab",
+      "text": "楽しむ",
+      "ruby": "<span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>む</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to enjoy."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今、夏の夜空で、たくさんの流れ星を見ることができます。「ペルセウス座流星群」です。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>で、たくさんの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。「ペルセウス<ruby>座<rt>ざ</rt></ruby><span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペルセウス座流星群は、一年で一番有名な流星群の一つです。毎年、8月の中ごろに、たくさんの流れ星が見えます。",
+      "ruby": "ペルセウス<ruby>座<rt>ざ</rt></ruby><span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>は、<ruby>一年<rt>いちねん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>な<span class=\"vw\" data-ja=\"流星群\" data-reading=\"りゅうせいぐん\" data-en=\"meteor shower\"><ruby>流星群<rt>りゅうせいぐん</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>毎年<rt>まいとし</rt></ruby>、8<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>に、たくさんの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>が<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "国立天文台によると、今年は、8月13日の昼に、流れ星の数が一番多くなりました。",
+      "ruby": "<ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>は、8<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>に、<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "見ごろは、12日の夜から13日の朝と、13日の夜から14日の朝です。",
+      "ruby": "<span class=\"vw\" data-ja=\"見ごろ\" data-reading=\"みごろ\" data-en=\"the best time to see\"><ruby>見<rt>み</rt></ruby>ごろ</span>は、12<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から13<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>と、13<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>14日<rt>じゅうよっか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、13日が新月です。月の光がないので、星がとてもよく見えます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、13<ruby>日<rt>にち</rt></ruby>が<span class=\"vw\" data-ja=\"新月\" data-reading=\"しんげつ\" data-en=\"new moon\"><ruby>新月<rt>しんげつ</rt></ruby></span>です。<ruby>月<rt>つき</rt></ruby>の<span class=\"vw\" data-ja=\"光\" data-reading=\"ひかり\" data-en=\"light\"><ruby>光<rt>ひかり</rt></ruby></span>がないので、<span class=\"vw\" data-ja=\"星\" data-reading=\"ほし\" data-en=\"star\"><ruby>星<rt>ほし</rt></ruby></span>がとてもよく<ruby>見え<rt>みえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "空が暗い場所では、1時間に35個ぐらいの流れ星が見えるかもしれません。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、1<ruby>時間<rt>じかん</rt></ruby>に35<ruby>個<rt>こ</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>が<ruby>見え<rt>みえ</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "流れ星は、夜9時ごろから見え始めます。夜中を過ぎると、数はもっと多くなります。",
+      "ruby": "<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>は、<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>ごろから<ruby>見え<rt>みえ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ます。<span class=\"vw\" data-ja=\"夜中\" data-reading=\"よなか\" data-en=\"middle of the night\"><ruby>夜中<rt>よなか</rt></ruby></span>を<ruby>過ぎ<rt>すぎ</rt></ruby>ると、<ruby>数<rt>かず</rt></ruby>はもっと<ruby>多く<rt>おおく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "国立天文台は、「空の広いところを、ゆっくり見てください。目が暗さに慣れるまで、15分ぐらいかかります」と言っています。",
+      "ruby": "<ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>は、「<ruby>空<rt>そら</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby>ところを、ゆっくり<ruby>見て<rt>みて</rt></ruby>ください。<ruby>目<rt>め</rt></ruby>が<ruby>暗さ<rt>くらさ</rt></ruby>に<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>るまで</span>、15<ruby>分<rt>ふん</rt></ruby>ぐらいかかります」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "町の明るい場所では、流れ星は少ししか見えません。安全な暗い場所で、夏の夜空を楽しんでください。",
+      "ruby": "<ruby>町<rt>まち</rt></ruby>の<ruby>明るい<rt>あかるい</rt></ruby><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>は<ruby>少し<rt>すこし</rt></ruby>しか<ruby>見え<rt>みえ</rt></ruby>ません。<ruby>安全<rt>あんぜん</rt></ruby>な<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>で、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"夜空\" data-reading=\"よぞら\" data-en=\"night sky\"><ruby>夜空<rt>よぞら</rt></ruby></span>を<ruby>楽し<rt>たのし</rt></ruby>んでください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "流れ星の見ごろは、いつですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>の<span class=\"vw\" data-ja=\"見ごろ\" data-reading=\"みごろ\" data-en=\"the best time to see\"><ruby>見<rt>み</rt></ruby>ごろ</span>は、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the night of the twelfth to the morning of the thirteenth, and from the night of the thirteenth to the morning of the fourteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年、星がとてもよく見えるのは、どうしてですか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>、<span class=\"vw\" data-ja=\"星\" data-reading=\"ほし\" data-en=\"star\"><ruby>星<rt>ほし</rt></ruby></span>がとてもよく<ruby>見え<rt>みえ</rt></ruby>るのは、どうしてですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the thirteenth is a new moon — there is no moonlight, so the sky is very dark."
+    },
+    {
+      "speaker": "slow",
+      "text": "空が暗い場所では、1時間に何個ぐらいの流れ星が見えますか。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<span class=\"vw\" data-ja=\"暗い\" data-reading=\"くらい\" data-en=\"dark\"><ruby>暗い<rt>くらい</rt></ruby></span><span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>では、1<ruby>時間<rt>じかん</rt></ruby>に<ruby>何個<rt>なんこ</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"流れ星\" data-reading=\"ながれぼし\" data-en=\"shooting star\"><ruby>流れ星<rt>ながれぼし</rt></ruby></span>が<ruby>見え<rt>みえ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About thirty-five shooting stars in one hour."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If the sky is clear tonight, find a safe, dark place, look up, and wait a little — you might catch a falling star. Don't forget to make a wish. See you tomorrow!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "流れ星",
+      "reading": "ながれぼし",
+      "en": "shooting star",
+      "zh": "流星"
+    },
+    {
+      "ja": "流星群",
+      "reading": "りゅうせいぐん",
+      "en": "meteor shower",
+      "zh": "流星群；流星雨"
+    },
+    {
+      "ja": "夜空",
+      "reading": "よぞら",
+      "en": "night sky",
+      "zh": "夜空"
+    },
+    {
+      "ja": "星",
+      "reading": "ほし",
+      "en": "star",
+      "zh": "星星"
+    },
+    {
+      "ja": "新月",
+      "reading": "しんげつ",
+      "en": "new moon",
+      "zh": "新月"
+    },
+    {
+      "ja": "光",
+      "reading": "ひかり",
+      "en": "light",
+      "zh": "光"
+    },
+    {
+      "ja": "見ごろ",
+      "reading": "みごろ",
+      "en": "the best time to see",
+      "zh": "最佳观赏时期"
+    },
+    {
+      "ja": "暗い",
+      "reading": "くらい",
+      "en": "dark",
+      "zh": "暗；黑暗"
+    },
+    {
+      "ja": "場所",
+      "reading": "ばしょ",
+      "en": "place",
+      "zh": "地方；场所"
+    },
+    {
+      "ja": "夜中",
+      "reading": "よなか",
+      "en": "middle of the night",
+      "zh": "半夜"
+    },
+    {
+      "ja": "慣れる",
+      "reading": "なれる",
+      "en": "to get used to",
+      "zh": "习惯；适应"
+    },
+    {
+      "ja": "楽しむ",
+      "reading": "たのしむ",
+      "en": "to enjoy",
+      "zh": "享受；欣赏"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "根据……；据……",
+      "formation": "noun + によると",
+      "example": "国立天文台によると、8月13日の昼に、流れ星の数が一番多くなりました。",
+      "translation": "According to the National Astronomical Observatory, the number of shooting stars peaked around noon on August thirteenth.",
+      "note": "Marks the source of information; very common in news reports, often paired with 〜そうです or a reported fact",
+      "noteZh": "表示消息来源，新闻报道中非常常用",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#niyoruto"
+    },
+    {
+      "pattern": "〜しか〜ない",
+      "meaning": "only ~ (nothing more)",
+      "meaningZh": "只……（仅此，别无其他）",
+      "formation": "noun + しか + negative verb",
+      "example": "町の明るい場所では、流れ星は少ししか見えません。",
+      "translation": "In bright places in town, you can only see a few shooting stars.",
+      "note": "しか always pairs with a negative verb, but the meaning is a positive 'only.' More limiting than だけ.",
+      "noteZh": "「しか」必与否定呼应，意思却是肯定的「只」。比「だけ」更强调限定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#shika"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请……",
+      "formation": "verb て-form + ください",
+      "example": "安全な暗い場所で、夏の夜空を楽しんでください。",
+      "translation": "Please enjoy the summer night sky from a safe, dark place.",
+      "note": "A polite request or instruction; the standard way to ask someone to do something",
+      "noteZh": "礼貌的请求或指示，请对方做某事的标准说法",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#tekudasai"
+    }
+  ],
+  "practiceZh": [
+    "今、夏の夜空で、たくさんの流れ星を見ることができます。「ペルセウス座流星群」です。\n现在，在夏天的夜空中可以看到很多流星。这就是「英仙座流星雨」。\n夜空 = night sky；流れ星 = shooting star",
+    "ペルセウス座流星群は、一年で一番有名な流星群の一つです。毎年、8月の中ごろに、たくさんの流れ星が見えます。\n英仙座流星雨是一年中最有名的流星群之一。每年8月中旬都能看到很多流星。\n流星群 = meteor shower；中ごろ = around the middle",
+    "国立天文台によると、今年は、8月13日の昼に、流れ星の数が一番多くなりました。\n据国立天文台介绍，今年流星数量在8月13日白天达到最多。\n国立天文台 = National Astronomical Observatory；数 = number",
+    "見ごろは、12日の夜から13日の朝と、13日の夜から14日の朝です。\n最佳观赏时间是12日晚上到13日早晨，以及13日晚上到14日早晨。\n見ごろ = the best time to see；朝 = morning",
+    "今年は、13日が新月です。月の光がないので、星がとてもよく見えます。\n今年13日正好是新月。因为没有月光，星星看得非常清楚。\n新月 = new moon；光 = light",
+    "空が暗い場所では、1時間に35個ぐらいの流れ星が見えるかもしれません。\n在天空黑暗的地方，一小时也许能看到35颗左右的流星。\n暗い = dark；場所 = place",
+    "流れ星は、夜9時ごろから見え始めます。夜中を過ぎると、数はもっと多くなります。\n流星从晚上9点左右开始出现。过了半夜，数量会更多。\n見え始める = to start to be visible；夜中 = middle of the night",
+    "国立天文台は、「空の広いところを、ゆっくり見てください。目が暗さに慣れるまで、15分ぐらいかかります」と言っています。\n国立天文台表示：「请慢慢地看向广阔的天空。眼睛适应黑暗大约需要15分钟。」\n広い = wide；慣れる = to get used to",
+    "町の明るい場所では、流れ星は少ししか見えません。安全な暗い場所で、夏の夜空を楽しんでください。\n在城市明亮的地方，只能看到很少的流星。请在安全、黑暗的地方欣赏夏天的夜空。\n明るい = bright；楽しむ = to enjoy"
+  ]
+}
