@@ -1,0 +1,414 @@
+{
+  "episode": 120,
+  "title": "名古屋・東山動物園でコビトカバの赤ちゃんが誕生",
+  "date": "2026-08-15",
+  "source": "東山動植物園 / CBCニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026081501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August fifteenth. Some happy news from Nagoya — one of the rarest animals in the world just had a baby at the city zoo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県名古屋市の東山動物園で、コビトカバの赤ちゃんが生まれました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>の<ruby>東山<rt>ひがしやま</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、コビトカバの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コビトカバは、体が小さい、珍しいカバです。ジャイアントパンダやオカピと一緒に、「世界三大珍獣」と呼ばれています。",
+      "ruby": "コビトカバは、<ruby>体<rt>からだ</rt></ruby>が<ruby>小さい<rt>ちいさい</rt></ruby>、<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>カバです。ジャイアントパンダやオカピと<ruby>一緒に<rt>いっしょに</rt></ruby>、「<ruby>世界<rt>せかい</rt></ruby><ruby>三大<rt>さんだい</rt></ruby><ruby>珍獣<rt>ちんじゅう</rt></ruby>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、8月11日に生まれました。次の日の朝、動物園の人が確認しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。<span class=\"vw\" data-ja=\"次の日\" data-reading=\"つぎのひ\" data-en=\"the next day\"><ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>ひ</rt></ruby></span>の<ruby>朝<rt>あさ</rt></ruby>、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>確認し<rt>かくにんし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんの名前はコユリで、17歳です。お父さんの名前はミライで、9歳です。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>はコユリで、17<ruby>歳<rt>さい</rt></ruby>です。お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>はミライで、9<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、お母さんのそばで、元気に動いています。男の子か女の子かは、まだわかりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、お<ruby>母さん<rt>かあさん</rt></ruby>のそばで、<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>に<ruby>動い<rt>うごい</rt></ruby>ています。<ruby>男の子<rt>おとこのこ</rt></ruby>か<ruby>女の子<rt>おんなのこ</rt></ruby>かは、まだわかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園でコビトカバの赤ちゃんが生まれたのは、3年ぶりです。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>でコビトカバの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>たのは、3<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんが元気に大きく育てば、この動物園では1994年から初めてのことになります。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>に<ruby>大きく<rt>おおきく</rt></ruby><ruby>育て<rt>そだて</rt></ruby>ば、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>では1994<ruby>年<rt>ねん</rt></ruby>から<ruby>初めて<rt>はじめて</rt></ruby>のことになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、お母さんと赤ちゃんは、建物の中の静かな場所にいます。お客さんは、まだ見ることができません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、お<ruby>母さん<rt>かあさん</rt></ruby>と<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>な<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>にいます。お<ruby>客<rt>きゃく</rt></ruby>さんは、まだ<ruby>見る<rt>みる</rt></ruby>ことができません。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「見ることができる日が決まったら、お知らせします」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>ったら、<span class=\"vw\" data-ja=\"お知らせ\" data-reading=\"おしらせ\" data-en=\"notice; announcement\">お<ruby>知らせ<rt>しらせ</rt></ruby></span>します」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "愛知県名古屋市の東山動物園で、コビトカバの赤ちゃんが生まれました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>の<ruby>東山<rt>ひがしやま</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、コビトカバの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A baby pygmy hippo was born at Higashiyama Zoo in the city of Nagoya, Aichi Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "赤ちゃん",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means baby — it's used for human babies and animal babies too."
+    },
+    {
+      "speaker": "slow",
+      "text": "コビトカバは、体が小さい、珍しいカバです。ジャイアントパンダやオカピと一緒に、「世界三大珍獣」と呼ばれています。",
+      "ruby": "コビトカバは、<ruby>体<rt>からだ</rt></ruby>が<ruby>小さい<rt>ちいさい</rt></ruby>、<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>カバです。ジャイアントパンダやオカピと<ruby>一緒に<rt>いっしょに</rt></ruby>、「<ruby>世界<rt>せかい</rt></ruby><ruby>三大<rt>さんだい</rt></ruby><ruby>珍獣<rt>ちんじゅう</rt></ruby>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Pygmy hippos are small, rare hippos. Together with giant pandas and okapis, they are called the three rarest animals in the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "珍しい",
+      "ruby": "<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rare, or unusual."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、お母さんのそばで、元気に動いています。男の子か女の子かは、まだわかりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、お<ruby>母さん<rt>かあさん</rt></ruby>のそばで、<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>に<ruby>動い<rt>うごい</rt></ruby>ています。<ruby>男の子<rt>おとこのこ</rt></ruby>か<ruby>女の子<rt>おんなのこ</rt></ruby>かは、まだわかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The baby is moving around energetically next to its mother. We don't know yet if it's a boy or a girl."
+    },
+    {
+      "speaker": "vocab",
+      "text": "元気",
+      "ruby": "<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means healthy and full of energy."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんが元気に大きく育てば、この動物園では1994年から初めてのことになります。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>に<ruby>大きく<rt>おおきく</rt></ruby><ruby>育て<rt>そだて</rt></ruby>ば、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>では1994<ruby>年<rt>ねん</rt></ruby>から<ruby>初めて<rt>はじめて</rt></ruby>のことになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "If the baby grows up big and healthy, it will be the first time at this zoo since nineteen ninety-four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育つ",
+      "ruby": "<span class=\"vw\" data-ja=\"育つ\" data-reading=\"そだつ\" data-en=\"to grow up\"><ruby>育つ<rt>そだつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to grow up."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、お母さんと赤ちゃんは、建物の中の静かな場所にいます。お客さんは、まだ見ることができません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、お<ruby>母さん<rt>かあさん</rt></ruby>と<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>な<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>にいます。お<ruby>客<rt>きゃく</rt></ruby>さんは、まだ<ruby>見る<rt>みる</rt></ruby>ことができません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, the mother and baby are in a quiet place inside a building. Visitors cannot see them yet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "静か",
+      "ruby": "<span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means quiet."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物園は、「見ることができる日が決まったら、お知らせします」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>ったら、<span class=\"vw\" data-ja=\"お知らせ\" data-reading=\"おしらせ\" data-en=\"notice; announcement\">お<ruby>知らせ<rt>しらせ</rt></ruby></span>します」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The zoo says: when the day you can see them is decided, we will let you know."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お知らせ",
+      "ruby": "<span class=\"vw\" data-ja=\"お知らせ\" data-reading=\"おしらせ\" data-en=\"notice; announcement\">お<ruby>知らせ<rt>しらせ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a notice or announcement — information that tells people something new."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県名古屋市の東山動物園で、コビトカバの赤ちゃんが生まれました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>の<ruby>東山<rt>ひがしやま</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、コビトカバの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コビトカバは、体が小さい、珍しいカバです。ジャイアントパンダやオカピと一緒に、「世界三大珍獣」と呼ばれています。",
+      "ruby": "コビトカバは、<ruby>体<rt>からだ</rt></ruby>が<ruby>小さい<rt>ちいさい</rt></ruby>、<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>カバです。ジャイアントパンダやオカピと<ruby>一緒に<rt>いっしょに</rt></ruby>、「<ruby>世界<rt>せかい</rt></ruby><ruby>三大<rt>さんだい</rt></ruby><ruby>珍獣<rt>ちんじゅう</rt></ruby>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、8月11日に生まれました。次の日の朝、動物園の人が確認しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。<span class=\"vw\" data-ja=\"次の日\" data-reading=\"つぎのひ\" data-en=\"the next day\"><ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>ひ</rt></ruby></span>の<ruby>朝<rt>あさ</rt></ruby>、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>確認し<rt>かくにんし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんの名前はコユリで、17歳です。お父さんの名前はミライで、9歳です。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>はコユリで、17<ruby>歳<rt>さい</rt></ruby>です。お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>はミライで、9<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、お母さんのそばで、元気に動いています。男の子か女の子かは、まだわかりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、お<ruby>母さん<rt>かあさん</rt></ruby>のそばで、<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>に<ruby>動い<rt>うごい</rt></ruby>ています。<ruby>男の子<rt>おとこのこ</rt></ruby>か<ruby>女の子<rt>おんなのこ</rt></ruby>かは、まだわかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園でコビトカバの赤ちゃんが生まれたのは、3年ぶりです。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>でコビトカバの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>たのは、3<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんが元気に大きく育てば、この動物園では1994年から初めてのことになります。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>に<ruby>大きく<rt>おおきく</rt></ruby><ruby>育て<rt>そだて</rt></ruby>ば、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>では1994<ruby>年<rt>ねん</rt></ruby>から<ruby>初めて<rt>はじめて</rt></ruby>のことになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、お母さんと赤ちゃんは、建物の中の静かな場所にいます。お客さんは、まだ見ることができません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、お<ruby>母さん<rt>かあさん</rt></ruby>と<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>な<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>にいます。お<ruby>客<rt>きゃく</rt></ruby>さんは、まだ<ruby>見る<rt>みる</rt></ruby>ことができません。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「見ることができる日が決まったら、お知らせします」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>ったら、<span class=\"vw\" data-ja=\"お知らせ\" data-reading=\"おしらせ\" data-en=\"notice; announcement\">お<ruby>知らせ<rt>しらせ</rt></ruby></span>します」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "コビトカバの赤ちゃんは、いつ生まれましたか。",
+      "ruby": "コビトカバの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、いつ<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On August eleventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "お母さんの名前は、何ですか。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Her name is Koyuri — she is seventeen years old."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、赤ちゃんを見ることができますか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Not yet. The mother and baby are in a quiet place inside a building, and the zoo will announce when visitors can see them."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. One of the rarest animals on Earth has a brand-new baby in Nagoya. Here's hoping the little one grows up big and strong. See you tomorrow!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "婴儿；（动物的）宝宝"
+    },
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "珍しい",
+      "reading": "めずらしい",
+      "en": "rare; unusual",
+      "zh": "珍稀；罕见"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生；诞生"
+    },
+    {
+      "ja": "次の日",
+      "reading": "つぎのひ",
+      "en": "the next day",
+      "zh": "第二天"
+    },
+    {
+      "ja": "元気",
+      "reading": "げんき",
+      "en": "healthy; full of energy",
+      "zh": "健康；有活力"
+    },
+    {
+      "ja": "そば",
+      "reading": "そば",
+      "en": "beside; near",
+      "zh": "旁边；身边"
+    },
+    {
+      "ja": "育つ",
+      "reading": "そだつ",
+      "en": "to grow up",
+      "zh": "成长；长大"
+    },
+    {
+      "ja": "建物",
+      "reading": "たてもの",
+      "en": "building",
+      "zh": "建筑物"
+    },
+    {
+      "ja": "静か",
+      "reading": "しずか",
+      "en": "quiet",
+      "zh": "安静"
+    },
+    {
+      "ja": "場所",
+      "reading": "ばしょ",
+      "en": "place",
+      "zh": "地方；场所"
+    },
+    {
+      "ja": "お知らせ",
+      "reading": "おしらせ",
+      "en": "notice; announcement",
+      "zh": "通知；告示"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~; after an interval of ~",
+      "meaningZh": "时隔……（之久）",
+      "formation": "period of time + ぶり",
+      "example": "この動物園でコビトカバの赤ちゃんが生まれたのは、3年ぶりです。",
+      "translation": "This is the first time in three years that a baby pygmy hippo has been born at this zoo.",
+      "note": "ぶり attaches to a length of time to say something happened again after that long. Very common in news about records and rare events.",
+      "noteZh": "「ぶり」接在时间长度后，表示「时隔这么久（再次发生）」。新闻中报道纪录或稀有事件时非常常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#buri"
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "if ~ (conditional)",
+      "meaningZh": "如果……就……",
+      "formation": "verb conditional (ば-form): change final -u to -eba (育つ → 育てば)",
+      "example": "赤ちゃんが元気に大きく育てば、1994年から初めてのことになります。",
+      "translation": "If the baby grows up big and healthy, it will be the first time since 1994.",
+      "note": "The ば-form states a condition — if the first part happens, the second follows.",
+      "noteZh": "「ば」形表示条件——只要前项成立，后项就会发生。育つ→育てば。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ば"
+    },
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~; to be known as ~",
+      "meaningZh": "被称为……",
+      "formation": "name + と + 呼ばれる (passive of 呼ぶ)",
+      "example": "ジャイアントパンダやオカピと一緒に、「世界三大珍獣」と呼ばれています。",
+      "translation": "Together with giant pandas and okapis, they are called the three rarest animals in the world.",
+      "note": "Passive form of 呼ぶ (to call); often used to introduce a name or nickname.",
+      "noteZh": "「呼ぶ」的被动形，常用来引出名称或称号。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と呼ばれる"
+    }
+  ],
+  "practiceZh": [
+    "愛知県名古屋市の東山動物園で、コビトカバの赤ちゃんが生まれました。\n在爱知县名古屋市的东山动物园，一只倭河马宝宝出生了。\n動物園 = zoo；赤ちゃん = baby",
+    "コビトカバは、体が小さい、珍しいカバです。ジャイアントパンダやオカピと一緒に、「世界三大珍獣」と呼ばれています。\n倭河马是体型很小的珍稀河马。它和大熊猫、㺢㹢狓一起被称为「世界三大珍兽」。\n珍しい = rare；呼ばれる = to be called",
+    "赤ちゃんは、8月11日に生まれました。次の日の朝、動物園の人が確認しました。\n宝宝在8月11日出生。第二天早上，动物园的工作人员进行了确认。\n次の日 = the next day；確認する = to confirm",
+    "お母さんの名前はコユリで、17歳です。お父さんの名前はミライで、9歳です。\n妈妈的名字叫コユリ，17岁。爸爸的名字叫ミライ，9岁。\n名前 = name；〜歳 = ~ years old",
+    "赤ちゃんは、お母さんのそばで、元気に動いています。男の子か女の子かは、まだわかりません。\n宝宝在妈妈身边充满活力地活动着。是男孩还是女孩，现在还不知道。\nそば = beside；元気に = energetically",
+    "この動物園でコビトカバの赤ちゃんが生まれたのは、3年ぶりです。\n这家动物园时隔3年再次迎来倭河马宝宝的诞生。\n〜ぶり = for the first time in ~；生まれる = to be born",
+    "赤ちゃんが元気に大きく育てば、この動物園では1994年から初めてのことになります。\n如果宝宝能健康长大，这将是这家动物园自1994年以来的第一次。\n育つ = to grow up；初めて = for the first time",
+    "今、お母さんと赤ちゃんは、建物の中の静かな場所にいます。お客さんは、まだ見ることができません。\n现在，妈妈和宝宝待在建筑物里一个安静的地方。游客还不能参观。\n建物 = building；静か = quiet",
+    "動物園は、「見ることができる日が決まったら、お知らせします」と話しています。\n动物园表示：「等到可以参观的日期确定后，我们会通知大家。」\n決まる = to be decided；お知らせ = notice"
+  ]
+}
