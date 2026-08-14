@@ -1,0 +1,626 @@
+{
+  "episode": 103,
+  "title": "広島は原爆投下から81年、平和記念式典で平和宣言",
+  "date": "2026-08-06",
+  "source": "NHK / 中国新聞 / 時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026080601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August sixth. Eighty-one years ago today, an atomic bomb was dropped on Hiroshima. This morning the city held its peace memorial ceremony, joined by representatives from a record number of countries. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島は6日、アメリカによる原爆投下から81年となる「原爆の日」を迎えました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby>は<ruby>6日<rt>むいか</rt></ruby>、アメリカによる<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆投下<rt>げんばくとうか</rt></ruby></span>から81<ruby>年<rt>ねん</rt></ruby>となる「<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」を<ruby>迎え<rt>むかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市の平和記念公園では、午前8時から、原爆で亡くなった人を慰霊する平和記念式典が開かれました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>平和記念公園<rt>へいわきねんこうえん</rt></ruby>では、<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>から、<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>を<span class=\"vw\" data-ja=\"慰霊\" data-reading=\"いれい\" data-en=\"consoling the spirits of the dead\"><ruby>慰霊<rt>いれい</rt></ruby></span>する<ruby>平和<rt>へいわ</rt></ruby><ruby>記念式典<rt>きねんしきてん</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式典には、被爆者や遺族のほか、過去最多となる123の国と地域と、EUの代表が参列しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>には、<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>や<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>のほか、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record high (number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>となる123の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>と、EUの<ruby>代表<rt>だいひょう</rt></ruby>が<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "原爆が投下された午前8時15分、「平和の鐘」の音とともに、参列した人たちは黙とうをささげました。",
+      "ruby": "<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<span class=\"vw\" data-ja=\"投下\" data-reading=\"とうか\" data-en=\"dropping (a bomb)\"><ruby>投下<rt>とうか</rt></ruby></span>された<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>、「<ruby>平和<rt>へいわ</rt></ruby>の<ruby>鐘<rt>かね</rt></ruby>」の<ruby>音<rt>おと</rt></ruby>とともに、<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をささげました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この1年間に亡くなったことが確認された広島の被爆者は、4393人でした。",
+      "ruby": "この1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>亡く<rt>なく</rt></ruby>なったことが<ruby>確認さ<rt>かくにんさ</rt></ruby>れた<ruby>広島<rt>ひろしま</rt></ruby>の<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>は、4393<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "亡くなった人の名前を書いた名簿は、式典の中で原爆慰霊碑に納められました。",
+      "ruby": "<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>た<span class=\"vw\" data-ja=\"名簿\" data-reading=\"めいぼ\" data-en=\"register; name list\"><ruby>名簿<rt>めいぼ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span><span class=\"vw\" data-ja=\"慰霊碑\" data-reading=\"いれいひ\" data-en=\"memorial monument; cenotaph\"><ruby>慰霊碑<rt>いれいひ</rt></ruby></span>に<ruby>納め<rt>おさめ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名簿に記された死没者は、これで合わせて35万3639人になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"名簿\" data-reading=\"めいぼ\" data-en=\"register; name list\"><ruby>名簿<rt>めいぼ</rt></ruby></span>に<ruby>記さ<rt>しるさ</rt></ruby>れた<span class=\"vw\" data-ja=\"死没者\" data-reading=\"しぼつしゃ\" data-en=\"the deceased\"><ruby>死没者<rt>しぼつしゃ</rt></ruby></span>は、これで<ruby>合わ<rt>あわ</rt></ruby>せて35<ruby>万<rt>まん</rt></ruby>3639<ruby>人<rt>にん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市の松井市長は「平和宣言」を読み上げ、核兵器の廃絶に向けて行動するよう、世界のリーダーに呼びかけました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>松井<rt>まつい</rt></ruby><ruby>市長<rt>しちょう</rt></ruby>は「<span class=\"vw\" data-ja=\"平和宣言\" data-reading=\"へいわせんげん\" data-en=\"peace declaration\"><ruby>平和<rt>へいわ</rt></ruby><ruby>宣言<rt>せんげん</rt></ruby></span>」を<ruby>読み上げ<rt>よみあげ</rt></ruby>、<span class=\"vw\" data-ja=\"核兵器\" data-reading=\"かくへいき\" data-en=\"nuclear weapons\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"廃絶\" data-reading=\"はいぜつ\" data-en=\"abolition\"><ruby>廃絶<rt>はいぜつ</rt></ruby></span>に<ruby>向け<rt>むけ</rt></ruby>て<ruby>行動<rt>こうどう</rt></ruby>するよう、<ruby>世界<rt>せかい</rt></ruby>のリーダーに<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、日本政府に対して、核兵器禁止条約の会議にオブザーバーとして参加し、早く条約に入るよう求めました。",
+      "ruby": "また、<ruby>日本政府<rt>にほんせいふ</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て、<span class=\"vw\" data-ja=\"核兵器\" data-reading=\"かくへいき\" data-en=\"nuclear weapons\"><ruby>核兵器<rt>かくへいき</rt></ruby></span><ruby>禁止<rt>きんし</rt></ruby><span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>の<ruby>会議<rt>かいぎ</rt></ruby>にオブザーバーとして<ruby>参加<rt>さんか</rt></ruby>し、<ruby>早く<rt>はやく</rt></ruby><span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>よう<ruby>求め<rt>もとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式典では、子どもの代表の小学生2人が、「平和への誓い」を読み上げました。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>では、<ruby>子ども<rt>こども</rt></ruby>の<ruby>代表<rt>だいひょう</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby><ruby>2人<rt>ふたり</rt></ruby>が、「<ruby>平和<rt>へいわ</rt></ruby>への<span class=\"vw\" data-ja=\"誓い\" data-reading=\"ちかい\" data-en=\"pledge; vow\"><ruby>誓い<rt>ちかい</rt></ruby></span>」を<ruby>読み上げ<rt>よみあげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "被爆者の平均年齢は86歳を超え、戦争の体験を直接聞くことは、年々難しくなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>は86<ruby>歳<rt>さい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>、<ruby>戦争<rt>せんそう</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"personal experience\"><ruby>体験<rt>たいけん</rt></ruby></span>を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>聞く<rt>きく</rt></ruby>ことは、<ruby>年々<rt>ねんねん</rt></ruby><ruby>難しく<rt>むずかしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "平和記念公園には朝早くから多くの人が訪れ、慰霊碑の前で静かに手を合わせました。",
+      "ruby": "<ruby>平和記念公園<rt>へいわきねんこうえん</rt></ruby>には<ruby>朝早く<rt>あさはやく</rt></ruby>から<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>、<span class=\"vw\" data-ja=\"慰霊碑\" data-reading=\"いれいひ\" data-en=\"memorial monument; cenotaph\"><ruby>慰霊碑<rt>いれいひ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>で<ruby>静か<rt>しずか</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市は、被爆の体験と平和への願いを、次の世代に伝え続けたいとしています。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>は、<ruby>被爆<rt>ひばく</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"personal experience\"><ruby>体験<rt>たいけん</rt></ruby></span>と<ruby>平和<rt>へいわ</rt></ruby>への<ruby>願い<rt>ねがい</rt></ruby>を、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>に<ruby>伝え<rt>つたえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島は6日、アメリカによる原爆投下から81年となる「原爆の日」を迎えました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby>は<ruby>6日<rt>むいか</rt></ruby>、アメリカによる<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆投下<rt>げんばくとうか</rt></ruby></span>から81<ruby>年<rt>ねん</rt></ruby>となる「<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」を<ruby>迎え<rt>むかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the sixth, Hiroshima marked the day of the atomic bombing — eighty-one years since the bomb was dropped."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原爆",
+      "ruby": "<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means atomic bomb."
+    },
+    {
+      "speaker": "slow",
+      "text": "式典には、被爆者や遺族のほか、過去最多となる123の国と地域と、EUの代表が参列しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>には、<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>や<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>のほか、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record high (number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>となる123の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>と、EUの<ruby>代表<rt>だいひょう</rt></ruby>が<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Along with survivors and bereaved families, representatives from a record one hundred twenty-three countries and regions, plus the European Union, attended."
+    },
+    {
+      "speaker": "vocab",
+      "text": "参列",
+      "ruby": "<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attending a ceremony."
+    },
+    {
+      "speaker": "slow",
+      "text": "原爆が投下された午前8時15分、「平和の鐘」の音とともに、参列した人たちは黙とうをささげました。",
+      "ruby": "<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<span class=\"vw\" data-ja=\"投下\" data-reading=\"とうか\" data-en=\"dropping (a bomb)\"><ruby>投下<rt>とうか</rt></ruby></span>された<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>、「<ruby>平和<rt>へいわ</rt></ruby>の<ruby>鐘<rt>かね</rt></ruby>」の<ruby>音<rt>おと</rt></ruby>とともに、<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をささげました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At eight fifteen, the moment the bomb was dropped, people offered a silent prayer as the peace bell rang."
+    },
+    {
+      "speaker": "vocab",
+      "text": "黙とう",
+      "ruby": "<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a silent prayer."
+    },
+    {
+      "speaker": "slow",
+      "text": "この1年間に亡くなったことが確認された広島の被爆者は、4393人でした。",
+      "ruby": "この1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>亡く<rt>なく</rt></ruby>なったことが<ruby>確認さ<rt>かくにんさ</rt></ruby>れた<ruby>広島<rt>ひろしま</rt></ruby>の<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>は、4393<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four thousand three hundred ninety-three survivors in Hiroshima were confirmed to have died over the past year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被爆者",
+      "ruby": "<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a survivor of the atomic bombing."
+    },
+    {
+      "speaker": "slow",
+      "text": "名簿に記された死没者は、これで合わせて35万3639人になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"名簿\" data-reading=\"めいぼ\" data-en=\"register; name list\"><ruby>名簿<rt>めいぼ</rt></ruby></span>に<ruby>記さ<rt>しるさ</rt></ruby>れた<span class=\"vw\" data-ja=\"死没者\" data-reading=\"しぼつしゃ\" data-en=\"the deceased\"><ruby>死没者<rt>しぼつしゃ</rt></ruby></span>は、これで<ruby>合わ<rt>あわ</rt></ruby>せて35<ruby>万<rt>まん</rt></ruby>3639<ruby>人<rt>にん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the new names, the registry of the dead now totals three hundred fifty-three thousand six hundred thirty-nine people."
+    },
+    {
+      "speaker": "vocab",
+      "text": "死没者",
+      "ruby": "<span class=\"vw\" data-ja=\"死没者\" data-reading=\"しぼつしゃ\" data-en=\"the deceased\"><ruby>死没者<rt>しぼつしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the deceased — people who have died."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島市の松井市長は「平和宣言」を読み上げ、核兵器の廃絶に向けて行動するよう、世界のリーダーに呼びかけました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>松井<rt>まつい</rt></ruby><ruby>市長<rt>しちょう</rt></ruby>は「<span class=\"vw\" data-ja=\"平和宣言\" data-reading=\"へいわせんげん\" data-en=\"peace declaration\"><ruby>平和<rt>へいわ</rt></ruby><ruby>宣言<rt>せんげん</rt></ruby></span>」を<ruby>読み上げ<rt>よみあげ</rt></ruby>、<span class=\"vw\" data-ja=\"核兵器\" data-reading=\"かくへいき\" data-en=\"nuclear weapons\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"廃絶\" data-reading=\"はいぜつ\" data-en=\"abolition\"><ruby>廃絶<rt>はいぜつ</rt></ruby></span>に<ruby>向け<rt>むけ</rt></ruby>て<ruby>行動<rt>こうどう</rt></ruby>するよう、<ruby>世界<rt>せかい</rt></ruby>のリーダーに<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the peace declaration, the mayor called on world leaders to take action toward abolishing nuclear weapons."
+    },
+    {
+      "speaker": "vocab",
+      "text": "廃絶",
+      "ruby": "<span class=\"vw\" data-ja=\"廃絶\" data-reading=\"はいぜつ\" data-en=\"abolition\"><ruby>廃絶<rt>はいぜつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means abolition — getting rid of something completely."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、日本政府に対して、核兵器禁止条約の会議にオブザーバーとして参加し、早く条約に入るよう求めました。",
+      "ruby": "また、<ruby>日本政府<rt>にほんせいふ</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て、<span class=\"vw\" data-ja=\"核兵器\" data-reading=\"かくへいき\" data-en=\"nuclear weapons\"><ruby>核兵器<rt>かくへいき</rt></ruby></span><ruby>禁止<rt>きんし</rt></ruby><span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>の<ruby>会議<rt>かいぎ</rt></ruby>にオブザーバーとして<ruby>参加<rt>さんか</rt></ruby>し、<ruby>早く<rt>はやく</rt></ruby><span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>よう<ruby>求め<rt>もとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He also urged the Japanese government to attend a meeting on the nuclear weapons ban treaty as an observer, and to join the treaty soon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "条約",
+      "ruby": "<span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a treaty — a formal agreement between countries."
+    },
+    {
+      "speaker": "slow",
+      "text": "式典では、子どもの代表の小学生2人が、「平和への誓い」を読み上げました。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>では、<ruby>子ども<rt>こども</rt></ruby>の<ruby>代表<rt>だいひょう</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby><ruby>2人<rt>ふたり</rt></ruby>が、「<ruby>平和<rt>へいわ</rt></ruby>への<span class=\"vw\" data-ja=\"誓い\" data-reading=\"ちかい\" data-en=\"pledge; vow\"><ruby>誓い<rt>ちかい</rt></ruby></span>」を<ruby>読み上げ<rt>よみあげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two elementary school students, representing the children, read out the pledge for peace."
+    },
+    {
+      "speaker": "vocab",
+      "text": "誓い",
+      "ruby": "<span class=\"vw\" data-ja=\"誓い\" data-reading=\"ちかい\" data-en=\"pledge; vow\"><ruby>誓い<rt>ちかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a pledge, or vow."
+    },
+    {
+      "speaker": "slow",
+      "text": "被爆者の平均年齢は86歳を超え、戦争の体験を直接聞くことは、年々難しくなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>は86<ruby>歳<rt>さい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>、<ruby>戦争<rt>せんそう</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"personal experience\"><ruby>体験<rt>たいけん</rt></ruby></span>を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>聞く<rt>きく</rt></ruby>ことは、<ruby>年々<rt>ねんねん</rt></ruby><ruby>難しく<rt>むずかしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The average age of the survivors is now over eighty-six, and hearing their stories directly is getting harder every year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均年齢",
+      "ruby": "<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means average age."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島市は、被爆の体験と平和への願いを、次の世代に伝え続けたいとしています。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>は、<ruby>被爆<rt>ひばく</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"personal experience\"><ruby>体験<rt>たいけん</rt></ruby></span>と<ruby>平和<rt>へいわ</rt></ruby>への<ruby>願い<rt>ねがい</rt></ruby>を、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>に<ruby>伝え<rt>つたえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The city says it wants to keep passing on the survivors' experiences and the wish for peace to the next generation."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世代",
+      "ruby": "<span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a generation."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "広島は6日、アメリカによる原爆投下から81年となる「原爆の日」を迎えました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby>は<ruby>6日<rt>むいか</rt></ruby>、アメリカによる<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆投下<rt>げんばくとうか</rt></ruby></span>から81<ruby>年<rt>ねん</rt></ruby>となる「<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」を<ruby>迎え<rt>むかえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市の平和記念公園では、午前8時から、原爆で亡くなった人を慰霊する平和記念式典が開かれました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>平和記念公園<rt>へいわきねんこうえん</rt></ruby>では、<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>から、<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>を<span class=\"vw\" data-ja=\"慰霊\" data-reading=\"いれい\" data-en=\"consoling the spirits of the dead\"><ruby>慰霊<rt>いれい</rt></ruby></span>する<ruby>平和<rt>へいわ</rt></ruby><ruby>記念式典<rt>きねんしきてん</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式典には、被爆者や遺族のほか、過去最多となる123の国と地域と、EUの代表が参列しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>には、<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>や<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>のほか、<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record high (number)\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>となる123の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>と、EUの<ruby>代表<rt>だいひょう</rt></ruby>が<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "原爆が投下された午前8時15分、「平和の鐘」の音とともに、参列した人たちは黙とうをささげました。",
+      "ruby": "<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<span class=\"vw\" data-ja=\"投下\" data-reading=\"とうか\" data-en=\"dropping (a bomb)\"><ruby>投下<rt>とうか</rt></ruby></span>された<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>、「<ruby>平和<rt>へいわ</rt></ruby>の<ruby>鐘<rt>かね</rt></ruby>」の<ruby>音<rt>おと</rt></ruby>とともに、<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をささげました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この1年間に亡くなったことが確認された広島の被爆者は、4393人でした。",
+      "ruby": "この1<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>亡く<rt>なく</rt></ruby>なったことが<ruby>確認さ<rt>かくにんさ</rt></ruby>れた<ruby>広島<rt>ひろしま</rt></ruby>の<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>は、4393<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "亡くなった人の名前を書いた名簿は、式典の中で原爆慰霊碑に納められました。",
+      "ruby": "<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>た<span class=\"vw\" data-ja=\"名簿\" data-reading=\"めいぼ\" data-en=\"register; name list\"><ruby>名簿<rt>めいぼ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span><span class=\"vw\" data-ja=\"慰霊碑\" data-reading=\"いれいひ\" data-en=\"memorial monument; cenotaph\"><ruby>慰霊碑<rt>いれいひ</rt></ruby></span>に<ruby>納め<rt>おさめ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名簿に記された死没者は、これで合わせて35万3639人になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"名簿\" data-reading=\"めいぼ\" data-en=\"register; name list\"><ruby>名簿<rt>めいぼ</rt></ruby></span>に<ruby>記さ<rt>しるさ</rt></ruby>れた<span class=\"vw\" data-ja=\"死没者\" data-reading=\"しぼつしゃ\" data-en=\"the deceased\"><ruby>死没者<rt>しぼつしゃ</rt></ruby></span>は、これで<ruby>合わ<rt>あわ</rt></ruby>せて35<ruby>万<rt>まん</rt></ruby>3639<ruby>人<rt>にん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市の松井市長は「平和宣言」を読み上げ、核兵器の廃絶に向けて行動するよう、世界のリーダーに呼びかけました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>松井<rt>まつい</rt></ruby><ruby>市長<rt>しちょう</rt></ruby>は「<span class=\"vw\" data-ja=\"平和宣言\" data-reading=\"へいわせんげん\" data-en=\"peace declaration\"><ruby>平和<rt>へいわ</rt></ruby><ruby>宣言<rt>せんげん</rt></ruby></span>」を<ruby>読み上げ<rt>よみあげ</rt></ruby>、<span class=\"vw\" data-ja=\"核兵器\" data-reading=\"かくへいき\" data-en=\"nuclear weapons\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"廃絶\" data-reading=\"はいぜつ\" data-en=\"abolition\"><ruby>廃絶<rt>はいぜつ</rt></ruby></span>に<ruby>向け<rt>むけ</rt></ruby>て<ruby>行動<rt>こうどう</rt></ruby>するよう、<ruby>世界<rt>せかい</rt></ruby>のリーダーに<ruby>呼び<rt>よび</rt></ruby>かけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、日本政府に対して、核兵器禁止条約の会議にオブザーバーとして参加し、早く条約に入るよう求めました。",
+      "ruby": "また、<ruby>日本政府<rt>にほんせいふ</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て、<span class=\"vw\" data-ja=\"核兵器\" data-reading=\"かくへいき\" data-en=\"nuclear weapons\"><ruby>核兵器<rt>かくへいき</rt></ruby></span><ruby>禁止<rt>きんし</rt></ruby><span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>の<ruby>会議<rt>かいぎ</rt></ruby>にオブザーバーとして<ruby>参加<rt>さんか</rt></ruby>し、<ruby>早く<rt>はやく</rt></ruby><span class=\"vw\" data-ja=\"条約\" data-reading=\"じょうやく\" data-en=\"treaty\"><ruby>条約<rt>じょうやく</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>よう<ruby>求め<rt>もとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式典では、子どもの代表の小学生2人が、「平和への誓い」を読み上げました。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>では、<ruby>子ども<rt>こども</rt></ruby>の<ruby>代表<rt>だいひょう</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby><ruby>2人<rt>ふたり</rt></ruby>が、「<ruby>平和<rt>へいわ</rt></ruby>への<span class=\"vw\" data-ja=\"誓い\" data-reading=\"ちかい\" data-en=\"pledge; vow\"><ruby>誓い<rt>ちかい</rt></ruby></span>」を<ruby>読み上げ<rt>よみあげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "被爆者の平均年齢は86歳を超え、戦争の体験を直接聞くことは、年々難しくなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"被爆者\" data-reading=\"ひばくしゃ\" data-en=\"survivor of the atomic bombing\"><ruby>被爆者<rt>ひばくしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>は86<ruby>歳<rt>さい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>、<ruby>戦争<rt>せんそう</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"personal experience\"><ruby>体験<rt>たいけん</rt></ruby></span>を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>聞く<rt>きく</rt></ruby>ことは、<ruby>年々<rt>ねんねん</rt></ruby><ruby>難しく<rt>むずかしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "平和記念公園には朝早くから多くの人が訪れ、慰霊碑の前で静かに手を合わせました。",
+      "ruby": "<ruby>平和記念公園<rt>へいわきねんこうえん</rt></ruby>には<ruby>朝早く<rt>あさはやく</rt></ruby>から<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>、<span class=\"vw\" data-ja=\"慰霊碑\" data-reading=\"いれいひ\" data-en=\"memorial monument; cenotaph\"><ruby>慰霊碑<rt>いれいひ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>で<ruby>静か<rt>しずか</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市は、被爆の体験と平和への願いを、次の世代に伝え続けたいとしています。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>は、<ruby>被爆<rt>ひばく</rt></ruby>の<span class=\"vw\" data-ja=\"体験\" data-reading=\"たいけん\" data-en=\"personal experience\"><ruby>体験<rt>たいけん</rt></ruby></span>と<ruby>平和<rt>へいわ</rt></ruby>への<ruby>願い<rt>ねがい</rt></ruby>を、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>に<ruby>伝え<rt>つたえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、広島に原爆が投下されてから、何年ですか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>広島<rt>ひろしま</rt></ruby>に<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<span class=\"vw\" data-ja=\"投下\" data-reading=\"とうか\" data-en=\"dropping (a bomb)\"><ruby>投下<rt>とうか</rt></ruby></span>されてから、<ruby>何年<rt>なんねん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty-one years."
+    },
+    {
+      "speaker": "slow",
+      "text": "式典には、いくつの国と地域の代表が参列しましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"式典\" data-reading=\"しきてん\" data-en=\"ceremony\"><ruby>式典<rt>しきてん</rt></ruby></span>には、いくつの<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>の<ruby>代表<rt>だいひょう</rt></ruby>が<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred twenty-three countries and regions, plus the European Union — a record high."
+    },
+    {
+      "speaker": "slow",
+      "text": "原爆が投下されたのは、朝の何時何分ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<span class=\"vw\" data-ja=\"投下\" data-reading=\"とうか\" data-en=\"dropping (a bomb)\"><ruby>投下<rt>とうか</rt></ruby></span>されたのは、<ruby>朝<rt>あさ</rt></ruby>の<ruby>何時何分<rt>なんじなんぷん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eight fifteen in the morning."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Eighty-one years on, Hiroshima's prayer for a world without nuclear weapons continues. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "原爆",
+      "reading": "げんばく",
+      "en": "atomic bomb",
+      "zh": "原子弹"
+    },
+    {
+      "ja": "投下",
+      "reading": "とうか",
+      "en": "dropping (a bomb)",
+      "zh": "投下"
+    },
+    {
+      "ja": "式典",
+      "reading": "しきてん",
+      "en": "ceremony",
+      "zh": "仪式；典礼"
+    },
+    {
+      "ja": "慰霊",
+      "reading": "いれい",
+      "en": "consoling the spirits of the dead",
+      "zh": "慰灵；悼念"
+    },
+    {
+      "ja": "被爆者",
+      "reading": "ひばくしゃ",
+      "en": "survivor of the atomic bombing",
+      "zh": "核爆幸存者"
+    },
+    {
+      "ja": "遺族",
+      "reading": "いぞく",
+      "en": "bereaved family",
+      "zh": "遗属"
+    },
+    {
+      "ja": "過去最多",
+      "reading": "かこさいた",
+      "en": "record high (number)",
+      "zh": "历史最多"
+    },
+    {
+      "ja": "参列",
+      "reading": "さんれつ",
+      "en": "attendance (at a ceremony)",
+      "zh": "出席（仪式）"
+    },
+    {
+      "ja": "黙とう",
+      "reading": "もくとう",
+      "en": "silent prayer",
+      "zh": "默哀"
+    },
+    {
+      "ja": "名簿",
+      "reading": "めいぼ",
+      "en": "register; name list",
+      "zh": "名册"
+    },
+    {
+      "ja": "慰霊碑",
+      "reading": "いれいひ",
+      "en": "memorial monument; cenotaph",
+      "zh": "慰灵碑"
+    },
+    {
+      "ja": "納める",
+      "reading": "おさめる",
+      "en": "to place inside; to dedicate",
+      "zh": "供奉；放入"
+    },
+    {
+      "ja": "死没者",
+      "reading": "しぼつしゃ",
+      "en": "the deceased",
+      "zh": "死难者"
+    },
+    {
+      "ja": "平和宣言",
+      "reading": "へいわせんげん",
+      "en": "peace declaration",
+      "zh": "和平宣言"
+    },
+    {
+      "ja": "核兵器",
+      "reading": "かくへいき",
+      "en": "nuclear weapons",
+      "zh": "核武器"
+    },
+    {
+      "ja": "廃絶",
+      "reading": "はいぜつ",
+      "en": "abolition",
+      "zh": "废除；根除"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to appeal to",
+      "zh": "呼吁"
+    },
+    {
+      "ja": "条約",
+      "reading": "じょうやく",
+      "en": "treaty",
+      "zh": "条约"
+    },
+    {
+      "ja": "誓い",
+      "reading": "ちかい",
+      "en": "pledge; vow",
+      "zh": "誓言"
+    },
+    {
+      "ja": "読み上げる",
+      "reading": "よみあげる",
+      "en": "to read aloud",
+      "zh": "宣读"
+    },
+    {
+      "ja": "平均年齢",
+      "reading": "へいきんねんれい",
+      "en": "average age",
+      "zh": "平均年龄"
+    },
+    {
+      "ja": "体験",
+      "reading": "たいけん",
+      "en": "personal experience",
+      "zh": "亲身经历"
+    },
+    {
+      "ja": "世代",
+      "reading": "せだい",
+      "en": "generation",
+      "zh": "世代"
+    },
+    {
+      "ja": "手を合わせる",
+      "reading": "てをあわせる",
+      "en": "to put one's hands together in prayer",
+      "zh": "合掌祈祷"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜を迎える",
+      "meaning": "to mark; to reach (a day, anniversary)",
+      "meaningZh": "迎来（某个日子、周年）",
+      "formation": "noun + を迎える",
+      "example": "広島は6日、アメリカによる原爆投下から81年となる「原爆の日」を迎えました。",
+      "translation": "On the sixth, Hiroshima marked the day of the atomic bombing, eighty-one years after the bomb was dropped.",
+      "note": "standard news phrase for reaching a special day or milestone; literally 'to welcome'",
+      "noteZh": "新闻中表示迎来特殊日子或纪念日的标准说法，字面意思是\"迎接\"",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#迎える"
+    },
+    {
+      "pattern": "〜とともに",
+      "meaning": "together with; along with",
+      "meaningZh": "与…一起；随着",
+      "formation": "noun + とともに",
+      "example": "原爆が投下された午前8時15分、「平和の鐘」の音とともに、参列した人たちは黙とうをささげました。",
+      "translation": "At 8:15, when the bomb was dropped, attendees offered a silent prayer together with the sound of the peace bell.",
+      "note": "written style; more formal than 〜と一緒に and very common in news",
+      "noteZh": "书面语，比〜と一緒に更正式，新闻中非常常见",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とともに"
+    },
+    {
+      "pattern": "〜に対して",
+      "meaning": "toward; to (a target of an action)",
+      "meaningZh": "对于；向",
+      "formation": "noun + に対して",
+      "example": "また、日本政府に対して、核兵器禁止条約の会議にオブザーバーとして参加するよう求めました。",
+      "translation": "He also asked the Japanese government to take part in the treaty meeting as an observer.",
+      "note": "marks the target of a request, demand, or attitude; formal written style",
+      "noteZh": "标示请求、要求或态度的对象，正式书面语",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に対して"
+    },
+    {
+      "pattern": "〜よう求める・呼びかける",
+      "meaning": "to ask/urge (someone) to do",
+      "meaningZh": "要求／呼吁（某人）做…",
+      "formation": "verb dictionary form + よう + 求める／呼びかける",
+      "example": "核兵器の廃絶に向けて行動するよう、世界のリーダーに呼びかけました。",
+      "translation": "He called on world leaders to take action toward abolishing nuclear weapons.",
+      "note": "indirect command pattern used constantly in news to report requests and appeals",
+      "noteZh": "间接命令句型，新闻中报道请求和呼吁时经常使用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#よう求める"
+    },
+    {
+      "pattern": "〜としています",
+      "meaning": "(an organization) says / intends that",
+      "meaningZh": "（机构）表示…；打算…",
+      "formation": "plain form + としています",
+      "example": "広島市は、被爆の体験と平和への願いを、次の世代に伝え続けたいとしています。",
+      "translation": "The city of Hiroshima says it wants to keep passing on the experience of the bombing and the wish for peace to the next generation.",
+      "note": "news-report ending that attributes a statement or intention to an organization",
+      "noteZh": "新闻报道句尾用法，转述机构的说法或打算",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#としている"
+    }
+  ],
+  "practiceZh": [
+    "広島は6日、アメリカによる原爆投下から81年となる「原爆の日」を迎えました。\n6日，广岛迎来了美国投下原子弹81周年的\"原爆之日\"。\n原爆 = atomic bomb；投下 = dropping；迎える = to mark",
+    "広島市の平和記念公園では、午前8時から、原爆で亡くなった人を慰霊する平和記念式典が開かれました。\n在广岛市和平纪念公园，上午8点起举行了悼念原子弹死难者的和平纪念仪式。\n慰霊 = consoling the dead；式典 = ceremony；開かれる = to be held",
+    "式典には、被爆者や遺族のほか、過去最多となる123の国と地域と、EUの代表が参列しました。\n除核爆幸存者和遗属外，创历史最多的123个国家和地区以及欧盟的代表出席了仪式。\n被爆者 = survivor；遺族 = bereaved family；参列 = attendance",
+    "原爆が投下された午前8時15分、「平和の鐘」の音とともに、参列した人たちは黙とうをささげました。\n在原子弹投下的上午8点15分，随着\"和平之钟\"的钟声，出席者进行了默哀。\n黙とう = silent prayer；〜とともに = together with；ささげる = to offer",
+    "この1年間に亡くなったことが確認された広島の被爆者は、4393人でした。\n这一年间确认去世的广岛核爆幸存者有4393人。\n確認 = confirmation；亡くなる = to pass away",
+    "亡くなった人の名前を書いた名簿は、式典の中で原爆慰霊碑に納められました。\n写有逝者姓名的名册在仪式中被供奉到原爆慰灵碑内。\n名簿 = register；慰霊碑 = cenotaph；納める = to place inside",
+    "名簿に記された死没者は、これで合わせて35万3639人になりました。\n名册上记载的死难者由此共计达到35万3639人。\n記す = to record；死没者 = the deceased；合わせて = in total",
+    "広島市の松井市長は「平和宣言」を読み上げ、核兵器の廃絶に向けて行動するよう、世界のリーダーに呼びかけました。\n广岛市松井市长宣读了\"和平宣言\"，呼吁世界领导人为废除核武器采取行动。\n平和宣言 = peace declaration；廃絶 = abolition；呼びかける = to call on",
+    "また、日本政府に対して、核兵器禁止条約の会議にオブザーバーとして参加し、早く条約に入るよう求めました。\n此外，还要求日本政府以观察员身份参加《禁止核武器条约》会议，并尽早加入条约。\n〜に対して = toward；条約 = treaty；求める = to demand",
+    "式典では、子どもの代表の小学生2人が、「平和への誓い」を読み上げました。\n仪式上，作为儿童代表的两名小学生宣读了\"和平誓言\"。\n代表 = representative；誓い = pledge；読み上げる = to read aloud",
+    "被爆者の平均年齢は86歳を超え、戦争の体験を直接聞くことは、年々難しくなっています。\n核爆幸存者的平均年龄已超过86岁，直接聆听战争经历正变得一年比一年困难。\n平均年齢 = average age；体験 = experience；年々 = year by year",
+    "平和記念公園には朝早くから多くの人が訪れ、慰霊碑の前で静かに手を合わせました。\n和平纪念公园从清晨起就有许多人前来，在慰灵碑前静静合掌祈祷。\n訪れる = to visit；静かに = quietly；手を合わせる = to pray with hands together",
+    "広島市は、被爆の体験と平和への願いを、次の世代に伝え続けたいとしています。\n广岛市表示，希望将核爆的经历和对和平的祈愿继续传递给下一代。\n願い = wish；世代 = generation；伝え続ける = to keep passing on"
+  ]
+}
