@@ -1,0 +1,578 @@
+{
+  "episode": 121,
+  "title": "戦後81年の終戦の日、全国戦没者追悼式が行われる",
+  "date": "2026-08-15",
+  "source": "NHK NEWS WEB / NTV",
+  "level": "N4-N3",
+  "contentVersion": "2026081501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August fifteenth. Eighty-one years ago today, the Second World War ended for Japan. This evening's story is about the national memorial ceremony held in Tokyo for those who died in the war. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月15日は「終戦の日」です。戦争が終わってから、今年で81年になります。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>は「<span class=\"vw\" data-ja=\"終戦\" data-reading=\"しゅうせん\" data-en=\"end of the war\"><ruby>終戦<rt>しゅうせん</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」です。<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ってから、<ruby>今年<rt>ことし</rt></ruby>で81<ruby>年<rt>ねん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府が主催する「全国戦没者追悼式」が、東京の日本武道館で行われました。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>が<span class=\"vw\" data-ja=\"主催\" data-reading=\"しゅさい\" data-en=\"hosting; organizing\"><ruby>主催<rt>しゅさい</rt></ruby></span>する「<ruby>全国<rt>ぜんこく</rt></ruby><span class=\"vw\" data-ja=\"戦没者\" data-reading=\"せんぼつしゃ\" data-en=\"war dead\"><ruby>戦没者<rt>せんぼつしゃ</rt></ruby></span><span class=\"vw\" data-ja=\"追悼式\" data-reading=\"ついとうしき\" data-en=\"memorial ceremony\"><ruby>追悼式<rt>ついとうしき</rt></ruby></span>」が、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本武道館<rt>にっぽんぶどうかん</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式には、天皇皇后両陛下や、全国から集まった戦没者の遺族などが参列しました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>には、<ruby>天皇皇后<rt>てんのうこうごう</rt></ruby><span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties the Emperor and Empress\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>や、<ruby>全国<rt>ぜんこく</rt></ruby>から<ruby>集ま<rt>あつま</rt></ruby>った<span class=\"vw\" data-ja=\"戦没者\" data-reading=\"せんぼつしゃ\" data-en=\"war dead\"><ruby>戦没者<rt>せんぼつしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>などが<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "参列した人たちは、先の大戦で亡くなった約310万人の人々を悼みました。",
+      "ruby": "<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>先の<rt>さきの</rt></ruby><span class=\"vw\" data-ja=\"大戦\" data-reading=\"たいせん\" data-en=\"great war; world war\"><ruby>大戦<rt>たいせん</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なった<ruby>約<rt>やく</rt></ruby>310<ruby>万人<rt>まんにん</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>を<ruby>悼み<rt>いたみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "約310万人のうち、軍人などは約230万人で、空襲や原爆などで亡くなった民間人は約80万人です。",
+      "ruby": "<ruby>約<rt>やく</rt></ruby>310<ruby>万人<rt>まんにん</rt></ruby>のうち、<span class=\"vw\" data-ja=\"軍人\" data-reading=\"ぐんじん\" data-en=\"soldier; military personnel\"><ruby>軍人<rt>ぐんじん</rt></ruby></span>などは<ruby>約<rt>やく</rt></ruby>230<ruby>万人<rt>まんにん</rt></ruby>で、<span class=\"vw\" data-ja=\"空襲\" data-reading=\"くうしゅう\" data-en=\"air raid\"><ruby>空襲<rt>くうしゅう</rt></ruby></span>や<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>などで<ruby>亡く<rt>なく</rt></ruby>なった<span class=\"vw\" data-ja=\"民間人\" data-reading=\"みんかんじん\" data-en=\"civilian\"><ruby>民間人<rt>みんかんじん</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>80<ruby>万人<rt>まんにん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正午には、参列した人たち全員が1分間の黙とうをして、静かに祈りをささげました。",
+      "ruby": "<span class=\"vw\" data-ja=\"正午\" data-reading=\"しょうご\" data-en=\"noon\"><ruby>正午<rt>しょうご</rt></ruby></span>には、<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たち<ruby>全員<rt>ぜんいん</rt></ruby>が1<ruby>分間<rt>ぷんかん</rt></ruby>の<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をして、<ruby>静か<rt>しずか</rt></ruby>に<span class=\"vw\" data-ja=\"祈り\" data-reading=\"いのり\" data-en=\"prayer\"><ruby>祈り<rt>いのり</rt></ruby></span>をささげました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下は、おことばの中で、平和への強い願いを述べられました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は、おことばの<ruby>中<rt>なか</rt></ruby>で、<span class=\"vw\" data-ja=\"平和\" data-reading=\"へいわ\" data-en=\"peace\"><ruby>平和<rt>へいわ</rt></ruby></span>への<ruby>強い<rt>つよい</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>を<ruby>述べ<rt>のべ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市総理大臣は、総理大臣になってから初めて式に出席し、式辞を述べました。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>になってから<ruby>初めて<rt>はじめて</rt></ruby><ruby>式<rt>しき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>し、<span class=\"vw\" data-ja=\"式辞\" data-reading=\"しきじ\" data-en=\"ceremonial address\"><ruby>式辞<rt>しきじ</rt></ruby></span>を<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式に参列する予定の遺族は3270人で、戦後に生まれた人が、去年に続いて半数を超えました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>に<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>の<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>は3270<ruby>人<rt>にん</rt></ruby>で、<ruby>戦後<rt>せんご</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て<span class=\"vw\" data-ja=\"半数\" data-reading=\"はんすう\" data-en=\"half (the number)\"><ruby>半数<rt>はんすう</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦後に生まれた遺族は1840人で、これまでで最も多くなりました。",
+      "ruby": "<ruby>戦後<rt>せんご</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>は1840<ruby>人<rt>にん</rt></ruby>で、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦争を経験した人たちは高齢になり、その数は年々少なくなっています。",
+      "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>を<ruby>経験<rt>けいけん</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>たちは<span class=\"vw\" data-ja=\"高齢\" data-reading=\"こうれい\" data-en=\"advanced age\"><ruby>高齢<rt>こうれい</rt></ruby></span>になり、その<ruby>数<rt>かず</rt></ruby>は<span class=\"vw\" data-ja=\"年々\" data-reading=\"ねんねん\" data-en=\"year by year\"><ruby>年々<rt>ねんねん</rt></ruby></span><ruby>少なく<rt>すくなく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦争の記憶を、どのように若い世代に伝えていくかが、大きな課題になっています。",
+      "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>の<span class=\"vw\" data-ja=\"記憶\" data-reading=\"きおく\" data-en=\"memory\"><ruby>記憶<rt>きおく</rt></ruby></span>を、どのように<ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>に<ruby>伝え<rt>つたえ</rt></ruby>ていくかが、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日、日本の各地では、平和を祈るさまざまな行事が行われました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>各地<rt>かくち</rt></ruby>では、<span class=\"vw\" data-ja=\"平和\" data-reading=\"へいわ\" data-en=\"peace\"><ruby>平和<rt>へいわ</rt></ruby></span>を<ruby>祈る<rt>いのる</rt></ruby>さまざまな<span class=\"vw\" data-ja=\"行事\" data-reading=\"ぎょうじ\" data-en=\"event; observance\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月15日は「終戦の日」です。戦争が終わってから、今年で81年になります。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>は「<span class=\"vw\" data-ja=\"終戦\" data-reading=\"しゅうせん\" data-en=\"end of the war\"><ruby>終戦<rt>しゅうせん</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」です。<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ってから、<ruby>今年<rt>ことし</rt></ruby>で81<ruby>年<rt>ねん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "August fifteenth is the day the war ended. This year marks eighty-one years since the end of the war."
+    },
+    {
+      "speaker": "vocab",
+      "text": "終戦",
+      "ruby": "<span class=\"vw\" data-ja=\"終戦\" data-reading=\"しゅうせん\" data-en=\"end of the war\"><ruby>終戦<rt>しゅうせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the end of the war."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府が主催する「全国戦没者追悼式」が、東京の日本武道館で行われました。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>が<span class=\"vw\" data-ja=\"主催\" data-reading=\"しゅさい\" data-en=\"hosting; organizing\"><ruby>主催<rt>しゅさい</rt></ruby></span>する「<ruby>全国<rt>ぜんこく</rt></ruby><span class=\"vw\" data-ja=\"戦没者\" data-reading=\"せんぼつしゃ\" data-en=\"war dead\"><ruby>戦没者<rt>せんぼつしゃ</rt></ruby></span><span class=\"vw\" data-ja=\"追悼式\" data-reading=\"ついとうしき\" data-en=\"memorial ceremony\"><ruby>追悼式<rt>ついとうしき</rt></ruby></span>」が、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本武道館<rt>にっぽんぶどうかん</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The national memorial ceremony for the war dead, hosted by the government, was held at the Budokan arena in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "主催",
+      "ruby": "<span class=\"vw\" data-ja=\"主催\" data-reading=\"しゅさい\" data-en=\"hosting; organizing\"><ruby>主催<rt>しゅさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hosting or organizing an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "参列した人たちは、先の大戦で亡くなった約310万人の人々を悼みました。",
+      "ruby": "<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>先の<rt>さきの</rt></ruby><span class=\"vw\" data-ja=\"大戦\" data-reading=\"たいせん\" data-en=\"great war; world war\"><ruby>大戦<rt>たいせん</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なった<ruby>約<rt>やく</rt></ruby>310<ruby>万人<rt>まんにん</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>を<ruby>悼み<rt>いたみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The attendees mourned the roughly three point one million people who died in the war."
+    },
+    {
+      "speaker": "vocab",
+      "text": "悼む",
+      "ruby": "<span class=\"vw\" data-ja=\"悼む\" data-reading=\"いたむ\" data-en=\"to mourn\"><ruby>悼む<rt>いたむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to mourn — to grieve for someone who has died."
+    },
+    {
+      "speaker": "slow",
+      "text": "正午には、参列した人たち全員が1分間の黙とうをして、静かに祈りをささげました。",
+      "ruby": "<span class=\"vw\" data-ja=\"正午\" data-reading=\"しょうご\" data-en=\"noon\"><ruby>正午<rt>しょうご</rt></ruby></span>には、<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たち<ruby>全員<rt>ぜんいん</rt></ruby>が1<ruby>分間<rt>ぷんかん</rt></ruby>の<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をして、<ruby>静か<rt>しずか</rt></ruby>に<span class=\"vw\" data-ja=\"祈り\" data-reading=\"いのり\" data-en=\"prayer\"><ruby>祈り<rt>いのり</rt></ruby></span>をささげました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At noon, everyone at the ceremony offered a minute of silent prayer."
+    },
+    {
+      "speaker": "vocab",
+      "text": "黙とう",
+      "ruby": "<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means silent prayer — a moment of silence for the dead."
+    },
+    {
+      "speaker": "slow",
+      "text": "高市総理大臣は、総理大臣になってから初めて式に出席し、式辞を述べました。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>になってから<ruby>初めて<rt>はじめて</rt></ruby><ruby>式<rt>しき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>し、<span class=\"vw\" data-ja=\"式辞\" data-reading=\"しきじ\" data-en=\"ceremonial address\"><ruby>式辞<rt>しきじ</rt></ruby></span>を<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Prime Minister Takaichi attended the ceremony for the first time as prime minister and delivered a formal address."
+    },
+    {
+      "speaker": "vocab",
+      "text": "式辞",
+      "ruby": "<span class=\"vw\" data-ja=\"式辞\" data-reading=\"しきじ\" data-en=\"ceremonial address\"><ruby>式辞<rt>しきじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a formal address given at a ceremony."
+    },
+    {
+      "speaker": "slow",
+      "text": "式に参列する予定の遺族は3270人で、戦後に生まれた人が、去年に続いて半数を超えました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>に<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>の<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>は3270<ruby>人<rt>にん</rt></ruby>で、<ruby>戦後<rt>せんご</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て<span class=\"vw\" data-ja=\"半数\" data-reading=\"はんすう\" data-en=\"half (the number)\"><ruby>半数<rt>はんすう</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three thousand two hundred seventy bereaved family members were expected to attend, and for the second year in a row, more than half were born after the war."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遺族",
+      "ruby": "<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a bereaved family — the relatives someone leaves behind."
+    },
+    {
+      "speaker": "slow",
+      "text": "戦争の記憶を、どのように若い世代に伝えていくかが、大きな課題になっています。",
+      "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>の<span class=\"vw\" data-ja=\"記憶\" data-reading=\"きおく\" data-en=\"memory\"><ruby>記憶<rt>きおく</rt></ruby></span>を、どのように<ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>に<ruby>伝え<rt>つたえ</rt></ruby>ていくかが、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "How to pass on memories of the war to younger generations has become a major challenge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世代",
+      "ruby": "<span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a generation."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "8月15日は「終戦の日」です。戦争が終わってから、今年で81年になります。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>は「<span class=\"vw\" data-ja=\"終戦\" data-reading=\"しゅうせん\" data-en=\"end of the war\"><ruby>終戦<rt>しゅうせん</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」です。<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ってから、<ruby>今年<rt>ことし</rt></ruby>で81<ruby>年<rt>ねん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府が主催する「全国戦没者追悼式」が、東京の日本武道館で行われました。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>が<span class=\"vw\" data-ja=\"主催\" data-reading=\"しゅさい\" data-en=\"hosting; organizing\"><ruby>主催<rt>しゅさい</rt></ruby></span>する「<ruby>全国<rt>ぜんこく</rt></ruby><span class=\"vw\" data-ja=\"戦没者\" data-reading=\"せんぼつしゃ\" data-en=\"war dead\"><ruby>戦没者<rt>せんぼつしゃ</rt></ruby></span><span class=\"vw\" data-ja=\"追悼式\" data-reading=\"ついとうしき\" data-en=\"memorial ceremony\"><ruby>追悼式<rt>ついとうしき</rt></ruby></span>」が、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本武道館<rt>にっぽんぶどうかん</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式には、天皇皇后両陛下や、全国から集まった戦没者の遺族などが参列しました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>には、<ruby>天皇皇后<rt>てんのうこうごう</rt></ruby><span class=\"vw\" data-ja=\"両陛下\" data-reading=\"りょうへいか\" data-en=\"Their Majesties the Emperor and Empress\"><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby></span>や、<ruby>全国<rt>ぜんこく</rt></ruby>から<ruby>集ま<rt>あつま</rt></ruby>った<span class=\"vw\" data-ja=\"戦没者\" data-reading=\"せんぼつしゃ\" data-en=\"war dead\"><ruby>戦没者<rt>せんぼつしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>などが<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "参列した人たちは、先の大戦で亡くなった約310万人の人々を悼みました。",
+      "ruby": "<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>先の<rt>さきの</rt></ruby><span class=\"vw\" data-ja=\"大戦\" data-reading=\"たいせん\" data-en=\"great war; world war\"><ruby>大戦<rt>たいせん</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なった<ruby>約<rt>やく</rt></ruby>310<ruby>万人<rt>まんにん</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>を<ruby>悼み<rt>いたみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "約310万人のうち、軍人などは約230万人で、空襲や原爆などで亡くなった民間人は約80万人です。",
+      "ruby": "<ruby>約<rt>やく</rt></ruby>310<ruby>万人<rt>まんにん</rt></ruby>のうち、<span class=\"vw\" data-ja=\"軍人\" data-reading=\"ぐんじん\" data-en=\"soldier; military personnel\"><ruby>軍人<rt>ぐんじん</rt></ruby></span>などは<ruby>約<rt>やく</rt></ruby>230<ruby>万人<rt>まんにん</rt></ruby>で、<span class=\"vw\" data-ja=\"空襲\" data-reading=\"くうしゅう\" data-en=\"air raid\"><ruby>空襲<rt>くうしゅう</rt></ruby></span>や<span class=\"vw\" data-ja=\"原爆\" data-reading=\"げんばく\" data-en=\"atomic bomb\"><ruby>原爆<rt>げんばく</rt></ruby></span>などで<ruby>亡く<rt>なく</rt></ruby>なった<span class=\"vw\" data-ja=\"民間人\" data-reading=\"みんかんじん\" data-en=\"civilian\"><ruby>民間人<rt>みんかんじん</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>80<ruby>万人<rt>まんにん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正午には、参列した人たち全員が1分間の黙とうをして、静かに祈りをささげました。",
+      "ruby": "<span class=\"vw\" data-ja=\"正午\" data-reading=\"しょうご\" data-en=\"noon\"><ruby>正午<rt>しょうご</rt></ruby></span>には、<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たち<ruby>全員<rt>ぜんいん</rt></ruby>が1<ruby>分間<rt>ぷんかん</rt></ruby>の<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をして、<ruby>静か<rt>しずか</rt></ruby>に<span class=\"vw\" data-ja=\"祈り\" data-reading=\"いのり\" data-en=\"prayer\"><ruby>祈り<rt>いのり</rt></ruby></span>をささげました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下は、おことばの中で、平和への強い願いを述べられました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は、おことばの<ruby>中<rt>なか</rt></ruby>で、<span class=\"vw\" data-ja=\"平和\" data-reading=\"へいわ\" data-en=\"peace\"><ruby>平和<rt>へいわ</rt></ruby></span>への<ruby>強い<rt>つよい</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>を<ruby>述べ<rt>のべ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市総理大臣は、総理大臣になってから初めて式に出席し、式辞を述べました。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>になってから<ruby>初めて<rt>はじめて</rt></ruby><ruby>式<rt>しき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>し、<span class=\"vw\" data-ja=\"式辞\" data-reading=\"しきじ\" data-en=\"ceremonial address\"><ruby>式辞<rt>しきじ</rt></ruby></span>を<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式に参列する予定の遺族は3270人で、戦後に生まれた人が、去年に続いて半数を超えました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>に<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>の<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>は3270<ruby>人<rt>にん</rt></ruby>で、<ruby>戦後<rt>せんご</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て<span class=\"vw\" data-ja=\"半数\" data-reading=\"はんすう\" data-en=\"half (the number)\"><ruby>半数<rt>はんすう</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦後に生まれた遺族は1840人で、これまでで最も多くなりました。",
+      "ruby": "<ruby>戦後<rt>せんご</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>は1840<ruby>人<rt>にん</rt></ruby>で、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦争を経験した人たちは高齢になり、その数は年々少なくなっています。",
+      "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>を<ruby>経験<rt>けいけん</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>たちは<span class=\"vw\" data-ja=\"高齢\" data-reading=\"こうれい\" data-en=\"advanced age\"><ruby>高齢<rt>こうれい</rt></ruby></span>になり、その<ruby>数<rt>かず</rt></ruby>は<span class=\"vw\" data-ja=\"年々\" data-reading=\"ねんねん\" data-en=\"year by year\"><ruby>年々<rt>ねんねん</rt></ruby></span><ruby>少なく<rt>すくなく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦争の記憶を、どのように若い世代に伝えていくかが、大きな課題になっています。",
+      "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>の<span class=\"vw\" data-ja=\"記憶\" data-reading=\"きおく\" data-en=\"memory\"><ruby>記憶<rt>きおく</rt></ruby></span>を、どのように<ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"世代\" data-reading=\"せだい\" data-en=\"generation\"><ruby>世代<rt>せだい</rt></ruby></span>に<ruby>伝え<rt>つたえ</rt></ruby>ていくかが、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"challenge; issue\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日、日本の各地では、平和を祈るさまざまな行事が行われました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>各地<rt>かくち</rt></ruby>では、<span class=\"vw\" data-ja=\"平和\" data-reading=\"へいわ\" data-en=\"peace\"><ruby>平和<rt>へいわ</rt></ruby></span>を<ruby>祈る<rt>いのる</rt></ruby>さまざまな<span class=\"vw\" data-ja=\"行事\" data-reading=\"ぎょうじ\" data-en=\"event; observance\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "戦争が終わってから、今年で何年になりますか。",
+      "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ってから、<ruby>今年<rt>ことし</rt></ruby>で<ruby>何年<rt>なんねん</rt></ruby>になりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty-one years."
+    },
+    {
+      "speaker": "slow",
+      "text": "追悼式に参列した人たちは、何時に黙とうをしましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"追悼式\" data-reading=\"ついとうしき\" data-en=\"memorial ceremony\"><ruby>追悼式<rt>ついとうしき</rt></ruby></span>に<span class=\"vw\" data-ja=\"参列\" data-reading=\"さんれつ\" data-en=\"attendance (at a ceremony)\"><ruby>参列<rt>さんれつ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>何時<rt>なんじ</rt></ruby>に<span class=\"vw\" data-ja=\"黙とう\" data-reading=\"もくとう\" data-en=\"silent prayer\"><ruby>黙<rt>もく</rt></ruby>とう</span>をしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At noon — they observed one minute of silence."
+    },
+    {
+      "speaker": "slow",
+      "text": "戦後に生まれた遺族は、何人でしたか。",
+      "ruby": "<ruby>戦後<rt>せんご</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<span class=\"vw\" data-ja=\"遺族\" data-reading=\"いぞく\" data-en=\"bereaved family\"><ruby>遺族<rt>いぞく</rt></ruby></span>は、<ruby>何人<rt>なんにん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One thousand eight hundred forty people — the most ever."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. August fifteenth is a quiet day of remembrance across Japan, and passing these memories on to younger generations matters more with each passing year. Thank you for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "終戦",
+      "reading": "しゅうせん",
+      "en": "end of the war",
+      "zh": "终战；战争结束"
+    },
+    {
+      "ja": "主催",
+      "reading": "しゅさい",
+      "en": "hosting; organizing",
+      "zh": "主办"
+    },
+    {
+      "ja": "戦没者",
+      "reading": "せんぼつしゃ",
+      "en": "war dead",
+      "zh": "战争死难者"
+    },
+    {
+      "ja": "追悼式",
+      "reading": "ついとうしき",
+      "en": "memorial ceremony",
+      "zh": "追悼仪式"
+    },
+    {
+      "ja": "両陛下",
+      "reading": "りょうへいか",
+      "en": "Their Majesties the Emperor and Empress",
+      "zh": "天皇皇后两陛下"
+    },
+    {
+      "ja": "遺族",
+      "reading": "いぞく",
+      "en": "bereaved family",
+      "zh": "遗属"
+    },
+    {
+      "ja": "参列",
+      "reading": "さんれつ",
+      "en": "attendance (at a ceremony)",
+      "zh": "出席；列席"
+    },
+    {
+      "ja": "大戦",
+      "reading": "たいせん",
+      "en": "great war; world war",
+      "zh": "大战"
+    },
+    {
+      "ja": "悼む",
+      "reading": "いたむ",
+      "en": "to mourn",
+      "zh": "哀悼"
+    },
+    {
+      "ja": "軍人",
+      "reading": "ぐんじん",
+      "en": "soldier; military personnel",
+      "zh": "军人"
+    },
+    {
+      "ja": "空襲",
+      "reading": "くうしゅう",
+      "en": "air raid",
+      "zh": "空袭"
+    },
+    {
+      "ja": "原爆",
+      "reading": "げんばく",
+      "en": "atomic bomb",
+      "zh": "原子弹"
+    },
+    {
+      "ja": "民間人",
+      "reading": "みんかんじん",
+      "en": "civilian",
+      "zh": "平民"
+    },
+    {
+      "ja": "正午",
+      "reading": "しょうご",
+      "en": "noon",
+      "zh": "正午"
+    },
+    {
+      "ja": "黙とう",
+      "reading": "もくとう",
+      "en": "silent prayer",
+      "zh": "默哀"
+    },
+    {
+      "ja": "祈り",
+      "reading": "いのり",
+      "en": "prayer",
+      "zh": "祈祷"
+    },
+    {
+      "ja": "式辞",
+      "reading": "しきじ",
+      "en": "ceremonial address",
+      "zh": "致辞"
+    },
+    {
+      "ja": "半数",
+      "reading": "はんすう",
+      "en": "half (the number)",
+      "zh": "半数"
+    },
+    {
+      "ja": "高齢",
+      "reading": "こうれい",
+      "en": "advanced age",
+      "zh": "高龄"
+    },
+    {
+      "ja": "年々",
+      "reading": "ねんねん",
+      "en": "year by year",
+      "zh": "逐年"
+    },
+    {
+      "ja": "記憶",
+      "reading": "きおく",
+      "en": "memory",
+      "zh": "记忆"
+    },
+    {
+      "ja": "世代",
+      "reading": "せだい",
+      "en": "generation",
+      "zh": "世代；一代人"
+    },
+    {
+      "ja": "課題",
+      "reading": "かだい",
+      "en": "challenge; issue",
+      "zh": "课题；难题"
+    },
+    {
+      "ja": "行事",
+      "reading": "ぎょうじ",
+      "en": "event; observance",
+      "zh": "活动；仪式"
+    },
+    {
+      "ja": "平和",
+      "reading": "へいわ",
+      "en": "peace",
+      "zh": "和平"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てから",
+      "meaning": "since ...; after ...",
+      "meaningZh": "自从…以来；…之后",
+      "formation": "verb て-form + から",
+      "example": "戦争が終わってから、今年で81年になります。",
+      "translation": "This year marks eighty-one years since the war ended.",
+      "note": "with a length of time, shows how long it has been since something happened",
+      "noteZh": "与时间长度连用时，表示自某事发生以来已经过了多久",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てから"
+    },
+    {
+      "pattern": "〜が行われる",
+      "meaning": "to be held; to take place",
+      "meaningZh": "被举行；举办",
+      "formation": "noun + が + 行われる (passive of 行う)",
+      "example": "「全国戦没者追悼式」が、東京の日本武道館で行われました。",
+      "translation": "The national memorial ceremony for the war dead was held at the Nippon Budokan in Tokyo.",
+      "note": "passive form very common in news to report events without naming the doer",
+      "noteZh": "新闻中报道活动时的高频被动表达，不点明动作的执行者",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#受身"
+    },
+    {
+      "pattern": "〜のうち",
+      "meaning": "out of ...; among ...",
+      "meaningZh": "在…之中",
+      "formation": "noun + のうち",
+      "example": "約310万人のうち、軍人などは約230万人です。",
+      "translation": "Out of about 3.1 million people, about 2.3 million were soldiers.",
+      "note": "picks out a part from a whole; common when breaking down numbers",
+      "noteZh": "从整体中挑出一部分，新闻中拆分数字时常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#うち"
+    },
+    {
+      "pattern": "〜に続いて",
+      "meaning": "following ...; after ...",
+      "meaningZh": "继…之后",
+      "formation": "noun + に続いて／に続き",
+      "example": "戦後に生まれた人が、去年に続いて半数を超えました。",
+      "translation": "Following last year, people born after the war again made up more than half.",
+      "note": "shows that something happens again after, or in succession to, an earlier case",
+      "noteZh": "表示继此前的事例之后再次发生，新闻中表示连续的高频说法",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に続いて"
+    },
+    {
+      "pattern": "〜ていく",
+      "meaning": "to go on ...; to continue ... (into the future)",
+      "meaningZh": "…下去（表示今后的持续）",
+      "formation": "verb て-form + いく",
+      "example": "戦争の記憶を、どのように若い世代に伝えていくかが、課題になっています。",
+      "translation": "How to keep passing on memories of the war to younger generations is a challenge.",
+      "note": "shows an action or change continuing from now into the future",
+      "noteZh": "表示动作或变化从现在向将来持续发展",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ていく"
+    }
+  ],
+  "practiceZh": [
+    "8月15日は「終戦の日」です。戦争が終わってから、今年で81年になります。\n8月15日是“终战日”。战争结束以来，到今年已经81年了。\n終戦 = 终战；战争结束",
+    "政府が主催する「全国戦没者追悼式」が、東京の日本武道館で行われました。\n由政府主办的“全国战殁者追悼仪式”在东京的日本武道馆举行。\n主催 = 主办；戦没者 = 战争死难者；追悼式 = 追悼仪式",
+    "式には、天皇皇后両陛下や、全国から集まった戦没者の遺族などが参列しました。\n天皇皇后两陛下以及从全国各地赶来的战殁者遗属等出席了仪式。\n両陛下 = 天皇皇后两陛下；遺族 = 遗属；参列 = 出席；列席",
+    "参列した人たちは、先の大戦で亡くなった約310万人の人々を悼みました。\n出席者哀悼了在二战中去世的约310万人。\n大戦 = 大战；悼む = 哀悼",
+    "約310万人のうち、軍人などは約230万人で、空襲や原爆などで亡くなった民間人は約80万人です。\n在约310万人中，军人等约230万人，因空袭和原子弹等去世的平民约80万人。\n軍人 = 军人；空襲 = 空袭；原爆 = 原子弹；民間人 = 平民",
+    "正午には、参列した人たち全員が1分間の黙とうをして、静かに祈りをささげました。\n正午时分，全体出席者默哀一分钟，静静地献上祈祷。\n正午 = 正午；黙とう = 默哀；祈り = 祈祷",
+    "天皇陛下は、おことばの中で、平和への強い願いを述べられました。\n天皇陛下在致辞中表达了对和平的强烈愿望。\n平和 = 和平",
+    "高市総理大臣は、総理大臣になってから初めて式に出席し、式辞を述べました。\n高市首相就任首相后首次出席仪式并致辞。\n式辞 = 致辞",
+    "式に参列する予定の遺族は3270人で、戦後に生まれた人が、去年に続いて半数を超えました。\n预定出席仪式的遗属为3270人，继去年之后，战后出生的人再次超过半数。\n遺族 = 遗属；半数 = 半数",
+    "戦後に生まれた遺族は1840人で、これまでで最も多くなりました。\n战后出生的遗属为1840人，创历史新高。\n遺族 = 遗属",
+    "戦争を経験した人たちは高齢になり、その数は年々少なくなっています。\n经历过战争的人们已届高龄，人数逐年减少。\n高齢 = 高龄；年々 = 逐年",
+    "戦争の記憶を、どのように若い世代に伝えていくかが、大きな課題になっています。\n如何把战争的记忆传给年轻一代，已成为一大课题。\n記憶 = 记忆；世代 = 世代；一代人；課題 = 课题；难题",
+    "この日、日本の各地では、平和を祈るさまざまな行事が行われました。\n这一天，日本各地举行了各种祈愿和平的活动。\n行事 = 活动；仪式；平和 = 和平"
+  ]
+}
