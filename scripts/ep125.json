@@ -1,0 +1,505 @@
+{
+  "episode": 125,
+  "title": "阿蘇山の噴火警戒レベルが3に引き上げ、入山規制",
+  "date": "2026-08-17",
+  "source": "tenki.jp / 気象庁",
+  "level": "N4-N3",
+  "contentVersion": "2026081701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August seventeenth. Volcanic activity is rising at Mount Aso in Kumamoto, and the eruption alert level has been raised to three. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "熊本県の阿蘇山で火山の活動が活発になり、気象庁は14日、噴火警戒レベルを2から3に引き上げました。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>阿蘇山<rt>あそさん</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になり、<ruby>気象庁<rt>きしょうちょう</rt></ruby>は14<ruby>日<rt>にち</rt></ruby>、<ruby>噴火<rt>ふんか</rt></ruby><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>レベルを2から3に<ruby>引き上げ<rt>ひきあげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "レベル3は「入山規制」で、危険な範囲の山に登ることができなくなります。",
+      "ruby": "レベル3は「<ruby>入山<rt>にゅうざん</rt></ruby><span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>」で、<ruby>危険<rt>きけん</rt></ruby>な<ruby>範囲<rt>はんい</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>登る<rt>のぼる</rt></ruby>ことができなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によりますと、阿蘇山では、12日の夜から火山性微動が大きくなっています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によりますと、<ruby>阿蘇山<rt>あそさん</rt></ruby>では、12<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>火山<rt>かざん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>微動<rt>びどう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "火山ガスの量も、急に増えています。",
+      "ruby": "<ruby>火山<rt>かざん</rt></ruby>ガスの<ruby>量<rt>りょう</rt></ruby>も、<ruby>急に<rt>きゅうに</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "14日の調査では、二酸化硫黄というガスが、1日あたり2700トン観測されました。",
+      "ruby": "14<ruby>日<rt>にち</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>では、<ruby>二<rt>に</rt></ruby><ruby>酸化<rt>さんか</rt></ruby><ruby>硫黄<rt>いおう</rt></ruby>というガスが、<ruby>1日<rt>いちにち</rt></ruby>あたり2700トン<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; measuring\"><ruby>観測<rt>かんそく</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、8月6日の調査の1200トンと比べて、2倍以上の量です。",
+      "ruby": "これは、8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>の1200トンと<ruby>比べ<rt>くらべ</rt></ruby>て、2<ruby>倍以上<rt>ばいいじょう</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、中岳第一火口からおよそ2キロの範囲では、大きな噴石や火砕流に警戒が必要です。",
+      "ruby": "このため、<ruby>中岳<rt>なかだけ</rt></ruby><ruby>第一<rt>だいいち</rt></ruby><ruby>火口<rt>かこう</rt></ruby>からおよそ2キロの<ruby>範囲<rt>はんい</rt></ruby>では、<ruby>大き<rt>おおき</rt></ruby>な<ruby>噴石<rt>ふんせき</rt></ruby>や<ruby>火砕流<rt>かさいりゅう</rt></ruby>に<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "熊本県の阿蘇市、高森町、南阿蘇村では、火口の周辺への立ち入りが規制されています。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>阿蘇<rt>あそ</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>高森町<rt>たかもりまち</rt></ruby>、<ruby>南阿蘇<rt>みなみあそ</rt></ruby><ruby>村<rt>むら</rt></ruby>では、<ruby>火口<rt>かこう</rt></ruby>の<ruby>周辺<rt>しゅうへん</rt></ruby>への<span class=\"vw\" data-ja=\"立ち入り\" data-reading=\"たちいり\" data-en=\"entering; entry\"><ruby>立ち入り<rt>たちいり</rt></ruby></span>が<span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "登山で人気の高岳や中岳に登ることも、禁止になりました。",
+      "ruby": "<ruby>登山<rt>とざん</rt></ruby>で<ruby>人気<rt>にんき</rt></ruby>の<ruby>高岳<rt>たかだけ</rt></ruby>や<ruby>中岳<rt>なかだけ</rt></ruby>に<ruby>登る<rt>のぼる</rt></ruby>ことも、<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition; ban\"><ruby>禁止<rt>きんし</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "風下では、火山灰や小さな噴石が遠くまで飛ぶおそれがあります。",
+      "ruby": "<ruby>風下<rt>かざしも</rt></ruby>では、<span class=\"vw\" data-ja=\"火山灰\" data-reading=\"かざんばい\" data-en=\"volcanic ash\"><ruby>火山灰<rt>かざんばい</rt></ruby></span>や<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>噴石<rt>ふんせき</rt></ruby>が<ruby>遠く<rt>とおく</rt></ruby>まで<ruby>飛ぶ<rt>とぶ</rt></ruby>おそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "体に害がある火山ガスにも、注意が必要です。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>に<ruby>害<rt>がい</rt></ruby>がある<ruby>火山<rt>かざん</rt></ruby>ガスにも、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今はお盆の時期で、阿蘇には多くの観光客が訪れています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>はお<ruby>盆<rt>ぼん</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>で、<ruby>阿蘇<rt>あそ</rt></ruby>には<ruby>多く<rt>おおく</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、規制の範囲の外にある観光地は、これまでどおり楽しむことができます。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>の<ruby>範囲<rt>はんい</rt></ruby>の<ruby>外<rt>そと</rt></ruby>にある<ruby>観光地<rt>かんこうち</rt></ruby>は、これまでどおり<ruby>楽し<rt>たのし</rt></ruby>むことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、自治体の指示に従って、危険な場所に近づかないよう呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>自治体<rt>じちたい</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>に<ruby>従って<rt>したがって</rt></ruby>、<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>かないよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "熊本県の阿蘇山で火山の活動が活発になり、気象庁は14日、噴火警戒レベルを2から3に引き上げました。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>阿蘇山<rt>あそさん</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になり、<ruby>気象庁<rt>きしょうちょう</rt></ruby>は14<ruby>日<rt>にち</rt></ruby>、<ruby>噴火<rt>ふんか</rt></ruby><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>レベルを2から3に<ruby>引き上げ<rt>ひきあげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Volcanic activity became more active at Mount Aso in Kumamoto, so on the fourteenth the weather agency raised the eruption alert level from two to three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "引き上げる",
+      "ruby": "<span class=\"vw\" data-ja=\"引き上げる\" data-reading=\"ひきあげる\" data-en=\"to raise; to lift up\"><ruby>引き上げ<rt>ひきあげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to raise — to move something up to a higher level."
+    },
+    {
+      "speaker": "slow",
+      "text": "レベル3は「入山規制」で、危険な範囲の山に登ることができなくなります。",
+      "ruby": "レベル3は「<ruby>入山<rt>にゅうざん</rt></ruby><span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>」で、<ruby>危険<rt>きけん</rt></ruby>な<ruby>範囲<rt>はんい</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>登る<rt>のぼる</rt></ruby>ことができなくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Level three means entry to the mountain is restricted — people can no longer climb in the dangerous area."
+    },
+    {
+      "speaker": "vocab",
+      "text": "規制",
+      "ruby": "<span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means regulation, or restriction."
+    },
+    {
+      "speaker": "slow",
+      "text": "14日の調査では、二酸化硫黄というガスが、1日あたり2700トン観測されました。",
+      "ruby": "14<ruby>日<rt>にち</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>では、<ruby>二<rt>に</rt></ruby><ruby>酸化<rt>さんか</rt></ruby><ruby>硫黄<rt>いおう</rt></ruby>というガスが、<ruby>1日<rt>いちにち</rt></ruby>あたり2700トン<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; measuring\"><ruby>観測<rt>かんそく</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In a survey on the fourteenth, about twenty-seven hundred tons per day of sulfur dioxide gas was observed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観測",
+      "ruby": "<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; measuring\"><ruby>観測<rt>かんそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means observation — scientific measuring."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、中岳第一火口からおよそ2キロの範囲では、大きな噴石や火砕流に警戒が必要です。",
+      "ruby": "このため、<ruby>中岳<rt>なかだけ</rt></ruby><ruby>第一<rt>だいいち</rt></ruby><ruby>火口<rt>かこう</rt></ruby>からおよそ2キロの<ruby>範囲<rt>はんい</rt></ruby>では、<ruby>大き<rt>おおき</rt></ruby>な<ruby>噴石<rt>ふんせき</rt></ruby>や<ruby>火砕流<rt>かさいりゅう</rt></ruby>に<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, within about two kilometers of the number one crater, caution is needed for large flying rocks and pyroclastic flows."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警戒",
+      "ruby": "<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means caution — being on alert for danger."
+    },
+    {
+      "speaker": "slow",
+      "text": "熊本県の阿蘇市、高森町、南阿蘇村では、火口の周辺への立ち入りが規制されています。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>阿蘇<rt>あそ</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>高森町<rt>たかもりまち</rt></ruby>、<ruby>南阿蘇<rt>みなみあそ</rt></ruby><ruby>村<rt>むら</rt></ruby>では、<ruby>火口<rt>かこう</rt></ruby>の<ruby>周辺<rt>しゅうへん</rt></ruby>への<span class=\"vw\" data-ja=\"立ち入り\" data-reading=\"たちいり\" data-en=\"entering; entry\"><ruby>立ち入り<rt>たちいり</rt></ruby></span>が<span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the city, town, and village around the volcano, entry to the area near the crater is restricted."
+    },
+    {
+      "speaker": "vocab",
+      "text": "立ち入り",
+      "ruby": "<span class=\"vw\" data-ja=\"立ち入り\" data-reading=\"たちいり\" data-en=\"entering; entry\"><ruby>立ち入り<rt>たちいり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means entering, or setting foot in a place."
+    },
+    {
+      "speaker": "slow",
+      "text": "登山で人気の高岳や中岳に登ることも、禁止になりました。",
+      "ruby": "<ruby>登山<rt>とざん</rt></ruby>で<ruby>人気<rt>にんき</rt></ruby>の<ruby>高岳<rt>たかだけ</rt></ruby>や<ruby>中岳<rt>なかだけ</rt></ruby>に<ruby>登る<rt>のぼる</rt></ruby>ことも、<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition; ban\"><ruby>禁止<rt>きんし</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Climbing the two peaks popular with hikers is now prohibited too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "禁止",
+      "ruby": "<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition; ban\"><ruby>禁止<rt>きんし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prohibition — something you must not do."
+    },
+    {
+      "speaker": "slow",
+      "text": "風下では、火山灰や小さな噴石が遠くまで飛ぶおそれがあります。",
+      "ruby": "<ruby>風下<rt>かざしも</rt></ruby>では、<span class=\"vw\" data-ja=\"火山灰\" data-reading=\"かざんばい\" data-en=\"volcanic ash\"><ruby>火山灰<rt>かざんばい</rt></ruby></span>や<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>噴石<rt>ふんせき</rt></ruby>が<ruby>遠く<rt>とおく</rt></ruby>まで<ruby>飛ぶ<rt>とぶ</rt></ruby>おそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Downwind, there is a risk that volcanic ash and small rocks could fly far away."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火山灰",
+      "ruby": "<span class=\"vw\" data-ja=\"火山灰\" data-reading=\"かざんばい\" data-en=\"volcanic ash\"><ruby>火山灰<rt>かざんばい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means volcanic ash."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、自治体の指示に従って、危険な場所に近づかないよう呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>自治体<rt>じちたい</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>に<ruby>従って<rt>したがって</rt></ruby>、<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>かないよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency is urging people to follow local government instructions and stay away from dangerous places."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people, or urge them, to do something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "熊本県の阿蘇山で火山の活動が活発になり、気象庁は14日、噴火警戒レベルを2から3に引き上げました。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>阿蘇山<rt>あそさん</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になり、<ruby>気象庁<rt>きしょうちょう</rt></ruby>は14<ruby>日<rt>にち</rt></ruby>、<ruby>噴火<rt>ふんか</rt></ruby><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>レベルを2から3に<ruby>引き上げ<rt>ひきあげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "レベル3は「入山規制」で、危険な範囲の山に登ることができなくなります。",
+      "ruby": "レベル3は「<ruby>入山<rt>にゅうざん</rt></ruby><span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>」で、<ruby>危険<rt>きけん</rt></ruby>な<ruby>範囲<rt>はんい</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>登る<rt>のぼる</rt></ruby>ことができなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によりますと、阿蘇山では、12日の夜から火山性微動が大きくなっています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によりますと、<ruby>阿蘇山<rt>あそさん</rt></ruby>では、12<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>火山<rt>かざん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>微動<rt>びどう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "火山ガスの量も、急に増えています。",
+      "ruby": "<ruby>火山<rt>かざん</rt></ruby>ガスの<ruby>量<rt>りょう</rt></ruby>も、<ruby>急に<rt>きゅうに</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "14日の調査では、二酸化硫黄というガスが、1日あたり2700トン観測されました。",
+      "ruby": "14<ruby>日<rt>にち</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>では、<ruby>二<rt>に</rt></ruby><ruby>酸化<rt>さんか</rt></ruby><ruby>硫黄<rt>いおう</rt></ruby>というガスが、<ruby>1日<rt>いちにち</rt></ruby>あたり2700トン<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; measuring\"><ruby>観測<rt>かんそく</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、8月6日の調査の1200トンと比べて、2倍以上の量です。",
+      "ruby": "これは、8<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>の1200トンと<ruby>比べ<rt>くらべ</rt></ruby>て、2<ruby>倍以上<rt>ばいいじょう</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、中岳第一火口からおよそ2キロの範囲では、大きな噴石や火砕流に警戒が必要です。",
+      "ruby": "このため、<ruby>中岳<rt>なかだけ</rt></ruby><ruby>第一<rt>だいいち</rt></ruby><ruby>火口<rt>かこう</rt></ruby>からおよそ2キロの<ruby>範囲<rt>はんい</rt></ruby>では、<ruby>大き<rt>おおき</rt></ruby>な<ruby>噴石<rt>ふんせき</rt></ruby>や<ruby>火砕流<rt>かさいりゅう</rt></ruby>に<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "熊本県の阿蘇市、高森町、南阿蘇村では、火口の周辺への立ち入りが規制されています。",
+      "ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>阿蘇<rt>あそ</rt></ruby><ruby>市<rt>し</rt></ruby>、<ruby>高森町<rt>たかもりまち</rt></ruby>、<ruby>南阿蘇<rt>みなみあそ</rt></ruby><ruby>村<rt>むら</rt></ruby>では、<ruby>火口<rt>かこう</rt></ruby>の<ruby>周辺<rt>しゅうへん</rt></ruby>への<span class=\"vw\" data-ja=\"立ち入り\" data-reading=\"たちいり\" data-en=\"entering; entry\"><ruby>立ち入り<rt>たちいり</rt></ruby></span>が<span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "登山で人気の高岳や中岳に登ることも、禁止になりました。",
+      "ruby": "<ruby>登山<rt>とざん</rt></ruby>で<ruby>人気<rt>にんき</rt></ruby>の<ruby>高岳<rt>たかだけ</rt></ruby>や<ruby>中岳<rt>なかだけ</rt></ruby>に<ruby>登る<rt>のぼる</rt></ruby>ことも、<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition; ban\"><ruby>禁止<rt>きんし</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "風下では、火山灰や小さな噴石が遠くまで飛ぶおそれがあります。",
+      "ruby": "<ruby>風下<rt>かざしも</rt></ruby>では、<span class=\"vw\" data-ja=\"火山灰\" data-reading=\"かざんばい\" data-en=\"volcanic ash\"><ruby>火山灰<rt>かざんばい</rt></ruby></span>や<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>噴石<rt>ふんせき</rt></ruby>が<ruby>遠く<rt>とおく</rt></ruby>まで<ruby>飛ぶ<rt>とぶ</rt></ruby>おそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "体に害がある火山ガスにも、注意が必要です。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>に<ruby>害<rt>がい</rt></ruby>がある<ruby>火山<rt>かざん</rt></ruby>ガスにも、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今はお盆の時期で、阿蘇には多くの観光客が訪れています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>はお<ruby>盆<rt>ぼん</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>で、<ruby>阿蘇<rt>あそ</rt></ruby>には<ruby>多く<rt>おおく</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、規制の範囲の外にある観光地は、これまでどおり楽しむことができます。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"規制\" data-reading=\"きせい\" data-en=\"regulation; restriction\"><ruby>規制<rt>きせい</rt></ruby></span>の<ruby>範囲<rt>はんい</rt></ruby>の<ruby>外<rt>そと</rt></ruby>にある<ruby>観光地<rt>かんこうち</rt></ruby>は、これまでどおり<ruby>楽し<rt>たのし</rt></ruby>むことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、自治体の指示に従って、危険な場所に近づかないよう呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>自治体<rt>じちたい</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>に<ruby>従って<rt>したがって</rt></ruby>、<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>かないよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、阿蘇山の噴火警戒レベルをいくつに引き上げましたか。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>阿蘇山<rt>あそさん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby><span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>レベルをいくつに<ruby>引き上げ<rt>ひきあげ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Level three."
+    },
+    {
+      "speaker": "slow",
+      "text": "中岳第一火口からおよそ何キロの範囲で、警戒が必要ですか。",
+      "ruby": "<ruby>中岳<rt>なかだけ</rt></ruby><ruby>第一<rt>だいいち</rt></ruby><ruby>火口<rt>かこう</rt></ruby>からおよそ<ruby>何<rt>なに</rt></ruby>キロの<ruby>範囲<rt>はんい</rt></ruby>で、<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; vigilance\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two kilometers."
+    },
+    {
+      "speaker": "slow",
+      "text": "二酸化硫黄というガスは、1日あたり何トン観測されましたか。",
+      "ruby": "<ruby>二<rt>に</rt></ruby><ruby>酸化<rt>さんか</rt></ruby><ruby>硫黄<rt>いおう</rt></ruby>というガスは、<ruby>1日<rt>いちにち</rt></ruby>あたり<ruby>何<rt>なに</rt></ruby>トン<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation; measuring\"><ruby>観測<rt>かんそく</rt></ruby></span>されましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About twenty-seven hundred tons per day."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you travel to the area, check the latest information and stay safe. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "引き上げる",
+      "reading": "ひきあげる",
+      "en": "to raise; to lift up",
+      "zh": "提高；上调"
+    },
+    {
+      "ja": "規制",
+      "reading": "きせい",
+      "en": "regulation; restriction",
+      "zh": "管制；限制"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation; measuring",
+      "zh": "观测"
+    },
+    {
+      "ja": "警戒",
+      "reading": "けいかい",
+      "en": "caution; vigilance",
+      "zh": "警戒；警惕"
+    },
+    {
+      "ja": "立ち入り",
+      "reading": "たちいり",
+      "en": "entering; entry",
+      "zh": "进入；入内"
+    },
+    {
+      "ja": "禁止",
+      "reading": "きんし",
+      "en": "prohibition; ban",
+      "zh": "禁止"
+    },
+    {
+      "ja": "火山灰",
+      "reading": "かざんばい",
+      "en": "volcanic ash",
+      "zh": "火山灰"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁；号召"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to ... (polite news style)",
+      "meaningZh": "据…（新闻中的郑重说法）",
+      "formation": "noun + によりますと",
+      "example": "気象庁によりますと、阿蘇山では、12日の夜から火山性微動が大きくなっています。",
+      "translation": "According to the weather agency, volcanic tremors at Mount Aso have been growing stronger since the night of the twelfth.",
+      "note": "polite news equivalent of によると; introduces the source of information",
+      "noteZh": "によると的郑重说法，常用于新闻，表示消息来源",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜なくなる",
+      "meaning": "to no longer ...; to stop being possible",
+      "meaningZh": "变得不…；不再…",
+      "formation": "verb ない-form stem + なくなる（できる → できなくなる）",
+      "example": "レベル3は「入山規制」で、危険な範囲の山に登ることができなくなります。",
+      "translation": "Level three means 'entry restrictions' — people become unable to climb the mountain in the dangerous area.",
+      "note": "expresses a change to a negative state: something that was possible stops being possible",
+      "noteZh": "表示状态的变化：原来可以的事情变得不能做了",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくなる"
+    },
+    {
+      "pattern": "〜あたり",
+      "meaning": "per ...",
+      "meaningZh": "每…；平均每…",
+      "formation": "number / noun + あたり",
+      "example": "二酸化硫黄というガスが、1日あたり2700トン観測されました。",
+      "translation": "About 2,700 tons per day of sulfur dioxide gas was observed.",
+      "note": "expresses a rate or average per unit; common with amounts and prices",
+      "noteZh": "表示按单位计算的比率或平均值，常与数量、价格搭配",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#あたり"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ...",
+      "meaningZh": "有…的危险；恐怕会…",
+      "formation": "verb dictionary form / noun の + おそれがある",
+      "example": "風下では、火山灰や小さな噴石が遠くまで飛ぶおそれがあります。",
+      "translation": "Downwind, there is a risk that volcanic ash and small volcanic rocks will fly far away.",
+      "note": "used for undesirable possibilities; very common in news and weather warnings",
+      "noteZh": "用于不好的可能性，常见于新闻和气象警报",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜ないよう（に）呼びかける",
+      "meaning": "to urge people not to ...",
+      "meaningZh": "呼吁不要…",
+      "formation": "verb ない-form + よう（に） + 呼びかける",
+      "example": "気象庁は、危険な場所に近づかないよう呼びかけています。",
+      "translation": "The weather agency is urging people not to approach dangerous places.",
+      "note": "standard news pattern for public appeals; ように求める is a similar pattern",
+      "noteZh": "新闻中表示向公众呼吁的常用句型，与ように求める类似",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ように求める"
+    }
+  ],
+  "practiceZh": [
+    "熊本県の阿蘇山で火山の活動が活発になり、気象庁は14日、噴火警戒レベルを2から3に引き上げました。\n熊本县的阿苏山火山活动趋于活跃，气象厅于14日将喷发警戒级别从2级上调至3级。\n活発 = 活跃；引き上げる = 提高；上调",
+    "レベル3は「入山規制」で、危険な範囲の山に登ることができなくなります。\n3级是“入山管制”，人们将不能再进入危险范围内的山区。\n規制 = 管制；〜なくなる = 变得不…",
+    "気象庁によりますと、阿蘇山では、12日の夜から火山性微動が大きくなっています。\n据气象厅消息，阿苏山从12日夜间开始火山性微动不断增强。\n〜によりますと = 据…；火山性微動 = 火山性微动",
+    "火山ガスの量も、急に増えています。\n火山气体的量也在急剧增加。\n急に = 突然；急剧",
+    "14日の調査では、二酸化硫黄というガスが、1日あたり2700トン観測されました。\n在14日的观测调查中，观测到名为二氧化硫的气体每天达2700吨。\n二酸化硫黄 = 二氧化硫；1日あたり = 每天；観測 = 观测",
+    "これは、8月6日の調査の1200トンと比べて、2倍以上の量です。\n这与8月6日调查时的1200吨相比，增加到两倍以上。\n〜と比べて = 与…相比；2倍以上 = 两倍以上",
+    "このため、中岳第一火口からおよそ2キロの範囲では、大きな噴石や火砕流に警戒が必要です。\n因此，在中岳第一火口约2公里范围内，需要警惕大块喷石和火山碎屑流。\n噴石 = 喷石；火砕流 = 火山碎屑流；警戒 = 警戒",
+    "熊本県の阿蘇市、高森町、南阿蘇村では、火口の周辺への立ち入りが規制されています。\n在熊本县的阿苏市、高森町、南阿苏村，火口周边已实施进入管制。\n立ち入り = 进入；周辺 = 周边",
+    "登山で人気の高岳や中岳に登ることも、禁止になりました。\n攀登深受登山爱好者欢迎的高岳和中岳也被禁止了。\n登山 = 登山；禁止 = 禁止",
+    "風下では、火山灰や小さな噴石が遠くまで飛ぶおそれがあります。\n在下风处，火山灰和小块喷石有可能飞到很远的地方。\n風下 = 下风处；〜おそれがある = 有…的危险",
+    "体に害がある火山ガスにも、注意が必要です。\n对身体有害的火山气体也需要注意。\n害 = 危害",
+    "今はお盆の時期で、阿蘇には多くの観光客が訪れています。\n现在正值盂兰盆节假期，许多游客来到阿苏。\nお盆 = 盂兰盆节；観光客 = 游客",
+    "しかし、規制の範囲の外にある観光地は、これまでどおり楽しむことができます。\n不过，管制范围以外的观光景点仍可照常游览。\nこれまでどおり = 照常；一如既往",
+    "気象庁は、自治体の指示に従って、危険な場所に近づかないよう呼びかけています。\n气象厅呼吁人们遵从当地政府的指示，不要靠近危险场所。\n自治体 = 地方政府；〜に従って = 遵从…；呼びかける = 呼吁"
+  ]
+}
