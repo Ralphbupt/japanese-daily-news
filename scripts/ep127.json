@@ -1,0 +1,529 @@
+{
+  "episode": 127,
+  "title": "日本のGDP、3四半期連続のプラス成長",
+  "date": "2026-08-18",
+  "source": "内閣府 / 日本経済新聞 / ロイター",
+  "level": "N4-N3",
+  "contentVersion": "2026081801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August eighteenth. Japan's latest economic growth numbers are out — still positive, but weaker than expected. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は17日、今年4月から6月までのGDPの速報値を発表しました。",
+      "ruby": "<ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までのGDPの<span class=\"vw\" data-ja=\"速報値\" data-reading=\"そくほうち\" data-en=\"preliminary figure\"><ruby>速報値<rt>そくほうち</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "GDPは「国内総生産」のことで、国の経済の大きさを表す数字です。",
+      "ruby": "GDPは「<ruby>国内<rt>こくない</rt></ruby><ruby>総生産<rt>そうせいさん</rt></ruby>」のことで、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "4月から6月までの実質GDPは、前の3か月と比べて、0.3%増えました。",
+      "ruby": "4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの<ruby>実質<rt>じっしつ</rt></ruby>GDPは、<ruby>前<rt>まえ</rt></ruby>の3か<ruby>月<rt>げつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、0.3%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この成長が1年間続いた場合の「年率」に直すと、1.1%のプラスです。",
+      "ruby": "この<ruby>成長<rt>せいちょう</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>の「<ruby>年率<rt>ねんりつ</rt></ruby>」に<ruby>直す<rt>なおす</rt></ruby>と、1.1%のプラスです。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年を4つに分けた3か月の期間を、「四半期」と言います。プラス成長は、これで3四半期連続です。",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>を4つに<ruby>分け<rt>わけ</rt></ruby>た3か<ruby>月<rt>げつ</rt></ruby>の<ruby>期間<rt>きかん</rt></ruby>を、「<ruby>四半期<rt>しはんき</rt></ruby>」と<ruby>言い<rt>いい</rt></ruby>ます。プラス<ruby>成長<rt>せいちょう</rt></ruby>は、これで3<ruby>四半期<rt>しはんき</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、この数字は、民間のエコノミストの予想だった年率2%を、大きく下回りました。",
+      "ruby": "しかし、この<ruby>数字<rt>すうじ</rt></ruby>は、<ruby>民間<rt>みんかん</rt></ruby>のエコノミストの<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation\"><ruby>予想<rt>よそう</rt></ruby></span>だった<ruby>年率<rt>ねんりつ</rt></ruby>2%を、<ruby>大きく<rt>おおきく</rt></ruby><ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "内容を見ると、国内の需要は弱く、個人消費はほとんど増えませんでした。",
+      "ruby": "<ruby>内容<rt>ないよう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>国内<rt>こくない</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>は<ruby>弱く<rt>よわく</rt></ruby>、<ruby>個人消費<rt>こじんしょうひ</rt></ruby>はほとんど<ruby>増え<rt>ふえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価高が続いているため、人々は買い物にお金を使いにくくなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"物価高\" data-reading=\"ぶっかだか\" data-en=\"high prices\"><ruby>物価高<rt>ぶっかだか</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ているため、<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>買い物<rt>かいもの</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>にくくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "企業が機械や工場にお金を使う「設備投資」も、1.2%減りました。マイナスは2四半期連続です。",
+      "ruby": "<ruby>企業<rt>きぎょう</rt></ruby>が<ruby>機械<rt>きかい</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>「<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>」も、1.2%<ruby>減り<rt>へり</rt></ruby>ました。マイナスは2<ruby>四半期<rt>しはんき</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、経済全体を支えたのは、輸出などの海外の需要でした。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>たのは、<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>などの<ruby>海外<rt>かいがい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "中東情勢の影響で原油の輸入が減ったことも、計算の上でGDPを押し上げました。",
+      "ruby": "<ruby>中東情勢<rt>ちゅうとうじょうせい</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>原油<rt>げんゆ</rt></ruby>の<ruby>輸入<rt>ゆにゅう</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも、<ruby>計算<rt>けいさん</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>GDPを<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は「日本の経済は緩やかに回復している」と説明しています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>は<ruby>緩や<rt>ゆるや</rt></ruby>かに<ruby>回復<rt>かいふく</rt></ruby>している」と<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、専門家からは「数字はプラスでも、内容は良くない」という厳しい意見も出ています。",
+      "ruby": "しかし、<ruby>専門家<rt>せんもんか</rt></ruby>からは「<ruby>数字<rt>すうじ</rt></ruby>はプラスでも、<ruby>内容<rt>ないよう</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ない」という<ruby>厳しい<rt>きびしい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "次の7月から9月までの四半期は、マイナス成長になるという予想も出ています。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までの<ruby>四半期<rt>しはんき</rt></ruby>は、マイナス<ruby>成長<rt>せいちょう</rt></ruby>になるという<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation\"><ruby>予想<rt>よそう</rt></ruby></span>も<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "内閣府は17日、今年4月から6月までのGDPの速報値を発表しました。",
+      "ruby": "<ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までのGDPの<span class=\"vw\" data-ja=\"速報値\" data-reading=\"そくほうち\" data-en=\"preliminary figure\"><ruby>速報値<rt>そくほうち</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the seventeenth, the Cabinet Office announced preliminary GDP figures for April through June of this year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "GDPは「国内総生産」のことで、国の経済の大きさを表す数字です。",
+      "ruby": "GDPは「<ruby>国内<rt>こくない</rt></ruby><ruby>総生産<rt>そうせいさん</rt></ruby>」のことで、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "GDP stands for gross domestic product — a number that shows the size of a country's economy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "経済",
+      "ruby": "<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means economy."
+    },
+    {
+      "speaker": "slow",
+      "text": "4月から6月までの実質GDPは、前の3か月と比べて、0.3%増えました。",
+      "ruby": "4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの<ruby>実質<rt>じっしつ</rt></ruby>GDPは、<ruby>前<rt>まえ</rt></ruby>の3か<ruby>月<rt>げつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、0.3%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Real GDP for April through June grew zero point three percent compared with the previous three months."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、この数字は、民間のエコノミストの予想だった年率2%を、大きく下回りました。",
+      "ruby": "しかし、この<ruby>数字<rt>すうじ</rt></ruby>は、<ruby>民間<rt>みんかん</rt></ruby>のエコノミストの<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation\"><ruby>予想<rt>よそう</rt></ruby></span>だった<ruby>年率<rt>ねんりつ</rt></ruby>2%を、<ruby>大きく<rt>おおきく</rt></ruby><ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But this number fell far below private economists' forecast of two percent at an annual rate."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予想",
+      "ruby": "<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation\"><ruby>予想<rt>よそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means forecast, or expectation."
+    },
+    {
+      "speaker": "slow",
+      "text": "内容を見ると、国内の需要は弱く、個人消費はほとんど増えませんでした。",
+      "ruby": "<ruby>内容<rt>ないよう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>国内<rt>こくない</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>は<ruby>弱く<rt>よわく</rt></ruby>、<ruby>個人消費<rt>こじんしょうひ</rt></ruby>はほとんど<ruby>増え<rt>ふえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Looking at the details, domestic demand was weak, and personal consumption barely grew."
+    },
+    {
+      "speaker": "vocab",
+      "text": "消費",
+      "ruby": "<span class=\"vw\" data-ja=\"消費\" data-reading=\"しょうひ\" data-en=\"consumption\"><ruby>消費<rt>しょうひ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consumption — spending money on goods and services."
+    },
+    {
+      "speaker": "slow",
+      "text": "物価高が続いているため、人々は買い物にお金を使いにくくなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"物価高\" data-reading=\"ぶっかだか\" data-en=\"high prices\"><ruby>物価高<rt>ぶっかだか</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ているため、<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>買い物<rt>かいもの</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>にくくなっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because high prices continue, people are finding it harder to spend money on shopping."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物価高",
+      "ruby": "<span class=\"vw\" data-ja=\"物価高\" data-reading=\"ぶっかだか\" data-en=\"high prices\"><ruby>物価高<rt>ぶっかだか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means high prices — the cost of living going up."
+    },
+    {
+      "speaker": "slow",
+      "text": "企業が機械や工場にお金を使う「設備投資」も、1.2%減りました。マイナスは2四半期連続です。",
+      "ruby": "<ruby>企業<rt>きぎょう</rt></ruby>が<ruby>機械<rt>きかい</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>「<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>」も、1.2%<ruby>減り<rt>へり</rt></ruby>ました。マイナスは2<ruby>四半期<rt>しはんき</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Capital investment — money companies spend on machines and factories — also fell one point two percent, the second quarterly decline in a row."
+    },
+    {
+      "speaker": "vocab",
+      "text": "設備投資",
+      "ruby": "<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means capital investment."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、経済全体を支えたのは、輸出などの海外の需要でした。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>たのは、<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>などの<ruby>海外<rt>かいがい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, what supported the economy as a whole was demand from overseas, such as exports."
+    },
+    {
+      "speaker": "vocab",
+      "text": "輸出",
+      "ruby": "<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means export."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は17日、今年4月から6月までのGDPの速報値を発表しました。",
+      "ruby": "<ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までのGDPの<span class=\"vw\" data-ja=\"速報値\" data-reading=\"そくほうち\" data-en=\"preliminary figure\"><ruby>速報値<rt>そくほうち</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "GDPは「国内総生産」のことで、国の経済の大きさを表す数字です。",
+      "ruby": "GDPは「<ruby>国内<rt>こくない</rt></ruby><ruby>総生産<rt>そうせいさん</rt></ruby>」のことで、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "4月から6月までの実質GDPは、前の3か月と比べて、0.3%増えました。",
+      "ruby": "4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの<ruby>実質<rt>じっしつ</rt></ruby>GDPは、<ruby>前<rt>まえ</rt></ruby>の3か<ruby>月<rt>げつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、0.3%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この成長が1年間続いた場合の「年率」に直すと、1.1%のプラスです。",
+      "ruby": "この<ruby>成長<rt>せいちょう</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>の「<ruby>年率<rt>ねんりつ</rt></ruby>」に<ruby>直す<rt>なおす</rt></ruby>と、1.1%のプラスです。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年を4つに分けた3か月の期間を、「四半期」と言います。プラス成長は、これで3四半期連続です。",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>を4つに<ruby>分け<rt>わけ</rt></ruby>た3か<ruby>月<rt>げつ</rt></ruby>の<ruby>期間<rt>きかん</rt></ruby>を、「<ruby>四半期<rt>しはんき</rt></ruby>」と<ruby>言い<rt>いい</rt></ruby>ます。プラス<ruby>成長<rt>せいちょう</rt></ruby>は、これで3<ruby>四半期<rt>しはんき</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、この数字は、民間のエコノミストの予想だった年率2%を、大きく下回りました。",
+      "ruby": "しかし、この<ruby>数字<rt>すうじ</rt></ruby>は、<ruby>民間<rt>みんかん</rt></ruby>のエコノミストの<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation\"><ruby>予想<rt>よそう</rt></ruby></span>だった<ruby>年率<rt>ねんりつ</rt></ruby>2%を、<ruby>大きく<rt>おおきく</rt></ruby><ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "内容を見ると、国内の需要は弱く、個人消費はほとんど増えませんでした。",
+      "ruby": "<ruby>内容<rt>ないよう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>国内<rt>こくない</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>は<ruby>弱く<rt>よわく</rt></ruby>、<ruby>個人消費<rt>こじんしょうひ</rt></ruby>はほとんど<ruby>増え<rt>ふえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価高が続いているため、人々は買い物にお金を使いにくくなっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"物価高\" data-reading=\"ぶっかだか\" data-en=\"high prices\"><ruby>物価高<rt>ぶっかだか</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ているため、<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>買い物<rt>かいもの</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>にくくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "企業が機械や工場にお金を使う「設備投資」も、1.2%減りました。マイナスは2四半期連続です。",
+      "ruby": "<ruby>企業<rt>きぎょう</rt></ruby>が<ruby>機械<rt>きかい</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>「<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>」も、1.2%<ruby>減り<rt>へり</rt></ruby>ました。マイナスは2<ruby>四半期<rt>しはんき</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、経済全体を支えたのは、輸出などの海外の需要でした。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span><ruby>全体<rt>ぜんたい</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>たのは、<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>などの<ruby>海外<rt>かいがい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "中東情勢の影響で原油の輸入が減ったことも、計算の上でGDPを押し上げました。",
+      "ruby": "<ruby>中東情勢<rt>ちゅうとうじょうせい</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>原油<rt>げんゆ</rt></ruby>の<ruby>輸入<rt>ゆにゅう</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも、<ruby>計算<rt>けいさん</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>GDPを<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は「日本の経済は緩やかに回復している」と説明しています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>は<ruby>緩や<rt>ゆるや</rt></ruby>かに<ruby>回復<rt>かいふく</rt></ruby>している」と<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、専門家からは「数字はプラスでも、内容は良くない」という厳しい意見も出ています。",
+      "ruby": "しかし、<ruby>専門家<rt>せんもんか</rt></ruby>からは「<ruby>数字<rt>すうじ</rt></ruby>はプラスでも、<ruby>内容<rt>ないよう</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ない」という<ruby>厳しい<rt>きびしい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "次の7月から9月までの四半期は、マイナス成長になるという予想も出ています。",
+      "ruby": "<ruby>次の<rt>つぎの</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までの<ruby>四半期<rt>しはんき</rt></ruby>は、マイナス<ruby>成長<rt>せいちょう</rt></ruby>になるという<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation\"><ruby>予想<rt>よそう</rt></ruby></span>も<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "4月から6月までの実質GDPは、年率で何パーセント増えましたか。",
+      "ruby": "4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>までの<ruby>実質<rt>じっしつ</rt></ruby>GDPは、<ruby>年率<rt>ねんりつ</rt></ruby>で<ruby>何<rt>なん</rt></ruby>パーセント<ruby>増え<rt>ふえ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One point one percent at an annual rate — below market expectations."
+    },
+    {
+      "speaker": "slow",
+      "text": "プラス成長は、何四半期連続ですか。",
+      "ruby": "プラス<ruby>成長<rt>せいちょう</rt></ruby>は、<ruby>何<rt>なん</rt></ruby><ruby>四半期<rt>しはんき</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three quarters in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "経済を支えたのは、国内の需要ですか。それとも、海外の需要ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"経済\" data-reading=\"けいざい\" data-en=\"economy\"><ruby>経済<rt>けいざい</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>たのは、<ruby>国内<rt>こくない</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>ですか。それとも、<ruby>海外<rt>かいがい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Overseas demand, such as exports. Domestic demand was weak."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Japan's economy is still growing on paper, but with consumption and investment this weak, economists are watching the next quarter closely. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表；公布"
+    },
+    {
+      "ja": "経済",
+      "reading": "けいざい",
+      "en": "economy",
+      "zh": "经济"
+    },
+    {
+      "ja": "速報値",
+      "reading": "そくほうち",
+      "en": "preliminary figure",
+      "zh": "速报值；初步数据"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "予想",
+      "reading": "よそう",
+      "en": "forecast; expectation",
+      "zh": "预测；预期"
+    },
+    {
+      "ja": "下回る",
+      "reading": "したまわる",
+      "en": "to fall below",
+      "zh": "低于；未达到"
+    },
+    {
+      "ja": "需要",
+      "reading": "じゅよう",
+      "en": "demand",
+      "zh": "需求"
+    },
+    {
+      "ja": "消費",
+      "reading": "しょうひ",
+      "en": "consumption",
+      "zh": "消费"
+    },
+    {
+      "ja": "物価高",
+      "reading": "ぶっかだか",
+      "en": "high prices",
+      "zh": "物价高涨"
+    },
+    {
+      "ja": "設備投資",
+      "reading": "せつびとうし",
+      "en": "capital investment",
+      "zh": "设备投资"
+    },
+    {
+      "ja": "輸出",
+      "reading": "ゆしゅつ",
+      "en": "export",
+      "zh": "出口"
+    },
+    {
+      "ja": "回復する",
+      "reading": "かいふくする",
+      "en": "to recover",
+      "zh": "恢复；复苏"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と比べて",
+      "meaning": "compared with ~",
+      "meaningZh": "与……相比",
+      "formation": "noun + と比べて",
+      "example": "4月から6月までの実質GDPは、前の3か月と比べて、0.3%増えました。",
+      "translation": "Real GDP for April through June grew 0.3% compared with the previous three months.",
+      "note": "From 比べる (to compare). Very common in news when showing how a number changed against an earlier period.",
+      "noteZh": "来自「比べる」（比较）。新闻中常用来表示数字与之前时期相比的变化。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と比べて"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because ~; due to ~",
+      "meaningZh": "因为……；由于……",
+      "formation": "plain form / noun + の + ため",
+      "example": "物価高が続いているため、人々は買い物にお金を使いにくくなっています。",
+      "translation": "Because high prices continue, people are finding it harder to spend money on shopping.",
+      "note": "A slightly formal way to give a reason, very common in news reports. More written-style than から or ので.",
+      "noteZh": "较正式的表示原因的说法，新闻中非常常见。比「から」「ので」更书面。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜にくい",
+      "meaning": "hard to ~; difficult to ~",
+      "meaningZh": "难以……；不容易……",
+      "formation": "verb stem + にくい",
+      "example": "人々は買い物にお金を使いにくくなっています。",
+      "translation": "People are finding it harder to spend money on shopping.",
+      "note": "Attaches to the verb stem to say the action is difficult. The opposite is 〜やすい (easy to ~).",
+      "noteZh": "接动词ます形词干，表示该动作难以进行。反义是「〜やすい」（容易……）。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#にくい"
+    },
+    {
+      "pattern": "一方、〜",
+      "meaning": "on the other hand, ~",
+      "meaningZh": "另一方面……",
+      "formation": "sentence + 一方、+ sentence",
+      "example": "一方、経済全体を支えたのは、輸出などの海外の需要でした。",
+      "translation": "On the other hand, what supported the economy as a whole was overseas demand, such as exports.",
+      "note": "Used at the start of a sentence to contrast with what was just said. Common in written and news Japanese.",
+      "noteZh": "用于句首，与前文形成对比。书面语和新闻中常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一方"
+    },
+    {
+      "pattern": "〜という + noun",
+      "meaning": "a [noun] that says ~; the [noun] of ~",
+      "meaningZh": "「……」这样的……；称为……的……",
+      "formation": "plain sentence + という + noun",
+      "example": "マイナス成長になるという予想も出ています。",
+      "translation": "There are also forecasts that growth will turn negative.",
+      "note": "という connects the content of an opinion, forecast, or rumor to the noun that names it.",
+      "noteZh": "「という」把意见、预测、传闻等的内容与其名词连接起来。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    }
+  ],
+  "practiceZh": [
+    "内閣府は17日、今年4月から6月までのGDPの速報値を発表しました。\n内阁府17日公布了今年4月至6月GDP的速报值。\n速報値 = preliminary figure；発表する = to announce",
+    "GDPは「国内総生産」のことで、国の経済の大きさを表す数字です。\nGDP即「国内生产总值」，是表示一个国家经济规模的数字。\n経済 = economy；表す = to express; to show",
+    "4月から6月までの実質GDPは、前の3か月と比べて、0.3%増えました。\n4月至6月的实际GDP与前3个月相比增长了0.3%。\n〜と比べて = compared with；増える = to increase",
+    "この成長が1年間続いた場合の「年率」に直すと、1.1%のプラスです。\n换算成这一增长持续一年的「年率」，为正增长1.1%。\n年率 = annualized rate；続く = to continue",
+    "1年を4つに分けた3か月の期間を、「四半期」と言います。プラス成長は、これで3四半期連続です。\n把一年分成四份的3个月期间称为「季度」。正增长至此已连续3个季度。\n四半期 = quarter；連続 = consecutive",
+    "しかし、この数字は、民間のエコノミストの予想だった年率2%を、大きく下回りました。\n但是，这个数字大幅低于民间经济学家预测的年率2%。\n予想 = forecast；下回る = to fall below",
+    "内容を見ると、国内の需要は弱く、個人消費はほとんど増えませんでした。\n从内容来看，国内需求疲软，个人消费几乎没有增长。\n需要 = demand；消費 = consumption",
+    "物価高が続いているため、人々は買い物にお金を使いにくくなっています。\n由于物价持续高涨，人们越来越难把钱花在购物上。\n物価高 = high prices；〜にくい = hard to ~",
+    "企業が機械や工場にお金を使う「設備投資」も、1.2%減りました。マイナスは2四半期連続です。\n企业在机器和工厂上花钱的「设备投资」也减少了1.2%。负增长已连续2个季度。\n設備投資 = capital investment；減る = to decrease",
+    "一方、経済全体を支えたのは、輸出などの海外の需要でした。\n另一方面，支撑整体经济的是出口等海外需求。\n一方 = on the other hand；輸出 = export",
+    "中東情勢の影響で原油の輸入が減ったことも、計算の上でGDPを押し上げました。\n受中东局势影响原油进口减少，这在计算上也推高了GDP。\n輸入 = import；押し上げる = to push up",
+    "政府は「日本の経済は緩やかに回復している」と説明しています。\n政府解释说「日本经济正在缓慢复苏」。\n緩やか = gradual；回復する = to recover",
+    "しかし、専門家からは「数字はプラスでも、内容は良くない」という厳しい意見も出ています。\n但也有专家提出严厉的意见：「数字虽是正的，内容却不好」。\n専門家 = expert；厳しい = severe; harsh",
+    "次の7月から9月までの四半期は、マイナス成長になるという予想も出ています。\n也有预测认为，接下来7月至9月的季度将出现负增长。\n〜という予想 = a forecast that ~；マイナス成長 = negative growth"
+  ]
+}
