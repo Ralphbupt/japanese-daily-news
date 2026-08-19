@@ -1,0 +1,542 @@
+{
+  "episode": 129,
+  "title": "長期金利が約30年ぶりの高い水準に上昇",
+  "date": "2026-08-19",
+  "source": "NHK / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026081901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August nineteenth. Japan's long-term interest rate has climbed to its highest level in about thirty years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "18日の債券市場で、日本の国債を売る動きが強まり、長期金利が上昇しました。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"債券\" data-reading=\"さいけん\" data-en=\"bond\"><ruby>債券<rt>さいけん</rt></ruby></span><ruby>市場<rt>しじょう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>を<ruby>売る<rt>うる</rt></ruby><ruby>動き<rt>うごき</rt></ruby>が<ruby>強ま<rt>つよま</rt></ruby>り、<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「国債」は、国がお金を借りるために出す証券のことです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>」は、<ruby>国<rt>くに</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>るために<ruby>出す<rt>だす</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「長期金利」の代表は、10年物の国債の利回りです。",
+      "ruby": "「<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>」の<ruby>代表<rt>だいひょう</rt></ruby>は、10<ruby>年<rt>ねん</rt></ruby><ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>の<span class=\"vw\" data-ja=\"利回り\" data-reading=\"りまわり\" data-en=\"yield\"><ruby>利回り<rt>りまわり</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "18日、この長期金利は一時、2.945%まで上がりました。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>、この<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>、2.945%まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは1996年9月以来、約30年ぶりの高い水準です。",
+      "ruby": "これは1996<ruby>年<rt>ねん</rt></ruby>9<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>約<rt>やく</rt></ruby>30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利が上がった理由の一つは、インフレ、つまり物価の上昇が続くという見方です。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、インフレ、つまり<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>という<ruby>見方<rt>みかた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "中東の情勢が収まらず、原油の価格が上がっているため、物価はさらに上がると考えられています。",
+      "ruby": "<ruby>中東<rt>ちゅうとう</rt></ruby>の<ruby>情勢<rt>じょうせい</rt></ruby>が<ruby>収ま<rt>おさま</rt></ruby>らず、<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<ruby>価格<rt>かかく</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っているため、<ruby>物価<rt>ぶっか</rt></ruby>はさらに<ruby>上が<rt>あが</rt></ruby>ると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、日本の財政への心配や、日本銀行が利上げを続けるという見方も、金利を押し上げました。",
+      "ruby": "また、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"財政\" data-reading=\"ざいせい\" data-en=\"public finances\"><ruby>財政<rt>ざいせい</rt></ruby></span>への<ruby>心配<rt>しんぱい</rt></ruby>や、<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>るという<ruby>見方<rt>みかた</rt></ruby>も、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国債の値段と金利は反対に動きます。国債が売られて値段が下がると、金利は上がります。",
+      "ruby": "<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>と<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<ruby>反対<rt>はんたい</rt></ruby>に<ruby>動き<rt>うごき</rt></ruby>ます。<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>が<ruby>売ら<rt>うら</rt></ruby>れて<ruby>値段<rt>ねだん</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>ると、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利の上昇は、世界でも起きています。アメリカでは、30年物の国債の利回りが約19年ぶりの高い水準になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>でも<ruby>起き<rt>おき</rt></ruby>ています。アメリカでは、30<ruby>年<rt>ねん</rt></ruby><ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>の<span class=\"vw\" data-ja=\"利回り\" data-reading=\"りまわり\" data-en=\"yield\"><ruby>利回り<rt>りまわり</rt></ruby></span>が<ruby>約<rt>やく</rt></ruby>19<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level\"><ruby>水準<rt>すいじゅん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "長期金利は、住宅ローンの固定金利や、企業がお金を借りるときの金利の基準になります。",
+      "ruby": "<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"住宅ローン\" data-reading=\"じゅうたくローン\" data-en=\"mortgage; home loan\"><ruby>住宅<rt>じゅうたく</rt></ruby>ローン</span>の<ruby>固定<rt>こてい</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>や、<ruby>企業<rt>きぎょう</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>るときの<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>基準<rt>きじゅん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、金利の上昇が続くと、家を買う人や企業の負担が重くなるおそれがあります。",
+      "ruby": "このため、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>や<ruby>企業<rt>きぎょう</rt></ruby>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>が<ruby>重く<rt>おもく</rt></ruby>なるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、銀行にお金を預ける人にとっては、預金の金利が上がるという良い面もあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>銀行<rt>ぎんこう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to deposit; to entrust\"><ruby>預け<rt>あずけ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>預金<rt>よきん</rt></ruby>の<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>るという<ruby>良い<rt>よい</rt></ruby><ruby>面<rt>めん</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "18日の債券市場で、日本の国債を売る動きが強まり、長期金利が上昇しました。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"債券\" data-reading=\"さいけん\" data-en=\"bond\"><ruby>債券<rt>さいけん</rt></ruby></span><ruby>市場<rt>しじょう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>を<ruby>売る<rt>うる</rt></ruby><ruby>動き<rt>うごき</rt></ruby>が<ruby>強ま<rt>つよま</rt></ruby>り、<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the bond market on the eighteenth, selling of Japanese government bonds intensified, and the long-term interest rate rose."
+    },
+    {
+      "speaker": "vocab",
+      "text": "金利",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means interest rate."
+    },
+    {
+      "speaker": "slow",
+      "text": "「国債」は、国がお金を借りるために出す証券のことです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>」は、<ruby>国<rt>くに</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>るために<ruby>出す<rt>だす</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "A government bond is a security the government issues in order to borrow money."
+    },
+    {
+      "speaker": "vocab",
+      "text": "国債",
+      "ruby": "<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means government bond."
+    },
+    {
+      "speaker": "slow",
+      "text": "18日、この長期金利は一時、2.945%まで上がりました。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>、この<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>、2.945%まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the eighteenth, this long-term rate temporarily rose to two point nine four five percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一時",
+      "ruby": "<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means temporarily, or at one point."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは1996年9月以来、約30年ぶりの高い水準です。",
+      "ruby": "これは1996<ruby>年<rt>ねん</rt></ruby>9<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>約<rt>やく</rt></ruby>30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is the highest level in about thirty years, since September of nineteen ninety-six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "水準",
+      "ruby": "<span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level\"><ruby>水準<rt>すいじゅん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means level."
+    },
+    {
+      "speaker": "slow",
+      "text": "中東の情勢が収まらず、原油の価格が上がっているため、物価はさらに上がると考えられています。",
+      "ruby": "<ruby>中東<rt>ちゅうとう</rt></ruby>の<ruby>情勢<rt>じょうせい</rt></ruby>が<ruby>収ま<rt>おさま</rt></ruby>らず、<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<ruby>価格<rt>かかく</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っているため、<ruby>物価<rt>ぶっか</rt></ruby>はさらに<ruby>上が<rt>あが</rt></ruby>ると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The situation in the Middle East has not settled and crude oil prices are rising, so prices are expected to climb further."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原油",
+      "ruby": "<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means crude oil."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、日本の財政への心配や、日本銀行が利上げを続けるという見方も、金利を押し上げました。",
+      "ruby": "また、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"財政\" data-reading=\"ざいせい\" data-en=\"public finances\"><ruby>財政<rt>ざいせい</rt></ruby></span>への<ruby>心配<rt>しんぱい</rt></ruby>や、<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>るという<ruby>見方<rt>みかた</rt></ruby>も、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Worries about Japan's public finances, and expectations that the Bank of Japan will keep raising rates, also pushed interest rates up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "利上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a rate hike — raising interest rates."
+    },
+    {
+      "speaker": "slow",
+      "text": "長期金利は、住宅ローンの固定金利や、企業がお金を借りるときの金利の基準になります。",
+      "ruby": "<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"住宅ローン\" data-reading=\"じゅうたくローン\" data-en=\"mortgage; home loan\"><ruby>住宅<rt>じゅうたく</rt></ruby>ローン</span>の<ruby>固定<rt>こてい</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>や、<ruby>企業<rt>きぎょう</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>るときの<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>基準<rt>きじゅん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The long-term rate is the benchmark for fixed-rate mortgages and for the rates companies pay to borrow money."
+    },
+    {
+      "speaker": "vocab",
+      "text": "住宅ローン",
+      "ruby": "<span class=\"vw\" data-ja=\"住宅ローン\" data-reading=\"じゅうたくローン\" data-en=\"mortgage; home loan\"><ruby>住宅<rt>じゅうたく</rt></ruby>ローン</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means home loan, or mortgage."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、金利の上昇が続くと、家を買う人や企業の負担が重くなるおそれがあります。",
+      "ruby": "このため、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>や<ruby>企業<rt>きぎょう</rt></ruby>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>が<ruby>重く<rt>おもく</rt></ruby>なるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, if rates keep rising, the burden on home buyers and companies could grow heavier."
+    },
+    {
+      "speaker": "vocab",
+      "text": "負担",
+      "ruby": "<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means burden."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方で、銀行にお金を預ける人にとっては、預金の金利が上がるという良い面もあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>銀行<rt>ぎんこう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to deposit; to entrust\"><ruby>預け<rt>あずけ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>預金<rt>よきん</rt></ruby>の<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>るという<ruby>良い<rt>よい</rt></ruby><ruby>面<rt>めん</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, for people who keep money in the bank, there is a bright side: deposit rates may go up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "預ける",
+      "ruby": "<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to deposit; to entrust\"><ruby>預け<rt>あずけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to deposit, or to leave something in someone's care."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "18日の債券市場で、日本の国債を売る動きが強まり、長期金利が上昇しました。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"債券\" data-reading=\"さいけん\" data-en=\"bond\"><ruby>債券<rt>さいけん</rt></ruby></span><ruby>市場<rt>しじょう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>を<ruby>売る<rt>うる</rt></ruby><ruby>動き<rt>うごき</rt></ruby>が<ruby>強ま<rt>つよま</rt></ruby>り、<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「国債」は、国がお金を借りるために出す証券のことです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>」は、<ruby>国<rt>くに</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>るために<ruby>出す<rt>だす</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「長期金利」の代表は、10年物の国債の利回りです。",
+      "ruby": "「<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>」の<ruby>代表<rt>だいひょう</rt></ruby>は、10<ruby>年<rt>ねん</rt></ruby><ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>の<span class=\"vw\" data-ja=\"利回り\" data-reading=\"りまわり\" data-en=\"yield\"><ruby>利回り<rt>りまわり</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "18日、この長期金利は一時、2.945%まで上がりました。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>、この<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>、2.945%まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは1996年9月以来、約30年ぶりの高い水準です。",
+      "ruby": "これは1996<ruby>年<rt>ねん</rt></ruby>9<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>約<rt>やく</rt></ruby>30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利が上がった理由の一つは、インフレ、つまり物価の上昇が続くという見方です。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、インフレ、つまり<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>という<ruby>見方<rt>みかた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "中東の情勢が収まらず、原油の価格が上がっているため、物価はさらに上がると考えられています。",
+      "ruby": "<ruby>中東<rt>ちゅうとう</rt></ruby>の<ruby>情勢<rt>じょうせい</rt></ruby>が<ruby>収ま<rt>おさま</rt></ruby>らず、<span class=\"vw\" data-ja=\"原油\" data-reading=\"げんゆ\" data-en=\"crude oil\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<ruby>価格<rt>かかく</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っているため、<ruby>物価<rt>ぶっか</rt></ruby>はさらに<ruby>上が<rt>あが</rt></ruby>ると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、日本の財政への心配や、日本銀行が利上げを続けるという見方も、金利を押し上げました。",
+      "ruby": "また、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"財政\" data-reading=\"ざいせい\" data-en=\"public finances\"><ruby>財政<rt>ざいせい</rt></ruby></span>への<ruby>心配<rt>しんぱい</rt></ruby>や、<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>るという<ruby>見方<rt>みかた</rt></ruby>も、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国債の値段と金利は反対に動きます。国債が売られて値段が下がると、金利は上がります。",
+      "ruby": "<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>と<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<ruby>反対<rt>はんたい</rt></ruby>に<ruby>動き<rt>うごき</rt></ruby>ます。<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>が<ruby>売ら<rt>うら</rt></ruby>れて<ruby>値段<rt>ねだん</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>ると、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "金利の上昇は、世界でも起きています。アメリカでは、30年物の国債の利回りが約19年ぶりの高い水準になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>でも<ruby>起き<rt>おき</rt></ruby>ています。アメリカでは、30<ruby>年<rt>ねん</rt></ruby><ruby>物<rt>もの</rt></ruby>の<span class=\"vw\" data-ja=\"国債\" data-reading=\"こくさい\" data-en=\"government bond\"><ruby>国債<rt>こくさい</rt></ruby></span>の<span class=\"vw\" data-ja=\"利回り\" data-reading=\"りまわり\" data-en=\"yield\"><ruby>利回り<rt>りまわり</rt></ruby></span>が<ruby>約<rt>やく</rt></ruby>19<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level\"><ruby>水準<rt>すいじゅん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "長期金利は、住宅ローンの固定金利や、企業がお金を借りるときの金利の基準になります。",
+      "ruby": "<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"住宅ローン\" data-reading=\"じゅうたくローン\" data-en=\"mortgage; home loan\"><ruby>住宅<rt>じゅうたく</rt></ruby>ローン</span>の<ruby>固定<rt>こてい</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>や、<ruby>企業<rt>きぎょう</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>るときの<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>基準<rt>きじゅん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、金利の上昇が続くと、家を買う人や企業の負担が重くなるおそれがあります。",
+      "ruby": "このため、<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>や<ruby>企業<rt>きぎょう</rt></ruby>の<span class=\"vw\" data-ja=\"負担\" data-reading=\"ふたん\" data-en=\"burden\"><ruby>負担<rt>ふたん</rt></ruby></span>が<ruby>重く<rt>おもく</rt></ruby>なるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、銀行にお金を預ける人にとっては、預金の金利が上がるという良い面もあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>銀行<rt>ぎんこう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to deposit; to entrust\"><ruby>預け<rt>あずけ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>預金<rt>よきん</rt></ruby>の<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>るという<ruby>良い<rt>よい</rt></ruby><ruby>面<rt>めん</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "18日、長期金利は一時、何パーセントまで上がりましたか。",
+      "ruby": "18<ruby>日<rt>にち</rt></ruby>、<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily; at one point\"><ruby>一時<rt>いちじ</rt></ruby></span>、<ruby>何<rt>なに</rt></ruby>パーセントまで<ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two point nine four five percent — the highest in about thirty years."
+    },
+    {
+      "speaker": "slow",
+      "text": "金利が上がった理由の一つは、何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The view that inflation will continue, partly because of rising crude oil prices."
+    },
+    {
+      "speaker": "slow",
+      "text": "長期金利は、何の金利の基準になりますか。",
+      "ruby": "<ruby>長期<rt>ちょうき</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>は、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"金利\" data-reading=\"きんり\" data-en=\"interest rate\"><ruby>金利<rt>きんり</rt></ruby></span>の<ruby>基準<rt>きじゅん</rt></ruby>になりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fixed-rate mortgages, and the rates companies pay to borrow money."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Interest rates touch everything from home loans to savings accounts, so this thirty-year milestone matters for everyday life in Japan. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "金利",
+      "reading": "きんり",
+      "en": "interest rate",
+      "zh": "利率"
+    },
+    {
+      "ja": "国債",
+      "reading": "こくさい",
+      "en": "government bond",
+      "zh": "国债"
+    },
+    {
+      "ja": "債券",
+      "reading": "さいけん",
+      "en": "bond",
+      "zh": "债券"
+    },
+    {
+      "ja": "上昇する",
+      "reading": "じょうしょうする",
+      "en": "to rise",
+      "zh": "上升"
+    },
+    {
+      "ja": "利回り",
+      "reading": "りまわり",
+      "en": "yield",
+      "zh": "收益率"
+    },
+    {
+      "ja": "一時",
+      "reading": "いちじ",
+      "en": "temporarily; at one point",
+      "zh": "一时；一度"
+    },
+    {
+      "ja": "水準",
+      "reading": "すいじゅん",
+      "en": "level",
+      "zh": "水平"
+    },
+    {
+      "ja": "原油",
+      "reading": "げんゆ",
+      "en": "crude oil",
+      "zh": "原油"
+    },
+    {
+      "ja": "財政",
+      "reading": "ざいせい",
+      "en": "public finances",
+      "zh": "财政"
+    },
+    {
+      "ja": "利上げ",
+      "reading": "りあげ",
+      "en": "interest rate hike",
+      "zh": "加息"
+    },
+    {
+      "ja": "住宅ローン",
+      "reading": "じゅうたくローン",
+      "en": "mortgage; home loan",
+      "zh": "住房贷款"
+    },
+    {
+      "ja": "負担",
+      "reading": "ふたん",
+      "en": "burden",
+      "zh": "负担"
+    },
+    {
+      "ja": "預ける",
+      "reading": "あずける",
+      "en": "to deposit; to entrust",
+      "zh": "存（钱）；寄存"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~",
+      "meaningZh": "自……以来",
+      "formation": "noun / verb て-form + 以来",
+      "example": "これは1996年9月以来、約30年ぶりの高い水準です。",
+      "translation": "This is the highest level in about thirty years, since September 1996.",
+      "note": "Marks the starting point of a period that continues to now. Common in news with dates and years.",
+      "noteZh": "表示一直持续到现在的时间起点。新闻中常与日期、年份连用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#以来"
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~",
+      "meaningZh": "时隔……",
+      "formation": "time span + ぶり",
+      "example": "アメリカでは、30年物の国債の利回りが約19年ぶりの高い水準になりました。",
+      "translation": "In the United States, the thirty-year bond yield reached its highest level in about nineteen years.",
+      "note": "Attaches to a length of time to say something is happening again after that long. Extremely common in news headlines.",
+      "noteZh": "接在时间长度后，表示时隔那么久再次发生。新闻标题中极为常见。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "つまり",
+      "meaning": "in other words; that is to say",
+      "meaningZh": "也就是说；换言之",
+      "formation": "sentence / noun + つまり + restatement",
+      "example": "金利が上がった理由の一つは、インフレ、つまり物価の上昇が続くという見方です。",
+      "translation": "One reason rates rose is the view that inflation — in other words, rising prices — will continue.",
+      "note": "Used to restate something in simpler or clearer words. Handy for explaining technical terms.",
+      "noteZh": "用于把前面的内容换成更简单、更清楚的说法。解释术语时很好用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#つまり"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "恐怕会……；有……的危险",
+      "formation": "plain form / noun + の + おそれがある",
+      "example": "金利の上昇が続くと、家を買う人や企業の負担が重くなるおそれがあります。",
+      "translation": "If rates keep rising, there is a risk that the burden on home buyers and companies will grow heavier.",
+      "note": "Formal expression for a possible bad outcome. Very common in news and weather warnings.",
+      "noteZh": "表示可能出现不好结果的正式说法。新闻和天气预警中非常常见。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜にとって",
+      "meaning": "for ~; from the standpoint of ~",
+      "meaningZh": "对……来说",
+      "formation": "noun + にとって",
+      "example": "銀行にお金を預ける人にとっては、預金の金利が上がるという良い面もあります。",
+      "translation": "For people who deposit money in the bank, there is also a positive side: deposit rates may rise.",
+      "note": "Shows from whose point of view a statement is true. Often followed by an evaluation like good, bad, or important.",
+      "noteZh": "表示从谁的立场来看。后面常接「好」「坏」「重要」等评价。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#にとって"
+    }
+  ],
+  "practiceZh": [
+    "18日の債券市場で、日本の国債を売る動きが強まり、長期金利が上昇しました。\n18日的债券市场上，抛售日本国债的动向增强，长期利率上升了。\n国債 = government bond；上昇する = to rise",
+    "「国債」は、国がお金を借りるために出す証券のことです。\n「国债」是国家为了借钱而发行的证券。\n借りる = to borrow；〜ために = in order to ~",
+    "「長期金利」の代表は、10年物の国債の利回りです。\n「长期利率」的代表是10年期国债的收益率。\n代表 = representative；利回り = yield",
+    "18日、この長期金利は一時、2.945%まで上がりました。\n18日，这一长期利率一度上升到2.945%。\n一時 = at one point；〜まで = up to ~",
+    "これは1996年9月以来、約30年ぶりの高い水準です。\n这是自1996年9月以来、约30年来的最高水平。\n〜以来 = since ~；水準 = level",
+    "金利が上がった理由の一つは、インフレ、つまり物価の上昇が続くという見方です。\n利率上升的原因之一，是认为通货膨胀、也就是物价上涨将会持续的看法。\nつまり = in other words；見方 = view",
+    "中東の情勢が収まらず、原油の価格が上がっているため、物価はさらに上がると考えられています。\n中东局势尚未平息，原油价格上涨，因此人们认为物价还会进一步上涨。\n収まる = to settle down；原油 = crude oil",
+    "また、日本の財政への心配や、日本銀行が利上げを続けるという見方も、金利を押し上げました。\n此外，对日本财政的担忧，以及日本银行将继续加息的看法，也推高了利率。\n財政 = public finances；利上げ = rate hike",
+    "国債の値段と金利は反対に動きます。国債が売られて値段が下がると、金利は上がります。\n国债价格与利率反向变动。国债被抛售、价格下跌时，利率就会上升。\n反対に = in the opposite direction；動く = to move",
+    "金利の上昇は、世界でも起きています。アメリカでは、30年物の国債の利回りが約19年ぶりの高い水準になりました。\n利率上升在世界范围内也在发生。在美国，30年期国债收益率达到约19年来的最高水平。\n〜ぶり = for the first time in ~；起きる = to happen",
+    "長期金利は、住宅ローンの固定金利や、企業がお金を借りるときの金利の基準になります。\n长期利率是住房贷款固定利率以及企业借款利率的基准。\n住宅ローン = mortgage；基準 = benchmark",
+    "このため、金利の上昇が続くと、家を買う人や企業の負担が重くなるおそれがあります。\n因此，如果利率持续上升，购房者和企业的负担恐怕会加重。\n負担 = burden；〜おそれがある = there is a risk that ~",
+    "一方で、銀行にお金を預ける人にとっては、預金の金利が上がるという良い面もあります。\n另一方面，对把钱存在银行的人来说，也有存款利率上升这样的好处。\n預ける = to deposit；〜にとって = for ~"
+  ]
+}
