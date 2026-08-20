@@ -1,0 +1,566 @@
+{
+  "episode": 130,
+  "title": "首都圏の新築マンション平均価格が過去最高に",
+  "date": "2026-08-20",
+  "source": "NHK / 不動産経済研究所",
+  "level": "N4-N3",
+  "contentVersion": "2026082001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twentieth. The average price of a new condominium in the greater Tokyo area has hit a record high. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年7月に首都圏で発売された新築マンションの平均価格が、1億6493万円になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>で<ruby>発売<rt>はつばい</rt></ruby>された<span class=\"vw\" data-ja=\"新築\" data-reading=\"しんちく\" data-en=\"newly built\"><ruby>新築<rt>しんちく</rt></ruby></span><span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が、1<ruby>億<rt>おく</rt></ruby>6493<ruby>万円<rt>まんえん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは調査が始まってから最も高い価格で、過去最高を更新しました。",
+      "ruby": "これは<ruby>調査<rt>ちょうさ</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>ってから<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>で、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>を<ruby>更新<rt>こうしん</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「首都圏」とは、東京都、神奈川県、埼玉県、千葉県の1都3県のことです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>」とは、<ruby>東京都<rt>とうきょうと</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby>、<ruby>埼玉県<rt>さいたまけん</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby>の1<ruby>都<rt>と</rt></ruby>3<ruby>県<rt>けん</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "この調査の結果は、不動産経済研究所が20日に発表しました。",
+      "ruby": "この<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>は、<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>経済研究所<rt>けいざいけんきゅうしょ</rt></ruby>が20<ruby>日<rt>にち</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "平均価格は、去年の同じ月と比べて63.7%上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て63.7%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "特に東京23区の平均価格は2億6520万円で、去年の同じ月のほぼ2倍になりました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>23<ruby>区<rt>く</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は2<ruby>億<rt>おく</rt></ruby>6520<ruby>万円<rt>まんえん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>のほぼ2<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心で、価格の高い大規模なマンションが売り出されたことが、平均価格を押し上げました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center\"><ruby>都心<rt>としん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"大規模\" data-reading=\"だいきぼ\" data-en=\"large-scale\"><ruby>大規模<rt>だいきぼ</rt></ruby></span>な<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>が<ruby>売り出さ<rt>うりださ</rt></ruby>れたことが、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "神奈川県の平均は7234万円、千葉県は7693万円でした。一方、埼玉県は5937万円で、去年より安くなりました。",
+      "ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は7234<ruby>万円<rt>まんえん</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby>は7693<ruby>万円<rt>まんえん</rt></ruby>でした。<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>埼玉県<rt>さいたまけん</rt></ruby>は5937<ruby>万円<rt>まんえん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "価格が上がっている背景には、建設費の高騰があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>っている<ruby>背景<rt>はいけい</rt></ruby>には、<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "資材の価格の値上がりや、人手不足の影響で、マンションを建てる費用が高くなっているのです。",
+      "ruby": "<span class=\"vw\" data-ja=\"資材\" data-reading=\"しざい\" data-en=\"(building) materials\"><ruby>資材<rt>しざい</rt></ruby></span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>値上がり<rt>ねあがり</rt></ruby>や、<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>を<ruby>建て<rt>たて</rt></ruby>る<ruby>費用<rt>ひよう</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっているのです。"
+    },
+    {
+      "speaker": "news",
+      "text": "首都圏のマンションの価格は、この数年、上がり続けています。",
+      "ruby": "<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、この<ruby>数年<rt>すうねん</rt></ruby>、<ruby>上が<rt>あが</rt></ruby>り<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、家を買いたい人にとっては、住宅の購入がますます難しくなっています。",
+      "ruby": "このため、<ruby>家<rt>いえ</rt></ruby>を<ruby>買い<rt>かい</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>住宅<rt>じゅうたく</rt></ruby>の<span class=\"vw\" data-ja=\"購入\" data-reading=\"こうにゅう\" data-en=\"purchase\"><ruby>購入<rt>こうにゅう</rt></ruby></span>がますます<ruby>難しく<rt>むずかしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設費の高騰が続いているため、価格の上昇は今後も続くと見られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>は<span class=\"vw\" data-ja=\"今後\" data-reading=\"こんご\" data-en=\"from now on\"><ruby>今後<rt>こんご</rt></ruby></span>も<ruby>続く<rt>つづく</rt></ruby>と<ruby>見ら<rt>みら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年7月に首都圏で発売された新築マンションの平均価格が、1億6493万円になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>で<ruby>発売<rt>はつばい</rt></ruby>された<span class=\"vw\" data-ja=\"新築\" data-reading=\"しんちく\" data-en=\"newly built\"><ruby>新築<rt>しんちく</rt></ruby></span><span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が、1<ruby>億<rt>おく</rt></ruby>6493<ruby>万円<rt>まんえん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The average price of new condominiums released in the greater Tokyo area in July was 164.93 million yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "新築",
+      "ruby": "<span class=\"vw\" data-ja=\"新築\" data-reading=\"しんちく\" data-en=\"newly built\"><ruby>新築<rt>しんちく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means newly built."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは調査が始まってから最も高い価格で、過去最高を更新しました。",
+      "ruby": "これは<ruby>調査<rt>ちょうさ</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>ってから<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>で、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>を<ruby>更新<rt>こうしん</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is the highest price since the survey began — a new record."
+    },
+    {
+      "speaker": "vocab",
+      "text": "更新する",
+      "ruby": "<span class=\"vw\" data-ja=\"更新する\" data-reading=\"こうしんする\" data-en=\"to break (a record); to renew\"><ruby>更新<rt>こうしん</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to break or renew a record."
+    },
+    {
+      "speaker": "slow",
+      "text": "「首都圏」とは、東京都、神奈川県、埼玉県、千葉県の1都3県のことです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>」とは、<ruby>東京都<rt>とうきょうと</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby>、<ruby>埼玉県<rt>さいたまけん</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby>の1<ruby>都<rt>と</rt></ruby>3<ruby>県<rt>けん</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The term refers to the greater Tokyo area: Tokyo plus Kanagawa, Saitama, and Chiba prefectures."
+    },
+    {
+      "speaker": "vocab",
+      "text": "首都圏",
+      "ruby": "<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the greater Tokyo metropolitan area."
+    },
+    {
+      "speaker": "slow",
+      "text": "平均価格は、去年の同じ月と比べて63.7%上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て63.7%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The average price rose sixty-three point seven percent from the same month last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means average."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心で、価格の高い大規模なマンションが売り出されたことが、平均価格を押し上げました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center\"><ruby>都心<rt>としん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"大規模\" data-reading=\"だいきぼ\" data-en=\"large-scale\"><ruby>大規模<rt>だいきぼ</rt></ruby></span>な<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>が<ruby>売り出さ<rt>うりださ</rt></ruby>れたことが、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Large, expensive developments going on sale in central Tokyo pushed the average up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "押し上げる",
+      "ruby": "<span class=\"vw\" data-ja=\"押し上げる\" data-reading=\"おしあげる\" data-en=\"to push up\"><ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to push something up."
+    },
+    {
+      "speaker": "slow",
+      "text": "価格が上がっている背景には、建設費の高騰があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>っている<ruby>背景<rt>はいけい</rt></ruby>には、<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Behind the rising prices is the soaring cost of construction."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高騰",
+      "ruby": "<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a sharp rise in prices."
+    },
+    {
+      "speaker": "slow",
+      "text": "資材の価格の値上がりや、人手不足の影響で、マンションを建てる費用が高くなっているのです。",
+      "ruby": "<span class=\"vw\" data-ja=\"資材\" data-reading=\"しざい\" data-en=\"(building) materials\"><ruby>資材<rt>しざい</rt></ruby></span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>値上がり<rt>ねあがり</rt></ruby>や、<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>を<ruby>建て<rt>たて</rt></ruby>る<ruby>費用<rt>ひよう</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっているのです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Higher material prices and labor shortages are making condominiums more expensive to build."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人手不足",
+      "ruby": "<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means labor shortage."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、家を買いたい人にとっては、住宅の購入がますます難しくなっています。",
+      "ruby": "このため、<ruby>家<rt>いえ</rt></ruby>を<ruby>買い<rt>かい</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>住宅<rt>じゅうたく</rt></ruby>の<span class=\"vw\" data-ja=\"購入\" data-reading=\"こうにゅう\" data-en=\"purchase\"><ruby>購入<rt>こうにゅう</rt></ruby></span>がますます<ruby>難しく<rt>むずかしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, buying a home is getting harder and harder for people who want one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "購入",
+      "ruby": "<span class=\"vw\" data-ja=\"購入\" data-reading=\"こうにゅう\" data-en=\"purchase\"><ruby>購入<rt>こうにゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means purchase."
+    },
+    {
+      "speaker": "slow",
+      "text": "建設費の高騰が続いているため、価格の上昇は今後も続くと見られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>は<span class=\"vw\" data-ja=\"今後\" data-reading=\"こんご\" data-en=\"from now on\"><ruby>今後<rt>こんご</rt></ruby></span>も<ruby>続く<rt>つづく</rt></ruby>と<ruby>見ら<rt>みら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since construction costs keep soaring, prices are expected to keep rising."
+    },
+    {
+      "speaker": "vocab",
+      "text": "今後",
+      "ruby": "<span class=\"vw\" data-ja=\"今後\" data-reading=\"こんご\" data-en=\"from now on\"><ruby>今後<rt>こんご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means from now on."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今年7月に首都圏で発売された新築マンションの平均価格が、1億6493万円になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>で<ruby>発売<rt>はつばい</rt></ruby>された<span class=\"vw\" data-ja=\"新築\" data-reading=\"しんちく\" data-en=\"newly built\"><ruby>新築<rt>しんちく</rt></ruby></span><span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が、1<ruby>億<rt>おく</rt></ruby>6493<ruby>万円<rt>まんえん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは調査が始まってから最も高い価格で、過去最高を更新しました。",
+      "ruby": "これは<ruby>調査<rt>ちょうさ</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>ってから<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>で、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>を<ruby>更新<rt>こうしん</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「首都圏」とは、東京都、神奈川県、埼玉県、千葉県の1都3県のことです。",
+      "ruby": "「<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>」とは、<ruby>東京都<rt>とうきょうと</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby>、<ruby>埼玉県<rt>さいたまけん</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby>の1<ruby>都<rt>と</rt></ruby>3<ruby>県<rt>けん</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "この調査の結果は、不動産経済研究所が20日に発表しました。",
+      "ruby": "この<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>は、<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>経済研究所<rt>けいざいけんきゅうしょ</rt></ruby>が20<ruby>日<rt>にち</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "平均価格は、去年の同じ月と比べて63.7%上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て63.7%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "特に東京23区の平均価格は2億6520万円で、去年の同じ月のほぼ2倍になりました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>23<ruby>区<rt>く</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は2<ruby>億<rt>おく</rt></ruby>6520<ruby>万円<rt>まんえん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>のほぼ2<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心で、価格の高い大規模なマンションが売り出されたことが、平均価格を押し上げました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center\"><ruby>都心<rt>としん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"大規模\" data-reading=\"だいきぼ\" data-en=\"large-scale\"><ruby>大規模<rt>だいきぼ</rt></ruby></span>な<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>が<ruby>売り出さ<rt>うりださ</rt></ruby>れたことが、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "神奈川県の平均は7234万円、千葉県は7693万円でした。一方、埼玉県は5937万円で、去年より安くなりました。",
+      "ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は7234<ruby>万円<rt>まんえん</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby>は7693<ruby>万円<rt>まんえん</rt></ruby>でした。<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>埼玉県<rt>さいたまけん</rt></ruby>は5937<ruby>万円<rt>まんえん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "価格が上がっている背景には、建設費の高騰があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>っている<ruby>背景<rt>はいけい</rt></ruby>には、<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "資材の価格の値上がりや、人手不足の影響で、マンションを建てる費用が高くなっているのです。",
+      "ruby": "<span class=\"vw\" data-ja=\"資材\" data-reading=\"しざい\" data-en=\"(building) materials\"><ruby>資材<rt>しざい</rt></ruby></span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>値上がり<rt>ねあがり</rt></ruby>や、<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>を<ruby>建て<rt>たて</rt></ruby>る<ruby>費用<rt>ひよう</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっているのです。"
+    },
+    {
+      "speaker": "news",
+      "text": "首都圏のマンションの価格は、この数年、上がり続けています。",
+      "ruby": "<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、この<ruby>数年<rt>すうねん</rt></ruby>、<ruby>上が<rt>あが</rt></ruby>り<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、家を買いたい人にとっては、住宅の購入がますます難しくなっています。",
+      "ruby": "このため、<ruby>家<rt>いえ</rt></ruby>を<ruby>買い<rt>かい</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>住宅<rt>じゅうたく</rt></ruby>の<span class=\"vw\" data-ja=\"購入\" data-reading=\"こうにゅう\" data-en=\"purchase\"><ruby>購入<rt>こうにゅう</rt></ruby></span>がますます<ruby>難しく<rt>むずかしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "建設費の高騰が続いているため、価格の上昇は今後も続くと見られています。",
+      "ruby": "<span class=\"vw\" data-ja=\"建設費\" data-reading=\"けんせつひ\" data-en=\"construction cost\"><ruby>建設費<rt>けんせつひ</rt></ruby></span>の<span class=\"vw\" data-ja=\"高騰\" data-reading=\"こうとう\" data-en=\"sharp rise; soaring\"><ruby>高騰<rt>こうとう</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>は<span class=\"vw\" data-ja=\"今後\" data-reading=\"こんご\" data-en=\"from now on\"><ruby>今後<rt>こんご</rt></ruby></span>も<ruby>続く<rt>つづく</rt></ruby>と<ruby>見ら<rt>みら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年7月の首都圏の新築マンションの平均価格は、いくらでしたか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"首都圏\" data-reading=\"しゅとけん\" data-en=\"greater Tokyo area\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"新築\" data-reading=\"しんちく\" data-en=\"newly built\"><ruby>新築<rt>しんちく</rt></ruby></span><span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、いくらでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was 164.93 million yen — the highest ever recorded."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京23区の平均価格は、去年の同じ月と比べてどうなりましたか。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>23<ruby>区<rt>く</rt></ruby>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span><span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>てどうなりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It nearly doubled, reaching 265.2 million yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "マンションの価格が上がっている背景には、何がありますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"マンション\" data-reading=\"マンション\" data-en=\"condominium\">マンション</span>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>っている<ruby>背景<rt>はいけい</rt></ruby>には、<ruby>何<rt>なに</rt></ruby>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Soaring construction costs, driven by higher material prices and labor shortages."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. A record price like this shows how quickly housing costs in the capital are climbing, and why home ownership feels out of reach for many families. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "新築",
+      "reading": "しんちく",
+      "en": "newly built",
+      "zh": "新建"
+    },
+    {
+      "ja": "マンション",
+      "reading": "マンション",
+      "en": "condominium",
+      "zh": "公寓（高层住宅）"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "価格",
+      "reading": "かかく",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "過去最高",
+      "reading": "かこさいこう",
+      "en": "record high",
+      "zh": "历史最高"
+    },
+    {
+      "ja": "更新する",
+      "reading": "こうしんする",
+      "en": "to break (a record); to renew",
+      "zh": "刷新（纪录）"
+    },
+    {
+      "ja": "首都圏",
+      "reading": "しゅとけん",
+      "en": "greater Tokyo area",
+      "zh": "首都圈"
+    },
+    {
+      "ja": "発売する",
+      "reading": "はつばいする",
+      "en": "to put on sale",
+      "zh": "发售"
+    },
+    {
+      "ja": "都心",
+      "reading": "としん",
+      "en": "city center",
+      "zh": "市中心"
+    },
+    {
+      "ja": "大規模",
+      "reading": "だいきぼ",
+      "en": "large-scale",
+      "zh": "大规模"
+    },
+    {
+      "ja": "押し上げる",
+      "reading": "おしあげる",
+      "en": "to push up",
+      "zh": "推高"
+    },
+    {
+      "ja": "建設費",
+      "reading": "けんせつひ",
+      "en": "construction cost",
+      "zh": "建设费用"
+    },
+    {
+      "ja": "高騰",
+      "reading": "こうとう",
+      "en": "sharp rise; soaring",
+      "zh": "高涨；飞涨"
+    },
+    {
+      "ja": "資材",
+      "reading": "しざい",
+      "en": "(building) materials",
+      "zh": "建筑材料"
+    },
+    {
+      "ja": "人手不足",
+      "reading": "ひとでぶそく",
+      "en": "labor shortage",
+      "zh": "人手不足"
+    },
+    {
+      "ja": "購入",
+      "reading": "こうにゅう",
+      "en": "purchase",
+      "zh": "购买"
+    },
+    {
+      "ja": "今後",
+      "reading": "こんご",
+      "en": "from now on",
+      "zh": "今后"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜とは",
+      "meaning": "speaking of ~; ~ means (definition)",
+      "meaningZh": "所谓……（用于定义）",
+      "formation": "noun + とは + explanation + のことです",
+      "example": "「首都圏」とは、東京都、神奈川県、埼玉県、千葉県の1都3県のことです。",
+      "translation": "The greater Tokyo area means Tokyo plus the three prefectures of Kanagawa, Saitama, and Chiba.",
+      "note": "Introduces a term and then defines it. News reports use it to explain technical words to a general audience.",
+      "noteZh": "先提出一个词，然后加以定义。新闻中常用来向大众解释专业词汇。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とは"
+    },
+    {
+      "pattern": "〜と比べて",
+      "meaning": "compared to ~",
+      "meaningZh": "与……相比",
+      "formation": "noun + と比べて",
+      "example": "平均価格は、去年の同じ月と比べて63.7%上がりました。",
+      "translation": "The average price rose 63.7 percent compared to the same month last year.",
+      "note": "Sets up a comparison baseline. Economic news almost always compares figures to the previous year or month.",
+      "noteZh": "用于设定比较的基准。经济新闻几乎总是与去年或上个月的数字作比较。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と比べて"
+    },
+    {
+      "pattern": "〜の影響で",
+      "meaning": "due to the influence of ~",
+      "meaningZh": "受……的影响",
+      "formation": "noun + の影響で",
+      "example": "資材の価格の値上がりや、人手不足の影響で、マンションを建てる費用が高くなっているのです。",
+      "translation": "Due to higher material prices and labor shortages, the cost of building condominiums is rising.",
+      "note": "States the cause of a result, often an external or indirect one. Very common in news about prices and weather.",
+      "noteZh": "说明造成某结果的原因，多为外部或间接原因。在物价、天气新闻中非常常见。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#の影響で"
+    },
+    {
+      "pattern": "〜てから",
+      "meaning": "after ~; since ~",
+      "meaningZh": "……之后；自从……",
+      "formation": "verb て-form + から",
+      "example": "これは調査が始まってから最も高い価格です。",
+      "translation": "This is the highest price since the survey began.",
+      "note": "Marks the starting point of a period or the order of actions. With 最も, it means the most extreme case since that point.",
+      "noteZh": "表示时间起点或动作先后。与「最も」连用时，表示自那时以来最……的情况。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#てから"
+    },
+    {
+      "pattern": "〜と見られている",
+      "meaning": "it is seen that ~; it is expected that ~",
+      "meaningZh": "被认为……；预计……",
+      "formation": "plain form + と見られている",
+      "example": "価格の上昇は今後も続くと見られています。",
+      "translation": "Prices are expected to keep rising in the future.",
+      "note": "Reports a general expectation or analysis without naming who thinks so. A staple of news Japanese.",
+      "noteZh": "在不指明是谁的看法的情况下，转述普遍的预测或分析。是新闻日语的常用表达。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と見られている"
+    }
+  ],
+  "practiceZh": [
+    "今年7月に首都圏で発売された新築マンションの平均価格が、1億6493万円になりました。\n今年7月在首都圈发售的新建公寓平均价格达到了1亿6493万日元。\n新築 = newly built；平均価格 = average price",
+    "これは調査が始まってから最も高い価格で、過去最高を更新しました。\n这是调查开始以来的最高价格，刷新了历史最高纪录。\n〜てから = since ~；更新する = to break (a record)",
+    "「首都圏」とは、東京都、神奈川県、埼玉県、千葉県の1都3県のことです。\n所谓「首都圈」，指的是东京都、神奈川县、埼玉县、千叶县这一都三县。\n〜とは = ~ means (definition)；首都圏 = greater Tokyo area",
+    "この調査の結果は、不動産経済研究所が20日に発表しました。\n这项调查结果由不动产经济研究所于20日发布。\n結果 = result；発表する = to announce",
+    "平均価格は、去年の同じ月と比べて63.7%上がりました。\n平均价格与去年同月相比上涨了63.7%。\n〜と比べて = compared to ~；上がる = to rise",
+    "特に東京23区の平均価格は2億6520万円で、去年の同じ月のほぼ2倍になりました。\n特别是东京23区的平均价格为2亿6520万日元，几乎是去年同月的2倍。\n特に = especially；ほぼ = almost",
+    "東京の都心で、価格の高い大規模なマンションが売り出されたことが、平均価格を押し上げました。\n在东京市中心，高价的大规模公寓开盘出售，推高了平均价格。\n都心 = city center；押し上げる = to push up",
+    "神奈川県の平均は7234万円、千葉県は7693万円でした。一方、埼玉県は5937万円で、去年より安くなりました。\n神奈川县的平均价格为7234万日元，千叶县为7693万日元。另一方面，埼玉县为5937万日元，比去年便宜了。\n一方 = on the other hand；〜より = than ~",
+    "価格が上がっている背景には、建設費の高騰があります。\n价格上涨的背景是建设费用的高涨。\n背景 = background；高騰 = sharp rise",
+    "資材の価格の値上がりや、人手不足の影響で、マンションを建てる費用が高くなっているのです。\n受建筑材料价格上涨和人手不足的影响，建造公寓的费用越来越高。\n〜の影響で = due to ~；人手不足 = labor shortage",
+    "首都圏のマンションの価格は、この数年、上がり続けています。\n首都圈的公寓价格这几年持续上涨。\n数年 = several years；〜続ける = to keep doing ~",
+    "このため、家を買いたい人にとっては、住宅の購入がますます難しくなっています。\n因此，对想买房的人来说，购买住宅变得越来越难。\n購入 = purchase；ますます = more and more",
+    "建設費の高騰が続いているため、価格の上昇は今後も続くと見られています。\n由于建设费用持续高涨，预计价格今后还会继续上升。\n今後 = from now on；〜と見られている = it is expected that ~"
+  ]
+}
