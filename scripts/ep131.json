@@ -1,0 +1,449 @@
+{
+  "episode": 131,
+  "title": "旭山動物園でアムールヒョウの赤ちゃんが誕生",
+  "date": "2026-08-21",
+  "source": "NHK / 日本経済新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026082101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twenty-first. From a famous zoo in Hokkaido, in northern Japan, comes some happy news about a very rare baby animal. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道の旭川市に、旭山動物園があります。日本でとても有名な動物園です。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>旭川市<rt>あさひかわし</rt></ruby>に、<ruby>旭山<rt>あさひやま</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。<ruby>日本<rt>にっぽん</rt></ruby>でとても<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園で、8月4日の夜、アムールヒョウの赤ちゃんが1頭、生まれました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、8<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>、アムールヒョウの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が1<ruby>頭<rt>とう</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、8月14日に、このうれしいニュースを発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>14日<rt>じゅうよっか</rt></ruby>に、このうれしいニュースを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんは、9歳の「みらい」です。お父さんは、3歳の「デン」で、デンマークから来ました。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は、9<ruby>歳<rt>さい</rt></ruby>の「みらい」です。お<ruby>父さん<rt>とうさん</rt></ruby>は、3<ruby>歳<rt>さい</rt></ruby>の「デン」で、デンマークから<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、元気です。男の子か、女の子かは、まだわかりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>です。<ruby>男の子<rt>おとこのこ</rt></ruby>か、<ruby>女の子<rt>おんなのこ</rt></ruby>かは、まだわかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "アムールヒョウは、ロシアなどの寒いところにすんでいる、大きいネコの仲間です。",
+      "ruby": "アムールヒョウは、ロシアなどの<span class=\"vw\" data-ja=\"寒い\" data-reading=\"さむい\" data-en=\"cold\"><ruby>寒い<rt>さむい</rt></ruby></span>ところにすんでいる、<ruby>大きい<rt>おおきい</rt></ruby>ネコの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"companion; member of a group\"><ruby>仲間<rt>なかま</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "野生のアムールヒョウは、世界に約100頭しかいません。とても珍しい動物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild; the wild\"><ruby>野生<rt>やせい</rt></ruby></span>のアムールヒョウは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>に<ruby>約<rt>やく</rt></ruby>100<ruby>頭<rt>とう</rt></ruby>しかいません。とても<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界の動物園には、約250頭います。ですから、この赤ちゃんは、とても大切です。",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>には、<ruby>約<rt>やく</rt></ruby>250<ruby>頭<rt>とう</rt></ruby>います。ですから、この<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、とても<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important; precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんを見ることができる日は、まだ決まっていません。名前は、これから決める予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>は、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、これから<ruby>決め<rt>きめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園のみんなが、赤ちゃんが大きくなるのを、楽しみにしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>のみんなが、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby>なるのを、<ruby>楽しみ<rt>たのしみ</rt></ruby>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "この動物園で、8月4日の夜、アムールヒョウの赤ちゃんが1頭、生まれました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、8<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>、アムールヒョウの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が1<ruby>頭<rt>とう</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At this zoo, on the night of August fourth, one Amur leopard baby was born."
+    },
+    {
+      "speaker": "vocab",
+      "text": "赤ちゃん",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means baby — used for human babies and animal babies alike."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物園は、8月14日に、このうれしいニュースを発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>14日<rt>じゅうよっか</rt></ruby>に、このうれしいニュースを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The zoo announced this happy news on August fourteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce — to tell news to everyone."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、元気です。男の子か、女の子かは、まだわかりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>です。<ruby>男の子<rt>おとこのこ</rt></ruby>か、<ruby>女の子<rt>おんなのこ</rt></ruby>かは、まだわかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The baby is doing well. Whether it is a boy or a girl, we don't know yet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "元気",
+      "ruby": "<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means healthy, or full of energy."
+    },
+    {
+      "speaker": "slow",
+      "text": "アムールヒョウは、ロシアなどの寒いところにすんでいる、大きいネコの仲間です。",
+      "ruby": "アムールヒョウは、ロシアなどの<span class=\"vw\" data-ja=\"寒い\" data-reading=\"さむい\" data-en=\"cold\"><ruby>寒い<rt>さむい</rt></ruby></span>ところにすんでいる、<ruby>大きい<rt>おおきい</rt></ruby>ネコの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"companion; member of a group\"><ruby>仲間<rt>なかま</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Amur leopard is a big member of the cat family that lives in cold places, such as Russia."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仲間",
+      "ruby": "<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"companion; member of a group\"><ruby>仲間<rt>なかま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means companion, or a member of the same group or family."
+    },
+    {
+      "speaker": "slow",
+      "text": "野生のアムールヒョウは、世界に約100頭しかいません。とても珍しい動物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild; the wild\"><ruby>野生<rt>やせい</rt></ruby></span>のアムールヒョウは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>に<ruby>約<rt>やく</rt></ruby>100<ruby>頭<rt>とう</rt></ruby>しかいません。とても<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are only about one hundred wild Amur leopards in the world. They are very rare animals."
+    },
+    {
+      "speaker": "vocab",
+      "text": "野生",
+      "ruby": "<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild; the wild\"><ruby>野生<rt>やせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means wild — animals living in nature, not in a zoo."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんを見ることができる日は、まだ決まっていません。名前は、これから決める予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>は、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、これから<ruby>決め<rt>きめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The day when visitors can see the baby has not been decided yet. The zoo plans to choose a name later."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決まる",
+      "ruby": "<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided\"><ruby>決ま<rt>きま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be decided."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "北海道の旭川市に、旭山動物園があります。日本でとても有名な動物園です。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>旭川市<rt>あさひかわし</rt></ruby>に、<ruby>旭山<rt>あさひやま</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。<ruby>日本<rt>にっぽん</rt></ruby>でとても<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園で、8月4日の夜、アムールヒョウの赤ちゃんが1頭、生まれました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、8<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>、アムールヒョウの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が1<ruby>頭<rt>とう</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、8月14日に、このうれしいニュースを発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、8<ruby>月<rt>がつ</rt></ruby><ruby>14日<rt>じゅうよっか</rt></ruby>に、このうれしいニュースを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんは、9歳の「みらい」です。お父さんは、3歳の「デン」で、デンマークから来ました。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は、9<ruby>歳<rt>さい</rt></ruby>の「みらい」です。お<ruby>父さん<rt>とうさん</rt></ruby>は、3<ruby>歳<rt>さい</rt></ruby>の「デン」で、デンマークから<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、元気です。男の子か、女の子かは、まだわかりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; full of energy\"><ruby>元気<rt>げんき</rt></ruby></span>です。<ruby>男の子<rt>おとこのこ</rt></ruby>か、<ruby>女の子<rt>おんなのこ</rt></ruby>かは、まだわかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "アムールヒョウは、ロシアなどの寒いところにすんでいる、大きいネコの仲間です。",
+      "ruby": "アムールヒョウは、ロシアなどの<span class=\"vw\" data-ja=\"寒い\" data-reading=\"さむい\" data-en=\"cold\"><ruby>寒い<rt>さむい</rt></ruby></span>ところにすんでいる、<ruby>大きい<rt>おおきい</rt></ruby>ネコの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"companion; member of a group\"><ruby>仲間<rt>なかま</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "野生のアムールヒョウは、世界に約100頭しかいません。とても珍しい動物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild; the wild\"><ruby>野生<rt>やせい</rt></ruby></span>のアムールヒョウは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>に<ruby>約<rt>やく</rt></ruby>100<ruby>頭<rt>とう</rt></ruby>しかいません。とても<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare; unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界の動物園には、約250頭います。ですから、この赤ちゃんは、とても大切です。",
+      "ruby": "<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>には、<ruby>約<rt>やく</rt></ruby>250<ruby>頭<rt>とう</rt></ruby>います。ですから、この<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、とても<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important; precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんを見ることができる日は、まだ決まっていません。名前は、これから決める予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>は、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、これから<ruby>決め<rt>きめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園のみんなが、赤ちゃんが大きくなるのを、楽しみにしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>のみんなが、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby>なるのを、<ruby>楽しみ<rt>たのしみ</rt></ruby>にしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "アムールヒョウの赤ちゃんは、どこで生まれましたか。",
+      "ruby": "アムールヒョウの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、どこで<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Asahiyama Zoo, in the city of Asahikawa in Hokkaido."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんのお父さんは、どこから来ましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>のお<ruby>父さん<rt>とうさん</rt></ruby>は、どこから<ruby>来ま<rt>きま</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "He came from Denmark. He is a three-year-old male leopard."
+    },
+    {
+      "speaker": "slow",
+      "text": "野生のアムールヒョウは、世界に何頭ぐらいいますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild; the wild\"><ruby>野生<rt>やせい</rt></ruby></span>のアムールヒョウは、<span class=\"vw\" data-ja=\"世界\" data-reading=\"せかい\" data-en=\"world\"><ruby>世界<rt>せかい</rt></ruby></span>に<ruby>何頭<rt>なんとう</rt></ruby>ぐらいいますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Only about one hundred. That is why this baby is so precious."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. With only about one hundred left in the wild, every new baby brings hope for this beautiful leopard. I hope we can all meet the little one at the zoo soon. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "有名",
+      "reading": "ゆうめい",
+      "en": "famous",
+      "zh": "有名"
+    },
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "婴儿；幼崽"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "宣布；公布"
+    },
+    {
+      "ja": "元気",
+      "reading": "げんき",
+      "en": "healthy; full of energy",
+      "zh": "健康；有精神"
+    },
+    {
+      "ja": "寒い",
+      "reading": "さむい",
+      "en": "cold",
+      "zh": "寒冷"
+    },
+    {
+      "ja": "仲間",
+      "reading": "なかま",
+      "en": "companion; member of a group",
+      "zh": "伙伴；同类"
+    },
+    {
+      "ja": "野生",
+      "reading": "やせい",
+      "en": "wild; the wild",
+      "zh": "野生"
+    },
+    {
+      "ja": "珍しい",
+      "reading": "めずらしい",
+      "en": "rare; unusual",
+      "zh": "珍稀；罕见"
+    },
+    {
+      "ja": "世界",
+      "reading": "せかい",
+      "en": "world",
+      "zh": "世界"
+    },
+    {
+      "ja": "大切",
+      "reading": "たいせつ",
+      "en": "important; precious",
+      "zh": "重要；珍贵"
+    },
+    {
+      "ja": "決まる",
+      "reading": "きまる",
+      "en": "to be decided",
+      "zh": "定下来；被决定"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "楽しみにする",
+      "reading": "たのしみにする",
+      "en": "to look forward to",
+      "zh": "期待"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜しか〜ません",
+      "meaning": "only ~; nothing/no one but ~",
+      "meaningZh": "只有…；除了…之外没有",
+      "formation": "noun (+ particle) + しか + verb (negative)",
+      "example": "野生のアムールヒョウは、世界に約100頭しかいません。",
+      "translation": "There are only about one hundred wild Amur leopards in the world.",
+      "note": "しか is always paired with a negative verb to mean 'only', with a feeling that the amount is small.",
+      "noteZh": "「しか」必须与否定动词搭配，表示「只有」，带有数量很少的语感。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#しか"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~; be able to ~",
+      "meaningZh": "能……；可以……",
+      "formation": "verb (dictionary form) + ことができる",
+      "example": "赤ちゃんを見ることができる日は、まだ決まっていません。",
+      "translation": "The day when people can see the baby has not been decided yet.",
+      "note": "A polite, slightly formal way to say 'can do'. Here it describes the day visitors will be able to see the cub.",
+      "noteZh": "表示「能够做某事」的礼貌、稍正式的说法。这里描述游客能看到幼崽的日子。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "plan to ~; be scheduled to ~",
+      "meaningZh": "预定……；打算……",
+      "formation": "verb (dictionary form) + 予定です",
+      "example": "名前は、これから決める予定です。",
+      "translation": "The name is planned to be decided from now on.",
+      "note": "予定 means 'plan' or 'schedule'. This pattern states something that is officially planned to happen.",
+      "noteZh": "「予定」是「计划、安排」的意思。这个句型表示正式计划要做的事情。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定"
+    }
+  ],
+  "practiceZh": [
+    "北海道の旭川市に、旭山動物園があります。日本でとても有名な動物園です。\n北海道的旭川市有旭山动物园。这是在日本非常有名的动物园。\n有名 = famous；動物園 = zoo",
+    "この動物園で、8月4日の夜、アムールヒョウの赤ちゃんが1頭、生まれました。\n8月4日晚上，在这家动物园，一只远东豹幼崽出生了。\n赤ちゃん = baby；生まれる = to be born",
+    "動物園は、8月14日に、このうれしいニュースを発表しました。\n动物园在8月14日公布了这个好消息。\nうれしい = happy；発表する = to announce",
+    "お母さんは、9歳の「みらい」です。お父さんは、3歳の「デン」で、デンマークから来ました。\n妈妈是9岁的「Mirai」。爸爸是3岁的「Den」，来自丹麦。\nお母さん = mother；お父さん = father",
+    "赤ちゃんは、元気です。男の子か、女の子かは、まだわかりません。\n幼崽很健康。是男孩还是女孩，还不知道。\n元気 = healthy；まだ = not yet",
+    "アムールヒョウは、ロシアなどの寒いところにすんでいる、大きいネコの仲間です。\n远东豹是生活在俄罗斯等寒冷地区的大型猫科动物。\n寒い = cold；仲間 = member of a group",
+    "野生のアムールヒョウは、世界に約100頭しかいません。とても珍しい動物です。\n野生的远东豹全世界只有约100只。是非常珍稀的动物。\n野生 = wild；珍しい = rare",
+    "世界の動物園には、約250頭います。ですから、この赤ちゃんは、とても大切です。\n世界各地的动物园里约有250只。所以，这只幼崽非常珍贵。\n世界 = world；大切 = precious",
+    "赤ちゃんを見ることができる日は、まだ決まっていません。名前は、これから決める予定です。\n能看到幼崽的日子还没有定下来。名字打算今后再决定。\n決まる = to be decided；予定 = plan",
+    "動物園のみんなが、赤ちゃんが大きくなるのを、楽しみにしています。\n动物园的大家都很期待幼崽长大。\n大きくなる = to grow up；楽しみにする = to look forward to"
+  ]
+}
