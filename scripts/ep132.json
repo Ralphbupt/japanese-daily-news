@@ -1,0 +1,576 @@
+{
+  "episode": 132,
+  "title": "7月の消費者物価指数、上昇率が1.8%に拡大",
+  "date": "2026-08-21",
+  "source": "NHK / 時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026082101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twenty-first. Japan's consumer prices rose one point eight percent in July, and inflation is picking up speed again. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は21日、7月の全国の消費者物価指数を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は21<ruby>日<rt>にち</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>の<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"消費者物価指数\" data-reading=\"しょうひしゃぶっかしすう\" data-en=\"consumer price index\"><ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「消費者物価指数」は、モノやサービスの値段の動きを表す統計です。",
+      "ruby": "「<span class=\"vw\" data-ja=\"消費者物価指数\" data-reading=\"しょうひしゃぶっかしすう\" data-en=\"consumer price index\"><ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby></span>」は、モノやサービスの<ruby>値段<rt>ねだん</rt></ruby>の<ruby>動き<rt>うごき</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "天候による値動きが大きい生鮮食品を除いた指数は、去年の同じ月より1.8%上昇しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"天候\" data-reading=\"てんこう\" data-en=\"weather\"><ruby>天候<rt>てんこう</rt></ruby></span>による<ruby>値動き<rt>ねうごき</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>指数<rt>しすう</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>つき</rt></ruby>より1.8%<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "上昇率は6月の1.6%から拡大し、伸びは2か月連続で大きくなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上昇率\" data-reading=\"じょうしょうりつ\" data-en=\"rate of increase\"><ruby>上昇<rt>じょうしょう</rt></ruby><ruby>率<rt>りつ</rt></ruby></span>は6<ruby>月<rt>がつ</rt></ruby>の1.6%から<ruby>拡大<rt>かくだい</rt></ruby>し、<ruby>伸び<rt>のび</rt></ruby>は2か<ruby>月<rt>げつ</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>大きく<rt>おおきく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "エネルギーの価格は0.6%上がり、8か月ぶりのプラスになりました。",
+      "ruby": "エネルギーの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は0.6%<ruby>上が<rt>あが</rt></ruby>り、8か<ruby>月<rt>げつ</rt></ruby>ぶりのプラスになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "原油の価格が上がった影響で、電気代やガス代の値下がりが小さくなったためです。",
+      "ruby": "<ruby>原油<rt>げんゆ</rt></ruby>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>で、<ruby>電気代<rt>でんきだい</rt></ruby>やガス<ruby>代<rt>だい</rt></ruby>の<ruby>値下がり<rt>ねさがり</rt></ruby>が<ruby>小さく<rt>ちいさく</rt></ruby>なったためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、ガソリンの価格は、政府の補助金の効果で1.8%下がりました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、ガソリンの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>政府<rt>せいふ</rt></ruby>の<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>の<ruby>効果<rt>こうか</rt></ruby>で1.8%<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生鮮食品を除く食料の価格は、3.0%上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<span class=\"vw\" data-ja=\"除く\" data-reading=\"のぞく\" data-en=\"to exclude\"><ruby>除く<rt>のぞく</rt></ruby></span><ruby>食料<rt>しょくりょう</rt></ruby>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、3.0%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ポテトチップスなどのお菓子や、弁当などの調理食品が値上がりしました。",
+      "ruby": "ポテトチップスなどのお<ruby>菓子<rt>かし</rt></ruby>や、<ruby>弁当<rt>べんとう</rt></ruby>などの<ruby>調理<rt>ちょうり</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>が<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price increase\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、自動車の保険料が上がったことなどで、交通・通信の分野も2.6%上昇しました。",
+      "ruby": "また、<ruby>自動車<rt>じどうしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"保険料\" data-reading=\"ほけんりょう\" data-en=\"insurance premium\"><ruby>保険料<rt>ほけんりょう</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったことなどで、<ruby>交通<rt>こうつう</rt></ruby>・<ruby>通信<rt>つうしん</rt></ruby>の<ruby>分野<rt>ぶんや</rt></ruby>も2.6%<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価の上昇が続くと、家計の負担がさらに重くなるおそれがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household budget\"><ruby>家計<rt>かけい</rt></ruby></span>の<ruby>負担<rt>ふたん</rt></ruby>がさらに<ruby>重く<rt>おもく</rt></ruby>なるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "市場では、日本銀行が9月に利上げをするかどうかに、注目が集まっています。",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>では、<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が9<ruby>月<rt>がつ</rt></ruby>に<ruby>利上げ<rt>りあげ</rt></ruby>をするかどうかに、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; focus\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "総務省は21日、7月の全国の消費者物価指数を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は21<ruby>日<rt>にち</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>の<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"消費者物価指数\" data-reading=\"しょうひしゃぶっかしすう\" data-en=\"consumer price index\"><ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-first, the Ministry of Internal Affairs announced Japan's consumer price index for July."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物価",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prices — the general cost of goods."
+    },
+    {
+      "speaker": "slow",
+      "text": "天候による値動きが大きい生鮮食品を除いた指数は、去年の同じ月より1.8%上昇しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"天候\" data-reading=\"てんこう\" data-en=\"weather\"><ruby>天候<rt>てんこう</rt></ruby></span>による<ruby>値動き<rt>ねうごき</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>指数<rt>しすう</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>つき</rt></ruby>より1.8%<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Excluding fresh food, whose prices swing with the weather, the index rose one point eight percent from the same month last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生鮮食品",
+      "ruby": "<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fresh food, like vegetables and fish."
+    },
+    {
+      "speaker": "slow",
+      "text": "上昇率は6月の1.6%から拡大し、伸びは2か月連続で大きくなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上昇率\" data-reading=\"じょうしょうりつ\" data-en=\"rate of increase\"><ruby>上昇<rt>じょうしょう</rt></ruby><ruby>率<rt>りつ</rt></ruby></span>は6<ruby>月<rt>がつ</rt></ruby>の1.6%から<ruby>拡大<rt>かくだい</rt></ruby>し、<ruby>伸び<rt>のび</rt></ruby>は2か<ruby>月<rt>げつ</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>大きく<rt>おおきく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rate of increase widened from one point six percent in June — the second straight month it has grown."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連続",
+      "ruby": "<span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consecutive, or in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "エネルギーの価格は0.6%上がり、8か月ぶりのプラスになりました。",
+      "ruby": "エネルギーの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は0.6%<ruby>上が<rt>あが</rt></ruby>り、8か<ruby>月<rt>げつ</rt></ruby>ぶりのプラスになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Energy prices rose zero point six percent, turning positive for the first time in eight months."
+    },
+    {
+      "speaker": "vocab",
+      "text": "価格",
+      "ruby": "<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "原油の価格が上がった影響で、電気代やガス代の値下がりが小さくなったためです。",
+      "ruby": "<ruby>原油<rt>げんゆ</rt></ruby>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>で、<ruby>電気代<rt>でんきだい</rt></ruby>やガス<ruby>代<rt>だい</rt></ruby>の<ruby>値下がり<rt>ねさがり</rt></ruby>が<ruby>小さく<rt>ちいさく</rt></ruby>なったためです。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is because rising crude oil prices made the drops in electricity and gas bills smaller."
+    },
+    {
+      "speaker": "vocab",
+      "text": "影響",
+      "ruby": "<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means influence, or effect."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、ガソリンの価格は、政府の補助金の効果で1.8%下がりました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、ガソリンの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>政府<rt>せいふ</rt></ruby>の<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>の<ruby>効果<rt>こうか</rt></ruby>で1.8%<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, gasoline prices fell one point eight percent thanks to government subsidies."
+    },
+    {
+      "speaker": "vocab",
+      "text": "補助金",
+      "ruby": "<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means subsidy — money the government pays as support."
+    },
+    {
+      "speaker": "slow",
+      "text": "ポテトチップスなどのお菓子や、弁当などの調理食品が値上がりしました。",
+      "ruby": "ポテトチップスなどのお<ruby>菓子<rt>かし</rt></ruby>や、<ruby>弁当<rt>べんとう</rt></ruby>などの<ruby>調理<rt>ちょうり</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>が<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price increase\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Snacks like potato chips, and prepared foods like boxed lunches, went up in price."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値上がり",
+      "ruby": "<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price increase\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a price increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、自動車の保険料が上がったことなどで、交通・通信の分野も2.6%上昇しました。",
+      "ruby": "また、<ruby>自動車<rt>じどうしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"保険料\" data-reading=\"ほけんりょう\" data-en=\"insurance premium\"><ruby>保険料<rt>ほけんりょう</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったことなどで、<ruby>交通<rt>こうつう</rt></ruby>・<ruby>通信<rt>つうしん</rt></ruby>の<ruby>分野<rt>ぶんや</rt></ruby>も2.6%<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, with car insurance premiums going up, the transport and communications category rose two point six percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "保険料",
+      "ruby": "<span class=\"vw\" data-ja=\"保険料\" data-reading=\"ほけんりょう\" data-en=\"insurance premium\"><ruby>保険料<rt>ほけんりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means insurance premium."
+    },
+    {
+      "speaker": "slow",
+      "text": "物価の上昇が続くと、家計の負担がさらに重くなるおそれがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household budget\"><ruby>家計<rt>かけい</rt></ruby></span>の<ruby>負担<rt>ふたん</rt></ruby>がさらに<ruby>重く<rt>おもく</rt></ruby>なるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "If prices keep rising, the burden on household budgets could grow even heavier."
+    },
+    {
+      "speaker": "vocab",
+      "text": "家計",
+      "ruby": "<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household budget\"><ruby>家計<rt>かけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means household budget."
+    },
+    {
+      "speaker": "slow",
+      "text": "市場では、日本銀行が9月に利上げをするかどうかに、注目が集まっています。",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>では、<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が9<ruby>月<rt>がつ</rt></ruby>に<ruby>利上げ<rt>りあげ</rt></ruby>をするかどうかに、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; focus\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Markets are now focused on whether the Bank of Japan will raise interest rates in September."
+    },
+    {
+      "speaker": "vocab",
+      "text": "注目",
+      "ruby": "<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; focus\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attention, or focus."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は21日、7月の全国の消費者物価指数を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は21<ruby>日<rt>にち</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>の<ruby>全国<rt>ぜんこく</rt></ruby>の<span class=\"vw\" data-ja=\"消費者物価指数\" data-reading=\"しょうひしゃぶっかしすう\" data-en=\"consumer price index\"><ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「消費者物価指数」は、モノやサービスの値段の動きを表す統計です。",
+      "ruby": "「<span class=\"vw\" data-ja=\"消費者物価指数\" data-reading=\"しょうひしゃぶっかしすう\" data-en=\"consumer price index\"><ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby></span>」は、モノやサービスの<ruby>値段<rt>ねだん</rt></ruby>の<ruby>動き<rt>うごき</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "天候による値動きが大きい生鮮食品を除いた指数は、去年の同じ月より1.8%上昇しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"天候\" data-reading=\"てんこう\" data-en=\"weather\"><ruby>天候<rt>てんこう</rt></ruby></span>による<ruby>値動き<rt>ねうごき</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>指数<rt>しすう</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>つき</rt></ruby>より1.8%<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "上昇率は6月の1.6%から拡大し、伸びは2か月連続で大きくなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上昇率\" data-reading=\"じょうしょうりつ\" data-en=\"rate of increase\"><ruby>上昇<rt>じょうしょう</rt></ruby><ruby>率<rt>りつ</rt></ruby></span>は6<ruby>月<rt>がつ</rt></ruby>の1.6%から<ruby>拡大<rt>かくだい</rt></ruby>し、<ruby>伸び<rt>のび</rt></ruby>は2か<ruby>月<rt>げつ</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>大きく<rt>おおきく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "エネルギーの価格は0.6%上がり、8か月ぶりのプラスになりました。",
+      "ruby": "エネルギーの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は0.6%<ruby>上が<rt>あが</rt></ruby>り、8か<ruby>月<rt>げつ</rt></ruby>ぶりのプラスになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "原油の価格が上がった影響で、電気代やガス代の値下がりが小さくなったためです。",
+      "ruby": "<ruby>原油<rt>げんゆ</rt></ruby>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>った<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence; effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>で、<ruby>電気代<rt>でんきだい</rt></ruby>やガス<ruby>代<rt>だい</rt></ruby>の<ruby>値下がり<rt>ねさがり</rt></ruby>が<ruby>小さく<rt>ちいさく</rt></ruby>なったためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、ガソリンの価格は、政府の補助金の効果で1.8%下がりました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、ガソリンの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、<ruby>政府<rt>せいふ</rt></ruby>の<span class=\"vw\" data-ja=\"補助金\" data-reading=\"ほじょきん\" data-en=\"subsidy\"><ruby>補助金<rt>ほじょきん</rt></ruby></span>の<ruby>効果<rt>こうか</rt></ruby>で1.8%<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生鮮食品を除く食料の価格は、3.0%上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<span class=\"vw\" data-ja=\"除く\" data-reading=\"のぞく\" data-en=\"to exclude\"><ruby>除く<rt>のぞく</rt></ruby></span><ruby>食料<rt>しょくりょう</rt></ruby>の<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、3.0%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ポテトチップスなどのお菓子や、弁当などの調理食品が値上がりしました。",
+      "ruby": "ポテトチップスなどのお<ruby>菓子<rt>かし</rt></ruby>や、<ruby>弁当<rt>べんとう</rt></ruby>などの<ruby>調理<rt>ちょうり</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>が<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price increase\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、自動車の保険料が上がったことなどで、交通・通信の分野も2.6%上昇しました。",
+      "ruby": "また、<ruby>自動車<rt>じどうしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"保険料\" data-reading=\"ほけんりょう\" data-en=\"insurance premium\"><ruby>保険料<rt>ほけんりょう</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ったことなどで、<ruby>交通<rt>こうつう</rt></ruby>・<ruby>通信<rt>つうしん</rt></ruby>の<ruby>分野<rt>ぶんや</rt></ruby>も2.6%<ruby>上昇<rt>じょうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価の上昇が続くと、家計の負担がさらに重くなるおそれがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household budget\"><ruby>家計<rt>かけい</rt></ruby></span>の<ruby>負担<rt>ふたん</rt></ruby>がさらに<ruby>重く<rt>おもく</rt></ruby>なるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "市場では、日本銀行が9月に利上げをするかどうかに、注目が集まっています。",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>では、<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が9<ruby>月<rt>がつ</rt></ruby>に<ruby>利上げ<rt>りあげ</rt></ruby>をするかどうかに、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; focus\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月の消費者物価指数は、生鮮食品を除いて、去年の同じ月より何パーセント上がりましたか。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"消費者物価指数\" data-reading=\"しょうひしゃぶっかしすう\" data-en=\"consumer price index\"><ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>除い<rt>のぞい</rt></ruby>て、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>つき</rt></ruby>より<ruby>何<rt>なん</rt></ruby>パーセント<ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One point eight percent — up from one point six percent in June."
+    },
+    {
+      "speaker": "slow",
+      "text": "エネルギーの価格がプラスになったのは、何か月ぶりですか。",
+      "ruby": "エネルギーの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>がプラスになったのは、<ruby>何か月<rt>なんかげつ</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first time in eight months."
+    },
+    {
+      "speaker": "slow",
+      "text": "ガソリンの価格は、どうして下がりましたか。",
+      "ruby": "ガソリンの<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>は、どうして<ruby>下が<rt>さが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of government subsidies."
+    },
+    {
+      "speaker": "slow",
+      "text": "市場では、何に注目が集まっていますか。",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>では、<ruby>何<rt>なに</rt></ruby>に<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention; focus\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Whether the Bank of Japan will raise interest rates in September."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Inflation numbers like this one shape everything from grocery bills to the central bank's next move. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "消費者物価指数",
+      "reading": "しょうひしゃぶっかしすう",
+      "en": "consumer price index",
+      "zh": "消费者物价指数"
+    },
+    {
+      "ja": "物価",
+      "reading": "ぶっか",
+      "en": "prices",
+      "zh": "物价"
+    },
+    {
+      "ja": "統計",
+      "reading": "とうけい",
+      "en": "statistics",
+      "zh": "统计"
+    },
+    {
+      "ja": "天候",
+      "reading": "てんこう",
+      "en": "weather",
+      "zh": "天气"
+    },
+    {
+      "ja": "生鮮食品",
+      "reading": "せいせんしょくひん",
+      "en": "fresh food",
+      "zh": "生鲜食品"
+    },
+    {
+      "ja": "除く",
+      "reading": "のぞく",
+      "en": "to exclude",
+      "zh": "除去；不包括"
+    },
+    {
+      "ja": "上昇率",
+      "reading": "じょうしょうりつ",
+      "en": "rate of increase",
+      "zh": "上升率"
+    },
+    {
+      "ja": "拡大する",
+      "reading": "かくだいする",
+      "en": "to expand; to widen",
+      "zh": "扩大"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "consecutive; in a row",
+      "zh": "连续"
+    },
+    {
+      "ja": "価格",
+      "reading": "かかく",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "influence; effect",
+      "zh": "影响"
+    },
+    {
+      "ja": "補助金",
+      "reading": "ほじょきん",
+      "en": "subsidy",
+      "zh": "补贴"
+    },
+    {
+      "ja": "値上がり",
+      "reading": "ねあがり",
+      "en": "price increase",
+      "zh": "涨价"
+    },
+    {
+      "ja": "保険料",
+      "reading": "ほけんりょう",
+      "en": "insurance premium",
+      "zh": "保险费"
+    },
+    {
+      "ja": "家計",
+      "reading": "かけい",
+      "en": "household budget",
+      "zh": "家庭开支"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention; focus",
+      "zh": "关注"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜による",
+      "meaning": "caused by ~; due to ~",
+      "meaningZh": "由……引起的；因……",
+      "formation": "noun + による + noun",
+      "example": "天候による値動きが大きい生鮮食品を除いた指数は、去年の同じ月より1.8%上昇しました。",
+      "translation": "Excluding fresh food, whose price swings caused by the weather are large, the index rose 1.8 percent from the same month last year.",
+      "note": "Links a cause directly to a noun. Very common in news for causes of accidents, damage, and price moves.",
+      "noteZh": "把原因直接连接到名词上。新闻中常用于事故、灾害、价格变动的原因。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#による"
+    },
+    {
+      "pattern": "〜を除いて／除く",
+      "meaning": "excluding ~; except for ~",
+      "meaningZh": "除……之外；不包括……",
+      "formation": "noun + を除いて / を除く + noun",
+      "example": "生鮮食品を除く食料の価格は、3.0%上がりました。",
+      "translation": "Food prices excluding fresh food rose three percent.",
+      "note": "Removes something from the scope of a statement. Statistics news uses it constantly, as in the CPI excluding fresh food.",
+      "noteZh": "把某项内容从叙述范围中去掉。统计类新闻中极为常见，比如「除生鲜食品外的物价指数」。",
+      "level": "N2",
+      "jpnotesLink": "https://jpnotes.dev/N2/grammar-list/#を除いて"
+    },
+    {
+      "pattern": "〜ためです",
+      "meaning": "it is because ~",
+      "meaningZh": "是因为……",
+      "formation": "plain form + ためです",
+      "example": "原油の価格が上がった影響で、電気代やガス代の値下がりが小さくなったためです。",
+      "translation": "It is because rising crude oil prices made the declines in electricity and gas bills smaller.",
+      "note": "Ends a sentence that explains the reason for the previous sentence. A formal, written style typical of news.",
+      "noteZh": "用于句尾，说明前一句话的原因。是新闻中典型的书面语表达。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "一方（で）",
+      "meaning": "on the other hand",
+      "meaningZh": "另一方面",
+      "formation": "sentence + 一方（で）+ contrasting sentence",
+      "example": "一方、ガソリンの価格は、政府の補助金の効果で1.8%下がりました。",
+      "translation": "On the other hand, gasoline prices fell 1.8 percent thanks to government subsidies.",
+      "note": "Introduces a contrasting fact or the other side of a situation. News articles use it to switch viewpoints.",
+      "noteZh": "用于引出相反的事实或事情的另一面。新闻中常用来转换视角。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一方で"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否……",
+      "formation": "plain form + かどうか",
+      "example": "市場では、日本銀行が9月に利上げをするかどうかに、注目が集まっています。",
+      "translation": "Markets are focused on whether the Bank of Japan will raise rates in September.",
+      "note": "Embeds a yes-or-no question inside a sentence. Follow it with particles like に or を to connect to the main verb.",
+      "noteZh": "把一个是非疑问句嵌入句子中。后面可接「に」「を」等助词连接主句动词。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#かどうか"
+    }
+  ],
+  "practiceZh": [
+    "総務省は21日、7月の全国の消費者物価指数を発表しました。\n总务省21日公布了7月份全国消费者物价指数。\n発表する = to announce；消費者物価指数 = consumer price index",
+    "「消費者物価指数」は、モノやサービスの値段の動きを表す統計です。\n「消费者物价指数」是反映商品和服务价格变动的统计数据。\n統計 = statistics；表す = to show",
+    "天候による値動きが大きい生鮮食品を除いた指数は、去年の同じ月より1.8%上昇しました。\n除去因天气而价格波动较大的生鲜食品后，该指数比去年同月上升了1.8%。\n生鮮食品 = fresh food；除く = to exclude",
+    "上昇率は6月の1.6%から拡大し、伸びは2か月連続で大きくなりました。\n上升率从6月的1.6%扩大，涨幅连续两个月变大。\n上昇率 = rate of increase；連続 = consecutive",
+    "エネルギーの価格は0.6%上がり、8か月ぶりのプラスになりました。\n能源价格上涨0.6%，时隔8个月再次转为正增长。\n価格 = price；〜ぶり = for the first time in ~",
+    "原油の価格が上がった影響で、電気代やガス代の値下がりが小さくなったためです。\n这是因为受原油价格上涨的影响，电费和燃气费的降幅变小了。\n影響 = effect；〜ためです = it is because ~",
+    "一方、ガソリンの価格は、政府の補助金の効果で1.8%下がりました。\n另一方面，由于政府补贴的效果，汽油价格下降了1.8%。\n一方 = on the other hand；補助金 = subsidy",
+    "生鮮食品を除く食料の価格は、3.0%上がりました。\n除生鲜食品以外的食品价格上涨了3.0%。\n除く = to exclude；食料 = food",
+    "ポテトチップスなどのお菓子や、弁当などの調理食品が値上がりしました。\n薯片等零食和便当等加工食品涨价了。\n値上がり = price increase；お菓子 = snacks",
+    "また、自動車の保険料が上がったことなどで、交通・通信の分野も2.6%上昇しました。\n此外，由于汽车保险费上涨等原因，交通和通信领域也上升了2.6%。\n保険料 = insurance premium；分野 = field",
+    "物価の上昇が続くと、家計の負担がさらに重くなるおそれがあります。\n如果物价持续上涨，家庭开支的负担恐怕会更重。\n家計 = household budget；〜おそれがある = there is a risk that ~",
+    "市場では、日本銀行が9月に利上げをするかどうかに、注目が集まっています。\n市场正关注日本银行是否会在9月加息。\n〜かどうか = whether or not；注目 = attention"
+  ]
+}
