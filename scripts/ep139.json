@@ -1,0 +1,450 @@
+{
+  "episode": 139,
+  "title": "名古屋の東山動植物園でアルマジロの赤ちゃんが誕生",
+  "date": "2026-08-25",
+  "source": "東山動植物園",
+  "level": "N5-N4",
+  "contentVersion": "2026082501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twenty-fifth. At a zoo in Nagoya, a very unusual baby animal was born — a little armadillo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県の名古屋市に、「東山動植物園」という大きい動物園があります。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>名古屋市<rt>なごやし</rt></ruby>に、「<ruby>東山<rt>ひがしやま</rt></ruby><ruby>動植物<rt>どうしょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>」という<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月15日、この動物園で、アルマジロの赤ちゃんが生まれました。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルマジロは、南アメリカの動物です。体は、かたいよろいでおおわれています。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカの<ruby>動物<rt>どうぶつ</rt></ruby>です。<span class=\"vw\" data-ja=\"体\" data-reading=\"からだ\" data-en=\"body\"><ruby>体<rt>からだ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"かたい\" data-reading=\"かたい\" data-en=\"hard; tough\">かたいよろいでおおわれています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園のアルマジロは、「マタコミツオビアルマジロ」という種類です。あぶないとき、体を丸めて、ボールのようになります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>は、「マタコミツオビアルマジロ」という<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind; type\"><ruby>種類<rt>しゅるい</rt></ruby></span>です。<span class=\"vw\" data-ja=\"あぶない\" data-reading=\"あぶない\" data-en=\"dangerous\">あぶないとき</span>、<span class=\"vw\" data-ja=\"体\" data-reading=\"からだ\" data-en=\"body\"><ruby>体<rt>からだ</rt></ruby></span>を<ruby>丸め<rt>まるめ</rt></ruby>て、ボールのようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは元気です。お母さんが、しっかり育てています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; energetic\"><ruby>元気<rt>げんき</rt></ruby></span>です。<span class=\"vw\" data-ja=\"お母さん\" data-reading=\"おかあさん\" data-en=\"mother\">お<ruby>母さん<rt>かあさん</rt></ruby></span>が、しっかり<ruby>育て<rt>そだて</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、今はまだ見ることができません。動物園は、「大きくなったら、お知らせします」と言っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>はまだ<ruby>見る<rt>みる</rt></ruby>ことができません。<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<ruby>大きく<rt>おおきく</rt></ruby>なったら、お<ruby>知らせ<rt>しらせ</rt></ruby>します」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "その2日あとには、同じ動物園で、「スローロリス」という小さいサルの赤ちゃんも生まれました。",
+      "ruby": "その<ruby>2日<rt>ふつか</rt></ruby>あとには、<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、「スローロリス」という<ruby>小さい<rt>ちいさい</rt></ruby>サルの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>も<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルマジロもスローロリスも、夜に元気になる動物です。同じ建物の、夜の動物のコーナーにいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>もスローロリスも、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>に<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; energetic\"><ruby>元気<rt>げんき</rt></ruby></span>になる<ruby>動物<rt>どうぶつ</rt></ruby>です。<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span><ruby>建物<rt>たてもの</rt></ruby>の、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<ruby>動物<rt>どうぶつ</rt></ruby>のコーナーにいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「赤ちゃんが続けて生まれて、とてもうれしいです」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>続け<rt>つづけ</rt></ruby>て<ruby>生まれ<rt>うまれ</rt></ruby>て、とてもうれしいです」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "愛知県の名古屋市に、「東山動植物園」という大きい動物園があります。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>名古屋市<rt>なごやし</rt></ruby>に、「<ruby>東山<rt>ひがしやま</rt></ruby><ruby>動植物<rt>どうしょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>」という<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There is a big zoo called Higashiyama Zoo and Botanical Gardens in Nagoya City, Aichi Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動物園",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means zoo — a place where you can see many animals."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月15日、この動物園で、アルマジロの赤ちゃんが生まれました。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On August fifteenth, a baby armadillo was born at this zoo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"生まれる\" data-reading=\"うまれる\" data-en=\"to be born\"><ruby>生まれ<rt>うまれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be born."
+    },
+    {
+      "speaker": "slow",
+      "text": "アルマジロは、南アメリカの動物です。体は、かたいよろいでおおわれています。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカの<ruby>動物<rt>どうぶつ</rt></ruby>です。<span class=\"vw\" data-ja=\"体\" data-reading=\"からだ\" data-en=\"body\"><ruby>体<rt>からだ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"かたい\" data-reading=\"かたい\" data-en=\"hard; tough\">かたいよろいでおおわれています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The armadillo is an animal from South America. Its body is covered with hard armor."
+    },
+    {
+      "speaker": "vocab",
+      "text": "かたい",
+      "ruby": "<span class=\"vw\" data-ja=\"かたい\" data-reading=\"かたい\" data-en=\"hard; tough\">かたい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hard — not soft, like a rock or a shell."
+    },
+    {
+      "speaker": "slow",
+      "text": "あぶないとき、体を丸めて、ボールのようになります。",
+      "ruby": "<span class=\"vw\" data-ja=\"あぶない\" data-reading=\"あぶない\" data-en=\"dangerous\">あぶないとき</span>、<span class=\"vw\" data-ja=\"体\" data-reading=\"からだ\" data-en=\"body\"><ruby>体<rt>からだ</rt></ruby></span>を<ruby>丸め<rt>まるめ</rt></ruby>て、ボールのようになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When there is danger, it rolls up its body and becomes like a ball."
+    },
+    {
+      "speaker": "vocab",
+      "text": "丸める",
+      "ruby": "<span class=\"vw\" data-ja=\"丸める\" data-reading=\"まるめる\" data-en=\"to roll up (into a ball)\"><ruby>丸め<rt>まるめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to roll something up into a round shape, like a ball."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは元気です。お母さんが、しっかり育てています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; energetic\"><ruby>元気<rt>げんき</rt></ruby></span>です。<span class=\"vw\" data-ja=\"お母さん\" data-reading=\"おかあさん\" data-en=\"mother\">お<ruby>母さん<rt>かあさん</rt></ruby></span>が、しっかり<ruby>育て<rt>そだて</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The baby is healthy. Its mother is taking good care of it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育てる",
+      "ruby": "<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to raise — to take care of a child or a baby animal as it grows."
+    },
+    {
+      "speaker": "slow",
+      "text": "その2日あとには、同じ動物園で、「スローロリス」という小さいサルの赤ちゃんも生まれました。",
+      "ruby": "その<ruby>2日<rt>ふつか</rt></ruby>あとには、<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、「スローロリス」という<ruby>小さい<rt>ちいさい</rt></ruby>サルの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>も<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two days later, at the same zoo, a baby slow loris — a small monkey — was also born."
+    },
+    {
+      "speaker": "vocab",
+      "text": "同じ",
+      "ruby": "<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means same — not different, the one thing shared by both."
+    },
+    {
+      "speaker": "slow",
+      "text": "アルマジロもスローロリスも、夜に元気になる動物です。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>もスローロリスも、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>に<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; energetic\"><ruby>元気<rt>げんき</rt></ruby></span>になる<ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Both the armadillo and the slow loris are animals that become active at night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means night — the time when it is dark outside."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県の名古屋市に、「東山動植物園」という大きい動物園があります。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>名古屋市<rt>なごやし</rt></ruby>に、「<ruby>東山<rt>ひがしやま</rt></ruby><ruby>動植物<rt>どうしょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>」という<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月15日、この動物園で、アルマジロの赤ちゃんが生まれました。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルマジロは、南アメリカの動物です。体は、かたいよろいでおおわれています。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカの<ruby>動物<rt>どうぶつ</rt></ruby>です。<span class=\"vw\" data-ja=\"体\" data-reading=\"からだ\" data-en=\"body\"><ruby>体<rt>からだ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"かたい\" data-reading=\"かたい\" data-en=\"hard; tough\">かたいよろいでおおわれています</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園のアルマジロは、「マタコミツオビアルマジロ」という種類です。あぶないとき、体を丸めて、ボールのようになります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>は、「マタコミツオビアルマジロ」という<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind; type\"><ruby>種類<rt>しゅるい</rt></ruby></span>です。<span class=\"vw\" data-ja=\"あぶない\" data-reading=\"あぶない\" data-en=\"dangerous\">あぶないとき</span>、<span class=\"vw\" data-ja=\"体\" data-reading=\"からだ\" data-en=\"body\"><ruby>体<rt>からだ</rt></ruby></span>を<ruby>丸め<rt>まるめ</rt></ruby>て、ボールのようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは元気です。お母さんが、しっかり育てています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; energetic\"><ruby>元気<rt>げんき</rt></ruby></span>です。<span class=\"vw\" data-ja=\"お母さん\" data-reading=\"おかあさん\" data-en=\"mother\">お<ruby>母さん<rt>かあさん</rt></ruby></span>が、しっかり<ruby>育て<rt>そだて</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、今はまだ見ることができません。動物園は、「大きくなったら、お知らせします」と言っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>はまだ<ruby>見る<rt>みる</rt></ruby>ことができません。<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<ruby>大きく<rt>おおきく</rt></ruby>なったら、お<ruby>知らせ<rt>しらせ</rt></ruby>します」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "その2日あとには、同じ動物園で、「スローロリス」という小さいサルの赤ちゃんも生まれました。",
+      "ruby": "その<ruby>2日<rt>ふつか</rt></ruby>あとには、<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、「スローロリス」という<ruby>小さい<rt>ちいさい</rt></ruby>サルの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>も<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルマジロもスローロリスも、夜に元気になる動物です。同じ建物の、夜の動物のコーナーにいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>もスローロリスも、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>に<span class=\"vw\" data-ja=\"元気\" data-reading=\"げんき\" data-en=\"healthy; energetic\"><ruby>元気<rt>げんき</rt></ruby></span>になる<ruby>動物<rt>どうぶつ</rt></ruby>です。<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span><ruby>建物<rt>たてもの</rt></ruby>の、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>の<ruby>動物<rt>どうぶつ</rt></ruby>のコーナーにいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「赤ちゃんが続けて生まれて、とてもうれしいです」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>続け<rt>つづけ</rt></ruby>て<ruby>生まれ<rt>うまれ</rt></ruby>て、とてもうれしいです」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "アルマジロの赤ちゃんは、いつ生まれましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、いつ<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On August fifteenth, at Higashiyama Zoo and Botanical Gardens in Nagoya."
+    },
+    {
+      "speaker": "slow",
+      "text": "アルマジロは、あぶないとき、何をしますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>は、<span class=\"vw\" data-ja=\"あぶない\" data-reading=\"あぶない\" data-en=\"dangerous\">あぶないとき</span>、<ruby>何を<rt>なにを</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It rolls up its body and becomes like a ball, because its body is covered with hard armor."
+    },
+    {
+      "speaker": "slow",
+      "text": "アルマジロの2日あとに、何の赤ちゃんが生まれましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"アルマジロ\" data-reading=\"あるまじろ\" data-en=\"armadillo\">アルマジロ</span>の<ruby>2日<rt>ふつか</rt></ruby>あとに、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A slow loris — a small monkey that is active at night."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Two new babies at the zoo in one week — we hope they grow up big and strong. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "アルマジロ",
+      "reading": "あるまじろ",
+      "en": "armadillo",
+      "zh": "犰狳"
+    },
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "婴儿；幼崽"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "体",
+      "reading": "からだ",
+      "en": "body",
+      "zh": "身体"
+    },
+    {
+      "ja": "かたい",
+      "reading": "かたい",
+      "en": "hard; tough",
+      "zh": "硬的"
+    },
+    {
+      "ja": "よろい",
+      "reading": "よろい",
+      "en": "armor",
+      "zh": "铠甲"
+    },
+    {
+      "ja": "丸める",
+      "reading": "まるめる",
+      "en": "to roll up (into a ball)",
+      "zh": "把……卷成球状"
+    },
+    {
+      "ja": "あぶない",
+      "reading": "あぶない",
+      "en": "dangerous",
+      "zh": "危险的"
+    },
+    {
+      "ja": "元気",
+      "reading": "げんき",
+      "en": "healthy; energetic",
+      "zh": "健康；有精神"
+    },
+    {
+      "ja": "育てる",
+      "reading": "そだてる",
+      "en": "to raise; to bring up",
+      "zh": "养育；抚养"
+    },
+    {
+      "ja": "お母さん",
+      "reading": "おかあさん",
+      "en": "mother",
+      "zh": "妈妈；母亲"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "種類",
+      "reading": "しゅるい",
+      "en": "kind; type",
+      "zh": "种类；品种"
+    },
+    {
+      "ja": "同じ",
+      "reading": "おなじ",
+      "en": "same",
+      "zh": "相同的"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "「〜」という + noun",
+      "meaning": "called ~; named ~",
+      "meaningZh": "叫做……的……",
+      "formation": "name + という + noun",
+      "example": "愛知県の名古屋市に、「東山動植物園」という大きい動物園があります。",
+      "translation": "There is a big zoo called Higashiyama Zoo and Botanical Gardens in Nagoya City, Aichi Prefecture.",
+      "note": "という introduces the name of something the listener may not know yet: 「東山動植物園」という動物園 = a zoo called Higashiyama Zoo and Botanical Gardens.",
+      "noteZh": "「という」用来引出对方可能还不知道的名称：「東山動植物園」という動物園＝叫做「东山动植物园」的动物园。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#という"
+    },
+    {
+      "pattern": "〜とき",
+      "meaning": "when ~; at the time of ~",
+      "meaningZh": "……的时候",
+      "formation": "plain form / い-adjective + とき",
+      "example": "あぶないとき、体を丸めて、ボールのようになります。",
+      "translation": "When there is danger, it rolls up its body and becomes like a ball.",
+      "note": "とき after a verb or adjective means \"when\": あぶないとき = when it is dangerous.",
+      "noteZh": "「とき」接在动词或形容词后面表示“……的时候”：あぶないとき＝危险的时候。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#とき"
+    },
+    {
+      "pattern": "〜ています",
+      "meaning": "is ~ing; ongoing action or state",
+      "meaningZh": "正在……；表示动作或状态的持续",
+      "formation": "verb て-form + います",
+      "example": "お母さんが、しっかり育てています。",
+      "translation": "The mother is raising it well.",
+      "note": "ています shows an action or state that continues now: 育てています = is raising (right now, and continuing).",
+      "noteZh": "「ています」表示现在正在持续的动作或状态：育てています＝正在养育（现在也在继续）。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ています"
+    }
+  ],
+  "practiceZh": [
+    "愛知県の名古屋市に、「東山動植物園」という大きい動物園があります。\n爱知县名古屋市有一家叫「东山动植物园」的大动物园。\n動物園 = zoo；〜という = called ~",
+    "8月15日、この動物園で、アルマジロの赤ちゃんが生まれました。\n8月15日，这家动物园里出生了一只犰狳宝宝。\nアルマジロ = armadillo；生まれる = to be born",
+    "アルマジロは、南アメリカの動物です。体は、かたいよろいでおおわれています。\n犰狳是南美洲的动物。它的身体覆盖着坚硬的铠甲。\n体 = body；かたい = hard；よろい = armor",
+    "この動物園のアルマジロは、「マタコミツオビアルマジロ」という種類です。あぶないとき、体を丸めて、ボールのようになります。\n这家动物园的犰狳是叫「拉河三带犰狳」的品种。遇到危险时，它会把身体卷起来，变成球的样子。\n種類 = kind, type；丸める = to roll up",
+    "赤ちゃんは元気です。お母さんが、しっかり育てています。\n宝宝很健康。妈妈正在好好地抚养它。\n元気 = healthy；育てる = to raise",
+    "赤ちゃんは、今はまだ見ることができません。動物園は、「大きくなったら、お知らせします」と言っています。\n现在还看不到宝宝。动物园表示：「等它长大一些，我们会通知大家。」\nまだ = not yet；お知らせ = notice, announcement",
+    "その2日あとには、同じ動物園で、「スローロリス」という小さいサルの赤ちゃんも生まれました。\n两天之后，同一家动物园里又出生了一只叫「懒猴」的小猴子宝宝。\n同じ = same；サル = monkey",
+    "アルマジロもスローロリスも、夜に元気になる動物です。同じ建物の、夜の動物のコーナーにいます。\n犰狳和懒猴都是在夜里变得活跃的动物。它们住在同一栋建筑里的夜行动物区。\n夜 = night；建物 = building",
+    "動物園は、「赤ちゃんが続けて生まれて、とてもうれしいです」と話しています。\n动物园表示：「宝宝们接连出生，我们非常高兴。」\n続けて = one after another；うれしい = happy"
+  ]
+}
