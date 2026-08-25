@@ -1,0 +1,456 @@
+{
+  "episode": 141,
+  "title": "愛媛のとべ動物園でジャガーの双子の赤ちゃんを公開",
+  "date": "2026-08-26",
+  "source": "愛媛県立とべ動物園",
+  "level": "N5-N4",
+  "contentVersion": "2026082601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twenty-sixth. At a zoo in western Japan, twin baby jaguars have just met the public for the first time. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "四国の愛媛県に、「とべ動物園」という動物園があります。",
+      "ruby": "<ruby>四国<rt>しこく</rt></ruby>の<ruby>愛媛県<rt>えひめけん</rt></ruby>に、「とべ<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>」という<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の6月16日、この動物園で、ジャガーの双子の赤ちゃんが生まれました。女の子と男の子です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の6<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>の<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。<ruby>女の子<rt>おんなのこ</rt></ruby>と<ruby>男の子<rt>おとこのこ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ジャガーは、南アメリカにすむ、大きいネコの仲間です。泳ぐことが上手です。",
+      "ruby": "<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカにすむ、<ruby>大きい<rt>おおきい</rt></ruby>ネコの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of a group; kind\"><ruby>仲間<rt>なかま</rt></ruby></span>です。<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことが<span class=\"vw\" data-ja=\"上手\" data-reading=\"じょうず\" data-en=\"good at; skillful\"><ruby>上手<rt>じょうず</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "女の子の体は、お父さんと同じ黄色で、黒い模様があります。男の子の体は、お母さんと同じ黒です。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、お<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>で、<span class=\"vw\" data-ja=\"黒\" data-reading=\"くろ\" data-en=\"black\"><ruby>黒い<rt>くろい</rt></ruby></span><span class=\"vw\" data-ja=\"模様\" data-reading=\"もよう\" data-en=\"pattern; markings\"><ruby>模様<rt>もよう</rt></ruby></span>があります。<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、お<ruby>母さん<rt>かあさん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"黒\" data-reading=\"くろ\" data-en=\"black\"><ruby>黒<rt>くろ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹は元気に大きくなりました。8月25日から、お客さんに公開されています。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>に<ruby>大きく<rt>おおきく</rt></ruby>なりました。8<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>から、お<ruby>客<rt>きゃく</rt></ruby>さんに<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、外の広い場所で、元気に走ったり、遊んだりしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>外<rt>そと</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>走っ<rt>はしっ</rt></ruby>たり、<ruby>遊んだ<rt>あそんだ</rt></ruby>りしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹の名前は、まだありません。動物園は、9月6日まで、名前を募集しています。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、まだありません。<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、9<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>まで、<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>を<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"collecting (ideas); recruitment\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は、9月に、お客さんの投票で決まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、9<ruby>月<rt>がつ</rt></ruby>に、お<ruby>客<rt>きゃく</rt></ruby>さんの<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>で<ruby>決ま<rt>きま</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「かわいい双子に、ぜひ会いに来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「かわいい<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>に、ぜひ<ruby>会い<rt>あい</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "四国の愛媛県に、「とべ動物園」という動物園があります。",
+      "ruby": "<ruby>四国<rt>しこく</rt></ruby>の<ruby>愛媛県<rt>えひめけん</rt></ruby>に、「とべ<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>」という<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There is a zoo called Tobe Zoo in Ehime Prefecture, on the island of Shikoku."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動物園",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means zoo — a place where you can see many animals."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の6月16日、この動物園で、ジャガーの双子の赤ちゃんが生まれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の6<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>の<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On June sixteenth this year, twin baby jaguars were born at this zoo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "双子",
+      "ruby": "<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means twins — two babies born at the same time."
+    },
+    {
+      "speaker": "slow",
+      "text": "ジャガーは、南アメリカにすむ、大きいネコの仲間です。泳ぐことが上手です。",
+      "ruby": "<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカにすむ、<ruby>大きい<rt>おおきい</rt></ruby>ネコの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of a group; kind\"><ruby>仲間<rt>なかま</rt></ruby></span>です。<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことが<span class=\"vw\" data-ja=\"上手\" data-reading=\"じょうず\" data-en=\"good at; skillful\"><ruby>上手<rt>じょうず</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The jaguar is a big member of the cat family that lives in South America. It is good at swimming."
+    },
+    {
+      "speaker": "vocab",
+      "text": "泳ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to swim — to move through water."
+    },
+    {
+      "speaker": "slow",
+      "text": "女の子の体は、お父さんと同じ黄色で、黒い模様があります。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、お<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>で、<span class=\"vw\" data-ja=\"黒\" data-reading=\"くろ\" data-en=\"black\"><ruby>黒い<rt>くろい</rt></ruby></span><span class=\"vw\" data-ja=\"模様\" data-reading=\"もよう\" data-en=\"pattern; markings\"><ruby>模様<rt>もよう</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The girl's body is yellow like her father's, and it has black markings."
+    },
+    {
+      "speaker": "vocab",
+      "text": "模様",
+      "ruby": "<span class=\"vw\" data-ja=\"模様\" data-reading=\"もよう\" data-en=\"pattern; markings\"><ruby>模様<rt>もよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means pattern — the spots or shapes on an animal's fur."
+    },
+    {
+      "speaker": "slow",
+      "text": "2匹は元気に大きくなりました。8月25日から、お客さんに公開されています。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>に<ruby>大きく<rt>おおきく</rt></ruby>なりました。8<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>から、お<ruby>客<rt>きゃく</rt></ruby>さんに<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The two cubs have grown up healthy. Since August twenty-fifth, they have been shown to visitors."
+    },
+    {
+      "speaker": "vocab",
+      "text": "公開",
+      "ruby": "<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means opening something to the public, so everyone can see it."
+    },
+    {
+      "speaker": "slow",
+      "text": "2匹の名前は、まだありません。動物園は、9月6日まで、名前を募集しています。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、まだありません。<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、9<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>まで、<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>を<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"collecting (ideas); recruitment\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The twins do not have names yet. The zoo is collecting name ideas until September sixth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "募集",
+      "ruby": "<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"collecting (ideas); recruitment\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means collecting or recruiting — asking many people to send in ideas."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前は、9月に、お客さんの投票で決まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、9<ruby>月<rt>がつ</rt></ruby>に、お<ruby>客<rt>きゃく</rt></ruby>さんの<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>で<ruby>決ま<rt>きま</rt></ruby>ります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The names will be decided in September by a visitor vote."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投票",
+      "ruby": "<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means voting — choosing something by counting people's votes."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "四国の愛媛県に、「とべ動物園」という動物園があります。",
+      "ruby": "<ruby>四国<rt>しこく</rt></ruby>の<ruby>愛媛県<rt>えひめけん</rt></ruby>に、「とべ<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>」という<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の6月16日、この動物園で、ジャガーの双子の赤ちゃんが生まれました。女の子と男の子です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の6<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>の<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。<ruby>女の子<rt>おんなのこ</rt></ruby>と<ruby>男の子<rt>おとこのこ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ジャガーは、南アメリカにすむ、大きいネコの仲間です。泳ぐことが上手です。",
+      "ruby": "<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカにすむ、<ruby>大きい<rt>おおきい</rt></ruby>ネコの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of a group; kind\"><ruby>仲間<rt>なかま</rt></ruby></span>です。<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span>ことが<span class=\"vw\" data-ja=\"上手\" data-reading=\"じょうず\" data-en=\"good at; skillful\"><ruby>上手<rt>じょうず</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "女の子の体は、お父さんと同じ黄色で、黒い模様があります。男の子の体は、お母さんと同じ黒です。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、お<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>で、<span class=\"vw\" data-ja=\"黒\" data-reading=\"くろ\" data-en=\"black\"><ruby>黒い<rt>くろい</rt></ruby></span><span class=\"vw\" data-ja=\"模様\" data-reading=\"もよう\" data-en=\"pattern; markings\"><ruby>模様<rt>もよう</rt></ruby></span>があります。<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、お<ruby>母さん<rt>かあさん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"黒\" data-reading=\"くろ\" data-en=\"black\"><ruby>黒<rt>くろ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹は元気に大きくなりました。8月25日から、お客さんに公開されています。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>に<ruby>大きく<rt>おおきく</rt></ruby>なりました。8<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>から、お<ruby>客<rt>きゃく</rt></ruby>さんに<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、外の広い場所で、元気に走ったり、遊んだりしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>外<rt>そと</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>走っ<rt>はしっ</rt></ruby>たり、<ruby>遊んだ<rt>あそんだ</rt></ruby>りしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹の名前は、まだありません。動物園は、9月6日まで、名前を募集しています。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、まだありません。<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、9<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>まで、<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>を<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"collecting (ideas); recruitment\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は、9月に、お客さんの投票で決まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、9<ruby>月<rt>がつ</rt></ruby>に、お<ruby>客<rt>きゃく</rt></ruby>さんの<span class=\"vw\" data-ja=\"投票\" data-reading=\"とうひょう\" data-en=\"vote; voting\"><ruby>投票<rt>とうひょう</rt></ruby></span>で<ruby>決ま<rt>きま</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園は、「かわいい双子に、ぜひ会いに来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、「かわいい<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>に、ぜひ<ruby>会い<rt>あい</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ジャガーの双子の赤ちゃんは、いつ生まれましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"ジャガー\" data-reading=\"じゃがー\" data-en=\"jaguar\">ジャガー</span>の<span class=\"vw\" data-ja=\"双子\" data-reading=\"ふたご\" data-en=\"twins\"><ruby>双子<rt>ふたご</rt></ruby></span>の<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、いつ<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On June sixteenth this year, at Tobe Zoo in Ehime Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "女の子の体は、何色ですか。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、<ruby>何色<rt>なにいろ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is yellow with black markings, just like her father."
+    },
+    {
+      "speaker": "slow",
+      "text": "2匹の名前は、どうやって決まりますか。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、どうやって<ruby>決ま<rt>きま</rt></ruby>りますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "By a visitor vote. The zoo is collecting name ideas until September sixth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you visit Ehime, you can meet the twins — and even help choose their names. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "ジャガー",
+      "reading": "じゃがー",
+      "en": "jaguar",
+      "zh": "美洲豹"
+    },
+    {
+      "ja": "双子",
+      "reading": "ふたご",
+      "en": "twins",
+      "zh": "双胞胎"
+    },
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "婴儿；幼崽"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "仲間",
+      "reading": "なかま",
+      "en": "member of a group; kind",
+      "zh": "同类；伙伴"
+    },
+    {
+      "ja": "泳ぐ",
+      "reading": "およぐ",
+      "en": "to swim",
+      "zh": "游泳"
+    },
+    {
+      "ja": "上手",
+      "reading": "じょうず",
+      "en": "good at; skillful",
+      "zh": "擅长"
+    },
+    {
+      "ja": "模様",
+      "reading": "もよう",
+      "en": "pattern; markings",
+      "zh": "花纹；图案"
+    },
+    {
+      "ja": "黄色",
+      "reading": "きいろ",
+      "en": "yellow",
+      "zh": "黄色"
+    },
+    {
+      "ja": "黒",
+      "reading": "くろ",
+      "en": "black",
+      "zh": "黑色"
+    },
+    {
+      "ja": "公開",
+      "reading": "こうかい",
+      "en": "opening to the public",
+      "zh": "公开；开放参观"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "募集",
+      "reading": "ぼしゅう",
+      "en": "collecting (ideas); recruitment",
+      "zh": "征集；招募"
+    },
+    {
+      "ja": "投票",
+      "reading": "とうひょう",
+      "en": "vote; voting",
+      "zh": "投票"
+    },
+    {
+      "ja": "決まる",
+      "reading": "きまる",
+      "en": "to be decided",
+      "zh": "决定；定下来"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことが上手です",
+      "meaning": "to be good at doing ~",
+      "meaningZh": "擅长做……",
+      "formation": "verb dictionary form + ことが上手です",
+      "example": "泳ぐことが上手です。",
+      "translation": "It is good at swimming.",
+      "note": "Putting こと after a verb turns it into a noun: 泳ぐこと = swimming. 泳ぐことが上手です = is good at swimming.",
+      "noteZh": "动词后加「こと」变成名词：泳ぐこと＝游泳。泳ぐことが上手です＝擅长游泳。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#が上手です"
+    },
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~",
+      "meaningZh": "到……为止",
+      "formation": "time / date + まで",
+      "example": "動物園は、9月6日まで、名前を募集しています。",
+      "translation": "The zoo is collecting name ideas until September sixth.",
+      "note": "まで marks the end point of a period of time: 9月6日まで = until September 6.",
+      "noteZh": "「まで」表示时间的终点：9月6日まで＝到9月6日为止。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#からまで"
+    },
+    {
+      "pattern": "〜されています",
+      "meaning": "is being ~; has been ~ (passive + ongoing state)",
+      "meaningZh": "被……（被动的持续状态）",
+      "formation": "noun + されています（する → される + ています）",
+      "example": "8月25日から、お客さんに公開されています。",
+      "translation": "Since August twenty-fifth, they have been shown to visitors.",
+      "note": "される is the passive form of する. 公開されています = is open to the public, and that state continues now.",
+      "noteZh": "「される」是「する」的被动形。公開されています＝正在向公众开放，而且这个状态一直持续。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#passive"
+    }
+  ],
+  "practiceZh": [
+    "四国の愛媛県に、「とべ動物園」という動物園があります。\n在四国的爱媛县，有一家叫「砥部动物园」的动物园。\n動物園 = zoo；〜という = called ~",
+    "今年の6月16日、この動物園で、ジャガーの双子の赤ちゃんが生まれました。女の子と男の子です。\n今年6月16日，这家动物园里出生了一对美洲豹双胞胎宝宝。是一个女孩和一个男孩。\n双子 = twins；生まれる = to be born",
+    "ジャガーは、南アメリカにすむ、大きいネコの仲間です。泳ぐことが上手です。\n美洲豹是生活在南美洲的大型猫科动物。它很擅长游泳。\n仲間 = member of a group；泳ぐ = to swim",
+    "女の子の体は、お父さんと同じ黄色で、黒い模様があります。男の子の体は、お母さんと同じ黒です。\n女孩的身体和爸爸一样是黄色的，带有黑色花纹。男孩的身体和妈妈一样是黑色的。\n模様 = pattern；黄色 = yellow；黒 = black",
+    "2匹は元気に大きくなりました。8月25日から、お客さんに公開されています。\n两只宝宝健康地长大了。从8月25日起向游客公开展出。\n公開 = opening to the public；〜されています = passive + ongoing state",
+    "赤ちゃんは、外の広い場所で、元気に走ったり、遊んだりしています。\n宝宝们在外面宽敞的场地里，精神十足地跑来跑去、玩耍嬉戏。\n〜たり〜たりする = doing things like ~ and ~",
+    "2匹の名前は、まだありません。動物園は、9月6日まで、名前を募集しています。\n两只宝宝还没有名字。动物园在9月6日之前征集名字。\n名前 = name；募集 = collecting (ideas)",
+    "名前は、9月に、お客さんの投票で決まります。\n名字将在9月由游客投票决定。\n投票 = vote；決まる = to be decided",
+    "動物園は、「かわいい双子に、ぜひ会いに来てください」と話しています。\n动物园表示：「请一定来看看这对可爱的双胞胎。」\nぜひ = by all means；会いに来る = to come to see"
+  ]
+}
