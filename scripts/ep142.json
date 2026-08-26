@@ -1,0 +1,544 @@
+{
+  "episode": 142,
+  "title": "スズキ初の軽乗用EV「eスカイ」、今秋発売へ",
+  "date": "2026-08-26",
+  "source": "Car Watch / レスポンス / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026082601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is August twenty-sixth. Automaker Suzuki has unveiled its first kei-car electric vehicle, the e SKY, set to go on sale this autumn. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "自動車メーカーのスズキは24日、初めての軽乗用車のEV「eスカイ」の情報を、特設サイトで公開しました。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーのスズキは24<ruby>日<rt>にち</rt></ruby>、<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"軽乗用車\" data-reading=\"けいじょうようしゃ\" data-en=\"kei passenger car\"><ruby>軽乗用車<rt>けいじょうようしゃ</rt></ruby></span>のEV「eスカイ」の<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>特設<rt>とくせつ</rt></ruby>サイトで<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"release; making public\"><ruby>公開<rt>こうかい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「eスカイ」は、通勤や買い物など、毎日の生活で気軽に使えることを目指した軽の電気自動車です。",
+      "ruby": "「eスカイ」は、<span class=\"vw\" data-ja=\"通勤\" data-reading=\"つうきん\" data-en=\"commuting\"><ruby>通勤<rt>つうきん</rt></ruby></span>や<ruby>買い物<rt>かいもの</rt></ruby>など、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>で<ruby>気軽<rt>きがる</rt></ruby>に<ruby>使え<rt>つかえ</rt></ruby>ることを<ruby>目指し<rt>めざし</rt></ruby>た<ruby>軽<rt>けい</rt></ruby>の<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズキが軽乗用車のEVを売り出すのは、今回が初めてです。",
+      "ruby": "スズキが<span class=\"vw\" data-ja=\"軽乗用車\" data-reading=\"けいじょうようしゃ\" data-en=\"kei passenger car\"><ruby>軽乗用車<rt>けいじょうようしゃ</rt></ruby></span>のEVを<ruby>売り出す<rt>うりだす</rt></ruby>のは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "開発のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン車から無理なく乗り換えられる車を目指しています。",
+      "ruby": "<ruby>開発<rt>かいはつ</rt></ruby>のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン<ruby>車<rt>くるま</rt></ruby>から<ruby>無理<rt>むり</rt></ruby>なく<ruby>乗り換え<rt>のりかえ</rt></ruby>られる<ruby>車<rt>くるま</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によると、1回の充電で約310キロ走ることができ、電気を使う効率は軽のEVの中で最も高いということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、1<ruby>回<rt>かい</rt></ruby>の<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で<ruby>約<rt>やく</rt></ruby>310キロ<ruby>走る<rt>はしる</rt></ruby>ことができ、<ruby>電気<rt>でんき</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>は<ruby>軽<rt>けい</rt></ruby>のEVの<ruby>中<rt>なか</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby>ということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "少ない電気でたくさん走れるように、車の重さは約1トンと、軽く作られています。",
+      "ruby": "<ruby>少ない<rt>すくない</rt></ruby><ruby>電気<rt>でんき</rt></ruby>でたくさん<ruby>走れ<rt>はしれ</rt></ruby>るように、<ruby>車<rt>くるま</rt></ruby>の<ruby>重さ<rt>おもさ</rt></ruby>は<ruby>約<rt>やく</rt></ruby>1トンと、<ruby>軽く<rt>かるく</rt></ruby><ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "加速がなめらかで、走っているときの音が静かなことも、大きな魅力だと説明しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"加速\" data-reading=\"かそく\" data-en=\"acceleration\"><ruby>加速<rt>かそく</rt></ruby></span>がなめらかで、<ruby>走っ<rt>はしっ</rt></ruby>ているときの<ruby>音<rt>おと</rt></ruby>が<ruby>静か<rt>しずか</rt></ruby>なことも、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"魅力\" data-reading=\"みりょく\" data-en=\"charm; appeal\"><ruby>魅力<rt>みりょく</rt></ruby></span>だと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "「eスカイ」は、去年東京で開かれた「ジャパンモビリティショー」のコンセプトカーをもとに開発されました。",
+      "ruby": "「eスカイ」は、<ruby>去年<rt>きょねん</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れた「ジャパンモビリティショー」のコンセプトカーをもとに<ruby>開発<rt>かいはつ</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生産は、静岡県にある湖西工場で行われる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>は、<ruby>静岡県<rt>しずおかけん</rt></ruby>にある<ruby>湖西<rt>こさい</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正式な発表は今年の秋の予定で、11月ごろに発売されると伝えられています。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<ruby>発表<rt>はっぴょう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby>ごろに<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release for sale\"><ruby>発売<rt>はつばい</rt></ruby></span>されると<ruby>伝え<rt>つたえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "軽自動車は、日本で売れる新車のおよそ4割を占める、生活に欠かせない車です。",
+      "ruby": "<ruby>軽自動車<rt>けいじどうしゃ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>る<ruby>新車<rt>しんしゃ</rt></ruby>のおよそ4<ruby>割<rt>わり</rt></ruby>を<span class=\"vw\" data-ja=\"占める\" data-reading=\"しめる\" data-en=\"to account for; to make up\"><ruby>占め<rt>しめ</rt></ruby>る</span>、<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>欠か<rt>かか</rt></ruby>せない<ruby>車<rt>くるま</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "軽のEVでは、日産の「サクラ」などがすでに人気で、競争が激しくなっています。",
+      "ruby": "<ruby>軽<rt>けい</rt></ruby>のEVでは、<ruby>日産<rt>にっさん</rt></ruby>の「サクラ」などがすでに<ruby>人気<rt>にんき</rt></ruby>で、<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>が<ruby>激しく<rt>はげしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズキは価格をまだ発表していませんが、多くの人が買いやすい価格を目指しているということです。",
+      "ruby": "スズキは<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>をまだ<ruby>発表<rt>はっぴょう</rt></ruby>していませんが、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>買い<rt>かい</rt></ruby>やすい<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ているということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい軽のEVの登場で、日本でEVの普及が進むかどうか、注目が集まっています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>軽<rt>けい</rt></ruby>のEVの<ruby>登場<rt>とうじょう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>でEVの<span class=\"vw\" data-ja=\"普及\" data-reading=\"ふきゅう\" data-en=\"spread; widespread adoption\"><ruby>普及<rt>ふきゅう</rt></ruby></span>が<ruby>進む<rt>すすむ</rt></ruby>かどうか、<ruby>注目<rt>ちゅうもく</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "自動車メーカーのスズキは24日、初めての軽乗用車のEV「eスカイ」の情報を、特設サイトで公開しました。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーのスズキは24<ruby>日<rt>にち</rt></ruby>、<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"軽乗用車\" data-reading=\"けいじょうようしゃ\" data-en=\"kei passenger car\"><ruby>軽乗用車<rt>けいじょうようしゃ</rt></ruby></span>のEV「eスカイ」の<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>特設<rt>とくせつ</rt></ruby>サイトで<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"release; making public\"><ruby>公開<rt>こうかい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-fourth, automaker Suzuki released information about its first kei passenger EV, the e SKY, on a special website."
+    },
+    {
+      "speaker": "vocab",
+      "text": "公開",
+      "ruby": "<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"release; making public\"><ruby>公開<rt>こうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means making something public, or releasing it."
+    },
+    {
+      "speaker": "slow",
+      "text": "「eスカイ」は、通勤や買い物など、毎日の生活で気軽に使えることを目指した軽の電気自動車です。",
+      "ruby": "「eスカイ」は、<span class=\"vw\" data-ja=\"通勤\" data-reading=\"つうきん\" data-en=\"commuting\"><ruby>通勤<rt>つうきん</rt></ruby></span>や<ruby>買い物<rt>かいもの</rt></ruby>など、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>で<ruby>気軽<rt>きがる</rt></ruby>に<ruby>使え<rt>つかえ</rt></ruby>ることを<ruby>目指し<rt>めざし</rt></ruby>た<ruby>軽<rt>けい</rt></ruby>の<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The e SKY is a kei electric car built to be easy to use in daily life — commuting, shopping, and more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "通勤",
+      "ruby": "<span class=\"vw\" data-ja=\"通勤\" data-reading=\"つうきん\" data-en=\"commuting\"><ruby>通勤<rt>つうきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means commuting to work."
+    },
+    {
+      "speaker": "slow",
+      "text": "開発のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン車から無理なく乗り換えられる車を目指しています。",
+      "ruby": "<ruby>開発<rt>かいはつ</rt></ruby>のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン<ruby>車<rt>くるま</rt></ruby>から<ruby>無理<rt>むり</rt></ruby>なく<ruby>乗り換え<rt>のりかえ</rt></ruby>られる<ruby>車<rt>くるま</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The development concept is Easy to Switch — a car you can move to from a gasoline car without stress."
+    },
+    {
+      "speaker": "vocab",
+      "text": "乗り換える",
+      "ruby": "<span class=\"vw\" data-ja=\"乗り換える\" data-reading=\"のりかえる\" data-en=\"to switch; to change over\"><ruby>乗り換え<rt>のりかえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to switch over, or change to something new."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社によると、1回の充電で約310キロ走ることができ、電気を使う効率は軽のEVの中で最も高いということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、1<ruby>回<rt>かい</rt></ruby>の<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で<ruby>約<rt>やく</rt></ruby>310キロ<ruby>走る<rt>はしる</rt></ruby>ことができ、<ruby>電気<rt>でんき</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>は<ruby>軽<rt>けい</rt></ruby>のEVの<ruby>中<rt>なか</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby>ということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says it can run about three hundred ten kilometers on one charge, with the highest efficiency of any kei EV."
+    },
+    {
+      "speaker": "vocab",
+      "text": "充電",
+      "ruby": "<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means charging a battery."
+    },
+    {
+      "speaker": "slow",
+      "text": "加速がなめらかで、走っているときの音が静かなことも、大きな魅力だと説明しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"加速\" data-reading=\"かそく\" data-en=\"acceleration\"><ruby>加速<rt>かそく</rt></ruby></span>がなめらかで、<ruby>走っ<rt>はしっ</rt></ruby>ているときの<ruby>音<rt>おと</rt></ruby>が<ruby>静か<rt>しずか</rt></ruby>なことも、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"魅力\" data-reading=\"みりょく\" data-en=\"charm; appeal\"><ruby>魅力<rt>みりょく</rt></ruby></span>だと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Smooth acceleration and a quiet ride are also big attractions, the company explains."
+    },
+    {
+      "speaker": "vocab",
+      "text": "魅力",
+      "ruby": "<span class=\"vw\" data-ja=\"魅力\" data-reading=\"みりょく\" data-en=\"charm; appeal\"><ruby>魅力<rt>みりょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means charm, or appeal."
+    },
+    {
+      "speaker": "slow",
+      "text": "軽のEVでは、日産の「サクラ」などがすでに人気で、競争が激しくなっています。",
+      "ruby": "<ruby>軽<rt>けい</rt></ruby>のEVでは、<ruby>日産<rt>にっさん</rt></ruby>の「サクラ」などがすでに<ruby>人気<rt>にんき</rt></ruby>で、<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>が<ruby>激しく<rt>はげしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In kei EVs, models like the Nissan Sakura are already popular, and competition is heating up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "競争",
+      "ruby": "<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means competition."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい軽のEVの登場で、日本でEVの普及が進むかどうか、注目が集まっています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>軽<rt>けい</rt></ruby>のEVの<ruby>登場<rt>とうじょう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>でEVの<span class=\"vw\" data-ja=\"普及\" data-reading=\"ふきゅう\" data-en=\"spread; widespread adoption\"><ruby>普及<rt>ふきゅう</rt></ruby></span>が<ruby>進む<rt>すすむ</rt></ruby>かどうか、<ruby>注目<rt>ちゅうもく</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "With this new kei EV, all eyes are on whether electric cars will finally spread across Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "普及",
+      "ruby": "<span class=\"vw\" data-ja=\"普及\" data-reading=\"ふきゅう\" data-en=\"spread; widespread adoption\"><ruby>普及<rt>ふきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means spreading widely, or becoming common."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "自動車メーカーのスズキは24日、初めての軽乗用車のEV「eスカイ」の情報を、特設サイトで公開しました。",
+      "ruby": "<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーのスズキは24<ruby>日<rt>にち</rt></ruby>、<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"軽乗用車\" data-reading=\"けいじょうようしゃ\" data-en=\"kei passenger car\"><ruby>軽乗用車<rt>けいじょうようしゃ</rt></ruby></span>のEV「eスカイ」の<ruby>情報<rt>じょうほう</rt></ruby>を、<ruby>特設<rt>とくせつ</rt></ruby>サイトで<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"release; making public\"><ruby>公開<rt>こうかい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「eスカイ」は、通勤や買い物など、毎日の生活で気軽に使えることを目指した軽の電気自動車です。",
+      "ruby": "「eスカイ」は、<span class=\"vw\" data-ja=\"通勤\" data-reading=\"つうきん\" data-en=\"commuting\"><ruby>通勤<rt>つうきん</rt></ruby></span>や<ruby>買い物<rt>かいもの</rt></ruby>など、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>で<ruby>気軽<rt>きがる</rt></ruby>に<ruby>使え<rt>つかえ</rt></ruby>ることを<ruby>目指し<rt>めざし</rt></ruby>た<ruby>軽<rt>けい</rt></ruby>の<span class=\"vw\" data-ja=\"電気自動車\" data-reading=\"でんきじどうしゃ\" data-en=\"electric vehicle (EV)\"><ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズキが軽乗用車のEVを売り出すのは、今回が初めてです。",
+      "ruby": "スズキが<span class=\"vw\" data-ja=\"軽乗用車\" data-reading=\"けいじょうようしゃ\" data-en=\"kei passenger car\"><ruby>軽乗用車<rt>けいじょうようしゃ</rt></ruby></span>のEVを<ruby>売り出す<rt>うりだす</rt></ruby>のは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "開発のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン車から無理なく乗り換えられる車を目指しています。",
+      "ruby": "<ruby>開発<rt>かいはつ</rt></ruby>のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン<ruby>車<rt>くるま</rt></ruby>から<ruby>無理<rt>むり</rt></ruby>なく<ruby>乗り換え<rt>のりかえ</rt></ruby>られる<ruby>車<rt>くるま</rt></ruby>を<ruby>目指し<rt>めざし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によると、1回の充電で約310キロ走ることができ、電気を使う効率は軽のEVの中で最も高いということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、1<ruby>回<rt>かい</rt></ruby>の<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で<ruby>約<rt>やく</rt></ruby>310キロ<ruby>走る<rt>はしる</rt></ruby>ことができ、<ruby>電気<rt>でんき</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>は<ruby>軽<rt>けい</rt></ruby>のEVの<ruby>中<rt>なか</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby>ということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "少ない電気でたくさん走れるように、車の重さは約1トンと、軽く作られています。",
+      "ruby": "<ruby>少ない<rt>すくない</rt></ruby><ruby>電気<rt>でんき</rt></ruby>でたくさん<ruby>走れ<rt>はしれ</rt></ruby>るように、<ruby>車<rt>くるま</rt></ruby>の<ruby>重さ<rt>おもさ</rt></ruby>は<ruby>約<rt>やく</rt></ruby>1トンと、<ruby>軽く<rt>かるく</rt></ruby><ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "加速がなめらかで、走っているときの音が静かなことも、大きな魅力だと説明しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"加速\" data-reading=\"かそく\" data-en=\"acceleration\"><ruby>加速<rt>かそく</rt></ruby></span>がなめらかで、<ruby>走っ<rt>はしっ</rt></ruby>ているときの<ruby>音<rt>おと</rt></ruby>が<ruby>静か<rt>しずか</rt></ruby>なことも、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"魅力\" data-reading=\"みりょく\" data-en=\"charm; appeal\"><ruby>魅力<rt>みりょく</rt></ruby></span>だと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "「eスカイ」は、去年東京で開かれた「ジャパンモビリティショー」のコンセプトカーをもとに開発されました。",
+      "ruby": "「eスカイ」は、<ruby>去年<rt>きょねん</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れた「ジャパンモビリティショー」のコンセプトカーをもとに<ruby>開発<rt>かいはつ</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生産は、静岡県にある湖西工場で行われる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>は、<ruby>静岡県<rt>しずおかけん</rt></ruby>にある<ruby>湖西<rt>こさい</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "正式な発表は今年の秋の予定で、11月ごろに発売されると伝えられています。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<ruby>発表<rt>はっぴょう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby>ごろに<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release for sale\"><ruby>発売<rt>はつばい</rt></ruby></span>されると<ruby>伝え<rt>つたえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "軽自動車は、日本で売れる新車のおよそ4割を占める、生活に欠かせない車です。",
+      "ruby": "<ruby>軽自動車<rt>けいじどうしゃ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>る<ruby>新車<rt>しんしゃ</rt></ruby>のおよそ4<ruby>割<rt>わり</rt></ruby>を<span class=\"vw\" data-ja=\"占める\" data-reading=\"しめる\" data-en=\"to account for; to make up\"><ruby>占め<rt>しめ</rt></ruby>る</span>、<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>欠か<rt>かか</rt></ruby>せない<ruby>車<rt>くるま</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "軽のEVでは、日産の「サクラ」などがすでに人気で、競争が激しくなっています。",
+      "ruby": "<ruby>軽<rt>けい</rt></ruby>のEVでは、<ruby>日産<rt>にっさん</rt></ruby>の「サクラ」などがすでに<ruby>人気<rt>にんき</rt></ruby>で、<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>が<ruby>激しく<rt>はげしく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズキは価格をまだ発表していませんが、多くの人が買いやすい価格を目指しているということです。",
+      "ruby": "スズキは<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>をまだ<ruby>発表<rt>はっぴょう</rt></ruby>していませんが、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>買い<rt>かい</rt></ruby>やすい<span class=\"vw\" data-ja=\"価格\" data-reading=\"かかく\" data-en=\"price\"><ruby>価格<rt>かかく</rt></ruby></span>を<ruby>目指し<rt>めざし</rt></ruby>ているということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい軽のEVの登場で、日本でEVの普及が進むかどうか、注目が集まっています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>軽<rt>けい</rt></ruby>のEVの<ruby>登場<rt>とうじょう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>でEVの<span class=\"vw\" data-ja=\"普及\" data-reading=\"ふきゅう\" data-en=\"spread; widespread adoption\"><ruby>普及<rt>ふきゅう</rt></ruby></span>が<ruby>進む<rt>すすむ</rt></ruby>かどうか、<ruby>注目<rt>ちゅうもく</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "「eスカイ」は、1回の充電で約何キロ走ることができますか。",
+      "ruby": "「eスカイ」は、1<ruby>回<rt>かい</rt></ruby>の<span class=\"vw\" data-ja=\"充電\" data-reading=\"じゅうでん\" data-en=\"charging (a battery)\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で<ruby>約<rt>やく</rt></ruby><ruby>何<rt>なに</rt></ruby>キロ<ruby>走る<rt>はしる</rt></ruby>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three hundred ten kilometers."
+    },
+    {
+      "speaker": "slow",
+      "text": "「eスカイ」の生産は、どこで行われる予定ですか。",
+      "ruby": "「eスカイ」の<span class=\"vw\" data-ja=\"生産\" data-reading=\"せいさん\" data-en=\"production\"><ruby>生産<rt>せいさん</rt></ruby></span>は、どこで<ruby>行わ<rt>おこなわ</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the Kosai plant in Shizuoka Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "軽自動車は、日本で売れる新車のどのくらいを占めていますか。",
+      "ruby": "<ruby>軽自動車<rt>けいじどうしゃ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>る<ruby>新車<rt>しんしゃ</rt></ruby>のどのくらいを<ruby>占め<rt>しめ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About forty percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "正式な発表は、いつの予定ですか。",
+      "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な<ruby>発表<rt>はっぴょう</rt></ruby>は、いつの<ruby>予定<rt>よてい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "This autumn — and sales are reported to start around November."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. A small, affordable electric car could change how Japan drives, so keep an eye on this one. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "電気自動車",
+      "reading": "でんきじどうしゃ",
+      "en": "electric vehicle (EV)",
+      "zh": "电动汽车"
+    },
+    {
+      "ja": "軽乗用車",
+      "reading": "けいじょうようしゃ",
+      "en": "kei passenger car",
+      "zh": "轻型乘用车"
+    },
+    {
+      "ja": "公開",
+      "reading": "こうかい",
+      "en": "release; making public",
+      "zh": "公开"
+    },
+    {
+      "ja": "通勤",
+      "reading": "つうきん",
+      "en": "commuting",
+      "zh": "通勤"
+    },
+    {
+      "ja": "目指す",
+      "reading": "めざす",
+      "en": "to aim for",
+      "zh": "以……为目标"
+    },
+    {
+      "ja": "乗り換える",
+      "reading": "のりかえる",
+      "en": "to switch; to change over",
+      "zh": "换乘；改换"
+    },
+    {
+      "ja": "充電",
+      "reading": "じゅうでん",
+      "en": "charging (a battery)",
+      "zh": "充电"
+    },
+    {
+      "ja": "効率",
+      "reading": "こうりつ",
+      "en": "efficiency",
+      "zh": "效率"
+    },
+    {
+      "ja": "加速",
+      "reading": "かそく",
+      "en": "acceleration",
+      "zh": "加速"
+    },
+    {
+      "ja": "魅力",
+      "reading": "みりょく",
+      "en": "charm; appeal",
+      "zh": "魅力"
+    },
+    {
+      "ja": "生産",
+      "reading": "せいさん",
+      "en": "production",
+      "zh": "生产"
+    },
+    {
+      "ja": "発売",
+      "reading": "はつばい",
+      "en": "release for sale",
+      "zh": "发售"
+    },
+    {
+      "ja": "占める",
+      "reading": "しめる",
+      "en": "to account for; to make up",
+      "zh": "占（比例）"
+    },
+    {
+      "ja": "競争",
+      "reading": "きょうそう",
+      "en": "competition",
+      "zh": "竞争"
+    },
+    {
+      "ja": "価格",
+      "reading": "かかく",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "普及",
+      "reading": "ふきゅう",
+      "en": "spread; widespread adoption",
+      "zh": "普及"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると、〜ということです",
+      "meaning": "according to ~, it is said that ~",
+      "meaningZh": "据……说；据……称",
+      "formation": "noun + によると + statement + ということです",
+      "example": "会社によると、1回の充電で約310キロ走ることができるということです。",
+      "translation": "According to the company, it can run about 310 kilometers on one charge.",
+      "note": "The standard news pattern for reporting information from a source. ということです marks hearsay.",
+      "noteZh": "新闻中转述消息来源的标准句型。「ということです」表示传闻。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜のは、今回が初めてです",
+      "meaning": "this is the first time that ~",
+      "meaningZh": "……是第一次",
+      "formation": "verb plain form + のは + 今回が初めてです",
+      "example": "スズキが軽乗用車のEVを売り出すのは、今回が初めてです。",
+      "translation": "This is the first time Suzuki has put a kei passenger EV on sale.",
+      "note": "Nominalizes the action with のは, then states it is a first. News uses it for records and firsts.",
+      "noteZh": "用「のは」把动作名词化，再说明这是首次。新闻中常用于报道纪录和首次事件。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#のは"
+    },
+    {
+      "pattern": "〜ように（目的）",
+      "meaning": "so that ~; in order to ~",
+      "meaningZh": "为了能……；以便……",
+      "formation": "potential verb / ない form + ように + main clause",
+      "example": "少ない電気でたくさん走れるように、車の重さは約1トンと、軽く作られています。",
+      "translation": "So that it can run far on little electricity, the car is built light, at about one ton.",
+      "note": "Expresses a purpose with verbs the subject cannot fully control, like potential forms.",
+      "noteZh": "用于表示目的，多接可能形等说话人不能完全控制的动词。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜をもとに",
+      "meaning": "based on ~",
+      "meaningZh": "以……为基础",
+      "formation": "noun + をもとに",
+      "example": "「eスカイ」は、「ジャパンモビリティショー」のコンセプトカーをもとに開発されました。",
+      "translation": "The e SKY was developed based on the concept car from the Japan Mobility Show.",
+      "note": "Marks the material or model something is built from. Common with 作る, 開発する, 書く.",
+      "noteZh": "表示以某物为素材或原型。常与「作る」「開発する」「書く」等动词搭配。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#をもとに"
+    },
+    {
+      "pattern": "〜と伝えられています",
+      "meaning": "it is reported that ~",
+      "meaningZh": "据报道……",
+      "formation": "plain form + と伝えられています",
+      "example": "正式な発表は今年の秋の予定で、11月ごろに発売されると伝えられています。",
+      "translation": "The official announcement is planned for this autumn, and sales are reported to start around November.",
+      "note": "Passive reporting verb that keeps the information source vague. A formal written style typical of news.",
+      "noteZh": "用被动形式转述消息，不点明消息来源。是新闻中典型的书面表达。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#と伝えられている"
+    }
+  ],
+  "practiceZh": [
+    "自動車メーカーのスズキは24日、初めての軽乗用車のEV「eスカイ」の情報を、特設サイトで公開しました。\n汽车制造商铃木24日在特设网站上公开了首款轻型乘用电动汽车「e SKY」的信息。\n公開する = to make public；特設サイト = special website",
+    "「eスカイ」は、通勤や買い物など、毎日の生活で気軽に使えることを目指した軽の電気自動車です。\n「e SKY」是一款以通勤、购物等日常生活中轻松使用为目标的轻型电动汽车。\n通勤 = commuting；気軽に = casually, easily",
+    "スズキが軽乗用車のEVを売り出すのは、今回が初めてです。\n铃木推出轻型乘用电动汽车，这是第一次。\n売り出す = to put on sale；〜のは初めて = it is the first time",
+    "開発のコンセプトは「イージー・トゥ・スイッチ」で、ガソリン車から無理なく乗り換えられる車を目指しています。\n开发理念是「Easy to Switch」，目标是让人们能毫无负担地从汽油车换乘过来。\n無理なく = without strain；乗り換える = to switch over",
+    "会社によると、1回の充電で約310キロ走ることができ、電気を使う効率は軽のEVの中で最も高いということです。\n据该公司称，充一次电可行驶约310公里，用电效率在轻型电动汽车中最高。\n充電 = charging；効率 = efficiency",
+    "少ない電気でたくさん走れるように、車の重さは約1トンと、軽く作られています。\n为了用较少的电跑更远，车重被控制在约1吨，造得很轻。\n〜ように = so that；重さ = weight",
+    "加速がなめらかで、走っているときの音が静かなことも、大きな魅力だと説明しています。\n公司介绍说，加速平顺、行驶时噪音小也是很大的魅力。\n加速 = acceleration；魅力 = appeal",
+    "「eスカイ」は、去年東京で開かれた「ジャパンモビリティショー」のコンセプトカーをもとに開発されました。\n「e SKY」是以去年在东京举办的「日本移动出行展」上的概念车为基础开发的。\n〜をもとに = based on；開発する = to develop",
+    "生産は、静岡県にある湖西工場で行われる予定です。\n生产计划在位于静冈县的湖西工厂进行。\n生産 = production；行われる = to be carried out",
+    "正式な発表は今年の秋の予定で、11月ごろに発売されると伝えられています。\n正式发布定于今年秋天，据报道将于11月左右发售。\n正式 = official；〜と伝えられている = it is reported that",
+    "軽自動車は、日本で売れる新車のおよそ4割を占める、生活に欠かせない車です。\n轻型汽车约占日本新车销量的四成，是生活中不可缺少的汽车。\n占める = to account for；欠かせない = indispensable",
+    "軽のEVでは、日産の「サクラ」などがすでに人気で、競争が激しくなっています。\n在轻型电动汽车领域，日产「Sakura」等车型已经很受欢迎，竞争日趋激烈。\n競争 = competition；激しい = intense",
+    "スズキは価格をまだ発表していませんが、多くの人が買いやすい価格を目指しているということです。\n铃木尚未公布价格，但据称目标是定一个多数人都买得起的价格。\n価格 = price；買いやすい = easy to buy",
+    "新しい軽のEVの登場で、日本でEVの普及が進むかどうか、注目が集まっています。\n随着新款轻型电动汽车的登场，日本电动汽车能否加速普及备受关注。\n普及 = spread；〜かどうか = whether or not"
+  ]
+}
