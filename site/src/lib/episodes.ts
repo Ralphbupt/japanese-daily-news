@@ -68,6 +68,8 @@ export interface ProcessedEpisode extends RawEpisode {
   grammar: GrammarPoint[];
   practiceZh: string[];
   level: string;
+  /** Story summary extracted from the host intro (no boilerplate). */
+  summary: string;
   description: string;
   hasTimingData: boolean;
 }
@@ -81,7 +83,7 @@ function padNum(n: number): string {
 // listen." — we extract just the story summary so each page has a distinct,
 // content-rich description (the old logic emitted the same boilerplate greeting
 // for every episode, which Google treats as duplicate/thin content).
-function buildDescription(raw: RawEpisode): string {
+function buildSummary(raw: RawEpisode): string {
   const intro = raw.segments.find(s => s.speaker === 'host')?.text || '';
   let summary = '';
   const m = intro.match(/Today['’]s story\b[^.!?]*?:\s*(.+?)(?:\s*Let['’]s listen\.?\s*)?$/i);
@@ -96,6 +98,10 @@ function buildDescription(raw: RawEpisode): string {
   }
   if (summary && !/[.!?]$/.test(summary)) summary += '.';
   if (summary) summary = summary.charAt(0).toUpperCase() + summary.slice(1);
+  return summary;
+}
+
+function buildDescription(raw: RawEpisode, summary: string): string {
   const base = summary || raw.title;
   const level = raw.level ? ` Level ${raw.level}.` : '';
   return `${base} Learn Japanese with native audio, furigana, vocabulary and grammar.${level}`;
@@ -152,7 +158,8 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
     } catch { /* use estimates */ }
   }
 
-  const description = buildDescription(raw);
+  const summary = buildSummary(raw);
+  const description = buildDescription(raw, summary);
 
   return {
     ...raw,
@@ -163,6 +170,7 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
     grammar: raw.grammar ?? [],
     practiceZh: raw.practiceZh ?? [],
     level: raw.level ?? '',
+    summary,
     description,
     hasTimingData,
   };
