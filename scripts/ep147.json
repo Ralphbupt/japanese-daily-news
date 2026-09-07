@@ -1,0 +1,505 @@
+{
+  "episode": 147,
+  "title": "日本の景気拡大、戦後最長になった可能性",
+  "date": "2026-09-07",
+  "source": "NHK / 共同通信 / 内閣府",
+  "level": "N4-N3",
+  "contentVersion": "2026090701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September seventh. Japan's economy may have just made history: the current expansion could now be the longest since the end of the war. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は7日、7月の景気動向指数を発表しました。景気の今の状態を示す「一致指数」は120.6で、前の月より1.7ポイント上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"内閣府\" data-reading=\"ないかくふ\" data-en=\"Cabinet Office\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby></span>は<ruby>7日<rt>なのか</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><ruby>動向<rt>どうこう</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<ruby>今<rt>いま</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>示す<rt>しめす</rt></ruby>「<ruby>一致<rt>いっち</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>」は120.6で、<ruby>前<rt>まえ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>より1.7ポイント<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "上昇は2か月連続で、2018年10月以来、7年9か月ぶりの高い水準です。",
+      "ruby": "<ruby>上昇<rt>じょうしょう</rt></ruby>は2か<ruby>月<rt>げつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で、2018<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、7<ruby>年<rt>ねん</rt></ruby>9か<ruby>月<rt>げつ</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は、景気の基調判断を「改善を示している」のまま変えませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"内閣府\" data-reading=\"ないかくふ\" data-en=\"Cabinet Office\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<ruby>基調<rt>きちょう</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>を「<ruby>改善<rt>かいぜん</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ている」のまま<ruby>変え<rt>かえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "指数を押し上げた大きな理由は、半導体を作るための機械の需要です。",
+      "ruby": "<span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ための<ruby>機械<rt>きかい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "AI、人工知能の広がりで、世界中で半導体の工場が増え、日本の製造装置がよく売れています。",
+      "ruby": "AI、<ruby>人工知能<rt>じんこうちのう</rt></ruby>の<ruby>広が<rt>ひろが</rt></ruby>りで、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>工場<rt>こうじょう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"製造装置\" data-reading=\"せいぞうそうち\" data-en=\"manufacturing equipment\"><ruby>製造<rt>せいぞう</rt></ruby><ruby>装置<rt>そうち</rt></ruby></span>がよく<ruby>売れ<rt>うれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、工業製品の生産や、輸出の量を示す指数が大きく伸びました。",
+      "ruby": "このため、<ruby>工業製品<rt>こうぎょうせいひん</rt></ruby>の<ruby>生産<rt>せいさん</rt></ruby>や、<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>の<ruby>量<rt>りょう</rt></ruby>を<ruby>示す<rt>しめす</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>伸び<rt>のび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、軽自動車の販売が振るわず、車や家電などの耐久消費財の出荷は下がりました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>軽自動車<rt>けいじどうしゃ</rt></ruby>の<ruby>販売<rt>はんばい</rt></ruby>が<ruby>振る<rt>ふる</rt></ruby>わず、<ruby>車<rt>くるま</rt></ruby>や<ruby>家電<rt>かでん</rt></ruby>などの<ruby>耐久<rt>たいきゅう</rt></ruby><ruby>消費財<rt>しょうひざい</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment\"><ruby>出荷<rt>しゅっか</rt></ruby></span>は<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の景気の拡大は、新型コロナで景気が底を打った2020年6月から始まりました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<ruby>新型<rt>しんがた</rt></ruby>コロナで<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>が<ruby>底<rt>そこ</rt></ruby>を<ruby>打っ<rt>うっ</rt></ruby>た2020<ruby>年<rt>ねん</rt></ruby>6<ruby>月<rt>がつ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "拡大が7月まで続いていた場合、その長さは74か月になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>が7<ruby>月<rt>がつ</rt></ruby>まで<ruby>続い<rt>つづい</rt></ruby>ていた<ruby>場合<rt>ばあい</rt></ruby>、その<ruby>長さ<rt>ながさ</rt></ruby>は74か<ruby>月<rt>げつ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまで戦後最長だったのは、2002年から2008年まで73か月続いた「いざなみ景気」です。",
+      "ruby": "これまで<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最長<rt>さいちょう</rt></ruby>だったのは、2002<ruby>年<rt>ねん</rt></ruby>から2008<ruby>年<rt>ねん</rt></ruby>まで73か<ruby>月<rt>げつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た「いざなみ<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "つまり、今回の拡大は、戦後最も長い景気拡大になった可能性があります。",
+      "ruby": "つまり、<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>になった<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、正式に決まるまでには、専門家の会議で1年以上の議論が必要です。",
+      "ruby": "ただし、<ruby>正式<rt>せいしき</rt></ruby>に<ruby>決ま<rt>きま</rt></ruby>るまでには、<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で1<ruby>年以上<rt>ねんいじょう</rt></ruby>の<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、物価の上昇が続いているため、景気が良くなったと感じられない人も多いと言われています。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>が<ruby>良く<rt>よく</rt></ruby>なったと<ruby>感じ<rt>かんじ</rt></ruby>られない<ruby>人<rt>ひと</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、賃金の上昇が物価の上昇を上回るように、経済政策を続ける方針です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"賃金\" data-reading=\"ちんぎん\" data-en=\"wages\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>を<span class=\"vw\" data-ja=\"上回る\" data-reading=\"うわまわる\" data-en=\"to exceed; to outpace\"><ruby>上回る<rt>うわまわる</rt></ruby></span>ように、<ruby>経済政策<rt>けいざいせいさく</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>る<ruby>方針<rt>ほうしん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "内閣府は7日、7月の景気動向指数を発表しました。景気の今の状態を示す「一致指数」は120.6で、前の月より1.7ポイント上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"内閣府\" data-reading=\"ないかくふ\" data-en=\"Cabinet Office\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby></span>は<ruby>7日<rt>なのか</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><ruby>動向<rt>どうこう</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<ruby>今<rt>いま</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>示す<rt>しめす</rt></ruby>「<ruby>一致<rt>いっち</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>」は120.6で、<ruby>前<rt>まえ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>より1.7ポイント<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the seventh, the Cabinet Office released July's economic index. The main gauge of current conditions rose one point seven points from the previous month, to one hundred twenty point six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "景気",
+      "ruby": "<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the state of the economy — business conditions."
+    },
+    {
+      "speaker": "slow",
+      "text": "指数を押し上げた大きな理由は、半導体を作るための機械の需要です。",
+      "ruby": "<span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ための<ruby>機械<rt>きかい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The big driver behind the rise was demand for machines that make semiconductors."
+    },
+    {
+      "speaker": "vocab",
+      "text": "需要",
+      "ruby": "<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means demand."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の景気の拡大は、新型コロナで景気が底を打った2020年6月から始まりました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<ruby>新型<rt>しんがた</rt></ruby>コロナで<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>が<ruby>底<rt>そこ</rt></ruby>を<ruby>打っ<rt>うっ</rt></ruby>た2020<ruby>年<rt>ねん</rt></ruby>6<ruby>月<rt>がつ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The current expansion began in June twenty twenty, when the economy hit bottom during the pandemic."
+    },
+    {
+      "speaker": "vocab",
+      "text": "拡大",
+      "ruby": "<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means expansion, or growth."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまで戦後最長だったのは、2002年から2008年まで73か月続いた「いざなみ景気」です。",
+      "ruby": "これまで<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最長<rt>さいちょう</rt></ruby>だったのは、2002<ruby>年<rt>ねん</rt></ruby>から2008<ruby>年<rt>ねん</rt></ruby>まで73か<ruby>月<rt>げつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た「いざなみ<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The longest expansion until now was the Izanami boom, which lasted seventy-three months from two thousand two to two thousand eight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "戦後",
+      "ruby": "<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the postwar era — after World War Two."
+    },
+    {
+      "speaker": "slow",
+      "text": "つまり、今回の拡大は、戦後最も長い景気拡大になった可能性があります。",
+      "ruby": "つまり、<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>になった<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In other words, this expansion may have become the longest in postwar history."
+    },
+    {
+      "speaker": "vocab",
+      "text": "可能性",
+      "ruby": "<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means possibility."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、物価の上昇が続いているため、景気が良くなったと感じられない人も多いと言われています。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>が<ruby>良く<rt>よく</rt></ruby>なったと<ruby>感じ<rt>かんじ</rt></ruby>られない<ruby>人<rt>ひと</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "But because prices keep rising, many people say they don't actually feel the economy improving."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物価",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consumer prices — the cost of things."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、賃金の上昇が物価の上昇を上回るように、経済政策を続ける方針です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"賃金\" data-reading=\"ちんぎん\" data-en=\"wages\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>を<span class=\"vw\" data-ja=\"上回る\" data-reading=\"うわまわる\" data-en=\"to exceed; to outpace\"><ruby>上回る<rt>うわまわる</rt></ruby></span>ように、<ruby>経済政策<rt>けいざいせいさく</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>る<ruby>方針<rt>ほうしん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government plans to keep pushing policies so that wage growth outpaces price growth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "賃金",
+      "ruby": "<span class=\"vw\" data-ja=\"賃金\" data-reading=\"ちんぎん\" data-en=\"wages\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means wages."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は7日、7月の景気動向指数を発表しました。景気の今の状態を示す「一致指数」は120.6で、前の月より1.7ポイント上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"内閣府\" data-reading=\"ないかくふ\" data-en=\"Cabinet Office\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby></span>は<ruby>7日<rt>なのか</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><ruby>動向<rt>どうこう</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<ruby>今<rt>いま</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>示す<rt>しめす</rt></ruby>「<ruby>一致<rt>いっち</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>」は120.6で、<ruby>前<rt>まえ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>より1.7ポイント<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "上昇は2か月連続で、2018年10月以来、7年9か月ぶりの高い水準です。",
+      "ruby": "<ruby>上昇<rt>じょうしょう</rt></ruby>は2か<ruby>月<rt>げつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で、2018<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、7<ruby>年<rt>ねん</rt></ruby>9か<ruby>月<rt>げつ</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は、景気の基調判断を「改善を示している」のまま変えませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"内閣府\" data-reading=\"ないかくふ\" data-en=\"Cabinet Office\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<ruby>基調<rt>きちょう</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>を「<ruby>改善<rt>かいぜん</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ている」のまま<ruby>変え<rt>かえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "指数を押し上げた大きな理由は、半導体を作るための機械の需要です。",
+      "ruby": "<span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ための<ruby>機械<rt>きかい</rt></ruby>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "AI、人工知能の広がりで、世界中で半導体の工場が増え、日本の製造装置がよく売れています。",
+      "ruby": "AI、<ruby>人工知能<rt>じんこうちのう</rt></ruby>の<ruby>広が<rt>ひろが</rt></ruby>りで、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>工場<rt>こうじょう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"製造装置\" data-reading=\"せいぞうそうち\" data-en=\"manufacturing equipment\"><ruby>製造<rt>せいぞう</rt></ruby><ruby>装置<rt>そうち</rt></ruby></span>がよく<ruby>売れ<rt>うれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、工業製品の生産や、輸出の量を示す指数が大きく伸びました。",
+      "ruby": "このため、<ruby>工業製品<rt>こうぎょうせいひん</rt></ruby>の<ruby>生産<rt>せいさん</rt></ruby>や、<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>の<ruby>量<rt>りょう</rt></ruby>を<ruby>示す<rt>しめす</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>伸び<rt>のび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、軽自動車の販売が振るわず、車や家電などの耐久消費財の出荷は下がりました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>軽自動車<rt>けいじどうしゃ</rt></ruby>の<ruby>販売<rt>はんばい</rt></ruby>が<ruby>振る<rt>ふる</rt></ruby>わず、<ruby>車<rt>くるま</rt></ruby>や<ruby>家電<rt>かでん</rt></ruby>などの<ruby>耐久<rt>たいきゅう</rt></ruby><ruby>消費財<rt>しょうひざい</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment\"><ruby>出荷<rt>しゅっか</rt></ruby></span>は<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の景気の拡大は、新型コロナで景気が底を打った2020年6月から始まりました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<ruby>新型<rt>しんがた</rt></ruby>コロナで<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>が<ruby>底<rt>そこ</rt></ruby>を<ruby>打っ<rt>うっ</rt></ruby>た2020<ruby>年<rt>ねん</rt></ruby>6<ruby>月<rt>がつ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "拡大が7月まで続いていた場合、その長さは74か月になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>が7<ruby>月<rt>がつ</rt></ruby>まで<ruby>続い<rt>つづい</rt></ruby>ていた<ruby>場合<rt>ばあい</rt></ruby>、その<ruby>長さ<rt>ながさ</rt></ruby>は74か<ruby>月<rt>げつ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまで戦後最長だったのは、2002年から2008年まで73か月続いた「いざなみ景気」です。",
+      "ruby": "これまで<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最長<rt>さいちょう</rt></ruby>だったのは、2002<ruby>年<rt>ねん</rt></ruby>から2008<ruby>年<rt>ねん</rt></ruby>まで73か<ruby>月<rt>げつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た「いざなみ<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "つまり、今回の拡大は、戦後最も長い景気拡大になった可能性があります。",
+      "ruby": "つまり、<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>になった<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、正式に決まるまでには、専門家の会議で1年以上の議論が必要です。",
+      "ruby": "ただし、<ruby>正式<rt>せいしき</rt></ruby>に<ruby>決ま<rt>きま</rt></ruby>るまでには、<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で1<ruby>年以上<rt>ねんいじょう</rt></ruby>の<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、物価の上昇が続いているため、景気が良くなったと感じられない人も多いと言われています。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ているため、<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>が<ruby>良く<rt>よく</rt></ruby>なったと<ruby>感じ<rt>かんじ</rt></ruby>られない<ruby>人<rt>ひと</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>と<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、賃金の上昇が物価の上昇を上回るように、経済政策を続ける方針です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<span class=\"vw\" data-ja=\"賃金\" data-reading=\"ちんぎん\" data-en=\"wages\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>が<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"consumer prices\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>を<span class=\"vw\" data-ja=\"上回る\" data-reading=\"うわまわる\" data-en=\"to exceed; to outpace\"><ruby>上回る<rt>うわまわる</rt></ruby></span>ように、<ruby>経済政策<rt>けいざいせいさく</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>る<ruby>方針<rt>ほうしん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月の一致指数は、前の月より何ポイント上がりましたか。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>の<ruby>一致<rt>いっち</rt></ruby><span class=\"vw\" data-ja=\"指数\" data-reading=\"しすう\" data-en=\"index\"><ruby>指数<rt>しすう</rt></ruby></span>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>より<ruby>何<rt>なに</rt></ruby>ポイント<ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One point seven points, reaching one hundred twenty point six."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の景気の拡大は、いつから始まりましたか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span>の<span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "June of twenty twenty, after the pandemic pushed the economy to its bottom."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまで戦後最長だった景気拡大は、何か月続きましたか。",
+      "ruby": "これまで<span class=\"vw\" data-ja=\"戦後\" data-reading=\"せんご\" data-en=\"postwar era\"><ruby>戦後<rt>せんご</rt></ruby></span><ruby>最長<rt>さいちょう</rt></ruby>だった<span class=\"vw\" data-ja=\"景気\" data-reading=\"けいき\" data-en=\"economic conditions; the economy\"><ruby>景気<rt>けいき</rt></ruby></span><span class=\"vw\" data-ja=\"拡大\" data-reading=\"かくだい\" data-en=\"expansion\"><ruby>拡大<rt>かくだい</rt></ruby></span>は、<ruby>何か月<rt>なんかげつ</rt></ruby><ruby>続き<rt>つづき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seventy-three months."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. A record on paper is one thing — the real test is whether people feel it in their daily lives. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "内閣府",
+      "reading": "ないかくふ",
+      "en": "Cabinet Office",
+      "zh": "内阁府"
+    },
+    {
+      "ja": "景気",
+      "reading": "けいき",
+      "en": "economic conditions; the economy",
+      "zh": "景气，经济状况"
+    },
+    {
+      "ja": "指数",
+      "reading": "しすう",
+      "en": "index",
+      "zh": "指数"
+    },
+    {
+      "ja": "水準",
+      "reading": "すいじゅん",
+      "en": "level; standard",
+      "zh": "水平"
+    },
+    {
+      "ja": "半導体",
+      "reading": "はんどうたい",
+      "en": "semiconductor",
+      "zh": "半导体"
+    },
+    {
+      "ja": "需要",
+      "reading": "じゅよう",
+      "en": "demand",
+      "zh": "需求"
+    },
+    {
+      "ja": "製造装置",
+      "reading": "せいぞうそうち",
+      "en": "manufacturing equipment",
+      "zh": "制造设备"
+    },
+    {
+      "ja": "輸出",
+      "reading": "ゆしゅつ",
+      "en": "export",
+      "zh": "出口"
+    },
+    {
+      "ja": "出荷",
+      "reading": "しゅっか",
+      "en": "shipment",
+      "zh": "出货，发货"
+    },
+    {
+      "ja": "拡大",
+      "reading": "かくだい",
+      "en": "expansion",
+      "zh": "扩大"
+    },
+    {
+      "ja": "戦後",
+      "reading": "せんご",
+      "en": "postwar era",
+      "zh": "战后"
+    },
+    {
+      "ja": "可能性",
+      "reading": "かのうせい",
+      "en": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "ja": "物価",
+      "reading": "ぶっか",
+      "en": "consumer prices",
+      "zh": "物价"
+    },
+    {
+      "ja": "賃金",
+      "reading": "ちんぎん",
+      "en": "wages",
+      "zh": "工资"
+    },
+    {
+      "ja": "上回る",
+      "reading": "うわまわる",
+      "en": "to exceed; to outpace",
+      "zh": "超过"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~ (after a gap of ~)",
+      "meaningZh": "时隔……（再次）",
+      "formation": "time period + ぶり（に／の）",
+      "example": "上昇は2か月連続で、2018年10月以来、7年9か月ぶりの高い水準です。",
+      "translation": "The index rose for a second straight month, its highest level in seven years and nine months, since October 2018.",
+      "note": "ぶり attaches to a length of time and means something is happening again after that long a gap. Extremely common in news about records and rare events.",
+      "noteZh": "「ぶり」接在时间长度后，表示时隔那么久再次发生。在报道纪录或罕见事件的新闻中非常常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜場合",
+      "meaning": "in the case that ~ / if ~",
+      "meaningZh": "……的情况下，如果……",
+      "formation": "verb (plain form) + 場合",
+      "example": "拡大が7月まで続いていた場合、その長さは74か月になります。",
+      "translation": "If the expansion continued through July, its length comes to seventy-four months.",
+      "note": "場合 states a hypothetical condition more formally than もし〜たら. News and official announcements prefer it.",
+      "noteZh": "「場合」比「もし〜たら」更正式地表示假设条件，新闻和官方公告中常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#場合"
+    },
+    {
+      "pattern": "〜と言われている",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说……，人们说……",
+      "formation": "plain form + と言われている",
+      "example": "景気が良くなったと感じられない人も多いと言われています。",
+      "translation": "It is said that many people do not feel the economy has improved.",
+      "note": "The passive 言われている reports a general opinion without naming who says it. A staple of news Japanese.",
+      "noteZh": "被动形「言われている」用于转述大众的普遍看法，而不指明是谁说的。新闻日语的常用表达。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と言われている"
+    }
+  ],
+  "practiceZh": [
+    "内閣府は7日、7月の景気動向指数を発表しました。景気の今の状態を示す「一致指数」は120.6で、前の月より1.7ポイント上がりました。\n内阁府7日发布了7月的景气动向指数。反映当前经济状况的「一致指数」为120.6，比上个月上升了1.7个百分点。\n発表する = 发布；示す = 表示",
+    "上昇は2か月連続で、2018年10月以来、7年9か月ぶりの高い水準です。\n指数连续两个月上升，是自2018年10月以来、时隔7年9个月的高水平。\n連続 = 连续；水準 = 水平",
+    "内閣府は、景気の基調判断を「改善を示している」のまま変えませんでした。\n内阁府维持了「显示出改善」的景气基本判断，没有改变。\n基調判断 = 基本判断；改善 = 改善",
+    "指数を押し上げた大きな理由は、半導体を作るための機械の需要です。\n推高指数的主要原因，是制造半导体所需机器的需求。\n押し上げる = 推高；需要 = 需求",
+    "AI、人工知能の広がりで、世界中で半導体の工場が増え、日本の製造装置がよく売れています。\n随着AI（人工智能）的普及，世界各地的半导体工厂不断增加，日本的制造设备卖得很好。\n広がり = 普及；製造装置 = 制造设备",
+    "このため、工業製品の生産や、輸出の量を示す指数が大きく伸びました。\n因此，反映工业产品生产和出口数量的指数大幅增长。\n生産 = 生产；伸びる = 增长",
+    "一方で、軽自動車の販売が振るわず、車や家電などの耐久消費財の出荷は下がりました。\n另一方面，轻型汽车销售不振，汽车和家电等耐用消费品的出货量下降了。\n振るわない = 不景气；出荷 = 出货",
+    "今の景気の拡大は、新型コロナで景気が底を打った2020年6月から始まりました。\n目前的景气扩张，始于因新冠疫情经济触底的2020年6月。\n底を打つ = 触底；始まる = 开始",
+    "拡大が7月まで続いていた場合、その長さは74か月になります。\n如果扩张一直持续到7月，其长度将达到74个月。\n続く = 持续；場合 = 情况",
+    "これまで戦後最長だったのは、2002年から2008年まで73か月続いた「いざなみ景気」です。\n此前战后最长的，是从2002年持续到2008年、长达73个月的「伊邪那美景气」。\n戦後 = 战后；最長 = 最长",
+    "つまり、今回の拡大は、戦後最も長い景気拡大になった可能性があります。\n也就是说，这次的扩张有可能已成为战后最长的景气扩张。\nつまり = 也就是说；可能性 = 可能性",
+    "ただし、正式に決まるまでには、専門家の会議で1年以上の議論が必要です。\n不过，在正式确定之前，还需要专家会议进行一年以上的讨论。\n正式に = 正式地；議論 = 讨论",
+    "また、物価の上昇が続いているため、景気が良くなったと感じられない人も多いと言われています。\n此外，由于物价持续上涨，据说很多人感觉不到经济好转。\n物価 = 物价；感じる = 感觉",
+    "政府は、賃金の上昇が物価の上昇を上回るように、経済政策を続ける方針です。\n政府的方针是继续实施经济政策，使工资涨幅超过物价涨幅。\n賃金 = 工资；上回る = 超过"
+  ]
+}
