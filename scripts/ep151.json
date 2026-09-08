@@ -1,0 +1,521 @@
+{
+  "episode": 151,
+  "title": "生活道路の速度、時速60キロから30キロに",
+  "date": "2026-09-09",
+  "source": "朝日新聞・政府広報オンライン",
+  "level": "N5-N4",
+  "contentVersion": "2026090901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September ninth. Japan just changed a big traffic rule. On the narrow streets where people live, cars must now drive much more slowly. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月1日から、日本の車のルールが大きく変わりました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "狭い道では、車のスピードは、時速30キロまでになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>は、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>30キロまでになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今までは、標識がない道では、時速60キロまで走ることができました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>は、<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>がない<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>60キロまで<span class=\"vw\" data-ja=\"走る\" data-reading=\"はしる\" data-en=\"to drive; to run\"><ruby>走る<rt>はしる</rt></ruby></span>ことができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいルールの対象は、中央線がない狭い道です。「生活道路」と言います。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject (of a rule)\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"中央線\" data-reading=\"ちゅうおうせん\" data-en=\"center line\"><ruby>中央線<rt>ちゅうおうせん</rt></ruby></span>がない<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>です。「<span class=\"vw\" data-ja=\"生活道路\" data-reading=\"せいかつどうろ\" data-en=\"residential street; living road\"><ruby>生活<rt>せいかつ</rt></ruby><ruby>道路<rt>どうろ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "生活道路は、家の近くにある道です。歩く人や自転車がたくさん通ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"生活道路\" data-reading=\"せいかつどうろ\" data-en=\"residential street; living road\"><ruby>生活<rt>せいかつ</rt></ruby><ruby>道路<rt>どうろ</rt></ruby></span>は、<ruby>家<rt>いえ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>にある<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>です。<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>や<span class=\"vw\" data-ja=\"自転車\" data-reading=\"じてんしゃ\" data-en=\"bicycle\"><ruby>自転車<rt>じてんしゃ</rt></ruby></span>がたくさん<ruby>通り<rt>とおり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の道の6割から7割が、新しいルールの対象になります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>の6<ruby>割<rt>わり</rt></ruby>から7<ruby>割<rt>わり</rt></ruby>が、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject (of a rule)\"><ruby>対象<rt>たいしょう</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "車のスピードが遅いと、事故が起きても、けがが軽くなります。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>が<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"slow\"><ruby>遅い<rt>おそい</rt></ruby></span>と、<span class=\"vw\" data-ja=\"事故\" data-reading=\"じこ\" data-en=\"accident\"><ruby>事故<rt>じこ</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ても、<span class=\"vw\" data-ja=\"けが\" data-reading=\"けが\" data-en=\"injury\">けがが</span><ruby>軽く<rt>かるく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "スピードを守らない人は、罰金を払わなければなりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>を<ruby>守ら<rt>まもら</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"罰金\" data-reading=\"ばっきん\" data-en=\"fine; penalty money\"><ruby>罰金<rt>ばっきん</rt></ruby></span>を<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察は、「標識がなくても、狭い道では、ゆっくり走ってください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"警察\" data-reading=\"けいさつ\" data-en=\"police\"><ruby>警察<rt>けいさつ</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>がなくても、<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、ゆっくり<ruby>走っ<rt>はしっ</rt></ruby>てください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいルールで、子どもやお年寄りも、安心して歩くことができます。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>で、<ruby>子<rt>こ</rt></ruby>どもやお<ruby>年寄り<rt>としより</rt></ruby>も、<ruby>安心<rt>あんしん</rt></ruby>して<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月1日から、日本の車のルールが大きく変わりました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From September first, Japan's traffic rules changed in a big way."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変わる",
+      "ruby": "<span class=\"vw\" data-ja=\"変わる\" data-reading=\"かわる\" data-en=\"to change\"><ruby>変わ<rt>かわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to change — to become different."
+    },
+    {
+      "speaker": "slow",
+      "text": "狭い道では、車のスピードは、時速30キロまでになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>は、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>30キロまでになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On narrow streets, car speed is now limited to thirty kilometers per hour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "狭い",
+      "ruby": "<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means narrow — the opposite of wide."
+    },
+    {
+      "speaker": "slow",
+      "text": "今までは、標識がない道では、時速60キロまで走ることができました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>は、<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>がない<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>60キロまで<span class=\"vw\" data-ja=\"走る\" data-reading=\"はしる\" data-en=\"to drive; to run\"><ruby>走る<rt>はしる</rt></ruby></span>ことができました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until now, on roads without signs, cars could drive up to sixty kilometers per hour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "標識",
+      "ruby": "<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a road sign — the boards that show traffic rules."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいルールの対象は、中央線がない狭い道です。「生活道路」と言います。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject (of a rule)\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"中央線\" data-reading=\"ちゅうおうせん\" data-en=\"center line\"><ruby>中央線<rt>ちゅうおうせん</rt></ruby></span>がない<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>です。「<span class=\"vw\" data-ja=\"生活道路\" data-reading=\"せいかつどうろ\" data-en=\"residential street; living road\"><ruby>生活<rt>せいかつ</rt></ruby><ruby>道路<rt>どうろ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new rule applies to narrow roads with no center line. In Japan they are called living roads — residential streets."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対象",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject (of a rule)\"><ruby>対象<rt>たいしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means target, or subject — the thing a rule applies to."
+    },
+    {
+      "speaker": "slow",
+      "text": "生活道路は、家の近くにある道です。歩く人や自転車がたくさん通ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"生活道路\" data-reading=\"せいかつどうろ\" data-en=\"residential street; living road\"><ruby>生活<rt>せいかつ</rt></ruby><ruby>道路<rt>どうろ</rt></ruby></span>は、<ruby>家<rt>いえ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>にある<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>です。<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>や<span class=\"vw\" data-ja=\"自転車\" data-reading=\"じてんしゃ\" data-en=\"bicycle\"><ruby>自転車<rt>じてんしゃ</rt></ruby></span>がたくさん<ruby>通り<rt>とおり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "These are the streets near people's homes. Many walkers and bicycles pass through them."
+    },
+    {
+      "speaker": "vocab",
+      "text": "自転車",
+      "ruby": "<span class=\"vw\" data-ja=\"自転車\" data-reading=\"じてんしゃ\" data-en=\"bicycle\"><ruby>自転車<rt>じてんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bicycle."
+    },
+    {
+      "speaker": "slow",
+      "text": "車のスピードが遅いと、事故が起きても、けがが軽くなります。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>が<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"slow\"><ruby>遅い<rt>おそい</rt></ruby></span>と、<span class=\"vw\" data-ja=\"事故\" data-reading=\"じこ\" data-en=\"accident\"><ruby>事故<rt>じこ</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ても、<span class=\"vw\" data-ja=\"けが\" data-reading=\"けが\" data-en=\"injury\">けがが</span><ruby>軽く<rt>かるく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When cars go slower, injuries are lighter, even if an accident happens."
+    },
+    {
+      "speaker": "vocab",
+      "text": "事故",
+      "ruby": "<span class=\"vw\" data-ja=\"事故\" data-reading=\"じこ\" data-en=\"accident\"><ruby>事故<rt>じこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means accident — like a car crash."
+    },
+    {
+      "speaker": "slow",
+      "text": "スピードを守らない人は、罰金を払わなければなりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>を<ruby>守ら<rt>まもら</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"罰金\" data-reading=\"ばっきん\" data-en=\"fine; penalty money\"><ruby>罰金<rt>ばっきん</rt></ruby></span>を<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "People who don't follow the speed limit must pay a fine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "罰金",
+      "ruby": "<span class=\"vw\" data-ja=\"罰金\" data-reading=\"ばっきん\" data-en=\"fine; penalty money\"><ruby>罰金<rt>ばっきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fine — money you pay as a penalty."
+    },
+    {
+      "speaker": "slow",
+      "text": "警察は、「標識がなくても、狭い道では、ゆっくり走ってください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"警察\" data-reading=\"けいさつ\" data-en=\"police\"><ruby>警察<rt>けいさつ</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>がなくても、<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、ゆっくり<ruby>走っ<rt>はしっ</rt></ruby>てください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The police say: even without a sign, please drive slowly on narrow streets."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警察",
+      "ruby": "<span class=\"vw\" data-ja=\"警察\" data-reading=\"けいさつ\" data-en=\"police\"><ruby>警察<rt>けいさつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means police."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "9月1日から、日本の車のルールが大きく変わりました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "狭い道では、車のスピードは、時速30キロまでになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>は、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>30キロまでになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今までは、標識がない道では、時速60キロまで走ることができました。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>は、<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>がない<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>60キロまで<span class=\"vw\" data-ja=\"走る\" data-reading=\"はしる\" data-en=\"to drive; to run\"><ruby>走る<rt>はしる</rt></ruby></span>ことができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいルールの対象は、中央線がない狭い道です。「生活道路」と言います。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject (of a rule)\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"中央線\" data-reading=\"ちゅうおうせん\" data-en=\"center line\"><ruby>中央線<rt>ちゅうおうせん</rt></ruby></span>がない<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>です。「<span class=\"vw\" data-ja=\"生活道路\" data-reading=\"せいかつどうろ\" data-en=\"residential street; living road\"><ruby>生活<rt>せいかつ</rt></ruby><ruby>道路<rt>どうろ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "生活道路は、家の近くにある道です。歩く人や自転車がたくさん通ります。",
+      "ruby": "<span class=\"vw\" data-ja=\"生活道路\" data-reading=\"せいかつどうろ\" data-en=\"residential street; living road\"><ruby>生活<rt>せいかつ</rt></ruby><ruby>道路<rt>どうろ</rt></ruby></span>は、<ruby>家<rt>いえ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>にある<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>です。<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>や<span class=\"vw\" data-ja=\"自転車\" data-reading=\"じてんしゃ\" data-en=\"bicycle\"><ruby>自転車<rt>じてんしゃ</rt></ruby></span>がたくさん<ruby>通り<rt>とおり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の道の6割から7割が、新しいルールの対象になります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>の6<ruby>割<rt>わり</rt></ruby>から7<ruby>割<rt>わり</rt></ruby>が、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject (of a rule)\"><ruby>対象<rt>たいしょう</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "車のスピードが遅いと、事故が起きても、けがが軽くなります。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>の<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>が<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"slow\"><ruby>遅い<rt>おそい</rt></ruby></span>と、<span class=\"vw\" data-ja=\"事故\" data-reading=\"じこ\" data-en=\"accident\"><ruby>事故<rt>じこ</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ても、<span class=\"vw\" data-ja=\"けが\" data-reading=\"けが\" data-en=\"injury\">けがが</span><ruby>軽く<rt>かるく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "スピードを守らない人は、罰金を払わなければなりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>を<ruby>守ら<rt>まもら</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"罰金\" data-reading=\"ばっきん\" data-en=\"fine; penalty money\"><ruby>罰金<rt>ばっきん</rt></ruby></span>を<ruby>払わ<rt>はらわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察は、「標識がなくても、狭い道では、ゆっくり走ってください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"警察\" data-reading=\"けいさつ\" data-en=\"police\"><ruby>警察<rt>けいさつ</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"標識\" data-reading=\"ひょうしき\" data-en=\"road sign\"><ruby>標識<rt>ひょうしき</rt></ruby></span>がなくても、<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、ゆっくり<ruby>走っ<rt>はしっ</rt></ruby>てください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいルールで、子どもやお年寄りも、安心して歩くことができます。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>で、<ruby>子<rt>こ</rt></ruby>どもやお<ruby>年寄り<rt>としより</rt></ruby>も、<ruby>安心<rt>あんしん</rt></ruby>して<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "狭い道では、車は、時速何キロまで走ることができますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"狭い\" data-reading=\"せまい\" data-en=\"narrow\"><ruby>狭い<rt>せまい</rt></ruby></span><span class=\"vw\" data-ja=\"道\" data-reading=\"みち\" data-en=\"road; street\"><ruby>道<rt>みち</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>は、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span><ruby>何<rt>なに</rt></ruby>キロまで<span class=\"vw\" data-ja=\"走る\" data-reading=\"はしる\" data-en=\"to drive; to run\"><ruby>走る<rt>はしる</rt></ruby></span>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty kilometers per hour — that's the new limit on narrow streets."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいルールは、いつから始まりましたか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "September first."
+    },
+    {
+      "speaker": "slow",
+      "text": "何のための、新しいルールですか。",
+      "ruby": "<ruby>何の<rt>なんの</rt></ruby>ための、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ルール\" data-reading=\"ルール\" data-en=\"rule\">ルール</span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's to protect people walking and riding bicycles — to keep neighborhood streets safe."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you ever drive in Japan, remember — no sign does not mean no limit. Slow down on the small streets. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "狭い",
+      "reading": "せまい",
+      "en": "narrow",
+      "zh": "窄的"
+    },
+    {
+      "ja": "道",
+      "reading": "みち",
+      "en": "road; street",
+      "zh": "道路"
+    },
+    {
+      "ja": "スピード",
+      "reading": "スピード",
+      "en": "speed",
+      "zh": "速度"
+    },
+    {
+      "ja": "時速",
+      "reading": "じそく",
+      "en": "speed per hour",
+      "zh": "时速"
+    },
+    {
+      "ja": "ルール",
+      "reading": "ルール",
+      "en": "rule",
+      "zh": "规则"
+    },
+    {
+      "ja": "変わる",
+      "reading": "かわる",
+      "en": "to change",
+      "zh": "改变"
+    },
+    {
+      "ja": "標識",
+      "reading": "ひょうしき",
+      "en": "road sign",
+      "zh": "交通标志"
+    },
+    {
+      "ja": "走る",
+      "reading": "はしる",
+      "en": "to drive; to run",
+      "zh": "行驶；跑"
+    },
+    {
+      "ja": "中央線",
+      "reading": "ちゅうおうせん",
+      "en": "center line",
+      "zh": "中央线（道路中线）"
+    },
+    {
+      "ja": "生活道路",
+      "reading": "せいかつどうろ",
+      "en": "residential street; living road",
+      "zh": "生活道路（住宅区道路）"
+    },
+    {
+      "ja": "歩く",
+      "reading": "あるく",
+      "en": "to walk",
+      "zh": "走路"
+    },
+    {
+      "ja": "自転車",
+      "reading": "じてんしゃ",
+      "en": "bicycle",
+      "zh": "自行车"
+    },
+    {
+      "ja": "通る",
+      "reading": "とおる",
+      "en": "to pass through",
+      "zh": "通过；经过"
+    },
+    {
+      "ja": "対象",
+      "reading": "たいしょう",
+      "en": "target; subject (of a rule)",
+      "zh": "对象；适用范围"
+    },
+    {
+      "ja": "遅い",
+      "reading": "おそい",
+      "en": "slow",
+      "zh": "慢的"
+    },
+    {
+      "ja": "事故",
+      "reading": "じこ",
+      "en": "accident",
+      "zh": "事故"
+    },
+    {
+      "ja": "けが",
+      "reading": "けが",
+      "en": "injury",
+      "zh": "受伤"
+    },
+    {
+      "ja": "軽い",
+      "reading": "かるい",
+      "en": "light; minor",
+      "zh": "轻的"
+    },
+    {
+      "ja": "守る",
+      "reading": "まもる",
+      "en": "to obey; to protect",
+      "zh": "遵守；保护"
+    },
+    {
+      "ja": "罰金",
+      "reading": "ばっきん",
+      "en": "fine; penalty money",
+      "zh": "罚款"
+    },
+    {
+      "ja": "払う",
+      "reading": "はらう",
+      "en": "to pay",
+      "zh": "支付"
+    },
+    {
+      "ja": "警察",
+      "reading": "けいさつ",
+      "en": "police",
+      "zh": "警察"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜なければなりません",
+      "meaning": "must ~; have to ~",
+      "meaningZh": "必须……；不得不……",
+      "formation": "verb ない-form (drop ない) + なければなりません",
+      "example": "スピードを守らない人は、罰金を払わなければなりません。",
+      "translation": "People who don't follow the speed limit must pay a fine.",
+      "note": "なければなりません shows obligation. 払わなければなりません = must pay.",
+      "noteZh": "「なければなりません」表示义务。払わなければなりません＝必须支付。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なければならない"
+    },
+    {
+      "pattern": "〜と",
+      "meaning": "if ~; when ~ (natural result)",
+      "meaningZh": "一……就……；如果……就……",
+      "formation": "verb / adjective (plain form) + と",
+      "example": "車のスピードが遅いと、事故が起きても、けがが軽くなります。",
+      "translation": "When cars go slower, injuries are lighter even if an accident happens.",
+      "note": "と links a condition to its natural result. 遅いと = when it is slow.",
+      "noteZh": "「と」连接条件和自然结果。遅いと＝速度慢的话。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と条件"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~",
+      "meaningZh": "请（做）……",
+      "formation": "verb て-form + ください",
+      "example": "狭い道では、ゆっくり走ってください。",
+      "translation": "Please drive slowly on narrow streets.",
+      "note": "てください is a polite request. 走ってください = please drive.",
+      "noteZh": "「てください」表示礼貌的请求。走ってください＝请行驶。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#てください"
+    }
+  ],
+  "practiceZh": [
+    "9月1日から、日本の車のルールが大きく変わりました。\n从9月1日起，日本的汽车规则发生了很大变化。\nルール = rule；変わる = to change",
+    "狭い道では、車のスピードは、時速30キロまでになりました。\n在狭窄的道路上，汽车速度限制为每小时30公里。\n狭い = narrow；時速 = speed per hour",
+    "今までは、標識がない道では、時速60キロまで走ることができました。\n在此之前，在没有交通标志的道路上，汽车最高可以行驶每小时60公里。\n標識 = road sign；走る = to drive",
+    "新しいルールの対象は、中央線がない狭い道です。「生活道路」と言います。\n新规则的对象是没有中央线的狭窄道路，这种路被称为“生活道路”。\n対象 = target；中央線 = center line",
+    "生活道路は、家の近くにある道です。歩く人や自転車がたくさん通ります。\n生活道路是住家附近的道路。许多行人和自行车经过这里。\n歩く = to walk；自転車 = bicycle",
+    "日本の道の6割から7割が、新しいルールの対象になります。\n日本60%到70%的道路都属于新规则的适用范围。\n道 = road；対象 = target",
+    "車のスピードが遅いと、事故が起きても、けがが軽くなります。\n汽车速度慢的话，即使发生事故，伤势也会更轻。\n事故 = accident；けが = injury",
+    "スピードを守らない人は、罰金を払わなければなりません。\n不遵守限速的人必须缴纳罚款。\n罰金 = fine；払う = to pay",
+    "警察は、「標識がなくても、狭い道では、ゆっくり走ってください」と話しています。\n警方表示：“即使没有标志，在狭窄的道路上也请慢速行驶。”\n警察 = police；ゆっくり = slowly",
+    "新しいルールで、子どもやお年寄りも、安心して歩くことができます。\n有了新规则，孩子和老人也能安心地走路了。\n子ども = child；安心 = peace of mind"
+  ]
+}
