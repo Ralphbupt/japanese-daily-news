@@ -1,0 +1,540 @@
+{
+  "episode": 153,
+  "title": "東海道新幹線に新しい豪華シート「スプリームクラス」",
+  "date": "2026-09-10",
+  "source": "トラベルWatch・レイルラボ",
+  "level": "N5-N4",
+  "contentVersion": "2026091001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September tenth. Japan's famous bullet train is getting new luxury seats — almost like little private rooms on rails. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線に、新しい特別なシートができます。名前は「スプリームクラス」です。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>な<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>ができます。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「スプリームクラス」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は、9月1日から、東京駅で、新しいシートを見ることができるイベントを開いています。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は、9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>東京駅<rt>とうきょうえき</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>を<ruby>見る<rt>みる</rt></ruby>ことができる<span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>を<ruby>開い<rt>ひらい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スプリームクラスには、二つのタイプがあります。個室の「キャビン」と、半個室の「シート」です。",
+      "ruby": "スプリームクラスには、<ruby>二つ<rt>ふたつ</rt></ruby>のタイプがあります。<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」と、<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "半個室の「シート」は、10号車に、6席だけあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」は、10<span class=\"vw\" data-ja=\"号車\" data-reading=\"ごうしゃ\" data-en=\"car number (of a train)\"><ruby>号車<rt>ごうしゃ</rt></ruby></span>に、6<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>だけあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "席のまわりには、大きな壁があります。静かに、ゆっくり休むことができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>のまわりには、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"壁\" data-reading=\"かべ\" data-en=\"wall\"><ruby>壁<rt>かべ</rt></ruby></span>があります。<span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>に、ゆっくり<span class=\"vw\" data-ja=\"休む\" data-reading=\"やすむ\" data-en=\"to rest\"><ruby>休む<rt>やすむ</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "席はとても広いです。足を伸ばして、座ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>はとても<span class=\"vw\" data-ja=\"広い\" data-reading=\"ひろい\" data-en=\"spacious; wide\"><ruby>広い<rt>ひろい</rt></ruby></span>です。<ruby>足<rt>あし</rt></ruby>を<ruby>伸ばし<rt>のばし</rt></ruby>て、<ruby>座る<rt>すわる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "タブレットで、明かりやエアコンを、自分で変えることができます。飲み物やお菓子のサービスもあります。",
+      "ruby": "タブレットで、<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp\"><ruby>明かり<rt>あかり</rt></ruby></span>や<span class=\"vw\" data-ja=\"エアコン\" data-reading=\"エアコン\" data-en=\"air conditioner\">エアコン</span>を、<ruby>自分<rt>じぶん</rt></ruby>で<span class=\"vw\" data-ja=\"変える\" data-reading=\"かえる\" data-en=\"to change (something)\"><ruby>変え<rt>かえ</rt></ruby>ることができます</span>。<span class=\"vw\" data-ja=\"飲み物\" data-reading=\"のみもの\" data-en=\"drink\"><ruby>飲み物<rt>のみもの</rt></ruby></span>やお<ruby>菓子<rt>かし</rt></ruby>のサービスもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "個室の「キャビン」は、今年の10月1日から始まります。東京から新大阪まで、値段は4万2100円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」は、<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>新大阪<rt>しんおおさか</rt></ruby>まで、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は4<ruby>万<rt>まん</rt></ruby>2100<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "半個室の「シート」は、来年度に始まる予定です。イベントは人気で、予約はすぐにいっぱいになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」は、<span class=\"vw\" data-ja=\"来年度\" data-reading=\"らいねんど\" data-en=\"next fiscal year\"><ruby>来年度<rt>らいねんど</rt></ruby></span>に<ruby>始ま<rt>はじま</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。<span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>は<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby></span>で、<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation\"><ruby>予約<rt>よやく</rt></ruby></span>はすぐにいっぱいになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "東海道新幹線に、新しい特別なシートができます。名前は「スプリームクラス」です。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>な<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>ができます。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「スプリームクラス」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Tokaido Shinkansen is getting new special seats. The name is Supreme Class."
+    },
+    {
+      "speaker": "vocab",
+      "text": "特別",
+      "ruby": "<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means special."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東海は、9月1日から、東京駅で、新しいシートを見ることができるイベントを開いています。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は、9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>東京駅<rt>とうきょうえき</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>を<ruby>見る<rt>みる</rt></ruby>ことができる<span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>を<ruby>開い<rt>ひらい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since September first, the rail company JR Central has been holding an event at Tokyo Station, where you can see the new seats."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open; to hold (an event)\"><ruby>開く<rt>ひらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open — it is also used for holding an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "スプリームクラスには、二つのタイプがあります。個室の「キャビン」と、半個室の「シート」です。",
+      "ruby": "スプリームクラスには、<ruby>二つ<rt>ふたつ</rt></ruby>のタイプがあります。<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」と、<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Supreme Class has two types: a fully private room called Cabin, and a semi-private type called Seat."
+    },
+    {
+      "speaker": "vocab",
+      "text": "個室",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a private room."
+    },
+    {
+      "speaker": "slow",
+      "text": "半個室の「シート」は、10号車に、6席だけあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」は、10<span class=\"vw\" data-ja=\"号車\" data-reading=\"ごうしゃ\" data-en=\"car number (of a train)\"><ruby>号車<rt>ごうしゃ</rt></ruby></span>に、6<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>だけあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The semi-private type has only six seats, all in car number ten."
+    },
+    {
+      "speaker": "vocab",
+      "text": "席",
+      "ruby": "<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a seat."
+    },
+    {
+      "speaker": "slow",
+      "text": "席のまわりには、大きな壁があります。静かに、ゆっくり休むことができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>のまわりには、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"壁\" data-reading=\"かべ\" data-en=\"wall\"><ruby>壁<rt>かべ</rt></ruby></span>があります。<span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>に、ゆっくり<span class=\"vw\" data-ja=\"休む\" data-reading=\"やすむ\" data-en=\"to rest\"><ruby>休む<rt>やすむ</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around each seat there are big walls, so you can rest quietly and slowly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "静か",
+      "ruby": "<span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means quiet."
+    },
+    {
+      "speaker": "slow",
+      "text": "タブレットで、明かりやエアコンを、自分で変えることができます。飲み物やお菓子のサービスもあります。",
+      "ruby": "タブレットで、<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp\"><ruby>明かり<rt>あかり</rt></ruby></span>や<span class=\"vw\" data-ja=\"エアコン\" data-reading=\"エアコン\" data-en=\"air conditioner\">エアコン</span>を、<ruby>自分<rt>じぶん</rt></ruby>で<span class=\"vw\" data-ja=\"変える\" data-reading=\"かえる\" data-en=\"to change (something)\"><ruby>変え<rt>かえ</rt></ruby>ることができます</span>。<span class=\"vw\" data-ja=\"飲み物\" data-reading=\"のみもの\" data-en=\"drink\"><ruby>飲み物<rt>のみもの</rt></ruby></span>やお<ruby>菓子<rt>かし</rt></ruby>のサービスもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "With a tablet, you can change the lights and the air conditioning yourself. There is also a drink and snack service."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変える",
+      "ruby": "<span class=\"vw\" data-ja=\"変える\" data-reading=\"かえる\" data-en=\"to change (something)\"><ruby>変え<rt>かえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to change something."
+    },
+    {
+      "speaker": "slow",
+      "text": "個室の「キャビン」は、今年の10月1日から始まります。東京から新大阪まで、値段は4万2100円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」は、<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>新大阪<rt>しんおおさか</rt></ruby>まで、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は4<ruby>万<rt>まん</rt></ruby>2100<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The private rooms start on October first this year. From Tokyo to Shin-Osaka, the price is forty-two thousand one hundred yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "半個室の「シート」は、来年度に始まる予定です。イベントは人気で、予約はすぐにいっぱいになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」は、<span class=\"vw\" data-ja=\"来年度\" data-reading=\"らいねんど\" data-en=\"next fiscal year\"><ruby>来年度<rt>らいねんど</rt></ruby></span>に<ruby>始ま<rt>はじま</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。<span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>は<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby></span>で、<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation\"><ruby>予約<rt>よやく</rt></ruby></span>はすぐにいっぱいになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The semi-private seats are planned to start next fiscal year. The event is popular — reservations filled up right away."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予約",
+      "ruby": "<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation\"><ruby>予約<rt>よやく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a reservation — booking a seat or a place before you go."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線に、新しい特別なシートができます。名前は「スプリームクラス」です。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>な<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>ができます。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「スプリームクラス」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は、9月1日から、東京駅で、新しいシートを見ることができるイベントを開いています。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は、9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>東京駅<rt>とうきょうえき</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>を<ruby>見る<rt>みる</rt></ruby>ことができる<span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>を<ruby>開い<rt>ひらい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スプリームクラスには、二つのタイプがあります。個室の「キャビン」と、半個室の「シート」です。",
+      "ruby": "スプリームクラスには、<ruby>二つ<rt>ふたつ</rt></ruby>のタイプがあります。<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」と、<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "半個室の「シート」は、10号車に、6席だけあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」は、10<span class=\"vw\" data-ja=\"号車\" data-reading=\"ごうしゃ\" data-en=\"car number (of a train)\"><ruby>号車<rt>ごうしゃ</rt></ruby></span>に、6<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>だけあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "席のまわりには、大きな壁があります。静かに、ゆっくり休むことができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>のまわりには、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"壁\" data-reading=\"かべ\" data-en=\"wall\"><ruby>壁<rt>かべ</rt></ruby></span>があります。<span class=\"vw\" data-ja=\"静か\" data-reading=\"しずか\" data-en=\"quiet\"><ruby>静か<rt>しずか</rt></ruby></span>に、ゆっくり<span class=\"vw\" data-ja=\"休む\" data-reading=\"やすむ\" data-en=\"to rest\"><ruby>休む<rt>やすむ</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "席はとても広いです。足を伸ばして、座ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"席\" data-reading=\"せき\" data-en=\"seat\"><ruby>席<rt>せき</rt></ruby></span>はとても<span class=\"vw\" data-ja=\"広い\" data-reading=\"ひろい\" data-en=\"spacious; wide\"><ruby>広い<rt>ひろい</rt></ruby></span>です。<ruby>足<rt>あし</rt></ruby>を<ruby>伸ばし<rt>のばし</rt></ruby>て、<ruby>座る<rt>すわる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "タブレットで、明かりやエアコンを、自分で変えることができます。飲み物やお菓子のサービスもあります。",
+      "ruby": "タブレットで、<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp\"><ruby>明かり<rt>あかり</rt></ruby></span>や<span class=\"vw\" data-ja=\"エアコン\" data-reading=\"エアコン\" data-en=\"air conditioner\">エアコン</span>を、<ruby>自分<rt>じぶん</rt></ruby>で<span class=\"vw\" data-ja=\"変える\" data-reading=\"かえる\" data-en=\"to change (something)\"><ruby>変え<rt>かえ</rt></ruby>ることができます</span>。<span class=\"vw\" data-ja=\"飲み物\" data-reading=\"のみもの\" data-en=\"drink\"><ruby>飲み物<rt>のみもの</rt></ruby></span>やお<ruby>菓子<rt>かし</rt></ruby>のサービスもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "個室の「キャビン」は、今年の10月1日から始まります。東京から新大阪まで、値段は4万2100円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」は、<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>新大阪<rt>しんおおさか</rt></ruby>まで、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は4<ruby>万<rt>まん</rt></ruby>2100<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "半個室の「シート」は、来年度に始まる予定です。イベントは人気で、予約はすぐにいっぱいになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の「<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>」は、<span class=\"vw\" data-ja=\"来年度\" data-reading=\"らいねんど\" data-en=\"next fiscal year\"><ruby>来年度<rt>らいねんど</rt></ruby></span>に<ruby>始ま<rt>はじま</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。<span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>は<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular\"><ruby>人気<rt>にんき</rt></ruby></span>で、<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation\"><ruby>予約<rt>よやく</rt></ruby></span>はすぐにいっぱいになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい特別なシートの名前は、何ですか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>な<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's called Supreme Class."
+    },
+    {
+      "speaker": "slow",
+      "text": "半個室のシートは、いくつありますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"半個室\" data-reading=\"はんこしつ\" data-en=\"semi-private room\"><ruby>半<rt>はん</rt></ruby><ruby>個室<rt>こしつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"シート\" data-reading=\"シート\" data-en=\"seat (train seat)\">シート</span>は、いくつありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Only six seats, in car number ten."
+    },
+    {
+      "speaker": "slow",
+      "text": "個室の「キャビン」は、いつから始まりますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の「キャビン」は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "October first this year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you ride the bullet train in Japan next year, maybe you can try a little private room on rails. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "新幹線",
+      "reading": "しんかんせん",
+      "en": "bullet train; shinkansen",
+      "zh": "新干线"
+    },
+    {
+      "ja": "特別",
+      "reading": "とくべつ",
+      "en": "special",
+      "zh": "特别"
+    },
+    {
+      "ja": "シート",
+      "reading": "シート",
+      "en": "seat (train seat)",
+      "zh": "座椅"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "駅",
+      "reading": "えき",
+      "en": "station",
+      "zh": "车站"
+    },
+    {
+      "ja": "イベント",
+      "reading": "イベント",
+      "en": "event",
+      "zh": "活动"
+    },
+    {
+      "ja": "開く",
+      "reading": "ひらく",
+      "en": "to open; to hold (an event)",
+      "zh": "打开；举办"
+    },
+    {
+      "ja": "個室",
+      "reading": "こしつ",
+      "en": "private room",
+      "zh": "单间；包间"
+    },
+    {
+      "ja": "半個室",
+      "reading": "はんこしつ",
+      "en": "semi-private room",
+      "zh": "半包间"
+    },
+    {
+      "ja": "号車",
+      "reading": "ごうしゃ",
+      "en": "car number (of a train)",
+      "zh": "（第几号）车厢"
+    },
+    {
+      "ja": "席",
+      "reading": "せき",
+      "en": "seat",
+      "zh": "座位"
+    },
+    {
+      "ja": "壁",
+      "reading": "かべ",
+      "en": "wall",
+      "zh": "墙壁"
+    },
+    {
+      "ja": "静か",
+      "reading": "しずか",
+      "en": "quiet",
+      "zh": "安静"
+    },
+    {
+      "ja": "休む",
+      "reading": "やすむ",
+      "en": "to rest",
+      "zh": "休息"
+    },
+    {
+      "ja": "広い",
+      "reading": "ひろい",
+      "en": "spacious; wide",
+      "zh": "宽敞的"
+    },
+    {
+      "ja": "伸ばす",
+      "reading": "のばす",
+      "en": "to stretch (out)",
+      "zh": "伸展"
+    },
+    {
+      "ja": "明かり",
+      "reading": "あかり",
+      "en": "light; lamp",
+      "zh": "灯光"
+    },
+    {
+      "ja": "エアコン",
+      "reading": "エアコン",
+      "en": "air conditioner",
+      "zh": "空调"
+    },
+    {
+      "ja": "変える",
+      "reading": "かえる",
+      "en": "to change (something)",
+      "zh": "改变；调整"
+    },
+    {
+      "ja": "飲み物",
+      "reading": "のみもの",
+      "en": "drink",
+      "zh": "饮料"
+    },
+    {
+      "ja": "お菓子",
+      "reading": "おかし",
+      "en": "sweets; snacks",
+      "zh": "点心；零食"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "来年度",
+      "reading": "らいねんど",
+      "en": "next fiscal year",
+      "zh": "下一年度"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan; schedule",
+      "zh": "预定；计划"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popular",
+      "zh": "受欢迎"
+    },
+    {
+      "ja": "予約",
+      "reading": "よやく",
+      "en": "reservation",
+      "zh": "预约"
+    },
+    {
+      "ja": "いっぱい",
+      "reading": "いっぱい",
+      "en": "full",
+      "zh": "满"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができます",
+      "meaning": "can do ~; be able to ~",
+      "meaningZh": "能够……；可以……",
+      "formation": "verb dictionary form + ことができます",
+      "example": "静かに、ゆっくり休むことができます。",
+      "translation": "You can rest quietly and slowly.",
+      "note": "ことができます shows ability or possibility. 休むことができます = can rest.",
+      "noteZh": "「ことができます」表示能力或可能性。休むことができます＝可以休息。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜だけ",
+      "meaning": "only ~; just ~",
+      "meaningZh": "只有……；仅仅……",
+      "formation": "noun / number + だけ",
+      "example": "半個室の「シート」は、10号車に、6席だけあります。",
+      "translation": "The semi-private seats — there are only six, in car number ten.",
+      "note": "だけ means only. 6席だけ = only six seats.",
+      "noteZh": "「だけ」表示“只有”。6席だけ＝只有6个座位。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#だけ"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "be planned to ~; be scheduled to ~",
+      "meaningZh": "预定……；计划……",
+      "formation": "verb dictionary form + 予定です",
+      "example": "半個室の「シート」は、来年度に始まる予定です。",
+      "translation": "The semi-private seats are planned to start next fiscal year.",
+      "note": "予定です shows a plan or schedule. 始まる予定です = is planned to start.",
+      "noteZh": "「予定です」表示计划或安排。始まる予定です＝预定开始。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定だ"
+    }
+  ],
+  "practiceZh": [
+    "東海道新幹線に、新しい特別なシートができます。名前は「スプリームクラス」です。\n东海道新干线将推出新的特别座椅，名字叫“Supreme Class（至尊舱）”。\n特別 = special；名前 = name",
+    "JR東海は、9月1日から、東京駅で、新しいシートを見ることができるイベントを開いています。\nJR东海从9月1日起在东京站举办可以参观新座椅的活动。\n駅 = station；開く = to hold (an event)",
+    "スプリームクラスには、二つのタイプがあります。個室の「キャビン」と、半個室の「シート」です。\n至尊舱有两种类型：全包间的“Cabin”和半包间的“Seat”。\n個室 = private room；半個室 = semi-private room",
+    "半個室の「シート」は、10号車に、6席だけあります。\n半包间座椅只有6个，全部位于10号车厢。\n号車 = car number；席 = seat",
+    "席のまわりには、大きな壁があります。静かに、ゆっくり休むことができます。\n座位四周有高大的隔板，可以安静、悠闲地休息。\n壁 = wall；静か = quiet",
+    "席はとても広いです。足を伸ばして、座ることができます。\n座位非常宽敞，可以伸直双腿坐着。\n広い = spacious；伸ばす = to stretch",
+    "タブレットで、明かりやエアコンを、自分で変えることができます。飲み物やお菓子のサービスもあります。\n可以用平板电脑自己调节灯光和空调，还有饮料和点心服务。\n明かり = light；変える = to change",
+    "個室の「キャビン」は、今年の10月1日から始まります。東京から新大阪まで、値段は4万2100円です。\n全包间“Cabin”将于今年10月1日启用。东京到新大阪的价格是42,100日元。\n始まる = to begin；値段 = price",
+    "半個室の「シート」は、来年度に始まる予定です。イベントは人気で、予約はすぐにいっぱいになりました。\n半包间座椅预定于下一年度启用。体验活动很受欢迎，预约很快就满了。\n予定 = plan；予約 = reservation"
+  ]
+}
