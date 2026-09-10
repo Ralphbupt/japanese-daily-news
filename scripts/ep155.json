@@ -1,0 +1,534 @@
+{
+  "episode": 155,
+  "title": "東京駅前に新しい高層ビル「トフロム八重洲」が開業",
+  "date": "2026-09-11",
+  "source": "ファッションプレス・日本経済新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026091101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September eleventh. A brand-new skyscraper has just opened right in front of Tokyo Station, full of restaurants, a theater, and a huge bus terminal. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月10日、東京駅の前に、新しい大きなビルがオープンしました。名前は「トフロム八重洲タワー」です。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>が<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しました。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「トフロム<ruby>八重洲<rt>やえす</rt></ruby>タワー」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルは、地上51階で、高さは約250メートルです。とても高いビルです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、<span class=\"vw\" data-ja=\"地上\" data-reading=\"ちじょう\" data-en=\"above ground\"><ruby>地上<rt>ちじょう</rt></ruby></span>51<span class=\"vw\" data-ja=\"階\" data-reading=\"かい\" data-en=\"floor; story (of a building)\"><ruby>階<rt>かい</rt></ruby></span>で、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>250<span class=\"vw\" data-ja=\"メートル\" data-reading=\"メートル\" data-en=\"meter\">メートル</span>です。とても<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"tall; high\"><ruby>高い<rt>たかい</rt></ruby></span><span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルの中には、68の店が入ります。レストランが多いです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>の<ruby>中に<rt>なかに</rt></ruby>は、68の<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>が<ruby>入り<rt>いり</rt></ruby>ます。<span class=\"vw\" data-ja=\"レストラン\" data-reading=\"レストラン\" data-en=\"restaurant\">レストラン</span>が<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の日は、55の店がオープンしました。ほかの店は、今年の冬からオープンする予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>は、55の<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>が<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しました。ほかの<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"冬\" data-reading=\"ふゆ\" data-en=\"winter\"><ruby>冬<rt>ふゆ</rt></ruby></span>から<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>する<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔からある有名な店も入っています。170年以上の歴史がある店もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; old times\"><ruby>昔<rt>むかし</rt></ruby></span>からある<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>も<ruby>入っ<rt>はいっ</rt></ruby>ています。170<ruby>年以上<rt>ねんいじょう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>がある<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルは、地下で東京駅とつながっています。雨の日も、濡れないで行くことができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>で<ruby>東京駅<rt>とうきょうえき</rt></ruby>とつながっています。<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>も、<ruby>濡れ<rt>ぬれ</rt></ruby>ないで<ruby>行く<rt>いく</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "地下には、大きなバスターミナルがあります。日本で一番大きいバスターミナルになる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>には、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>があります。<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one; the most\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>になる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルの中には、新しい劇場や、オフィス、クリニックもあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"劇場\" data-reading=\"げきじょう\" data-en=\"theater\"><ruby>劇場<rt>げきじょう</rt></ruby></span>や、<span class=\"vw\" data-ja=\"オフィス\" data-reading=\"オフィス\" data-en=\"office\">オフィス</span>、<span class=\"vw\" data-ja=\"クリニック\" data-reading=\"クリニック\" data-en=\"clinic\">クリニック</span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前の「トフロム」は、英語の「トゥー」と「フロム」から作りました。「八重洲へ来る」「八重洲から行く」という意味です。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>の「トフロム」は、<span class=\"vw\" data-ja=\"英語\" data-reading=\"えいご\" data-en=\"English (language)\"><ruby>英語<rt>えいご</rt></ruby></span>の「トゥー」と「フロム」から<ruby>作り<rt>つくり</rt></ruby>ました。「<ruby>八重洲<rt>やえす</rt></ruby>へ<ruby>来る<rt>くる</rt></ruby>」「<ruby>八重洲<rt>やえす</rt></ruby>から<ruby>行く<rt>いく</rt></ruby>」という<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月10日、東京駅の前に、新しい大きなビルがオープンしました。名前は「トフロム八重洲タワー」です。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>が<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しました。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「トフロム<ruby>八重洲<rt>やえす</rt></ruby>タワー」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On September tenth, a big new building opened in front of Tokyo Station. Its name is Tofrom Yaesu Tower."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ビル",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a building."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビルは、地上51階で、高さは約250メートルです。とても高いビルです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、<span class=\"vw\" data-ja=\"地上\" data-reading=\"ちじょう\" data-en=\"above ground\"><ruby>地上<rt>ちじょう</rt></ruby></span>51<span class=\"vw\" data-ja=\"階\" data-reading=\"かい\" data-en=\"floor; story (of a building)\"><ruby>階<rt>かい</rt></ruby></span>で、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>250<span class=\"vw\" data-ja=\"メートル\" data-reading=\"メートル\" data-en=\"meter\">メートル</span>です。とても<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"tall; high\"><ruby>高い<rt>たかい</rt></ruby></span><span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The building has fifty-one floors above ground, and it is about two hundred fifty meters tall. It's a very tall building."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高さ",
+      "ruby": "<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means height."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビルの中には、68の店が入ります。レストランが多いです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>の<ruby>中に<rt>なかに</rt></ruby>は、68の<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>が<ruby>入り<rt>いり</rt></ruby>ます。<span class=\"vw\" data-ja=\"レストラン\" data-reading=\"レストラン\" data-en=\"restaurant\">レストラン</span>が<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Inside the building, there are sixty-eight shops. Many of them are restaurants."
+    },
+    {
+      "speaker": "vocab",
+      "text": "店",
+      "ruby": "<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a shop or a store."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の日は、55の店がオープンしました。ほかの店は、今年の冬からオープンする予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>は、55の<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>が<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しました。ほかの<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"冬\" data-reading=\"ふゆ\" data-en=\"winter\"><ruby>冬<rt>ふゆ</rt></ruby></span>から<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>する<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the first day, fifty-five shops opened. The other shops are planned to open from this winter."
+    },
+    {
+      "speaker": "vocab",
+      "text": "冬",
+      "ruby": "<span class=\"vw\" data-ja=\"冬\" data-reading=\"ふゆ\" data-en=\"winter\"><ruby>冬<rt>ふゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビルは、地下で東京駅とつながっています。雨の日も、濡れないで行くことができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>で<ruby>東京駅<rt>とうきょうえき</rt></ruby>とつながっています。<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>も、<ruby>濡れ<rt>ぬれ</rt></ruby>ないで<ruby>行く<rt>いく</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The building is connected to Tokyo Station underground. Even on rainy days, you can go there without getting wet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "つながる",
+      "ruby": "<span class=\"vw\" data-ja=\"つながる\" data-reading=\"つながる\" data-en=\"to be connected\">つながる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be connected."
+    },
+    {
+      "speaker": "slow",
+      "text": "地下には、大きなバスターミナルがあります。日本で一番大きいバスターミナルになる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>には、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>があります。<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one; the most\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>になる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the basement, there is a big bus terminal. It is planned to become the biggest bus terminal in Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一番",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one; the most\"><ruby>一番<rt>いちばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means number one — the most, or the biggest."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前の「トフロム」は、英語の「トゥー」と「フロム」から作りました。「八重洲へ来る」「八重洲から行く」という意味です。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>の「トフロム」は、<span class=\"vw\" data-ja=\"英語\" data-reading=\"えいご\" data-en=\"English (language)\"><ruby>英語<rt>えいご</rt></ruby></span>の「トゥー」と「フロム」から<ruby>作り<rt>つくり</rt></ruby>ました。「<ruby>八重洲<rt>やえす</rt></ruby>へ<ruby>来る<rt>くる</rt></ruby>」「<ruby>八重洲<rt>やえす</rt></ruby>から<ruby>行く<rt>いく</rt></ruby>」という<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The name Tofrom was made from the English words 'to' and 'from'. It means coming to Yaesu, and going out from Yaesu."
+    },
+    {
+      "speaker": "vocab",
+      "text": "意味",
+      "ruby": "<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means meaning — what a word says."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "9月10日、東京駅の前に、新しい大きなビルがオープンしました。名前は「トフロム八重洲タワー」です。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>が<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しました。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「トフロム<ruby>八重洲<rt>やえす</rt></ruby>タワー」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルは、地上51階で、高さは約250メートルです。とても高いビルです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、<span class=\"vw\" data-ja=\"地上\" data-reading=\"ちじょう\" data-en=\"above ground\"><ruby>地上<rt>ちじょう</rt></ruby></span>51<span class=\"vw\" data-ja=\"階\" data-reading=\"かい\" data-en=\"floor; story (of a building)\"><ruby>階<rt>かい</rt></ruby></span>で、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>250<span class=\"vw\" data-ja=\"メートル\" data-reading=\"メートル\" data-en=\"meter\">メートル</span>です。とても<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"tall; high\"><ruby>高い<rt>たかい</rt></ruby></span><span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルの中には、68の店が入ります。レストランが多いです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>の<ruby>中に<rt>なかに</rt></ruby>は、68の<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>が<ruby>入り<rt>いり</rt></ruby>ます。<span class=\"vw\" data-ja=\"レストラン\" data-reading=\"レストラン\" data-en=\"restaurant\">レストラン</span>が<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の日は、55の店がオープンしました。ほかの店は、今年の冬からオープンする予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first; the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>は、55の<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>が<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しました。ほかの<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"冬\" data-reading=\"ふゆ\" data-en=\"winter\"><ruby>冬<rt>ふゆ</rt></ruby></span>から<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>する<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔からある有名な店も入っています。170年以上の歴史がある店もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago; old times\"><ruby>昔<rt>むかし</rt></ruby></span>からある<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>も<ruby>入っ<rt>はいっ</rt></ruby>ています。170<ruby>年以上<rt>ねんいじょう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>がある<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop; store\"><ruby>店<rt>みせ</rt></ruby></span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルは、地下で東京駅とつながっています。雨の日も、濡れないで行くことができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>で<ruby>東京駅<rt>とうきょうえき</rt></ruby>とつながっています。<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>も、<ruby>濡れ<rt>ぬれ</rt></ruby>ないで<ruby>行く<rt>いく</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "地下には、大きなバスターミナルがあります。日本で一番大きいバスターミナルになる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>には、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>があります。<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one; the most\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>になる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビルの中には、新しい劇場や、オフィス、クリニックもあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"劇場\" data-reading=\"げきじょう\" data-en=\"theater\"><ruby>劇場<rt>げきじょう</rt></ruby></span>や、<span class=\"vw\" data-ja=\"オフィス\" data-reading=\"オフィス\" data-en=\"office\">オフィス</span>、<span class=\"vw\" data-ja=\"クリニック\" data-reading=\"クリニック\" data-en=\"clinic\">クリニック</span>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前の「トフロム」は、英語の「トゥー」と「フロム」から作りました。「八重洲へ来る」「八重洲から行く」という意味です。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>の「トフロム」は、<span class=\"vw\" data-ja=\"英語\" data-reading=\"えいご\" data-en=\"English (language)\"><ruby>英語<rt>えいご</rt></ruby></span>の「トゥー」と「フロム」から<ruby>作り<rt>つくり</rt></ruby>ました。「<ruby>八重洲<rt>やえす</rt></ruby>へ<ruby>来る<rt>くる</rt></ruby>」「<ruby>八重洲<rt>やえす</rt></ruby>から<ruby>行く<rt>いく</rt></ruby>」という<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいビルは、どこにオープンしましたか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>は、どこに<span class=\"vw\" data-ja=\"オープン\" data-reading=\"オープン\" data-en=\"to open (a shop, a building)\">オープン</span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In front of Tokyo Station."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビルの高さは、約何メートルですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"ビル\" data-reading=\"ビル\" data-en=\"building\">ビル</span>の<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は、<ruby>約<rt>やく</rt></ruby><ruby>何<rt>なに</rt></ruby><span class=\"vw\" data-ja=\"メートル\" data-reading=\"メートル\" data-en=\"meter\">メートル</span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two hundred fifty meters — fifty-one floors."
+    },
+    {
+      "speaker": "slow",
+      "text": "地下のバスターミナルは、どうなる予定ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"地下\" data-reading=\"ちか\" data-en=\"underground; basement\"><ruby>地下<rt>ちか</rt></ruby></span>の<span class=\"vw\" data-ja=\"バスターミナル\" data-reading=\"バスターミナル\" data-en=\"bus terminal\">バスターミナル</span>は、どうなる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is planned to become the biggest bus terminal in Japan."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Next time you start a trip from Tokyo Station, you can have lunch at the new tower before your train or bus. See you next time!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "ビル",
+      "reading": "ビル",
+      "en": "building",
+      "zh": "大楼"
+    },
+    {
+      "ja": "駅",
+      "reading": "えき",
+      "en": "station",
+      "zh": "车站"
+    },
+    {
+      "ja": "オープン",
+      "reading": "オープン",
+      "en": "to open (a shop, a building)",
+      "zh": "开业"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "地上",
+      "reading": "ちじょう",
+      "en": "above ground",
+      "zh": "地上"
+    },
+    {
+      "ja": "階",
+      "reading": "かい",
+      "en": "floor; story (of a building)",
+      "zh": "层"
+    },
+    {
+      "ja": "高さ",
+      "reading": "たかさ",
+      "en": "height",
+      "zh": "高度"
+    },
+    {
+      "ja": "メートル",
+      "reading": "メートル",
+      "en": "meter",
+      "zh": "米"
+    },
+    {
+      "ja": "高い",
+      "reading": "たかい",
+      "en": "tall; high",
+      "zh": "高的"
+    },
+    {
+      "ja": "店",
+      "reading": "みせ",
+      "en": "shop; store",
+      "zh": "店铺"
+    },
+    {
+      "ja": "レストラン",
+      "reading": "レストラン",
+      "en": "restaurant",
+      "zh": "餐厅"
+    },
+    {
+      "ja": "最初",
+      "reading": "さいしょ",
+      "en": "first; the beginning",
+      "zh": "最初"
+    },
+    {
+      "ja": "冬",
+      "reading": "ふゆ",
+      "en": "winter",
+      "zh": "冬天"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan; schedule",
+      "zh": "预定；计划"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "long ago; old times",
+      "zh": "从前"
+    },
+    {
+      "ja": "有名",
+      "reading": "ゆうめい",
+      "en": "famous",
+      "zh": "有名"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    },
+    {
+      "ja": "地下",
+      "reading": "ちか",
+      "en": "underground; basement",
+      "zh": "地下"
+    },
+    {
+      "ja": "つながる",
+      "reading": "つながる",
+      "en": "to be connected",
+      "zh": "连接"
+    },
+    {
+      "ja": "雨",
+      "reading": "あめ",
+      "en": "rain",
+      "zh": "雨"
+    },
+    {
+      "ja": "濡れる",
+      "reading": "ぬれる",
+      "en": "to get wet",
+      "zh": "淋湿"
+    },
+    {
+      "ja": "バスターミナル",
+      "reading": "バスターミナル",
+      "en": "bus terminal",
+      "zh": "巴士总站"
+    },
+    {
+      "ja": "一番",
+      "reading": "いちばん",
+      "en": "number one; the most",
+      "zh": "最；第一"
+    },
+    {
+      "ja": "劇場",
+      "reading": "げきじょう",
+      "en": "theater",
+      "zh": "剧场"
+    },
+    {
+      "ja": "オフィス",
+      "reading": "オフィス",
+      "en": "office",
+      "zh": "办公室"
+    },
+    {
+      "ja": "クリニック",
+      "reading": "クリニック",
+      "en": "clinic",
+      "zh": "诊所"
+    },
+    {
+      "ja": "英語",
+      "reading": "えいご",
+      "en": "English (language)",
+      "zh": "英语"
+    },
+    {
+      "ja": "作る",
+      "reading": "つくる",
+      "en": "to make",
+      "zh": "制作"
+    },
+    {
+      "ja": "意味",
+      "reading": "いみ",
+      "en": "meaning",
+      "zh": "意思"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ないで",
+      "meaning": "without doing ~",
+      "meaningZh": "不做……（就）……",
+      "formation": "verb ない form + で",
+      "example": "雨の日も、濡れないで行くことができます。",
+      "translation": "Even on rainy days, you can go there without getting wet.",
+      "note": "ないで connects two actions: the second happens without the first. 濡れないで行く = go without getting wet.",
+      "noteZh": "「ないで」连接两个动作，表示在不做前项的情况下做后项。濡れないで行く＝不淋湿就能去。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ないで"
+    },
+    {
+      "pattern": "〜ています（状態）",
+      "meaning": "state that continues (is ~ / has been ~)",
+      "meaningZh": "表示状态的持续",
+      "formation": "verb て form + います",
+      "example": "ビルは、地下で東京駅とつながっています。",
+      "translation": "The building is connected to Tokyo Station underground.",
+      "note": "ています can show a state, not an action. つながっています = is connected (and stays connected).",
+      "noteZh": "「ています」可以表示状态而不是动作。つながっています＝（一直）连接着。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ている"
+    },
+    {
+      "pattern": "〜で一番〜",
+      "meaning": "the most ~ in ~ (superlative)",
+      "meaningZh": "在……当中最……",
+      "formation": "place / group + で + 一番 + adjective",
+      "example": "日本で一番大きいバスターミナルになる予定です。",
+      "translation": "It is planned to become the biggest bus terminal in Japan.",
+      "note": "で marks the group, and 一番 makes the superlative. 日本で一番大きい = the biggest in Japan.",
+      "noteZh": "「で」表示范围，「一番」构成最高级。日本で一番大きい＝日本最大的。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#で一番"
+    }
+  ],
+  "practiceZh": [
+    "9月10日、東京駅の前に、新しい大きなビルがオープンしました。名前は「トフロム八重洲タワー」です。\n9月10日，东京站前一座崭新的大楼开业了，名字叫“TOFROM八重洲塔”。\nビル = building；オープン = to open",
+    "ビルは、地上51階で、高さは約250メートルです。とても高いビルです。\n大楼地上有51层，高约250米，是一座非常高的大楼。\n階 = floor；高さ = height",
+    "ビルの中には、68の店が入ります。レストランが多いです。\n大楼里将有68家店铺入驻，其中餐厅很多。\n店 = shop；レストラン = restaurant",
+    "最初の日は、55の店がオープンしました。ほかの店は、今年の冬からオープンする予定です。\n开业第一天有55家店开门营业，其余店铺预定从今年冬天起陆续开业。\n最初 = first；冬 = winter",
+    "昔からある有名な店も入っています。170年以上の歴史がある店もあります。\n很多老字号名店也入驻了，其中一家有170多年的历史。\n昔 = long ago；歴史 = history",
+    "ビルは、地下で東京駅とつながっています。雨の日も、濡れないで行くことができます。\n大楼通过地下通道与东京站相连，下雨天也不会淋湿就能到达。\n地下 = underground；つながる = to be connected",
+    "地下には、大きなバスターミナルがあります。日本で一番大きいバスターミナルになる予定です。\n地下有一个大型巴士总站，预定成为日本最大的巴士总站。\nバスターミナル = bus terminal；一番 = the most",
+    "ビルの中には、新しい劇場や、オフィス、クリニックもあります。\n大楼里还有新剧场、办公室和诊所。\n劇場 = theater；クリニック = clinic",
+    "名前の「トフロム」は、英語の「トゥー」と「フロム」から作りました。「八重洲へ来る」「八重洲から行く」という意味です。\n名字“TOFROM”来自英语的“to”和“from”，意思是“来到八重洲”和“从八重洲出发”。\n英語 = English；意味 = meaning"
+  ]
+}
