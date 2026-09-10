@@ -1,0 +1,536 @@
+{
+  "episode": 154,
+  "title": "サムスン電子、横浜に半導体の研究拠点を開所",
+  "date": "2026-09-10",
+  "source": "日本経済新聞 / 共同通信 / 時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026091001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September tenth. South Korea's Samsung Electronics has opened a big semiconductor research center in Yokohama, teaming up with Japan on next-generation chip technology. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "韓国の半導体大手、サムスン電子は8日、横浜市に作った半導体の研究拠点の開所式を行いました。",
+      "ruby": "<ruby>韓国<rt>かんこく</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span><span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; leading firm\"><ruby>大手<rt>おおて</rt></ruby></span>、サムスン<ruby>電子<rt>でんし</rt></ruby>は<ruby>8日<rt>ようか</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>に<ruby>作っ<rt>つくっ</rt></ruby>た<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>の<span class=\"vw\" data-ja=\"開所式\" data-reading=\"かいしょしき\" data-en=\"opening ceremony\"><ruby>開所式<rt>かいしょしき</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究拠点は、横浜市の「みなとみらい」地区にあり、ことしから本格的に動き始めました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>は、<ruby>横浜市<rt>よこはまし</rt></ruby>の「みなとみらい」<ruby>地区<rt>ちく</rt></ruby>にあり、ことしから<ruby>本格的<rt>ほんかくてき</rt></ruby>に<ruby>動き<rt>うごき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この拠点では、複数の半導体チップを一つにまとめて製品にする「パッケージ」という技術を研究します。",
+      "ruby": "この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>では、<span class=\"vw\" data-ja=\"複数\" data-reading=\"ふくすう\" data-en=\"multiple; several\"><ruby>複数<rt>ふくすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>チップを<ruby>一つ<rt>ひとつ</rt></ruby>にまとめて<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product\"><ruby>製品<rt>せいひん</rt></ruby></span>にする「パッケージ」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "パッケージは、半導体を作る仕事の最後の段階で、「後工程」とも呼ばれています。",
+      "ruby": "パッケージは、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; step\"><ruby>段階<rt>だんかい</rt></ruby></span>で、「<ruby>後工程<rt>あとこうてい</rt></ruby>」とも<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "人工知能、AIの広がりで、性能の高い半導体の需要が世界中で高まっています。",
+      "ruby": "<ruby>人工知能<rt>じんこうちのう</rt></ruby>、AIの<ruby>広が<rt>ひろが</rt></ruby>りで、<span class=\"vw\" data-ja=\"性能\" data-reading=\"せいのう\" data-en=\"performance\"><ruby>性能<rt>せいのう</rt></ruby></span>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>が<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>高ま<rt>たかま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "AI向けの半導体では、このパッケージの技術が、性能を大きく左右すると言われています。",
+      "ruby": "AI<ruby>向け<rt>むけ</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>では、このパッケージの<ruby>技術<rt>ぎじゅつ</rt></ruby>が、<span class=\"vw\" data-ja=\"性能\" data-reading=\"せいのう\" data-en=\"performance\"><ruby>性能<rt>せいのう</rt></ruby></span>を<ruby>大きく<rt>おおきく</rt></ruby><span class=\"vw\" data-ja=\"左右する\" data-reading=\"さゆうする\" data-en=\"to determine; to have a big influence on\"><ruby>左右<rt>さゆう</rt></ruby>すると</span><ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "サムスン電子は、2024年からの5年間で、この拠点におよそ400億円を投資する計画です。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、2024<ruby>年<rt>ねん</rt></ruby>からの5<ruby>年間<rt>ねんかん</rt></ruby>で、この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>におよそ400<ruby>億円<rt>おくえん</rt></ruby>を<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このうち、日本政府が最大200億円、横浜市が25億円を補助します。",
+      "ruby": "このうち、<ruby>日本政府<rt>にほんせいふ</rt></ruby>が<ruby>最大<rt>さいだい</rt></ruby>200<ruby>億円<rt>おくえん</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>が25<ruby>億円<rt>おくえん</rt></ruby>を<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy; assistance\"><ruby>補助<rt>ほじょ</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本には、半導体の材料や製造装置に強い会社が多くあります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>には、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"material\"><ruby>材料<rt>ざいりょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"製造装置\" data-reading=\"せいぞうそうち\" data-en=\"manufacturing equipment\"><ruby>製造<rt>せいぞう</rt></ruby><ruby>装置<rt>そうち</rt></ruby></span>に<ruby>強い<rt>つよい</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "サムスン電子は、こうした日本の会社と協力して、新しい技術の開発を速く進めたい考えです。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、こうした<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>速く<rt>はやく</rt></ruby><ruby>進め<rt>すすめ</rt></ruby>たい<ruby>考え<rt>かんがえ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、横浜のまわりには半導体に関係する会社が集まっていて、優秀な技術者を集めやすいことも、この場所を選んだ理由です。",
+      "ruby": "また、<ruby>横浜<rt>よこはま</rt></ruby>のまわりには<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っていて、<span class=\"vw\" data-ja=\"優秀\" data-reading=\"ゆうしゅう\" data-en=\"excellent; talented\"><ruby>優秀<rt>ゆうしゅう</rt></ruby></span>な<span class=\"vw\" data-ja=\"技術者\" data-reading=\"ぎじゅつしゃ\" data-en=\"engineer\"><ruby>技術者<rt>ぎじゅつしゃ</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>やすいことも、この<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ<ruby>理由<rt>りゆう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の開所式には、サムスン電子の半導体部門のトップなどが参加し、テープカットで完成を祝いました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<span class=\"vw\" data-ja=\"開所式\" data-reading=\"かいしょしき\" data-en=\"opening ceremony\"><ruby>開所式<rt>かいしょしき</rt></ruby></span>には、サムスン<ruby>電子<rt>でんし</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span><ruby>部門<rt>ぶもん</rt></ruby>のトップなどが<ruby>参加<rt>さんか</rt></ruby>し、テープカットで<ruby>完成<rt>かんせい</rt></ruby>を<ruby>祝い<rt>いわい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "半導体をめぐる世界の競争が厳しくなる中、日本と韓国の新しい協力の形として、注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>をめぐる<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>が<ruby>厳しく<rt>いかめしく</rt></ruby>なる<ruby>中<rt>なか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>として、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "韓国の半導体大手、サムスン電子は8日、横浜市に作った半導体の研究拠点の開所式を行いました。",
+      "ruby": "<ruby>韓国<rt>かんこく</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span><span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; leading firm\"><ruby>大手<rt>おおて</rt></ruby></span>、サムスン<ruby>電子<rt>でんし</rt></ruby>は<ruby>8日<rt>ようか</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>に<ruby>作っ<rt>つくっ</rt></ruby>た<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>の<span class=\"vw\" data-ja=\"開所式\" data-reading=\"かいしょしき\" data-en=\"opening ceremony\"><ruby>開所式<rt>かいしょしき</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the eighth, Samsung Electronics, South Korea's chip giant, held an opening ceremony for its new semiconductor research center in Yokohama."
+    },
+    {
+      "speaker": "vocab",
+      "text": "拠点",
+      "ruby": "<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a base, or a hub of activity."
+    },
+    {
+      "speaker": "slow",
+      "text": "この拠点では、複数の半導体チップを一つにまとめて製品にする「パッケージ」という技術を研究します。",
+      "ruby": "この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>では、<span class=\"vw\" data-ja=\"複数\" data-reading=\"ふくすう\" data-en=\"multiple; several\"><ruby>複数<rt>ふくすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>チップを<ruby>一つ<rt>ひとつ</rt></ruby>にまとめて<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product\"><ruby>製品<rt>せいひん</rt></ruby></span>にする「パッケージ」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "The center will study packaging — the technology that combines several chips into one finished product."
+    },
+    {
+      "speaker": "vocab",
+      "text": "複数",
+      "ruby": "<span class=\"vw\" data-ja=\"複数\" data-reading=\"ふくすう\" data-en=\"multiple; several\"><ruby>複数<rt>ふくすう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means multiple — more than one."
+    },
+    {
+      "speaker": "slow",
+      "text": "パッケージは、半導体を作る仕事の最後の段階で、「後工程」とも呼ばれています。",
+      "ruby": "パッケージは、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; step\"><ruby>段階<rt>だんかい</rt></ruby></span>で、「<ruby>後工程<rt>あとこうてい</rt></ruby>」とも<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Packaging is the last stage of chipmaking, also known as the back-end process."
+    },
+    {
+      "speaker": "vocab",
+      "text": "段階",
+      "ruby": "<span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; step\"><ruby>段階<rt>だんかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a stage, or a step."
+    },
+    {
+      "speaker": "slow",
+      "text": "人工知能、AIの広がりで、性能の高い半導体の需要が世界中で高まっています。",
+      "ruby": "<ruby>人工知能<rt>じんこうちのう</rt></ruby>、AIの<ruby>広が<rt>ひろが</rt></ruby>りで、<span class=\"vw\" data-ja=\"性能\" data-reading=\"せいのう\" data-en=\"performance\"><ruby>性能<rt>せいのう</rt></ruby></span>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>が<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>高ま<rt>たかま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the spread of artificial intelligence, demand for high-performance chips is growing worldwide."
+    },
+    {
+      "speaker": "vocab",
+      "text": "需要",
+      "ruby": "<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means demand."
+    },
+    {
+      "speaker": "slow",
+      "text": "サムスン電子は、2024年からの5年間で、この拠点におよそ400億円を投資する計画です。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、2024<ruby>年<rt>ねん</rt></ruby>からの5<ruby>年間<rt>ねんかん</rt></ruby>で、この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>におよそ400<ruby>億円<rt>おくえん</rt></ruby>を<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Samsung plans to invest about forty billion yen in the center over five years, starting in 2024."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投資",
+      "ruby": "<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means investment."
+    },
+    {
+      "speaker": "slow",
+      "text": "このうち、日本政府が最大200億円、横浜市が25億円を補助します。",
+      "ruby": "このうち、<ruby>日本政府<rt>にほんせいふ</rt></ruby>が<ruby>最大<rt>さいだい</rt></ruby>200<ruby>億円<rt>おくえん</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>が25<ruby>億円<rt>おくえん</rt></ruby>を<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy; assistance\"><ruby>補助<rt>ほじょ</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "Of that, the Japanese government will cover up to twenty billion yen, and the city of Yokohama two and a half billion."
+    },
+    {
+      "speaker": "vocab",
+      "text": "補助",
+      "ruby": "<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy; assistance\"><ruby>補助<rt>ほじょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a subsidy — financial support."
+    },
+    {
+      "speaker": "slow",
+      "text": "サムスン電子は、こうした日本の会社と協力して、新しい技術の開発を速く進めたい考えです。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、こうした<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>速く<rt>はやく</rt></ruby><ruby>進め<rt>すすめ</rt></ruby>たい<ruby>考え<rt>かんがえ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Samsung wants to team up with these Japanese companies to speed up development of new technology."
+    },
+    {
+      "speaker": "vocab",
+      "text": "協力",
+      "ruby": "<span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cooperation."
+    },
+    {
+      "speaker": "slow",
+      "text": "半導体をめぐる世界の競争が厳しくなる中、日本と韓国の新しい協力の形として、注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>をめぐる<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>が<ruby>厳しく<rt>いかめしく</rt></ruby>なる<ruby>中<rt>なか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>として、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "As global competition over chips heats up, this is drawing attention as a new form of cooperation between Japan and South Korea."
+    },
+    {
+      "speaker": "vocab",
+      "text": "競争",
+      "ruby": "<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means competition."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "韓国の半導体大手、サムスン電子は8日、横浜市に作った半導体の研究拠点の開所式を行いました。",
+      "ruby": "<ruby>韓国<rt>かんこく</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span><span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company; leading firm\"><ruby>大手<rt>おおて</rt></ruby></span>、サムスン<ruby>電子<rt>でんし</rt></ruby>は<ruby>8日<rt>ようか</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>に<ruby>作っ<rt>つくっ</rt></ruby>た<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>の<span class=\"vw\" data-ja=\"開所式\" data-reading=\"かいしょしき\" data-en=\"opening ceremony\"><ruby>開所式<rt>かいしょしき</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "研究拠点は、横浜市の「みなとみらい」地区にあり、ことしから本格的に動き始めました。",
+      "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>は、<ruby>横浜市<rt>よこはまし</rt></ruby>の「みなとみらい」<ruby>地区<rt>ちく</rt></ruby>にあり、ことしから<ruby>本格的<rt>ほんかくてき</rt></ruby>に<ruby>動き<rt>うごき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この拠点では、複数の半導体チップを一つにまとめて製品にする「パッケージ」という技術を研究します。",
+      "ruby": "この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>では、<span class=\"vw\" data-ja=\"複数\" data-reading=\"ふくすう\" data-en=\"multiple; several\"><ruby>複数<rt>ふくすう</rt></ruby></span>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>チップを<ruby>一つ<rt>ひとつ</rt></ruby>にまとめて<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product\"><ruby>製品<rt>せいひん</rt></ruby></span>にする「パッケージ」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "パッケージは、半導体を作る仕事の最後の段階で、「後工程」とも呼ばれています。",
+      "ruby": "パッケージは、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; step\"><ruby>段階<rt>だんかい</rt></ruby></span>で、「<ruby>後工程<rt>あとこうてい</rt></ruby>」とも<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "人工知能、AIの広がりで、性能の高い半導体の需要が世界中で高まっています。",
+      "ruby": "<ruby>人工知能<rt>じんこうちのう</rt></ruby>、AIの<ruby>広が<rt>ひろが</rt></ruby>りで、<span class=\"vw\" data-ja=\"性能\" data-reading=\"せいのう\" data-en=\"performance\"><ruby>性能<rt>せいのう</rt></ruby></span>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"需要\" data-reading=\"じゅよう\" data-en=\"demand\"><ruby>需要<rt>じゅよう</rt></ruby></span>が<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>高ま<rt>たかま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "AI向けの半導体では、このパッケージの技術が、性能を大きく左右すると言われています。",
+      "ruby": "AI<ruby>向け<rt>むけ</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>では、このパッケージの<ruby>技術<rt>ぎじゅつ</rt></ruby>が、<span class=\"vw\" data-ja=\"性能\" data-reading=\"せいのう\" data-en=\"performance\"><ruby>性能<rt>せいのう</rt></ruby></span>を<ruby>大きく<rt>おおきく</rt></ruby><span class=\"vw\" data-ja=\"左右する\" data-reading=\"さゆうする\" data-en=\"to determine; to have a big influence on\"><ruby>左右<rt>さゆう</rt></ruby>すると</span><ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "サムスン電子は、2024年からの5年間で、この拠点におよそ400億円を投資する計画です。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、2024<ruby>年<rt>ねん</rt></ruby>からの5<ruby>年間<rt>ねんかん</rt></ruby>で、この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>におよそ400<ruby>億円<rt>おくえん</rt></ruby>を<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このうち、日本政府が最大200億円、横浜市が25億円を補助します。",
+      "ruby": "このうち、<ruby>日本政府<rt>にほんせいふ</rt></ruby>が<ruby>最大<rt>さいだい</rt></ruby>200<ruby>億円<rt>おくえん</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>が25<ruby>億円<rt>おくえん</rt></ruby>を<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy; assistance\"><ruby>補助<rt>ほじょ</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本には、半導体の材料や製造装置に強い会社が多くあります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>には、<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"material\"><ruby>材料<rt>ざいりょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"製造装置\" data-reading=\"せいぞうそうち\" data-en=\"manufacturing equipment\"><ruby>製造<rt>せいぞう</rt></ruby><ruby>装置<rt>そうち</rt></ruby></span>に<ruby>強い<rt>つよい</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "サムスン電子は、こうした日本の会社と協力して、新しい技術の開発を速く進めたい考えです。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、こうした<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>速く<rt>はやく</rt></ruby><ruby>進め<rt>すすめ</rt></ruby>たい<ruby>考え<rt>かんがえ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、横浜のまわりには半導体に関係する会社が集まっていて、優秀な技術者を集めやすいことも、この場所を選んだ理由です。",
+      "ruby": "また、<ruby>横浜<rt>よこはま</rt></ruby>のまわりには<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っていて、<span class=\"vw\" data-ja=\"優秀\" data-reading=\"ゆうしゅう\" data-en=\"excellent; talented\"><ruby>優秀<rt>ゆうしゅう</rt></ruby></span>な<span class=\"vw\" data-ja=\"技術者\" data-reading=\"ぎじゅつしゃ\" data-en=\"engineer\"><ruby>技術者<rt>ぎじゅつしゃ</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>やすいことも、この<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ<ruby>理由<rt>りゆう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の開所式には、サムスン電子の半導体部門のトップなどが参加し、テープカットで完成を祝いました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<span class=\"vw\" data-ja=\"開所式\" data-reading=\"かいしょしき\" data-en=\"opening ceremony\"><ruby>開所式<rt>かいしょしき</rt></ruby></span>には、サムスン<ruby>電子<rt>でんし</rt></ruby>の<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span><ruby>部門<rt>ぶもん</rt></ruby>のトップなどが<ruby>参加<rt>さんか</rt></ruby>し、テープカットで<ruby>完成<rt>かんせい</rt></ruby>を<ruby>祝い<rt>いわい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "半導体をめぐる世界の競争が厳しくなる中、日本と韓国の新しい協力の形として、注目されています。",
+      "ruby": "<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>をめぐる<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"競争\" data-reading=\"きょうそう\" data-en=\"competition\"><ruby>競争<rt>きょうそう</rt></ruby></span>が<ruby>厳しく<rt>いかめしく</rt></ruby>なる<ruby>中<rt>なか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"協力\" data-reading=\"きょうりょく\" data-en=\"cooperation\"><ruby>協力<rt>きょうりょく</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>として、<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "サムスン電子は、どこに半導体の研究拠点を作りましたか。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、どこに<span class=\"vw\" data-ja=\"半導体\" data-reading=\"はんどうたい\" data-en=\"semiconductor\"><ruby>半導体<rt>はんどうたい</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>を<ruby>作り<rt>つくり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Minato Mirai district of Yokohama."
+    },
+    {
+      "speaker": "slow",
+      "text": "サムスン電子は、5年間でおよそいくら投資する計画ですか。",
+      "ruby": "サムスン<ruby>電子<rt>でんし</rt></ruby>は、5<ruby>年間<rt>ねんかん</rt></ruby>でおよそいくら<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About forty billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "この拠点では、何という技術を研究しますか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"拠点\" data-reading=\"きょてん\" data-en=\"base; hub\"><ruby>拠点<rt>きょてん</rt></ruby></span>では、<ruby>何と<rt>なんと</rt></ruby>いう<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Packaging — the technology that combines chips into one finished product."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Japan's materials and equipment, and Samsung's chipmaking — a partnership worth watching. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "半導体",
+      "reading": "はんどうたい",
+      "en": "semiconductor",
+      "zh": "半导体"
+    },
+    {
+      "ja": "大手",
+      "reading": "おおて",
+      "en": "major company; leading firm",
+      "zh": "大企业，龙头企业"
+    },
+    {
+      "ja": "拠点",
+      "reading": "きょてん",
+      "en": "base; hub",
+      "zh": "据点，基地"
+    },
+    {
+      "ja": "開所式",
+      "reading": "かいしょしき",
+      "en": "opening ceremony",
+      "zh": "开业典礼，落成仪式"
+    },
+    {
+      "ja": "複数",
+      "reading": "ふくすう",
+      "en": "multiple; several",
+      "zh": "多个，复数"
+    },
+    {
+      "ja": "製品",
+      "reading": "せいひん",
+      "en": "product",
+      "zh": "产品"
+    },
+    {
+      "ja": "段階",
+      "reading": "だんかい",
+      "en": "stage; step",
+      "zh": "阶段"
+    },
+    {
+      "ja": "性能",
+      "reading": "せいのう",
+      "en": "performance",
+      "zh": "性能"
+    },
+    {
+      "ja": "需要",
+      "reading": "じゅよう",
+      "en": "demand",
+      "zh": "需求"
+    },
+    {
+      "ja": "左右する",
+      "reading": "さゆうする",
+      "en": "to determine; to have a big influence on",
+      "zh": "左右，决定"
+    },
+    {
+      "ja": "投資",
+      "reading": "とうし",
+      "en": "investment",
+      "zh": "投资"
+    },
+    {
+      "ja": "補助",
+      "reading": "ほじょ",
+      "en": "subsidy; assistance",
+      "zh": "补助，补贴"
+    },
+    {
+      "ja": "材料",
+      "reading": "ざいりょう",
+      "en": "material",
+      "zh": "材料"
+    },
+    {
+      "ja": "製造装置",
+      "reading": "せいぞうそうち",
+      "en": "manufacturing equipment",
+      "zh": "制造设备"
+    },
+    {
+      "ja": "協力",
+      "reading": "きょうりょく",
+      "en": "cooperation",
+      "zh": "合作，协力"
+    },
+    {
+      "ja": "優秀",
+      "reading": "ゆうしゅう",
+      "en": "excellent; talented",
+      "zh": "优秀"
+    },
+    {
+      "ja": "技術者",
+      "reading": "ぎじゅつしゃ",
+      "en": "engineer",
+      "zh": "技术人员，工程师"
+    },
+    {
+      "ja": "競争",
+      "reading": "きょうそう",
+      "en": "competition",
+      "zh": "竞争"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention",
+      "zh": "关注，瞩目"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "is called ~; is known as ~",
+      "meaningZh": "被称为……",
+      "formation": "noun / quote + と + 呼ばれる",
+      "example": "パッケージは、半導体を作る仕事の最後の段階で、「後工程」とも呼ばれています。",
+      "translation": "Packaging is the last stage of making semiconductors, and it is also called the back-end process.",
+      "note": "The passive of 呼ぶ (to call). News uses と呼ばれている to introduce the common name for something. とも呼ばれる adds 'also called'.",
+      "noteZh": "「呼ぶ」的被动形。新闻中常用「と呼ばれている」介绍事物的通称。「とも呼ばれる」表示'也被称为'。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と呼ばれる"
+    },
+    {
+      "pattern": "〜うち",
+      "meaning": "of these; among ~",
+      "meaningZh": "其中……",
+      "formation": "この / noun + の + うち",
+      "example": "このうち、日本政府が最大200億円、横浜市が25億円を補助します。",
+      "translation": "Of that amount, the Japanese government will subsidize up to twenty billion yen, and the city of Yokohama two and a half billion yen.",
+      "note": "このうち picks a part out of a total just mentioned — very common right after a number in news. Here it splits the forty-billion-yen investment into who pays what.",
+      "noteZh": "「このうち」从刚提到的整体中取出一部分，新闻中常紧跟在数字之后。这里把400亿日元的投资拆分为各方承担的部分。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#うち"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~",
+      "meaningZh": "容易……，便于……",
+      "formation": "verb stem + やすい",
+      "example": "横浜のまわりには半導体に関係する会社が集まっていて、優秀な技術者を集めやすいことも、この場所を選んだ理由です。",
+      "translation": "Chip-related companies are concentrated around Yokohama, and the fact that talented engineers are easy to recruit there was also a reason for choosing the location.",
+      "note": "Attach やすい to a verb stem to say something is easy to do: 集めやすい (easy to gather), 分かりやすい (easy to understand). The opposite is にくい.",
+      "noteZh": "动词ます形去掉ます加「やすい」表示'容易做'：「集めやすい」（容易聚集）、「分かりやすい」（容易懂）。反义是「にくい」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#やすい"
+    }
+  ],
+  "practiceZh": [
+    "韓国の半導体大手、サムスン電子は8日、横浜市に作った半導体の研究拠点の開所式を行いました。\n韩国半导体巨头三星电子8日为其在横滨市设立的半导体研究基地举行了开业典礼。\n大手 = 大企业；拠点 = 据点",
+    "研究拠点は、横浜市の「みなとみらい」地区にあり、ことしから本格的に動き始めました。\n研究基地位于横滨市的「港未来」地区，今年开始正式投入运营。\n地区 = 地区；本格的 = 正式的",
+    "この拠点では、複数の半導体チップを一つにまとめて製品にする「パッケージ」という技術を研究します。\n该基地将研究把多个半导体芯片整合为一个产品的「封装」技术。\n複数 = 多个；製品 = 产品",
+    "パッケージは、半導体を作る仕事の最後の段階で、「後工程」とも呼ばれています。\n封装是半导体制造的最后阶段，也被称为「后道工序」。\n段階 = 阶段；呼ばれる = 被称为",
+    "人工知能、AIの広がりで、性能の高い半導体の需要が世界中で高まっています。\n随着人工智能（AI）的普及，高性能半导体的需求在全世界不断增长。\n性能 = 性能；需要 = 需求",
+    "AI向けの半導体では、このパッケージの技術が、性能を大きく左右すると言われています。\n据说在AI芯片领域，封装技术在很大程度上决定着性能。\n向け = 面向；左右する = 左右，决定",
+    "サムスン電子は、2024年からの5年間で、この拠点におよそ400億円を投資する計画です。\n三星电子计划从2024年起的5年间向该基地投资约400亿日元。\n投資 = 投资；計画 = 计划",
+    "このうち、日本政府が最大200億円、横浜市が25億円を補助します。\n其中，日本政府将补助最多200亿日元，横滨市补助25亿日元。\n補助 = 补助；最大 = 最多",
+    "日本には、半導体の材料や製造装置に強い会社が多くあります。\n日本有很多在半导体材料和制造设备方面实力雄厚的公司。\n材料 = 材料；製造装置 = 制造设备",
+    "サムスン電子は、こうした日本の会社と協力して、新しい技術の開発を速く進めたい考えです。\n三星电子希望与这些日本公司合作，加快新技术的开发。\n協力 = 合作；開発 = 开发",
+    "また、横浜のまわりには半導体に関係する会社が集まっていて、優秀な技術者を集めやすいことも、この場所を選んだ理由です。\n此外，横滨周边聚集着许多半导体相关企业，容易招募优秀的技术人员，这也是选址于此的原因。\n優秀 = 优秀；技術者 = 技术人员",
+    "8日の開所式には、サムスン電子の半導体部門のトップなどが参加し、テープカットで完成を祝いました。\n在8日的开业典礼上，三星电子半导体部门的负责人等出席，并以剪彩庆祝落成。\n部門 = 部门；祝う = 庆祝",
+    "半導体をめぐる世界の競争が厳しくなる中、日本と韓国の新しい協力の形として、注目されています。\n在围绕半导体的全球竞争日益激烈之际，这作为日韩合作的新形式而备受关注。\n競争 = 竞争；注目 = 关注"
+  ]
+}
