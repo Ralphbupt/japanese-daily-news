@@ -1,0 +1,583 @@
+{
+  "episode": 156,
+  "title": "コメ農家の廃業・倒産が過去最多ペース",
+  "date": "2026-09-11",
+  "source": "帝国データバンク / FNNプライムオンライン / 日本農業新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026091101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September eleventh. Rice farmers in Japan are quitting at a record pace this year, even after rice prices surged. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメを作る農家の廃業や倒産が、ことしも過去最多のペースで増えていることが分かりました。",
+      "ruby": "コメを<ruby>作る<rt>つくる</rt></ruby><ruby>農家<rt>のうか</rt></ruby>の<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>が、ことしも<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>のペースで<ruby>増え<rt>ふえ</rt></ruby>ていることが<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査会社の帝国データバンクが、9日に発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"調査会社\" data-reading=\"ちょうさがいしゃ\" data-en=\"research company\"><ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby></span>の<ruby>帝国<rt>ていこく</rt></ruby>データバンクが、<ruby>9日<rt>ここのか</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ことし1月から8月までに、廃業や休業をしたコメ農家は28件、倒産は4件で、合わせて32件になりました。",
+      "ruby": "ことし1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"休業\" data-reading=\"きゅうぎょう\" data-en=\"suspension of business\"><ruby>休業<rt>きゅうぎょう</rt></ruby></span>をしたコメ<ruby>農家<rt>のうか</rt></ruby>は28<ruby>件<rt>けん</rt></ruby>、<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>は4<ruby>件<rt>けん</rt></ruby>で、<ruby>合わ<rt>あわ</rt></ruby>せて32<ruby>件<rt>けん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このままのペースが続くと、去年1年間の37件を上回り、4年連続で過去最多になる可能性があります。",
+      "ruby": "このままのペースが<ruby>続く<rt>つづく</rt></ruby>と、<ruby>去年<rt>きょねん</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby>の37<ruby>件<rt>けん</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>、4<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>になる<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年はコメの値段が大きく上がり、8割近くのコメ農家で利益が増えました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>はコメの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>り、8<ruby>割<rt>わり</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>のコメ<ruby>農家<rt>のうか</rt></ruby>で<span class=\"vw\" data-ja=\"利益\" data-reading=\"りえき\" data-en=\"profit\"><ruby>利益<rt>りえき</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、経営の環境がよくなっても、コメ作りをやめる農家は減っていません。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<ruby>環境<rt>かんきょう</rt></ruby>がよくなっても、コメ<ruby>作り<rt>つくり</rt></ruby>をやめる<ruby>農家<rt>のうか</rt></ruby>は<ruby>減っ<rt>へっ</rt></ruby>ていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "大きな理由の一つは高齢化で、経営者の平均年齢は60歳を超えています。",
+      "ruby": "<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は<span class=\"vw\" data-ja=\"高齢化\" data-reading=\"こうれいか\" data-en=\"aging (of a population)\"><ruby>高齢化<rt>こうれいか</rt></ruby></span>で、<span class=\"vw\" data-ja=\"経営者\" data-reading=\"けいえいしゃ\" data-en=\"business owner; manager\"><ruby>経営者<rt>けいえいしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>は60<ruby>歳<rt>さい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "廃業した農家の中には、70代後半の高齢の経営者も多くいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>した<ruby>農家<rt>のうか</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、70<ruby>代<rt>だい</rt></ruby><ruby>後半<rt>こうはん</rt></ruby>の<ruby>高齢<rt>こうれい</rt></ruby>の<span class=\"vw\" data-ja=\"経営者\" data-reading=\"けいえいしゃ\" data-en=\"business owner; manager\"><ruby>経営者<rt>けいえいしゃ</rt></ruby></span>も<ruby>多く<rt>おおく</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "トラクターやコンバインなどの機械が古くなり、買い替えるお金がないという問題もあります。",
+      "ruby": "トラクターやコンバインなどの<ruby>機械<rt>きかい</rt></ruby>が<ruby>古く<rt>ふるく</rt></ruby>なり、<span class=\"vw\" data-ja=\"買い替える\" data-reading=\"かいかえる\" data-en=\"to replace with a new one\"><ruby>買い<rt>かい</rt></ruby><ruby>替え<rt>かえ</rt></ruby>る</span>お<ruby>金<rt>かね</rt></ruby>がないという<ruby>問題<rt>もんだい</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "肥料や農薬の値段も上がり、コメを作るための費用は増え続けています。",
+      "ruby": "<span class=\"vw\" data-ja=\"肥料\" data-reading=\"ひりょう\" data-en=\"fertilizer\"><ruby>肥料<rt>ひりょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"農薬\" data-reading=\"のうやく\" data-en=\"agricultural chemicals; pesticide\"><ruby>農薬<rt>のうやく</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>上が<rt>あが</rt></ruby>り、コメを<ruby>作る<rt>つくる</rt></ruby>ための<span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost; expense\"><ruby>費用<rt>ひよう</rt></ruby></span>は<ruby>増え<rt>ふえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、ことしの新米を農協が買い取る価格は、去年より2割から4割ほど安くなる見通しです。",
+      "ruby": "さらに、ことしの<ruby>新米<rt>しんまい</rt></ruby>を<span class=\"vw\" data-ja=\"農協\" data-reading=\"のうきょう\" data-en=\"agricultural cooperative\"><ruby>農協<rt>のうきょう</rt></ruby></span>が<span class=\"vw\" data-ja=\"買い取る\" data-reading=\"かいとる\" data-en=\"to buy up; to purchase\"><ruby>買い取る<rt>かいとる</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より2<ruby>割<rt>わり</rt></ruby>から4<ruby>割<rt>わり</rt></ruby>ほど<ruby>安く<rt>やすく</rt></ruby>なる<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "農家からは「これではコメ作りの経営が成り立たない」という声が出ています。",
+      "ruby": "<ruby>農家<rt>のうか</rt></ruby>からは「これではコメ<ruby>作り<rt>つくり</rt></ruby>の<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>成り立た<rt>なりたた</rt></ruby>ない」という<ruby>声<rt>こえ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "猛暑や台風などの天気のリスクもあり、将来が不安で、コメ作りをやめる農家が増えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"猛暑\" data-reading=\"もうしょ\" data-en=\"intense heat\"><ruby>猛暑<rt>もうしょ</rt></ruby></span>や<ruby>台風<rt>たいふう</rt></ruby>などの<ruby>天気<rt>てんき</rt></ruby>のリスクもあり、<ruby>将来<rt>しょうらい</rt></ruby>が<ruby>不安<rt>ふあん</rt></ruby>で、コメ<ruby>作り<rt>つくり</rt></ruby>をやめる<ruby>農家<rt>のうか</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、若い世代が安心してコメ作りを続けられる仕組みが必要だと指摘しています。",
+      "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>若い<rt>わかい</rt></ruby><ruby>世代<rt>せだい</rt></ruby>が<ruby>安心し<rt>あんしんし</rt></ruby>てコメ<ruby>作り<rt>つくり</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>られる<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system; mechanism\"><ruby>仕組み<rt>しくみ</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>だと<span class=\"vw\" data-ja=\"指摘\" data-reading=\"してき\" data-en=\"pointing out\"><ruby>指摘<rt>してき</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "コメを作る農家の廃業や倒産が、ことしも過去最多のペースで増えていることが分かりました。",
+      "ruby": "コメを<ruby>作る<rt>つくる</rt></ruby><ruby>農家<rt>のうか</rt></ruby>の<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>が、ことしも<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>のペースで<ruby>増え<rt>ふえ</rt></ruby>ていることが<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Rice farmers are closing down or going bankrupt at a record pace again this year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "廃業",
+      "ruby": "<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means closing down a business for good."
+    },
+    {
+      "speaker": "slow",
+      "text": "ことし1月から8月までに、廃業や休業をしたコメ農家は28件、倒産は4件で、合わせて32件になりました。",
+      "ruby": "ことし1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"休業\" data-reading=\"きゅうぎょう\" data-en=\"suspension of business\"><ruby>休業<rt>きゅうぎょう</rt></ruby></span>をしたコメ<ruby>農家<rt>のうか</rt></ruby>は28<ruby>件<rt>けん</rt></ruby>、<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>は4<ruby>件<rt>けん</rt></ruby>で、<ruby>合わ<rt>あわ</rt></ruby>せて32<ruby>件<rt>けん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From January through August, twenty-eight rice farms closed or suspended business and four went bankrupt — thirty-two in total."
+    },
+    {
+      "speaker": "vocab",
+      "text": "倒産",
+      "ruby": "<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bankruptcy."
+    },
+    {
+      "speaker": "slow",
+      "text": "このままのペースが続くと、去年1年間の37件を上回り、4年連続で過去最多になる可能性があります。",
+      "ruby": "このままのペースが<ruby>続く<rt>つづく</rt></ruby>と、<ruby>去年<rt>きょねん</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby>の37<ruby>件<rt>けん</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>、4<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>になる<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "At this pace, the number will top last year's thirty-seven and set a record for the fourth straight year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連続",
+      "ruby": "<span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consecutive — in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年はコメの値段が大きく上がり、8割近くのコメ農家で利益が増えました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>はコメの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>り、8<ruby>割<rt>わり</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>のコメ<ruby>農家<rt>のうか</rt></ruby>で<span class=\"vw\" data-ja=\"利益\" data-reading=\"りえき\" data-en=\"profit\"><ruby>利益<rt>りえき</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year rice prices jumped, and nearly eighty percent of rice farms saw higher profits."
+    },
+    {
+      "speaker": "vocab",
+      "text": "利益",
+      "ruby": "<span class=\"vw\" data-ja=\"利益\" data-reading=\"りえき\" data-en=\"profit\"><ruby>利益<rt>りえき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means profit."
+    },
+    {
+      "speaker": "slow",
+      "text": "大きな理由の一つは高齢化で、経営者の平均年齢は60歳を超えています。",
+      "ruby": "<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は<span class=\"vw\" data-ja=\"高齢化\" data-reading=\"こうれいか\" data-en=\"aging (of a population)\"><ruby>高齢化<rt>こうれいか</rt></ruby></span>で、<span class=\"vw\" data-ja=\"経営者\" data-reading=\"けいえいしゃ\" data-en=\"business owner; manager\"><ruby>経営者<rt>けいえいしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>は60<ruby>歳<rt>さい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "One big reason is aging — the average farm owner is now over sixty."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高齢化",
+      "ruby": "<span class=\"vw\" data-ja=\"高齢化\" data-reading=\"こうれいか\" data-en=\"aging (of a population)\"><ruby>高齢化<rt>こうれいか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means aging — a population getting older."
+    },
+    {
+      "speaker": "slow",
+      "text": "肥料や農薬の値段も上がり、コメを作るための費用は増え続けています。",
+      "ruby": "<span class=\"vw\" data-ja=\"肥料\" data-reading=\"ひりょう\" data-en=\"fertilizer\"><ruby>肥料<rt>ひりょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"農薬\" data-reading=\"のうやく\" data-en=\"agricultural chemicals; pesticide\"><ruby>農薬<rt>のうやく</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>上が<rt>あが</rt></ruby>り、コメを<ruby>作る<rt>つくる</rt></ruby>ための<span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost; expense\"><ruby>費用<rt>ひよう</rt></ruby></span>は<ruby>増え<rt>ふえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fertilizer and pesticide prices are up too, so the cost of growing rice keeps rising."
+    },
+    {
+      "speaker": "vocab",
+      "text": "費用",
+      "ruby": "<span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost; expense\"><ruby>費用<rt>ひよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cost, or expense."
+    },
+    {
+      "speaker": "slow",
+      "text": "さらに、ことしの新米を農協が買い取る価格は、去年より2割から4割ほど安くなる見通しです。",
+      "ruby": "さらに、ことしの<ruby>新米<rt>しんまい</rt></ruby>を<span class=\"vw\" data-ja=\"農協\" data-reading=\"のうきょう\" data-en=\"agricultural cooperative\"><ruby>農協<rt>のうきょう</rt></ruby></span>が<span class=\"vw\" data-ja=\"買い取る\" data-reading=\"かいとる\" data-en=\"to buy up; to purchase\"><ruby>買い取る<rt>かいとる</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より2<ruby>割<rt>わり</rt></ruby>から4<ruby>割<rt>わり</rt></ruby>ほど<ruby>安く<rt>やすく</rt></ruby>なる<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On top of that, this year's new rice is expected to sell to the co-ops for twenty to forty percent less than last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見通し",
+      "ruby": "<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an outlook, or forecast."
+    },
+    {
+      "speaker": "slow",
+      "text": "農家からは「これではコメ作りの経営が成り立たない」という声が出ています。",
+      "ruby": "<ruby>農家<rt>のうか</rt></ruby>からは「これではコメ<ruby>作り<rt>つくり</rt></ruby>の<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>成り立た<rt>なりたた</rt></ruby>ない」という<ruby>声<rt>こえ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Farmers are saying that at this rate, rice farming no longer pays as a business."
+    },
+    {
+      "speaker": "vocab",
+      "text": "経営",
+      "ruby": "<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means management — running a business."
+    },
+    {
+      "speaker": "slow",
+      "text": "専門家は、若い世代が安心してコメ作りを続けられる仕組みが必要だと指摘しています。",
+      "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>若い<rt>わかい</rt></ruby><ruby>世代<rt>せだい</rt></ruby>が<ruby>安心し<rt>あんしんし</rt></ruby>てコメ<ruby>作り<rt>つくり</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>られる<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system; mechanism\"><ruby>仕組み<rt>しくみ</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>だと<span class=\"vw\" data-ja=\"指摘\" data-reading=\"してき\" data-en=\"pointing out\"><ruby>指摘<rt>してき</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Experts say Japan needs a system that lets younger generations keep growing rice with confidence."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仕組み",
+      "ruby": "<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system; mechanism\"><ruby>仕組み<rt>しくみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a system, or mechanism."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "コメを作る農家の廃業や倒産が、ことしも過去最多のペースで増えていることが分かりました。",
+      "ruby": "コメを<ruby>作る<rt>つくる</rt></ruby><ruby>農家<rt>のうか</rt></ruby>の<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>が、ことしも<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>のペースで<ruby>増え<rt>ふえ</rt></ruby>ていることが<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査会社の帝国データバンクが、9日に発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"調査会社\" data-reading=\"ちょうさがいしゃ\" data-en=\"research company\"><ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby></span>の<ruby>帝国<rt>ていこく</rt></ruby>データバンクが、<ruby>9日<rt>ここのか</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ことし1月から8月までに、廃業や休業をしたコメ農家は28件、倒産は4件で、合わせて32件になりました。",
+      "ruby": "ことし1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"休業\" data-reading=\"きゅうぎょう\" data-en=\"suspension of business\"><ruby>休業<rt>きゅうぎょう</rt></ruby></span>をしたコメ<ruby>農家<rt>のうか</rt></ruby>は28<ruby>件<rt>けん</rt></ruby>、<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>は4<ruby>件<rt>けん</rt></ruby>で、<ruby>合わ<rt>あわ</rt></ruby>せて32<ruby>件<rt>けん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このままのペースが続くと、去年1年間の37件を上回り、4年連続で過去最多になる可能性があります。",
+      "ruby": "このままのペースが<ruby>続く<rt>つづく</rt></ruby>と、<ruby>去年<rt>きょねん</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby>の37<ruby>件<rt>けん</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>、4<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>になる<span class=\"vw\" data-ja=\"可能性\" data-reading=\"かのうせい\" data-en=\"possibility\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年はコメの値段が大きく上がり、8割近くのコメ農家で利益が増えました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>はコメの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>り、8<ruby>割<rt>わり</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>のコメ<ruby>農家<rt>のうか</rt></ruby>で<span class=\"vw\" data-ja=\"利益\" data-reading=\"りえき\" data-en=\"profit\"><ruby>利益<rt>りえき</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、経営の環境がよくなっても、コメ作りをやめる農家は減っていません。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>の<ruby>環境<rt>かんきょう</rt></ruby>がよくなっても、コメ<ruby>作り<rt>つくり</rt></ruby>をやめる<ruby>農家<rt>のうか</rt></ruby>は<ruby>減っ<rt>へっ</rt></ruby>ていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "大きな理由の一つは高齢化で、経営者の平均年齢は60歳を超えています。",
+      "ruby": "<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は<span class=\"vw\" data-ja=\"高齢化\" data-reading=\"こうれいか\" data-en=\"aging (of a population)\"><ruby>高齢化<rt>こうれいか</rt></ruby></span>で、<span class=\"vw\" data-ja=\"経営者\" data-reading=\"けいえいしゃ\" data-en=\"business owner; manager\"><ruby>経営者<rt>けいえいしゃ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均年齢\" data-reading=\"へいきんねんれい\" data-en=\"average age\"><ruby>平均年齢<rt>へいきんねんれい</rt></ruby></span>は60<ruby>歳<rt>さい</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "廃業した農家の中には、70代後半の高齢の経営者も多くいます。",
+      "ruby": "<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>した<ruby>農家<rt>のうか</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、70<ruby>代<rt>だい</rt></ruby><ruby>後半<rt>こうはん</rt></ruby>の<ruby>高齢<rt>こうれい</rt></ruby>の<span class=\"vw\" data-ja=\"経営者\" data-reading=\"けいえいしゃ\" data-en=\"business owner; manager\"><ruby>経営者<rt>けいえいしゃ</rt></ruby></span>も<ruby>多く<rt>おおく</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "トラクターやコンバインなどの機械が古くなり、買い替えるお金がないという問題もあります。",
+      "ruby": "トラクターやコンバインなどの<ruby>機械<rt>きかい</rt></ruby>が<ruby>古く<rt>ふるく</rt></ruby>なり、<span class=\"vw\" data-ja=\"買い替える\" data-reading=\"かいかえる\" data-en=\"to replace with a new one\"><ruby>買い<rt>かい</rt></ruby><ruby>替え<rt>かえ</rt></ruby>る</span>お<ruby>金<rt>かね</rt></ruby>がないという<ruby>問題<rt>もんだい</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "肥料や農薬の値段も上がり、コメを作るための費用は増え続けています。",
+      "ruby": "<span class=\"vw\" data-ja=\"肥料\" data-reading=\"ひりょう\" data-en=\"fertilizer\"><ruby>肥料<rt>ひりょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"農薬\" data-reading=\"のうやく\" data-en=\"agricultural chemicals; pesticide\"><ruby>農薬<rt>のうやく</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>上が<rt>あが</rt></ruby>り、コメを<ruby>作る<rt>つくる</rt></ruby>ための<span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost; expense\"><ruby>費用<rt>ひよう</rt></ruby></span>は<ruby>増え<rt>ふえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、ことしの新米を農協が買い取る価格は、去年より2割から4割ほど安くなる見通しです。",
+      "ruby": "さらに、ことしの<ruby>新米<rt>しんまい</rt></ruby>を<span class=\"vw\" data-ja=\"農協\" data-reading=\"のうきょう\" data-en=\"agricultural cooperative\"><ruby>農協<rt>のうきょう</rt></ruby></span>が<span class=\"vw\" data-ja=\"買い取る\" data-reading=\"かいとる\" data-en=\"to buy up; to purchase\"><ruby>買い取る<rt>かいとる</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より2<ruby>割<rt>わり</rt></ruby>から4<ruby>割<rt>わり</rt></ruby>ほど<ruby>安く<rt>やすく</rt></ruby>なる<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "農家からは「これではコメ作りの経営が成り立たない」という声が出ています。",
+      "ruby": "<ruby>農家<rt>のうか</rt></ruby>からは「これではコメ<ruby>作り<rt>つくり</rt></ruby>の<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"management; running a business\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>成り立た<rt>なりたた</rt></ruby>ない」という<ruby>声<rt>こえ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "猛暑や台風などの天気のリスクもあり、将来が不安で、コメ作りをやめる農家が増えています。",
+      "ruby": "<span class=\"vw\" data-ja=\"猛暑\" data-reading=\"もうしょ\" data-en=\"intense heat\"><ruby>猛暑<rt>もうしょ</rt></ruby></span>や<ruby>台風<rt>たいふう</rt></ruby>などの<ruby>天気<rt>てんき</rt></ruby>のリスクもあり、<ruby>将来<rt>しょうらい</rt></ruby>が<ruby>不安<rt>ふあん</rt></ruby>で、コメ<ruby>作り<rt>つくり</rt></ruby>をやめる<ruby>農家<rt>のうか</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門家は、若い世代が安心してコメ作りを続けられる仕組みが必要だと指摘しています。",
+      "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>若い<rt>わかい</rt></ruby><ruby>世代<rt>せだい</rt></ruby>が<ruby>安心し<rt>あんしんし</rt></ruby>てコメ<ruby>作り<rt>つくり</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>られる<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system; mechanism\"><ruby>仕組み<rt>しくみ</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>だと<span class=\"vw\" data-ja=\"指摘\" data-reading=\"してき\" data-en=\"pointing out\"><ruby>指摘<rt>してき</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ことし1月から8月までに、廃業や倒産などをしたコメ農家は、合わせて何件でしたか。",
+      "ruby": "ことし1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、<span class=\"vw\" data-ja=\"廃業\" data-reading=\"はいぎょう\" data-en=\"closing a business for good\"><ruby>廃業<rt>はいぎょう</rt></ruby></span>や<span class=\"vw\" data-ja=\"倒産\" data-reading=\"とうさん\" data-en=\"bankruptcy\"><ruby>倒産<rt>とうさん</rt></ruby></span>などをしたコメ<ruby>農家<rt>のうか</rt></ruby>は、<ruby>合わ<rt>あわ</rt></ruby>せて<ruby>何件<rt>なんけん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty-two."
+    },
+    {
+      "speaker": "slow",
+      "text": "コメ作りをやめる農家が多い、大きな理由の一つは何ですか。",
+      "ruby": "コメ<ruby>作り<rt>つくり</rt></ruby>をやめる<ruby>農家<rt>のうか</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aging of farmers — the average owner is over sixty."
+    },
+    {
+      "speaker": "slow",
+      "text": "ことしの新米を農協が買い取る価格は、去年と比べてどうなる見通しですか。",
+      "ruby": "ことしの<ruby>新米<rt>しんまい</rt></ruby>を<span class=\"vw\" data-ja=\"農協\" data-reading=\"のうきょう\" data-en=\"agricultural cooperative\"><ruby>農協<rt>のうきょう</rt></ruby></span>が<span class=\"vw\" data-ja=\"買い取る\" data-reading=\"かいとる\" data-en=\"to buy up; to purchase\"><ruby>買い取る<rt>かいとる</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>てどうなる<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is expected to be twenty to forty percent lower than last year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Record prices last year, yet record closures this year — Japan's rice farming is at a turning point. See you next time on Japanese Daily News."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "廃業",
+      "reading": "はいぎょう",
+      "en": "closing a business for good",
+      "zh": "歇业，停业"
+    },
+    {
+      "ja": "倒産",
+      "reading": "とうさん",
+      "en": "bankruptcy",
+      "zh": "破产，倒闭"
+    },
+    {
+      "ja": "休業",
+      "reading": "きゅうぎょう",
+      "en": "suspension of business",
+      "zh": "暂停营业"
+    },
+    {
+      "ja": "調査会社",
+      "reading": "ちょうさがいしゃ",
+      "en": "research company",
+      "zh": "调查公司"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "consecutive; in a row",
+      "zh": "连续"
+    },
+    {
+      "ja": "可能性",
+      "reading": "かのうせい",
+      "en": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "ja": "利益",
+      "reading": "りえき",
+      "en": "profit",
+      "zh": "利润，收益"
+    },
+    {
+      "ja": "経営",
+      "reading": "けいえい",
+      "en": "management; running a business",
+      "zh": "经营"
+    },
+    {
+      "ja": "経営者",
+      "reading": "けいえいしゃ",
+      "en": "business owner; manager",
+      "zh": "经营者"
+    },
+    {
+      "ja": "高齢化",
+      "reading": "こうれいか",
+      "en": "aging (of a population)",
+      "zh": "老龄化"
+    },
+    {
+      "ja": "平均年齢",
+      "reading": "へいきんねんれい",
+      "en": "average age",
+      "zh": "平均年龄"
+    },
+    {
+      "ja": "買い替える",
+      "reading": "かいかえる",
+      "en": "to replace with a new one",
+      "zh": "换购，买新的替换"
+    },
+    {
+      "ja": "肥料",
+      "reading": "ひりょう",
+      "en": "fertilizer",
+      "zh": "肥料"
+    },
+    {
+      "ja": "農薬",
+      "reading": "のうやく",
+      "en": "agricultural chemicals; pesticide",
+      "zh": "农药"
+    },
+    {
+      "ja": "費用",
+      "reading": "ひよう",
+      "en": "cost; expense",
+      "zh": "费用"
+    },
+    {
+      "ja": "農協",
+      "reading": "のうきょう",
+      "en": "agricultural cooperative",
+      "zh": "农协"
+    },
+    {
+      "ja": "買い取る",
+      "reading": "かいとる",
+      "en": "to buy up; to purchase",
+      "zh": "收购"
+    },
+    {
+      "ja": "見通し",
+      "reading": "みとおし",
+      "en": "outlook; forecast",
+      "zh": "前景，预期"
+    },
+    {
+      "ja": "成り立つ",
+      "reading": "なりたつ",
+      "en": "to be viable; to hold together",
+      "zh": "成立，维持下去"
+    },
+    {
+      "ja": "猛暑",
+      "reading": "もうしょ",
+      "en": "intense heat",
+      "zh": "酷暑"
+    },
+    {
+      "ja": "仕組み",
+      "reading": "しくみ",
+      "en": "system; mechanism",
+      "zh": "机制，体制"
+    },
+    {
+      "ja": "指摘",
+      "reading": "してき",
+      "en": "pointing out",
+      "zh": "指出"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことが分かりました",
+      "meaning": "it has been found that ~; it turns out that ~",
+      "meaningZh": "（据调查）得知……，查明……",
+      "formation": "plain-form clause + ことが分かりました",
+      "example": "コメを作る農家の廃業や倒産が、ことしも過去最多のペースで増えていることが分かりました。",
+      "translation": "It has been found that closures and bankruptcies of rice farms are increasing at a record pace again this year.",
+      "note": "A standard news opener: a survey or investigation revealed the fact stated in the clause. The clause before こと stays in plain form.",
+      "noteZh": "新闻开头的常用句式：表示通过调查得知了前面小句的事实。こと前面的小句用简体。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことが分かる"
+    },
+    {
+      "pattern": "〜見通しです",
+      "meaning": "is expected to ~; the outlook is that ~",
+      "meaningZh": "预计……，预期……",
+      "formation": "plain-form clause + 見通しです",
+      "example": "ことしの新米を農協が買い取る価格は、去年より2割から4割ほど安くなる見通しです。",
+      "translation": "The price at which the agricultural co-ops buy this year's new rice is expected to be about twenty to forty percent lower than last year.",
+      "note": "見通し literally means 'a clear view ahead'. News uses 〜見通しです for forecasts about prices, weather, schedules and the economy.",
+      "noteZh": "「見通し」原意是'向远处看的视野'。新闻中用「〜見通しです」表示对价格、天气、日程、经济等的预测。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見通し"
+    },
+    {
+      "pattern": "〜という声が出ている",
+      "meaning": "there are voices saying ~; some people say ~",
+      "meaningZh": "有……的声音，有人表示……",
+      "formation": "quote + という声が出ている / 声もある",
+      "example": "農家からは「これではコメ作りの経営が成り立たない」という声が出ています。",
+      "translation": "From farmers, there are voices saying that rice farming cannot survive as a business like this.",
+      "note": "声 here means opinions, not literal voices. News uses it to report what people affected by an issue are saying, often with a direct quote.",
+      "noteZh": "这里的「声」指意见、呼声。新闻中用来转述当事人的看法，常与直接引语搭配。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#という声"
+    }
+  ],
+  "practiceZh": [
+    "コメを作る農家の廃業や倒産が、ことしも過去最多のペースで増えていることが分かりました。\n据悉，种植水稻的农户的歇业和破产，今年再次以历史最多的速度增加。\n廃業 = 歇业；倒産 = 破产",
+    "調査会社の帝国データバンクが、9日に発表しました。\n调查公司帝国数据银行于9日发布了这一消息。\n調査会社 = 调查公司；発表 = 发布",
+    "ことし1月から8月までに、廃業や休業をしたコメ農家は28件、倒産は4件で、合わせて32件になりました。\n今年1月至8月，歇业或暂停营业的稻农有28家，破产4家，共计32家。\n休業 = 暂停营业；合わせて = 合计",
+    "このままのペースが続くと、去年1年間の37件を上回り、4年連続で過去最多になる可能性があります。\n如果照此速度继续下去，将超过去年全年的37家，有可能连续4年刷新历史最多纪录。\n上回る = 超过；連続 = 连续",
+    "去年はコメの値段が大きく上がり、8割近くのコメ農家で利益が増えました。\n去年大米价格大幅上涨，近八成稻农的利润有所增加。\n値段 = 价格；利益 = 利润",
+    "しかし、経営の環境がよくなっても、コメ作りをやめる農家は減っていません。\n然而，即使经营环境有所好转，放弃种稻的农户并没有减少。\n経営 = 经营；環境 = 环境",
+    "大きな理由の一つは高齢化で、経営者の平均年齢は60歳を超えています。\n主要原因之一是老龄化，经营者的平均年龄已超过60岁。\n高齢化 = 老龄化；平均年齢 = 平均年龄",
+    "廃業した農家の中には、70代後半の高齢の経営者も多くいます。\n在歇业的农户中，也有很多75岁以上的高龄经营者。\n後半 = 后半；高齢 = 高龄",
+    "トラクターやコンバインなどの機械が古くなり、買い替えるお金がないという問題もあります。\n还存在拖拉机、联合收割机等机械老化、却没有钱更新换代的问题。\n機械 = 机械；買い替える = 换购",
+    "肥料や農薬の値段も上がり、コメを作るための費用は増え続けています。\n肥料和农药的价格也在上涨，种稻的成本持续增加。\n肥料 = 肥料；費用 = 费用",
+    "さらに、ことしの新米を農協が買い取る価格は、去年より2割から4割ほど安くなる見通しです。\n此外，预计今年农协收购新米的价格将比去年低两到四成。\n買い取る = 收购；見通し = 预期",
+    "農家からは「これではコメ作りの経営が成り立たない」という声が出ています。\n有农户表示：'这样下去，种稻的经营无法维持。'\n成り立つ = 维持下去；声 = 呼声",
+    "猛暑や台風などの天気のリスクもあり、将来が不安で、コメ作りをやめる農家が増えています。\n再加上酷暑、台风等天气风险，出于对未来的不安，放弃种稻的农户越来越多。\n猛暑 = 酷暑；将来 = 将来",
+    "専門家は、若い世代が安心してコメ作りを続けられる仕組みが必要だと指摘しています。\n专家指出，需要建立让年轻一代能够安心持续种稻的机制。\n世代 = 一代人；仕組み = 机制"
+  ]
+}
