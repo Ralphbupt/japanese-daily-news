@@ -1,0 +1,534 @@
+{
+  "episode": 157,
+  "title": "アップルが新しいiPhoneを発表、初の折りたたみモデルも",
+  "date": "2026-09-12",
+  "source": "Apple・iPhone Mania",
+  "level": "N5-N4",
+  "contentVersion": "2026091201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twelfth. This week, Apple announced its new iPhones — and for the first time, one of them folds like a book. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカのアップルが、9月10日、新しいiPhoneを発表しました。",
+      "ruby": "アメリカの<span class=\"vw\" data-ja=\"アップル\" data-reading=\"アップル\" data-en=\"Apple (the company)\">アップル</span>が、9<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>iPhoneを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいモデルは、「iPhone 18 Pro」と「iPhone 18 Pro Max」です。カメラと電池が、前のモデルより良くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"モデル\" data-reading=\"モデル\" data-en=\"model\">モデル</span>は、「iPhone 18 Pro」と「iPhone 18 Pro Max」です。<span class=\"vw\" data-ja=\"カメラ\" data-reading=\"カメラ\" data-en=\"camera\">カメラ</span>と<span class=\"vw\" data-ja=\"電池\" data-reading=\"でんち\" data-en=\"battery\"><ruby>電池<rt>でんち</rt></ruby></span>が、<span class=\"vw\" data-ja=\"前\" data-reading=\"まえ\" data-en=\"before, previous\"><ruby>前<rt>まえ</rt></ruby></span>の<span class=\"vw\" data-ja=\"モデル\" data-reading=\"モデル\" data-en=\"model\">モデル</span>より<ruby>良く<rt>よく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本での値段は、iPhone 18 Proが21万9800円からです。iPhone 18 Pro Maxは23万9800円からです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>での<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、iPhone 18 Proが21<ruby>万<rt>まん</rt></ruby>9800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。iPhone 18 Pro Maxは23<ruby>万<rt>まん</rt></ruby>9800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "予約は9月12日の夜から始まります。発売は9月18日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation, pre-order\"><ruby>予約<rt>よやく</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>から<ruby>始まり<rt>はじまり</rt></ruby>ます。<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release, going on sale\"><ruby>発売<rt>はつばい</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、初めての折りたたみのiPhoneも発表されました。名前は「iPhone Duo」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>は、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"折りたたみ\" data-reading=\"おりたたみ\" data-en=\"folding\"><ruby>折り<rt>おり</rt></ruby>たたみの</span>iPhoneも<ruby>発表<rt>はっぴょう</rt></ruby>されました。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「iPhone Duo」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "iPhone Duoは、本のように開きます。開くと、画面は7.6インチで、タブレットのように大きくなります。",
+      "ruby": "iPhone Duoは、<span class=\"vw\" data-ja=\"本\" data-reading=\"ほん\" data-en=\"book\"><ruby>本<rt>ほん</rt></ruby></span>のように<ruby>開き<rt>ひらき</rt></ruby>ます。<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open\"><ruby>開く<rt>ひらく</rt></ruby></span>と、<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>は7.6インチで、<span class=\"vw\" data-ja=\"タブレット\" data-reading=\"タブレット\" data-en=\"tablet\">タブレット</span>のように<ruby>大きく<rt>おおきく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "閉じているときは、外の5.4インチの画面を使います。重さは254グラムです。",
+      "ruby": "<ruby>閉じ<rt>とじ</rt></ruby>ているときは、<span class=\"vw\" data-ja=\"外\" data-reading=\"そと\" data-en=\"outside\"><ruby>外<rt>そと</rt></ruby></span>の5.4インチの<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>を<ruby>使い<rt>つかい</rt></ruby>ます。<span class=\"vw\" data-ja=\"重さ\" data-reading=\"おもさ\" data-en=\"weight\"><ruby>重さ<rt>おもさ</rt></ruby></span>は254グラムです。"
+    },
+    {
+      "speaker": "news",
+      "text": "iPhone Duoの値段は36万4800円からです。発売は10月23日の予定です。",
+      "ruby": "iPhone Duoの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は36<ruby>万<rt>まん</rt></ruby>4800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release, going on sale\"><ruby>発売<rt>はつばい</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいiPhoneでは、今までの小さいSIMカードが使えません。「eSIM」だけを使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>iPhoneでは、<span class=\"vw\" data-ja=\"今まで\" data-reading=\"いままで\" data-en=\"until now\"><ruby>今まで<rt>いままで</rt></ruby></span>の<span class=\"vw\" data-ja=\"小さい\" data-reading=\"ちいさい\" data-en=\"small\"><ruby>小さい<rt>ちいさい</rt></ruby></span>SIMカードが<ruby>使え<rt>つかえ</rt></ruby>ません。「eSIM」だけを<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "アメリカのアップルが、9月10日、新しいiPhoneを発表しました。",
+      "ruby": "アメリカの<span class=\"vw\" data-ja=\"アップル\" data-reading=\"アップル\" data-en=\"Apple (the company)\">アップル</span>が、9<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>iPhoneを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Apple, the American company, announced new iPhones on September tenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本での値段は、iPhone 18 Proが21万9800円からです。iPhone 18 Pro Maxは23万9800円からです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>での<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、iPhone 18 Proが21<ruby>万<rt>まん</rt></ruby>9800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。iPhone 18 Pro Maxは23<ruby>万<rt>まん</rt></ruby>9800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, the iPhone 18 Pro starts at two hundred nineteen thousand eight hundred yen, and the Pro Max starts at two hundred thirty-nine thousand eight hundred yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "予約は9月12日の夜から始まります。発売は9月18日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation, pre-order\"><ruby>予約<rt>よやく</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>から<ruby>始まり<rt>はじまり</rt></ruby>ます。<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release, going on sale\"><ruby>発売<rt>はつばい</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Pre-orders start on the night of September twelfth — that's tonight! It goes on sale on September eighteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予約",
+      "ruby": "<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation, pre-order\"><ruby>予約<rt>よやく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a reservation — ordering something before it goes on sale."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、初めての折りたたみのiPhoneも発表されました。名前は「iPhone Duo」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>は、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"折りたたみ\" data-reading=\"おりたたみ\" data-en=\"folding\"><ruby>折り<rt>おり</rt></ruby>たたみの</span>iPhoneも<ruby>発表<rt>はっぴょう</rt></ruby>されました。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「iPhone Duo」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, the first folding iPhone was also announced. Its name is the iPhone Duo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "折りたたみ",
+      "ruby": "<span class=\"vw\" data-ja=\"折りたたみ\" data-reading=\"おりたたみ\" data-en=\"folding\"><ruby>折り<rt>おり</rt></ruby>たたみ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means folding — something you can fold in half."
+    },
+    {
+      "speaker": "slow",
+      "text": "iPhone Duoは、本のように開きます。開くと、画面は7.6インチで、タブレットのように大きくなります。",
+      "ruby": "iPhone Duoは、<span class=\"vw\" data-ja=\"本\" data-reading=\"ほん\" data-en=\"book\"><ruby>本<rt>ほん</rt></ruby></span>のように<ruby>開き<rt>ひらき</rt></ruby>ます。<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open\"><ruby>開く<rt>ひらく</rt></ruby></span>と、<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>は7.6インチで、<span class=\"vw\" data-ja=\"タブレット\" data-reading=\"タブレット\" data-en=\"tablet\">タブレット</span>のように<ruby>大きく<rt>おおきく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The iPhone Duo opens like a book. When you open it, the screen is seven point six inches — it becomes big like a tablet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open\"><ruby>開く<rt>ひらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open."
+    },
+    {
+      "speaker": "slow",
+      "text": "閉じているときは、外の5.4インチの画面を使います。重さは254グラムです。",
+      "ruby": "<ruby>閉じ<rt>とじ</rt></ruby>ているときは、<span class=\"vw\" data-ja=\"外\" data-reading=\"そと\" data-en=\"outside\"><ruby>外<rt>そと</rt></ruby></span>の5.4インチの<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>を<ruby>使い<rt>つかい</rt></ruby>ます。<span class=\"vw\" data-ja=\"重さ\" data-reading=\"おもさ\" data-en=\"weight\"><ruby>重さ<rt>おもさ</rt></ruby></span>は254グラムです。"
+    },
+    {
+      "speaker": "host",
+      "text": "When it is closed, you use the smaller screen on the outside — five point four inches. It weighs two hundred fifty-four grams."
+    },
+    {
+      "speaker": "vocab",
+      "text": "画面",
+      "ruby": "<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a screen."
+    },
+    {
+      "speaker": "slow",
+      "text": "iPhone Duoの値段は36万4800円からです。発売は10月23日の予定です。",
+      "ruby": "iPhone Duoの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は36<ruby>万<rt>まん</rt></ruby>4800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release, going on sale\"><ruby>発売<rt>はつばい</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The iPhone Duo starts at three hundred sixty-four thousand eight hundred yen. It is planned to go on sale on October twenty-third."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or a schedule."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカのアップルが、9月10日、新しいiPhoneを発表しました。",
+      "ruby": "アメリカの<span class=\"vw\" data-ja=\"アップル\" data-reading=\"アップル\" data-en=\"Apple (the company)\">アップル</span>が、9<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>iPhoneを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいモデルは、「iPhone 18 Pro」と「iPhone 18 Pro Max」です。カメラと電池が、前のモデルより良くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"モデル\" data-reading=\"モデル\" data-en=\"model\">モデル</span>は、「iPhone 18 Pro」と「iPhone 18 Pro Max」です。<span class=\"vw\" data-ja=\"カメラ\" data-reading=\"カメラ\" data-en=\"camera\">カメラ</span>と<span class=\"vw\" data-ja=\"電池\" data-reading=\"でんち\" data-en=\"battery\"><ruby>電池<rt>でんち</rt></ruby></span>が、<span class=\"vw\" data-ja=\"前\" data-reading=\"まえ\" data-en=\"before, previous\"><ruby>前<rt>まえ</rt></ruby></span>の<span class=\"vw\" data-ja=\"モデル\" data-reading=\"モデル\" data-en=\"model\">モデル</span>より<ruby>良く<rt>よく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本での値段は、iPhone 18 Proが21万9800円からです。iPhone 18 Pro Maxは23万9800円からです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>での<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、iPhone 18 Proが21<ruby>万<rt>まん</rt></ruby>9800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。iPhone 18 Pro Maxは23<ruby>万<rt>まん</rt></ruby>9800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "予約は9月12日の夜から始まります。発売は9月18日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"予約\" data-reading=\"よやく\" data-en=\"reservation, pre-order\"><ruby>予約<rt>よやく</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>から<ruby>始まり<rt>はじまり</rt></ruby>ます。<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release, going on sale\"><ruby>発売<rt>はつばい</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、初めての折りたたみのiPhoneも発表されました。名前は「iPhone Duo」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>は、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"折りたたみ\" data-reading=\"おりたたみ\" data-en=\"folding\"><ruby>折り<rt>おり</rt></ruby>たたみの</span>iPhoneも<ruby>発表<rt>はっぴょう</rt></ruby>されました。<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「iPhone Duo」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "iPhone Duoは、本のように開きます。開くと、画面は7.6インチで、タブレットのように大きくなります。",
+      "ruby": "iPhone Duoは、<span class=\"vw\" data-ja=\"本\" data-reading=\"ほん\" data-en=\"book\"><ruby>本<rt>ほん</rt></ruby></span>のように<ruby>開き<rt>ひらき</rt></ruby>ます。<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open\"><ruby>開く<rt>ひらく</rt></ruby></span>と、<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>は7.6インチで、<span class=\"vw\" data-ja=\"タブレット\" data-reading=\"タブレット\" data-en=\"tablet\">タブレット</span>のように<ruby>大きく<rt>おおきく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "閉じているときは、外の5.4インチの画面を使います。重さは254グラムです。",
+      "ruby": "<ruby>閉じ<rt>とじ</rt></ruby>ているときは、<span class=\"vw\" data-ja=\"外\" data-reading=\"そと\" data-en=\"outside\"><ruby>外<rt>そと</rt></ruby></span>の5.4インチの<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>を<ruby>使い<rt>つかい</rt></ruby>ます。<span class=\"vw\" data-ja=\"重さ\" data-reading=\"おもさ\" data-en=\"weight\"><ruby>重さ<rt>おもさ</rt></ruby></span>は254グラムです。"
+    },
+    {
+      "speaker": "news",
+      "text": "iPhone Duoの値段は36万4800円からです。発売は10月23日の予定です。",
+      "ruby": "iPhone Duoの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は36<ruby>万<rt>まん</rt></ruby>4800<span class=\"vw\" data-ja=\"円\" data-reading=\"えん\" data-en=\"yen\"><ruby>円<rt>えん</rt></ruby></span>からです。<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"release, going on sale\"><ruby>発売<rt>はつばい</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいiPhoneでは、今までの小さいSIMカードが使えません。「eSIM」だけを使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>iPhoneでは、<span class=\"vw\" data-ja=\"今まで\" data-reading=\"いままで\" data-en=\"until now\"><ruby>今まで<rt>いままで</rt></ruby></span>の<span class=\"vw\" data-ja=\"小さい\" data-reading=\"ちいさい\" data-en=\"small\"><ruby>小さい<rt>ちいさい</rt></ruby></span>SIMカードが<ruby>使え<rt>つかえ</rt></ruby>ません。「eSIM」だけを<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "アップルは、いつ、新しいiPhoneを発表しましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"アップル\" data-reading=\"アップル\" data-en=\"Apple (the company)\">アップル</span>は、いつ、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span>iPhoneを<ruby>発表<rt>はっぴょう</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On September tenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "初めての折りたたみのiPhoneの名前は、何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>の<span class=\"vw\" data-ja=\"折りたたみ\" data-reading=\"おりたたみ\" data-en=\"folding\"><ruby>折り<rt>おり</rt></ruby>たたみの</span>iPhoneの<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the iPhone Duo."
+    },
+    {
+      "speaker": "slow",
+      "text": "iPhone Duoを開くと、画面は何インチになりますか。",
+      "ruby": "iPhone Duoを<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open\"><ruby>開く<rt>ひらく</rt></ruby></span>と、<span class=\"vw\" data-ja=\"画面\" data-reading=\"がめん\" data-en=\"screen\"><ruby>画面<rt>がめん</rt></ruby></span>は<ruby>何<rt>なに</rt></ruby>インチになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven point six inches — big like a tablet."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you could choose one, would you pick the folding iPhone? It looks fun, but the price is very high! See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "アップル",
+      "reading": "アップル",
+      "en": "Apple (the company)",
+      "zh": "苹果公司"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发布"
+    },
+    {
+      "ja": "新しい",
+      "reading": "あたらしい",
+      "en": "new",
+      "zh": "新的"
+    },
+    {
+      "ja": "モデル",
+      "reading": "モデル",
+      "en": "model",
+      "zh": "型号"
+    },
+    {
+      "ja": "カメラ",
+      "reading": "カメラ",
+      "en": "camera",
+      "zh": "相机"
+    },
+    {
+      "ja": "電池",
+      "reading": "でんち",
+      "en": "battery",
+      "zh": "电池"
+    },
+    {
+      "ja": "前",
+      "reading": "まえ",
+      "en": "before, previous",
+      "zh": "之前"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "円",
+      "reading": "えん",
+      "en": "yen",
+      "zh": "日元"
+    },
+    {
+      "ja": "予約",
+      "reading": "よやく",
+      "en": "reservation, pre-order",
+      "zh": "预约"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "発売",
+      "reading": "はつばい",
+      "en": "release, going on sale",
+      "zh": "发售"
+    },
+    {
+      "ja": "今年",
+      "reading": "ことし",
+      "en": "this year",
+      "zh": "今年"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "折りたたみ",
+      "reading": "おりたたみ",
+      "en": "folding",
+      "zh": "折叠"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "本",
+      "reading": "ほん",
+      "en": "book",
+      "zh": "书"
+    },
+    {
+      "ja": "開く",
+      "reading": "ひらく",
+      "en": "to open",
+      "zh": "打开"
+    },
+    {
+      "ja": "画面",
+      "reading": "がめん",
+      "en": "screen",
+      "zh": "屏幕"
+    },
+    {
+      "ja": "タブレット",
+      "reading": "タブレット",
+      "en": "tablet",
+      "zh": "平板电脑"
+    },
+    {
+      "ja": "大きい",
+      "reading": "おおきい",
+      "en": "big",
+      "zh": "大"
+    },
+    {
+      "ja": "閉じる",
+      "reading": "とじる",
+      "en": "to close",
+      "zh": "合上"
+    },
+    {
+      "ja": "外",
+      "reading": "そと",
+      "en": "outside",
+      "zh": "外面"
+    },
+    {
+      "ja": "使う",
+      "reading": "つかう",
+      "en": "to use",
+      "zh": "使用"
+    },
+    {
+      "ja": "重さ",
+      "reading": "おもさ",
+      "en": "weight",
+      "zh": "重量"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定"
+    },
+    {
+      "ja": "今まで",
+      "reading": "いままで",
+      "en": "until now",
+      "zh": "至今"
+    },
+    {
+      "ja": "小さい",
+      "reading": "ちいさい",
+      "en": "small",
+      "zh": "小"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜より",
+      "meaning": "more ~ than ~ (comparison)",
+      "meaningZh": "比……更……",
+      "formation": "noun + より + adjective / verb",
+      "example": "カメラと電池が、前のモデルより良くなりました。",
+      "translation": "The camera and the battery became better than the previous model.",
+      "note": "より marks the thing you compare with. 前のモデルより良い = better than the previous model.",
+      "noteZh": "「より」表示比较的对象。前のモデルより良い＝比之前的型号更好。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#より"
+    },
+    {
+      "pattern": "〜のように",
+      "meaning": "like ~ / as ~",
+      "meaningZh": "像……一样",
+      "formation": "noun + のように + verb / adjective",
+      "example": "iPhone Duoは、本のように開きます。",
+      "translation": "The iPhone Duo opens like a book.",
+      "note": "のように compares an action or state to something. 本のように開く = open like a book.",
+      "noteZh": "「のように」把动作或状态比作某物。本のように開く＝像书一样打开。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜と（条件）",
+      "meaning": "when / if ~ , then ~ (natural result)",
+      "meaningZh": "一……就……（自然结果）",
+      "formation": "verb dictionary form + と + result",
+      "example": "開くと、画面は7.6インチで、タブレットのように大きくなります。",
+      "translation": "When you open it, the screen is seven point six inches and becomes big like a tablet.",
+      "note": "と shows that the result always follows the action. 開くと大きくなる = when you open it, it becomes big.",
+      "noteZh": "「と」表示前项动作发生后必然出现后项结果。開くと大きくなる＝一打开就变大。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    }
+  ],
+  "practiceZh": [
+    "アメリカのアップルが、9月10日、新しいiPhoneを発表しました。\n9月10日，美国苹果公司发布了新款iPhone。\nアップル = Apple；発表する = to announce",
+    "新しいモデルは、「iPhone 18 Pro」と「iPhone 18 Pro Max」です。カメラと電池が、前のモデルより良くなりました。\n新机型是“iPhone 18 Pro”和“iPhone 18 Pro Max”，相机和电池比之前的型号更好了。\nカメラ = camera；電池 = battery",
+    "日本での値段は、iPhone 18 Proが21万9800円からです。iPhone 18 Pro Maxは23万9800円からです。\n在日本，iPhone 18 Pro售价21万9800日元起，iPhone 18 Pro Max售价23万9800日元起。\n値段 = price；円 = yen",
+    "予約は9月12日の夜から始まります。発売は9月18日です。\n预约从9月12日晚上开始，9月18日正式发售。\n予約 = pre-order；発売 = release",
+    "今年は、初めての折りたたみのiPhoneも発表されました。名前は「iPhone Duo」です。\n今年还发布了首款折叠iPhone，名字叫“iPhone Duo”。\n初めて = for the first time；折りたたみ = folding",
+    "iPhone Duoは、本のように開きます。開くと、画面は7.6インチで、タブレットのように大きくなります。\niPhone Duo像书一样打开。打开后屏幕为7.6英寸，变得像平板电脑一样大。\n開く = to open；画面 = screen",
+    "閉じているときは、外の5.4インチの画面を使います。重さは254グラムです。\n合上时使用外侧5.4英寸的屏幕，重量为254克。\n閉じる = to close；重さ = weight",
+    "iPhone Duoの値段は36万4800円からです。発売は10月23日の予定です。\niPhone Duo售价36万4800日元起，预定10月23日发售。\n値段 = price；予定 = plan",
+    "新しいiPhoneでは、今までの小さいSIMカードが使えません。「eSIM」だけを使います。\n新款iPhone不能使用以往的小SIM卡，只能使用“eSIM”。\n今まで = until now；使う = to use"
+  ]
+}
