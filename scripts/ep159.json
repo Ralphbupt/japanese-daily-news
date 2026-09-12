@@ -1,0 +1,504 @@
+{
+  "episode": 159,
+  "title": "野球のU18日本代表、アジア選手権の決勝へ",
+  "date": "2026-09-13",
+  "source": "TBS NEWS DIG・Yahoo!ニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026091301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September thirteenth. Japan's under-eighteen baseball team — all high school students — has reached the final of the Asian Championship in Taiwan. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "野球のU18アジア選手権が、台湾の台北ドームで行われています。18歳以下の若い選手の大会です。",
+      "ruby": "<span class=\"vw\" data-ja=\"野球\" data-reading=\"やきゅう\" data-en=\"baseball\"><ruby>野球<rt>やきゅう</rt></ruby></span>のU18アジア<span class=\"vw\" data-ja=\"選手権\" data-reading=\"せんしゅけん\" data-en=\"championship\"><ruby>選手権<rt>せんしゅけん</rt></ruby></span>が、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>台北<rt>タイペイ</rt></ruby>ドームで<ruby>行わ<rt>おこなわ</rt></ruby>れています。18<ruby>歳<rt>さい</rt></ruby><ruby>以下の<rt>いかの</rt></ruby><span class=\"vw\" data-ja=\"若い\" data-reading=\"わかい\" data-en=\"young\"><ruby>若い<rt>わかい</rt></ruby></span><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月12日、高校生の日本代表は、台湾のチームと試合をしました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"高校生\" data-reading=\"こうこうせい\" data-en=\"high school student\"><ruby>高校生<rt>こうこうせい</rt></ruby></span>の<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、<ruby>台湾<rt>たいわん</rt></ruby>の<span class=\"vw\" data-ja=\"チーム\" data-reading=\"チーム\" data-en=\"team\">チーム</span>と<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は2対1で勝って、決勝に進みました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝っ<rt>かっ</rt></ruby>て、<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>に<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合では、台湾が先に1点を取りました。しかし、日本はすぐに2点を取って、逆転しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>では、<ruby>台湾<rt>たいわん</rt></ruby>が<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby>ました。しかし、<ruby>日本<rt>にっぽん</rt></ruby>はすぐに2<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取っ<rt>とっ</rt></ruby>て、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, turnaround\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ピッチャーの織田翔希選手は、横浜高校の3年生です。一番速いボールは、時速157キロです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ピッチャー\" data-reading=\"ピッチャー\" data-en=\"pitcher\">ピッチャー</span>の<ruby>織田<rt>おだ</rt></ruby><ruby>翔希<rt>しょうき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>横浜<rt>よこはま</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>の3<ruby>年生<rt>ねんせい</rt></ruby>です。<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"速い\" data-reading=\"はやい\" data-en=\"fast\"><ruby>速い<rt>はやい</rt></ruby></span>ボールは、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>157キロです。"
+    },
+    {
+      "speaker": "news",
+      "text": "織田選手は、1回から6回まで投げました。取られた点は、1点だけでした。",
+      "ruby": "<ruby>織田<rt>おだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、1<ruby>回<rt>かい</rt></ruby>から6<ruby>回<rt>かい</rt></ruby>まで<ruby>投げ<rt>なげ</rt></ruby>ました。<ruby>取ら<rt>とら</rt></ruby>れた<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>は、1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>だけでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、前の日の試合で、韓国に2対3で負けました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>前の日<rt>まえのひ</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>で、<ruby>韓国<rt>かんこく</rt></ruby>に2<ruby>対<rt>たい</rt></ruby>3で<ruby>負け<rt>まけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決勝の相手は、その韓国です。試合は今日、9月13日に行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent\"><ruby>相手<rt>あいて</rt></ruby></span>は、その<ruby>韓国<rt>かんこく</rt></ruby>です。<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>は<ruby>今日<rt>きょう</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本が勝つと、アジアで一番になります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>が<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>と、アジアで<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "野球のU18アジア選手権が、台湾の台北ドームで行われています。18歳以下の若い選手の大会です。",
+      "ruby": "<span class=\"vw\" data-ja=\"野球\" data-reading=\"やきゅう\" data-en=\"baseball\"><ruby>野球<rt>やきゅう</rt></ruby></span>のU18アジア<span class=\"vw\" data-ja=\"選手権\" data-reading=\"せんしゅけん\" data-en=\"championship\"><ruby>選手権<rt>せんしゅけん</rt></ruby></span>が、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>台北<rt>タイペイ</rt></ruby>ドームで<ruby>行わ<rt>おこなわ</rt></ruby>れています。18<ruby>歳<rt>さい</rt></ruby><ruby>以下の<rt>いかの</rt></ruby><span class=\"vw\" data-ja=\"若い\" data-reading=\"わかい\" data-en=\"young\"><ruby>若い<rt>わかい</rt></ruby></span><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The under-eighteen Asian Baseball Championship is being held at the Taipei Dome in Taiwan. It is a tournament for young players aged eighteen or under."
+    },
+    {
+      "speaker": "vocab",
+      "text": "野球",
+      "ruby": "<span class=\"vw\" data-ja=\"野球\" data-reading=\"やきゅう\" data-en=\"baseball\"><ruby>野球<rt>やきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means baseball."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月12日、高校生の日本代表は、台湾のチームと試合をしました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"高校生\" data-reading=\"こうこうせい\" data-en=\"high school student\"><ruby>高校生<rt>こうこうせい</rt></ruby></span>の<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、<ruby>台湾<rt>たいわん</rt></ruby>の<span class=\"vw\" data-ja=\"チーム\" data-reading=\"チーム\" data-en=\"team\">チーム</span>と<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On September twelfth, Japan's national team of high school students played a game against the Taiwanese team."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試合",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a game or a match."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は2対1で勝って、決勝に進みました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝っ<rt>かっ</rt></ruby>て、<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>に<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan won two to one and advanced to the final."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勝つ",
+      "ruby": "<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to win."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合では、台湾が先に1点を取りました。しかし、日本はすぐに2点を取って、逆転しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>では、<ruby>台湾<rt>たいわん</rt></ruby>が<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby>ました。しかし、<ruby>日本<rt>にっぽん</rt></ruby>はすぐに2<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取っ<rt>とっ</rt></ruby>て、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, turnaround\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the game, Taiwan scored one point first. But Japan quickly scored two points and turned the game around."
+    },
+    {
+      "speaker": "vocab",
+      "text": "逆転",
+      "ruby": "<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, turnaround\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a comeback — turning the score around."
+    },
+    {
+      "speaker": "slow",
+      "text": "ピッチャーの織田翔希選手は、横浜高校の3年生です。一番速いボールは、時速157キロです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ピッチャー\" data-reading=\"ピッチャー\" data-en=\"pitcher\">ピッチャー</span>の<ruby>織田<rt>おだ</rt></ruby><ruby>翔希<rt>しょうき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>横浜<rt>よこはま</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>の3<ruby>年生<rt>ねんせい</rt></ruby>です。<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"速い\" data-reading=\"はやい\" data-en=\"fast\"><ruby>速い<rt>はやい</rt></ruby></span>ボールは、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>157キロです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The pitcher, Oda Shoki, is a third-year student at Yokohama High School. His fastest ball is one hundred fifty-seven kilometers per hour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "速い",
+      "ruby": "<span class=\"vw\" data-ja=\"速い\" data-reading=\"はやい\" data-en=\"fast\"><ruby>速い<rt>はやい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fast."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、前の日の試合で、韓国に2対3で負けました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>前の日<rt>まえのひ</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>で、<ruby>韓国<rt>かんこく</rt></ruby>に2<ruby>対<rt>たい</rt></ruby>3で<ruby>負け<rt>まけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The day before, Japan lost to South Korea, two to three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "負ける",
+      "ruby": "<span class=\"vw\" data-ja=\"負ける\" data-reading=\"まける\" data-en=\"to lose\"><ruby>負け<rt>まけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to lose."
+    },
+    {
+      "speaker": "slow",
+      "text": "決勝の相手は、その韓国です。試合は今日、9月13日に行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent\"><ruby>相手<rt>あいて</rt></ruby></span>は、その<ruby>韓国<rt>かんこく</rt></ruby>です。<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>は<ruby>今日<rt>きょう</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The opponent in the final is that same South Korea. The game is today, September thirteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決勝",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the final — the last and most important game."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "野球のU18アジア選手権が、台湾の台北ドームで行われています。18歳以下の若い選手の大会です。",
+      "ruby": "<span class=\"vw\" data-ja=\"野球\" data-reading=\"やきゅう\" data-en=\"baseball\"><ruby>野球<rt>やきゅう</rt></ruby></span>のU18アジア<span class=\"vw\" data-ja=\"選手権\" data-reading=\"せんしゅけん\" data-en=\"championship\"><ruby>選手権<rt>せんしゅけん</rt></ruby></span>が、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>台北<rt>タイペイ</rt></ruby>ドームで<ruby>行わ<rt>おこなわ</rt></ruby>れています。18<ruby>歳<rt>さい</rt></ruby><ruby>以下の<rt>いかの</rt></ruby><span class=\"vw\" data-ja=\"若い\" data-reading=\"わかい\" data-en=\"young\"><ruby>若い<rt>わかい</rt></ruby></span><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月12日、高校生の日本代表は、台湾のチームと試合をしました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"高校生\" data-reading=\"こうこうせい\" data-en=\"high school student\"><ruby>高校生<rt>こうこうせい</rt></ruby></span>の<ruby>日本代表<rt>にほんだいひょう</rt></ruby>は、<ruby>台湾<rt>たいわん</rt></ruby>の<span class=\"vw\" data-ja=\"チーム\" data-reading=\"チーム\" data-en=\"team\">チーム</span>と<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は2対1で勝って、決勝に進みました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝っ<rt>かっ</rt></ruby>て、<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>に<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合では、台湾が先に1点を取りました。しかし、日本はすぐに2点を取って、逆転しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>では、<ruby>台湾<rt>たいわん</rt></ruby>が<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby>ました。しかし、<ruby>日本<rt>にっぽん</rt></ruby>はすぐに2<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>を<ruby>取っ<rt>とっ</rt></ruby>て、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, turnaround\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ピッチャーの織田翔希選手は、横浜高校の3年生です。一番速いボールは、時速157キロです。",
+      "ruby": "<span class=\"vw\" data-ja=\"ピッチャー\" data-reading=\"ピッチャー\" data-en=\"pitcher\">ピッチャー</span>の<ruby>織田<rt>おだ</rt></ruby><ruby>翔希<rt>しょうき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>横浜<rt>よこはま</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>の3<ruby>年生<rt>ねんせい</rt></ruby>です。<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"速い\" data-reading=\"はやい\" data-en=\"fast\"><ruby>速い<rt>はやい</rt></ruby></span>ボールは、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span>157キロです。"
+    },
+    {
+      "speaker": "news",
+      "text": "織田選手は、1回から6回まで投げました。取られた点は、1点だけでした。",
+      "ruby": "<ruby>織田<rt>おだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、1<ruby>回<rt>かい</rt></ruby>から6<ruby>回<rt>かい</rt></ruby>まで<ruby>投げ<rt>なげ</rt></ruby>ました。<ruby>取ら<rt>とら</rt></ruby>れた<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>は、1<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"point, score\"><ruby>点<rt>てん</rt></ruby></span>だけでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、前の日の試合で、韓国に2対3で負けました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>前の日<rt>まえのひ</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>で、<ruby>韓国<rt>かんこく</rt></ruby>に2<ruby>対<rt>たい</rt></ruby>3で<ruby>負け<rt>まけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "決勝の相手は、その韓国です。試合は今日、9月13日に行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent\"><ruby>相手<rt>あいて</rt></ruby></span>は、その<ruby>韓国<rt>かんこく</rt></ruby>です。<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"game, match\"><ruby>試合<rt>しあい</rt></ruby></span>は<ruby>今日<rt>きょう</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本が勝つと、アジアで一番になります。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>が<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>と、アジアで<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、どこのチームに2対1で勝ちましたか。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は、どこの<span class=\"vw\" data-ja=\"チーム\" data-reading=\"チーム\" data-en=\"team\">チーム</span>に2<ruby>対<rt>たい</rt></ruby>1で<ruby>勝ち<rt>かち</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Taiwan — Japan beat the Taiwanese team two to one."
+    },
+    {
+      "speaker": "slow",
+      "text": "ピッチャーの織田選手の一番速いボールは、時速何キロですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"ピッチャー\" data-reading=\"ピッチャー\" data-en=\"pitcher\">ピッチャー</span>の<ruby>織田<rt>おだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"number one, the most\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"速い\" data-reading=\"はやい\" data-en=\"fast\"><ruby>速い<rt>はやい</rt></ruby></span>ボールは、<span class=\"vw\" data-ja=\"時速\" data-reading=\"じそく\" data-en=\"speed per hour\"><ruby>時速<rt>じそく</rt></ruby></span><ruby>何<rt>なん</rt></ruby>キロですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred fifty-seven kilometers per hour."
+    },
+    {
+      "speaker": "slow",
+      "text": "決勝の相手は、どこのチームですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"the final (game)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"相手\" data-reading=\"あいて\" data-en=\"opponent\"><ruby>相手<rt>あいて</rt></ruby></span>は、どこの<span class=\"vw\" data-ja=\"チーム\" data-reading=\"チーム\" data-en=\"team\">チーム</span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "South Korea — the team Japan lost to the day before."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. The final against South Korea is today — a big chance for Japan to get even after that close loss. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "野球",
+      "reading": "やきゅう",
+      "en": "baseball",
+      "zh": "棒球"
+    },
+    {
+      "ja": "選手権",
+      "reading": "せんしゅけん",
+      "en": "championship",
+      "zh": "锦标赛"
+    },
+    {
+      "ja": "行われる",
+      "reading": "おこなわれる",
+      "en": "to be held",
+      "zh": "举行"
+    },
+    {
+      "ja": "若い",
+      "reading": "わかい",
+      "en": "young",
+      "zh": "年轻"
+    },
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "player, athlete",
+      "zh": "选手"
+    },
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "tournament, competition",
+      "zh": "大赛"
+    },
+    {
+      "ja": "高校生",
+      "reading": "こうこうせい",
+      "en": "high school student",
+      "zh": "高中生"
+    },
+    {
+      "ja": "代表",
+      "reading": "だいひょう",
+      "en": "national team, representative",
+      "zh": "代表队"
+    },
+    {
+      "ja": "チーム",
+      "reading": "チーム",
+      "en": "team",
+      "zh": "队伍"
+    },
+    {
+      "ja": "試合",
+      "reading": "しあい",
+      "en": "game, match",
+      "zh": "比赛"
+    },
+    {
+      "ja": "勝つ",
+      "reading": "かつ",
+      "en": "to win",
+      "zh": "赢"
+    },
+    {
+      "ja": "決勝",
+      "reading": "けっしょう",
+      "en": "the final (game)",
+      "zh": "决赛"
+    },
+    {
+      "ja": "進む",
+      "reading": "すすむ",
+      "en": "to advance, to go forward",
+      "zh": "晋级"
+    },
+    {
+      "ja": "先に",
+      "reading": "さきに",
+      "en": "first, ahead",
+      "zh": "先"
+    },
+    {
+      "ja": "点",
+      "reading": "てん",
+      "en": "point, score",
+      "zh": "分"
+    },
+    {
+      "ja": "取る",
+      "reading": "とる",
+      "en": "to take, to score",
+      "zh": "得（分）"
+    },
+    {
+      "ja": "逆転",
+      "reading": "ぎゃくてん",
+      "en": "comeback, turnaround",
+      "zh": "逆转"
+    },
+    {
+      "ja": "ピッチャー",
+      "reading": "ピッチャー",
+      "en": "pitcher",
+      "zh": "投手"
+    },
+    {
+      "ja": "一番",
+      "reading": "いちばん",
+      "en": "number one, the most",
+      "zh": "最，第一"
+    },
+    {
+      "ja": "速い",
+      "reading": "はやい",
+      "en": "fast",
+      "zh": "快"
+    },
+    {
+      "ja": "時速",
+      "reading": "じそく",
+      "en": "speed per hour",
+      "zh": "时速"
+    },
+    {
+      "ja": "投げる",
+      "reading": "なげる",
+      "en": "to throw, to pitch",
+      "zh": "投球"
+    },
+    {
+      "ja": "負ける",
+      "reading": "まける",
+      "en": "to lose",
+      "zh": "输"
+    },
+    {
+      "ja": "相手",
+      "reading": "あいて",
+      "en": "opponent",
+      "zh": "对手"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜て、〜",
+      "meaning": "do ~ and then ~ (connecting actions)",
+      "meaningZh": "做……然后……（连接动作）",
+      "formation": "verb te-form + 、 + next action",
+      "example": "日本は2対1で勝って、決勝に進みました。",
+      "translation": "Japan won two to one and advanced to the final.",
+      "note": "The te-form connects two actions in order. 勝って、進みました = won, and then advanced.",
+      "noteZh": "て形用来按顺序连接两个动作。勝って、進みました＝赢了，然后晋级了。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#te-form"
+    },
+    {
+      "pattern": "〜に負ける／〜に勝つ",
+      "meaning": "to lose to ~ / to win against ~",
+      "meaningZh": "输给……／赢……",
+      "formation": "opponent + に + 負ける／勝つ",
+      "example": "日本は、前の日の試合で、韓国に2対3で負けました。",
+      "translation": "In the game the day before, Japan lost to South Korea two to three.",
+      "note": "The particle に marks the opponent. 韓国に負けた = lost to South Korea. チームに勝った = won against the team.",
+      "noteZh": "助词「に」表示对手。韓国に負けた＝输给了韩国。チームに勝った＝赢了那支队。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#に負ける"
+    },
+    {
+      "pattern": "〜と（条件）",
+      "meaning": "when / if ~ , then ~ (natural result)",
+      "meaningZh": "一……就……（自然结果）",
+      "formation": "verb dictionary form + と + result",
+      "example": "日本が勝つと、アジアで一番になります。",
+      "translation": "If Japan wins, they will be number one in Asia.",
+      "note": "と shows that the result naturally follows. 勝つと一番になる = if they win, they become number one.",
+      "noteZh": "「と」表示前项发生后自然出现后项结果。勝つと一番になる＝一赢就成为第一。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    }
+  ],
+  "practiceZh": [
+    "野球のU18アジア選手権が、台湾の台北ドームで行われています。18歳以下の若い選手の大会です。\n棒球U18亚洲锦标赛正在台湾的台北大巨蛋举行，这是18岁以下年轻选手的大赛。\n野球 = baseball；行われる = to be held",
+    "9月12日、高校生の日本代表は、台湾のチームと試合をしました。\n9月12日，由高中生组成的日本代表队和台湾队进行了比赛。\n高校生 = high school student；試合 = game",
+    "日本は2対1で勝って、決勝に進みました。\n日本以2比1获胜，晋级决赛。\n勝つ = to win；決勝 = the final",
+    "試合では、台湾が先に1点を取りました。しかし、日本はすぐに2点を取って、逆転しました。\n比赛中台湾先得了1分，但日本很快得了2分，实现逆转。\n先に = first；逆転 = comeback",
+    "ピッチャーの織田翔希選手は、横浜高校の3年生です。一番速いボールは、時速157キロです。\n投手织田翔希是横滨高中的三年级学生，他最快的球时速157公里。\nピッチャー = pitcher；速い = fast",
+    "織田選手は、1回から6回まで投げました。取られた点は、1点だけでした。\n织田选手从第1局投到第6局，只失了1分。\n投げる = to pitch；点 = point",
+    "日本は、前の日の試合で、韓国に2対3で負けました。\n前一天的比赛中，日本以2比3输给了韩国。\n負ける = to lose；韓国 = South Korea",
+    "決勝の相手は、その韓国です。試合は今日、9月13日に行われます。\n决赛的对手正是那支韩国队，比赛于今天9月13日举行。\n相手 = opponent；決勝 = the final",
+    "日本が勝つと、アジアで一番になります。\n如果日本获胜，就将成为亚洲第一。\n勝つ = to win；一番 = number one"
+  ]
+}
