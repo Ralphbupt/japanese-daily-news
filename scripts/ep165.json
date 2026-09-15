@@ -1,0 +1,564 @@
+{
+  "episode": 165,
+  "title": "山形の新しいお米「ゆきまんてん」、知事と小学生が稲刈り",
+  "date": "2026-09-16",
+  "source": "朝日新聞・Yahoo!ニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026091601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September sixteenth. In Yamagata, in northern Japan, the governor and a group of elementary school students harvested a brand-new variety of rice together. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月14日、山形市で、新しいお米「ゆきまんてん」の稲刈りがありました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>山形市<rt>やまがたし</rt></ruby>で、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>「ゆきまんてん」の<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "稲刈りは、秋に、育ったお米を切って、とる仕事です。",
+      "ruby": "<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>に、<ruby>育っ<rt>そだっ</rt></ruby>たお<ruby>米<rt>こめ</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>て、とる<span class=\"vw\" data-ja=\"仕事\" data-reading=\"しごと\" data-en=\"work, job\"><ruby>仕事<rt>しごと</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "山形県の吉村知事と、小学5年生の子どもたちが、いっしょに稲刈りをしました。",
+      "ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>吉村<rt>よしむら</rt></ruby><span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>と、<span class=\"vw\" data-ja=\"小学5年生\" data-reading=\"しょうがくごねんせい\" data-en=\"fifth grader\"><ruby>小学<rt>しょうがく</rt></ruby>5<ruby>年生<rt>ねんせい</rt></ruby></span>の<span class=\"vw\" data-ja=\"子ども\" data-reading=\"こども\" data-en=\"child\"><ruby>子ども<rt>こども</rt></ruby></span>たちが、いっしょに<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ゆきまんてん」は、山形県が作った、新しいお米です。来年、お店で売られる予定です。",
+      "ruby": "「ゆきまんてん」は、<ruby>山形県<rt>やまがたけん</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>です。<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>、お<ruby>店<rt>みせ</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このお米は、つぶが大きくて、暑さに強いです。",
+      "ruby": "このお<ruby>米<rt>こめ</rt></ruby>は、<span class=\"vw\" data-ja=\"つぶ\" data-reading=\"つぶ\" data-en=\"grain\">つぶが</span><ruby>大きく<rt>おおきく</rt></ruby>て、<span class=\"vw\" data-ja=\"暑さ\" data-reading=\"あつさ\" data-en=\"heat\"><ruby>暑さ<rt>あつさ</rt></ruby></span>に<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "10歳の男の子は、「くきが太くて、切るのが大変でした」と話しました。",
+      "ruby": "10<ruby>歳<rt>さい</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby>は、「<span class=\"vw\" data-ja=\"くき\" data-reading=\"くき\" data-en=\"stalk, stem\">くきが</span><ruby>太く<rt>ふとく</rt></ruby>て、<span class=\"vw\" data-ja=\"切る\" data-reading=\"きる\" data-en=\"to cut\"><ruby>切る<rt>きる</rt></ruby></span>のが<span class=\"vw\" data-ja=\"大変\" data-reading=\"たいへん\" data-en=\"hard, tough\"><ruby>大変<rt>たいへん</rt></ruby></span>でした」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男の子は、「白いごはんにして、食べてみたいです」とも話しました。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>は、「<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span><span class=\"vw\" data-ja=\"ごはん\" data-reading=\"ごはん\" data-en=\"cooked rice, meal\">ごはんにして</span>、<ruby>食べて<rt>たべて</rt></ruby>みたいです」とも<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "知事は、「今年は天気がよくて、お米が大きく育ちました」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>は、「<ruby>今年<rt>ことし</rt></ruby>は<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>がよくて、<span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>育ち<rt>そだち</rt></ruby>ました」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "来月、この新しいお米を紹介するイベントがある予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"来月\" data-reading=\"らいげつ\" data-en=\"next month\"><ruby>来月<rt>らいげつ</rt></ruby></span>、この<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>を<span class=\"vw\" data-ja=\"紹介する\" data-reading=\"しょうかいする\" data-en=\"to introduce\"><ruby>紹介<rt>しょうかい</rt></ruby>する</span><span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>がある<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月14日、山形市で、新しいお米「ゆきまんてん」の稲刈りがありました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>山形市<rt>やまがたし</rt></ruby>で、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>「ゆきまんてん」の<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On September fourteenth, in Yamagata City, there was a harvest of a new variety of rice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "稲刈り",
+      "ruby": "<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rice harvesting — cutting and gathering the rice plants in the field."
+    },
+    {
+      "speaker": "slow",
+      "text": "稲刈りは、秋に、育ったお米を切って、とる仕事です。",
+      "ruby": "<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>に、<ruby>育っ<rt>そだっ</rt></ruby>たお<ruby>米<rt>こめ</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>て、とる<span class=\"vw\" data-ja=\"仕事\" data-reading=\"しごと\" data-en=\"work, job\"><ruby>仕事<rt>しごと</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Rice harvesting is the work of cutting and gathering the grown rice in autumn."
+    },
+    {
+      "speaker": "vocab",
+      "text": "秋",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means autumn."
+    },
+    {
+      "speaker": "slow",
+      "text": "山形県の吉村知事と、小学5年生の子どもたちが、いっしょに稲刈りをしました。",
+      "ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>吉村<rt>よしむら</rt></ruby><span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>と、<span class=\"vw\" data-ja=\"小学5年生\" data-reading=\"しょうがくごねんせい\" data-en=\"fifth grader\"><ruby>小学<rt>しょうがく</rt></ruby>5<ruby>年生<rt>ねんせい</rt></ruby></span>の<span class=\"vw\" data-ja=\"子ども\" data-reading=\"こども\" data-en=\"child\"><ruby>子ども<rt>こども</rt></ruby></span>たちが、いっしょに<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The governor of Yamagata Prefecture and fifth graders from an elementary school harvested the rice together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "知事",
+      "ruby": "<span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means governor — the leader of a prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "「ゆきまんてん」は、山形県が作った、新しいお米です。来年、お店で売られる予定です。",
+      "ruby": "「ゆきまんてん」は、<ruby>山形県<rt>やまがたけん</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>です。<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>、お<ruby>店<rt>みせ</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a new variety of rice that Yamagata Prefecture created. It is scheduled to be sold in stores next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or a schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "このお米は、つぶが大きくて、暑さに強いです。",
+      "ruby": "このお<ruby>米<rt>こめ</rt></ruby>は、<span class=\"vw\" data-ja=\"つぶ\" data-reading=\"つぶ\" data-en=\"grain\">つぶが</span><ruby>大きく<rt>おおきく</rt></ruby>て、<span class=\"vw\" data-ja=\"暑さ\" data-reading=\"あつさ\" data-en=\"heat\"><ruby>暑さ<rt>あつさ</rt></ruby></span>に<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This rice has large grains, and it is strong against the heat."
+    },
+    {
+      "speaker": "vocab",
+      "text": "強い",
+      "ruby": "<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means strong."
+    },
+    {
+      "speaker": "slow",
+      "text": "10歳の男の子は、「くきが太くて、切るのが大変でした」と話しました。",
+      "ruby": "10<ruby>歳<rt>さい</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby>は、「<span class=\"vw\" data-ja=\"くき\" data-reading=\"くき\" data-en=\"stalk, stem\">くきが</span><ruby>太く<rt>ふとく</rt></ruby>て、<span class=\"vw\" data-ja=\"切る\" data-reading=\"きる\" data-en=\"to cut\"><ruby>切る<rt>きる</rt></ruby></span>のが<span class=\"vw\" data-ja=\"大変\" data-reading=\"たいへん\" data-en=\"hard, tough\"><ruby>大変<rt>たいへん</rt></ruby></span>でした」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A ten-year-old boy said the stalks were thick, so cutting them was hard work."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大変",
+      "ruby": "<span class=\"vw\" data-ja=\"大変\" data-reading=\"たいへん\" data-en=\"hard, tough\"><ruby>大変<rt>たいへん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hard, or tough."
+    },
+    {
+      "speaker": "slow",
+      "text": "男の子は、「白いごはんにして、食べてみたいです」とも話しました。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>は、「<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span><span class=\"vw\" data-ja=\"ごはん\" data-reading=\"ごはん\" data-en=\"cooked rice, meal\">ごはんにして</span>、<ruby>食べて<rt>たべて</rt></ruby>みたいです」とも<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The boy also said he wants to try eating it as plain white rice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ごはん",
+      "ruby": "<span class=\"vw\" data-ja=\"ごはん\" data-reading=\"ごはん\" data-en=\"cooked rice, meal\">ごはん</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cooked rice, or a meal."
+    },
+    {
+      "speaker": "slow",
+      "text": "知事は、「今年は天気がよくて、お米が大きく育ちました」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>は、「<ruby>今年<rt>ことし</rt></ruby>は<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>がよくて、<span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>育ち<rt>そだち</rt></ruby>ました」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The governor said the weather was good this year, so the rice grew big."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育つ",
+      "ruby": "<span class=\"vw\" data-ja=\"育つ\" data-reading=\"そだつ\" data-en=\"to grow\"><ruby>育つ<rt>そだつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to grow."
+    },
+    {
+      "speaker": "slow",
+      "text": "来月、この新しいお米を紹介するイベントがある予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"来月\" data-reading=\"らいげつ\" data-en=\"next month\"><ruby>来月<rt>らいげつ</rt></ruby></span>、この<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>を<span class=\"vw\" data-ja=\"紹介する\" data-reading=\"しょうかいする\" data-en=\"to introduce\"><ruby>紹介<rt>しょうかい</rt></ruby>する</span><span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>がある<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next month, there is going to be an event to introduce this new rice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "紹介する",
+      "ruby": "<span class=\"vw\" data-ja=\"紹介する\" data-reading=\"しょうかいする\" data-en=\"to introduce\"><ruby>紹介<rt>しょうかい</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to introduce something to people."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "9月14日、山形市で、新しいお米「ゆきまんてん」の稲刈りがありました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>山形市<rt>やまがたし</rt></ruby>で、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>「ゆきまんてん」の<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "稲刈りは、秋に、育ったお米を切って、とる仕事です。",
+      "ruby": "<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>に、<ruby>育っ<rt>そだっ</rt></ruby>たお<ruby>米<rt>こめ</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>て、とる<span class=\"vw\" data-ja=\"仕事\" data-reading=\"しごと\" data-en=\"work, job\"><ruby>仕事<rt>しごと</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "山形県の吉村知事と、小学5年生の子どもたちが、いっしょに稲刈りをしました。",
+      "ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>吉村<rt>よしむら</rt></ruby><span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>と、<span class=\"vw\" data-ja=\"小学5年生\" data-reading=\"しょうがくごねんせい\" data-en=\"fifth grader\"><ruby>小学<rt>しょうがく</rt></ruby>5<ruby>年生<rt>ねんせい</rt></ruby></span>の<span class=\"vw\" data-ja=\"子ども\" data-reading=\"こども\" data-en=\"child\"><ruby>子ども<rt>こども</rt></ruby></span>たちが、いっしょに<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ゆきまんてん」は、山形県が作った、新しいお米です。来年、お店で売られる予定です。",
+      "ruby": "「ゆきまんてん」は、<ruby>山形県<rt>やまがたけん</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た、<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>です。<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>、お<ruby>店<rt>みせ</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このお米は、つぶが大きくて、暑さに強いです。",
+      "ruby": "このお<ruby>米<rt>こめ</rt></ruby>は、<span class=\"vw\" data-ja=\"つぶ\" data-reading=\"つぶ\" data-en=\"grain\">つぶが</span><ruby>大きく<rt>おおきく</rt></ruby>て、<span class=\"vw\" data-ja=\"暑さ\" data-reading=\"あつさ\" data-en=\"heat\"><ruby>暑さ<rt>あつさ</rt></ruby></span>に<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "10歳の男の子は、「くきが太くて、切るのが大変でした」と話しました。",
+      "ruby": "10<ruby>歳<rt>さい</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby>は、「<span class=\"vw\" data-ja=\"くき\" data-reading=\"くき\" data-en=\"stalk, stem\">くきが</span><ruby>太く<rt>ふとく</rt></ruby>て、<span class=\"vw\" data-ja=\"切る\" data-reading=\"きる\" data-en=\"to cut\"><ruby>切る<rt>きる</rt></ruby></span>のが<span class=\"vw\" data-ja=\"大変\" data-reading=\"たいへん\" data-en=\"hard, tough\"><ruby>大変<rt>たいへん</rt></ruby></span>でした」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男の子は、「白いごはんにして、食べてみたいです」とも話しました。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>は、「<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span><span class=\"vw\" data-ja=\"ごはん\" data-reading=\"ごはん\" data-en=\"cooked rice, meal\">ごはんにして</span>、<ruby>食べて<rt>たべて</rt></ruby>みたいです」とも<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "知事は、「今年は天気がよくて、お米が大きく育ちました」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"知事\" data-reading=\"ちじ\" data-en=\"governor\"><ruby>知事<rt>ちじ</rt></ruby></span>は、「<ruby>今年<rt>ことし</rt></ruby>は<span class=\"vw\" data-ja=\"天気\" data-reading=\"てんき\" data-en=\"weather\"><ruby>天気<rt>てんき</rt></ruby></span>がよくて、<span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>育ち<rt>そだち</rt></ruby>ました」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "来月、この新しいお米を紹介するイベントがある予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"来月\" data-reading=\"らいげつ\" data-en=\"next month\"><ruby>来月<rt>らいげつ</rt></ruby></span>、この<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>を<span class=\"vw\" data-ja=\"紹介する\" data-reading=\"しょうかいする\" data-en=\"to introduce\"><ruby>紹介<rt>しょうかい</rt></ruby>する</span><span class=\"vw\" data-ja=\"イベント\" data-reading=\"イベント\" data-en=\"event\">イベント</span>がある<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "稲刈りは、どこでありましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>は、どこでありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Yamagata City, in northern Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "だれが、子どもたちといっしょに稲刈りをしましたか。",
+      "ruby": "だれが、<span class=\"vw\" data-ja=\"子ども\" data-reading=\"こども\" data-en=\"child\"><ruby>子ども<rt>こども</rt></ruby></span>たちといっしょに<span class=\"vw\" data-ja=\"稲刈り\" data-reading=\"いねかり\" data-en=\"rice harvesting\"><ruby>稲刈り<rt>いねかり</rt></ruby></span>をしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The governor of Yamagata Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいお米は、いつから、お店で売られる予定ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"新しい\" data-reading=\"あたらしい\" data-en=\"new\"><ruby>新しい<rt>あたらしい</rt></ruby></span><span class=\"vw\" data-ja=\"お米\" data-reading=\"おこめ\" data-en=\"rice\">お<ruby>米<rt>こめ</rt></ruby></span>は、いつから、お<ruby>店<rt>みせ</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Starting next year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. New rice varieties like this one are being developed because Japan's summers are getting hotter. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "お米",
+      "reading": "おこめ",
+      "en": "rice",
+      "zh": "大米"
+    },
+    {
+      "ja": "稲刈り",
+      "reading": "いねかり",
+      "en": "rice harvesting",
+      "zh": "割稻，收割水稻"
+    },
+    {
+      "ja": "秋",
+      "reading": "あき",
+      "en": "autumn",
+      "zh": "秋天"
+    },
+    {
+      "ja": "育つ",
+      "reading": "そだつ",
+      "en": "to grow",
+      "zh": "生长"
+    },
+    {
+      "ja": "切る",
+      "reading": "きる",
+      "en": "to cut",
+      "zh": "切，割"
+    },
+    {
+      "ja": "仕事",
+      "reading": "しごと",
+      "en": "work, job",
+      "zh": "工作"
+    },
+    {
+      "ja": "知事",
+      "reading": "ちじ",
+      "en": "governor",
+      "zh": "知事（地方长官）"
+    },
+    {
+      "ja": "小学5年生",
+      "reading": "しょうがくごねんせい",
+      "en": "fifth grader",
+      "zh": "小学五年级学生"
+    },
+    {
+      "ja": "子ども",
+      "reading": "こども",
+      "en": "child",
+      "zh": "孩子"
+    },
+    {
+      "ja": "作る",
+      "reading": "つくる",
+      "en": "to make",
+      "zh": "制作，培育"
+    },
+    {
+      "ja": "新しい",
+      "reading": "あたらしい",
+      "en": "new",
+      "zh": "新的"
+    },
+    {
+      "ja": "来年",
+      "reading": "らいねん",
+      "en": "next year",
+      "zh": "明年"
+    },
+    {
+      "ja": "売る",
+      "reading": "うる",
+      "en": "to sell",
+      "zh": "卖"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "つぶ",
+      "reading": "つぶ",
+      "en": "grain",
+      "zh": "颗粒"
+    },
+    {
+      "ja": "暑さ",
+      "reading": "あつさ",
+      "en": "heat",
+      "zh": "炎热"
+    },
+    {
+      "ja": "強い",
+      "reading": "つよい",
+      "en": "strong",
+      "zh": "强的"
+    },
+    {
+      "ja": "くき",
+      "reading": "くき",
+      "en": "stalk, stem",
+      "zh": "茎，秆"
+    },
+    {
+      "ja": "太い",
+      "reading": "ふとい",
+      "en": "thick",
+      "zh": "粗的"
+    },
+    {
+      "ja": "大変",
+      "reading": "たいへん",
+      "en": "hard, tough",
+      "zh": "辛苦，不容易"
+    },
+    {
+      "ja": "白い",
+      "reading": "しろい",
+      "en": "white",
+      "zh": "白色的"
+    },
+    {
+      "ja": "ごはん",
+      "reading": "ごはん",
+      "en": "cooked rice, meal",
+      "zh": "米饭"
+    },
+    {
+      "ja": "食べる",
+      "reading": "たべる",
+      "en": "to eat",
+      "zh": "吃"
+    },
+    {
+      "ja": "天気",
+      "reading": "てんき",
+      "en": "weather",
+      "zh": "天气"
+    },
+    {
+      "ja": "話す",
+      "reading": "はなす",
+      "en": "to speak, to say",
+      "zh": "说"
+    },
+    {
+      "ja": "来月",
+      "reading": "らいげつ",
+      "en": "next month",
+      "zh": "下个月"
+    },
+    {
+      "ja": "紹介する",
+      "reading": "しょうかいする",
+      "en": "to introduce",
+      "zh": "介绍"
+    },
+    {
+      "ja": "イベント",
+      "reading": "イベント",
+      "en": "event",
+      "zh": "活动"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と話しました",
+      "meaning": "said that ~ (quoting)",
+      "meaningZh": "说了……（引用）",
+      "formation": "quote + と + 話す",
+      "example": "知事は、「今年は天気がよくて、お米が大きく育ちました」と話しました。",
+      "translation": "The governor said, \"The weather was good this year, so the rice grew big.\"",
+      "note": "と marks a quote. The words inside 「」 are what the person said, and と話しました means \"said\". News reports use this pattern all the time.",
+      "noteZh": "「と」表示引用。「」里面是那个人说的话，「と話しました」意思是\"说了\"。新闻报道中经常使用这个句型。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜てみたい",
+      "meaning": "want to try doing ~",
+      "meaningZh": "想试着做……",
+      "formation": "verb て-form + みたい",
+      "example": "男の子は、「白いごはんにして、食べてみたいです」とも話しました。",
+      "translation": "The boy also said he wants to try eating it as plain white rice.",
+      "note": "てみる means \"to try doing\", and たい means \"want to\". 食べてみたい = want to try eating it, often for the first time.",
+      "noteZh": "「てみる」表示\"试着做\"，「たい」表示\"想要\"。食べてみたい＝想尝尝看，多用于第一次尝试。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てみる"
+    },
+    {
+      "pattern": "〜くて",
+      "meaning": "connecting い-adjectives: ~ and ...",
+      "meaningZh": "い形容词的连接形：…而且…",
+      "formation": "い-adjective stem + くて",
+      "example": "このお米は、つぶが大きくて、暑さに強いです。",
+      "translation": "This rice has large grains, and it is strong against the heat.",
+      "note": "くて links an い-adjective to the rest of the sentence. 大きくて、強い = big and strong. It can also give a reason: 太くて、大変でした = they were thick, so it was hard.",
+      "noteZh": "「くて」把い形容词和句子的后半部分连接起来。大きくて、強い＝又大又强。也可以表示原因：太くて、大変でした＝因为很粗，所以很辛苦。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#くて"
+    }
+  ],
+  "practiceZh": [
+    "9月14日、山形市で、新しいお米「ゆきまんてん」の稲刈りがありました。\n9月14日，在山形市举行了新品种大米\"雪满天\"的收割活动。\n稲刈り = rice harvesting；新しい = new",
+    "稲刈りは、秋に、育ったお米を切って、とる仕事です。\n割稻是在秋天把长好的水稻割下来收获的工作。\n秋 = autumn；切る = to cut",
+    "山形県の吉村知事と、小学5年生の子どもたちが、いっしょに稲刈りをしました。\n山形县的吉村知事和小学五年级的孩子们一起割了稻子。\n知事 = governor；子ども = child",
+    "「ゆきまんてん」は、山形県が作った、新しいお米です。来年、お店で売られる予定です。\n\"雪满天\"是山形县培育的新品种大米，预定明年在商店销售。\n作る = to make；予定 = plan",
+    "このお米は、つぶが大きくて、暑さに強いです。\n这种大米颗粒大，而且耐热。\nつぶ = grain；強い = strong",
+    "10歳の男の子は、「くきが太くて、切るのが大変でした」と話しました。\n一位10岁的男孩说：\"稻秆很粗，割起来很辛苦。\"\n太い = thick；大変 = hard",
+    "男の子は、「白いごはんにして、食べてみたいです」とも話しました。\n男孩还说：\"想煮成白米饭尝尝看。\"\nごはん = cooked rice；食べる = to eat",
+    "知事は、「今年は天気がよくて、お米が大きく育ちました」と話しました。\n知事说：\"今年天气很好，稻子长得很大。\"\n天気 = weather；育つ = to grow",
+    "来月、この新しいお米を紹介するイベントがある予定です。\n下个月预定举办介绍这种新大米的活动。\n来月 = next month；紹介する = to introduce"
+  ]
+}
