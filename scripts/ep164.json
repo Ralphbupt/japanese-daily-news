@@ -1,0 +1,496 @@
+{
+  "episode": 164,
+  "title": "100歳以上の高齢者、初めて10万人を超える",
+  "date": "2026-09-15",
+  "source": "共同通信 / 日本経済新聞 / 東京新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026091501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September fifteenth. Japan's population aged one hundred or older has topped one hundred thousand for the first time ever. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の100歳以上のお年寄りが、初めて10万人を超えたことがわかりました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のお<ruby>年寄り<rt>としより</rt></ruby>が、<ruby>初めて<rt>はじめて</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>たことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省が、9月21日の「敬老の日」を前に発表しました。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>が、9<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>の「<span class=\"vw\" data-ja=\"敬老の日\" data-reading=\"けいろうのひ\" data-en=\"Respect for the Aged Day (national holiday)\"><ruby>敬老<rt>けいろう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></span>」を<ruby>前<rt>まえ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月1日の時点で、100歳以上の人は、全国で10万7677人です。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>全国<rt>ぜんこく</rt></ruby>で10<ruby>万<rt>まん</rt></ruby>7677<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年より7914人増えて、56年連続で過去最多を更新しました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>より7914<ruby>人<rt>にん</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>て、56<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"renewing; setting a new record\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全体の87.6%にあたる9万4298人が女性で、男性は1万3379人です。",
+      "ruby": "<span class=\"vw\" data-ja=\"全体\" data-reading=\"ぜんたい\" data-en=\"the whole; the total\"><ruby>全体<rt>ぜんたい</rt></ruby></span>の87.6%にあたる9<ruby>万<rt>まん</rt></ruby>4298<ruby>人<rt>にん</rt></ruby>が<ruby>女性<rt>じょせい</rt></ruby>で、<ruby>男性<rt>だんせい</rt></ruby>は1<ruby>万<rt>まん</rt></ruby>3379<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内で最も高齢の女性は、京都市に住む114歳の方です。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><span class=\"vw\" data-ja=\"高齢\" data-reading=\"こうれい\" data-en=\"advanced age; elderly\"><ruby>高齢<rt>こうれい</rt></ruby></span>の<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>京都市<rt>きょうとし</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby>114<ruby>歳<rt>さい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "男性の最高齢は、熊本市に住む112歳の方です。",
+      "ruby": "<ruby>男性<rt>だんせい</rt></ruby>の<ruby>最高<rt>さいこう</rt></ruby><ruby>齢<rt>れい</rt></ruby>は、<ruby>熊本市<rt>くまもとし</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby>112<ruby>歳<rt>さい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "100歳以上の人は、2012年に5万人を超え、この14年でおよそ2倍になりました。",
+      "ruby": "100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、2012<ruby>年<rt>ねん</rt></ruby>に5<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>、この14<ruby>年<rt>ねん</rt></ruby>でおよそ2<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "人口10万人あたりの人数を都道府県別に見ると、島根県が14年連続で全国で最も多くなっています。",
+      "ruby": "<ruby>人口<rt>じんこう</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>あたりの<ruby>人数<rt>にんずう</rt></ruby>を<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"Japan's 47 prefectures\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span><ruby>別に<rt>べつに</rt></ruby><ruby>見る<rt>みる</rt></ruby>と、<ruby>島根<rt>しまね</rt></ruby><ruby>県<rt>けん</rt></ruby>が14<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "2位は高知県、3位は鳥取県で、西日本の県が上位に並んでいます。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>は<ruby>高知県<rt>こうちけん</rt></ruby>、3<ruby>位<rt>い</rt></ruby>は<ruby>鳥取県<rt>とっとりけん</rt></ruby>で、<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>県<rt>けん</rt></ruby>が<ruby>上位<rt>じょうい</rt></ruby>に<ruby>並ん<rt>ならん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、今年度中に100歳になる人は5万4294人で、こちらも過去最多です。",
+      "ruby": "また、<ruby>今年度中<rt>こんねんどちゅう</rt></ruby>に100<ruby>歳<rt>さい</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>は5<ruby>万<rt>まん</rt></ruby>4294<ruby>人<rt>にん</rt></ruby>で、こちらも<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新たに100歳になる人には、総理大臣からお祝いの手紙と記念の銀杯が贈られます。",
+      "ruby": "<ruby>新たに<rt>あらたに</rt></ruby>100<ruby>歳<rt>さい</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>には、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>からお<ruby>祝い<rt>いわい</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>と<ruby>記念<rt>きねん</rt></ruby>の<ruby>銀杯<rt>ぎんぱい</rt></ruby>が<ruby>贈ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "医療の進歩や、健康への意識の高まりが、長寿の背景にあると考えられています。",
+      "ruby": "<ruby>医療<rt>いりょう</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>や、<ruby>健康<rt>けんこう</rt></ruby>への<ruby>意識<rt>いしき</rt></ruby>の<ruby>高ま<rt>たかま</rt></ruby>りが、<span class=\"vw\" data-ja=\"長寿\" data-reading=\"ちょうじゅ\" data-en=\"longevity; long life\"><ruby>長寿<rt>ちょうじゅ</rt></ruby></span>の<ruby>背景<rt>はいけい</rt></ruby>にあると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は世界でも有数の長寿国で、100歳以上の人は今後も増える見通しです。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>でも<ruby>有数<rt>ゆうすう</rt></ruby>の<span class=\"vw\" data-ja=\"長寿\" data-reading=\"ちょうじゅ\" data-en=\"longevity; long life\"><ruby>長寿<rt>ちょうじゅ</rt></ruby></span><ruby>国<rt>こく</rt></ruby>で、100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>今後<rt>こんご</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>る<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の100歳以上のお年寄りが、初めて10万人を超えたことがわかりました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のお<ruby>年寄り<rt>としより</rt></ruby>が、<ruby>初めて<rt>はじめて</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>たことがわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "For the first time, the number of people aged one hundred or older has topped one hundred thousand nationwide."
+    },
+    {
+      "speaker": "vocab",
+      "text": "超える",
+      "ruby": "<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed; to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to exceed — to go over a number."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年より7914人増えて、56年連続で過去最多を更新しました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>より7914<ruby>人<rt>にん</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>て、56<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"renewing; setting a new record\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That's up about seven thousand nine hundred from last year — a record high for the fifty-sixth straight year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連続",
+      "ruby": "<span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consecutive — in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "全体の87.6%にあたる9万4298人が女性で、男性は1万3379人です。",
+      "ruby": "<span class=\"vw\" data-ja=\"全体\" data-reading=\"ぜんたい\" data-en=\"the whole; the total\"><ruby>全体<rt>ぜんたい</rt></ruby></span>の87.6%にあたる9<ruby>万<rt>まん</rt></ruby>4298<ruby>人<rt>にん</rt></ruby>が<ruby>女性<rt>じょせい</rt></ruby>で、<ruby>男性<rt>だんせい</rt></ruby>は1<ruby>万<rt>まん</rt></ruby>3379<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Women make up eighty-seven point six percent — about ninety-four thousand — while men number about thirteen thousand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全体",
+      "ruby": "<span class=\"vw\" data-ja=\"全体\" data-reading=\"ぜんたい\" data-en=\"the whole; the total\"><ruby>全体<rt>ぜんたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the whole, or the total."
+    },
+    {
+      "speaker": "slow",
+      "text": "国内で最も高齢の女性は、京都市に住む114歳の方です。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><span class=\"vw\" data-ja=\"高齢\" data-reading=\"こうれい\" data-en=\"advanced age; elderly\"><ruby>高齢<rt>こうれい</rt></ruby></span>の<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>京都市<rt>きょうとし</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby>114<ruby>歳<rt>さい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The oldest woman in Japan is one hundred fourteen, living in Kyoto City."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高齢",
+      "ruby": "<span class=\"vw\" data-ja=\"高齢\" data-reading=\"こうれい\" data-en=\"advanced age; elderly\"><ruby>高齢<rt>こうれい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means advanced age — elderly."
+    },
+    {
+      "speaker": "slow",
+      "text": "100歳以上の人は、2012年に5万人を超え、この14年でおよそ2倍になりました。",
+      "ruby": "100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、2012<ruby>年<rt>ねん</rt></ruby>に5<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>、この14<ruby>年<rt>ねん</rt></ruby>でおよそ2<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The count passed fifty thousand in twenty twelve, and has roughly doubled in fourteen years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "およそ",
+      "ruby": "<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"approximately; roughly\">およそ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means approximately, or roughly."
+    },
+    {
+      "speaker": "slow",
+      "text": "人口10万人あたりの人数を都道府県別に見ると、島根県が14年連続で全国で最も多くなっています。",
+      "ruby": "<ruby>人口<rt>じんこう</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>あたりの<ruby>人数<rt>にんずう</rt></ruby>を<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"Japan's 47 prefectures\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span><ruby>別に<rt>べつに</rt></ruby><ruby>見る<rt>みる</rt></ruby>と、<ruby>島根<rt>しまね</rt></ruby><ruby>県<rt>けん</rt></ruby>が14<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Per one hundred thousand residents, Shimane Prefecture ranks highest for the fourteenth year running."
+    },
+    {
+      "speaker": "vocab",
+      "text": "都道府県",
+      "ruby": "<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"Japan's 47 prefectures\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means Japan's forty-seven prefectures."
+    },
+    {
+      "speaker": "slow",
+      "text": "新たに100歳になる人には、総理大臣からお祝いの手紙と記念の銀杯が贈られます。",
+      "ruby": "<ruby>新たに<rt>あらたに</rt></ruby>100<ruby>歳<rt>さい</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>には、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>からお<ruby>祝い<rt>いわい</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>と<ruby>記念<rt>きねん</rt></ruby>の<ruby>銀杯<rt>ぎんぱい</rt></ruby>が<ruby>贈ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "People turning one hundred receive a congratulatory letter and a commemorative silver cup from the prime minister."
+    },
+    {
+      "speaker": "vocab",
+      "text": "贈る",
+      "ruby": "<span class=\"vw\" data-ja=\"贈る\" data-reading=\"おくる\" data-en=\"to present; to give as a gift\"><ruby>贈る<rt>おくる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to present something — to give it as a gift."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は世界でも有数の長寿国で、100歳以上の人は今後も増える見通しです。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>でも<ruby>有数<rt>ゆうすう</rt></ruby>の<span class=\"vw\" data-ja=\"長寿\" data-reading=\"ちょうじゅ\" data-en=\"longevity; long life\"><ruby>長寿<rt>ちょうじゅ</rt></ruby></span><ruby>国<rt>こく</rt></ruby>で、100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>今後<rt>こんご</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>る<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan is one of the world's longest-lived countries, and the number is expected to keep growing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見通し",
+      "ruby": "<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an outlook, or forecast."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "全国の100歳以上のお年寄りが、初めて10万人を超えたことがわかりました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のお<ruby>年寄り<rt>としより</rt></ruby>が、<ruby>初めて<rt>はじめて</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>たことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省が、9月21日の「敬老の日」を前に発表しました。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>が、9<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>の「<span class=\"vw\" data-ja=\"敬老の日\" data-reading=\"けいろうのひ\" data-en=\"Respect for the Aged Day (national holiday)\"><ruby>敬老<rt>けいろう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby></span>」を<ruby>前<rt>まえ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月1日の時点で、100歳以上の人は、全国で10万7677人です。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>全国<rt>ぜんこく</rt></ruby>で10<ruby>万<rt>まん</rt></ruby>7677<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年より7914人増えて、56年連続で過去最多を更新しました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>より7914<ruby>人<rt>にん</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>て、56<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"renewing; setting a new record\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全体の87.6%にあたる9万4298人が女性で、男性は1万3379人です。",
+      "ruby": "<span class=\"vw\" data-ja=\"全体\" data-reading=\"ぜんたい\" data-en=\"the whole; the total\"><ruby>全体<rt>ぜんたい</rt></ruby></span>の87.6%にあたる9<ruby>万<rt>まん</rt></ruby>4298<ruby>人<rt>にん</rt></ruby>が<ruby>女性<rt>じょせい</rt></ruby>で、<ruby>男性<rt>だんせい</rt></ruby>は1<ruby>万<rt>まん</rt></ruby>3379<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内で最も高齢の女性は、京都市に住む114歳の方です。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><span class=\"vw\" data-ja=\"高齢\" data-reading=\"こうれい\" data-en=\"advanced age; elderly\"><ruby>高齢<rt>こうれい</rt></ruby></span>の<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>京都市<rt>きょうとし</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby>114<ruby>歳<rt>さい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "男性の最高齢は、熊本市に住む112歳の方です。",
+      "ruby": "<ruby>男性<rt>だんせい</rt></ruby>の<ruby>最高<rt>さいこう</rt></ruby><ruby>齢<rt>れい</rt></ruby>は、<ruby>熊本市<rt>くまもとし</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby>112<ruby>歳<rt>さい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "100歳以上の人は、2012年に5万人を超え、この14年でおよそ2倍になりました。",
+      "ruby": "100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、2012<ruby>年<rt>ねん</rt></ruby>に5<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>、この14<ruby>年<rt>ねん</rt></ruby>でおよそ2<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "人口10万人あたりの人数を都道府県別に見ると、島根県が14年連続で全国で最も多くなっています。",
+      "ruby": "<ruby>人口<rt>じんこう</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>あたりの<ruby>人数<rt>にんずう</rt></ruby>を<span class=\"vw\" data-ja=\"都道府県\" data-reading=\"とどうふけん\" data-en=\"Japan's 47 prefectures\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span><ruby>別に<rt>べつに</rt></ruby><ruby>見る<rt>みる</rt></ruby>と、<ruby>島根<rt>しまね</rt></ruby><ruby>県<rt>けん</rt></ruby>が14<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "2位は高知県、3位は鳥取県で、西日本の県が上位に並んでいます。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>は<ruby>高知県<rt>こうちけん</rt></ruby>、3<ruby>位<rt>い</rt></ruby>は<ruby>鳥取県<rt>とっとりけん</rt></ruby>で、<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>県<rt>けん</rt></ruby>が<ruby>上位<rt>じょうい</rt></ruby>に<ruby>並ん<rt>ならん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、今年度中に100歳になる人は5万4294人で、こちらも過去最多です。",
+      "ruby": "また、<ruby>今年度中<rt>こんねんどちゅう</rt></ruby>に100<ruby>歳<rt>さい</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>は5<ruby>万<rt>まん</rt></ruby>4294<ruby>人<rt>にん</rt></ruby>で、こちらも<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "新たに100歳になる人には、総理大臣からお祝いの手紙と記念の銀杯が贈られます。",
+      "ruby": "<ruby>新たに<rt>あらたに</rt></ruby>100<ruby>歳<rt>さい</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>には、<ruby>総理大臣<rt>そうりだいじん</rt></ruby>からお<ruby>祝い<rt>いわい</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>と<ruby>記念<rt>きねん</rt></ruby>の<ruby>銀杯<rt>ぎんぱい</rt></ruby>が<ruby>贈ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "医療の進歩や、健康への意識の高まりが、長寿の背景にあると考えられています。",
+      "ruby": "<ruby>医療<rt>いりょう</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>や、<ruby>健康<rt>けんこう</rt></ruby>への<ruby>意識<rt>いしき</rt></ruby>の<ruby>高ま<rt>たかま</rt></ruby>りが、<span class=\"vw\" data-ja=\"長寿\" data-reading=\"ちょうじゅ\" data-en=\"longevity; long life\"><ruby>長寿<rt>ちょうじゅ</rt></ruby></span>の<ruby>背景<rt>はいけい</rt></ruby>にあると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は世界でも有数の長寿国で、100歳以上の人は今後も増える見通しです。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>でも<ruby>有数<rt>ゆうすう</rt></ruby>の<span class=\"vw\" data-ja=\"長寿\" data-reading=\"ちょうじゅ\" data-en=\"longevity; long life\"><ruby>長寿<rt>ちょうじゅ</rt></ruby></span><ruby>国<rt>こく</rt></ruby>で、100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>今後<rt>こんご</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>る<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook; forecast\"><ruby>見通し<rt>みとおし</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "100歳以上の人は、全国で何人いますか。",
+      "ruby": "100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>何人<rt>なんにん</rt></ruby>いますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one hundred seven thousand seven hundred — over one hundred thousand for the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "100歳以上の人のうち、女性は全体の何パーセントですか。",
+      "ruby": "100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>のうち、<ruby>女性<rt>じょせい</rt></ruby>は<span class=\"vw\" data-ja=\"全体\" data-reading=\"ぜんたい\" data-en=\"the whole; the total\"><ruby>全体<rt>ぜんたい</rt></ruby></span>の<ruby>何<rt>なに</rt></ruby>パーセントですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty-seven point six percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "人口あたりの100歳以上の人が最も多い県は、どこですか。",
+      "ruby": "<ruby>人口<rt>じんこう</rt></ruby>あたりの100<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>最も<rt>もっとも</rt></ruby><ruby>多い<rt>おおい</rt></ruby><ruby>県<rt>けん</rt></ruby>は、どこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Shimane Prefecture, for the fourteenth year in a row."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. One hundred thousand centenarians, and still climbing — see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "超える",
+      "reading": "こえる",
+      "en": "to exceed; to go over",
+      "zh": "超过"
+    },
+    {
+      "ja": "高齢者",
+      "reading": "こうれいしゃ",
+      "en": "elderly person",
+      "zh": "高龄者；老年人"
+    },
+    {
+      "ja": "敬老の日",
+      "reading": "けいろうのひ",
+      "en": "Respect for the Aged Day (national holiday)",
+      "zh": "敬老日（日本节日）"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "consecutive; in a row",
+      "zh": "连续"
+    },
+    {
+      "ja": "更新",
+      "reading": "こうしん",
+      "en": "renewing; setting a new record",
+      "zh": "更新（纪录）；刷新"
+    },
+    {
+      "ja": "全体",
+      "reading": "ぜんたい",
+      "en": "the whole; the total",
+      "zh": "全体；整体"
+    },
+    {
+      "ja": "高齢",
+      "reading": "こうれい",
+      "en": "advanced age; elderly",
+      "zh": "高龄"
+    },
+    {
+      "ja": "およそ",
+      "reading": "およそ",
+      "en": "approximately; roughly",
+      "zh": "大约；大概"
+    },
+    {
+      "ja": "都道府県",
+      "reading": "とどうふけん",
+      "en": "Japan's 47 prefectures",
+      "zh": "都道府县（日本的47个行政区）"
+    },
+    {
+      "ja": "贈る",
+      "reading": "おくる",
+      "en": "to present; to give as a gift",
+      "zh": "赠送"
+    },
+    {
+      "ja": "長寿",
+      "reading": "ちょうじゅ",
+      "en": "longevity; long life",
+      "zh": "长寿"
+    },
+    {
+      "ja": "見通し",
+      "reading": "みとおし",
+      "en": "outlook; forecast",
+      "zh": "前景；预测"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜を前に",
+      "meaning": "ahead of; just before (an event)",
+      "meaningZh": "在…之前；临近…",
+      "formation": "noun + を前に",
+      "example": "厚生労働省が、9月21日の「敬老の日」を前に発表しました。",
+      "translation": "The health ministry made the announcement ahead of Respect for the Aged Day on September twenty-first.",
+      "note": "very common in news — announcements, preparations, or events timed just before a date",
+      "noteZh": "新闻中非常常用——表示在某个日子之前发布消息、做准备等",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#を前に"
+    },
+    {
+      "pattern": "〜にあたる",
+      "meaning": "to correspond to; to be equivalent to",
+      "meaningZh": "相当于…；等于…",
+      "formation": "noun + にあたる",
+      "example": "全体の87.6%にあたる9万4298人が女性です。",
+      "translation": "Women number 94,298, corresponding to 87.6 percent of the total.",
+      "note": "used in news to restate a number as a share or equivalent — percentages, multiples, dates",
+      "noteZh": "新闻中用于把一个数字换算成比例或对应值——百分比、倍数、日期等",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#にあたる"
+    },
+    {
+      "pattern": "〜見通しです",
+      "meaning": "it is expected that; the outlook is that",
+      "meaningZh": "预计…；预期…",
+      "formation": "plain-form verb + 見通しです",
+      "example": "100歳以上の人は今後も増える見通しです。",
+      "translation": "The number of people aged one hundred or older is expected to keep increasing.",
+      "note": "standard news ending for forecasts — softer and more objective than 〜でしょう",
+      "noteZh": "新闻中表示预测的固定说法——比〜でしょう更客观",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見通し"
+    }
+  ],
+  "practiceZh": [
+    "全国の100歳以上のお年寄りが、初めて10万人を超えたことがわかりました。\n据悉，全国100岁以上的老人首次超过了10万人。\n超える = 超过；お年寄り = 老人",
+    "去年より7914人増えて、56年連続で過去最多を更新しました。\n比去年增加了7914人，连续56年刷新历史最高纪录。\n連続 = 连续；更新 = 刷新",
+    "全体の87.6%にあたる9万4298人が女性で、男性は1万3379人です。\n女性有94298人，占全体的87.6%，男性为13379人。\n全体 = 全体；にあたる = 相当于",
+    "人口10万人あたりの人数を都道府県別に見ると、島根県が14年連続で全国で最も多くなっています。\n按都道府县来看每10万人口的人数，岛根县连续14年位居全国第一。\n都道府県 = 都道府县；あたり = 每",
+    "日本は世界でも有数の長寿国で、100歳以上の人は今後も増える見通しです。\n日本是世界屈指可数的长寿国家，预计100岁以上的人今后还会继续增加。\n長寿 = 长寿；見通し = 预测"
+  ]
+}
