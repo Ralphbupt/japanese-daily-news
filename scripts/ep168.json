@@ -1,0 +1,487 @@
+{
+  "episode": 168,
+  "title": "「東京ゲームショウ2026」が幕張メッセで開幕",
+  "date": "2026-09-17",
+  "source": "時事通信 / gamebiz / 4Gamer / ITmedia",
+  "level": "N4-N3",
+  "contentVersion": "2026091701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September seventeenth. The Tokyo Game Show, Japan's biggest video game event, opened today for its thirtieth-anniversary edition — the largest one ever. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゲームの祭典「東京ゲームショウ2026」が、今日、千葉市の幕張メッセで開幕しました。",
+      "ruby": "ゲームの<span class=\"vw\" data-ja=\"祭典\" data-reading=\"さいてん\" data-en=\"festival; big celebration event\"><ruby>祭典<rt>さいてん</rt></ruby></span>「<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウ2026」が、<ruby>今日<rt>きょう</rt></ruby>、<ruby>千葉市<rt>ちばし</rt></ruby>の<ruby>幕張<rt>まくはり</rt></ruby>メッセで<span class=\"vw\" data-ja=\"開幕\" data-reading=\"かいまく\" data-en=\"opening (of a big event)\"><ruby>開幕<rt>かいまく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は30回目の記念の開催で、出展する会社の数は過去最多の1138社になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は30<ruby>回目<rt>かいめ</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>の<ruby>開催<rt>かいさい</rt></ruby>で、<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record-high number\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>の1138<ruby>社<rt>しゃ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内から540社、海外からは過去最多となる53の国と地域から598社が参加しています。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>から540<ruby>社<rt>しゃ</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby>からは<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record-high number\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>となる53の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>から598<ruby>社<rt>しゃ</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会期はこれまでで最も長い5日間で、9月21日まで開かれます。",
+      "ruby": "<span class=\"vw\" data-ja=\"会期\" data-reading=\"かいき\" data-en=\"duration of an event\"><ruby>会期<rt>かいき</rt></ruby></span>はこれまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><ruby>5日間<rt>いつかかん</rt></ruby>で、9<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "期間中の来場者は、およそ30万人と見込まれています。",
+      "ruby": "<ruby>期間中<rt>きかんちゅう</rt></ruby>の<ruby>来場者<rt>らいじょうしゃ</rt></ruby>は、およそ30<ruby>万人<rt>まんにん</rt></ruby>と<ruby>見込ま<rt>みこま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の2日間はビジネスデイで、ゲーム業界の関係者などが対象です。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>2日間<rt>ふつかかん</rt></ruby>はビジネスデイで、ゲーム<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business field\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"関係者\" data-reading=\"かんけいしゃ\" data-en=\"people involved; insiders\"><ruby>関係者<rt>かんけいしゃ</rt></ruby></span>などが<ruby>対象<rt>たいしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日からの一般公開日には、チケットを買えばだれでも入場できます。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>からの<ruby>一般公開日<rt>いっぱんこうかいび</rt></ruby>には、チケットを<ruby>買え<rt>かえ</rt></ruby>ばだれでも<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>できます。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には、発売前の新作ゲームを一足早く遊べるコーナーがたくさん並んでいます。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、<ruby>発売前<rt>はつばいまえ</rt></ruby>の<span class=\"vw\" data-ja=\"新作\" data-reading=\"しんさく\" data-en=\"new title; new work\"><ruby>新作<rt>しんさく</rt></ruby></span>ゲームを<ruby>一足<rt>ひとあし</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>遊べ<rt>あそべ</rt></ruby>るコーナーがたくさん<ruby>並ん<rt>ならん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "個人や小さな会社が作る「インディーゲーム」のコーナーには、292の会社や団体が集まりました。",
+      "ruby": "<ruby>個人<rt>こじん</rt></ruby>や<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作る<rt>つくる</rt></ruby>「インディーゲーム」のコーナーには、292の<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>団体<rt>だんたい</rt></ruby>が<ruby>集まり<rt>あつまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、ゲーム以外の業界の会社の出展も目立っています。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、ゲーム<ruby>以外<rt>いがい</rt></ruby>の<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business field\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>も<ruby>目立っ<rt>めだっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "混雑対策として、会場の各エリアにセンサーを置いて、リアルタイムで人の数を管理します。",
+      "ruby": "<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span><ruby>対策<rt>たいさく</rt></ruby>として、<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>各<rt>かく</rt></ruby>エリアにセンサーを<ruby>置い<rt>おい</rt></ruby>て、リアルタイムで<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>管理<rt>かんり</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "人が集まりすぎた場合には、入場を制限することもあるということです。",
+      "ruby": "<ruby>人<rt>ひと</rt></ruby>が<ruby>集まり<rt>あつまり</rt></ruby>すぎた<ruby>場合<rt>ばあい</rt></ruby>には、<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"制限\" data-reading=\"せいげん\" data-en=\"limit; restriction\"><ruby>制限<rt>せいげん</rt></ruby></span>することもあるということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京ゲームショウは1996年に始まり、日本のゲーム文化を世界に発信する場となっています。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウは1996<ruby>年<rt>ねん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>のゲーム<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>世界<rt>せかい</rt></ruby>に<ruby>発信<rt>はっしん</rt></ruby>する<ruby>場<rt>ば</rt></ruby>となっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "ゲームの祭典「東京ゲームショウ2026」が、今日、千葉市の幕張メッセで開幕しました。",
+      "ruby": "ゲームの<span class=\"vw\" data-ja=\"祭典\" data-reading=\"さいてん\" data-en=\"festival; big celebration event\"><ruby>祭典<rt>さいてん</rt></ruby></span>「<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウ2026」が、<ruby>今日<rt>きょう</rt></ruby>、<ruby>千葉市<rt>ちばし</rt></ruby>の<ruby>幕張<rt>まくはり</rt></ruby>メッセで<span class=\"vw\" data-ja=\"開幕\" data-reading=\"かいまく\" data-en=\"opening (of a big event)\"><ruby>開幕<rt>かいまく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Tokyo Game Show twenty twenty-six, a festival of games, opened today at Makuhari Messe in Chiba City."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開幕",
+      "ruby": "<span class=\"vw\" data-ja=\"開幕\" data-reading=\"かいまく\" data-en=\"opening (of a big event)\"><ruby>開幕<rt>かいまく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the opening of a big event."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は30回目の記念の開催で、出展する会社の数は過去最多の1138社になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は30<ruby>回目<rt>かいめ</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>の<ruby>開催<rt>かいさい</rt></ruby>で、<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record-high number\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>の1138<ruby>社<rt>しゃ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year marks the thirtieth edition, and the number of exhibiting companies hit a record high of one thousand one hundred thirty-eight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出展",
+      "ruby": "<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means exhibiting at a show or a fair."
+    },
+    {
+      "speaker": "slow",
+      "text": "期間中の来場者は、およそ30万人と見込まれています。",
+      "ruby": "<ruby>期間中<rt>きかんちゅう</rt></ruby>の<ruby>来場者<rt>らいじょうしゃ</rt></ruby>は、およそ30<ruby>万人<rt>まんにん</rt></ruby>と<ruby>見込ま<rt>みこま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three hundred thousand visitors are expected during the show."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込む",
+      "ruby": "<span class=\"vw\" data-ja=\"見込む\" data-reading=\"みこむ\" data-en=\"to expect; to estimate\"><ruby>見込む<rt>みこむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to expect, or to estimate."
+    },
+    {
+      "speaker": "slow",
+      "text": "19日からの一般公開日には、チケットを買えばだれでも入場できます。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>からの<ruby>一般公開日<rt>いっぱんこうかいび</rt></ruby>には、チケットを<ruby>買え<rt>かえ</rt></ruby>ばだれでも<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>できます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the nineteenth, on the public days, anyone with a ticket can get in."
+    },
+    {
+      "speaker": "vocab",
+      "text": "入場",
+      "ruby": "<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means entering a venue — admission."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場には、発売前の新作ゲームを一足早く遊べるコーナーがたくさん並んでいます。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、<ruby>発売前<rt>はつばいまえ</rt></ruby>の<span class=\"vw\" data-ja=\"新作\" data-reading=\"しんさく\" data-en=\"new title; new work\"><ruby>新作<rt>しんさく</rt></ruby></span>ゲームを<ruby>一足<rt>ひとあし</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>遊べ<rt>あそべ</rt></ruby>るコーナーがたくさん<ruby>並ん<rt>ならん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The halls are lined with corners where visitors can try unreleased games ahead of launch."
+    },
+    {
+      "speaker": "vocab",
+      "text": "新作",
+      "ruby": "<span class=\"vw\" data-ja=\"新作\" data-reading=\"しんさく\" data-en=\"new title; new work\"><ruby>新作<rt>しんさく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a new title, or a new work."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、ゲーム以外の業界の会社の出展も目立っています。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、ゲーム<ruby>以外<rt>いがい</rt></ruby>の<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business field\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>も<ruby>目立っ<rt>めだっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, companies from outside the game industry also stand out among the exhibitors."
+    },
+    {
+      "speaker": "vocab",
+      "text": "業界",
+      "ruby": "<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business field\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an industry, or a business field."
+    },
+    {
+      "speaker": "slow",
+      "text": "混雑対策として、会場の各エリアにセンサーを置いて、リアルタイムで人の数を管理します。",
+      "ruby": "<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span><ruby>対策<rt>たいさく</rt></ruby>として、<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>各<rt>かく</rt></ruby>エリアにセンサーを<ruby>置い<rt>おい</rt></ruby>て、リアルタイムで<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>管理<rt>かんり</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "To deal with crowding, sensors placed in each area track visitor numbers in real time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "混雑",
+      "ruby": "<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means congestion — a heavy crowd."
+    },
+    {
+      "speaker": "slow",
+      "text": "人が集まりすぎた場合には、入場を制限することもあるということです。",
+      "ruby": "<ruby>人<rt>ひと</rt></ruby>が<ruby>集まり<rt>あつまり</rt></ruby>すぎた<ruby>場合<rt>ばあい</rt></ruby>には、<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"制限\" data-reading=\"せいげん\" data-en=\"limit; restriction\"><ruby>制限<rt>せいげん</rt></ruby></span>することもあるということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "If too many people gather, entry may sometimes be restricted."
+    },
+    {
+      "speaker": "vocab",
+      "text": "制限",
+      "ruby": "<span class=\"vw\" data-ja=\"制限\" data-reading=\"せいげん\" data-en=\"limit; restriction\"><ruby>制限<rt>せいげん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a limit, or a restriction."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "ゲームの祭典「東京ゲームショウ2026」が、今日、千葉市の幕張メッセで開幕しました。",
+      "ruby": "ゲームの<span class=\"vw\" data-ja=\"祭典\" data-reading=\"さいてん\" data-en=\"festival; big celebration event\"><ruby>祭典<rt>さいてん</rt></ruby></span>「<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウ2026」が、<ruby>今日<rt>きょう</rt></ruby>、<ruby>千葉市<rt>ちばし</rt></ruby>の<ruby>幕張<rt>まくはり</rt></ruby>メッセで<span class=\"vw\" data-ja=\"開幕\" data-reading=\"かいまく\" data-en=\"opening (of a big event)\"><ruby>開幕<rt>かいまく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は30回目の記念の開催で、出展する会社の数は過去最多の1138社になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は30<ruby>回目<rt>かいめ</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>の<ruby>開催<rt>かいさい</rt></ruby>で、<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record-high number\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>の1138<ruby>社<rt>しゃ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内から540社、海外からは過去最多となる53の国と地域から598社が参加しています。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>から540<ruby>社<rt>しゃ</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby>からは<span class=\"vw\" data-ja=\"過去最多\" data-reading=\"かこさいた\" data-en=\"record-high number\"><ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby></span>となる53の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>から598<ruby>社<rt>しゃ</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会期はこれまでで最も長い5日間で、9月21日まで開かれます。",
+      "ruby": "<span class=\"vw\" data-ja=\"会期\" data-reading=\"かいき\" data-en=\"duration of an event\"><ruby>会期<rt>かいき</rt></ruby></span>はこれまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>長い<rt>ながい</rt></ruby><ruby>5日間<rt>いつかかん</rt></ruby>で、9<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "期間中の来場者は、およそ30万人と見込まれています。",
+      "ruby": "<ruby>期間中<rt>きかんちゅう</rt></ruby>の<ruby>来場者<rt>らいじょうしゃ</rt></ruby>は、およそ30<ruby>万人<rt>まんにん</rt></ruby>と<ruby>見込ま<rt>みこま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の2日間はビジネスデイで、ゲーム業界の関係者などが対象です。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>2日間<rt>ふつかかん</rt></ruby>はビジネスデイで、ゲーム<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business field\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"関係者\" data-reading=\"かんけいしゃ\" data-en=\"people involved; insiders\"><ruby>関係者<rt>かんけいしゃ</rt></ruby></span>などが<ruby>対象<rt>たいしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日からの一般公開日には、チケットを買えばだれでも入場できます。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>からの<ruby>一般公開日<rt>いっぱんこうかいび</rt></ruby>には、チケットを<ruby>買え<rt>かえ</rt></ruby>ばだれでも<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>できます。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には、発売前の新作ゲームを一足早く遊べるコーナーがたくさん並んでいます。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、<ruby>発売前<rt>はつばいまえ</rt></ruby>の<span class=\"vw\" data-ja=\"新作\" data-reading=\"しんさく\" data-en=\"new title; new work\"><ruby>新作<rt>しんさく</rt></ruby></span>ゲームを<ruby>一足<rt>ひとあし</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>遊べ<rt>あそべ</rt></ruby>るコーナーがたくさん<ruby>並ん<rt>ならん</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "個人や小さな会社が作る「インディーゲーム」のコーナーには、292の会社や団体が集まりました。",
+      "ruby": "<ruby>個人<rt>こじん</rt></ruby>や<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作る<rt>つくる</rt></ruby>「インディーゲーム」のコーナーには、292の<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>団体<rt>だんたい</rt></ruby>が<ruby>集まり<rt>あつまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、ゲーム以外の業界の会社の出展も目立っています。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、ゲーム<ruby>以外<rt>いがい</rt></ruby>の<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business field\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>も<ruby>目立っ<rt>めだっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "混雑対策として、会場の各エリアにセンサーを置いて、リアルタイムで人の数を管理します。",
+      "ruby": "<span class=\"vw\" data-ja=\"混雑\" data-reading=\"こんざつ\" data-en=\"congestion; crowding\"><ruby>混雑<rt>こんざつ</rt></ruby></span><ruby>対策<rt>たいさく</rt></ruby>として、<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>各<rt>かく</rt></ruby>エリアにセンサーを<ruby>置い<rt>おい</rt></ruby>て、リアルタイムで<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>管理<rt>かんり</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "人が集まりすぎた場合には、入場を制限することもあるということです。",
+      "ruby": "<ruby>人<rt>ひと</rt></ruby>が<ruby>集まり<rt>あつまり</rt></ruby>すぎた<ruby>場合<rt>ばあい</rt></ruby>には、<span class=\"vw\" data-ja=\"入場\" data-reading=\"にゅうじょう\" data-en=\"entry; admission\"><ruby>入場<rt>にゅうじょう</rt></ruby></span>を<span class=\"vw\" data-ja=\"制限\" data-reading=\"せいげん\" data-en=\"limit; restriction\"><ruby>制限<rt>せいげん</rt></ruby></span>することもあるということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京ゲームショウは1996年に始まり、日本のゲーム文化を世界に発信する場となっています。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウは1996<ruby>年<rt>ねん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>のゲーム<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>世界<rt>せかい</rt></ruby>に<ruby>発信<rt>はっしん</rt></ruby>する<ruby>場<rt>ば</rt></ruby>となっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京ゲームショウ2026は、どこで開幕しましたか。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウ2026は、どこで<span class=\"vw\" data-ja=\"開幕\" data-reading=\"かいまく\" data-en=\"opening (of a big event)\"><ruby>開幕<rt>かいまく</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Makuhari Messe, in Chiba City."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年出展する会社の数は、全部で何社ですか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby><span class=\"vw\" data-ja=\"出展\" data-reading=\"しゅってん\" data-en=\"exhibiting (at a show)\"><ruby>出展<rt>しゅってん</rt></ruby></span>する<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>何<rt>なに</rt></ruby><ruby>社<rt>しゃ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One thousand one hundred thirty-eight companies — a record high."
+    },
+    {
+      "speaker": "slow",
+      "text": "会期は何日間で、いつまで開かれますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"会期\" data-reading=\"かいき\" data-en=\"duration of an event\"><ruby>会期<rt>かいき</rt></ruby></span>は<ruby>何日間<rt>なんにちかん</rt></ruby>で、いつまで<ruby>開か<rt>ひらか</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five days — it runs until September twenty-first."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Thirty years of the Tokyo Game Show, and its biggest edition yet. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "祭典",
+      "reading": "さいてん",
+      "en": "festival; big celebration event",
+      "zh": "盛典；庆典"
+    },
+    {
+      "ja": "開幕",
+      "reading": "かいまく",
+      "en": "opening (of a big event)",
+      "zh": "开幕"
+    },
+    {
+      "ja": "出展",
+      "reading": "しゅってん",
+      "en": "exhibiting (at a show)",
+      "zh": "参展"
+    },
+    {
+      "ja": "過去最多",
+      "reading": "かこさいた",
+      "en": "record-high number",
+      "zh": "史上最多"
+    },
+    {
+      "ja": "会期",
+      "reading": "かいき",
+      "en": "duration of an event",
+      "zh": "会期"
+    },
+    {
+      "ja": "見込む",
+      "reading": "みこむ",
+      "en": "to expect; to estimate",
+      "zh": "预计"
+    },
+    {
+      "ja": "関係者",
+      "reading": "かんけいしゃ",
+      "en": "people involved; insiders",
+      "zh": "相关人士"
+    },
+    {
+      "ja": "入場",
+      "reading": "にゅうじょう",
+      "en": "entry; admission",
+      "zh": "入场"
+    },
+    {
+      "ja": "新作",
+      "reading": "しんさく",
+      "en": "new title; new work",
+      "zh": "新作"
+    },
+    {
+      "ja": "業界",
+      "reading": "ぎょうかい",
+      "en": "industry; business field",
+      "zh": "业界；行业"
+    },
+    {
+      "ja": "混雑",
+      "reading": "こんざつ",
+      "en": "congestion; crowding",
+      "zh": "拥挤"
+    },
+    {
+      "ja": "制限",
+      "reading": "せいげん",
+      "en": "limit; restriction",
+      "zh": "限制"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と見込まれる",
+      "meaning": "is expected to; is estimated at",
+      "meaningZh": "预计…；估计…",
+      "formation": "number / plain clause + と見込まれる",
+      "example": "期間中の来場者は、およそ30万人と見込まれています。",
+      "translation": "About three hundred thousand visitors are expected during the event.",
+      "note": "passive of 見込む — very common in news for forecasts of numbers and results",
+      "noteZh": "見込む的被动形，新闻中常用于对人数、结果等的预测",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見込み"
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "if (conditional)",
+      "meaningZh": "如果…就…",
+      "formation": "verb ば-form (買う → 買えば)",
+      "example": "一般公開日には、チケットを買えばだれでも入場できます。",
+      "translation": "On the public days, anyone can enter if they buy a ticket.",
+      "note": "the ば conditional states a general condition — if X, then Y follows naturally",
+      "noteZh": "ば条件形表示一般条件——只要满足X，自然就有Y",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ば"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is reported that; they say that",
+      "meaningZh": "据说…；据报道…",
+      "formation": "plain form + ということです",
+      "example": "人が集まりすぎた場合には、入場を制限することもあるということです。",
+      "translation": "It is reported that entry may sometimes be restricted if too many people gather.",
+      "note": "hearsay expression used constantly in news to report information from a source",
+      "noteZh": "表示传闻，新闻中常用来转述消息来源的内容",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    }
+  ],
+  "practiceZh": [
+    "ゲームの祭典「東京ゲームショウ2026」が、今日、千葉市の幕張メッセで開幕しました。\n游戏盛典“东京电玩展2026”今天在千叶市幕张展览馆开幕。\n祭典 = 盛典；開幕 = 开幕",
+    "今年は30回目の記念の開催で、出展する会社の数は過去最多の1138社になりました。\n今年是第30届纪念性举办，参展公司数量达到史上最多的1138家。\n出展 = 参展；過去最多 = 史上最多",
+    "期間中の来場者は、およそ30万人と見込まれています。\n预计展会期间将有约30万人到场参观。\n来場者 = 到场观众；見込む = 预计",
+    "19日からの一般公開日には、チケットを買えばだれでも入場できます。\n从19日开始的公众开放日，只要买票任何人都可以入场。\nば = 只要…就；入場 = 入场",
+    "混雑対策として、会場の各エリアにセンサーを置いて、リアルタイムで人の数を管理します。\n作为防拥挤措施，会场各区域设置传感器，实时管理人数。\n混雑 = 拥挤；管理 = 管理",
+    "人が集まりすぎた場合には、入場を制限することもあるということです。\n据悉，如果聚集的人过多，有时会限制入场。\n制限 = 限制；ということです = 据悉"
+  ]
+}
