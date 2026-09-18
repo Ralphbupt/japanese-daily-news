@@ -1,0 +1,456 @@
+{
+  "episode": 171,
+  "title": "九州新幹線が52日ぶりに全線で運行再開",
+  "date": "2026-09-19",
+  "source": "NHK・FNN・JR九州",
+  "level": "N5-N4",
+  "contentVersion": "2026091901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September nineteenth. Some happy news from southern Japan: the Kyushu bullet train is finally running on its full line again, fifty-two days after a big earthquake stopped part of it. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "昨日、9月18日の朝6時、九州新幹線が52日ぶりに、全線で運行を再開しました。",
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>、<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>が52<ruby>日<rt>にち</rt></ruby>ぶりに、<span class=\"vw\" data-ja=\"全線\" data-reading=\"ぜんせん\" data-en=\"the whole line (railway)\"><ruby>全線<rt>ぜんせん</rt></ruby></span>で<span class=\"vw\" data-ja=\"運行\" data-reading=\"うんこう\" data-en=\"operation (of trains, buses)\"><ruby>運行<rt>うんこう</rt></ruby></span>を<span class=\"vw\" data-ja=\"再開\" data-reading=\"さいかい\" data-en=\"restart, resumption\"><ruby>再開<rt>さいかい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州新幹線は、福岡の博多駅と鹿児島中央駅を結ぶ新幹線です。",
+      "ruby": "<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>は、<ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>博多駅<rt>はかたえき</rt></ruby>と<ruby>鹿児島中央<rt>かごしまちゅうおう</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, to link\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span><span class=\"vw\" data-ja=\"新幹線\" data-reading=\"しんかんせん\" data-en=\"Shinkansen, bullet train\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年7月の熊本地震で、熊本駅と新水俣駅の間が壊れて、電車が走れなくなっていました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>の<ruby>熊本<rt>くまもと</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>で、<ruby>熊本<rt>くまもと</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>と<ruby>新<rt>しん</rt></ruby><ruby>水俣<rt>みなまた</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>て、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>が<ruby>走れ<rt>はしれ</rt></ruby>なくなっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR九州は、約2か月間、復旧の工事をしてきました。",
+      "ruby": "JR<ruby>九州<rt>きゅうしゅう</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>2か<ruby>月間<rt>げつかん</rt></ruby>、<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration, recovery\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>をしてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しばらくの間、被害が大きかった新八代駅の近くでは、電車はスピードを落として走ります。本数も少ないです。",
+      "ruby": "しばらくの<ruby>間<rt>あいだ</rt></ruby>、<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>大きか<rt>おおきか</rt></ruby>った<ruby>新八代<rt>しんやつしろ</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>近く<rt>ちかく</rt></ruby>では、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>は<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>を<ruby>落と<rt>おと</rt></ruby>して<ruby>走り<rt>はしり</rt></ruby>ます。<span class=\"vw\" data-ja=\"本数\" data-reading=\"ほんすう\" data-en=\"number of trains\"><ruby>本数<rt>ほんすう</rt></ruby></span>も<ruby>少ない<rt>すくない</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "駅では、たくさんの人が喜びました。「とてもうれしい。ずっと待っていました」と話す人もいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>喜び<rt>よろこび</rt></ruby>ました。「とてもうれしい。ずっと<ruby>待っ<rt>まっ</rt></ruby>ていました」と<ruby>話す<rt>はなす</rt></ruby><ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日からは、5連休の「シルバーウィーク」です。JR九州は、たくさんの観光客に来てほしいと考えています。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>からは、5<span class=\"vw\" data-ja=\"連休\" data-reading=\"れんきゅう\" data-en=\"consecutive holidays\"><ruby>連休<rt>れんきゅう</rt></ruby></span>の「シルバーウィーク」です。JR<ruby>九州<rt>きゅうしゅう</rt></ruby>は、たくさんの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>に<ruby>来て<rt>きて</rt></ruby>ほしいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "国も10月から、九州の旅行やホテルが安くなる「九州ふっこう応援割」を始める予定です。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>も10<ruby>月<rt>がつ</rt></ruby>から、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<span class=\"vw\" data-ja=\"旅行\" data-reading=\"りょこう\" data-en=\"travel, trip\"><ruby>旅行<rt>りょこう</rt></ruby></span>やホテルが<ruby>安く<rt>やすく</rt></ruby>なる「<ruby>九州<rt>きゅうしゅう</rt></ruby>ふっこう<ruby>応援<rt>おうえん</rt></ruby><ruby>割<rt>わり</rt></ruby>」を<ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州の秋の旅行は、これからにぎやかになりそうです。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>の<span class=\"vw\" data-ja=\"旅行\" data-reading=\"りょこう\" data-en=\"travel, trip\"><ruby>旅行<rt>りょこう</rt></ruby></span>は、これからにぎやかになりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "昨日、9月18日の朝6時、九州新幹線が52日ぶりに、全線で運行を再開しました。",
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>、<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>が52<ruby>日<rt>にち</rt></ruby>ぶりに、<span class=\"vw\" data-ja=\"全線\" data-reading=\"ぜんせん\" data-en=\"the whole line (railway)\"><ruby>全線<rt>ぜんせん</rt></ruby></span>で<span class=\"vw\" data-ja=\"運行\" data-reading=\"うんこう\" data-en=\"operation (of trains, buses)\"><ruby>運行<rt>うんこう</rt></ruby></span>を<span class=\"vw\" data-ja=\"再開\" data-reading=\"さいかい\" data-en=\"restart, resumption\"><ruby>再開<rt>さいかい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yesterday, September eighteenth, at six in the morning, the Kyushu Shinkansen resumed service on its entire line for the first time in fifty-two days."
+    },
+    {
+      "speaker": "vocab",
+      "text": "再開",
+      "ruby": "<span class=\"vw\" data-ja=\"再開\" data-reading=\"さいかい\" data-en=\"restart, resumption\"><ruby>再開<rt>さいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means restarting something — starting again after a stop."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年7月の熊本地震で、熊本駅と新水俣駅の間が壊れて、電車が走れなくなっていました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>の<ruby>熊本<rt>くまもと</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>で、<ruby>熊本<rt>くまもと</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>と<ruby>新<rt>しん</rt></ruby><ruby>水俣<rt>みなまた</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>て、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>が<ruby>走れ<rt>はしれ</rt></ruby>なくなっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Kumamoto earthquake this July damaged the section between Kumamoto Station and Shin-Minamata Station, so trains could no longer run there."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地震",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means earthquake."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR九州は、約2か月間、復旧の工事をしてきました。",
+      "ruby": "JR<ruby>九州<rt>きゅうしゅう</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>2か<ruby>月間<rt>げつかん</rt></ruby>、<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration, recovery\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>をしてきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The railway company carried out repair work for about two months."
+    },
+    {
+      "speaker": "vocab",
+      "text": "工事",
+      "ruby": "<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means construction work."
+    },
+    {
+      "speaker": "slow",
+      "text": "駅では、たくさんの人が喜びました。「とてもうれしい。ずっと待っていました」と話す人もいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>喜び<rt>よろこび</rt></ruby>ました。「とてもうれしい。ずっと<ruby>待っ<rt>まっ</rt></ruby>ていました」と<ruby>話す<rt>はなす</rt></ruby><ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the stations, many people were delighted. One person said they were very happy and had been waiting for a long time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "喜ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"喜ぶ\" data-reading=\"よろこぶ\" data-en=\"to be happy, to be delighted\"><ruby>喜ぶ<rt>よろこぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be happy or delighted about something."
+    },
+    {
+      "speaker": "slow",
+      "text": "国も10月から、九州の旅行やホテルが安くなる「九州ふっこう応援割」を始める予定です。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>も10<ruby>月<rt>がつ</rt></ruby>から、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<span class=\"vw\" data-ja=\"旅行\" data-reading=\"りょこう\" data-en=\"travel, trip\"><ruby>旅行<rt>りょこう</rt></ruby></span>やホテルが<ruby>安く<rt>やすく</rt></ruby>なる「<ruby>九州<rt>きゅうしゅう</rt></ruby>ふっこう<ruby>応援<rt>おうえん</rt></ruby><ruby>割<rt>わり</rt></ruby>」を<ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "From October, the government also plans to start a recovery support program that makes trips and hotels in Kyushu cheaper."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or schedule."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "昨日、9月18日の朝6時、九州新幹線が52日ぶりに、全線で運行を再開しました。",
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>、<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>が52<ruby>日<rt>にち</rt></ruby>ぶりに、<span class=\"vw\" data-ja=\"全線\" data-reading=\"ぜんせん\" data-en=\"the whole line (railway)\"><ruby>全線<rt>ぜんせん</rt></ruby></span>で<span class=\"vw\" data-ja=\"運行\" data-reading=\"うんこう\" data-en=\"operation (of trains, buses)\"><ruby>運行<rt>うんこう</rt></ruby></span>を<span class=\"vw\" data-ja=\"再開\" data-reading=\"さいかい\" data-en=\"restart, resumption\"><ruby>再開<rt>さいかい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州新幹線は、福岡の博多駅と鹿児島中央駅を結ぶ新幹線です。",
+      "ruby": "<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>は、<ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>博多駅<rt>はかたえき</rt></ruby>と<ruby>鹿児島中央<rt>かごしまちゅうおう</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, to link\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span><span class=\"vw\" data-ja=\"新幹線\" data-reading=\"しんかんせん\" data-en=\"Shinkansen, bullet train\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年7月の熊本地震で、熊本駅と新水俣駅の間が壊れて、電車が走れなくなっていました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>の<ruby>熊本<rt>くまもと</rt></ruby><span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>で、<ruby>熊本<rt>くまもと</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>と<ruby>新<rt>しん</rt></ruby><ruby>水俣<rt>みなまた</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>て、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>が<ruby>走れ<rt>はしれ</rt></ruby>なくなっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR九州は、約2か月間、復旧の工事をしてきました。",
+      "ruby": "JR<ruby>九州<rt>きゅうしゅう</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>2か<ruby>月間<rt>げつかん</rt></ruby>、<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration, recovery\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>の<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>をしてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しばらくの間、被害が大きかった新八代駅の近くでは、電車はスピードを落として走ります。本数も少ないです。",
+      "ruby": "しばらくの<ruby>間<rt>あいだ</rt></ruby>、<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>大きか<rt>おおきか</rt></ruby>った<ruby>新八代<rt>しんやつしろ</rt></ruby><span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>の<ruby>近く<rt>ちかく</rt></ruby>では、<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>は<span class=\"vw\" data-ja=\"スピード\" data-reading=\"スピード\" data-en=\"speed\">スピード</span>を<ruby>落と<rt>おと</rt></ruby>して<ruby>走り<rt>はしり</rt></ruby>ます。<span class=\"vw\" data-ja=\"本数\" data-reading=\"ほんすう\" data-en=\"number of trains\"><ruby>本数<rt>ほんすう</rt></ruby></span>も<ruby>少ない<rt>すくない</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "駅では、たくさんの人が喜びました。「とてもうれしい。ずっと待っていました」と話す人もいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"駅\" data-reading=\"えき\" data-en=\"station\"><ruby>駅<rt>えき</rt></ruby></span>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>喜び<rt>よろこび</rt></ruby>ました。「とてもうれしい。ずっと<ruby>待っ<rt>まっ</rt></ruby>ていました」と<ruby>話す<rt>はなす</rt></ruby><ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日からは、5連休の「シルバーウィーク」です。JR九州は、たくさんの観光客に来てほしいと考えています。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>からは、5<span class=\"vw\" data-ja=\"連休\" data-reading=\"れんきゅう\" data-en=\"consecutive holidays\"><ruby>連休<rt>れんきゅう</rt></ruby></span>の「シルバーウィーク」です。JR<ruby>九州<rt>きゅうしゅう</rt></ruby>は、たくさんの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>に<ruby>来て<rt>きて</rt></ruby>ほしいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "国も10月から、九州の旅行やホテルが安くなる「九州ふっこう応援割」を始める予定です。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>も10<ruby>月<rt>がつ</rt></ruby>から、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<span class=\"vw\" data-ja=\"旅行\" data-reading=\"りょこう\" data-en=\"travel, trip\"><ruby>旅行<rt>りょこう</rt></ruby></span>やホテルが<ruby>安く<rt>やすく</rt></ruby>なる「<ruby>九州<rt>きゅうしゅう</rt></ruby>ふっこう<ruby>応援<rt>おうえん</rt></ruby><ruby>割<rt>わり</rt></ruby>」を<ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "九州の秋の旅行は、これからにぎやかになりそうです。",
+      "ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>の<span class=\"vw\" data-ja=\"旅行\" data-reading=\"りょこう\" data-en=\"travel, trip\"><ruby>旅行<rt>りょこう</rt></ruby></span>は、これからにぎやかになりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "九州新幹線は、何日ぶりに全線で運行を再開しましたか。",
+      "ruby": "<ruby>九州新幹線<rt>きゅうしゅうしんかんせん</rt></ruby>は、<ruby>何日<rt>なんにち</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"全線\" data-reading=\"ぜんせん\" data-en=\"the whole line (railway)\"><ruby>全線<rt>ぜんせん</rt></ruby></span>で<span class=\"vw\" data-ja=\"運行\" data-reading=\"うんこう\" data-en=\"operation (of trains, buses)\"><ruby>運行<rt>うんこう</rt></ruby></span>を<span class=\"vw\" data-ja=\"再開\" data-reading=\"さいかい\" data-en=\"restart, resumption\"><ruby>再開<rt>さいかい</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fifty-two days. It resumed yesterday morning at six."
+    },
+    {
+      "speaker": "slow",
+      "text": "電車が走れなくなったのは、どうしてですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"電車\" data-reading=\"でんしゃ\" data-en=\"train\"><ruby>電車<rt>でんしゃ</rt></ruby></span>が<ruby>走れ<rt>はしれ</rt></ruby>なくなったのは、どうしてですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the Kumamoto earthquake in July damaged the section between Kumamoto Station and Shin-Minamata Station."
+    },
+    {
+      "speaker": "slow",
+      "text": "国は10月から、何を始める予定ですか。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby>から、<ruby>何を<rt>なにを</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A recovery support program that makes travel and hotels in Kyushu cheaper."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you are traveling in Kyushu during the holidays, the bullet train is back on its full route — good news for the whole region. See you tomorrow!"
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "新幹線",
+      "reading": "しんかんせん",
+      "en": "Shinkansen, bullet train",
+      "zh": "新干线"
+    },
+    {
+      "ja": "全線",
+      "reading": "ぜんせん",
+      "en": "the whole line (railway)",
+      "zh": "全线"
+    },
+    {
+      "ja": "運行",
+      "reading": "うんこう",
+      "en": "operation (of trains, buses)",
+      "zh": "运行"
+    },
+    {
+      "ja": "再開",
+      "reading": "さいかい",
+      "en": "restart, resumption",
+      "zh": "重新开始"
+    },
+    {
+      "ja": "駅",
+      "reading": "えき",
+      "en": "station",
+      "zh": "车站"
+    },
+    {
+      "ja": "結ぶ",
+      "reading": "むすぶ",
+      "en": "to connect, to link",
+      "zh": "连接"
+    },
+    {
+      "ja": "地震",
+      "reading": "じしん",
+      "en": "earthquake",
+      "zh": "地震"
+    },
+    {
+      "ja": "壊れる",
+      "reading": "こわれる",
+      "en": "to break, to be damaged",
+      "zh": "损坏"
+    },
+    {
+      "ja": "電車",
+      "reading": "でんしゃ",
+      "en": "train",
+      "zh": "电车"
+    },
+    {
+      "ja": "復旧",
+      "reading": "ふっきゅう",
+      "en": "restoration, recovery",
+      "zh": "修复"
+    },
+    {
+      "ja": "工事",
+      "reading": "こうじ",
+      "en": "construction work",
+      "zh": "施工"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage",
+      "zh": "受灾，损失"
+    },
+    {
+      "ja": "スピード",
+      "reading": "スピード",
+      "en": "speed",
+      "zh": "速度"
+    },
+    {
+      "ja": "本数",
+      "reading": "ほんすう",
+      "en": "number of trains",
+      "zh": "班次数量"
+    },
+    {
+      "ja": "喜ぶ",
+      "reading": "よろこぶ",
+      "en": "to be happy, to be delighted",
+      "zh": "高兴"
+    },
+    {
+      "ja": "待つ",
+      "reading": "まつ",
+      "en": "to wait",
+      "zh": "等待"
+    },
+    {
+      "ja": "連休",
+      "reading": "れんきゅう",
+      "en": "consecutive holidays",
+      "zh": "连休"
+    },
+    {
+      "ja": "観光客",
+      "reading": "かんこうきゃく",
+      "en": "tourist",
+      "zh": "游客"
+    },
+    {
+      "ja": "旅行",
+      "reading": "りょこう",
+      "en": "travel, trip",
+      "zh": "旅行"
+    },
+    {
+      "ja": "安い",
+      "reading": "やすい",
+      "en": "cheap, inexpensive",
+      "zh": "便宜"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "にぎやか",
+      "reading": "にぎやか",
+      "en": "lively, bustling",
+      "zh": "热闹"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜なくなる",
+      "meaning": "to stop being ~, to no longer ~",
+      "meaningZh": "变得不……了",
+      "formation": "verb ない-form (drop い) + くなる",
+      "example": "熊本駅と新水俣駅の間が壊れて、電車が走れなくなっていました。",
+      "translation": "The section between Kumamoto Station and Shin-Minamata Station was damaged, and trains could no longer run.",
+      "note": "なくなる shows that something stops happening or stops being possible. 走れなくなる = to become unable to run.",
+      "noteZh": "「なくなる」表示某事变得不再发生或不再可能。走れなくなる＝变得不能行驶。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくなる"
+    },
+    {
+      "pattern": "〜てきました",
+      "meaning": "have been doing ~ (up to now)",
+      "meaningZh": "一直……（持续到现在）",
+      "formation": "verb て-form + きました",
+      "example": "JR九州は、約2か月間、復旧の工事をしてきました。",
+      "translation": "JR Kyushu has been doing restoration work for about two months.",
+      "note": "てきました expresses an action that continued from the past up to the present. 工事をしてきました = have been doing construction work.",
+      "noteZh": "「てきました」表示动作从过去一直持续到现在。工事をしてきました＝一直在进行施工。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "plan to ~, be scheduled to ~",
+      "meaningZh": "预定……、计划……",
+      "formation": "verb dictionary form + 予定です",
+      "example": "国も10月から、「九州ふっこう応援割」を始める予定です。",
+      "translation": "From October, the government also plans to start the Kyushu recovery support discount.",
+      "note": "予定です attaches to the dictionary form of a verb and states a plan or schedule that has been decided. 始める予定です = plan to start.",
+      "noteZh": "「予定です」接在动词原形后面，表示已经决定的计划或安排。始める予定です＝预定开始。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定だ"
+    }
+  ],
+  "practiceZh": [
+    "昨日、9月18日の朝6時、九州新幹線が52日ぶりに、全線で運行を再開しました。\n昨天9月18日早上6点，九州新干线时隔52天在全线恢复了运行。\n全線 = the whole line；再開 = restart",
+    "九州新幹線は、福岡の博多駅と鹿児島中央駅を結ぶ新幹線です。\n九州新干线是连接福冈博多站和鹿儿岛中央站的新干线。\n結ぶ = to connect；駅 = station",
+    "今年7月の熊本地震で、熊本駅と新水俣駅の間が壊れて、電車が走れなくなっていました。\n因为今年7月的熊本地震，熊本站和新水俣站之间受损，电车一直无法行驶。\n地震 = earthquake；壊れる = to be damaged",
+    "JR九州は、約2か月間、復旧の工事をしてきました。\nJR九州进行了大约两个月的修复施工。\n復旧 = restoration；工事 = construction work",
+    "しばらくの間、被害が大きかった新八代駅の近くでは、電車はスピードを落として走ります。本数も少ないです。\n在一段时间内，受灾严重的新八代站附近，电车会减速行驶，班次也比较少。\n被害 = damage；本数 = number of trains",
+    "駅では、たくさんの人が喜びました。「とてもうれしい。ずっと待っていました」と話す人もいました。\n在车站，很多人都很高兴。有人说：\"太开心了，我一直在等这一天。\"\n喜ぶ = to be delighted；待つ = to wait",
+    "今日からは、5連休の「シルバーウィーク」です。JR九州は、たくさんの観光客に来てほしいと考えています。\n从今天开始是5连休的\"银周\"。JR九州希望有很多游客前来。\n連休 = consecutive holidays；観光客 = tourist",
+    "国も10月から、九州の旅行やホテルが安くなる「九州ふっこう応援割」を始める予定です。\n国家也预定从10月开始实施让九州的旅行和酒店变便宜的\"九州复兴应援折扣\"。\n安い = cheap；予定 = plan",
+    "九州の秋の旅行は、これからにぎやかになりそうです。\n九州的秋季旅行看样子接下来会热闹起来。\nにぎやか = lively；〜そうだ = looks like"
+  ]
+}
