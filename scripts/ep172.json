@@ -1,0 +1,505 @@
+{
+  "episode": 172,
+  "title": "トヨタ、内製ロボット40万台を工場に導入へ",
+  "date": "2026-09-19",
+  "source": "日本経済新聞 / Car Watch",
+  "level": "N4-N3",
+  "contentVersion": "2026091901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September nineteenth. Toyota has unveiled a huge plan: four hundred thousand AI robots working alongside people in its factories. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタ自動車は、AIを使った内製ロボット40万台を、2028年から世界の工場に導入すると発表しました。",
+      "ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>は、AIを<ruby>使った<rt>つかった</rt></ruby><span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>ロボット40<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>を、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>に<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "内製とは、機械やロボットを外部から買わずに、自分の会社で作ることです。",
+      "ruby": "<span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>とは、<ruby>機械<rt>きかい</rt></ruby>やロボットを<ruby>外部<rt>がいぶ</rt></ruby>から<ruby>買わ<rt>かわ</rt></ruby>ずに、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>作る<rt>つくる</rt></ruby>ことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタは、2028年から毎年約1兆円を投資して、世界にある60の工場を新しくする計画です。",
+      "ruby": "トヨタは、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>約<rt>やく</rt></ruby>1<ruby>兆円<rt>ちょうえん</rt></ruby>を<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>して、<ruby>世界<rt>せかい</rt></ruby>にある60の<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>新しく<rt>あたらしく</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットは、トヨタとグループ会社で15万台、部品メーカーで25万台が導入される予定です。",
+      "ruby": "ロボットは、トヨタとグループ<ruby>会社<rt>かいしゃ</rt></ruby>で15<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>、<ruby>部品<rt>ぶひん</rt></ruby>メーカーで25<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>が<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットの一つは、「エリー」という名前のヒト型ロボットです。",
+      "ruby": "ロボットの<ruby>一つ<rt>ひとつ</rt></ruby>は、「エリー」という<ruby>名前<rt>なまえ</rt></ruby>の<span class=\"vw\" data-ja=\"ヒト型\" data-reading=\"ひとがた\" data-en=\"humanoid\">ヒト<ruby>型<rt>がた</rt></ruby></span>ロボットです。"
+    },
+    {
+      "speaker": "news",
+      "text": "エリーは重さ約50キロで、二本足ではなく、車輪で移動します。",
+      "ruby": "エリーは<ruby>重さ<rt>おもさ</rt></ruby><ruby>約<rt>やく</rt></ruby>50キロで、<ruby>二本足<rt>にほんあし</rt></ruby>ではなく、<span class=\"vw\" data-ja=\"車輪\" data-reading=\"しゃりん\" data-en=\"wheel\"><ruby>車輪<rt>しゃりん</rt></ruby></span>で<ruby>移動<rt>いどう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "このロボットには、トヨタの研究会社が開発した、生成AIの「大規模行動モデル」が使われています。",
+      "ruby": "このロボットには、トヨタの<ruby>研究<rt>けんきゅう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>した、<ruby>生成<rt>せいせい</rt></ruby>AIの「<ruby>大規模<rt>だいきぼ</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>モデル」が<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットは、人の作業を見て学び、自分で同じ作業ができるようになります。",
+      "ruby": "ロボットは、<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby><ruby>学び<rt>まなび</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>ができるようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "発表会では、エリーが人から教わって、Tシャツをたたむ様子が披露されました。",
+      "ruby": "<ruby>発表会<rt>はっぴょうかい</rt></ruby>では、エリーが<ruby>人<rt>ひと</rt></ruby>から<ruby>教わ<rt>おそわ</rt></ruby>って、Tシャツをたたむ<ruby>様子<rt>ようす</rt></ruby>が<span class=\"vw\" data-ja=\"披露\" data-reading=\"ひろう\" data-en=\"unveiling; showing publicly\"><ruby>披露<rt>ひろう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットは人の代わりではなく、従業員と協力して働く「協働」が目的です。",
+      "ruby": "ロボットは<ruby>人<rt>ひと</rt></ruby>の<ruby>代わり<rt>かわり</rt></ruby>ではなく、<span class=\"vw\" data-ja=\"従業員\" data-reading=\"じゅうぎょういん\" data-en=\"employee\"><ruby>従業員<rt>じゅうぎょういん</rt></ruby></span>と<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>働く<rt>はたらく</rt></ruby>「<span class=\"vw\" data-ja=\"協働\" data-reading=\"きょうどう\" data-en=\"working together; collaboration\"><ruby>協働<rt>きょうどう</rt></ruby></span>」が<ruby>目的<rt>もくてき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では働く人が減っていて、工場の人手不足が大きな課題になっています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>ていて、<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>が<ruby>大き<rt>おおき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタは、AIとロボットの力で、「人中心のものづくり」を次の段階に進めたいとしています。",
+      "ruby": "トヨタは、AIとロボットの<ruby>力<rt>ちから</rt></ruby>で、「<ruby>人<rt>ひと</rt></ruby><ruby>中心<rt>ちゅうしん</rt></ruby>のものづくり」を<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; phase\"><ruby>段階<rt>だんかい</rt></ruby></span>に<ruby>進め<rt>すすめ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界では、アメリカや中国の企業も、ヒト型ロボットの開発を急いでいます。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>では、アメリカや<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby>も、<span class=\"vw\" data-ja=\"ヒト型\" data-reading=\"ひとがた\" data-en=\"humanoid\">ヒト<ruby>型<rt>がた</rt></ruby></span>ロボットの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>を<ruby>急い<rt>いそい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "トヨタ自動車は、AIを使った内製ロボット40万台を、2028年から世界の工場に導入すると発表しました。",
+      "ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>は、AIを<ruby>使った<rt>つかった</rt></ruby><span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>ロボット40<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>を、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>に<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Toyota announced it will introduce four hundred thousand in-house AI robots into its factories worldwide from twenty twenty-eight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "導入",
+      "ruby": "<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means introduction — bringing something new into use."
+    },
+    {
+      "speaker": "slow",
+      "text": "内製とは、機械やロボットを外部から買わずに、自分の会社で作ることです。",
+      "ruby": "<span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>とは、<ruby>機械<rt>きかい</rt></ruby>やロボットを<ruby>外部<rt>がいぶ</rt></ruby>から<ruby>買わ<rt>かわ</rt></ruby>ずに、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>作る<rt>つくる</rt></ruby>ことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In-house production means making machines and robots inside your own company instead of buying them from outside."
+    },
+    {
+      "speaker": "vocab",
+      "text": "内製",
+      "ruby": "<span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means making things in-house, in your own company."
+    },
+    {
+      "speaker": "slow",
+      "text": "トヨタは、2028年から毎年約1兆円を投資して、世界にある60の工場を新しくする計画です。",
+      "ruby": "トヨタは、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>約<rt>やく</rt></ruby>1<ruby>兆円<rt>ちょうえん</rt></ruby>を<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>して、<ruby>世界<rt>せかい</rt></ruby>にある60の<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>新しく<rt>あたらしく</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "From twenty twenty-eight, Toyota plans to invest about one trillion yen every year to renew its sixty factories around the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投資",
+      "ruby": "<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means investment — putting money into something."
+    },
+    {
+      "speaker": "slow",
+      "text": "エリーは重さ約50キロで、二本足ではなく、車輪で移動します。",
+      "ruby": "エリーは<ruby>重さ<rt>おもさ</rt></ruby><ruby>約<rt>やく</rt></ruby>50キロで、<ruby>二本足<rt>にほんあし</rt></ruby>ではなく、<span class=\"vw\" data-ja=\"車輪\" data-reading=\"しゃりん\" data-en=\"wheel\"><ruby>車輪<rt>しゃりん</rt></ruby></span>で<ruby>移動<rt>いどう</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "The robot weighs about fifty kilograms and moves on wheels, not on two legs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "車輪",
+      "ruby": "<span class=\"vw\" data-ja=\"車輪\" data-reading=\"しゃりん\" data-en=\"wheel\"><ruby>車輪<rt>しゃりん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a wheel."
+    },
+    {
+      "speaker": "slow",
+      "text": "ロボットは、人の作業を見て学び、自分で同じ作業ができるようになります。",
+      "ruby": "ロボットは、<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby><ruby>学び<rt>まなび</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>ができるようになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The robots watch people work, learn, and become able to do the same tasks by themselves."
+    },
+    {
+      "speaker": "vocab",
+      "text": "作業",
+      "ruby": "<span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means work — a task you carry out."
+    },
+    {
+      "speaker": "slow",
+      "text": "発表会では、エリーが人から教わって、Tシャツをたたむ様子が披露されました。",
+      "ruby": "<ruby>発表会<rt>はっぴょうかい</rt></ruby>では、エリーが<ruby>人<rt>ひと</rt></ruby>から<ruby>教わ<rt>おそわ</rt></ruby>って、Tシャツをたたむ<ruby>様子<rt>ようす</rt></ruby>が<span class=\"vw\" data-ja=\"披露\" data-reading=\"ひろう\" data-en=\"unveiling; showing publicly\"><ruby>披露<rt>ひろう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the presentation, the robot was shown learning from a person and folding a T-shirt."
+    },
+    {
+      "speaker": "vocab",
+      "text": "披露",
+      "ruby": "<span class=\"vw\" data-ja=\"披露\" data-reading=\"ひろう\" data-en=\"unveiling; showing publicly\"><ruby>披露<rt>ひろう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means showing something to the public for the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "ロボットは人の代わりではなく、従業員と協力して働く「協働」が目的です。",
+      "ruby": "ロボットは<ruby>人<rt>ひと</rt></ruby>の<ruby>代わり<rt>かわり</rt></ruby>ではなく、<span class=\"vw\" data-ja=\"従業員\" data-reading=\"じゅうぎょういん\" data-en=\"employee\"><ruby>従業員<rt>じゅうぎょういん</rt></ruby></span>と<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>働く<rt>はたらく</rt></ruby>「<span class=\"vw\" data-ja=\"協働\" data-reading=\"きょうどう\" data-en=\"working together; collaboration\"><ruby>協働<rt>きょうどう</rt></ruby></span>」が<ruby>目的<rt>もくてき</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The goal is not to replace people, but for robots to work together with employees."
+    },
+    {
+      "speaker": "vocab",
+      "text": "協働",
+      "ruby": "<span class=\"vw\" data-ja=\"協働\" data-reading=\"きょうどう\" data-en=\"working together; collaboration\"><ruby>協働<rt>きょうどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means working together on the same job."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では働く人が減っていて、工場の人手不足が大きな課題になっています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>ていて、<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>が<ruby>大き<rt>おおき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan the working population is shrinking, and labor shortages at factories are a big challenge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人手不足",
+      "ruby": "<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a labor shortage — not enough workers."
+    },
+    {
+      "speaker": "slow",
+      "text": "トヨタは、AIとロボットの力で、「人中心のものづくり」を次の段階に進めたいとしています。",
+      "ruby": "トヨタは、AIとロボットの<ruby>力<rt>ちから</rt></ruby>で、「<ruby>人<rt>ひと</rt></ruby><ruby>中心<rt>ちゅうしん</rt></ruby>のものづくり」を<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; phase\"><ruby>段階<rt>だんかい</rt></ruby></span>に<ruby>進め<rt>すすめ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Toyota says it wants to use AI and robots to take people-centered manufacturing to the next stage."
+    },
+    {
+      "speaker": "vocab",
+      "text": "段階",
+      "ruby": "<span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; phase\"><ruby>段階<rt>だんかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a stage or phase."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタ自動車は、AIを使った内製ロボット40万台を、2028年から世界の工場に導入すると発表しました。",
+      "ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>は、AIを<ruby>使った<rt>つかった</rt></ruby><span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>ロボット40<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>を、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>に<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "内製とは、機械やロボットを外部から買わずに、自分の会社で作ることです。",
+      "ruby": "<span class=\"vw\" data-ja=\"内製\" data-reading=\"ないせい\" data-en=\"in-house production\"><ruby>内製<rt>ないせい</rt></ruby></span>とは、<ruby>機械<rt>きかい</rt></ruby>やロボットを<ruby>外部<rt>がいぶ</rt></ruby>から<ruby>買わ<rt>かわ</rt></ruby>ずに、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>作る<rt>つくる</rt></ruby>ことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタは、2028年から毎年約1兆円を投資して、世界にある60の工場を新しくする計画です。",
+      "ruby": "トヨタは、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>約<rt>やく</rt></ruby>1<ruby>兆円<rt>ちょうえん</rt></ruby>を<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>して、<ruby>世界<rt>せかい</rt></ruby>にある60の<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>新しく<rt>あたらしく</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットは、トヨタとグループ会社で15万台、部品メーカーで25万台が導入される予定です。",
+      "ruby": "ロボットは、トヨタとグループ<ruby>会社<rt>かいしゃ</rt></ruby>で15<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>、<ruby>部品<rt>ぶひん</rt></ruby>メーカーで25<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>が<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットの一つは、「エリー」という名前のヒト型ロボットです。",
+      "ruby": "ロボットの<ruby>一つ<rt>ひとつ</rt></ruby>は、「エリー」という<ruby>名前<rt>なまえ</rt></ruby>の<span class=\"vw\" data-ja=\"ヒト型\" data-reading=\"ひとがた\" data-en=\"humanoid\">ヒト<ruby>型<rt>がた</rt></ruby></span>ロボットです。"
+    },
+    {
+      "speaker": "news",
+      "text": "エリーは重さ約50キロで、二本足ではなく、車輪で移動します。",
+      "ruby": "エリーは<ruby>重さ<rt>おもさ</rt></ruby><ruby>約<rt>やく</rt></ruby>50キロで、<ruby>二本足<rt>にほんあし</rt></ruby>ではなく、<span class=\"vw\" data-ja=\"車輪\" data-reading=\"しゃりん\" data-en=\"wheel\"><ruby>車輪<rt>しゃりん</rt></ruby></span>で<ruby>移動<rt>いどう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "このロボットには、トヨタの研究会社が開発した、生成AIの「大規模行動モデル」が使われています。",
+      "ruby": "このロボットには、トヨタの<ruby>研究<rt>けんきゅう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>した、<ruby>生成<rt>せいせい</rt></ruby>AIの「<ruby>大規模<rt>だいきぼ</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>モデル」が<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットは、人の作業を見て学び、自分で同じ作業ができるようになります。",
+      "ruby": "ロボットは、<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby><ruby>学び<rt>まなび</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby><span class=\"vw\" data-ja=\"作業\" data-reading=\"さぎょう\" data-en=\"work; task\"><ruby>作業<rt>さぎょう</rt></ruby></span>ができるようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "発表会では、エリーが人から教わって、Tシャツをたたむ様子が披露されました。",
+      "ruby": "<ruby>発表会<rt>はっぴょうかい</rt></ruby>では、エリーが<ruby>人<rt>ひと</rt></ruby>から<ruby>教わ<rt>おそわ</rt></ruby>って、Tシャツをたたむ<ruby>様子<rt>ようす</rt></ruby>が<span class=\"vw\" data-ja=\"披露\" data-reading=\"ひろう\" data-en=\"unveiling; showing publicly\"><ruby>披露<rt>ひろう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ロボットは人の代わりではなく、従業員と協力して働く「協働」が目的です。",
+      "ruby": "ロボットは<ruby>人<rt>ひと</rt></ruby>の<ruby>代わり<rt>かわり</rt></ruby>ではなく、<span class=\"vw\" data-ja=\"従業員\" data-reading=\"じゅうぎょういん\" data-en=\"employee\"><ruby>従業員<rt>じゅうぎょういん</rt></ruby></span>と<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>働く<rt>はたらく</rt></ruby>「<span class=\"vw\" data-ja=\"協働\" data-reading=\"きょうどう\" data-en=\"working together; collaboration\"><ruby>協働<rt>きょうどう</rt></ruby></span>」が<ruby>目的<rt>もくてき</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では働く人が減っていて、工場の人手不足が大きな課題になっています。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>ていて、<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"人手不足\" data-reading=\"ひとでぶそく\" data-en=\"labor shortage\"><ruby>人手不足<rt>ひとでぶそく</rt></ruby></span>が<ruby>大き<rt>おおき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタは、AIとロボットの力で、「人中心のものづくり」を次の段階に進めたいとしています。",
+      "ruby": "トヨタは、AIとロボットの<ruby>力<rt>ちから</rt></ruby>で、「<ruby>人<rt>ひと</rt></ruby><ruby>中心<rt>ちゅうしん</rt></ruby>のものづくり」を<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"段階\" data-reading=\"だんかい\" data-en=\"stage; phase\"><ruby>段階<rt>だんかい</rt></ruby></span>に<ruby>進め<rt>すすめ</rt></ruby>たいとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界では、アメリカや中国の企業も、ヒト型ロボットの開発を急いでいます。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>では、アメリカや<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby>も、<span class=\"vw\" data-ja=\"ヒト型\" data-reading=\"ひとがた\" data-en=\"humanoid\">ヒト<ruby>型<rt>がた</rt></ruby></span>ロボットの<span class=\"vw\" data-ja=\"開発\" data-reading=\"かいはつ\" data-en=\"development\"><ruby>開発<rt>かいはつ</rt></ruby></span>を<ruby>急い<rt>いそい</rt></ruby>でいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "トヨタは、何台のロボットを世界の工場に導入する計画ですか。",
+      "ruby": "トヨタは、<ruby>何台<rt>なんだい</rt></ruby>のロボットを<ruby>世界<rt>せかい</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>に<span class=\"vw\" data-ja=\"導入\" data-reading=\"どうにゅう\" data-en=\"introduction; adoption\"><ruby>導入<rt>どうにゅう</rt></ruby></span>する<ruby>計画<rt>けいかく</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four hundred thousand robots."
+    },
+    {
+      "speaker": "slow",
+      "text": "ヒト型ロボット「エリー」は、何を使って移動しますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"ヒト型\" data-reading=\"ひとがた\" data-en=\"humanoid\">ヒト<ruby>型<rt>がた</rt></ruby></span>ロボット「エリー」は、<ruby>何を<rt>なにを</rt></ruby><ruby>使って<rt>つかって</rt></ruby><ruby>移動<rt>いどう</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It moves on wheels."
+    },
+    {
+      "speaker": "slow",
+      "text": "トヨタは、2028年から毎年いくら投資しますか。",
+      "ruby": "トヨタは、2028<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby>いくら<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one trillion yen a year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Robots that learn by watching people — the factory of the future is getting closer. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "内製",
+      "reading": "ないせい",
+      "en": "in-house production",
+      "zh": "内制；自制"
+    },
+    {
+      "ja": "導入",
+      "reading": "どうにゅう",
+      "en": "introduction; adoption",
+      "zh": "引进；导入"
+    },
+    {
+      "ja": "投資",
+      "reading": "とうし",
+      "en": "investment",
+      "zh": "投资"
+    },
+    {
+      "ja": "車輪",
+      "reading": "しゃりん",
+      "en": "wheel",
+      "zh": "车轮"
+    },
+    {
+      "ja": "作業",
+      "reading": "さぎょう",
+      "en": "work; task",
+      "zh": "作业；操作"
+    },
+    {
+      "ja": "披露",
+      "reading": "ひろう",
+      "en": "unveiling; showing publicly",
+      "zh": "展示；公开亮相"
+    },
+    {
+      "ja": "協働",
+      "reading": "きょうどう",
+      "en": "working together; collaboration",
+      "zh": "协作；协同工作"
+    },
+    {
+      "ja": "人手不足",
+      "reading": "ひとでぶそく",
+      "en": "labor shortage",
+      "zh": "人手不足"
+    },
+    {
+      "ja": "段階",
+      "reading": "だんかい",
+      "en": "stage; phase",
+      "zh": "阶段"
+    },
+    {
+      "ja": "ヒト型",
+      "reading": "ひとがた",
+      "en": "humanoid",
+      "zh": "人形；人型"
+    },
+    {
+      "ja": "開発",
+      "reading": "かいはつ",
+      "en": "development",
+      "zh": "开发"
+    },
+    {
+      "ja": "従業員",
+      "reading": "じゅうぎょういん",
+      "en": "employee",
+      "zh": "员工"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ずに",
+      "meaning": "without doing ~",
+      "meaningZh": "不做…（而做另一件事）",
+      "formation": "verb ない-stem + ずに",
+      "example": "内製とは、機械やロボットを外部から買わずに、自分の会社で作ることです。",
+      "translation": "In-house production means making machines and robots in your own company without buying them from outside.",
+      "note": "a slightly formal equivalent of 〜ないで; する becomes せずに",
+      "noteZh": "是〜ないで的稍正式说法；する变为せずに",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ずに"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to reach the point where ~; to become able to ~",
+      "meaningZh": "变得…；逐渐能够…",
+      "formation": "verb dictionary form / potential form + ようになる",
+      "example": "ロボットは、人の作業を見て学び、自分で同じ作業ができるようになります。",
+      "translation": "The robots watch people work, learn, and become able to do the same tasks by themselves.",
+      "note": "expresses a gradual change of state or ability over time",
+      "noteZh": "表示状态或能力随时间逐渐发生变化",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜としています",
+      "meaning": "(an organization) says / takes the position that ~",
+      "meaningZh": "（机构、公司等）表示…；声称…",
+      "formation": "plain clause + としています",
+      "example": "トヨタは、「人中心のものづくり」を次の段階に進めたいとしています。",
+      "translation": "Toyota says it wants to take people-centered manufacturing to the next stage.",
+      "note": "very common in news reports to relay an official statement or stance",
+      "noteZh": "新闻中转述官方说法或立场时非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#としている"
+    }
+  ],
+  "practiceZh": [
+    "トヨタ自動車は、AIを使った内製ロボット40万台を、2028年から世界の工場に導入すると発表しました。\n丰田汽车宣布，将从2028年起向世界各地的工厂引进40万台使用AI的自制机器人。\n内製 = 自制；導入 = 引进",
+    "内製とは、機械やロボットを外部から買わずに、自分の会社で作ることです。\n所谓内制，就是不从外部购买机器或机器人，而是在自己公司里制造。\n〜ずに = 不做…；外部 = 外部",
+    "トヨタは、2028年から毎年約1兆円を投資して、世界にある60の工場を新しくする計画です。\n丰田计划从2028年起每年投资约1万亿日元，更新其在世界各地的60家工厂。\n投資 = 投资；計画 = 计划",
+    "ロボットは、人の作業を見て学び、自分で同じ作業ができるようになります。\n机器人通过观察人的操作来学习，之后自己也能完成同样的作业。\n作業 = 作业；〜ようになる = 变得能够…",
+    "ロボットは人の代わりではなく、従業員と協力して働く「協働」が目的です。\n机器人的目的不是取代人，而是与员工合作工作的“协作”。\n従業員 = 员工；協働 = 协作",
+    "日本では働く人が減っていて、工場の人手不足が大きな課題になっています。\n在日本，劳动人口不断减少，工厂的人手不足成为一大课题。\n人手不足 = 人手不足；課題 = 课题"
+  ]
+}
