@@ -1,0 +1,493 @@
+{
+  "episode": 174,
+  "title": "日銀が政策金利を1.25%に引き上げ、31年ぶりの高水準",
+  "date": "2026-09-20",
+  "source": "NHK / TBS NEWS DIG / FNN",
+  "level": "N4-N3",
+  "contentVersion": "2026092001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twentieth. The Bank of Japan has raised its key interest rate to the highest level in thirty-one years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行は9月18日、金融政策を決める会合で、政策金利を0.25%引き上げて、1.25%程度にすることを決めました。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>は9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>、<ruby>金融<rt>きんゆう</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<ruby>会合<rt>かいごう</rt></ruby>で、<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>を0.25%<ruby>引き上げ<rt>ひきあげ</rt></ruby>て、1.25%<ruby>程度<rt>ていど</rt></ruby>にすることを<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "政策金利が1.25%になるのは、約31年ぶりの高い水準です。",
+      "ruby": "<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>が1.25%になるのは、<ruby>約<rt>やく</rt></ruby>31<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "利上げは、ことし6月以来、3か月ぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>は、ことし6<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、3か<ruby>月<rt>げつ</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会合では、9人のメンバーのうち、7人が賛成し、2人が反対しました。",
+      "ruby": "<ruby>会合<rt>かいごう</rt></ruby>では、9<ruby>人<rt>にん</rt></ruby>のメンバーのうち、7<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement; voting in favor\"><ruby>賛成<rt>さんせい</rt></ruby></span>し、2<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"反対\" data-reading=\"はんたい\" data-en=\"opposition; voting against\"><ruby>反対<rt>はんたい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行が利上げを決めた大きな理由は、物価が大きく上がるリスクです。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods)\"><ruby>物価<rt>ぶっか</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>るリスクです。"
+    },
+    {
+      "speaker": "news",
+      "text": "原油の価格の上昇や円安の影響で、輸入品の値段が上がりやすくなっています。",
+      "ruby": "<ruby>原油<rt>げんゆ</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>や<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"輸入品\" data-reading=\"ゆにゅうひん\" data-en=\"imported goods\"><ruby>輸入品<rt>ゆにゅうひん</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>りやすくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行の植田総裁は、記者会見で「政策の局面が変化した」と述べました。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>の<ruby>植田<rt>うえだ</rt></ruby><span class=\"vw\" data-ja=\"総裁\" data-reading=\"そうさい\" data-en=\"governor (of a central bank)\"><ruby>総裁<rt>そうさい</rt></ruby></span>は、<ruby>記者会見<rt>きしゃかいけん</rt></ruby>で「<ruby>政策<rt>せいさく</rt></ruby>の<span class=\"vw\" data-ja=\"局面\" data-reading=\"きょくめん\" data-en=\"phase; situation\"><ruby>局面<rt>きょくめん</rt></ruby></span>が<ruby>変化し<rt>へんかし</rt></ruby>た」と<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、物価を安定させるために、今後も利上げを続ける考えを示しました。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods)\"><ruby>物価<rt>ぶっか</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>させるために、<ruby>今後<rt>こんご</rt></ruby>も<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>る<ruby>考え<rt>かんがえ</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の利上げは、私たちの生活にも影響します。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>は、<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "変動金利で住宅ローンを借りている人は、毎月の返済額が増える可能性があります。",
+      "ruby": "<ruby>変動<rt>へんどう</rt></ruby><ruby>金利<rt>きんり</rt></ruby>で<ruby>住宅<rt>じゅうたく</rt></ruby>ローンを<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>毎月<rt>まいつき</rt></ruby>の<span class=\"vw\" data-ja=\"返済\" data-reading=\"へんさい\" data-en=\"repayment\"><ruby>返済<rt>へんさい</rt></ruby></span><ruby>額<rt>がく</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、銀行にお金を預けたときの預金の金利は、上がると期待されています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>銀行<rt>ぎんこう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>預け<rt>あずけ</rt></ruby>たときの<span class=\"vw\" data-ja=\"預金\" data-reading=\"よきん\" data-en=\"bank deposit\"><ruby>預金<rt>よきん</rt></ruby></span>の<ruby>金利<rt>きんり</rt></ruby>は、<ruby>上が<rt>あが</rt></ruby>ると<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会見のあと、円相場は一時1ドル158円まで円安が進みました。",
+      "ruby": "<ruby>会見<rt>かいけん</rt></ruby>のあと、<span class=\"vw\" data-ja=\"円相場\" data-reading=\"えんそうば\" data-en=\"yen exchange rate\"><ruby>円相場<rt>えんそうば</rt></ruby></span>は<ruby>一時<rt>いちじ</rt></ruby>1ドル158<ruby>円<rt>えん</rt></ruby>まで<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>が<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "市場は、次の利上げがいつになるのか、注目しています。",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>は、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>がいつになるのか、<ruby>注目<rt>ちゅうもく</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行は9月18日、金融政策を決める会合で、政策金利を0.25%引き上げて、1.25%程度にすることを決めました。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>は9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>、<ruby>金融<rt>きんゆう</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<ruby>会合<rt>かいごう</rt></ruby>で、<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>を0.25%<ruby>引き上げ<rt>ひきあげ</rt></ruby>て、1.25%<ruby>程度<rt>ていど</rt></ruby>にすることを<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On September eighteenth, at its monetary policy meeting, the Bank of Japan decided to raise the policy interest rate by zero point two five points, to around one point two five percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "政策金利",
+      "ruby": "<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the policy interest rate — the base rate set by the central bank."
+    },
+    {
+      "speaker": "slow",
+      "text": "政策金利が1.25%になるのは、約31年ぶりの高い水準です。",
+      "ruby": "<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>が1.25%になるのは、<ruby>約<rt>やく</rt></ruby>31<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "A rate of one point two five percent is the highest level in about thirty-one years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "水準",
+      "ruby": "<span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a level or standard."
+    },
+    {
+      "speaker": "slow",
+      "text": "会合では、9人のメンバーのうち、7人が賛成し、2人が反対しました。",
+      "ruby": "<ruby>会合<rt>かいごう</rt></ruby>では、9<ruby>人<rt>にん</rt></ruby>のメンバーのうち、7<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement; voting in favor\"><ruby>賛成<rt>さんせい</rt></ruby></span>し、2<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"反対\" data-reading=\"はんたい\" data-en=\"opposition; voting against\"><ruby>反対<rt>はんたい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the meeting, seven of the nine members voted in favor and two voted against."
+    },
+    {
+      "speaker": "vocab",
+      "text": "賛成",
+      "ruby": "<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement; voting in favor\"><ruby>賛成<rt>さんせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means agreement — voting for something."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行が利上げを決めた大きな理由は、物価が大きく上がるリスクです。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods)\"><ruby>物価<rt>ぶっか</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>るリスクです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The main reason for the rate hike is the risk that prices could rise sharply."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物価",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods)\"><ruby>物価<rt>ぶっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prices — the general cost of goods and services."
+    },
+    {
+      "speaker": "slow",
+      "text": "原油の価格の上昇や円安の影響で、輸入品の値段が上がりやすくなっています。",
+      "ruby": "<ruby>原油<rt>げんゆ</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>や<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"輸入品\" data-reading=\"ゆにゅうひん\" data-en=\"imported goods\"><ruby>輸入品<rt>ゆにゅうひん</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>りやすくなっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of rising crude oil prices and the weak yen, imported goods are getting more expensive."
+    },
+    {
+      "speaker": "vocab",
+      "text": "円安",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a weak yen — the yen losing value against other currencies."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行の植田総裁は、記者会見で「政策の局面が変化した」と述べました。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>の<ruby>植田<rt>うえだ</rt></ruby><span class=\"vw\" data-ja=\"総裁\" data-reading=\"そうさい\" data-en=\"governor (of a central bank)\"><ruby>総裁<rt>そうさい</rt></ruby></span>は、<ruby>記者会見<rt>きしゃかいけん</rt></ruby>で「<ruby>政策<rt>せいさく</rt></ruby>の<span class=\"vw\" data-ja=\"局面\" data-reading=\"きょくめん\" data-en=\"phase; situation\"><ruby>局面<rt>きょくめん</rt></ruby></span>が<ruby>変化し<rt>へんかし</rt></ruby>た」と<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a press conference, Governor Ueda said the policy has entered a new phase."
+    },
+    {
+      "speaker": "vocab",
+      "text": "局面",
+      "ruby": "<span class=\"vw\" data-ja=\"局面\" data-reading=\"きょくめん\" data-en=\"phase; situation\"><ruby>局面<rt>きょくめん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a phase or situation."
+    },
+    {
+      "speaker": "slow",
+      "text": "変動金利で住宅ローンを借りている人は、毎月の返済額が増える可能性があります。",
+      "ruby": "<ruby>変動<rt>へんどう</rt></ruby><ruby>金利<rt>きんり</rt></ruby>で<ruby>住宅<rt>じゅうたく</rt></ruby>ローンを<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>毎月<rt>まいつき</rt></ruby>の<span class=\"vw\" data-ja=\"返済\" data-reading=\"へんさい\" data-en=\"repayment\"><ruby>返済<rt>へんさい</rt></ruby></span><ruby>額<rt>がく</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "People with variable-rate mortgages may see their monthly repayments go up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "返済",
+      "ruby": "<span class=\"vw\" data-ja=\"返済\" data-reading=\"へんさい\" data-en=\"repayment\"><ruby>返済<rt>へんさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means repayment — paying back borrowed money."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方で、銀行にお金を預けたときの預金の金利は、上がると期待されています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>銀行<rt>ぎんこう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>預け<rt>あずけ</rt></ruby>たときの<span class=\"vw\" data-ja=\"預金\" data-reading=\"よきん\" data-en=\"bank deposit\"><ruby>預金<rt>よきん</rt></ruby></span>の<ruby>金利<rt>きんり</rt></ruby>は、<ruby>上が<rt>あが</rt></ruby>ると<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, interest rates on bank deposits are expected to rise."
+    },
+    {
+      "speaker": "vocab",
+      "text": "預金",
+      "ruby": "<span class=\"vw\" data-ja=\"預金\" data-reading=\"よきん\" data-en=\"bank deposit\"><ruby>預金<rt>よきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a bank deposit — money you keep in the bank."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行は9月18日、金融政策を決める会合で、政策金利を0.25%引き上げて、1.25%程度にすることを決めました。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>は9<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>、<ruby>金融<rt>きんゆう</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>る<ruby>会合<rt>かいごう</rt></ruby>で、<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>を0.25%<ruby>引き上げ<rt>ひきあげ</rt></ruby>て、1.25%<ruby>程度<rt>ていど</rt></ruby>にすることを<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "政策金利が1.25%になるのは、約31年ぶりの高い水準です。",
+      "ruby": "<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>が1.25%になるのは、<ruby>約<rt>やく</rt></ruby>31<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"水準\" data-reading=\"すいじゅん\" data-en=\"level; standard\"><ruby>水準<rt>すいじゅん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "利上げは、ことし6月以来、3か月ぶりです。",
+      "ruby": "<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>は、ことし6<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、3か<ruby>月<rt>げつ</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会合では、9人のメンバーのうち、7人が賛成し、2人が反対しました。",
+      "ruby": "<ruby>会合<rt>かいごう</rt></ruby>では、9<ruby>人<rt>にん</rt></ruby>のメンバーのうち、7<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement; voting in favor\"><ruby>賛成<rt>さんせい</rt></ruby></span>し、2<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"反対\" data-reading=\"はんたい\" data-en=\"opposition; voting against\"><ruby>反対<rt>はんたい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行が利上げを決めた大きな理由は、物価が大きく上がるリスクです。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods)\"><ruby>物価<rt>ぶっか</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>上が<rt>あが</rt></ruby>るリスクです。"
+    },
+    {
+      "speaker": "news",
+      "text": "原油の価格の上昇や円安の影響で、輸入品の値段が上がりやすくなっています。",
+      "ruby": "<ruby>原油<rt>げんゆ</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>や<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>の<ruby>影響<rt>えいきょう</rt></ruby>で、<span class=\"vw\" data-ja=\"輸入品\" data-reading=\"ゆにゅうひん\" data-en=\"imported goods\"><ruby>輸入品<rt>ゆにゅうひん</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>りやすくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本銀行の植田総裁は、記者会見で「政策の局面が変化した」と述べました。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>の<ruby>植田<rt>うえだ</rt></ruby><span class=\"vw\" data-ja=\"総裁\" data-reading=\"そうさい\" data-en=\"governor (of a central bank)\"><ruby>総裁<rt>そうさい</rt></ruby></span>は、<ruby>記者会見<rt>きしゃかいけん</rt></ruby>で「<ruby>政策<rt>せいさく</rt></ruby>の<span class=\"vw\" data-ja=\"局面\" data-reading=\"きょくめん\" data-en=\"phase; situation\"><ruby>局面<rt>きょくめん</rt></ruby></span>が<ruby>変化し<rt>へんかし</rt></ruby>た」と<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、物価を安定させるために、今後も利上げを続ける考えを示しました。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods)\"><ruby>物価<rt>ぶっか</rt></ruby></span>を<ruby>安定<rt>あんてい</rt></ruby>させるために、<ruby>今後<rt>こんご</rt></ruby>も<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>る<ruby>考え<rt>かんがえ</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の利上げは、私たちの生活にも影響します。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>は、<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "変動金利で住宅ローンを借りている人は、毎月の返済額が増える可能性があります。",
+      "ruby": "<ruby>変動<rt>へんどう</rt></ruby><ruby>金利<rt>きんり</rt></ruby>で<ruby>住宅<rt>じゅうたく</rt></ruby>ローンを<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>毎月<rt>まいつき</rt></ruby>の<span class=\"vw\" data-ja=\"返済\" data-reading=\"へんさい\" data-en=\"repayment\"><ruby>返済<rt>へんさい</rt></ruby></span><ruby>額<rt>がく</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、銀行にお金を預けたときの預金の金利は、上がると期待されています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>銀行<rt>ぎんこう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>預け<rt>あずけ</rt></ruby>たときの<span class=\"vw\" data-ja=\"預金\" data-reading=\"よきん\" data-en=\"bank deposit\"><ruby>預金<rt>よきん</rt></ruby></span>の<ruby>金利<rt>きんり</rt></ruby>は、<ruby>上が<rt>あが</rt></ruby>ると<ruby>期待さ<rt>きたいさ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会見のあと、円相場は一時1ドル158円まで円安が進みました。",
+      "ruby": "<ruby>会見<rt>かいけん</rt></ruby>のあと、<span class=\"vw\" data-ja=\"円相場\" data-reading=\"えんそうば\" data-en=\"yen exchange rate\"><ruby>円相場<rt>えんそうば</rt></ruby></span>は<ruby>一時<rt>いちじ</rt></ruby>1ドル158<ruby>円<rt>えん</rt></ruby>まで<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>が<ruby>進み<rt>すすみ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "市場は、次の利上げがいつになるのか、注目しています。",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>は、<ruby>次の<rt>つぎの</rt></ruby><span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>がいつになるのか、<ruby>注目<rt>ちゅうもく</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行は、政策金利を何パーセントに引き上げましたか。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>は、<span class=\"vw\" data-ja=\"政策金利\" data-reading=\"せいさくきんり\" data-en=\"policy interest rate\"><ruby>政策<rt>せいさく</rt></ruby><ruby>金利<rt>きんり</rt></ruby></span>を<ruby>何<rt>なん</rt></ruby>パーセントに<ruby>引き上げ<rt>ひきあげ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "To around one point two five percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本銀行が利上げを決めた大きな理由は、何のリスクですか。",
+      "ruby": "<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が<span class=\"vw\" data-ja=\"利上げ\" data-reading=\"りあげ\" data-en=\"interest rate hike\"><ruby>利上げ<rt>りあげ</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>た<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby>リスクですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The risk that prices could rise sharply."
+    },
+    {
+      "speaker": "slow",
+      "text": "変動金利で住宅ローンを借りている人は、何が増える可能性がありますか。",
+      "ruby": "<ruby>変動<rt>へんどう</rt></ruby><ruby>金利<rt>きんり</rt></ruby>で<ruby>住宅<rt>じゅうたく</rt></ruby>ローンを<ruby>借り<rt>かり</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Their monthly loan repayments."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Interest rates shape everything from mortgages to savings — a big shift for daily life in Japan. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "政策金利",
+      "reading": "せいさくきんり",
+      "en": "policy interest rate",
+      "zh": "政策利率"
+    },
+    {
+      "ja": "利上げ",
+      "reading": "りあげ",
+      "en": "interest rate hike",
+      "zh": "加息；上调利率"
+    },
+    {
+      "ja": "水準",
+      "reading": "すいじゅん",
+      "en": "level; standard",
+      "zh": "水平；水准"
+    },
+    {
+      "ja": "賛成",
+      "reading": "さんせい",
+      "en": "agreement; voting in favor",
+      "zh": "赞成"
+    },
+    {
+      "ja": "反対",
+      "reading": "はんたい",
+      "en": "opposition; voting against",
+      "zh": "反对"
+    },
+    {
+      "ja": "物価",
+      "reading": "ぶっか",
+      "en": "prices (of goods)",
+      "zh": "物价"
+    },
+    {
+      "ja": "円安",
+      "reading": "えんやす",
+      "en": "weak yen",
+      "zh": "日元贬值"
+    },
+    {
+      "ja": "輸入品",
+      "reading": "ゆにゅうひん",
+      "en": "imported goods",
+      "zh": "进口商品"
+    },
+    {
+      "ja": "総裁",
+      "reading": "そうさい",
+      "en": "governor (of a central bank)",
+      "zh": "总裁；（央行）行长"
+    },
+    {
+      "ja": "局面",
+      "reading": "きょくめん",
+      "en": "phase; situation",
+      "zh": "局面；阶段"
+    },
+    {
+      "ja": "返済",
+      "reading": "へんさい",
+      "en": "repayment",
+      "zh": "还款；偿还"
+    },
+    {
+      "ja": "預金",
+      "reading": "よきん",
+      "en": "bank deposit",
+      "zh": "存款"
+    },
+    {
+      "ja": "円相場",
+      "reading": "えんそうば",
+      "en": "yen exchange rate",
+      "zh": "日元汇率"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in ~ (a period of time)",
+      "meaningZh": "时隔…（再次发生）",
+      "formation": "time period + ぶり",
+      "example": "政策金利が1.25%になるのは、約31年ぶりの高い水準です。",
+      "translation": "A policy rate of 1.25 percent is the highest level in about thirty-one years.",
+      "note": "emphasizes how long it has been since something last happened",
+      "noteZh": "强调距离上次发生已经过了多长时间",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜可能性がある",
+      "meaning": "there is a possibility that ~",
+      "meaningZh": "有可能…",
+      "formation": "plain form + 可能性がある",
+      "example": "変動金利で住宅ローンを借りている人は、毎月の返済額が増える可能性があります。",
+      "translation": "People with variable-rate mortgages may see their monthly repayments increase.",
+      "note": "common in news to talk about possible outcomes without asserting them",
+      "noteZh": "新闻中常用，表示可能发生的结果而不做断言",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#可能性がある"
+    },
+    {
+      "pattern": "一方で",
+      "meaning": "on the other hand; while ~",
+      "meaningZh": "另一方面…",
+      "formation": "sentence + 一方で、sentence",
+      "example": "一方で、銀行にお金を預けたときの預金の金利は、上がると期待されています。",
+      "translation": "On the other hand, interest rates on bank deposits are expected to rise.",
+      "note": "contrasts two sides of the same situation",
+      "noteZh": "用于对比同一事物的两个方面",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#一方で"
+    }
+  ],
+  "practiceZh": [
+    "日本銀行は9月18日、金融政策を決める会合で、政策金利を0.25%引き上げて、1.25%程度にすることを決めました。\n日本银行9月18日在决定货币政策的会议上，决定将政策利率上调0.25%，达到1.25%左右。\n政策金利 = 政策利率；引き上げる = 上调",
+    "政策金利が1.25%になるのは、約31年ぶりの高い水準です。\n政策利率达到1.25%，是时隔约31年的高水平。\n〜ぶり = 时隔…；水準 = 水平",
+    "日本銀行が利上げを決めた大きな理由は、物価が大きく上がるリスクです。\n日本银行决定加息的主要原因，是物价大幅上涨的风险。\n利上げ = 加息；物価 = 物价",
+    "原油の価格の上昇や円安の影響で、輸入品の値段が上がりやすくなっています。\n受原油价格上涨和日元贬值的影响，进口商品的价格容易上涨。\n円安 = 日元贬值；輸入品 = 进口商品",
+    "変動金利で住宅ローンを借りている人は、毎月の返済額が増える可能性があります。\n以浮动利率借房贷的人，每月的还款额有可能增加。\n返済 = 还款；〜可能性がある = 有可能…",
+    "一方で、銀行にお金を預けたときの預金の金利は、上がると期待されています。\n另一方面，银行存款的利率预计会上升。\n一方で = 另一方面；預金 = 存款"
+  ]
+}
