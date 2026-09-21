@@ -1,0 +1,486 @@
+{
+  "episode": 177,
+  "title": "すみだ水族館でアオウミガメの赤ちゃん「星」と「空」を公開",
+  "date": "2026-09-22",
+  "source": "すみだ水族館",
+  "level": "N5-N4",
+  "contentVersion": "2026092201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twenty-second. At an aquarium in Tokyo, two baby green sea turtles have just gone on display — and their new names mean Star and Sky. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の「すみだ水族館」で、アオウミガメの赤ちゃん2頭の公開が始まりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の「すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>」で、アオウミガメの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>2<ruby>頭<rt>とう</rt></ruby>の<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"public display, opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの名前は「星」と「空」です。小笠原の小学校の子どもたちが考えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「<ruby>星<rt>ほし</rt></ruby>」と「<ruby>空<rt>そら</rt></ruby>」です。<ruby>小笠原<rt>おがさわら</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>子ども<rt>こども</rt></ruby>たちが<ruby>考え<rt>かんがえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2頭は今年の夏、東京から南に約1000キロはなれた小笠原諸島の砂浜で生まれました。",
+      "ruby": "2<ruby>頭<rt>とう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1000キロはなれた<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>の<span class=\"vw\" data-ja=\"砂浜\" data-reading=\"すなはま\" data-en=\"sandy beach\"><ruby>砂浜<rt>すなはま</rt></ruby></span>で<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "体はまだ小さくて、甲羅の長さは約8センチしかありません。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>はまだ<ruby>小さく<rt>ちいさく</rt></ruby>て、<span class=\"vw\" data-ja=\"甲羅\" data-reading=\"こうら\" data-en=\"shell (of a turtle)\"><ruby>甲羅<rt>こうら</rt></ruby></span>の<span class=\"vw\" data-ja=\"長さ\" data-reading=\"ながさ\" data-en=\"length\"><ruby>長さ<rt>ながさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>8センチしかありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "アオウミガメは、数が少なくなっている、大切な動物です。",
+      "ruby": "アオウミガメは、<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少なく<rt>すくなく</rt></ruby>なっている、<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "小さい赤ちゃんは、海では鳥や大きな魚に食べられることがあります。",
+      "ruby": "<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>では<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>や<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"魚\" data-reading=\"さかな\" data-en=\"fish\"><ruby>魚<rt>さかな</rt></ruby></span>に<ruby>食べ<rt>たべ</rt></ruby>られることがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから水族館は、赤ちゃんを約1年間育てます。大きくなったら、小笠原の海に帰します。",
+      "ruby": "だから<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>約<rt>やく</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby><ruby>育て<rt>そだて</rt></ruby>ます。<ruby>大きく<rt>おおきく</rt></ruby>なったら、<ruby>小笠原<rt>おがさわら</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>に<ruby>帰し<rt>かえし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、この活動を2012年から続けています。今までに40頭以上のカメを海に帰しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、この<ruby>活動<rt>かつどう</rt></ruby>を2012<ruby>年<rt>ねん</rt></ruby>から<ruby>続け<rt>つづけ</rt></ruby>ています。<ruby>今まで<rt>いままで</rt></ruby>に40<ruby>頭<rt>とう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"カメ\" data-reading=\"カメ\" data-en=\"turtle\">カメ</span>を<ruby>海<rt>うみ</rt></ruby>に<ruby>帰し<rt>かえし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の人は「小さいカメが元気に泳ぐ姿を、ぜひ見に来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"カメ\" data-reading=\"カメ\" data-en=\"turtle\">カメ</span>が<ruby>元気<rt>げんき</rt></ruby>に<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>を、ぜひ<ruby>見に<rt>みに</rt></ruby><ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の「すみだ水族館」で、アオウミガメの赤ちゃん2頭の公開が始まりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の「すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>」で、アオウミガメの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>2<ruby>頭<rt>とう</rt></ruby>の<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"public display, opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At an aquarium in Tokyo's Sumida area, two baby green sea turtles have gone on public display."
+    },
+    {
+      "speaker": "vocab",
+      "text": "水族館",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an aquarium — a place where you can see fish and sea animals."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんの名前は「星」と「空」です。小笠原の小学校の子どもたちが考えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「<ruby>星<rt>ほし</rt></ruby>」と「<ruby>空<rt>そら</rt></ruby>」です。<ruby>小笠原<rt>おがさわら</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>子ども<rt>こども</rt></ruby>たちが<ruby>考え<rt>かんがえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The babies' names are Star and Sky. Elementary school children from the Ogasawara Islands thought of the names."
+    },
+    {
+      "speaker": "vocab",
+      "text": "考える",
+      "ruby": "<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think, to think of\"><ruby>考え<rt>かんがえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to think — here, to think of a name."
+    },
+    {
+      "speaker": "slow",
+      "text": "2頭は今年の夏、東京から南に約1000キロはなれた小笠原諸島の砂浜で生まれました。",
+      "ruby": "2<ruby>頭<rt>とう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1000キロはなれた<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>の<span class=\"vw\" data-ja=\"砂浜\" data-reading=\"すなはま\" data-en=\"sandy beach\"><ruby>砂浜<rt>すなはま</rt></ruby></span>で<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The two were born this summer on a sandy beach in the Ogasawara Islands, about one thousand kilometers south of Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "砂浜",
+      "ruby": "<span class=\"vw\" data-ja=\"砂浜\" data-reading=\"すなはま\" data-en=\"sandy beach\"><ruby>砂浜<rt>すなはま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a sandy beach."
+    },
+    {
+      "speaker": "slow",
+      "text": "体はまだ小さくて、甲羅の長さは約8センチしかありません。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>はまだ<ruby>小さく<rt>ちいさく</rt></ruby>て、<span class=\"vw\" data-ja=\"甲羅\" data-reading=\"こうら\" data-en=\"shell (of a turtle)\"><ruby>甲羅<rt>こうら</rt></ruby></span>の<span class=\"vw\" data-ja=\"長さ\" data-reading=\"ながさ\" data-en=\"length\"><ruby>長さ<rt>ながさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>8センチしかありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Their bodies are still small — their shells are only about eight centimeters long."
+    },
+    {
+      "speaker": "vocab",
+      "text": "甲羅",
+      "ruby": "<span class=\"vw\" data-ja=\"甲羅\" data-reading=\"こうら\" data-en=\"shell (of a turtle)\"><ruby>甲羅<rt>こうら</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a shell — the hard back of a turtle."
+    },
+    {
+      "speaker": "slow",
+      "text": "アオウミガメは、数が少なくなっている、大切な動物です。",
+      "ruby": "アオウミガメは、<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少なく<rt>すくなく</rt></ruby>なっている、<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Green sea turtles are precious animals whose numbers are getting smaller."
+    },
+    {
+      "speaker": "vocab",
+      "text": "数",
+      "ruby": "<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a number — how many there are."
+    },
+    {
+      "speaker": "slow",
+      "text": "だから水族館は、赤ちゃんを約1年間育てます。大きくなったら、小笠原の海に帰します。",
+      "ruby": "だから<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>約<rt>やく</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby><ruby>育て<rt>そだて</rt></ruby>ます。<ruby>大きく<rt>おおきく</rt></ruby>なったら、<ruby>小笠原<rt>おがさわら</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>に<ruby>帰し<rt>かえし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "So the aquarium will raise the babies for about one year. When they get big, it will return them to the sea of Ogasawara."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育てる",
+      "ruby": "<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise, to bring up\"><ruby>育て<rt>そだて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to raise — to care for something until it grows up."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館の人は「小さいカメが元気に泳ぐ姿を、ぜひ見に来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"カメ\" data-reading=\"カメ\" data-en=\"turtle\">カメ</span>が<ruby>元気<rt>げんき</rt></ruby>に<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>を、ぜひ<ruby>見に<rt>みに</rt></ruby><ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "An aquarium staff member says, please come and see the little turtles swimming happily."
+    },
+    {
+      "speaker": "vocab",
+      "text": "姿",
+      "ruby": "<span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a figure — how someone looks while doing something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "東京の「すみだ水族館」で、アオウミガメの赤ちゃん2頭の公開が始まりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の「すみだ<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>」で、アオウミガメの<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>2<ruby>頭<rt>とう</rt></ruby>の<span class=\"vw\" data-ja=\"公開\" data-reading=\"こうかい\" data-en=\"public display, opening to the public\"><ruby>公開<rt>こうかい</rt></ruby></span>が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの名前は「星」と「空」です。小笠原の小学校の子どもたちが考えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「<ruby>星<rt>ほし</rt></ruby>」と「<ruby>空<rt>そら</rt></ruby>」です。<ruby>小笠原<rt>おがさわら</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>子ども<rt>こども</rt></ruby>たちが<ruby>考え<rt>かんがえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2頭は今年の夏、東京から南に約1000キロはなれた小笠原諸島の砂浜で生まれました。",
+      "ruby": "2<ruby>頭<rt>とう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1000キロはなれた<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>の<span class=\"vw\" data-ja=\"砂浜\" data-reading=\"すなはま\" data-en=\"sandy beach\"><ruby>砂浜<rt>すなはま</rt></ruby></span>で<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "体はまだ小さくて、甲羅の長さは約8センチしかありません。",
+      "ruby": "<ruby>体<rt>からだ</rt></ruby>はまだ<ruby>小さく<rt>ちいさく</rt></ruby>て、<span class=\"vw\" data-ja=\"甲羅\" data-reading=\"こうら\" data-en=\"shell (of a turtle)\"><ruby>甲羅<rt>こうら</rt></ruby></span>の<span class=\"vw\" data-ja=\"長さ\" data-reading=\"ながさ\" data-en=\"length\"><ruby>長さ<rt>ながさ</rt></ruby></span>は<ruby>約<rt>やく</rt></ruby>8センチしかありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "アオウミガメは、数が少なくなっている、大切な動物です。",
+      "ruby": "アオウミガメは、<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少なく<rt>すくなく</rt></ruby>なっている、<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "小さい赤ちゃんは、海では鳥や大きな魚に食べられることがあります。",
+      "ruby": "<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、<ruby>海<rt>うみ</rt></ruby>では<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>や<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"魚\" data-reading=\"さかな\" data-en=\"fish\"><ruby>魚<rt>さかな</rt></ruby></span>に<ruby>食べ<rt>たべ</rt></ruby>られることがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "だから水族館は、赤ちゃんを約1年間育てます。大きくなったら、小笠原の海に帰します。",
+      "ruby": "だから<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>を<ruby>約<rt>やく</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby><ruby>育て<rt>そだて</rt></ruby>ます。<ruby>大きく<rt>おおきく</rt></ruby>なったら、<ruby>小笠原<rt>おがさわら</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>に<ruby>帰し<rt>かえし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、この活動を2012年から続けています。今までに40頭以上のカメを海に帰しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、この<ruby>活動<rt>かつどう</rt></ruby>を2012<ruby>年<rt>ねん</rt></ruby>から<ruby>続け<rt>つづけ</rt></ruby>ています。<ruby>今まで<rt>いままで</rt></ruby>に40<ruby>頭<rt>とう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"カメ\" data-reading=\"カメ\" data-en=\"turtle\">カメ</span>を<ruby>海<rt>うみ</rt></ruby>に<ruby>帰し<rt>かえし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館の人は「小さいカメが元気に泳ぐ姿を、ぜひ見に来てください」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>小さい<rt>ちいさい</rt></ruby><span class=\"vw\" data-ja=\"カメ\" data-reading=\"カメ\" data-en=\"turtle\">カメ</span>が<ruby>元気<rt>げんき</rt></ruby>に<span class=\"vw\" data-ja=\"泳ぐ\" data-reading=\"およぐ\" data-en=\"to swim\"><ruby>泳ぐ<rt>およぐ</rt></ruby></span><span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>を、ぜひ<ruby>見に<rt>みに</rt></ruby><ruby>来て<rt>きて</rt></ruby>ください」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんの名前は何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>の<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Their names mean Star and Sky — schoolchildren from the islands chose them."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、どこで生まれましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>は、どこで<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On a sandy beach in the Ogasawara Islands, far south of Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館は、大きくなった赤ちゃんをどうしますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"水族館\" data-reading=\"すいぞくかん\" data-en=\"aquarium\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、<ruby>大きく<rt>おおきく</rt></ruby>なった<span class=\"vw\" data-ja=\"赤ちゃん\" data-reading=\"あかちゃん\" data-en=\"baby\"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span>をどうしますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It will return them to the sea of Ogasawara after raising them for about a year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Good luck, little turtles — grow big and swim home safely. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "水族館",
+      "reading": "すいぞくかん",
+      "en": "aquarium",
+      "zh": "水族馆"
+    },
+    {
+      "ja": "カメ",
+      "reading": "カメ",
+      "en": "turtle",
+      "zh": "龟"
+    },
+    {
+      "ja": "赤ちゃん",
+      "reading": "あかちゃん",
+      "en": "baby",
+      "zh": "宝宝"
+    },
+    {
+      "ja": "公開",
+      "reading": "こうかい",
+      "en": "public display, opening to the public",
+      "zh": "公开展出"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "考える",
+      "reading": "かんがえる",
+      "en": "to think, to think of",
+      "zh": "想出"
+    },
+    {
+      "ja": "砂浜",
+      "reading": "すなはま",
+      "en": "sandy beach",
+      "zh": "沙滩"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "甲羅",
+      "reading": "こうら",
+      "en": "shell (of a turtle)",
+      "zh": "龟壳"
+    },
+    {
+      "ja": "長さ",
+      "reading": "ながさ",
+      "en": "length",
+      "zh": "长度"
+    },
+    {
+      "ja": "数",
+      "reading": "かず",
+      "en": "number, amount",
+      "zh": "数量"
+    },
+    {
+      "ja": "少ない",
+      "reading": "すくない",
+      "en": "few, little",
+      "zh": "少"
+    },
+    {
+      "ja": "大切",
+      "reading": "たいせつ",
+      "en": "important, precious",
+      "zh": "重要，珍贵"
+    },
+    {
+      "ja": "鳥",
+      "reading": "とり",
+      "en": "bird",
+      "zh": "鸟"
+    },
+    {
+      "ja": "魚",
+      "reading": "さかな",
+      "en": "fish",
+      "zh": "鱼"
+    },
+    {
+      "ja": "育てる",
+      "reading": "そだてる",
+      "en": "to raise, to bring up",
+      "zh": "养育"
+    },
+    {
+      "ja": "帰す",
+      "reading": "かえす",
+      "en": "to send back, to return",
+      "zh": "送回"
+    },
+    {
+      "ja": "続ける",
+      "reading": "つづける",
+      "en": "to continue",
+      "zh": "继续"
+    },
+    {
+      "ja": "泳ぐ",
+      "reading": "およぐ",
+      "en": "to swim",
+      "zh": "游泳"
+    },
+    {
+      "ja": "姿",
+      "reading": "すがた",
+      "en": "figure, appearance",
+      "zh": "身姿"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜しか〜ない",
+      "meaning": "only ~ (nothing more than)",
+      "meaningZh": "只有……（仅仅）",
+      "formation": "noun/amount + しか + negative verb",
+      "example": "甲羅の長さは約8センチしかありません。",
+      "translation": "Their shells are only about eight centimeters long.",
+      "note": "しか always pairs with a negative verb, and together they mean \"only\". 8センチしかありません = it is only 8 centimeters — and that feels small.",
+      "noteZh": "「しか」必须和否定形一起使用，表示\"只有\"。8センチしかありません＝只有8厘米，带有\"很少、很小\"的语气。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#しか"
+    },
+    {
+      "pattern": "〜られる（受身）",
+      "meaning": "passive: to be ~ed",
+      "meaningZh": "被动：被……",
+      "formation": "verb ない-stem + れる／られる",
+      "example": "海では鳥や大きな魚に食べられることがあります。",
+      "translation": "In the ocean, they are sometimes eaten by birds and big fish.",
+      "note": "食べられる is the passive form of 食べる. The one who does the action is marked with に: 鳥に食べられる = to be eaten by a bird.",
+      "noteZh": "「食べられる」是「食べる」的被动形。动作的执行者用「に」表示：鳥に食べられる＝被鸟吃掉。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#られる"
+    },
+    {
+      "pattern": "〜たら",
+      "meaning": "when ~, if ~",
+      "meaningZh": "……之后／如果……",
+      "formation": "verb た-form + ら",
+      "example": "大きくなったら、小笠原の海に帰します。",
+      "translation": "When they get big, the aquarium will return them to the sea of Ogasawara.",
+      "note": "たら marks \"when A happens, B\". 大きくなったら = when (after) they become big. It is very common in everyday speech.",
+      "noteZh": "「たら」表示\"A发生之后，就B\"。大きくなったら＝等长大了以后。日常会话中非常常用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たら"
+    }
+  ],
+  "practiceZh": [
+    "東京の「すみだ水族館」で、アオウミガメの赤ちゃん2頭の公開が始まりました。\n在东京的\"墨田水族馆\"，两只绿海龟宝宝开始与公众见面了。\n水族館 = aquarium；公開 = public display",
+    "赤ちゃんの名前は「星」と「空」です。小笠原の小学校の子どもたちが考えました。\n宝宝的名字是\"星\"和\"空\"，是小笠原小学的孩子们想出来的。\n名前 = name；考える = to think of",
+    "2頭は今年の夏、東京から南に約1000キロはなれた小笠原諸島の砂浜で生まれました。\n这两只小海龟今年夏天出生在距东京以南约1000公里的小笠原群岛的沙滩上。\n砂浜 = sandy beach；生まれる = to be born",
+    "体はまだ小さくて、甲羅の長さは約8センチしかありません。\n它们的身体还很小，龟壳只有约8厘米长。\n甲羅 = turtle shell；しか〜ない = only",
+    "アオウミガメは、数が少なくなっている、大切な動物です。\n绿海龟是数量正在减少的珍贵动物。\n数 = number；大切 = precious",
+    "小さい赤ちゃんは、海では鳥や大きな魚に食べられることがあります。\n小海龟宝宝在海里有时会被鸟和大鱼吃掉。\n鳥 = bird；食べられる = to be eaten",
+    "だから水族館は、赤ちゃんを約1年間育てます。大きくなったら、小笠原の海に帰します。\n因此水族馆会把宝宝养育约一年，等长大了以后送回小笠原的大海。\n育てる = to raise；帰す = to send back",
+    "水族館は、この活動を2012年から続けています。今までに40頭以上のカメを海に帰しました。\n水族馆从2012年起一直坚持这项活动，至今已把40多只海龟送回了大海。\n続ける = to continue",
+    "水族館の人は「小さいカメが元気に泳ぐ姿を、ぜひ見に来てください」と話しています。\n水族馆的工作人员说：\"请一定来看看小海龟们精神饱满地游泳的样子。\"\n泳ぐ = to swim；姿 = figure"
+  ]
+}
