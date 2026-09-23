@@ -1,0 +1,497 @@
+{
+  "episode": 180,
+  "title": "台風25号が関東南部などに記録的な大雨",
+  "date": "2026-09-23",
+  "source": "NHK / Al Jazeera / 時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026092301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twenty-third. Typhoon Number twenty-five brushed past Japan's Pacific coast during the holiday weekend, bringing record rain to the Tokyo area. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風25号の影響で、伊豆諸島や関東南部を中心に記録的な大雨となりました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>25<ruby>号<rt>ごう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>や<ruby>関東<rt>かんとう</rt></ruby><ruby>南部<rt>なんぶ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<span class=\"vw\" data-ja=\"記録的\" data-reading=\"きろくてき\" data-en=\"record-breaking\"><ruby>記録的<rt>きろくてき</rt></ruby></span>な<ruby>大雨<rt>おおあめ</rt></ruby>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "連休中の21日から22日にかけて、各地で土砂災害や川の氾濫が相次ぎました。",
+      "ruby": "<ruby>連休中<rt>れんきゅうちゅう</rt></ruby>の21<ruby>日<rt>にち</rt></ruby>から22<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>各地<rt>かくち</rt></ruby>で<ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>の<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflowing (of a river)\"><ruby>氾濫<rt>はんらん</rt></ruby></span>が<ruby>相次ぎ<rt>あいつぎ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでに千葉県と神奈川県で、あわせて7人が死亡し、5人が行方不明になっています。",
+      "ruby": "これまでに<ruby>千葉県<rt>ちばけん</rt></ruby>と<ruby>神奈川県<rt>かながわけん</rt></ruby>で、あわせて7<ruby>人<rt>にん</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>し、5<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"行方不明\" data-reading=\"ゆくえふめい\" data-en=\"missing (person)\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "神奈川県では土砂崩れが相次ぎ、60代の女性が土砂に巻き込まれて亡くなりました。",
+      "ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>では<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>が<ruby>相次ぎ<rt>あいつぎ</rt></ruby>、60<ruby>代<rt>だい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>土砂<rt>どしゃ</rt></ruby>に<ruby>巻き込ま<rt>まきこま</rt></ruby>れて<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大雨で道路が崩落した場所もあり、復旧の作業が続いています。",
+      "ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>が<span class=\"vw\" data-ja=\"崩落\" data-reading=\"ほうらく\" data-en=\"collapse (of a road or cliff)\"><ruby>崩落<rt>ほうらく</rt></ruby></span>した<ruby>場所<rt>ばしょ</rt></ruby>もあり、<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; repair work\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>の<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、神奈川県を中心に、およそ4万5000戸で停電が発生しました。",
+      "ruby": "また、<ruby>神奈川県<rt>かながわけん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、およそ4<ruby>万<rt>まん</rt></ruby>5000<ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>が<ruby>発生<rt>はっせい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "交通にも大きな影響が出ました。",
+      "ruby": "<ruby>交通<rt>こうつう</rt></ruby>にも<ruby>大き<rt>おおき</rt></ruby>な<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本航空は135便、全日空は140便を欠航し、多くの旅行者に影響が出ました。",
+      "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>は135<ruby>便<rt>びん</rt></ruby>、<ruby>全日空<rt>ぜんにっくう</rt></ruby>は140<ruby>便<rt>びん</rt></ruby>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>し、<ruby>多く<rt>おおく</rt></ruby>の<ruby>旅行者<rt>りょこうしゃ</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線も、東京と大阪の間で一時運転を見合わせました。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>も、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "news",
+      "text": "千葉市で開かれていたゲームの祭典「東京ゲームショウ」は、最終日の21日、予定より早く終了しました。",
+      "ruby": "<ruby>千葉市<rt>ちばし</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れていたゲームの<ruby>祭典<rt>さいてん</rt></ruby>「<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウ」は、<ruby>最終日<rt>さいしゅうび</rt></ruby>の21<ruby>日<rt>にち</rt></ruby>、<ruby>予定<rt>よてい</rt></ruby>より<ruby>早く<rt>はやく</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "千葉県では、野外の音楽フェスティバルや野球の試合も中止になりました。",
+      "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>では、<ruby>野外<rt>やがい</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>フェスティバルや<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>も<ruby>中止<rt>ちゅうし</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風はその後、日本の東の海上へ進み、22日の夜、温帯低気圧に変わりました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>はその<ruby>後<rt>ご</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby>の<ruby>海上<rt>かいじょう</rt></ruby>へ<ruby>進み<rt>すすみ</rt></ruby>、22<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>温帯<rt>おんたい</rt></ruby><ruby>低気圧<rt>ていきあつ</rt></ruby>に<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、雨で地盤が緩んでいる地域では、引き続き土砂災害の危険があります。",
+      "ruby": "しかし、<ruby>雨<rt>あめ</rt></ruby>で<span class=\"vw\" data-ja=\"地盤\" data-reading=\"じばん\" data-en=\"the ground; foundation\"><ruby>地盤<rt>じばん</rt></ruby></span>が<ruby>緩ん<rt>ゆるん</rt></ruby>でいる<ruby>地域<rt>ちいき</rt></ruby>では、<ruby>引き続き<rt>ひきつづき</rt></ruby><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、崖や川の近くには近づかないよう、注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>崖<rt>がけ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には<ruby>近づ<rt>ちかづ</rt></ruby>かないよう、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風25号の影響で、伊豆諸島や関東南部を中心に記録的な大雨となりました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>25<ruby>号<rt>ごう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>や<ruby>関東<rt>かんとう</rt></ruby><ruby>南部<rt>なんぶ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<span class=\"vw\" data-ja=\"記録的\" data-reading=\"きろくてき\" data-en=\"record-breaking\"><ruby>記録的<rt>きろくてき</rt></ruby></span>な<ruby>大雨<rt>おおあめ</rt></ruby>となりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of Typhoon Number twenty-five, record-breaking rain fell, centered on the Izu Islands and southern Kanto."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録的",
+      "ruby": "<span class=\"vw\" data-ja=\"記録的\" data-reading=\"きろくてき\" data-en=\"record-breaking\"><ruby>記録的<rt>きろくてき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means record-breaking."
+    },
+    {
+      "speaker": "slow",
+      "text": "連休中の21日から22日にかけて、各地で土砂災害や川の氾濫が相次ぎました。",
+      "ruby": "<ruby>連休中<rt>れんきゅうちゅう</rt></ruby>の21<ruby>日<rt>にち</rt></ruby>から22<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>各地<rt>かくち</rt></ruby>で<ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>の<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflowing (of a river)\"><ruby>氾濫<rt>はんらん</rt></ruby></span>が<ruby>相次ぎ<rt>あいつぎ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twenty-first through the twenty-second, during the holidays, landslides and river flooding hit one area after another."
+    },
+    {
+      "speaker": "vocab",
+      "text": "氾濫",
+      "ruby": "<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflowing (of a river)\"><ruby>氾濫<rt>はんらん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means flooding — a river overflowing its banks."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでに千葉県と神奈川県で、あわせて7人が死亡し、5人が行方不明になっています。",
+      "ruby": "これまでに<ruby>千葉県<rt>ちばけん</rt></ruby>と<ruby>神奈川県<rt>かながわけん</rt></ruby>で、あわせて7<ruby>人<rt>にん</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>し、5<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"行方不明\" data-reading=\"ゆくえふめい\" data-en=\"missing (person)\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, seven people have died in Chiba and Kanagawa prefectures, and five are missing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "行方不明",
+      "ruby": "<span class=\"vw\" data-ja=\"行方不明\" data-reading=\"ゆくえふめい\" data-en=\"missing (person)\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means missing — someone whose whereabouts are unknown."
+    },
+    {
+      "speaker": "slow",
+      "text": "神奈川県では土砂崩れが相次ぎ、60代の女性が土砂に巻き込まれて亡くなりました。",
+      "ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>では<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>が<ruby>相次ぎ<rt>あいつぎ</rt></ruby>、60<ruby>代<rt>だい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>土砂<rt>どしゃ</rt></ruby>に<ruby>巻き込ま<rt>まきこま</rt></ruby>れて<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Kanagawa, landslides struck one after another, and a woman in her sixties was caught in one and died."
+    },
+    {
+      "speaker": "vocab",
+      "text": "土砂崩れ",
+      "ruby": "<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a landslide."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、神奈川県を中心に、およそ4万5000戸で停電が発生しました。",
+      "ruby": "また、<ruby>神奈川県<rt>かながわけん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、およそ4<ruby>万<rt>まん</rt></ruby>5000<ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>が<ruby>発生<rt>はっせい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Power went out at about forty-five thousand homes, mainly in Kanagawa."
+    },
+    {
+      "speaker": "vocab",
+      "text": "停電",
+      "ruby": "<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a power outage."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本航空は135便、全日空は140便を欠航し、多くの旅行者に影響が出ました。",
+      "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>は135<ruby>便<rt>びん</rt></ruby>、<ruby>全日空<rt>ぜんにっくう</rt></ruby>は140<ruby>便<rt>びん</rt></ruby>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>し、<ruby>多く<rt>おおく</rt></ruby>の<ruby>旅行者<rt>りょこうしゃ</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan Airlines cancelled one hundred thirty-five flights and All Nippon Airways one hundred forty, affecting many travelers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "欠航",
+      "ruby": "<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a flight cancellation."
+    },
+    {
+      "speaker": "slow",
+      "text": "東海道新幹線も、東京と大阪の間で一時運転を見合わせました。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>も、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bullet train between Tokyo and Osaka also temporarily suspended service."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見合わせる",
+      "ruby": "<span class=\"vw\" data-ja=\"見合わせる\" data-reading=\"みあわせる\" data-en=\"to suspend; to hold off\"><ruby>見合わ<rt>みあわ</rt></ruby>せる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to suspend, or to hold off on doing something."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、雨で地盤が緩んでいる地域では、引き続き土砂災害の危険があります。",
+      "ruby": "しかし、<ruby>雨<rt>あめ</rt></ruby>で<span class=\"vw\" data-ja=\"地盤\" data-reading=\"じばん\" data-en=\"the ground; foundation\"><ruby>地盤<rt>じばん</rt></ruby></span>が<ruby>緩ん<rt>ゆるん</rt></ruby>でいる<ruby>地域<rt>ちいき</rt></ruby>では、<ruby>引き続き<rt>ひきつづき</rt></ruby><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In areas where the rain has loosened the ground, the danger of landslides continues."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地盤",
+      "ruby": "<span class=\"vw\" data-ja=\"地盤\" data-reading=\"じばん\" data-en=\"the ground; foundation\"><ruby>地盤<rt>じばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the ground, or the earth beneath a place."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "台風25号の影響で、伊豆諸島や関東南部を中心に記録的な大雨となりました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>25<ruby>号<rt>ごう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>や<ruby>関東<rt>かんとう</rt></ruby><ruby>南部<rt>なんぶ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<span class=\"vw\" data-ja=\"記録的\" data-reading=\"きろくてき\" data-en=\"record-breaking\"><ruby>記録的<rt>きろくてき</rt></ruby></span>な<ruby>大雨<rt>おおあめ</rt></ruby>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "連休中の21日から22日にかけて、各地で土砂災害や川の氾濫が相次ぎました。",
+      "ruby": "<ruby>連休中<rt>れんきゅうちゅう</rt></ruby>の21<ruby>日<rt>にち</rt></ruby>から22<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>各地<rt>かくち</rt></ruby>で<ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>の<span class=\"vw\" data-ja=\"氾濫\" data-reading=\"はんらん\" data-en=\"flooding; overflowing (of a river)\"><ruby>氾濫<rt>はんらん</rt></ruby></span>が<ruby>相次ぎ<rt>あいつぎ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでに千葉県と神奈川県で、あわせて7人が死亡し、5人が行方不明になっています。",
+      "ruby": "これまでに<ruby>千葉県<rt>ちばけん</rt></ruby>と<ruby>神奈川県<rt>かながわけん</rt></ruby>で、あわせて7<ruby>人<rt>にん</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>し、5<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"行方不明\" data-reading=\"ゆくえふめい\" data-en=\"missing (person)\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "神奈川県では土砂崩れが相次ぎ、60代の女性が土砂に巻き込まれて亡くなりました。",
+      "ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>では<span class=\"vw\" data-ja=\"土砂崩れ\" data-reading=\"どしゃくずれ\" data-en=\"landslide\"><ruby>土砂崩れ<rt>どしゃくずれ</rt></ruby></span>が<ruby>相次ぎ<rt>あいつぎ</rt></ruby>、60<ruby>代<rt>だい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>土砂<rt>どしゃ</rt></ruby>に<ruby>巻き込ま<rt>まきこま</rt></ruby>れて<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大雨で道路が崩落した場所もあり、復旧の作業が続いています。",
+      "ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>が<span class=\"vw\" data-ja=\"崩落\" data-reading=\"ほうらく\" data-en=\"collapse (of a road or cliff)\"><ruby>崩落<rt>ほうらく</rt></ruby></span>した<ruby>場所<rt>ばしょ</rt></ruby>もあり、<span class=\"vw\" data-ja=\"復旧\" data-reading=\"ふっきゅう\" data-en=\"restoration; repair work\"><ruby>復旧<rt>ふっきゅう</rt></ruby></span>の<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、神奈川県を中心に、およそ4万5000戸で停電が発生しました。",
+      "ruby": "また、<ruby>神奈川県<rt>かながわけん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、およそ4<ruby>万<rt>まん</rt></ruby>5000<ruby>戸<rt>こ</rt></ruby>で<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage\"><ruby>停電<rt>ていでん</rt></ruby></span>が<ruby>発生<rt>はっせい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "交通にも大きな影響が出ました。",
+      "ruby": "<ruby>交通<rt>こうつう</rt></ruby>にも<ruby>大き<rt>おおき</rt></ruby>な<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本航空は135便、全日空は140便を欠航し、多くの旅行者に影響が出ました。",
+      "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>は135<ruby>便<rt>びん</rt></ruby>、<ruby>全日空<rt>ぜんにっくう</rt></ruby>は140<ruby>便<rt>びん</rt></ruby>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>し、<ruby>多く<rt>おおく</rt></ruby>の<ruby>旅行者<rt>りょこうしゃ</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線も、東京と大阪の間で一時運転を見合わせました。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>も、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "news",
+      "text": "千葉市で開かれていたゲームの祭典「東京ゲームショウ」は、最終日の21日、予定より早く終了しました。",
+      "ruby": "<ruby>千葉市<rt>ちばし</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れていたゲームの<ruby>祭典<rt>さいてん</rt></ruby>「<ruby>東京<rt>とうきょう</rt></ruby>ゲームショウ」は、<ruby>最終日<rt>さいしゅうび</rt></ruby>の21<ruby>日<rt>にち</rt></ruby>、<ruby>予定<rt>よてい</rt></ruby>より<ruby>早く<rt>はやく</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "千葉県では、野外の音楽フェスティバルや野球の試合も中止になりました。",
+      "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>では、<ruby>野外<rt>やがい</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>フェスティバルや<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>も<ruby>中止<rt>ちゅうし</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風はその後、日本の東の海上へ進み、22日の夜、温帯低気圧に変わりました。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>はその<ruby>後<rt>ご</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby>の<ruby>海上<rt>かいじょう</rt></ruby>へ<ruby>進み<rt>すすみ</rt></ruby>、22<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>温帯<rt>おんたい</rt></ruby><ruby>低気圧<rt>ていきあつ</rt></ruby>に<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、雨で地盤が緩んでいる地域では、引き続き土砂災害の危険があります。",
+      "ruby": "しかし、<ruby>雨<rt>あめ</rt></ruby>で<span class=\"vw\" data-ja=\"地盤\" data-reading=\"じばん\" data-en=\"the ground; foundation\"><ruby>地盤<rt>じばん</rt></ruby></span>が<ruby>緩ん<rt>ゆるん</rt></ruby>でいる<ruby>地域<rt>ちいき</rt></ruby>では、<ruby>引き続き<rt>ひきつづき</rt></ruby><ruby>土砂<rt>どしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、崖や川の近くには近づかないよう、注意を呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>崖<rt>がけ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には<ruby>近づ<rt>ちかづ</rt></ruby>かないよう、<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "記録的な大雨は、どこを中心に降りましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"記録的\" data-reading=\"きろくてき\" data-en=\"record-breaking\"><ruby>記録的<rt>きろくてき</rt></ruby></span>な<ruby>大雨<rt>おおあめ</rt></ruby>は、どこを<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>降り<rt>おり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was centered on the Izu Islands and southern Kanto."
+    },
+    {
+      "speaker": "slow",
+      "text": "千葉県と神奈川県では、あわせて何人が死亡しましたか。",
+      "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>と<ruby>神奈川県<rt>かながわけん</rt></ruby>では、あわせて<ruby>何人<rt>なんにん</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven people died, and five are still missing."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風は22日の夜、何に変わりましたか。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は22<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>何<rt>なに</rt></ruby>に<ruby>変わり<rt>かわり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It weakened into an extratropical low over the sea east of Japan."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. When heavy rain is in the forecast, please stay away from cliffs and rivers. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "記録的",
+      "reading": "きろくてき",
+      "en": "record-breaking",
+      "zh": "创纪录的"
+    },
+    {
+      "ja": "氾濫",
+      "reading": "はんらん",
+      "en": "flooding; overflowing (of a river)",
+      "zh": "泛滥"
+    },
+    {
+      "ja": "行方不明",
+      "reading": "ゆくえふめい",
+      "en": "missing (person)",
+      "zh": "下落不明"
+    },
+    {
+      "ja": "土砂崩れ",
+      "reading": "どしゃくずれ",
+      "en": "landslide",
+      "zh": "山体滑坡"
+    },
+    {
+      "ja": "相次ぐ",
+      "reading": "あいつぐ",
+      "en": "to happen one after another",
+      "zh": "接连发生"
+    },
+    {
+      "ja": "崩落",
+      "reading": "ほうらく",
+      "en": "collapse (of a road or cliff)",
+      "zh": "坍塌"
+    },
+    {
+      "ja": "復旧",
+      "reading": "ふっきゅう",
+      "en": "restoration; repair work",
+      "zh": "修复；恢复"
+    },
+    {
+      "ja": "停電",
+      "reading": "ていでん",
+      "en": "power outage",
+      "zh": "停电"
+    },
+    {
+      "ja": "欠航",
+      "reading": "けっこう",
+      "en": "flight cancellation",
+      "zh": "航班停飞"
+    },
+    {
+      "ja": "見合わせる",
+      "reading": "みあわせる",
+      "en": "to suspend; to hold off",
+      "zh": "暂停；暂缓"
+    },
+    {
+      "ja": "地盤",
+      "reading": "じばん",
+      "en": "the ground; foundation",
+      "zh": "地基；地面"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to urge",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜から〜にかけて",
+      "meaning": "from X through Y (time or place)",
+      "meaningZh": "从…到…（时间或地点）",
+      "formation": "noun + から + noun + にかけて",
+      "example": "連休中の21日から22日にかけて、各地で土砂災害や川の氾濫が相次ぎました。",
+      "translation": "From the twenty-first through the twenty-second, landslides and river flooding hit one area after another.",
+      "note": "marks a rough, continuous range of time or place — very common in weather and disaster news",
+      "noteZh": "表示时间或地点的大致连续范围，天气和灾害新闻中非常常用",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#にかけて"
+    },
+    {
+      "pattern": "〜を中心に",
+      "meaning": "centering on; mainly in",
+      "meaningZh": "以…为中心；主要在…",
+      "formation": "noun + を中心に",
+      "example": "伊豆諸島や関東南部を中心に記録的な大雨となりました。",
+      "translation": "Record rain fell, centered on the Izu Islands and southern Kanto.",
+      "note": "shows where or on what something is concentrated — a staple of news Japanese",
+      "noteZh": "表示某事集中的地点或对象，新闻日语的常用表达",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#を中心に"
+    },
+    {
+      "pattern": "〜ないよう（に）",
+      "meaning": "telling someone not to do; so as not to",
+      "meaningZh": "（劝告）不要…；以免…",
+      "formation": "verb ない-form + よう（に）",
+      "example": "気象庁は、崖や川の近くには近づかないよう、注意を呼びかけています。",
+      "translation": "The weather agency is urging people not to go near cliffs or rivers.",
+      "note": "used with verbs like 呼びかける and 注意する to report warnings and requests indirectly",
+      "noteZh": "常与呼びかける、注意する等动词连用，间接转述提醒或请求",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ように"
+    }
+  ],
+  "practiceZh": [
+    "台風25号の影響で、伊豆諸島や関東南部を中心に記録的な大雨となりました。\n受台风25号影响，以伊豆群岛和关东南部为中心，下了创纪录的大雨。\n記録的 = 创纪录的；を中心に = 以…为中心",
+    "連休中の21日から22日にかけて、各地で土砂災害や川の氾濫が相次ぎました。\n连休期间从21日到22日，各地接连发生泥石流灾害和河流泛滥。\n氾濫 = 泛滥；相次ぐ = 接连发生",
+    "これまでに千葉県と神奈川県で、あわせて7人が死亡し、5人が行方不明になっています。\n到目前为止，千叶县和神奈川县共有7人死亡，5人下落不明。\n行方不明 = 下落不明",
+    "日本航空は135便、全日空は140便を欠航し、多くの旅行者に影響が出ました。\n日本航空取消了135个航班，全日空取消了140个航班，许多旅客受到影响。\n欠航 = 航班停飞",
+    "東海道新幹線も、東京と大阪の間で一時運転を見合わせました。\n东海道新干线在东京与大阪之间也一度暂停运行。\n見合わせる = 暂停",
+    "気象庁は、崖や川の近くには近づかないよう、注意を呼びかけています。\n气象厅呼吁人们不要靠近悬崖和河流。\n呼びかける = 呼吁"
+  ]
+}
