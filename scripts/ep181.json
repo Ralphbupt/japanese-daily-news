@@ -1,0 +1,480 @@
+{
+  "episode": 181,
+  "title": "よこはま動物園ズーラシア、来園者3000万人を達成",
+  "date": "2026-09-24",
+  "source": "よこはま動物園ズーラシア",
+  "level": "N5-N4",
+  "contentVersion": "2026092401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twenty-fourth. A big zoo in Yokohama has just welcomed its thirty-millionth visitor since it opened. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "横浜市の動物園「よこはま動物園ズーラシア」に来た人が、全部で3000万人になりました。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>「よこはま<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>ズーラシア」に<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>が、<span class=\"vw\" data-ja=\"全部で\" data-reading=\"ぜんぶで\" data-en=\"in total\"><ruby>全部<rt>ぜんぶ</rt></ruby>で</span>3000<ruby>万人<rt>まんにん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "3000万人は、とても大きい数です。日本の人口の約4分の1と同じくらいです。",
+      "ruby": "3000<ruby>万人<rt>まんにん</rt></ruby>は、とても<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>です。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>の<ruby>約<rt>やく</rt></ruby>4<ruby>分<rt>ぶん</rt></ruby>の1と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>くらいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ズーラシアは1999年に開園しました。3000万人まで、約27年かかりました。",
+      "ruby": "ズーラシアは1999<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"開園\" data-reading=\"かいえん\" data-en=\"opening (of a zoo or park)\"><ruby>開園<rt>かいえん</rt></ruby></span>しました。3000<ruby>万人<rt>まんにん</rt></ruby>まで、<ruby>約<rt>やく</rt></ruby>27<ruby>年<rt>ねん</rt></ruby>かかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "3000万人目のお客さんが来たのは、連休「シルバーウィーク」の9月22日でした。",
+      "ruby": "3000<ruby>万人<rt>まんにん</rt></ruby><ruby>目の<rt>めの</rt></ruby><span class=\"vw\" data-ja=\"お客さん\" data-reading=\"おきゃくさん\" data-en=\"visitor, customer\">お<ruby>客<rt>きゃく</rt></ruby>さんが</span><ruby>来た<rt>きた</rt></ruby>のは、<span class=\"vw\" data-ja=\"連休\" data-reading=\"れんきゅう\" data-en=\"consecutive holidays\"><ruby>連休<rt>れんきゅう</rt></ruby></span>「シルバーウィーク」の9<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日、動物園には朝からたくさんの家族が来ました。お祝いの特別なイベントも行われました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>には<ruby>朝<rt>あさ</rt></ruby>からたくさんの<span class=\"vw\" data-ja=\"家族\" data-reading=\"かぞく\" data-en=\"family\"><ruby>家族<rt>かぞく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>の<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントも<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ズーラシアは、日本で一番大きい動物園の一つです。世界のいろいろな場所の自然の中で、動物を見ることができます。",
+      "ruby": "ズーラシアは、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>世界<rt>せかい</rt></ruby>のいろいろな<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番有名な動物は「オカピ」です。オカピはキリンの仲間で、足にしまのもようがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>は「オカピ」です。オカピはキリンの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of the same group, kin\"><ruby>仲間<rt>なかま</rt></ruby></span>で、<ruby>足<rt>あし</rt></ruby>にしまのもようがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "オカピはとてもめずらしい動物で、「森の貴婦人」と呼ばれています。ズーラシアは、日本で初めてオカピを見せた動物園です。",
+      "ruby": "オカピはとてもめずらしい<ruby>動物<rt>どうぶつ</rt></ruby>で、「<span class=\"vw\" data-ja=\"森\" data-reading=\"もり\" data-en=\"forest\"><ruby>森<rt>もり</rt></ruby></span>の<ruby>貴婦人<rt>きふじん</rt></ruby>」と<ruby>呼ば<rt>よば</rt></ruby>れています。ズーラシアは、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>オカピを<ruby>見せ<rt>みせ</rt></ruby>た<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園の人は「これからも、たくさんの人に、動物たちに会いに来てほしいです」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「これからも、たくさんの<ruby>人<rt>ひと</rt></ruby>に、<ruby>動物<rt>どうぶつ</rt></ruby>たちに<ruby>会い<rt>あい</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ほしいです」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "横浜市の動物園「よこはま動物園ズーラシア」に来た人が、全部で3000万人になりました。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>「よこはま<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>ズーラシア」に<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>が、<span class=\"vw\" data-ja=\"全部で\" data-reading=\"ぜんぶで\" data-en=\"in total\"><ruby>全部<rt>ぜんぶ</rt></ruby>で</span>3000<ruby>万人<rt>まんにん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Zoorasia zoo in the city of Yokohama has now welcomed a total of thirty million visitors."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動物園",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a zoo — a place where you can see many animals."
+    },
+    {
+      "speaker": "slow",
+      "text": "3000万人は、とても大きい数です。日本の人口の約4分の1と同じくらいです。",
+      "ruby": "3000<ruby>万人<rt>まんにん</rt></ruby>は、とても<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>です。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>の<ruby>約<rt>やく</rt></ruby>4<ruby>分<rt>ぶん</rt></ruby>の1と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>くらいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty million is a very big number — about the same as one quarter of Japan's population."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人口",
+      "ruby": "<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means population — the number of people living in a place."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズーラシアは1999年に開園しました。3000万人まで、約27年かかりました。",
+      "ruby": "ズーラシアは1999<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"開園\" data-reading=\"かいえん\" data-en=\"opening (of a zoo or park)\"><ruby>開園<rt>かいえん</rt></ruby></span>しました。3000<ruby>万人<rt>まんにん</rt></ruby>まで、<ruby>約<rt>やく</rt></ruby>27<ruby>年<rt>ねん</rt></ruby>かかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Zoorasia opened in nineteen ninety-nine. Reaching thirty million visitors took about twenty-seven years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "かかる",
+      "ruby": "<span class=\"vw\" data-ja=\"かかる\" data-reading=\"かかる\" data-en=\"to take (time or money)\">かかる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take — used for the time or money that something needs."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズーラシアは、日本で一番大きい動物園の一つです。世界のいろいろな場所の自然の中で、動物を見ることができます。",
+      "ruby": "ズーラシアは、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>世界<rt>せかい</rt></ruby>のいろいろな<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Zoorasia is one of the biggest zoos in Japan. You can watch animals in settings that recreate nature from around the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "自然",
+      "ruby": "<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means nature — mountains, forests, rivers, the natural world."
+    },
+    {
+      "speaker": "slow",
+      "text": "一番有名な動物は「オカピ」です。オカピはキリンの仲間で、足にしまのもようがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>は「オカピ」です。オカピはキリンの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of the same group, kin\"><ruby>仲間<rt>なかま</rt></ruby></span>で、<ruby>足<rt>あし</rt></ruby>にしまのもようがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The most famous animal is the okapi. The okapi is a relative of the giraffe, and it has a striped pattern on its legs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仲間",
+      "ruby": "<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of the same group, kin\"><ruby>仲間<rt>なかま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a member of the same group or family — here, the okapi belongs to the giraffe family."
+    },
+    {
+      "speaker": "slow",
+      "text": "オカピはとてもめずらしい動物で、「森の貴婦人」と呼ばれています。ズーラシアは、日本で初めてオカピを見せた動物園です。",
+      "ruby": "オカピはとてもめずらしい<ruby>動物<rt>どうぶつ</rt></ruby>で、「<span class=\"vw\" data-ja=\"森\" data-reading=\"もり\" data-en=\"forest\"><ruby>森<rt>もり</rt></ruby></span>の<ruby>貴婦人<rt>きふじん</rt></ruby>」と<ruby>呼ば<rt>よば</rt></ruby>れています。ズーラシアは、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>オカピを<ruby>見せ<rt>みせ</rt></ruby>た<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The okapi is a very rare animal, known as the lady of the forest. Zoorasia was the first zoo in Japan to show one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "めずらしい",
+      "ruby": "<span class=\"vw\" data-ja=\"めずらしい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\">めずらしい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rare — something you do not see very often."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "横浜市の動物園「よこはま動物園ズーラシア」に来た人が、全部で3000万人になりました。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>「よこはま<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>ズーラシア」に<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>が、<span class=\"vw\" data-ja=\"全部で\" data-reading=\"ぜんぶで\" data-en=\"in total\"><ruby>全部<rt>ぜんぶ</rt></ruby>で</span>3000<ruby>万人<rt>まんにん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "3000万人は、とても大きい数です。日本の人口の約4分の1と同じくらいです。",
+      "ruby": "3000<ruby>万人<rt>まんにん</rt></ruby>は、とても<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number, amount\"><ruby>数<rt>かず</rt></ruby></span>です。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"人口\" data-reading=\"じんこう\" data-en=\"population\"><ruby>人口<rt>じんこう</rt></ruby></span>の<ruby>約<rt>やく</rt></ruby>4<ruby>分<rt>ぶん</rt></ruby>の1と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>くらいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ズーラシアは1999年に開園しました。3000万人まで、約27年かかりました。",
+      "ruby": "ズーラシアは1999<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"開園\" data-reading=\"かいえん\" data-en=\"opening (of a zoo or park)\"><ruby>開園<rt>かいえん</rt></ruby></span>しました。3000<ruby>万人<rt>まんにん</rt></ruby>まで、<ruby>約<rt>やく</rt></ruby>27<ruby>年<rt>ねん</rt></ruby>かかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "3000万人目のお客さんが来たのは、連休「シルバーウィーク」の9月22日でした。",
+      "ruby": "3000<ruby>万人<rt>まんにん</rt></ruby><ruby>目の<rt>めの</rt></ruby><span class=\"vw\" data-ja=\"お客さん\" data-reading=\"おきゃくさん\" data-en=\"visitor, customer\">お<ruby>客<rt>きゃく</rt></ruby>さんが</span><ruby>来た<rt>きた</rt></ruby>のは、<span class=\"vw\" data-ja=\"連休\" data-reading=\"れんきゅう\" data-en=\"consecutive holidays\"><ruby>連休<rt>れんきゅう</rt></ruby></span>「シルバーウィーク」の9<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日、動物園には朝からたくさんの家族が来ました。お祝いの特別なイベントも行われました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>には<ruby>朝<rt>あさ</rt></ruby>からたくさんの<span class=\"vw\" data-ja=\"家族\" data-reading=\"かぞく\" data-en=\"family\"><ruby>家族<rt>かぞく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>の<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントも<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ズーラシアは、日本で一番大きい動物園の一つです。世界のいろいろな場所の自然の中で、動物を見ることができます。",
+      "ruby": "ズーラシアは、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。<ruby>世界<rt>せかい</rt></ruby>のいろいろな<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place\"><ruby>場所<rt>ばしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"自然\" data-reading=\"しぜん\" data-en=\"nature\"><ruby>自然<rt>しぜん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "一番有名な動物は「オカピ」です。オカピはキリンの仲間で、足にしまのもようがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>は「オカピ」です。オカピはキリンの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"member of the same group, kin\"><ruby>仲間<rt>なかま</rt></ruby></span>で、<ruby>足<rt>あし</rt></ruby>にしまのもようがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "オカピはとてもめずらしい動物で、「森の貴婦人」と呼ばれています。ズーラシアは、日本で初めてオカピを見せた動物園です。",
+      "ruby": "オカピはとてもめずらしい<ruby>動物<rt>どうぶつ</rt></ruby>で、「<span class=\"vw\" data-ja=\"森\" data-reading=\"もり\" data-en=\"forest\"><ruby>森<rt>もり</rt></ruby></span>の<ruby>貴婦人<rt>きふじん</rt></ruby>」と<ruby>呼ば<rt>よば</rt></ruby>れています。ズーラシアは、<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>オカピを<ruby>見せ<rt>みせ</rt></ruby>た<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物園の人は「これからも、たくさんの人に、動物たちに会いに来てほしいです」と話しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「これからも、たくさんの<ruby>人<rt>ひと</rt></ruby>に、<ruby>動物<rt>どうぶつ</rt></ruby>たちに<ruby>会い<rt>あい</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ほしいです」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズーラシアに来た人は、全部で何人になりましたか。",
+      "ruby": "ズーラシアに<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、<span class=\"vw\" data-ja=\"全部で\" data-reading=\"ぜんぶで\" data-en=\"in total\"><ruby>全部<rt>ぜんぶ</rt></ruby>で</span><ruby>何人<rt>なんにん</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty million people — about a quarter of Japan's population."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズーラシアで一番有名な動物は何ですか。",
+      "ruby": "ズーラシアで<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<ruby>動物<rt>どうぶつ</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The okapi — a rare relative of the giraffe with striped legs."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズーラシアは、何年に開園しましたか。",
+      "ruby": "ズーラシアは、<ruby>何年<rt>なんねん</rt></ruby>に<span class=\"vw\" data-ja=\"開園\" data-reading=\"かいえん\" data-en=\"opening (of a zoo or park)\"><ruby>開園<rt>かいえん</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen ninety-nine — about twenty-seven years ago."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Congratulations, Zoorasia — here's to the next thirty million visitors. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "全部で",
+      "reading": "ぜんぶで",
+      "en": "in total",
+      "zh": "总共"
+    },
+    {
+      "ja": "数",
+      "reading": "かず",
+      "en": "number, amount",
+      "zh": "数量"
+    },
+    {
+      "ja": "人口",
+      "reading": "じんこう",
+      "en": "population",
+      "zh": "人口"
+    },
+    {
+      "ja": "同じ",
+      "reading": "おなじ",
+      "en": "same",
+      "zh": "相同"
+    },
+    {
+      "ja": "開園",
+      "reading": "かいえん",
+      "en": "opening (of a zoo or park)",
+      "zh": "开园"
+    },
+    {
+      "ja": "かかる",
+      "reading": "かかる",
+      "en": "to take (time or money)",
+      "zh": "花费（时间、金钱）"
+    },
+    {
+      "ja": "お客さん",
+      "reading": "おきゃくさん",
+      "en": "visitor, customer",
+      "zh": "客人"
+    },
+    {
+      "ja": "連休",
+      "reading": "れんきゅう",
+      "en": "consecutive holidays",
+      "zh": "连休"
+    },
+    {
+      "ja": "家族",
+      "reading": "かぞく",
+      "en": "family",
+      "zh": "家人"
+    },
+    {
+      "ja": "お祝い",
+      "reading": "おいわい",
+      "en": "celebration",
+      "zh": "庆祝"
+    },
+    {
+      "ja": "特別",
+      "reading": "とくべつ",
+      "en": "special",
+      "zh": "特别"
+    },
+    {
+      "ja": "一番",
+      "reading": "いちばん",
+      "en": "the most, number one",
+      "zh": "最，第一"
+    },
+    {
+      "ja": "有名",
+      "reading": "ゆうめい",
+      "en": "famous",
+      "zh": "有名"
+    },
+    {
+      "ja": "自然",
+      "reading": "しぜん",
+      "en": "nature",
+      "zh": "自然"
+    },
+    {
+      "ja": "場所",
+      "reading": "ばしょ",
+      "en": "place",
+      "zh": "地方"
+    },
+    {
+      "ja": "仲間",
+      "reading": "なかま",
+      "en": "member of the same group, kin",
+      "zh": "同类，伙伴"
+    },
+    {
+      "ja": "もよう",
+      "reading": "もよう",
+      "en": "pattern, design",
+      "zh": "花纹"
+    },
+    {
+      "ja": "めずらしい",
+      "reading": "めずらしい",
+      "en": "rare, unusual",
+      "zh": "珍稀，罕见"
+    },
+    {
+      "ja": "森",
+      "reading": "もり",
+      "en": "forest",
+      "zh": "森林"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "見せる",
+      "reading": "みせる",
+      "en": "to show",
+      "zh": "展示"
+    },
+    {
+      "ja": "会う",
+      "reading": "あう",
+      "en": "to meet",
+      "zh": "见面"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, to be able to ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "verb dictionary form + ことができる",
+      "example": "世界のいろいろな場所の自然の中で、動物を見ることができます。",
+      "translation": "You can watch animals in nature settings from many places around the world.",
+      "note": "ことができる attaches to the dictionary form of a verb and means \"can\". 見ることができます = can see. It is a little more formal than the potential form 見られます.",
+      "noteZh": "「ことができる」接在动词原形后，表示\"能够\"。見ることができます＝可以看到。比可能形「見られます」稍正式。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~",
+      "meaningZh": "被称为……",
+      "formation": "name + と + 呼ばれる (passive of 呼ぶ)",
+      "example": "オカピは「森の貴婦人」と呼ばれています。",
+      "translation": "The okapi is called the lady of the forest.",
+      "note": "呼ばれる is the passive form of 呼ぶ (to call). 〜と呼ばれています describes a common nickname or title that people use.",
+      "noteZh": "「呼ばれる」是「呼ぶ」的被动形。「〜と呼ばれています」表示\"被大家称为……\"，常用于介绍别名或称号。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と呼ばれる"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "to want someone to ~",
+      "meaningZh": "希望（别人）做……",
+      "formation": "verb て-form + ほしい",
+      "example": "たくさんの人に、動物たちに会いに来てほしいです。",
+      "translation": "We want many people to come and meet the animals.",
+      "note": "てほしい expresses a wish about someone else's action. The person you want to act is marked with に: 人に来てほしい = I want people to come.",
+      "noteZh": "「てほしい」表示希望别人做某事。希望的对象用「に」表示：人に来てほしい＝希望人们来。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てほしい"
+    }
+  ],
+  "practiceZh": [
+    "横浜市の動物園「よこはま動物園ズーラシア」に来た人が、全部で3000万人になりました。\n来到横滨市\"横滨动物园Zoorasia\"的游客总数达到了3000万人。\n動物園 = zoo；全部で = in total",
+    "3000万人は、とても大きい数です。日本の人口の約4分の1と同じくらいです。\n3000万是一个非常大的数字，大约相当于日本人口的四分之一。\n人口 = population；同じ = same",
+    "ズーラシアは1999年に開園しました。3000万人まで、約27年かかりました。\nZoorasia于1999年开园，达到3000万人用了大约27年。\n開園 = opening；かかる = to take (time)",
+    "3000万人目のお客さんが来たのは、連休「シルバーウィーク」の9月22日でした。\n第3000万名游客到来的那天，是\"白银周\"连休中的9月22日。\nお客さん = visitor；連休 = consecutive holidays",
+    "この日、動物園には朝からたくさんの家族が来ました。お祝いの特別なイベントも行われました。\n这一天，从早上开始就有许多家庭来到动物园，还举行了特别的庆祝活动。\n家族 = family；お祝い = celebration",
+    "ズーラシアは、日本で一番大きい動物園の一つです。世界のいろいろな場所の自然の中で、動物を見ることができます。\nZoorasia是日本最大的动物园之一，可以在再现世界各地自然环境的园区里观赏动物。\n一番 = the most；自然 = nature",
+    "一番有名な動物は「オカピ」です。オカピはキリンの仲間で、足にしまのもようがあります。\n最有名的动物是\"㺢㹢狓\"（okapi）。它是长颈鹿的同类，腿上有条纹。\n有名 = famous；仲間 = kin, same family",
+    "オカピはとてもめずらしい動物で、「森の貴婦人」と呼ばれています。ズーラシアは、日本で初めてオカピを見せた動物園です。\n㺢㹢狓是非常珍稀的动物，被称为\"森林中的贵妇人\"。Zoorasia是日本第一个展出㺢㹢狓的动物园。\nめずらしい = rare；初めて = for the first time",
+    "動物園の人は「これからも、たくさんの人に、動物たちに会いに来てほしいです」と話しています。\n动物园的工作人员说：\"希望今后也有很多人来见动物们。\"\n会う = to meet；〜てほしい = want someone to"
+  ]
+}
