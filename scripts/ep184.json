@@ -1,0 +1,551 @@
+{
+  "episode": 184,
+  "title": "ドコモが携帯電話の料金プランを値上げへ",
+  "date": "2026-09-25",
+  "source": "NHK / ITmedia / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026092501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twenty-fifth. Japan's biggest mobile carrier, Docomo, has announced it is raising its prices. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "携帯電話の大手、NTTドコモは、携帯電話の料金プランを値上げすると発表しました。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>大手<rt>おおて</rt></ruby>、NTTドコモは、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>プランを<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げされるのは、今あるプランのうち、50以上の料金プランです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>されるのは、<ruby>今<rt>いま</rt></ruby>あるプランのうち、50<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>プランです。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい料金は、ことし12月1日から始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>は、ことし12<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げの幅は、プランによって、1か月に110円から550円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width; range\"><ruby>幅<rt>はば</rt></ruby></span>は、プランによって、1か<ruby>月<rt>げつ</rt></ruby>に110<ruby>円<rt>えん</rt></ruby>から550<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、データをたくさん使える「eximo」というプランは、月に550円高くなります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、データをたくさん<ruby>使え<rt>つかえ</rt></ruby>る「eximo」というプランは、<ruby>月<rt>つき</rt></ruby>に550<ruby>円<rt>えん</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "データが少ないプランや、子ども向けのプランは、110円の値上げです。",
+      "ruby": "データが<ruby>少ない<rt>すくない</rt></ruby>プランや、<ruby>子ども<rt>こども</rt></ruby><ruby>向け<rt>むけ</rt></ruby>のプランは、110<ruby>円<rt>えん</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "若い人に人気のオンライン専用プラン「ahamo」も、新しくなります。",
+      "ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>のオンライン<span class=\"vw\" data-ja=\"専用\" data-reading=\"せんよう\" data-en=\"exclusive use; dedicated\"><ruby>専用<rt>せんよう</rt></ruby></span>プラン「ahamo」も、<ruby>新しく<rt>あたらしく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ahamo」は12月から、データの量によって、3つのコースに分かれます。",
+      "ruby": "「ahamo」は12<ruby>月<rt>がつ</rt></ruby>から、データの<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>によって、3つのコースに<ruby>分か<rt>わか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の値上げで、ドコモの契約者のおよそ7割が対象になります。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>で、ドコモの<span class=\"vw\" data-ja=\"契約者\" data-reading=\"けいやくしゃ\" data-en=\"subscriber; contract holder\"><ruby>契約者<rt>けいやくしゃ</rt></ruby></span>のおよそ7<ruby>割<rt>わり</rt></ruby>が<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject to\"><ruby>対象<rt>たいしょう</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げの平均は、およそ7%です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、およそ7%です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモは理由について、物価や人件費の上昇と、基地局を増やすための設備投資が必要なためだと説明しています。",
+      "ruby": "ドコモは<ruby>理由<rt>りゆう</rt></ruby>について、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>や<span class=\"vw\" data-ja=\"人件費\" data-reading=\"じんけんひ\" data-en=\"labor costs\"><ruby>人件費<rt>じんけんひ</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>と、<span class=\"vw\" data-ja=\"基地局\" data-reading=\"きちきょく\" data-en=\"(mobile) base station\"><ruby>基地局<rt>きちきょく</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ための<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment (in equipment)\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>なためだと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では約5年前、政府の求めで、携帯電話の料金が大きく下がりました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>約<rt>やく</rt></ruby>5<ruby>年前<rt>ねんまえ</rt></ruby>、<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>の<ruby>求め<rt>もとめ</rt></ruby>で、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし最近は、物価の上昇で、値上げの動きが業界全体に広がっています。",
+      "ruby": "しかし<ruby>最近<rt>さいきん</rt></ruby>は、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>で、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>動き<rt>うごき</rt></ruby>が<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business world\"><ruby>業界全体<rt>ぎょうかいぜんたい</rt></ruby></span>に<ruby>広が<rt>ひろが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "携帯電話の料金を安くしたい人は、自分のプランを見直す必要がありそうです。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>安く<rt>やすく</rt></ruby>したい<ruby>人<rt>ひと</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>のプランを<span class=\"vw\" data-ja=\"見直す\" data-reading=\"みなおす\" data-en=\"to review; to take another look\"><ruby>見直す<rt>みなおす</rt></ruby></span><ruby>必要<rt>ひつよう</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "携帯電話の大手、NTTドコモは、携帯電話の料金プランを値上げすると発表しました。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>大手<rt>おおて</rt></ruby>、NTTドコモは、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>プランを<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Mobile giant Docomo announced it will raise the prices of its phone plans."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a price increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げされるのは、今あるプランのうち、50以上の料金プランです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>されるのは、<ruby>今<rt>いま</rt></ruby>あるプランのうち、50<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>プランです。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than fifty of the current plans will go up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "料金",
+      "ruby": "<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fee, or a charge — like your monthly bill."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げの幅は、プランによって、1か月に110円から550円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width; range\"><ruby>幅<rt>はば</rt></ruby></span>は、プランによって、1か<ruby>月<rt>げつ</rt></ruby>に110<ruby>円<rt>えん</rt></ruby>から550<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Depending on the plan, the increase is between one hundred ten and five hundred fifty yen a month."
+    },
+    {
+      "speaker": "vocab",
+      "text": "幅",
+      "ruby": "<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width; range\"><ruby>幅<rt>はば</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means width — here, the range of the increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "「ahamo」は12月から、データの量によって、3つのコースに分かれます。",
+      "ruby": "「ahamo」は12<ruby>月<rt>がつ</rt></ruby>から、データの<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>によって、3つのコースに<ruby>分か<rt>わか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From December, the popular ahamo plan splits into three tiers based on how much data you use."
+    },
+    {
+      "speaker": "vocab",
+      "text": "量",
+      "ruby": "<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means amount, or quantity."
+    },
+    {
+      "speaker": "slow",
+      "text": "今回の値上げで、ドコモの契約者のおよそ7割が対象になります。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>で、ドコモの<span class=\"vw\" data-ja=\"契約者\" data-reading=\"けいやくしゃ\" data-en=\"subscriber; contract holder\"><ruby>契約者<rt>けいやくしゃ</rt></ruby></span>のおよそ7<ruby>割<rt>わり</rt></ruby>が<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject to\"><ruby>対象<rt>たいしょう</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seventy percent of Docomo's subscribers are affected."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対象",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject to\"><ruby>対象<rt>たいしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the target, or who something applies to."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げの平均は、およそ7%です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、およそ7%です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The average increase is about seven percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means average."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドコモは理由について、物価や人件費の上昇と、基地局を増やすための設備投資が必要なためだと説明しています。",
+      "ruby": "ドコモは<ruby>理由<rt>りゆう</rt></ruby>について、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>や<span class=\"vw\" data-ja=\"人件費\" data-reading=\"じんけんひ\" data-en=\"labor costs\"><ruby>人件費<rt>じんけんひ</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>と、<span class=\"vw\" data-ja=\"基地局\" data-reading=\"きちきょく\" data-en=\"(mobile) base station\"><ruby>基地局<rt>きちきょく</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ための<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment (in equipment)\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>なためだと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company blames rising prices, higher labor costs, and the cost of building more base stations."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物価",
+      "ruby": "<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prices in general — the cost of living."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では約5年前、政府の求めで、携帯電話の料金が大きく下がりました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>約<rt>やく</rt></ruby>5<ruby>年前<rt>ねんまえ</rt></ruby>、<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>の<ruby>求め<rt>もとめ</rt></ruby>で、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five years ago, phone bills in Japan dropped sharply at the government's request."
+    },
+    {
+      "speaker": "vocab",
+      "text": "政府",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the government."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし最近は、物価の上昇で、値上げの動きが業界全体に広がっています。",
+      "ruby": "しかし<ruby>最近<rt>さいきん</rt></ruby>は、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>で、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>動き<rt>うごき</rt></ruby>が<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business world\"><ruby>業界全体<rt>ぎょうかいぜんたい</rt></ruby></span>に<ruby>広が<rt>ひろが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "But lately, price hikes are spreading across the whole industry."
+    },
+    {
+      "speaker": "vocab",
+      "text": "業界",
+      "ruby": "<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business world\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an industry, or business world."
+    },
+    {
+      "speaker": "slow",
+      "text": "携帯電話の料金を安くしたい人は、自分のプランを見直す必要がありそうです。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>安く<rt>やすく</rt></ruby>したい<ruby>人<rt>ひと</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>のプランを<span class=\"vw\" data-ja=\"見直す\" data-reading=\"みなおす\" data-en=\"to review; to take another look\"><ruby>見直す<rt>みなおす</rt></ruby></span><ruby>必要<rt>ひつよう</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you want a cheaper bill, it looks like time to review your plan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見直す",
+      "ruby": "<span class=\"vw\" data-ja=\"見直す\" data-reading=\"みなおす\" data-en=\"to review; to take another look\"><ruby>見直す<rt>みなおす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to review, or to take another look at something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "携帯電話の大手、NTTドコモは、携帯電話の料金プランを値上げすると発表しました。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>大手<rt>おおて</rt></ruby>、NTTドコモは、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>プランを<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げされるのは、今あるプランのうち、50以上の料金プランです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>されるのは、<ruby>今<rt>いま</rt></ruby>あるプランのうち、50<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>プランです。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい料金は、ことし12月1日から始まります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>は、ことし12<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げの幅は、プランによって、1か月に110円から550円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width; range\"><ruby>幅<rt>はば</rt></ruby></span>は、プランによって、1か<ruby>月<rt>げつ</rt></ruby>に110<ruby>円<rt>えん</rt></ruby>から550<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、データをたくさん使える「eximo」というプランは、月に550円高くなります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、データをたくさん<ruby>使え<rt>つかえ</rt></ruby>る「eximo」というプランは、<ruby>月<rt>つき</rt></ruby>に550<ruby>円<rt>えん</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "データが少ないプランや、子ども向けのプランは、110円の値上げです。",
+      "ruby": "データが<ruby>少ない<rt>すくない</rt></ruby>プランや、<ruby>子ども<rt>こども</rt></ruby><ruby>向け<rt>むけ</rt></ruby>のプランは、110<ruby>円<rt>えん</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "若い人に人気のオンライン専用プラン「ahamo」も、新しくなります。",
+      "ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>のオンライン<span class=\"vw\" data-ja=\"専用\" data-reading=\"せんよう\" data-en=\"exclusive use; dedicated\"><ruby>専用<rt>せんよう</rt></ruby></span>プラン「ahamo」も、<ruby>新しく<rt>あたらしく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ahamo」は12月から、データの量によって、3つのコースに分かれます。",
+      "ruby": "「ahamo」は12<ruby>月<rt>がつ</rt></ruby>から、データの<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>によって、3つのコースに<ruby>分か<rt>わか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の値上げで、ドコモの契約者のおよそ7割が対象になります。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>で、ドコモの<span class=\"vw\" data-ja=\"契約者\" data-reading=\"けいやくしゃ\" data-en=\"subscriber; contract holder\"><ruby>契約者<rt>けいやくしゃ</rt></ruby></span>のおよそ7<ruby>割<rt>わり</rt></ruby>が<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject to\"><ruby>対象<rt>たいしょう</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げの平均は、およそ7%です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>は、およそ7%です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモは理由について、物価や人件費の上昇と、基地局を増やすための設備投資が必要なためだと説明しています。",
+      "ruby": "ドコモは<ruby>理由<rt>りゆう</rt></ruby>について、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>や<span class=\"vw\" data-ja=\"人件費\" data-reading=\"じんけんひ\" data-en=\"labor costs\"><ruby>人件費<rt>じんけんひ</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>と、<span class=\"vw\" data-ja=\"基地局\" data-reading=\"きちきょく\" data-en=\"(mobile) base station\"><ruby>基地局<rt>きちきょく</rt></ruby></span>を<ruby>増やす<rt>ふやす</rt></ruby>ための<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment (in equipment)\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>なためだと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では約5年前、政府の求めで、携帯電話の料金が大きく下がりました。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>約<rt>やく</rt></ruby>5<ruby>年前<rt>ねんまえ</rt></ruby>、<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>の<ruby>求め<rt>もとめ</rt></ruby>で、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし最近は、物価の上昇で、値上げの動きが業界全体に広がっています。",
+      "ruby": "しかし<ruby>最近<rt>さいきん</rt></ruby>は、<span class=\"vw\" data-ja=\"物価\" data-reading=\"ぶっか\" data-en=\"prices (of goods); cost of living\"><ruby>物価<rt>ぶっか</rt></ruby></span>の<ruby>上昇<rt>じょうしょう</rt></ruby>で、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>動き<rt>うごき</rt></ruby>が<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry; business world\"><ruby>業界全体<rt>ぎょうかいぜんたい</rt></ruby></span>に<ruby>広が<rt>ひろが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "携帯電話の料金を安くしたい人は、自分のプランを見直す必要がありそうです。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>安く<rt>やすく</rt></ruby>したい<ruby>人<rt>ひと</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>のプランを<span class=\"vw\" data-ja=\"見直す\" data-reading=\"みなおす\" data-en=\"to review; to take another look\"><ruby>見直す<rt>みなおす</rt></ruby></span><ruby>必要<rt>ひつよう</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい料金は、いつから始まりますか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"料金\" data-reading=\"りょうきん\" data-en=\"fee; charge\"><ruby>料金<rt>りょうきん</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From December first this year."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げの幅は、1か月にいくらからいくらまでですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width; range\"><ruby>幅<rt>はば</rt></ruby></span>は、1か<ruby>月<rt>げつ</rt></ruby>にいくらからいくらまでですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From one hundred ten yen to five hundred fifty yen a month."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドコモの契約者の、どのくらいが値上げの対象になりますか。",
+      "ruby": "ドコモの<span class=\"vw\" data-ja=\"契約者\" data-reading=\"けいやくしゃ\" data-en=\"subscriber; contract holder\"><ruby>契約者<rt>けいやくしゃ</rt></ruby></span>の、どのくらいが<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; subject to\"><ruby>対象<rt>たいしょう</rt></ruby></span>になりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seventy percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you have a phone plan in Japan, December might be a good time to check it. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "値上げ",
+      "reading": "ねあげ",
+      "en": "price increase",
+      "zh": "涨价"
+    },
+    {
+      "ja": "料金",
+      "reading": "りょうきん",
+      "en": "fee; charge",
+      "zh": "费用；资费"
+    },
+    {
+      "ja": "幅",
+      "reading": "はば",
+      "en": "width; range",
+      "zh": "幅度；范围"
+    },
+    {
+      "ja": "専用",
+      "reading": "せんよう",
+      "en": "exclusive use; dedicated",
+      "zh": "专用"
+    },
+    {
+      "ja": "量",
+      "reading": "りょう",
+      "en": "amount; quantity",
+      "zh": "量；数量"
+    },
+    {
+      "ja": "契約者",
+      "reading": "けいやくしゃ",
+      "en": "subscriber; contract holder",
+      "zh": "签约用户"
+    },
+    {
+      "ja": "対象",
+      "reading": "たいしょう",
+      "en": "target; subject to",
+      "zh": "对象；适用范围"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "物価",
+      "reading": "ぶっか",
+      "en": "prices (of goods); cost of living",
+      "zh": "物价"
+    },
+    {
+      "ja": "人件費",
+      "reading": "じんけんひ",
+      "en": "labor costs",
+      "zh": "人工费；人力成本"
+    },
+    {
+      "ja": "基地局",
+      "reading": "きちきょく",
+      "en": "(mobile) base station",
+      "zh": "（通信）基站"
+    },
+    {
+      "ja": "設備投資",
+      "reading": "せつびとうし",
+      "en": "capital investment (in equipment)",
+      "zh": "设备投资"
+    },
+    {
+      "ja": "政府",
+      "reading": "せいふ",
+      "en": "government",
+      "zh": "政府"
+    },
+    {
+      "ja": "業界",
+      "reading": "ぎょうかい",
+      "en": "industry; business world",
+      "zh": "行业；业界"
+    },
+    {
+      "ja": "見直す",
+      "reading": "みなおす",
+      "en": "to review; to take another look",
+      "zh": "重新审视；重新考虑"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によって",
+      "meaning": "depending on",
+      "meaningZh": "根据…；因…而不同",
+      "formation": "noun + によって",
+      "example": "値上げの幅は、プランによって、1か月に110円から550円です。",
+      "translation": "Depending on the plan, the increase is between 110 and 550 yen a month.",
+      "note": "here によって means the result differs case by case — the amount changes depending on which plan you have",
+      "noteZh": "这里的によって表示因情况而异——涨价金额根据不同的套餐而不同",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によって"
+    },
+    {
+      "pattern": "〜のうち",
+      "meaning": "among; out of",
+      "meaningZh": "在…之中",
+      "formation": "noun + のうち",
+      "example": "値上げされるのは、今あるプランのうち、50以上の料金プランです。",
+      "translation": "Among the current plans, more than fifty will have their prices raised.",
+      "note": "picks a part out of a larger group — 'out of all the existing plans, more than fifty'",
+      "noteZh": "从整体中挑出一部分——“在现有的所有套餐之中，有50多个”",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#うち"
+    },
+    {
+      "pattern": "〜そうだ（様態）",
+      "meaning": "it looks like; it seems",
+      "meaningZh": "看起来…；好像…",
+      "formation": "verb stem / adjective stem + そうだ",
+      "example": "携帯電話の料金を安くしたい人は、自分のプランを見直す必要がありそうです。",
+      "translation": "People who want a cheaper phone bill will likely need to review their plans.",
+      "note": "ありそうです = 'there seems to be (a need)' — a guess based on the situation, softer than stating it directly",
+      "noteZh": "ありそうです表示“看来有（必要）”——根据情况做出的推测，比直接断定语气更柔和",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#そうだ"
+    }
+  ],
+  "practiceZh": [
+    "携帯電話の大手、NTTドコモは、携帯電話の料金プランを値上げすると発表しました。\n手机行业巨头NTT都科摩宣布将上调手机资费套餐的价格。\n値上げする = 涨价；発表する = 宣布",
+    "値上げの幅は、プランによって、1か月に110円から550円です。\n涨价幅度根据套餐不同，每月为110日元至550日元。\n幅 = 幅度；〜によって = 根据…而不同",
+    "「ahamo」は12月から、データの量によって、3つのコースに分かれます。\n“ahamo”从12月起将根据流量的多少分为三档。\n量 = 数量；分かれる = 分为",
+    "今回の値上げで、ドコモの契約者のおよそ7割が対象になります。\n此次涨价将波及都科摩约七成的签约用户。\n契約者 = 签约用户；対象 = 对象",
+    "ドコモは理由について、物価や人件費の上昇と、基地局を増やすための設備投資が必要なためだと説明しています。\n关于原因，都科摩解释称是由于物价和人工费上涨，以及增设基站所需的设备投资。\n物価 = 物价；人件費 = 人工费；設備投資 = 设备投资",
+    "日本では約5年前、政府の求めで、携帯電話の料金が大きく下がりました。\n在日本，大约五年前，应政府的要求，手机资费曾大幅下降。\n政府 = 政府；求め = 要求"
+  ]
+}
