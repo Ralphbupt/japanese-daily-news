@@ -1,0 +1,486 @@
+{
+  "episode": 185,
+  "title": "秋の夜空に「中秋の名月」",
+  "date": "2026-09-26",
+  "source": "国立天文台 / tenki.jp",
+  "level": "N5-N4",
+  "contentVersion": "2026092601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September twenty-sixth. Last night, people all over Japan looked up at the sky for a beautiful autumn tradition — the harvest moon. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "昨日、9月25日の夜は、「中秋の名月」でした。日本の各地で、たくさんの人が月を見ました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昨日\" data-reading=\"きのう\" data-en=\"yesterday\"><ruby>昨日<rt>きのう</rt></ruby></span>、9<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、「<ruby>中秋<rt>ちゅうしゅう</rt></ruby>の<ruby>名月<rt>めいげつ</rt></ruby>」でした。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places, all over\"><ruby>各地<rt>かくち</rt></ruby></span>で、たくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "「中秋の名月」は、秋の一番きれいな月のことです。「十五夜」とも言います。",
+      "ruby": "「<ruby>中秋<rt>ちゅうしゅう</rt></ruby>の<ruby>名月<rt>めいげつ</rt></ruby>」は、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>の<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span>きれいな<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>のことです。「<ruby>十五夜<rt>じゅうごや</rt></ruby>」とも<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、この夜に月を見る習慣があります。これを「お月見」と言います。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、この<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>に<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>があります。これを「<span class=\"vw\" data-ja=\"お月見\" data-reading=\"おつきみ\" data-en=\"moon viewing\">お<ruby>月見<rt>つきみ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "人々は、月見だんごやススキを飾って、月を楽しみます。",
+      "ruby": "<ruby>人々<rt>ひとびと</rt></ruby>は、<span class=\"vw\" data-ja=\"月見だんご\" data-reading=\"つきみだんご\" data-en=\"moon-viewing rice dumplings\"><ruby>月見<rt>つきみ</rt></ruby>だんごや</span><span class=\"vw\" data-ja=\"ススキ\" data-reading=\"ススキ\" data-en=\"pampas grass\">ススキ</span>を<ruby>飾っ<rt>かざっ</rt></ruby>て、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>楽しみ<rt>たのしみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "お月見の習慣は、約1000年前に、中国から日本に伝わりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"お月見\" data-reading=\"おつきみ\" data-en=\"moon viewing\">お<ruby>月見<rt>つきみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"約\" data-reading=\"やく\" data-en=\"about, approximately\"><ruby>約<rt>やく</rt></ruby></span>1000<ruby>年前<rt>ねんまえ</rt></ruby>に、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>伝わ<rt>つたわ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、少しめずらしいことがあります。本当の満月は、2日後の9月27日です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>少し<rt>すこし</rt></ruby><span class=\"vw\" data-ja=\"めずらしい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\">めずらしいことがあります</span>。<ruby>本当<rt>ほんとう</rt></ruby>の<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>は、<ruby>2日後<rt>ふつかご</rt></ruby>の9<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名月と満月の日が2日ずれるのは、めずらしいです。次は、2043年です。",
+      "ruby": "<ruby>名月<rt>めいげつ</rt></ruby>と<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>が<ruby>2日<rt>ふつか</rt></ruby><span class=\"vw\" data-ja=\"ずれる\" data-reading=\"ずれる\" data-en=\"to be shifted, to not match\">ずれるのは</span>、<span class=\"vw\" data-ja=\"めずらしい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\">めずらしいです</span>。<ruby>次<rt>つぎ</rt></ruby>は、2043<ruby>年<rt>ねん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "昨日の夜は、北日本や沖縄で、よく晴れました。多くの人が、きれいな月を見ることができました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昨日\" data-reading=\"きのう\" data-en=\"yesterday\"><ruby>昨日<rt>きのう</rt></ruby></span>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<ruby>北日本<rt>きたにほん</rt></ruby>や<ruby>沖縄<rt>おきなわ</rt></ruby>で、よく<ruby>晴れ<rt>はれ</rt></ruby>ました。<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、きれいな<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋の夜は、空気がきれいで、月がきれいに見えます。今日の夜も、空を見てみませんか。",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>がきれいで、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>がきれいに<ruby>見え<rt>みえ</rt></ruby>ます。<ruby>今日<rt>きょう</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>も、<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby>みませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "昨日、9月25日の夜は、「中秋の名月」でした。日本の各地で、たくさんの人が月を見ました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昨日\" data-reading=\"きのう\" data-en=\"yesterday\"><ruby>昨日<rt>きのう</rt></ruby></span>、9<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、「<ruby>中秋<rt>ちゅうしゅう</rt></ruby>の<ruby>名月<rt>めいげつ</rt></ruby>」でした。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places, all over\"><ruby>各地<rt>かくち</rt></ruby></span>で、たくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last night, September twenty-fifth, was the night of the harvest moon. All across Japan, many people looked up at the moon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "月",
+      "ruby": "<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the moon — the star of tonight's story."
+    },
+    {
+      "speaker": "slow",
+      "text": "「中秋の名月」は、秋の一番きれいな月のことです。「十五夜」とも言います。",
+      "ruby": "「<ruby>中秋<rt>ちゅうしゅう</rt></ruby>の<ruby>名月<rt>めいげつ</rt></ruby>」は、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>の<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span>きれいな<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>のことです。「<ruby>十五夜<rt>じゅうごや</rt></ruby>」とも<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The harvest moon is the most beautiful moon of autumn. It also has another name — the fifteenth night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "秋",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means autumn — the season we are in right now."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、この夜に月を見る習慣があります。これを「お月見」と言います。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、この<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>に<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>があります。これを「<span class=\"vw\" data-ja=\"お月見\" data-reading=\"おつきみ\" data-en=\"moon viewing\">お<ruby>月見<rt>つきみ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, there is a custom of watching the moon on this night. It is called moon viewing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "習慣",
+      "ruby": "<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a custom or habit — something people do regularly."
+    },
+    {
+      "speaker": "slow",
+      "text": "人々は、月見だんごやススキを飾って、月を楽しみます。",
+      "ruby": "<ruby>人々<rt>ひとびと</rt></ruby>は、<span class=\"vw\" data-ja=\"月見だんご\" data-reading=\"つきみだんご\" data-en=\"moon-viewing rice dumplings\"><ruby>月見<rt>つきみ</rt></ruby>だんごや</span><span class=\"vw\" data-ja=\"ススキ\" data-reading=\"ススキ\" data-en=\"pampas grass\">ススキ</span>を<ruby>飾っ<rt>かざっ</rt></ruby>て、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>楽しみ<rt>たのしみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "People decorate with round rice dumplings and pampas grass, and enjoy the moon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飾る",
+      "ruby": "<span class=\"vw\" data-ja=\"飾る\" data-reading=\"かざる\" data-en=\"to decorate\"><ruby>飾る<rt>かざる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decorate — to put something out to make a place look nice."
+    },
+    {
+      "speaker": "slow",
+      "text": "お月見の習慣は、約1000年前に、中国から日本に伝わりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"お月見\" data-reading=\"おつきみ\" data-en=\"moon viewing\">お<ruby>月見<rt>つきみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"約\" data-reading=\"やく\" data-en=\"about, approximately\"><ruby>約<rt>やく</rt></ruby></span>1000<ruby>年前<rt>ねんまえ</rt></ruby>に、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>伝わ<rt>つたわ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The moon-viewing custom came to Japan from China about one thousand years ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "伝わる",
+      "ruby": "<span class=\"vw\" data-ja=\"伝わる\" data-reading=\"つたわる\" data-en=\"to be introduced, to be passed down\"><ruby>伝わ<rt>つたわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be passed down or introduced — to spread from one place to another."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、少しめずらしいことがあります。本当の満月は、2日後の9月27日です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>少し<rt>すこし</rt></ruby><span class=\"vw\" data-ja=\"めずらしい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\">めずらしいことがあります</span>。<ruby>本当<rt>ほんとう</rt></ruby>の<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>は、<ruby>2日後<rt>ふつかご</rt></ruby>の9<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, there is something a little unusual. The true full moon comes two days later, on September twenty-seventh."
+    },
+    {
+      "speaker": "vocab",
+      "text": "満月",
+      "ruby": "<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the full moon — when the moon looks perfectly round."
+    },
+    {
+      "speaker": "slow",
+      "text": "秋の夜は、空気がきれいで、月がきれいに見えます。今日の夜も、空を見てみませんか。",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>がきれいで、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>がきれいに<ruby>見え<rt>みえ</rt></ruby>ます。<ruby>今日<rt>きょう</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>も、<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby>みませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On autumn nights, the air is clear, so the moon looks beautiful. Why not look up at the sky tonight, too?"
+    },
+    {
+      "speaker": "vocab",
+      "text": "空気",
+      "ruby": "<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means air. When the air is clear, you can see the moon and stars very well."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "昨日、9月25日の夜は、「中秋の名月」でした。日本の各地で、たくさんの人が月を見ました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昨日\" data-reading=\"きのう\" data-en=\"yesterday\"><ruby>昨日<rt>きのう</rt></ruby></span>、9<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、「<ruby>中秋<rt>ちゅうしゅう</rt></ruby>の<ruby>名月<rt>めいげつ</rt></ruby>」でした。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places, all over\"><ruby>各地<rt>かくち</rt></ruby></span>で、たくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "「中秋の名月」は、秋の一番きれいな月のことです。「十五夜」とも言います。",
+      "ruby": "「<ruby>中秋<rt>ちゅうしゅう</rt></ruby>の<ruby>名月<rt>めいげつ</rt></ruby>」は、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>の<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span>きれいな<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>のことです。「<ruby>十五夜<rt>じゅうごや</rt></ruby>」とも<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、この夜に月を見る習慣があります。これを「お月見」と言います。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、この<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>に<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>があります。これを「<span class=\"vw\" data-ja=\"お月見\" data-reading=\"おつきみ\" data-en=\"moon viewing\">お<ruby>月見<rt>つきみ</rt></ruby></span>」と<ruby>言い<rt>いい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "人々は、月見だんごやススキを飾って、月を楽しみます。",
+      "ruby": "<ruby>人々<rt>ひとびと</rt></ruby>は、<span class=\"vw\" data-ja=\"月見だんご\" data-reading=\"つきみだんご\" data-en=\"moon-viewing rice dumplings\"><ruby>月見<rt>つきみ</rt></ruby>だんごや</span><span class=\"vw\" data-ja=\"ススキ\" data-reading=\"ススキ\" data-en=\"pampas grass\">ススキ</span>を<ruby>飾っ<rt>かざっ</rt></ruby>て、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>楽しみ<rt>たのしみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "お月見の習慣は、約1000年前に、中国から日本に伝わりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"お月見\" data-reading=\"おつきみ\" data-en=\"moon viewing\">お<ruby>月見<rt>つきみ</rt></ruby></span>の<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"custom, habit\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"約\" data-reading=\"やく\" data-en=\"about, approximately\"><ruby>約<rt>やく</rt></ruby></span>1000<ruby>年前<rt>ねんまえ</rt></ruby>に、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>伝わ<rt>つたわ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、少しめずらしいことがあります。本当の満月は、2日後の9月27日です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>少し<rt>すこし</rt></ruby><span class=\"vw\" data-ja=\"めずらしい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\">めずらしいことがあります</span>。<ruby>本当<rt>ほんとう</rt></ruby>の<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>は、<ruby>2日後<rt>ふつかご</rt></ruby>の9<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名月と満月の日が2日ずれるのは、めずらしいです。次は、2043年です。",
+      "ruby": "<ruby>名月<rt>めいげつ</rt></ruby>と<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>が<ruby>2日<rt>ふつか</rt></ruby><span class=\"vw\" data-ja=\"ずれる\" data-reading=\"ずれる\" data-en=\"to be shifted, to not match\">ずれるのは</span>、<span class=\"vw\" data-ja=\"めずらしい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\">めずらしいです</span>。<ruby>次<rt>つぎ</rt></ruby>は、2043<ruby>年<rt>ねん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "昨日の夜は、北日本や沖縄で、よく晴れました。多くの人が、きれいな月を見ることができました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昨日\" data-reading=\"きのう\" data-en=\"yesterday\"><ruby>昨日<rt>きのう</rt></ruby></span>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<ruby>北日本<rt>きたにほん</rt></ruby>や<ruby>沖縄<rt>おきなわ</rt></ruby>で、よく<ruby>晴れ<rt>はれ</rt></ruby>ました。<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、きれいな<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋の夜は、空気がきれいで、月がきれいに見えます。今日の夜も、空を見てみませんか。",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn\"><ruby>秋<rt>あき</rt></ruby></span>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<span class=\"vw\" data-ja=\"空気\" data-reading=\"くうき\" data-en=\"air\"><ruby>空気<rt>くうき</rt></ruby></span>がきれいで、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>がきれいに<ruby>見え<rt>みえ</rt></ruby>ます。<ruby>今日<rt>きょう</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>も、<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby>みませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月25日の夜は、何の夜でしたか。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>の<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was the night of the harvest moon — the most beautiful moon of autumn, also called the fifteenth night."
+    },
+    {
+      "speaker": "slow",
+      "text": "人々は、何を飾って、月を楽しみますか。",
+      "ruby": "<ruby>人々<rt>ひとびと</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>飾っ<rt>かざっ</rt></ruby>て、<span class=\"vw\" data-ja=\"月\" data-reading=\"つき\" data-en=\"moon\"><ruby>月<rt>つき</rt></ruby></span>を<ruby>楽しみ<rt>たのしみ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Round rice dumplings and pampas grass."
+    },
+    {
+      "speaker": "slow",
+      "text": "本当の満月は、いつですか。",
+      "ruby": "<ruby>本当<rt>ほんとう</rt></ruby>の<span class=\"vw\" data-ja=\"満月\" data-reading=\"まんげつ\" data-en=\"full moon\"><ruby>満月<rt>まんげつ</rt></ruby></span>は、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "September twenty-seventh — two days after the harvest moon night. A gap that big will not happen again until twenty forty-three."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. The moon is still almost full tonight, so if your sky is clear, take a moment to look up. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "昨日",
+      "reading": "きのう",
+      "en": "yesterday",
+      "zh": "昨天"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "月",
+      "reading": "つき",
+      "en": "moon",
+      "zh": "月亮"
+    },
+    {
+      "ja": "各地",
+      "reading": "かくち",
+      "en": "various places, all over",
+      "zh": "各地"
+    },
+    {
+      "ja": "秋",
+      "reading": "あき",
+      "en": "autumn",
+      "zh": "秋天"
+    },
+    {
+      "ja": "一番",
+      "reading": "いちばん",
+      "en": "most, number one",
+      "zh": "最，第一"
+    },
+    {
+      "ja": "習慣",
+      "reading": "しゅうかん",
+      "en": "custom, habit",
+      "zh": "习惯，风俗"
+    },
+    {
+      "ja": "お月見",
+      "reading": "おつきみ",
+      "en": "moon viewing",
+      "zh": "赏月"
+    },
+    {
+      "ja": "月見だんご",
+      "reading": "つきみだんご",
+      "en": "moon-viewing rice dumplings",
+      "zh": "赏月团子"
+    },
+    {
+      "ja": "ススキ",
+      "reading": "ススキ",
+      "en": "pampas grass",
+      "zh": "芒草"
+    },
+    {
+      "ja": "飾る",
+      "reading": "かざる",
+      "en": "to decorate",
+      "zh": "装饰，摆设"
+    },
+    {
+      "ja": "楽しむ",
+      "reading": "たのしむ",
+      "en": "to enjoy",
+      "zh": "欣赏，享受"
+    },
+    {
+      "ja": "約",
+      "reading": "やく",
+      "en": "about, approximately",
+      "zh": "大约"
+    },
+    {
+      "ja": "伝わる",
+      "reading": "つたわる",
+      "en": "to be introduced, to be passed down",
+      "zh": "传入，流传"
+    },
+    {
+      "ja": "満月",
+      "reading": "まんげつ",
+      "en": "full moon",
+      "zh": "满月"
+    },
+    {
+      "ja": "ずれる",
+      "reading": "ずれる",
+      "en": "to be shifted, to not match",
+      "zh": "错开，偏离"
+    },
+    {
+      "ja": "めずらしい",
+      "reading": "めずらしい",
+      "en": "rare, unusual",
+      "zh": "少见的，稀奇的"
+    },
+    {
+      "ja": "晴れる",
+      "reading": "はれる",
+      "en": "to clear up, to be sunny",
+      "zh": "放晴"
+    },
+    {
+      "ja": "空気",
+      "reading": "くうき",
+      "en": "air",
+      "zh": "空气"
+    },
+    {
+      "ja": "見える",
+      "reading": "みえる",
+      "en": "to be visible, can see",
+      "zh": "看得见"
+    },
+    {
+      "ja": "空",
+      "reading": "そら",
+      "en": "sky",
+      "zh": "天空"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と言います／〜とも言います",
+      "meaning": "is called ~ / is also called ~",
+      "meaningZh": "叫做……／也叫做……",
+      "formation": "noun + と言います（とも言います = is also called）",
+      "example": "「十五夜」とも言います。",
+      "translation": "It is also called the fifteenth night.",
+      "note": "と marks a name or quote. 〜と言います means \"is called ~\". Adding も makes it \"is ALSO called ~\" — useful when something has two names.",
+      "noteZh": "「と」表示名称或引用。「〜と言います」＝\"叫做……\"。加上「も」变成\"也叫做……\"，用于一个东西有两个名字的时候。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#という"
+    },
+    {
+      "pattern": "〜のは…です",
+      "meaning": "doing ~ is …",
+      "meaningZh": "……这件事是……",
+      "formation": "verb plain form + のは + adjective/noun + です",
+      "example": "名月と満月の日が2日ずれるのは、めずらしいです。",
+      "translation": "It is rare for the harvest moon and the full moon to be two days apart.",
+      "note": "の turns the whole verb phrase into a noun, so you can describe it: 〜ずれるのは、めずらしいです = \"the fact that they differ is rare\".",
+      "noteZh": "「の」把前面的动词短语变成名词，然后加以描述：「〜ずれるのは、めずらしいです」＝\"（日期）错开这件事很少见\"。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#のは"
+    },
+    {
+      "pattern": "〜てみませんか",
+      "meaning": "why not try ~?",
+      "meaningZh": "要不要试试……？",
+      "formation": "verb te-form + みませんか",
+      "example": "今日の夜も、空を見てみませんか。",
+      "translation": "Tonight, why not look up at the sky, too?",
+      "note": "てみる means \"try doing\". The negative question ませんか makes a soft invitation: 見てみませんか = \"won't you try looking?\"",
+      "noteZh": "「てみる」表示\"试着做\"。否定疑问「ませんか」是委婉的邀请：「見てみませんか」＝\"要不要看一看？\"",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てみる"
+    }
+  ],
+  "practiceZh": [
+    "昨日、9月25日の夜は、「中秋の名月」でした。日本の各地で、たくさんの人が月を見ました。\n昨天9月25日的夜晚是\"中秋名月\"。在日本各地，很多人赏了月。\n夜 = night；月 = moon",
+    "「中秋の名月」は、秋の一番きれいな月のことです。「十五夜」とも言います。\n\"中秋名月\"指的是秋天最美的月亮，也叫\"十五夜\"。\n秋 = autumn；一番 = most",
+    "日本では、この夜に月を見る習慣があります。これを「お月見」と言います。\n在日本，有在这个夜晚赏月的习俗，这叫做\"御月见（赏月）\"。\n習慣 = custom；お月見 = moon viewing",
+    "人々は、月見だんごやススキを飾って、月を楽しみます。\n人们摆上赏月团子和芒草，欣赏月亮。\n飾る = to decorate；楽しむ = to enjoy",
+    "お月見の習慣は、約1000年前に、中国から日本に伝わりました。\n赏月的习俗大约在1000年前从中国传到了日本。\n約 = about；伝わる = to be introduced",
+    "今年は、少しめずらしいことがあります。本当の満月は、2日後の9月27日です。\n今年有一点少见的情况：真正的满月是两天后的9月27日。\n満月 = full moon；めずらしい = rare",
+    "名月と満月の日が2日ずれるのは、めずらしいです。次は、2043年です。\n名月和满月的日期相差两天是很少见的，下一次要到2043年。\nずれる = to be shifted；満月 = full moon",
+    "昨日の夜は、北日本や沖縄で、よく晴れました。多くの人が、きれいな月を見ることができました。\n昨晚在日本北部和冲绳天气晴朗，很多人看到了美丽的月亮。\n晴れる = to clear up；昨日 = yesterday",
+    "秋の夜は、空気がきれいで、月がきれいに見えます。今日の夜も、空を見てみませんか。\n秋天的夜晚空气清新，月亮看起来格外美丽。今晚也抬头看看天空吧？\n空気 = air；空 = sky"
+  ]
+}
