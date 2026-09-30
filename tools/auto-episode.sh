@@ -96,7 +96,7 @@ EOF
 
 echo "[$STAMP] level=$LEVEL dry=${JDN_DRY:-0} -> $LOG"
 claude -p "$PROMPT" \
-  --model claude-fable-5 \
+  --model claude-opus-5-5 \
   --dangerously-skip-permissions \
   >>"$LOG" 2>&1
 
