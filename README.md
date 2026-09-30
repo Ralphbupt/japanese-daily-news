@@ -11,7 +11,7 @@ in the loop.
 [YouTube](https://www.youtube.com/playlist?list=PLFPcxHB9z1CRXO7aEgo5qE_jP_E3cXwKb) ·
 [RSS](https://podcast.jpnotes.dev/rss.xml)
 
-140+ episodes since May 2026 · morning (N5–N4) and evening (N4–N3) editions
+190+ episodes since May 2026 · morning (N5–N4) and evening (N4–N3) editions
 
 ## Pipeline
 
