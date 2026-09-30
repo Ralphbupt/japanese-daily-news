@@ -1,0 +1,485 @@
+{
+  "episode": 194,
+  "title": "東京都心、9月は全ての日で降水　観測史上初",
+  "date": "2026-09-30",
+  "source": "tenki.jp / ウェザーニュース / Yahoo!ニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026093001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is September thirtieth. Tokyo has just set a weather record — rain fell every single day of September, a first in one hundred fifty years of record-keeping. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の中心部では、9月1日から30日まで、全ての日で雨などの降水が観測されました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>中心部<rt>ちゅうしんぶ</rt></ruby>では、9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から30<ruby>日<rt>にち</rt></ruby>まで、<ruby>全て<rt>すべて</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>で<ruby>雨<rt>あめ</rt></ruby>などの<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>が<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1か月間、毎日降水があったのは、1876年に統計を取り始めてから、初めてのことです。",
+      "ruby": "1か<ruby>月間<rt>げっかん</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>があったのは、1876<ruby>年<rt>ねん</rt></ruby>に<ruby>統計<rt>とうけい</rt></ruby>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>初めて<rt>はじめて</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "降水というのは、雨や雪など、空から降ってくる水のことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>というのは、<ruby>雨<rt>あめ</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>など、<ruby>空か<rt>あか</rt></ruby>ら<ruby>降っ<rt>ふっ</rt></ruby>てくる<ruby>水<rt>みず</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、東京都心では、8月27日から数えて、35日連続で降水を観測しました。",
+      "ruby": "さらに、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>心<rt>こころ</rt></ruby>では、8<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>から<ruby>数え<rt>かぞえ</rt></ruby>て、35<ruby>日連<rt>にちれん</rt></ruby><ruby>続<rt>ぞく</rt></ruby>で<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでの最長記録は、2019年の33日間でしたが、今年はこの記録を更新しました。",
+      "ruby": "これまでの<ruby>最長<rt>さいちょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>は、2019<ruby>年<rt>ねん</rt></ruby>の33<ruby>日間<rt>にちかん</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby>はこの<ruby>記録<rt>きろく</rt></ruby>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"to break (a record); to renew\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "記録的な長雨の主な原因は、秋雨前線が本州の近くに停滞し続けたことです。",
+      "ruby": "<ruby>記録的<rt>きろくてき</rt></ruby>な<ruby>長雨<rt>ながあめ</rt></ruby>の<ruby>主な<rt>おもな</rt></ruby><ruby>原因<rt>げんいん</rt></ruby>は、<ruby>秋雨<rt>あきさめ</rt></ruby><span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>が<ruby>本州<rt>ほんしゅう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<span class=\"vw\" data-ja=\"停滞\" data-reading=\"ていたい\" data-en=\"to stall; to stay in place\"><ruby>停滞<rt>ていたい</rt></ruby></span>し<ruby>続け<rt>つづけ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、台風24号、25号、26号が、次々と日本に近づいたことも影響しました。",
+      "ruby": "また、<ruby>台風<rt>たいふう</rt></ruby>24<ruby>号<rt>ごう</rt></ruby>、25<ruby>号<rt>ごう</rt></ruby>、26<ruby>号<rt>ごう</rt></ruby>が、<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いたことも<ruby>影響<rt>えいきょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨の日が続いたため、9月の東京の日照時間は、平年の40%ほどしかありませんでした。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>たため、9<ruby>月<rt>がつ</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"日照時間\" data-reading=\"にっしょうじかん\" data-en=\"hours of sunshine\"><ruby>日照<rt>にっしょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"average year; normal year\"><ruby>平年<rt>へいねん</rt></ruby></span>の40%ほどしかありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月の日照時間としては、1988年に次いで、2番目に少なくなる見通しです。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"日照時間\" data-reading=\"にっしょうじかん\" data-en=\"hours of sunshine\"><ruby>日照<rt>にっしょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby></span>としては、1988<ruby>年<rt>ねん</rt></ruby>に<ruby>次いで<rt>ついで</rt></ruby>、2<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>少なく<rt>すくなく</rt></ruby>なる<ruby>見通し<rt>みとおし</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日光が足りないため、野菜の生育が悪くなり、収穫への影響も心配されています。",
+      "ruby": "<ruby>日光<rt>にっこう</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>ないため、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>生育<rt>せいいく</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なり、<span class=\"vw\" data-ja=\"収穫\" data-reading=\"しゅうかく\" data-en=\"harvest\"><ruby>収穫<rt>しゅうかく</rt></ruby></span>への<ruby>影響<rt>えいきょう</rt></ruby>も<ruby>心配<rt>しんぱい</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "30日の東京は、冷たい北風が吹いて、気温は20度くらいまでしか上がりませんでした。",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>は、<ruby>冷たい<rt>つめたい</rt></ruby><ruby>北風<rt>きたかぜ</rt></ruby>が<ruby>吹い<rt>ふい</rt></ruby>て、<ruby>気温<rt>きおん</rt></ruby>は20<ruby>度<rt>ど</rt></ruby>くらいまでしか<ruby>上が<rt>あが</rt></ruby>りませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "昼間でも長袖が必要なほどの肌寒さで、10月を前に、秋が一気に深まりました。",
+      "ruby": "<ruby>昼間<rt>ひるま</rt></ruby>でも<ruby>長袖<rt>ながそで</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なほどの<ruby>肌寒<rt>はださむ</rt></ruby>さで、10<ruby>月<rt>がつ</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>に、<ruby>秋<rt>あき</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に<ruby>深ま<rt>ふかま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天気予報によると、10月3日ごろには秋晴れが戻り、気温も23度くらいまで上がる見込みです。",
+      "ruby": "<ruby>天気予報<rt>てんきよほう</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>ごろには<span class=\"vw\" data-ja=\"秋晴れ\" data-reading=\"あきばれ\" data-en=\"clear autumn weather\"><ruby>秋晴れ<rt>あきばれ</rt></ruby></span>が<ruby>戻り<rt>もどり</rt></ruby>、<ruby>気温<rt>きおん</rt></ruby>も23<ruby>度<rt>ど</rt></ruby>くらいまで<ruby>上が<rt>あが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "週末は久しぶりのおでかけ日和になりそうですが、来週は、また雨の日が多くなりそうです。",
+      "ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>久し<rt>ひさし</rt></ruby>ぶりのおでかけ<ruby>日和<rt>ひより</rt></ruby>になりそうですが、<ruby>来週<rt>らいしゅう</rt></ruby>は、また<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down, sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の中心部では、9月1日から30日まで、全ての日で雨などの降水が観測されました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>中心部<rt>ちゅうしんぶ</rt></ruby>では、9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から30<ruby>日<rt>にち</rt></ruby>まで、<ruby>全て<rt>すべて</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>で<ruby>雨<rt>あめ</rt></ruby>などの<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>が<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In central Tokyo, precipitation was observed every single day from September first to the thirtieth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "降水",
+      "ruby": "<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means precipitation — rain or snow falling from the sky."
+    },
+    {
+      "speaker": "slow",
+      "text": "1か月間、毎日降水があったのは、1876年に統計を取り始めてから、初めてのことです。",
+      "ruby": "1か<ruby>月間<rt>げっかん</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>があったのは、1876<ruby>年<rt>ねん</rt></ruby>に<ruby>統計<rt>とうけい</rt></ruby>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>初めて<rt>はじめて</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the first full month of daily precipitation since record-keeping began in eighteen seventy-six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観測",
+      "ruby": "<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means observation — measuring and recording scientifically."
+    },
+    {
+      "speaker": "slow",
+      "text": "さらに、東京都心では、8月27日から数えて、35日連続で降水を観測しました。",
+      "ruby": "さらに、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>心<rt>こころ</rt></ruby>では、8<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>から<ruby>数え<rt>かぞえ</rt></ruby>て、35<ruby>日連<rt>にちれん</rt></ruby><ruby>続<rt>ぞく</rt></ruby>で<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On top of that, central Tokyo saw thirty-five straight days of precipitation, counting from August twenty-seventh."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連続",
+      "ruby": "<span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consecutive — one after another, without a break."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでの最長記録は、2019年の33日間でしたが、今年はこの記録を更新しました。",
+      "ruby": "これまでの<ruby>最長<rt>さいちょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>は、2019<ruby>年<rt>ねん</rt></ruby>の33<ruby>日間<rt>にちかん</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby>はこの<ruby>記録<rt>きろく</rt></ruby>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"to break (a record); to renew\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The previous record was thirty-three days in twenty nineteen, and this year broke it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "更新",
+      "ruby": "<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"to break (a record); to renew\"><ruby>更新<rt>こうしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to break or renew a record."
+    },
+    {
+      "speaker": "slow",
+      "text": "記録的な長雨の主な原因は、秋雨前線が本州の近くに停滞し続けたことです。",
+      "ruby": "<ruby>記録的<rt>きろくてき</rt></ruby>な<ruby>長雨<rt>ながあめ</rt></ruby>の<ruby>主な<rt>おもな</rt></ruby><ruby>原因<rt>げんいん</rt></ruby>は、<ruby>秋雨<rt>あきさめ</rt></ruby><span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>が<ruby>本州<rt>ほんしゅう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<span class=\"vw\" data-ja=\"停滞\" data-reading=\"ていたい\" data-en=\"to stall; to stay in place\"><ruby>停滞<rt>ていたい</rt></ruby></span>し<ruby>続け<rt>つづけ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The main cause was an autumn rain front that kept sitting near central Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "停滞",
+      "ruby": "<span class=\"vw\" data-ja=\"停滞\" data-reading=\"ていたい\" data-en=\"to stall; to stay in place\"><ruby>停滞<rt>ていたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to stall — to stay in one place without moving."
+    },
+    {
+      "speaker": "slow",
+      "text": "天気予報によると、10月3日ごろには秋晴れが戻り、気温も23度くらいまで上がる見込みです。",
+      "ruby": "<ruby>天気予報<rt>てんきよほう</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>ごろには<span class=\"vw\" data-ja=\"秋晴れ\" data-reading=\"あきばれ\" data-en=\"clear autumn weather\"><ruby>秋晴れ<rt>あきばれ</rt></ruby></span>が<ruby>戻り<rt>もどり</rt></ruby>、<ruby>気温<rt>きおん</rt></ruby>も23<ruby>度<rt>ど</rt></ruby>くらいまで<ruby>上が<rt>あが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The forecast says clear autumn skies return around October third, with temperatures near twenty-three degrees."
+    },
+    {
+      "speaker": "vocab",
+      "text": "秋晴れ",
+      "ruby": "<span class=\"vw\" data-ja=\"秋晴れ\" data-reading=\"あきばれ\" data-en=\"clear autumn weather\"><ruby>秋晴れ<rt>あきばれ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clear autumn weather — a crisp, sunny sky."
+    },
+    {
+      "speaker": "slow",
+      "text": "週末は久しぶりのおでかけ日和になりそうですが、来週は、また雨の日が多くなりそうです。",
+      "ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>久し<rt>ひさし</rt></ruby>ぶりのおでかけ<ruby>日和<rt>ひより</rt></ruby>になりそうですが、<ruby>来週<rt>らいしゅう</rt></ruby>は、また<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weekend looks perfect for going out, but next week brings more rain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おでかけ日和",
+      "ruby": "<span class=\"vw\" data-ja=\"おでかけ日和\" data-reading=\"おでかけびより\" data-en=\"perfect weather for going out\">おでかけ<ruby>日和<rt>ひより</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means perfect weather for going out."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "東京の中心部では、9月1日から30日まで、全ての日で雨などの降水が観測されました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>中心部<rt>ちゅうしんぶ</rt></ruby>では、9<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から30<ruby>日<rt>にち</rt></ruby>まで、<ruby>全て<rt>すべて</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>で<ruby>雨<rt>あめ</rt></ruby>などの<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>が<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1か月間、毎日降水があったのは、1876年に統計を取り始めてから、初めてのことです。",
+      "ruby": "1か<ruby>月間<rt>げっかん</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>があったのは、1876<ruby>年<rt>ねん</rt></ruby>に<ruby>統計<rt>とうけい</rt></ruby>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>初めて<rt>はじめて</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "降水というのは、雨や雪など、空から降ってくる水のことです。",
+      "ruby": "<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>というのは、<ruby>雨<rt>あめ</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>など、<ruby>空か<rt>あか</rt></ruby>ら<ruby>降っ<rt>ふっ</rt></ruby>てくる<ruby>水<rt>みず</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "さらに、東京都心では、8月27日から数えて、35日連続で降水を観測しました。",
+      "ruby": "さらに、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>心<rt>こころ</rt></ruby>では、8<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>から<ruby>数え<rt>かぞえ</rt></ruby>て、35<ruby>日連<rt>にちれん</rt></ruby><ruby>続<rt>ぞく</rt></ruby>で<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでの最長記録は、2019年の33日間でしたが、今年はこの記録を更新しました。",
+      "ruby": "これまでの<ruby>最長<rt>さいちょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>は、2019<ruby>年<rt>ねん</rt></ruby>の33<ruby>日間<rt>にちかん</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby>はこの<ruby>記録<rt>きろく</rt></ruby>を<span class=\"vw\" data-ja=\"更新\" data-reading=\"こうしん\" data-en=\"to break (a record); to renew\"><ruby>更新<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "記録的な長雨の主な原因は、秋雨前線が本州の近くに停滞し続けたことです。",
+      "ruby": "<ruby>記録的<rt>きろくてき</rt></ruby>な<ruby>長雨<rt>ながあめ</rt></ruby>の<ruby>主な<rt>おもな</rt></ruby><ruby>原因<rt>げんいん</rt></ruby>は、<ruby>秋雨<rt>あきさめ</rt></ruby><span class=\"vw\" data-ja=\"前線\" data-reading=\"ぜんせん\" data-en=\"weather front\"><ruby>前線<rt>ぜんせん</rt></ruby></span>が<ruby>本州<rt>ほんしゅう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<span class=\"vw\" data-ja=\"停滞\" data-reading=\"ていたい\" data-en=\"to stall; to stay in place\"><ruby>停滞<rt>ていたい</rt></ruby></span>し<ruby>続け<rt>つづけ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、台風24号、25号、26号が、次々と日本に近づいたことも影響しました。",
+      "ruby": "また、<ruby>台風<rt>たいふう</rt></ruby>24<ruby>号<rt>ごう</rt></ruby>、25<ruby>号<rt>ごう</rt></ruby>、26<ruby>号<rt>ごう</rt></ruby>が、<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>いたことも<ruby>影響<rt>えいきょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨の日が続いたため、9月の東京の日照時間は、平年の40%ほどしかありませんでした。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>たため、9<ruby>月<rt>がつ</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"日照時間\" data-reading=\"にっしょうじかん\" data-en=\"hours of sunshine\"><ruby>日照<rt>にっしょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"average year; normal year\"><ruby>平年<rt>へいねん</rt></ruby></span>の40%ほどしかありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月の日照時間としては、1988年に次いで、2番目に少なくなる見通しです。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"日照時間\" data-reading=\"にっしょうじかん\" data-en=\"hours of sunshine\"><ruby>日照<rt>にっしょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby></span>としては、1988<ruby>年<rt>ねん</rt></ruby>に<ruby>次いで<rt>ついで</rt></ruby>、2<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>少なく<rt>すくなく</rt></ruby>なる<ruby>見通し<rt>みとおし</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日光が足りないため、野菜の生育が悪くなり、収穫への影響も心配されています。",
+      "ruby": "<ruby>日光<rt>にっこう</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>ないため、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>生育<rt>せいいく</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なり、<span class=\"vw\" data-ja=\"収穫\" data-reading=\"しゅうかく\" data-en=\"harvest\"><ruby>収穫<rt>しゅうかく</rt></ruby></span>への<ruby>影響<rt>えいきょう</rt></ruby>も<ruby>心配<rt>しんぱい</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "30日の東京は、冷たい北風が吹いて、気温は20度くらいまでしか上がりませんでした。",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>は、<ruby>冷たい<rt>つめたい</rt></ruby><ruby>北風<rt>きたかぜ</rt></ruby>が<ruby>吹い<rt>ふい</rt></ruby>て、<ruby>気温<rt>きおん</rt></ruby>は20<ruby>度<rt>ど</rt></ruby>くらいまでしか<ruby>上が<rt>あが</rt></ruby>りませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "昼間でも長袖が必要なほどの肌寒さで、10月を前に、秋が一気に深まりました。",
+      "ruby": "<ruby>昼間<rt>ひるま</rt></ruby>でも<ruby>長袖<rt>ながそで</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なほどの<ruby>肌寒<rt>はださむ</rt></ruby>さで、10<ruby>月<rt>がつ</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>に、<ruby>秋<rt>あき</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に<ruby>深ま<rt>ふかま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天気予報によると、10月3日ごろには秋晴れが戻り、気温も23度くらいまで上がる見込みです。",
+      "ruby": "<ruby>天気予報<rt>てんきよほう</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>ごろには<span class=\"vw\" data-ja=\"秋晴れ\" data-reading=\"あきばれ\" data-en=\"clear autumn weather\"><ruby>秋晴れ<rt>あきばれ</rt></ruby></span>が<ruby>戻り<rt>もどり</rt></ruby>、<ruby>気温<rt>きおん</rt></ruby>も23<ruby>度<rt>ど</rt></ruby>くらいまで<ruby>上が<rt>あが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "週末は久しぶりのおでかけ日和になりそうですが、来週は、また雨の日が多くなりそうです。",
+      "ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>久し<rt>ひさし</rt></ruby>ぶりのおでかけ<ruby>日和<rt>ひより</rt></ruby>になりそうですが、<ruby>来週<rt>らいしゅう</rt></ruby>は、また<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Time for a short quiz. Listen and try to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京都心では、何日連続で降水を観測しましたか。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>心<rt>こころ</rt></ruby>では、<ruby>何日<rt>なんにち</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive; in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>で<span class=\"vw\" data-ja=\"降水\" data-reading=\"こうすい\" data-en=\"precipitation (rain or snow)\"><ruby>降水<rt>こうすい</rt></ruby></span>を<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (scientific)\"><ruby>観測<rt>かんそく</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty-five days in a row — the longest ever recorded."
+    },
+    {
+      "speaker": "slow",
+      "text": "記録的な長雨の主な原因は、何ですか。",
+      "ruby": "<ruby>記録的<rt>きろくてき</rt></ruby>な<ruby>長雨<rt>ながあめ</rt></ruby>の<ruby>主な<rt>おもな</rt></ruby><ruby>原因<rt>げんいん</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "An autumn rain front that stalled near Japan, plus a string of typhoons."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月3日ごろの天気は、どうなる見込みですか。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>ごろの<ruby>天気<rt>てんき</rt></ruby>は、どうなる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"outlook; expectation\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Clear autumn skies, with temperatures around twenty-three degrees."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. After thirty-five days of rain, Tokyo is finally about to see the sun again. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "降水",
+      "reading": "こうすい",
+      "en": "precipitation (rain or snow)",
+      "zh": "降水"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation (scientific)",
+      "zh": "观测"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "consecutive; in a row",
+      "zh": "连续"
+    },
+    {
+      "ja": "更新",
+      "reading": "こうしん",
+      "en": "to break (a record); to renew",
+      "zh": "刷新（纪录）；更新"
+    },
+    {
+      "ja": "停滞",
+      "reading": "ていたい",
+      "en": "to stall; to stay in place",
+      "zh": "停滞"
+    },
+    {
+      "ja": "前線",
+      "reading": "ぜんせん",
+      "en": "weather front",
+      "zh": "锋面（天气）"
+    },
+    {
+      "ja": "日照時間",
+      "reading": "にっしょうじかん",
+      "en": "hours of sunshine",
+      "zh": "日照时间"
+    },
+    {
+      "ja": "平年",
+      "reading": "へいねん",
+      "en": "average year; normal year",
+      "zh": "常年；平年"
+    },
+    {
+      "ja": "収穫",
+      "reading": "しゅうかく",
+      "en": "harvest",
+      "zh": "收获；收成"
+    },
+    {
+      "ja": "肌寒い",
+      "reading": "はだざむい",
+      "en": "chilly",
+      "zh": "微寒；有点冷"
+    },
+    {
+      "ja": "秋晴れ",
+      "reading": "あきばれ",
+      "en": "clear autumn weather",
+      "zh": "秋高气爽的晴天"
+    },
+    {
+      "ja": "おでかけ日和",
+      "reading": "おでかけびより",
+      "en": "perfect weather for going out",
+      "zh": "适合出门的好天气"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "outlook; expectation",
+      "zh": "预计；预期"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てから",
+      "meaning": "since doing ~; after doing ~",
+      "meaningZh": "自…之后；…以来",
+      "formation": "verb te-form + から",
+      "example": "1か月間、毎日降水があったのは、1876年に統計を取り始めてから、初めてのことです。",
+      "translation": "It is the first time since they started keeping statistics in 1876 that there has been precipitation every day for a whole month.",
+      "note": "統計を取り始めてから = since they started keeping statistics; てから marks the starting point of a period of time",
+      "noteZh": "統計を取り始めてから＝自开始统计以来；てから表示一段时间的起点",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てから"
+    },
+    {
+      "pattern": "〜続ける",
+      "meaning": "to keep doing ~",
+      "meaningZh": "持续…；一直…",
+      "formation": "verb masu-stem + 続ける",
+      "example": "記録的な長雨の主な原因は、秋雨前線が本州の近くに停滞し続けたことです。",
+      "translation": "The main cause of the record-breaking long rain was an autumn rain front that kept stalling near Honshu.",
+      "note": "停滞し続ける = to keep stalling in place; 続ける attaches to the masu-stem to show an action continues without stopping",
+      "noteZh": "停滞し続ける＝持续停滞；続ける接ます形词干，表示动作不间断地持续",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#つづける"
+    },
+    {
+      "pattern": "〜見込みです",
+      "meaning": "is expected to ~",
+      "meaningZh": "预计…；有望…",
+      "formation": "plain-form clause + 見込みです",
+      "example": "天気予報によると、10月3日ごろには秋晴れが戻り、気温も23度くらいまで上がる見込みです。",
+      "translation": "According to the weather forecast, clear autumn skies will return around October 3, and temperatures are expected to rise to about 23 degrees.",
+      "note": "News Japanese uses 見込み for forecasts and expectations; 見通し, which also appears in this story, is a close synonym",
+      "noteZh": "新闻日语常用見込み表示预计、预期；本篇中出现的見通し是它的近义词",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#みこみ"
+    }
+  ],
+  "practiceZh": [
+    "東京の中心部では、9月1日から30日まで、全ての日で雨などの降水が観測されました。\n在东京市中心，从9月1日到30日，每一天都观测到了降水。\n降水 = 降水；観測する = 观测",
+    "1か月間、毎日降水があったのは、1876年に統計を取り始めてから、初めてのことです。\n一个月里每天都有降水，这是自1876年开始统计以来的第一次。\n統計 = 统计；〜てから = 自…以来",
+    "さらに、東京都心では、8月27日から数えて、35日連続で降水を観測しました。\n而且，东京市中心从8月27日算起，连续35天观测到降水。\n連続 = 连续；数える = 数、计算",
+    "記録的な長雨の主な原因は、秋雨前線が本州の近くに停滞し続けたことです。\n创纪录的连绵长雨，主要原因是秋雨锋面一直停留在本州附近。\n停滞する = 停滞；〜し続ける = 持续…",
+    "雨の日が続いたため、9月の東京の日照時間は、平年の40%ほどしかありませんでした。\n因为雨天不断，9月东京的日照时间只有常年的40%左右。\n日照時間 = 日照时间；平年 = 常年",
+    "天気予報によると、10月3日ごろには秋晴れが戻り、気温も23度くらいまで上がる見込みです。\n据天气预报，10月3日前后将恢复秋高气爽的晴天，气温也有望升到23度左右。\n秋晴れ = 秋日晴天；見込み = 预计"
+  ]
+}
