@@ -1,0 +1,518 @@
+{
+  "episode": 197,
+  "title": "ビールの税金が下がり、1本9円ほど安く",
+  "date": "2026-10-02",
+  "source": "東京新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026100201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October second. This morning: beer in Japan just got a little cheaper. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月1日から、ビールの税金が安くなりました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、ビールの<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "350ミリリットルの缶1本の税金は、およそ63円から54円になりました。",
+      "ruby": "350ミリリットルの<span class=\"vw\" data-ja=\"缶\" data-reading=\"かん\" data-en=\"can\"><ruby>缶<rt>かん</rt></ruby></span>1<ruby>本<rt>ほん</rt></ruby>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、およそ63<ruby>円<rt>えん</rt></ruby>から54<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1本で、9円ぐらい安くなりました。",
+      "ruby": "1<ruby>本<rt>ほん</rt></ruby>で、9<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "発泡酒や「第3のビール」は、ビールより安いお酒ですが、税金は7円ぐらい高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>や「<ruby>第<rt>だい</rt></ruby>3のビール」は、ビールより<ruby>安い<rt>やすい</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>ですが、<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は7<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これで、ビールと発泡酒と「第3のビール」の税金は、全部同じになりました。",
+      "ruby": "これで、ビールと<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>と「<ruby>第<rt>だい</rt></ruby>3のビール」の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all\"><ruby>全部<rt>ぜんぶ</rt></ruby></span><span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国は、同じようなお酒なのに税金が違うのはよくないと考えて、2020年から少しずつ税金を変えてきました。",
+      "ruby": "<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country, government\"><ruby>国<rt>くに</rt></ruby></span>は、<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>ようなお<ruby>酒<rt>さけ</rt></ruby>なのに<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to differ\"><ruby>違う<rt>ちがう</rt></ruby></span>のはよくないと<ruby>考え<rt>かんがえ</rt></ruby>て、2020<ruby>年<rt>ねん</rt></ruby>から<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コンビニでは、「スーパードライ」や「一番搾り」などのビールの値段が、1本10円ぐらい安くなりそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"コンビニ\" data-reading=\"こんびに\" data-en=\"convenience store\">コンビニ</span>では、「スーパードライ」や「<ruby>一番<rt>いちばん</rt></ruby><ruby>搾り<rt>しぼり</rt></ruby>」などのビールの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、1<ruby>本<rt>ほん</rt></ruby>10<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>安く<rt>やすく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "チューハイの税金も、1本7円高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"チューハイ\" data-reading=\"ちゅーはい\" data-en=\"canned shochu highball\">チューハイ</span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>も、1<ruby>本<rt>ほん</rt></ruby>7<ruby>円高<rt>えんだか</rt></ruby>くなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本酒の税金は、変わりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本酒\" data-reading=\"にほんしゅ\" data-en=\"sake\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月1日から、ビールの税金が安くなりました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、ビールの<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October first, the tax on beer went down."
+    },
+    {
+      "speaker": "vocab",
+      "text": "税金",
+      "ruby": "<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tax."
+    },
+    {
+      "speaker": "slow",
+      "text": "350ミリリットルの缶1本の税金は、およそ63円から54円になりました。",
+      "ruby": "350ミリリットルの<span class=\"vw\" data-ja=\"缶\" data-reading=\"かん\" data-en=\"can\"><ruby>缶<rt>かん</rt></ruby></span>1<ruby>本<rt>ほん</rt></ruby>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、およそ63<ruby>円<rt>えん</rt></ruby>から54<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tax on one three-hundred-fifty milliliter can went from about sixty-three yen to fifty-four yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "缶",
+      "ruby": "<span class=\"vw\" data-ja=\"缶\" data-reading=\"かん\" data-en=\"can\"><ruby>缶<rt>かん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a can."
+    },
+    {
+      "speaker": "slow",
+      "text": "1本で、9円ぐらい安くなりました。",
+      "ruby": "1<ruby>本<rt>ほん</rt></ruby>で、9<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is about nine yen cheaper per can."
+    },
+    {
+      "speaker": "vocab",
+      "text": "安くなる",
+      "ruby": "<span class=\"vw\" data-ja=\"安くなる\" data-reading=\"やすくなる\" data-en=\"to become cheaper\"><ruby>安く<rt>やすく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to become cheaper."
+    },
+    {
+      "speaker": "slow",
+      "text": "発泡酒や「第3のビール」は、ビールより安いお酒ですが、税金は7円ぐらい高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>や「<ruby>第<rt>だい</rt></ruby>3のビール」は、ビールより<ruby>安い<rt>やすい</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>ですが、<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は7<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Low-malt beer and so-called third beer are cheaper than beer, but their tax went up by about seven yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発泡酒",
+      "ruby": "<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means low-malt beer, a cheaper beer-like drink."
+    },
+    {
+      "speaker": "slow",
+      "text": "これで、ビールと発泡酒と「第3のビール」の税金は、全部同じになりました。",
+      "ruby": "これで、ビールと<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>と「<ruby>第<rt>だい</rt></ruby>3のビール」の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all\"><ruby>全部<rt>ぜんぶ</rt></ruby></span><span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now beer, low-malt beer, and third beer all have the same tax."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全部",
+      "ruby": "<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all\"><ruby>全部<rt>ぜんぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all, everything."
+    },
+    {
+      "speaker": "slow",
+      "text": "国は、同じようなお酒なのに税金が違うのはよくないと考えて、2020年から少しずつ税金を変えてきました。",
+      "ruby": "<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country, government\"><ruby>国<rt>くに</rt></ruby></span>は、<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>ようなお<ruby>酒<rt>さけ</rt></ruby>なのに<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to differ\"><ruby>違う<rt>ちがう</rt></ruby></span>のはよくないと<ruby>考え<rt>かんがえ</rt></ruby>て、2020<ruby>年<rt>ねん</rt></ruby>から<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government thought it was unfair for similar drinks to have different taxes, so it has been changing the tax little by little since twenty twenty."
+    },
+    {
+      "speaker": "vocab",
+      "text": "少しずつ",
+      "ruby": "<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means little by little."
+    },
+    {
+      "speaker": "slow",
+      "text": "コンビニでは、「スーパードライ」や「一番搾り」などのビールの値段が、1本10円ぐらい安くなりそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"コンビニ\" data-reading=\"こんびに\" data-en=\"convenience store\">コンビニ</span>では、「スーパードライ」や「<ruby>一番<rt>いちばん</rt></ruby><ruby>搾り<rt>しぼり</rt></ruby>」などのビールの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、1<ruby>本<rt>ほん</rt></ruby>10<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>安く<rt>やすく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "At convenience stores, major beers like Super Dry and Ichiban Shibori will likely be about ten yen cheaper per can."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "チューハイの税金も、1本7円高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"チューハイ\" data-reading=\"ちゅーはい\" data-en=\"canned shochu highball\">チューハイ</span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>も、1<ruby>本<rt>ほん</rt></ruby>7<ruby>円高<rt>えんだか</rt></ruby>くなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tax on canned shochu highballs also went up by seven yen per can."
+    },
+    {
+      "speaker": "vocab",
+      "text": "チューハイ",
+      "ruby": "<span class=\"vw\" data-ja=\"チューハイ\" data-reading=\"ちゅーはい\" data-en=\"canned shochu highball\">チューハイ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a canned shochu highball, a fruity alcoholic drink."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本酒の税金は、変わりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本酒\" data-reading=\"にほんしゅ\" data-en=\"sake\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tax on sake does not change."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変わる",
+      "ruby": "<span class=\"vw\" data-ja=\"変わる\" data-reading=\"かわる\" data-en=\"to change\"><ruby>変わ<rt>かわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to change."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月1日から、ビールの税金が安くなりました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、ビールの<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "350ミリリットルの缶1本の税金は、およそ63円から54円になりました。",
+      "ruby": "350ミリリットルの<span class=\"vw\" data-ja=\"缶\" data-reading=\"かん\" data-en=\"can\"><ruby>缶<rt>かん</rt></ruby></span>1<ruby>本<rt>ほん</rt></ruby>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、およそ63<ruby>円<rt>えん</rt></ruby>から54<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1本で、9円ぐらい安くなりました。",
+      "ruby": "1<ruby>本<rt>ほん</rt></ruby>で、9<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>安く<rt>やすく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "発泡酒や「第3のビール」は、ビールより安いお酒ですが、税金は7円ぐらい高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>や「<ruby>第<rt>だい</rt></ruby>3のビール」は、ビールより<ruby>安い<rt>やすい</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>ですが、<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は7<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これで、ビールと発泡酒と「第3のビール」の税金は、全部同じになりました。",
+      "ruby": "これで、ビールと<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>と「<ruby>第<rt>だい</rt></ruby>3のビール」の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all\"><ruby>全部<rt>ぜんぶ</rt></ruby></span><span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国は、同じようなお酒なのに税金が違うのはよくないと考えて、2020年から少しずつ税金を変えてきました。",
+      "ruby": "<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country, government\"><ruby>国<rt>くに</rt></ruby></span>は、<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>ようなお<ruby>酒<rt>さけ</rt></ruby>なのに<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to differ\"><ruby>違う<rt>ちがう</rt></ruby></span>のはよくないと<ruby>考え<rt>かんがえ</rt></ruby>て、2020<ruby>年<rt>ねん</rt></ruby>から<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "コンビニでは、「スーパードライ」や「一番搾り」などのビールの値段が、1本10円ぐらい安くなりそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"コンビニ\" data-reading=\"こんびに\" data-en=\"convenience store\">コンビニ</span>では、「スーパードライ」や「<ruby>一番<rt>いちばん</rt></ruby><ruby>搾り<rt>しぼり</rt></ruby>」などのビールの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、1<ruby>本<rt>ほん</rt></ruby>10<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>安く<rt>やすく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "チューハイの税金も、1本7円高くなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"チューハイ\" data-reading=\"ちゅーはい\" data-en=\"canned shochu highball\">チューハイ</span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>も、1<ruby>本<rt>ほん</rt></ruby>7<ruby>円高<rt>えんだか</rt></ruby>くなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本酒の税金は、変わりません。",
+      "ruby": "<span class=\"vw\" data-ja=\"日本酒\" data-reading=\"にほんしゅ\" data-en=\"sake\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月1日から、何の税金が安くなりましたか。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<ruby>安く<rt>やすく</rt></ruby>なりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tax on beer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビールの税金は、1本でいくらぐらい安くなりましたか。",
+      "ruby": "ビールの<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、1<ruby>本<rt>ほん</rt></ruby>でいくらぐらい<ruby>安く<rt>やすく</rt></ruby>なりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About nine yen per can."
+    },
+    {
+      "speaker": "slow",
+      "text": "コンビニでは、ビールの値段はどうなりそうですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"コンビニ\" data-reading=\"こんびに\" data-en=\"convenience store\">コンビニ</span>では、ビールの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>はどうなりそうですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It will likely be about ten yen cheaper per can."
+    },
+    {
+      "speaker": "slow",
+      "text": "発泡酒の税金は、どうなりましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"発泡酒\" data-reading=\"はっぽうしゅ\" data-en=\"low-malt beer\"><ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby></span>の<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>は、どうなりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It went up by about seven yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "国は、いつから少しずつ税金を変えてきましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"国\" data-reading=\"くに\" data-en=\"country, government\"><ruby>国<rt>くに</rt></ruby></span>は、いつから<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>変え<rt>かえ</rt></ruby>てきましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since twenty twenty."
+    },
+    {
+      "speaker": "slow",
+      "text": "税金が変わらないお酒は、何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"税金\" data-reading=\"ぜいきん\" data-en=\"tax\"><ruby>税金<rt>ぜいきん</rt></ruby></span>が<ruby>変わ<rt>かわ</rt></ruby>らないお<ruby>酒<rt>さけ</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sake."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "税金",
+      "reading": "ぜいきん",
+      "en": "tax",
+      "zh": "税金"
+    },
+    {
+      "ja": "缶",
+      "reading": "かん",
+      "en": "can",
+      "zh": "罐"
+    },
+    {
+      "ja": "安くなる",
+      "reading": "やすくなる",
+      "en": "to become cheaper",
+      "zh": "变便宜"
+    },
+    {
+      "ja": "発泡酒",
+      "reading": "はっぽうしゅ",
+      "en": "low-malt beer",
+      "zh": "发泡酒"
+    },
+    {
+      "ja": "仲間",
+      "reading": "なかま",
+      "en": "group, same kind",
+      "zh": "同类，伙伴"
+    },
+    {
+      "ja": "全部",
+      "reading": "ぜんぶ",
+      "en": "all",
+      "zh": "全部"
+    },
+    {
+      "ja": "同じ",
+      "reading": "おなじ",
+      "en": "same",
+      "zh": "相同"
+    },
+    {
+      "ja": "国",
+      "reading": "くに",
+      "en": "country, government",
+      "zh": "国家"
+    },
+    {
+      "ja": "少しずつ",
+      "reading": "すこしずつ",
+      "en": "little by little",
+      "zh": "一点一点地"
+    },
+    {
+      "ja": "違う",
+      "reading": "ちがう",
+      "en": "to differ",
+      "zh": "不同"
+    },
+    {
+      "ja": "コンビニ",
+      "reading": "こんびに",
+      "en": "convenience store",
+      "zh": "便利店"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "チューハイ",
+      "reading": "ちゅーはい",
+      "en": "canned shochu highball",
+      "zh": "烧酒嗨棒（罐装果味酒）"
+    },
+    {
+      "ja": "日本酒",
+      "reading": "にほんしゅ",
+      "en": "sake",
+      "zh": "日本酒，清酒"
+    },
+    {
+      "ja": "変わる",
+      "reading": "かわる",
+      "en": "to change",
+      "zh": "改变，变化"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜くなる",
+      "meaning": "to become ~ (i-adjective)",
+      "meaningZh": "变得……（い形容词）",
+      "formation": "i-adjective stem + くなる",
+      "example": "10月1日から、ビールの税金が安くなりました。",
+      "translation": "On October first, the tax on beer went down.",
+      "note": "Drop the final い of an i-adjective and add くなる to show change: 安い → 安くなる (become cheaper), 高い → 高くなる.",
+      "noteZh": "去掉い形容词词尾的「い」，加上「くなる」表示变化：安い→安くなる（变便宜），高い→高くなる（变贵）。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#なる"
+    },
+    {
+      "pattern": "〜てきました",
+      "meaning": "have been doing ~ (up to now)",
+      "meaningZh": "一直……（到现在）",
+      "formation": "verb て-form + きました",
+      "example": "国は、同じようなお酒なのに税金が違うのはよくないと考えて、2020年から少しずつ税金を変えてきました。",
+      "translation": "The government thought it was unfair for similar drinks to have different taxes, so it has been changing the tax little by little since twenty twenty.",
+      "note": "てくる shows an action that continued from the past up to now.",
+      "noteZh": "「てくる」表示从过去一直持续到现在的动作。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜そうです",
+      "meaning": "looks like ~, likely to ~",
+      "meaningZh": "好像要……，可能会……",
+      "formation": "verb stem / adjective stem + そうです",
+      "example": "コンビニでは、「スーパードライ」や「一番搾り」などのビールの値段が、1本10円ぐらい安くなりそうです。",
+      "translation": "At convenience stores, major beers like Super Dry and Ichiban Shibori will likely be about ten yen cheaper per can.",
+      "note": "Attached to a verb stem, そうです means something is likely to happen: なる → なりそうです.",
+      "noteZh": "接在动词连用形后，表示可能会发生：なる→なりそうです。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#そうだ"
+    }
+  ],
+  "practiceZh": [
+    "10月1日から、ビールの税金が安くなりました。\n从10月1日起，啤酒的税变便宜了。\n税金 = tax",
+    "350ミリリットルの缶1本の税金は、およそ63円から54円になりました。\n一罐350毫升啤酒的税从约63日元降到了54日元。\n缶 = can",
+    "1本で、9円ぐらい安くなりました。\n每罐便宜了大约9日元。\n安くなる = to become cheaper",
+    "発泡酒や「第3のビール」は、ビールより安いお酒ですが、税金は7円ぐらい高くなりました。\n发泡酒和\"第三类啤酒\"是比啤酒便宜的酒，但税提高了大约7日元。\n発泡酒 = low-malt beer",
+    "これで、ビールと発泡酒と「第3のビール」の税金は、全部同じになりました。\n这样一来，啤酒、发泡酒和\"第三类啤酒\"的税全部相同了。\n全部 = all",
+    "国は、同じようなお酒なのに税金が違うのはよくないと考えて、2020年から少しずつ税金を変えてきました。\n国家认为相似的酒税却不同是不好的，所以从2020年起一点一点地调整了税率。\n少しずつ = little by little",
+    "コンビニでは、「スーパードライ」や「一番搾り」などのビールの値段が、1本10円ぐらい安くなりそうです。\n在便利店，\"Super Dry\"\"一番榨\"等啤酒的价格每罐可能会便宜大约10日元。\n値段 = price",
+    "チューハイの税金も、1本7円高くなりました。\n烧酒嗨棒的税每罐也提高了7日元。\nチューハイ = canned shochu highball",
+    "日本酒の税金は、変わりません。\n日本酒的税不变。\n変わる = to change"
+  ]
+}
