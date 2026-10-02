@@ -1,0 +1,491 @@
+{
+  "episode": 199,
+  "title": "上司を「さん」で呼ぶのがいい、4人に1人",
+  "date": "2026-10-03",
+  "source": "文化庁 / NHK / 時事通信 / テレビ朝日",
+  "level": "N5-N4",
+  "contentVersion": "2026100301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October third. This morning: a new survey on how people in Japan call their bosses, and how they feel about handwriting. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化庁は10月2日、日本語についての調査の結果を発表しました。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>についての<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査は今年の1月から3月まで行われ、16歳以上の3777人が答えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から3<ruby>月<rt>がつ</rt></ruby>まで<ruby>行わ<rt>おこなわ</rt></ruby>れ、16<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の3777<ruby>人<rt>ひと</rt></ruby>が<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の上司を何と呼ぶのがいいか、という質問がありました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"上司\" data-reading=\"じょうし\" data-en=\"boss, superior\"><ruby>上司<rt>じょうし</rt></ruby></span>を<ruby>何と<rt>なんと</rt></ruby><span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいか、という<ruby>質問<rt>しつもん</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「課長」などではなく、「山田さん」のように、名前に「さん」をつけて呼ぶのがいいと答えた人は、25%でした。",
+      "ruby": "「<ruby>課長<rt>かちょう</rt></ruby>」などではなく、「<ruby>山田<rt>やまだ</rt></ruby>さん」のように、<ruby>名前<rt>なまえ</rt></ruby>に「さん」をつけて<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいと<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、25%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "30年前の調査より、17ポイントぐらい増えました。",
+      "ruby": "30<ruby>年前<rt>ねんまえ</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>より、17ポイントぐらい<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "手で字を書くことについても聞きました。",
+      "ruby": "<ruby>手で<rt>てで</rt></ruby><span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>を<ruby>書く<rt>かく</rt></ruby>ことについても<ruby>聞き<rt>きき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎日の生活で、手で字を書くことが「ある」と答えた人は、69.6%でした。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<span class=\"vw\" data-ja=\"生活\" data-reading=\"せいかつ\" data-en=\"daily life\"><ruby>生活<rt>せいかつ</rt></ruby></span>で、<ruby>手で<rt>てで</rt></ruby><span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>を<ruby>書く<rt>かく</rt></ruby>ことが「ある」と<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、69.6%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、80.4%の人が、手で書く習慣を大切にしたほうがいいと答えました。",
+      "ruby": "そして、80.4%の<ruby>人<rt>ひと</rt></ruby>が、<ruby>手で<rt>てで</rt></ruby><ruby>書く<rt>かく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"habit, custom\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>にしたほうがいいと<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化庁は、手で書いた字には、書いた人の個性が出るからだろうと話しています。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は、<ruby>手で<rt>てで</rt></ruby><ruby>書い<rt>かい</rt></ruby>た<span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>には、<ruby>書い<rt>かい</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"個性\" data-reading=\"こせい\" data-en=\"personality, individuality\"><ruby>個性<rt>こせい</rt></ruby></span>が<ruby>出る<rt>でる</rt></ruby>からだろうと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "文化庁は10月2日、日本語についての調査の結果を発表しました。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>についての<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Agency for Cultural Affairs announced the results of a survey about the Japanese language on October second."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "調査は今年の1月から3月まで行われ、16歳以上の3777人が答えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から3<ruby>月<rt>がつ</rt></ruby>まで<ruby>行わ<rt>おこなわ</rt></ruby>れ、16<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の3777<ruby>人<rt>ひと</rt></ruby>が<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The survey was done from January to March this year, and three thousand seven hundred seventy-seven people aged sixteen and over answered."
+    },
+    {
+      "speaker": "vocab",
+      "text": "答える",
+      "ruby": "<span class=\"vw\" data-ja=\"答える\" data-reading=\"こたえる\" data-en=\"to answer\"><ruby>答え<rt>こたえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社の上司を何と呼ぶのがいいか、という質問がありました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"上司\" data-reading=\"じょうし\" data-en=\"boss, superior\"><ruby>上司<rt>じょうし</rt></ruby></span>を<ruby>何と<rt>なんと</rt></ruby><span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいか、という<ruby>質問<rt>しつもん</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "One question asked what is the best way to call your boss at work."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上司",
+      "ruby": "<span class=\"vw\" data-ja=\"上司\" data-reading=\"じょうし\" data-en=\"boss, superior\"><ruby>上司<rt>じょうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means your boss, a person above you at work."
+    },
+    {
+      "speaker": "slow",
+      "text": "「課長」などではなく、「山田さん」のように、名前に「さん」をつけて呼ぶのがいいと答えた人は、25%でした。",
+      "ruby": "「<ruby>課長<rt>かちょう</rt></ruby>」などではなく、「<ruby>山田<rt>やまだ</rt></ruby>さん」のように、<ruby>名前<rt>なまえ</rt></ruby>に「さん」をつけて<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいと<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、25%でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twenty-five percent said it is best to call a boss by name with the polite ending, like Mr. Yamada, and not by a job title like section chief."
+    },
+    {
+      "speaker": "vocab",
+      "text": "つける",
+      "ruby": "<span class=\"vw\" data-ja=\"つける\" data-reading=\"つける\" data-en=\"to attach, to add\">つける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to attach, or to add."
+    },
+    {
+      "speaker": "slow",
+      "text": "30年前の調査より、17ポイントぐらい増えました。",
+      "ruby": "30<ruby>年前<rt>ねんまえ</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>より、17ポイントぐらい<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is about seventeen points more than in a survey thirty years ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "手で字を書くことについても聞きました。",
+      "ruby": "<ruby>手で<rt>てで</rt></ruby><span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>を<ruby>書く<rt>かく</rt></ruby>ことについても<ruby>聞き<rt>きき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The survey also asked about writing by hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "字",
+      "ruby": "<span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a written character, or handwriting."
+    },
+    {
+      "speaker": "slow",
+      "text": "毎日の生活で、手で字を書くことが「ある」と答えた人は、69.6%でした。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<span class=\"vw\" data-ja=\"生活\" data-reading=\"せいかつ\" data-en=\"daily life\"><ruby>生活<rt>せいかつ</rt></ruby></span>で、<ruby>手で<rt>てで</rt></ruby><span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>を<ruby>書く<rt>かく</rt></ruby>ことが「ある」と<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、69.6%でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty-nine point six percent said they write by hand in their daily life."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生活",
+      "ruby": "<span class=\"vw\" data-ja=\"生活\" data-reading=\"せいかつ\" data-en=\"daily life\"><ruby>生活<rt>せいかつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means daily life, or living."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、80.4%の人が、手で書く習慣を大切にしたほうがいいと答えました。",
+      "ruby": "そして、80.4%の<ruby>人<rt>ひと</rt></ruby>が、<ruby>手で<rt>てで</rt></ruby><ruby>書く<rt>かく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"habit, custom\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>にしたほうがいいと<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "And eighty point four percent said we should value the habit of writing by hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "習慣",
+      "ruby": "<span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"habit, custom\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a habit, or custom."
+    },
+    {
+      "speaker": "slow",
+      "text": "文化庁は、手で書いた字には、書いた人の個性が出るからだろうと話しています。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は、<ruby>手で<rt>てで</rt></ruby><ruby>書い<rt>かい</rt></ruby>た<span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>には、<ruby>書い<rt>かい</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"個性\" data-reading=\"こせい\" data-en=\"personality, individuality\"><ruby>個性<rt>こせい</rt></ruby></span>が<ruby>出る<rt>でる</rt></ruby>からだろうと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency says this is probably because handwriting shows the writer's personality."
+    },
+    {
+      "speaker": "vocab",
+      "text": "個性",
+      "ruby": "<span class=\"vw\" data-ja=\"個性\" data-reading=\"こせい\" data-en=\"personality, individuality\"><ruby>個性<rt>こせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means personality, or individuality."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化庁は10月2日、日本語についての調査の結果を発表しました。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>についての<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査は今年の1月から3月まで行われ、16歳以上の3777人が答えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から3<ruby>月<rt>がつ</rt></ruby>まで<ruby>行わ<rt>おこなわ</rt></ruby>れ、16<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の3777<ruby>人<rt>ひと</rt></ruby>が<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の上司を何と呼ぶのがいいか、という質問がありました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"上司\" data-reading=\"じょうし\" data-en=\"boss, superior\"><ruby>上司<rt>じょうし</rt></ruby></span>を<ruby>何と<rt>なんと</rt></ruby><span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいか、という<ruby>質問<rt>しつもん</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「課長」などではなく、「山田さん」のように、名前に「さん」をつけて呼ぶのがいいと答えた人は、25%でした。",
+      "ruby": "「<ruby>課長<rt>かちょう</rt></ruby>」などではなく、「<ruby>山田<rt>やまだ</rt></ruby>さん」のように、<ruby>名前<rt>なまえ</rt></ruby>に「さん」をつけて<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいと<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、25%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "30年前の調査より、17ポイントぐらい増えました。",
+      "ruby": "30<ruby>年前<rt>ねんまえ</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>より、17ポイントぐらい<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "手で字を書くことについても聞きました。",
+      "ruby": "<ruby>手で<rt>てで</rt></ruby><span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>を<ruby>書く<rt>かく</rt></ruby>ことについても<ruby>聞き<rt>きき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎日の生活で、手で字を書くことが「ある」と答えた人は、69.6%でした。",
+      "ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<span class=\"vw\" data-ja=\"生活\" data-reading=\"せいかつ\" data-en=\"daily life\"><ruby>生活<rt>せいかつ</rt></ruby></span>で、<ruby>手で<rt>てで</rt></ruby><span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>を<ruby>書く<rt>かく</rt></ruby>ことが「ある」と<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、69.6%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、80.4%の人が、手で書く習慣を大切にしたほうがいいと答えました。",
+      "ruby": "そして、80.4%の<ruby>人<rt>ひと</rt></ruby>が、<ruby>手で<rt>てで</rt></ruby><ruby>書く<rt>かく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"habit, custom\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>にしたほうがいいと<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化庁は、手で書いた字には、書いた人の個性が出るからだろうと話しています。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は、<ruby>手で<rt>てで</rt></ruby><ruby>書い<rt>かい</rt></ruby>た<span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>には、<ruby>書い<rt>かい</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"個性\" data-reading=\"こせい\" data-en=\"personality, individuality\"><ruby>個性<rt>こせい</rt></ruby></span>が<ruby>出る<rt>でる</rt></ruby>からだろうと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "この調査は、どこが発表しましたか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>は、どこが<ruby>発表<rt>はっぴょう</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Agency for Cultural Affairs."
+    },
+    {
+      "speaker": "slow",
+      "text": "上司を名前に「さん」をつけて呼ぶのがいいと答えた人は、何%でしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"上司\" data-reading=\"じょうし\" data-en=\"boss, superior\"><ruby>上司<rt>じょうし</rt></ruby></span>を<ruby>名前<rt>なまえ</rt></ruby>に「さん」をつけて<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call (someone)\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>のがいいと<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<ruby>何<rt>なん</rt></ruby>%でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twenty-five percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "30年前の調査より、どのぐらい増えましたか。",
+      "ruby": "30<ruby>年前<rt>ねんまえ</rt></ruby>の<span class=\"vw\" data-ja=\"調査\" data-reading=\"ちょうさ\" data-en=\"survey, investigation\"><ruby>調査<rt>ちょうさ</rt></ruby></span>より、どのぐらい<ruby>増え<rt>ふえ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seventeen points."
+    },
+    {
+      "speaker": "slow",
+      "text": "手で書く習慣を大切にしたほうがいいと答えた人は、何%でしたか。",
+      "ruby": "<ruby>手で<rt>てで</rt></ruby><ruby>書く<rt>かく</rt></ruby><span class=\"vw\" data-ja=\"習慣\" data-reading=\"しゅうかん\" data-en=\"habit, custom\"><ruby>習慣<rt>しゅうかん</rt></ruby></span>を<span class=\"vw\" data-ja=\"大切\" data-reading=\"たいせつ\" data-en=\"important, precious\"><ruby>大切<rt>たいせつ</rt></ruby></span>にしたほうがいいと<ruby>答え<rt>こたえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<ruby>何<rt>なん</rt></ruby>%でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty point four percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "手で書いた字には、何が出ますか。",
+      "ruby": "<ruby>手で<rt>てで</rt></ruby><ruby>書い<rt>かい</rt></ruby>た<span class=\"vw\" data-ja=\"字\" data-reading=\"じ\" data-en=\"character, handwriting\"><ruby>字<rt>じ</rt></ruby></span>には、<ruby>何<rt>なに</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The writer's personality."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表，公布"
+    },
+    {
+      "ja": "調査",
+      "reading": "ちょうさ",
+      "en": "survey, investigation",
+      "zh": "调查"
+    },
+    {
+      "ja": "答える",
+      "reading": "こたえる",
+      "en": "to answer",
+      "zh": "回答"
+    },
+    {
+      "ja": "上司",
+      "reading": "じょうし",
+      "en": "boss, superior",
+      "zh": "上司"
+    },
+    {
+      "ja": "呼ぶ",
+      "reading": "よぶ",
+      "en": "to call (someone)",
+      "zh": "称呼，叫"
+    },
+    {
+      "ja": "つける",
+      "reading": "つける",
+      "en": "to attach, to add",
+      "zh": "加上，附上"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "字",
+      "reading": "じ",
+      "en": "character, handwriting",
+      "zh": "字"
+    },
+    {
+      "ja": "生活",
+      "reading": "せいかつ",
+      "en": "daily life",
+      "zh": "生活"
+    },
+    {
+      "ja": "習慣",
+      "reading": "しゅうかん",
+      "en": "habit, custom",
+      "zh": "习惯"
+    },
+    {
+      "ja": "大切",
+      "reading": "たいせつ",
+      "en": "important, precious",
+      "zh": "重要，珍惜"
+    },
+    {
+      "ja": "個性",
+      "reading": "こせい",
+      "en": "personality, individuality",
+      "zh": "个性"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のように",
+      "meaning": "like ~, such as ~",
+      "meaningZh": "像……那样",
+      "formation": "noun + のように",
+      "example": "「山田さん」のように、名前に「さん」をつけて呼ぶのがいいと答えた人は、25%でした。",
+      "translation": "Twenty-five percent said it is best to call a boss by name with the polite ending, like Mr. Yamada.",
+      "note": "Use のように to give an example: \"like ~\". 山田さんのように = like Mr. Yamada.",
+      "noteZh": "「のように」用来举例，表示\"像……那样\"。山田さんのように＝像「山田先生」那样。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜たほうがいい",
+      "meaning": "should ~, it is better to ~",
+      "meaningZh": "最好……，应该……",
+      "formation": "verb (ta-form) + ほうがいい",
+      "example": "80.4%の人が、手で書く習慣を大切にしたほうがいいと答えました。",
+      "translation": "Eighty point four percent said we should value the habit of writing by hand.",
+      "note": "Use the ta-form + ほうがいい to give advice or say what is better. 大切にした + ほうがいい = should value.",
+      "noteZh": "动词た形＋「ほうがいい」表示建议，\"最好……\"。大切にした＋ほうがいい＝最好珍惜。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ほうがいい"
+    },
+    {
+      "pattern": "〜について",
+      "meaning": "about ~, concerning ~",
+      "meaningZh": "关于……",
+      "formation": "noun + について",
+      "example": "手で字を書くことについても聞きました。",
+      "translation": "The survey also asked about writing by hand.",
+      "note": "Use について after a noun to say what something is about. こと turns the verb phrase into a noun first.",
+      "noteZh": "名词＋「について」表示\"关于……\"。用「こと」把动词短语变成名词后再接「について」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#について"
+    }
+  ],
+  "practiceZh": [
+    "文化庁は10月2日、日本語についての調査の結果を発表しました。\n文化厅于10月2日公布了关于日语的调查结果。\n発表する = to announce",
+    "調査は今年の1月から3月まで行われ、16歳以上の3777人が答えました。\n调查在今年1月到3月进行，16岁以上的3777人作答。\n答える = to answer",
+    "会社の上司を何と呼ぶのがいいか、という質問がありました。\n调查中有一个问题：怎样称呼公司的上司比较好。\n上司 = boss, superior",
+    "「課長」などではなく、「山田さん」のように、名前に「さん」をつけて呼ぶのがいいと答えた人は、25%でした。\n回答不用「课长」等职务名，而是像「山田先生」那样在名字后加「さん」来称呼比较好的人占25%。\nつける = to attach, to add",
+    "30年前の調査より、17ポイントぐらい増えました。\n比30年前的调查增加了约17个百分点。\n増える = to increase",
+    "手で字を書くことについても聞きました。\n调查还问了关于手写文字的问题。\n字 = character, handwriting",
+    "毎日の生活で、手で字を書くことが「ある」と答えた人は、69.6%でした。\n回答在日常生活中「有」手写文字机会的人占69.6%。\n生活 = daily life",
+    "そして、80.4%の人が、手で書く習慣を大切にしたほうがいいと答えました。\n而且，80.4%的人回答最好珍惜手写的习惯。\n習慣 = habit, custom",
+    "文化庁は、手で書いた字には、書いた人の個性が出るからだろうと話しています。\n文化厅表示，这大概是因为手写的字能体现书写者的个性。\n個性 = personality, individuality"
+  ]
+}
