@@ -1,0 +1,559 @@
+{
+  "episode": 200,
+  "title": "スガキヤ、ドムドムハンバーガーを子会社に",
+  "date": "2026-10-03",
+  "source": "日本経済新聞 / 電ファミニコゲーマー / Yahoo!ニュース / ライブドアニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026100301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October third. Tonight: a famous ramen chain buys Japan's oldest hamburger chain. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ラーメンのチェーン店「スガキヤ」を運営する会社が、10月2日、「ドムドムハンバーガー」を運営する会社を子会社にしたと発表しました。",
+      "ruby": "ラーメンのチェーン<ruby>店<rt>みせ</rt></ruby>「スガキヤ」を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が、10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、「ドムドムハンバーガー」を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"vw\" data-ja=\"子会社\" data-reading=\"こがいしゃ\" data-en=\"subsidiary company\"><ruby>子会社<rt>こがいしゃ</rt></ruby></span>にしたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤの会社は名古屋市に、ドムドムの会社は東京に本社があります。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>名古屋市<rt>なごやし</rt></ruby>に、ドムドムの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>本社<rt>ほんしゃ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤの会社は、9月30日に、ドムドムの会社の株を50%以上持つようになりました。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>は、9<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>に、ドムドムの<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"株\" data-reading=\"かぶ\" data-en=\"shares, stock\"><ruby>株<rt>かぶ</rt></ruby></span>を50%<ruby>以上<rt>いじょう</rt></ruby><ruby>持つ<rt>もつ</rt></ruby>ようになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2つの会社は、去年の12月から協力してきました。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>から<ruby>協力<rt>きょうりょく</rt></ruby>してきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月には、名古屋の大須でスガキヤの店があった場所に、ドムドムの店ができました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>には、<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>大須<rt>おおす</rt></ruby>でスガキヤの<ruby>店<rt>みせ</rt></ruby>があった<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place, location\"><ruby>場所<rt>ばしょ</rt></ruby></span>に、ドムドムの<ruby>店<rt>みせ</rt></ruby>ができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤは、東海地方を中心に、250以上の店があります。",
+      "ruby": "スガキヤは、<ruby>東海地方<rt>とうかいちほう</rt></ruby>を<span class=\"vw\" data-ja=\"中心\" data-reading=\"ちゅうしん\" data-en=\"center, core\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>に、250<ruby>以上<rt>いじょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドムドムは、関東を中心に、30ぐらいの店があります。",
+      "ruby": "ドムドムは、<ruby>関東<rt>かんとう</rt></ruby>を<span class=\"vw\" data-ja=\"中心\" data-reading=\"ちゅうしん\" data-en=\"center, core\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>に、30ぐらいの<ruby>店<rt>みせ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドムドムは1970年にできた、日本で最初のハンバーガーのチェーン店です。",
+      "ruby": "ドムドムは1970<ruby>年<rt>ねん</rt></ruby>にできた、<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>のハンバーガーのチェーン<ruby>店<rt>みせ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤは10月、神奈川県に2つの店を開く予定で、関東に店を出すのは、およそ20年ぶりです。",
+      "ruby": "スガキヤは10<ruby>月<rt>がつ</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby>に2つの<ruby>店<rt>みせ</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>で、<ruby>関東<rt>かんとう</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>のは、およそ20<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "これから3年で、関東に50の店を出す計画です。",
+      "ruby": "これから3<ruby>年<rt>ねん</rt></ruby>で、<ruby>関東<rt>かんとう</rt></ruby>に50の<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "来年の春には、初めて同じショッピングセンターの中に、2つの店を一緒に出す予定です。",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>には、<ruby>初めて<rt>はじめて</rt></ruby><ruby>同じ<rt>おなじ</rt></ruby>ショッピングセンターの<ruby>中に<rt>なかに</rt></ruby>、2つの<ruby>店<rt>みせ</rt></ruby>を<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span><ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "持ち帰りの料理や、コロッケなどのサイドメニューも増やしていくということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち帰り\" data-reading=\"もちかえり\" data-en=\"takeout\"><ruby>持ち帰り<rt>もちかえり</rt></ruby></span>の<ruby>料理<rt>りょうり</rt></ruby>や、コロッケなどのサイドメニューも<ruby>増やし<rt>ふやし</rt></ruby>ていくということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤの会社の社長は、1000の店があるチェーンを目指すと話しています。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、1000の<ruby>店<rt>みせ</rt></ruby>があるチェーンを<span class=\"vw\" data-ja=\"目指す\" data-reading=\"めざす\" data-en=\"to aim for\"><ruby>目指す<rt>めざす</rt></ruby></span>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "ラーメンのチェーン店「スガキヤ」を運営する会社が、10月2日、「ドムドムハンバーガー」を運営する会社を子会社にしたと発表しました。",
+      "ruby": "ラーメンのチェーン<ruby>店<rt>みせ</rt></ruby>「スガキヤ」を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が、10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、「ドムドムハンバーガー」を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"vw\" data-ja=\"子会社\" data-reading=\"こがいしゃ\" data-en=\"subsidiary company\"><ruby>子会社<rt>こがいしゃ</rt></ruby></span>にしたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A company that runs the ramen chain Sugakiya announced on October second that it has made the company running Domdom Hamburger its subsidiary."
+    },
+    {
+      "speaker": "vocab",
+      "text": "子会社",
+      "ruby": "<span class=\"vw\" data-ja=\"子会社\" data-reading=\"こがいしゃ\" data-en=\"subsidiary company\"><ruby>子会社<rt>こがいしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a subsidiary company."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤの会社は、9月30日に、ドムドムの会社の株を50%以上持つようになりました。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>は、9<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>に、ドムドムの<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"株\" data-reading=\"かぶ\" data-en=\"shares, stock\"><ruby>株<rt>かぶ</rt></ruby></span>を50%<ruby>以上<rt>いじょう</rt></ruby><ruby>持つ<rt>もつ</rt></ruby>ようになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On September thirtieth, Sugakiya's company came to own more than fifty percent of Domdom's shares."
+    },
+    {
+      "speaker": "vocab",
+      "text": "株",
+      "ruby": "<span class=\"vw\" data-ja=\"株\" data-reading=\"かぶ\" data-en=\"shares, stock\"><ruby>株<rt>かぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shares, or stock."
+    },
+    {
+      "speaker": "slow",
+      "text": "2つの会社は、去年の12月から協力してきました。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>から<ruby>協力<rt>きょうりょく</rt></ruby>してきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The two companies have been working together since December last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "協力する",
+      "ruby": "<span class=\"vw\" data-ja=\"協力する\" data-reading=\"きょうりょくする\" data-en=\"to cooperate\"><ruby>協力<rt>きょうりょく</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to cooperate."
+    },
+    {
+      "speaker": "slow",
+      "text": "7月には、名古屋の大須でスガキヤの店があった場所に、ドムドムの店ができました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>には、<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>大須<rt>おおす</rt></ruby>でスガキヤの<ruby>店<rt>みせ</rt></ruby>があった<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place, location\"><ruby>場所<rt>ばしょ</rt></ruby></span>に、ドムドムの<ruby>店<rt>みせ</rt></ruby>ができました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In July, a Domdom shop opened where a Sugakiya shop used to be, in the Osu area of Nagoya."
+    },
+    {
+      "speaker": "vocab",
+      "text": "場所",
+      "ruby": "<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place, location\"><ruby>場所<rt>ばしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a place."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤは、東海地方を中心に、250以上の店があります。",
+      "ruby": "スガキヤは、<ruby>東海地方<rt>とうかいちほう</rt></ruby>を<span class=\"vw\" data-ja=\"中心\" data-reading=\"ちゅうしん\" data-en=\"center, core\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>に、250<ruby>以上<rt>いじょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sugakiya has more than two hundred fifty shops, mainly in the Tokai region."
+    },
+    {
+      "speaker": "vocab",
+      "text": "中心",
+      "ruby": "<span class=\"vw\" data-ja=\"中心\" data-reading=\"ちゅうしん\" data-en=\"center, core\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means center, or mainly."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドムドムは1970年にできた、日本で最初のハンバーガーのチェーン店です。",
+      "ruby": "ドムドムは1970<ruby>年<rt>ねん</rt></ruby>にできた、<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>のハンバーガーのチェーン<ruby>店<rt>みせ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Domdom started in nineteen seventy. It is Japan's first hamburger chain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最初",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means first."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤは10月、神奈川県に2つの店を開く予定で、関東に店を出すのは、およそ20年ぶりです。",
+      "ruby": "スガキヤは10<ruby>月<rt>がつ</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby>に2つの<ruby>店<rt>みせ</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>で、<ruby>関東<rt>かんとう</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>のは、およそ20<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In October, Sugakiya plans to open two shops in Kanagawa. It is its first time opening in Kanto in about twenty years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "来年の春には、初めて同じショッピングセンターの中に、2つの店を一緒に出す予定です。",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>には、<ruby>初めて<rt>はじめて</rt></ruby><ruby>同じ<rt>おなじ</rt></ruby>ショッピングセンターの<ruby>中に<rt>なかに</rt></ruby>、2つの<ruby>店<rt>みせ</rt></ruby>を<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span><ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next spring, for the first time, the two chains plan to open shops together in the same shopping center."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一緒に",
+      "ruby": "<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means together."
+    },
+    {
+      "speaker": "slow",
+      "text": "持ち帰りの料理や、コロッケなどのサイドメニューも増やしていくということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち帰り\" data-reading=\"もちかえり\" data-en=\"takeout\"><ruby>持ち帰り<rt>もちかえり</rt></ruby></span>の<ruby>料理<rt>りょうり</rt></ruby>や、コロッケなどのサイドメニューも<ruby>増やし<rt>ふやし</rt></ruby>ていくということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "They will also add more takeout food and side dishes like croquettes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "持ち帰り",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち帰り\" data-reading=\"もちかえり\" data-en=\"takeout\"><ruby>持ち帰り<rt>もちかえり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means takeout."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤの会社の社長は、1000の店があるチェーンを目指すと話しています。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、1000の<ruby>店<rt>みせ</rt></ruby>があるチェーンを<span class=\"vw\" data-ja=\"目指す\" data-reading=\"めざす\" data-en=\"to aim for\"><ruby>目指す<rt>めざす</rt></ruby></span>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The president of Sugakiya's company says they aim for a chain of one thousand shops."
+    },
+    {
+      "speaker": "vocab",
+      "text": "目指す",
+      "ruby": "<span class=\"vw\" data-ja=\"目指す\" data-reading=\"めざす\" data-en=\"to aim for\"><ruby>目指す<rt>めざす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to aim for."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ラーメンのチェーン店「スガキヤ」を運営する会社が、10月2日、「ドムドムハンバーガー」を運営する会社を子会社にしたと発表しました。",
+      "ruby": "ラーメンのチェーン<ruby>店<rt>みせ</rt></ruby>「スガキヤ」を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が、10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>、「ドムドムハンバーガー」を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"vw\" data-ja=\"子会社\" data-reading=\"こがいしゃ\" data-en=\"subsidiary company\"><ruby>子会社<rt>こがいしゃ</rt></ruby></span>にしたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤの会社は名古屋市に、ドムドムの会社は東京に本社があります。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>名古屋市<rt>なごやし</rt></ruby>に、ドムドムの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>本社<rt>ほんしゃ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤの会社は、9月30日に、ドムドムの会社の株を50%以上持つようになりました。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>は、9<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>に、ドムドムの<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"株\" data-reading=\"かぶ\" data-en=\"shares, stock\"><ruby>株<rt>かぶ</rt></ruby></span>を50%<ruby>以上<rt>いじょう</rt></ruby><ruby>持つ<rt>もつ</rt></ruby>ようになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2つの会社は、去年の12月から協力してきました。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>から<ruby>協力<rt>きょうりょく</rt></ruby>してきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "7月には、名古屋の大須でスガキヤの店があった場所に、ドムドムの店ができました。",
+      "ruby": "7<ruby>月<rt>がつ</rt></ruby>には、<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>大須<rt>おおす</rt></ruby>でスガキヤの<ruby>店<rt>みせ</rt></ruby>があった<span class=\"vw\" data-ja=\"場所\" data-reading=\"ばしょ\" data-en=\"place, location\"><ruby>場所<rt>ばしょ</rt></ruby></span>に、ドムドムの<ruby>店<rt>みせ</rt></ruby>ができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤは、東海地方を中心に、250以上の店があります。",
+      "ruby": "スガキヤは、<ruby>東海地方<rt>とうかいちほう</rt></ruby>を<span class=\"vw\" data-ja=\"中心\" data-reading=\"ちゅうしん\" data-en=\"center, core\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>に、250<ruby>以上<rt>いじょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドムドムは、関東を中心に、30ぐらいの店があります。",
+      "ruby": "ドムドムは、<ruby>関東<rt>かんとう</rt></ruby>を<span class=\"vw\" data-ja=\"中心\" data-reading=\"ちゅうしん\" data-en=\"center, core\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>に、30ぐらいの<ruby>店<rt>みせ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドムドムは1970年にできた、日本で最初のハンバーガーのチェーン店です。",
+      "ruby": "ドムドムは1970<ruby>年<rt>ねん</rt></ruby>にできた、<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>のハンバーガーのチェーン<ruby>店<rt>みせ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤは10月、神奈川県に2つの店を開く予定で、関東に店を出すのは、およそ20年ぶりです。",
+      "ruby": "スガキヤは10<ruby>月<rt>がつ</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby>に2つの<ruby>店<rt>みせ</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>で、<ruby>関東<rt>かんとう</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>のは、およそ20<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "これから3年で、関東に50の店を出す計画です。",
+      "ruby": "これから3<ruby>年<rt>ねん</rt></ruby>で、<ruby>関東<rt>かんとう</rt></ruby>に50の<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "来年の春には、初めて同じショッピングセンターの中に、2つの店を一緒に出す予定です。",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>には、<ruby>初めて<rt>はじめて</rt></ruby><ruby>同じ<rt>おなじ</rt></ruby>ショッピングセンターの<ruby>中に<rt>なかに</rt></ruby>、2つの<ruby>店<rt>みせ</rt></ruby>を<span class=\"vw\" data-ja=\"一緒に\" data-reading=\"いっしょに\" data-en=\"together\"><ruby>一緒に<rt>いっしょに</rt></ruby></span><ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "持ち帰りの料理や、コロッケなどのサイドメニューも増やしていくということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"持ち帰り\" data-reading=\"もちかえり\" data-en=\"takeout\"><ruby>持ち帰り<rt>もちかえり</rt></ruby></span>の<ruby>料理<rt>りょうり</rt></ruby>や、コロッケなどのサイドメニューも<ruby>増やし<rt>ふやし</rt></ruby>ていくということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "スガキヤの会社の社長は、1000の店があるチェーンを目指すと話しています。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、1000の<ruby>店<rt>みせ</rt></ruby>があるチェーンを<span class=\"vw\" data-ja=\"目指す\" data-reading=\"めざす\" data-en=\"to aim for\"><ruby>目指す<rt>めざす</rt></ruby></span>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤは、何のチェーン店ですか。",
+      "ruby": "スガキヤは、<ruby>何の<rt>なんの</rt></ruby>チェーン<ruby>店<rt>みせ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ramen."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤの会社は、ドムドムの会社の株を何%以上持つようになりましたか。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>は、ドムドムの<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"株\" data-reading=\"かぶ\" data-en=\"shares, stock\"><ruby>株<rt>かぶ</rt></ruby></span>を<ruby>何<rt>なん</rt></ruby>%<ruby>以上<rt>いじょう</rt></ruby><ruby>持つ<rt>もつ</rt></ruby>ようになりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than fifty percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドムドムは、何年にできましたか。",
+      "ruby": "ドムドムは、<ruby>何年<rt>なんねん</rt></ruby>にできましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen seventy."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤが関東に店を出すのは、何年ぶりですか。",
+      "ruby": "スガキヤが<ruby>関東<rt>かんとう</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>のは、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About twenty years."
+    },
+    {
+      "speaker": "slow",
+      "text": "来年の春には、何をする予定ですか。",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>には、<ruby>何を<rt>なにを</rt></ruby>する<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Open shops together in the same shopping center."
+    },
+    {
+      "speaker": "slow",
+      "text": "スガキヤの会社の社長は、いくつの店があるチェーンを目指していますか。",
+      "ruby": "スガキヤの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、いくつの<ruby>店<rt>みせ</rt></ruby>があるチェーンを<ruby>目指し<rt>めざし</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One thousand shops."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "子会社",
+      "reading": "こがいしゃ",
+      "en": "subsidiary company",
+      "zh": "子公司"
+    },
+    {
+      "ja": "株",
+      "reading": "かぶ",
+      "en": "shares, stock",
+      "zh": "股份，股票"
+    },
+    {
+      "ja": "協力する",
+      "reading": "きょうりょくする",
+      "en": "to cooperate",
+      "zh": "合作，协力"
+    },
+    {
+      "ja": "場所",
+      "reading": "ばしょ",
+      "en": "place, location",
+      "zh": "地方，场所"
+    },
+    {
+      "ja": "中心",
+      "reading": "ちゅうしん",
+      "en": "center, core",
+      "zh": "中心"
+    },
+    {
+      "ja": "最初",
+      "reading": "さいしょ",
+      "en": "first, beginning",
+      "zh": "最初，第一个"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "一緒に",
+      "reading": "いっしょに",
+      "en": "together",
+      "zh": "一起"
+    },
+    {
+      "ja": "持ち帰り",
+      "reading": "もちかえり",
+      "en": "takeout",
+      "zh": "外带，打包"
+    },
+    {
+      "ja": "目指す",
+      "reading": "めざす",
+      "en": "to aim for",
+      "zh": "以……为目标"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to come to ~, to reach the point of ~",
+      "meaningZh": "变得……，开始……",
+      "formation": "verb (dictionary form) + ようになる",
+      "example": "スガキヤの会社は、9月30日に、ドムドムの会社の株を50%以上持つようになりました。",
+      "translation": "On September thirtieth, Sugakiya's company came to own more than fifty percent of Domdom's shares.",
+      "note": "Shows a change in state: something that was not true before is now true. 持つようになりました = came to own.",
+      "noteZh": "表示状态的变化：以前不是这样，现在变成这样了。持つようになりました＝变得持有了。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜てくる",
+      "meaning": "have been doing ~ (up to now)",
+      "meaningZh": "一直……（到现在）",
+      "formation": "verb て-form + くる",
+      "example": "2つの会社は、去年の12月から協力してきました。",
+      "translation": "The two companies have been working together since December last year.",
+      "note": "Describes an action continuing from the past up to now. 協力してきました = have been cooperating.",
+      "noteZh": "表示从过去一直持续到现在的动作。協力してきました＝一直在合作。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔……",
+      "formation": "time period + ぶり",
+      "example": "関東に店を出すのは、およそ20年ぶりです。",
+      "translation": "It is the first time in about twenty years that it opens shops in Kanto.",
+      "note": "Says how long it has been since something last happened. 20年ぶり = for the first time in 20 years.",
+      "noteZh": "表示距离上次发生某事已经过了多久。20年ぶり＝时隔20年。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~, reportedly ~",
+      "meaningZh": "据说……",
+      "formation": "plain form + ということです",
+      "example": "持ち帰りの料理や、コロッケなどのサイドメニューも増やしていくということです。",
+      "translation": "They will reportedly add more takeout food and side dishes like croquettes.",
+      "note": "Common in news to pass on information from someone else. Similar to 〜そうです.",
+      "noteZh": "新闻中常用，用来转述别人的信息，类似「〜そうです」。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    }
+  ],
+  "practiceZh": [
+    "ラーメンのチェーン店「スガキヤ」を運営する会社が、10月2日、「ドムドムハンバーガー」を運営する会社を子会社にしたと発表しました。\n拉面连锁店「寿贺喜屋」的运营公司于10月2日宣布，已将运营「Domdom汉堡」的公司收为子公司。\n子会社 = subsidiary company",
+    "スガキヤの会社は、9月30日に、ドムドムの会社の株を50%以上持つようになりました。\n寿贺喜屋的公司在9月30日持有了Domdom公司50%以上的股份。\n株 = shares, stock",
+    "2つの会社は、去年の12月から協力してきました。\n两家公司从去年12月开始一直在合作。\n協力する = to cooperate",
+    "7月には、名古屋の大須でスガキヤの店があった場所に、ドムドムの店ができました。\n7月，在名古屋大须原来寿贺喜屋店铺所在的地方，开了一家Domdom的店。\n場所 = place, location",
+    "スガキヤは、東海地方を中心に、250以上の店があります。\n寿贺喜屋以东海地区为中心，拥有250家以上的店铺。\n中心 = center, core",
+    "ドムドムは1970年にできた、日本で最初のハンバーガーのチェーン店です。\nDomdom创立于1970年，是日本第一家汉堡连锁店。\n最初 = first, beginning",
+    "スガキヤは10月、神奈川県に2つの店を開く予定で、関東に店を出すのは、およそ20年ぶりです。\n寿贺喜屋预定10月在神奈川县开2家店，这是时隔约20年再次在关东开店。\n予定 = plan, schedule",
+    "来年の春には、初めて同じショッピングセンターの中に、2つの店を一緒に出す予定です。\n明年春天，两家店预定首次一起开在同一个购物中心里。\n一緒に = together",
+    "持ち帰りの料理や、コロッケなどのサイドメニューも増やしていくということです。\n据说今后还将增加外带料理和可乐饼等配菜。\n持ち帰り = takeout",
+    "スガキヤの会社の社長は、1000の店があるチェーンを目指すと話しています。\n寿贺喜屋公司的社长表示，目标是打造拥有1000家店铺的连锁。\n目指す = to aim for"
+  ]
+}
