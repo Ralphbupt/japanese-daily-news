@@ -1,0 +1,652 @@
+{
+  "episode": 202,
+  "title": "佐川急便、宅配便の料金を平均13.8%値上げへ",
+  "date": "2026-10-04",
+  "source": "時事通信 / 共同通信 / 新潟日報",
+  "level": "N4-N3",
+  "contentVersion": "2026100401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October fourth. Tonight: a big delivery company raises its prices. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "宅配便の大きな会社、佐川急便は、来年の1月1日から、宅配便の料金を上げると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>会社<rt>かいしゃ</rt></ruby>、<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "料金は、平均でおよそ13.8%高くなります。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>でおよそ13.8%<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐川急便が宅配便の料金を上げるのは、2024年4月以来です。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>が<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>るのは、2024<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "荷物を運ぶためのお金が、いろいろ高くなっているからです。",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>ためのお<ruby>金<rt>かね</rt></ruby>が、いろいろ<ruby>高く<rt>たかく</rt></ruby>なっているからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、荷物を置く建物を借りるお金や、資材の値段が上がっています。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>置く<rt>おく</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow, to rent\"><ruby>借り<rt>かり</rt></ruby>る</span>お<ruby>金<rt>かね</rt></ruby>や、<ruby>資材<rt>しざい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "働く人に払うお金も、高くなっています。",
+      "ruby": "<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>も、<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、運転手など、働く人が足りなくなっています。",
+      "ruby": "また、<ruby>運転手<rt>うんてんしゅ</rt></ruby>など、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐川急便は、少ない人でも荷物を効率よく運べるように、これからもお金を使わなければなりません。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>少ない<rt>すくない</rt></ruby><ruby>人<rt>ひと</rt></ruby>でも<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>よく<ruby>運べ<rt>はこべ</rt></ruby>るように、これからもお<ruby>金<rt>かね</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "料金がどのくらい上がるかは、荷物の大きさや、運ぶ距離によって違います。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>がどのくらい<ruby>上が<rt>あが</rt></ruby>るかは、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>や、<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span><span class=\"vw\" data-ja=\"距離\" data-reading=\"きょり\" data-en=\"distance\"><ruby>距離<rt>きょり</rt></ruby></span>によって<ruby>違い<rt>ちがい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、関東から関西へ、小さい「60サイズ」の荷物を送ります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>関西<rt>かんさい</rt></ruby>へ、<ruby>小さい<rt>ちいさい</rt></ruby>「60サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>送り<rt>おくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この場合、今は1040円ですが、1月からは1060円になって、20円高くなります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"場合\" data-reading=\"ばあい\" data-en=\"case, situation\"><ruby>場合<rt>ばあい</rt></ruby></span>、<ruby>今<rt>いま</rt></ruby>は1040<ruby>円<rt>えん</rt></ruby>ですが、1<ruby>月<rt>がつ</rt></ruby>からは1060<ruby>円<rt>えん</rt></ruby>になって、20<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん大きい「260サイズ」の荷物は、8420円から1万100円になって、1680円高くなります。",
+      "ruby": "いちばん<ruby>大きい<rt>おおきい</rt></ruby>「260サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>は、8420<ruby>円<rt>えん</rt></ruby>から1<ruby>万<rt>まん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>になって、1680<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大きい荷物ほど、値上げの幅が大きくなります。",
+      "ruby": "<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>ほど、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>幅<rt>はば</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "宅配便の大きな会社、佐川急便は、来年の1月1日から、宅配便の料金を上げると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>会社<rt>かいしゃ</rt></ruby>、<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sagawa Express, a big delivery company, announced it will raise its parcel delivery prices from January first next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement. With the verb to do, it means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "料金は、平均でおよそ13.8%高くなります。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>でおよそ13.8%<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Prices will go up by about thirteen point eight percent on average."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means average."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐川急便が宅配便の料金を上げるのは、2024年4月以来です。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>が<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>るのは、2024<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the first price increase since April twenty twenty-four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以来",
+      "ruby": "<span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means since."
+    },
+    {
+      "speaker": "slow",
+      "text": "荷物を運ぶためのお金が、いろいろ高くなっているからです。",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>ためのお<ruby>金<rt>かね</rt></ruby>が、いろいろ<ruby>高く<rt>たかく</rt></ruby>なっているからです。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is because many costs of carrying packages are rising."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to carry or transport."
+    },
+    {
+      "speaker": "slow",
+      "text": "例えば、荷物を置く建物を借りるお金や、資材の値段が上がっています。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>置く<rt>おく</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow, to rent\"><ruby>借り<rt>かり</rt></ruby>る</span>お<ruby>金<rt>かね</rt></ruby>や、<ruby>資材<rt>しざい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "For example, the rent for warehouses and the price of materials are going up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "借りる",
+      "ruby": "<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow, to rent\"><ruby>借り<rt>かり</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to borrow, or to rent."
+    },
+    {
+      "speaker": "slow",
+      "text": "働く人に払うお金も、高くなっています。",
+      "ruby": "<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>も、<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Wages paid to workers are also rising."
+    },
+    {
+      "speaker": "vocab",
+      "text": "払う",
+      "ruby": "<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pay."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、運転手など、働く人が足りなくなっています。",
+      "ruby": "また、<ruby>運転手<rt>うんてんしゅ</rt></ruby>など、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, there are not enough workers, such as drivers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "足りない",
+      "ruby": "<span class=\"vw\" data-ja=\"足りない\" data-reading=\"たりない\" data-en=\"not enough, insufficient\"><ruby>足り<rt>たり</rt></ruby>ない</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means not enough."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐川急便は、少ない人でも荷物を効率よく運べるように、これからもお金を使わなければなりません。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>少ない<rt>すくない</rt></ruby><ruby>人<rt>ひと</rt></ruby>でも<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>よく<ruby>運べ<rt>はこべ</rt></ruby>るように、これからもお<ruby>金<rt>かね</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sagawa must keep spending money so that fewer people can carry packages efficiently."
+    },
+    {
+      "speaker": "vocab",
+      "text": "効率",
+      "ruby": "<span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means efficiency."
+    },
+    {
+      "speaker": "slow",
+      "text": "料金がどのくらい上がるかは、荷物の大きさや、運ぶ距離によって違います。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>がどのくらい<ruby>上が<rt>あが</rt></ruby>るかは、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>や、<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span><span class=\"vw\" data-ja=\"距離\" data-reading=\"きょり\" data-en=\"distance\"><ruby>距離<rt>きょり</rt></ruby></span>によって<ruby>違い<rt>ちがい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "How much prices rise depends on the size of the package and the distance."
+    },
+    {
+      "speaker": "vocab",
+      "text": "距離",
+      "ruby": "<span class=\"vw\" data-ja=\"距離\" data-reading=\"きょり\" data-en=\"distance\"><ruby>距離<rt>きょり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means distance."
+    },
+    {
+      "speaker": "slow",
+      "text": "例えば、関東から関西へ、小さい「60サイズ」の荷物を送ります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>関西<rt>かんさい</rt></ruby>へ、<ruby>小さい<rt>ちいさい</rt></ruby>「60サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>送り<rt>おくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "For example, say you send a small size sixty package from Kanto to Kansai."
+    },
+    {
+      "speaker": "vocab",
+      "text": "送る",
+      "ruby": "<span class=\"vw\" data-ja=\"送る\" data-reading=\"おくる\" data-en=\"to send\"><ruby>送る<rt>おくる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to send."
+    },
+    {
+      "speaker": "slow",
+      "text": "この場合、今は1040円ですが、1月からは1060円になって、20円高くなります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"場合\" data-reading=\"ばあい\" data-en=\"case, situation\"><ruby>場合<rt>ばあい</rt></ruby></span>、<ruby>今<rt>いま</rt></ruby>は1040<ruby>円<rt>えん</rt></ruby>ですが、1<ruby>月<rt>がつ</rt></ruby>からは1060<ruby>円<rt>えん</rt></ruby>になって、20<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In this case, it now costs one thousand forty yen, but from January it will be one thousand sixty, twenty yen more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "場合",
+      "ruby": "<span class=\"vw\" data-ja=\"場合\" data-reading=\"ばあい\" data-en=\"case, situation\"><ruby>場合<rt>ばあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means case, or situation."
+    },
+    {
+      "speaker": "slow",
+      "text": "いちばん大きい「260サイズ」の荷物は、8420円から1万100円になって、1680円高くなります。",
+      "ruby": "いちばん<ruby>大きい<rt>おおきい</rt></ruby>「260サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>は、8420<ruby>円<rt>えん</rt></ruby>から1<ruby>万<rt>まん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>になって、1680<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The biggest, size two hundred sixty, goes from eight thousand four hundred twenty yen to ten thousand one hundred, up one thousand six hundred eighty."
+    },
+    {
+      "speaker": "vocab",
+      "text": "荷物",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a package, or luggage."
+    },
+    {
+      "speaker": "slow",
+      "text": "大きい荷物ほど、値上げの幅が大きくなります。",
+      "ruby": "<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>ほど、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>幅<rt>はば</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bigger the package, the bigger the price increase."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a price increase."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "宅配便の大きな会社、佐川急便は、来年の1月1日から、宅配便の料金を上げると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>会社<rt>かいしゃ</rt></ruby>、<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "料金は、平均でおよそ13.8%高くなります。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>でおよそ13.8%<ruby>高く<rt>たかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐川急便が宅配便の料金を上げるのは、2024年4月以来です。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>が<span class=\"vw\" data-ja=\"宅配便\" data-reading=\"たくはいびん\" data-en=\"parcel delivery service\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>るのは、2024<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "荷物を運ぶためのお金が、いろいろ高くなっているからです。",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>ためのお<ruby>金<rt>かね</rt></ruby>が、いろいろ<ruby>高く<rt>たかく</rt></ruby>なっているからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、荷物を置く建物を借りるお金や、資材の値段が上がっています。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>置く<rt>おく</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<span class=\"vw\" data-ja=\"借りる\" data-reading=\"かりる\" data-en=\"to borrow, to rent\"><ruby>借り<rt>かり</rt></ruby>る</span>お<ruby>金<rt>かね</rt></ruby>や、<ruby>資材<rt>しざい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "働く人に払うお金も、高くなっています。",
+      "ruby": "<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>に<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>も、<ruby>高く<rt>たかく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、運転手など、働く人が足りなくなっています。",
+      "ruby": "また、<ruby>運転手<rt>うんてんしゅ</rt></ruby>など、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐川急便は、少ない人でも荷物を効率よく運べるように、これからもお金を使わなければなりません。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>少ない<rt>すくない</rt></ruby><ruby>人<rt>ひと</rt></ruby>でも<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"効率\" data-reading=\"こうりつ\" data-en=\"efficiency\"><ruby>効率<rt>こうりつ</rt></ruby></span>よく<ruby>運べ<rt>はこべ</rt></ruby>るように、これからもお<ruby>金<rt>かね</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>なければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "料金がどのくらい上がるかは、荷物の大きさや、運ぶ距離によって違います。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>がどのくらい<ruby>上が<rt>あが</rt></ruby>るかは、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>の<ruby>大きさ<rt>おおきさ</rt></ruby>や、<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry, to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span><span class=\"vw\" data-ja=\"距離\" data-reading=\"きょり\" data-en=\"distance\"><ruby>距離<rt>きょり</rt></ruby></span>によって<ruby>違い<rt>ちがい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、関東から関西へ、小さい「60サイズ」の荷物を送ります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>関西<rt>かんさい</rt></ruby>へ、<ruby>小さい<rt>ちいさい</rt></ruby>「60サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>送り<rt>おくり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この場合、今は1040円ですが、1月からは1060円になって、20円高くなります。",
+      "ruby": "この<span class=\"vw\" data-ja=\"場合\" data-reading=\"ばあい\" data-en=\"case, situation\"><ruby>場合<rt>ばあい</rt></ruby></span>、<ruby>今<rt>いま</rt></ruby>は1040<ruby>円<rt>えん</rt></ruby>ですが、1<ruby>月<rt>がつ</rt></ruby>からは1060<ruby>円<rt>えん</rt></ruby>になって、20<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん大きい「260サイズ」の荷物は、8420円から1万100円になって、1680円高くなります。",
+      "ruby": "いちばん<ruby>大きい<rt>おおきい</rt></ruby>「260サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>は、8420<ruby>円<rt>えん</rt></ruby>から1<ruby>万<rt>まん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>になって、1680<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大きい荷物ほど、値上げの幅が大きくなります。",
+      "ruby": "<ruby>大きい<rt>おおきい</rt></ruby><span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>ほど、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>幅<rt>はば</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐川急便は、いつから料金を上げますか。",
+      "ruby": "<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、いつから<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From January first next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "料金は、平均でどのくらい高くなりますか。",
+      "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>でどのくらい<ruby>高く<rt>たかく</rt></ruby>なりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About thirteen point eight percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "前に料金を上げたのは、いつですか。",
+      "ruby": "<ruby>前<rt>まえ</rt></ruby>に<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>たのは、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "April twenty twenty-four."
+    },
+    {
+      "speaker": "slow",
+      "text": "どうして料金を上げますか。",
+      "ruby": "どうして<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Costs like rent, materials, and wages are rising, and there are not enough workers."
+    },
+    {
+      "speaker": "slow",
+      "text": "「60サイズ」の荷物は、何円高くなりますか。",
+      "ruby": "「60サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>は、<ruby>何円<rt>なんえん</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twenty yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "「260サイズ」の荷物は、いくらになりますか。",
+      "ruby": "「260サイズ」の<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"package, luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>は、いくらになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ten thousand one hundred yen."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "宅配便",
+      "reading": "たくはいびん",
+      "en": "parcel delivery service",
+      "zh": "快递，宅配"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; to announce (する)",
+      "zh": "发表，宣布"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "以来",
+      "reading": "いらい",
+      "en": "since",
+      "zh": "以来，自从"
+    },
+    {
+      "ja": "運ぶ",
+      "reading": "はこぶ",
+      "en": "to carry, to transport",
+      "zh": "运送，搬运"
+    },
+    {
+      "ja": "借りる",
+      "reading": "かりる",
+      "en": "to borrow, to rent",
+      "zh": "借，租"
+    },
+    {
+      "ja": "払う",
+      "reading": "はらう",
+      "en": "to pay",
+      "zh": "支付，付钱"
+    },
+    {
+      "ja": "足りない",
+      "reading": "たりない",
+      "en": "not enough, insufficient",
+      "zh": "不够，不足"
+    },
+    {
+      "ja": "効率",
+      "reading": "こうりつ",
+      "en": "efficiency",
+      "zh": "效率"
+    },
+    {
+      "ja": "距離",
+      "reading": "きょり",
+      "en": "distance",
+      "zh": "距离"
+    },
+    {
+      "ja": "送る",
+      "reading": "おくる",
+      "en": "to send",
+      "zh": "寄，送"
+    },
+    {
+      "ja": "場合",
+      "reading": "ばあい",
+      "en": "case, situation",
+      "zh": "场合，情况"
+    },
+    {
+      "ja": "荷物",
+      "reading": "にもつ",
+      "en": "package, luggage",
+      "zh": "包裹，行李"
+    },
+    {
+      "ja": "値上げ",
+      "reading": "ねあげ",
+      "en": "price increase",
+      "zh": "涨价"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ように",
+      "meaning": "so that ~ (purpose)",
+      "meaningZh": "为了……，以便……",
+      "formation": "verb (potential / dictionary form) + ように",
+      "example": "佐川急便は、少ない人でも荷物を効率よく運べるように、これからもお金を使わなければなりません。",
+      "translation": "Sagawa must keep spending money so that fewer people can carry packages efficiently.",
+      "note": "Shows the goal of an action, often with a potential verb. 運べるように = so that (they) can carry.",
+      "noteZh": "表示动作的目的，常接可能形。運べるように＝为了能够运送。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜なければなりません",
+      "meaning": "must ~, have to ~",
+      "meaningZh": "必须……",
+      "formation": "verb ない-form (drop い) + ければなりません",
+      "example": "佐川急便は、少ない人でも荷物を効率よく運べるように、これからもお金を使わなければなりません。",
+      "translation": "Sagawa must keep spending money so that fewer people can carry packages efficiently.",
+      "note": "Expresses obligation. 使わなければなりません = must use (spend).",
+      "noteZh": "表示义务。使わなければなりません＝必须使用（花钱）。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なければならない"
+    },
+    {
+      "pattern": "〜によって違う",
+      "meaning": "differs depending on ~",
+      "meaningZh": "因……而不同",
+      "formation": "noun + によって + 違う",
+      "example": "料金がどのくらい上がるかは、荷物の大きさや、運ぶ距離によって違います。",
+      "translation": "How much prices rise depends on the size of the package and the distance.",
+      "note": "Says something changes depending on a condition. 距離によって違います = differs depending on distance.",
+      "noteZh": "表示随条件不同而变化。距離によって違います＝因距离而不同。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によって"
+    },
+    {
+      "pattern": "〜ほど",
+      "meaning": "the more ~, the more ~",
+      "meaningZh": "越……越……",
+      "formation": "adjective / noun + ほど",
+      "example": "大きい荷物ほど、値上げの幅が大きくなります。",
+      "translation": "The bigger the package, the bigger the price increase.",
+      "note": "Shows that as one thing increases, another increases too. 大きい荷物ほど = the bigger the package.",
+      "noteZh": "表示随着一方程度增加，另一方也随之变化。大きい荷物ほど＝包裹越大。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ほど"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~",
+      "meaningZh": "自从……以来",
+      "formation": "noun (time) / verb て-form + 以来",
+      "example": "佐川急便が宅配便の料金を上げるのは、2024年4月以来です。",
+      "translation": "It is the first price increase since April twenty twenty-four.",
+      "note": "Marks a starting point in the past. 2024年4月以来 = since April 2024.",
+      "noteZh": "表示从过去某个时间点开始。2024年4月以来＝自2024年4月以来。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#以来"
+    }
+  ],
+  "practiceZh": [
+    "宅配便の大きな会社、佐川急便は、来年の1月1日から、宅配便の料金を上げると発表しました。\n大型快递公司佐川急便宣布，从明年1月1日起上调快递费用。\n発表 = announcement; to announce (する)",
+    "料金は、平均でおよそ13.8%高くなります。\n费用平均将上涨约13.8%。\n平均 = average",
+    "佐川急便が宅配便の料金を上げるのは、2024年4月以来です。\n这是佐川急便自2024年4月以来再次上调快递费用。\n以来 = since",
+    "荷物を運ぶためのお金が、いろいろ高くなっているからです。\n这是因为运送包裹的各种费用都在上涨。\n運ぶ = to carry, to transport",
+    "例えば、荷物を置く建物を借りるお金や、資材の値段が上がっています。\n例如，租用存放包裹的建筑的费用和材料的价格都在上涨。\n借りる = to borrow, to rent",
+    "働く人に払うお金も、高くなっています。\n支付给员工的工资也在上涨。\n払う = to pay",
+    "また、運転手など、働く人が足りなくなっています。\n另外，司机等工作人员也越来越不够了。\n足りない = not enough, insufficient",
+    "佐川急便は、少ない人でも荷物を効率よく運べるように、これからもお金を使わなければなりません。\n为了让较少的人也能高效地运送包裹，佐川急便今后也必须继续投入资金。\n効率 = efficiency",
+    "料金がどのくらい上がるかは、荷物の大きさや、運ぶ距離によって違います。\n费用上涨多少，取决于包裹的大小和运送距离。\n距離 = distance",
+    "例えば、関東から関西へ、小さい「60サイズ」の荷物を送ります。\n例如，从关东向关西寄一个小的“60尺寸”包裹。\n送る = to send",
+    "この場合、今は1040円ですが、1月からは1060円になって、20円高くなります。\n这种情况下，现在是1040日元，从1月起变成1060日元，贵20日元。\n場合 = case, situation",
+    "いちばん大きい「260サイズ」の荷物は、8420円から1万100円になって、1680円高くなります。\n最大的“260尺寸”包裹从8420日元变成10100日元，贵1680日元。\n荷物 = package, luggage",
+    "大きい荷物ほど、値上げの幅が大きくなります。\n包裹越大，涨价幅度就越大。\n値上げ = price increase"
+  ]
+}
