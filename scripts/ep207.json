@@ -1,0 +1,583 @@
+{
+  "episode": 207,
+  "title": "ズーラシアでオカピの赤ちゃんが誕生",
+  "date": "2026-10-07",
+  "source": "よこはま動物園ズーラシア",
+  "level": "N5-N4",
+  "contentVersion": "2026100701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "女の子",
+      "reading": "おんなのこ",
+      "en": "girl",
+      "zh": "女孩"
+    },
+    {
+      "ja": "産む",
+      "reading": "うむ",
+      "en": "to give birth",
+      "zh": "生（孩子），分娩"
+    },
+    {
+      "ja": "仲間",
+      "reading": "なかま",
+      "en": "relative, member of the same group",
+      "zh": "同类，伙伴"
+    },
+    {
+      "ja": "同じ",
+      "reading": "おなじ",
+      "en": "same",
+      "zh": "相同，一样"
+    },
+    {
+      "ja": "足",
+      "reading": "あし",
+      "en": "leg, foot",
+      "zh": "腿，脚"
+    },
+    {
+      "ja": "珍しい",
+      "reading": "めずらしい",
+      "en": "rare, unusual",
+      "zh": "稀有，罕见"
+    },
+    {
+      "ja": "少しずつ",
+      "reading": "すこしずつ",
+      "en": "little by little",
+      "zh": "一点一点地，逐渐"
+    },
+    {
+      "ja": "決まる",
+      "reading": "きまる",
+      "en": "to be decided",
+      "zh": "决定，定下来"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "知らせる",
+      "reading": "しらせる",
+      "en": "to let know, to announce",
+      "zh": "通知，告知"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のような",
+      "meaning": "like ~, similar to ~",
+      "meaningZh": "像……一样的",
+      "formation": "noun + のような + noun",
+      "example": "足には、シマウマのようなしまのもようがあります。",
+      "translation": "On its legs, it has striped patterns like a zebra.",
+      "note": "Compares one thing to another. シマウマのような = like a zebra's.",
+      "noteZh": "用于比喻。シマウマのような＝像斑马一样的。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ような"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to come to ~, to start being able to ~",
+      "meaningZh": "变得……，开始……",
+      "formation": "plain verb + ようになる",
+      "example": "赤ちゃんは、少しずつ元気に動くようになっています。",
+      "translation": "Little by little, the baby has started moving around energetically.",
+      "note": "Shows a gradual change. 動くようになる = come to move (more).",
+      "noteZh": "表示逐渐的变化。動くようになる＝变得会动了。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "dictionary verb + ことができる",
+      "example": "オカピはとても珍しい動物で、日本ではあまり見ることができません。",
+      "translation": "The okapi is a very rare animal, and you can't often see one in Japan.",
+      "note": "Shows ability or possibility. あまり + negative = not often.",
+      "noteZh": "表示能力或可能性。あまり＋否定＝不太……。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "they say ~, it is reported that ~",
+      "meaningZh": "据说……",
+      "formation": "plain form + ということです",
+      "example": "いつ見ることができるかは、決まったらホームページで知らせるということです。",
+      "translation": "The zoo says it will announce on its website when people can see her, once it is decided.",
+      "note": "Common in news to report what someone said.",
+      "noteZh": "新闻中常用，用来转述别人的话。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ということだ"
+    }
+  ],
+  "practiceZh": [
+    "横浜市の動物園「ズーラシア」で、オカピの赤ちゃんが生まれました。\n横滨市的动物园“Zoorasia”诞生了一只霍加狓宝宝。\n生まれる = to be born",
+    "赤ちゃんは女の子で、9月3日に生まれました。\n宝宝是女孩，9月3日出生。\n女の子 = girl",
+    "お父さんの名前は「バカーリ」で、お母さんと同じ11歳です。\n爸爸的名字叫“巴卡里”，和妈妈一样11岁。\n同じ = same",
+    "ララが赤ちゃんを産んだのは、今回で3回目です。\n这是拉拉第三次生宝宝。\n産む = to give birth",
+    "オカピはキリンの仲間で、アフリカの森にすんでいます。\n霍加狓是长颈鹿的同类，生活在非洲的森林里。\n仲間 = relative, member of the same group",
+    "足には、シマウマのようなしまのもようがあります。\n它的腿上有像斑马一样的条纹。\n足 = leg, foot",
+    "オカピはとても珍しい動物で、日本ではあまり見ることができません。\n霍加狓是非常稀有的动物，在日本很少能见到。\n珍しい = rare, unusual",
+    "赤ちゃんは、少しずつ元気に動くようになっています。\n宝宝渐渐地开始活泼地活动了。\n少しずつ = little by little",
+    "赤ちゃんの名前は、まだ決まっていません。\n宝宝的名字还没有决定。\n決まる = to be decided",
+    "見ることができるまでは、SNSなどで赤ちゃんの様子を伝えていく予定です。\n在可以见到宝宝之前，园方计划通过社交媒体等介绍宝宝的近况。\n予定 = plan, schedule",
+    "いつ見ることができるかは、決まったらホームページで知らせるということです。\n什么时候能见到宝宝，决定后会在官网上通知。\n知らせる = to let know, to announce"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October seventh. This morning: a rare baby animal at a zoo in Yokohama. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "横浜市の動物園「ズーラシア」で、オカピの赤ちゃんが生まれました。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>「ズーラシア」で、オカピの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは女の子で、9月3日に生まれました。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<span class=\"vw\" data-ja=\"女の子\" data-reading=\"おんなのこ\" data-en=\"girl\"><ruby>女の子<rt>おんなのこ</rt></ruby></span>で、9<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんの名前は「ララ」で、11歳です。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「ララ」で、11<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お父さんの名前は「バカーリ」で、お母さんと同じ11歳です。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「バカーリ」で、お<ruby>母さん<rt>かあさん</rt></ruby>と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>11<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ララが赤ちゃんを産んだのは、今回で3回目です。",
+      "ruby": "ララが<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>産ん<rt>うん</rt></ruby>だのは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "オカピはキリンの仲間で、アフリカの森にすんでいます。",
+      "ruby": "オカピはキリンの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"relative, member of the same group\"><ruby>仲間<rt>なかま</rt></ruby></span>で、アフリカの<ruby>森<rt>もり</rt></ruby>にすんでいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "足には、シマウマのようなしまのもようがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"足\" data-reading=\"あし\" data-en=\"leg, foot\"><ruby>足<rt>あし</rt></ruby></span>には、シマウマのようなしまのもようがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "オカピはとても珍しい動物で、日本ではあまり見ることができません。",
+      "ruby": "オカピはとても<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>ではあまり<ruby>見る<rt>みる</rt></ruby>ことができません。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、少しずつ元気に動くようになっています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><ruby>元気<rt>げんき</rt></ruby>に<ruby>動く<rt>うごく</rt></ruby>ようになっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの名前は、まだ決まっていません。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "見ることができるまでは、SNSなどで赤ちゃんの様子を伝えていく予定です。",
+      "ruby": "<ruby>見る<rt>みる</rt></ruby>ことができるまでは、SNSなどで<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>ていく<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "いつ見ることができるかは、決まったらホームページで知らせるということです。",
+      "ruby": "いつ<ruby>見る<rt>みる</rt></ruby>ことができるかは、<ruby>決ま<rt>きま</rt></ruby>ったらホームページで<span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let know, to announce\"><ruby>知らせ<rt>しらせ</rt></ruby>るということです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "横浜市の動物園「ズーラシア」で、オカピの赤ちゃんが生まれました。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>「ズーラシア」で、オカピの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Zoorasia, a zoo in Yokohama, a baby okapi was born."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"生まれる\" data-reading=\"うまれる\" data-en=\"to be born\"><ruby>生まれ<rt>うまれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be born."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは女の子で、9月3日に生まれました。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<span class=\"vw\" data-ja=\"女の子\" data-reading=\"おんなのこ\" data-en=\"girl\"><ruby>女の子<rt>おんなのこ</rt></ruby></span>で、9<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The baby is a girl, and she was born on September third."
+    },
+    {
+      "speaker": "vocab",
+      "text": "女の子",
+      "ruby": "<span class=\"vw\" data-ja=\"女の子\" data-reading=\"おんなのこ\" data-en=\"girl\"><ruby>女の子<rt>おんなのこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means girl."
+    },
+    {
+      "speaker": "slow",
+      "text": "お父さんの名前は「バカーリ」で、お母さんと同じ11歳です。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「バカーリ」で、お<ruby>母さん<rt>かあさん</rt></ruby>と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>11<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The father's name is Bakari, and he is eleven, the same age as the mother."
+    },
+    {
+      "speaker": "vocab",
+      "text": "同じ",
+      "ruby": "<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the same."
+    },
+    {
+      "speaker": "slow",
+      "text": "ララが赤ちゃんを産んだのは、今回で3回目です。",
+      "ruby": "ララが<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>産ん<rt>うん</rt></ruby>だのは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the third time Lala has given birth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "産む",
+      "ruby": "<span class=\"vw\" data-ja=\"産む\" data-reading=\"うむ\" data-en=\"to give birth\"><ruby>産む<rt>うむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to give birth."
+    },
+    {
+      "speaker": "slow",
+      "text": "オカピはキリンの仲間で、アフリカの森にすんでいます。",
+      "ruby": "オカピはキリンの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"relative, member of the same group\"><ruby>仲間<rt>なかま</rt></ruby></span>で、アフリカの<ruby>森<rt>もり</rt></ruby>にすんでいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The okapi is a relative of the giraffe, and it lives in the forests of Africa."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仲間",
+      "ruby": "<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"relative, member of the same group\"><ruby>仲間<rt>なかま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a member of the same group, or a relative."
+    },
+    {
+      "speaker": "slow",
+      "text": "足には、シマウマのようなしまのもようがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"足\" data-reading=\"あし\" data-en=\"leg, foot\"><ruby>足<rt>あし</rt></ruby></span>には、シマウマのようなしまのもようがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On its legs, it has striped patterns like a zebra."
+    },
+    {
+      "speaker": "vocab",
+      "text": "足",
+      "ruby": "<span class=\"vw\" data-ja=\"足\" data-reading=\"あし\" data-en=\"leg, foot\"><ruby>足<rt>あし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means leg or foot."
+    },
+    {
+      "speaker": "slow",
+      "text": "オカピはとても珍しい動物で、日本ではあまり見ることができません。",
+      "ruby": "オカピはとても<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>ではあまり<ruby>見る<rt>みる</rt></ruby>ことができません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The okapi is a very rare animal, and you can't often see one in Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "珍しい",
+      "ruby": "<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rare or unusual."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、少しずつ元気に動くようになっています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><ruby>元気<rt>げんき</rt></ruby>に<ruby>動く<rt>うごく</rt></ruby>ようになっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Little by little, the baby has started moving around energetically."
+    },
+    {
+      "speaker": "vocab",
+      "text": "少しずつ",
+      "ruby": "<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means little by little."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんの名前は、まだ決まっていません。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The baby's name has not been decided yet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決まる",
+      "ruby": "<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided\"><ruby>決ま<rt>きま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be decided."
+    },
+    {
+      "speaker": "slow",
+      "text": "見ることができるまでは、SNSなどで赤ちゃんの様子を伝えていく予定です。",
+      "ruby": "<ruby>見る<rt>みる</rt></ruby>ことができるまでは、SNSなどで<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>ていく<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until people can see her, the zoo plans to share how the baby is doing on social media."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means plan or schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "いつ見ることができるかは、決まったらホームページで知らせるということです。",
+      "ruby": "いつ<ruby>見る<rt>みる</rt></ruby>ことができるかは、<ruby>決ま<rt>きま</rt></ruby>ったらホームページで<span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let know, to announce\"><ruby>知らせ<rt>しらせ</rt></ruby>るということです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The zoo says it will announce on its website when people can see her, once it is decided."
+    },
+    {
+      "speaker": "vocab",
+      "text": "知らせる",
+      "ruby": "<span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let know, to announce\"><ruby>知らせ<rt>しらせ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to let people know, or announce."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "横浜市の動物園「ズーラシア」で、オカピの赤ちゃんが生まれました。",
+      "ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>「ズーラシア」で、オカピの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは女の子で、9月3日に生まれました。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<span class=\"vw\" data-ja=\"女の子\" data-reading=\"おんなのこ\" data-en=\"girl\"><ruby>女の子<rt>おんなのこ</rt></ruby></span>で、9<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お母さんの名前は「ララ」で、11歳です。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「ララ」で、11<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お父さんの名前は「バカーリ」で、お母さんと同じ11歳です。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「バカーリ」で、お<ruby>母さん<rt>かあさん</rt></ruby>と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"same\"><ruby>同じ<rt>おなじ</rt></ruby></span>11<ruby>歳<rt>さい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ララが赤ちゃんを産んだのは、今回で3回目です。",
+      "ruby": "ララが<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>産ん<rt>うん</rt></ruby>だのは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "オカピはキリンの仲間で、アフリカの森にすんでいます。",
+      "ruby": "オカピはキリンの<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"relative, member of the same group\"><ruby>仲間<rt>なかま</rt></ruby></span>で、アフリカの<ruby>森<rt>もり</rt></ruby>にすんでいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "足には、シマウマのようなしまのもようがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"足\" data-reading=\"あし\" data-en=\"leg, foot\"><ruby>足<rt>あし</rt></ruby></span>には、シマウマのようなしまのもようがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "オカピはとても珍しい動物で、日本ではあまり見ることができません。",
+      "ruby": "オカピはとても<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span><ruby>動物<rt>どうぶつ</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>ではあまり<ruby>見る<rt>みる</rt></ruby>ことができません。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんは、少しずつ元気に動くようになっています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<span class=\"vw\" data-ja=\"少しずつ\" data-reading=\"すこしずつ\" data-en=\"little by little\"><ruby>少し<rt>すこし</rt></ruby>ずつ</span><ruby>元気<rt>げんき</rt></ruby>に<ruby>動く<rt>うごく</rt></ruby>ようになっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの名前は、まだ決まっていません。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "見ることができるまでは、SNSなどで赤ちゃんの様子を伝えていく予定です。",
+      "ruby": "<ruby>見る<rt>みる</rt></ruby>ことができるまでは、SNSなどで<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>ていく<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "いつ見ることができるかは、決まったらホームページで知らせるということです。",
+      "ruby": "いつ<ruby>見る<rt>みる</rt></ruby>ことができるかは、<ruby>決ま<rt>きま</rt></ruby>ったらホームページで<span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let know, to announce\"><ruby>知らせ<rt>しらせ</rt></ruby>るということです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "オカピの赤ちゃんは、男の子ですか、女の子ですか。",
+      "ruby": "オカピの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>男の子<rt>おとこのこ</rt></ruby>ですか、<span class=\"vw\" data-ja=\"女の子\" data-reading=\"おんなのこ\" data-en=\"girl\"><ruby>女の子<rt>おんなのこ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A girl."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、何月何日に生まれましたか。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "September third."
+    },
+    {
+      "speaker": "slow",
+      "text": "お母さんは何歳ですか。",
+      "ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>何歳<rt>なんさい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eleven."
+    },
+    {
+      "speaker": "slow",
+      "text": "お父さんの名前は何ですか。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bakari."
+    },
+    {
+      "speaker": "slow",
+      "text": "オカピは、どの動物の仲間ですか。",
+      "ruby": "オカピは、どの<ruby>動物<rt>どうぶつ</rt></ruby>の<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"relative, member of the same group\"><ruby>仲間<rt>なかま</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The giraffe."
+    },
+    {
+      "speaker": "slow",
+      "text": "オカピの足には、何のようなもようがありますか。",
+      "ruby": "オカピの<span class=\"vw\" data-ja=\"足\" data-reading=\"あし\" data-en=\"leg, foot\"><ruby>足<rt>あし</rt></ruby></span>には、<ruby>何の<rt>なんの</rt></ruby>ようなもようがありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Stripes like a zebra."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんの名前は、もう決まりましたか。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、もう<ruby>決ま<rt>きま</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No, not yet."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
