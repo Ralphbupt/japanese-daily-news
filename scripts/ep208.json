@@ -1,0 +1,569 @@
+{
+  "episode": 208,
+  "title": "卓球・松島輝空が世界ランキング1位、日本男子46年ぶり",
+  "date": "2026-10-07",
+  "source": "テレ東卓球NEWS / Olympics.com / Yahoo!ニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026100701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "player, athlete",
+      "zh": "选手，运动员"
+    },
+    {
+      "ja": "国際",
+      "reading": "こくさい",
+      "en": "international",
+      "zh": "国际"
+    },
+    {
+      "ja": "以来",
+      "reading": "いらい",
+      "en": "since",
+      "zh": "以来，自从"
+    },
+    {
+      "ja": "最も",
+      "reading": "もっとも",
+      "en": "most",
+      "zh": "最"
+    },
+    {
+      "ja": "記録",
+      "reading": "きろく",
+      "en": "record",
+      "zh": "记录"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease",
+      "zh": "减少"
+    },
+    {
+      "ja": "以外",
+      "reading": "いがい",
+      "en": "other than, except",
+      "zh": "以外，除了"
+    },
+    {
+      "ja": "上位",
+      "reading": "じょうい",
+      "en": "top ranks, higher position",
+      "zh": "前几名，上位"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "championship win, victory",
+      "zh": "夺冠，冠军"
+    },
+    {
+      "ja": "貢献",
+      "reading": "こうけん",
+      "en": "contribution",
+      "zh": "贡献"
+    },
+    {
+      "ja": "順位",
+      "reading": "じゅんい",
+      "en": "ranking, position",
+      "zh": "名次，排名"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention",
+      "zh": "关注，注目"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~, for the first time since ~",
+      "meaningZh": "自从……以来",
+      "formation": "noun / verb て-form + 以来",
+      "example": "日本の男子選手が世界1位になるのは、1980年の小野誠治さん以来、46年ぶりです。",
+      "translation": "It's the first time in 46 years a Japanese man is world number one, since Seiji Ono in 1980.",
+      "note": "Marks a starting point in the past. Often paired with 〜ぶり (for the first time in ~).",
+      "noteZh": "表示从过去某一时间点开始。常与「〜ぶり」（时隔……）一起使用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#以来"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because of ~, due to ~",
+      "meaningZh": "因为……，由于……",
+      "formation": "plain form + ため / noun + のため",
+      "example": "ほかの選手のポイントが減ったため、1位に上がりました。",
+      "translation": "Because other players' points went down, he rose to first.",
+      "note": "A formal way to give a reason, common in news. 減ったため = because (they) decreased.",
+      "noteZh": "较正式的原因表达，新闻中常用。減ったため＝因为减少了。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否……",
+      "formation": "plain form + かどうか",
+      "example": "これから1位を守れるかどうかにも注目が集まっています。",
+      "translation": "People are also watching whether he can keep first place.",
+      "note": "Embeds a yes/no question in a sentence. 守れるかどうか = whether he can keep it.",
+      "noteZh": "把是非疑问嵌入句中。守れるかどうか＝能否守住。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#かどうか"
+    }
+  ],
+  "practiceZh": [
+    "卓球の男子シングルスの世界ランキングで、19歳の松島選手が1位になりました。\n乒乓球男子单打世界排名中，19岁的松岛辉空选手升至第一位。\n選手 = player, athlete",
+    "国際卓球連盟が、5日に新しいランキングを発表しました。\n国际乒乓球联合会于5日公布了新的排名。\n国際 = international",
+    "日本の男子選手が世界1位になるのは、1980年の小野誠治さん以来、46年ぶりです。\n日本男子选手成为世界第一，是继1980年的小野诚治之后，时隔46年。\n以来 = since",
+    "松島選手は19歳5か月で、世界1位になった選手の中で、最も若い記録です。\n松岛选手19岁5个月，是成为世界第一的选手中最年轻的纪录。\n最も = most",
+    "これまでの記録は、中国の選手が持っていた19歳9か月でした。\n此前的纪录是中国选手保持的19岁9个月。\n記録 = record",
+    "松島選手は先週まで3位でしたが、ほかの選手のポイントが減ったため、1位に上がりました。\n松岛选手上周还是第三名，但由于其他选手的积分减少，升到了第一名。\n減る = to decrease",
+    "中国以外の選手が1位になるのは、2018年のドイツのティモ・ボル選手以来、8年ぶりです。\n中国以外的选手成为第一，是继2018年德国的波尔之后，时隔8年。\n以外 = other than, except",
+    "また、3位には日本の張本智和選手が入り、上位3人に中国の選手がいなくなりました。\n此外，日本的张本智和选手排名第三，前三名中没有了中国选手。\n上位 = top ranks, higher position",
+    "松島選手は今年7月、アメリカで行われた大きな大会で初めて優勝しました。\n松岛选手今年7月在美国举行的大型比赛中首次夺冠。\n優勝 = championship win, victory",
+    "先月のアジア大会では、男子団体で、日本の60年ぶりの金メダルに貢献しました。\n在上个月的亚运会上，他为日本男子团体时隔60年夺得金牌做出了贡献。\n貢献 = contribution",
+    "松島選手は3年前、世界ランキングで151位でしたが、少しずつ順位を上げてきました。\n松岛选手三年前世界排名第151位，但一点一点地提升了名次。\n順位 = ranking, position",
+    "ランキングは毎週発表されるため、これから1位を守れるかどうかにも注目が集まっています。\n由于排名每周公布，他今后能否守住第一也备受关注。\n注目 = attention"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October seventh. This evening: a historic first in table tennis. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "卓球の男子シングルスの世界ランキングで、19歳の松島選手が1位になりました。",
+      "ruby": "<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby>シングルスの<ruby>世界<rt>せかい</rt></ruby>ランキングで、19<ruby>歳<rt>さい</rt></ruby>の<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国際卓球連盟が、5日に新しいランキングを発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"国際\" data-reading=\"こくさい\" data-en=\"international\"><ruby>国際<rt>こくさい</rt></ruby></span><ruby>卓球<rt>たっきゅう</rt></ruby><ruby>連盟<rt>れんめい</rt></ruby>が、<ruby>5日<rt>いつか</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>ランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の男子選手が世界1位になるのは、1980年の小野誠治さん以来、46年ぶりです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になるのは、1980<ruby>年<rt>ねん</rt></ruby>の<ruby>小野<rt>おの</rt></ruby><ruby>誠治<rt>せいじ</rt></ruby>さん<span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>、46<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は19歳5か月で、世界1位になった選手の中で、最も若い記録です。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は19<ruby>歳<rt>さい</rt></ruby>5か<ruby>月<rt>がつ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になった<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<span class=\"vw\" data-ja=\"最も\" data-reading=\"もっとも\" data-en=\"most\"><ruby>最も<rt>もっとも</rt></ruby></span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでの記録は、中国の選手が持っていた19歳9か月でした。",
+      "ruby": "これまでの<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>は、<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>持っ<rt>もっ</rt></ruby>ていた19<ruby>歳<rt>さい</rt></ruby>9か<ruby>月<rt>がつ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は先週まで3位でしたが、ほかの選手のポイントが減ったため、1位に上がりました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>先週<rt>せんしゅう</rt></ruby>まで3<ruby>位<rt>い</rt></ruby>でしたが、ほかの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のポイントが<ruby>減っ<rt>へっ</rt></ruby>たため、1<ruby>位<rt>い</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国以外の選手が1位になるのは、2018年のドイツのティモ・ボル選手以来、8年ぶりです。",
+      "ruby": "<ruby>中国以外<rt>ちゅうごくいがい</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が1<ruby>位<rt>い</rt></ruby>になるのは、2018<ruby>年<rt>ねん</rt></ruby>のドイツのティモ・ボル<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>、8<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、3位には日本の張本智和選手が入り、上位3人に中国の選手がいなくなりました。",
+      "ruby": "また、3<ruby>位<rt>い</rt></ruby>には<ruby>日本<rt>にほん</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>智和<rt>ともかず</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>入り<rt>はいり</rt></ruby>、<span class=\"vw\" data-ja=\"上位\" data-reading=\"じょうい\" data-en=\"top ranks, higher position\"><ruby>上位<rt>じょうい</rt></ruby></span>3<ruby>人<rt>にん</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がいなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は今年7月、アメリカで行われた大きな大会で初めて優勝しました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>、アメリカで<ruby>行わ<rt>おこなわ</rt></ruby>れた<ruby>大き<rt>おおき</rt></ruby>な<ruby>大会<rt>たいかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship win, victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "先月のアジア大会では、男子団体で、日本の60年ぶりの金メダルに貢献しました。",
+      "ruby": "<ruby>先月<rt>せんげつ</rt></ruby>のアジア<ruby>大会<rt>たいかい</rt></ruby>では、<ruby>男子<rt>だんし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>の60<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>金<rt>きん</rt></ruby>メダルに<span class=\"vw\" data-ja=\"貢献\" data-reading=\"こうけん\" data-en=\"contribution\"><ruby>貢献<rt>こうけん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は3年前、世界ランキングで151位でしたが、少しずつ順位を上げてきました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は3<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>ランキングで151<ruby>位<rt>い</rt></ruby>でしたが、<ruby>少し<rt>すこし</rt></ruby>ずつ<span class=\"vw\" data-ja=\"順位\" data-reading=\"じゅんい\" data-en=\"ranking, position\"><ruby>順位<rt>じゅんい</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ランキングは毎週発表されるため、これから1位を守れるかどうかにも注目が集まっています。",
+      "ruby": "ランキングは<ruby>毎週発表<rt>まいしゅうはっぴょう</rt></ruby>されるため、これから1<ruby>位<rt>い</rt></ruby>を<ruby>守れ<rt>まもれ</rt></ruby>るかどうかにも<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "卓球の男子シングルスの世界ランキングで、19歳の松島選手が1位になりました。",
+      "ruby": "<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby>シングルスの<ruby>世界<rt>せかい</rt></ruby>ランキングで、19<ruby>歳<rt>さい</rt></ruby>の<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the men's singles world table tennis rankings, nineteen-year-old Sora Matsushima is now number one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選手",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means player or athlete."
+    },
+    {
+      "speaker": "slow",
+      "text": "国際卓球連盟が、5日に新しいランキングを発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"国際\" data-reading=\"こくさい\" data-en=\"international\"><ruby>国際<rt>こくさい</rt></ruby></span><ruby>卓球<rt>たっきゅう</rt></ruby><ruby>連盟<rt>れんめい</rt></ruby>が、<ruby>5日<rt>いつか</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>ランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The International Table Tennis Federation announced the new rankings on the fifth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "国際",
+      "ruby": "<span class=\"vw\" data-ja=\"国際\" data-reading=\"こくさい\" data-en=\"international\"><ruby>国際<rt>こくさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means international."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の男子選手が世界1位になるのは、1980年の小野誠治さん以来、46年ぶりです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になるのは、1980<ruby>年<rt>ねん</rt></ruby>の<ruby>小野<rt>おの</rt></ruby><ruby>誠治<rt>せいじ</rt></ruby>さん<span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>、46<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the first time in forty-six years a Japanese man is world number one, since Seiji Ono in nineteen eighty."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以来",
+      "ruby": "<span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means since."
+    },
+    {
+      "speaker": "slow",
+      "text": "松島選手は19歳5か月で、世界1位になった選手の中で、最も若い記録です。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は19<ruby>歳<rt>さい</rt></ruby>5か<ruby>月<rt>がつ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になった<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<span class=\"vw\" data-ja=\"最も\" data-reading=\"もっとも\" data-en=\"most\"><ruby>最も<rt>もっとも</rt></ruby></span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "At nineteen years and five months, he is the youngest world number one ever."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最も",
+      "ruby": "<span class=\"vw\" data-ja=\"最も\" data-reading=\"もっとも\" data-en=\"most\"><ruby>最も<rt>もっとも</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the most."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでの記録は、中国の選手が持っていた19歳9か月でした。",
+      "ruby": "これまでの<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>は、<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>持っ<rt>もっ</rt></ruby>ていた19<ruby>歳<rt>さい</rt></ruby>9か<ruby>月<rt>がつ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The old record, nineteen years and nine months, was held by a Chinese player."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録",
+      "ruby": "<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a record."
+    },
+    {
+      "speaker": "slow",
+      "text": "松島選手は先週まで3位でしたが、ほかの選手のポイントが減ったため、1位に上がりました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>先週<rt>せんしゅう</rt></ruby>まで3<ruby>位<rt>い</rt></ruby>でしたが、ほかの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のポイントが<ruby>減っ<rt>へっ</rt></ruby>たため、1<ruby>位<rt>い</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He was third until last week, but rose to first because other players' points went down."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "中国以外の選手が1位になるのは、2018年のドイツのティモ・ボル選手以来、8年ぶりです。",
+      "ruby": "<ruby>中国以外<rt>ちゅうごくいがい</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が1<ruby>位<rt>い</rt></ruby>になるのは、2018<ruby>年<rt>ねん</rt></ruby>のドイツのティモ・ボル<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>、8<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the first time in eight years a non-Chinese player is number one, since Germany's Timo Boll in twenty eighteen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以外",
+      "ruby": "<span class=\"vw\" data-ja=\"以外\" data-reading=\"いがい\" data-en=\"other than, except\"><ruby>以外<rt>いがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means other than."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、3位には日本の張本智和選手が入り、上位3人に中国の選手がいなくなりました。",
+      "ruby": "また、3<ruby>位<rt>い</rt></ruby>には<ruby>日本<rt>にほん</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>智和<rt>ともかず</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>入り<rt>はいり</rt></ruby>、<span class=\"vw\" data-ja=\"上位\" data-reading=\"じょうい\" data-en=\"top ranks, higher position\"><ruby>上位<rt>じょうい</rt></ruby></span>3<ruby>人<rt>にん</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がいなくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's Tomokazu Harimoto is third, so there's no Chinese player in the top three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上位",
+      "ruby": "<span class=\"vw\" data-ja=\"上位\" data-reading=\"じょうい\" data-en=\"top ranks, higher position\"><ruby>上位<rt>じょうい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the top ranks."
+    },
+    {
+      "speaker": "slow",
+      "text": "松島選手は今年7月、アメリカで行われた大きな大会で初めて優勝しました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>、アメリカで<ruby>行わ<rt>おこなわ</rt></ruby>れた<ruby>大き<rt>おおき</rt></ruby>な<ruby>大会<rt>たいかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship win, victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In July, he won a big tournament in America for the first time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship win, victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winning a championship."
+    },
+    {
+      "speaker": "slow",
+      "text": "先月のアジア大会では、男子団体で、日本の60年ぶりの金メダルに貢献しました。",
+      "ruby": "<ruby>先月<rt>せんげつ</rt></ruby>のアジア<ruby>大会<rt>たいかい</rt></ruby>では、<ruby>男子<rt>だんし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>の60<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>金<rt>きん</rt></ruby>メダルに<span class=\"vw\" data-ja=\"貢献\" data-reading=\"こうけん\" data-en=\"contribution\"><ruby>貢献<rt>こうけん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At last month's Asian Games, he helped Japan win its first men's team gold in sixty years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "貢献",
+      "ruby": "<span class=\"vw\" data-ja=\"貢献\" data-reading=\"こうけん\" data-en=\"contribution\"><ruby>貢献<rt>こうけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a contribution."
+    },
+    {
+      "speaker": "slow",
+      "text": "松島選手は3年前、世界ランキングで151位でしたが、少しずつ順位を上げてきました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は3<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>ランキングで151<ruby>位<rt>い</rt></ruby>でしたが、<ruby>少し<rt>すこし</rt></ruby>ずつ<span class=\"vw\" data-ja=\"順位\" data-reading=\"じゅんい\" data-en=\"ranking, position\"><ruby>順位<rt>じゅんい</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three years ago he was ranked one hundred fifty-first, but he climbed little by little."
+    },
+    {
+      "speaker": "vocab",
+      "text": "順位",
+      "ruby": "<span class=\"vw\" data-ja=\"順位\" data-reading=\"じゅんい\" data-en=\"ranking, position\"><ruby>順位<rt>じゅんい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ranking or position."
+    },
+    {
+      "speaker": "slow",
+      "text": "ランキングは毎週発表されるため、これから1位を守れるかどうかにも注目が集まっています。",
+      "ruby": "ランキングは<ruby>毎週発表<rt>まいしゅうはっぴょう</rt></ruby>されるため、これから1<ruby>位<rt>い</rt></ruby>を<ruby>守れ<rt>まもれ</rt></ruby>るかどうかにも<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Rankings come out every week, so people are watching whether he can keep first place."
+    },
+    {
+      "speaker": "vocab",
+      "text": "注目",
+      "ruby": "<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attention."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "卓球の男子シングルスの世界ランキングで、19歳の松島選手が1位になりました。",
+      "ruby": "<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby>シングルスの<ruby>世界<rt>せかい</rt></ruby>ランキングで、19<ruby>歳<rt>さい</rt></ruby>の<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国際卓球連盟が、5日に新しいランキングを発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"国際\" data-reading=\"こくさい\" data-en=\"international\"><ruby>国際<rt>こくさい</rt></ruby></span><ruby>卓球<rt>たっきゅう</rt></ruby><ruby>連盟<rt>れんめい</rt></ruby>が、<ruby>5日<rt>いつか</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>ランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の男子選手が世界1位になるのは、1980年の小野誠治さん以来、46年ぶりです。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になるのは、1980<ruby>年<rt>ねん</rt></ruby>の<ruby>小野<rt>おの</rt></ruby><ruby>誠治<rt>せいじ</rt></ruby>さん<span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>、46<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は19歳5か月で、世界1位になった選手の中で、最も若い記録です。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は19<ruby>歳<rt>さい</rt></ruby>5か<ruby>月<rt>がつ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になった<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<span class=\"vw\" data-ja=\"最も\" data-reading=\"もっとも\" data-en=\"most\"><ruby>最も<rt>もっとも</rt></ruby></span><ruby>若い<rt>わかい</rt></ruby><span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでの記録は、中国の選手が持っていた19歳9か月でした。",
+      "ruby": "これまでの<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>は、<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>持っ<rt>もっ</rt></ruby>ていた19<ruby>歳<rt>さい</rt></ruby>9か<ruby>月<rt>がつ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は先週まで3位でしたが、ほかの選手のポイントが減ったため、1位に上がりました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>先週<rt>せんしゅう</rt></ruby>まで3<ruby>位<rt>い</rt></ruby>でしたが、ほかの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のポイントが<ruby>減っ<rt>へっ</rt></ruby>たため、1<ruby>位<rt>い</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中国以外の選手が1位になるのは、2018年のドイツのティモ・ボル選手以来、8年ぶりです。",
+      "ruby": "<ruby>中国以外<rt>ちゅうごくいがい</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が1<ruby>位<rt>い</rt></ruby>になるのは、2018<ruby>年<rt>ねん</rt></ruby>のドイツのティモ・ボル<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>、8<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、3位には日本の張本智和選手が入り、上位3人に中国の選手がいなくなりました。",
+      "ruby": "また、3<ruby>位<rt>い</rt></ruby>には<ruby>日本<rt>にほん</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>智和<rt>ともかず</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>入り<rt>はいり</rt></ruby>、<span class=\"vw\" data-ja=\"上位\" data-reading=\"じょうい\" data-en=\"top ranks, higher position\"><ruby>上位<rt>じょうい</rt></ruby></span>3<ruby>人<rt>にん</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がいなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は今年7月、アメリカで行われた大きな大会で初めて優勝しました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>、アメリカで<ruby>行わ<rt>おこなわ</rt></ruby>れた<ruby>大き<rt>おおき</rt></ruby>な<ruby>大会<rt>たいかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship win, victory\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "先月のアジア大会では、男子団体で、日本の60年ぶりの金メダルに貢献しました。",
+      "ruby": "<ruby>先月<rt>せんげつ</rt></ruby>のアジア<ruby>大会<rt>たいかい</rt></ruby>では、<ruby>男子<rt>だんし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>の60<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>金<rt>きん</rt></ruby>メダルに<span class=\"vw\" data-ja=\"貢献\" data-reading=\"こうけん\" data-en=\"contribution\"><ruby>貢献<rt>こうけん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松島選手は3年前、世界ランキングで151位でしたが、少しずつ順位を上げてきました。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は3<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>ランキングで151<ruby>位<rt>い</rt></ruby>でしたが、<ruby>少し<rt>すこし</rt></ruby>ずつ<span class=\"vw\" data-ja=\"順位\" data-reading=\"じゅんい\" data-en=\"ranking, position\"><ruby>順位<rt>じゅんい</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ランキングは毎週発表されるため、これから1位を守れるかどうかにも注目が集まっています。",
+      "ruby": "ランキングは<ruby>毎週発表<rt>まいしゅうはっぴょう</rt></ruby>されるため、これから1<ruby>位<rt>い</rt></ruby>を<ruby>守れ<rt>まもれ</rt></ruby>るかどうかにも<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>が<ruby>集ま<rt>あつま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "松島選手は、何歳ですか。",
+      "ruby": "<ruby>松島<rt>まつしま</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>何歳<rt>なんさい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nineteen."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の男子選手が世界1位になるのは、何年ぶりですか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>世界<rt>せかい</rt></ruby>1<ruby>位<rt>い</rt></ruby>になるのは、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty-six years."
+    },
+    {
+      "speaker": "slow",
+      "text": "3位に入った日本の選手はだれですか。",
+      "ruby": "3<ruby>位<rt>い</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>た<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"player, athlete\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はだれですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tomokazu Harimoto."
+    },
+    {
+      "speaker": "slow",
+      "text": "アジア大会の男子団体で、日本は何年ぶりに金メダルを取りましたか。",
+      "ruby": "アジア<ruby>大会<rt>たいかい</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>は<ruby>何年<rt>なんねん</rt></ruby>ぶりに<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取り<rt>とり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty years."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
