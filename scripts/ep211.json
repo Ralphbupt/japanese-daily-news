@@ -1,0 +1,503 @@
+{
+  "episode": 211,
+  "title": "奥日光で、この秋初めての霜と氷",
+  "date": "2026-10-09",
+  "source": "NHK、下野新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026100901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "霜",
+      "reading": "しも",
+      "en": "frost",
+      "zh": "霜"
+    },
+    {
+      "ja": "寒さ",
+      "reading": "さむさ",
+      "en": "cold, coldness",
+      "zh": "寒冷"
+    },
+    {
+      "ja": "高さ",
+      "reading": "たかさ",
+      "en": "height",
+      "zh": "高度"
+    },
+    {
+      "ja": "凍る",
+      "reading": "こおる",
+      "en": "to freeze",
+      "zh": "结冰，冻"
+    },
+    {
+      "ja": "白い",
+      "reading": "しろい",
+      "en": "white",
+      "zh": "白色的"
+    },
+    {
+      "ja": "すべて",
+      "reading": "すべて",
+      "en": "all, every",
+      "zh": "全部，所有"
+    },
+    {
+      "ja": "下がる",
+      "reading": "さがる",
+      "en": "to go down, to drop",
+      "zh": "下降"
+    },
+    {
+      "ja": "景色",
+      "reading": "けしき",
+      "en": "scenery, view",
+      "zh": "景色，风景"
+    },
+    {
+      "ja": "思う",
+      "reading": "おもう",
+      "en": "to think",
+      "zh": "想，认为"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てある",
+      "meaning": "has been done (and stays that way)",
+      "meaningZh": "（某人）做了……（状态保持着）",
+      "formation": "verb て-form + ある",
+      "example": "朝5時半ごろ、店のうらに置いてあったバケツの水が凍っていました。",
+      "translation": "Around five thirty in the morning, water in a bucket left behind a shop had frozen.",
+      "note": "Describes a state left on purpose by someone. 置いてある = has been placed.",
+      "noteZh": "表示有人有意做了某事后留下的状态。置いてある＝放着。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てある"
+    },
+    {
+      "pattern": "〜くなる",
+      "meaning": "to become ~ (i-adjective)",
+      "meaningZh": "变得……（い形容词）",
+      "formation": "i-adjective (drop い) + くなる",
+      "example": "近くの草や木も、霜で白くなっていました。",
+      "translation": "Nearby grass and trees had also turned white with frost.",
+      "note": "Shows change of state. 白い → 白くなる = turn white.",
+      "noteZh": "表示状态变化。白い→白くなる＝变白。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#なる"
+    },
+    {
+      "pattern": "〜に来る",
+      "meaning": "to come (in order) to do ~",
+      "meaningZh": "来做……",
+      "formation": "verb ます-stem + に来る",
+      "example": "朝早く、たくさんの人が、きれいな景色の写真をとりに来ていました。",
+      "translation": "Early in the morning, many people came to take photos of the beautiful scenery.",
+      "note": "Shows purpose of coming. とりに来る = come to take.",
+      "noteZh": "表示来的目的。とりに来る＝来拍。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#にいく"
+    },
+    {
+      "pattern": "〜とは思わなかった",
+      "meaning": "never thought that ~",
+      "meaningZh": "没想到……",
+      "formation": "plain form + とは思わなかった",
+      "example": "こんなに寒くなるとは思いませんでした。",
+      "translation": "I never thought it would get this cold.",
+      "note": "Expresses surprise at something unexpected.",
+      "noteZh": "表示对意外情况的惊讶。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#とおもう"
+    }
+  ],
+  "practiceZh": [
+    "栃木県の奥日光で、この秋初めて、霜と氷が見られました。\n栃木县的奥日光今年秋天第一次出现了霜和冰。\n霜 = frost",
+    "8日の朝、栃木県では、この秋いちばんの寒さになりました。\n8日早上，栃木县迎来了今年秋天最冷的天气。\n寒さ = cold, coldness",
+    "奥日光の戦場ヶ原は、高さがおよそ1400メートルのところにあります。\n奥日光的战场原位于海拔约1400米的地方。\n高さ = height",
+    "朝5時半ごろ、店のうらに置いてあったバケツの水が凍っていました。\n早上5点半左右，放在店铺后面的水桶里的水结冰了。\n凍る = to freeze",
+    "近くの草や木も、霜で白くなっていました。\n附近的草和树也被霜染白了。\n白い = white",
+    "栃木県の14か所すべてで、この秋いちばん低い気温になりました。\n栃木县全部14个地点都出现了今年秋天的最低气温。\nすべて = all, every",
+    "那須町の那須高原では、気温が6.2度まで下がりました。\n那须町的那须高原气温降到了6.2度。\n下がる = to go down, to drop",
+    "朝早く、たくさんの人が、きれいな景色の写真をとりに来ていました。\n一大早，很多人来拍摄美丽的景色。\n景色 = scenery, view",
+    "東京から来た81歳の男性は「こんなに寒くなるとは思いませんでした」と話していました。\n从东京来的一位81岁男性说：“没想到会这么冷。”\n思う = to think"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October ninth. This morning: the first frost and ice of the autumn in the mountains north of Tokyo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "栃木県の奥日光で、この秋初めて、霜と氷が見られました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>で、この<ruby>秋<rt>あき</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby>、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>と<ruby>氷<rt>こおり</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の朝、栃木県では、この秋いちばんの寒さになりました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>栃木県<rt>とちぎけん</rt></ruby>では、この<ruby>秋<rt>あき</rt></ruby>いちばんの<span class=\"vw\" data-ja=\"寒さ\" data-reading=\"さむさ\" data-en=\"cold, coldness\"><ruby>寒さ<rt>さむさ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "奥日光の戦場ヶ原は、高さがおよそ1400メートルのところにあります。",
+      "ruby": "<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>の<ruby>戦場ヶ原<rt>せんじょうがはら</rt></ruby>は、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>がおよそ1400メートルのところにあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝5時半ごろ、店のうらに置いてあったバケツの水が凍っていました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>5<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>店<rt>みせ</rt></ruby>のうらに<ruby>置い<rt>おい</rt></ruby>てあったバケツの<ruby>水<rt>みず</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "近くの草や木も、霜で白くなっていました。",
+      "ruby": "<ruby>近く<rt>ちかく</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>や<ruby>木<rt>き</rt></ruby>も、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>で<ruby>白く<rt>しろく</rt></ruby>なっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "栃木県の14か所すべてで、この秋いちばん低い気温になりました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の14か<ruby>所<rt>ところ</rt></ruby><span class=\"vw\" data-ja=\"すべて\" data-reading=\"すべて\" data-en=\"all, every\">すべてで</span>、この<ruby>秋<rt>あき</rt></ruby>いちばん<ruby>低い<rt>ひくい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "那須町の那須高原では、気温が6.2度まで下がりました。",
+      "ruby": "<ruby>那須<rt>なす</rt></ruby><ruby>町<rt>まち</rt></ruby>の<ruby>那須<rt>なす</rt></ruby><ruby>高原<rt>こうげん</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が6.2<ruby>度<rt>ど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝早く、たくさんの人が、きれいな景色の写真をとりに来ていました。",
+      "ruby": "<ruby>朝早く<rt>あさはやく</rt></ruby>、たくさんの<ruby>人<rt>ひと</rt></ruby>が、きれいな<span class=\"vw\" data-ja=\"景色\" data-reading=\"けしき\" data-en=\"scenery, view\"><ruby>景色<rt>けしき</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>をとりに<ruby>来て<rt>きて</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京から来た81歳の男性は「こんなに寒くなるとは思いませんでした」と話していました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来た<rt>きた</rt></ruby>81<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「こんなに<ruby>寒く<rt>さむく</rt></ruby>なるとは<ruby>思い<rt>おもい</rt></ruby>ませんでした」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "栃木県の奥日光で、この秋初めて、霜と氷が見られました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>で、この<ruby>秋<rt>あき</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby>、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>と<ruby>氷<rt>こおり</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Oku-Nikko, in Tochigi Prefecture, frost and ice were seen for the first time this autumn."
+    },
+    {
+      "speaker": "vocab",
+      "text": "霜",
+      "ruby": "<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means frost."
+    },
+    {
+      "speaker": "slow",
+      "text": "8日の朝、栃木県では、この秋いちばんの寒さになりました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>栃木県<rt>とちぎけん</rt></ruby>では、この<ruby>秋<rt>あき</rt></ruby>いちばんの<span class=\"vw\" data-ja=\"寒さ\" data-reading=\"さむさ\" data-en=\"cold, coldness\"><ruby>寒さ<rt>さむさ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the eighth, Tochigi had its coldest weather so far this autumn."
+    },
+    {
+      "speaker": "vocab",
+      "text": "寒さ",
+      "ruby": "<span class=\"vw\" data-ja=\"寒さ\" data-reading=\"さむさ\" data-en=\"cold, coldness\"><ruby>寒さ<rt>さむさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the cold, or coldness."
+    },
+    {
+      "speaker": "slow",
+      "text": "奥日光の戦場ヶ原は、高さがおよそ1400メートルのところにあります。",
+      "ruby": "<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>の<ruby>戦場ヶ原<rt>せんじょうがはら</rt></ruby>は、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>がおよそ1400メートルのところにあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Senjogahara, a wide marshland in Oku-Nikko, sits at about one thousand four hundred meters above sea level."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高さ",
+      "ruby": "<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means height."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝5時半ごろ、店のうらに置いてあったバケツの水が凍っていました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>5<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>店<rt>みせ</rt></ruby>のうらに<ruby>置い<rt>おい</rt></ruby>てあったバケツの<ruby>水<rt>みず</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around five thirty in the morning, water in a bucket left behind a shop had frozen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "凍る",
+      "ruby": "<span class=\"vw\" data-ja=\"凍る\" data-reading=\"こおる\" data-en=\"to freeze\"><ruby>凍る<rt>こおる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to freeze."
+    },
+    {
+      "speaker": "slow",
+      "text": "近くの草や木も、霜で白くなっていました。",
+      "ruby": "<ruby>近く<rt>ちかく</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>や<ruby>木<rt>き</rt></ruby>も、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>で<ruby>白く<rt>しろく</rt></ruby>なっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nearby grass and trees had also turned white with frost."
+    },
+    {
+      "speaker": "vocab",
+      "text": "白い",
+      "ruby": "<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means white."
+    },
+    {
+      "speaker": "slow",
+      "text": "栃木県の14か所すべてで、この秋いちばん低い気温になりました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の14か<ruby>所<rt>ところ</rt></ruby><span class=\"vw\" data-ja=\"すべて\" data-reading=\"すべて\" data-en=\"all, every\">すべてで</span>、この<ruby>秋<rt>あき</rt></ruby>いちばん<ruby>低い<rt>ひくい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "All fourteen observation points in Tochigi recorded their lowest temperatures of the autumn."
+    },
+    {
+      "speaker": "vocab",
+      "text": "すべて",
+      "ruby": "<span class=\"vw\" data-ja=\"すべて\" data-reading=\"すべて\" data-en=\"all, every\">すべて</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all, or every."
+    },
+    {
+      "speaker": "slow",
+      "text": "那須町の那須高原では、気温が6.2度まで下がりました。",
+      "ruby": "<ruby>那須<rt>なす</rt></ruby><ruby>町<rt>まち</rt></ruby>の<ruby>那須<rt>なす</rt></ruby><ruby>高原<rt>こうげん</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が6.2<ruby>度<rt>ど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Nasu highlands, the temperature dropped to six point two degrees Celsius."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下がる",
+      "ruby": "<span class=\"vw\" data-ja=\"下がる\" data-reading=\"さがる\" data-en=\"to go down, to drop\"><ruby>下が<rt>さが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to go down, or drop."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝早く、たくさんの人が、きれいな景色の写真をとりに来ていました。",
+      "ruby": "<ruby>朝早く<rt>あさはやく</rt></ruby>、たくさんの<ruby>人<rt>ひと</rt></ruby>が、きれいな<span class=\"vw\" data-ja=\"景色\" data-reading=\"けしき\" data-en=\"scenery, view\"><ruby>景色<rt>けしき</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>をとりに<ruby>来て<rt>きて</rt></ruby>いました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Early in the morning, many people came to take photos of the beautiful scenery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "景色",
+      "ruby": "<span class=\"vw\" data-ja=\"景色\" data-reading=\"けしき\" data-en=\"scenery, view\"><ruby>景色<rt>けしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means scenery or view."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京から来た81歳の男性は「こんなに寒くなるとは思いませんでした」と話していました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来た<rt>きた</rt></ruby>81<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「こんなに<ruby>寒く<rt>さむく</rt></ruby>なるとは<ruby>思い<rt>おもい</rt></ruby>ませんでした」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "An eighty-one-year-old man from Tokyo said he never thought it would get this cold."
+    },
+    {
+      "speaker": "vocab",
+      "text": "思う",
+      "ruby": "<span class=\"vw\" data-ja=\"思う\" data-reading=\"おもう\" data-en=\"to think\"><ruby>思う<rt>おもう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to think."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "栃木県の奥日光で、この秋初めて、霜と氷が見られました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>で、この<ruby>秋<rt>あき</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby>、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>と<ruby>氷<rt>こおり</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の朝、栃木県では、この秋いちばんの寒さになりました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>栃木県<rt>とちぎけん</rt></ruby>では、この<ruby>秋<rt>あき</rt></ruby>いちばんの<span class=\"vw\" data-ja=\"寒さ\" data-reading=\"さむさ\" data-en=\"cold, coldness\"><ruby>寒さ<rt>さむさ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "奥日光の戦場ヶ原は、高さがおよそ1400メートルのところにあります。",
+      "ruby": "<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>の<ruby>戦場ヶ原<rt>せんじょうがはら</rt></ruby>は、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>がおよそ1400メートルのところにあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝5時半ごろ、店のうらに置いてあったバケツの水が凍っていました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>5<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>店<rt>みせ</rt></ruby>のうらに<ruby>置い<rt>おい</rt></ruby>てあったバケツの<ruby>水<rt>みず</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "近くの草や木も、霜で白くなっていました。",
+      "ruby": "<ruby>近く<rt>ちかく</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>や<ruby>木<rt>き</rt></ruby>も、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>で<ruby>白く<rt>しろく</rt></ruby>なっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "栃木県の14か所すべてで、この秋いちばん低い気温になりました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の14か<ruby>所<rt>ところ</rt></ruby><span class=\"vw\" data-ja=\"すべて\" data-reading=\"すべて\" data-en=\"all, every\">すべてで</span>、この<ruby>秋<rt>あき</rt></ruby>いちばん<ruby>低い<rt>ひくい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "那須町の那須高原では、気温が6.2度まで下がりました。",
+      "ruby": "<ruby>那須<rt>なす</rt></ruby><ruby>町<rt>まち</rt></ruby>の<ruby>那須<rt>なす</rt></ruby><ruby>高原<rt>こうげん</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が6.2<ruby>度<rt>ど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝早く、たくさんの人が、きれいな景色の写真をとりに来ていました。",
+      "ruby": "<ruby>朝早く<rt>あさはやく</rt></ruby>、たくさんの<ruby>人<rt>ひと</rt></ruby>が、きれいな<span class=\"vw\" data-ja=\"景色\" data-reading=\"けしき\" data-en=\"scenery, view\"><ruby>景色<rt>けしき</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>をとりに<ruby>来て<rt>きて</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京から来た81歳の男性は「こんなに寒くなるとは思いませんでした」と話していました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来た<rt>きた</rt></ruby>81<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「こんなに<ruby>寒く<rt>さむく</rt></ruby>なるとは<ruby>思い<rt>おもい</rt></ruby>ませんでした」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "奥日光で、この秋初めて見られたものは何ですか。",
+      "ruby": "<ruby>奥<rt>おく</rt></ruby><ruby>日光<rt>にっこう</rt></ruby>で、この<ruby>秋<rt>あき</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby><ruby>見ら<rt>みら</rt></ruby>れたものは<ruby>何<rt>なん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Frost and ice."
+    },
+    {
+      "speaker": "slow",
+      "text": "戦場ヶ原の高さは、およそ何メートルですか。",
+      "ruby": "<ruby>戦場ヶ原<rt>せんじょうがはら</rt></ruby>の<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は、およそ<ruby>何<rt>なん</rt></ruby>メートルですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one thousand four hundred meters."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝何時ごろ、バケツの水が凍っていましたか。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ごろ、バケツの<ruby>水<rt>みず</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>ていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around five thirty."
+    },
+    {
+      "speaker": "slow",
+      "text": "草や木は、霜で何色になりましたか。",
+      "ruby": "<ruby>草<rt>くさ</rt></ruby>や<ruby>木<rt>き</rt></ruby>は、<span class=\"vw\" data-ja=\"霜\" data-reading=\"しも\" data-en=\"frost\"><ruby>霜<rt>しも</rt></ruby></span>で<ruby>何色<rt>なにいろ</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "White."
+    },
+    {
+      "speaker": "slow",
+      "text": "栃木県の何か所で、この秋いちばん低い気温になりましたか。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>の<ruby>何か所<rt>なんかしょ</rt></ruby>で、この<ruby>秋<rt>あき</rt></ruby>いちばん<ruby>低い<rt>ひくい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "All fourteen places."
+    },
+    {
+      "speaker": "slow",
+      "text": "那須高原の気温は、何度まで下がりましたか。",
+      "ruby": "<ruby>那須<rt>なす</rt></ruby><ruby>高原<rt>こうげん</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>は、<ruby>何度<rt>なんど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Six point two degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京から来た男性は、何歳ですか。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>男性<rt>だんせい</rt></ruby>は、<ruby>何歳<rt>なんさい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty-one."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Stay warm, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
