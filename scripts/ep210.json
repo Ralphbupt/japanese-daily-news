@@ -1,0 +1,635 @@
+{
+  "episode": 210,
+  "title": "ビール大手4社に強制調査、価格カルテルの疑い",
+  "date": "2026-10-08",
+  "source": "NHK / 読売新聞 / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026100801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "強制調査",
+      "reading": "きょうせいちょうさ",
+      "en": "compulsory investigation, raid",
+      "zh": "强制调查"
+    },
+    {
+      "ja": "大手",
+      "reading": "おおて",
+      "en": "major company",
+      "zh": "大型企业，大公司"
+    },
+    {
+      "ja": "出荷",
+      "reading": "しゅっか",
+      "en": "shipment, shipping",
+      "zh": "出货，发货"
+    },
+    {
+      "ja": "疑い",
+      "reading": "うたがい",
+      "en": "suspicion",
+      "zh": "嫌疑，怀疑"
+    },
+    {
+      "ja": "禁止",
+      "reading": "きんし",
+      "en": "prohibition, ban",
+      "zh": "禁止"
+    },
+    {
+      "ja": "値上げ",
+      "reading": "ねあげ",
+      "en": "price increase",
+      "zh": "涨价"
+    },
+    {
+      "ja": "時期",
+      "reading": "じき",
+      "en": "timing, period",
+      "zh": "时期，时间"
+    },
+    {
+      "ja": "業界",
+      "reading": "ぎょうかい",
+      "en": "industry",
+      "zh": "行业，业界"
+    },
+    {
+      "ja": "そろって",
+      "reading": "そろって",
+      "en": "all together, in unison",
+      "zh": "一齐，一起"
+    },
+    {
+      "ja": "占める",
+      "reading": "しめる",
+      "en": "to account for, to make up",
+      "zh": "占（比例）"
+    },
+    {
+      "ja": "市場",
+      "reading": "しじょう",
+      "en": "market",
+      "zh": "市场"
+    },
+    {
+      "ja": "超える",
+      "reading": "こえる",
+      "en": "to exceed, to go over",
+      "zh": "超过"
+    },
+    {
+      "ja": "刑事告発",
+      "reading": "けいじこくはつ",
+      "en": "criminal complaint",
+      "zh": "刑事告发"
+    },
+    {
+      "ja": "視野に入れる",
+      "reading": "しやにいれる",
+      "en": "to take into consideration",
+      "zh": "纳入考虑范围"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "influence, effect",
+      "zh": "影响"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention, notice",
+      "zh": "关注，注目"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜とみられています",
+      "meaning": "is believed to ~ / is thought to ~",
+      "meaningZh": "被认为……，据推测……",
+      "formation": "plain form + とみられています",
+      "example": "4社は、値上げの幅や時期について、相談していたとみられています。",
+      "translation": "The four are believed to have discussed how much and when to raise prices.",
+      "note": "A news phrase for things that are likely but not yet confirmed. 相談していたとみられています = are believed to have discussed.",
+      "noteZh": "新闻常用表达，表示很可能但尚未证实的事情。相談していたとみられています＝被认为曾经商量过。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と言われている"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "reportedly ~ / it is said that ~",
+      "meaningZh": "据说……，据称……",
+      "formation": "plain form + ということです",
+      "example": "話し合いは、4社が入っている業界の団体の会議で行われていたということです。",
+      "translation": "The talks reportedly took place at meetings of an industry group.",
+      "note": "Used in news to pass on information heard from others.",
+      "noteZh": "新闻中用来转述从别处得到的信息。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    },
+    {
+      "pattern": "〜ぶりに",
+      "meaning": "for the first time in ~",
+      "meaningZh": "时隔……",
+      "formation": "time period + ぶりに",
+      "example": "たとえば、2022年10月には、14年ぶりに値上げをしました。",
+      "translation": "In October 2022, they raised prices for the first time in 14 years.",
+      "note": "Shows something happened again after a long gap. 14年ぶりに = for the first time in 14 years.",
+      "noteZh": "表示隔了一段时间后再次发生。14年ぶりに＝时隔14年。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜ば",
+      "meaning": "if ~",
+      "meaningZh": "如果……的话",
+      "formation": "verb/adjective ば-form (高い → 高くなれば)",
+      "example": "ビールの値段が高くなれば、わたしたちの生活にも影響が出るため、調査の行方が注目されています。",
+      "translation": "If beer prices go up, it affects our lives.",
+      "note": "Conditional form. 高くなれば = if (it) becomes expensive.",
+      "noteZh": "条件形。高くなれば＝如果变贵的话。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ば"
+    },
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~",
+      "meaningZh": "被称为……",
+      "formation": "noun + と呼ばれる",
+      "example": "このような約束は「カルテル」と呼ばれ、独占禁止法で禁止されています。",
+      "translation": "This kind of agreement is called a cartel.",
+      "note": "Introduces the name of something. 呼ばれ is the passive of 呼ぶ.",
+      "noteZh": "用来介绍某物的名称。呼ばれ是呼ぶ的被动形。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と呼ばれる"
+    }
+  ],
+  "practiceZh": [
+    "公正取引委員会は7日、大手のビールメーカーに強制調査に入りました。\n7日，公正交易委员会对大型啤酒厂商展开了强制调查。\n強制調査 = compulsory investigation, raid",
+    "調査を受けたのは、アサヒビール、キリンビール、サントリー、サッポロビールの4社です。\n接受调查的是朝日啤酒、麒麟啤酒、三得利和札幌啤酒四家公司。\n調査 = investigation",
+    "4社は、ビールや発泡酒の出荷価格を、話し合って決めていた疑いがあります。\n这四家公司涉嫌共同商定啤酒和发泡酒的出货价格。\n出荷 = shipment, shipping",
+    "このような約束は「カルテル」と呼ばれ、独占禁止法で禁止されています。\n这种约定被称为“卡特尔”，受《反垄断法》禁止。\n禁止 = prohibition, ban",
+    "4社は、値上げの幅や時期について、相談していたとみられています。\n据推测，四家公司曾商量过涨价的幅度和时间。\n値上げ = price increase",
+    "話し合いは、4社が入っている業界の団体の会議で行われていたということです。\n据说，商谈是在四家公司所属的行业团体的会议上进行的。\n業界 = industry",
+    "4社は、ここ数年、同じ日にそろって値上げをしてきました。\n近几年，四家公司一直在同一天一起涨价。\nそろって = all together, in unison",
+    "たとえば、2022年10月には、14年ぶりに値上げをしました。\n例如，2022年10月，它们时隔14年涨了价。\nぶり = for the first time in",
+    "4社のビールは、国内の売り上げの9割以上を占めています。\n四家公司的啤酒占国内销售额的九成以上。\n占める = to account for, to make up",
+    "ビールの市場は、1年に1兆円を超える大きさです。\n啤酒市场一年的规模超过1万亿日元。\n市場 = market",
+    "公正取引委員会は、刑事告発も視野に入れて調べています。\n公正交易委员会正在调查，也考虑提出刑事告发。\n刑事告発 = criminal complaint",
+    "ビールの値段が高くなれば、わたしたちの生活にも影響が出るため、調査の行方が注目されています。\n如果啤酒变贵，也会影响我们的生活，因此调查的走向备受关注。\n影響 / 注目 = influence, effect / attention, notice"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October eighth. Tonight: Japan's four biggest beer makers are raided over suspected price-fixing. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "公正取引委員会は7日、大手のビールメーカーに強制調査に入りました。",
+      "ruby": "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は<ruby>7日<rt>なのか</rt></ruby>、<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company\"><ruby>大手<rt>おおて</rt></ruby></span>のビールメーカーに<span class=\"vw\" data-ja=\"強制調査\" data-reading=\"きょうせいちょうさ\" data-en=\"compulsory investigation, raid\"><ruby>強制<rt>きょうせい</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査を受けたのは、アサヒビール、キリンビール、サントリー、サッポロビールの4社です。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たのは、アサヒビール、キリンビール、サントリー、サッポロビールの4<ruby>社<rt>しゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社は、ビールや発泡酒の出荷価格を、話し合って決めていた疑いがあります。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、ビールや<ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment, shipping\"><ruby>出荷<rt>しゅっか</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>を、<ruby>話し合っ<rt>はなしあっ</rt></ruby>て<ruby>決め<rt>きめ</rt></ruby>ていた<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion\"><ruby>疑い<rt>うたがい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "このような約束は「カルテル」と呼ばれ、独占禁止法で禁止されています。",
+      "ruby": "このような<ruby>約束<rt>やくそく</rt></ruby>は「カルテル」と<ruby>呼ば<rt>よば</rt></ruby>れ、<ruby>独占禁止法<rt>どくせんきんしほう</rt></ruby>で<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition, ban\"><ruby>禁止<rt>きんし</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社は、値上げの幅や時期について、相談していたとみられています。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>幅<rt>はば</rt></ruby>や<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"timing, period\"><ruby>時期<rt>じき</rt></ruby></span>について、<ruby>相談<rt>そうだん</rt></ruby>していたとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "話し合いは、4社が入っている業界の団体の会議で行われていたということです。",
+      "ruby": "<ruby>話し合い<rt>はなしあい</rt></ruby>は、4<ruby>社<rt>しゃ</rt></ruby>が<ruby>入っ<rt>いっっ</rt></ruby>ている<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<ruby>団体<rt>だんたい</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れていたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社は、ここ数年、同じ日にそろって値上げをしてきました。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、ここ<ruby>数年<rt>すうねん</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>にそろって<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>をしてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、2022年10月には、14年ぶりに値上げをしました。",
+      "ruby": "たとえば、2022<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>には、14<ruby>年<rt>ねん</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社のビールは、国内の売り上げの9割以上を占めています。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>のビールは、<ruby>国内<rt>こくない</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>の9<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>占め<rt>しめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビールの市場は、1年に1兆円を超える大きさです。",
+      "ruby": "ビールの<span class=\"vw\" data-ja=\"市場\" data-reading=\"しじょう\" data-en=\"market\"><ruby>市場<rt>しじょう</rt></ruby></span>は、1<ruby>年<rt>ねん</rt></ruby>に1<ruby>兆円<rt>ちょうえん</rt></ruby>を<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed, to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span><ruby>大きさ<rt>おおきさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "公正取引委員会は、刑事告発も視野に入れて調べています。",
+      "ruby": "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<span class=\"vw\" data-ja=\"刑事告発\" data-reading=\"けいじこくはつ\" data-en=\"criminal complaint\"><ruby>刑事<rt>けいじ</rt></ruby><ruby>告発<rt>こくはつ</rt></ruby></span>も<ruby>視野<rt>しや</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>て<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビールの値段が高くなれば、わたしたちの生活にも影響が出るため、調査の行方が注目されています。",
+      "ruby": "ビールの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なれば、わたしたちの<ruby>生活<rt>せいかつ</rt></ruby>にも<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence, effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>が<ruby>出る<rt>でる</rt></ruby>ため、<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>行方<rt>ゆくえ</rt></ruby>が<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention, notice\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "公正取引委員会は7日、大手のビールメーカーに強制調査に入りました。",
+      "ruby": "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は<ruby>7日<rt>なのか</rt></ruby>、<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company\"><ruby>大手<rt>おおて</rt></ruby></span>のビールメーカーに<span class=\"vw\" data-ja=\"強制調査\" data-reading=\"きょうせいちょうさ\" data-en=\"compulsory investigation, raid\"><ruby>強制<rt>きょうせい</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the seventh, the Fair Trade Commission launched a compulsory investigation into major beer makers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "強制調査",
+      "ruby": "<span class=\"vw\" data-ja=\"強制調査\" data-reading=\"きょうせいちょうさ\" data-en=\"compulsory investigation, raid\"><ruby>強制<rt>きょうせい</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a compulsory investigation, like a raid with a warrant."
+    },
+    {
+      "speaker": "slow",
+      "text": "調査を受けたのは、アサヒビール、キリンビール、サントリー、サッポロビールの4社です。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たのは、アサヒビール、キリンビール、サントリー、サッポロビールの4<ruby>社<rt>しゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The four companies investigated are Asahi, Kirin, Suntory, and Sapporo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調査",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means investigation."
+    },
+    {
+      "speaker": "slow",
+      "text": "4社は、ビールや発泡酒の出荷価格を、話し合って決めていた疑いがあります。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、ビールや<ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment, shipping\"><ruby>出荷<rt>しゅっか</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>を、<ruby>話し合っ<rt>はなしあっ</rt></ruby>て<ruby>決め<rt>きめ</rt></ruby>ていた<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion\"><ruby>疑い<rt>うたがい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "They are suspected of deciding the shipping prices of beer and low-malt beer together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出荷",
+      "ruby": "<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment, shipping\"><ruby>出荷<rt>しゅっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shipping goods out to stores."
+    },
+    {
+      "speaker": "slow",
+      "text": "このような約束は「カルテル」と呼ばれ、独占禁止法で禁止されています。",
+      "ruby": "このような<ruby>約束<rt>やくそく</rt></ruby>は「カルテル」と<ruby>呼ば<rt>よば</rt></ruby>れ、<ruby>独占禁止法<rt>どくせんきんしほう</rt></ruby>で<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition, ban\"><ruby>禁止<rt>きんし</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "This kind of agreement is called a cartel, and it is banned by the antimonopoly law."
+    },
+    {
+      "speaker": "vocab",
+      "text": "禁止",
+      "ruby": "<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition, ban\"><ruby>禁止<rt>きんし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prohibition, or being banned."
+    },
+    {
+      "speaker": "slow",
+      "text": "4社は、値上げの幅や時期について、相談していたとみられています。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>幅<rt>はば</rt></ruby>や<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"timing, period\"><ruby>時期<rt>じき</rt></ruby></span>について、<ruby>相談<rt>そうだん</rt></ruby>していたとみられています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The four are believed to have discussed how much and when to raise prices."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a price increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "話し合いは、4社が入っている業界の団体の会議で行われていたということです。",
+      "ruby": "<ruby>話し合い<rt>はなしあい</rt></ruby>は、4<ruby>社<rt>しゃ</rt></ruby>が<ruby>入っ<rt>いっっ</rt></ruby>ている<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<ruby>団体<rt>だんたい</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れていたということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The talks reportedly took place at meetings of an industry group the four belong to."
+    },
+    {
+      "speaker": "vocab",
+      "text": "業界",
+      "ruby": "<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means industry."
+    },
+    {
+      "speaker": "slow",
+      "text": "4社は、ここ数年、同じ日にそろって値上げをしてきました。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、ここ<ruby>数年<rt>すうねん</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>にそろって<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>をしてきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In recent years, all four raised prices on the same day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "そろって",
+      "ruby": "<span class=\"vw\" data-ja=\"そろって\" data-reading=\"そろって\" data-en=\"all together, in unison\">そろって</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all together, in unison."
+    },
+    {
+      "speaker": "slow",
+      "text": "たとえば、2022年10月には、14年ぶりに値上げをしました。",
+      "ruby": "たとえば、2022<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>には、14<ruby>年<rt>ねん</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "For example, in October twenty twenty-two, they raised prices for the first time in fourteen years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ぶり",
+      "ruby": "ぶり"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time in a certain amount of time."
+    },
+    {
+      "speaker": "slow",
+      "text": "4社のビールは、国内の売り上げの9割以上を占めています。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>のビールは、<ruby>国内<rt>こくない</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>の9<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>占め<rt>しめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The four companies' beer makes up more than ninety percent of domestic sales."
+    },
+    {
+      "speaker": "vocab",
+      "text": "占める",
+      "ruby": "<span class=\"vw\" data-ja=\"占める\" data-reading=\"しめる\" data-en=\"to account for, to make up\"><ruby>占め<rt>しめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to make up, or to account for."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビールの市場は、1年に1兆円を超える大きさです。",
+      "ruby": "ビールの<span class=\"vw\" data-ja=\"市場\" data-reading=\"しじょう\" data-en=\"market\"><ruby>市場<rt>しじょう</rt></ruby></span>は、1<ruby>年<rt>ねん</rt></ruby>に1<ruby>兆円<rt>ちょうえん</rt></ruby>を<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed, to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span><ruby>大きさ<rt>おおきさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The beer market is worth more than one trillion yen a year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "市場",
+      "ruby": "<span class=\"vw\" data-ja=\"市場\" data-reading=\"しじょう\" data-en=\"market\"><ruby>市場<rt>しじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means market."
+    },
+    {
+      "speaker": "slow",
+      "text": "公正取引委員会は、刑事告発も視野に入れて調べています。",
+      "ruby": "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<span class=\"vw\" data-ja=\"刑事告発\" data-reading=\"けいじこくはつ\" data-en=\"criminal complaint\"><ruby>刑事<rt>けいじ</rt></ruby><ruby>告発<rt>こくはつ</rt></ruby></span>も<ruby>視野<rt>しや</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>て<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The commission is also considering a criminal complaint."
+    },
+    {
+      "speaker": "vocab",
+      "text": "刑事告発",
+      "ruby": "<span class=\"vw\" data-ja=\"刑事告発\" data-reading=\"けいじこくはつ\" data-en=\"criminal complaint\"><ruby>刑事<rt>けいじ</rt></ruby><ruby>告発<rt>こくはつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a criminal complaint filed with prosecutors."
+    },
+    {
+      "speaker": "slow",
+      "text": "ビールの値段が高くなれば、わたしたちの生活にも影響が出るため、調査の行方が注目されています。",
+      "ruby": "ビールの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なれば、わたしたちの<ruby>生活<rt>せいかつ</rt></ruby>にも<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence, effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>が<ruby>出る<rt>でる</rt></ruby>ため、<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>行方<rt>ゆくえ</rt></ruby>が<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention, notice\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "If beer prices go up, it affects our daily lives, so people are watching where the investigation goes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "影響",
+      "ruby": "<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence, effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means influence, or effect."
+    },
+    {
+      "speaker": "vocab",
+      "text": "注目",
+      "ruby": "<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention, notice\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attention."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "公正取引委員会は7日、大手のビールメーカーに強制調査に入りました。",
+      "ruby": "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は<ruby>7日<rt>なのか</rt></ruby>、<span class=\"vw\" data-ja=\"大手\" data-reading=\"おおて\" data-en=\"major company\"><ruby>大手<rt>おおて</rt></ruby></span>のビールメーカーに<span class=\"vw\" data-ja=\"強制調査\" data-reading=\"きょうせいちょうさ\" data-en=\"compulsory investigation, raid\"><ruby>強制<rt>きょうせい</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby></span>に<ruby>入り<rt>いり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査を受けたのは、アサヒビール、キリンビール、サントリー、サッポロビールの4社です。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たのは、アサヒビール、キリンビール、サントリー、サッポロビールの4<ruby>社<rt>しゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社は、ビールや発泡酒の出荷価格を、話し合って決めていた疑いがあります。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、ビールや<ruby>発泡<rt>はっぽう</rt></ruby><ruby>酒<rt>さけ</rt></ruby>の<span class=\"vw\" data-ja=\"出荷\" data-reading=\"しゅっか\" data-en=\"shipment, shipping\"><ruby>出荷<rt>しゅっか</rt></ruby></span><ruby>価格<rt>かかく</rt></ruby>を、<ruby>話し合っ<rt>はなしあっ</rt></ruby>て<ruby>決め<rt>きめ</rt></ruby>ていた<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion\"><ruby>疑い<rt>うたがい</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "このような約束は「カルテル」と呼ばれ、独占禁止法で禁止されています。",
+      "ruby": "このような<ruby>約束<rt>やくそく</rt></ruby>は「カルテル」と<ruby>呼ば<rt>よば</rt></ruby>れ、<ruby>独占禁止法<rt>どくせんきんしほう</rt></ruby>で<span class=\"vw\" data-ja=\"禁止\" data-reading=\"きんし\" data-en=\"prohibition, ban\"><ruby>禁止<rt>きんし</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社は、値上げの幅や時期について、相談していたとみられています。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>の<ruby>幅<rt>はば</rt></ruby>や<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"timing, period\"><ruby>時期<rt>じき</rt></ruby></span>について、<ruby>相談<rt>そうだん</rt></ruby>していたとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "話し合いは、4社が入っている業界の団体の会議で行われていたということです。",
+      "ruby": "<ruby>話し合い<rt>はなしあい</rt></ruby>は、4<ruby>社<rt>しゃ</rt></ruby>が<ruby>入っ<rt>いっっ</rt></ruby>ている<span class=\"vw\" data-ja=\"業界\" data-reading=\"ぎょうかい\" data-en=\"industry\"><ruby>業界<rt>ぎょうかい</rt></ruby></span>の<ruby>団体<rt>だんたい</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れていたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社は、ここ数年、同じ日にそろって値上げをしてきました。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、ここ<ruby>数年<rt>すうねん</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>にそろって<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>をしてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "たとえば、2022年10月には、14年ぶりに値上げをしました。",
+      "ruby": "たとえば、2022<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>には、14<ruby>年<rt>ねん</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "4社のビールは、国内の売り上げの9割以上を占めています。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>のビールは、<ruby>国内<rt>こくない</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>の9<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>占め<rt>しめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビールの市場は、1年に1兆円を超える大きさです。",
+      "ruby": "ビールの<span class=\"vw\" data-ja=\"市場\" data-reading=\"しじょう\" data-en=\"market\"><ruby>市場<rt>しじょう</rt></ruby></span>は、1<ruby>年<rt>ねん</rt></ruby>に1<ruby>兆円<rt>ちょうえん</rt></ruby>を<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to exceed, to go over\"><ruby>超え<rt>こえ</rt></ruby>る</span><ruby>大きさ<rt>おおきさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "公正取引委員会は、刑事告発も視野に入れて調べています。",
+      "ruby": "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<span class=\"vw\" data-ja=\"刑事告発\" data-reading=\"けいじこくはつ\" data-en=\"criminal complaint\"><ruby>刑事<rt>けいじ</rt></ruby><ruby>告発<rt>こくはつ</rt></ruby></span>も<ruby>視野<rt>しや</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>て<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ビールの値段が高くなれば、わたしたちの生活にも影響が出るため、調査の行方が注目されています。",
+      "ruby": "ビールの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なれば、わたしたちの<ruby>生活<rt>せいかつ</rt></ruby>にも<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"influence, effect\"><ruby>影響<rt>えいきょう</rt></ruby></span>が<ruby>出る<rt>でる</rt></ruby>ため、<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>行方<rt>ゆくえ</rt></ruby>が<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention, notice\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "強制調査に入ったのは、どこですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"強制調査\" data-reading=\"きょうせいちょうさ\" data-en=\"compulsory investigation, raid\"><ruby>強制<rt>きょうせい</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby></span>に<ruby>入っ<rt>いっっ</rt></ruby>たのは、どこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Fair Trade Commission."
+    },
+    {
+      "speaker": "slow",
+      "text": "調査を受けたのは、何社ですか。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たのは、<ruby>何<rt>なに</rt></ruby><ruby>社<rt>しゃ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four companies."
+    },
+    {
+      "speaker": "slow",
+      "text": "4社は、何を話し合って決めていた疑いがありますか。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>話し合っ<rt>はなしあっ</rt></ruby>て<ruby>決め<rt>きめ</rt></ruby>ていた<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion\"><ruby>疑い<rt>うたがい</rt></ruby></span>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The shipping prices of beer and low-malt beer."
+    },
+    {
+      "speaker": "slow",
+      "text": "2022年10月の値上げは、何年ぶりでしたか。",
+      "ruby": "2022<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>は、<ruby>何年<rt>なんねん</rt></ruby>ぶりでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first in fourteen years."
+    },
+    {
+      "speaker": "slow",
+      "text": "4社のビールは、国内の売り上げのどのくらいを占めていますか。",
+      "ruby": "4<ruby>社<rt>しゃ</rt></ruby>のビールは、<ruby>国内<rt>こくない</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>のどのくらいを<ruby>占め<rt>しめ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than ninety percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
