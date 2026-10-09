@@ -1,0 +1,602 @@
+{
+  "episode": 212,
+  "title": "エルニーニョ現象、観測史上最強に",
+  "date": "2026-10-09",
+  "source": "気象庁 / NHK / 時事通信 / ウェザーニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026100901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "現象",
+      "reading": "げんしょう",
+      "en": "phenomenon",
+      "zh": "现象"
+    },
+    {
+      "ja": "沖",
+      "reading": "おき",
+      "en": "offshore, open sea",
+      "zh": "海上，近海"
+    },
+    {
+      "ja": "基準",
+      "reading": "きじゅん",
+      "en": "standard, baseline",
+      "zh": "基准，标准"
+    },
+    {
+      "ja": "統計",
+      "reading": "とうけい",
+      "en": "statistics",
+      "zh": "统计"
+    },
+    {
+      "ja": "記録",
+      "reading": "きろく",
+      "en": "record",
+      "zh": "记录"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "expectation, outlook",
+      "zh": "预计，估计"
+    },
+    {
+      "ja": "確率",
+      "reading": "かくりつ",
+      "en": "probability",
+      "zh": "概率"
+    },
+    {
+      "ja": "各地",
+      "reading": "かくち",
+      "en": "various places",
+      "zh": "各地"
+    },
+    {
+      "ja": "暖冬",
+      "reading": "だんとう",
+      "en": "mild winter",
+      "zh": "暖冬"
+    },
+    {
+      "ja": "遅れる",
+      "reading": "おくれる",
+      "en": "to be late, to be delayed",
+      "zh": "迟到，推迟"
+    },
+    {
+      "ja": "低気圧",
+      "reading": "ていきあつ",
+      "en": "low pressure (system)",
+      "zh": "低气压"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to urge",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜見込みです",
+      "meaning": "is expected to ~",
+      "meaningZh": "预计……",
+      "formation": "verb dictionary form + 見込みです",
+      "example": "気象庁によると、海の水温は、11月から12月ごろにピークを迎える見込みです。",
+      "translation": "According to the agency, sea temperatures are expected to peak around November to December.",
+      "note": "A news phrase for forecasts. ピークを迎える見込み = expected to reach its peak.",
+      "noteZh": "新闻中表示预测的说法。ピークを迎える見込み＝预计达到峰值。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見込み"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~ / tends to ~",
+      "meaningZh": "容易……",
+      "formation": "verb ます-stem + やすい",
+      "example": "エルニーニョ現象が起きると、世界の各地で、いつもと違う天気になりやすくなります。",
+      "translation": "When El Nino happens, unusual weather becomes more likely in many parts of the world.",
+      "note": "Shows something is likely to happen. なりやすくなります = becomes more likely to become.",
+      "noteZh": "表示某事容易发生。なりやすくなります＝变得容易成为。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#やすい"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "有……的危险，恐怕会……",
+      "formation": "verb dictionary form + おそれがある",
+      "example": "一方で、低気圧の活動が活発になりやすく、大雨や大雪が降るおそれもあります。",
+      "translation": "On the other hand, low-pressure systems tend to be active, so there is also a risk of heavy rain and heavy snow.",
+      "note": "Used for bad things that might happen. 降るおそれもあります = there is also a risk of (rain/snow) falling.",
+      "noteZh": "用于可能发生的不好的事情。降るおそれもあります＝也有下（雨雪）的危险。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜よう呼びかける",
+      "meaning": "to urge (people) to ~",
+      "meaningZh": "呼吁……",
+      "formation": "verb dictionary form + よう(に)呼びかける",
+      "example": "気象庁は、最新の気象情報を確認するよう呼びかけています。",
+      "translation": "The agency is urging people to check the latest weather information.",
+      "note": "Reports a public request. 確認するよう = to check.",
+      "noteZh": "转述公开的请求。確認するよう＝（请大家）确认。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜とみられています",
+      "meaning": "is believed to ~ / is thought to ~",
+      "meaningZh": "被认为……",
+      "formation": "plain form + とみられています",
+      "example": "日本では、この冬は、平年より気温が高い「暖冬」になる可能性が高いとみられています。",
+      "translation": "In Japan, this winter is likely to be a mild winter, warmer than normal.",
+      "note": "A news phrase for likely but unconfirmed things. 可能性が高いとみられています = is thought to be highly likely.",
+      "noteZh": "新闻常用表达，表示很可能但未确定。可能性が高いとみられています＝被认为可能性很高。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と言われている"
+    }
+  ],
+  "practiceZh": [
+    "気象庁は9日、「エルニーニョ現象」が、これまででいちばん強くなったと発表しました。\n9日，日本气象厅宣布，“厄尔尼诺现象”达到了有史以来最强的程度。\n現象 = phenomenon",
+    "エルニーニョ現象は、南アメリカのペルーの沖で、海の水の温度が高くなる現象です。\n厄尔尼诺现象是南美洲秘鲁近海海水温度升高的现象。\n沖 = offshore, open sea",
+    "9月のペルー沖の海面水温は28.9度で、基準の値より4.0度高くなりました。\n9月秘鲁近海的海面水温为28.9度，比基准值高出4.0度。\n基準 = standard, baseline",
+    "これは、統計を取り始めた1949年以降で、最も高い値です。\n这是自1949年开始统计以来的最高值。\n統計 = statistics",
+    "これまでの記録は、1997年12月の、プラス3.6度でした。\n此前的纪录是1997年12月的高出3.6度。\n記録 = record",
+    "気象庁によると、海の水温は、11月から12月ごろにピークを迎える見込みです。\n据气象厅称，海水温度预计将在11月至12月左右达到峰值。\n見込み = expectation, outlook",
+    "冬の間も、エルニーニョ現象が続く確率は、100パーセントだということです。\n据说整个冬天厄尔尼诺现象持续的概率为100%。\n確率 = probability",
+    "エルニーニョ現象が起きると、世界の各地で、いつもと違う天気になりやすくなります。\n厄尔尼诺现象发生时，世界各地容易出现与平时不同的天气。\n各地 = various places",
+    "日本では、この冬は、平年より気温が高い「暖冬」になる可能性が高いとみられています。\n在日本，今年冬天很可能成为气温高于常年的“暖冬”。\n暖冬 = mild winter",
+    "1997年に強いエルニーニョ現象が起きたときも、冬が来るのが遅れました。\n1997年发生强厄尔尼诺现象时，冬天的到来也推迟了。\n遅れる = to be late, to be delayed",
+    "一方で、低気圧の活動が活発になりやすく、大雨や大雪が降るおそれもあります。\n另一方面，低气压活动容易变得活跃，也有可能下大雨或大雪。\n低気圧 = low pressure (system)",
+    "気象庁は、最新の気象情報を確認するよう呼びかけています。\n气象厅呼吁大家确认最新的气象信息。\n呼びかける = to call on, to urge"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Tonight: Japan's weather agency says El Nino has reached record strength. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は9日、「エルニーニョ現象」が、これまででいちばん強くなったと発表しました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、「エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>」が、これまででいちばん<ruby>強く<rt>つよく</rt></ruby>なったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "エルニーニョ現象は、南アメリカのペルーの沖で、海の水の温度が高くなる現象です。",
+      "ruby": "エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカのペルーの<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>で、<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なる<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月のペルー沖の海面水温は28.9度で、基準の値より4.0度高くなりました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>のペルー<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>の<ruby>海面<rt>かいめん</rt></ruby><ruby>水温<rt>すいおん</rt></ruby>は28.9<ruby>度<rt>ど</rt></ruby>で、<span class=\"vw\" data-ja=\"基準\" data-reading=\"きじゅん\" data-en=\"standard, baseline\"><ruby>基準<rt>きじゅん</rt></ruby></span>の<ruby>値<rt>あたい</rt></ruby>より4.0<ruby>度<rt>ど</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、統計を取り始めた1949年以降で、最も高い値です。",
+      "ruby": "これは、<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た1949<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>値<rt>あたい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでの記録は、1997年12月の、プラス3.6度でした。",
+      "ruby": "これまでの<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>は、1997<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>の、プラス3.6<ruby>度<rt>ど</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、海の水温は、11月から12月ごろにピークを迎える見込みです。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>海<rt>うみ</rt></ruby>の<ruby>水温<rt>すいおん</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>から12<ruby>月<rt>がつ</rt></ruby>ごろにピークを<ruby>迎え<rt>むかえ</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, outlook\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "冬の間も、エルニーニョ現象が続く確率は、100パーセントだということです。",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>も、エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、100パーセントだということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "エルニーニョ現象が起きると、世界の各地で、いつもと違う天気になりやすくなります。",
+      "ruby": "エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ると、<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places\"><ruby>各地<rt>かくち</rt></ruby></span>で、いつもと<ruby>違う<rt>ちがう</rt></ruby><ruby>天気<rt>てんき</rt></ruby>になりやすくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、この冬は、平年より気温が高い「暖冬」になる可能性が高いとみられています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>平年<rt>へいねん</rt></ruby>より<ruby>気温<rt>きおん</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>「<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>」になる<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>とみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "1997年に強いエルニーニョ現象が起きたときも、冬が来るのが遅れました。",
+      "ruby": "1997<ruby>年<rt>ねん</rt></ruby>に<ruby>強い<rt>つよい</rt></ruby>エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たときも、<ruby>冬<rt>ふゆ</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>のが<ruby>遅れ<rt>おくれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、低気圧の活動が活発になりやすく、大雨や大雪が降るおそれもあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"低気圧\" data-reading=\"ていきあつ\" data-en=\"low pressure (system)\"><ruby>低気圧<rt>ていきあつ</rt></ruby></span>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になりやすく、<ruby>大雨<rt>おおあめ</rt></ruby>や<ruby>大雪<rt>おおゆき</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>おそれもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、最新の気象情報を確認するよう呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>気象情報<rt>きしょうじょうほう</rt></ruby>を<ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は9日、「エルニーニョ現象」が、これまででいちばん強くなったと発表しました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、「エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>」が、これまででいちばん<ruby>強く<rt>つよく</rt></ruby>なったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the ninth, the Japan Meteorological Agency announced that El Nino has become the strongest ever."
+    },
+    {
+      "speaker": "vocab",
+      "text": "現象",
+      "ruby": "<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means phenomenon."
+    },
+    {
+      "speaker": "slow",
+      "text": "エルニーニョ現象は、南アメリカのペルーの沖で、海の水の温度が高くなる現象です。",
+      "ruby": "エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカのペルーの<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>で、<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なる<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "El Nino is when the sea water gets warmer off the coast of Peru in South America."
+    },
+    {
+      "speaker": "vocab",
+      "text": "沖",
+      "ruby": "<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the open sea, off the coast."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月のペルー沖の海面水温は28.9度で、基準の値より4.0度高くなりました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>のペルー<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>の<ruby>海面<rt>かいめん</rt></ruby><ruby>水温<rt>すいおん</rt></ruby>は28.9<ruby>度<rt>ど</rt></ruby>で、<span class=\"vw\" data-ja=\"基準\" data-reading=\"きじゅん\" data-en=\"standard, baseline\"><ruby>基準<rt>きじゅん</rt></ruby></span>の<ruby>値<rt>あたい</rt></ruby>より4.0<ruby>度<rt>ど</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In September, the sea surface temperature off Peru was twenty-eight point nine degrees, four degrees above the baseline."
+    },
+    {
+      "speaker": "vocab",
+      "text": "基準",
+      "ruby": "<span class=\"vw\" data-ja=\"基準\" data-reading=\"きじゅん\" data-en=\"standard, baseline\"><ruby>基準<rt>きじゅん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means standard, or baseline."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、統計を取り始めた1949年以降で、最も高い値です。",
+      "ruby": "これは、<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た1949<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>値<rt>あたい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the highest value since records began in nineteen forty-nine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "統計",
+      "ruby": "<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means statistics."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでの記録は、1997年12月の、プラス3.6度でした。",
+      "ruby": "これまでの<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>は、1997<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>の、プラス3.6<ruby>度<rt>ど</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The previous record was plus three point six degrees, in December nineteen ninety-seven."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録",
+      "ruby": "<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a record."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁によると、海の水温は、11月から12月ごろにピークを迎える見込みです。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>海<rt>うみ</rt></ruby>の<ruby>水温<rt>すいおん</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>から12<ruby>月<rt>がつ</rt></ruby>ごろにピークを<ruby>迎え<rt>むかえ</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, outlook\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the agency, sea temperatures are expected to peak around November to December."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込み",
+      "ruby": "<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, outlook\"><ruby>見込み<rt>みこみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an expectation, or forecast."
+    },
+    {
+      "speaker": "slow",
+      "text": "冬の間も、エルニーニョ現象が続く確率は、100パーセントだということです。",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>も、エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、100パーセントだということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The chance that El Nino continues through the winter is one hundred percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "確率",
+      "ruby": "<span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability\"><ruby>確率<rt>かくりつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means probability, or chance."
+    },
+    {
+      "speaker": "slow",
+      "text": "エルニーニョ現象が起きると、世界の各地で、いつもと違う天気になりやすくなります。",
+      "ruby": "エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ると、<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places\"><ruby>各地<rt>かくち</rt></ruby></span>で、いつもと<ruby>違う<rt>ちがう</rt></ruby><ruby>天気<rt>てんき</rt></ruby>になりやすくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When El Nino happens, unusual weather becomes more likely in many parts of the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "各地",
+      "ruby": "<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places\"><ruby>各地<rt>かくち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means various places, or everywhere."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、この冬は、平年より気温が高い「暖冬」になる可能性が高いとみられています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>平年<rt>へいねん</rt></ruby>より<ruby>気温<rt>きおん</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>「<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>」になる<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>とみられています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, this winter is likely to be a mild winter, warmer than normal."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暖冬",
+      "ruby": "<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a warm, mild winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "1997年に強いエルニーニョ現象が起きたときも、冬が来るのが遅れました。",
+      "ruby": "1997<ruby>年<rt>ねん</rt></ruby>に<ruby>強い<rt>つよい</rt></ruby>エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たときも、<ruby>冬<rt>ふゆ</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>のが<ruby>遅れ<rt>おくれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "When a strong El Nino happened in nineteen ninety-seven, winter also arrived late."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遅れる",
+      "ruby": "<span class=\"vw\" data-ja=\"遅れる\" data-reading=\"おくれる\" data-en=\"to be late, to be delayed\"><ruby>遅れ<rt>おくれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be late, or delayed."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方で、低気圧の活動が活発になりやすく、大雨や大雪が降るおそれもあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"低気圧\" data-reading=\"ていきあつ\" data-en=\"low pressure (system)\"><ruby>低気圧<rt>ていきあつ</rt></ruby></span>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になりやすく、<ruby>大雨<rt>おおあめ</rt></ruby>や<ruby>大雪<rt>おおゆき</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>おそれもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, low-pressure systems tend to be active, so there is also a risk of heavy rain and heavy snow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "低気圧",
+      "ruby": "<span class=\"vw\" data-ja=\"低気圧\" data-reading=\"ていきあつ\" data-en=\"low pressure (system)\"><ruby>低気圧<rt>ていきあつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a low-pressure system."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、最新の気象情報を確認するよう呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>気象情報<rt>きしょうじょうほう</rt></ruby>を<ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency is urging people to check the latest weather information."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on, to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on, or urge, people."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は9日、「エルニーニョ現象」が、これまででいちばん強くなったと発表しました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、「エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>」が、これまででいちばん<ruby>強く<rt>つよく</rt></ruby>なったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "エルニーニョ現象は、南アメリカのペルーの沖で、海の水の温度が高くなる現象です。",
+      "ruby": "エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>は、<ruby>南<rt>みなみ</rt></ruby>アメリカのペルーの<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>で、<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なる<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月のペルー沖の海面水温は28.9度で、基準の値より4.0度高くなりました。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>のペルー<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>の<ruby>海面<rt>かいめん</rt></ruby><ruby>水温<rt>すいおん</rt></ruby>は28.9<ruby>度<rt>ど</rt></ruby>で、<span class=\"vw\" data-ja=\"基準\" data-reading=\"きじゅん\" data-en=\"standard, baseline\"><ruby>基準<rt>きじゅん</rt></ruby></span>の<ruby>値<rt>あたい</rt></ruby>より4.0<ruby>度<rt>ど</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、統計を取り始めた1949年以降で、最も高い値です。",
+      "ruby": "これは、<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た1949<ruby>年<rt>ねん</rt></ruby><ruby>以降<rt>いこう</rt></ruby>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>値<rt>あたい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでの記録は、1997年12月の、プラス3.6度でした。",
+      "ruby": "これまでの<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>は、1997<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>の、プラス3.6<ruby>度<rt>ど</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、海の水温は、11月から12月ごろにピークを迎える見込みです。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>海<rt>うみ</rt></ruby>の<ruby>水温<rt>すいおん</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>から12<ruby>月<rt>がつ</rt></ruby>ごろにピークを<ruby>迎え<rt>むかえ</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, outlook\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "冬の間も、エルニーニョ現象が続く確率は、100パーセントだということです。",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>も、エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、100パーセントだということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "エルニーニョ現象が起きると、世界の各地で、いつもと違う天気になりやすくなります。",
+      "ruby": "エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>ると、<ruby>世界<rt>せかい</rt></ruby>の<span class=\"vw\" data-ja=\"各地\" data-reading=\"かくち\" data-en=\"various places\"><ruby>各地<rt>かくち</rt></ruby></span>で、いつもと<ruby>違う<rt>ちがう</rt></ruby><ruby>天気<rt>てんき</rt></ruby>になりやすくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、この冬は、平年より気温が高い「暖冬」になる可能性が高いとみられています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>平年<rt>へいねん</rt></ruby>より<ruby>気温<rt>きおん</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>「<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>」になる<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>とみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "1997年に強いエルニーニョ現象が起きたときも、冬が来るのが遅れました。",
+      "ruby": "1997<ruby>年<rt>ねん</rt></ruby>に<ruby>強い<rt>つよい</rt></ruby>エルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たときも、<ruby>冬<rt>ふゆ</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>のが<ruby>遅れ<rt>おくれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、低気圧の活動が活発になりやすく、大雨や大雪が降るおそれもあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"低気圧\" data-reading=\"ていきあつ\" data-en=\"low pressure (system)\"><ruby>低気圧<rt>ていきあつ</rt></ruby></span>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になりやすく、<ruby>大雨<rt>おおあめ</rt></ruby>や<ruby>大雪<rt>おおゆき</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>おそれもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、最新の気象情報を確認するよう呼びかけています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>気象情報<rt>きしょうじょうほう</rt></ruby>を<ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月のペルー沖の海面水温は、基準より何度高かったですか。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>のペルー<span class=\"vw\" data-ja=\"沖\" data-reading=\"おき\" data-en=\"offshore, open sea\"><ruby>沖<rt>おき</rt></ruby></span>の<ruby>海面<rt>かいめん</rt></ruby><ruby>水温<rt>すいおん</rt></ruby>は、<span class=\"vw\" data-ja=\"基準\" data-reading=\"きじゅん\" data-en=\"standard, baseline\"><ruby>基準<rt>きじゅん</rt></ruby></span>より<ruby>何度<rt>なんど</rt></ruby><ruby>高かっ<rt>たかっ</rt></ruby>たですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four degrees higher."
+    },
+    {
+      "speaker": "slow",
+      "text": "海の水温は、いつごろピークを迎える見込みですか。",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>の<ruby>水温<rt>すいおん</rt></ruby>は、いつごろピークを<ruby>迎え<rt>むかえ</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, outlook\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around November to December."
+    },
+    {
+      "speaker": "slow",
+      "text": "冬の間もエルニーニョ現象が続く確率は、何パーセントですか。",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>もエルニーニョ<span class=\"vw\" data-ja=\"現象\" data-reading=\"げんしょう\" data-en=\"phenomenon\"><ruby>現象<rt>げんしょう</rt></ruby></span>が<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、<ruby>何<rt>なに</rt></ruby>パーセントですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、この冬はどんな冬になる可能性が高いですか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、この<ruby>冬<rt>ふゆ</rt></ruby>はどんな<ruby>冬<rt>ふゆ</rt></ruby>になる<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A mild, warm winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、何を確認するよう呼びかけていますか。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The latest weather information."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
