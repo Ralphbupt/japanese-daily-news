@@ -1,0 +1,503 @@
+{
+  "episode": 213,
+  "title": "インフルエンザ、今シーズン初めて「注意報」レベルに",
+  "date": "2026-10-10",
+  "source": "NHK / TBS NEWS DIG / 共同通信",
+  "level": "N5-N4",
+  "contentVersion": "2026101001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "患者",
+      "reading": "かんじゃ",
+      "en": "patient",
+      "zh": "患者，病人"
+    },
+    {
+      "ja": "報告",
+      "reading": "ほうこく",
+      "en": "report",
+      "zh": "报告"
+    },
+    {
+      "ja": "超える",
+      "reading": "こえる",
+      "en": "to go over, to exceed",
+      "zh": "超过"
+    },
+    {
+      "ja": "倍",
+      "reading": "ばい",
+      "en": "times (multiplier)",
+      "zh": "倍"
+    },
+    {
+      "ja": "比べる",
+      "reading": "くらべる",
+      "en": "to compare",
+      "zh": "比较"
+    },
+    {
+      "ja": "多い",
+      "reading": "おおい",
+      "en": "many, a lot",
+      "zh": "多"
+    },
+    {
+      "ja": "警報",
+      "reading": "けいほう",
+      "en": "warning, alert",
+      "zh": "警报"
+    },
+    {
+      "ja": "休み",
+      "reading": "やすみ",
+      "en": "break, day off, closure",
+      "zh": "休息，放假，停课"
+    },
+    {
+      "ja": "洗う",
+      "reading": "あらう",
+      "en": "to wash",
+      "zh": "洗"
+    },
+    {
+      "ja": "注意報",
+      "reading": "ちゅういほう",
+      "en": "advisory",
+      "zh": "注意报（提醒级别的预警）"
+    },
+    {
+      "ja": "全国",
+      "reading": "ぜんこく",
+      "en": "the whole country",
+      "zh": "全国"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to urge",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "根据……，据……说",
+      "formation": "noun + によると",
+      "example": "厚生労働省によると、10月4日までの1週間、全国の病院などから報告された患者は、1か所あたり11.35人でした。",
+      "translation": "According to the health ministry, in the week up to October fourth, hospitals and clinics across Japan reported eleven point three five patients each, on average.",
+      "note": "Shows the source of information. 厚生労働省によると = according to the health ministry.",
+      "noteZh": "表示信息来源。厚生労働省によると＝据厚生劳动省说。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜と（条件）",
+      "meaning": "when ~ / if ~ (then always)",
+      "meaningZh": "一……就……",
+      "formation": "verb dictionary form + と",
+      "example": "1か所あたり10人を超えると、「注意報」のレベルになります。",
+      "translation": "When it goes over ten patients per place, it becomes the advisory level.",
+      "note": "Shows a natural or fixed result. 超えると = when it goes over.",
+      "noteZh": "表示必然的结果或规则。超えると＝一超过就……",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜と比べると",
+      "meaning": "compared with ~",
+      "meaningZh": "和……相比",
+      "formation": "noun + と比べると",
+      "example": "去年の同じころと比べると、およそ7倍です。",
+      "translation": "Compared with the same time last year, it is about seven times higher.",
+      "note": "Used to compare two things. 去年と比べると = compared with last year.",
+      "noteZh": "用于比较两件事物。去年と比べると＝和去年相比。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と比べて"
+    },
+    {
+      "pattern": "〜や〜など",
+      "meaning": "~ and ~ and so on",
+      "meaningZh": "……和……等",
+      "formation": "noun + や + noun + など",
+      "example": "厚生労働省は、マスクをつけることや、手を洗うことなどを呼びかけています。",
+      "translation": "The ministry is asking people to wear masks and wash their hands.",
+      "note": "Lists some examples, not all. マスクをつけることや、手を洗うことなど = wearing masks, washing hands, and so on.",
+      "noteZh": "列举部分例子。マスクをつけることや、手を洗うことなど＝戴口罩、洗手等。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#や"
+    }
+  ],
+  "practiceZh": [
+    "インフルエンザの患者が増えて、今シーズン初めて「注意報」のレベルになりました。\n流感患者增加，本季第一次达到了“注意报”的级别。\n患者 = patient",
+    "厚生労働省によると、10月4日までの1週間、全国の病院などから報告された患者は、1か所あたり11.35人でした。\n据厚生劳动省说，截至10月4日的一周里，全国医院等报告的患者平均每处11.35人。\n報告 = report",
+    "1か所あたり10人を超えると、「注意報」のレベルになります。\n平均每处超过10人，就达到“注意报”的级别。\n超える = to go over, to exceed",
+    "患者の数は、前の週のおよそ1.6倍になりました。\n患者人数是前一周的大约1.6倍。\n倍 = times (multiplier)",
+    "去年の同じころと比べると、およそ7倍です。\n和去年同一时期相比，大约是7倍。\n比べる = to compare",
+    "いちばん多いのは沖縄県で37.07人、次は埼玉県の19.66人でした。\n最多的是冲绳县，37.07人；其次是埼玉县，19.66人。\n多い = many, a lot",
+    "沖縄県は30人を超えて、全国でただ1つ、「警報」のレベルになっています。\n冲绳县超过了30人，是全国唯一达到“警报”级别的地方。\n警報 = warning, alert",
+    "全国の937の学校などで、学校やクラスが休みになっています。\n全国937所学校等出现了停课或班级停课。\n休み = break, day off, closure",
+    "厚生労働省は、マスクをつけることや、手を洗うことなどを呼びかけています。\n厚生劳动省呼吁大家戴口罩、洗手等。\n洗う = to wash"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October tenth. This morning: flu season has started early in Japan, and cases are rising fast. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "インフルエンザの患者が増えて、今シーズン初めて「注意報」のレベルになりました。",
+      "ruby": "インフルエンザの<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>て、<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>「<span class=\"vw\" data-ja=\"注意報\" data-reading=\"ちゅういほう\" data-en=\"advisory\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>」のレベルになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省によると、10月4日までの1週間、全国の病院などから報告された患者は、1か所あたり11.35人でした。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>までの1<ruby>週間<rt>しゅうかん</rt></ruby>、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の<ruby>病院<rt>びょういん</rt></ruby>などから<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>された<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>は、1か<ruby>所<rt>しょ</rt></ruby>あたり11.35<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "1か所あたり10人を超えると、「注意報」のレベルになります。",
+      "ruby": "1か<ruby>所<rt>しょ</rt></ruby>あたり10<ruby>人<rt>にん</rt></ruby>を<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to go over, to exceed\"><ruby>超え<rt>こえ</rt></ruby>ると</span>、「<span class=\"vw\" data-ja=\"注意報\" data-reading=\"ちゅういほう\" data-en=\"advisory\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>」のレベルになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "患者の数は、前の週のおよそ1.6倍になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>のおよそ1.6<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の同じころと比べると、およそ7倍です。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby>ころと<span class=\"vw\" data-ja=\"比べる\" data-reading=\"くらべる\" data-en=\"to compare\"><ruby>比べ<rt>くらべ</rt></ruby>ると</span>、およそ7<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん多いのは沖縄県で37.07人、次は埼玉県の19.66人でした。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"多い\" data-reading=\"おおい\" data-en=\"many, a lot\"><ruby>多い<rt>おおい</rt></ruby></span>のは<ruby>沖縄県<rt>おきなわけん</rt></ruby>で37.07<ruby>人<rt>にん</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>は<ruby>埼玉県<rt>さいたまけん</rt></ruby>の19.66<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "沖縄県は30人を超えて、全国でただ1つ、「警報」のレベルになっています。",
+      "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>は30<ruby>人<rt>にん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>て、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>でただ1つ、「<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alert\"><ruby>警報<rt>けいほう</rt></ruby></span>」のレベルになっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の937の学校などで、学校やクラスが休みになっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の937の<ruby>学校<rt>がっこう</rt></ruby>などで、<ruby>学校<rt>がっこう</rt></ruby>やクラスが<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off, closure\"><ruby>休み<rt>やすみ</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省は、マスクをつけることや、手を洗うことなどを呼びかけています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>は、マスクをつけることや、<ruby>手<rt>て</rt></ruby>を<span class=\"vw\" data-ja=\"洗う\" data-reading=\"あらう\" data-en=\"to wash\"><ruby>洗う<rt>あらう</rt></ruby></span>ことなどを<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "インフルエンザの患者が増えて、今シーズン初めて「注意報」のレベルになりました。",
+      "ruby": "インフルエンザの<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>て、<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>「<span class=\"vw\" data-ja=\"注意報\" data-reading=\"ちゅういほう\" data-en=\"advisory\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>」のレベルになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The number of flu patients is rising, and it has reached the advisory level for the first time this season."
+    },
+    {
+      "speaker": "vocab",
+      "text": "患者",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means patient."
+    },
+    {
+      "speaker": "slow",
+      "text": "厚生労働省によると、10月4日までの1週間、全国の病院などから報告された患者は、1か所あたり11.35人でした。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>までの1<ruby>週間<rt>しゅうかん</rt></ruby>、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の<ruby>病院<rt>びょういん</rt></ruby>などから<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>された<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>は、1か<ruby>所<rt>しょ</rt></ruby>あたり11.35<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the health ministry, in the week to October fourth, hospitals and clinics reported eleven point three five patients each, on average."
+    },
+    {
+      "speaker": "vocab",
+      "text": "報告",
+      "ruby": "<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means report."
+    },
+    {
+      "speaker": "slow",
+      "text": "1か所あたり10人を超えると、「注意報」のレベルになります。",
+      "ruby": "1か<ruby>所<rt>しょ</rt></ruby>あたり10<ruby>人<rt>にん</rt></ruby>を<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to go over, to exceed\"><ruby>超え<rt>こえ</rt></ruby>ると</span>、「<span class=\"vw\" data-ja=\"注意報\" data-reading=\"ちゅういほう\" data-en=\"advisory\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>」のレベルになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When it goes over ten patients per place, it becomes the advisory level."
+    },
+    {
+      "speaker": "vocab",
+      "text": "超える",
+      "ruby": "<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to go over, to exceed\"><ruby>超え<rt>こえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to go over, or exceed."
+    },
+    {
+      "speaker": "slow",
+      "text": "患者の数は、前の週のおよそ1.6倍になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>のおよそ1.6<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The number of patients was about one point six times the week before."
+    },
+    {
+      "speaker": "vocab",
+      "text": "倍",
+      "ruby": "<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means times, as in two times or three times."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の同じころと比べると、およそ7倍です。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby>ころと<span class=\"vw\" data-ja=\"比べる\" data-reading=\"くらべる\" data-en=\"to compare\"><ruby>比べ<rt>くらべ</rt></ruby>ると</span>、およそ7<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Compared with the same time last year, it is about seven times higher."
+    },
+    {
+      "speaker": "vocab",
+      "text": "比べる",
+      "ruby": "<span class=\"vw\" data-ja=\"比べる\" data-reading=\"くらべる\" data-en=\"to compare\"><ruby>比べ<rt>くらべ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to compare."
+    },
+    {
+      "speaker": "slow",
+      "text": "いちばん多いのは沖縄県で37.07人、次は埼玉県の19.66人でした。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"多い\" data-reading=\"おおい\" data-en=\"many, a lot\"><ruby>多い<rt>おおい</rt></ruby></span>のは<ruby>沖縄県<rt>おきなわけん</rt></ruby>で37.07<ruby>人<rt>にん</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>は<ruby>埼玉県<rt>さいたまけん</rt></ruby>の19.66<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The highest was Okinawa, with thirty-seven point zero seven. Next was Saitama, with nineteen point six six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "多い",
+      "ruby": "<span class=\"vw\" data-ja=\"多い\" data-reading=\"おおい\" data-en=\"many, a lot\"><ruby>多い<rt>おおい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means many, or a lot."
+    },
+    {
+      "speaker": "slow",
+      "text": "沖縄県は30人を超えて、全国でただ1つ、「警報」のレベルになっています。",
+      "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>は30<ruby>人<rt>にん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>て、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>でただ1つ、「<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alert\"><ruby>警報<rt>けいほう</rt></ruby></span>」のレベルになっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Okinawa is over thirty, so it is the only prefecture at the warning level."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警報",
+      "ruby": "<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alert\"><ruby>警報<rt>けいほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means warning. It is higher than the advisory."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の937の学校などで、学校やクラスが休みになっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の937の<ruby>学校<rt>がっこう</rt></ruby>などで、<ruby>学校<rt>がっこう</rt></ruby>やクラスが<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off, closure\"><ruby>休み<rt>やすみ</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "At nine hundred thirty-seven schools across Japan, whole schools or classes are closed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "休み",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off, closure\"><ruby>休み<rt>やすみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a day off. Here, closed."
+    },
+    {
+      "speaker": "slow",
+      "text": "厚生労働省は、マスクをつけることや、手を洗うことなどを呼びかけています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>は、マスクをつけることや、<ruby>手<rt>て</rt></ruby>を<span class=\"vw\" data-ja=\"洗う\" data-reading=\"あらう\" data-en=\"to wash\"><ruby>洗う<rt>あらう</rt></ruby></span>ことなどを<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The ministry is asking people to wear masks and wash their hands."
+    },
+    {
+      "speaker": "vocab",
+      "text": "洗う",
+      "ruby": "<span class=\"vw\" data-ja=\"洗う\" data-reading=\"あらう\" data-en=\"to wash\"><ruby>洗う<rt>あらう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to wash."
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "インフルエンザの患者が増えて、今シーズン初めて「注意報」のレベルになりました。",
+      "ruby": "インフルエンザの<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>て、<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>「<span class=\"vw\" data-ja=\"注意報\" data-reading=\"ちゅういほう\" data-en=\"advisory\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>」のレベルになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省によると、10月4日までの1週間、全国の病院などから報告された患者は、1か所あたり11.35人でした。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>までの1<ruby>週間<rt>しゅうかん</rt></ruby>、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の<ruby>病院<rt>びょういん</rt></ruby>などから<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>された<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>は、1か<ruby>所<rt>しょ</rt></ruby>あたり11.35<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "1か所あたり10人を超えると、「注意報」のレベルになります。",
+      "ruby": "1か<ruby>所<rt>しょ</rt></ruby>あたり10<ruby>人<rt>にん</rt></ruby>を<span class=\"vw\" data-ja=\"超える\" data-reading=\"こえる\" data-en=\"to go over, to exceed\"><ruby>超え<rt>こえ</rt></ruby>ると</span>、「<span class=\"vw\" data-ja=\"注意報\" data-reading=\"ちゅういほう\" data-en=\"advisory\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>」のレベルになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "患者の数は、前の週のおよそ1.6倍になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>のおよそ1.6<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の同じころと比べると、およそ7倍です。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby>ころと<span class=\"vw\" data-ja=\"比べる\" data-reading=\"くらべる\" data-en=\"to compare\"><ruby>比べ<rt>くらべ</rt></ruby>ると</span>、およそ7<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (multiplier)\"><ruby>倍<rt>ばい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん多いのは沖縄県で37.07人、次は埼玉県の19.66人でした。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"多い\" data-reading=\"おおい\" data-en=\"many, a lot\"><ruby>多い<rt>おおい</rt></ruby></span>のは<ruby>沖縄県<rt>おきなわけん</rt></ruby>で37.07<ruby>人<rt>にん</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>は<ruby>埼玉県<rt>さいたまけん</rt></ruby>の19.66<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "沖縄県は30人を超えて、全国でただ1つ、「警報」のレベルになっています。",
+      "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>は30<ruby>人<rt>にん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>て、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>でただ1つ、「<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alert\"><ruby>警報<rt>けいほう</rt></ruby></span>」のレベルになっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の937の学校などで、学校やクラスが休みになっています。",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の937の<ruby>学校<rt>がっこう</rt></ruby>などで、<ruby>学校<rt>がっこう</rt></ruby>やクラスが<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off, closure\"><ruby>休み<rt>やすみ</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "厚生労働省は、マスクをつけることや、手を洗うことなどを呼びかけています。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>は、マスクをつけることや、<ruby>手<rt>て</rt></ruby>を<span class=\"vw\" data-ja=\"洗う\" data-reading=\"あらう\" data-en=\"to wash\"><ruby>洗う<rt>あらう</rt></ruby></span>ことなどを<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "今シーズン初めて、何のレベルになりましたか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>、<ruby>何の<rt>なんの</rt></ruby>レベルになりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The advisory level."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の同じころと比べると、何倍ですか。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby>ころと<span class=\"vw\" data-ja=\"比べる\" data-reading=\"くらべる\" data-en=\"to compare\"><ruby>比べ<rt>くらべ</rt></ruby>ると</span>、<ruby>何倍<rt>なんばい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About seven times."
+    },
+    {
+      "speaker": "slow",
+      "text": "いちばん患者が多いのは、どこですか。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>が<span class=\"vw\" data-ja=\"多い\" data-reading=\"おおい\" data-en=\"many, a lot\"><ruby>多い<rt>おおい</rt></ruby></span>のは、どこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Okinawa."
+    },
+    {
+      "speaker": "slow",
+      "text": "いくつの学校などが休みになっていますか。",
+      "ruby": "いくつの<ruby>学校<rt>がっこう</rt></ruby>などが<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off, closure\"><ruby>休み<rt>やすみ</rt></ruby></span>になっていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nine hundred thirty-seven."
+    },
+    {
+      "speaker": "slow",
+      "text": "厚生労働省は、何を呼びかけていますか。",
+      "ruby": "<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>呼び<rt>よび</rt></ruby>かけていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Wearing masks and washing hands."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Wash your hands, take care, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
