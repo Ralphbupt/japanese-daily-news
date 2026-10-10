@@ -1,0 +1,638 @@
+{
+  "episode": 214,
+  "title": "ブックオフ、最大643万件の会員情報が漏えいか",
+  "date": "2026-10-10",
+  "source": "NHK / 日本経済新聞 / INTERNET Watch",
+  "level": "N4-N3",
+  "contentVersion": "2026101001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "中古",
+      "reading": "ちゅうこ",
+      "en": "secondhand, used",
+      "zh": "二手"
+    },
+    {
+      "ja": "会員",
+      "reading": "かいいん",
+      "en": "member",
+      "zh": "会员"
+    },
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak",
+      "zh": "泄露，漏出"
+    },
+    {
+      "ja": "おそれ",
+      "reading": "おそれ",
+      "en": "risk, possibility (of something bad)",
+      "zh": "恐怕，可能（发生坏事）"
+    },
+    {
+      "ja": "管理",
+      "reading": "かんり",
+      "en": "management, control",
+      "zh": "管理"
+    },
+    {
+      "ja": "不正アクセス",
+      "reading": "ふせいアクセス",
+      "en": "unauthorized access",
+      "zh": "非法访问"
+    },
+    {
+      "ja": "最大",
+      "reading": "さいだい",
+      "en": "maximum, up to",
+      "zh": "最多，最大"
+    },
+    {
+      "ja": "含まれる",
+      "reading": "ふくまれる",
+      "en": "to be included",
+      "zh": "包含在内"
+    },
+    {
+      "ja": "変換",
+      "reading": "へんかん",
+      "en": "conversion",
+      "zh": "转换"
+    },
+    {
+      "ja": "一方",
+      "reading": "いっぽう",
+      "en": "on the other hand",
+      "zh": "另一方面"
+    },
+    {
+      "ja": "保存",
+      "reading": "ほぞん",
+      "en": "storage, saving",
+      "zh": "保存"
+    },
+    {
+      "ja": "気づく",
+      "reading": "きづく",
+      "en": "to notice",
+      "zh": "注意到，发觉"
+    },
+    {
+      "ja": "攻撃",
+      "reading": "こうげき",
+      "en": "attack",
+      "zh": "攻击"
+    },
+    {
+      "ja": "通信",
+      "reading": "つうしん",
+      "en": "communication, connection",
+      "zh": "通信"
+    },
+    {
+      "ja": "報告",
+      "reading": "ほうこく",
+      "en": "report",
+      "zh": "报告"
+    },
+    {
+      "ja": "点検",
+      "reading": "てんけん",
+      "en": "inspection, check",
+      "zh": "检查，检修"
+    },
+    {
+      "ja": "連絡",
+      "reading": "れんらく",
+      "en": "contact",
+      "zh": "联系"
+    },
+    {
+      "ja": "怪しい",
+      "reading": "あやしい",
+      "en": "suspicious",
+      "zh": "可疑的"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to urge",
+      "zh": "呼吁"
+    },
+    {
+      "ja": "相次ぐ",
+      "reading": "あいつぐ",
+      "en": "to happen one after another",
+      "zh": "接连发生"
+    },
+    {
+      "ja": "対策",
+      "reading": "たいさく",
+      "en": "countermeasure",
+      "zh": "对策"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~ / may ~ (something bad)",
+      "meaningZh": "有……的危险，恐怕会……",
+      "formation": "verb plain form / noun + の + おそれがある",
+      "example": "会員の情報が外に漏れたおそれがあると発表しました。",
+      "translation": "It announced that members' information may have leaked.",
+      "note": "A formal news phrase for a possible bad outcome. 漏れたおそれがある = may have leaked.",
+      "noteZh": "新闻中常用的正式表达，表示可能出现不好的结果。漏れたおそれがある＝可能已经泄露。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#おそれがある"
+    },
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to ~",
+      "meaningZh": "根据……，据……称",
+      "formation": "noun + によりますと",
+      "example": "会社によりますと、会員の情報を管理するシステムに、外から不正アクセスがあったということです。",
+      "translation": "According to the company, there was unauthorized access from outside.",
+      "note": "Polite form of によると, used in news to name the source of information.",
+      "noteZh": "によると的礼貌形式，新闻中用来说明信息来源。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "reportedly ~ / it is said that ~",
+      "meaningZh": "据说……，据称……",
+      "formation": "plain form + ということです",
+      "example": "これから一人一人に連絡するということです。",
+      "translation": "The company reportedly will contact each person.",
+      "note": "Used in news to pass on information heard from others.",
+      "noteZh": "新闻中用来转述从别处得到的信息。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    },
+    {
+      "pattern": "〜ないようにする",
+      "meaning": "to make sure not to ~ / to make it so that ~ cannot",
+      "meaningZh": "使……不……，设法不……",
+      "formation": "verb ない-form + ようにする",
+      "example": "外からシステムに入れないようにしました。",
+      "translation": "It made it so that no one could enter the system from outside.",
+      "note": "Shows an action taken to prevent something. 入れないようにしました = made it impossible to enter.",
+      "noteZh": "表示为了防止某事而采取的措施。入れないようにしました＝使其无法进入。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようにする"
+    },
+    {
+      "pattern": "〜よう(に)呼びかける",
+      "meaning": "to call on (people) to ~",
+      "meaningZh": "呼吁（人们）……",
+      "formation": "verb dictionary/ない-form + よう(に)呼びかける",
+      "example": "怪しいメールや電話、SMSに気をつけるよう呼びかけています。",
+      "translation": "It is urging people to watch out for suspicious emails, calls, and texts.",
+      "note": "Common in news for public warnings. 気をつけるよう = to be careful.",
+      "noteZh": "新闻中常用于发布提醒或警告。気をつけるよう＝要小心。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ように"
+    }
+  ],
+  "practiceZh": [
+    "中古の本などを売る「ブックオフ」は9日、会員の情報が外に漏れたおそれがあると発表しました。\n9日，销售二手书等商品的“BOOKOFF”宣布，会员信息可能已经外泄。\n中古 / おそれ = secondhand, used / risk, possibility (of something bad)",
+    "会社によりますと、会員の情報を管理するシステムに、外から不正アクセスがあったということです。\n据该公司称，管理会员信息的系统遭到了来自外部的非法访问。\n管理 / 不正アクセス = management, control / unauthorized access",
+    "漏れたおそれがあるのは、最大でおよそ643万件の会員の情報です。\n可能泄露的会员信息最多约有643万条。\n最大 = maximum, up to",
+    "名前や生年月日、性別、住所、電話番号、メールアドレスなどが含まれています。\n其中包括姓名、出生日期、性别、住址、电话号码和电子邮箱等。\n含まれる = to be included",
+    "パスワードも、そのままではなく、別の形に変換したものが含まれているということです。\n据说密码也包含在内，但不是原样，而是转换成了别的形式。\n変換 = conversion",
+    "一方、クレジットカードなどの情報は、このシステムには保存されていなかったということです。\n另一方面，据说信用卡等信息并没有保存在这个系统中。\n一方 / 保存 = on the other hand / storage, saving",
+    "会社が不正アクセスに気づいたのは、今月6日でした。\n公司发现非法访问是在本月6日。\n気づく = to notice",
+    "会社はすぐに攻撃元との通信を止めて、外からシステムに入れないようにしました。\n公司立即切断了与攻击来源的通信，使外部无法进入系统。\n攻撃 / 通信 = attack / communication, connection",
+    "また、個人情報保護委員会に報告し、すべてのシステムを緊急に点検しています。\n此外，公司已向个人信息保护委员会报告，并正在紧急检查所有系统。\n報告 / 点検 = report / inspection, check",
+    "情報が漏れたおそれがある人には、これから一人一人に連絡するということです。\n据说今后将逐一联系信息可能泄露的人。\n連絡 = contact",
+    "会社は、ブックオフのふりをした怪しいメールや電話、SMSに気をつけるよう呼びかけています。\n公司呼吁大家注意冒充BOOKOFF的可疑邮件、电话和短信。\n怪しい / 呼びかける = suspicious / to call on, to urge",
+    "最近、日本では企業への不正アクセスが相次いでいて、対策が急がれています。\n最近，日本企业接连遭到非法访问，急需采取对策。\n相次ぐ / 対策 = to happen one after another / countermeasure"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October tenth. Tonight: a used bookstore chain says data on millions of members may have leaked. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中古の本などを売る「ブックオフ」は9日、会員の情報が外に漏れたおそれがあると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"中古\" data-reading=\"ちゅうこ\" data-en=\"secondhand, used\"><ruby>中古<rt>ちゅうこ</rt></ruby></span>の<ruby>本<rt>ほん</rt></ruby>などを<ruby>売る<rt>うる</rt></ruby>「ブックオフ」は<ruby>9日<rt>ここのか</rt></ruby>、<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によりますと、会員の情報を管理するシステムに、外から不正アクセスがあったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"management, control\"><ruby>管理<rt>かんり</rt></ruby></span>するシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>があったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたおそれがあるのは、最大でおよそ643万件の会員の情報です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあるのは、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, up to\"><ruby>最大<rt>さいだい</rt></ruby></span>でおよそ643<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>の<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前や生年月日、性別、住所、電話番号、メールアドレスなどが含まれています。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>性別<rt>せいべつ</rt></ruby>、<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、メールアドレスなどが<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "パスワードも、そのままではなく、別の形に変換したものが含まれているということです。",
+      "ruby": "パスワードも、そのままではなく、<ruby>別の<rt>べつの</rt></ruby><ruby>形<rt>かたち</rt></ruby>に<span class=\"vw\" data-ja=\"変換\" data-reading=\"へんかん\" data-en=\"conversion\"><ruby>変換<rt>へんかん</rt></ruby></span>したものが<ruby>含ま<rt>ふくま</rt></ruby>れているということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、クレジットカードなどの情報は、このシステムには保存されていなかったということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、クレジットカードなどの<ruby>情報<rt>じょうほう</rt></ruby>は、このシステムには<span class=\"vw\" data-ja=\"保存\" data-reading=\"ほぞん\" data-en=\"storage, saving\"><ruby>保存<rt>ほぞん</rt></ruby></span>されていなかったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社が不正アクセスに気づいたのは、今月6日でした。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>に<ruby>気づ<rt>きづ</rt></ruby>いたのは、<ruby>今月<rt>こんげつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社はすぐに攻撃元との通信を止めて、外からシステムに入れないようにしました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はすぐに<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span><ruby>元<rt>もと</rt></ruby>との<span class=\"vw\" data-ja=\"通信\" data-reading=\"つうしん\" data-en=\"communication, connection\"><ruby>通信<rt>つうしん</rt></ruby></span>を<ruby>止め<rt>とめ</rt></ruby>て、<ruby>外<rt>そと</rt></ruby>からシステムに<ruby>入れ<rt>いれ</rt></ruby>ないようにしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、個人情報保護委員会に報告し、すべてのシステムを緊急に点検しています。",
+      "ruby": "また、<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>し、すべてのシステムを<ruby>緊急<rt>きんきゅう</rt></ruby>に<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "情報が漏れたおそれがある人には、これから一人一人に連絡するということです。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<ruby>人<rt>ひと</rt></ruby>には、これから<ruby>一人一人<rt>ひとりひとり</rt></ruby>に<span class=\"vw\" data-ja=\"連絡\" data-reading=\"れんらく\" data-en=\"contact\"><ruby>連絡<rt>れんらく</rt></ruby></span>するということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、ブックオフのふりをした怪しいメールや電話、SMSに気をつけるよう呼びかけています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、ブックオフのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールや<ruby>電話<rt>でんわ</rt></ruby>、SMSに<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近、日本では企業への不正アクセスが相次いでいて、対策が急がれています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>では<ruby>企業<rt>きぎょう</rt></ruby>への<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>が<ruby>相次<rt>あいつぎ</rt></ruby>いでいて、<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>が<ruby>急が<rt>いそが</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "中古の本などを売る「ブックオフ」は9日、会員の情報が外に漏れたおそれがあると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"中古\" data-reading=\"ちゅうこ\" data-en=\"secondhand, used\"><ruby>中古<rt>ちゅうこ</rt></ruby></span>の<ruby>本<rt>ほん</rt></ruby>などを<ruby>売る<rt>うる</rt></ruby>「ブックオフ」は<ruby>9日<rt>ここのか</rt></ruby>、<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the ninth, used bookstore chain BOOKOFF said member data may have leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "中古",
+      "ruby": "<span class=\"vw\" data-ja=\"中古\" data-reading=\"ちゅうこ\" data-en=\"secondhand, used\"><ruby>中古<rt>ちゅうこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means secondhand, or used."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社によりますと、会員の情報を管理するシステムに、外から不正アクセスがあったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"management, control\"><ruby>管理<rt>かんり</rt></ruby></span>するシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>があったということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says its member system was accessed illegally from outside."
+    },
+    {
+      "speaker": "vocab",
+      "text": "管理",
+      "ruby": "<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"management, control\"><ruby>管理<rt>かんり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means management."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れたおそれがあるのは、最大でおよそ643万件の会員の情報です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあるのは、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, up to\"><ruby>最大<rt>さいだい</rt></ruby></span>でおよそ643<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>の<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Up to about six point four three million member records may have leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最大",
+      "ruby": "<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, up to\"><ruby>最大<rt>さいだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means maximum, or up to."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前や生年月日、性別、住所、電話番号、メールアドレスなどが含まれています。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>性別<rt>せいべつ</rt></ruby>、<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、メールアドレスなどが<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "This includes names, birth dates, gender, addresses, phone numbers, and email addresses."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"含まれる\" data-reading=\"ふくまれる\" data-en=\"to be included\"><ruby>含ま<rt>ふくま</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be included."
+    },
+    {
+      "speaker": "slow",
+      "text": "パスワードも、そのままではなく、別の形に変換したものが含まれているということです。",
+      "ruby": "パスワードも、そのままではなく、<ruby>別の<rt>べつの</rt></ruby><ruby>形<rt>かたち</rt></ruby>に<span class=\"vw\" data-ja=\"変換\" data-reading=\"へんかん\" data-en=\"conversion\"><ruby>変換<rt>へんかん</rt></ruby></span>したものが<ruby>含ま<rt>ふくま</rt></ruby>れているということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Passwords were also included, not as they are, but converted into another form."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変換",
+      "ruby": "<span class=\"vw\" data-ja=\"変換\" data-reading=\"へんかん\" data-en=\"conversion\"><ruby>変換<rt>へんかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means conversion."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、クレジットカードなどの情報は、このシステムには保存されていなかったということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、クレジットカードなどの<ruby>情報<rt>じょうほう</rt></ruby>は、このシステムには<span class=\"vw\" data-ja=\"保存\" data-reading=\"ほぞん\" data-en=\"storage, saving\"><ruby>保存<rt>ほぞん</rt></ruby></span>されていなかったということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, credit card information was not stored in this system."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一方",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means on the other hand."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社が不正アクセスに気づいたのは、今月6日でした。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>に<ruby>気づ<rt>きづ</rt></ruby>いたのは、<ruby>今月<rt>こんげつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company noticed the unauthorized access on the sixth of this month."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気づく",
+      "ruby": "<span class=\"vw\" data-ja=\"気づく\" data-reading=\"きづく\" data-en=\"to notice\"><ruby>気づ<rt>きづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to notice."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社はすぐに攻撃元との通信を止めて、外からシステムに入れないようにしました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はすぐに<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span><ruby>元<rt>もと</rt></ruby>との<span class=\"vw\" data-ja=\"通信\" data-reading=\"つうしん\" data-en=\"communication, connection\"><ruby>通信<rt>つうしん</rt></ruby></span>を<ruby>止め<rt>とめ</rt></ruby>て、<ruby>外<rt>そと</rt></ruby>からシステムに<ruby>入れ<rt>いれ</rt></ruby>ないようにしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company cut off the attackers and blocked outside access."
+    },
+    {
+      "speaker": "vocab",
+      "text": "攻撃",
+      "ruby": "<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attack."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、個人情報保護委員会に報告し、すべてのシステムを緊急に点検しています。",
+      "ruby": "また、<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>し、すべてのシステムを<ruby>緊急<rt>きんきゅう</rt></ruby>に<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It reported to the privacy watchdog and is urgently checking all systems."
+    },
+    {
+      "speaker": "vocab",
+      "text": "報告",
+      "ruby": "<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means report."
+    },
+    {
+      "speaker": "slow",
+      "text": "情報が漏れたおそれがある人には、これから一人一人に連絡するということです。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<ruby>人<rt>ひと</rt></ruby>には、これから<ruby>一人一人<rt>ひとりひとり</rt></ruby>に<span class=\"vw\" data-ja=\"連絡\" data-reading=\"れんらく\" data-en=\"contact\"><ruby>連絡<rt>れんらく</rt></ruby></span>するということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company will contact each person whose information may have leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連絡",
+      "ruby": "<span class=\"vw\" data-ja=\"連絡\" data-reading=\"れんらく\" data-en=\"contact\"><ruby>連絡<rt>れんらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means contact."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、ブックオフのふりをした怪しいメールや電話、SMSに気をつけるよう呼びかけています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、ブックオフのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールや<ruby>電話<rt>でんわ</rt></ruby>、SMSに<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company urges people to watch out for fake BOOKOFF emails, calls, and texts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "怪しい",
+      "ruby": "<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suspicious."
+    },
+    {
+      "speaker": "slow",
+      "text": "最近、日本では企業への不正アクセスが相次いでいて、対策が急がれています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>では<ruby>企業<rt>きぎょう</rt></ruby>への<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>が<ruby>相次<rt>あいつぎ</rt></ruby>いでいて、<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>が<ruby>急が<rt>いそが</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Cyberattacks on Japanese companies keep happening, and countermeasures are urgently needed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "相次ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"相次ぐ\" data-reading=\"あいつぐ\" data-en=\"to happen one after another\"><ruby>相次ぐ<rt>あいつぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to happen one after another."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中古の本などを売る「ブックオフ」は9日、会員の情報が外に漏れたおそれがあると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"中古\" data-reading=\"ちゅうこ\" data-en=\"secondhand, used\"><ruby>中古<rt>ちゅうこ</rt></ruby></span>の<ruby>本<rt>ほん</rt></ruby>などを<ruby>売る<rt>うる</rt></ruby>「ブックオフ」は<ruby>9日<rt>ここのか</rt></ruby>、<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によりますと、会員の情報を管理するシステムに、外から不正アクセスがあったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によりますと、<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"管理\" data-reading=\"かんり\" data-en=\"management, control\"><ruby>管理<rt>かんり</rt></ruby></span>するシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>があったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたおそれがあるのは、最大でおよそ643万件の会員の情報です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあるのは、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, up to\"><ruby>最大<rt>さいだい</rt></ruby></span>でおよそ643<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>の<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前や生年月日、性別、住所、電話番号、メールアドレスなどが含まれています。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>性別<rt>せいべつ</rt></ruby>、<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、メールアドレスなどが<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "パスワードも、そのままではなく、別の形に変換したものが含まれているということです。",
+      "ruby": "パスワードも、そのままではなく、<ruby>別の<rt>べつの</rt></ruby><ruby>形<rt>かたち</rt></ruby>に<span class=\"vw\" data-ja=\"変換\" data-reading=\"へんかん\" data-en=\"conversion\"><ruby>変換<rt>へんかん</rt></ruby></span>したものが<ruby>含ま<rt>ふくま</rt></ruby>れているということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、クレジットカードなどの情報は、このシステムには保存されていなかったということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、クレジットカードなどの<ruby>情報<rt>じょうほう</rt></ruby>は、このシステムには<span class=\"vw\" data-ja=\"保存\" data-reading=\"ほぞん\" data-en=\"storage, saving\"><ruby>保存<rt>ほぞん</rt></ruby></span>されていなかったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社が不正アクセスに気づいたのは、今月6日でした。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>に<ruby>気づ<rt>きづ</rt></ruby>いたのは、<ruby>今月<rt>こんげつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社はすぐに攻撃元との通信を止めて、外からシステムに入れないようにしました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はすぐに<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span><ruby>元<rt>もと</rt></ruby>との<span class=\"vw\" data-ja=\"通信\" data-reading=\"つうしん\" data-en=\"communication, connection\"><ruby>通信<rt>つうしん</rt></ruby></span>を<ruby>止め<rt>とめ</rt></ruby>て、<ruby>外<rt>そと</rt></ruby>からシステムに<ruby>入れ<rt>いれ</rt></ruby>ないようにしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、個人情報保護委員会に報告し、すべてのシステムを緊急に点検しています。",
+      "ruby": "また、<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<span class=\"vw\" data-ja=\"報告\" data-reading=\"ほうこく\" data-en=\"report\"><ruby>報告<rt>ほうこく</rt></ruby></span>し、すべてのシステムを<ruby>緊急<rt>きんきゅう</rt></ruby>に<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "情報が漏れたおそれがある人には、これから一人一人に連絡するということです。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<ruby>人<rt>ひと</rt></ruby>には、これから<ruby>一人一人<rt>ひとりひとり</rt></ruby>に<span class=\"vw\" data-ja=\"連絡\" data-reading=\"れんらく\" data-en=\"contact\"><ruby>連絡<rt>れんらく</rt></ruby></span>するということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、ブックオフのふりをした怪しいメールや電話、SMSに気をつけるよう呼びかけています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、ブックオフのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールや<ruby>電話<rt>でんわ</rt></ruby>、SMSに<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近、日本では企業への不正アクセスが相次いでいて、対策が急がれています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>では<ruby>企業<rt>きぎょう</rt></ruby>への<span class=\"vw\" data-ja=\"不正アクセス\" data-reading=\"ふせいアクセス\" data-en=\"unauthorized access\"><ruby>不正<rt>ふせい</rt></ruby>アクセス</span>が<ruby>相次<rt>あいつぎ</rt></ruby>いでいて、<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>が<ruby>急が<rt>いそが</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ブックオフは、何を売っている会社ですか。",
+      "ruby": "ブックオフは、<ruby>何を<rt>なにを</rt></ruby><ruby>売っ<rt>うっ</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Used books and other secondhand goods."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れたおそれがある会員の情報は、最大で何件ですか。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>は、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, up to\"><ruby>最大<rt>さいだい</rt></ruby></span>で<ruby>何件<rt>なんけん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About six point four three million."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、何に気をつけるよう呼びかけていますか。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Suspicious emails, calls, and text messages pretending to be from the company."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
