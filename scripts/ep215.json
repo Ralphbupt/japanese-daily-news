@@ -1,0 +1,521 @@
+{
+  "episode": 215,
+  "title": "「目黒のさんま祭」、不漁で去年のサンマを提供",
+  "date": "2026-10-11",
+  "source": "NHK / 目黒区民まつり実行委員会",
+  "level": "N5-N4",
+  "contentVersion": "2026101101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "開く",
+      "reading": "ひらく",
+      "en": "to open, to hold (an event)",
+      "zh": "举办，召开"
+    },
+    {
+      "ja": "祭り",
+      "reading": "まつり",
+      "en": "festival",
+      "zh": "节日，庆典"
+    },
+    {
+      "ja": "焼く",
+      "reading": "やく",
+      "en": "to grill, to bake",
+      "zh": "烤"
+    },
+    {
+      "ja": "届く",
+      "reading": "とどく",
+      "en": "to arrive, to be delivered",
+      "zh": "送到，到达"
+    },
+    {
+      "ja": "少ない",
+      "reading": "すくない",
+      "en": "few, not many",
+      "zh": "少"
+    },
+    {
+      "ja": "生",
+      "reading": "なま",
+      "en": "raw, fresh",
+      "zh": "生的，新鲜的"
+    },
+    {
+      "ja": "冷凍",
+      "reading": "れいとう",
+      "en": "freezing, frozen",
+      "zh": "冷冻"
+    },
+    {
+      "ja": "住む",
+      "reading": "すむ",
+      "en": "to live (somewhere)",
+      "zh": "居住"
+    },
+    {
+      "ja": "いっしょに",
+      "reading": "いっしょに",
+      "en": "together",
+      "zh": "一起"
+    },
+    {
+      "ja": "話",
+      "reading": "はなし",
+      "en": "story, talk",
+      "zh": "故事，话"
+    },
+    {
+      "ja": "去年",
+      "reading": "きょねん",
+      "en": "last year",
+      "zh": "去年"
+    },
+    {
+      "ja": "落語",
+      "reading": "らくご",
+      "en": "rakugo (traditional comic storytelling)",
+      "zh": "落语（日本传统单口相声）"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "verb dictionary form + ことができる",
+      "example": "この祭りでは、毎年、焼いたサンマを食べることができます。",
+      "translation": "At this festival, every year, people can eat grilled Pacific saury.",
+      "note": "Shows ability or possibility. 食べることができます = can eat.",
+      "noteZh": "表示能力或可能性。食べることができます＝可以吃。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……，定下来……",
+      "formation": "verb dictionary form + ことになる",
+      "example": "去年とれて、冷凍したサンマを出すことになりました。",
+      "translation": "It was decided to serve fish caught last year and then frozen.",
+      "note": "Shows a decision made by others or by circumstances. 出すことになりました = it was decided to serve.",
+      "noteZh": "表示由他人或情况决定的事情。出すことになりました＝决定提供。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    },
+    {
+      "pattern": "〜という",
+      "meaning": "called ~, named ~",
+      "meaningZh": "叫作……的",
+      "formation": "noun + という + noun",
+      "example": "この祭りは、落語の「目黒のさんま」という話から始まりました。",
+      "translation": "This festival started from a classic comic story called The Pacific Saury of Meguro.",
+      "note": "Used to give the name of something. 「目黒のさんま」という話 = a story called Meguro no Sanma.",
+      "noteZh": "用于说明名称。「目黒のさんま」という話＝叫作《目黑的秋刀鱼》的故事。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    },
+    {
+      "pattern": "そのため",
+      "meaning": "because of that, so",
+      "meaningZh": "因此，所以",
+      "formation": "そのため、+ sentence",
+      "example": "そのため、今年は、生のサンマではありません。",
+      "translation": "So this year, the fish are not fresh.",
+      "note": "Connects a reason to its result. そのため = for that reason.",
+      "noteZh": "连接原因和结果。そのため＝因此。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ため"
+    }
+  ],
+  "practiceZh": [
+    "東京の目黒区で、11日、秋の祭り「目黒のさんま祭」が開かれます。\n东京目黑区11日将举办“目黑秋刀鱼节”。\n開く = to open, to hold (an event)",
+    "この祭りでは、毎年、焼いたサンマを食べることができます。\n在这个节日上，每年都可以吃到烤秋刀鱼。\n焼く = to grill, to bake",
+    "サンマは、毎年、宮城県の気仙沼市から届きます。\n秋刀鱼从宫城县气仙沼市送来。\n届く = to arrive, to be delivered",
+    "しかし、今年は、海でとれるサンマがとても少ないです。\n但是，今年海里捕到的秋刀鱼非常少。\n少ない = few, not many",
+    "そのため、今年は、生のサンマではありません。\n因此，今年不是新鲜的秋刀鱼。\n生 = raw, fresh",
+    "去年とれて、冷凍したサンマを出すことになりました。\n决定提供去年捕捞后冷冻的秋刀鱼。\n冷凍 = freezing, frozen",
+    "焼いたサンマを食べることができるのは、目黒区に住んでいる2500人です。\n可以吃到烤秋刀鱼的，是住在目黑区的2500人。\n住む = to live (somewhere)",
+    "大分県のすだちや大根おろしも、いっしょに食べることができます。\n还可以和大分县的酸橘、萝卜泥一起吃。\nいっしょに = together",
+    "この祭りは、落語の「目黒のさんま」という話から始まりました。\n这个节日起源于落语《目黑的秋刀鱼》这个故事。\n話 = story, talk"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October eleventh. A favorite autumn fish festival in Tokyo has a problem this year. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の目黒区で、11日、秋の祭り「目黒のさんま祭」が開かれます。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>で、11<ruby>日<rt>にち</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>目黒<rt>めぐろ</rt></ruby>のさんま<ruby>祭<rt>まつり</rt></ruby>」が<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この祭りでは、毎年、焼いたサンマを食べることができます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>では、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>焼い<rt>やい</rt></ruby>たサンマを<ruby>食べ<rt>たべ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "サンマは、毎年、宮城県の気仙沼市から届きます。",
+      "ruby": "サンマは、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>届き<rt>とどき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、今年は、海でとれるサンマがとても少ないです。",
+      "ruby": "しかし、<ruby>今年<rt>ことし</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>でとれるサンマがとても<span class=\"vw\" data-ja=\"少ない\" data-reading=\"すくない\" data-en=\"few, not many\"><ruby>少ない<rt>すくない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、今年は、生のサンマではありません。",
+      "ruby": "そのため、<ruby>今年<rt>ことし</rt></ruby>は、<span class=\"vw\" data-ja=\"生\" data-reading=\"なま\" data-en=\"raw, fresh\"><ruby>生<rt>なま</rt></ruby></span>のサンマではありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年とれて、冷凍したサンマを出すことになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>とれて、<span class=\"vw\" data-ja=\"冷凍\" data-reading=\"れいとう\" data-en=\"freezing, frozen\"><ruby>冷凍<rt>れいとう</rt></ruby></span>したサンマを<ruby>出す<rt>だす</rt></ruby>ことになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "焼いたサンマを食べることができるのは、目黒区に住んでいる2500人です。",
+      "ruby": "<ruby>焼い<rt>やい</rt></ruby>たサンマを<ruby>食べ<rt>たべ</rt></ruby>ることができるのは、<ruby>目黒区<rt>めぐろく</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる2500<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "大分県のすだちや大根おろしも、いっしょに食べることができます。",
+      "ruby": "<ruby>大分県<rt>おおいたけん</rt></ruby>のすだちや<ruby>大根<rt>だいこん</rt></ruby>おろしも、<span class=\"vw\" data-ja=\"いっしょに\" data-reading=\"いっしょに\" data-en=\"together\">いっしょに</span><ruby>食べ<rt>たべ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この祭りは、落語の「目黒のさんま」という話から始まりました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"落語\" data-reading=\"らくご\" data-en=\"rakugo (traditional comic storytelling)\"><ruby>落語<rt>らくご</rt></ruby></span>の「<ruby>目黒<rt>めぐろ</rt></ruby>のさんま」という<span class=\"vw\" data-ja=\"話\" data-reading=\"はなし\" data-en=\"story, talk\"><ruby>話<rt>はなし</rt></ruby></span>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の目黒区で、11日、秋の祭り「目黒のさんま祭」が開かれます。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>で、11<ruby>日<rt>にち</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>目黒<rt>めぐろ</rt></ruby>のさんま<ruby>祭<rt>まつり</rt></ruby>」が<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Tokyo's Meguro Ward, on the eleventh, an autumn festival, the Meguro Pacific Saury Festival, will be held."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open, to hold (an event)\"><ruby>開く<rt>ひらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open, or to hold an event. Here, it will be held."
+    },
+    {
+      "speaker": "slow",
+      "text": "この祭りでは、毎年、焼いたサンマを食べることができます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>では、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>焼い<rt>やい</rt></ruby>たサンマを<ruby>食べ<rt>たべ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "At this festival, every year, people can eat grilled Pacific saury."
+    },
+    {
+      "speaker": "vocab",
+      "text": "焼く",
+      "ruby": "<span class=\"vw\" data-ja=\"焼く\" data-reading=\"やく\" data-en=\"to grill, to bake\"><ruby>焼く<rt>やく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to grill, or to bake."
+    },
+    {
+      "speaker": "slow",
+      "text": "サンマは、毎年、宮城県の気仙沼市から届きます。",
+      "ruby": "サンマは、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>届き<rt>とどき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Every year, the fish come from Kesennuma City in Miyagi Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "届く",
+      "ruby": "<span class=\"vw\" data-ja=\"届く\" data-reading=\"とどく\" data-en=\"to arrive, to be delivered\"><ruby>届く<rt>とどく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to arrive, or to be delivered."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、今年は、海でとれるサンマがとても少ないです。",
+      "ruby": "しかし、<ruby>今年<rt>ことし</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>でとれるサンマがとても<span class=\"vw\" data-ja=\"少ない\" data-reading=\"すくない\" data-en=\"few, not many\"><ruby>少ない<rt>すくない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "But this year, there are very few Pacific saury caught in the sea."
+    },
+    {
+      "speaker": "vocab",
+      "text": "少ない",
+      "ruby": "<span class=\"vw\" data-ja=\"少ない\" data-reading=\"すくない\" data-en=\"few, not many\"><ruby>少ない<rt>すくない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means few, or not many."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのため、今年は、生のサンマではありません。",
+      "ruby": "そのため、<ruby>今年<rt>ことし</rt></ruby>は、<span class=\"vw\" data-ja=\"生\" data-reading=\"なま\" data-en=\"raw, fresh\"><ruby>生<rt>なま</rt></ruby></span>のサンマではありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "So this year, the fish are not fresh."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生",
+      "ruby": "<span class=\"vw\" data-ja=\"生\" data-reading=\"なま\" data-en=\"raw, fresh\"><ruby>生<rt>なま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means raw, or fresh."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年とれて、冷凍したサンマを出すことになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>とれて、<span class=\"vw\" data-ja=\"冷凍\" data-reading=\"れいとう\" data-en=\"freezing, frozen\"><ruby>冷凍<rt>れいとう</rt></ruby></span>したサンマを<ruby>出す<rt>だす</rt></ruby>ことになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was decided to serve fish caught last year and then frozen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "冷凍",
+      "ruby": "<span class=\"vw\" data-ja=\"冷凍\" data-reading=\"れいとう\" data-en=\"freezing, frozen\"><ruby>冷凍<rt>れいとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means frozen, or freezing."
+    },
+    {
+      "speaker": "slow",
+      "text": "焼いたサンマを食べることができるのは、目黒区に住んでいる2500人です。",
+      "ruby": "<ruby>焼い<rt>やい</rt></ruby>たサンマを<ruby>食べ<rt>たべ</rt></ruby>ることができるのは、<ruby>目黒区<rt>めぐろく</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる2500<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The people who can eat the grilled fish are two thousand five hundred people who live in Meguro Ward."
+    },
+    {
+      "speaker": "vocab",
+      "text": "住む",
+      "ruby": "<span class=\"vw\" data-ja=\"住む\" data-reading=\"すむ\" data-en=\"to live (somewhere)\"><ruby>住む<rt>すむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to live somewhere."
+    },
+    {
+      "speaker": "slow",
+      "text": "大分県のすだちや大根おろしも、いっしょに食べることができます。",
+      "ruby": "<ruby>大分県<rt>おおいたけん</rt></ruby>のすだちや<ruby>大根<rt>だいこん</rt></ruby>おろしも、<span class=\"vw\" data-ja=\"いっしょに\" data-reading=\"いっしょに\" data-en=\"together\">いっしょに</span><ruby>食べ<rt>たべ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "People can also eat it together with a small green citrus from Oita and grated white radish."
+    },
+    {
+      "speaker": "vocab",
+      "text": "いっしょに",
+      "ruby": "<span class=\"vw\" data-ja=\"いっしょに\" data-reading=\"いっしょに\" data-en=\"together\">いっしょに</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means together."
+    },
+    {
+      "speaker": "slow",
+      "text": "この祭りは、落語の「目黒のさんま」という話から始まりました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"落語\" data-reading=\"らくご\" data-en=\"rakugo (traditional comic storytelling)\"><ruby>落語<rt>らくご</rt></ruby></span>の「<ruby>目黒<rt>めぐろ</rt></ruby>のさんま」という<span class=\"vw\" data-ja=\"話\" data-reading=\"はなし\" data-en=\"story, talk\"><ruby>話<rt>はなし</rt></ruby></span>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This festival started from a classic comic story called The Pacific Saury of Meguro."
+    },
+    {
+      "speaker": "vocab",
+      "text": "話",
+      "ruby": "<span class=\"vw\" data-ja=\"話\" data-reading=\"はなし\" data-en=\"story, talk\"><ruby>話<rt>はなし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means story, or talk."
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's listen to the whole story one more time."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の目黒区で、11日、秋の祭り「目黒のさんま祭」が開かれます。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>で、11<ruby>日<rt>にち</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>目黒<rt>めぐろ</rt></ruby>のさんま<ruby>祭<rt>まつり</rt></ruby>」が<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この祭りでは、毎年、焼いたサンマを食べることができます。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>では、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>焼い<rt>やい</rt></ruby>たサンマを<ruby>食べ<rt>たべ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "サンマは、毎年、宮城県の気仙沼市から届きます。",
+      "ruby": "サンマは、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>届き<rt>とどき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、今年は、海でとれるサンマがとても少ないです。",
+      "ruby": "しかし、<ruby>今年<rt>ことし</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>でとれるサンマがとても<span class=\"vw\" data-ja=\"少ない\" data-reading=\"すくない\" data-en=\"few, not many\"><ruby>少ない<rt>すくない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、今年は、生のサンマではありません。",
+      "ruby": "そのため、<ruby>今年<rt>ことし</rt></ruby>は、<span class=\"vw\" data-ja=\"生\" data-reading=\"なま\" data-en=\"raw, fresh\"><ruby>生<rt>なま</rt></ruby></span>のサンマではありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年とれて、冷凍したサンマを出すことになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>とれて、<span class=\"vw\" data-ja=\"冷凍\" data-reading=\"れいとう\" data-en=\"freezing, frozen\"><ruby>冷凍<rt>れいとう</rt></ruby></span>したサンマを<ruby>出す<rt>だす</rt></ruby>ことになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "焼いたサンマを食べることができるのは、目黒区に住んでいる2500人です。",
+      "ruby": "<ruby>焼い<rt>やい</rt></ruby>たサンマを<ruby>食べ<rt>たべ</rt></ruby>ることができるのは、<ruby>目黒区<rt>めぐろく</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる2500<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "大分県のすだちや大根おろしも、いっしょに食べることができます。",
+      "ruby": "<ruby>大分県<rt>おおいたけん</rt></ruby>のすだちや<ruby>大根<rt>だいこん</rt></ruby>おろしも、<span class=\"vw\" data-ja=\"いっしょに\" data-reading=\"いっしょに\" data-en=\"together\">いっしょに</span><ruby>食べ<rt>たべ</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この祭りは、落語の「目黒のさんま」という話から始まりました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、<span class=\"vw\" data-ja=\"落語\" data-reading=\"らくご\" data-en=\"rakugo (traditional comic storytelling)\"><ruby>落語<rt>らくご</rt></ruby></span>の「<ruby>目黒<rt>めぐろ</rt></ruby>のさんま」という<span class=\"vw\" data-ja=\"話\" data-reading=\"はなし\" data-en=\"story, talk\"><ruby>話<rt>はなし</rt></ruby></span>から<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "祭りは、どこで開かれますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、どこで<ruby>開か<rt>ひらか</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Meguro Ward, in Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "サンマは、どこから届きますか。",
+      "ruby": "サンマは、どこから<ruby>届き<rt>とどき</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From Kesennuma City, in Miyagi Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、海でとれるサンマが多いですか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>でとれるサンマが<ruby>多い<rt>おおい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No. There are very few."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年のサンマは、生ですか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のサンマは、<span class=\"vw\" data-ja=\"生\" data-reading=\"なま\" data-en=\"raw, fresh\"><ruby>生<rt>なま</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No. It is fish from last year that was frozen."
+    },
+    {
+      "speaker": "slow",
+      "text": "サンマを食べることができるのは、何人ですか。",
+      "ruby": "サンマを<ruby>食べ<rt>たべ</rt></ruby>ることができるのは、<ruby>何人<rt>なんにん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two thousand five hundred people."
+    },
+    {
+      "speaker": "slow",
+      "text": "すだちは、どこのものですか。",
+      "ruby": "すだちは、どこのものですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From Oita Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "この祭りは、何から始まりましたか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>は、<ruby>何<rt>なに</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From a classic comic story."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Enjoy the taste of autumn, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
