@@ -1,0 +1,499 @@
+{
+  "episode": 217,
+  "title": "天皇皇后両陛下、青森で国スポの卓球とねぶたを見学",
+  "date": "2026-10-12",
+  "source": "NHK / 時事通信 / 共同通信 / ATV青森テレビ",
+  "level": "N5-N4",
+  "contentVersion": "2026101201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "訪れる",
+      "reading": "おとずれる",
+      "en": "to visit",
+      "zh": "访问，拜访"
+    },
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "tournament, big event",
+      "zh": "大会，比赛"
+    },
+    {
+      "ja": "開会式",
+      "reading": "かいかいしき",
+      "en": "opening ceremony",
+      "zh": "开幕式"
+    },
+    {
+      "ja": "試合",
+      "reading": "しあい",
+      "en": "match, game",
+      "zh": "比赛"
+    },
+    {
+      "ja": "質問",
+      "reading": "しつもん",
+      "en": "question",
+      "zh": "提问，问题"
+    },
+    {
+      "ja": "午後",
+      "reading": "ごご",
+      "en": "afternoon",
+      "zh": "下午"
+    },
+    {
+      "ja": "祭り",
+      "reading": "まつり",
+      "en": "festival",
+      "zh": "节日，庙会"
+    },
+    {
+      "ja": "迫力",
+      "reading": "はくりょく",
+      "en": "power, impact",
+      "zh": "魄力，震撼力"
+    },
+    {
+      "ja": "拍手",
+      "reading": "はくしゅ",
+      "en": "applause, clapping",
+      "zh": "拍手，鼓掌"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "verb dictionary form + ことができる",
+      "example": "ここでは、夏の祭り「青森ねぶた祭」の大きなねぶたを見ることができます。",
+      "translation": "Here, you can see the giant lantern floats from Aomori's summer festival.",
+      "note": "Shows ability or possibility. 見ることができます = can see.",
+      "noteZh": "表示能力或可能性。見ることができます＝可以看到。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜て、〜",
+      "meaning": "do ~ and then ~",
+      "meaningZh": "……之后……，……然后……",
+      "formation": "verb て-form + next verb",
+      "example": "両陛下は、ねぶたの音楽を聞いて、拍手を送りました。",
+      "translation": "The couple listened to festival music and applauded.",
+      "note": "Links two actions in order. 聞いて、拍手を送りました = listened, and then applauded.",
+      "noteZh": "按顺序连接两个动作。聞いて、拍手を送りました＝听了之后鼓掌。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#て"
+    },
+    {
+      "pattern": "〜方",
+      "meaning": "way of ~ing, how to ~",
+      "meaningZh": "……的方法",
+      "formation": "verb ます-stem + 方",
+      "example": "天皇陛下は、ラケットの持ち方について質問しました。",
+      "translation": "The Emperor asked a question about how players hold the paddle.",
+      "note": "Turns a verb into 'the way of doing it'. 持ち方 = way of holding.",
+      "noteZh": "把动词变成“做……的方法”。持ち方＝拿法、握法。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#方"
+    }
+  ],
+  "practiceZh": [
+    "天皇皇后両陛下は、10日から2日間、青森県を訪れました。\n10日起的两天里，天皇和皇后两陛下访问了青森县。\n訪れる = to visit",
+    "青森県では今、「国民スポーツ大会」が開かれています。\n青森县现在正在举办“国民体育大会”。\n大会 = tournament, big event",
+    "両陛下は10日、大会の開会式に出席しました。\n10日，两陛下出席了大会的开幕式。\n開会式 = opening ceremony",
+    "11日の午前は、青森市の体育館で、若い選手たちの卓球の試合を見ました。\n11日上午，两陛下在青森市的体育馆观看了年轻选手的乒乓球比赛。\n試合 = match, game",
+    "天皇陛下は、ラケットの持ち方について質問しました。\n天皇陛下就球拍的握法提出了问题。\n質問 = question",
+    "午後は、「ねぶたの家ワ・ラッセ」に行きました。\n下午，两陛下去了“睡魔之家 WA・RASSE”。\n午後 = afternoon",
+    "ここでは、夏の祭り「青森ねぶた祭」の大きなねぶたを見ることができます。\n在这里，可以看到夏季祭典“青森睡魔祭”的大型睡魔灯笼。\n祭り = festival",
+    "皇后さまは、ねぶたを見て「迫力ございますね」と話しました。\n皇后看到睡魔灯笼后说：“真有震撼力啊。”\n迫力 = power, impact",
+    "両陛下は、ねぶたの音楽を聞いて、拍手を送りました。\n两陛下听了睡魔祭的音乐后，送上了掌声。\n拍手 = applause, clapping",
+    "両陛下が青森県を訪れるのは、今の天皇になってから初めてでした。\n这是今上天皇即位以来，两陛下第一次访问青森县。\n初めて = for the first time"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twelfth. The Emperor and Empress visit the far north of Japan for a big sports festival. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇皇后両陛下は、10日から2日間、青森県を訪れました。",
+      "ruby": "<ruby>天皇皇后<rt>てんのうこうごう</rt></ruby><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、<ruby>10日<rt>とおか</rt></ruby>から<ruby>2日間<rt>ふつかかん</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>を<ruby>訪れ<rt>おとずれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森県では今、「国民スポーツ大会」が開かれています。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、「<ruby>国民<rt>こくみん</rt></ruby>スポーツ<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>」が<ruby>開か<rt>ひらか</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は10日、大会の開会式に出席しました。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は<ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日の午前は、青森市の体育館で、若い選手たちの卓球の試合を見ました。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>は、<ruby>青森市<rt>あおもりし</rt></ruby>の<ruby>体育館<rt>たいいくかん</rt></ruby>で、<ruby>若い<rt>わかい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>たちの<ruby>卓球<rt>たっきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下は、ラケットの持ち方について質問しました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は、ラケットの<ruby>持ち方<rt>もちかた</rt></ruby>について<span class=\"vw\" data-ja=\"質問\" data-reading=\"しつもん\" data-en=\"question\"><ruby>質問<rt>しつもん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後は、「ねぶたの家ワ・ラッセ」に行きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon\"><ruby>午後<rt>ごご</rt></ruby></span>は、「ねぶたの<ruby>家<rt>いえ</rt></ruby>ワ・ラッセ」に<ruby>行き<rt>いき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ここでは、夏の祭り「青森ねぶた祭」の大きなねぶたを見ることができます。",
+      "ruby": "ここでは、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>」の<ruby>大き<rt>おおき</rt></ruby>なねぶたを<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "皇后さまは、ねぶたを見て「迫力ございますね」と話しました。",
+      "ruby": "<ruby>皇后<rt>こうごう</rt></ruby>さまは、ねぶたを<ruby>見て<rt>みて</rt></ruby>「<span class=\"vw\" data-ja=\"迫力\" data-reading=\"はくりょく\" data-en=\"power, impact\"><ruby>迫力<rt>はくりょく</rt></ruby></span>ございますね」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は、ねぶたの音楽を聞いて、拍手を送りました。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、ねぶたの<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>を<ruby>送り<rt>おくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下が青森県を訪れるのは、今の天皇になってから初めてでした。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>が<ruby>青森県<rt>あおもりけん</rt></ruby>を<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to visit\"><ruby>訪れ<rt>おとずれ</rt></ruby>るのは</span>、<ruby>今<rt>いま</rt></ruby>の<ruby>天皇<rt>てんのう</rt></ruby>になってから<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "天皇皇后両陛下は、10日から2日間、青森県を訪れました。",
+      "ruby": "<ruby>天皇皇后<rt>てんのうこうごう</rt></ruby><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、<ruby>10日<rt>とおか</rt></ruby>から<ruby>2日間<rt>ふつかかん</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>を<ruby>訪れ<rt>おとずれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "For two days from the tenth, the Emperor and Empress visited Aomori Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "訪れる",
+      "ruby": "<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to visit\"><ruby>訪れ<rt>おとずれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to visit."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森県では今、「国民スポーツ大会」が開かれています。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、「<ruby>国民<rt>こくみん</rt></ruby>スポーツ<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>」が<ruby>開か<rt>ひらか</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "A national sports festival is now being held in Aomori."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大会",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tournament, or a big event."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は10日、大会の開会式に出席しました。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は<ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the tenth, they attended the opening ceremony."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開会式",
+      "ruby": "<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means opening ceremony."
+    },
+    {
+      "speaker": "slow",
+      "text": "11日の午前は、青森市の体育館で、若い選手たちの卓球の試合を見ました。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>は、<ruby>青森市<rt>あおもりし</rt></ruby>の<ruby>体育館<rt>たいいくかん</rt></ruby>で、<ruby>若い<rt>わかい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>たちの<ruby>卓球<rt>たっきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the eleventh, they watched young players' table tennis matches at a gym in Aomori City."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試合",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a match, or a game."
+    },
+    {
+      "speaker": "slow",
+      "text": "天皇陛下は、ラケットの持ち方について質問しました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は、ラケットの<ruby>持ち方<rt>もちかた</rt></ruby>について<span class=\"vw\" data-ja=\"質問\" data-reading=\"しつもん\" data-en=\"question\"><ruby>質問<rt>しつもん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Emperor asked a question about how players hold the paddle."
+    },
+    {
+      "speaker": "vocab",
+      "text": "質問",
+      "ruby": "<span class=\"vw\" data-ja=\"質問\" data-reading=\"しつもん\" data-en=\"question\"><ruby>質問<rt>しつもん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a question."
+    },
+    {
+      "speaker": "slow",
+      "text": "午後は、「ねぶたの家ワ・ラッセ」に行きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon\"><ruby>午後<rt>ごご</rt></ruby></span>は、「ねぶたの<ruby>家<rt>いえ</rt></ruby>ワ・ラッセ」に<ruby>行き<rt>いき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the afternoon, they went to a museum about the city's famous festival floats."
+    },
+    {
+      "speaker": "vocab",
+      "text": "午後",
+      "ruby": "<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon\"><ruby>午後<rt>ごご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means afternoon."
+    },
+    {
+      "speaker": "slow",
+      "text": "ここでは、夏の祭り「青森ねぶた祭」の大きなねぶたを見ることができます。",
+      "ruby": "ここでは、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>」の<ruby>大き<rt>おおき</rt></ruby>なねぶたを<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Here, you can see the giant lantern floats from Aomori's summer festival."
+    },
+    {
+      "speaker": "vocab",
+      "text": "祭り",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means festival."
+    },
+    {
+      "speaker": "slow",
+      "text": "皇后さまは、ねぶたを見て「迫力ございますね」と話しました。",
+      "ruby": "<ruby>皇后<rt>こうごう</rt></ruby>さまは、ねぶたを<ruby>見て<rt>みて</rt></ruby>「<span class=\"vw\" data-ja=\"迫力\" data-reading=\"はくりょく\" data-en=\"power, impact\"><ruby>迫力<rt>はくりょく</rt></ruby></span>ございますね」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Looking at the float, the Empress said, it is so powerful, isn't it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "迫力",
+      "ruby": "<span class=\"vw\" data-ja=\"迫力\" data-reading=\"はくりょく\" data-en=\"power, impact\"><ruby>迫力<rt>はくりょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means power or strong impact, something that really grabs you."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は、ねぶたの音楽を聞いて、拍手を送りました。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、ねぶたの<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>を<ruby>送り<rt>おくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The couple listened to festival music and applauded."
+    },
+    {
+      "speaker": "vocab",
+      "text": "拍手",
+      "ruby": "<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clapping your hands."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下が青森県を訪れるのは、今の天皇になってから初めてでした。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>が<ruby>青森県<rt>あおもりけん</rt></ruby>を<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to visit\"><ruby>訪れ<rt>おとずれ</rt></ruby>るのは</span>、<ruby>今<rt>いま</rt></ruby>の<ruby>天皇<rt>てんのう</rt></ruby>になってから<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was their first visit to Aomori since he became Emperor."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇皇后両陛下は、10日から2日間、青森県を訪れました。",
+      "ruby": "<ruby>天皇皇后<rt>てんのうこうごう</rt></ruby><ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、<ruby>10日<rt>とおか</rt></ruby>から<ruby>2日間<rt>ふつかかん</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>を<ruby>訪れ<rt>おとずれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森県では今、「国民スポーツ大会」が開かれています。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、「<ruby>国民<rt>こくみん</rt></ruby>スポーツ<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>」が<ruby>開か<rt>ひらか</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は10日、大会の開会式に出席しました。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は<ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, big event\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日の午前は、青森市の体育館で、若い選手たちの卓球の試合を見ました。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>は、<ruby>青森市<rt>あおもりし</rt></ruby>の<ruby>体育館<rt>たいいくかん</rt></ruby>で、<ruby>若い<rt>わかい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>たちの<ruby>卓球<rt>たっきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下は、ラケットの持ち方について質問しました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は、ラケットの<ruby>持ち方<rt>もちかた</rt></ruby>について<span class=\"vw\" data-ja=\"質問\" data-reading=\"しつもん\" data-en=\"question\"><ruby>質問<rt>しつもん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後は、「ねぶたの家ワ・ラッセ」に行きました。",
+      "ruby": "<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon\"><ruby>午後<rt>ごご</rt></ruby></span>は、「ねぶたの<ruby>家<rt>いえ</rt></ruby>ワ・ラッセ」に<ruby>行き<rt>いき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ここでは、夏の祭り「青森ねぶた祭」の大きなねぶたを見ることができます。",
+      "ruby": "ここでは、<ruby>夏<rt>なつ</rt></ruby>の<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>「<ruby>青森<rt>あおもり</rt></ruby>ねぶた<ruby>祭<rt>まつり</rt></ruby>」の<ruby>大き<rt>おおき</rt></ruby>なねぶたを<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "皇后さまは、ねぶたを見て「迫力ございますね」と話しました。",
+      "ruby": "<ruby>皇后<rt>こうごう</rt></ruby>さまは、ねぶたを<ruby>見て<rt>みて</rt></ruby>「<span class=\"vw\" data-ja=\"迫力\" data-reading=\"はくりょく\" data-en=\"power, impact\"><ruby>迫力<rt>はくりょく</rt></ruby></span>ございますね」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下は、ねぶたの音楽を聞いて、拍手を送りました。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、ねぶたの<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>を<ruby>送り<rt>おくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "両陛下が青森県を訪れるのは、今の天皇になってから初めてでした。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>が<ruby>青森県<rt>あおもりけん</rt></ruby>を<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to visit\"><ruby>訪れ<rt>おとずれ</rt></ruby>るのは</span>、<ruby>今<rt>いま</rt></ruby>の<ruby>天皇<rt>てんのう</rt></ruby>になってから<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は、何の試合を見ましたか。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>を<ruby>見ま<rt>みま</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Table tennis matches."
+    },
+    {
+      "speaker": "slow",
+      "text": "天皇陛下は、何について質問しましたか。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>について<span class=\"vw\" data-ja=\"質問\" data-reading=\"しつもん\" data-en=\"question\"><ruby>質問<rt>しつもん</rt></ruby></span>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "How players hold the paddle."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は、ねぶたの音楽を聞いて、何をしましたか。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、ねぶたの<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、<ruby>何を<rt>なにを</rt></ruby>しましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "They applauded."
+    },
+    {
+      "speaker": "slow",
+      "text": "両陛下は、いつ青森県を訪れましたか。",
+      "ruby": "<ruby>両<rt>りょう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は、いつ<ruby>青森県<rt>あおもりけん</rt></ruby>を<ruby>訪れ<rt>おとずれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the tenth and the eleventh."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
