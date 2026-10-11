@@ -1,0 +1,572 @@
+{
+  "episode": 216,
+  "title": "金融庁、プルデンシャル生命に業務停止命令",
+  "date": "2026-10-11",
+  "source": "NHK / 日本経済新聞 / 毎日新聞 / ニューズウィーク日本版",
+  "level": "N4-N3",
+  "contentVersion": "2026101101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "命令",
+      "reading": "めいれい",
+      "en": "order, command",
+      "zh": "命令"
+    },
+    {
+      "ja": "売る",
+      "reading": "うる",
+      "en": "to sell",
+      "zh": "卖，销售"
+    },
+    {
+      "ja": "支払い",
+      "reading": "しはらい",
+      "en": "payment",
+      "zh": "支付"
+    },
+    {
+      "ja": "だまし取る",
+      "reading": "だましとる",
+      "en": "to swindle, to cheat out of",
+      "zh": "骗取"
+    },
+    {
+      "ja": "処分",
+      "reading": "しょぶん",
+      "en": "disciplinary action, punishment",
+      "zh": "处分"
+    },
+    {
+      "ja": "投資",
+      "reading": "とうし",
+      "en": "investment",
+      "zh": "投资"
+    },
+    {
+      "ja": "希望",
+      "reading": "きぼう",
+      "en": "wish, hope",
+      "zh": "希望，愿望"
+    },
+    {
+      "ja": "仕組み",
+      "reading": "しくみ",
+      "en": "system, structure",
+      "zh": "机制，结构"
+    },
+    {
+      "ja": "放置",
+      "reading": "ほうち",
+      "en": "leaving something alone, neglect",
+      "zh": "放置，搁置不管"
+    },
+    {
+      "ja": "改善",
+      "reading": "かいぜん",
+      "en": "improvement",
+      "zh": "改善"
+    },
+    {
+      "ja": "以来",
+      "reading": "いらい",
+      "en": "since",
+      "zh": "以来"
+    },
+    {
+      "ja": "信頼",
+      "reading": "しんらい",
+      "en": "trust",
+      "zh": "信赖，信任"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜よう（に）",
+      "meaning": "(order/ask someone) to ~",
+      "meaningZh": "（命令/要求）做……",
+      "formation": "verb dictionary form / ない-form + よう（に）+ 命令する・求める・言う",
+      "example": "金融庁は9日、「プルデンシャル生命」と「ジブラルタ生命」に、仕事の一部を止めるよう命令を出しました。",
+      "translation": "On the ninth, the FSA ordered Prudential Life and Gibraltar Life to stop part of their business.",
+      "note": "Reports the content of an order or request. 止めるよう命令 = an order to stop.",
+      "noteZh": "表示命令或要求的内容。止めるよう命令＝命令停止。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜なくなる",
+      "meaning": "no longer ~, become unable to ~",
+      "meaningZh": "变得不……，不再能……",
+      "formation": "verb ない-form (drop い) + くなる",
+      "example": "2つの会社は、13日から来年1月末まで、新しく保険を売ることができなくなります。",
+      "translation": "The two companies will become unable to sell new insurance from the 13th until the end of January.",
+      "note": "Shows a change into a state of not doing / not being able to. できなくなる = become unable.",
+      "noteZh": "表示变化为不能或不做的状态。できなくなる＝变得不能。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくなる"
+    },
+    {
+      "pattern": "〜によって",
+      "meaning": "depending on ~",
+      "meaningZh": "根据……，因……而不同",
+      "formation": "noun + によって",
+      "example": "金融庁は、売り上げによって給料が大きく変わる仕組みが、問題の原因になったと指摘しています。",
+      "translation": "The FSA points out that a system where pay changes greatly depending on sales caused the problem.",
+      "note": "Shows that something varies according to a factor. 売り上げによって = depending on sales.",
+      "noteZh": "表示随某因素而变化。売り上げによって＝根据销售额。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#によって"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~, for the first time since ~",
+      "meaningZh": "自……以来",
+      "formation": "noun / verb て-form + 以来",
+      "example": "生命保険会社に仕事を止める命令が出されるのは、2019年のかんぽ生命以来です。",
+      "translation": "This is the first order to halt business for a life insurer since Japan Post Insurance in 2019.",
+      "note": "Marks the last time something happened. 〜以来です = first time since ~.",
+      "noteZh": "表示上一次发生的时间点。〜以来です＝自……以来首次。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#以来"
+    }
+  ],
+  "practiceZh": [
+    "金融庁は9日、「プルデンシャル生命」と「ジブラルタ生命」に、仕事の一部を止めるよう命令を出しました。\n9日，金融厅命令“保德信人寿”和“直布罗陀人寿”停止部分业务。\n命令 = order, command",
+    "2つの会社は、13日から来年1月末まで、新しく保険を売ることができなくなります。\n两家公司从13日到明年1月底，将不能销售新的保险。\n売る = to sell",
+    "ただし、保険金の支払いなどは続けられます。\n不过，保险金的支付等业务将继续进行。\n支払い = payment",
+    "プルデンシャル生命では、元社員などが、客から60億円以上をだまし取っていました。\n在保德信人寿，前员工等人从客户那里骗取了60亿日元以上。\nだまし取る = to swindle, to cheat out of",
+    "この問題で、これまでに社員157人が処分されています。\n因为这个问题，到目前为止已有157名员工受到处分。\n処分 = disciplinary action, punishment",
+    "ジブラルタ生命でも、元社員が投資のためと言って、客からお金を受け取っていたことがわかりました。\n在直布罗陀人寿，也发现前员工以投资为名从客户那里收钱。\n投資 = investment",
+    "客の希望に合わない売り方も、およそ4000件見つかりました。\n还发现了约4000件不符合客户意愿的销售方式。\n希望 = wish, hope",
+    "金融庁は、売り上げによって給料が大きく変わる仕組みが、問題の原因になったと指摘しています。\n金融厅指出，工资根据销售额大幅变化的机制是问题的原因。\n仕組み = system, structure",
+    "また、「経営陣は売り上げを優先して、問題を長い間放置してきた」と批判しました。\n金融厅还批评说：“经营层优先考虑销售额，长期放任问题不管。”\n放置 = leaving something alone, neglect",
+    "親会社には、仕事のやり方を改善するよう命令が出されました。\n母公司则被命令改善业务方式。\n改善 = improvement",
+    "生命保険会社に仕事を止める命令が出されるのは、2019年のかんぽ生命以来です。\n人寿保险公司被命令停止业务，这是自2019年的简保人寿以来的第一次。\n以来 = since",
+    "客の信頼をどう取り戻すかが問われています。\n如何挽回客户的信任，正受到考验。\n信頼 = trust"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October eleventh. Tonight: two big life insurance companies are told to stop selling new policies. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "金融庁は9日、「プルデンシャル生命」と「ジブラルタ生命」に、仕事の一部を止めるよう命令を出しました。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、「プルデンシャル<ruby>生命<rt>せいめい</rt></ruby>」と「ジブラルタ<ruby>生命<rt>せいめい</rt></ruby>」に、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>止める<rt>とめる</rt></ruby>よう<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2つの会社は、13日から来年1月末まで、新しく保険を売ることができなくなります。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、13<ruby>日<rt>にち</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>1<ruby>月末<rt>げつまつ</rt></ruby>まで、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>を<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことができなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、保険金の支払いなどは続けられます。",
+      "ruby": "ただし、<ruby>保険金<rt>ほけんきん</rt></ruby>の<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>などは<ruby>続け<rt>つづけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "news",
+      "text": "プルデンシャル生命では、元社員などが、客から60億円以上をだまし取っていました。",
+      "ruby": "プルデンシャル<ruby>生命<rt>せいめい</rt></ruby>では、<ruby>元社員<rt>もとしゃいん</rt></ruby>などが、<ruby>客<rt>きゃく</rt></ruby>から60<ruby>億円<rt>おくえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>をだまし<ruby>取っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この問題で、これまでに社員157人が処分されています。",
+      "ruby": "この<ruby>問題<rt>もんだい</rt></ruby>で、これまでに<ruby>社員<rt>しゃいん</rt></ruby>157<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"処分\" data-reading=\"しょぶん\" data-en=\"disciplinary action, punishment\"><ruby>処分<rt>しょぶん</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ジブラルタ生命でも、元社員が投資のためと言って、客からお金を受け取っていたことがわかりました。",
+      "ruby": "ジブラルタ<ruby>生命<rt>せいめい</rt></ruby>でも、<ruby>元社員<rt>もとしゃいん</rt></ruby>が<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>のためと<ruby>言って<rt>いって</rt></ruby>、<ruby>客<rt>きゃく</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>ていたことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "客の希望に合わない売り方も、およそ4000件見つかりました。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<span class=\"vw\" data-ja=\"希望\" data-reading=\"きぼう\" data-en=\"wish, hope\"><ruby>希望<rt>きぼう</rt></ruby></span>に<ruby>合わ<rt>あわ</rt></ruby>ない<ruby>売り<rt>うり</rt></ruby><ruby>方<rt>かた</rt></ruby>も、およそ4000<ruby>件<rt>けん</rt></ruby><ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金融庁は、売り上げによって給料が大きく変わる仕組みが、問題の原因になったと指摘しています。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は、<ruby>売り上げ<rt>うりあげ</rt></ruby>によって<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, structure\"><ruby>仕組み<rt>しくみ</rt></ruby></span>が、<ruby>問題<rt>もんだい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になったと<ruby>指摘<rt>してき</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「経営陣は売り上げを優先して、問題を長い間放置してきた」と批判しました。",
+      "ruby": "また、「<ruby>経営陣<rt>けいえいじん</rt></ruby>は<ruby>売り上げ<rt>うりあげ</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>して、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>あいだ</rt></ruby><span class=\"vw\" data-ja=\"放置\" data-reading=\"ほうち\" data-en=\"leaving something alone, neglect\"><ruby>放置<rt>ほうち</rt></ruby></span>してきた」と<ruby>批判<rt>ひはん</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "親会社には、仕事のやり方を改善するよう命令が出されました。",
+      "ruby": "<ruby>親会社<rt>おやがいしゃ</rt></ruby>には、<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<span class=\"vw\" data-ja=\"改善\" data-reading=\"かいぜん\" data-en=\"improvement\"><ruby>改善<rt>かいぜん</rt></ruby></span>するよう<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出さ<rt>ださ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生命保険会社に仕事を止める命令が出されるのは、2019年のかんぽ生命以来です。",
+      "ruby": "<ruby>生命保険会社<rt>せいめいほけんがいしゃ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>止める<rt>とめる</rt></ruby><span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出さ<rt>ださ</rt></ruby>れるのは、2019<ruby>年<rt>ねん</rt></ruby>のかんぽ<ruby>生命<rt>せいめい</rt></ruby><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "客の信頼をどう取り戻すかが問われています。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼<rt>しんらい</rt></ruby></span>をどう<ruby>取り<rt>とり</rt></ruby><ruby>戻す<rt>もどす</rt></ruby>かが<ruby>問わ<rt>とわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "金融庁は9日、「プルデンシャル生命」と「ジブラルタ生命」に、仕事の一部を止めるよう命令を出しました。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、「プルデンシャル<ruby>生命<rt>せいめい</rt></ruby>」と「ジブラルタ<ruby>生命<rt>せいめい</rt></ruby>」に、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>止める<rt>とめる</rt></ruby>よう<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the ninth, the financial regulator ordered Prudential Life and Gibraltar Life to stop part of their business."
+    },
+    {
+      "speaker": "vocab",
+      "text": "命令",
+      "ruby": "<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an order."
+    },
+    {
+      "speaker": "slow",
+      "text": "2つの会社は、13日から来年1月末まで、新しく保険を売ることができなくなります。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、13<ruby>日<rt>にち</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>1<ruby>月末<rt>げつまつ</rt></ruby>まで、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>を<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことができなくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the thirteenth until the end of January, the two companies cannot sell new insurance."
+    },
+    {
+      "speaker": "vocab",
+      "text": "売る",
+      "ruby": "<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to sell."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただし、保険金の支払いなどは続けられます。",
+      "ruby": "ただし、<ruby>保険金<rt>ほけんきん</rt></ruby>の<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>などは<ruby>続け<rt>つづけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "host",
+      "text": "However, insurance payouts will continue."
+    },
+    {
+      "speaker": "vocab",
+      "text": "支払い",
+      "ruby": "<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means payment."
+    },
+    {
+      "speaker": "slow",
+      "text": "プルデンシャル生命では、元社員などが、客から60億円以上をだまし取っていました。",
+      "ruby": "プルデンシャル<ruby>生命<rt>せいめい</rt></ruby>では、<ruby>元社員<rt>もとしゃいん</rt></ruby>などが、<ruby>客<rt>きゃく</rt></ruby>から60<ruby>億円<rt>おくえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>をだまし<ruby>取っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Prudential, former employees and others cheated customers out of more than six billion yen in total."
+    },
+    {
+      "speaker": "vocab",
+      "text": "だまし取る",
+      "ruby": "<span class=\"vw\" data-ja=\"だまし取る\" data-reading=\"だましとる\" data-en=\"to swindle, to cheat out of\">だまし<ruby>取る<rt>とる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to cheat someone out of money."
+    },
+    {
+      "speaker": "slow",
+      "text": "この問題で、これまでに社員157人が処分されています。",
+      "ruby": "この<ruby>問題<rt>もんだい</rt></ruby>で、これまでに<ruby>社員<rt>しゃいん</rt></ruby>157<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"処分\" data-reading=\"しょぶん\" data-en=\"disciplinary action, punishment\"><ruby>処分<rt>しょぶん</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, one hundred fifty-seven employees have been punished over this problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "処分",
+      "ruby": "<span class=\"vw\" data-ja=\"処分\" data-reading=\"しょぶん\" data-en=\"disciplinary action, punishment\"><ruby>処分<rt>しょぶん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means disciplinary action."
+    },
+    {
+      "speaker": "slow",
+      "text": "ジブラルタ生命でも、元社員が投資のためと言って、客からお金を受け取っていたことがわかりました。",
+      "ruby": "ジブラルタ<ruby>生命<rt>せいめい</rt></ruby>でも、<ruby>元社員<rt>もとしゃいん</rt></ruby>が<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>のためと<ruby>言って<rt>いって</rt></ruby>、<ruby>客<rt>きゃく</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>ていたことがわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Gibraltar Life too, a former employee took money from customers, saying it was for investment."
+    },
+    {
+      "speaker": "vocab",
+      "text": "投資",
+      "ruby": "<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means investment."
+    },
+    {
+      "speaker": "slow",
+      "text": "客の希望に合わない売り方も、およそ4000件見つかりました。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<span class=\"vw\" data-ja=\"希望\" data-reading=\"きぼう\" data-en=\"wish, hope\"><ruby>希望<rt>きぼう</rt></ruby></span>に<ruby>合わ<rt>あわ</rt></ruby>ない<ruby>売り<rt>うり</rt></ruby><ruby>方<rt>かた</rt></ruby>も、およそ4000<ruby>件<rt>けん</rt></ruby><ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About four thousand sales that did not match customer wishes were also found."
+    },
+    {
+      "speaker": "vocab",
+      "text": "希望",
+      "ruby": "<span class=\"vw\" data-ja=\"希望\" data-reading=\"きぼう\" data-en=\"wish, hope\"><ruby>希望<rt>きぼう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means wish, or what someone wants."
+    },
+    {
+      "speaker": "slow",
+      "text": "金融庁は、売り上げによって給料が大きく変わる仕組みが、問題の原因になったと指摘しています。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は、<ruby>売り上げ<rt>うりあげ</rt></ruby>によって<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, structure\"><ruby>仕組み<rt>しくみ</rt></ruby></span>が、<ruby>問題<rt>もんだい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になったと<ruby>指摘<rt>してき</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The regulator says a pay system that changes greatly with sales caused the problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仕組み",
+      "ruby": "<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, structure\"><ruby>仕組み<rt>しくみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means system, or how something is set up."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、「経営陣は売り上げを優先して、問題を長い間放置してきた」と批判しました。",
+      "ruby": "また、「<ruby>経営陣<rt>けいえいじん</rt></ruby>は<ruby>売り上げ<rt>うりあげ</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>して、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>あいだ</rt></ruby><span class=\"vw\" data-ja=\"放置\" data-reading=\"ほうち\" data-en=\"leaving something alone, neglect\"><ruby>放置<rt>ほうち</rt></ruby></span>してきた」と<ruby>批判<rt>ひはん</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also said managers put sales first and left the problem alone for years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "放置",
+      "ruby": "<span class=\"vw\" data-ja=\"放置\" data-reading=\"ほうち\" data-en=\"leaving something alone, neglect\"><ruby>放置<rt>ほうち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means leaving something alone without dealing with it."
+    },
+    {
+      "speaker": "slow",
+      "text": "親会社には、仕事のやり方を改善するよう命令が出されました。",
+      "ruby": "<ruby>親会社<rt>おやがいしゃ</rt></ruby>には、<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<span class=\"vw\" data-ja=\"改善\" data-reading=\"かいぜん\" data-en=\"improvement\"><ruby>改善<rt>かいぜん</rt></ruby></span>するよう<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出さ<rt>ださ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The parent company was ordered to improve the way it does business."
+    },
+    {
+      "speaker": "vocab",
+      "text": "改善",
+      "ruby": "<span class=\"vw\" data-ja=\"改善\" data-reading=\"かいぜん\" data-en=\"improvement\"><ruby>改善<rt>かいぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means improvement."
+    },
+    {
+      "speaker": "slow",
+      "text": "生命保険会社に仕事を止める命令が出されるのは、2019年のかんぽ生命以来です。",
+      "ruby": "<ruby>生命保険会社<rt>せいめいほけんがいしゃ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>止める<rt>とめる</rt></ruby><span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出さ<rt>ださ</rt></ruby>れるのは、2019<ruby>年<rt>ねん</rt></ruby>のかんぽ<ruby>生命<rt>せいめい</rt></ruby><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the first such order for a life insurer since Japan Post Insurance in twenty nineteen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以来",
+      "ruby": "<span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means since."
+    },
+    {
+      "speaker": "slow",
+      "text": "客の信頼をどう取り戻すかが問われています。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼<rt>しんらい</rt></ruby></span>をどう<ruby>取り<rt>とり</rt></ruby><ruby>戻す<rt>もどす</rt></ruby>かが<ruby>問わ<rt>とわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The question now is how to win back customer trust."
+    },
+    {
+      "speaker": "vocab",
+      "text": "信頼",
+      "ruby": "<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼<rt>しんらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means trust."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "金融庁は9日、「プルデンシャル生命」と「ジブラルタ生命」に、仕事の一部を止めるよう命令を出しました。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、「プルデンシャル<ruby>生命<rt>せいめい</rt></ruby>」と「ジブラルタ<ruby>生命<rt>せいめい</rt></ruby>」に、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>止める<rt>とめる</rt></ruby>よう<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2つの会社は、13日から来年1月末まで、新しく保険を売ることができなくなります。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、13<ruby>日<rt>にち</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>1<ruby>月末<rt>げつまつ</rt></ruby>まで、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>を<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことができなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、保険金の支払いなどは続けられます。",
+      "ruby": "ただし、<ruby>保険金<rt>ほけんきん</rt></ruby>の<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>などは<ruby>続け<rt>つづけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "news",
+      "text": "プルデンシャル生命では、元社員などが、客から60億円以上をだまし取っていました。",
+      "ruby": "プルデンシャル<ruby>生命<rt>せいめい</rt></ruby>では、<ruby>元社員<rt>もとしゃいん</rt></ruby>などが、<ruby>客<rt>きゃく</rt></ruby>から60<ruby>億円<rt>おくえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>をだまし<ruby>取っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この問題で、これまでに社員157人が処分されています。",
+      "ruby": "この<ruby>問題<rt>もんだい</rt></ruby>で、これまでに<ruby>社員<rt>しゃいん</rt></ruby>157<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"処分\" data-reading=\"しょぶん\" data-en=\"disciplinary action, punishment\"><ruby>処分<rt>しょぶん</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ジブラルタ生命でも、元社員が投資のためと言って、客からお金を受け取っていたことがわかりました。",
+      "ruby": "ジブラルタ<ruby>生命<rt>せいめい</rt></ruby>でも、<ruby>元社員<rt>もとしゃいん</rt></ruby>が<span class=\"vw\" data-ja=\"投資\" data-reading=\"とうし\" data-en=\"investment\"><ruby>投資<rt>とうし</rt></ruby></span>のためと<ruby>言って<rt>いって</rt></ruby>、<ruby>客<rt>きゃく</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>ていたことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "客の希望に合わない売り方も、およそ4000件見つかりました。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<span class=\"vw\" data-ja=\"希望\" data-reading=\"きぼう\" data-en=\"wish, hope\"><ruby>希望<rt>きぼう</rt></ruby></span>に<ruby>合わ<rt>あわ</rt></ruby>ない<ruby>売り<rt>うり</rt></ruby><ruby>方<rt>かた</rt></ruby>も、およそ4000<ruby>件<rt>けん</rt></ruby><ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金融庁は、売り上げによって給料が大きく変わる仕組みが、問題の原因になったと指摘しています。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は、<ruby>売り上げ<rt>うりあげ</rt></ruby>によって<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, structure\"><ruby>仕組み<rt>しくみ</rt></ruby></span>が、<ruby>問題<rt>もんだい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になったと<ruby>指摘<rt>してき</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「経営陣は売り上げを優先して、問題を長い間放置してきた」と批判しました。",
+      "ruby": "また、「<ruby>経営陣<rt>けいえいじん</rt></ruby>は<ruby>売り上げ<rt>うりあげ</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>して、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>長い<rt>ながい</rt></ruby><ruby>間<rt>あいだ</rt></ruby><span class=\"vw\" data-ja=\"放置\" data-reading=\"ほうち\" data-en=\"leaving something alone, neglect\"><ruby>放置<rt>ほうち</rt></ruby></span>してきた」と<ruby>批判<rt>ひはん</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "親会社には、仕事のやり方を改善するよう命令が出されました。",
+      "ruby": "<ruby>親会社<rt>おやがいしゃ</rt></ruby>には、<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<span class=\"vw\" data-ja=\"改善\" data-reading=\"かいぜん\" data-en=\"improvement\"><ruby>改善<rt>かいぜん</rt></ruby></span>するよう<span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出さ<rt>ださ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生命保険会社に仕事を止める命令が出されるのは、2019年のかんぽ生命以来です。",
+      "ruby": "<ruby>生命保険会社<rt>せいめいほけんがいしゃ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>止める<rt>とめる</rt></ruby><span class=\"vw\" data-ja=\"命令\" data-reading=\"めいれい\" data-en=\"order, command\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出さ<rt>ださ</rt></ruby>れるのは、2019<ruby>年<rt>ねん</rt></ruby>のかんぽ<ruby>生命<rt>せいめい</rt></ruby><span class=\"vw\" data-ja=\"以来\" data-reading=\"いらい\" data-en=\"since\"><ruby>以来<rt>いらい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "客の信頼をどう取り戻すかが問われています。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼<rt>しんらい</rt></ruby></span>をどう<ruby>取り<rt>とり</rt></ruby><ruby>戻す<rt>もどす</rt></ruby>かが<ruby>問わ<rt>とわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "2つの会社は、いつまで新しく保険を売ることができませんか。",
+      "ruby": "2つの<ruby>会社<rt>かいしゃ</rt></ruby>は、いつまで<ruby>新しく<rt>あたらしく</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>を<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことができませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until the end of January next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "元社員などは、客からいくらだまし取りましたか。",
+      "ruby": "<ruby>元社員<rt>もとしゃいん</rt></ruby>などは、<ruby>客<rt>きゃく</rt></ruby>からいくらだまし<ruby>取り<rt>とり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than six billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "問題の原因は何ですか。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A pay system that changes greatly depending on sales."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
