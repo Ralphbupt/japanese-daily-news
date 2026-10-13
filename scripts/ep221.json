@@ -1,0 +1,589 @@
+{
+  "episode": 221,
+  "title": "草津白根山の「湯釜」、8年ぶりに見学できるように",
+  "date": "2026-10-14",
+  "source": "上毛新聞 / 読売新聞 / デイリースポーツ",
+  "level": "N5-N4",
+  "contentVersion": "2026101401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "湖",
+      "reading": "みずうみ",
+      "en": "lake",
+      "zh": "湖"
+    },
+    {
+      "ja": "火口",
+      "reading": "かこう",
+      "en": "crater (of a volcano)",
+      "zh": "火山口"
+    },
+    {
+      "ja": "色",
+      "reading": "いろ",
+      "en": "color",
+      "zh": "颜色"
+    },
+    {
+      "ja": "火山",
+      "reading": "かざん",
+      "en": "volcano",
+      "zh": "火山"
+    },
+    {
+      "ja": "活発",
+      "reading": "かっぱつ",
+      "en": "active, lively",
+      "zh": "活跃，活泼"
+    },
+    {
+      "ja": "噴火",
+      "reading": "ふんか",
+      "en": "eruption",
+      "zh": "火山喷发"
+    },
+    {
+      "ja": "下がる",
+      "reading": "さがる",
+      "en": "to go down, to fall",
+      "zh": "下降，降低"
+    },
+    {
+      "ja": "登山道",
+      "reading": "とざんどう",
+      "en": "mountain trail",
+      "zh": "登山道"
+    },
+    {
+      "ja": "開ける",
+      "reading": "あける",
+      "en": "to open",
+      "zh": "打开"
+    },
+    {
+      "ja": "観光客",
+      "reading": "かんこうきゃく",
+      "en": "tourist",
+      "zh": "游客"
+    },
+    {
+      "ja": "8年ぶり",
+      "reading": "はちねんぶり",
+      "en": "for the first time in eight years",
+      "zh": "时隔八年"
+    },
+    {
+      "ja": "展望台",
+      "reading": "てんぼうだい",
+      "en": "observation deck",
+      "zh": "观景台，瞭望台"
+    },
+    {
+      "ja": "歩く",
+      "reading": "あるく",
+      "en": "to walk",
+      "zh": "走，步行"
+    },
+    {
+      "ja": "離れる",
+      "reading": "はなれる",
+      "en": "to be apart, to be away from",
+      "zh": "离开，相距"
+    },
+    {
+      "ja": "感動",
+      "reading": "かんどう",
+      "en": "being moved, deeply impressed",
+      "zh": "感动"
+    },
+    {
+      "ja": "見学",
+      "reading": "けんがく",
+      "en": "visit (to see and learn)",
+      "zh": "参观"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "verb dictionary form + ことができる",
+      "example": "13日は、8年ぶりに湯釜を見ることができる日で、たくさんの観光客が来ました。",
+      "translation": "The thirteenth was the day people could see the lake for the first time in eight years, and many tourists came.",
+      "note": "Expresses ability or possibility. 入ることができなくなりました = became unable to enter.",
+      "noteZh": "表示能力或可能性。入ることができなくなりました＝变得无法进入了。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜ぶりに",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔……",
+      "formation": "time period + ぶりに",
+      "example": "8年ぶりに湯釜を見ることができます。",
+      "translation": "You can see the lake for the first time in eight years.",
+      "note": "Used when something happens again after a long gap.",
+      "noteZh": "用于隔了很长时间后再次发生某事。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ぶりに"
+    },
+    {
+      "pattern": "〜なくなる",
+      "meaning": "to become unable / to stop ~ing",
+      "meaningZh": "变得不……，不再……",
+      "formation": "verb ない-form (drop い) + くなる",
+      "example": "湯釜の近くに入ることができなくなりました。",
+      "translation": "People became unable to go near the lake.",
+      "note": "Shows a change into a negative state.",
+      "noteZh": "表示变成否定的状态。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくなる"
+    }
+  ],
+  "practiceZh": [
+    "群馬県の草津白根山に、「湯釜」という火口の湖があります。\n群马县的草津白根山上，有一个叫“汤釜”的火山口湖。\n湖 = lake / 火口 = crater (of a volcano)",
+    "湯釜の水は、きれいなエメラルドグリーンの色です。\n汤釜的湖水是美丽的翡翠绿色。\n色 = color",
+    "2018年4月に火山の活動が活発になって、湯釜の近くに入ることができなくなりました。\n2018年4月，火山活动变得活跃，人们无法进入汤釜附近。\n火山 = volcano / 活発 = active, lively",
+    "今年の5月、噴火警戒レベルが1に下がりました。\n今年5月，火山喷发警戒等级降到了1级。\n噴火 = eruption / 下がる = to go down, to fall",
+    "それで草津町は、10月13日から登山道の一部を開けました。\n因此，草津町从10月13日起开放了部分登山道。\n登山道 = mountain trail / 開ける = to open",
+    "13日は、8年ぶりに湯釜を見ることができる日で、たくさんの観光客が来ました。\n13日是时隔8年能看到汤釜的日子，来了很多游客。\n観光客 = tourist / 8年ぶり = for the first time in eight years",
+    "観光客は、登山道を約610メートル歩いて、展望台まで行きます。\n游客沿登山道步行约610米，到达观景台。\n展望台 = observation deck / 歩く = to walk",
+    "展望台は、火口から約550メートル離れています。\n观景台距离火山口约550米。\n離れる = to be apart, to be away from",
+    "埼玉県から来た人は、「初めて見て、すごくきれいで感動しました」と話していました。\n一位从埼玉县来的游客说：“第一次看到，非常漂亮，很感动。”\n感動 = being moved, deeply impressed",
+    "湯釜を見学できるのは、午前10時から午後3時までで、11月8日までです。\n汤釜的参观时间是上午10点到下午3点，开放到11月8日为止。\n見学 = visit (to see and learn)"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October fourteenth. A famous green crater lake on a volcano in Gunma is open to visitors again. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県の草津白根山に、「湯釜」という火口の湖があります。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>の<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>に、「<ruby>湯釜<rt>ゆがま</rt></ruby>」という<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>の<span class=\"vw\" data-ja=\"湖\" data-reading=\"みずうみ\" data-en=\"lake\"><ruby>湖<rt>みずうみ</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "湯釜の水は、きれいなエメラルドグリーンの色です。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>水<rt>みず</rt></ruby>は、きれいなエメラルドグリーンの<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2018年4月に火山の活動が活発になって、湯釜の近くに入ることができなくなりました。",
+      "ruby": "2018<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"火山\" data-reading=\"かざん\" data-en=\"volcano\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>活動<rt>かつどう</rt></ruby>が<span class=\"vw\" data-ja=\"活発\" data-reading=\"かっぱつ\" data-en=\"active, lively\"><ruby>活発<rt>かっぱつ</rt></ruby></span>になって、<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<ruby>入る<rt>はいる</rt></ruby>ことができなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の5月、噴火警戒レベルが1に下がりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の5<ruby>月<rt>がつ</rt></ruby>、<span class=\"vw\" data-ja=\"噴火\" data-reading=\"ふんか\" data-en=\"eruption\"><ruby>噴火<rt>ふんか</rt></ruby></span><ruby>警戒<rt>けいかい</rt></ruby>レベルが1に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで草津町は、10月13日から登山道の一部を開けました。",
+      "ruby": "それで<ruby>草津<rt>くさつ</rt></ruby><ruby>町<rt>まち</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>から<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>開け<rt>あけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "13日は、8年ぶりに湯釜を見ることができる日で、たくさんの観光客が来ました。",
+      "ruby": "13<ruby>日<rt>にち</rt></ruby>は、<span class=\"vw\" data-ja=\"8年ぶり\" data-reading=\"はちねんぶり\" data-en=\"for the first time in eight years\">8<ruby>年<rt>ねん</rt></ruby>ぶりに</span><ruby>湯釜<rt>ゆがま</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>で、たくさんの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "観光客は、登山道を約610メートル歩いて、展望台まで行きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>を<ruby>約<rt>やく</rt></ruby>610メートル<ruby>歩い<rt>あるい</rt></ruby>て、<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>まで<ruby>行き<rt>いき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "展望台は、火口から約550メートル離れています。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>から<ruby>約<rt>やく</rt></ruby>550メートル<ruby>離れ<rt>はなれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "埼玉県から来た人は、「初めて見て、すごくきれいで感動しました」と話していました。",
+      "ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、「<ruby>初めて<rt>はじめて</rt></ruby><ruby>見て<rt>みて</rt></ruby>、すごくきれいで<span class=\"vw\" data-ja=\"感動\" data-reading=\"かんどう\" data-en=\"being moved, deeply impressed\"><ruby>感動<rt>かんどう</rt></ruby></span>しました」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "湯釜を見学できるのは、午前10時から午後3時までで、11月8日までです。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>を<span class=\"vw\" data-ja=\"見学\" data-reading=\"けんがく\" data-en=\"visit (to see and learn)\"><ruby>見学<rt>けんがく</rt></ruby></span>できるのは、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>までで、11<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "群馬県の草津白根山に、「湯釜」という火口の湖があります。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>の<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>に、「<ruby>湯釜<rt>ゆがま</rt></ruby>」という<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>の<span class=\"vw\" data-ja=\"湖\" data-reading=\"みずうみ\" data-en=\"lake\"><ruby>湖<rt>みずうみ</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kusatsu-Shirane, a mountain in Gunma Prefecture, has a crater lake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "湖",
+      "ruby": "<span class=\"vw\" data-ja=\"湖\" data-reading=\"みずうみ\" data-en=\"lake\"><ruby>湖<rt>みずうみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a lake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火口",
+      "ruby": "<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the crater, the opening at the top of a volcano."
+    },
+    {
+      "speaker": "slow",
+      "text": "湯釜の水は、きれいなエメラルドグリーンの色です。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>水<rt>みず</rt></ruby>は、きれいなエメラルドグリーンの<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The water of the lake is a beautiful emerald green."
+    },
+    {
+      "speaker": "vocab",
+      "text": "色",
+      "ruby": "<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means color."
+    },
+    {
+      "speaker": "slow",
+      "text": "2018年4月に火山の活動が活発になって、湯釜の近くに入ることができなくなりました。",
+      "ruby": "2018<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"火山\" data-reading=\"かざん\" data-en=\"volcano\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>活動<rt>かつどう</rt></ruby>が<span class=\"vw\" data-ja=\"活発\" data-reading=\"かっぱつ\" data-en=\"active, lively\"><ruby>活発<rt>かっぱつ</rt></ruby></span>になって、<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<ruby>入る<rt>はいる</rt></ruby>ことができなくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In April twenty eighteen, the volcano became more active, and people could no longer go near the lake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火山",
+      "ruby": "<span class=\"vw\" data-ja=\"火山\" data-reading=\"かざん\" data-en=\"volcano\"><ruby>火山<rt>かざん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a volcano."
+    },
+    {
+      "speaker": "vocab",
+      "text": "活発",
+      "ruby": "<span class=\"vw\" data-ja=\"活発\" data-reading=\"かっぱつ\" data-en=\"active, lively\"><ruby>活発<rt>かっぱつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means active or lively."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の5月、噴火警戒レベルが1に下がりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の5<ruby>月<rt>がつ</rt></ruby>、<span class=\"vw\" data-ja=\"噴火\" data-reading=\"ふんか\" data-en=\"eruption\"><ruby>噴火<rt>ふんか</rt></ruby></span><ruby>警戒<rt>けいかい</rt></ruby>レベルが1に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This May, the volcanic alert level went down to one, the lowest level."
+    },
+    {
+      "speaker": "vocab",
+      "text": "噴火",
+      "ruby": "<span class=\"vw\" data-ja=\"噴火\" data-reading=\"ふんか\" data-en=\"eruption\"><ruby>噴火<rt>ふんか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a volcanic eruption."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下がる",
+      "ruby": "<span class=\"vw\" data-ja=\"下がる\" data-reading=\"さがる\" data-en=\"to go down, to fall\"><ruby>下が<rt>さが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to go down."
+    },
+    {
+      "speaker": "slow",
+      "text": "それで草津町は、10月13日から登山道の一部を開けました。",
+      "ruby": "それで<ruby>草津<rt>くさつ</rt></ruby><ruby>町<rt>まち</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>から<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>開け<rt>あけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "So the town opened part of the mountain trail from October thirteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "登山道",
+      "ruby": "<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a mountain trail."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開ける",
+      "ruby": "<span class=\"vw\" data-ja=\"開ける\" data-reading=\"あける\" data-en=\"to open\"><ruby>開け<rt>あけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open."
+    },
+    {
+      "speaker": "slow",
+      "text": "13日は、8年ぶりに湯釜を見ることができる日で、たくさんの観光客が来ました。",
+      "ruby": "13<ruby>日<rt>にち</rt></ruby>は、<span class=\"vw\" data-ja=\"8年ぶり\" data-reading=\"はちねんぶり\" data-en=\"for the first time in eight years\">8<ruby>年<rt>ねん</rt></ruby>ぶりに</span><ruby>湯釜<rt>ゆがま</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>で、たくさんの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the thirteenth, people could see the lake for the first time in eight years, and many tourists came."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観光客",
+      "ruby": "<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tourist."
+    },
+    {
+      "speaker": "vocab",
+      "text": "8年ぶり",
+      "ruby": "<span class=\"vw\" data-ja=\"8年ぶり\" data-reading=\"はちねんぶり\" data-en=\"for the first time in eight years\">8<ruby>年<rt>ねん</rt></ruby>ぶり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time in eight years."
+    },
+    {
+      "speaker": "slow",
+      "text": "観光客は、登山道を約610メートル歩いて、展望台まで行きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>を<ruby>約<rt>やく</rt></ruby>610メートル<ruby>歩い<rt>あるい</rt></ruby>て、<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>まで<ruby>行き<rt>いき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Visitors walk about six hundred ten meters along the trail to an observation deck."
+    },
+    {
+      "speaker": "vocab",
+      "text": "展望台",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an observation deck with a wide view."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歩く",
+      "ruby": "<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to walk."
+    },
+    {
+      "speaker": "slow",
+      "text": "展望台は、火口から約550メートル離れています。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>から<ruby>約<rt>やく</rt></ruby>550メートル<ruby>離れ<rt>はなれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The observation deck is about five hundred fifty meters away from the crater."
+    },
+    {
+      "speaker": "vocab",
+      "text": "離れる",
+      "ruby": "<span class=\"vw\" data-ja=\"離れる\" data-reading=\"はなれる\" data-en=\"to be apart, to be away from\"><ruby>離れ<rt>はなれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be away from something."
+    },
+    {
+      "speaker": "slow",
+      "text": "埼玉県から来た人は、「初めて見て、すごくきれいで感動しました」と話していました。",
+      "ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、「<ruby>初めて<rt>はじめて</rt></ruby><ruby>見て<rt>みて</rt></ruby>、すごくきれいで<span class=\"vw\" data-ja=\"感動\" data-reading=\"かんどう\" data-en=\"being moved, deeply impressed\"><ruby>感動<rt>かんどう</rt></ruby></span>しました」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A visitor from Saitama said, it was my first time seeing it, and it was so beautiful that I was moved."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感動",
+      "ruby": "<span class=\"vw\" data-ja=\"感動\" data-reading=\"かんどう\" data-en=\"being moved, deeply impressed\"><ruby>感動<rt>かんどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means being deeply moved by something."
+    },
+    {
+      "speaker": "slow",
+      "text": "湯釜を見学できるのは、午前10時から午後3時までで、11月8日までです。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>を<span class=\"vw\" data-ja=\"見学\" data-reading=\"けんがく\" data-en=\"visit (to see and learn)\"><ruby>見学<rt>けんがく</rt></ruby></span>できるのは、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>までで、11<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Visits are allowed from ten in the morning to three in the afternoon, until November eighth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見学",
+      "ruby": "<span class=\"vw\" data-ja=\"見学\" data-reading=\"けんがく\" data-en=\"visit (to see and learn)\"><ruby>見学<rt>けんがく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means visiting a place to look and learn."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県の草津白根山に、「湯釜」という火口の湖があります。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>の<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>に、「<ruby>湯釜<rt>ゆがま</rt></ruby>」という<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>の<span class=\"vw\" data-ja=\"湖\" data-reading=\"みずうみ\" data-en=\"lake\"><ruby>湖<rt>みずうみ</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "湯釜の水は、きれいなエメラルドグリーンの色です。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>水<rt>みず</rt></ruby>は、きれいなエメラルドグリーンの<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2018年4月に火山の活動が活発になって、湯釜の近くに入ることができなくなりました。",
+      "ruby": "2018<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"火山\" data-reading=\"かざん\" data-en=\"volcano\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>活動<rt>かつどう</rt></ruby>が<span class=\"vw\" data-ja=\"活発\" data-reading=\"かっぱつ\" data-en=\"active, lively\"><ruby>活発<rt>かっぱつ</rt></ruby></span>になって、<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<ruby>入る<rt>はいる</rt></ruby>ことができなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の5月、噴火警戒レベルが1に下がりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の5<ruby>月<rt>がつ</rt></ruby>、<span class=\"vw\" data-ja=\"噴火\" data-reading=\"ふんか\" data-en=\"eruption\"><ruby>噴火<rt>ふんか</rt></ruby></span><ruby>警戒<rt>けいかい</rt></ruby>レベルが1に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで草津町は、10月13日から登山道の一部を開けました。",
+      "ruby": "それで<ruby>草津<rt>くさつ</rt></ruby><ruby>町<rt>まち</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>から<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>開け<rt>あけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "13日は、8年ぶりに湯釜を見ることができる日で、たくさんの観光客が来ました。",
+      "ruby": "13<ruby>日<rt>にち</rt></ruby>は、<span class=\"vw\" data-ja=\"8年ぶり\" data-reading=\"はちねんぶり\" data-en=\"for the first time in eight years\">8<ruby>年<rt>ねん</rt></ruby>ぶりに</span><ruby>湯釜<rt>ゆがま</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができる<ruby>日<rt>ひ</rt></ruby>で、たくさんの<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "観光客は、登山道を約610メートル歩いて、展望台まで行きます。",
+      "ruby": "<span class=\"vw\" data-ja=\"観光客\" data-reading=\"かんこうきゃく\" data-en=\"tourist\"><ruby>観光客<rt>かんこうきゃく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"登山道\" data-reading=\"とざんどう\" data-en=\"mountain trail\"><ruby>登山道<rt>とざんどう</rt></ruby></span>を<ruby>約<rt>やく</rt></ruby>610メートル<ruby>歩い<rt>あるい</rt></ruby>て、<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>まで<ruby>行き<rt>いき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "展望台は、火口から約550メートル離れています。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>から<ruby>約<rt>やく</rt></ruby>550メートル<ruby>離れ<rt>はなれ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "埼玉県から来た人は、「初めて見て、すごくきれいで感動しました」と話していました。",
+      "ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、「<ruby>初めて<rt>はじめて</rt></ruby><ruby>見て<rt>みて</rt></ruby>、すごくきれいで<span class=\"vw\" data-ja=\"感動\" data-reading=\"かんどう\" data-en=\"being moved, deeply impressed\"><ruby>感動<rt>かんどう</rt></ruby></span>しました」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "湯釜を見学できるのは、午前10時から午後3時までで、11月8日までです。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>を<span class=\"vw\" data-ja=\"見学\" data-reading=\"けんがく\" data-en=\"visit (to see and learn)\"><ruby>見学<rt>けんがく</rt></ruby></span>できるのは、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>までで、11<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "湯釜の水は、何色ですか。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>の<ruby>水<rt>みず</rt></ruby>は、<ruby>何色<rt>なにいろ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Emerald green."
+    },
+    {
+      "speaker": "slow",
+      "text": "何年ぶりに、湯釜を見ることができるようになりましたか。",
+      "ruby": "<ruby>何年<rt>なんねん</rt></ruby>ぶりに、<ruby>湯釜<rt>ゆがま</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができるようになりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "For the first time in eight years."
+    },
+    {
+      "speaker": "slow",
+      "text": "展望台は、火口から何メートル離れていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"火口\" data-reading=\"かこう\" data-en=\"crater (of a volcano)\"><ruby>火口<rt>かこう</rt></ruby></span>から<ruby>何<rt>なに</rt></ruby>メートル<ruby>離れ<rt>はなれ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five hundred fifty meters."
+    },
+    {
+      "speaker": "slow",
+      "text": "湯釜は、いつまで見学できますか。",
+      "ruby": "<ruby>湯釜<rt>ゆがま</rt></ruby>は、いつまで<span class=\"vw\" data-ja=\"見学\" data-reading=\"けんがく\" data-en=\"visit (to see and learn)\"><ruby>見学<rt>けんがく</rt></ruby></span>できますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until November eighth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
