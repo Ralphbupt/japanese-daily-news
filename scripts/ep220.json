@@ -1,0 +1,649 @@
+{
+  "episode": 220,
+  "title": "栃木の工場で火事、30時間燃え続ける",
+  "date": "2026-10-13",
+  "source": "FNNプライムオンライン / 共同通信 / 朝日新聞 / とちぎテレビ",
+  "level": "N4-N3",
+  "contentVersion": "2026101301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "火事",
+      "reading": "かじ",
+      "en": "fire (building fire)",
+      "zh": "火灾"
+    },
+    {
+      "ja": "製品",
+      "reading": "せいひん",
+      "en": "product, manufactured goods",
+      "zh": "产品，制品"
+    },
+    {
+      "ja": "煙",
+      "reading": "けむり",
+      "en": "smoke",
+      "zh": "烟"
+    },
+    {
+      "ja": "通報",
+      "reading": "つうほう",
+      "en": "report (to police/fire dept.)",
+      "zh": "报警，通报"
+    },
+    {
+      "ja": "倉庫",
+      "reading": "そうこ",
+      "en": "warehouse",
+      "zh": "仓库"
+    },
+    {
+      "ja": "避難",
+      "reading": "ひなん",
+      "en": "evacuation",
+      "zh": "避难，疏散"
+    },
+    {
+      "ja": "けが人",
+      "reading": "けがにん",
+      "en": "injured person",
+      "zh": "受伤者，伤员"
+    },
+    {
+      "ja": "燃え広がる",
+      "reading": "もえひろがる",
+      "en": "(fire) to spread",
+      "zh": "（火势）蔓延"
+    },
+    {
+      "ja": "消防車",
+      "reading": "しょうぼうしゃ",
+      "en": "fire engine",
+      "zh": "消防车"
+    },
+    {
+      "ja": "夜通し",
+      "reading": "よどおし",
+      "en": "all night long",
+      "zh": "通宵，整夜"
+    },
+    {
+      "ja": "塊",
+      "reading": "かたまり",
+      "en": "lump, mass",
+      "zh": "块，团"
+    },
+    {
+      "ja": "鎮圧",
+      "reading": "ちんあつ",
+      "en": "bringing (a fire) under control",
+      "zh": "（火势）被控制住"
+    },
+    {
+      "ja": "最初",
+      "reading": "さいしょ",
+      "en": "first, beginning",
+      "zh": "最初，第一次"
+    },
+    {
+      "ja": "燃え移る",
+      "reading": "もえうつる",
+      "en": "(fire) to catch onto / jump to",
+      "zh": "（火）蔓延到，延烧到"
+    },
+    {
+      "ja": "原因",
+      "reading": "げんいん",
+      "en": "cause",
+      "zh": "原因"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てある",
+      "meaning": "has been ~ (and stays that way)",
+      "meaningZh": "（某人有意）……着，已……好",
+      "formation": "transitive verb て-form + ある",
+      "example": "倉庫には、プラスチック製品や材料がたくさん置いてありました。",
+      "translation": "A lot of plastic products and materials were stored in the warehouse.",
+      "note": "Describes a state left by someone's action. 置いてありました = had been placed there.",
+      "noteZh": "表示人为动作留下的状态。置いてありました＝（被人）放着。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てある"
+    },
+    {
+      "pattern": "〜続ける",
+      "meaning": "keep ~ing, continue to ~",
+      "meaningZh": "继续……，一直……",
+      "formation": "verb ます-stem + 続ける",
+      "example": "倉庫の中でプラスチックの塊が燃え続けて、火はなかなか消えませんでした。",
+      "translation": "Lumps of plastic kept burning inside the warehouse, and the fire would not go out.",
+      "note": "燃え + 続ける = keep burning. Also 作業を続けました = continued the work.",
+      "noteZh": "燃え＋続ける＝持续燃烧。另有「作業を続けました」＝继续作业。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#続ける"
+    },
+    {
+      "pattern": "なかなか〜ない",
+      "meaning": "not easily, just won't ~",
+      "meaningZh": "怎么也不……，不容易……",
+      "formation": "なかなか + verb ない-form",
+      "example": "火はなかなか消えませんでした。",
+      "translation": "The fire just would not go out.",
+      "note": "Shows something does not happen even though you expect or want it to.",
+      "noteZh": "表示虽然期待，但事情迟迟不发生。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なかなか"
+    },
+    {
+      "pattern": "〜たとき",
+      "meaning": "when ~ happened",
+      "meaningZh": "……的时候",
+      "formation": "verb た-form + とき",
+      "example": "火が出たとき、倉庫の中には誰もいませんでした。",
+      "translation": "When the fire started, nobody was inside the warehouse.",
+      "note": "た-form + とき points to the moment something happened.",
+      "noteZh": "た形＋とき表示某事发生的那个时刻。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#とき"
+    },
+    {
+      "pattern": "〜ことはない",
+      "meaning": "~ does not happen (at all)",
+      "meaningZh": "不会……，没有发生……",
+      "formation": "verb dictionary form + ことはない",
+      "example": "近くの家に火が燃え移ることはありませんでした。",
+      "translation": "The fire did not spread to any nearby homes.",
+      "note": "A firm way to say something did not happen. Common in news reports.",
+      "noteZh": "强调某事完全没有发生，新闻中常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ことはない"
+    }
+  ],
+  "practiceZh": [
+    "栃木県那珂川町にある工場で、12日の朝早く、大きな火事がありました。\n12日清晨，栃木县那珂川町的一家工厂发生了大火。\n火事 = fire (building fire)",
+    "火事があったのは、プラスチック製品を作る「吉野工業所」の工場です。\n发生火灾的是生产塑料制品的“吉野工业所”的工厂。\n製品 = product, manufactured goods",
+    "午前5時10分ごろ、「工場の倉庫から煙が出ている」と、消防に通報がありました。\n早上5点10分左右，有人向消防部门报警说“工厂仓库在冒烟”。\n煙 = smoke / 通報 = report (to police/fire dept.)",
+    "工場は24時間動いていましたが、火が出たとき、倉庫の中には誰もいませんでした。\n工厂24小时运转，但起火时仓库里没有人。\n倉庫 = warehouse",
+    "工場で働いていた46人は全員避難して、けが人はいませんでした。\n在工厂工作的46人全部疏散，没有人受伤。\n避難 = evacuation / けが人 = injured person",
+    "倉庫には、プラスチック製品や材料がたくさん置いてありました。\n仓库里放着大量塑料制品和原材料。",
+    "火は倉庫から、工場の建物の一部に燃え広がりました。\n大火从仓库蔓延到了工厂建筑的一部分。\n燃え広がる = (fire) to spread",
+    "消防車など38台が出て、夜通し火を消す作業を続けました。\n包括消防车在内共38辆车出动，通宵进行灭火作业。\n消防車 = fire engine / 夜通し = all night long",
+    "しかし、倉庫の中でプラスチックの塊が燃え続けて、火はなかなか消えませんでした。\n但是，仓库里的塑料块持续燃烧，火怎么也灭不了。\n塊 = lump, mass",
+    "火は13日の午前10時50分ごろ、ようやく鎮圧されました。\n13日上午10点50分左右，火势终于被控制住了。\n鎮圧 = bringing (a fire) under control",
+    "最初の通報から、およそ30時間がたっていました。\n从最初报警算起，已经过了大约30个小时。\n最初 = first, beginning",
+    "工場の周りは畑が多く、近くの家に火が燃え移ることはありませんでした。\n工厂周围多是田地，火没有蔓延到附近的民房。\n燃え移る = (fire) to catch onto / jump to",
+    "警察と消防が、火事の原因を詳しく調べています。\n警方和消防部门正在详细调查火灾原因。\n原因 = cause"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October thirteenth. Tonight: a fire at a plastics factory in Tochigi burned for about thirty hours. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "栃木県那珂川町にある工場で、12日の朝早く、大きな火事がありました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>那珂川<rt>なかがわ</rt></ruby><ruby>町<rt>まち</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>で、12<ruby>日<rt>にち</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "火事があったのは、プラスチック製品を作る「吉野工業所」の工場です。",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>があったのは、プラスチック<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>「<ruby>吉野<rt>よしの</rt></ruby><ruby>工業<rt>こうぎょう</rt></ruby><ruby>所<rt>ところ</rt></ruby>」の<ruby>工場<rt>こうじょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "午前5時10分ごろ、「工場の倉庫から煙が出ている」と、消防に通報がありました。",
+      "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>5<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>ごろ、「<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>から<span class=\"vw\" data-ja=\"煙\" data-reading=\"けむり\" data-en=\"smoke\"><ruby>煙<rt>けむり</rt></ruby></span>が<ruby>出て<rt>でて</rt></ruby>いる」と、<ruby>消防<rt>しょうぼう</rt></ruby>に<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "工場は24時間動いていましたが、火が出たとき、倉庫の中には誰もいませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>は24<ruby>時間<rt>じかん</rt></ruby><ruby>動い<rt>うごい</rt></ruby>ていましたが、<ruby>火<rt>ひ</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>とき、<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>は<ruby>誰も<rt>だれも</rt></ruby>いませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "工場で働いていた46人は全員避難して、けが人はいませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ていた46<ruby>人<rt>にん</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby><span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>して、<span class=\"vw\" data-ja=\"けが人\" data-reading=\"けがにん\" data-en=\"injured person\">けが<ruby>人<rt>にん</rt></ruby></span>はいませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "倉庫には、プラスチック製品や材料がたくさん置いてありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>には、プラスチック<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>や<ruby>材料<rt>ざいりょう</rt></ruby>がたくさん<ruby>置い<rt>おい</rt></ruby>てありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "火は倉庫から、工場の建物の一部に燃え広がりました。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>から、<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>に<ruby>燃え<rt>もえ</rt></ruby><ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "消防車など38台が出て、夜通し火を消す作業を続けました。",
+      "ruby": "<span class=\"vw\" data-ja=\"消防車\" data-reading=\"しょうぼうしゃ\" data-en=\"fire engine\"><ruby>消防車<rt>しょうぼうしゃ</rt></ruby></span>など38<ruby>台<rt>だい</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>、<span class=\"vw\" data-ja=\"夜通し\" data-reading=\"よどおし\" data-en=\"all night long\"><ruby>夜通し<rt>よどおし</rt></ruby></span><ruby>火<rt>ひ</rt></ruby>を<ruby>消す<rt>けす</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、倉庫の中でプラスチックの塊が燃え続けて、火はなかなか消えませんでした。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でプラスチックの<span class=\"vw\" data-ja=\"塊\" data-reading=\"かたまり\" data-en=\"lump, mass\"><ruby>塊<rt>かたまり</rt></ruby></span>が<ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て、<ruby>火<rt>ひ</rt></ruby>はなかなか<ruby>消え<rt>きえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "火は13日の午前10時50分ごろ、ようやく鎮圧されました。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は13<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>ごろ、ようやく<span class=\"vw\" data-ja=\"鎮圧\" data-reading=\"ちんあつ\" data-en=\"bringing (a fire) under control\"><ruby>鎮圧<rt>ちんあつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の通報から、およそ30時間がたっていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>から、およそ30<ruby>時間<rt>じかん</rt></ruby>がたっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "工場の周りは畑が多く、近くの家に火が燃え移ることはありませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>は<ruby>畑<rt>はたけ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>が<span class=\"vw\" data-ja=\"燃え移る\" data-reading=\"もえうつる\" data-en=\"(fire) to catch onto / jump to\"><ruby>燃え<rt>もえ</rt></ruby><ruby>移る<rt>うつる</rt></ruby></span>ことはありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察と消防が、火事の原因を詳しく調べています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>消防<rt>しょうぼう</rt></ruby>が、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>の<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>詳しく<rt>くわしく</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "栃木県那珂川町にある工場で、12日の朝早く、大きな火事がありました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>那珂川<rt>なかがわ</rt></ruby><ruby>町<rt>まち</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>で、12<ruby>日<rt>にち</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Early on the twelfth, there was a big fire at a factory in Tochigi Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火事",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fire, like a house or building fire."
+    },
+    {
+      "speaker": "slow",
+      "text": "火事があったのは、プラスチック製品を作る「吉野工業所」の工場です。",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>があったのは、プラスチック<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>「<ruby>吉野<rt>よしの</rt></ruby><ruby>工業<rt>こうぎょう</rt></ruby><ruby>所<rt>ところ</rt></ruby>」の<ruby>工場<rt>こうじょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The fire was at a factory of a company that makes plastic products."
+    },
+    {
+      "speaker": "vocab",
+      "text": "製品",
+      "ruby": "<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means products, or manufactured goods."
+    },
+    {
+      "speaker": "slow",
+      "text": "午前5時10分ごろ、「工場の倉庫から煙が出ている」と、消防に通報がありました。",
+      "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>5<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>ごろ、「<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>から<span class=\"vw\" data-ja=\"煙\" data-reading=\"けむり\" data-en=\"smoke\"><ruby>煙<rt>けむり</rt></ruby></span>が<ruby>出て<rt>でて</rt></ruby>いる」と、<ruby>消防<rt>しょうぼう</rt></ruby>に<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At about ten past five in the morning, someone called the fire department about smoke from a warehouse."
+    },
+    {
+      "speaker": "vocab",
+      "text": "煙",
+      "ruby": "<span class=\"vw\" data-ja=\"煙\" data-reading=\"けむり\" data-en=\"smoke\"><ruby>煙<rt>けむり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means smoke."
+    },
+    {
+      "speaker": "vocab",
+      "text": "通報",
+      "ruby": "<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a report to the police or fire department."
+    },
+    {
+      "speaker": "slow",
+      "text": "工場は24時間動いていましたが、火が出たとき、倉庫の中には誰もいませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>は24<ruby>時間<rt>じかん</rt></ruby><ruby>動い<rt>うごい</rt></ruby>ていましたが、<ruby>火<rt>ひ</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>とき、<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>は<ruby>誰も<rt>だれも</rt></ruby>いませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The factory runs twenty-four hours a day, but nobody was inside the warehouse when the fire started."
+    },
+    {
+      "speaker": "vocab",
+      "text": "倉庫",
+      "ruby": "<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a warehouse."
+    },
+    {
+      "speaker": "slow",
+      "text": "工場で働いていた46人は全員避難して、けが人はいませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ていた46<ruby>人<rt>にん</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby><span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>して、<span class=\"vw\" data-ja=\"けが人\" data-reading=\"けがにん\" data-en=\"injured person\">けが<ruby>人<rt>にん</rt></ruby></span>はいませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "All forty-six workers got out safely, and no one was hurt."
+    },
+    {
+      "speaker": "vocab",
+      "text": "避難",
+      "ruby": "<span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means evacuating to a safe place."
+    },
+    {
+      "speaker": "vocab",
+      "text": "けが人",
+      "ruby": "<span class=\"vw\" data-ja=\"けが人\" data-reading=\"けがにん\" data-en=\"injured person\">けが<ruby>人<rt>にん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means injured people."
+    },
+    {
+      "speaker": "slow",
+      "text": "倉庫には、プラスチック製品や材料がたくさん置いてありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>には、プラスチック<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>や<ruby>材料<rt>ざいりょう</rt></ruby>がたくさん<ruby>置い<rt>おい</rt></ruby>てありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A lot of plastic products and materials were stored in the warehouse."
+    },
+    {
+      "speaker": "slow",
+      "text": "火は倉庫から、工場の建物の一部に燃え広がりました。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>から、<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>に<ruby>燃え<rt>もえ</rt></ruby><ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The fire spread from the warehouse to part of the factory building."
+    },
+    {
+      "speaker": "vocab",
+      "text": "燃え広がる",
+      "ruby": "<span class=\"vw\" data-ja=\"燃え広がる\" data-reading=\"もえひろがる\" data-en=\"(fire) to spread\"><ruby>燃え<rt>もえ</rt></ruby><ruby>広が<rt>ひろが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for a fire to spread."
+    },
+    {
+      "speaker": "slow",
+      "text": "消防車など38台が出て、夜通し火を消す作業を続けました。",
+      "ruby": "<span class=\"vw\" data-ja=\"消防車\" data-reading=\"しょうぼうしゃ\" data-en=\"fire engine\"><ruby>消防車<rt>しょうぼうしゃ</rt></ruby></span>など38<ruby>台<rt>だい</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>、<span class=\"vw\" data-ja=\"夜通し\" data-reading=\"よどおし\" data-en=\"all night long\"><ruby>夜通し<rt>よどおし</rt></ruby></span><ruby>火<rt>ひ</rt></ruby>を<ruby>消す<rt>けす</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty-eight fire engines and other vehicles worked through the night to put out the fire."
+    },
+    {
+      "speaker": "vocab",
+      "text": "消防車",
+      "ruby": "<span class=\"vw\" data-ja=\"消防車\" data-reading=\"しょうぼうしゃ\" data-en=\"fire engine\"><ruby>消防車<rt>しょうぼうしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fire engine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜通し",
+      "ruby": "<span class=\"vw\" data-ja=\"夜通し\" data-reading=\"よどおし\" data-en=\"all night long\"><ruby>夜通し<rt>よどおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all night long."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、倉庫の中でプラスチックの塊が燃え続けて、火はなかなか消えませんでした。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でプラスチックの<span class=\"vw\" data-ja=\"塊\" data-reading=\"かたまり\" data-en=\"lump, mass\"><ruby>塊<rt>かたまり</rt></ruby></span>が<ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て、<ruby>火<rt>ひ</rt></ruby>はなかなか<ruby>消え<rt>きえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "But big lumps of plastic kept burning inside, and the fire would not go out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "塊",
+      "ruby": "<span class=\"vw\" data-ja=\"塊\" data-reading=\"かたまり\" data-en=\"lump, mass\"><ruby>塊<rt>かたまり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a lump or a big mass."
+    },
+    {
+      "speaker": "slow",
+      "text": "火は13日の午前10時50分ごろ、ようやく鎮圧されました。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は13<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>ごろ、ようやく<span class=\"vw\" data-ja=\"鎮圧\" data-reading=\"ちんあつ\" data-en=\"bringing (a fire) under control\"><ruby>鎮圧<rt>ちんあつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At about ten fifty on the morning of the thirteenth, the fire was finally brought under control."
+    },
+    {
+      "speaker": "vocab",
+      "text": "鎮圧",
+      "ruby": "<span class=\"vw\" data-ja=\"鎮圧\" data-reading=\"ちんあつ\" data-en=\"bringing (a fire) under control\"><ruby>鎮圧<rt>ちんあつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means brought under control, with no more danger of spreading."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の通報から、およそ30時間がたっていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>から、およそ30<ruby>時間<rt>じかん</rt></ruby>がたっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About thirty hours had passed since the first call."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最初",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first."
+    },
+    {
+      "speaker": "slow",
+      "text": "工場の周りは畑が多く、近くの家に火が燃え移ることはありませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>は<ruby>畑<rt>はたけ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>が<span class=\"vw\" data-ja=\"燃え移る\" data-reading=\"もえうつる\" data-en=\"(fire) to catch onto / jump to\"><ruby>燃え<rt>もえ</rt></ruby><ruby>移る<rt>うつる</rt></ruby></span>ことはありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The factory is surrounded by fields, and the fire did not reach any nearby homes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "燃え移る",
+      "ruby": "<span class=\"vw\" data-ja=\"燃え移る\" data-reading=\"もえうつる\" data-en=\"(fire) to catch onto / jump to\"><ruby>燃え<rt>もえ</rt></ruby><ruby>移る<rt>うつる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for fire to jump to something else."
+    },
+    {
+      "speaker": "slow",
+      "text": "警察と消防が、火事の原因を詳しく調べています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>消防<rt>しょうぼう</rt></ruby>が、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>の<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>詳しく<rt>くわしく</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Police and firefighters are looking into what caused the fire."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原因",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the cause."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "栃木県那珂川町にある工場で、12日の朝早く、大きな火事がありました。",
+      "ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>那珂川<rt>なかがわ</rt></ruby><ruby>町<rt>まち</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>で、12<ruby>日<rt>にち</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "火事があったのは、プラスチック製品を作る「吉野工業所」の工場です。",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>があったのは、プラスチック<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>「<ruby>吉野<rt>よしの</rt></ruby><ruby>工業<rt>こうぎょう</rt></ruby><ruby>所<rt>ところ</rt></ruby>」の<ruby>工場<rt>こうじょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "午前5時10分ごろ、「工場の倉庫から煙が出ている」と、消防に通報がありました。",
+      "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>5<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>ごろ、「<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>から<span class=\"vw\" data-ja=\"煙\" data-reading=\"けむり\" data-en=\"smoke\"><ruby>煙<rt>けむり</rt></ruby></span>が<ruby>出て<rt>でて</rt></ruby>いる」と、<ruby>消防<rt>しょうぼう</rt></ruby>に<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "工場は24時間動いていましたが、火が出たとき、倉庫の中には誰もいませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>は24<ruby>時間<rt>じかん</rt></ruby><ruby>動い<rt>うごい</rt></ruby>ていましたが、<ruby>火<rt>ひ</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>とき、<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中に<rt>なかに</rt></ruby>は<ruby>誰も<rt>だれも</rt></ruby>いませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "工場で働いていた46人は全員避難して、けが人はいませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ていた46<ruby>人<rt>にん</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby><span class=\"vw\" data-ja=\"避難\" data-reading=\"ひなん\" data-en=\"evacuation\"><ruby>避難<rt>ひなん</rt></ruby></span>して、<span class=\"vw\" data-ja=\"けが人\" data-reading=\"けがにん\" data-en=\"injured person\">けが<ruby>人<rt>にん</rt></ruby></span>はいませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "倉庫には、プラスチック製品や材料がたくさん置いてありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>には、プラスチック<span class=\"vw\" data-ja=\"製品\" data-reading=\"せいひん\" data-en=\"product, manufactured goods\"><ruby>製品<rt>せいひん</rt></ruby></span>や<ruby>材料<rt>ざいりょう</rt></ruby>がたくさん<ruby>置い<rt>おい</rt></ruby>てありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "火は倉庫から、工場の建物の一部に燃え広がりました。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>から、<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>に<ruby>燃え<rt>もえ</rt></ruby><ruby>広が<rt>ひろが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "消防車など38台が出て、夜通し火を消す作業を続けました。",
+      "ruby": "<span class=\"vw\" data-ja=\"消防車\" data-reading=\"しょうぼうしゃ\" data-en=\"fire engine\"><ruby>消防車<rt>しょうぼうしゃ</rt></ruby></span>など38<ruby>台<rt>だい</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>、<span class=\"vw\" data-ja=\"夜通し\" data-reading=\"よどおし\" data-en=\"all night long\"><ruby>夜通し<rt>よどおし</rt></ruby></span><ruby>火<rt>ひ</rt></ruby>を<ruby>消す<rt>けす</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、倉庫の中でプラスチックの塊が燃え続けて、火はなかなか消えませんでした。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"倉庫\" data-reading=\"そうこ\" data-en=\"warehouse\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でプラスチックの<span class=\"vw\" data-ja=\"塊\" data-reading=\"かたまり\" data-en=\"lump, mass\"><ruby>塊<rt>かたまり</rt></ruby></span>が<ruby>燃え<rt>もえ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て、<ruby>火<rt>ひ</rt></ruby>はなかなか<ruby>消え<rt>きえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "火は13日の午前10時50分ごろ、ようやく鎮圧されました。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は13<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>ごろ、ようやく<span class=\"vw\" data-ja=\"鎮圧\" data-reading=\"ちんあつ\" data-en=\"bringing (a fire) under control\"><ruby>鎮圧<rt>ちんあつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の通報から、およそ30時間がたっていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>から、およそ30<ruby>時間<rt>じかん</rt></ruby>がたっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "工場の周りは畑が多く、近くの家に火が燃え移ることはありませんでした。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>は<ruby>畑<rt>はたけ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>が<span class=\"vw\" data-ja=\"燃え移る\" data-reading=\"もえうつる\" data-en=\"(fire) to catch onto / jump to\"><ruby>燃え<rt>もえ</rt></ruby><ruby>移る<rt>うつる</rt></ruby></span>ことはありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察と消防が、火事の原因を詳しく調べています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>消防<rt>しょうぼう</rt></ruby>が、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (building fire)\"><ruby>火事<rt>かじ</rt></ruby></span>の<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>詳しく<rt>くわしく</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "工場で働いていた人は、何人でしたか。",
+      "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>は、<ruby>何人<rt>なんにん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty-six people."
+    },
+    {
+      "speaker": "slow",
+      "text": "火は、なぜなかなか消えませんでしたか。",
+      "ruby": "<ruby>火<rt>ひ</rt></ruby>は、なぜなかなか<ruby>消え<rt>きえ</rt></ruby>ませんでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Lumps of plastic kept burning in the warehouse."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の通報から、何時間ぐらいたっていましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<span class=\"vw\" data-ja=\"通報\" data-reading=\"つうほう\" data-en=\"report (to police/fire dept.)\"><ruby>通報<rt>つうほう</rt></ruby></span>から、<ruby>何時間<rt>なんじかん</rt></ruby>ぐらいたっていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About thirty hours."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
