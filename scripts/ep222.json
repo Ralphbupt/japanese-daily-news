@@ -1,0 +1,775 @@
+{
+  "episode": 222,
+  "title": "簗農相が辞表提出、高市政権で初の不祥事辞任",
+  "date": "2026-10-14",
+  "source": "NHK / 日本経済新聞 / 共同通信 / 下野新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026101401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "辞表",
+      "reading": "じひょう",
+      "en": "letter of resignation",
+      "zh": "辞呈，辞职信"
+    },
+    {
+      "ja": "首相",
+      "reading": "しゅしょう",
+      "en": "prime minister",
+      "zh": "首相"
+    },
+    {
+      "ja": "内閣改造",
+      "reading": "ないかくかいぞう",
+      "en": "cabinet reshuffle",
+      "zh": "内阁改组"
+    },
+    {
+      "ja": "政権",
+      "reading": "せいけん",
+      "en": "government, administration",
+      "zh": "政权"
+    },
+    {
+      "ja": "辞める",
+      "reading": "やめる",
+      "en": "to quit, to resign",
+      "zh": "辞职，辞去"
+    },
+    {
+      "ja": "会合",
+      "reading": "かいごう",
+      "en": "meeting, gathering",
+      "zh": "聚会，集会"
+    },
+    {
+      "ja": "発言",
+      "reading": "はつげん",
+      "en": "remark, statement",
+      "zh": "发言，言论"
+    },
+    {
+      "ja": "応援",
+      "reading": "おうえん",
+      "en": "support, backing",
+      "zh": "支持，声援"
+    },
+    {
+      "ja": "予算",
+      "reading": "よさん",
+      "en": "budget",
+      "zh": "预算"
+    },
+    {
+      "ja": "音声",
+      "reading": "おんせい",
+      "en": "audio, voice recording",
+      "zh": "音频，录音"
+    },
+    {
+      "ja": "報道",
+      "reading": "ほうどう",
+      "en": "news report",
+      "zh": "报道"
+    },
+    {
+      "ja": "減らす",
+      "reading": "へらす",
+      "en": "to reduce",
+      "zh": "减少"
+    },
+    {
+      "ja": "事実",
+      "reading": "じじつ",
+      "en": "fact",
+      "zh": "事实"
+    },
+    {
+      "ja": "地元",
+      "reading": "じもと",
+      "en": "home area, local community",
+      "zh": "当地，家乡"
+    },
+    {
+      "ja": "厳しい",
+      "reading": "きびしい",
+      "en": "harsh, strict",
+      "zh": "严厉的"
+    },
+    {
+      "ja": "支援者",
+      "reading": "しえんしゃ",
+      "en": "supporter",
+      "zh": "支持者"
+    },
+    {
+      "ja": "送り迎え",
+      "reading": "おくりむかえ",
+      "en": "pick-up and drop-off",
+      "zh": "接送"
+    },
+    {
+      "ja": "認める",
+      "reading": "みとめる",
+      "en": "to admit",
+      "zh": "承认"
+    },
+    {
+      "ja": "違反",
+      "reading": "いはん",
+      "en": "violation",
+      "zh": "违反"
+    },
+    {
+      "ja": "迷惑",
+      "reading": "めいわく",
+      "en": "trouble, inconvenience",
+      "zh": "麻烦，打扰"
+    },
+    {
+      "ja": "審議",
+      "reading": "しんぎ",
+      "en": "deliberation, debate",
+      "zh": "审议"
+    },
+    {
+      "ja": "受け取る",
+      "reading": "うけとる",
+      "en": "to receive, to accept",
+      "zh": "收下，接受"
+    },
+    {
+      "ja": "責任",
+      "reading": "せきにん",
+      "en": "responsibility",
+      "zh": "责任"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜たばかり",
+      "meaning": "have just ~",
+      "meaningZh": "刚刚……",
+      "formation": "verb た-form + ばかり",
+      "example": "大臣は、先月の内閣改造で大臣になったばかりで、まだ1か月もたっていません。",
+      "translation": "He had only just become a minister in last month's reshuffle; not even a month has passed.",
+      "note": "Shows that only a short time has passed since an action. なったばかり = just became.",
+      "noteZh": "表示动作发生后没过多久。なったばかり＝刚刚成为。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たばかり"
+    },
+    {
+      "pattern": "〜ように頼む",
+      "meaning": "to ask (someone) to ~",
+      "meaningZh": "请求（某人）……",
+      "formation": "verb dictionary/ない-form + ように + 頼む／言う",
+      "example": "大臣は国会で、「予算を減らすように頼んだ事実はない」と説明しました。",
+      "translation": "In the Diet, he explained that it is not a fact that he asked for the budget to be reduced.",
+      "note": "ように reports the content of a request or instruction. 減らすように頼む = ask to reduce.",
+      "noteZh": "ように用于转述请求或指示的内容。減らすように頼む＝请求减少。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜について",
+      "meaning": "about ~, regarding ~",
+      "meaningZh": "关于……",
+      "formation": "noun + について",
+      "example": "大臣は、選挙で自分を応援しなかった市と町について、「道路の予算を大きくカットした」と話していました。",
+      "translation": "About the city and town that did not support him in the election, the minister had said he cut their road budgets a lot.",
+      "note": "Marks the topic being talked about. 市と町について = about the city and the town.",
+      "noteZh": "表示谈论的对象。市と町について＝关于那个市和町。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#について"
+    },
+    {
+      "pattern": "〜わけにはいかない",
+      "meaning": "cannot (in good conscience) ~",
+      "meaningZh": "不能……（出于情理或责任）",
+      "formation": "verb dictionary form + わけにはいかない",
+      "example": "「国会の審議に、これ以上迷惑をかけるわけにはいかない」",
+      "translation": "\"I cannot cause any more trouble for the Diet debates.\"",
+      "note": "Something is impossible because of duty, common sense, or the situation, not ability.",
+      "noteZh": "不是能力上做不到，而是因为责任、常理或情况而不能做。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#わけにはいかない"
+    }
+  ],
+  "practiceZh": [
+    "農林水産大臣が、14日、高市首相に辞表を出しました。\n农林水产大臣14日向高市首相递交了辞呈。\n辞表 = letter of resignation / 首相 = prime minister",
+    "大臣は、先月の内閣改造で大臣になったばかりで、まだ1か月もたっていません。\n他在上个月的内阁改组中刚刚成为大臣，还不到一个月。\n内閣改造 = cabinet reshuffle",
+    "高市政権が始まってから、問題を起こして大臣が辞めるのは、初めてです。\n自高市政权成立以来，大臣因丑闻辞职还是第一次。\n政権 = government, administration / 辞める = to quit, to resign",
+    "問題になったのは、今年5月に栃木県で開かれた会合での発言です。\n引发问题的是今年5月在栃木县举行的一次聚会上的发言。\n会合 = meeting, gathering / 発言 = remark, statement",
+    "大臣は、選挙で自分を応援しなかった市と町について、「道路の予算を大きくカットした」と話していました。\n大臣曾说，对于在选举中没有支持自己的市和町，“大幅削减了道路预算”。\n応援 = support, backing / 予算 = budget",
+    "先月30日、この発言の音声が、週刊誌などで報道されました。\n上个月30日，这段发言的录音被周刊杂志等报道。\n音声 = audio, voice recording / 報道 = news report",
+    "大臣は国会で、「予算を減らすように頼んだ事実はない」と説明しました。\n大臣在国会解释说：“没有请求减少预算的事实。”\n減らす = to reduce / 事実 = fact",
+    "しかし、地元からも「こんなことでは国が腐る」という厳しい声が出ました。\n但是，连当地也出现了“这样下去国家会腐败”的严厉声音。\n地元 = home area, local community / 厳しい = harsh, strict",
+    "また、選挙のとき、支援者を無料のバスで送り迎えしていたことも問題になりました。\n另外，选举时用免费巴士接送支持者一事也成了问题。\n支援者 = supporter / 送り迎え = pick-up and drop-off",
+    "大臣は、無料のバスを使ったことは認めましたが、法律には違反していないと話しました。\n大臣承认使用了免费巴士，但表示没有违反法律。\n認める = to admit / 違反 = violation",
+    "14日、大臣は記者に、「国会の審議に、これ以上迷惑をかけるわけにはいかない」と話しました。\n14日，大臣对记者说：“不能再给国会审议添更多麻烦了。”\n迷惑 = trouble, inconvenience / 審議 = deliberation, debate",
+    "そして、辞めることは「自分で決めた」と説明しました。\n并且解释说，辞职是“自己决定的”。",
+    "高市首相は辞表を受け取りましたが、大臣を選んだ首相の責任も問われています。\n高市首相接受了辞呈，但首相任命大臣的责任也受到追问。\n受け取る = to receive, to accept / 責任 = responsibility"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October fourteenth. Japan's agriculture minister has resigned after less than a month in the job. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産大臣が、14日、高市首相に辞表を出しました。",
+      "ruby": "<ruby>農林水産<rt>のうりんすいさん</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>が、14<ruby>日<rt>か</rt></ruby>、<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、先月の内閣改造で大臣になったばかりで、まだ1か月もたっていません。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>先月<rt>せんげつ</rt></ruby>の<span class=\"vw\" data-ja=\"内閣改造\" data-reading=\"ないかくかいぞう\" data-en=\"cabinet reshuffle\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>改造<rt>かいぞう</rt></ruby></span>で<ruby>大臣<rt>だいじん</rt></ruby>になったばかりで、まだ1か<ruby>月<rt>がつ</rt></ruby>もたっていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市政権が始まってから、問題を起こして大臣が辞めるのは、初めてです。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"政権\" data-reading=\"せいけん\" data-en=\"government, administration\"><ruby>政権<rt>せいけん</rt></ruby></span>が<ruby>始ま<rt>はじま</rt></ruby>ってから、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>起こ<rt>おこ</rt></ruby>して<ruby>大臣<rt>だいじん</rt></ruby>が<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>るのは</span>、<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "問題になったのは、今年5月に栃木県で開かれた会合での発言です。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>になったのは、<ruby>今年<rt>ことし</rt></ruby>5<ruby>月<rt>がつ</rt></ruby>に<ruby>栃木県<rt>とちぎけん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れた<span class=\"vw\" data-ja=\"会合\" data-reading=\"かいごう\" data-en=\"meeting, gathering\"><ruby>会合<rt>かいごう</rt></ruby></span>での<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、選挙で自分を応援しなかった市と町について、「道路の予算を大きくカットした」と話していました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>を<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"support, backing\"><ruby>応援<rt>おうえん</rt></ruby></span>しなかった<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>について、「<ruby>道路<rt>どうろ</rt></ruby>の<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>を<ruby>大きく<rt>おおきく</rt></ruby>カットした」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "先月30日、この発言の音声が、週刊誌などで報道されました。",
+      "ruby": "<ruby>先月<rt>せんげつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>の<span class=\"vw\" data-ja=\"音声\" data-reading=\"おんせい\" data-en=\"audio, voice recording\"><ruby>音声<rt>おんせい</rt></ruby></span>が、<ruby>週刊誌<rt>しゅうかんし</rt></ruby>などで<span class=\"vw\" data-ja=\"報道\" data-reading=\"ほうどう\" data-en=\"news report\"><ruby>報道<rt>ほうどう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は国会で、「予算を減らすように頼んだ事実はない」と説明しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は<ruby>国会<rt>こっかい</rt></ruby>で、「<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>を<span class=\"vw\" data-ja=\"減らす\" data-reading=\"へらす\" data-en=\"to reduce\"><ruby>減ら<rt>へら</rt></ruby>すように</span><ruby>頼ん<rt>たのん</rt></ruby>だ<span class=\"vw\" data-ja=\"事実\" data-reading=\"じじつ\" data-en=\"fact\"><ruby>事実<rt>じじつ</rt></ruby></span>はない」と<ruby>説明し<rt>せつめいし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、地元からも「こんなことでは国が腐る」という厳しい声が出ました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"home area, local community\"><ruby>地元<rt>じもと</rt></ruby></span>からも「こんなことでは<ruby>国<rt>くに</rt></ruby>が<ruby>腐る<rt>くさる</rt></ruby>」という<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"harsh, strict\"><ruby>厳しい<rt>きびしい</rt></ruby></span><ruby>声<rt>こえ</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、選挙のとき、支援者を無料のバスで送り迎えしていたことも問題になりました。",
+      "ruby": "また、<ruby>選挙<rt>せんきょ</rt></ruby>のとき、<span class=\"vw\" data-ja=\"支援者\" data-reading=\"しえんしゃ\" data-en=\"supporter\"><ruby>支援者<rt>しえんしゃ</rt></ruby></span>を<ruby>無料<rt>むりょう</rt></ruby>のバスで<span class=\"vw\" data-ja=\"送り迎え\" data-reading=\"おくりむかえ\" data-en=\"pick-up and drop-off\"><ruby>送り迎え<rt>おくりむかえ</rt></ruby></span>していたことも<ruby>問題<rt>もんだい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、無料のバスを使ったことは認めましたが、法律には違反していないと話しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>無料<rt>むりょう</rt></ruby>のバスを<ruby>使った<rt>つかった</rt></ruby>ことは<ruby>認め<rt>みとめ</rt></ruby>ましたが、<ruby>法律<rt>ほうりつ</rt></ruby>には<span class=\"vw\" data-ja=\"違反\" data-reading=\"いはん\" data-en=\"violation\"><ruby>違反<rt>いはん</rt></ruby></span>していないと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "14日、大臣は記者に、「国会の審議に、これ以上迷惑をかけるわけにはいかない」と話しました。",
+      "ruby": "14<ruby>日<rt>か</rt></ruby>、<ruby>大臣<rt>だいじん</rt></ruby>は<ruby>記者<rt>きしゃ</rt></ruby>に、「<ruby>国会<rt>こっかい</rt></ruby>の<span class=\"vw\" data-ja=\"審議\" data-reading=\"しんぎ\" data-en=\"deliberation, debate\"><ruby>審議<rt>しんぎ</rt></ruby></span>に、これ<ruby>以上<rt>いじょう</rt></ruby><span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をかけるわけにはいかない」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、辞めることは「自分で決めた」と説明しました。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>ることは</span>「<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>た」と<ruby>説明し<rt>せつめいし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市首相は辞表を受け取りましたが、大臣を選んだ首相の責任も問われています。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>は<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>を<ruby>受け取り<rt>うけとり</rt></ruby>ましたが、<ruby>大臣<rt>だいじん</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ<span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"責任\" data-reading=\"せきにん\" data-en=\"responsibility\"><ruby>責任<rt>せきにん</rt></ruby></span>も<ruby>問わ<rt>とわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "農林水産大臣が、14日、高市首相に辞表を出しました。",
+      "ruby": "<ruby>農林水産<rt>のうりんすいさん</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>が、14<ruby>日<rt>か</rt></ruby>、<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the fourteenth, the agriculture minister handed a resignation letter to Prime Minister Takaichi."
+    },
+    {
+      "speaker": "vocab",
+      "text": "辞表",
+      "ruby": "<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a letter of resignation."
+    },
+    {
+      "speaker": "vocab",
+      "text": "首相",
+      "ruby": "<span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prime minister."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、先月の内閣改造で大臣になったばかりで、まだ1か月もたっていません。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>先月<rt>せんげつ</rt></ruby>の<span class=\"vw\" data-ja=\"内閣改造\" data-reading=\"ないかくかいぞう\" data-en=\"cabinet reshuffle\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>改造<rt>かいぞう</rt></ruby></span>で<ruby>大臣<rt>だいじん</rt></ruby>になったばかりで、まだ1か<ruby>月<rt>がつ</rt></ruby>もたっていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "He had only just become a minister in last month's cabinet reshuffle, less than one month ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "内閣改造",
+      "ruby": "<span class=\"vw\" data-ja=\"内閣改造\" data-reading=\"ないかくかいぞう\" data-en=\"cabinet reshuffle\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>改造<rt>かいぞう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a cabinet reshuffle."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ばかり",
+      "ruby": "ばかり"
+    },
+    {
+      "speaker": "host",
+      "text": "After a past verb, it means something has only just happened."
+    },
+    {
+      "speaker": "slow",
+      "text": "高市政権が始まってから、問題を起こして大臣が辞めるのは、初めてです。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"政権\" data-reading=\"せいけん\" data-en=\"government, administration\"><ruby>政権<rt>せいけん</rt></ruby></span>が<ruby>始ま<rt>はじま</rt></ruby>ってから、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>起こ<rt>おこ</rt></ruby>して<ruby>大臣<rt>だいじん</rt></ruby>が<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>るのは</span>、<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the first time a minister has quit over a scandal since this government began."
+    },
+    {
+      "speaker": "vocab",
+      "text": "政権",
+      "ruby": "<span class=\"vw\" data-ja=\"政権\" data-reading=\"せいけん\" data-en=\"government, administration\"><ruby>政権<rt>せいけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the government in power."
+    },
+    {
+      "speaker": "vocab",
+      "text": "辞める",
+      "ruby": "<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to quit or resign."
+    },
+    {
+      "speaker": "slow",
+      "text": "問題になったのは、今年5月に栃木県で開かれた会合での発言です。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>になったのは、<ruby>今年<rt>ことし</rt></ruby>5<ruby>月<rt>がつ</rt></ruby>に<ruby>栃木県<rt>とちぎけん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れた<span class=\"vw\" data-ja=\"会合\" data-reading=\"かいごう\" data-en=\"meeting, gathering\"><ruby>会合<rt>かいごう</rt></ruby></span>での<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The problem was something he said at a meeting in Tochigi this May."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会合",
+      "ruby": "<span class=\"vw\" data-ja=\"会合\" data-reading=\"かいごう\" data-en=\"meeting, gathering\"><ruby>会合<rt>かいごう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a meeting or gathering."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発言",
+      "ruby": "<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a remark or statement."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、選挙で自分を応援しなかった市と町について、「道路の予算を大きくカットした」と話していました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>を<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"support, backing\"><ruby>応援<rt>おうえん</rt></ruby></span>しなかった<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>について、「<ruby>道路<rt>どうろ</rt></ruby>の<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>を<ruby>大きく<rt>おおきく</rt></ruby>カットした」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He said he had cut the road budget for a city and a town that did not support him in the election."
+    },
+    {
+      "speaker": "vocab",
+      "text": "応援",
+      "ruby": "<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"support, backing\"><ruby>応援<rt>おうえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means support or backing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予算",
+      "ruby": "<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a budget."
+    },
+    {
+      "speaker": "slow",
+      "text": "先月30日、この発言の音声が、週刊誌などで報道されました。",
+      "ruby": "<ruby>先月<rt>せんげつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>の<span class=\"vw\" data-ja=\"音声\" data-reading=\"おんせい\" data-en=\"audio, voice recording\"><ruby>音声<rt>おんせい</rt></ruby></span>が、<ruby>週刊誌<rt>しゅうかんし</rt></ruby>などで<span class=\"vw\" data-ja=\"報道\" data-reading=\"ほうどう\" data-en=\"news report\"><ruby>報道<rt>ほうどう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the thirtieth of last month, a recording of the remark was reported by weekly magazines and others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "音声",
+      "ruby": "<span class=\"vw\" data-ja=\"音声\" data-reading=\"おんせい\" data-en=\"audio, voice recording\"><ruby>音声<rt>おんせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means audio or a voice recording."
+    },
+    {
+      "speaker": "vocab",
+      "text": "報道",
+      "ruby": "<span class=\"vw\" data-ja=\"報道\" data-reading=\"ほうどう\" data-en=\"news report\"><ruby>報道<rt>ほうどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means news reporting."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は国会で、「予算を減らすように頼んだ事実はない」と説明しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は<ruby>国会<rt>こっかい</rt></ruby>で、「<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>を<span class=\"vw\" data-ja=\"減らす\" data-reading=\"へらす\" data-en=\"to reduce\"><ruby>減ら<rt>へら</rt></ruby>すように</span><ruby>頼ん<rt>たのん</rt></ruby>だ<span class=\"vw\" data-ja=\"事実\" data-reading=\"じじつ\" data-en=\"fact\"><ruby>事実<rt>じじつ</rt></ruby></span>はない」と<ruby>説明し<rt>せつめいし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Diet, he said it was not true that he asked for the budget to be cut."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減らす",
+      "ruby": "<span class=\"vw\" data-ja=\"減らす\" data-reading=\"へらす\" data-en=\"to reduce\"><ruby>減ら<rt>へら</rt></ruby>す</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to reduce."
+    },
+    {
+      "speaker": "vocab",
+      "text": "事実",
+      "ruby": "<span class=\"vw\" data-ja=\"事実\" data-reading=\"じじつ\" data-en=\"fact\"><ruby>事実<rt>じじつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fact."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、地元からも「こんなことでは国が腐る」という厳しい声が出ました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"home area, local community\"><ruby>地元<rt>じもと</rt></ruby></span>からも「こんなことでは<ruby>国<rt>くに</rt></ruby>が<ruby>腐る<rt>くさる</rt></ruby>」という<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"harsh, strict\"><ruby>厳しい<rt>きびしい</rt></ruby></span><ruby>声<rt>こえ</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "But even people in his home area spoke harshly, saying this kind of thing makes the country rot."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地元",
+      "ruby": "<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"home area, local community\"><ruby>地元<rt>じもと</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means one's home area or local community."
+    },
+    {
+      "speaker": "vocab",
+      "text": "厳しい",
+      "ruby": "<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"harsh, strict\"><ruby>厳しい<rt>きびしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means harsh or strict."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、選挙のとき、支援者を無料のバスで送り迎えしていたことも問題になりました。",
+      "ruby": "また、<ruby>選挙<rt>せんきょ</rt></ruby>のとき、<span class=\"vw\" data-ja=\"支援者\" data-reading=\"しえんしゃ\" data-en=\"supporter\"><ruby>支援者<rt>しえんしゃ</rt></ruby></span>を<ruby>無料<rt>むりょう</rt></ruby>のバスで<span class=\"vw\" data-ja=\"送り迎え\" data-reading=\"おくりむかえ\" data-en=\"pick-up and drop-off\"><ruby>送り迎え<rt>おくりむかえ</rt></ruby></span>していたことも<ruby>問題<rt>もんだい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, giving supporters free bus rides during elections became a problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "支援者",
+      "ruby": "<span class=\"vw\" data-ja=\"支援者\" data-reading=\"しえんしゃ\" data-en=\"supporter\"><ruby>支援者<rt>しえんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a supporter."
+    },
+    {
+      "speaker": "vocab",
+      "text": "送り迎え",
+      "ruby": "<span class=\"vw\" data-ja=\"送り迎え\" data-reading=\"おくりむかえ\" data-en=\"pick-up and drop-off\"><ruby>送り迎え<rt>おくりむかえ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means picking people up and dropping them off."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、無料のバスを使ったことは認めましたが、法律には違反していないと話しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>無料<rt>むりょう</rt></ruby>のバスを<ruby>使った<rt>つかった</rt></ruby>ことは<ruby>認め<rt>みとめ</rt></ruby>ましたが、<ruby>法律<rt>ほうりつ</rt></ruby>には<span class=\"vw\" data-ja=\"違反\" data-reading=\"いはん\" data-en=\"violation\"><ruby>違反<rt>いはん</rt></ruby></span>していないと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He admitted using free buses, but said he did not break the law."
+    },
+    {
+      "speaker": "vocab",
+      "text": "認める",
+      "ruby": "<span class=\"vw\" data-ja=\"認める\" data-reading=\"みとめる\" data-en=\"to admit\"><ruby>認め<rt>みとめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to admit."
+    },
+    {
+      "speaker": "vocab",
+      "text": "違反",
+      "ruby": "<span class=\"vw\" data-ja=\"違反\" data-reading=\"いはん\" data-en=\"violation\"><ruby>違反<rt>いはん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a violation."
+    },
+    {
+      "speaker": "slow",
+      "text": "14日、大臣は記者に、「国会の審議に、これ以上迷惑をかけるわけにはいかない」と話しました。",
+      "ruby": "14<ruby>日<rt>か</rt></ruby>、<ruby>大臣<rt>だいじん</rt></ruby>は<ruby>記者<rt>きしゃ</rt></ruby>に、「<ruby>国会<rt>こっかい</rt></ruby>の<span class=\"vw\" data-ja=\"審議\" data-reading=\"しんぎ\" data-en=\"deliberation, debate\"><ruby>審議<rt>しんぎ</rt></ruby></span>に、これ<ruby>以上<rt>いじょう</rt></ruby><span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をかけるわけにはいかない」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the fourteenth, he told reporters he could not cause any more trouble for the Diet debates."
+    },
+    {
+      "speaker": "vocab",
+      "text": "迷惑",
+      "ruby": "<span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means trouble or inconvenience to others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "審議",
+      "ruby": "<span class=\"vw\" data-ja=\"審議\" data-reading=\"しんぎ\" data-en=\"deliberation, debate\"><ruby>審議<rt>しんぎ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means debate or deliberation."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、辞めることは「自分で決めた」と説明しました。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>ることは</span>「<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>た」と<ruby>説明し<rt>せつめいし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "And he said quitting was his own decision."
+    },
+    {
+      "speaker": "slow",
+      "text": "高市首相は辞表を受け取りましたが、大臣を選んだ首相の責任も問われています。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>は<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>を<ruby>受け取り<rt>うけとり</rt></ruby>ましたが、<ruby>大臣<rt>だいじん</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ<span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"責任\" data-reading=\"せきにん\" data-en=\"responsibility\"><ruby>責任<rt>せきにん</rt></ruby></span>も<ruby>問わ<rt>とわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The prime minister accepted the letter, but she is also being asked about her responsibility for choosing him."
+    },
+    {
+      "speaker": "vocab",
+      "text": "受け取る",
+      "ruby": "<span class=\"vw\" data-ja=\"受け取る\" data-reading=\"うけとる\" data-en=\"to receive, to accept\"><ruby>受け取る<rt>うけとる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to receive or accept."
+    },
+    {
+      "speaker": "vocab",
+      "text": "責任",
+      "ruby": "<span class=\"vw\" data-ja=\"責任\" data-reading=\"せきにん\" data-en=\"responsibility\"><ruby>責任<rt>せきにん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means responsibility."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産大臣が、14日、高市首相に辞表を出しました。",
+      "ruby": "<ruby>農林水産<rt>のうりんすいさん</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>が、14<ruby>日<rt>か</rt></ruby>、<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、先月の内閣改造で大臣になったばかりで、まだ1か月もたっていません。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>先月<rt>せんげつ</rt></ruby>の<span class=\"vw\" data-ja=\"内閣改造\" data-reading=\"ないかくかいぞう\" data-en=\"cabinet reshuffle\"><ruby>内閣<rt>ないかく</rt></ruby><ruby>改造<rt>かいぞう</rt></ruby></span>で<ruby>大臣<rt>だいじん</rt></ruby>になったばかりで、まだ1か<ruby>月<rt>がつ</rt></ruby>もたっていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市政権が始まってから、問題を起こして大臣が辞めるのは、初めてです。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"政権\" data-reading=\"せいけん\" data-en=\"government, administration\"><ruby>政権<rt>せいけん</rt></ruby></span>が<ruby>始ま<rt>はじま</rt></ruby>ってから、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>起こ<rt>おこ</rt></ruby>して<ruby>大臣<rt>だいじん</rt></ruby>が<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>るのは</span>、<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "問題になったのは、今年5月に栃木県で開かれた会合での発言です。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>になったのは、<ruby>今年<rt>ことし</rt></ruby>5<ruby>月<rt>がつ</rt></ruby>に<ruby>栃木県<rt>とちぎけん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れた<span class=\"vw\" data-ja=\"会合\" data-reading=\"かいごう\" data-en=\"meeting, gathering\"><ruby>会合<rt>かいごう</rt></ruby></span>での<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、選挙で自分を応援しなかった市と町について、「道路の予算を大きくカットした」と話していました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>を<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"support, backing\"><ruby>応援<rt>おうえん</rt></ruby></span>しなかった<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>について、「<ruby>道路<rt>どうろ</rt></ruby>の<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>を<ruby>大きく<rt>おおきく</rt></ruby>カットした」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "先月30日、この発言の音声が、週刊誌などで報道されました。",
+      "ruby": "<ruby>先月<rt>せんげつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"発言\" data-reading=\"はつげん\" data-en=\"remark, statement\"><ruby>発言<rt>はつげん</rt></ruby></span>の<span class=\"vw\" data-ja=\"音声\" data-reading=\"おんせい\" data-en=\"audio, voice recording\"><ruby>音声<rt>おんせい</rt></ruby></span>が、<ruby>週刊誌<rt>しゅうかんし</rt></ruby>などで<span class=\"vw\" data-ja=\"報道\" data-reading=\"ほうどう\" data-en=\"news report\"><ruby>報道<rt>ほうどう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は国会で、「予算を減らすように頼んだ事実はない」と説明しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は<ruby>国会<rt>こっかい</rt></ruby>で、「<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>を<span class=\"vw\" data-ja=\"減らす\" data-reading=\"へらす\" data-en=\"to reduce\"><ruby>減ら<rt>へら</rt></ruby>すように</span><ruby>頼ん<rt>たのん</rt></ruby>だ<span class=\"vw\" data-ja=\"事実\" data-reading=\"じじつ\" data-en=\"fact\"><ruby>事実<rt>じじつ</rt></ruby></span>はない」と<ruby>説明し<rt>せつめいし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、地元からも「こんなことでは国が腐る」という厳しい声が出ました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"home area, local community\"><ruby>地元<rt>じもと</rt></ruby></span>からも「こんなことでは<ruby>国<rt>くに</rt></ruby>が<ruby>腐る<rt>くさる</rt></ruby>」という<span class=\"vw\" data-ja=\"厳しい\" data-reading=\"きびしい\" data-en=\"harsh, strict\"><ruby>厳しい<rt>きびしい</rt></ruby></span><ruby>声<rt>こえ</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、選挙のとき、支援者を無料のバスで送り迎えしていたことも問題になりました。",
+      "ruby": "また、<ruby>選挙<rt>せんきょ</rt></ruby>のとき、<span class=\"vw\" data-ja=\"支援者\" data-reading=\"しえんしゃ\" data-en=\"supporter\"><ruby>支援者<rt>しえんしゃ</rt></ruby></span>を<ruby>無料<rt>むりょう</rt></ruby>のバスで<span class=\"vw\" data-ja=\"送り迎え\" data-reading=\"おくりむかえ\" data-en=\"pick-up and drop-off\"><ruby>送り迎え<rt>おくりむかえ</rt></ruby></span>していたことも<ruby>問題<rt>もんだい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、無料のバスを使ったことは認めましたが、法律には違反していないと話しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>無料<rt>むりょう</rt></ruby>のバスを<ruby>使った<rt>つかった</rt></ruby>ことは<ruby>認め<rt>みとめ</rt></ruby>ましたが、<ruby>法律<rt>ほうりつ</rt></ruby>には<span class=\"vw\" data-ja=\"違反\" data-reading=\"いはん\" data-en=\"violation\"><ruby>違反<rt>いはん</rt></ruby></span>していないと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "14日、大臣は記者に、「国会の審議に、これ以上迷惑をかけるわけにはいかない」と話しました。",
+      "ruby": "14<ruby>日<rt>か</rt></ruby>、<ruby>大臣<rt>だいじん</rt></ruby>は<ruby>記者<rt>きしゃ</rt></ruby>に、「<ruby>国会<rt>こっかい</rt></ruby>の<span class=\"vw\" data-ja=\"審議\" data-reading=\"しんぎ\" data-en=\"deliberation, debate\"><ruby>審議<rt>しんぎ</rt></ruby></span>に、これ<ruby>以上<rt>いじょう</rt></ruby><span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をかけるわけにはいかない」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、辞めることは「自分で決めた」と説明しました。",
+      "ruby": "そして、<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>ることは</span>「<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>た」と<ruby>説明し<rt>せつめいし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市首相は辞表を受け取りましたが、大臣を選んだ首相の責任も問われています。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>は<span class=\"vw\" data-ja=\"辞表\" data-reading=\"じひょう\" data-en=\"letter of resignation\"><ruby>辞表<rt>じひょう</rt></ruby></span>を<ruby>受け取り<rt>うけとり</rt></ruby>ましたが、<ruby>大臣<rt>だいじん</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ<span class=\"vw\" data-ja=\"首相\" data-reading=\"しゅしょう\" data-en=\"prime minister\"><ruby>首相<rt>しゅしょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"責任\" data-reading=\"せきにん\" data-en=\"responsibility\"><ruby>責任<rt>せきにん</rt></ruby></span>も<ruby>問わ<rt>とわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、いつ大臣になりましたか。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、いつ<ruby>大臣<rt>だいじん</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last month, in the cabinet reshuffle."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、どんな市と町の道路の予算について話しましたか。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、どんな<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>の<span class=\"vw\" data-ja=\"予算\" data-reading=\"よさん\" data-en=\"budget\"><ruby>予算<rt>よさん</rt></ruby></span>について<ruby>話し<rt>はなし</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A city and a town that did not support him in the election."
+    },
+    {
+      "speaker": "slow",
+      "text": "選挙のとき、支援者をどうやって送り迎えしていましたか。",
+      "ruby": "<ruby>選挙<rt>せんきょ</rt></ruby>のとき、<span class=\"vw\" data-ja=\"支援者\" data-reading=\"しえんしゃ\" data-en=\"supporter\"><ruby>支援者<rt>しえんしゃ</rt></ruby></span>をどうやって<span class=\"vw\" data-ja=\"送り迎え\" data-reading=\"おくりむかえ\" data-en=\"pick-up and drop-off\"><ruby>送り迎え<rt>おくりむかえ</rt></ruby></span>していましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "With free buses."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、なぜ辞めることにしましたか。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、なぜ<span class=\"vw\" data-ja=\"辞める\" data-reading=\"やめる\" data-en=\"to quit, to resign\"><ruby>辞め<rt>やめ</rt></ruby>ることにしましたか</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "He did not want to cause more trouble for the Diet debates."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
