@@ -1,0 +1,559 @@
+{
+  "episode": 223,
+  "title": "日本モンキーセンター、建物が古くなり長い休みへ",
+  "date": "2026-10-15",
+  "source": "NHK / 中日新聞 / 日本モンキーセンター",
+  "level": "N5-N4",
+  "contentVersion": "2026101501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "動物園",
+      "reading": "どうぶつえん",
+      "en": "zoo",
+      "zh": "动物园"
+    },
+    {
+      "ja": "サル",
+      "reading": "さる",
+      "en": "monkey",
+      "zh": "猴子"
+    },
+    {
+      "ja": "種類",
+      "reading": "しゅるい",
+      "en": "kind, type",
+      "zh": "种类"
+    },
+    {
+      "ja": "頭",
+      "reading": "とう",
+      "en": "counter for large animals",
+      "zh": "头（大型动物的量词）"
+    },
+    {
+      "ja": "以上",
+      "reading": "いじょう",
+      "en": "more than, over",
+      "zh": "以上"
+    },
+    {
+      "ja": "古い",
+      "reading": "ふるい",
+      "en": "old",
+      "zh": "旧的，古老的"
+    },
+    {
+      "ja": "工事",
+      "reading": "こうじ",
+      "en": "construction work",
+      "zh": "工程，施工"
+    },
+    {
+      "ja": "暮らす",
+      "reading": "くらす",
+      "en": "to live (one's daily life)",
+      "zh": "生活，过日子"
+    },
+    {
+      "ja": "休み",
+      "reading": "やすみ",
+      "en": "break, day off",
+      "zh": "休息，休假"
+    },
+    {
+      "ja": "最後",
+      "reading": "さいご",
+      "en": "last, final",
+      "zh": "最后"
+    },
+    {
+      "ja": "記念日",
+      "reading": "きねんび",
+      "en": "anniversary",
+      "zh": "纪念日"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "長い",
+      "reading": "ながい",
+      "en": "long",
+      "zh": "长的"
+    },
+    {
+      "ja": "会員",
+      "reading": "かいいん",
+      "en": "member",
+      "zh": "会员"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~, so ~",
+      "meaningZh": "因为……所以……",
+      "formation": "plain form + ので (な-adj/noun + なので)",
+      "example": "建物がとても古くなったので、大きな工事をすることになりました。",
+      "translation": "The buildings have become very old, so they decided to do big construction work.",
+      "note": "Gives a reason in a soft, objective way.",
+      "noteZh": "以比较柔和、客观的语气说明原因。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ので"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……（非个人决定）",
+      "formation": "verb dictionary form + ことになる",
+      "example": "建物がとても古くなったので、大きな工事をすることになりました。",
+      "translation": "It was decided that they will do big construction work.",
+      "note": "Used when a decision is made by an organization or circumstances, not by the speaker alone.",
+      "noteZh": "用于由组织或情况决定的事情，而不是说话人自己的决定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    },
+    {
+      "pattern": "〜かもしれない",
+      "meaning": "might ~, may ~",
+      "meaningZh": "也许……，可能……",
+      "formation": "plain form + かもしれない (な-adj/noun directly + かもしれない)",
+      "example": "休みは3年から4年ぐらいの予定ですが、もっと長くなるかもしれません。",
+      "translation": "The break is planned for about three to four years, but it may become longer.",
+      "note": "Shows possibility; the speaker is not sure.",
+      "noteZh": "表示可能性，说话人并不确定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#かもしれない"
+    }
+  ],
+  "practiceZh": [
+    "愛知県犬山市に、「日本モンキーセンター」という動物園があります。\n爱知县犬山市有一家叫“日本猴子中心”的动物园。\n動物園 = zoo",
+    "ここは、サルがとても多い動物園で、52種類、約680頭のサルがいます。\n这里是猴子非常多的动物园，有52种、约680只猴子。\nサル = monkey / 種類 = kind, type / 頭 = counter for large animals",
+    "この動物園が今の場所にできたのは1962年で、60年以上前です。\n这家动物园在现在的地方开园是1962年，已经60多年了。\n以上 = more than, over",
+    "建物がとても古くなったので、大きな工事をすることになりました。\n因为建筑物变得非常老旧，所以决定进行大规模施工。\n古い = old / 工事 = construction work",
+    "サルたちが、もっと気持ちよく暮らすことができるように、新しくします。\n为了让猴子们能生活得更舒适，将进行翻新。\n暮らす = to live (one's daily life)",
+    "それで、10月19日から、動物園は長い休みに入ります。\n因此，从10月19日起，动物园将进入长期休园。\n休み = break, day off",
+    "最後に開く日は、10月18日の日曜日です。\n最后开放的日子是10月18日星期日。\n最後 = last, final",
+    "10月17日は、モンキーセンターの70回目の記念日で、休む前にいろいろなイベントがあります。\n10月17日是猴子中心的70周年纪念日，休园前有各种活动。\n記念日 = anniversary",
+    "休みは3年から4年ぐらいの予定ですが、もっと長くなるかもしれません。\n休园预计3到4年左右，但也可能会更长。\n予定 = plan, schedule / 長い = long",
+    "休みの間も、「友の会」の会員は、月に何回か動物園に入ることができます。\n休园期间，“友之会”的会员每月也可以进园几次。\n会員 = member"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October fifteenth. A famous monkey zoo in central Japan is closing for a few years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県犬山市に、「日本モンキーセンター」という動物園があります。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>犬山市<rt>いぬやまし</rt></ruby>に、「<ruby>日本<rt>にほん</rt></ruby>モンキーセンター」という<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ここは、サルがとても多い動物園で、52種類、約680頭のサルがいます。",
+      "ruby": "ここは、<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がとても<ruby>多い<rt>おおい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、52<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>、<ruby>約<rt>やく</rt></ruby>680<span class=\"vw\" data-ja=\"頭\" data-reading=\"とう\" data-en=\"counter for large animals\"><ruby>頭<rt>とう</rt></ruby></span>の<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園が今の場所にできたのは1962年で、60年以上前です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>が<ruby>今<rt>いま</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にできたのは1962<ruby>年<rt>ねん</rt></ruby>で、60<ruby>年以上<rt>ねんいじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建物がとても古くなったので、大きな工事をすることになりました。",
+      "ruby": "<ruby>建物<rt>たてもの</rt></ruby>がとても<ruby>古く<rt>ふるく</rt></ruby>なったので、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>をすることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "サルたちが、もっと気持ちよく暮らすことができるように、新しくします。",
+      "ruby": "<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>たちが、もっと<ruby>気持ち<rt>きもち</rt></ruby>よく<span class=\"vw\" data-ja=\"暮らす\" data-reading=\"くらす\" data-en=\"to live (one's daily life)\"><ruby>暮ら<rt>くら</rt></ruby>すことができるように</span>、<ruby>新しく<rt>あたらしく</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで、10月19日から、動物園は長い休みに入ります。",
+      "ruby": "それで、10<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>から、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は<span class=\"vw\" data-ja=\"長い\" data-reading=\"ながい\" data-en=\"long\"><ruby>長い<rt>ながい</rt></ruby></span><span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後に開く日は、10月18日の日曜日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"last, final\"><ruby>最後<rt>さいご</rt></ruby></span>に<ruby>開く<rt>ひらく</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月17日は、モンキーセンターの70回目の記念日で、休む前にいろいろなイベントがあります。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>は、モンキーセンターの70<ruby>回目<rt>かいめ</rt></ruby>の<span class=\"vw\" data-ja=\"記念日\" data-reading=\"きねんび\" data-en=\"anniversary\"><ruby>記念日<rt>きねんび</rt></ruby></span>で、<ruby>休む<rt>やすむ</rt></ruby><ruby>前<rt>まえ</rt></ruby>にいろいろなイベントがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "休みは3年から4年ぐらいの予定ですが、もっと長くなるかもしれません。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>は3<ruby>年<rt>ねん</rt></ruby>から4<ruby>年<rt>ねん</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですが、もっと<ruby>長く<rt>ながく</rt></ruby>なるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "休みの間も、「友の会」の会員は、月に何回か動物園に入ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>も、「<ruby>友の会<rt>とものかい</rt></ruby>」の<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>は、<ruby>月<rt>がつ</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby>か<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "愛知県犬山市に、「日本モンキーセンター」という動物園があります。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>犬山市<rt>いぬやまし</rt></ruby>に、「<ruby>日本<rt>にほん</rt></ruby>モンキーセンター」という<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Inuyama, in Aichi Prefecture, there is a zoo called the Japan Monkey Centre."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動物園",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a zoo."
+    },
+    {
+      "speaker": "slow",
+      "text": "ここは、サルがとても多い動物園で、52種類、約680頭のサルがいます。",
+      "ruby": "ここは、<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がとても<ruby>多い<rt>おおい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、52<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>、<ruby>約<rt>やく</rt></ruby>680<span class=\"vw\" data-ja=\"頭\" data-reading=\"とう\" data-en=\"counter for large animals\"><ruby>頭<rt>とう</rt></ruby></span>の<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This zoo has a lot of monkeys: fifty-two kinds, and about six hundred eighty animals."
+    },
+    {
+      "speaker": "vocab",
+      "text": "サル",
+      "ruby": "<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a monkey."
+    },
+    {
+      "speaker": "vocab",
+      "text": "種類",
+      "ruby": "<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a kind or a type."
+    },
+    {
+      "speaker": "vocab",
+      "text": "頭",
+      "ruby": "<span class=\"vw\" data-ja=\"頭\" data-reading=\"とう\" data-en=\"counter for large animals\"><ruby>頭<rt>とう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a counter for large animals."
+    },
+    {
+      "speaker": "slow",
+      "text": "この動物園が今の場所にできたのは1962年で、60年以上前です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>が<ruby>今<rt>いま</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にできたのは1962<ruby>年<rt>ねん</rt></ruby>で、60<ruby>年以上<rt>ねんいじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The zoo opened in its current place in nineteen sixty-two, more than sixty years ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以上",
+      "ruby": "<span class=\"vw\" data-ja=\"以上\" data-reading=\"いじょう\" data-en=\"more than, over\"><ruby>以上<rt>いじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means more than, or over."
+    },
+    {
+      "speaker": "slow",
+      "text": "建物がとても古くなったので、大きな工事をすることになりました。",
+      "ruby": "<ruby>建物<rt>たてもの</rt></ruby>がとても<ruby>古く<rt>ふるく</rt></ruby>なったので、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>をすることになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The buildings have become very old, so they decided to do big construction work."
+    },
+    {
+      "speaker": "vocab",
+      "text": "古い",
+      "ruby": "<span class=\"vw\" data-ja=\"古い\" data-reading=\"ふるい\" data-en=\"old\"><ruby>古い<rt>ふるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means old."
+    },
+    {
+      "speaker": "vocab",
+      "text": "工事",
+      "ruby": "<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means construction work."
+    },
+    {
+      "speaker": "slow",
+      "text": "サルたちが、もっと気持ちよく暮らすことができるように、新しくします。",
+      "ruby": "<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>たちが、もっと<ruby>気持ち<rt>きもち</rt></ruby>よく<span class=\"vw\" data-ja=\"暮らす\" data-reading=\"くらす\" data-en=\"to live (one's daily life)\"><ruby>暮ら<rt>くら</rt></ruby>すことができるように</span>、<ruby>新しく<rt>あたらしく</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "They will rebuild it so the monkeys can live more comfortably."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暮らす",
+      "ruby": "<span class=\"vw\" data-ja=\"暮らす\" data-reading=\"くらす\" data-en=\"to live (one's daily life)\"><ruby>暮ら<rt>くら</rt></ruby>す</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to live your daily life."
+    },
+    {
+      "speaker": "slow",
+      "text": "それで、10月19日から、動物園は長い休みに入ります。",
+      "ruby": "それで、10<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>から、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は<span class=\"vw\" data-ja=\"長い\" data-reading=\"ながい\" data-en=\"long\"><ruby>長い<rt>ながい</rt></ruby></span><span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "So from October nineteenth, the zoo will go into a long break."
+    },
+    {
+      "speaker": "vocab",
+      "text": "休み",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a break, or a day off."
+    },
+    {
+      "speaker": "slow",
+      "text": "最後に開く日は、10月18日の日曜日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"last, final\"><ruby>最後<rt>さいご</rt></ruby></span>に<ruby>開く<rt>ひらく</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The last day it opens is Sunday, October eighteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最後",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"last, final\"><ruby>最後<rt>さいご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the last."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月17日は、モンキーセンターの70回目の記念日で、休む前にいろいろなイベントがあります。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>は、モンキーセンターの70<ruby>回目<rt>かいめ</rt></ruby>の<span class=\"vw\" data-ja=\"記念日\" data-reading=\"きねんび\" data-en=\"anniversary\"><ruby>記念日<rt>きねんび</rt></ruby></span>で、<ruby>休む<rt>やすむ</rt></ruby><ruby>前<rt>まえ</rt></ruby>にいろいろなイベントがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "October seventeenth is the centre's seventieth anniversary, and there are many events before the closing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記念日",
+      "ruby": "<span class=\"vw\" data-ja=\"記念日\" data-reading=\"きねんび\" data-en=\"anniversary\"><ruby>記念日<rt>きねんび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an anniversary."
+    },
+    {
+      "speaker": "slow",
+      "text": "休みは3年から4年ぐらいの予定ですが、もっと長くなるかもしれません。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>は3<ruby>年<rt>ねん</rt></ruby>から4<ruby>年<rt>ねん</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですが、もっと<ruby>長く<rt>ながく</rt></ruby>なるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The break is planned for about three to four years, but it may become longer."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or schedule."
+    },
+    {
+      "speaker": "vocab",
+      "text": "長い",
+      "ruby": "<span class=\"vw\" data-ja=\"長い\" data-reading=\"ながい\" data-en=\"long\"><ruby>長い<rt>ながい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means long."
+    },
+    {
+      "speaker": "slow",
+      "text": "休みの間も、「友の会」の会員は、月に何回か動物園に入ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>も、「<ruby>友の会<rt>とものかい</rt></ruby>」の<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>は、<ruby>月<rt>がつ</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby>か<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even during the break, members of the friends club can enter the zoo a few times a month."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会員",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a member."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県犬山市に、「日本モンキーセンター」という動物園があります。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>犬山市<rt>いぬやまし</rt></ruby>に、「<ruby>日本<rt>にほん</rt></ruby>モンキーセンター」という<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ここは、サルがとても多い動物園で、52種類、約680頭のサルがいます。",
+      "ruby": "ここは、<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がとても<ruby>多い<rt>おおい</rt></ruby><span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>で、52<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>、<ruby>約<rt>やく</rt></ruby>680<span class=\"vw\" data-ja=\"頭\" data-reading=\"とう\" data-en=\"counter for large animals\"><ruby>頭<rt>とう</rt></ruby></span>の<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "この動物園が今の場所にできたのは1962年で、60年以上前です。",
+      "ruby": "この<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>が<ruby>今<rt>いま</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にできたのは1962<ruby>年<rt>ねん</rt></ruby>で、60<ruby>年以上<rt>ねんいじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "建物がとても古くなったので、大きな工事をすることになりました。",
+      "ruby": "<ruby>建物<rt>たてもの</rt></ruby>がとても<ruby>古く<rt>ふるく</rt></ruby>なったので、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>をすることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "サルたちが、もっと気持ちよく暮らすことができるように、新しくします。",
+      "ruby": "<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>たちが、もっと<ruby>気持ち<rt>きもち</rt></ruby>よく<span class=\"vw\" data-ja=\"暮らす\" data-reading=\"くらす\" data-en=\"to live (one's daily life)\"><ruby>暮ら<rt>くら</rt></ruby>すことができるように</span>、<ruby>新しく<rt>あたらしく</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで、10月19日から、動物園は長い休みに入ります。",
+      "ruby": "それで、10<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>から、<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は<span class=\"vw\" data-ja=\"長い\" data-reading=\"ながい\" data-en=\"long\"><ruby>長い<rt>ながい</rt></ruby></span><span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後に開く日は、10月18日の日曜日です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"last, final\"><ruby>最後<rt>さいご</rt></ruby></span>に<ruby>開く<rt>ひらく</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月17日は、モンキーセンターの70回目の記念日で、休む前にいろいろなイベントがあります。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>は、モンキーセンターの70<ruby>回目<rt>かいめ</rt></ruby>の<span class=\"vw\" data-ja=\"記念日\" data-reading=\"きねんび\" data-en=\"anniversary\"><ruby>記念日<rt>きねんび</rt></ruby></span>で、<ruby>休む<rt>やすむ</rt></ruby><ruby>前<rt>まえ</rt></ruby>にいろいろなイベントがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "休みは3年から4年ぐらいの予定ですが、もっと長くなるかもしれません。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>は3<ruby>年<rt>ねん</rt></ruby>から4<ruby>年<rt>ねん</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですが、もっと<ruby>長く<rt>ながく</rt></ruby>なるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "休みの間も、「友の会」の会員は、月に何回か動物園に入ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>も、「<ruby>友の会<rt>とものかい</rt></ruby>」の<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>は、<ruby>月<rt>がつ</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby>か<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本モンキーセンターには、何種類のサルがいますか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>モンキーセンターには、<ruby>何種類<rt>なんしゅるい</rt></ruby>の<span class=\"vw\" data-ja=\"サル\" data-reading=\"さる\" data-en=\"monkey\">サル</span>がいますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fifty-two kinds."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物園は、どうして休みますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物園\" data-reading=\"どうぶつえん\" data-en=\"zoo\"><ruby>動物園<rt>どうぶつえん</rt></ruby></span>は、どうして<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the buildings have become very old."
+    },
+    {
+      "speaker": "slow",
+      "text": "最後に開く日は、いつですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"last, final\"><ruby>最後<rt>さいご</rt></ruby></span>に<ruby>開く<rt>ひらく</rt></ruby><ruby>日<rt>ひ</rt></ruby>は、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sunday, October eighteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "休みは、何年ぐらいの予定ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"休み\" data-reading=\"やすみ\" data-en=\"break, day off\"><ruby>休み<rt>やすみ</rt></ruby></span>は、<ruby>何年<rt>なんねん</rt></ruby>ぐらいの<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three to four years."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
