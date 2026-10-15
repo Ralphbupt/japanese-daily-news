@@ -1,0 +1,738 @@
+{
+  "episode": 224,
+  "title": "弘前大学、ロボットで国内初の「遠隔手術」",
+  "date": "2026-10-15",
+  "source": "NHK / 共同通信 / 東奥日報 / 青森放送 / ATV青森テレビ",
+  "level": "N4-N3",
+  "contentVersion": "2026101501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "遠隔手術",
+      "reading": "えんかくしゅじゅつ",
+      "en": "remote surgery",
+      "zh": "远程手术"
+    },
+    {
+      "ja": "国内",
+      "reading": "こくない",
+      "en": "within the country, domestic",
+      "zh": "国内"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发表，宣布"
+    },
+    {
+      "ja": "離れた",
+      "reading": "はなれた",
+      "en": "distant, far apart",
+      "zh": "相隔的，远离的"
+    },
+    {
+      "ja": "操作",
+      "reading": "そうさ",
+      "en": "operation (of a machine)",
+      "zh": "操作"
+    },
+    {
+      "ja": "通信回線",
+      "reading": "つうしんかいせん",
+      "en": "communication line",
+      "zh": "通信线路"
+    },
+    {
+      "ja": "つながって",
+      "reading": "つながって",
+      "en": "to be connected",
+      "zh": "连接着"
+    },
+    {
+      "ja": "手術支援ロボット",
+      "reading": "しゅじゅつしえんロボット",
+      "en": "surgical support robot",
+      "zh": "手术辅助机器人"
+    },
+    {
+      "ja": "患者",
+      "reading": "かんじゃ",
+      "en": "patient",
+      "zh": "患者，病人"
+    },
+    {
+      "ja": "専門",
+      "reading": "せんもん",
+      "en": "specialty, specialist",
+      "zh": "专业，专门"
+    },
+    {
+      "ja": "手伝ったり",
+      "reading": "てつだったり",
+      "en": "to help (and so on)",
+      "zh": "帮忙（等）"
+    },
+    {
+      "ja": "大腸がん",
+      "reading": "だいちょうがん",
+      "en": "colorectal cancer",
+      "zh": "大肠癌"
+    },
+    {
+      "ja": "経過",
+      "reading": "けいか",
+      "en": "progress, recovery course",
+      "zh": "（病情）经过，恢复情况"
+    },
+    {
+      "ja": "良好",
+      "reading": "りょうこう",
+      "en": "good, favorable",
+      "zh": "良好"
+    },
+    {
+      "ja": "外科医",
+      "reading": "げかい",
+      "en": "surgeon",
+      "zh": "外科医生"
+    },
+    {
+      "ja": "足りない",
+      "reading": "たりない",
+      "en": "to be not enough, lacking",
+      "zh": "不够，不足"
+    },
+    {
+      "ja": "地域",
+      "reading": "ちいき",
+      "en": "region, area",
+      "zh": "地区，地域"
+    },
+    {
+      "ja": "地元",
+      "reading": "じもと",
+      "en": "one's home area",
+      "zh": "当地，本地"
+    },
+    {
+      "ja": "委員長",
+      "reading": "いいんちょう",
+      "en": "committee chair",
+      "zh": "委员长"
+    },
+    {
+      "ja": "差",
+      "reading": "さ",
+      "en": "difference, gap",
+      "zh": "差距"
+    },
+    {
+      "ja": "目的",
+      "reading": "もくてき",
+      "en": "purpose, goal",
+      "zh": "目的"
+    },
+    {
+      "ja": "確かめる",
+      "reading": "たしかめる",
+      "en": "to confirm, to check",
+      "zh": "确认"
+    },
+    {
+      "ja": "実際",
+      "reading": "じっさい",
+      "en": "actual, in practice",
+      "zh": "实际"
+    },
+    {
+      "ja": "目指して",
+      "reading": "めざして",
+      "en": "to aim for",
+      "zh": "以……为目标"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "do things like ~ and ~",
+      "meaningZh": "又……又……，……啦……啦",
+      "formation": "verb た-form + り, verb た-form + り + する",
+      "example": "専門の医師は、遠くからロボットを動かして、手術を手伝ったり、教えたりします。",
+      "translation": "The specialist moves the robot from far away to help with and teach during the surgery.",
+      "note": "Lists example actions without giving a complete list. 手伝ったり、教えたり = helping, teaching, and so on.",
+      "noteZh": "列举几个代表性的动作，暗示还有其他。手伝ったり、教えたり＝帮忙啦、指导啦。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たり"
+    },
+    {
+      "pattern": "〜なくても",
+      "meaning": "even without ~ing",
+      "meaningZh": "即使不……也……",
+      "formation": "verb ない-form (drop い) + くても",
+      "example": "遠隔手術ができれば、患者は遠くの大きな病院に行かなくても、地元で手術を受けられます。",
+      "translation": "With remote surgery, patients can have operations locally even without going to a big faraway hospital.",
+      "note": "Says the result still holds even if the action is not done. 行かなくても = even without going.",
+      "noteZh": "表示即使不做某事，结果也成立。行かなくても＝即使不去。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくてもいい"
+    },
+    {
+      "pattern": "〜ということだ",
+      "meaning": "it is said that ~, reportedly ~",
+      "meaningZh": "据说……",
+      "formation": "plain form + ということだ／ということです",
+      "example": "5人とも、手術のあとの経過は良好だということです。",
+      "translation": "All five patients are reportedly recovering well.",
+      "note": "Common in news to pass on information from someone else. 良好だということです = it is reported to be good.",
+      "noteZh": "新闻中常用于转述别人提供的信息。良好だということです＝据说情况良好。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    },
+    {
+      "pattern": "〜ようにする",
+      "meaning": "to make it so that ~",
+      "meaningZh": "使……成为可能，努力做到……",
+      "formation": "verb dictionary/potential form + ようにする",
+      "example": "そして、およそ2年後に、実際に使えるようにすることを目指しています。",
+      "translation": "And they aim to make it usable in real practice in about two years.",
+      "note": "With a potential verb, it means making something possible. 使えるようにする = make it usable.",
+      "noteZh": "与可能形连用，表示使某事成为可能。使えるようにする＝使其能够使用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようにする"
+    }
+  ],
+  "practiceZh": [
+    "青森県の弘前大学などは、14日、ロボットを使った「遠隔手術」を国内で初めて実施したと発表しました。\n青森县弘前大学等14日宣布，在国内首次进行了使用机器人的“远程手术”。\n遠隔手術 = remote surgery / 国内 = within the country, domestic / 発表 = announcement",
+    "遠隔手術は、離れた場所にいる医師が、ロボットを操作して手術をする方法です。\n远程手术是指身处远方的医生操作机器人进行手术的方法。\n離れた = distant, far apart / 操作 = operation (of a machine)",
+    "手術が行われたのは、弘前市にある大学の病院と、五所川原市にあるつがる総合病院です。\n进行手术的是位于弘前市的大学医院和位于五所川原市的津轻综合医院。",
+    "二つの病院は、およそ30キロ離れていて、通信回線でつながっています。\n两家医院相距约30公里，通过通信线路连接。\n通信回線 = communication line / つながって = to be connected",
+    "使われたのは、神戸市の会社が作った「ヒノトリ」という手術支援ロボットです。\n使用的是神户市一家公司制造的名为“hinotori”的手术辅助机器人。\n手術支援ロボット = surgical support robot",
+    "患者のそばにいる医師と、別の病院にいる専門の医師が、同じロボットを操作します。\n患者身边的医生和另一家医院的专科医生操作同一台机器人。\n患者 = patient / 専門 = specialty, specialist",
+    "専門の医師は、遠くからロボットを動かして、手術を手伝ったり、教えたりします。\n专科医生从远处操作机器人，帮忙做手术、进行指导等。\n手伝ったり = to help (and so on)",
+    "8月から、大腸がんの患者5人が、この方法で手術を受けました。\n从8月起，5名大肠癌患者用这种方法接受了手术。\n大腸がん = colorectal cancer",
+    "5人とも、手術のあとの経過は良好だということです。\n据说5人术后恢复情况都很好。\n経過 = progress, recovery course / 良好 = good, favorable",
+    "日本では、外科医が足りないことや、専門の医師が少ない地域があることが問題になっています。\n在日本，外科医生不足以及有些地区专科医生很少，已成为问题。\n外科医 = surgeon / 足りない = to be not enough, lacking / 地域 = region, area",
+    "遠隔手術ができれば、患者は遠くの大きな病院に行かなくても、地元で手術を受けられます。\n如果能进行远程手术，患者即使不去远处的大医院，也能在当地接受手术。\n地元 = one's home area",
+    "学会の森正樹委員長は、「地域による手術の差をなくすことが、一番の目的だ」と話しました。\n学会的森正树委员长说：“消除地区之间的手术差距是最主要的目的。”\n委員長 = committee chair / 差 = difference, gap / 目的 = purpose, goal",
+    "大学などは、来年3月までに、あと5人ほどの手術で安全を確かめる予定です。\n大学等计划在本年度内，再通过约5名患者的手术来确认安全性。\n確かめる = to confirm, to check",
+    "そして、およそ2年後に、実際に使えるようにすることを目指しています。\n并且，目标是在大约2年后投入实际使用。\n実際 = actual, in practice / 目指して = to aim for"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October fifteenth. A university in northern Japan has carried out the country's first remote robot surgery. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森県の弘前大学などは、14日、ロボットを使った「遠隔手術」を国内で初めて実施したと発表しました。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>弘前大学<rt>ひろさきだいがく</rt></ruby>などは、14<ruby>日<rt>か</rt></ruby>、ロボットを<ruby>使った<rt>つかった</rt></ruby>「<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>」を<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"within the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>初めて<rt>はじめて</rt></ruby><ruby>実施<rt>じっし</rt></ruby>したと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "遠隔手術は、離れた場所にいる医師が、ロボットを操作して手術をする方法です。",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"離れた\" data-reading=\"はなれた\" data-en=\"distant, far apart\"><ruby>離れ<rt>はなれ</rt></ruby>た</span><ruby>場所<rt>ばしょ</rt></ruby>にいる<ruby>医師<rt>いし</rt></ruby>が、ロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>して<ruby>手術<rt>しゅじゅつ</rt></ruby>をする<ruby>方法<rt>ほうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "手術が行われたのは、弘前市にある大学の病院と、五所川原市にあるつがる総合病院です。",
+      "ruby": "<ruby>手術<rt>しゅじゅつ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れたのは、<ruby>弘前市<rt>ひろさきし</rt></ruby>にある<ruby>大学<rt>だいがく</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>と、<ruby>五所川原<rt>ごしょがわら</rt></ruby><ruby>市<rt>し</rt></ruby>にあるつがる<ruby>総合病院<rt>そうごうびょういん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "二つの病院は、およそ30キロ離れていて、通信回線でつながっています。",
+      "ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>は、およそ30キロ<ruby>離れ<rt>はなれ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"通信回線\" data-reading=\"つうしんかいせん\" data-en=\"communication line\"><ruby>通信回線<rt>つうしんかいせん</rt></ruby></span>でつながっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "使われたのは、神戸市の会社が作った「ヒノトリ」という手術支援ロボットです。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>れたのは、<ruby>神戸市<rt>こうべし</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た「ヒノトリ」という<span class=\"vw\" data-ja=\"手術支援ロボット\" data-reading=\"しゅじゅつしえんロボット\" data-en=\"surgical support robot\"><ruby>手術<rt>しゅじゅつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>ロボット</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "患者のそばにいる医師と、別の病院にいる専門の医師が、同じロボットを操作します。",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>のそばにいる<ruby>医師<rt>いし</rt></ruby>と、<ruby>別の<rt>べつの</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>にいる<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>が、<ruby>同じ<rt>おなじ</rt></ruby>ロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門の医師は、遠くからロボットを動かして、手術を手伝ったり、教えたりします。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>は、<ruby>遠く<rt>とおく</rt></ruby>からロボットを<ruby>動か<rt>うごか</rt></ruby>して、<ruby>手術<rt>しゅじゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"手伝ったり\" data-reading=\"てつだったり\" data-en=\"to help (and so on)\"><ruby>手伝っ<rt>てつだっ</rt></ruby>たり</span>、<ruby>教え<rt>おしえ</rt></ruby>たりします。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月から、大腸がんの患者5人が、この方法で手術を受けました。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>から、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>5<ruby>人<rt>にん</rt></ruby>が、この<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "5人とも、手術のあとの経過は良好だということです。",
+      "ruby": "5<ruby>人<rt>にん</rt></ruby>とも、<ruby>手術<rt>しゅじゅつ</rt></ruby>のあとの<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress, recovery course\"><ruby>経過<rt>けいか</rt></ruby></span>は<span class=\"vw\" data-ja=\"良好\" data-reading=\"りょうこう\" data-en=\"good, favorable\"><ruby>良好<rt>りょうこう</rt></ruby></span>だということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、外科医が足りないことや、専門の医師が少ない地域があることが問題になっています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<span class=\"vw\" data-ja=\"外科医\" data-reading=\"げかい\" data-en=\"surgeon\"><ruby>外科医<rt>げかい</rt></ruby></span>が<span class=\"vw\" data-ja=\"足りない\" data-reading=\"たりない\" data-en=\"to be not enough, lacking\"><ruby>足り<rt>たり</rt></ruby>ないことや</span>、<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby><span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>があることが<ruby>問題<rt>もんだい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "遠隔手術ができれば、患者は遠くの大きな病院に行かなくても、地元で手術を受けられます。",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>ができれば、<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>は<ruby>遠く<rt>とおく</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>なくても、<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"one's home area\"><ruby>地元<rt>じもと</rt></ruby></span>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "news",
+      "text": "学会の森正樹委員長は、「地域による手術の差をなくすことが、一番の目的だ」と話しました。",
+      "ruby": "<ruby>学会<rt>がっかい</rt></ruby>の<ruby>森<rt>もり</rt></ruby><ruby>正樹<rt>まさき</rt></ruby><span class=\"vw\" data-ja=\"委員長\" data-reading=\"いいんちょう\" data-en=\"committee chair\"><ruby>委員長<rt>いいんちょう</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>による<ruby>手術<rt>しゅじゅつ</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>をなくすことが、<ruby>一番<rt>いちばん</rt></ruby>の<span class=\"vw\" data-ja=\"目的\" data-reading=\"もくてき\" data-en=\"purpose, goal\"><ruby>目的<rt>もくてき</rt></ruby></span>だ」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大学などは、来年3月までに、あと5人ほどの手術で安全を確かめる予定です。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>などは、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>までに、あと5<ruby>人<rt>にん</rt></ruby>ほどの<ruby>手術<rt>しゅじゅつ</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>を<span class=\"vw\" data-ja=\"確かめる\" data-reading=\"たしかめる\" data-en=\"to confirm, to check\"><ruby>確か<rt>たしか</rt></ruby>める</span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、およそ2年後に、実際に使えるようにすることを目指しています。",
+      "ruby": "そして、およそ2<ruby>年後<rt>ねんご</rt></ruby>に、<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in practice\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>使え<rt>つかえ</rt></ruby>るようにすることを<span class=\"vw\" data-ja=\"目指して\" data-reading=\"めざして\" data-en=\"to aim for\"><ruby>目指し<rt>めざし</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森県の弘前大学などは、14日、ロボットを使った「遠隔手術」を国内で初めて実施したと発表しました。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>弘前大学<rt>ひろさきだいがく</rt></ruby>などは、14<ruby>日<rt>か</rt></ruby>、ロボットを<ruby>使った<rt>つかった</rt></ruby>「<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>」を<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"within the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>初めて<rt>はじめて</rt></ruby><ruby>実施<rt>じっし</rt></ruby>したと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the fourteenth, Hirosaki University in Aomori announced it had carried out the country's first remote surgery using a robot."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遠隔手術",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means remote surgery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement."
+    },
+    {
+      "speaker": "slow",
+      "text": "遠隔手術は、離れた場所にいる医師が、ロボットを操作して手術をする方法です。",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"離れた\" data-reading=\"はなれた\" data-en=\"distant, far apart\"><ruby>離れ<rt>はなれ</rt></ruby>た</span><ruby>場所<rt>ばしょ</rt></ruby>にいる<ruby>医師<rt>いし</rt></ruby>が、ロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>して<ruby>手術<rt>しゅじゅつ</rt></ruby>をする<ruby>方法<rt>ほうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Remote surgery is when a doctor in a distant place operates a robot to perform surgery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "離れた",
+      "ruby": "<span class=\"vw\" data-ja=\"離れた\" data-reading=\"はなれた\" data-en=\"distant, far apart\"><ruby>離れ<rt>はなれ</rt></ruby>た</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means distant, or far apart."
+    },
+    {
+      "speaker": "vocab",
+      "text": "操作",
+      "ruby": "<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means operating a machine."
+    },
+    {
+      "speaker": "slow",
+      "text": "二つの病院は、およそ30キロ離れていて、通信回線でつながっています。",
+      "ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>は、およそ30キロ<ruby>離れ<rt>はなれ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"通信回線\" data-reading=\"つうしんかいせん\" data-en=\"communication line\"><ruby>通信回線<rt>つうしんかいせん</rt></ruby></span>でつながっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The two hospitals are about thirty kilometers apart and are connected by a communication line."
+    },
+    {
+      "speaker": "vocab",
+      "text": "通信回線",
+      "ruby": "<span class=\"vw\" data-ja=\"通信回線\" data-reading=\"つうしんかいせん\" data-en=\"communication line\"><ruby>通信回線<rt>つうしんかいせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a communication line."
+    },
+    {
+      "speaker": "slow",
+      "text": "使われたのは、神戸市の会社が作った「ヒノトリ」という手術支援ロボットです。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>れたのは、<ruby>神戸市<rt>こうべし</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た「ヒノトリ」という<span class=\"vw\" data-ja=\"手術支援ロボット\" data-reading=\"しゅじゅつしえんロボット\" data-en=\"surgical support robot\"><ruby>手術<rt>しゅじゅつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>ロボット</span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The robot used was a surgical support robot made by a company in Kobe."
+    },
+    {
+      "speaker": "vocab",
+      "text": "手術支援ロボット",
+      "ruby": "<span class=\"vw\" data-ja=\"手術支援ロボット\" data-reading=\"しゅじゅつしえんロボット\" data-en=\"surgical support robot\"><ruby>手術<rt>しゅじゅつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>ロボット</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a surgical support robot."
+    },
+    {
+      "speaker": "slow",
+      "text": "患者のそばにいる医師と、別の病院にいる専門の医師が、同じロボットを操作します。",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>のそばにいる<ruby>医師<rt>いし</rt></ruby>と、<ruby>別の<rt>べつの</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>にいる<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>が、<ruby>同じ<rt>おなじ</rt></ruby>ロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "A doctor next to the patient and a specialist at another hospital operate the same robot."
+    },
+    {
+      "speaker": "vocab",
+      "text": "患者",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a patient."
+    },
+    {
+      "speaker": "slow",
+      "text": "専門の医師は、遠くからロボットを動かして、手術を手伝ったり、教えたりします。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>は、<ruby>遠く<rt>とおく</rt></ruby>からロボットを<ruby>動か<rt>うごか</rt></ruby>して、<ruby>手術<rt>しゅじゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"手伝ったり\" data-reading=\"てつだったり\" data-en=\"to help (and so on)\"><ruby>手伝っ<rt>てつだっ</rt></ruby>たり</span>、<ruby>教え<rt>おしえ</rt></ruby>たりします。"
+    },
+    {
+      "speaker": "host",
+      "text": "The specialist moves the robot from far away to help with and teach during the surgery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "手伝ったり",
+      "ruby": "<span class=\"vw\" data-ja=\"手伝ったり\" data-reading=\"てつだったり\" data-en=\"to help (and so on)\"><ruby>手伝っ<rt>てつだっ</rt></ruby>たり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Two verbs in this form list example actions: helping, teaching, and so on."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月から、大腸がんの患者5人が、この方法で手術を受けました。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>から、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>5<ruby>人<rt>にん</rt></ruby>が、この<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since August, five colorectal cancer patients have had surgery this way."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大腸がん",
+      "ruby": "<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がん</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means colorectal cancer."
+    },
+    {
+      "speaker": "slow",
+      "text": "5人とも、手術のあとの経過は良好だということです。",
+      "ruby": "5<ruby>人<rt>にん</rt></ruby>とも、<ruby>手術<rt>しゅじゅつ</rt></ruby>のあとの<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress, recovery course\"><ruby>経過<rt>けいか</rt></ruby></span>は<span class=\"vw\" data-ja=\"良好\" data-reading=\"りょうこう\" data-en=\"good, favorable\"><ruby>良好<rt>りょうこう</rt></ruby></span>だということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "All five patients are reportedly recovering well."
+    },
+    {
+      "speaker": "vocab",
+      "text": "経過",
+      "ruby": "<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress, recovery course\"><ruby>経過<rt>けいか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the course of recovery."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、外科医が足りないことや、専門の医師が少ない地域があることが問題になっています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<span class=\"vw\" data-ja=\"外科医\" data-reading=\"げかい\" data-en=\"surgeon\"><ruby>外科医<rt>げかい</rt></ruby></span>が<span class=\"vw\" data-ja=\"足りない\" data-reading=\"たりない\" data-en=\"to be not enough, lacking\"><ruby>足り<rt>たり</rt></ruby>ないことや</span>、<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby><span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>があることが<ruby>問題<rt>もんだい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, a lack of surgeons and areas with few specialists have become a problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "外科医",
+      "ruby": "<span class=\"vw\" data-ja=\"外科医\" data-reading=\"げかい\" data-en=\"surgeon\"><ruby>外科医<rt>げかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a surgeon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地域",
+      "ruby": "<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a region or area."
+    },
+    {
+      "speaker": "slow",
+      "text": "遠隔手術ができれば、患者は遠くの大きな病院に行かなくても、地元で手術を受けられます。",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>ができれば、<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>は<ruby>遠く<rt>とおく</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>なくても、<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"one's home area\"><ruby>地元<rt>じもと</rt></ruby></span>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "host",
+      "text": "With remote surgery, patients can have operations locally without going to a big faraway hospital."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地元",
+      "ruby": "<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"one's home area\"><ruby>地元<rt>じもと</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means one's home area."
+    },
+    {
+      "speaker": "vocab",
+      "text": "なくても",
+      "ruby": "なくても"
+    },
+    {
+      "speaker": "host",
+      "text": "It means even without doing something."
+    },
+    {
+      "speaker": "slow",
+      "text": "学会の森正樹委員長は、「地域による手術の差をなくすことが、一番の目的だ」と話しました。",
+      "ruby": "<ruby>学会<rt>がっかい</rt></ruby>の<ruby>森<rt>もり</rt></ruby><ruby>正樹<rt>まさき</rt></ruby><span class=\"vw\" data-ja=\"委員長\" data-reading=\"いいんちょう\" data-en=\"committee chair\"><ruby>委員長<rt>いいんちょう</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>による<ruby>手術<rt>しゅじゅつ</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>をなくすことが、<ruby>一番<rt>いちばん</rt></ruby>の<span class=\"vw\" data-ja=\"目的\" data-reading=\"もくてき\" data-en=\"purpose, goal\"><ruby>目的<rt>もくてき</rt></ruby></span>だ」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The committee chair said the main goal is to remove regional differences in surgery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "委員長",
+      "ruby": "<span class=\"vw\" data-ja=\"委員長\" data-reading=\"いいんちょう\" data-en=\"committee chair\"><ruby>委員長<rt>いいんちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a committee chair."
+    },
+    {
+      "speaker": "vocab",
+      "text": "目的",
+      "ruby": "<span class=\"vw\" data-ja=\"目的\" data-reading=\"もくてき\" data-en=\"purpose, goal\"><ruby>目的<rt>もくてき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a purpose or goal."
+    },
+    {
+      "speaker": "slow",
+      "text": "大学などは、来年3月までに、あと5人ほどの手術で安全を確かめる予定です。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>などは、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>までに、あと5<ruby>人<rt>にん</rt></ruby>ほどの<ruby>手術<rt>しゅじゅつ</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>を<span class=\"vw\" data-ja=\"確かめる\" data-reading=\"たしかめる\" data-en=\"to confirm, to check\"><ruby>確か<rt>たしか</rt></ruby>める</span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "By next March, they plan to confirm safety with about five more patients."
+    },
+    {
+      "speaker": "vocab",
+      "text": "確かめる",
+      "ruby": "<span class=\"vw\" data-ja=\"確かめる\" data-reading=\"たしかめる\" data-en=\"to confirm, to check\"><ruby>確か<rt>たしか</rt></ruby>める</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to confirm or check."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、およそ2年後に、実際に使えるようにすることを目指しています。",
+      "ruby": "そして、およそ2<ruby>年後<rt>ねんご</rt></ruby>に、<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in practice\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>使え<rt>つかえ</rt></ruby>るようにすることを<span class=\"vw\" data-ja=\"目指して\" data-reading=\"めざして\" data-en=\"to aim for\"><ruby>目指し<rt>めざし</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "And they aim to put it into real use in about two years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "目指して",
+      "ruby": "<span class=\"vw\" data-ja=\"目指して\" data-reading=\"めざして\" data-en=\"to aim for\"><ruby>目指し<rt>めざし</rt></ruby>て</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means aiming for something."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森県の弘前大学などは、14日、ロボットを使った「遠隔手術」を国内で初めて実施したと発表しました。",
+      "ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>弘前大学<rt>ひろさきだいがく</rt></ruby>などは、14<ruby>日<rt>か</rt></ruby>、ロボットを<ruby>使った<rt>つかった</rt></ruby>「<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>」を<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"within the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>初めて<rt>はじめて</rt></ruby><ruby>実施<rt>じっし</rt></ruby>したと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "遠隔手術は、離れた場所にいる医師が、ロボットを操作して手術をする方法です。",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"離れた\" data-reading=\"はなれた\" data-en=\"distant, far apart\"><ruby>離れ<rt>はなれ</rt></ruby>た</span><ruby>場所<rt>ばしょ</rt></ruby>にいる<ruby>医師<rt>いし</rt></ruby>が、ロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>して<ruby>手術<rt>しゅじゅつ</rt></ruby>をする<ruby>方法<rt>ほうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "手術が行われたのは、弘前市にある大学の病院と、五所川原市にあるつがる総合病院です。",
+      "ruby": "<ruby>手術<rt>しゅじゅつ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れたのは、<ruby>弘前市<rt>ひろさきし</rt></ruby>にある<ruby>大学<rt>だいがく</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>と、<ruby>五所川原<rt>ごしょがわら</rt></ruby><ruby>市<rt>し</rt></ruby>にあるつがる<ruby>総合病院<rt>そうごうびょういん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "二つの病院は、およそ30キロ離れていて、通信回線でつながっています。",
+      "ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>は、およそ30キロ<ruby>離れ<rt>はなれ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"通信回線\" data-reading=\"つうしんかいせん\" data-en=\"communication line\"><ruby>通信回線<rt>つうしんかいせん</rt></ruby></span>でつながっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "使われたのは、神戸市の会社が作った「ヒノトリ」という手術支援ロボットです。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>れたのは、<ruby>神戸市<rt>こうべし</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た「ヒノトリ」という<span class=\"vw\" data-ja=\"手術支援ロボット\" data-reading=\"しゅじゅつしえんロボット\" data-en=\"surgical support robot\"><ruby>手術<rt>しゅじゅつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>ロボット</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "患者のそばにいる医師と、別の病院にいる専門の医師が、同じロボットを操作します。",
+      "ruby": "<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>のそばにいる<ruby>医師<rt>いし</rt></ruby>と、<ruby>別の<rt>べつの</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>にいる<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>が、<ruby>同じ<rt>おなじ</rt></ruby>ロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "専門の医師は、遠くからロボットを動かして、手術を手伝ったり、教えたりします。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>は、<ruby>遠く<rt>とおく</rt></ruby>からロボットを<ruby>動か<rt>うごか</rt></ruby>して、<ruby>手術<rt>しゅじゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"手伝ったり\" data-reading=\"てつだったり\" data-en=\"to help (and so on)\"><ruby>手伝っ<rt>てつだっ</rt></ruby>たり</span>、<ruby>教え<rt>おしえ</rt></ruby>たりします。"
+    },
+    {
+      "speaker": "news",
+      "text": "8月から、大腸がんの患者5人が、この方法で手術を受けました。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>から、<span class=\"vw\" data-ja=\"大腸がん\" data-reading=\"だいちょうがん\" data-en=\"colorectal cancer\"><ruby>大腸<rt>だいちょう</rt></ruby>がんの</span><span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>5<ruby>人<rt>にん</rt></ruby>が、この<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "5人とも、手術のあとの経過は良好だということです。",
+      "ruby": "5<ruby>人<rt>にん</rt></ruby>とも、<ruby>手術<rt>しゅじゅつ</rt></ruby>のあとの<span class=\"vw\" data-ja=\"経過\" data-reading=\"けいか\" data-en=\"progress, recovery course\"><ruby>経過<rt>けいか</rt></ruby></span>は<span class=\"vw\" data-ja=\"良好\" data-reading=\"りょうこう\" data-en=\"good, favorable\"><ruby>良好<rt>りょうこう</rt></ruby></span>だということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、外科医が足りないことや、専門の医師が少ない地域があることが問題になっています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<span class=\"vw\" data-ja=\"外科医\" data-reading=\"げかい\" data-en=\"surgeon\"><ruby>外科医<rt>げかい</rt></ruby></span>が<span class=\"vw\" data-ja=\"足りない\" data-reading=\"たりない\" data-en=\"to be not enough, lacking\"><ruby>足り<rt>たり</rt></ruby>ないことや</span>、<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby><span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>があることが<ruby>問題<rt>もんだい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "遠隔手術ができれば、患者は遠くの大きな病院に行かなくても、地元で手術を受けられます。",
+      "ruby": "<span class=\"vw\" data-ja=\"遠隔手術\" data-reading=\"えんかくしゅじゅつ\" data-en=\"remote surgery\"><ruby>遠隔<rt>えんかく</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby></span>ができれば、<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>は<ruby>遠く<rt>とおく</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>なくても、<span class=\"vw\" data-ja=\"地元\" data-reading=\"じもと\" data-en=\"one's home area\"><ruby>地元<rt>じもと</rt></ruby></span>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "news",
+      "text": "学会の森正樹委員長は、「地域による手術の差をなくすことが、一番の目的だ」と話しました。",
+      "ruby": "<ruby>学会<rt>がっかい</rt></ruby>の<ruby>森<rt>もり</rt></ruby><ruby>正樹<rt>まさき</rt></ruby><span class=\"vw\" data-ja=\"委員長\" data-reading=\"いいんちょう\" data-en=\"committee chair\"><ruby>委員長<rt>いいんちょう</rt></ruby></span>は、「<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>による<ruby>手術<rt>しゅじゅつ</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>をなくすことが、<ruby>一番<rt>いちばん</rt></ruby>の<span class=\"vw\" data-ja=\"目的\" data-reading=\"もくてき\" data-en=\"purpose, goal\"><ruby>目的<rt>もくてき</rt></ruby></span>だ」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大学などは、来年3月までに、あと5人ほどの手術で安全を確かめる予定です。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>などは、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>までに、あと5<ruby>人<rt>にん</rt></ruby>ほどの<ruby>手術<rt>しゅじゅつ</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>を<span class=\"vw\" data-ja=\"確かめる\" data-reading=\"たしかめる\" data-en=\"to confirm, to check\"><ruby>確か<rt>たしか</rt></ruby>める</span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、およそ2年後に、実際に使えるようにすることを目指しています。",
+      "ruby": "そして、およそ2<ruby>年後<rt>ねんご</rt></ruby>に、<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in practice\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>使え<rt>つかえ</rt></ruby>るようにすることを<span class=\"vw\" data-ja=\"目指して\" data-reading=\"めざして\" data-en=\"to aim for\"><ruby>目指し<rt>めざし</rt></ruby>ています</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "二つの病院は、どのくらい離れていますか。",
+      "ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>は、どのくらい<ruby>離れ<rt>はなれ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About thirty kilometers."
+    },
+    {
+      "speaker": "slow",
+      "text": "8月から、何人の患者がこの方法で手術を受けましたか。",
+      "ruby": "8<ruby>月<rt>がつ</rt></ruby>から、<ruby>何人<rt>なんにん</rt></ruby>の<span class=\"vw\" data-ja=\"患者\" data-reading=\"かんじゃ\" data-en=\"patient\"><ruby>患者<rt>かんじゃ</rt></ruby></span>がこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five patients with colorectal cancer."
+    },
+    {
+      "speaker": "slow",
+      "text": "専門の医師は、どこからロボットを操作しますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"専門\" data-reading=\"せんもん\" data-en=\"specialty, specialist\"><ruby>専門<rt>せんもん</rt></ruby></span>の<ruby>医師<rt>いし</rt></ruby>は、どこからロボットを<span class=\"vw\" data-ja=\"操作\" data-reading=\"そうさ\" data-en=\"operation (of a machine)\"><ruby>操作<rt>そうさ</rt></ruby></span>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From another hospital, far away."
+    },
+    {
+      "speaker": "slow",
+      "text": "大学などは、いつごろ実際に使えるようにしたいですか。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>などは、いつごろ<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in practice\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>使え<rt>つかえ</rt></ruby>るようにしたいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In about two years."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
