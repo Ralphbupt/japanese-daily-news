@@ -1,0 +1,574 @@
+{
+  "episode": 225,
+  "title": "ドイツのデパートで日本のお米を試験販売",
+  "date": "2026-10-16",
+  "source": "NHK / 時事通信 / 農林水産省",
+  "level": "N5-N4",
+  "contentVersion": "2026101601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "首都",
+      "reading": "しゅと",
+      "en": "capital city",
+      "zh": "首都"
+    },
+    {
+      "ja": "デパート",
+      "reading": "でぱーと",
+      "en": "department store",
+      "zh": "百货商店"
+    },
+    {
+      "ja": "試しに",
+      "reading": "ためしに",
+      "en": "as a trial, to try",
+      "zh": "试着，尝试性地"
+    },
+    {
+      "ja": "種類",
+      "reading": "しゅるい",
+      "en": "kind, type",
+      "zh": "种类"
+    },
+    {
+      "ja": "分ける",
+      "reading": "わける",
+      "en": "to divide, to split",
+      "zh": "分开，分成"
+    },
+    {
+      "ja": "やすい",
+      "reading": "やすい",
+      "en": "easy to ~ (after a verb)",
+      "zh": "容易……（接在动词后）"
+    },
+    {
+      "ja": "味",
+      "reading": "あじ",
+      "en": "taste, flavor",
+      "zh": "味道"
+    },
+    {
+      "ja": "比べる",
+      "reading": "くらべる",
+      "en": "to compare",
+      "zh": "比较"
+    },
+    {
+      "ja": "炊き方",
+      "reading": "たきかた",
+      "en": "how to cook rice",
+      "zh": "煮饭的方法"
+    },
+    {
+      "ja": "配る",
+      "reading": "くばる",
+      "en": "to hand out",
+      "zh": "分发"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popular, popularity",
+      "zh": "人气，受欢迎"
+    },
+    {
+      "ja": "外国",
+      "reading": "がいこく",
+      "en": "foreign country",
+      "zh": "外国"
+    },
+    {
+      "ja": "輸出",
+      "reading": "ゆしゅつ",
+      "en": "export",
+      "zh": "出口"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "違う",
+      "reading": "ちがう",
+      "en": "to be different",
+      "zh": "不同"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てみる",
+      "meaning": "try doing ~",
+      "meaningZh": "试着做……",
+      "formation": "verb て-form + みる",
+      "example": "お店ではご飯を食べてみることができて、家族で来た人たちが味を比べていました。",
+      "translation": "In the store, people can try eating the rice, and families compared the taste.",
+      "note": "Used when you do something to see what it is like.",
+      "noteZh": "表示尝试做某事，看看结果或感觉如何。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#てみる"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~",
+      "meaningZh": "容易……，方便……",
+      "formation": "verb ます-stem + やすい",
+      "example": "お米は小さいパックに分けてあって、買いやすくなっています。",
+      "translation": "The rice is divided into small packs, so it is easy to buy.",
+      "note": "Conjugates like an い-adjective: やすくなる means 'becomes easy to'.",
+      "noteZh": "像い形容词一样变化：やすくなる表示“变得容易……”。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#やすい"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want (someone) to ~",
+      "meaningZh": "希望（别人）……",
+      "formation": "verb て-form + ほしい",
+      "example": "ワインのように、場所によって違う味を知ってほしい。",
+      "translation": "Like wine, we want people to know the taste is different depending on the place.",
+      "note": "Expresses the speaker's wish for someone else to do something.",
+      "noteZh": "表示说话人希望别人做某事。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てほしい"
+    }
+  ],
+  "practiceZh": [
+    "ドイツの首都ベルリンに、「カーデーヴェー」という大きなデパートがあります。\n德国首都柏林有一家叫“KaDeWe”的大型百货商店。\n首都 = capital city / デパート = department store",
+    "このデパートで、10月12日から、日本のお米が試しに売られています。\n从10月12日起，这家百货商店正在试卖日本大米。\n試しに = as a trial, to try",
+    "売っているのは、北海道の「ゆめぴりか」や新潟県の「コシヒカリ」など、6つの種類のお米です。\n卖的是北海道的“梦美人”、新潟县的“越光”等6种大米。\n種類 = kind, type",
+    "お米は小さいパックに分けてあって、買いやすくなっています。\n大米被分成小包装，方便购买。\n分ける = to divide, to split / やすい = easy to ~ (after a verb)",
+    "お店ではご飯を食べてみることができて、家族で来た人たちが味を比べていました。\n在店里可以试吃米饭，全家一起来的人们在比较味道。\n味 = taste, flavor / 比べる = to compare",
+    "お米の炊き方を説明する紙も配っています。\n店里还分发介绍煮饭方法的说明纸。\n炊き方 = how to cook rice / 配る = to hand out",
+    "ドイツでは日本の料理が人気ですが、レストランでは安い外国のお米を使うことが多いです。\n日本料理在德国很受欢迎，但餐厅里多使用便宜的外国大米。\n人気 = popular, popularity / 外国 = foreign country",
+    "今年の1月から8月までに、ドイツに輸出した日本のお米は699トンで、去年より15%増えました。\n今年1月到8月，日本出口到德国的大米为699吨，比去年增加了15%。\n輸出 = export / 増える = to increase",
+    "日本の人は、「ワインのように、場所によって違う味を知ってほしい」と話しています。\n日方人员说：“希望大家像了解葡萄酒一样，知道不同产地有不同的味道。”\n違う = to be different",
+    "お米を売るのは、10月24日までです。\n大米的销售将持续到10月24日。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October sixteenth. Japanese rice is being test-sold at a famous department store in Germany. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドイツの首都ベルリンに、「カーデーヴェー」という大きなデパートがあります。",
+      "ruby": "ドイツの<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>ベルリンに、「カーデーヴェー」という<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "このデパートで、10月12日から、日本のお米が試しに売られています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>で、10<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>から、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>が<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial, to try\"><ruby>試し<rt>ためし</rt></ruby>に</span><ruby>売ら<rt>うら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "売っているのは、北海道の「ゆめぴりか」や新潟県の「コシヒカリ」など、6つの種類のお米です。",
+      "ruby": "<ruby>売っ<rt>うっ</rt></ruby>ているのは、<ruby>北海道<rt>ほっかいどう</rt></ruby>の「ゆめぴりか」や<ruby>新潟県<rt>にいがたけん</rt></ruby>の「コシヒカリ」など、6つの<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>のお<ruby>米<rt>こめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米は小さいパックに分けてあって、買いやすくなっています。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>は<ruby>小さい<rt>ちいさい</rt></ruby>パックに<ruby>分け<rt>わけ</rt></ruby>てあって、<ruby>買い<rt>かい</rt></ruby>やすくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "お店ではご飯を食べてみることができて、家族で来た人たちが味を比べていました。",
+      "ruby": "お<ruby>店<rt>みせ</rt></ruby>ではご<ruby>飯<rt>はん</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>みることができて、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが<span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味を<rt>あじを</rt></ruby></span><ruby>比べ<rt>くらべ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米の炊き方を説明する紙も配っています。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>の<span class=\"vw\" data-ja=\"炊き方\" data-reading=\"たきかた\" data-en=\"how to cook rice\"><ruby>炊き<rt>たき</rt></ruby><ruby>方を<rt>かたを</rt></ruby></span><ruby>説明す<rt>せつめいす</rt></ruby>る<ruby>紙<rt>かみ</rt></ruby>も<ruby>配っ<rt>くばっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドイツでは日本の料理が人気ですが、レストランでは安い外国のお米を使うことが多いです。",
+      "ruby": "ドイツでは<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>ですが、レストランでは<ruby>安い<rt>やすい</rt></ruby><span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>のお<ruby>米<rt>こめ</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の1月から8月までに、ドイツに輸出した日本のお米は699トンで、去年より15%増えました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、ドイツに<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>した<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>は699トンで、<ruby>去年<rt>きょねん</rt></ruby>より15%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の人は、「ワインのように、場所によって違う味を知ってほしい」と話しています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、「ワインのように、<ruby>場所<rt>ばしょ</rt></ruby>によって<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span><span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味を<rt>あじを</rt></ruby></span><ruby>知って<rt>しって</rt></ruby>ほしい」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米を売るのは、10月24日までです。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>を<ruby>売る<rt>うる</rt></ruby>のは、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドイツの首都ベルリンに、「カーデーヴェー」という大きなデパートがあります。",
+      "ruby": "ドイツの<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>ベルリンに、「カーデーヴェー」という<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Berlin, the capital of Germany, there is a big department store called KaDeWe."
+    },
+    {
+      "speaker": "vocab",
+      "text": "首都",
+      "ruby": "<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a capital city."
+    },
+    {
+      "speaker": "vocab",
+      "text": "デパート",
+      "ruby": "<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a department store."
+    },
+    {
+      "speaker": "slow",
+      "text": "このデパートで、10月12日から、日本のお米が試しに売られています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>で、10<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>から、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>が<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial, to try\"><ruby>試し<rt>ためし</rt></ruby>に</span><ruby>売ら<rt>うら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since October twelfth, Japanese rice has been sold here as a test."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試しに",
+      "ruby": "<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial, to try\"><ruby>試し<rt>ためし</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means as a trial, to try it out."
+    },
+    {
+      "speaker": "slow",
+      "text": "売っているのは、北海道の「ゆめぴりか」や新潟県の「コシヒカリ」など、6つの種類のお米です。",
+      "ruby": "<ruby>売っ<rt>うっ</rt></ruby>ているのは、<ruby>北海道<rt>ほっかいどう</rt></ruby>の「ゆめぴりか」や<ruby>新潟県<rt>にいがたけん</rt></ruby>の「コシヒカリ」など、6つの<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>のお<ruby>米<rt>こめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "They are selling six kinds of rice, including famous brands from Hokkaido and Niigata."
+    },
+    {
+      "speaker": "vocab",
+      "text": "種類",
+      "ruby": "<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a kind or a type."
+    },
+    {
+      "speaker": "slow",
+      "text": "お米は小さいパックに分けてあって、買いやすくなっています。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>は<ruby>小さい<rt>ちいさい</rt></ruby>パックに<ruby>分け<rt>わけ</rt></ruby>てあって、<ruby>買い<rt>かい</rt></ruby>やすくなっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rice is divided into small packs, so it is easy to buy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "分ける",
+      "ruby": "<span class=\"vw\" data-ja=\"分ける\" data-reading=\"わける\" data-en=\"to divide, to split\"><ruby>分け<rt>わけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to divide or split."
+    },
+    {
+      "speaker": "vocab",
+      "text": "やすい",
+      "ruby": "<span class=\"vw\" data-ja=\"やすい\" data-reading=\"やすい\" data-en=\"easy to ~ (after a verb)\">やすい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Added to a verb, it means easy to do."
+    },
+    {
+      "speaker": "slow",
+      "text": "お店ではご飯を食べてみることができて、家族で来た人たちが味を比べていました。",
+      "ruby": "お<ruby>店<rt>みせ</rt></ruby>ではご<ruby>飯<rt>はん</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>みることができて、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが<span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味を<rt>あじを</rt></ruby></span><ruby>比べ<rt>くらべ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the store, people can try eating the rice, and families compared the taste."
+    },
+    {
+      "speaker": "vocab",
+      "text": "味",
+      "ruby": "<span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味<rt>あじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means taste or flavor."
+    },
+    {
+      "speaker": "vocab",
+      "text": "比べる",
+      "ruby": "<span class=\"vw\" data-ja=\"比べる\" data-reading=\"くらべる\" data-en=\"to compare\"><ruby>比べ<rt>くらべ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to compare."
+    },
+    {
+      "speaker": "slow",
+      "text": "お米の炊き方を説明する紙も配っています。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>の<span class=\"vw\" data-ja=\"炊き方\" data-reading=\"たきかた\" data-en=\"how to cook rice\"><ruby>炊き<rt>たき</rt></ruby><ruby>方を<rt>かたを</rt></ruby></span><ruby>説明す<rt>せつめいす</rt></ruby>る<ruby>紙<rt>かみ</rt></ruby>も<ruby>配っ<rt>くばっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "They also hand out papers that explain how to cook rice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "炊き方",
+      "ruby": "<span class=\"vw\" data-ja=\"炊き方\" data-reading=\"たきかた\" data-en=\"how to cook rice\"><ruby>炊き<rt>たき</rt></ruby><ruby>方<rt>かた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means how to cook rice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "配る",
+      "ruby": "<span class=\"vw\" data-ja=\"配る\" data-reading=\"くばる\" data-en=\"to hand out\"><ruby>配る<rt>くばる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hand out."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドイツでは日本の料理が人気ですが、レストランでは安い外国のお米を使うことが多いです。",
+      "ruby": "ドイツでは<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>ですが、レストランでは<ruby>安い<rt>やすい</rt></ruby><span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>のお<ruby>米<rt>こめ</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japanese food is popular in Germany, but restaurants often use cheap foreign rice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popular, or popularity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "外国",
+      "ruby": "<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a foreign country."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の1月から8月までに、ドイツに輸出した日本のお米は699トンで、去年より15%増えました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、ドイツに<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>した<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>は699トンで、<ruby>去年<rt>きょねん</rt></ruby>より15%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From January to August this year, Japan exported six hundred ninety-nine tons of rice to Germany, fifteen percent more than last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "輸出",
+      "ruby": "<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means export."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の人は、「ワインのように、場所によって違う味を知ってほしい」と話しています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、「ワインのように、<ruby>場所<rt>ばしょ</rt></ruby>によって<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span><span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味を<rt>あじを</rt></ruby></span><ruby>知って<rt>しって</rt></ruby>ほしい」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "A Japanese official said: like wine, we want people to know the taste is different depending on the place."
+    },
+    {
+      "speaker": "vocab",
+      "text": "違う",
+      "ruby": "<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means different."
+    },
+    {
+      "speaker": "slow",
+      "text": "お米を売るのは、10月24日までです。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>を<ruby>売る<rt>うる</rt></ruby>のは、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rice will be sold until October twenty-fourth."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドイツの首都ベルリンに、「カーデーヴェー」という大きなデパートがあります。",
+      "ruby": "ドイツの<span class=\"vw\" data-ja=\"首都\" data-reading=\"しゅと\" data-en=\"capital city\"><ruby>首都<rt>しゅと</rt></ruby></span>ベルリンに、「カーデーヴェー」という<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "このデパートで、10月12日から、日本のお米が試しに売られています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>で、10<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>から、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>が<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial, to try\"><ruby>試し<rt>ためし</rt></ruby>に</span><ruby>売ら<rt>うら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "売っているのは、北海道の「ゆめぴりか」や新潟県の「コシヒカリ」など、6つの種類のお米です。",
+      "ruby": "<ruby>売っ<rt>うっ</rt></ruby>ているのは、<ruby>北海道<rt>ほっかいどう</rt></ruby>の「ゆめぴりか」や<ruby>新潟県<rt>にいがたけん</rt></ruby>の「コシヒカリ」など、6つの<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"kind, type\"><ruby>種類<rt>しゅるい</rt></ruby></span>のお<ruby>米<rt>こめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米は小さいパックに分けてあって、買いやすくなっています。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>は<ruby>小さい<rt>ちいさい</rt></ruby>パックに<ruby>分け<rt>わけ</rt></ruby>てあって、<ruby>買い<rt>かい</rt></ruby>やすくなっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "お店ではご飯を食べてみることができて、家族で来た人たちが味を比べていました。",
+      "ruby": "お<ruby>店<rt>みせ</rt></ruby>ではご<ruby>飯<rt>はん</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>みることができて、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが<span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味を<rt>あじを</rt></ruby></span><ruby>比べ<rt>くらべ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米の炊き方を説明する紙も配っています。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>の<span class=\"vw\" data-ja=\"炊き方\" data-reading=\"たきかた\" data-en=\"how to cook rice\"><ruby>炊き<rt>たき</rt></ruby><ruby>方を<rt>かたを</rt></ruby></span><ruby>説明す<rt>せつめいす</rt></ruby>る<ruby>紙<rt>かみ</rt></ruby>も<ruby>配っ<rt>くばっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドイツでは日本の料理が人気ですが、レストランでは安い外国のお米を使うことが多いです。",
+      "ruby": "ドイツでは<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>ですが、レストランでは<ruby>安い<rt>やすい</rt></ruby><span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>のお<ruby>米<rt>こめ</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の1月から8月までに、ドイツに輸出した日本のお米は699トンで、去年より15%増えました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>までに、ドイツに<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>した<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>は699トンで、<ruby>去年<rt>きょねん</rt></ruby>より15%<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の人は、「ワインのように、場所によって違う味を知ってほしい」と話しています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、「ワインのように、<ruby>場所<rt>ばしょ</rt></ruby>によって<span class=\"vw\" data-ja=\"違う\" data-reading=\"ちがう\" data-en=\"to be different\"><ruby>違う<rt>ちがう</rt></ruby></span><span class=\"vw\" data-ja=\"味\" data-reading=\"あじ\" data-en=\"taste, flavor\"><ruby>味を<rt>あじを</rt></ruby></span><ruby>知って<rt>しって</rt></ruby>ほしい」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米を売るのは、10月24日までです。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>を<ruby>売る<rt>うる</rt></ruby>のは、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "デパートでは、何種類のお米を売っていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>では、<ruby>何種類<rt>なんしゅるい</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Six kinds."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドイツのレストランでは、どんなお米を使うことが多いですか。",
+      "ruby": "ドイツのレストランでは、どんなお<ruby>米<rt>こめ</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Cheap foreign rice."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドイツへのお米の輸出は、去年より何パーセント増えましたか。",
+      "ruby": "ドイツへのお<ruby>米<rt>こめ</rt></ruby>の<span class=\"vw\" data-ja=\"輸出\" data-reading=\"ゆしゅつ\" data-en=\"export\"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>何<rt>なん</rt></ruby>パーセント<ruby>増え<rt>ふえ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fifteen percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "お米を売るのは、いつまでですか。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>を<ruby>売る<rt>うる</rt></ruby>のは、いつまでですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until October twenty-fourth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
