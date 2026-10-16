@@ -1,0 +1,589 @@
+{
+  "episode": 227,
+  "title": "「うるう秒」、来年5月でなくなることに",
+  "date": "2026-10-17",
+  "source": "NHK / 時事通信 / ITmedia NEWS",
+  "level": "N5-N4",
+  "contentVersion": "2026101701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "時計",
+      "reading": "とけい",
+      "en": "clock, watch",
+      "zh": "钟表"
+    },
+    {
+      "ja": "合わせる",
+      "reading": "あわせる",
+      "en": "to match, to set",
+      "zh": "对准，使一致"
+    },
+    {
+      "ja": "会議",
+      "reading": "かいぎ",
+      "en": "meeting, conference",
+      "zh": "会议"
+    },
+    {
+      "ja": "決める",
+      "reading": "きめる",
+      "en": "to decide",
+      "zh": "决定"
+    },
+    {
+      "ja": "来年",
+      "reading": "らいねん",
+      "en": "next year",
+      "zh": "明年"
+    },
+    {
+      "ja": "地球",
+      "reading": "ちきゅう",
+      "en": "the Earth",
+      "zh": "地球"
+    },
+    {
+      "ja": "回る",
+      "reading": "まわる",
+      "en": "to turn, to spin",
+      "zh": "旋转，转动"
+    },
+    {
+      "ja": "速さ",
+      "reading": "はやさ",
+      "en": "speed",
+      "zh": "速度"
+    },
+    {
+      "ja": "ずれる",
+      "reading": "ずれる",
+      "en": "to drift, to be out of line",
+      "zh": "错开，偏差"
+    },
+    {
+      "ja": "直す",
+      "reading": "なおす",
+      "en": "to fix, to correct",
+      "zh": "修正，改正"
+    },
+    {
+      "ja": "足す",
+      "reading": "たす",
+      "en": "to add",
+      "zh": "加，添加"
+    },
+    {
+      "ja": "急に",
+      "reading": "きゅうに",
+      "en": "suddenly",
+      "zh": "突然"
+    },
+    {
+      "ja": "困る",
+      "reading": "こまる",
+      "en": "to be in trouble",
+      "zh": "为难，困扰"
+    },
+    {
+      "ja": "問題",
+      "reading": "もんだい",
+      "en": "problem",
+      "zh": "问题"
+    },
+    {
+      "ja": "必要",
+      "reading": "ひつよう",
+      "en": "need, necessary",
+      "zh": "必要"
+    },
+    {
+      "ja": "考える",
+      "reading": "かんがえる",
+      "en": "to think",
+      "zh": "想，认为"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……（非说话人自己决定）",
+      "formation": "verb dictionary/ない-form + ことになる",
+      "example": "時計の時間を合わせるための「うるう秒」が、なくなることになりました。",
+      "translation": "The leap second, used to keep clocks matched, is going to disappear.",
+      "note": "Used when a decision is made by others or by circumstances, not by the speaker.",
+      "noteZh": "表示由他人或客观情况做出的决定，而不是说话人自己的决定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~",
+      "meaningZh": "为了……",
+      "formation": "verb dictionary form + ために",
+      "example": "このずれを直すために、1972年から27回、時計に1秒を足してきました。",
+      "translation": "To fix this gap, one second has been added to clocks twenty-seven times since 1972.",
+      "note": "Shows the purpose of an action.",
+      "noteZh": "表示行为的目的。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ために"
+    },
+    {
+      "pattern": "〜なくてもいい",
+      "meaning": "don't have to ~",
+      "meaningZh": "不……也可以，不必……",
+      "formation": "verb ない-form (drop い) + くてもいい",
+      "example": "これからは、ずれが1時間になるまで、時計を直さなくてもよくなります。",
+      "translation": "From now on, clocks will not need fixing until the gap reaches one hour.",
+      "note": "よくなります means 'it becomes okay'—a new situation where something is no longer needed.",
+      "noteZh": "よくなります表示“变得可以……”，即出现了不再需要做某事的新情况。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくてもいい"
+    }
+  ],
+  "practiceZh": [
+    "時計の時間を合わせるための「うるう秒」が、なくなることになりました。\n时钟为了对时而使用的“闰秒”将被取消。\n時計 = clock, watch / 合わせる = to match, to set",
+    "10月15日、フランスで大きな会議があって、世界の国が決めました。\n10月15日，在法国召开了大型会议，世界各国做出了决定。\n会議 = meeting, conference / 決める = to decide",
+    "うるう秒は、来年の5月20日でなくなります。\n闰秒将在明年5月20日取消。\n来年 = next year",
+    "地球が回る速さは、少しずつ変わることがあります。\n地球自转的速度有时会一点点发生变化。\n地球 = the Earth / 回る = to turn, to spin / 速さ = speed",
+    "そのため、時計の時間と地球の時間が、少しずれてしまいます。\n因此，时钟的时间和地球的时间会出现一点偏差。\nずれる = to drift, to be out of line",
+    "このずれを直すために、1972年から27回、時計に1秒を足してきました。\n为了修正这个偏差，从1972年起，已经给时钟加了27次1秒。\n直す = to fix, to correct / 足す = to add",
+    "でも、急に1秒を足すと、コンピューターや通信のシステムが困ることがあります。\n但是，突然加上1秒，有时会给电脑和通信系统带来麻烦。\n急に = suddenly / 困る = to be in trouble",
+    "2012年には、日本でもインターネットのサービスに問題が出ました。\n2012年，日本的网络服务也出现过问题。\n問題 = problem",
+    "これからは、ずれが1時間になるまで、時計を直さなくてもよくなります。\n今后，在偏差达到1小时之前，都不用调整时钟了。",
+    "そのため、これから数百年は、時計を直す必要がないと考えられています。\n因此，人们认为今后几百年都不需要调整时钟。\n必要 = need, necessary / 考える = to think"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October seventeenth. The world has decided to stop adding the extra second called a leap second to our clocks. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "時計の時間を合わせるための「うるう秒」が、なくなることになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>を<span class=\"vw\" data-ja=\"合わせる\" data-reading=\"あわせる\" data-en=\"to match, to set\"><ruby>合わ<rt>あわ</rt></ruby>せるための</span>「うるう<ruby>秒<rt>びょう</rt></ruby>」が、なくなることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月15日、フランスで大きな会議があって、世界の国が決めました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、フランスで<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"会議\" data-reading=\"かいぎ\" data-en=\"meeting, conference\"><ruby>会議<rt>かいぎ</rt></ruby></span>があって、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "うるう秒は、来年の5月20日でなくなります。",
+      "ruby": "うるう<ruby>秒<rt>びょう</rt></ruby>は、<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の5<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>でなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "地球が回る速さは、少しずつ変わることがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>が<span class=\"vw\" data-ja=\"回る\" data-reading=\"まわる\" data-en=\"to turn, to spin\"><ruby>回る<rt>まわる</rt></ruby></span><span class=\"vw\" data-ja=\"速さ\" data-reading=\"はやさ\" data-en=\"speed\"><ruby>速さ<rt>はやさ</rt></ruby></span>は、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>変わ<rt>かわ</rt></ruby>ることがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、時計の時間と地球の時間が、少しずれてしまいます。",
+      "ruby": "そのため、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>と<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が、<ruby>少し<rt>すこし</rt></ruby>ずれてしまいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "このずれを直すために、1972年から27回、時計に1秒を足してきました。",
+      "ruby": "このずれを<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span>ために、1972<ruby>年<rt>ねん</rt></ruby>から27<ruby>回<rt>かい</rt></ruby>、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>に1<ruby>秒<rt>びょう</rt></ruby>を<ruby>足し<rt>たし</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、急に1秒を足すと、コンピューターや通信のシステムが困ることがあります。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>1<ruby>秒<rt>びょう</rt></ruby>を<span class=\"vw\" data-ja=\"足す\" data-reading=\"たす\" data-en=\"to add\"><ruby>足す<rt>たす</rt></ruby></span>と、コンピューターや<ruby>通信<rt>つうしん</rt></ruby>のシステムが<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span>ことがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "2012年には、日本でもインターネットのサービスに問題が出ました。",
+      "ruby": "2012<ruby>年<rt>ねん</rt></ruby>には、<ruby>日本<rt>にほん</rt></ruby>でもインターネットのサービスに<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem\"><ruby>問題<rt>もんだい</rt></ruby></span>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、ずれが1時間になるまで、時計を直さなくてもよくなります。",
+      "ruby": "これからは、ずれが1<ruby>時間<rt>じかん</rt></ruby>になるまで、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<ruby>直さ<rt>なおさ</rt></ruby>なくてもよくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、これから数百年は、時計を直す必要がないと考えられています。",
+      "ruby": "そのため、これから<ruby>数百年<rt>すうひゃくねん</rt></ruby>は、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span><span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"need, necessary\"><ruby>必要<rt>ひつよう</rt></ruby></span>がないと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "時計の時間を合わせるための「うるう秒」が、なくなることになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>を<span class=\"vw\" data-ja=\"合わせる\" data-reading=\"あわせる\" data-en=\"to match, to set\"><ruby>合わ<rt>あわ</rt></ruby>せるための</span>「うるう<ruby>秒<rt>びょう</rt></ruby>」が、なくなることになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The leap second, used to keep clocks matched with time, is going to disappear."
+    },
+    {
+      "speaker": "vocab",
+      "text": "時計",
+      "ruby": "<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a clock or a watch."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合わせる",
+      "ruby": "<span class=\"vw\" data-ja=\"合わせる\" data-reading=\"あわせる\" data-en=\"to match, to set\"><ruby>合わ<rt>あわ</rt></ruby>せる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to match, or to set to the same."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月15日、フランスで大きな会議があって、世界の国が決めました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、フランスで<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"会議\" data-reading=\"かいぎ\" data-en=\"meeting, conference\"><ruby>会議<rt>かいぎ</rt></ruby></span>があって、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October fifteenth, there was a big meeting in France, and countries around the world decided this."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会議",
+      "ruby": "<span class=\"vw\" data-ja=\"会議\" data-reading=\"かいぎ\" data-en=\"meeting, conference\"><ruby>会議<rt>かいぎ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a meeting or a conference."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決める",
+      "ruby": "<span class=\"vw\" data-ja=\"決める\" data-reading=\"きめる\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decide."
+    },
+    {
+      "speaker": "slow",
+      "text": "うるう秒は、来年の5月20日でなくなります。",
+      "ruby": "うるう<ruby>秒<rt>びょう</rt></ruby>は、<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の5<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>でなくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Leap seconds will end on May twentieth next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "来年",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "地球が回る速さは、少しずつ変わることがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>が<span class=\"vw\" data-ja=\"回る\" data-reading=\"まわる\" data-en=\"to turn, to spin\"><ruby>回る<rt>まわる</rt></ruby></span><span class=\"vw\" data-ja=\"速さ\" data-reading=\"はやさ\" data-en=\"speed\"><ruby>速さ<rt>はやさ</rt></ruby></span>は、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>変わ<rt>かわ</rt></ruby>ることがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The speed at which the Earth turns can change little by little."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地球",
+      "ruby": "<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the Earth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "回る",
+      "ruby": "<span class=\"vw\" data-ja=\"回る\" data-reading=\"まわる\" data-en=\"to turn, to spin\"><ruby>回る<rt>まわる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to turn or to spin."
+    },
+    {
+      "speaker": "vocab",
+      "text": "速さ",
+      "ruby": "<span class=\"vw\" data-ja=\"速さ\" data-reading=\"はやさ\" data-en=\"speed\"><ruby>速さ<rt>はやさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means speed."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのため、時計の時間と地球の時間が、少しずれてしまいます。",
+      "ruby": "そのため、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>と<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が、<ruby>少し<rt>すこし</rt></ruby>ずれてしまいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of that, clock time and Earth time drift apart a little."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ずれる",
+      "ruby": "<span class=\"vw\" data-ja=\"ずれる\" data-reading=\"ずれる\" data-en=\"to drift, to be out of line\">ずれる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to drift or to be out of line."
+    },
+    {
+      "speaker": "slow",
+      "text": "このずれを直すために、1972年から27回、時計に1秒を足してきました。",
+      "ruby": "このずれを<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span>ために、1972<ruby>年<rt>ねん</rt></ruby>から27<ruby>回<rt>かい</rt></ruby>、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>に1<ruby>秒<rt>びょう</rt></ruby>を<ruby>足し<rt>たし</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "To fix this gap, one second has been added to clocks twenty-seven times since nineteen seventy-two."
+    },
+    {
+      "speaker": "vocab",
+      "text": "直す",
+      "ruby": "<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fix or correct."
+    },
+    {
+      "speaker": "vocab",
+      "text": "足す",
+      "ruby": "<span class=\"vw\" data-ja=\"足す\" data-reading=\"たす\" data-en=\"to add\"><ruby>足す<rt>たす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to add."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、急に1秒を足すと、コンピューターや通信のシステムが困ることがあります。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>1<ruby>秒<rt>びょう</rt></ruby>を<span class=\"vw\" data-ja=\"足す\" data-reading=\"たす\" data-en=\"to add\"><ruby>足す<rt>たす</rt></ruby></span>と、コンピューターや<ruby>通信<rt>つうしん</rt></ruby>のシステムが<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span>ことがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "But suddenly adding one second can cause trouble for computer and communication systems."
+    },
+    {
+      "speaker": "vocab",
+      "text": "急に",
+      "ruby": "<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suddenly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "困る",
+      "ruby": "<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be in trouble."
+    },
+    {
+      "speaker": "slow",
+      "text": "2012年には、日本でもインターネットのサービスに問題が出ました。",
+      "ruby": "2012<ruby>年<rt>ねん</rt></ruby>には、<ruby>日本<rt>にほん</rt></ruby>でもインターネットのサービスに<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem\"><ruby>問題<rt>もんだい</rt></ruby></span>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "In twenty twelve, internet services in Japan also had problems."
+    },
+    {
+      "speaker": "vocab",
+      "text": "問題",
+      "ruby": "<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem\"><ruby>問題<rt>もんだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a problem."
+    },
+    {
+      "speaker": "slow",
+      "text": "これからは、ずれが1時間になるまで、時計を直さなくてもよくなります。",
+      "ruby": "これからは、ずれが1<ruby>時間<rt>じかん</rt></ruby>になるまで、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<ruby>直さ<rt>なおさ</rt></ruby>なくてもよくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "From now on, clocks will not need fixing until the gap reaches one hour."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのため、これから数百年は、時計を直す必要がないと考えられています。",
+      "ruby": "そのため、これから<ruby>数百年<rt>すうひゃくねん</rt></ruby>は、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span><span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"need, necessary\"><ruby>必要<rt>ひつよう</rt></ruby></span>がないと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "So it is thought that clocks will not need fixing for the next several hundred years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "必要",
+      "ruby": "<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"need, necessary\"><ruby>必要<rt>ひつよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means need, or necessary."
+    },
+    {
+      "speaker": "vocab",
+      "text": "考える",
+      "ruby": "<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think\"><ruby>考え<rt>かんがえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to think."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "時計の時間を合わせるための「うるう秒」が、なくなることになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>を<span class=\"vw\" data-ja=\"合わせる\" data-reading=\"あわせる\" data-en=\"to match, to set\"><ruby>合わ<rt>あわ</rt></ruby>せるための</span>「うるう<ruby>秒<rt>びょう</rt></ruby>」が、なくなることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月15日、フランスで大きな会議があって、世界の国が決めました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>、フランスで<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"会議\" data-reading=\"かいぎ\" data-en=\"meeting, conference\"><ruby>会議<rt>かいぎ</rt></ruby></span>があって、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "うるう秒は、来年の5月20日でなくなります。",
+      "ruby": "うるう<ruby>秒<rt>びょう</rt></ruby>は、<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の5<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>でなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "地球が回る速さは、少しずつ変わることがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>が<span class=\"vw\" data-ja=\"回る\" data-reading=\"まわる\" data-en=\"to turn, to spin\"><ruby>回る<rt>まわる</rt></ruby></span><span class=\"vw\" data-ja=\"速さ\" data-reading=\"はやさ\" data-en=\"speed\"><ruby>速さ<rt>はやさ</rt></ruby></span>は、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>変わ<rt>かわ</rt></ruby>ることがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、時計の時間と地球の時間が、少しずれてしまいます。",
+      "ruby": "そのため、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>と<span class=\"vw\" data-ja=\"地球\" data-reading=\"ちきゅう\" data-en=\"the Earth\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が、<ruby>少し<rt>すこし</rt></ruby>ずれてしまいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "このずれを直すために、1972年から27回、時計に1秒を足してきました。",
+      "ruby": "このずれを<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span>ために、1972<ruby>年<rt>ねん</rt></ruby>から27<ruby>回<rt>かい</rt></ruby>、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>に1<ruby>秒<rt>びょう</rt></ruby>を<ruby>足し<rt>たし</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、急に1秒を足すと、コンピューターや通信のシステムが困ることがあります。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>1<ruby>秒<rt>びょう</rt></ruby>を<span class=\"vw\" data-ja=\"足す\" data-reading=\"たす\" data-en=\"to add\"><ruby>足す<rt>たす</rt></ruby></span>と、コンピューターや<ruby>通信<rt>つうしん</rt></ruby>のシステムが<span class=\"vw\" data-ja=\"困る\" data-reading=\"こまる\" data-en=\"to be in trouble\"><ruby>困る<rt>こまる</rt></ruby></span>ことがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "2012年には、日本でもインターネットのサービスに問題が出ました。",
+      "ruby": "2012<ruby>年<rt>ねん</rt></ruby>には、<ruby>日本<rt>にほん</rt></ruby>でもインターネットのサービスに<span class=\"vw\" data-ja=\"問題\" data-reading=\"もんだい\" data-en=\"problem\"><ruby>問題<rt>もんだい</rt></ruby></span>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからは、ずれが1時間になるまで、時計を直さなくてもよくなります。",
+      "ruby": "これからは、ずれが1<ruby>時間<rt>じかん</rt></ruby>になるまで、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<ruby>直さ<rt>なおさ</rt></ruby>なくてもよくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、これから数百年は、時計を直す必要がないと考えられています。",
+      "ruby": "そのため、これから<ruby>数百年<rt>すうひゃくねん</rt></ruby>は、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<span class=\"vw\" data-ja=\"直す\" data-reading=\"なおす\" data-en=\"to fix, to correct\"><ruby>直す<rt>なおす</rt></ruby></span><span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"need, necessary\"><ruby>必要<rt>ひつよう</rt></ruby></span>がないと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "うるう秒は、いつなくなりますか。",
+      "ruby": "うるう<ruby>秒<rt>びょう</rt></ruby>は、いつなくなりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On May twentieth next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでに、時計に何回1秒を足しましたか。",
+      "ruby": "これまでに、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>に<ruby>何回<rt>なんかい</rt></ruby>1<ruby>秒<rt>びょう</rt></ruby>を<ruby>足し<rt>たし</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twenty-seven times."
+    },
+    {
+      "speaker": "slow",
+      "text": "急に1秒を足すと、何が困りますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>1<ruby>秒<rt>びょう</rt></ruby>を<span class=\"vw\" data-ja=\"足す\" data-reading=\"たす\" data-en=\"to add\"><ruby>足す<rt>たす</rt></ruby></span>と、<ruby>何<rt>なに</rt></ruby>が<ruby>困り<rt>こまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Computer and communication systems."
+    },
+    {
+      "speaker": "slow",
+      "text": "これからは、ずれが何時間になるまで、時計を直さなくてもいいですか。",
+      "ruby": "これからは、ずれが<ruby>何時間<rt>なんじかん</rt></ruby>になるまで、<span class=\"vw\" data-ja=\"時計\" data-reading=\"とけい\" data-en=\"clock, watch\"><ruby>時計<rt>とけい</rt></ruby></span>を<ruby>直さ<rt>なおさ</rt></ruby>なくてもいいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until the gap reaches one hour."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
