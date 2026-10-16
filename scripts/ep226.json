@@ -1,0 +1,696 @@
+{
+  "episode": 226,
+  "title": "バーガーキングのアプリ、会員情報1118万件が漏えい",
+  "date": "2026-10-16",
+  "source": "ITmedia / Impress Watch / テレビ朝日 / NHK",
+  "level": "N4-N3",
+  "contentVersion": "2026101601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "経営する",
+      "reading": "けいえいする",
+      "en": "to run (a business)",
+      "zh": "经营"
+    },
+    {
+      "ja": "公式",
+      "reading": "こうしき",
+      "en": "official",
+      "zh": "官方，正式"
+    },
+    {
+      "ja": "会員",
+      "reading": "かいいん",
+      "en": "member",
+      "zh": "会员"
+    },
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak",
+      "zh": "泄露，漏出"
+    },
+    {
+      "ja": "含む",
+      "reading": "ふくむ",
+      "en": "to include",
+      "zh": "包含"
+    },
+    {
+      "ja": "管理する",
+      "reading": "かんりする",
+      "en": "to manage",
+      "zh": "管理"
+    },
+    {
+      "ja": "不正",
+      "reading": "ふせい",
+      "en": "illegal, improper",
+      "zh": "不正当，非法"
+    },
+    {
+      "ja": "止める",
+      "reading": "とめる",
+      "en": "to stop",
+      "zh": "停止，阻止"
+    },
+    {
+      "ja": "保存する",
+      "reading": "ほぞんする",
+      "en": "to save, to store",
+      "zh": "保存"
+    },
+    {
+      "ja": "確認する",
+      "reading": "かくにんする",
+      "en": "to confirm",
+      "zh": "确认"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage, harm",
+      "zh": "损害，受害"
+    },
+    {
+      "ja": "報告する",
+      "reading": "ほうこくする",
+      "en": "to report",
+      "zh": "报告"
+    },
+    {
+      "ja": "原因",
+      "reading": "げんいん",
+      "en": "cause",
+      "zh": "原因"
+    },
+    {
+      "ja": "怪しい",
+      "reading": "あやしい",
+      "en": "suspicious",
+      "zh": "可疑的"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to appeal",
+      "zh": "呼吁"
+    },
+    {
+      "ja": "順番に",
+      "reading": "じゅんばんに",
+      "en": "in order, one by one",
+      "zh": "依次，按顺序"
+    },
+    {
+      "ja": "相次ぐ",
+      "reading": "あいつぐ",
+      "en": "to happen one after another",
+      "zh": "接连发生"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ (often regret)",
+      "meaningZh": "……了（多表示遗憾、无法挽回）",
+      "formation": "verb て-form + しまう",
+      "example": "会社の公式アプリの会員の情報が、外に漏れてしまったということです。",
+      "translation": "Information about members of its official app has leaked out.",
+      "note": "Shows something happened completely, often with regret.",
+      "noteZh": "表示动作完成，常带有遗憾或不希望发生的语气。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てしまう"
+    },
+    {
+      "pattern": "〜ということだ",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说……",
+      "formation": "plain form + ということだ",
+      "example": "会員には、これからメールで順番に知らせるということです。",
+      "translation": "Members will be notified by email one after another, it says.",
+      "note": "Common in news to report information from another source.",
+      "noteZh": "新闻中常用，表示转述从别处得到的信息。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ということだ"
+    },
+    {
+      "pattern": "〜から〜にかけて",
+      "meaning": "from ~ through ~",
+      "meaningZh": "从……到……（一段时间/范围）",
+      "formation": "noun + から + noun + にかけて",
+      "example": "会社によると、10月2日から7日にかけて、誰かが会員の情報を管理するシステムに不正にアクセスしました。",
+      "translation": "From October second to seventh, someone illegally accessed the system.",
+      "note": "Describes a span of time or area, less exact than から〜まで.",
+      "noteZh": "表示时间或范围的跨度，比から〜まで更笼统。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#にかけて"
+    },
+    {
+      "pattern": "〜よう（に）呼びかける",
+      "meaning": "to urge someone to ~",
+      "meaningZh": "呼吁（别人）……",
+      "formation": "verb dictionary form + よう（に）+ 呼びかける／言う",
+      "example": "そして、バーガーキングのふりをした怪しいメールや電話に気をつけるよう、呼びかけています。",
+      "translation": "It is warning people to watch out for suspicious emails and calls.",
+      "note": "Reports a request or appeal made to others.",
+      "noteZh": "用于转述对他人的请求或呼吁。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    }
+  ],
+  "practiceZh": [
+    "ハンバーガーの店「バーガーキング」を日本で経営する会社が、10月15日に大きな問題を発表しました。\n“汉堡王”在日本的运营公司于10月15日公布了一个重大问题。\n経営する = to run (a business)",
+    "会社の公式アプリの会員の情報が、外に漏れてしまったということです。\n该公司官方应用的会员信息泄露了。\n公式 = official / 会員 = member / 漏れる = to leak",
+    "漏れた情報は、およそ1118万件です。\n泄露的信息约有1118万条。",
+    "会員の名前やメールアドレス、電話番号、生年月日、性別などが含まれていました。\n其中包括会员的姓名、电子邮箱、电话号码、出生日期、性别等。\n含む = to include",
+    "会社によると、10月2日から7日にかけて、誰かが会員の情報を管理するシステムに不正にアクセスしました。\n据公司称，10月2日至7日期间，有人非法访问了管理会员信息的系统。\n管理する = to manage / 不正 = illegal, improper",
+    "情報が漏れたことは、10月13日にわかりました。\n信息泄露是在10月13日发现的。",
+    "会社はすぐに、そのアクセスを止めました。\n公司立即阻断了该访问。\n止める = to stop",
+    "アプリではクレジットカードの番号を保存していなかったため、カードの番号は漏れていないということです。\n由于应用没有保存信用卡号码，所以卡号没有泄露。\n保存する = to save, to store",
+    "ログインのパスワードが漏れたことも、確認されていません。\n也没有确认到登录密码泄露。\n確認する = to confirm",
+    "今のところ、漏れた情報が悪いことに使われたという被害は見つかっていません。\n目前还没有发现泄露的信息被滥用的损失。\n被害 = damage, harm",
+    "会社は国の個人情報保護委員会に報告して、専門の会社と一緒に原因を調べています。\n公司已向国家个人信息保护委员会报告，并正和专业公司一起调查原因。\n報告する = to report / 原因 = cause",
+    "そして、バーガーキングのふりをした怪しいメールや電話に気をつけるよう、呼びかけています。\n同时，公司呼吁大家注意冒充汉堡王的可疑邮件和电话。\n怪しい = suspicious / 呼びかける = to call on, to appeal",
+    "会員には、これからメールで順番に知らせるということです。\n据说今后会通过邮件依次通知会员。\n順番に = in order, one by one",
+    "日本では最近、会社やお店の情報をねらった不正アクセスが相次いでいます。\n最近在日本，针对企业和商店信息的非法访问接连发生。\n相次ぐ = to happen one after another"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October sixteenth. Burger King's app in Japan has leaked the data of millions of members. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ハンバーガーの店「バーガーキング」を日本で経営する会社が、10月15日に大きな問題を発表しました。",
+      "ruby": "ハンバーガーの<ruby>店<rt>みせ</rt></ruby>「バーガーキング」を<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"経営する\" data-reading=\"けいえいする\" data-en=\"to run (a business)\"><ruby>経営す<rt>けいえいす</rt></ruby>る</span><ruby>会社<rt>かいしゃ</rt></ruby>が、10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>に<ruby>大き<rt>おおき</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の公式アプリの会員の情報が、外に漏れてしまったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"公式\" data-reading=\"こうしき\" data-en=\"official\"><ruby>公式<rt>こうしき</rt></ruby></span>アプリの<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>が、<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>てしまったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れた情報は、およそ1118万件です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>は、およそ1118<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "会員の名前やメールアドレス、電話番号、生年月日、性別などが含まれていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>やメールアドレス、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>性別<rt>せいべつ</rt></ruby>などが<ruby>含ま<rt>ふくま</rt></ruby>れていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によると、10月2日から7日にかけて、誰かが会員の情報を管理するシステムに不正にアクセスしました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>から<ruby>7日<rt>なのか</rt></ruby>にかけて、<ruby>誰か<rt>だれか</rt></ruby>が<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"管理する\" data-reading=\"かんりする\" data-en=\"to manage\"><ruby>管理<rt>かんり</rt></ruby>する</span>システムに<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>にアクセスしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "情報が漏れたことは、10月13日にわかりました。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たことは、10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>にわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社はすぐに、そのアクセスを止めました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はすぐに、そのアクセスを<ruby>止め<rt>とめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アプリではクレジットカードの番号を保存していなかったため、カードの番号は漏れていないということです。",
+      "ruby": "アプリではクレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>保存<rt>ほぞん</rt></ruby>していなかったため、カードの<ruby>番号<rt>ばんごう</rt></ruby>は<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ログインのパスワードが漏れたことも、確認されていません。",
+      "ruby": "ログインのパスワードが<ruby>漏れ<rt>もれ</rt></ruby>たことも、<ruby>確認さ<rt>かくにんさ</rt></ruby>れていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、漏れた情報が悪いことに使われたという被害は見つかっていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ことに<ruby>使わ<rt>つかわ</rt></ruby>れたという<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かっていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は国の個人情報保護委員会に報告して、専門の会社と一緒に原因を調べています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>国<rt>くに</rt></ruby>の<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>して、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、バーガーキングのふりをした怪しいメールや電話に気をつけるよう、呼びかけています。",
+      "ruby": "そして、バーガーキングのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールや<ruby>電話<rt>でんわ</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう、<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会員には、これからメールで順番に知らせるということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>には、これからメールで<span class=\"vw\" data-ja=\"順番に\" data-reading=\"じゅんばんに\" data-en=\"in order, one by one\"><ruby>順番<rt>じゅんばん</rt></ruby>に</span><ruby>知らせ<rt>しらせ</rt></ruby>るということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では最近、会社やお店の情報をねらった不正アクセスが相次いでいます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>をねらった<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>アクセスが<ruby>相次<rt>あいつぎ</rt></ruby>いでいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "ハンバーガーの店「バーガーキング」を日本で経営する会社が、10月15日に大きな問題を発表しました。",
+      "ruby": "ハンバーガーの<ruby>店<rt>みせ</rt></ruby>「バーガーキング」を<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"経営する\" data-reading=\"けいえいする\" data-en=\"to run (a business)\"><ruby>経営す<rt>けいえいす</rt></ruby>る</span><ruby>会社<rt>かいしゃ</rt></ruby>が、10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>に<ruby>大き<rt>おおき</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company that runs Burger King in Japan announced a big problem on October fifteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "経営する",
+      "ruby": "<span class=\"vw\" data-ja=\"経営する\" data-reading=\"けいえいする\" data-en=\"to run (a business)\"><ruby>経営す<rt>けいえいす</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to run or manage a business."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社の公式アプリの会員の情報が、外に漏れてしまったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"公式\" data-reading=\"こうしき\" data-en=\"official\"><ruby>公式<rt>こうしき</rt></ruby></span>アプリの<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>が、<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>てしまったということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Information about members of its official app has leaked out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "公式",
+      "ruby": "<span class=\"vw\" data-ja=\"公式\" data-reading=\"こうしき\" data-en=\"official\"><ruby>公式<rt>こうしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means official."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会員",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a member."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漏れる",
+      "ruby": "<span class=\"vw\" data-ja=\"漏れる\" data-reading=\"もれる\" data-en=\"to leak\"><ruby>漏れ<rt>もれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leak."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れた情報は、およそ1118万件です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>は、およそ1118<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eleven point one eight million records were leaked."
+    },
+    {
+      "speaker": "slow",
+      "text": "会員の名前やメールアドレス、電話番号、生年月日、性別などが含まれていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>やメールアドレス、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>性別<rt>せいべつ</rt></ruby>などが<ruby>含ま<rt>ふくま</rt></ruby>れていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "They included names, email addresses, phone numbers, birthdays, and gender."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含む",
+      "ruby": "<span class=\"vw\" data-ja=\"含む\" data-reading=\"ふくむ\" data-en=\"to include\"><ruby>含む<rt>ふくむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to include."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社によると、10月2日から7日にかけて、誰かが会員の情報を管理するシステムに不正にアクセスしました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>から<ruby>7日<rt>なのか</rt></ruby>にかけて、<ruby>誰か<rt>だれか</rt></ruby>が<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"管理する\" data-reading=\"かんりする\" data-en=\"to manage\"><ruby>管理<rt>かんり</rt></ruby>する</span>システムに<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>にアクセスしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From October second to seventh, someone illegally accessed the system that manages member data."
+    },
+    {
+      "speaker": "vocab",
+      "text": "管理する",
+      "ruby": "<span class=\"vw\" data-ja=\"管理する\" data-reading=\"かんりする\" data-en=\"to manage\"><ruby>管理<rt>かんり</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to manage."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不正",
+      "ruby": "<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means illegal or improper."
+    },
+    {
+      "speaker": "slow",
+      "text": "情報が漏れたことは、10月13日にわかりました。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たことは、10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>にわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The leak was discovered on October thirteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社はすぐに、そのアクセスを止めました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はすぐに、そのアクセスを<ruby>止め<rt>とめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company immediately blocked that access."
+    },
+    {
+      "speaker": "vocab",
+      "text": "止める",
+      "ruby": "<span class=\"vw\" data-ja=\"止める\" data-reading=\"とめる\" data-en=\"to stop\"><ruby>止める<rt>やめる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to stop."
+    },
+    {
+      "speaker": "slow",
+      "text": "アプリではクレジットカードの番号を保存していなかったため、カードの番号は漏れていないということです。",
+      "ruby": "アプリではクレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>保存<rt>ほぞん</rt></ruby>していなかったため、カードの<ruby>番号<rt>ばんごう</rt></ruby>は<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The app did not store credit card numbers, so card numbers were not leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "保存する",
+      "ruby": "<span class=\"vw\" data-ja=\"保存する\" data-reading=\"ほぞんする\" data-en=\"to save, to store\"><ruby>保存<rt>ほぞん</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to save or store."
+    },
+    {
+      "speaker": "slow",
+      "text": "ログインのパスワードが漏れたことも、確認されていません。",
+      "ruby": "ログインのパスワードが<ruby>漏れ<rt>もれ</rt></ruby>たことも、<ruby>確認さ<rt>かくにんさ</rt></ruby>れていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "There is also no sign that login passwords were leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "確認する",
+      "ruby": "<span class=\"vw\" data-ja=\"確認する\" data-reading=\"かくにんする\" data-en=\"to confirm\"><ruby>確認す<rt>かくにんす</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to confirm."
+    },
+    {
+      "speaker": "slow",
+      "text": "今のところ、漏れた情報が悪いことに使われたという被害は見つかっていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ことに<ruby>使わ<rt>つかわ</rt></ruby>れたという<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かっていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, no damage from misuse of the data has been found."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被害",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means damage or harm."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は国の個人情報保護委員会に報告して、専門の会社と一緒に原因を調べています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>国<rt>くに</rt></ruby>の<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>して、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company reported to the national privacy commission and is investigating the cause with experts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "報告する",
+      "ruby": "<span class=\"vw\" data-ja=\"報告する\" data-reading=\"ほうこくする\" data-en=\"to report\"><ruby>報告<rt>ほうこく</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to report."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原因",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cause."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、バーガーキングのふりをした怪しいメールや電話に気をつけるよう、呼びかけています。",
+      "ruby": "そして、バーガーキングのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールや<ruby>電話<rt>でんわ</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう、<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is warning people to watch out for suspicious emails and calls pretending to be Burger King."
+    },
+    {
+      "speaker": "vocab",
+      "text": "怪しい",
+      "ruby": "<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suspicious."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on, to appeal\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people, or to appeal."
+    },
+    {
+      "speaker": "slow",
+      "text": "会員には、これからメールで順番に知らせるということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>には、これからメールで<span class=\"vw\" data-ja=\"順番に\" data-reading=\"じゅんばんに\" data-en=\"in order, one by one\"><ruby>順番<rt>じゅんばん</rt></ruby>に</span><ruby>知らせ<rt>しらせ</rt></ruby>るということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Members will be notified by email one after another."
+    },
+    {
+      "speaker": "vocab",
+      "text": "順番に",
+      "ruby": "<span class=\"vw\" data-ja=\"順番に\" data-reading=\"じゅんばんに\" data-en=\"in order, one by one\"><ruby>順番<rt>じゅんばん</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means in order, one by one."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では最近、会社やお店の情報をねらった不正アクセスが相次いでいます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>をねらった<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>アクセスが<ruby>相次<rt>あいつぎ</rt></ruby>いでいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Recently in Japan, hacking attacks targeting companies and shops keep happening."
+    },
+    {
+      "speaker": "vocab",
+      "text": "相次ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"相次ぐ\" data-reading=\"あいつぐ\" data-en=\"to happen one after another\"><ruby>相次ぐ<rt>あいつぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to happen one after another."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ハンバーガーの店「バーガーキング」を日本で経営する会社が、10月15日に大きな問題を発表しました。",
+      "ruby": "ハンバーガーの<ruby>店<rt>みせ</rt></ruby>「バーガーキング」を<ruby>日本<rt>にっぽん</rt></ruby>で<span class=\"vw\" data-ja=\"経営する\" data-reading=\"けいえいする\" data-en=\"to run (a business)\"><ruby>経営す<rt>けいえいす</rt></ruby>る</span><ruby>会社<rt>かいしゃ</rt></ruby>が、10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>に<ruby>大き<rt>おおき</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の公式アプリの会員の情報が、外に漏れてしまったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"公式\" data-reading=\"こうしき\" data-en=\"official\"><ruby>公式<rt>こうしき</rt></ruby></span>アプリの<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>が、<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>てしまったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れた情報は、およそ1118万件です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>は、およそ1118<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "会員の名前やメールアドレス、電話番号、生年月日、性別などが含まれていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>やメールアドレス、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>性別<rt>せいべつ</rt></ruby>などが<ruby>含ま<rt>ふくま</rt></ruby>れていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によると、10月2日から7日にかけて、誰かが会員の情報を管理するシステムに不正にアクセスしました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>から<ruby>7日<rt>なのか</rt></ruby>にかけて、<ruby>誰か<rt>だれか</rt></ruby>が<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>を<span class=\"vw\" data-ja=\"管理する\" data-reading=\"かんりする\" data-en=\"to manage\"><ruby>管理<rt>かんり</rt></ruby>する</span>システムに<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>にアクセスしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "情報が漏れたことは、10月13日にわかりました。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たことは、10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>にわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社はすぐに、そのアクセスを止めました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はすぐに、そのアクセスを<ruby>止め<rt>とめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アプリではクレジットカードの番号を保存していなかったため、カードの番号は漏れていないということです。",
+      "ruby": "アプリではクレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>保存<rt>ほぞん</rt></ruby>していなかったため、カードの<ruby>番号<rt>ばんごう</rt></ruby>は<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ログインのパスワードが漏れたことも、確認されていません。",
+      "ruby": "ログインのパスワードが<ruby>漏れ<rt>もれ</rt></ruby>たことも、<ruby>確認さ<rt>かくにんさ</rt></ruby>れていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、漏れた情報が悪いことに使われたという被害は見つかっていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ことに<ruby>使わ<rt>つかわ</rt></ruby>れたという<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かっていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は国の個人情報保護委員会に報告して、専門の会社と一緒に原因を調べています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>国<rt>くに</rt></ruby>の<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>して、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、バーガーキングのふりをした怪しいメールや電話に気をつけるよう、呼びかけています。",
+      "ruby": "そして、バーガーキングのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールや<ruby>電話<rt>でんわ</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう、<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会員には、これからメールで順番に知らせるということです。",
+      "ruby": "<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>には、これからメールで<span class=\"vw\" data-ja=\"順番に\" data-reading=\"じゅんばんに\" data-en=\"in order, one by one\"><ruby>順番<rt>じゅんばん</rt></ruby>に</span><ruby>知らせ<rt>しらせ</rt></ruby>るということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では最近、会社やお店の情報をねらった不正アクセスが相次いでいます。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>をねらった<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>アクセスが<ruby>相次<rt>あいつぎ</rt></ruby>いでいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れた会員の情報は、およそ何件ですか。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<span class=\"vw\" data-ja=\"会員\" data-reading=\"かいいん\" data-en=\"member\"><ruby>会員<rt>かいいん</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>は、およそ<ruby>何件<rt>なんけん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eleven point one eight million."
+    },
+    {
+      "speaker": "slow",
+      "text": "不正アクセスがあったのは、いつからいつまでですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, improper\"><ruby>不正<rt>ふせい</rt></ruby></span>アクセスがあったのは、いつからいつまでですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From October second to seventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "クレジットカードの番号は、どうして漏れていませんか。",
+      "ruby": "クレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>は、どうして<ruby>漏れ<rt>もれ</rt></ruby>ていませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the app did not store them."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、何に気をつけるよう呼びかけていますか。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Suspicious emails and calls pretending to be Burger King."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
