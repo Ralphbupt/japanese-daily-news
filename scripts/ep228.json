@@ -1,0 +1,673 @@
+{
+  "episode": 228,
+  "title": "新幹線の新型車両「S0系」、初の自動運転システム",
+  "date": "2026-10-17",
+  "source": "時事通信 / トラベル Watch / JR東海",
+  "level": "N4-N3",
+  "contentVersion": "2026101701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "車両",
+      "reading": "しゃりょう",
+      "en": "railway car, train",
+      "zh": "车辆"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表，宣布"
+    },
+    {
+      "ja": "ぶり",
+      "reading": "ぶり",
+      "en": "after a gap of (time)",
+      "zh": "时隔……"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "自動運転",
+      "reading": "じどううんてん",
+      "en": "automatic driving",
+      "zh": "自动驾驶"
+    },
+    {
+      "ja": "時刻表",
+      "reading": "じこくひょう",
+      "en": "timetable",
+      "zh": "时刻表"
+    },
+    {
+      "ja": "むだ",
+      "reading": "むだ",
+      "en": "waste, wasteful",
+      "zh": "浪费"
+    },
+    {
+      "ja": "きちんと",
+      "reading": "きちんと",
+      "en": "properly, exactly",
+      "zh": "准确地，规规矩矩地"
+    },
+    {
+      "ja": "運転士",
+      "reading": "うんてんし",
+      "en": "train driver",
+      "zh": "司机（列车）"
+    },
+    {
+      "ja": "担当する",
+      "reading": "たんとうする",
+      "en": "to be in charge of",
+      "zh": "负责"
+    },
+    {
+      "ja": "緊急",
+      "reading": "きんきゅう",
+      "en": "emergency",
+      "zh": "紧急"
+    },
+    {
+      "ja": "地震",
+      "reading": "じしん",
+      "en": "earthquake",
+      "zh": "地震"
+    },
+    {
+      "ja": "先頭",
+      "reading": "せんとう",
+      "en": "front, head",
+      "zh": "最前头，车头"
+    },
+    {
+      "ja": "羽",
+      "reading": "はね",
+      "en": "feather, wing",
+      "zh": "羽毛，翅膀"
+    },
+    {
+      "ja": "抵抗",
+      "reading": "ていこう",
+      "en": "resistance",
+      "zh": "阻力，抵抗"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease",
+      "zh": "减少"
+    },
+    {
+      "ja": "足元",
+      "reading": "あしもと",
+      "en": "area around one's feet",
+      "zh": "脚下"
+    },
+    {
+      "ja": "荷物",
+      "reading": "にもつ",
+      "en": "luggage",
+      "zh": "行李"
+    },
+    {
+      "ja": "試験",
+      "reading": "しけん",
+      "en": "test, trial",
+      "zh": "试验"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定"
+    },
+    {
+      "ja": "計画",
+      "reading": "けいかく",
+      "en": "plan",
+      "zh": "计划"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (period)",
+      "meaningZh": "时隔……",
+      "formation": "time period + ぶり",
+      "example": "今の車両が出てから9年ぶりの、大きなモデルチェンジになります。",
+      "translation": "It will be the first big model change in nine years.",
+      "note": "Shows something happens again after a gap of that length of time.",
+      "noteZh": "表示经过一段时间后再次发生某事。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜をもとに",
+      "meaning": "based on ~",
+      "meaningZh": "以……为基础，根据……",
+      "formation": "noun + をもとに",
+      "example": "無線で受け取った時刻表の情報をもとに、電気をむだに使わない速さで、自動で走ります。",
+      "translation": "Based on timetable information received by radio, it drives automatically at a speed that doesn't waste electricity.",
+      "note": "Marks the source or basis that something is made or done from.",
+      "noteZh": "表示做某事所依据的材料或基础。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#をもとに"
+    },
+    {
+      "pattern": "〜どおり",
+      "meaning": "as ~, in the same way as ~",
+      "meaningZh": "按照……，和……一样",
+      "formation": "noun + どおり / verb + とおり",
+      "example": "ただし、運転士は今までどおり乗って、出発の操作や、緊急のブレーキを担当します。",
+      "translation": "However, the driver will ride as before and handle departure operations and emergency braking.",
+      "note": "今までどおり means 'just as before'.",
+      "noteZh": "今までどおり表示“和以前一样”。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#とおり"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because of ~",
+      "meaningZh": "因为……",
+      "formation": "plain form + ため",
+      "example": "空気の抵抗が小さくなるため、使う電気の量は今の車両より約6%減ります。",
+      "translation": "Because air resistance becomes smaller, the electricity used drops about 6% compared with the current train.",
+      "note": "A formal way to give a reason, common in news.",
+      "noteZh": "较正式的表示原因的说法，新闻中常用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ため"
+    }
+  ],
+  "practiceZh": [
+    "JR東海は10月16日、東海道新幹線と山陽新幹線を走る新しい車両を発表しました。\nJR东海于10月16日发布了行驶在东海道新干线和山阳新干线上的新车辆。\n車両 = railway car, train / 発表する = to announce",
+    "新しい車両の名前は「エスゼロ系」です。\n新车辆的名字是“S0系”。\n車両 = railway car, train",
+    "今の車両が出てから9年ぶりの、大きなモデルチェンジになります。\n这是自现有车辆推出以来，时隔9年的大型换代。\n車両 = railway car, train / ぶり = after a gap of (time)",
+    "エスゼロ系は、新幹線で初めて、自動運転のシステムを使います。\nS0系将在新干线中首次使用自动驾驶系统。\n初めて = for the first time / 自動運転 = automatic driving",
+    "無線で受け取った時刻表の情報をもとに、電気をむだに使わない速さで、自動で走ります。\n它根据通过无线接收的时刻表信息，以不浪费电的速度自动行驶。\n時刻表 = timetable / むだ = waste, wasteful",
+    "決まった時間に駅に着いて、決まった場所にきちんと止まることができます。\n它能按规定时间到站，并准确地停在规定位置。\nきちんと = properly, exactly",
+    "ただし、運転士は今までどおり乗って、出発の操作や、緊急のブレーキを担当します。\n不过，司机仍会像以前一样随车，负责发车操作和紧急刹车。\n運転士 = train driver / 担当する = to be in charge of / 緊急 = emergency",
+    "地震を見つけるまでの時間も、約2秒から0.2秒に短くなります。\n发现地震所需的时间也将从约2秒缩短到0.2秒。\n地震 = earthquake",
+    "車両の先頭の形は、鳥の羽をヒントにして作られました。\n车头的形状是以鸟的羽毛为灵感设计的。\n車両 = railway car, train / 先頭 = front, head / 羽 = feather, wing",
+    "空気の抵抗が小さくなるため、使う電気の量は今の車両より約6%減ります。\n由于空气阻力变小，用电量比现有车辆减少约6%。\n車両 = railway car, train / 抵抗 = resistance",
+    "グリーン車では、足元のスペースが約14センチ広くなり、荷物を置く場所も増えます。\n绿色车厢的脚下空间将扩大约14厘米，放行李的地方也会增加。\n足元 = area around one's feet / 荷物 = luggage",
+    "2028年8月に試験のための車両を走らせて、2029年7月からお客さんを乗せる予定です。\n2028年8月将运行试验车辆，计划从2029年7月开始载客。\n車両 = railway car, train / 試験 = test, trial / 予定 = plan, schedule",
+    "JR東海は、2032年度までに、新しい車両を25編成入れる計画です。\nJR东海计划到2032年度引入25列新车。\n車両 = railway car, train / 計画 = plan"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October seventeenth. Japan's bullet train company has revealed a brand-new train that can drive itself. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は10月16日、東海道新幹線と山陽新幹線を走る新しい車両を発表しました。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>と<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい車両の名前は「エスゼロ系」です。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>は「エスゼロ<ruby>系<rt>けい</rt></ruby>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の車両が出てから9年ぶりの、大きなモデルチェンジになります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が<ruby>出て<rt>でて</rt></ruby>から9<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"after a gap of (time)\">ぶりの</span>、<ruby>大き<rt>おおき</rt></ruby>なモデルチェンジになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "エスゼロ系は、新幹線で初めて、自動運転のシステムを使います。",
+      "ruby": "エスゼロ<ruby>系<rt>けい</rt></ruby>は、<ruby>新幹線<rt>しんかんせん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>、<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"automatic driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>のシステムを<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "無線で受け取った時刻表の情報をもとに、電気をむだに使わない速さで、自動で走ります。",
+      "ruby": "<ruby>無線<rt>むせん</rt></ruby>で<ruby>受け取っ<rt>うけとっ</rt></ruby>た<span class=\"vw\" data-ja=\"時刻表\" data-reading=\"じこくひょう\" data-en=\"timetable\"><ruby>時刻表<rt>じこくひょう</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>をもとに、<ruby>電気<rt>でんき</rt></ruby>をむだに<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>速さ<rt>はやさ</rt></ruby>で、<ruby>自動<rt>じどう</rt></ruby>で<ruby>走り<rt>はしり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "決まった時間に駅に着いて、決まった場所にきちんと止まることができます。",
+      "ruby": "<ruby>決ま<rt>きま</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>て、<ruby>決ま<rt>きま</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>にきちんと<ruby>止ま<rt>とま</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、運転士は今までどおり乗って、出発の操作や、緊急のブレーキを担当します。",
+      "ruby": "ただし、<span class=\"vw\" data-ja=\"運転士\" data-reading=\"うんてんし\" data-en=\"train driver\"><ruby>運転士<rt>うんてんし</rt></ruby></span>は<ruby>今まで<rt>いままで</rt></ruby>どおり<ruby>乗って<rt>のって</rt></ruby>、<ruby>出発<rt>しゅっぱつ</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>や、<span class=\"vw\" data-ja=\"緊急\" data-reading=\"きんきゅう\" data-en=\"emergency\"><ruby>緊急<rt>きんきゅう</rt></ruby></span>のブレーキを<ruby>担当<rt>たんとう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震を見つけるまでの時間も、約2秒から0.2秒に短くなります。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けるまでの<ruby>時間<rt>じかん</rt></ruby>も、<ruby>約<rt>やく</rt></ruby>2<ruby>秒<rt>びょう</rt></ruby>から0.2<ruby>秒<rt>びょう</rt></ruby>に<ruby>短く<rt>みじかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "車両の先頭の形は、鳥の羽をヒントにして作られました。",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"先頭\" data-reading=\"せんとう\" data-en=\"front, head\"><ruby>先頭<rt>せんとう</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>は、<ruby>鳥<rt>とり</rt></ruby>の<span class=\"vw\" data-ja=\"羽\" data-reading=\"はね\" data-en=\"feather, wing\"><ruby>羽<rt>はね</rt></ruby></span>をヒントにして<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "空気の抵抗が小さくなるため、使う電気の量は今の車両より約6%減ります。",
+      "ruby": "<ruby>空気<rt>くうき</rt></ruby>の<span class=\"vw\" data-ja=\"抵抗\" data-reading=\"ていこう\" data-en=\"resistance\"><ruby>抵抗<rt>ていこう</rt></ruby></span>が<ruby>小さく<rt>ちいさく</rt></ruby>なるため、<ruby>使う<rt>つかう</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>より<ruby>約<rt>やく</rt></ruby>6%<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "グリーン車では、足元のスペースが約14センチ広くなり、荷物を置く場所も増えます。",
+      "ruby": "グリーン<ruby>車<rt>しゃ</rt></ruby>では、<span class=\"vw\" data-ja=\"足元\" data-reading=\"あしもと\" data-en=\"area around one's feet\"><ruby>足元<rt>あしもと</rt></ruby></span>のスペースが<ruby>約<rt>やく</rt></ruby>14センチ<ruby>広く<rt>ひろく</rt></ruby>なり、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>置く<rt>おく</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "2028年8月に試験のための車両を走らせて、2029年7月からお客さんを乗せる予定です。",
+      "ruby": "2028<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>のための<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>走ら<rt>はしら</rt></ruby>せて、2029<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>からお<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は、2032年度までに、新しい車両を25編成入れる計画です。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は、2032<ruby>年度<rt>ねんど</rt></ruby>までに、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を25<ruby>編成<rt>へんせい</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>る<span class=\"vw\" data-ja=\"計画\" data-reading=\"けいかく\" data-en=\"plan\"><ruby>計画<rt>けいかく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it sentence by sentence."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東海は10月16日、東海道新幹線と山陽新幹線を走る新しい車両を発表しました。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>と<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October sixteenth, JR Central announced a new train for the two main bullet train lines in western and central Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "車両",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A railway car, or a train."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の車両が出てから9年ぶりの、大きなモデルチェンジになります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が<ruby>出て<rt>でて</rt></ruby>から9<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"after a gap of (time)\">ぶりの</span>、<ruby>大き<rt>おおき</rt></ruby>なモデルチェンジになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the first big model change in nine years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ぶり",
+      "ruby": "<span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"after a gap of (time)\">ぶり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "After a gap of. Nine years after the last one."
+    },
+    {
+      "speaker": "slow",
+      "text": "エスゼロ系は、新幹線で初めて、自動運転のシステムを使います。",
+      "ruby": "エスゼロ<ruby>系<rt>けい</rt></ruby>は、<ruby>新幹線<rt>しんかんせん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>、<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"automatic driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>のシステムを<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new train is the first bullet train to use an automatic driving system."
+    },
+    {
+      "speaker": "vocab",
+      "text": "自動運転",
+      "ruby": "<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"automatic driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Automatic driving."
+    },
+    {
+      "speaker": "slow",
+      "text": "無線で受け取った時刻表の情報をもとに、電気をむだに使わない速さで、自動で走ります。",
+      "ruby": "<ruby>無線<rt>むせん</rt></ruby>で<ruby>受け取っ<rt>うけとっ</rt></ruby>た<span class=\"vw\" data-ja=\"時刻表\" data-reading=\"じこくひょう\" data-en=\"timetable\"><ruby>時刻表<rt>じこくひょう</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>をもとに、<ruby>電気<rt>でんき</rt></ruby>をむだに<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>速さ<rt>はやさ</rt></ruby>で、<ruby>自動<rt>じどう</rt></ruby>で<ruby>走り<rt>はしり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Using timetable data received by radio, it drives itself at a speed that does not waste electricity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "時刻表",
+      "ruby": "<span class=\"vw\" data-ja=\"時刻表\" data-reading=\"じこくひょう\" data-en=\"timetable\"><ruby>時刻表<rt>じこくひょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A timetable."
+    },
+    {
+      "speaker": "vocab",
+      "text": "もとに",
+      "ruby": "もとに"
+    },
+    {
+      "speaker": "host",
+      "text": "Based on."
+    },
+    {
+      "speaker": "vocab",
+      "text": "むだ",
+      "ruby": "<span class=\"vw\" data-ja=\"むだ\" data-reading=\"むだ\" data-en=\"waste, wasteful\">むだ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Waste, or wasteful."
+    },
+    {
+      "speaker": "slow",
+      "text": "決まった時間に駅に着いて、決まった場所にきちんと止まることができます。",
+      "ruby": "<ruby>決ま<rt>きま</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>て、<ruby>決ま<rt>きま</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>にきちんと<ruby>止ま<rt>とま</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "It can arrive on time and stop exactly at the right spot."
+    },
+    {
+      "speaker": "vocab",
+      "text": "きちんと",
+      "ruby": "<span class=\"vw\" data-ja=\"きちんと\" data-reading=\"きちんと\" data-en=\"properly, exactly\">きちんと</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Properly, or exactly."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただし、運転士は今までどおり乗って、出発の操作や、緊急のブレーキを担当します。",
+      "ruby": "ただし、<span class=\"vw\" data-ja=\"運転士\" data-reading=\"うんてんし\" data-en=\"train driver\"><ruby>運転士<rt>うんてんし</rt></ruby></span>は<ruby>今まで<rt>いままで</rt></ruby>どおり<ruby>乗って<rt>のって</rt></ruby>、<ruby>出発<rt>しゅっぱつ</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>や、<span class=\"vw\" data-ja=\"緊急\" data-reading=\"きんきゅう\" data-en=\"emergency\"><ruby>緊急<rt>きんきゅう</rt></ruby></span>のブレーキを<ruby>担当<rt>たんとう</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "However, a driver will still ride the train and handle departures and emergency braking."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運転士",
+      "ruby": "<span class=\"vw\" data-ja=\"運転士\" data-reading=\"うんてんし\" data-en=\"train driver\"><ruby>運転士<rt>うんてんし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A train driver."
+    },
+    {
+      "speaker": "vocab",
+      "text": "担当する",
+      "ruby": "<span class=\"vw\" data-ja=\"担当する\" data-reading=\"たんとうする\" data-en=\"to be in charge of\"><ruby>担当<rt>たんとう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To be in charge of."
+    },
+    {
+      "speaker": "slow",
+      "text": "地震を見つけるまでの時間も、約2秒から0.2秒に短くなります。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けるまでの<ruby>時間<rt>じかん</rt></ruby>も、<ruby>約<rt>やく</rt></ruby>2<ruby>秒<rt>びょう</rt></ruby>から0.2<ruby>秒<rt>びょう</rt></ruby>に<ruby>短く<rt>みじかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The time to detect an earthquake also drops from about two seconds to zero point two."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地震",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Earthquake."
+    },
+    {
+      "speaker": "slow",
+      "text": "車両の先頭の形は、鳥の羽をヒントにして作られました。",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"先頭\" data-reading=\"せんとう\" data-en=\"front, head\"><ruby>先頭<rt>せんとう</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>は、<ruby>鳥<rt>とり</rt></ruby>の<span class=\"vw\" data-ja=\"羽\" data-reading=\"はね\" data-en=\"feather, wing\"><ruby>羽<rt>はね</rt></ruby></span>をヒントにして<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The shape of the front was inspired by a bird's feathers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "先頭",
+      "ruby": "<span class=\"vw\" data-ja=\"先頭\" data-reading=\"せんとう\" data-en=\"front, head\"><ruby>先頭<rt>せんとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "The front, or the head of a line."
+    },
+    {
+      "speaker": "vocab",
+      "text": "羽",
+      "ruby": "<span class=\"vw\" data-ja=\"羽\" data-reading=\"はね\" data-en=\"feather, wing\"><ruby>羽<rt>はね</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A feather, or a wing."
+    },
+    {
+      "speaker": "slow",
+      "text": "空気の抵抗が小さくなるため、使う電気の量は今の車両より約6%減ります。",
+      "ruby": "<ruby>空気<rt>くうき</rt></ruby>の<span class=\"vw\" data-ja=\"抵抗\" data-reading=\"ていこう\" data-en=\"resistance\"><ruby>抵抗<rt>ていこう</rt></ruby></span>が<ruby>小さく<rt>ちいさく</rt></ruby>なるため、<ruby>使う<rt>つかう</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>より<ruby>約<rt>やく</rt></ruby>6%<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because air resistance gets smaller, it uses about six percent less electricity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "抵抗",
+      "ruby": "<span class=\"vw\" data-ja=\"抵抗\" data-reading=\"ていこう\" data-en=\"resistance\"><ruby>抵抗<rt>ていこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Resistance."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "To decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "グリーン車では、足元のスペースが約14センチ広くなり、荷物を置く場所も増えます。",
+      "ruby": "グリーン<ruby>車<rt>しゃ</rt></ruby>では、<span class=\"vw\" data-ja=\"足元\" data-reading=\"あしもと\" data-en=\"area around one's feet\"><ruby>足元<rt>あしもと</rt></ruby></span>のスペースが<ruby>約<rt>やく</rt></ruby>14センチ<ruby>広く<rt>ひろく</rt></ruby>なり、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>置く<rt>おく</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the first-class cars, legroom grows by about fourteen centimeters, and there is more space for luggage."
+    },
+    {
+      "speaker": "vocab",
+      "text": "荷物",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Luggage."
+    },
+    {
+      "speaker": "slow",
+      "text": "2028年8月に試験のための車両を走らせて、2029年7月からお客さんを乗せる予定です。",
+      "ruby": "2028<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>のための<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>走ら<rt>はしら</rt></ruby>せて、2029<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>からお<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "A test train runs in August 2028, and passengers can ride from July 2029."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試験",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A test."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's hear the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は10月16日、東海道新幹線と山陽新幹線を走る新しい車両を発表しました。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>と<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい車両の名前は「エスゼロ系」です。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>は「エスゼロ<ruby>系<rt>けい</rt></ruby>」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の車両が出てから9年ぶりの、大きなモデルチェンジになります。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が<ruby>出て<rt>でて</rt></ruby>から9<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"after a gap of (time)\">ぶりの</span>、<ruby>大き<rt>おおき</rt></ruby>なモデルチェンジになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "エスゼロ系は、新幹線で初めて、自動運転のシステムを使います。",
+      "ruby": "エスゼロ<ruby>系<rt>けい</rt></ruby>は、<ruby>新幹線<rt>しんかんせん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>、<span class=\"vw\" data-ja=\"自動運転\" data-reading=\"じどううんてん\" data-en=\"automatic driving\"><ruby>自動運転<rt>じどううんてん</rt></ruby></span>のシステムを<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "無線で受け取った時刻表の情報をもとに、電気をむだに使わない速さで、自動で走ります。",
+      "ruby": "<ruby>無線<rt>むせん</rt></ruby>で<ruby>受け取っ<rt>うけとっ</rt></ruby>た<span class=\"vw\" data-ja=\"時刻表\" data-reading=\"じこくひょう\" data-en=\"timetable\"><ruby>時刻表<rt>じこくひょう</rt></ruby></span>の<ruby>情報<rt>じょうほう</rt></ruby>をもとに、<ruby>電気<rt>でんき</rt></ruby>をむだに<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>速さ<rt>はやさ</rt></ruby>で、<ruby>自動<rt>じどう</rt></ruby>で<ruby>走り<rt>はしり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "決まった時間に駅に着いて、決まった場所にきちんと止まることができます。",
+      "ruby": "<ruby>決ま<rt>きま</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>て、<ruby>決ま<rt>きま</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>にきちんと<ruby>止ま<rt>とま</rt></ruby>ることができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただし、運転士は今までどおり乗って、出発の操作や、緊急のブレーキを担当します。",
+      "ruby": "ただし、<span class=\"vw\" data-ja=\"運転士\" data-reading=\"うんてんし\" data-en=\"train driver\"><ruby>運転士<rt>うんてんし</rt></ruby></span>は<ruby>今まで<rt>いままで</rt></ruby>どおり<ruby>乗って<rt>のって</rt></ruby>、<ruby>出発<rt>しゅっぱつ</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>や、<span class=\"vw\" data-ja=\"緊急\" data-reading=\"きんきゅう\" data-en=\"emergency\"><ruby>緊急<rt>きんきゅう</rt></ruby></span>のブレーキを<ruby>担当<rt>たんとう</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震を見つけるまでの時間も、約2秒から0.2秒に短くなります。",
+      "ruby": "<span class=\"vw\" data-ja=\"地震\" data-reading=\"じしん\" data-en=\"earthquake\"><ruby>地震<rt>じしん</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けるまでの<ruby>時間<rt>じかん</rt></ruby>も、<ruby>約<rt>やく</rt></ruby>2<ruby>秒<rt>びょう</rt></ruby>から0.2<ruby>秒<rt>びょう</rt></ruby>に<ruby>短く<rt>みじかく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "車両の先頭の形は、鳥の羽をヒントにして作られました。",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"先頭\" data-reading=\"せんとう\" data-en=\"front, head\"><ruby>先頭<rt>せんとう</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>は、<ruby>鳥<rt>とり</rt></ruby>の<span class=\"vw\" data-ja=\"羽\" data-reading=\"はね\" data-en=\"feather, wing\"><ruby>羽<rt>はね</rt></ruby></span>をヒントにして<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "空気の抵抗が小さくなるため、使う電気の量は今の車両より約6%減ります。",
+      "ruby": "<ruby>空気<rt>くうき</rt></ruby>の<span class=\"vw\" data-ja=\"抵抗\" data-reading=\"ていこう\" data-en=\"resistance\"><ruby>抵抗<rt>ていこう</rt></ruby></span>が<ruby>小さく<rt>ちいさく</rt></ruby>なるため、<ruby>使う<rt>つかう</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>より<ruby>約<rt>やく</rt></ruby>6%<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "グリーン車では、足元のスペースが約14センチ広くなり、荷物を置く場所も増えます。",
+      "ruby": "グリーン<ruby>車<rt>しゃ</rt></ruby>では、<span class=\"vw\" data-ja=\"足元\" data-reading=\"あしもと\" data-en=\"area around one's feet\"><ruby>足元<rt>あしもと</rt></ruby></span>のスペースが<ruby>約<rt>やく</rt></ruby>14センチ<ruby>広く<rt>ひろく</rt></ruby>なり、<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>置く<rt>おく</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "2028年8月に試験のための車両を走らせて、2029年7月からお客さんを乗せる予定です。",
+      "ruby": "2028<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>のための<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>走ら<rt>はしら</rt></ruby>せて、2029<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>からお<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は、2032年度までに、新しい車両を25編成入れる計画です。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は、2032<ruby>年度<rt>ねんど</rt></ruby>までに、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, train\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を25<ruby>編成<rt>へんせい</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>る<span class=\"vw\" data-ja=\"計画\" data-reading=\"けいかく\" data-en=\"plan\"><ruby>計画<rt>けいかく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Answer each question."
+    },
+    {
+      "speaker": "slow",
+      "text": "新幹線で初めて使うシステムは何ですか。",
+      "ruby": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span><ruby>使う<rt>つかう</rt></ruby>システムは<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "An automatic driving system."
+    },
+    {
+      "speaker": "slow",
+      "text": "先頭の形は、何をヒントにしましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"先頭\" data-reading=\"せんとう\" data-en=\"front, head\"><ruby>先頭<rt>せんとう</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby>ヒントにしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A bird's feathers."
+    },
+    {
+      "speaker": "slow",
+      "text": "使う電気の量は、どのくらい減りますか。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby><ruby>電気<rt>でんき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、どのくらい<ruby>減り<rt>へり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About six percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "いつからお客さんを乗せますか。",
+      "ruby": "いつからお<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From July 2029."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
