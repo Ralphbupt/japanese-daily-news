@@ -1,0 +1,619 @@
+{
+  "episode": 229,
+  "title": "大阪城天守閣、国の重要文化財に",
+  "date": "2026-10-18",
+  "source": "時事通信 / MBSニュース / NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026101801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "天守閣",
+      "reading": "てんしゅかく",
+      "en": "castle keep, main tower",
+      "zh": "天守阁，城楼"
+    },
+    {
+      "ja": "重要文化財",
+      "reading": "じゅうようぶんかざい",
+      "en": "Important Cultural Property",
+      "zh": "重要文化财"
+    },
+    {
+      "ja": "決める",
+      "reading": "きめる",
+      "en": "to decide",
+      "zh": "决定"
+    },
+    {
+      "ja": "伝える",
+      "reading": "つたえる",
+      "en": "to tell, to convey",
+      "zh": "传达，告诉"
+    },
+    {
+      "ja": "建てる",
+      "reading": "たてる",
+      "en": "to build",
+      "zh": "建造"
+    },
+    {
+      "ja": "出し合う",
+      "reading": "だしあう",
+      "en": "to contribute together",
+      "zh": "共同出（钱）"
+    },
+    {
+      "ja": "鉄",
+      "reading": "てつ",
+      "en": "iron, steel",
+      "zh": "铁，钢"
+    },
+    {
+      "ja": "建物",
+      "reading": "たてもの",
+      "en": "building",
+      "zh": "建筑物"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "long ago",
+      "zh": "从前，过去"
+    },
+    {
+      "ja": "時代",
+      "reading": "じだい",
+      "en": "era, period",
+      "zh": "时代"
+    },
+    {
+      "ja": "焼ける",
+      "reading": "やける",
+      "en": "to burn",
+      "zh": "烧毁"
+    },
+    {
+      "ja": "形",
+      "reading": "かたち",
+      "en": "shape, form",
+      "zh": "形状"
+    },
+    {
+      "ja": "調べる",
+      "reading": "しらべる",
+      "en": "to research, to check",
+      "zh": "调查"
+    },
+    {
+      "ja": "博物館",
+      "reading": "はくぶつかん",
+      "en": "museum",
+      "zh": "博物馆"
+    },
+    {
+      "ja": "町",
+      "reading": "まち",
+      "en": "town, city",
+      "zh": "城镇，街道"
+    },
+    {
+      "ja": "訪れる",
+      "reading": "おとずれる",
+      "en": "to visit",
+      "zh": "访问，来访"
+    },
+    {
+      "ja": "一番",
+      "reading": "いちばん",
+      "en": "the most, number one",
+      "zh": "最"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……（非说话人自己决定）",
+      "formation": "verb dictionary/ない-form + ことになる",
+      "example": "大阪城の天守閣が、国の重要文化財になることになりました。",
+      "translation": "The main tower of Osaka Castle is going to become a national Important Cultural Property.",
+      "note": "Used when a decision is made by others or by circumstances, not by the speaker.",
+      "noteZh": "表示由他人或客观情况做出的决定，而不是说话人自己的决定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ (often with regret)",
+      "meaningZh": "……了（表示遗憾或完了）",
+      "formation": "verb て-form + しまう",
+      "example": "昔の天守閣は、豊臣秀吉の時代に建てられましたが、1615年の戦いで焼けてしまいました。",
+      "translation": "The old tower was built in the time of a famous ruler, but it burned down in a battle in 1615.",
+      "note": "Shows that something unfortunate happened completely and can't be undone.",
+      "noteZh": "表示发生了无法挽回的、令人遗憾的事情。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てしまう"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "verb dictionary form + ことができる",
+      "example": "中は博物館になっていて、8階から大阪の町を見ることができます。",
+      "translation": "Inside is a museum, and from the eighth floor you can see the city of Osaka.",
+      "note": "A clear, slightly formal way to say something is possible.",
+      "noteZh": "表示可能性或能力，比可能形稍正式。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    }
+  ],
+  "practiceZh": [
+    "大阪城の天守閣が、国の重要文化財になることになりました。\n大阪城天守阁将被定为国家重要文化财。\n天守閣 = castle keep, main tower / 重要文化財 = Important Cultural Property",
+    "10月16日、国の文化審議会が決めて、大臣に伝えました。\n10月16日，国家文化审议会做出决定并转告了大臣。\n決める = to decide / 伝える = to tell, to convey",
+    "今の天守閣は、1931年に建てられました。\n现在的天守阁建于1931年。\n建てる = to build",
+    "大阪の人たちが、お金を出し合って建てました。\n是大阪的人们共同出钱建造的。\n出し合う = to contribute together",
+    "鉄とコンクリートを使った、新しい建物でした。\n那是一座用钢铁和混凝土建成的新式建筑。\n鉄 = iron, steel / 建物 = building",
+    "昔の天守閣は、豊臣秀吉の時代に建てられましたが、1615年の戦いで焼けてしまいました。\n过去的天守阁建于丰臣秀吉的时代，但在1615年的战争中被烧毁了。\n昔 = long ago / 時代 = era, period / 焼ける = to burn",
+    "今の天守閣は、昔の形をよく調べて作られました。\n现在的天守阁是在仔细研究了过去的形状后建造的。\n形 = shape, form / 調べる = to research, to check",
+    "中は博物館になっていて、8階から大阪の町を見ることができます。\n里面是博物馆，从8楼可以看到大阪的街景。\n博物館 = museum / 町 = town, city",
+    "最近の1年間で、およそ280万人が訪れて、今までで一番多くなりました。\n最近一年里，约有280万人来访，是历来最多的。\n訪れる = to visit / 一番 = the most, number one",
+    "奈良ホテルなど、ほかの7つの建物も、重要文化財になる予定です。\n奈良酒店等其他7座建筑也预定成为重要文化财。\n予定 = plan, schedule"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October eighteenth. One of Japan's most famous castle towers is getting a special national title. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪城の天守閣が、国の重要文化財になることになりました。",
+      "ruby": "<ruby>大阪城<rt>おおさかじょう</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>が、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>になることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月16日、国の文化審議会が決めて、大臣に伝えました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>審議会<rt>しんぎかい</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>て、<ruby>大臣<rt>だいじん</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の天守閣は、1931年に建てられました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、1931<ruby>年<rt>ねん</rt></ruby>に<ruby>建て<rt>たて</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪の人たちが、お金を出し合って建てました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、お<ruby>金<rt>かね</rt></ruby>を<ruby>出し<rt>だし</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>て<ruby>建て<rt>たて</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "鉄とコンクリートを使った、新しい建物でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"鉄\" data-reading=\"てつ\" data-en=\"iron, steel\"><ruby>鉄<rt>てつ</rt></ruby></span>とコンクリートを<ruby>使った<rt>つかった</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔の天守閣は、豊臣秀吉の時代に建てられましたが、1615年の戦いで焼けてしまいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<ruby>豊臣<rt>とよとみ</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, period\"><ruby>時代<rt>じだい</rt></ruby></span>に<ruby>建て<rt>たて</rt></ruby>られましたが、1615<ruby>年<rt>ねん</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>で<ruby>焼け<rt>やけ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の天守閣は、昔の形をよく調べて作られました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape, form\"><ruby>形<rt>かたち</rt></ruby></span>をよく<ruby>調べ<rt>しらべ</rt></ruby>て<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中は博物館になっていて、8階から大阪の町を見ることができます。",
+      "ruby": "<ruby>中<rt>なか</rt></ruby>は<span class=\"vw\" data-ja=\"博物館\" data-reading=\"はくぶつかん\" data-en=\"museum\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>になっていて、8<ruby>階<rt>かい</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town, city\"><ruby>町<rt>まち</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近の1年間で、およそ280万人が訪れて、今までで一番多くなりました。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>の1<ruby>年間<rt>ねんかん</rt></ruby>で、およそ280<ruby>万人<rt>まんにん</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>て、<ruby>今まで<rt>いままで</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良ホテルなど、ほかの7つの建物も、重要文化財になる予定です。",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby>ホテルなど、ほかの7つの<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>も、<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>になる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪城の天守閣が、国の重要文化財になることになりました。",
+      "ruby": "<ruby>大阪城<rt>おおさかじょう</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>が、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>になることになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The main tower of Osaka Castle is going to become a national Important Cultural Property."
+    },
+    {
+      "speaker": "vocab",
+      "text": "天守閣",
+      "ruby": "<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the main tower, or keep, of a castle."
+    },
+    {
+      "speaker": "vocab",
+      "text": "重要文化財",
+      "ruby": "<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means Important Cultural Property, a special title the government gives to valuable buildings and objects."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月16日、国の文化審議会が決めて、大臣に伝えました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>審議会<rt>しんぎかい</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>て、<ruby>大臣<rt>だいじん</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October sixteenth, a national council on culture decided this and told the minister."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決める",
+      "ruby": "<span class=\"vw\" data-ja=\"決める\" data-reading=\"きめる\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decide."
+    },
+    {
+      "speaker": "vocab",
+      "text": "伝える",
+      "ruby": "<span class=\"vw\" data-ja=\"伝える\" data-reading=\"つたえる\" data-en=\"to tell, to convey\"><ruby>伝え<rt>つたえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to tell, or to pass on a message."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の天守閣は、1931年に建てられました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、1931<ruby>年<rt>ねん</rt></ruby>に<ruby>建て<rt>たて</rt></ruby>られました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The present tower was built in nineteen thirty-one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "建てる",
+      "ruby": "<span class=\"vw\" data-ja=\"建てる\" data-reading=\"たてる\" data-en=\"to build\"><ruby>建て<rt>たて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to build."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪の人たちが、お金を出し合って建てました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、お<ruby>金<rt>かね</rt></ruby>を<ruby>出し<rt>だし</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>て<ruby>建て<rt>たて</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The people of Osaka put their money together to build it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出し合う",
+      "ruby": "<span class=\"vw\" data-ja=\"出し合う\" data-reading=\"だしあう\" data-en=\"to contribute together\"><ruby>出し<rt>だし</rt></ruby><ruby>合う<rt>あう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to put in together, so everyone gives a little."
+    },
+    {
+      "speaker": "slow",
+      "text": "鉄とコンクリートを使った、新しい建物でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"鉄\" data-reading=\"てつ\" data-en=\"iron, steel\"><ruby>鉄<rt>てつ</rt></ruby></span>とコンクリートを<ruby>使った<rt>つかった</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was a new kind of building, made with steel and concrete."
+    },
+    {
+      "speaker": "vocab",
+      "text": "鉄",
+      "ruby": "<span class=\"vw\" data-ja=\"鉄\" data-reading=\"てつ\" data-en=\"iron, steel\"><ruby>鉄<rt>てつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means iron or steel."
+    },
+    {
+      "speaker": "vocab",
+      "text": "建物",
+      "ruby": "<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a building."
+    },
+    {
+      "speaker": "slow",
+      "text": "昔の天守閣は、豊臣秀吉の時代に建てられましたが、1615年の戦いで焼けてしまいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<ruby>豊臣<rt>とよとみ</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, period\"><ruby>時代<rt>じだい</rt></ruby></span>に<ruby>建て<rt>たて</rt></ruby>られましたが、1615<ruby>年<rt>ねん</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>で<ruby>焼け<rt>やけ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The old tower was built in the time of a famous ruler, but it burned down in a battle in sixteen fifteen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "昔",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means long ago, or the old days."
+    },
+    {
+      "speaker": "vocab",
+      "text": "時代",
+      "ruby": "<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, period\"><ruby>時代<rt>じだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an era or a period of history."
+    },
+    {
+      "speaker": "vocab",
+      "text": "焼ける",
+      "ruby": "<span class=\"vw\" data-ja=\"焼ける\" data-reading=\"やける\" data-en=\"to burn\"><ruby>焼け<rt>やけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to burn."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の天守閣は、昔の形をよく調べて作られました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape, form\"><ruby>形<rt>かたち</rt></ruby></span>をよく<ruby>調べ<rt>しらべ</rt></ruby>て<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The present tower was made after carefully studying the old shape."
+    },
+    {
+      "speaker": "vocab",
+      "text": "形",
+      "ruby": "<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape, form\"><ruby>形<rt>かたち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shape or form."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調べる",
+      "ruby": "<span class=\"vw\" data-ja=\"調べる\" data-reading=\"しらべる\" data-en=\"to research, to check\"><ruby>調べ<rt>しらべ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to check or to research."
+    },
+    {
+      "speaker": "slow",
+      "text": "中は博物館になっていて、8階から大阪の町を見ることができます。",
+      "ruby": "<ruby>中<rt>なか</rt></ruby>は<span class=\"vw\" data-ja=\"博物館\" data-reading=\"はくぶつかん\" data-en=\"museum\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>になっていて、8<ruby>階<rt>かい</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town, city\"><ruby>町<rt>まち</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Inside is a museum, and from the eighth floor you can see the city of Osaka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "博物館",
+      "ruby": "<span class=\"vw\" data-ja=\"博物館\" data-reading=\"はくぶつかん\" data-en=\"museum\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a museum."
+    },
+    {
+      "speaker": "vocab",
+      "text": "町",
+      "ruby": "<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town, city\"><ruby>町<rt>まち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a town or a city."
+    },
+    {
+      "speaker": "slow",
+      "text": "最近の1年間で、およそ280万人が訪れて、今までで一番多くなりました。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>の1<ruby>年間<rt>ねんかん</rt></ruby>で、およそ280<ruby>万人<rt>まんにん</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>て、<ruby>今まで<rt>いままで</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the most recent year, about two point eight million people visited, the most ever."
+    },
+    {
+      "speaker": "vocab",
+      "text": "訪れる",
+      "ruby": "<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to visit\"><ruby>訪れ<rt>おとずれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to visit."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一番",
+      "ruby": "<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means number one, or the most."
+    },
+    {
+      "speaker": "slow",
+      "text": "奈良ホテルなど、ほかの7つの建物も、重要文化財になる予定です。",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby>ホテルなど、ほかの7つの<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>も、<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>になる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven other buildings, such as the Nara Hotel, are also set to become Important Cultural Properties."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan, or something that is scheduled."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪城の天守閣が、国の重要文化財になることになりました。",
+      "ruby": "<ruby>大阪城<rt>おおさかじょう</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>が、<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>になることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月16日、国の文化審議会が決めて、大臣に伝えました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>審議会<rt>しんぎかい</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>て、<ruby>大臣<rt>だいじん</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の天守閣は、1931年に建てられました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、1931<ruby>年<rt>ねん</rt></ruby>に<ruby>建て<rt>たて</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪の人たちが、お金を出し合って建てました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、お<ruby>金<rt>かね</rt></ruby>を<ruby>出し<rt>だし</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>て<ruby>建て<rt>たて</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "鉄とコンクリートを使った、新しい建物でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"鉄\" data-reading=\"てつ\" data-en=\"iron, steel\"><ruby>鉄<rt>てつ</rt></ruby></span>とコンクリートを<ruby>使った<rt>つかった</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔の天守閣は、豊臣秀吉の時代に建てられましたが、1615年の戦いで焼けてしまいました。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<ruby>豊臣<rt>とよとみ</rt></ruby><ruby>秀吉<rt>ひでよし</rt></ruby>の<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, period\"><ruby>時代<rt>じだい</rt></ruby></span>に<ruby>建て<rt>たて</rt></ruby>られましたが、1615<ruby>年<rt>ねん</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>で<ruby>焼け<rt>やけ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の天守閣は、昔の形をよく調べて作られました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>の<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape, form\"><ruby>形<rt>かたち</rt></ruby></span>をよく<ruby>調べ<rt>しらべ</rt></ruby>て<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中は博物館になっていて、8階から大阪の町を見ることができます。",
+      "ruby": "<ruby>中<rt>なか</rt></ruby>は<span class=\"vw\" data-ja=\"博物館\" data-reading=\"はくぶつかん\" data-en=\"museum\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>になっていて、8<ruby>階<rt>かい</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town, city\"><ruby>町<rt>まち</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近の1年間で、およそ280万人が訪れて、今までで一番多くなりました。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>の1<ruby>年間<rt>ねんかん</rt></ruby>で、およそ280<ruby>万人<rt>まんにん</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>て、<ruby>今まで<rt>いままで</rt></ruby>で<span class=\"vw\" data-ja=\"一番\" data-reading=\"いちばん\" data-en=\"the most, number one\"><ruby>一番<rt>いちばん</rt></ruby></span><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良ホテルなど、ほかの7つの建物も、重要文化財になる予定です。",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby>ホテルなど、ほかの7つの<span class=\"vw\" data-ja=\"建物\" data-reading=\"たてもの\" data-en=\"building\"><ruby>建物<rt>たてもの</rt></ruby></span>も、<span class=\"vw\" data-ja=\"重要文化財\" data-reading=\"じゅうようぶんかざい\" data-en=\"Important Cultural Property\"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby></span>になる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の天守閣は、何年に建てられましたか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>は、<ruby>何年<rt>なんねん</rt></ruby>に<ruby>建て<rt>たて</rt></ruby>られましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen thirty-one."
+    },
+    {
+      "speaker": "slow",
+      "text": "だれが、お金を出し合って建てましたか。",
+      "ruby": "だれが、お<ruby>金<rt>かね</rt></ruby>を<ruby>出し<rt>だし</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>て<ruby>建て<rt>たて</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The people of Osaka."
+    },
+    {
+      "speaker": "slow",
+      "text": "天守閣の中は、何になっていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"天守閣\" data-reading=\"てんしゅかく\" data-en=\"castle keep, main tower\"><ruby>天守閣<rt>てんしゅかく</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>になっていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A museum."
+    },
+    {
+      "speaker": "slow",
+      "text": "最近の1年間で、何人ぐらいが訪れましたか。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>の1<ruby>年間<rt>ねんかん</rt></ruby>で、<ruby>何人<rt>なんにん</rt></ruby>ぐらいが<ruby>訪れ<rt>おとずれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two point eight million people."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
