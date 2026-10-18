@@ -1,0 +1,624 @@
+{
+  "episode": 230,
+  "title": "気象庁の緊急地震速報、「M9.9」は誤り　初の取り消し",
+  "date": "2026-10-18",
+  "source": "日本テレビ / FNN / 日本経済新聞 / KAB",
+  "level": "N4-N3",
+  "contentVersion": "2026101801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "緊急地震速報",
+      "reading": "きんきゅうじしんそくほう",
+      "en": "earthquake early warning",
+      "zh": "紧急地震速报"
+    },
+    {
+      "ja": "間違い",
+      "reading": "まちがい",
+      "en": "mistake, error",
+      "zh": "错误"
+    },
+    {
+      "ja": "地域",
+      "reading": "ちいき",
+      "en": "region, area",
+      "zh": "地区，区域"
+    },
+    {
+      "ja": "取り消す",
+      "reading": "とりけす",
+      "en": "to cancel, to withdraw",
+      "zh": "取消，撤销"
+    },
+    {
+      "ja": "実際",
+      "reading": "じっさい",
+      "en": "actual, in reality",
+      "zh": "实际"
+    },
+    {
+      "ja": "揺れ",
+      "reading": "ゆれ",
+      "en": "shaking",
+      "zh": "摇晃，震动"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation",
+      "zh": "观测"
+    },
+    {
+      "ja": "警報",
+      "reading": "けいほう",
+      "en": "warning, alarm",
+      "zh": "警报"
+    },
+    {
+      "ja": "一時",
+      "reading": "いちじ",
+      "en": "temporarily",
+      "zh": "暂时，一时"
+    },
+    {
+      "ja": "見合わせる",
+      "reading": "みあわせる",
+      "en": "to suspend, to hold off",
+      "zh": "暂停，暂缓"
+    },
+    {
+      "ja": "震源",
+      "reading": "しんげん",
+      "en": "epicenter, focus of a quake",
+      "zh": "震源"
+    },
+    {
+      "ja": "計算",
+      "reading": "けいさん",
+      "en": "calculation",
+      "zh": "计算"
+    },
+    {
+      "ja": "離れる",
+      "reading": "はなれる",
+      "en": "to be away from, to be distant",
+      "zh": "离开，相距"
+    },
+    {
+      "ja": "機能",
+      "reading": "きのう",
+      "en": "function, feature",
+      "zh": "功能"
+    },
+    {
+      "ja": "迷惑",
+      "reading": "めいわく",
+      "en": "trouble, inconvenience",
+      "zh": "麻烦，困扰"
+    },
+    {
+      "ja": "謝る",
+      "reading": "あやまる",
+      "en": "to apologize",
+      "zh": "道歉"
+    },
+    {
+      "ja": "対策",
+      "reading": "たいさく",
+      "en": "countermeasure",
+      "zh": "对策"
+    },
+    {
+      "ja": "原因",
+      "reading": "げんいん",
+      "en": "cause",
+      "zh": "原因"
+    },
+    {
+      "ja": "詳しい",
+      "reading": "くわしい",
+      "en": "detailed",
+      "zh": "详细"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "据……说，根据……",
+      "formation": "noun + によると",
+      "example": "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。",
+      "translation": "According to the agency, it got the location of the quake wrong and calculated a size that was far too big.",
+      "note": "Shows the source of information; the sentence often ends with 〜そうです or a report.",
+      "noteZh": "表示信息的来源，句尾常接「〜そうです」等。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#によると"
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ (often with regret)",
+      "meaningZh": "……了（表示遗憾或完了）",
+      "formation": "verb て-form + しまう",
+      "example": "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。",
+      "translation": "It ended up calculating a number that was far too big.",
+      "note": "Shows an action was completed, often with a feeling of regret.",
+      "noteZh": "表示动作完成，常带有遗憾的语气。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てしまう"
+    },
+    {
+      "pattern": "〜すぎる",
+      "meaning": "too ~, excessively",
+      "meaningZh": "太……，过于……",
+      "formation": "い-adj stem / verb ます-stem + すぎる",
+      "example": "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。",
+      "translation": "It calculated the size with a number that was too big.",
+      "note": "Shows something goes beyond the proper level.",
+      "noteZh": "表示超过了适当的程度。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#すぎる"
+    },
+    {
+      "pattern": "〜ため（に）",
+      "meaning": "because of ~",
+      "meaningZh": "因为……，由于……",
+      "formation": "plain form / noun + の + ため",
+      "example": "このルールは、2020年に同じような間違いがあったため、作られたものです。",
+      "translation": "This rule was made because there was a similar mistake in 2020.",
+      "note": "A formal way to give a reason, common in news.",
+      "noteZh": "较正式的表示原因的说法，新闻中常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜ことにしている",
+      "meaning": "have decided to ~, plan to ~",
+      "meaningZh": "决定……，打算……",
+      "formation": "verb dictionary form + ことにしている",
+      "example": "気象庁は、原因をさらに詳しく調べることにしています。",
+      "translation": "The agency plans to look into the cause in more detail.",
+      "note": "Shows a decision the subject has made and is keeping to.",
+      "noteZh": "表示主体已经做出并将执行的决定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことにする"
+    }
+  ],
+  "practiceZh": [
+    "10月16日の昼、気象庁が「緊急地震速報」を出しましたが、これは間違いでした。\n10月16日中午，气象厅发布了“紧急地震速报”，但这是一次错误。\n緊急地震速報 = earthquake early warning / 間違い = mistake, error",
+    "午後0時40分ごろ、北海道から中部地方までの広い地域に、「マグニチュード9.9、最大震度7程度」という速報が出ました。\n中午12点40分左右，从北海道到中部地区的广大区域收到了“最大震度7左右”的速报。",
+    "しかし、約8分後の午後0時48分ごろ、この速報は取り消されました。\n地震规模被告知为9.9级。\n取り消す = to cancel, to withdraw",
+    "実際の地震は、カムチャツカ半島の近くで起きた、マグニチュード6.9の地震でした。\n但是大约8分钟后的12点48分左右，这条速报被取消了。\n実際 = actual, in reality",
+    "警報のレベルの緊急地震速報が取り消されたのは、今回が初めてです。\n实际的地震是发生在堪察加半岛附近的6.9级地震。\n警報 = warning, alarm",
+    "この速報で、東海道新幹線は、一部の区間で一時運転を見合わせました。\n警报级别的紧急地震速报被取消，这是第一次。\n見合わせる = to suspend, to hold off",
+    "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。\n受这条速报影响，东海道新干线部分区间一度暂停运行。\n震源 = epicenter, focus of a quake / 計算 = calculation",
+    "震源から700キロ以上離れた観測点は計算に使わないというルールがありましたが、今回はその機能が正しく動いていませんでした。\n据气象厅说，他们弄错了震源的位置，把地震规模算得过大了。\n離れる = to be away from, to be distant / 機能 = function, feature",
+    "気象庁は「大変ご迷惑をおかけしました」と謝って、その日の夜に対策を行いました。\n原本有一条规则：距离震源700公里以上的观测点不用于计算，但这次这个功能没有正常运作。\n迷惑 = trouble, inconvenience / 対策 = countermeasure",
+    "気象庁は、原因をさらに詳しく調べることにしています。\n气象厅道歉说“给大家添了很大的麻烦”，并在当天晚上采取了对策。\n原因 = cause"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Good evening, this is Japanese Daily News. I'm Maya. Today is October eighteenth. A false earthquake alert surprised much of Japan this week. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月16日の昼、気象庁が「緊急地震速報」を出しましたが、これは間違いでした。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が「<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>」を<ruby>出し<rt>だし</rt></ruby>ましたが、これは<span class=\"vw\" data-ja=\"間違い\" data-reading=\"まちがい\" data-en=\"mistake, error\"><ruby>間違い<rt>まちがい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後0時40分ごろ、北海道から中部地方までの広い地域に、「マグニチュード9.9、最大震度7程度」という速報が出ました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>0<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ぷん</rt></ruby>ごろ、<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>中部地方<rt>ちゅうぶちほう</rt></ruby>までの<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>に、「マグニチュード9.9、<ruby>最大<rt>さいだい</rt></ruby><ruby>震度<rt>しんど</rt></ruby>7<ruby>程度<rt>ていど</rt></ruby>」という<ruby>速報<rt>そくほう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、約8分後の午後0時48分ごろ、この速報は取り消されました。",
+      "ruby": "しかし、<ruby>約<rt>やく</rt></ruby>8<ruby>分後<rt>ぷんご</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>0<ruby>時<rt>じ</rt></ruby>48<ruby>分<rt>ぷん</rt></ruby>ごろ、この<ruby>速報<rt>そくほう</rt></ruby>は<ruby>取り消さ<rt>とりけさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "実際の地震は、カムチャツカ半島の近くで起きた、マグニチュード6.9の地震でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in reality\"><ruby>実際<rt>じっさい</rt></ruby></span>の<ruby>地震<rt>じしん</rt></ruby>は、カムチャツカ<ruby>半島<rt>はんとう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た、マグニチュード6.9の<ruby>地震<rt>じしん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本で観測された揺れは、一番強いところでも震度1でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測<rt>かんそく</rt></ruby></span>された<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>は、<ruby>一番<rt>いちばん</rt></ruby><ruby>強い<rt>つよい</rt></ruby>ところでも<ruby>震度<rt>しんど</rt></ruby>1でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "警報のレベルの緊急地震速報が取り消されたのは、今回が初めてです。",
+      "ruby": "<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>のレベルの<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>が<ruby>取り消さ<rt>とりけさ</rt></ruby>れたのは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この速報で、東海道新幹線は、一部の区間で一時運転を見合わせました。",
+      "ruby": "この<ruby>速報<rt>そくほう</rt></ruby>で、<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>区間<rt>くかん</rt></ruby>で<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>間違え<rt>まちがえ</rt></ruby>て、<ruby>地震<rt>じしん</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>大き<rt>おおき</rt></ruby>すぎる<ruby>数字<rt>すうじ</rt></ruby>で<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>してしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "震源から700キロ以上離れた観測点は計算に使わないというルールがありましたが、今回はその機能が正しく動いていませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>から700キロ<ruby>以上<rt>いじょう</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測点<rt>かんそくてん</rt></ruby></span>は<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>ないというルールがありましたが、<ruby>今回<rt>こんかい</rt></ruby>はその<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>が<ruby>正しく<rt>ただしく</rt></ruby><ruby>動い<rt>うごい</rt></ruby>ていませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "このルールは、2020年に同じような間違いがあったため、作られたものです。",
+      "ruby": "このルールは、2020<ruby>年<rt>ねん</rt></ruby>に<ruby>同じ<rt>おなじ</rt></ruby>ような<span class=\"vw\" data-ja=\"間違い\" data-reading=\"まちがい\" data-en=\"mistake, error\"><ruby>間違い<rt>まちがい</rt></ruby></span>があったため、<ruby>作ら<rt>つくら</rt></ruby>れたものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は「大変ご迷惑をおかけしました」と謝って、その日の夜に対策を行いました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<ruby>大変<rt>たいへん</rt></ruby>ご<span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をおかけしました」と<ruby>謝っ<rt>あやまっ</rt></ruby>て、その<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、原因をさらに詳しく調べることにしています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>をさらに<ruby>詳しく<rt>くわしく</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ることにしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月16日の昼、気象庁が「緊急地震速報」を出しましたが、これは間違いでした。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が「<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>」を<ruby>出し<rt>だし</rt></ruby>ましたが、これは<span class=\"vw\" data-ja=\"間違い\" data-reading=\"まちがい\" data-en=\"mistake, error\"><ruby>間違い<rt>まちがい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October sixteenth at midday, the weather agency sent out an earthquake early warning, but it was a mistake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "緊急地震速報",
+      "ruby": "<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an earthquake early warning, the alert sent to phones and TV before shaking arrives."
+    },
+    {
+      "speaker": "vocab",
+      "text": "間違い",
+      "ruby": "<span class=\"vw\" data-ja=\"間違い\" data-reading=\"まちがい\" data-en=\"mistake, error\"><ruby>間違い<rt>まちがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a mistake."
+    },
+    {
+      "speaker": "slow",
+      "text": "午後0時40分ごろ、北海道から中部地方までの広い地域に、「マグニチュード9.9、最大震度7程度」という速報が出ました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>0<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ぷん</rt></ruby>ごろ、<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>中部地方<rt>ちゅうぶちほう</rt></ruby>までの<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>に、「マグニチュード9.9、<ruby>最大<rt>さいだい</rt></ruby><ruby>震度<rt>しんど</rt></ruby>7<ruby>程度<rt>ていど</rt></ruby>」という<ruby>速報<rt>そくほう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around twelve forty, an alert for a magnitude nine point nine quake with the strongest level of shaking went out from Hokkaido to central Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、約8分後の午後0時48分ごろ、この速報は取り消されました。",
+      "ruby": "しかし、<ruby>約<rt>やく</rt></ruby>8<ruby>分後<rt>ぷんご</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>0<ruby>時<rt>じ</rt></ruby>48<ruby>分<rt>ぷん</rt></ruby>ごろ、この<ruby>速報<rt>そくほう</rt></ruby>は<ruby>取り消さ<rt>とりけさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But about eight minutes later, at around twelve forty-eight, the alert was cancelled."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取り消す",
+      "ruby": "<span class=\"vw\" data-ja=\"取り消す\" data-reading=\"とりけす\" data-en=\"to cancel, to withdraw\"><ruby>取り消す<rt>とりけす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to cancel or take back."
+    },
+    {
+      "speaker": "slow",
+      "text": "実際の地震は、カムチャツカ半島の近くで起きた、マグニチュード6.9の地震でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in reality\"><ruby>実際<rt>じっさい</rt></ruby></span>の<ruby>地震<rt>じしん</rt></ruby>は、カムチャツカ<ruby>半島<rt>はんとう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た、マグニチュード6.9の<ruby>地震<rt>じしん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The real quake was a magnitude six point nine quake near the Kamchatka Peninsula."
+    },
+    {
+      "speaker": "vocab",
+      "text": "実際",
+      "ruby": "<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in reality\"><ruby>実際<rt>じっさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means actual, or in reality."
+    },
+    {
+      "speaker": "slow",
+      "text": "警報のレベルの緊急地震速報が取り消されたのは、今回が初めてです。",
+      "ruby": "<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>のレベルの<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>が<ruby>取り消さ<rt>とりけさ</rt></ruby>れたのは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the first time a warning-level alert has been cancelled."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警報",
+      "ruby": "<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a warning."
+    },
+    {
+      "speaker": "slow",
+      "text": "この速報で、東海道新幹線は、一部の区間で一時運転を見合わせました。",
+      "ruby": "この<ruby>速報<rt>そくほう</rt></ruby>で、<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>区間<rt>くかん</rt></ruby>で<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of the alert, the bullet train stopped running for a while on part of the line."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見合わせる",
+      "ruby": "<span class=\"vw\" data-ja=\"見合わせる\" data-reading=\"みあわせる\" data-en=\"to suspend, to hold off\"><ruby>見合わ<rt>みあわ</rt></ruby>せる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to suspend or hold off."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>間違え<rt>まちがえ</rt></ruby>て、<ruby>地震<rt>じしん</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>大き<rt>おおき</rt></ruby>すぎる<ruby>数字<rt>すうじ</rt></ruby>で<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>してしまいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to the agency, it got the location of the quake wrong and calculated a size that was far too big."
+    },
+    {
+      "speaker": "vocab",
+      "text": "震源",
+      "ruby": "<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the epicenter of a quake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "計算",
+      "ruby": "<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means calculation."
+    },
+    {
+      "speaker": "slow",
+      "text": "震源から700キロ以上離れた観測点は計算に使わないというルールがありましたが、今回はその機能が正しく動いていませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>から700キロ<ruby>以上<rt>いじょう</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測点<rt>かんそくてん</rt></ruby></span>は<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>ないというルールがありましたが、<ruby>今回<rt>こんかい</rt></ruby>はその<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>が<ruby>正しく<rt>ただしく</rt></ruby><ruby>動い<rt>うごい</rt></ruby>ていませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "There was a rule not to use stations more than seven hundred kilometers away, but this time that function did not work properly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "離れる",
+      "ruby": "<span class=\"vw\" data-ja=\"離れる\" data-reading=\"はなれる\" data-en=\"to be away from, to be distant\"><ruby>離れ<rt>はなれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be far from something."
+    },
+    {
+      "speaker": "vocab",
+      "text": "機能",
+      "ruby": "<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a function or feature."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は「大変ご迷惑をおかけしました」と謝って、その日の夜に対策を行いました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<ruby>大変<rt>たいへん</rt></ruby>ご<span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をおかけしました」と<ruby>謝っ<rt>あやまっ</rt></ruby>て、その<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency apologized for the trouble and put a fix in place that night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "迷惑",
+      "ruby": "<span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means trouble or inconvenience to others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対策",
+      "ruby": "<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a countermeasure."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、原因をさらに詳しく調べることにしています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>をさらに<ruby>詳しく<rt>くわしく</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ることにしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The agency plans to look into the cause in more detail."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原因",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cause."
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's listen to the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月16日の昼、気象庁が「緊急地震速報」を出しましたが、これは間違いでした。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が「<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>」を<ruby>出し<rt>だし</rt></ruby>ましたが、これは<span class=\"vw\" data-ja=\"間違い\" data-reading=\"まちがい\" data-en=\"mistake, error\"><ruby>間違い<rt>まちがい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後0時40分ごろ、北海道から中部地方までの広い地域に、「マグニチュード9.9、最大震度7程度」という速報が出ました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>0<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ぷん</rt></ruby>ごろ、<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>中部地方<rt>ちゅうぶちほう</rt></ruby>までの<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>に、「マグニチュード9.9、<ruby>最大<rt>さいだい</rt></ruby><ruby>震度<rt>しんど</rt></ruby>7<ruby>程度<rt>ていど</rt></ruby>」という<ruby>速報<rt>そくほう</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、約8分後の午後0時48分ごろ、この速報は取り消されました。",
+      "ruby": "しかし、<ruby>約<rt>やく</rt></ruby>8<ruby>分後<rt>ぷんご</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>0<ruby>時<rt>じ</rt></ruby>48<ruby>分<rt>ぷん</rt></ruby>ごろ、この<ruby>速報<rt>そくほう</rt></ruby>は<ruby>取り消さ<rt>とりけさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "実際の地震は、カムチャツカ半島の近くで起きた、マグニチュード6.9の地震でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in reality\"><ruby>実際<rt>じっさい</rt></ruby></span>の<ruby>地震<rt>じしん</rt></ruby>は、カムチャツカ<ruby>半島<rt>はんとう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た、マグニチュード6.9の<ruby>地震<rt>じしん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本で観測された揺れは、一番強いところでも震度1でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>で<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測<rt>かんそく</rt></ruby></span>された<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>は、<ruby>一番<rt>いちばん</rt></ruby><ruby>強い<rt>つよい</rt></ruby>ところでも<ruby>震度<rt>しんど</rt></ruby>1でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "警報のレベルの緊急地震速報が取り消されたのは、今回が初めてです。",
+      "ruby": "<span class=\"vw\" data-ja=\"警報\" data-reading=\"けいほう\" data-en=\"warning, alarm\"><ruby>警報<rt>けいほう</rt></ruby></span>のレベルの<span class=\"vw\" data-ja=\"緊急地震速報\" data-reading=\"きんきゅうじしんそくほう\" data-en=\"earthquake early warning\"><ruby>緊急<rt>きんきゅう</rt></ruby><ruby>地震<rt>じしん</rt></ruby><ruby>速報<rt>そくほう</rt></ruby></span>が<ruby>取り消さ<rt>とりけさ</rt></ruby>れたのは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この速報で、東海道新幹線は、一部の区間で一時運転を見合わせました。",
+      "ruby": "この<ruby>速報<rt>そくほう</rt></ruby>で、<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>区間<rt>くかん</rt></ruby>で<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>を<ruby>見合わ<rt>みあわ</rt></ruby>せました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁によると、震源の場所を間違えて、地震の大きさを大きすぎる数字で計算してしまいました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>間違え<rt>まちがえ</rt></ruby>て、<ruby>地震<rt>じしん</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>大き<rt>おおき</rt></ruby>すぎる<ruby>数字<rt>すうじ</rt></ruby>で<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>してしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "震源から700キロ以上離れた観測点は計算に使わないというルールがありましたが、今回はその機能が正しく動いていませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>から700キロ<ruby>以上<rt>いじょう</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測点<rt>かんそくてん</rt></ruby></span>は<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>ないというルールがありましたが、<ruby>今回<rt>こんかい</rt></ruby>はその<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>が<ruby>正しく<rt>ただしく</rt></ruby><ruby>動い<rt>うごい</rt></ruby>ていませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "このルールは、2020年に同じような間違いがあったため、作られたものです。",
+      "ruby": "このルールは、2020<ruby>年<rt>ねん</rt></ruby>に<ruby>同じ<rt>おなじ</rt></ruby>ような<span class=\"vw\" data-ja=\"間違い\" data-reading=\"まちがい\" data-en=\"mistake, error\"><ruby>間違い<rt>まちがい</rt></ruby></span>があったため、<ruby>作ら<rt>つくら</rt></ruby>れたものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は「大変ご迷惑をおかけしました」と謝って、その日の夜に対策を行いました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<ruby>大変<rt>たいへん</rt></ruby>ご<span class=\"vw\" data-ja=\"迷惑\" data-reading=\"めいわく\" data-en=\"trouble, inconvenience\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をおかけしました」と<ruby>謝っ<rt>あやまっ</rt></ruby>て、その<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<span class=\"vw\" data-ja=\"対策\" data-reading=\"たいさく\" data-en=\"countermeasure\"><ruby>対策<rt>たいさく</rt></ruby></span>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、原因をさらに詳しく調べることにしています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>をさらに<ruby>詳しく<rt>くわしく</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ることにしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Answer each question."
+    },
+    {
+      "speaker": "slow",
+      "text": "速報で伝えられたマグニチュードは、いくつでしたか。",
+      "ruby": "<ruby>速報<rt>そくほう</rt></ruby>で<ruby>伝え<rt>つたえ</rt></ruby>られたマグニチュードは、いくつでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nine point nine."
+    },
+    {
+      "speaker": "slow",
+      "text": "実際の地震は、どこの近くで起きましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"実際\" data-reading=\"じっさい\" data-en=\"actual, in reality\"><ruby>実際<rt>じっさい</rt></ruby></span>の<ruby>地震<rt>じしん</rt></ruby>は、どこの<ruby>近く<rt>ちかく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Near the Kamchatka Peninsula."
+    },
+    {
+      "speaker": "slow",
+      "text": "速報は、何分後に取り消されましたか。",
+      "ruby": "<ruby>速報<rt>そくほう</rt></ruby>は、<ruby>何分<rt>なんぷん</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>取り消さ<rt>とりけさ</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eight minutes later."
+    },
+    {
+      "speaker": "slow",
+      "text": "計算に使わないのは、震源から何キロ以上離れた観測点ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"計算\" data-reading=\"けいさん\" data-en=\"calculation\"><ruby>計算<rt>けいさん</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>ないのは、<span class=\"vw\" data-ja=\"震源\" data-reading=\"しんげん\" data-en=\"epicenter, focus of a quake\"><ruby>震源<rt>しんげん</rt></ruby></span>から<ruby>何<rt>なに</rt></ruby>キロ<ruby>以上<rt>いじょう</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation\"><ruby>観測点<rt>かんそくてん</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven hundred kilometers or more."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
