@@ -1,0 +1,553 @@
+{
+  "episode": 231,
+  "title": "前橋のデパート「スズラン」で最後の物産展、行列に",
+  "date": "2026-10-19",
+  "source": "時事通信 / 上毛新聞 / 日本経済新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026101901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "デパート",
+      "reading": "でぱーと",
+      "en": "department store",
+      "zh": "百货商店"
+    },
+    {
+      "ja": "物産展",
+      "reading": "ぶっさんてん",
+      "en": "regional products fair",
+      "zh": "物产展，特产展"
+    },
+    {
+      "ja": "閉める",
+      "reading": "しめる",
+      "en": "to close (something)",
+      "zh": "关（店），关闭"
+    },
+    {
+      "ja": "全国",
+      "reading": "ぜんこく",
+      "en": "the whole country, nationwide",
+      "zh": "全国"
+    },
+    {
+      "ja": "開く",
+      "reading": "あく",
+      "en": "to open",
+      "zh": "开，开门"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to line up",
+      "zh": "排队"
+    },
+    {
+      "ja": "豚まん",
+      "reading": "ぶたまん",
+      "en": "steamed pork bun",
+      "zh": "猪肉包子"
+    },
+    {
+      "ja": "特に",
+      "reading": "とくに",
+      "en": "especially",
+      "zh": "特别"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popular, popularity",
+      "zh": "人气，受欢迎"
+    },
+    {
+      "ja": "洋服",
+      "reading": "ようふく",
+      "en": "clothes (Western-style)",
+      "zh": "西服，衣服"
+    },
+    {
+      "ja": "閉まる",
+      "reading": "しまる",
+      "en": "to close, to be closed",
+      "zh": "关闭，关门"
+    },
+    {
+      "ja": "なくなる",
+      "reading": "なくなる",
+      "en": "to disappear, to be gone",
+      "zh": "没有了，消失"
+    },
+    {
+      "ja": "残念",
+      "reading": "ざんねん",
+      "en": "too bad, a pity",
+      "zh": "遗憾，可惜"
+    },
+    {
+      "ja": "感謝",
+      "reading": "かんしゃ",
+      "en": "thanks, gratitude",
+      "zh": "感谢"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~, so ~",
+      "meaningZh": "因为……所以……",
+      "formation": "plain form + ので (な-adj/noun + なので)",
+      "example": "人が多かったので、店はいつもより5分早く開きました。",
+      "translation": "Because there were many people, the store opened five minutes earlier than usual.",
+      "note": "Gives a reason in a soft, objective way. Common in news and polite speech.",
+      "noteZh": "用来客观、委婉地说明原因，在新闻和礼貌用语中很常见。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ので"
+    },
+    {
+      "pattern": "〜と",
+      "meaning": "when ~, if ~ (natural result)",
+      "meaningZh": "一……就……（自然结果）",
+      "formation": "verb dictionary form + と",
+      "example": "前橋店が閉まると、前橋市にはデパートがなくなります。",
+      "translation": "When the Maebashi store closes, there will be no department store in Maebashi.",
+      "note": "Shows that one thing naturally or always leads to another.",
+      "noteZh": "表示前面的事情发生后，后面的结果必然或自然会出现。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "than ~",
+      "meaningZh": "比……",
+      "formation": "noun + より",
+      "example": "店はいつもより5分早く開きました。",
+      "translation": "The store opened five minutes earlier than usual.",
+      "note": "Marks the thing being compared against.",
+      "noteZh": "表示比较的对象。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#より"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……（非说话人自己决定）",
+      "formation": "verb dictionary/ない-form + ことになる",
+      "example": "スズラン前橋店は、11月30日で店を閉めることになりました。",
+      "translation": "The Maebashi store is going to close on November 30th.",
+      "note": "Used when a decision is made by others or by circumstances.",
+      "noteZh": "表示由他人或客观情况做出的决定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    }
+  ],
+  "practiceZh": [
+    "群馬県前橋市のデパート「スズラン」で、最後の物産展が開かれています。\n群马县前桥市的百货商店“铃兰”正在举办最后一次物产展。\nデパート = department store / 物産展 = regional products fair",
+    "スズラン前橋店は、11月30日で店を閉めることになりました。\n铃兰前桥店决定于11月30日关门。\n閉める = to close (something)",
+    "今回の物産展には、北海道や全国から、65の店が来ています。\n这次物产展有来自北海道和全国各地的65家店铺参加。\n全国 = the whole country, nationwide",
+    "初めの日は、店が開く前に、およそ300人が並びました。\n第一天开门前，大约有300人排队。\n開く = to open / 並ぶ = to line up",
+    "人が多かったので、店はいつもより5分早く開きました。\n因为人很多，商店比平时早5分钟开门。",
+    "大阪の豚まんの店が特に人気で、朝7時から並ぶ人もいました。\n大阪的猪肉包子店特别受欢迎，有人从早上7点就开始排队。\n豚まん = steamed pork bun / 特に = especially / 人気 = popular, popularity",
+    "スズランは1952年に洋服の店として始まり、1968年からデパートになりました。\n铃兰1952年以服装店起家，1968年起成为百货商店。\n洋服 = clothes (Western-style)",
+    "前橋店が閉まると、前橋市にはデパートがなくなります。\n前桥店关门后，前桥市将没有百货商店。\n閉まる = to close, to be closed / なくなる = to disappear, to be gone",
+    "店の人は「閉店はとても残念ですが、たくさんのお客さんが来てくれて、本当に感謝しています」と話しました。\n店员说：“关门非常遗憾，但有这么多顾客来，我们真的非常感谢。”\n残念 = too bad, a pity / 感謝 = thanks, gratitude",
+    "物産展は、10月20日までです。\n物产展到10月20日为止。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October nineteenth. A department store in Gunma is closing soon, and its last food fair is drawing long lines. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県前橋市のデパート「スズラン」で、最後の物産展が開かれています。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>前橋市<rt>まえばしし</rt></ruby>の<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>「スズラン」で、<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>が<ruby>開か<rt>ひらか</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズラン前橋店は、11月30日で店を閉めることになりました。",
+      "ruby": "スズラン<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>で<ruby>店<rt>みせ</rt></ruby>を<span class=\"vw\" data-ja=\"閉める\" data-reading=\"しめる\" data-en=\"to close (something)\"><ruby>閉め<rt>しめ</rt></ruby>ることになりました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の物産展には、北海道や全国から、65の店が来ています。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>には、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>から、65の<ruby>店<rt>みせ</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "初めの日は、店が開く前に、およそ300人が並びました。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、<ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"開く\" data-reading=\"あく\" data-en=\"to open\"><ruby>開く<rt>あく</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>に、およそ300<ruby>人<rt>にん</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "人が多かったので、店はいつもより5分早く開きました。",
+      "ruby": "<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので、<ruby>店<rt>みせ</rt></ruby>はいつもより5<ruby>分<rt>ふん</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>開き<rt>あき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪の豚まんの店が特に人気で、朝7時から並ぶ人もいました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"豚まん\" data-reading=\"ぶたまん\" data-en=\"steamed pork bun\"><ruby>豚<rt>ぶた</rt></ruby>まんの</span><ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"特に\" data-reading=\"とくに\" data-en=\"especially\"><ruby>特に<rt>とくに</rt></ruby></span><span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>で、<ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>から<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズランは1952年に洋服の店として始まり、1968年からデパートになりました。",
+      "ruby": "スズランは1952<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"洋服\" data-reading=\"ようふく\" data-en=\"clothes (Western-style)\"><ruby>洋服<rt>ようふく</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>として<ruby>始まり<rt>はじまり</rt></ruby>、1968<ruby>年<rt>ねん</rt></ruby>から<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "前橋店が閉まると、前橋市にはデパートがなくなります。",
+      "ruby": "<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"閉まる\" data-reading=\"しまる\" data-en=\"to close, to be closed\"><ruby>閉ま<rt>しま</rt></ruby>ると</span>、<ruby>前橋市<rt>まえばしし</rt></ruby>には<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>がなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の人は「閉店はとても残念ですが、たくさんのお客さんが来てくれて、本当に感謝しています」と話しました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>閉店<rt>へいてん</rt></ruby>はとても<span class=\"vw\" data-ja=\"残念\" data-reading=\"ざんねん\" data-en=\"too bad, a pity\"><ruby>残念<rt>ざんねん</rt></ruby></span>ですが、たくさんのお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>来て<rt>きて</rt></ruby>くれて、<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"thanks, gratitude\"><ruby>感謝し<rt>かんしゃし</rt></ruby></span>ています」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物産展は、10月20日までです。",
+      "ruby": "<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "群馬県前橋市のデパート「スズラン」で、最後の物産展が開かれています。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>前橋市<rt>まえばしし</rt></ruby>の<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>「スズラン」で、<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>が<ruby>開か<rt>ひらか</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a department store in Maebashi, in Gunma Prefecture, the store's last regional food fair is being held."
+    },
+    {
+      "speaker": "vocab",
+      "text": "デパート",
+      "ruby": "<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a department store."
+    },
+    {
+      "speaker": "vocab",
+      "text": "物産展",
+      "ruby": "<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fair that sells special foods and goods from different regions."
+    },
+    {
+      "speaker": "slow",
+      "text": "スズラン前橋店は、11月30日で店を閉めることになりました。",
+      "ruby": "スズラン<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>で<ruby>店<rt>みせ</rt></ruby>を<span class=\"vw\" data-ja=\"閉める\" data-reading=\"しめる\" data-en=\"to close (something)\"><ruby>閉め<rt>しめ</rt></ruby>ることになりました</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Maebashi store is going to close on November thirtieth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "閉める",
+      "ruby": "<span class=\"vw\" data-ja=\"閉める\" data-reading=\"しめる\" data-en=\"to close (something)\"><ruby>閉め<rt>しめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to close, or to shut."
+    },
+    {
+      "speaker": "slow",
+      "text": "今回の物産展には、北海道や全国から、65の店が来ています。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>には、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>から、65の<ruby>店<rt>みせ</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty-five shops from Hokkaido and all over the country have come to this fair."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全国",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the whole country."
+    },
+    {
+      "speaker": "slow",
+      "text": "初めの日は、店が開く前に、およそ300人が並びました。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、<ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"開く\" data-reading=\"あく\" data-en=\"to open\"><ruby>開く<rt>あく</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>に、およそ300<ruby>人<rt>にん</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the first day, about three hundred people lined up before the store opened."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"あく\" data-en=\"to open\"><ruby>開く<rt>あく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open."
+    },
+    {
+      "speaker": "vocab",
+      "text": "並ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to line up, or to wait in a line."
+    },
+    {
+      "speaker": "slow",
+      "text": "人が多かったので、店はいつもより5分早く開きました。",
+      "ruby": "<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので、<ruby>店<rt>みせ</rt></ruby>はいつもより5<ruby>分<rt>ふん</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>開き<rt>あき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because there were so many people, the store opened five minutes earlier than usual."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪の豚まんの店が特に人気で、朝7時から並ぶ人もいました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"豚まん\" data-reading=\"ぶたまん\" data-en=\"steamed pork bun\"><ruby>豚<rt>ぶた</rt></ruby>まんの</span><ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"特に\" data-reading=\"とくに\" data-en=\"especially\"><ruby>特に<rt>とくに</rt></ruby></span><span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>で、<ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>から<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A pork bun shop from Osaka was especially popular, and some people lined up from seven in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "豚まん",
+      "ruby": "<span class=\"vw\" data-ja=\"豚まん\" data-reading=\"ぶたまん\" data-en=\"steamed pork bun\"><ruby>豚<rt>ぶた</rt></ruby>まん</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a steamed pork bun."
+    },
+    {
+      "speaker": "vocab",
+      "text": "特に",
+      "ruby": "<span class=\"vw\" data-ja=\"特に\" data-reading=\"とくに\" data-en=\"especially\"><ruby>特に<rt>とくに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means especially."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popular, or popularity."
+    },
+    {
+      "speaker": "slow",
+      "text": "スズランは1952年に洋服の店として始まり、1968年からデパートになりました。",
+      "ruby": "スズランは1952<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"洋服\" data-reading=\"ようふく\" data-en=\"clothes (Western-style)\"><ruby>洋服<rt>ようふく</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>として<ruby>始まり<rt>はじまり</rt></ruby>、1968<ruby>年<rt>ねん</rt></ruby>から<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company started as a clothing shop in nineteen fifty-two, and became a department store in nineteen sixty-eight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "洋服",
+      "ruby": "<span class=\"vw\" data-ja=\"洋服\" data-reading=\"ようふく\" data-en=\"clothes (Western-style)\"><ruby>洋服<rt>ようふく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clothes, especially Western-style clothes."
+    },
+    {
+      "speaker": "slow",
+      "text": "前橋店が閉まると、前橋市にはデパートがなくなります。",
+      "ruby": "<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"閉まる\" data-reading=\"しまる\" data-en=\"to close, to be closed\"><ruby>閉ま<rt>しま</rt></ruby>ると</span>、<ruby>前橋市<rt>まえばしし</rt></ruby>には<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>がなくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the Maebashi store closes, the city of Maebashi will have no department store."
+    },
+    {
+      "speaker": "vocab",
+      "text": "閉まる",
+      "ruby": "<span class=\"vw\" data-ja=\"閉まる\" data-reading=\"しまる\" data-en=\"to close, to be closed\"><ruby>閉ま<rt>しま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be closed. The store itself closes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "なくなる",
+      "ruby": "<span class=\"vw\" data-ja=\"なくなる\" data-reading=\"なくなる\" data-en=\"to disappear, to be gone\">なくなる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to disappear, or to be gone."
+    },
+    {
+      "speaker": "slow",
+      "text": "店の人は「閉店はとても残念ですが、たくさんのお客さんが来てくれて、本当に感謝しています」と話しました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>閉店<rt>へいてん</rt></ruby>はとても<span class=\"vw\" data-ja=\"残念\" data-reading=\"ざんねん\" data-en=\"too bad, a pity\"><ruby>残念<rt>ざんねん</rt></ruby></span>ですが、たくさんのお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>来て<rt>きて</rt></ruby>くれて、<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"thanks, gratitude\"><ruby>感謝し<rt>かんしゃし</rt></ruby></span>ています」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A store worker said, \"Closing is very sad, but so many customers have come, and we are truly grateful.\""
+    },
+    {
+      "speaker": "vocab",
+      "text": "残念",
+      "ruby": "<span class=\"vw\" data-ja=\"残念\" data-reading=\"ざんねん\" data-en=\"too bad, a pity\"><ruby>残念<rt>ざんねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means too bad, or a pity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感謝",
+      "ruby": "<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"thanks, gratitude\"><ruby>感謝<rt>かんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means thanks, or gratitude."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県前橋市のデパート「スズラン」で、最後の物産展が開かれています。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>前橋市<rt>まえばしし</rt></ruby>の<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>「スズラン」で、<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>が<ruby>開か<rt>ひらか</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズラン前橋店は、11月30日で店を閉めることになりました。",
+      "ruby": "スズラン<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>で<ruby>店<rt>みせ</rt></ruby>を<span class=\"vw\" data-ja=\"閉める\" data-reading=\"しめる\" data-en=\"to close (something)\"><ruby>閉め<rt>しめ</rt></ruby>ることになりました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回の物産展には、北海道や全国から、65の店が来ています。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>には、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>から、65の<ruby>店<rt>みせ</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "初めの日は、店が開く前に、およそ300人が並びました。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、<ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"開く\" data-reading=\"あく\" data-en=\"to open\"><ruby>開く<rt>あく</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>に、およそ300<ruby>人<rt>にん</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "人が多かったので、店はいつもより5分早く開きました。",
+      "ruby": "<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので、<ruby>店<rt>みせ</rt></ruby>はいつもより5<ruby>分<rt>ふん</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>開き<rt>あき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪の豚まんの店が特に人気で、朝7時から並ぶ人もいました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"豚まん\" data-reading=\"ぶたまん\" data-en=\"steamed pork bun\"><ruby>豚<rt>ぶた</rt></ruby>まんの</span><ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"特に\" data-reading=\"とくに\" data-en=\"especially\"><ruby>特に<rt>とくに</rt></ruby></span><span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>で、<ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>から<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span><ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スズランは1952年に洋服の店として始まり、1968年からデパートになりました。",
+      "ruby": "スズランは1952<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"洋服\" data-reading=\"ようふく\" data-en=\"clothes (Western-style)\"><ruby>洋服<rt>ようふく</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>として<ruby>始まり<rt>はじまり</rt></ruby>、1968<ruby>年<rt>ねん</rt></ruby>から<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "前橋店が閉まると、前橋市にはデパートがなくなります。",
+      "ruby": "<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"閉まる\" data-reading=\"しまる\" data-en=\"to close, to be closed\"><ruby>閉ま<rt>しま</rt></ruby>ると</span>、<ruby>前橋市<rt>まえばしし</rt></ruby>には<span class=\"vw\" data-ja=\"デパート\" data-reading=\"でぱーと\" data-en=\"department store\">デパート</span>がなくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の人は「閉店はとても残念ですが、たくさんのお客さんが来てくれて、本当に感謝しています」と話しました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>閉店<rt>へいてん</rt></ruby>はとても<span class=\"vw\" data-ja=\"残念\" data-reading=\"ざんねん\" data-en=\"too bad, a pity\"><ruby>残念<rt>ざんねん</rt></ruby></span>ですが、たくさんのお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>来て<rt>きて</rt></ruby>くれて、<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"thanks, gratitude\"><ruby>感謝し<rt>かんしゃし</rt></ruby></span>ています」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物産展は、10月20日までです。",
+      "ruby": "<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>までです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "スズラン前橋店は、いつ店を閉めますか。",
+      "ruby": "スズラン<ruby>前橋<rt>まえばし</rt></ruby><ruby>店<rt>みせ</rt></ruby>は、いつ<ruby>店<rt>みせ</rt></ruby>を<ruby>閉め<rt>しめ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November thirtieth."
+    },
+    {
+      "speaker": "slow",
+      "text": "初めの日、店が開く前に、何人ぐらい並びましたか。",
+      "ruby": "<ruby>初め<rt>はじめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>が<span class=\"vw\" data-ja=\"開く\" data-reading=\"あく\" data-en=\"to open\"><ruby>開く<rt>あく</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>に、<ruby>何人<rt>なんにん</rt></ruby>ぐらい<ruby>並び<rt>ならび</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three hundred people."
+    },
+    {
+      "speaker": "slow",
+      "text": "物産展は、いつまでですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"物産展\" data-reading=\"ぶっさんてん\" data-en=\"regional products fair\"><ruby>物産<rt>ぶっさん</rt></ruby><ruby>展<rt>てん</rt></ruby></span>は、いつまでですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until October twentieth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
