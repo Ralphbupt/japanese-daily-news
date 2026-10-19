@@ -1,0 +1,596 @@
+{
+  "episode": 233,
+  "title": "福岡空港、操縦室に小さい動物　飛行機が欠航",
+  "date": "2026-10-20",
+  "source": "NHK / 共同通信 / KBC九州朝日放送",
+  "level": "N5-N4",
+  "contentVersion": "2026102001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "空港",
+      "reading": "くうこう",
+      "en": "airport",
+      "zh": "机场"
+    },
+    {
+      "ja": "飛行機",
+      "reading": "ひこうき",
+      "en": "airplane",
+      "zh": "飞机"
+    },
+    {
+      "ja": "動物",
+      "reading": "どうぶつ",
+      "en": "animal",
+      "zh": "动物"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "準備",
+      "reading": "じゅんび",
+      "en": "preparation",
+      "zh": "准备"
+    },
+    {
+      "ja": "見つける",
+      "reading": "みつける",
+      "en": "to find",
+      "zh": "找到，发现"
+    },
+    {
+      "ja": "逃げる",
+      "reading": "にげる",
+      "en": "to run away, to escape",
+      "zh": "逃跑"
+    },
+    {
+      "ja": "電気",
+      "reading": "でんき",
+      "en": "electricity",
+      "zh": "电"
+    },
+    {
+      "ja": "危ない",
+      "reading": "あぶない",
+      "en": "dangerous",
+      "zh": "危险"
+    },
+    {
+      "ja": "乗る",
+      "reading": "のる",
+      "en": "to ride, to get on",
+      "zh": "乘坐"
+    },
+    {
+      "ja": "出発",
+      "reading": "しゅっぱつ",
+      "en": "departure",
+      "zh": "出发"
+    },
+    {
+      "ja": "線",
+      "reading": "せん",
+      "en": "line, wire",
+      "zh": "线"
+    },
+    {
+      "ja": "かむ",
+      "reading": "かむ",
+      "en": "to bite",
+      "zh": "咬"
+    },
+    {
+      "ja": "まだ",
+      "reading": "まだ",
+      "en": "still, not yet",
+      "zh": "还，尚未"
+    },
+    {
+      "ja": "欠航",
+      "reading": "けっこう",
+      "en": "flight cancellation",
+      "zh": "（航班）停飞，取消"
+    },
+    {
+      "ja": "見つかる",
+      "reading": "みつかる",
+      "en": "to be found",
+      "zh": "被找到"
+    },
+    {
+      "ja": "珍しい",
+      "reading": "めずらしい",
+      "en": "rare, unusual",
+      "zh": "少见，稀奇"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜予定です",
+      "meaning": "be scheduled to ~, plan to ~",
+      "meaningZh": "预定……，计划……",
+      "formation": "verb dictionary form + 予定です",
+      "example": "およそ40人が乗る予定でした。",
+      "translation": "About forty people were scheduled to board.",
+      "note": "Used for fixed plans and schedules, very common in news.",
+      "noteZh": "表示已经定好的计划或日程，新闻中很常见。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定"
+    },
+    {
+      "pattern": "〜とき",
+      "meaning": "when ~, while ~",
+      "meaningZh": "……的时候",
+      "formation": "verb plain form / ている-form + とき",
+      "example": "出発の準備をしているとき、パイロットが小さい動物を見つけました。",
+      "translation": "While they were preparing to leave, a pilot found a small animal.",
+      "note": "Marks the time when something else happens.",
+      "noteZh": "表示另一件事发生的时间点。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#とき"
+    },
+    {
+      "pattern": "〜と",
+      "meaning": "if ~, when ~ (natural result)",
+      "meaningZh": "如果……就……（自然结果）",
+      "formation": "verb dictionary form + と",
+      "example": "動物が電気の線をかむと、危ないです。",
+      "translation": "If the animal bites the electric wires, it is dangerous.",
+      "note": "Shows that one thing naturally leads to a result.",
+      "noteZh": "表示前项一发生，后项的结果就自然出现。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜ても",
+      "meaning": "even if ~, even when ~",
+      "meaningZh": "即使……也……",
+      "formation": "verb て-form + も",
+      "example": "午後4時になっても、動物は見つかりませんでした。",
+      "translation": "Even at four in the afternoon, the animal was not found.",
+      "note": "The result is different from what you would expect.",
+      "noteZh": "表示结果与预期相反。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ても"
+    }
+  ],
+  "practiceZh": [
+    "19日、福岡空港で、飛行機の操縦室に小さい動物が入っていました。\n19日，在福冈机场，一只小动物钻进了飞机的驾驶舱。\n空港 = airport / 飛行機 = airplane / 動物 = animal",
+    "この飛行機は、福岡から鹿児島へ行く予定で、およそ40人が乗る予定でした。\n这架飞机原定从福冈飞往鹿儿岛，大约有40人预定搭乘。\n予定 = plan, schedule / 乗る = to ride, to get on",
+    "出発の準備をしているとき、パイロットが小さい動物を見つけました。\n在做出发准备的时候，飞行员发现了小动物。\n出発 = departure / 準備 = preparation / 見つける = to find",
+    "でも、動物はすぐに逃げて、どこにいるか、わからなくなりました。\n但是动物马上逃走了，不知道跑到哪里去了。\n逃げる = to run away, to escape",
+    "動物が飛行機の中の電気の線をかむと、危ないです。\n如果动物咬了飞机里的电线，会很危险。\n電気 = electricity / 線 = line, wire / かむ = to bite / 危ない = dangerous",
+    "それで、会社はこの飛行機を欠航にしました。\n因此，公司取消了这趟航班。\n欠航 = flight cancellation",
+    "午後4時になっても、動物は見つかりませんでした。\n到了下午4点，动物还是没有找到。\n見つかる = to be found",
+    "何の動物か、まだわかっていません。\n还不知道是什么动物。\nまだ = still, not yet",
+    "会社は「小さい動物で欠航になるのは珍しいです」と話しました。\n公司表示：“因为小动物而取消航班是很少见的。”\n珍しい = rare, unusual"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twentieth. A small animal sneaked into the cockpit of a plane in Fukuoka, and the flight was cancelled. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日、福岡空港で、飛行機の操縦室に小さい動物が入っていました。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>、<ruby>福岡空港<rt>ふくおかくうこう</rt></ruby>で、<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>の<ruby>操縦室<rt>そうじゅうしつ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>っていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この飛行機は、福岡から鹿児島へ行く予定で、およそ40人が乗る予定でした。",
+      "ruby": "この<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>は、<ruby>福岡<rt>ふくおか</rt></ruby>から<ruby>鹿児島<rt>かごしま</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>で、およそ40<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"乗る\" data-reading=\"のる\" data-en=\"to ride, to get on\"><ruby>乗る<rt>のる</rt></ruby></span><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "出発の準備をしているとき、パイロットが小さい動物を見つけました。",
+      "ruby": "<span class=\"vw\" data-ja=\"出発\" data-reading=\"しゅっぱつ\" data-en=\"departure\"><ruby>出発<rt>しゅっぱつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>をしているとき、パイロットが<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、動物はすぐに逃げて、どこにいるか、わからなくなりました。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>はすぐに<ruby>逃げ<rt>にげ</rt></ruby>て、どこにいるか、わからなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物が飛行機の中の電気の線をかむと、危ないです。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>が<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"電気\" data-reading=\"でんき\" data-en=\"electricity\"><ruby>電気<rt>でんき</rt></ruby></span>の<span class=\"vw\" data-ja=\"線\" data-reading=\"せん\" data-en=\"line, wire\"><ruby>線<rt>せん</rt></ruby></span>をかむと、<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで、会社はこの飛行機を欠航にしました。",
+      "ruby": "それで、<ruby>会社<rt>かいしゃ</rt></ruby>はこの<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後4時になっても、動物は見つかりませんでした。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>になっても、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かりませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "何の動物か、まだわかっていません。",
+      "ruby": "<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>か、<span class=\"vw\" data-ja=\"まだ\" data-reading=\"まだ\" data-en=\"still, not yet\">まだわかっていません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は「小さい動物で欠航になるのは珍しいです」と話しました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>で<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>になるのは<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "19日、福岡空港で、飛行機の操縦室に小さい動物が入っていました。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>、<ruby>福岡空港<rt>ふくおかくうこう</rt></ruby>で、<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>の<ruby>操縦室<rt>そうじゅうしつ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>っていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the nineteenth, at Fukuoka Airport, a small animal had gotten into the cockpit of a plane."
+    },
+    {
+      "speaker": "vocab",
+      "text": "空港",
+      "ruby": "<span class=\"vw\" data-ja=\"空港\" data-reading=\"くうこう\" data-en=\"airport\"><ruby>空港<rt>くうこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means airport."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飛行機",
+      "ruby": "<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means airplane."
+    },
+    {
+      "speaker": "vocab",
+      "text": "動物",
+      "ruby": "<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means animal."
+    },
+    {
+      "speaker": "slow",
+      "text": "この飛行機は、福岡から鹿児島へ行く予定で、およそ40人が乗る予定でした。",
+      "ruby": "この<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>は、<ruby>福岡<rt>ふくおか</rt></ruby>から<ruby>鹿児島<rt>かごしま</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>で、およそ40<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"乗る\" data-reading=\"のる\" data-en=\"to ride, to get on\"><ruby>乗る<rt>のる</rt></ruby></span><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The plane was going to fly from Fukuoka to Kagoshima, and about forty people were going to board it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or schedule. Here it shows something was scheduled to happen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "乗る",
+      "ruby": "<span class=\"vw\" data-ja=\"乗る\" data-reading=\"のる\" data-en=\"to ride, to get on\"><ruby>乗る<rt>のる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to ride, or to get on."
+    },
+    {
+      "speaker": "slow",
+      "text": "出発の準備をしているとき、パイロットが小さい動物を見つけました。",
+      "ruby": "<span class=\"vw\" data-ja=\"出発\" data-reading=\"しゅっぱつ\" data-en=\"departure\"><ruby>出発<rt>しゅっぱつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>をしているとき、パイロットが<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "host",
+      "text": "While they were getting ready to leave, a pilot found the small animal."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出発",
+      "ruby": "<span class=\"vw\" data-ja=\"出発\" data-reading=\"しゅっぱつ\" data-en=\"departure\"><ruby>出発<rt>しゅっぱつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means departure."
+    },
+    {
+      "speaker": "vocab",
+      "text": "準備",
+      "ruby": "<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means preparation, or getting ready."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見つける",
+      "ruby": "<span class=\"vw\" data-ja=\"見つける\" data-reading=\"みつける\" data-en=\"to find\"><ruby>見つ<rt>みつ</rt></ruby>ける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to find something."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、動物はすぐに逃げて、どこにいるか、わからなくなりました。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>はすぐに<ruby>逃げ<rt>にげ</rt></ruby>て、どこにいるか、わからなくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But the animal quickly ran away, and nobody knew where it was."
+    },
+    {
+      "speaker": "vocab",
+      "text": "逃げる",
+      "ruby": "<span class=\"vw\" data-ja=\"逃げる\" data-reading=\"にげる\" data-en=\"to run away, to escape\"><ruby>逃げ<rt>にげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to run away, or to escape."
+    },
+    {
+      "speaker": "slow",
+      "text": "動物が飛行機の中の電気の線をかむと、危ないです。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>が<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"電気\" data-reading=\"でんき\" data-en=\"electricity\"><ruby>電気<rt>でんき</rt></ruby></span>の<span class=\"vw\" data-ja=\"線\" data-reading=\"せん\" data-en=\"line, wire\"><ruby>線<rt>せん</rt></ruby></span>をかむと、<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "If the animal bites the electric wires inside the plane, it is dangerous."
+    },
+    {
+      "speaker": "vocab",
+      "text": "電気",
+      "ruby": "<span class=\"vw\" data-ja=\"電気\" data-reading=\"でんき\" data-en=\"electricity\"><ruby>電気<rt>でんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means electricity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "線",
+      "ruby": "<span class=\"vw\" data-ja=\"線\" data-reading=\"せん\" data-en=\"line, wire\"><ruby>線<rt>せん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a line, or here, a wire."
+    },
+    {
+      "speaker": "vocab",
+      "text": "かむ",
+      "ruby": "<span class=\"vw\" data-ja=\"かむ\" data-reading=\"かむ\" data-en=\"to bite\">かむ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to bite."
+    },
+    {
+      "speaker": "vocab",
+      "text": "危ない",
+      "ruby": "<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means dangerous."
+    },
+    {
+      "speaker": "slow",
+      "text": "それで、会社はこの飛行機を欠航にしました。",
+      "ruby": "それで、<ruby>会社<rt>かいしゃ</rt></ruby>はこの<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "So the company cancelled the flight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "欠航",
+      "ruby": "<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a cancelled flight, used for planes and ships."
+    },
+    {
+      "speaker": "slow",
+      "text": "午後4時になっても、動物は見つかりませんでした。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>になっても、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かりませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even at four in the afternoon, the animal still had not been found."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見つかる",
+      "ruby": "<span class=\"vw\" data-ja=\"見つかる\" data-reading=\"みつかる\" data-en=\"to be found\"><ruby>見つ<rt>みつ</rt></ruby>かる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be found. It is the partner of the verb to find."
+    },
+    {
+      "speaker": "slow",
+      "text": "何の動物か、まだわかっていません。",
+      "ruby": "<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>か、<span class=\"vw\" data-ja=\"まだ\" data-reading=\"まだ\" data-en=\"still, not yet\">まだわかっていません</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nobody knows yet what kind of animal it was."
+    },
+    {
+      "speaker": "vocab",
+      "text": "まだ",
+      "ruby": "<span class=\"vw\" data-ja=\"まだ\" data-reading=\"まだ\" data-en=\"still, not yet\">まだ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means still, or not yet."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は「小さい動物で欠航になるのは珍しいです」と話しました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>で<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>になるのは<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company said it is rare for a flight to be cancelled because of a small animal."
+    },
+    {
+      "speaker": "vocab",
+      "text": "珍しい",
+      "ruby": "<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rare, or unusual."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日、福岡空港で、飛行機の操縦室に小さい動物が入っていました。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>、<ruby>福岡空港<rt>ふくおかくうこう</rt></ruby>で、<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>の<ruby>操縦室<rt>そうじゅうしつ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>っていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この飛行機は、福岡から鹿児島へ行く予定で、およそ40人が乗る予定でした。",
+      "ruby": "この<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>は、<ruby>福岡<rt>ふくおか</rt></ruby>から<ruby>鹿児島<rt>かごしま</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>で、およそ40<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"乗る\" data-reading=\"のる\" data-en=\"to ride, to get on\"><ruby>乗る<rt>のる</rt></ruby></span><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "出発の準備をしているとき、パイロットが小さい動物を見つけました。",
+      "ruby": "<span class=\"vw\" data-ja=\"出発\" data-reading=\"しゅっぱつ\" data-en=\"departure\"><ruby>出発<rt>しゅっぱつ</rt></ruby></span>の<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>をしているとき、パイロットが<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、動物はすぐに逃げて、どこにいるか、わからなくなりました。",
+      "ruby": "でも、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>はすぐに<ruby>逃げ<rt>にげ</rt></ruby>て、どこにいるか、わからなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "動物が飛行機の中の電気の線をかむと、危ないです。",
+      "ruby": "<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>が<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>の<ruby>中の<rt>なかの</rt></ruby><span class=\"vw\" data-ja=\"電気\" data-reading=\"でんき\" data-en=\"electricity\"><ruby>電気<rt>でんき</rt></ruby></span>の<span class=\"vw\" data-ja=\"線\" data-reading=\"せん\" data-en=\"line, wire\"><ruby>線<rt>せん</rt></ruby></span>をかむと、<span class=\"vw\" data-ja=\"危ない\" data-reading=\"あぶない\" data-en=\"dangerous\"><ruby>危ない<rt>あぶない</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "それで、会社はこの飛行機を欠航にしました。",
+      "ruby": "それで、<ruby>会社<rt>かいしゃ</rt></ruby>はこの<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後4時になっても、動物は見つかりませんでした。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>になっても、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かりませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "何の動物か、まだわかっていません。",
+      "ruby": "<ruby>何の<rt>なんの</rt></ruby><span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>か、<span class=\"vw\" data-ja=\"まだ\" data-reading=\"まだ\" data-en=\"still, not yet\">まだわかっていません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は「小さい動物で欠航になるのは珍しいです」と話しました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>で<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>になるのは<span class=\"vw\" data-ja=\"珍しい\" data-reading=\"めずらしい\" data-en=\"rare, unusual\"><ruby>珍しい<rt>めずらしい</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "飛行機は、どこからどこへ行く予定でしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>は、どこからどこへ<ruby>行く<rt>いく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From Fukuoka to Kagoshima."
+    },
+    {
+      "speaker": "slow",
+      "text": "小さい動物を見つけたのは、だれですか。",
+      "ruby": "<ruby>小<rt>ちい</rt></ruby>さい<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>を<ruby>見つ<rt>みつ</rt></ruby>けたのは、だれですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A pilot."
+    },
+    {
+      "speaker": "slow",
+      "text": "午後4時に、動物は見つかりましたか。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>に、<span class=\"vw\" data-ja=\"動物\" data-reading=\"どうぶつ\" data-en=\"animal\"><ruby>動物<rt>どうぶつ</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No, it was still not found."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、どうして飛行機を欠航にしましたか。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、どうして<span class=\"vw\" data-ja=\"飛行機\" data-reading=\"ひこうき\" data-en=\"airplane\"><ruby>飛行機<rt>ひこうき</rt></ruby></span>を<span class=\"vw\" data-ja=\"欠航\" data-reading=\"けっこう\" data-en=\"flight cancellation\"><ruby>欠航<rt>けっこう</rt></ruby></span>にしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the animal could bite the electric wires, and that is dangerous."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
