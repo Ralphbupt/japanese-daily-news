@@ -1,0 +1,584 @@
+{
+  "episode": 232,
+  "title": "アジアパラ競技大会が名古屋で開幕、日本で初開催",
+  "date": "2026-10-19",
+  "source": "時事通信 / 日本経済新聞 / NHK / 共同通信",
+  "level": "N4-N3",
+  "contentVersion": "2026101901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "競技",
+      "reading": "きょうぎ",
+      "en": "competition, sporting event",
+      "zh": "比赛，竞技"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "障害者",
+      "reading": "しょうがいしゃ",
+      "en": "person with a disability",
+      "zh": "残疾人，残障人士"
+    },
+    {
+      "ja": "開会式",
+      "reading": "かいかいしき",
+      "en": "opening ceremony",
+      "zh": "开幕式"
+    },
+    {
+      "ja": "参加",
+      "reading": "さんか",
+      "en": "participation, to take part",
+      "zh": "参加"
+    },
+    {
+      "ja": "出場",
+      "reading": "しゅつじょう",
+      "en": "to compete (in a competition)",
+      "zh": "出场，参赛"
+    },
+    {
+      "ja": "行進",
+      "reading": "こうしん",
+      "en": "march, parade",
+      "zh": "行进，入场游行"
+    },
+    {
+      "ja": "会場",
+      "reading": "かいじょう",
+      "en": "venue",
+      "zh": "会场，场馆"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "championship, to win first place",
+      "zh": "夺冠，冠军"
+    },
+    {
+      "ja": "出し切る",
+      "reading": "だしきる",
+      "en": "to give everything, to use up fully",
+      "zh": "全部发挥出来，竭尽全力"
+    },
+    {
+      "ja": "応援",
+      "reading": "おうえん",
+      "en": "cheering, support",
+      "zh": "加油，支持"
+    },
+    {
+      "ja": "願う",
+      "reading": "ねがう",
+      "en": "to hope, to wish",
+      "zh": "希望，祈愿"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜に続く",
+      "meaning": "following ~, after ~",
+      "meaningZh": "继……之后",
+      "formation": "noun + に続く + noun",
+      "example": "東京パラリンピックなどに続く、大きな障害者スポーツの大会です。",
+      "translation": "It is a big sports event for people with disabilities, following the Tokyo Paralympics and others.",
+      "note": "Shows that something comes next in a series of similar events.",
+      "noteZh": "表示在一系列同类事情中，接在某事之后。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に続く"
+    },
+    {
+      "pattern": "〜のは、〜です",
+      "meaning": "the thing that ~ is ~ (focus)",
+      "meaningZh": "……的是……（强调）",
+      "formation": "plain form + のは + focus + です",
+      "example": "この大会が日本で開かれるのは、今回が初めてです。",
+      "translation": "It is this time that the event is held in Japan for the first time.",
+      "note": "Turns a clause into a topic so the key information comes at the end.",
+      "noteZh": "把前面的句子名词化作为主题，把重要信息放在句末强调。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#のは"
+    },
+    {
+      "pattern": "〜される（尊敬語）",
+      "meaning": "honorific passive form for respected people",
+      "meaningZh": "尊敬语（用被动形表示尊敬）",
+      "formation": "verb passive form (宣言される, 話される)",
+      "example": "天皇陛下が開会を宣言されました。",
+      "translation": "The Emperor declared the games open.",
+      "note": "In news, actions of the Imperial family are described with the passive-looking honorific form.",
+      "noteZh": "新闻中描述皇室成员的动作时，常用与被动形相同的尊敬语形式。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#れる・られる"
+    },
+    {
+      "pattern": "〜のために",
+      "meaning": "for (the sake of) ~",
+      "meaningZh": "为了……",
+      "formation": "noun + のために",
+      "example": "応援してくれる人たちのために、いいプレーを見せたいと話しました。",
+      "translation": "She said she wants to show good play for the people who cheer for her.",
+      "note": "Shows who or what an action benefits.",
+      "noteZh": "表示动作是为了谁或为了什么。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ために"
+    },
+    {
+      "pattern": "〜ことを願う",
+      "meaning": "to hope that ~",
+      "meaningZh": "希望……，祈愿……",
+      "formation": "plain form + ことを願う",
+      "example": "パラスポーツへの理解が深まることを願っていると話されました。",
+      "translation": "He said he hopes understanding of para sports will deepen.",
+      "note": "A formal way to express a wish or hope, common in speeches.",
+      "noteZh": "表达愿望的正式说法，常用于致辞和讲话。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ことを願う"
+    }
+  ],
+  "practiceZh": [
+    "アジアのパラスポーツの大会「アジアパラ競技大会」が、18日、愛知県名古屋市で始まりました。\n亚洲残疾人体育盛会“亚洲残疾人运动会”于18日在爱知县名古屋市开幕。\n競技 = competition, sporting event",
+    "この大会が日本で開かれるのは、今回が初めてです。\n这是该运动会第一次在日本举办。\n初めて = for the first time",
+    "東京パラリンピックなどに続く、大きな障害者スポーツの大会です。\n这是继东京残奥会等之后的又一大型残疾人体育赛事。\n障害者 = person with a disability",
+    "名古屋市のパロマ瑞穂スタジアムで開会式が行われ、天皇陛下が開会を宣言されました。\n开幕式在名古屋市的Paloma瑞穗体育场举行，天皇陛下宣布运动会开幕。\n開会式 = opening ceremony",
+    "大会には、これまでで最も多い45の国と地域から、選手や役員およそ4000人が参加します。\n来自史上最多的45个国家和地区的约4000名运动员和官员参加本届运动会。\n参加 = participation, to take part",
+    "日本からは、およそ280人の選手が、すべての競技に出場します。\n日本约有280名运动员参加全部项目的比赛。\n出場 = to compete (in a competition)",
+    "開会式では、車いすラグビーの橋本勝也選手と、陸上の中川もえ選手が、日本の旗を持って行進しました。\n开幕式上，轮椅橄榄球的桥本胜也选手和田径的中川萌选手手持日本国旗入场。\n行進 = march, parade",
+    "大会は24日までの7日間で、愛知県と静岡県の会場で、18の競技が行われます。\n运动会为期7天，到24日结束，将在爱知县和静冈县的场馆举行18个大项的比赛。\n会場 = venue",
+    "車いすテニスでは、男子と女子のシングルスで優勝した選手が、2028年のロサンゼルス・パラリンピックに出場できます。\n轮椅网球男女单打的冠军可以参加2028年洛杉矶残奥会。\n優勝 = championship, to win first place",
+    "世界ランキング1位の小田選手は愛知県の出身で、「持てる力をすべて出し切って優勝したい」と話しました。\n世界排名第一的小田选手来自爱知县，他说：“想把全部力量发挥出来，拿下冠军。”\n出し切る = to give everything, to use up fully",
+    "パラバドミントンの里見選手は、応援してくれる人たちのために、いいプレーを見せたいと話しました。\n残疾人羽毛球的里见选手说，想为支持自己的人们打出好的比赛。\n応援 = cheering, support",
+    "天皇陛下は開会式のあと、パラスポーツへの理解が深まることを願っていると話されました。\n开幕式后，天皇陛下表示，希望人们对残疾人体育的理解能够加深。\n願う = to hope, to wish"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October nineteenth. The Asian Para Games opened in Nagoya, the first time Japan has hosted them. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アジアのパラスポーツの大会「アジアパラ競技大会」が、18日、愛知県名古屋市で始まりました。",
+      "ruby": "アジアのパラスポーツの<ruby>大会<rt>たいかい</rt></ruby>「アジアパラ<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技大会<rt>きょうぎたいかい</rt></ruby></span>」が、18<ruby>日<rt>にち</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>で<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この大会が日本で開かれるのは、今回が初めてです。",
+      "ruby": "この<ruby>大会<rt>たいかい</rt></ruby>が<ruby>日本<rt>にほん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れるのは、<ruby>今回<rt>こんかい</rt></ruby>が<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京パラリンピックなどに続く、大きな障害者スポーツの大会です。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>パラリンピックなどに<ruby>続く<rt>つづく</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"障害者\" data-reading=\"しょうがいしゃ\" data-en=\"person with a disability\"><ruby>障害者<rt>しょうがいしゃ</rt></ruby></span>スポーツの<ruby>大会<rt>たいかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名古屋市のパロマ瑞穂スタジアムで開会式が行われ、天皇陛下が開会を宣言されました。",
+      "ruby": "<ruby>名古屋市<rt>なごやし</rt></ruby>のパロマ<ruby>瑞穂<rt>みずほ</rt></ruby>スタジアムで<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れ、<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>が<ruby>開会<rt>かいかい</rt></ruby>を<ruby>宣言<rt>せんげん</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会には、これまでで最も多い45の国と地域から、選手や役員およそ4000人が参加します。",
+      "ruby": "<ruby>大会<rt>たいかい</rt></ruby>には、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多い<rt>おおい</rt></ruby>45の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>から、<ruby>選手<rt>せんしゅ</rt></ruby>や<ruby>役員<rt>やくいん</rt></ruby>およそ4000<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"参加\" data-reading=\"さんか\" data-en=\"participation, to take part\"><ruby>参加<rt>さんか</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本からは、およそ280人の選手が、すべての競技に出場します。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>からは、およそ280<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が、すべての<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>に<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "開会式では、車いすラグビーの橋本勝也選手と、陸上の中川もえ選手が、日本の旗を持って行進しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>いすラグビーの<ruby>橋本<rt>はしもと</rt></ruby><ruby>勝也<rt>かつや</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>と、<ruby>陸上<rt>りくじょう</rt></ruby>の<ruby>中川<rt>なかがわ</rt></ruby>もえ<ruby>選手<rt>せんしゅ</rt></ruby>が、<ruby>日本<rt>にほん</rt></ruby>の<ruby>旗<rt>はた</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て<span class=\"vw\" data-ja=\"行進\" data-reading=\"こうしん\" data-en=\"march, parade\"><ruby>行進<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会は24日までの7日間で、愛知県と静岡県の会場で、18の競技が行われます。",
+      "ruby": "<ruby>大会<rt>たいかい</rt></ruby>は<ruby>24日<rt>にじゅうよっか</rt></ruby>までの<ruby>7日間<rt>なのかかん</rt></ruby>で、<ruby>愛知県<rt>あいちけん</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>の<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue\"><ruby>会場<rt>かいじょう</rt></ruby></span>で、18の<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "車いすテニスでは、男子と女子のシングルスで優勝した選手が、2028年のロサンゼルス・パラリンピックに出場できます。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>いすテニスでは、<ruby>男子<rt>だんし</rt></ruby>と<ruby>女子<rt>じょし</rt></ruby>のシングルスで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<ruby>選手<rt>せんしゅ</rt></ruby>が、2028<ruby>年<rt>ねん</rt></ruby>のロサンゼルス・パラリンピックに<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>できます。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界ランキング1位の小田選手は愛知県の出身で、「持てる力をすべて出し切って優勝したい」と話しました。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>ランキング1<ruby>位<rt>くらい</rt></ruby>の<ruby>小田<rt>おだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>で、「<ruby>持て<rt>もて</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>をすべて<ruby>出し<rt>だし</rt></ruby><ruby>切っ<rt>きっ</rt></ruby>て<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "パラバドミントンの里見選手は、応援してくれる人たちのために、いいプレーを見せたいと話しました。",
+      "ruby": "パラバドミントンの<ruby>里見<rt>さとみ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>してくれる<ruby>人<rt>ひと</rt></ruby>たちのために、いいプレーを<ruby>見せ<rt>みせ</rt></ruby>たいと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下は開会式のあと、パラスポーツへの理解が深まることを願っていると話されました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>のあと、パラスポーツへの<ruby>理解<rt>りかい</rt></ruby>が<ruby>深ま<rt>ふかま</rt></ruby>ることを<ruby>願っ<rt>ねがっ</rt></ruby>ていると<ruby>話さ<rt>はなさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "アジアのパラスポーツの大会「アジアパラ競技大会」が、18日、愛知県名古屋市で始まりました。",
+      "ruby": "アジアのパラスポーツの<ruby>大会<rt>たいかい</rt></ruby>「アジアパラ<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技大会<rt>きょうぎたいかい</rt></ruby></span>」が、18<ruby>日<rt>にち</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>で<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Asian Para Games began in Nagoya on the eighteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "競技",
+      "ruby": "<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a sporting event."
+    },
+    {
+      "speaker": "slow",
+      "text": "この大会が日本で開かれるのは、今回が初めてです。",
+      "ruby": "この<ruby>大会<rt>たいかい</rt></ruby>が<ruby>日本<rt>にほん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れるのは、<ruby>今回<rt>こんかい</rt></ruby>が<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the first time the games are held in Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京パラリンピックなどに続く、大きな障害者スポーツの大会です。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>パラリンピックなどに<ruby>続く<rt>つづく</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"障害者\" data-reading=\"しょうがいしゃ\" data-en=\"person with a disability\"><ruby>障害者<rt>しょうがいしゃ</rt></ruby></span>スポーツの<ruby>大会<rt>たいかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a big sports event for people with disabilities, following the Tokyo Paralympics and others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "障害者",
+      "ruby": "<span class=\"vw\" data-ja=\"障害者\" data-reading=\"しょうがいしゃ\" data-en=\"person with a disability\"><ruby>障害者<rt>しょうがいしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a person with a disability."
+    },
+    {
+      "speaker": "slow",
+      "text": "名古屋市のパロマ瑞穂スタジアムで開会式が行われ、天皇陛下が開会を宣言されました。",
+      "ruby": "<ruby>名古屋市<rt>なごやし</rt></ruby>のパロマ<ruby>瑞穂<rt>みずほ</rt></ruby>スタジアムで<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れ、<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>が<ruby>開会<rt>かいかい</rt></ruby>を<ruby>宣言<rt>せんげん</rt></ruby>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the opening ceremony in Nagoya, the Emperor declared the games open."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開会式",
+      "ruby": "<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an opening ceremony."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会には、これまでで最も多い45の国と地域から、選手や役員およそ4000人が参加します。",
+      "ruby": "<ruby>大会<rt>たいかい</rt></ruby>には、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多い<rt>おおい</rt></ruby>45の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>から、<ruby>選手<rt>せんしゅ</rt></ruby>や<ruby>役員<rt>やくいん</rt></ruby>およそ4000<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"参加\" data-reading=\"さんか\" data-en=\"participation, to take part\"><ruby>参加<rt>さんか</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "About four thousand athletes and officials from a record forty-five countries and regions are taking part."
+    },
+    {
+      "speaker": "vocab",
+      "text": "参加",
+      "ruby": "<span class=\"vw\" data-ja=\"参加\" data-reading=\"さんか\" data-en=\"participation, to take part\"><ruby>参加<rt>さんか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take part."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本からは、およそ280人の選手が、すべての競技に出場します。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>からは、およそ280<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が、すべての<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>に<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two hundred eighty Japanese athletes will compete in every sport."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出場",
+      "ruby": "<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to compete in an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "開会式では、車いすラグビーの橋本勝也選手と、陸上の中川もえ選手が、日本の旗を持って行進しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>いすラグビーの<ruby>橋本<rt>はしもと</rt></ruby><ruby>勝也<rt>かつや</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>と、<ruby>陸上<rt>りくじょう</rt></ruby>の<ruby>中川<rt>なかがわ</rt></ruby>もえ<ruby>選手<rt>せんしゅ</rt></ruby>が、<ruby>日本<rt>にほん</rt></ruby>の<ruby>旗<rt>はた</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て<span class=\"vw\" data-ja=\"行進\" data-reading=\"こうしん\" data-en=\"march, parade\"><ruby>行進<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two Japanese athletes carried the flag and marched in."
+    },
+    {
+      "speaker": "vocab",
+      "text": "行進",
+      "ruby": "<span class=\"vw\" data-ja=\"行進\" data-reading=\"こうしん\" data-en=\"march, parade\"><ruby>行進<rt>こうしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to march."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会は24日までの7日間で、愛知県と静岡県の会場で、18の競技が行われます。",
+      "ruby": "<ruby>大会<rt>たいかい</rt></ruby>は<ruby>24日<rt>にじゅうよっか</rt></ruby>までの<ruby>7日間<rt>なのかかん</rt></ruby>で、<ruby>愛知県<rt>あいちけん</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>の<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue\"><ruby>会場<rt>かいじょう</rt></ruby></span>で、18の<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighteen sports will be held in Aichi and Shizuoka over seven days, until the twenty-fourth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会場",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue\"><ruby>会場<rt>かいじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a venue."
+    },
+    {
+      "speaker": "slow",
+      "text": "車いすテニスでは、男子と女子のシングルスで優勝した選手が、2028年のロサンゼルス・パラリンピックに出場できます。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>いすテニスでは、<ruby>男子<rt>だんし</rt></ruby>と<ruby>女子<rt>じょし</rt></ruby>のシングルスで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<ruby>選手<rt>せんしゅ</rt></ruby>が、2028<ruby>年<rt>ねん</rt></ruby>のロサンゼルス・パラリンピックに<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>できます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Wheelchair tennis singles winners can go to the twenty twenty-eight Los Angeles Paralympics."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to win first place."
+    },
+    {
+      "speaker": "slow",
+      "text": "世界ランキング1位の小田選手は愛知県の出身で、「持てる力をすべて出し切って優勝したい」と話しました。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>ランキング1<ruby>位<rt>くらい</rt></ruby>の<ruby>小田<rt>おだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>で、「<ruby>持て<rt>もて</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>をすべて<ruby>出し<rt>だし</rt></ruby><ruby>切っ<rt>きっ</rt></ruby>て<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The world number one, from Aichi, said he wants to give it everything and win."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出し切る",
+      "ruby": "<span class=\"vw\" data-ja=\"出し切る\" data-reading=\"だしきる\" data-en=\"to give everything, to use up fully\"><ruby>出し<rt>だし</rt></ruby><ruby>切る<rt>きる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to give everything you have."
+    },
+    {
+      "speaker": "slow",
+      "text": "パラバドミントンの里見選手は、応援してくれる人たちのために、いいプレーを見せたいと話しました。",
+      "ruby": "パラバドミントンの<ruby>里見<rt>さとみ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>してくれる<ruby>人<rt>ひと</rt></ruby>たちのために、いいプレーを<ruby>見せ<rt>みせ</rt></ruby>たいと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A para badminton player said she wants to show good play for the people who cheer for her."
+    },
+    {
+      "speaker": "vocab",
+      "text": "応援",
+      "ruby": "<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to cheer for someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "天皇陛下は開会式のあと、パラスポーツへの理解が深まることを願っていると話されました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>のあと、パラスポーツへの<ruby>理解<rt>りかい</rt></ruby>が<ruby>深ま<rt>ふかま</rt></ruby>ることを<ruby>願っ<rt>ねがっ</rt></ruby>ていると<ruby>話さ<rt>はなさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Emperor said he hopes understanding of para sports will deepen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "願う",
+      "ruby": "<span class=\"vw\" data-ja=\"願う\" data-reading=\"ねがう\" data-en=\"to hope, to wish\"><ruby>願う<rt>ねがう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hope, or to wish."
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's listen to the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アジアのパラスポーツの大会「アジアパラ競技大会」が、18日、愛知県名古屋市で始まりました。",
+      "ruby": "アジアのパラスポーツの<ruby>大会<rt>たいかい</rt></ruby>「アジアパラ<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技大会<rt>きょうぎたいかい</rt></ruby></span>」が、18<ruby>日<rt>にち</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>で<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この大会が日本で開かれるのは、今回が初めてです。",
+      "ruby": "この<ruby>大会<rt>たいかい</rt></ruby>が<ruby>日本<rt>にほん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れるのは、<ruby>今回<rt>こんかい</rt></ruby>が<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京パラリンピックなどに続く、大きな障害者スポーツの大会です。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>パラリンピックなどに<ruby>続く<rt>つづく</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"障害者\" data-reading=\"しょうがいしゃ\" data-en=\"person with a disability\"><ruby>障害者<rt>しょうがいしゃ</rt></ruby></span>スポーツの<ruby>大会<rt>たいかい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名古屋市のパロマ瑞穂スタジアムで開会式が行われ、天皇陛下が開会を宣言されました。",
+      "ruby": "<ruby>名古屋市<rt>なごやし</rt></ruby>のパロマ<ruby>瑞穂<rt>みずほ</rt></ruby>スタジアムで<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れ、<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>が<ruby>開会<rt>かいかい</rt></ruby>を<ruby>宣言<rt>せんげん</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会には、これまでで最も多い45の国と地域から、選手や役員およそ4000人が参加します。",
+      "ruby": "<ruby>大会<rt>たいかい</rt></ruby>には、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多い<rt>おおい</rt></ruby>45の<ruby>国<rt>くに</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby>から、<ruby>選手<rt>せんしゅ</rt></ruby>や<ruby>役員<rt>やくいん</rt></ruby>およそ4000<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"参加\" data-reading=\"さんか\" data-en=\"participation, to take part\"><ruby>参加<rt>さんか</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本からは、およそ280人の選手が、すべての競技に出場します。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>からは、およそ280<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が、すべての<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>に<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "開会式では、車いすラグビーの橋本勝也選手と、陸上の中川もえ選手が、日本の旗を持って行進しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>では、<ruby>車<rt>くるま</rt></ruby>いすラグビーの<ruby>橋本<rt>はしもと</rt></ruby><ruby>勝也<rt>かつや</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>と、<ruby>陸上<rt>りくじょう</rt></ruby>の<ruby>中川<rt>なかがわ</rt></ruby>もえ<ruby>選手<rt>せんしゅ</rt></ruby>が、<ruby>日本<rt>にほん</rt></ruby>の<ruby>旗<rt>はた</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て<span class=\"vw\" data-ja=\"行進\" data-reading=\"こうしん\" data-en=\"march, parade\"><ruby>行進<rt>こうしん</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大会は24日までの7日間で、愛知県と静岡県の会場で、18の競技が行われます。",
+      "ruby": "<ruby>大会<rt>たいかい</rt></ruby>は<ruby>24日<rt>にじゅうよっか</rt></ruby>までの<ruby>7日間<rt>なのかかん</rt></ruby>で、<ruby>愛知県<rt>あいちけん</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>の<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue\"><ruby>会場<rt>かいじょう</rt></ruby></span>で、18の<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技<rt>きょうぎ</rt></ruby></span>が<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "車いすテニスでは、男子と女子のシングルスで優勝した選手が、2028年のロサンゼルス・パラリンピックに出場できます。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>いすテニスでは、<ruby>男子<rt>だんし</rt></ruby>と<ruby>女子<rt>じょし</rt></ruby>のシングルスで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<ruby>選手<rt>せんしゅ</rt></ruby>が、2028<ruby>年<rt>ねん</rt></ruby>のロサンゼルス・パラリンピックに<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>できます。"
+    },
+    {
+      "speaker": "news",
+      "text": "世界ランキング1位の小田選手は愛知県の出身で、「持てる力をすべて出し切って優勝したい」と話しました。",
+      "ruby": "<ruby>世界<rt>せかい</rt></ruby>ランキング1<ruby>位<rt>くらい</rt></ruby>の<ruby>小田<rt>おだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>で、「<ruby>持て<rt>もて</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>をすべて<ruby>出し<rt>だし</rt></ruby><ruby>切っ<rt>きっ</rt></ruby>て<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "パラバドミントンの里見選手は、応援してくれる人たちのために、いいプレーを見せたいと話しました。",
+      "ruby": "パラバドミントンの<ruby>里見<rt>さとみ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>してくれる<ruby>人<rt>ひと</rt></ruby>たちのために、いいプレーを<ruby>見せ<rt>みせ</rt></ruby>たいと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天皇陛下は開会式のあと、パラスポーツへの理解が深まることを願っていると話されました。",
+      "ruby": "<ruby>天皇陛下<rt>てんのうへいか</rt></ruby>は<span class=\"vw\" data-ja=\"開会式\" data-reading=\"かいかいしき\" data-en=\"opening ceremony\"><ruby>開会式<rt>かいかいしき</rt></ruby></span>のあと、パラスポーツへの<ruby>理解<rt>りかい</rt></ruby>が<ruby>深ま<rt>ふかま</rt></ruby>ることを<ruby>願っ<rt>ねがっ</rt></ruby>ていると<ruby>話さ<rt>はなさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "アジアパラ競技大会が日本で開かれるのは、何回目ですか。",
+      "ruby": "アジアパラ<span class=\"vw\" data-ja=\"競技\" data-reading=\"きょうぎ\" data-en=\"competition, sporting event\"><ruby>競技大会<rt>きょうぎたいかい</rt></ruby></span>が<ruby>日本<rt>にほん</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れるのは、<ruby>何回目<rt>なんかいめ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本からは、何人ぐらいの選手が出場しますか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>からは、<ruby>何人<rt>なんにん</rt></ruby>ぐらいの<ruby>選手<rt>せんしゅ</rt></ruby>が<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two hundred eighty athletes."
+    },
+    {
+      "speaker": "slow",
+      "text": "車いすテニスで優勝した選手は、何に出場できますか。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>いすテニスで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, to win first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>に<span class=\"vw\" data-ja=\"出場\" data-reading=\"しゅつじょう\" data-en=\"to compete (in a competition)\"><ruby>出場<rt>しゅつじょう</rt></ruby></span>できますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The twenty twenty-eight Los Angeles Paralympics."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
