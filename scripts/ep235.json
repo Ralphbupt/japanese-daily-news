@@ -1,0 +1,631 @@
+{
+  "episode": 235,
+  "title": "日本橋で「べったら市」、江戸時代から続く秋の市",
+  "date": "2026-10-21",
+  "source": "日本食糧新聞 / ウォーカープラス",
+  "level": "N5-N4",
+  "contentVersion": "2026102101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "開く",
+      "reading": "ひらく",
+      "en": "to hold (an event), to open",
+      "zh": "举办，开"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue",
+      "zh": "持续，延续"
+    },
+    {
+      "ja": "祭り",
+      "reading": "まつり",
+      "en": "festival",
+      "zh": "祭典，节日"
+    },
+    {
+      "ja": "神社",
+      "reading": "じんじゃ",
+      "en": "Shinto shrine",
+      "zh": "神社"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to line up",
+      "zh": "排列，排队"
+    },
+    {
+      "ja": "毎年",
+      "reading": "まいとし",
+      "en": "every year",
+      "zh": "每年"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popularity",
+      "zh": "人气，受欢迎"
+    },
+    {
+      "ja": "漬物",
+      "reading": "つけもの",
+      "en": "pickles",
+      "zh": "腌菜，咸菜"
+    },
+    {
+      "ja": "大根",
+      "reading": "だいこん",
+      "en": "daikon radish",
+      "zh": "白萝卜"
+    },
+    {
+      "ja": "砂糖",
+      "reading": "さとう",
+      "en": "sugar",
+      "zh": "砂糖"
+    },
+    {
+      "ja": "甘い",
+      "reading": "あまい",
+      "en": "sweet",
+      "zh": "甜"
+    },
+    {
+      "ja": "昔",
+      "reading": "むかし",
+      "en": "long ago",
+      "zh": "从前，以前"
+    },
+    {
+      "ja": "着物",
+      "reading": "きもの",
+      "en": "kimono",
+      "zh": "和服"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "晚上"
+    },
+    {
+      "ja": "明かり",
+      "reading": "あかり",
+      "en": "light",
+      "zh": "灯光，光亮"
+    },
+    {
+      "ja": "小学生",
+      "reading": "しょうがくせい",
+      "en": "elementary school student",
+      "zh": "小学生"
+    },
+    {
+      "ja": "勉強",
+      "reading": "べんきょう",
+      "en": "study",
+      "zh": "学习"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜そうです",
+      "meaning": "I hear that ~, reportedly ~",
+      "meaningZh": "据说……，听说……",
+      "formation": "plain form + そうです",
+      "example": "昔、若い人たちが、大根をお客さんの着物につけて、からかったそうです。",
+      "translation": "Long ago, young people reportedly teased customers by sticking radish on their kimono.",
+      "note": "Passes on information you heard from someone else.",
+      "noteZh": "用于转述从别处听来的信息。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#そうです"
+    },
+    {
+      "pattern": "〜と言われています",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说……，人们说……",
+      "formation": "plain form + と言われています",
+      "example": "「べったら漬」という名前になったと言われています。",
+      "translation": "It is said that it got the name bettarazuke.",
+      "note": "Introduces a common belief or story, often used for origins.",
+      "noteZh": "表示一般流传的说法，常用于讲由来。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と言われています"
+    },
+    {
+      "pattern": "〜という",
+      "meaning": "called ~, named ~",
+      "meaningZh": "叫做……的",
+      "formation": "noun + という + noun",
+      "example": "「べったら漬」という漬物です。",
+      "translation": "It is a pickle called bettarazuke.",
+      "note": "Used to introduce the name of something.",
+      "noteZh": "用于介绍事物的名称。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    },
+    {
+      "pattern": "〜から続く",
+      "meaning": "continuing since ~",
+      "meaningZh": "从……延续下来的",
+      "formation": "time noun + から続く + noun",
+      "example": "江戸時代から続く、秋のお祭りです。",
+      "translation": "It is an autumn festival that has continued since the Edo period.",
+      "note": "Describes a tradition with a long history.",
+      "noteZh": "用来描述有悠久历史的传统。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#から"
+    }
+  ],
+  "practiceZh": [
+    "東京の日本橋で、19日と20日、「べったら市」が開かれました。\n19日と20日，东京日本桥举办了“浅渍萝卜集市（べったら市）”。\n開く = to hold (an event), to open",
+    "べったら市は、江戸時代から続く、秋のお祭りです。\nべったら市是从江户时代延续下来的秋季祭典。\n続く = to continue / 祭り = festival",
+    "宝田恵比寿神社のまわりに、およそ500の店が並びました。\n宝田惠比寿神社周围排列着大约500家摊位。\n神社 = Shinto shrine / 並ぶ = to line up",
+    "毎年、2日間で、およそ10万人が来ます。\n每年两天里大约有10万人前来。\n毎年 = every year",
+    "いちばん人気があるのは、「べったら漬」という漬物です。\n最受欢迎的是一种叫“べったら渍”的腌菜。\n人気 = popularity / 漬物 = pickles",
+    "べったら漬は、大根を米こうじや砂糖で甘くした漬物です。\nべったら渍是用米曲和砂糖把萝卜腌甜的腌菜。\n大根 = daikon radish / 砂糖 = sugar / 甘い = sweet",
+    "昔、若い人たちが、大根をお客さんの着物につけて、からかったそうです。\n据说以前年轻人会把萝卜粘到客人的和服上，跟他们开玩笑。\n昔 = long ago / 着物 = kimono",
+    "着物に「べったり」とつくので、「べったら漬」という名前になったと言われています。\n据说因为会“黏糊糊地”粘在和服上，所以叫做“べったら渍”。\n名前 = name",
+    "夜は、1500以上のちょうちんに明かりがついて、とてもきれいです。\n晚上，1500多个灯笼点亮，非常漂亮。\n夜 = night / 明かり = light",
+    "今年は、中央区の小学生がべったら漬について勉強する会も、初めて開かれました。\n今年还第一次举办了让中央区小学生学习べったら渍的活动。\n小学生 = elementary school student / 勉強 = study"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-first. A famous autumn pickle market drew big crowds in central Tokyo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の日本橋で、19日と20日、「べったら市」が開かれました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本橋<rt>にほんばし</rt></ruby>で、19<ruby>日<rt>にち</rt></ruby>と<ruby>20日<rt>はつか</rt></ruby>、「べったら<ruby>市<rt>いち</rt></ruby>」が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "べったら市は、江戸時代から続く、秋のお祭りです。",
+      "ruby": "べったら<ruby>市<rt>いち</rt></ruby>は、<ruby>江戸時代<rt>えどじだい</rt></ruby>から<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue\"><ruby>続く<rt>つづく</rt></ruby></span>、<ruby>秋<rt>あき</rt></ruby>のお<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "宝田恵比寿神社のまわりに、およそ500の店が並びました。",
+      "ruby": "<ruby>宝田<rt>たからだ</rt></ruby><ruby>恵比寿<rt>えびす</rt></ruby><span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>のまわりに、およそ500の<ruby>店<rt>みせ</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎年、2日間で、およそ10万人が来ます。",
+      "ruby": "<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span>、<ruby>2日間<rt>ふつかかん</rt></ruby>で、およそ10<ruby>万人<rt>まんにん</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん人気があるのは、「べったら漬」という漬物です。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があるのは、「べったら<ruby>漬<rt>づけ</rt></ruby>」という<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "べったら漬は、大根を米こうじや砂糖で甘くした漬物です。",
+      "ruby": "べったら<ruby>漬<rt>づけ</rt></ruby>は、<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>を<ruby>米<rt>こめ</rt></ruby>こうじや<span class=\"vw\" data-ja=\"砂糖\" data-reading=\"さとう\" data-en=\"sugar\"><ruby>砂糖<rt>さとう</rt></ruby></span>で<ruby>甘く<rt>あまく</rt></ruby>した<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔、若い人たちが、大根をお客さんの着物につけて、からかったそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>をお<ruby>客<rt>きゃく</rt></ruby>さんの<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>につけて、からかったそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "着物に「べったり」とつくので、「べったら漬」という名前になったと言われています。",
+      "ruby": "<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>に「べったり」とつくので、「べったら<ruby>漬<rt>づけ</rt></ruby>」という<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>になったと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜は、1500以上のちょうちんに明かりがついて、とてもきれいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、1500<ruby>以上<rt>いじょう</rt></ruby>のちょうちんに<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light\"><ruby>明かり<rt>あかり</rt></ruby></span>がついて、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、中央区の小学生がべったら漬について勉強する会も、初めて開かれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>中央区<rt>ちゅうおうく</rt></ruby>の<span class=\"vw\" data-ja=\"小学生\" data-reading=\"しょうがくせい\" data-en=\"elementary school student\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>がべったら<ruby>漬<rt>づけ</rt></ruby>について<span class=\"vw\" data-ja=\"勉強\" data-reading=\"べんきょう\" data-en=\"study\"><ruby>勉強<rt>べんきょう</rt></ruby></span>する<ruby>会<rt>かい</rt></ruby>も、<ruby>初めて<rt>はじめて</rt></ruby><ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の日本橋で、19日と20日、「べったら市」が開かれました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本橋<rt>にほんばし</rt></ruby>で、19<ruby>日<rt>にち</rt></ruby>と<ruby>20日<rt>はつか</rt></ruby>、「べったら<ruby>市<rt>いち</rt></ruby>」が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the nineteenth and twentieth, a pickle market was held in Nihonbashi, Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to hold (an event), to open\"><ruby>開く<rt>ひらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open, or to hold an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "べったら市は、江戸時代から続く、秋のお祭りです。",
+      "ruby": "べったら<ruby>市<rt>いち</rt></ruby>は、<ruby>江戸時代<rt>えどじだい</rt></ruby>から<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue\"><ruby>続く<rt>つづく</rt></ruby></span>、<ruby>秋<rt>あき</rt></ruby>のお<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This market is an autumn festival that has continued since the Edo period."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続く",
+      "ruby": "<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue\"><ruby>続く<rt>つづく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue."
+    },
+    {
+      "speaker": "vocab",
+      "text": "祭り",
+      "ruby": "<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means festival."
+    },
+    {
+      "speaker": "slow",
+      "text": "宝田恵比寿神社のまわりに、およそ500の店が並びました。",
+      "ruby": "<ruby>宝田<rt>たからだ</rt></ruby><ruby>恵比寿<rt>えびす</rt></ruby><span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>のまわりに、およそ500の<ruby>店<rt>みせ</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five hundred stalls lined up around a shrine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "神社",
+      "ruby": "<span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a Shinto shrine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "並ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to line up, or stand in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "毎年、2日間で、およそ10万人が来ます。",
+      "ruby": "<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span>、<ruby>2日間<rt>ふつかかん</rt></ruby>で、およそ10<ruby>万人<rt>まんにん</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "host",
+      "text": "Every year, about one hundred thousand people come over the two days."
+    },
+    {
+      "speaker": "vocab",
+      "text": "毎年",
+      "ruby": "<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means every year."
+    },
+    {
+      "speaker": "slow",
+      "text": "いちばん人気があるのは、「べったら漬」という漬物です。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があるのは、「べったら<ruby>漬<rt>づけ</rt></ruby>」という<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The most popular thing is a pickle with a sticky, funny name."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popularity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漬物",
+      "ruby": "<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means pickles, a classic side dish."
+    },
+    {
+      "speaker": "slow",
+      "text": "べったら漬は、大根を米こうじや砂糖で甘くした漬物です。",
+      "ruby": "べったら<ruby>漬<rt>づけ</rt></ruby>は、<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>を<ruby>米<rt>こめ</rt></ruby>こうじや<span class=\"vw\" data-ja=\"砂糖\" data-reading=\"さとう\" data-en=\"sugar\"><ruby>砂糖<rt>さとう</rt></ruby></span>で<ruby>甘く<rt>あまく</rt></ruby>した<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "These pickles are daikon radish made sweet with rice malt and sugar."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大根",
+      "ruby": "<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means daikon, a big white radish."
+    },
+    {
+      "speaker": "vocab",
+      "text": "砂糖",
+      "ruby": "<span class=\"vw\" data-ja=\"砂糖\" data-reading=\"さとう\" data-en=\"sugar\"><ruby>砂糖<rt>さとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sugar."
+    },
+    {
+      "speaker": "vocab",
+      "text": "甘い",
+      "ruby": "<span class=\"vw\" data-ja=\"甘い\" data-reading=\"あまい\" data-en=\"sweet\"><ruby>甘い<rt>あまい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sweet."
+    },
+    {
+      "speaker": "slow",
+      "text": "昔、若い人たちが、大根をお客さんの着物につけて、からかったそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>をお<ruby>客<rt>きゃく</rt></ruby>さんの<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>につけて、からかったそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Long ago, young people reportedly teased customers by sticking the radish onto their kimono."
+    },
+    {
+      "speaker": "vocab",
+      "text": "昔",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means long ago."
+    },
+    {
+      "speaker": "vocab",
+      "text": "着物",
+      "ruby": "<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means kimono."
+    },
+    {
+      "speaker": "slow",
+      "text": "着物に「べったり」とつくので、「べったら漬」という名前になったと言われています。",
+      "ruby": "<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>に「べったり」とつくので、「べったら<ruby>漬<rt>づけ</rt></ruby>」という<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>になったと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "People say the pickle got its name because it sticks to kimono."
+    },
+    {
+      "speaker": "vocab",
+      "text": "名前",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means name."
+    },
+    {
+      "speaker": "slow",
+      "text": "夜は、1500以上のちょうちんに明かりがついて、とてもきれいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、1500<ruby>以上<rt>いじょう</rt></ruby>のちょうちんに<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light\"><ruby>明かり<rt>あかり</rt></ruby></span>がついて、とてもきれいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "At night, more than fifteen hundred paper lanterns are lit, and it is very beautiful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "明かり",
+      "ruby": "<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light\"><ruby>明かり<rt>あかり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means light, like a lamp."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、中央区の小学生がべったら漬について勉強する会も、初めて開かれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>中央区<rt>ちゅうおうく</rt></ruby>の<span class=\"vw\" data-ja=\"小学生\" data-reading=\"しょうがくせい\" data-en=\"elementary school student\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>がべったら<ruby>漬<rt>づけ</rt></ruby>について<span class=\"vw\" data-ja=\"勉強\" data-reading=\"べんきょう\" data-en=\"study\"><ruby>勉強<rt>べんきょう</rt></ruby></span>する<ruby>会<rt>かい</rt></ruby>も、<ruby>初めて<rt>はじめて</rt></ruby><ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, for the first time, a study session about the pickles was also held for local elementary school students."
+    },
+    {
+      "speaker": "vocab",
+      "text": "小学生",
+      "ruby": "<span class=\"vw\" data-ja=\"小学生\" data-reading=\"しょうがくせい\" data-en=\"elementary school student\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means elementary school student."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勉強",
+      "ruby": "<span class=\"vw\" data-ja=\"勉強\" data-reading=\"べんきょう\" data-en=\"study\"><ruby>勉強<rt>べんきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means study."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の日本橋で、19日と20日、「べったら市」が開かれました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本橋<rt>にほんばし</rt></ruby>で、19<ruby>日<rt>にち</rt></ruby>と<ruby>20日<rt>はつか</rt></ruby>、「べったら<ruby>市<rt>いち</rt></ruby>」が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "べったら市は、江戸時代から続く、秋のお祭りです。",
+      "ruby": "べったら<ruby>市<rt>いち</rt></ruby>は、<ruby>江戸時代<rt>えどじだい</rt></ruby>から<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue\"><ruby>続く<rt>つづく</rt></ruby></span>、<ruby>秋<rt>あき</rt></ruby>のお<span class=\"vw\" data-ja=\"祭り\" data-reading=\"まつり\" data-en=\"festival\"><ruby>祭り<rt>まつり</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "宝田恵比寿神社のまわりに、およそ500の店が並びました。",
+      "ruby": "<ruby>宝田<rt>たからだ</rt></ruby><ruby>恵比寿<rt>えびす</rt></ruby><span class=\"vw\" data-ja=\"神社\" data-reading=\"じんじゃ\" data-en=\"Shinto shrine\"><ruby>神社<rt>じんじゃ</rt></ruby></span>のまわりに、およそ500の<ruby>店<rt>みせ</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎年、2日間で、およそ10万人が来ます。",
+      "ruby": "<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span>、<ruby>2日間<rt>ふつかかん</rt></ruby>で、およそ10<ruby>万人<rt>まんにん</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん人気があるのは、「べったら漬」という漬物です。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity\"><ruby>人気<rt>にんき</rt></ruby></span>があるのは、「べったら<ruby>漬<rt>づけ</rt></ruby>」という<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "べったら漬は、大根を米こうじや砂糖で甘くした漬物です。",
+      "ruby": "べったら<ruby>漬<rt>づけ</rt></ruby>は、<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>を<ruby>米<rt>こめ</rt></ruby>こうじや<span class=\"vw\" data-ja=\"砂糖\" data-reading=\"さとう\" data-en=\"sugar\"><ruby>砂糖<rt>さとう</rt></ruby></span>で<ruby>甘く<rt>あまく</rt></ruby>した<span class=\"vw\" data-ja=\"漬物\" data-reading=\"つけもの\" data-en=\"pickles\"><ruby>漬物<rt>つけもの</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔、若い人たちが、大根をお客さんの着物につけて、からかったそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"昔\" data-reading=\"むかし\" data-en=\"long ago\"><ruby>昔<rt>むかし</rt></ruby></span>、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"大根\" data-reading=\"だいこん\" data-en=\"daikon radish\"><ruby>大根<rt>だいこん</rt></ruby></span>をお<ruby>客<rt>きゃく</rt></ruby>さんの<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>につけて、からかったそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "着物に「べったり」とつくので、「べったら漬」という名前になったと言われています。",
+      "ruby": "<span class=\"vw\" data-ja=\"着物\" data-reading=\"きもの\" data-en=\"kimono\"><ruby>着物<rt>きもの</rt></ruby></span>に「べったり」とつくので、「べったら<ruby>漬<rt>づけ</rt></ruby>」という<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>になったと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜は、1500以上のちょうちんに明かりがついて、とてもきれいです。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、1500<ruby>以上<rt>いじょう</rt></ruby>のちょうちんに<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light\"><ruby>明かり<rt>あかり</rt></ruby></span>がついて、とてもきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、中央区の小学生がべったら漬について勉強する会も、初めて開かれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>中央区<rt>ちゅうおうく</rt></ruby>の<span class=\"vw\" data-ja=\"小学生\" data-reading=\"しょうがくせい\" data-en=\"elementary school student\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>がべったら<ruby>漬<rt>づけ</rt></ruby>について<span class=\"vw\" data-ja=\"勉強\" data-reading=\"べんきょう\" data-en=\"study\"><ruby>勉強<rt>べんきょう</rt></ruby></span>する<ruby>会<rt>かい</rt></ruby>も、<ruby>初めて<rt>はじめて</rt></ruby><ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "べったら市は、どこで開かれましたか。",
+      "ruby": "べったら<ruby>市<rt>いち</rt></ruby>は、どこで<ruby>開か<rt>ひらか</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Nihonbashi, Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "店は、いくつぐらい並びましたか。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>は、いくつぐらい<ruby>並び<rt>ならび</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five hundred."
+    },
+    {
+      "speaker": "slow",
+      "text": "べったら漬は、何で甘くしますか。",
+      "ruby": "べったら<ruby>漬<rt>づけ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>で<ruby>甘く<rt>あまく</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "With rice malt and sugar."
+    },
+    {
+      "speaker": "slow",
+      "text": "夜は、何に明かりがつきますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>は、<ruby>何<rt>なに</rt></ruby>に<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than fifteen hundred paper lanterns."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
