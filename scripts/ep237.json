@@ -1,0 +1,643 @@
+{
+  "episode": 237,
+  "title": "JR東日本、スマホで払う「テッペイ」が始まる",
+  "date": "2026-10-22",
+  "source": "Impress Watch / ITmedia / ケータイ Watch",
+  "level": "N5-N4",
+  "contentVersion": "2026102201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "払う",
+      "reading": "はらう",
+      "en": "to pay",
+      "zh": "付款，支付"
+    },
+    {
+      "ja": "名前",
+      "reading": "なまえ",
+      "en": "name",
+      "zh": "名字，名称"
+    },
+    {
+      "ja": "使う",
+      "reading": "つかう",
+      "en": "to use",
+      "zh": "使用"
+    },
+    {
+      "ja": "入れる",
+      "reading": "いれる",
+      "en": "to put in; to install",
+      "zh": "放入；安装"
+    },
+    {
+      "ja": "店",
+      "reading": "みせ",
+      "en": "shop, store",
+      "zh": "商店"
+    },
+    {
+      "ja": "見せる",
+      "reading": "みせる",
+      "en": "to show",
+      "zh": "给……看，出示"
+    },
+    {
+      "ja": "万",
+      "reading": "まん",
+      "en": "ten thousand",
+      "zh": "万"
+    },
+    {
+      "ja": "高い",
+      "reading": "たかい",
+      "en": "expensive; high",
+      "zh": "贵；高"
+    },
+    {
+      "ja": "買い物",
+      "reading": "かいもの",
+      "en": "shopping",
+      "zh": "购物"
+    },
+    {
+      "ja": "確認",
+      "reading": "かくにん",
+      "en": "confirmation, check",
+      "zh": "确认"
+    },
+    {
+      "ja": "家族",
+      "reading": "かぞく",
+      "en": "family",
+      "zh": "家人，家庭"
+    },
+    {
+      "ja": "友達",
+      "reading": "ともだち",
+      "en": "friend",
+      "zh": "朋友"
+    },
+    {
+      "ja": "送る",
+      "reading": "おくる",
+      "en": "to send",
+      "zh": "发送，寄"
+    },
+    {
+      "ja": "以上",
+      "reading": "いじょう",
+      "en": "or more, at least",
+      "zh": "以上"
+    },
+    {
+      "ja": "もらう",
+      "reading": "もらう",
+      "en": "to receive",
+      "zh": "得到，收到"
+    },
+    {
+      "ja": "来年",
+      "reading": "らいねん",
+      "en": "next year",
+      "zh": "明年"
+    },
+    {
+      "ja": "春",
+      "reading": "はる",
+      "en": "spring",
+      "zh": "春天"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜なくてもいいです",
+      "meaning": "you don't have to ~",
+      "meaningZh": "不……也可以，不必……",
+      "formation": "verb ない-form (drop い) + くてもいいです",
+      "example": "新しいアプリを入れなくてもいいです。",
+      "translation": "You don't have to install a new app.",
+      "note": "Says that something is not necessary.",
+      "noteZh": "表示没有必要做某事。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#なくてもいい"
+    },
+    {
+      "pattern": "〜しか〜ません",
+      "meaning": "only ~",
+      "meaningZh": "只……，仅仅……",
+      "formation": "noun + しか + negative verb",
+      "example": "2万円までしかお金を入れることができません。",
+      "translation": "You can only put in up to twenty thousand yen.",
+      "note": "Always used with a negative verb; stresses that the amount is small.",
+      "noteZh": "后面必须接否定形式，强调数量少。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#しか"
+    },
+    {
+      "pattern": "〜ことができます",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "verb dictionary form + ことができます",
+      "example": "家族や友達に、お金を送ることもできます。",
+      "translation": "You can also send money to family and friends.",
+      "note": "A polite way to say something is possible.",
+      "noteZh": "表示能够做某事，比较正式。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜ようになりました",
+      "meaning": "has come to be able to ~, now ~",
+      "meaningZh": "变得能……了",
+      "formation": "potential verb + ようになりました",
+      "example": "2万円より高い買い物もできるようになりました。",
+      "translation": "You can now also buy things over twenty thousand yen.",
+      "note": "Shows a change: something that was not possible before is possible now.",
+      "noteZh": "表示状态的变化，以前不能的事现在可以了。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "is planned to ~",
+      "meaningZh": "预定……，计划……",
+      "formation": "verb dictionary form + 予定です",
+      "example": "PASMOのアプリでも使えるようになる予定です。",
+      "translation": "It is planned to become usable in the PASMO app too.",
+      "note": "Talks about a scheduled plan.",
+      "noteZh": "用于说明已经安排好的计划。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定"
+    }
+  ],
+  "practiceZh": [
+    "JR東日本は、20日から、新しいお金の払い方を始めました。\nJR东日本从20日开始推出了新的付款方式。\n払う = to pay",
+    "名前は「テッペイ」です。スマートフォンのアプリで使います。\n名字叫“テッペイ（teppay）”，用智能手机的应用程序使用。\n名前 = name / 使う = to use",
+    "モバイルSuicaのアプリを使っている人は、新しいアプリを入れなくてもいいです。\n正在使用Mobile Suica应用的人，不用安装新的应用。\n入れる = to put in; to install",
+    "お店でスマートフォンの画面のコードを見せて、お金を払います。\n在店里出示手机屏幕上的二维码来付款。\n店 = shop, store / 見せる = to show",
+    "Suicaでは、2万円までしかお金を入れることができません。\nSuica里最多只能存2万日元。\n万 = ten thousand",
+    "テッペイでは、2万円より高い買い物もできるようになりました。\n用テッペイ，现在也可以买2万日元以上的东西了。\n高い = expensive; high / 買い物 = shopping",
+    "マイナンバーカードで確認すると、30万円まで使うことができます。\n用个人编号卡（My Number卡）确认身份后，最多可以使用30万日元。\n確認 = confirmation, check",
+    "家族や友達に、お金を送ることもできます。\n还可以给家人和朋友转钱。\n家族 = family / 友達 = friend / 送る = to send",
+    "11月4日からは、500円以上買い物をすると、20%のポイントがもらえます。\n从11月4日起，购物满500日元以上可以获得20%的积分。\n以上 = or more, at least / もらう = to receive",
+    "来年の春には、PASMOのアプリでも使えるようになる予定です。\n预计明年春天在PASMO的应用里也可以使用。\n来年 = next year / 春 = spring / 予定 = plan, schedule"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-second. A big railway company in Tokyo just started a new way to pay with your phone. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、20日から、新しいお金の払い方を始めました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>20日<rt>はつか</rt></ruby>から、<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>金<rt>かね</rt></ruby>の<ruby>払い方<rt>はらいかた</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は「テッペイ」です。スマートフォンのアプリで使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「テッペイ」です。スマートフォンのアプリで<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "モバイルSuicaのアプリを使っている人は、新しいアプリを入れなくてもいいです。",
+      "ruby": "モバイルSuicaのアプリを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>アプリを<ruby>入れ<rt>いれ</rt></ruby>なくてもいいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "お店でスマートフォンの画面のコードを見せて、お金を払います。",
+      "ruby": "お<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop, store\"><ruby>店<rt>みせ</rt></ruby></span>でスマートフォンの<ruby>画面<rt>がめん</rt></ruby>のコードを<ruby>見せ<rt>みせ</rt></ruby>て、お<ruby>金<rt>かね</rt></ruby>を<ruby>払い<rt>はらい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "Suicaでは、2万円までしかお金を入れることができません。",
+      "ruby": "Suicaでは、2<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>までしかお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"入れる\" data-reading=\"いれる\" data-en=\"to put in; to install\"><ruby>入れ<rt>いれ</rt></ruby>ることができません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "テッペイでは、2万円より高い買い物もできるようになりました。",
+      "ruby": "テッペイでは、2<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>より<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"expensive; high\"><ruby>高い<rt>たかい</rt></ruby></span><span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>もできるようになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "マイナンバーカードで確認すると、30万円まで使うことができます。",
+      "ruby": "マイナンバーカードで<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"confirmation, check\"><ruby>確認す<rt>かくにんす</rt></ruby></span>ると、30<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>まで<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "家族や友達に、お金を送ることもできます。",
+      "ruby": "<span class=\"vw\" data-ja=\"家族\" data-reading=\"かぞく\" data-en=\"family\"><ruby>家族<rt>かぞく</rt></ruby></span>や<span class=\"vw\" data-ja=\"友達\" data-reading=\"ともだち\" data-en=\"friend\"><ruby>友達<rt>ともだち</rt></ruby></span>に、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"送る\" data-reading=\"おくる\" data-en=\"to send\"><ruby>送る<rt>おくる</rt></ruby></span>こともできます。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月4日からは、500円以上買い物をすると、20%のポイントがもらえます。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>からは、500<ruby>円<rt>えん</rt></ruby><span class=\"vw\" data-ja=\"以上\" data-reading=\"いじょう\" data-en=\"or more, at least\"><ruby>以上<rt>いじょう</rt></ruby></span><span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>をすると、20%のポイントがもらえます。"
+    },
+    {
+      "speaker": "news",
+      "text": "来年の春には、PASMOのアプリでも使えるようになる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"春\" data-reading=\"はる\" data-en=\"spring\"><ruby>春<rt>はる</rt></ruby></span>には、PASMOのアプリでも<ruby>使え<rt>つかえ</rt></ruby>るようになる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、20日から、新しいお金の払い方を始めました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>20日<rt>はつか</rt></ruby>から、<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>金<rt>かね</rt></ruby>の<ruby>払い方<rt>はらいかた</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twentieth, JR East started a new way to pay money."
+    },
+    {
+      "speaker": "vocab",
+      "text": "払う",
+      "ruby": "<span class=\"vw\" data-ja=\"払う\" data-reading=\"はらう\" data-en=\"to pay\"><ruby>払う<rt>はらう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pay."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前は「テッペイ」です。スマートフォンのアプリで使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「テッペイ」です。スマートフォンのアプリで<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "It has a new name, and you use it through a smartphone app."
+    },
+    {
+      "speaker": "vocab",
+      "text": "名前",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means name."
+    },
+    {
+      "speaker": "vocab",
+      "text": "使う",
+      "ruby": "<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to use."
+    },
+    {
+      "speaker": "slow",
+      "text": "モバイルSuicaのアプリを使っている人は、新しいアプリを入れなくてもいいです。",
+      "ruby": "モバイルSuicaのアプリを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>アプリを<ruby>入れ<rt>いれ</rt></ruby>なくてもいいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "People who already use the mobile train card app do not need to install a new app."
+    },
+    {
+      "speaker": "vocab",
+      "text": "入れる",
+      "ruby": "<span class=\"vw\" data-ja=\"入れる\" data-reading=\"いれる\" data-en=\"to put in; to install\"><ruby>入れ<rt>いれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to put in. Here, it means to install an app."
+    },
+    {
+      "speaker": "slow",
+      "text": "お店でスマートフォンの画面のコードを見せて、お金を払います。",
+      "ruby": "お<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop, store\"><ruby>店<rt>みせ</rt></ruby></span>でスマートフォンの<ruby>画面<rt>がめん</rt></ruby>のコードを<ruby>見せ<rt>みせ</rt></ruby>て、お<ruby>金<rt>かね</rt></ruby>を<ruby>払い<rt>はらい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a shop, you show a code on your phone screen and pay."
+    },
+    {
+      "speaker": "vocab",
+      "text": "店",
+      "ruby": "<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop, store\"><ruby>店<rt>みせ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shop."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見せる",
+      "ruby": "<span class=\"vw\" data-ja=\"見せる\" data-reading=\"みせる\" data-en=\"to show\"><ruby>見せ<rt>みせ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to show."
+    },
+    {
+      "speaker": "slow",
+      "text": "Suicaでは、2万円までしかお金を入れることができません。",
+      "ruby": "Suicaでは、2<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>までしかお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"入れる\" data-reading=\"いれる\" data-en=\"to put in; to install\"><ruby>入れ<rt>いれ</rt></ruby>ることができません</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The train card itself can only hold up to twenty thousand yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "万",
+      "ruby": "<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万<rt>まん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ten thousand. Japanese counts big numbers in units of ten thousand."
+    },
+    {
+      "speaker": "slow",
+      "text": "テッペイでは、2万円より高い買い物もできるようになりました。",
+      "ruby": "テッペイでは、2<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>より<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"expensive; high\"><ruby>高い<rt>たかい</rt></ruby></span><span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>もできるようになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the new service, you can now buy things that cost more than twenty thousand yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "高い",
+      "ruby": "<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"expensive; high\"><ruby>高い<rt>たかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means expensive."
+    },
+    {
+      "speaker": "vocab",
+      "text": "買い物",
+      "ruby": "<span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shopping."
+    },
+    {
+      "speaker": "slow",
+      "text": "マイナンバーカードで確認すると、30万円まで使うことができます。",
+      "ruby": "マイナンバーカードで<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"confirmation, check\"><ruby>確認す<rt>かくにんす</rt></ruby></span>ると、30<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>まで<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you confirm your identity with your national ID card, you can use up to three hundred thousand yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "確認",
+      "ruby": "<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"confirmation, check\"><ruby>確認<rt>かくにん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to check or confirm."
+    },
+    {
+      "speaker": "slow",
+      "text": "家族や友達に、お金を送ることもできます。",
+      "ruby": "<span class=\"vw\" data-ja=\"家族\" data-reading=\"かぞく\" data-en=\"family\"><ruby>家族<rt>かぞく</rt></ruby></span>や<span class=\"vw\" data-ja=\"友達\" data-reading=\"ともだち\" data-en=\"friend\"><ruby>友達<rt>ともだち</rt></ruby></span>に、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"送る\" data-reading=\"おくる\" data-en=\"to send\"><ruby>送る<rt>おくる</rt></ruby></span>こともできます。"
+    },
+    {
+      "speaker": "host",
+      "text": "You can also send money to your family and friends."
+    },
+    {
+      "speaker": "vocab",
+      "text": "家族",
+      "ruby": "<span class=\"vw\" data-ja=\"家族\" data-reading=\"かぞく\" data-en=\"family\"><ruby>家族<rt>かぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means family."
+    },
+    {
+      "speaker": "vocab",
+      "text": "友達",
+      "ruby": "<span class=\"vw\" data-ja=\"友達\" data-reading=\"ともだち\" data-en=\"friend\"><ruby>友達<rt>ともだち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means friend."
+    },
+    {
+      "speaker": "vocab",
+      "text": "送る",
+      "ruby": "<span class=\"vw\" data-ja=\"送る\" data-reading=\"おくる\" data-en=\"to send\"><ruby>送る<rt>おくる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to send."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月4日からは、500円以上買い物をすると、20%のポイントがもらえます。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>からは、500<ruby>円<rt>えん</rt></ruby><span class=\"vw\" data-ja=\"以上\" data-reading=\"いじょう\" data-en=\"or more, at least\"><ruby>以上<rt>いじょう</rt></ruby></span><span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>をすると、20%のポイントがもらえます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From November fourth, if you spend five hundred yen or more, you get twenty percent back in points."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以上",
+      "ruby": "<span class=\"vw\" data-ja=\"以上\" data-reading=\"いじょう\" data-en=\"or more, at least\"><ruby>以上<rt>いじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means or more."
+    },
+    {
+      "speaker": "vocab",
+      "text": "もらう",
+      "ruby": "<span class=\"vw\" data-ja=\"もらう\" data-reading=\"もらう\" data-en=\"to receive\">もらう</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to receive."
+    },
+    {
+      "speaker": "slow",
+      "text": "来年の春には、PASMOのアプリでも使えるようになる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"春\" data-reading=\"はる\" data-en=\"spring\"><ruby>春<rt>はる</rt></ruby></span>には、PASMOのアプリでも<ruby>使え<rt>つかえ</rt></ruby>るようになる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next spring, it is planned to work in another train card app too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "来年",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "春",
+      "ruby": "<span class=\"vw\" data-ja=\"春\" data-reading=\"はる\" data-en=\"spring\"><ruby>春<rt>はる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means spring."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means plan or schedule."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、20日から、新しいお金の払い方を始めました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>20日<rt>はつか</rt></ruby>から、<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>金<rt>かね</rt></ruby>の<ruby>払い方<rt>はらいかた</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は「テッペイ」です。スマートフォンのアプリで使います。",
+      "ruby": "<span class=\"vw\" data-ja=\"名前\" data-reading=\"なまえ\" data-en=\"name\"><ruby>名前<rt>なまえ</rt></ruby></span>は「テッペイ」です。スマートフォンのアプリで<ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "モバイルSuicaのアプリを使っている人は、新しいアプリを入れなくてもいいです。",
+      "ruby": "モバイルSuicaのアプリを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>アプリを<ruby>入れ<rt>いれ</rt></ruby>なくてもいいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "お店でスマートフォンの画面のコードを見せて、お金を払います。",
+      "ruby": "お<span class=\"vw\" data-ja=\"店\" data-reading=\"みせ\" data-en=\"shop, store\"><ruby>店<rt>みせ</rt></ruby></span>でスマートフォンの<ruby>画面<rt>がめん</rt></ruby>のコードを<ruby>見せ<rt>みせ</rt></ruby>て、お<ruby>金<rt>かね</rt></ruby>を<ruby>払い<rt>はらい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "Suicaでは、2万円までしかお金を入れることができません。",
+      "ruby": "Suicaでは、2<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>までしかお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"入れる\" data-reading=\"いれる\" data-en=\"to put in; to install\"><ruby>入れ<rt>いれ</rt></ruby>ることができません</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "テッペイでは、2万円より高い買い物もできるようになりました。",
+      "ruby": "テッペイでは、2<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>より<span class=\"vw\" data-ja=\"高い\" data-reading=\"たかい\" data-en=\"expensive; high\"><ruby>高い<rt>たかい</rt></ruby></span><span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>もできるようになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "マイナンバーカードで確認すると、30万円まで使うことができます。",
+      "ruby": "マイナンバーカードで<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"confirmation, check\"><ruby>確認す<rt>かくにんす</rt></ruby></span>ると、30<span class=\"vw\" data-ja=\"万\" data-reading=\"まん\" data-en=\"ten thousand\"><ruby>万円<rt>まんえん</rt></ruby></span>まで<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "家族や友達に、お金を送ることもできます。",
+      "ruby": "<span class=\"vw\" data-ja=\"家族\" data-reading=\"かぞく\" data-en=\"family\"><ruby>家族<rt>かぞく</rt></ruby></span>や<span class=\"vw\" data-ja=\"友達\" data-reading=\"ともだち\" data-en=\"friend\"><ruby>友達<rt>ともだち</rt></ruby></span>に、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"送る\" data-reading=\"おくる\" data-en=\"to send\"><ruby>送る<rt>おくる</rt></ruby></span>こともできます。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月4日からは、500円以上買い物をすると、20%のポイントがもらえます。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>からは、500<ruby>円<rt>えん</rt></ruby><span class=\"vw\" data-ja=\"以上\" data-reading=\"いじょう\" data-en=\"or more, at least\"><ruby>以上<rt>いじょう</rt></ruby></span><span class=\"vw\" data-ja=\"買い物\" data-reading=\"かいもの\" data-en=\"shopping\"><ruby>買い物<rt>かいもの</rt></ruby></span>をすると、20%のポイントがもらえます。"
+    },
+    {
+      "speaker": "news",
+      "text": "来年の春には、PASMOのアプリでも使えるようになる予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"春\" data-reading=\"はる\" data-en=\"spring\"><ruby>春<rt>はる</rt></ruby></span>には、PASMOのアプリでも<ruby>使え<rt>つかえ</rt></ruby>るようになる<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいお金の払い方は、いつから始まりましたか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>金<rt>かね</rt></ruby>の<ruby>払い方<rt>はらいかた</rt></ruby>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twentieth."
+    },
+    {
+      "speaker": "slow",
+      "text": "Suicaには、いくらまでお金を入れることができますか。",
+      "ruby": "Suicaには、いくらまでお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"入れる\" data-reading=\"いれる\" data-en=\"to put in; to install\"><ruby>入れ<rt>いれ</rt></ruby>ることができますか</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Up to twenty thousand yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "だれに、お金を送ることができますか。",
+      "ruby": "だれに、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"送る\" data-reading=\"おくる\" data-en=\"to send\"><ruby>送る<rt>おくる</rt></ruby></span>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "To family and friends."
+    },
+    {
+      "speaker": "slow",
+      "text": "来年の春には、何のアプリでも使えるようになりますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"春\" data-reading=\"はる\" data-en=\"spring\"><ruby>春<rt>はる</rt></ruby></span>には、<ruby>何の<rt>なんの</rt></ruby>アプリでも<ruby>使え<rt>つかえ</rt></ruby>るようになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Another train card app, used mainly in the Tokyo area."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
