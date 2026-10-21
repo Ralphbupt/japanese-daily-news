@@ -1,0 +1,583 @@
+{
+  "episode": 236,
+  "title": "東京・大阪・名古屋で、観測史上最も遅い真夏日",
+  "date": "2026-10-21",
+  "source": "NHK / ウェザーニュース / tenki.jp",
+  "level": "N4-N3",
+  "contentVersion": "2026102101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "季節外れ",
+      "reading": "きせつはずれ",
+      "en": "out of season, unseasonable",
+      "zh": "不合时节，反常"
+    },
+    {
+      "ja": "最高気温",
+      "reading": "さいこうきおん",
+      "en": "highest temperature of the day",
+      "zh": "最高气温"
+    },
+    {
+      "ja": "真夏日",
+      "reading": "まなつび",
+      "en": "a day of 30°C or more",
+      "zh": "盛夏日（气温30度以上的日子）"
+    },
+    {
+      "ja": "観測",
+      "reading": "かんそく",
+      "en": "observation (of weather)",
+      "zh": "观测"
+    },
+    {
+      "ja": "記録",
+      "reading": "きろく",
+      "en": "record",
+      "zh": "纪录"
+    },
+    {
+      "ja": "地点",
+      "reading": "ちてん",
+      "en": "point, location",
+      "zh": "地点"
+    },
+    {
+      "ja": "暖かい",
+      "reading": "あたたかい",
+      "en": "warm",
+      "zh": "温暖的"
+    },
+    {
+      "ja": "一方",
+      "reading": "いっぽう",
+      "en": "on the other hand",
+      "zh": "另一方面"
+    },
+    {
+      "ja": "冷たい",
+      "reading": "つめたい",
+      "en": "cold (to the touch, air)",
+      "zh": "冷的，凉的"
+    },
+    {
+      "ja": "予想",
+      "reading": "よそう",
+      "en": "forecast, prediction",
+      "zh": "预测，预想"
+    },
+    {
+      "ja": "体調",
+      "reading": "たいちょう",
+      "en": "physical condition, health",
+      "zh": "身体状况"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "expectation, forecast",
+      "zh": "预计，估计"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~",
+      "meaningZh": "被称为……",
+      "formation": "noun + と呼ばれる",
+      "example": "30度以上の日は「真夏日」と呼ばれます。",
+      "translation": "A day of thirty degrees or more is called a midsummer day.",
+      "note": "Passive of 呼ぶ; used to introduce a name or term.",
+      "noteZh": "「呼ぶ」的被动形式，用来介绍名称或术语。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と呼ばれる"
+    },
+    {
+      "pattern": "〜ぶりに",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔……",
+      "formation": "time period + ぶりに",
+      "example": "大阪では、93年ぶりに記録が変わりました。",
+      "translation": "In Osaka, the record changed for the first time in 93 years.",
+      "note": "Shows that something happens again after a long gap.",
+      "noteZh": "表示隔了一段时间后再次发生。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ぶりに"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as ~, for ~ (in the category of)",
+      "meaningZh": "作为……，就……而言",
+      "formation": "noun + として",
+      "example": "10月下旬として国内で最も高い気温になりました。",
+      "translation": "It became the highest temperature in Japan for late October.",
+      "note": "Limits the comparison to a category or standpoint.",
+      "noteZh": "把比较限定在某个范畴或立场之内。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#として"
+    },
+    {
+      "pattern": "〜見込みです",
+      "meaning": "is expected to ~",
+      "meaningZh": "预计……",
+      "formation": "plain form + 見込みです",
+      "example": "気温が大きく下がる見込みです。",
+      "translation": "Temperatures are expected to drop sharply.",
+      "note": "Common in news and forecasts for likely future events.",
+      "noteZh": "新闻和预报中常用，表示很可能发生的事。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#見込み"
+    }
+  ],
+  "practiceZh": [
+    "21日、西日本と東日本の太平洋側で、季節外れの暑さになりました。\n21日，西日本和东日本的太平洋一侧出现了反常的炎热天气。\n季節外れ = out of season, unseasonable",
+    "東京の都心では、最高気温が30.3度まで上がりました。\n东京市中心的最高气温升到了30.3度。\n最高気温 = highest temperature of the day",
+    "30度以上の日は「真夏日」と呼ばれます。\n30度以上的日子被称为“盛夏日”。\n真夏日 = a day of 30°C or more",
+    "東京の都心では、観測を始めてから、最も遅い真夏日になりました。\n东京市中心迎来了有观测以来最晚的盛夏日。\n真夏日 = a day of 30°C or more / 観測 = observation (of weather)",
+    "大阪市は31.2度、名古屋市は31.4度で、どちらも最も遅い真夏日の記録です。\n大阪市31.2度，名古屋市31.4度，都创下了最晚盛夏日的纪录。\n真夏日 = a day of 30°C or more / 記録 = record",
+    "大阪では、93年ぶりに記録が変わりました。\n大阪的纪录时隔93年被改写。\n記録 = record",
+    "全国の150以上の地点で、気温が30度を超えました。\n全国150多个地点气温超过了30度。\n地点 = point, location",
+    "宮崎県日向市では33.6度まで上がり、10月下旬として国内で最も高い気温になりました。\n宫崎县日向市升到33.6度，成为国内10月下旬的最高气温。",
+    "南から暖かい空気が流れ込んだことが、原因です。\n原因是从南方流入的暖空气。\n暖かい = warm",
+    "一方、北海道では寒くて、最高気温が10度に届かない所もありました。\n另一方面，北海道很冷，也有地方最高气温不到10度。\n最高気温 = highest temperature of the day / 一方 = on the other hand",
+    "22日は北から冷たい空気が入って、気温が大きく下がる見込みです。\n22日冷空气从北方进入，预计气温将大幅下降。\n冷たい = cold (to the touch, air) / 見込み = expectation, forecast",
+    "東京や大阪の最高気温は、23度の予想です。\n东京和大阪的最高气温预计为23度。\n最高気温 = highest temperature of the day / 予想 = forecast, prediction",
+    "急に気温が変わるので、体調に気をつけてください。\n气温变化很快，请注意身体。\n体調 = physical condition, health"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-first. Big cities in Japan just had their latest-ever thirty-degree day. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日、西日本と東日本の太平洋側で、季節外れの暑さになりました。",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>、<ruby>西日本<rt>にしにほん</rt></ruby>と<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>で、<span class=\"vw\" data-ja=\"季節外れ\" data-reading=\"きせつはずれ\" data-en=\"out of season, unseasonable\"><ruby>季節外<rt>きせつはず</rt></ruby>れの</span><ruby>暑さ<rt>あつさ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心では、最高気温が30.3度まで上がりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>では、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が30.3<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "30度以上の日は「真夏日」と呼ばれます。",
+      "ruby": "30<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心では、観測を始めてから、最も遅い真夏日になりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>では、<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (of weather)\"><ruby>観測<rt>かんそく</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>最も<rt>もっとも</rt></ruby><ruby>遅い<rt>おそい</rt></ruby><span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪市は31.2度、名古屋市は31.4度で、どちらも最も遅い真夏日の記録です。",
+      "ruby": "<ruby>大阪市<rt>おおさかし</rt></ruby>は31.2<ruby>度<rt>ど</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>は31.4<ruby>度<rt>ど</rt></ruby>で、どちらも<ruby>最も<rt>もっとも</rt></ruby><ruby>遅い<rt>おそい</rt></ruby><span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪では、93年ぶりに記録が変わりました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>では、93<ruby>年<rt>ねん</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>が<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の150以上の地点で、気温が30度を超えました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の150<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"地点\" data-reading=\"ちてん\" data-en=\"point, location\"><ruby>地点<rt>ちてん</rt></ruby></span>で、<ruby>気温<rt>きおん</rt></ruby>が30<ruby>度<rt>ど</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "宮崎県日向市では33.6度まで上がり、10月下旬として国内で最も高い気温になりました。",
+      "ruby": "<ruby>宮崎県<rt>みやざきけん</rt></ruby><ruby>日向<rt>ひゅうが</rt></ruby><ruby>市<rt>し</rt></ruby>では33.6<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>り、10<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>として<ruby>国内<rt>こくない</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "南から暖かい空気が流れ込んだことが、原因です。",
+      "ruby": "<ruby>南<rt>みなみ</rt></ruby>から<span class=\"vw\" data-ja=\"暖かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>暖かい<rt>あたたかい</rt></ruby></span><ruby>空気<rt>くうき</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込ん<rt>こん</rt></ruby>だことが、<ruby>原因<rt>げんいん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、北海道では寒くて、最高気温が10度に届かない所もありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、<ruby>北海道<rt>ほっかいどう</rt></ruby>では<ruby>寒く<rt>さむく</rt></ruby>て、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が10<ruby>度<rt>ど</rt></ruby>に<ruby>届か<rt>とどか</rt></ruby>ない<ruby>所<rt>ところ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日は北から冷たい空気が入って、気温が大きく下がる見込みです。",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>は<ruby>北<rt>きた</rt></ruby>から<span class=\"vw\" data-ja=\"冷たい\" data-reading=\"つめたい\" data-en=\"cold (to the touch, air)\"><ruby>冷たい<rt>つめたい</rt></ruby></span><ruby>空気<rt>くうき</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>て、<ruby>気温<rt>きおん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京や大阪の最高気温は、23度の予想です。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>は、23<ruby>度<rt>ど</rt></ruby>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "急に気温が変わるので、体調に気をつけてください。",
+      "ruby": "<ruby>急に<rt>きゅうに</rt></ruby><ruby>気温<rt>きおん</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>るので、<span class=\"vw\" data-ja=\"体調\" data-reading=\"たいちょう\" data-en=\"physical condition, health\"><ruby>体調<rt>たいちょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "21日、西日本と東日本の太平洋側で、季節外れの暑さになりました。",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>、<ruby>西日本<rt>にしにほん</rt></ruby>と<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>で、<span class=\"vw\" data-ja=\"季節外れ\" data-reading=\"きせつはずれ\" data-en=\"out of season, unseasonable\"><ruby>季節外<rt>きせつはず</rt></ruby>れの</span><ruby>暑さ<rt>あつさ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-first, it was unseasonably hot along the Pacific side of western and eastern Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "季節外れ",
+      "ruby": "<span class=\"vw\" data-ja=\"季節外れ\" data-reading=\"きせつはずれ\" data-en=\"out of season, unseasonable\"><ruby>季節外<rt>きせつはず</rt></ruby>れ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means out of season."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心では、最高気温が30.3度まで上がりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>では、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が30.3<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In central Tokyo, the high reached thirty point three degrees."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最高気温",
+      "ruby": "<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the day's highest temperature."
+    },
+    {
+      "speaker": "slow",
+      "text": "30度以上の日は「真夏日」と呼ばれます。",
+      "ruby": "30<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "A day of thirty degrees or more has a special name."
+    },
+    {
+      "speaker": "vocab",
+      "text": "真夏日",
+      "ruby": "<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a midsummer day, thirty degrees or higher."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心では、観測を始めてから、最も遅い真夏日になりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>では、<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (of weather)\"><ruby>観測<rt>かんそく</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>最も<rt>もっとも</rt></ruby><ruby>遅い<rt>おそい</rt></ruby><span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "For central Tokyo, it was the latest such day since records began."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観測",
+      "ruby": "<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (of weather)\"><ruby>観測<rt>かんそく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means observation, like weather measurements."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪市は31.2度、名古屋市は31.4度で、どちらも最も遅い真夏日の記録です。",
+      "ruby": "<ruby>大阪市<rt>おおさかし</rt></ruby>は31.2<ruby>度<rt>ど</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>は31.4<ruby>度<rt>ど</rt></ruby>で、どちらも<ruby>最も<rt>もっとも</rt></ruby><ruby>遅い<rt>おそい</rt></ruby><span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Osaka hit thirty-one point two, and Nagoya thirty-one point four. Both set records for the latest hot day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録",
+      "ruby": "<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a record."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪では、93年ぶりに記録が変わりました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>では、93<ruby>年<rt>ねん</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>が<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Osaka, the record changed for the first time in ninety-three years."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国の150以上の地点で、気温が30度を超えました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の150<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"地点\" data-reading=\"ちてん\" data-en=\"point, location\"><ruby>地点<rt>ちてん</rt></ruby></span>で、<ruby>気温<rt>きおん</rt></ruby>が30<ruby>度<rt>ど</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Temperatures went over thirty degrees at more than one hundred fifty locations nationwide."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地点",
+      "ruby": "<span class=\"vw\" data-ja=\"地点\" data-reading=\"ちてん\" data-en=\"point, location\"><ruby>地点<rt>ちてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a point or location."
+    },
+    {
+      "speaker": "slow",
+      "text": "宮崎県日向市では33.6度まで上がり、10月下旬として国内で最も高い気温になりました。",
+      "ruby": "<ruby>宮崎県<rt>みやざきけん</rt></ruby><ruby>日向<rt>ひゅうが</rt></ruby><ruby>市<rt>し</rt></ruby>では33.6<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>り、10<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>として<ruby>国内<rt>こくない</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Hyuga, Miyazaki, it reached thirty-three point six, the highest ever in Japan for late October."
+    },
+    {
+      "speaker": "slow",
+      "text": "南から暖かい空気が流れ込んだことが、原因です。",
+      "ruby": "<ruby>南<rt>みなみ</rt></ruby>から<span class=\"vw\" data-ja=\"暖かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>暖かい<rt>あたたかい</rt></ruby></span><ruby>空気<rt>くうき</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込ん<rt>こん</rt></ruby>だことが、<ruby>原因<rt>げんいん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Warm air flowing in from the south was the cause."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暖かい",
+      "ruby": "<span class=\"vw\" data-ja=\"暖かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>暖かい<rt>あたたかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means warm."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、北海道では寒くて、最高気温が10度に届かない所もありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、<ruby>北海道<rt>ほっかいどう</rt></ruby>では<ruby>寒く<rt>さむく</rt></ruby>て、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が10<ruby>度<rt>ど</rt></ruby>に<ruby>届か<rt>とどか</rt></ruby>ない<ruby>所<rt>ところ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, in Hokkaido it was cold, and some places stayed under ten degrees."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一方",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means on the other hand."
+    },
+    {
+      "speaker": "slow",
+      "text": "22日は北から冷たい空気が入って、気温が大きく下がる見込みです。",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>は<ruby>北<rt>きた</rt></ruby>から<span class=\"vw\" data-ja=\"冷たい\" data-reading=\"つめたい\" data-en=\"cold (to the touch, air)\"><ruby>冷たい<rt>つめたい</rt></ruby></span><ruby>空気<rt>くうき</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>て、<ruby>気温<rt>きおん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-second, cold air comes in from the north, and temperatures are expected to drop sharply."
+    },
+    {
+      "speaker": "vocab",
+      "text": "冷たい",
+      "ruby": "<span class=\"vw\" data-ja=\"冷たい\" data-reading=\"つめたい\" data-en=\"cold (to the touch, air)\"><ruby>冷たい<rt>つめたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cold, like cold air or water."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京や大阪の最高気温は、23度の予想です。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>は、23<ruby>度<rt>ど</rt></ruby>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Highs in Tokyo and Osaka are forecast at twenty-three degrees."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予想",
+      "ruby": "<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a forecast or prediction."
+    },
+    {
+      "speaker": "slow",
+      "text": "急に気温が変わるので、体調に気をつけてください。",
+      "ruby": "<ruby>急に<rt>きゅうに</rt></ruby><ruby>気温<rt>きおん</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>るので、<span class=\"vw\" data-ja=\"体調\" data-reading=\"たいちょう\" data-en=\"physical condition, health\"><ruby>体調<rt>たいちょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "The temperature is changing suddenly, so take care of your health."
+    },
+    {
+      "speaker": "vocab",
+      "text": "体調",
+      "ruby": "<span class=\"vw\" data-ja=\"体調\" data-reading=\"たいちょう\" data-en=\"physical condition, health\"><ruby>体調<rt>たいちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means your physical condition."
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's hear the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日、西日本と東日本の太平洋側で、季節外れの暑さになりました。",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>、<ruby>西日本<rt>にしにほん</rt></ruby>と<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>で、<span class=\"vw\" data-ja=\"季節外れ\" data-reading=\"きせつはずれ\" data-en=\"out of season, unseasonable\"><ruby>季節外<rt>きせつはず</rt></ruby>れの</span><ruby>暑さ<rt>あつさ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心では、最高気温が30.3度まで上がりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>では、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が30.3<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "30度以上の日は「真夏日」と呼ばれます。",
+      "ruby": "30<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心では、観測を始めてから、最も遅い真夏日になりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>では、<span class=\"vw\" data-ja=\"観測\" data-reading=\"かんそく\" data-en=\"observation (of weather)\"><ruby>観測<rt>かんそく</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>てから、<ruby>最も<rt>もっとも</rt></ruby><ruby>遅い<rt>おそい</rt></ruby><span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪市は31.2度、名古屋市は31.4度で、どちらも最も遅い真夏日の記録です。",
+      "ruby": "<ruby>大阪市<rt>おおさかし</rt></ruby>は31.2<ruby>度<rt>ど</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>は31.4<ruby>度<rt>ど</rt></ruby>で、どちらも<ruby>最も<rt>もっとも</rt></ruby><ruby>遅い<rt>おそい</rt></ruby><span class=\"vw\" data-ja=\"真夏日\" data-reading=\"まなつび\" data-en=\"a day of 30°C or more\"><ruby>真夏日<rt>まなつび</rt></ruby></span>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪では、93年ぶりに記録が変わりました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>では、93<ruby>年<rt>ねん</rt></ruby>ぶりに<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>が<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国の150以上の地点で、気温が30度を超えました。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>の150<ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"地点\" data-reading=\"ちてん\" data-en=\"point, location\"><ruby>地点<rt>ちてん</rt></ruby></span>で、<ruby>気温<rt>きおん</rt></ruby>が30<ruby>度<rt>ど</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "宮崎県日向市では33.6度まで上がり、10月下旬として国内で最も高い気温になりました。",
+      "ruby": "<ruby>宮崎県<rt>みやざきけん</rt></ruby><ruby>日向<rt>ひゅうが</rt></ruby><ruby>市<rt>し</rt></ruby>では33.6<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>り、10<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>として<ruby>国内<rt>こくない</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "南から暖かい空気が流れ込んだことが、原因です。",
+      "ruby": "<ruby>南<rt>みなみ</rt></ruby>から<span class=\"vw\" data-ja=\"暖かい\" data-reading=\"あたたかい\" data-en=\"warm\"><ruby>暖かい<rt>あたたかい</rt></ruby></span><ruby>空気<rt>くうき</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込ん<rt>こん</rt></ruby>だことが、<ruby>原因<rt>げんいん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、北海道では寒くて、最高気温が10度に届かない所もありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、<ruby>北海道<rt>ほっかいどう</rt></ruby>では<ruby>寒く<rt>さむく</rt></ruby>て、<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>が10<ruby>度<rt>ど</rt></ruby>に<ruby>届か<rt>とどか</rt></ruby>ない<ruby>所<rt>ところ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日は北から冷たい空気が入って、気温が大きく下がる見込みです。",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>は<ruby>北<rt>きた</rt></ruby>から<span class=\"vw\" data-ja=\"冷たい\" data-reading=\"つめたい\" data-en=\"cold (to the touch, air)\"><ruby>冷たい<rt>つめたい</rt></ruby></span><ruby>空気<rt>くうき</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>て、<ruby>気温<rt>きおん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>る<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京や大阪の最高気温は、23度の予想です。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>は、23<ruby>度<rt>ど</rt></ruby>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "急に気温が変わるので、体調に気をつけてください。",
+      "ruby": "<ruby>急に<rt>きゅうに</rt></ruby><ruby>気温<rt>きおん</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>るので、<span class=\"vw\" data-ja=\"体調\" data-reading=\"たいちょう\" data-en=\"physical condition, health\"><ruby>体調<rt>たいちょう</rt></ruby></span>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心の最高気温は、何度でしたか。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>都心<rt>としん</rt></ruby>の<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>は、<ruby>何度<rt>なんど</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty point three degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪の記録が変わったのは、何年ぶりですか。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>が<ruby>変わ<rt>かわ</rt></ruby>ったのは、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ninety-three years."
+    },
+    {
+      "speaker": "slow",
+      "text": "22日の東京の最高気温は、何度の予想ですか。",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"最高気温\" data-reading=\"さいこうきおん\" data-en=\"highest temperature of the day\"><ruby>最高気温<rt>さいこうきおん</rt></ruby></span>は、<ruby>何度<rt>なんど</rt></ruby>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twenty-three degrees."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
