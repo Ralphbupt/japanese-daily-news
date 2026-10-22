@@ -1,0 +1,705 @@
+{
+  "episode": 238,
+  "title": "体操世界選手権、日本が男子団体で金メダル",
+  "date": "2026-10-22",
+  "source": "NHK / 日本経済新聞 / 共同通信",
+  "level": "N4-N3",
+  "contentVersion": "2026102201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "体操",
+      "reading": "たいそう",
+      "en": "gymnastics",
+      "zh": "体操"
+    },
+    {
+      "ja": "世界選手権",
+      "reading": "せかいせんしゅけん",
+      "en": "world championships",
+      "zh": "世界锦标赛"
+    },
+    {
+      "ja": "行われる",
+      "reading": "おこなわれる",
+      "en": "to be held",
+      "zh": "举行"
+    },
+    {
+      "ja": "団体",
+      "reading": "だんたい",
+      "en": "team (event)",
+      "zh": "团体"
+    },
+    {
+      "ja": "決勝",
+      "reading": "けっしょう",
+      "en": "final (round)",
+      "zh": "决赛"
+    },
+    {
+      "ja": "金メダル",
+      "reading": "きんメダル",
+      "en": "gold medal",
+      "zh": "金牌"
+    },
+    {
+      "ja": "取る",
+      "reading": "とる",
+      "en": "to take; to win",
+      "zh": "取得，获得"
+    },
+    {
+      "ja": "種目",
+      "reading": "しゅもく",
+      "en": "event (in sports)",
+      "zh": "比赛项目"
+    },
+    {
+      "ja": "合計",
+      "reading": "ごうけい",
+      "en": "total",
+      "zh": "合计，总计"
+    },
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "athlete, player",
+      "zh": "选手，运动员"
+    },
+    {
+      "ja": "差",
+      "reading": "さ",
+      "en": "difference, gap",
+      "zh": "差距"
+    },
+    {
+      "ja": "積み重ねる",
+      "reading": "つみかさねる",
+      "en": "to pile up, to build up",
+      "zh": "积累"
+    },
+    {
+      "ja": "鉄棒",
+      "reading": "てつぼう",
+      "en": "horizontal bar",
+      "zh": "单杠"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "victory, championship",
+      "zh": "冠军，夺冠"
+    },
+    {
+      "ja": "連続",
+      "reading": "れんぞく",
+      "en": "consecutive, in a row",
+      "zh": "连续"
+    },
+    {
+      "ja": "出る",
+      "reading": "でる",
+      "en": "to take part; to appear",
+      "zh": "参加，出场"
+    },
+    {
+      "ja": "決まる",
+      "reading": "きまる",
+      "en": "to be decided",
+      "zh": "决定，确定"
+    },
+    {
+      "ja": "一人",
+      "reading": "ひとり",
+      "en": "one person",
+      "zh": "一个人"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ている（進行中）",
+      "meaning": "is ~ing (ongoing)",
+      "meaningZh": "正在……",
+      "formation": "verb て-form + いる",
+      "example": "体操の世界選手権が、ロッテルダムで行われています。",
+      "translation": "The gymnastics World Championships are being held in Rotterdam.",
+      "note": "Shows an action or event that is going on now.",
+      "noteZh": "表示动作或事情正在进行中。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ている"
+    },
+    {
+      "pattern": "〜て、〜",
+      "meaning": "~ and then ~ (cause/sequence)",
+      "meaningZh": "……之后／因为……而……",
+      "formation": "verb て-form + clause",
+      "example": "橋本選手が14.866点を取って、優勝が決まりました。",
+      "translation": "Hashimoto scored 14.866, and the win was decided.",
+      "note": "Links two events; the first leads to the second.",
+      "noteZh": "连接两件事，前者引出后者。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#て"
+    },
+    {
+      "pattern": "〜に続いて",
+      "meaning": "following ~, after ~",
+      "meaningZh": "继……之后",
+      "formation": "noun + に続いて",
+      "example": "2023年に続いて2回連続です。",
+      "translation": "It is the second time in a row, following 2023.",
+      "note": "Says something happens again right after a previous one.",
+      "noteZh": "表示紧接着前一次之后再次发生。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に続いて"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "verb dictionary form + ことができる",
+      "example": "3位までに入ったチームは、オリンピックに出ることができます。",
+      "translation": "Teams in the top three can take part in the Olympics.",
+      "note": "Expresses ability or permission.",
+      "noteZh": "表示能力或可能性。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことができる"
+    },
+    {
+      "pattern": "〜ことが決まる",
+      "meaning": "it is decided that ~",
+      "meaningZh": "决定……，确定……",
+      "formation": "verb dictionary form + ことが決まる",
+      "example": "日本は、オリンピックに出ることが決まりました。",
+      "translation": "It was decided that Japan will go to the Olympics.",
+      "note": "Reports that something has been officially settled.",
+      "noteZh": "表示某事已经正式确定。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    }
+  ],
+  "practiceZh": [
+    "体操の世界選手権が、オランダのロッテルダムで行われています。\n体操世界锦标赛正在荷兰鹿特丹举行。\n行われる = to be held",
+    "20日、男子の団体の決勝がありました。\n20日举行了男子团体决赛。\n団体 = team (event) / 決勝 = final (round)",
+    "日本は、この決勝で金メダルを取りました。\n日本在这场决赛中获得了金牌。\n取る = to take; to win",
+    "6つの種目の合計は、251.928点でした。\n6个项目的总分是251.928分。\n種目 = event (in sports) / 合計 = total",
+    "2位はロシアの選手のチーム、3位は中国でした。\n第2名是俄罗斯选手队，第3名是中国。\n選手 = athlete, player",
+    "日本と2位の差は、1.599点でした。\n日本与第2名的差距是1.599分。\n差 = difference, gap",
+    "チームの選手は、橋本大輝選手や岡慎之助選手など5人です。\n队伍的选手有桥本大辉、冈慎之助等5人。\n一人 = one person",
+    "一人だけでなく、みんなで点を積み重ねて戦いました。\n不是靠一个人，而是大家一起积累分数来比赛。\n積み重ねる = to pile up, to build up",
+    "最後の種目は、鉄棒でした。\n最后一个项目是单杠。\n鉄棒 = horizontal bar",
+    "橋本選手が鉄棒で14.866点を取って、優勝が決まりました。\n桥本选手在单杠上拿到14.866分，冠军随之确定。\n優勝 = victory, championship",
+    "日本が世界選手権の団体で勝つのは、2023年に続いて2回連続です。\n日本在世锦赛团体项目中夺冠，继2023年之后已是连续第2次。\n連続 = consecutive, in a row",
+    "2024年のパリオリンピックでも、日本は団体で金メダルを取っています。\n在2024年巴黎奥运会上，日本也获得了团体金牌。\n金メダル = gold medal",
+    "3位までに入ったチームは、2028年のロサンゼルスオリンピックに出ることができます。\n进入前3名的队伍可以参加2028年洛杉矶奥运会。\n出る = to take part; to appear",
+    "日本は、ロサンゼルスオリンピックに出ることが決まりました。\n日本已确定参加洛杉矶奥运会。\n決まる = to be decided"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-second. Japan's men's gymnastics team just won gold at the World Championships. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "体操の世界選手権が、オランダのロッテルダムで行われています。",
+      "ruby": "<span class=\"vw\" data-ja=\"体操\" data-reading=\"たいそう\" data-en=\"gymnastics\"><ruby>体操<rt>たいそう</rt></ruby></span>の<span class=\"vw\" data-ja=\"世界選手権\" data-reading=\"せかいせんしゅけん\" data-en=\"world championships\"><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby></span>が、オランダのロッテルダムで<ruby>行わ<rt>おこなわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "20日、男子の団体の決勝がありました。",
+      "ruby": "<ruby>20日<rt>はつか</rt></ruby>、<ruby>男子<rt>だんし</rt></ruby>の<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、この決勝で金メダルを取りました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、この<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>で<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>を<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6つの種目の合計は、251.928点でした。",
+      "ruby": "6つの<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>の<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は、251.928<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2位はロシアの選手のチーム、3位は中国でした。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>はロシアの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のチーム、3<ruby>位<rt>い</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本と2位の差は、1.599点でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>と2<ruby>位<rt>い</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>は、1.599<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "チームの選手は、橋本大輝選手や岡慎之助選手など5人です。",
+      "ruby": "チームの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>橋本<rt>はしもと</rt></ruby><ruby>大輝<rt>だいき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>や<ruby>岡<rt>おか</rt></ruby><ruby>慎之助<rt>しんのすけ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>など5<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人だけでなく、みんなで点を積み重ねて戦いました。",
+      "ruby": "<span class=\"vw\" data-ja=\"一人\" data-reading=\"ひとり\" data-en=\"one person\"><ruby>一人<rt>ひとり</rt></ruby></span>だけでなく、みんなで<ruby>点<rt>てん</rt></ruby>を<ruby>積み重ね<rt>つみかさね</rt></ruby>て<ruby>戦い<rt>たたかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後の種目は、鉄棒でした。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "橋本選手が鉄棒で14.866点を取って、優勝が決まりました。",
+      "ruby": "<ruby>橋本<rt>はしもと</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>で14.866<ruby>点<rt>てん</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て、<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"victory, championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>が<ruby>決ま<rt>きま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本が世界選手権の団体で勝つのは、2023年に続いて2回連続です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>が<span class=\"vw\" data-ja=\"世界選手権\" data-reading=\"せかいせんしゅけん\" data-en=\"world championships\"><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>で<ruby>勝つ<rt>かつ</rt></ruby>のは、2023<ruby>年<rt>ねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て2<ruby>回<rt>かい</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive, in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年のパリオリンピックでも、日本は団体で金メダルを取っています。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>のパリオリンピックでも、<ruby>日本<rt>にほん</rt></ruby>は<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>で<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>を<ruby>取っ<rt>とっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "3位までに入ったチームは、2028年のロサンゼルスオリンピックに出ることができます。",
+      "ruby": "3<ruby>位<rt>い</rt></ruby>までに<ruby>入っ<rt>はいっ</rt></ruby>たチームは、2028<ruby>年<rt>ねん</rt></ruby>のロサンゼルスオリンピックに<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、ロサンゼルスオリンピックに出ることが決まりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、ロサンゼルスオリンピックに<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことが<ruby>決ま<rt>きま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "体操の世界選手権が、オランダのロッテルダムで行われています。",
+      "ruby": "<span class=\"vw\" data-ja=\"体操\" data-reading=\"たいそう\" data-en=\"gymnastics\"><ruby>体操<rt>たいそう</rt></ruby></span>の<span class=\"vw\" data-ja=\"世界選手権\" data-reading=\"せかいせんしゅけん\" data-en=\"world championships\"><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby></span>が、オランダのロッテルダムで<ruby>行わ<rt>おこなわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The gymnastics World Championships are being held in Rotterdam, in the Netherlands."
+    },
+    {
+      "speaker": "vocab",
+      "text": "行われる",
+      "ruby": "<span class=\"vw\" data-ja=\"行われる\" data-reading=\"おこなわれる\" data-en=\"to be held\"><ruby>行わ<rt>おこなわ</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be held."
+    },
+    {
+      "speaker": "slow",
+      "text": "20日、男子の団体の決勝がありました。",
+      "ruby": "<ruby>20日<rt>はつか</rt></ruby>、<ruby>男子<rt>だんし</rt></ruby>の<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twentieth, there was the men's team final."
+    },
+    {
+      "speaker": "vocab",
+      "text": "団体",
+      "ruby": "<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a team event."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決勝",
+      "ruby": "<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the final round."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、この決勝で金メダルを取りました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、この<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>で<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>を<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan won the gold medal in this final."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取る",
+      "ruby": "<span class=\"vw\" data-ja=\"取る\" data-reading=\"とる\" data-en=\"to take; to win\"><ruby>取る<rt>とる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take, or to win."
+    },
+    {
+      "speaker": "slow",
+      "text": "6つの種目の合計は、251.928点でした。",
+      "ruby": "6つの<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>の<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は、251.928<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The total for the six events was about two hundred fifty-two points."
+    },
+    {
+      "speaker": "vocab",
+      "text": "種目",
+      "ruby": "<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an event in a competition."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合計",
+      "ruby": "<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means total."
+    },
+    {
+      "speaker": "slow",
+      "text": "2位はロシアの選手のチーム、3位は中国でした。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>はロシアの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のチーム、3<ruby>位<rt>い</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Second was a team of athletes from Russia, and third was China."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選手",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means athlete or player."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本と2位の差は、1.599点でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>と2<ruby>位<rt>い</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>は、1.599<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The gap between Japan and second place was about one point six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "差",
+      "ruby": "<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means difference or gap."
+    },
+    {
+      "speaker": "slow",
+      "text": "チームの選手は、橋本大輝選手や岡慎之助選手など5人です。",
+      "ruby": "チームの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>橋本<rt>はしもと</rt></ruby><ruby>大輝<rt>だいき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>や<ruby>岡<rt>おか</rt></ruby><ruby>慎之助<rt>しんのすけ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>など5<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The team has five athletes, including Hashimoto and Oka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一人",
+      "ruby": "<span class=\"vw\" data-ja=\"一人\" data-reading=\"ひとり\" data-en=\"one person\"><ruby>一人<rt>ひとり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means one person."
+    },
+    {
+      "speaker": "slow",
+      "text": "一人だけでなく、みんなで点を積み重ねて戦いました。",
+      "ruby": "<span class=\"vw\" data-ja=\"一人\" data-reading=\"ひとり\" data-en=\"one person\"><ruby>一人<rt>ひとり</rt></ruby></span>だけでなく、みんなで<ruby>点<rt>てん</rt></ruby>を<ruby>積み重ね<rt>つみかさね</rt></ruby>て<ruby>戦い<rt>たたかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Not just one person — everyone built up points together."
+    },
+    {
+      "speaker": "vocab",
+      "text": "積み重ねる",
+      "ruby": "<span class=\"vw\" data-ja=\"積み重ねる\" data-reading=\"つみかさねる\" data-en=\"to pile up, to build up\"><ruby>積み重ね<rt>つみかさね</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pile up, step by step."
+    },
+    {
+      "speaker": "slow",
+      "text": "最後の種目は、鉄棒でした。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The last event was the horizontal bar."
+    },
+    {
+      "speaker": "vocab",
+      "text": "鉄棒",
+      "ruby": "<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means horizontal bar."
+    },
+    {
+      "speaker": "slow",
+      "text": "橋本選手が鉄棒で14.866点を取って、優勝が決まりました。",
+      "ruby": "<ruby>橋本<rt>はしもと</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>で14.866<ruby>点<rt>てん</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て、<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"victory, championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>が<ruby>決ま<rt>きま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hashimoto scored on the bar, and the win was decided."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"victory, championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winning first place."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本が世界選手権の団体で勝つのは、2023年に続いて2回連続です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>が<span class=\"vw\" data-ja=\"世界選手権\" data-reading=\"せかいせんしゅけん\" data-en=\"world championships\"><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>で<ruby>勝つ<rt>かつ</rt></ruby>のは、2023<ruby>年<rt>ねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て2<ruby>回<rt>かい</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive, in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is Japan's second straight team win at the Worlds, following twenty twenty-three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連続",
+      "ruby": "<span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive, in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "2024年のパリオリンピックでも、日本は団体で金メダルを取っています。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>のパリオリンピックでも、<ruby>日本<rt>にほん</rt></ruby>は<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>で<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>を<ruby>取っ<rt>とっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the Paris Olympics in twenty twenty-four, Japan also won the team gold."
+    },
+    {
+      "speaker": "vocab",
+      "text": "金メダル",
+      "ruby": "<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means gold medal."
+    },
+    {
+      "speaker": "slow",
+      "text": "3位までに入ったチームは、2028年のロサンゼルスオリンピックに出ることができます。",
+      "ruby": "3<ruby>位<rt>い</rt></ruby>までに<ruby>入っ<rt>はいっ</rt></ruby>たチームは、2028<ruby>年<rt>ねん</rt></ruby>のロサンゼルスオリンピックに<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Teams in the top three can go to the Los Angeles Olympics."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出る",
+      "ruby": "<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Here it means to take part."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、ロサンゼルスオリンピックに出ることが決まりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、ロサンゼルスオリンピックに<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことが<ruby>決ま<rt>きま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It has been decided that Japan will go to the Los Angeles Olympics."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決まる",
+      "ruby": "<span class=\"vw\" data-ja=\"決まる\" data-reading=\"きまる\" data-en=\"to be decided\"><ruby>決ま<rt>きま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be decided."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's hear the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "体操の世界選手権が、オランダのロッテルダムで行われています。",
+      "ruby": "<span class=\"vw\" data-ja=\"体操\" data-reading=\"たいそう\" data-en=\"gymnastics\"><ruby>体操<rt>たいそう</rt></ruby></span>の<span class=\"vw\" data-ja=\"世界選手権\" data-reading=\"せかいせんしゅけん\" data-en=\"world championships\"><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby></span>が、オランダのロッテルダムで<ruby>行わ<rt>おこなわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "20日、男子の団体の決勝がありました。",
+      "ruby": "<ruby>20日<rt>はつか</rt></ruby>、<ruby>男子<rt>だんし</rt></ruby>の<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>の<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、この決勝で金メダルを取りました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、この<span class=\"vw\" data-ja=\"決勝\" data-reading=\"けっしょう\" data-en=\"final (round)\"><ruby>決勝<rt>けっしょう</rt></ruby></span>で<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>を<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "6つの種目の合計は、251.928点でした。",
+      "ruby": "6つの<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>の<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は、251.928<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2位はロシアの選手のチーム、3位は中国でした。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>はロシアの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のチーム、3<ruby>位<rt>い</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本と2位の差は、1.599点でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>と2<ruby>位<rt>い</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap\"><ruby>差<rt>さ</rt></ruby></span>は、1.599<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "チームの選手は、橋本大輝選手や岡慎之助選手など5人です。",
+      "ruby": "チームの<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>橋本<rt>はしもと</rt></ruby><ruby>大輝<rt>だいき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>や<ruby>岡<rt>おか</rt></ruby><ruby>慎之助<rt>しんのすけ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>など5<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一人だけでなく、みんなで点を積み重ねて戦いました。",
+      "ruby": "<span class=\"vw\" data-ja=\"一人\" data-reading=\"ひとり\" data-en=\"one person\"><ruby>一人<rt>ひとり</rt></ruby></span>だけでなく、みんなで<ruby>点<rt>てん</rt></ruby>を<ruby>積み重ね<rt>つみかさね</rt></ruby>て<ruby>戦い<rt>たたかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後の種目は、鉄棒でした。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>は、<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "橋本選手が鉄棒で14.866点を取って、優勝が決まりました。",
+      "ruby": "<ruby>橋本<rt>はしもと</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span class=\"vw\" data-ja=\"鉄棒\" data-reading=\"てつぼう\" data-en=\"horizontal bar\"><ruby>鉄棒<rt>てつぼう</rt></ruby></span>で14.866<ruby>点<rt>てん</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て、<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"victory, championship\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>が<ruby>決ま<rt>きま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本が世界選手権の団体で勝つのは、2023年に続いて2回連続です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>が<span class=\"vw\" data-ja=\"世界選手権\" data-reading=\"せかいせんしゅけん\" data-en=\"world championships\"><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>で<ruby>勝つ<rt>かつ</rt></ruby>のは、2023<ruby>年<rt>ねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て2<ruby>回<rt>かい</rt></ruby><span class=\"vw\" data-ja=\"連続\" data-reading=\"れんぞく\" data-en=\"consecutive, in a row\"><ruby>連続<rt>れんぞく</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年のパリオリンピックでも、日本は団体で金メダルを取っています。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>のパリオリンピックでも、<ruby>日本<rt>にほん</rt></ruby>は<span class=\"vw\" data-ja=\"団体\" data-reading=\"だんたい\" data-en=\"team (event)\"><ruby>団体<rt>だんたい</rt></ruby></span>で<span class=\"vw\" data-ja=\"金メダル\" data-reading=\"きんメダル\" data-en=\"gold medal\"><ruby>金<rt>きん</rt></ruby>メダル</span>を<ruby>取っ<rt>とっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "3位までに入ったチームは、2028年のロサンゼルスオリンピックに出ることができます。",
+      "ruby": "3<ruby>位<rt>い</rt></ruby>までに<ruby>入っ<rt>はいっ</rt></ruby>たチームは、2028<ruby>年<rt>ねん</rt></ruby>のロサンゼルスオリンピックに<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本は、ロサンゼルスオリンピックに出ることが決まりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、ロサンゼルスオリンピックに<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことが<ruby>決ま<rt>きま</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本は、何のメダルを取りましたか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby>メダルを<ruby>取り<rt>とり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A gold medal."
+    },
+    {
+      "speaker": "slow",
+      "text": "最後の種目は、何でしたか。",
+      "ruby": "<ruby>最後<rt>さいご</rt></ruby>の<span class=\"vw\" data-ja=\"種目\" data-reading=\"しゅもく\" data-en=\"event (in sports)\"><ruby>種目<rt>しゅもく</rt></ruby></span>は、<ruby>何<rt>なん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The horizontal bar."
+    },
+    {
+      "speaker": "slow",
+      "text": "2位は、どこのチームでしたか。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>は、どこのチームでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A team of athletes from Russia."
+    },
+    {
+      "speaker": "slow",
+      "text": "3位までに入ったチームは、何に出ることができますか。",
+      "ruby": "3<ruby>位<rt>い</rt></ruby>までに<ruby>入っ<rt>はいっ</rt></ruby>たチームは、<ruby>何<rt>なに</rt></ruby>に<span class=\"vw\" data-ja=\"出る\" data-reading=\"でる\" data-en=\"to take part; to appear\"><ruby>出る<rt>でる</rt></ruby></span>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Los Angeles Olympics in twenty twenty-eight."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
