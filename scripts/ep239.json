@@ -1,0 +1,700 @@
+{
+  "episode": 239,
+  "title": "ハロウィーンの服を着たペンギンが散歩、松江",
+  "date": "2026-10-23",
+  "source": "NHK / 松江フォーゲルパーク",
+  "level": "N5-N4",
+  "contentVersion": "2026102301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "月",
+      "reading": "がつ",
+      "en": "month (with a number)",
+      "zh": "月（接在数字后表示月份）"
+    },
+    {
+      "ja": "花",
+      "reading": "はな",
+      "en": "flower",
+      "zh": "花"
+    },
+    {
+      "ja": "鳥",
+      "reading": "とり",
+      "en": "bird",
+      "zh": "鸟"
+    },
+    {
+      "ja": "服",
+      "reading": "ふく",
+      "en": "clothes",
+      "zh": "衣服"
+    },
+    {
+      "ja": "着る",
+      "reading": "きる",
+      "en": "to wear (clothes)",
+      "zh": "穿（衣服）"
+    },
+    {
+      "ja": "散歩",
+      "reading": "さんぽ",
+      "en": "a walk, stroll",
+      "zh": "散步"
+    },
+    {
+      "ja": "働く",
+      "reading": "はたらく",
+      "en": "to work",
+      "zh": "工作"
+    },
+    {
+      "ja": "手",
+      "reading": "て",
+      "en": "hand",
+      "zh": "手"
+    },
+    {
+      "ja": "作る",
+      "reading": "つくる",
+      "en": "to make",
+      "zh": "做，制作"
+    },
+    {
+      "ja": "色",
+      "reading": "いろ",
+      "en": "color",
+      "zh": "颜色"
+    },
+    {
+      "ja": "形",
+      "reading": "かたち",
+      "en": "shape",
+      "zh": "形状"
+    },
+    {
+      "ja": "いろいろ",
+      "reading": "いろいろ",
+      "en": "various, all kinds of",
+      "zh": "各种各样"
+    },
+    {
+      "ja": "歩く",
+      "reading": "あるく",
+      "en": "to walk",
+      "zh": "走，步行"
+    },
+    {
+      "ja": "住む",
+      "reading": "すむ",
+      "en": "to live (somewhere)",
+      "zh": "居住"
+    },
+    {
+      "ja": "朝",
+      "reading": "あさ",
+      "en": "morning",
+      "zh": "早上"
+    },
+    {
+      "ja": "午後",
+      "reading": "ごご",
+      "en": "afternoon, p.m.",
+      "zh": "下午"
+    },
+    {
+      "ja": "半",
+      "reading": "はん",
+      "en": "half; thirty minutes past",
+      "zh": "半；（时间）半"
+    },
+    {
+      "ja": "見る",
+      "reading": "みる",
+      "en": "to see, to watch",
+      "zh": "看"
+    },
+    {
+      "ja": "楽しむ",
+      "reading": "たのしむ",
+      "en": "to enjoy",
+      "zh": "享受，玩得开心"
+    },
+    {
+      "ja": "季節",
+      "reading": "きせつ",
+      "en": "season",
+      "zh": "季节"
+    },
+    {
+      "ja": "変わる",
+      "reading": "かわる",
+      "en": "to change",
+      "zh": "变化，改变"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という〜",
+      "meaning": "a ~ called ~",
+      "meaningZh": "叫做……的……",
+      "formation": "name + という + noun",
+      "example": "「松江フォーゲルパーク」という花と鳥のテーマパークがあります。",
+      "translation": "There is a flower and bird theme park called Matsue Vogel Park.",
+      "note": "Used to introduce a name the listener may not know.",
+      "noteZh": "用于介绍对方可能不知道的名称。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#という"
+    },
+    {
+      "pattern": "〜て、〜",
+      "meaning": "do ~ and (then) ~",
+      "meaningZh": "做……然后……",
+      "formation": "verb て-form + next verb",
+      "example": "ペンギンたちがハロウィーンの服を着て、散歩をしています。",
+      "translation": "The penguins are wearing Halloween clothes and taking walks.",
+      "note": "Links two actions; the first one comes first or describes how.",
+      "noteZh": "连接两个动作，前一个动作先发生或表示方式。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#て形"
+    },
+    {
+      "pattern": "〜ています",
+      "meaning": "is ~ing (ongoing action)",
+      "meaningZh": "正在……",
+      "formation": "verb て-form + います",
+      "example": "来た人たちは、ペンギンを見て、楽しんでいます。",
+      "translation": "The visitors are watching the penguins and enjoying themselves.",
+      "note": "Describes an action happening now.",
+      "noteZh": "表示现在正在进行的动作。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#ている"
+    },
+    {
+      "pattern": "〜と、〜",
+      "meaning": "when ~, (then) ~",
+      "meaningZh": "一……就……",
+      "formation": "verb dictionary form + と",
+      "example": "ペンギンたちが歩くと、ハロウィーンのパレードのようです。",
+      "translation": "When the penguins walk, it looks like a Halloween parade.",
+      "note": "Shows that one thing naturally follows another.",
+      "noteZh": "表示前项发生后，自然出现后项的结果。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜のようです",
+      "meaning": "it looks like ~, it is like ~",
+      "meaningZh": "好像……，像……一样",
+      "formation": "noun + のようです",
+      "example": "ハロウィーンのパレードのようです。",
+      "translation": "It is like a Halloween parade.",
+      "note": "Compares something to something else.",
+      "noteZh": "用于比喻，把某事物比作另一事物。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようだ"
+    },
+    {
+      "pattern": "〜によって",
+      "meaning": "depending on ~",
+      "meaningZh": "根据……，随着……（而不同）",
+      "formation": "noun + によって",
+      "example": "季節によって、ペンギンの服が変わります。",
+      "translation": "The penguins' clothes change depending on the season.",
+      "note": "Shows that something changes depending on a condition.",
+      "noteZh": "表示随着条件的不同而变化。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#によって"
+    }
+  ],
+  "practiceZh": [
+    "10月31日は、ハロウィーンです。\n10月31日是万圣节。\n月 = month (with a number)",
+    "島根県松江市に、「松江フォーゲルパーク」という花と鳥のテーマパークがあります。\n岛根县松江市有一个叫“松江Vogel Park”的花与鸟主题公园。\n花 = flower / 鳥 = bird",
+    "ここで今、ペンギンたちがハロウィーンの服を着て、散歩をしています。\n现在在这里，企鹅们穿着万圣节的衣服在散步。\n服 = clothes / 着る = to wear (clothes) / 散歩 = a walk, stroll",
+    "服は、ここで働いている人たちが、手で作りました。\n衣服是在这里工作的人们亲手做的。\n働く = to work / 手 = hand / 作る = to make",
+    "服の色や形は、いろいろです。\n衣服的颜色和形状各种各样。\n色 = color / 形 = shape / いろいろ = various, all kinds of",
+    "ペンギンたちが歩くと、ハロウィーンのパレードのようです。\n企鹅们走起来，就像万圣节游行一样。\n歩く = to walk",
+    "散歩をするのは、アフリカに住んでいるケープペンギンです。\n参加散步的是生活在非洲的南非企鹅（斑嘴环企鹅）。\n住む = to live (somewhere)",
+    "散歩は1日に2回、朝10時半と午後2時から始まります。\n散步一天两次，分别从早上10点半和下午2点开始。\n朝 = morning / 午後 = afternoon, p.m. / 半 = half; thirty minutes past",
+    "来た人たちは、ペンギンを見て、楽しんでいます。\n来的人们看着企鹅，玩得很开心。\n見る = to see, to watch / 楽しむ = to enjoy",
+    "このテーマパークでは、季節によって、ペンギンの服が変わります。\n在这个主题公园，企鹅的衣服会随着季节而变化。\n季節 = season / 変わる = to change"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-third. Halloween is coming, and some penguins in western Japan are dressing up for it. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月31日は、ハロウィーンです。",
+      "ruby": "10<span class=\"vw\" data-ja=\"月\" data-reading=\"がつ\" data-en=\"month (with a number)\"><ruby>月<rt>がつ</rt></ruby></span>31<ruby>日<rt>にち</rt></ruby>は、ハロウィーンです。"
+    },
+    {
+      "speaker": "news",
+      "text": "島根県松江市に、「松江フォーゲルパーク」という花と鳥のテーマパークがあります。",
+      "ruby": "<ruby>島根<rt>しまね</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>松江<rt>まつえ</rt></ruby><ruby>市<rt>し</rt></ruby>に、「<ruby>松江<rt>まつえ</rt></ruby>フォーゲルパーク」という<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>と<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>のテーマパークがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ここで今、ペンギンたちがハロウィーンの服を着て、散歩をしています。",
+      "ruby": "ここで<ruby>今<rt>いま</rt></ruby>、ペンギンたちがハロウィーンの<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<ruby>着て<rt>きて</rt></ruby>、<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "服は、ここで働いている人たちが、手で作りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、ここで<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"手\" data-reading=\"て\" data-en=\"hand\"><ruby>手<rt>て</rt></ruby></span>で<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "服の色や形は、いろいろです。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>の<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>や<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape\"><ruby>形<rt>かたち</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いろいろ\" data-reading=\"いろいろ\" data-en=\"various, all kinds of\">いろいろです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンたちが歩くと、ハロウィーンのパレードのようです。",
+      "ruby": "ペンギンたちが<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>と、ハロウィーンのパレードのようです。"
+    },
+    {
+      "speaker": "news",
+      "text": "散歩をするのは、アフリカに住んでいるケープペンギンです。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をするのは、アフリカに<ruby>住ん<rt>すん</rt></ruby>でいるケープペンギンです。"
+    },
+    {
+      "speaker": "news",
+      "text": "散歩は1日に2回、朝10時半と午後2時から始まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>は<ruby>1日<rt>いちにち</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>、<span class=\"vw\" data-ja=\"朝\" data-reading=\"あさ\" data-en=\"morning\"><ruby>朝<rt>あさ</rt></ruby></span>10<ruby>時半<rt>じはん</rt></ruby>と<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon, p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>2<ruby>時<rt>じ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "来た人たちは、ペンギンを見て、楽しんでいます。",
+      "ruby": "<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちは、ペンギンを<ruby>見て<rt>みて</rt></ruby>、<ruby>楽し<rt>たのし</rt></ruby>んでいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "このテーマパークでは、季節によって、ペンギンの服が変わります。",
+      "ruby": "このテーマパークでは、<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>によって、ペンギンの<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>が<ruby>変わり<rt>かわり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月31日は、ハロウィーンです。",
+      "ruby": "10<span class=\"vw\" data-ja=\"月\" data-reading=\"がつ\" data-en=\"month (with a number)\"><ruby>月<rt>がつ</rt></ruby></span>31<ruby>日<rt>にち</rt></ruby>は、ハロウィーンです。"
+    },
+    {
+      "speaker": "host",
+      "text": "October thirty-first is Halloween."
+    },
+    {
+      "speaker": "vocab",
+      "text": "月",
+      "ruby": "<span class=\"vw\" data-ja=\"月\" data-reading=\"がつ\" data-en=\"month (with a number)\"><ruby>月<rt>がつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means month. Put a number before it to name a month."
+    },
+    {
+      "speaker": "slow",
+      "text": "島根県松江市に、「松江フォーゲルパーク」という花と鳥のテーマパークがあります。",
+      "ruby": "<ruby>島根<rt>しまね</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>松江<rt>まつえ</rt></ruby><ruby>市<rt>し</rt></ruby>に、「<ruby>松江<rt>まつえ</rt></ruby>フォーゲルパーク」という<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>と<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>のテーマパークがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Shimane Prefecture, in the city of Matsue, there is a flower and bird theme park."
+    },
+    {
+      "speaker": "vocab",
+      "text": "花",
+      "ruby": "<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means flower."
+    },
+    {
+      "speaker": "vocab",
+      "text": "鳥",
+      "ruby": "<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bird."
+    },
+    {
+      "speaker": "slow",
+      "text": "ここで今、ペンギンたちがハロウィーンの服を着て、散歩をしています。",
+      "ruby": "ここで<ruby>今<rt>いま</rt></ruby>、ペンギンたちがハロウィーンの<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<ruby>着て<rt>きて</rt></ruby>、<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "There, penguins are now wearing Halloween clothes and going for walks."
+    },
+    {
+      "speaker": "vocab",
+      "text": "服",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clothes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "着る",
+      "ruby": "<span class=\"vw\" data-ja=\"着る\" data-reading=\"きる\" data-en=\"to wear (clothes)\"><ruby>着る<rt>きる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to wear, for clothes on your body."
+    },
+    {
+      "speaker": "vocab",
+      "text": "散歩",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a walk, like a stroll."
+    },
+    {
+      "speaker": "slow",
+      "text": "服は、ここで働いている人たちが、手で作りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、ここで<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"手\" data-reading=\"て\" data-en=\"hand\"><ruby>手<rt>て</rt></ruby></span>で<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The clothes were made by hand by the people who work there."
+    },
+    {
+      "speaker": "vocab",
+      "text": "働く",
+      "ruby": "<span class=\"vw\" data-ja=\"働く\" data-reading=\"はたらく\" data-en=\"to work\"><ruby>働く<rt>はたらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to work."
+    },
+    {
+      "speaker": "vocab",
+      "text": "手",
+      "ruby": "<span class=\"vw\" data-ja=\"手\" data-reading=\"て\" data-en=\"hand\"><ruby>手<rt>て</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "作る",
+      "ruby": "<span class=\"vw\" data-ja=\"作る\" data-reading=\"つくる\" data-en=\"to make\"><ruby>作る<rt>つくる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to make."
+    },
+    {
+      "speaker": "slow",
+      "text": "服の色や形は、いろいろです。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>の<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>や<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape\"><ruby>形<rt>かたち</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いろいろ\" data-reading=\"いろいろ\" data-en=\"various, all kinds of\">いろいろです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The colors and shapes of the clothes are all different."
+    },
+    {
+      "speaker": "vocab",
+      "text": "色",
+      "ruby": "<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means color."
+    },
+    {
+      "speaker": "vocab",
+      "text": "形",
+      "ruby": "<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape\"><ruby>形<rt>かたち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shape."
+    },
+    {
+      "speaker": "vocab",
+      "text": "いろいろ",
+      "ruby": "<span class=\"vw\" data-ja=\"いろいろ\" data-reading=\"いろいろ\" data-en=\"various, all kinds of\">いろいろ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means various, or all kinds of."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンたちが歩くと、ハロウィーンのパレードのようです。",
+      "ruby": "ペンギンたちが<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>と、ハロウィーンのパレードのようです。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the penguins walk, it looks like a Halloween parade."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歩く",
+      "ruby": "<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to walk."
+    },
+    {
+      "speaker": "slow",
+      "text": "散歩をするのは、アフリカに住んでいるケープペンギンです。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をするのは、アフリカに<ruby>住ん<rt>すん</rt></ruby>でいるケープペンギンです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The penguins on the walk are African penguins, a kind that lives in Africa."
+    },
+    {
+      "speaker": "vocab",
+      "text": "住む",
+      "ruby": "<span class=\"vw\" data-ja=\"住む\" data-reading=\"すむ\" data-en=\"to live (somewhere)\"><ruby>住む<rt>すむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to live somewhere."
+    },
+    {
+      "speaker": "slow",
+      "text": "散歩は1日に2回、朝10時半と午後2時から始まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>は<ruby>1日<rt>いちにち</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>、<span class=\"vw\" data-ja=\"朝\" data-reading=\"あさ\" data-en=\"morning\"><ruby>朝<rt>あさ</rt></ruby></span>10<ruby>時半<rt>じはん</rt></ruby>と<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon, p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>2<ruby>時<rt>じ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The walk happens twice a day, starting at ten thirty in the morning and two in the afternoon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "朝",
+      "ruby": "<span class=\"vw\" data-ja=\"朝\" data-reading=\"あさ\" data-en=\"morning\"><ruby>朝<rt>あさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "午後",
+      "ruby": "<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon, p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means afternoon, or p.m."
+    },
+    {
+      "speaker": "vocab",
+      "text": "半",
+      "ruby": "<span class=\"vw\" data-ja=\"半\" data-reading=\"はん\" data-en=\"half; thirty minutes past\"><ruby>半<rt>はん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means half. After a time, it means thirty minutes past."
+    },
+    {
+      "speaker": "slow",
+      "text": "来た人たちは、ペンギンを見て、楽しんでいます。",
+      "ruby": "<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちは、ペンギンを<ruby>見て<rt>みて</rt></ruby>、<ruby>楽し<rt>たのし</rt></ruby>んでいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Visitors are enjoying watching the penguins."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見る",
+      "ruby": "<span class=\"vw\" data-ja=\"見る\" data-reading=\"みる\" data-en=\"to see, to watch\"><ruby>見る<rt>みる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to see or watch."
+    },
+    {
+      "speaker": "vocab",
+      "text": "楽しむ",
+      "ruby": "<span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>む</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to enjoy."
+    },
+    {
+      "speaker": "slow",
+      "text": "このテーマパークでは、季節によって、ペンギンの服が変わります。",
+      "ruby": "このテーマパークでは、<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>によって、ペンギンの<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>が<ruby>変わり<rt>かわり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "At this theme park, the penguins' clothes change with the seasons."
+    },
+    {
+      "speaker": "vocab",
+      "text": "季節",
+      "ruby": "<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means season."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変わる",
+      "ruby": "<span class=\"vw\" data-ja=\"変わる\" data-reading=\"かわる\" data-en=\"to change\"><ruby>変わ<rt>かわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to change."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月31日は、ハロウィーンです。",
+      "ruby": "10<span class=\"vw\" data-ja=\"月\" data-reading=\"がつ\" data-en=\"month (with a number)\"><ruby>月<rt>がつ</rt></ruby></span>31<ruby>日<rt>にち</rt></ruby>は、ハロウィーンです。"
+    },
+    {
+      "speaker": "news",
+      "text": "島根県松江市に、「松江フォーゲルパーク」という花と鳥のテーマパークがあります。",
+      "ruby": "<ruby>島根<rt>しまね</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>松江<rt>まつえ</rt></ruby><ruby>市<rt>し</rt></ruby>に、「<ruby>松江<rt>まつえ</rt></ruby>フォーゲルパーク」という<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>と<span class=\"vw\" data-ja=\"鳥\" data-reading=\"とり\" data-en=\"bird\"><ruby>鳥<rt>とり</rt></ruby></span>のテーマパークがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ここで今、ペンギンたちがハロウィーンの服を着て、散歩をしています。",
+      "ruby": "ここで<ruby>今<rt>いま</rt></ruby>、ペンギンたちがハロウィーンの<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>を<ruby>着て<rt>きて</rt></ruby>、<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "服は、ここで働いている人たちが、手で作りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、ここで<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"手\" data-reading=\"て\" data-en=\"hand\"><ruby>手<rt>て</rt></ruby></span>で<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "服の色や形は、いろいろです。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>の<span class=\"vw\" data-ja=\"色\" data-reading=\"いろ\" data-en=\"color\"><ruby>色<rt>いろ</rt></ruby></span>や<span class=\"vw\" data-ja=\"形\" data-reading=\"かたち\" data-en=\"shape\"><ruby>形<rt>かたち</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いろいろ\" data-reading=\"いろいろ\" data-en=\"various, all kinds of\">いろいろです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンたちが歩くと、ハロウィーンのパレードのようです。",
+      "ruby": "ペンギンたちが<span class=\"vw\" data-ja=\"歩く\" data-reading=\"あるく\" data-en=\"to walk\"><ruby>歩く<rt>あるく</rt></ruby></span>と、ハロウィーンのパレードのようです。"
+    },
+    {
+      "speaker": "news",
+      "text": "散歩をするのは、アフリカに住んでいるケープペンギンです。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をするのは、アフリカに<ruby>住ん<rt>すん</rt></ruby>でいるケープペンギンです。"
+    },
+    {
+      "speaker": "news",
+      "text": "散歩は1日に2回、朝10時半と午後2時から始まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>は<ruby>1日<rt>いちにち</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>、<span class=\"vw\" data-ja=\"朝\" data-reading=\"あさ\" data-en=\"morning\"><ruby>朝<rt>あさ</rt></ruby></span>10<ruby>時半<rt>じはん</rt></ruby>と<span class=\"vw\" data-ja=\"午後\" data-reading=\"ごご\" data-en=\"afternoon, p.m.\"><ruby>午後<rt>ごご</rt></ruby></span>2<ruby>時<rt>じ</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "来た人たちは、ペンギンを見て、楽しんでいます。",
+      "ruby": "<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちは、ペンギンを<ruby>見て<rt>みて</rt></ruby>、<ruby>楽し<rt>たのし</rt></ruby>んでいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "このテーマパークでは、季節によって、ペンギンの服が変わります。",
+      "ruby": "このテーマパークでは、<span class=\"vw\" data-ja=\"季節\" data-reading=\"きせつ\" data-en=\"season\"><ruby>季節<rt>きせつ</rt></ruby></span>によって、ペンギンの<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>が<ruby>変わり<rt>かわり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ハロウィーンは、何月何日ですか。",
+      "ruby": "ハロウィーンは、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "October thirty-first."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンたちは、何を着て散歩をしていますか。",
+      "ruby": "ペンギンたちは、<ruby>何を<rt>なにを</rt></ruby><ruby>着て<rt>きて</rt></ruby><span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>をしていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Halloween clothes."
+    },
+    {
+      "speaker": "slow",
+      "text": "服は、だれが作りましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"服\" data-reading=\"ふく\" data-en=\"clothes\"><ruby>服<rt>ふく</rt></ruby></span>は、だれが<ruby>作り<rt>つくり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The people who work at the park made them by hand."
+    },
+    {
+      "speaker": "slow",
+      "text": "散歩は、1日に何回ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"散歩\" data-reading=\"さんぽ\" data-en=\"a walk, stroll\"><ruby>散歩<rt>さんぽ</rt></ruby></span>は、<ruby>1日<rt>いちにち</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twice a day."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
