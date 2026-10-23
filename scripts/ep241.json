@@ -1,0 +1,611 @@
+{
+  "episode": 241,
+  "title": "プロ野球日本シリーズ開幕、DeNA対ソフトバンク",
+  "date": "2026-10-24",
+  "source": "NHK / Yahoo!ニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026102401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "今日",
+      "reading": "きょう",
+      "en": "today",
+      "zh": "今天"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to begin, to start",
+      "zh": "开始"
+    },
+    {
+      "ja": "強い",
+      "reading": "つよい",
+      "en": "strong",
+      "zh": "强"
+    },
+    {
+      "ja": "戦う",
+      "reading": "たたかう",
+      "en": "to fight, to compete",
+      "zh": "战斗，比赛"
+    },
+    {
+      "ja": "今年",
+      "reading": "ことし",
+      "en": "this year",
+      "zh": "今年"
+    },
+    {
+      "ja": "続ける",
+      "reading": "つづける",
+      "en": "to continue",
+      "zh": "继续"
+    },
+    {
+      "ja": "勝つ",
+      "reading": "かつ",
+      "en": "to win",
+      "zh": "赢，获胜"
+    },
+    {
+      "ja": "去年",
+      "reading": "きょねん",
+      "en": "last year",
+      "zh": "去年"
+    },
+    {
+      "ja": "日本一",
+      "reading": "にっぽんいち",
+      "en": "number one in Japan, national champion",
+      "zh": "日本第一，日本冠军"
+    },
+    {
+      "ja": "前",
+      "reading": "まえ",
+      "en": "before; ago",
+      "zh": "之前；……前"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night, evening",
+      "zh": "晚上"
+    },
+    {
+      "ja": "半",
+      "reading": "はん",
+      "en": "half; thirty minutes past",
+      "zh": "半；（时间）半"
+    },
+    {
+      "ja": "行う",
+      "reading": "おこなう",
+      "en": "to hold, to carry out",
+      "zh": "举行，进行"
+    },
+    {
+      "ja": "先に",
+      "reading": "さきに",
+      "en": "first, ahead",
+      "zh": "先，首先"
+    },
+    {
+      "ja": "楽しみ",
+      "reading": "たのしみ",
+      "en": "something to look forward to",
+      "zh": "期待，盼望"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜から",
+      "meaning": "from ~ (starting point)",
+      "meaningZh": "从……开始",
+      "formation": "noun (time/place) + から",
+      "example": "今日、10月24日から、プロ野球の日本シリーズが始まります。",
+      "translation": "Starting today, October 24th, the Japan Series begins.",
+      "note": "Marks the starting point in time or place.",
+      "noteZh": "表示时间或地点的起点。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#から"
+    },
+    {
+      "pattern": "〜が、〜",
+      "meaning": "~, but ~",
+      "meaningZh": "……，但是……",
+      "formation": "sentence + が + sentence",
+      "example": "DeNAは、セ・リーグで3位でしたが、そのあと6試合続けて勝ちました。",
+      "translation": "DeNA was third in the Central League, but then won six games in a row.",
+      "note": "Connects two contrasting sentences.",
+      "noteZh": "连接两个意思相反的句子。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#が"
+    },
+    {
+      "pattern": "〜て、〜",
+      "meaning": "do ~ and (then) ~",
+      "meaningZh": "做……然后……",
+      "formation": "verb て-form + next verb",
+      "example": "この2つのチームが戦って、DeNAが勝ちました。",
+      "translation": "These two teams played, and DeNA won.",
+      "note": "Links two actions in order.",
+      "noteZh": "按顺序连接两个动作。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#て形"
+    },
+    {
+      "pattern": "〜から〜まで",
+      "meaning": "from ~ to ~",
+      "meaningZh": "从……到……",
+      "formation": "noun + から + noun + まで",
+      "example": "第3戦から第5戦までは、福岡のドームで行われます。",
+      "translation": "Games 3 through 5 are held in the dome in Fukuoka.",
+      "note": "Shows a range with a start and an end.",
+      "noteZh": "表示范围的起点和终点。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#から〜まで"
+    },
+    {
+      "pattern": "〜になる",
+      "meaning": "to become ~",
+      "meaningZh": "成为……，变成……",
+      "formation": "noun + になる",
+      "example": "先に4回勝ったチームが、日本一になります。",
+      "translation": "The team that wins four games first becomes the champion of Japan.",
+      "note": "Shows a change into a new state.",
+      "noteZh": "表示变化成为某种状态。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#になる"
+    },
+    {
+      "pattern": "〜か、〜",
+      "meaning": "whether ~ (embedded question)",
+      "meaningZh": "是否……，……呢（嵌入疑问）",
+      "formation": "question word + plain form + か",
+      "example": "どちらのチームが勝つか、とても楽しみです。",
+      "translation": "I am really looking forward to seeing which team wins.",
+      "note": "Puts a question inside a bigger sentence.",
+      "noteZh": "把疑问句嵌入到更大的句子中。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#か"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "今日、10月24日から、プロ野球の日本シリーズが始まります。\n从今天10月24日开始，职业棒球日本系列赛开幕。\n今日 = today / 始まる = to begin, to start",
+    "日本シリーズは、セ・リーグとパ・リーグで一番強いチームが戦う試合です。\n日本系列赛是中央联盟和太平洋联盟最强的球队之间的比赛。\n強い = strong / 戦う = to fight, to compete",
+    "今年は、横浜のDeNAと、福岡のソフトバンクが戦います。\n今年由横滨的DeNA和福冈的软银对战。\n今年 = this year",
+    "DeNAは、セ・リーグで3位でしたが、そのあと6試合続けて勝ちました。\nDeNA在中央联盟排名第三，但之后连续赢了6场比赛。\n続ける = to continue / 勝つ = to win",
+    "ソフトバンクは、去年も日本一になったチームです。\n软银是去年也获得日本第一的球队。\n去年 = last year / 日本一 = number one in Japan, national champion",
+    "2年前の日本シリーズでも、この2つのチームが戦って、DeNAが勝ちました。\n两年前的日本系列赛也是这两支球队对战，DeNA获胜。\n前 = before; ago",
+    "第1戦は、横浜スタジアムで、夜6時半から始まります。\n第一场比赛在横滨球场，晚上6点半开始。\n夜 = night, evening / 半 = half; thirty minutes past",
+    "第3戦から第5戦までは、福岡のドームで行われます。\n第三场到第五场比赛在福冈的巨蛋举行。\n行う = to hold, to carry out",
+    "先に4回勝ったチームが、日本一になります。\n先赢4场的球队成为日本第一。\n先に = first, ahead",
+    "どちらのチームが勝つか、とても楽しみです。\n到底哪支球队会赢，非常令人期待。\n楽しみ = something to look forward to"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-fourth. Japan's biggest baseball series starts today. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日、10月24日から、プロ野球の日本シリーズが始まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>から、プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズが<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本シリーズは、セ・リーグとパ・リーグで一番強いチームが戦う試合です。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>シリーズは、セ・リーグとパ・リーグで<ruby>一番<rt>いちばん</rt></ruby><span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>チームが<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to compete\"><ruby>戦う<rt>たたかう</rt></ruby></span><ruby>試合<rt>しあい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、横浜のDeNAと、福岡のソフトバンクが戦います。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>は、<ruby>横浜<rt>よこはま</rt></ruby>のDeNAと、<ruby>福岡<rt>ふくおか</rt></ruby>のソフトバンクが<ruby>戦い<rt>たたかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "DeNAは、セ・リーグで3位でしたが、そのあと6試合続けて勝ちました。",
+      "ruby": "DeNAは、セ・リーグで3<ruby>位<rt>い</rt></ruby>でしたが、そのあと6<ruby>試合<rt>しあい</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ソフトバンクは、去年も日本一になったチームです。",
+      "ruby": "ソフトバンクは、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>も<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になったチームです。"
+    },
+    {
+      "speaker": "news",
+      "text": "2年前の日本シリーズでも、この2つのチームが戦って、DeNAが勝ちました。",
+      "ruby": "2<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズでも、この2つのチームが<ruby>戦っ<rt>たたかっ</rt></ruby>て、DeNAが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "第1戦は、横浜スタジアムで、夜6時半から始まります。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>1<ruby>戦<rt>せん</rt></ruby>は、<ruby>横浜<rt>よこはま</rt></ruby>スタジアムで、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night, evening\"><ruby>夜<rt>よる</rt></ruby></span>6<ruby>時半<rt>じはん</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "第3戦から第5戦までは、福岡のドームで行われます。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>3<ruby>戦<rt>せん</rt></ruby>から<ruby>第<rt>だい</rt></ruby>5<ruby>戦<rt>せん</rt></ruby>までは、<ruby>福岡<rt>ふくおか</rt></ruby>のドームで<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "先に4回勝ったチームが、日本一になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>4<ruby>回<rt>かい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>たチームが、<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "どちらのチームが勝つか、とても楽しみです。",
+      "ruby": "どちらのチームが<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>か、とても<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"something to look forward to\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "今日、10月24日から、プロ野球の日本シリーズが始まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>から、プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズが<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Starting today, October twenty-fourth, the Japan Series of professional baseball begins."
+    },
+    {
+      "speaker": "vocab",
+      "text": "今日",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means today."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to begin, to start\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to begin or start."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本シリーズは、セ・リーグとパ・リーグで一番強いチームが戦う試合です。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>シリーズは、セ・リーグとパ・リーグで<ruby>一番<rt>いちばん</rt></ruby><span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>チームが<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to compete\"><ruby>戦う<rt>たたかう</rt></ruby></span><ruby>試合<rt>しあい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Japan Series is the games where the strongest teams of the two leagues play each other."
+    },
+    {
+      "speaker": "vocab",
+      "text": "強い",
+      "ruby": "<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means strong."
+    },
+    {
+      "speaker": "vocab",
+      "text": "戦う",
+      "ruby": "<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to compete\"><ruby>戦う<rt>たたかう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fight, or to compete in a game."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、横浜のDeNAと、福岡のソフトバンクが戦います。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>は、<ruby>横浜<rt>よこはま</rt></ruby>のDeNAと、<ruby>福岡<rt>ふくおか</rt></ruby>のソフトバンクが<ruby>戦い<rt>たたかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, DeNA from Yokohama plays SoftBank from Fukuoka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "今年",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means this year."
+    },
+    {
+      "speaker": "slow",
+      "text": "DeNAは、セ・リーグで3位でしたが、そのあと6試合続けて勝ちました。",
+      "ruby": "DeNAは、セ・リーグで3<ruby>位<rt>い</rt></ruby>でしたが、そのあと6<ruby>試合<rt>しあい</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "DeNA finished third in its league, but after that it won six games in a row."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続ける",
+      "ruby": "<span class=\"vw\" data-ja=\"続ける\" data-reading=\"つづける\" data-en=\"to continue\"><ruby>続け<rt>つづけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue. Here, it shows the wins came one after another."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勝つ",
+      "ruby": "<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to win."
+    },
+    {
+      "speaker": "slow",
+      "text": "ソフトバンクは、去年も日本一になったチームです。",
+      "ruby": "ソフトバンクは、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>も<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になったチームです。"
+    },
+    {
+      "speaker": "host",
+      "text": "SoftBank is the team that also became champion of Japan last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "去年",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "日本一",
+      "ruby": "<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means number one in Japan, so the champion."
+    },
+    {
+      "speaker": "slow",
+      "text": "2年前の日本シリーズでも、この2つのチームが戦って、DeNAが勝ちました。",
+      "ruby": "2<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズでも、この2つのチームが<ruby>戦っ<rt>たたかっ</rt></ruby>て、DeNAが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Japan Series two years ago, these same two teams played, and DeNA won."
+    },
+    {
+      "speaker": "vocab",
+      "text": "前",
+      "ruby": "<span class=\"vw\" data-ja=\"前\" data-reading=\"まえ\" data-en=\"before; ago\"><ruby>前<rt>まえ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "After a length of time, it means ago."
+    },
+    {
+      "speaker": "slow",
+      "text": "第1戦は、横浜スタジアムで、夜6時半から始まります。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>1<ruby>戦<rt>せん</rt></ruby>は、<ruby>横浜<rt>よこはま</rt></ruby>スタジアムで、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night, evening\"><ruby>夜<rt>よる</rt></ruby></span>6<ruby>時半<rt>じはん</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Game one starts at six thirty in the evening at Yokohama Stadium."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night, evening\"><ruby>夜<rt>よる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means night or evening."
+    },
+    {
+      "speaker": "vocab",
+      "text": "半",
+      "ruby": "<span class=\"vw\" data-ja=\"半\" data-reading=\"はん\" data-en=\"half; thirty minutes past\"><ruby>半<rt>はん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means half. After a time, it means thirty minutes past."
+    },
+    {
+      "speaker": "slow",
+      "text": "第3戦から第5戦までは、福岡のドームで行われます。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>3<ruby>戦<rt>せん</rt></ruby>から<ruby>第<rt>だい</rt></ruby>5<ruby>戦<rt>せん</rt></ruby>までは、<ruby>福岡<rt>ふくおか</rt></ruby>のドームで<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Games three through five will be held in a dome stadium in Fukuoka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "行う",
+      "ruby": "<span class=\"vw\" data-ja=\"行う\" data-reading=\"おこなう\" data-en=\"to hold, to carry out\"><ruby>行う<rt>おこなう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hold or carry out an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "先に4回勝ったチームが、日本一になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>4<ruby>回<rt>かい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>たチームが、<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first team to win four games becomes the champion of Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "先に",
+      "ruby": "<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means first, before the other one."
+    },
+    {
+      "speaker": "slow",
+      "text": "どちらのチームが勝つか、とても楽しみです。",
+      "ruby": "どちらのチームが<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>か、とても<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"something to look forward to\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Which team will win? It's very exciting."
+    },
+    {
+      "speaker": "vocab",
+      "text": "楽しみ",
+      "ruby": "<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"something to look forward to\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means something you look forward to."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今日、10月24日から、プロ野球の日本シリーズが始まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"今日\" data-reading=\"きょう\" data-en=\"today\"><ruby>今日<rt>きょう</rt></ruby></span>、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>から、プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズが<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本シリーズは、セ・リーグとパ・リーグで一番強いチームが戦う試合です。",
+      "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>シリーズは、セ・リーグとパ・リーグで<ruby>一番<rt>いちばん</rt></ruby><span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong\"><ruby>強い<rt>つよい</rt></ruby></span>チームが<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to compete\"><ruby>戦う<rt>たたかう</rt></ruby></span><ruby>試合<rt>しあい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、横浜のDeNAと、福岡のソフトバンクが戦います。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>は、<ruby>横浜<rt>よこはま</rt></ruby>のDeNAと、<ruby>福岡<rt>ふくおか</rt></ruby>のソフトバンクが<ruby>戦い<rt>たたかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "DeNAは、セ・リーグで3位でしたが、そのあと6試合続けて勝ちました。",
+      "ruby": "DeNAは、セ・リーグで3<ruby>位<rt>い</rt></ruby>でしたが、そのあと6<ruby>試合<rt>しあい</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ソフトバンクは、去年も日本一になったチームです。",
+      "ruby": "ソフトバンクは、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>も<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になったチームです。"
+    },
+    {
+      "speaker": "news",
+      "text": "2年前の日本シリーズでも、この2つのチームが戦って、DeNAが勝ちました。",
+      "ruby": "2<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズでも、この2つのチームが<ruby>戦っ<rt>たたかっ</rt></ruby>て、DeNAが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "第1戦は、横浜スタジアムで、夜6時半から始まります。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>1<ruby>戦<rt>せん</rt></ruby>は、<ruby>横浜<rt>よこはま</rt></ruby>スタジアムで、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night, evening\"><ruby>夜<rt>よる</rt></ruby></span>6<ruby>時半<rt>じはん</rt></ruby>から<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "第3戦から第5戦までは、福岡のドームで行われます。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>3<ruby>戦<rt>せん</rt></ruby>から<ruby>第<rt>だい</rt></ruby>5<ruby>戦<rt>せん</rt></ruby>までは、<ruby>福岡<rt>ふくおか</rt></ruby>のドームで<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "先に4回勝ったチームが、日本一になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, ahead\"><ruby>先に<rt>さきに</rt></ruby></span>4<ruby>回<rt>かい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>たチームが、<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "どちらのチームが勝つか、とても楽しみです。",
+      "ruby": "どちらのチームが<span class=\"vw\" data-ja=\"勝つ\" data-reading=\"かつ\" data-en=\"to win\"><ruby>勝つ<rt>かつ</rt></ruby></span>か、とても<span class=\"vw\" data-ja=\"楽しみ\" data-reading=\"たのしみ\" data-en=\"something to look forward to\"><ruby>楽しみ<rt>たのしみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の日本シリーズは、どのチームとどのチームが戦いますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"今年\" data-reading=\"ことし\" data-en=\"this year\"><ruby>今年<rt>ことし</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>シリーズは、どのチームとどのチームが<ruby>戦い<rt>たたかい</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "DeNA from Yokohama and SoftBank from Fukuoka."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年、日本一になったのは、どのチームですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>、<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になったのは、どのチームですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "SoftBank."
+    },
+    {
+      "speaker": "slow",
+      "text": "第1戦は、何時に始まりますか。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>1<ruby>戦<rt>せん</rt></ruby>は、<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Six thirty in the evening."
+    },
+    {
+      "speaker": "slow",
+      "text": "何回勝ったチームが、日本一になりますか。",
+      "ruby": "<ruby>何回<rt>なんかい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>たチームが、<span class=\"vw\" data-ja=\"日本一\" data-reading=\"にっぽんいち\" data-en=\"number one in Japan, national champion\"><ruby>日本一<rt>にっぽんいち</rt></ruby></span>になりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first team to win four games."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
