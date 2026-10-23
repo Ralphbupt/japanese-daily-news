@@ -1,0 +1,705 @@
+{
+  "episode": 240,
+  "title": "松井秀喜さん、プロ野球・巨人の新しい監督に",
+  "date": "2026-10-23",
+  "source": "NHK / 日本経済新聞 / 時事通信 / デイリースポーツ",
+  "level": "N4-N3",
+  "contentVersion": "2026102301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "監督",
+      "reading": "かんとく",
+      "en": "manager (of a team)",
+      "zh": "教练、领队"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发表、公布"
+    },
+    {
+      "ja": "出身",
+      "reading": "しゅっしん",
+      "en": "hometown, origin",
+      "zh": "出身、籍贯"
+    },
+    {
+      "ja": "打つ",
+      "reading": "うつ",
+      "en": "to hit",
+      "zh": "打、击"
+    },
+    {
+      "ja": "大リーグ",
+      "reading": "だいリーグ",
+      "en": "Major League Baseball",
+      "zh": "美国职棒大联盟"
+    },
+    {
+      "ja": "選ばれる",
+      "reading": "えらばれる",
+      "en": "to be chosen",
+      "zh": "被选为"
+    },
+    {
+      "ja": "合わせて",
+      "reading": "あわせて",
+      "en": "in total, combined",
+      "zh": "合计、加起来"
+    },
+    {
+      "ja": "戻る",
+      "reading": "もどる",
+      "en": "to return",
+      "zh": "回到、返回"
+    },
+    {
+      "ja": "ぶり",
+      "reading": "ぶり",
+      "en": "for the first time in (a period)",
+      "zh": "时隔……"
+    },
+    {
+      "ja": "契約",
+      "reading": "けいやく",
+      "en": "contract",
+      "zh": "合同、签约"
+    },
+    {
+      "ja": "背番号",
+      "reading": "せばんごう",
+      "en": "uniform number",
+      "zh": "球衣号码"
+    },
+    {
+      "ja": "亡くなる",
+      "reading": "なくなる",
+      "en": "to pass away",
+      "zh": "去世"
+    },
+    {
+      "ja": "恩師",
+      "reading": "おんし",
+      "en": "mentor, respected teacher",
+      "zh": "恩师"
+    },
+    {
+      "ja": "会見",
+      "reading": "かいけん",
+      "en": "press conference",
+      "zh": "记者会"
+    },
+    {
+      "ja": "黄金時代",
+      "reading": "おうごんじだい",
+      "en": "golden age",
+      "zh": "黄金时代"
+    },
+    {
+      "ja": "訪れる",
+      "reading": "おとずれる",
+      "en": "to come, to arrive (of a time)",
+      "zh": "到来"
+    },
+    {
+      "ja": "姿",
+      "reading": "すがた",
+      "en": "figure, appearance",
+      "zh": "身姿、样子"
+    },
+    {
+      "ja": "指揮",
+      "reading": "しき",
+      "en": "command, leading",
+      "zh": "指挥"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔……",
+      "formation": "period + ぶり",
+      "example": "松井さんが巨人に戻るのは、24年ぶりです。",
+      "translation": "It is Matsui's first return to the Giants in 24 years.",
+      "note": "Shows something happens again after a long time.",
+      "noteZh": "表示隔了一段时间后再次发生。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜に選ばれる（受身）",
+      "meaning": "to be chosen as ~",
+      "meaningZh": "被选为……",
+      "formation": "noun + に + 選ばれる",
+      "example": "2009年のワールドシリーズでMVPに選ばれました。",
+      "translation": "He was chosen as MVP of the 2009 World Series.",
+      "note": "Passive form: the subject receives the action.",
+      "noteZh": "被动形式，主语是动作的承受者。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#受身"
+    },
+    {
+      "pattern": "〜にとって",
+      "meaning": "for ~, to ~ (from someone's view)",
+      "meaningZh": "对……来说",
+      "formation": "noun + にとって",
+      "example": "長嶋さんは、松井さんにとって大切な恩師でした。",
+      "translation": "Nagashima was an important mentor to Matsui.",
+      "note": "Shows whose point of view the judgment is from.",
+      "noteZh": "表示从某人的立场来看。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#にとって"
+    },
+    {
+      "pattern": "〜よう（に）",
+      "meaning": "so that ~",
+      "meaningZh": "为了……、以便……",
+      "formation": "verb dictionary form + よう（に）",
+      "example": "新たな黄金時代が訪れるよう、きょうここからスタートしたい。",
+      "translation": "I want to start here today so that a new golden age comes.",
+      "note": "Shows a goal or hope; often used with things you cannot fully control.",
+      "noteZh": "表示目的或愿望，多用于自己无法直接控制的事情。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ように"
+    },
+    {
+      "pattern": "〜ていただきたかった",
+      "meaning": "(I) wish (someone) had done ~ for me",
+      "meaningZh": "（真）希望您能……",
+      "formation": "verb て-form + いただきたかった",
+      "example": "長嶋監督にもこの姿を見ていただきたかった。",
+      "translation": "I wish manager Nagashima could have seen me like this too.",
+      "note": "Polite way to say you wished someone had done something.",
+      "noteZh": "礼貌地表达曾希望对方为自己做某事。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#ていただく"
+    }
+  ],
+  "practiceZh": [
+    "プロ野球の巨人は、23日、新しい監督を発表しました。\n职业棒球巨人队23日公布了新教练。\n監督 = manager (of a team) / 発表 = announcement",
+    "新しい監督は、松井秀喜さんです。\n新教练是松井秀喜。",
+    "松井さんは52歳で、石川県の出身です。\n松井52岁，出身于石川县。\n出身 = hometown, origin",
+    "1993年に巨人に入って、ホームランをたくさん打ちました。\n他1993年加入巨人队，打出了很多本垒打。\n打つ = to hit",
+    "2003年からは、アメリカの大リーグでプレーしました。\n从2003年起，他在美国大联盟打球。\n大リーグ = Major League Baseball",
+    "ヤンキースでは、2009年のワールドシリーズでMVPに選ばれました。\n在洋基队时，他被选为2009年世界大赛MVP。\n選ばれる = to be chosen",
+    "日本とアメリカで打ったホームランは、合わせて507本です。\n他在日本和美国打出的本垒打合计507支。\n合わせて = in total, combined",
+    "松井さんが巨人に戻るのは、24年ぶりです。\n松井时隔24年重返巨人队。\n戻る = to return / ぶり = for the first time in (a period)",
+    "契約は3年で、背番号は「90」です。\n合同为3年，球衣号码是“90”。\n契約 = contract / 背番号 = uniform number",
+    "「90」は、去年亡くなった長嶋茂雄さんが、監督のときにつけていた番号です。\n“90”是去年去世的长岛茂雄担任教练时所穿的号码。\n亡くなる = to pass away",
+    "長嶋さんは、松井さんにとって大切な恩師でした。\n对松井来说，长岛是重要的恩师。\n恩師 = mentor, respected teacher",
+    "会見で松井さんは、「ジャイアンツに新たな黄金時代が訪れるよう、きょうここからスタートしたい」と話しました。\n在记者会上，松井说：“为了让巨人迎来新的黄金时代，我想从今天这里开始。”\n会見 = press conference / 黄金時代 = golden age",
+    "また、「本当は、長嶋監督にもこの姿を見ていただきたかった」とも話しました。\n他还说：“其实真希望长岛教练也能看到我现在的样子。”\n姿 = figure, appearance",
+    "松井さんは、30日からチームを指揮します。\n松井将从30日开始指挥球队。\n指揮 = command, leading"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-third. Baseball legend Hideki Matsui is the new manager of the Giants. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "プロ野球の巨人は、23日、新しい監督を発表しました。",
+      "ruby": "プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>巨人<rt>きょじん</rt></ruby>は、23<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>を<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい監督は、松井秀喜さんです。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>は、<ruby>松井<rt>まつい</rt></ruby><ruby>秀喜<rt>ひでき</rt></ruby>さんです。"
+    },
+    {
+      "speaker": "news",
+      "text": "松井さんは52歳で、石川県の出身です。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは52<ruby>歳<rt>さい</rt></ruby>で、<ruby>石川県<rt>いしかわけん</rt></ruby>の<span class=\"vw\" data-ja=\"出身\" data-reading=\"しゅっしん\" data-en=\"hometown, origin\"><ruby>出身<rt>しゅっしん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "1993年に巨人に入って、ホームランをたくさん打ちました。",
+      "ruby": "1993<ruby>年<rt>ねん</rt></ruby>に<ruby>巨人<rt>きょじん</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>て、ホームランをたくさん<ruby>打ち<rt>うち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2003年からは、アメリカの大リーグでプレーしました。",
+      "ruby": "2003<ruby>年<rt>ねん</rt></ruby>からは、アメリカの<span class=\"vw\" data-ja=\"大リーグ\" data-reading=\"だいリーグ\" data-en=\"Major League Baseball\"><ruby>大<rt>だい</rt></ruby>リーグ</span>でプレーしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ヤンキースでは、2009年のワールドシリーズでMVPに選ばれました。",
+      "ruby": "ヤンキースでは、2009<ruby>年<rt>ねん</rt></ruby>のワールドシリーズでMVPに<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本とアメリカで打ったホームランは、合わせて507本です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>とアメリカで<ruby>打っ<rt>うっ</rt></ruby>たホームランは、<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total, combined\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>507<ruby>本<rt>ほん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "松井さんが巨人に戻るのは、24年ぶりです。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんが<ruby>巨人<rt>きょじん</rt></ruby>に<span class=\"vw\" data-ja=\"戻る\" data-reading=\"もどる\" data-en=\"to return\"><ruby>戻る<rt>もどる</rt></ruby></span>のは、24<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"for the first time in (a period)\">ぶりです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "契約は3年で、背番号は「90」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"契約\" data-reading=\"けいやく\" data-en=\"contract\"><ruby>契約<rt>けいやく</rt></ruby></span>は3<ruby>年<rt>ねん</rt></ruby>で、<span class=\"vw\" data-ja=\"背番号\" data-reading=\"せばんごう\" data-en=\"uniform number\"><ruby>背番号<rt>せばんごう</rt></ruby></span>は「90」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「90」は、去年亡くなった長嶋茂雄さんが、監督のときにつけていた番号です。",
+      "ruby": "「90」は、<ruby>去年<rt>きょねん</rt></ruby><ruby>亡く<rt>なく</rt></ruby>なった<ruby>長嶋茂雄<rt>ながしましげお</rt></ruby>さんが、<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>のときにつけていた<ruby>番号<rt>ばんごう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "長嶋さんは、松井さんにとって大切な恩師でした。",
+      "ruby": "<ruby>長嶋<rt>ながしま</rt></ruby>さんは、<ruby>松井<rt>まつい</rt></ruby>さんにとって<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"恩師\" data-reading=\"おんし\" data-en=\"mentor, respected teacher\"><ruby>恩師<rt>おんし</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "会見で松井さんは、「ジャイアンツに新たな黄金時代が訪れるよう、きょうここからスタートしたい」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"会見\" data-reading=\"かいけん\" data-en=\"press conference\"><ruby>会見<rt>かいけん</rt></ruby></span>で<ruby>松井<rt>まつい</rt></ruby>さんは、「ジャイアンツに<ruby>新た<rt>あらた</rt></ruby>な<span class=\"vw\" data-ja=\"黄金時代\" data-reading=\"おうごんじだい\" data-en=\"golden age\"><ruby>黄金時代<rt>おうごんじだい</rt></ruby></span>が<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to come, to arrive (of a time)\"><ruby>訪れ<rt>おとずれ</rt></ruby>るよう</span>、きょうここからスタートしたい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「本当は、長嶋監督にもこの姿を見ていただきたかった」とも話しました。",
+      "ruby": "また、「<ruby>本当<rt>ほんとう</rt></ruby>は、<ruby>長嶋監督<rt>ながしまかんとく</rt></ruby>にもこの<span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby>いただきたかった」とも<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松井さんは、30日からチームを指揮します。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは、30<ruby>日<rt>にち</rt></ruby>からチームを<span class=\"vw\" data-ja=\"指揮\" data-reading=\"しき\" data-en=\"command, leading\"><ruby>指揮<rt>しき</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "プロ野球の巨人は、23日、新しい監督を発表しました。",
+      "ruby": "プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>巨人<rt>きょじん</rt></ruby>は、23<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>を<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Giants, a professional baseball team, announced a new manager on the twenty-third."
+    },
+    {
+      "speaker": "vocab",
+      "text": "監督",
+      "ruby": "<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a team manager."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい監督は、松井秀喜さんです。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>は、<ruby>松井<rt>まつい</rt></ruby><ruby>秀喜<rt>ひでき</rt></ruby>さんです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new manager is Hideki Matsui."
+    },
+    {
+      "speaker": "slow",
+      "text": "松井さんは52歳で、石川県の出身です。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは52<ruby>歳<rt>さい</rt></ruby>で、<ruby>石川県<rt>いしかわけん</rt></ruby>の<span class=\"vw\" data-ja=\"出身\" data-reading=\"しゅっしん\" data-en=\"hometown, origin\"><ruby>出身<rt>しゅっしん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Matsui is fifty-two and comes from Ishikawa Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "出身",
+      "ruby": "<span class=\"vw\" data-ja=\"出身\" data-reading=\"しゅっしん\" data-en=\"hometown, origin\"><ruby>出身<rt>しゅっしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means where someone comes from."
+    },
+    {
+      "speaker": "slow",
+      "text": "1993年に巨人に入って、ホームランをたくさん打ちました。",
+      "ruby": "1993<ruby>年<rt>ねん</rt></ruby>に<ruby>巨人<rt>きょじん</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>て、ホームランをたくさん<ruby>打ち<rt>うち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He joined the Giants in nineteen ninety-three and hit many home runs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "打つ",
+      "ruby": "<span class=\"vw\" data-ja=\"打つ\" data-reading=\"うつ\" data-en=\"to hit\"><ruby>打つ<rt>うつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hit."
+    },
+    {
+      "speaker": "slow",
+      "text": "2003年からは、アメリカの大リーグでプレーしました。",
+      "ruby": "2003<ruby>年<rt>ねん</rt></ruby>からは、アメリカの<span class=\"vw\" data-ja=\"大リーグ\" data-reading=\"だいリーグ\" data-en=\"Major League Baseball\"><ruby>大<rt>だい</rt></ruby>リーグ</span>でプレーしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From two thousand three, he played in the American major leagues."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大リーグ",
+      "ruby": "<span class=\"vw\" data-ja=\"大リーグ\" data-reading=\"だいリーグ\" data-en=\"Major League Baseball\"><ruby>大<rt>だい</rt></ruby>リーグ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the major leagues."
+    },
+    {
+      "speaker": "slow",
+      "text": "ヤンキースでは、2009年のワールドシリーズでMVPに選ばれました。",
+      "ruby": "ヤンキースでは、2009<ruby>年<rt>ねん</rt></ruby>のワールドシリーズでMVPに<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the Yankees, he was chosen as MVP of the two thousand nine World Series."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選ばれる",
+      "ruby": "<span class=\"vw\" data-ja=\"選ばれる\" data-reading=\"えらばれる\" data-en=\"to be chosen\"><ruby>選ば<rt>えらば</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be chosen."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本とアメリカで打ったホームランは、合わせて507本です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>とアメリカで<ruby>打っ<rt>うっ</rt></ruby>たホームランは、<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total, combined\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>507<ruby>本<rt>ほん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "His home runs in Japan and America add up to five hundred seven."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合わせて",
+      "ruby": "<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total, combined\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means in total, combined."
+    },
+    {
+      "speaker": "slow",
+      "text": "松井さんが巨人に戻るのは、24年ぶりです。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんが<ruby>巨人<rt>きょじん</rt></ruby>に<span class=\"vw\" data-ja=\"戻る\" data-reading=\"もどる\" data-en=\"to return\"><ruby>戻る<rt>もどる</rt></ruby></span>のは、24<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"for the first time in (a period)\">ぶりです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is his first return to the Giants in twenty-four years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "戻る",
+      "ruby": "<span class=\"vw\" data-ja=\"戻る\" data-reading=\"もどる\" data-en=\"to return\"><ruby>戻る<rt>もどる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to return."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ぶり",
+      "ruby": "<span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"for the first time in (a period)\">ぶり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time in a certain period."
+    },
+    {
+      "speaker": "slow",
+      "text": "契約は3年で、背番号は「90」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"契約\" data-reading=\"けいやく\" data-en=\"contract\"><ruby>契約<rt>けいやく</rt></ruby></span>は3<ruby>年<rt>ねん</rt></ruby>で、<span class=\"vw\" data-ja=\"背番号\" data-reading=\"せばんごう\" data-en=\"uniform number\"><ruby>背番号<rt>せばんごう</rt></ruby></span>は「90」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The contract is for three years, and his uniform number is ninety."
+    },
+    {
+      "speaker": "vocab",
+      "text": "契約",
+      "ruby": "<span class=\"vw\" data-ja=\"契約\" data-reading=\"けいやく\" data-en=\"contract\"><ruby>契約<rt>けいやく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a contract."
+    },
+    {
+      "speaker": "vocab",
+      "text": "背番号",
+      "ruby": "<span class=\"vw\" data-ja=\"背番号\" data-reading=\"せばんごう\" data-en=\"uniform number\"><ruby>背番号<rt>せばんごう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a uniform number."
+    },
+    {
+      "speaker": "slow",
+      "text": "「90」は、去年亡くなった長嶋茂雄さんが、監督のときにつけていた番号です。",
+      "ruby": "「90」は、<ruby>去年<rt>きょねん</rt></ruby><ruby>亡く<rt>なく</rt></ruby>なった<ruby>長嶋茂雄<rt>ながしましげお</rt></ruby>さんが、<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>のときにつけていた<ruby>番号<rt>ばんごう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ninety is the number worn as manager by the late Shigeo Nagashima, who died last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "亡くなる",
+      "ruby": "<span class=\"vw\" data-ja=\"亡くなる\" data-reading=\"なくなる\" data-en=\"to pass away\"><ruby>亡く<rt>なく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pass away."
+    },
+    {
+      "speaker": "slow",
+      "text": "長嶋さんは、松井さんにとって大切な恩師でした。",
+      "ruby": "<ruby>長嶋<rt>ながしま</rt></ruby>さんは、<ruby>松井<rt>まつい</rt></ruby>さんにとって<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"恩師\" data-reading=\"おんし\" data-en=\"mentor, respected teacher\"><ruby>恩師<rt>おんし</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nagashima was an important mentor to Matsui."
+    },
+    {
+      "speaker": "vocab",
+      "text": "恩師",
+      "ruby": "<span class=\"vw\" data-ja=\"恩師\" data-reading=\"おんし\" data-en=\"mentor, respected teacher\"><ruby>恩師<rt>おんし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a respected teacher or mentor."
+    },
+    {
+      "speaker": "slow",
+      "text": "会見で松井さんは、「ジャイアンツに新たな黄金時代が訪れるよう、きょうここからスタートしたい」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"会見\" data-reading=\"かいけん\" data-en=\"press conference\"><ruby>会見<rt>かいけん</rt></ruby></span>で<ruby>松井<rt>まつい</rt></ruby>さんは、「ジャイアンツに<ruby>新た<rt>あらた</rt></ruby>な<span class=\"vw\" data-ja=\"黄金時代\" data-reading=\"おうごんじだい\" data-en=\"golden age\"><ruby>黄金時代<rt>おうごんじだい</rt></ruby></span>が<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to come, to arrive (of a time)\"><ruby>訪れ<rt>おとずれ</rt></ruby>るよう</span>、きょうここからスタートしたい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the press conference, Matsui said he wants to start today so a new golden age comes to the Giants."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会見",
+      "ruby": "<span class=\"vw\" data-ja=\"会見\" data-reading=\"かいけん\" data-en=\"press conference\"><ruby>会見<rt>かいけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a press conference."
+    },
+    {
+      "speaker": "vocab",
+      "text": "黄金時代",
+      "ruby": "<span class=\"vw\" data-ja=\"黄金時代\" data-reading=\"おうごんじだい\" data-en=\"golden age\"><ruby>黄金時代<rt>おうごんじだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a golden age."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、「本当は、長嶋監督にもこの姿を見ていただきたかった」とも話しました。",
+      "ruby": "また、「<ruby>本当<rt>ほんとう</rt></ruby>は、<ruby>長嶋監督<rt>ながしまかんとく</rt></ruby>にもこの<span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby>いただきたかった」とも<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He also said he truly wished manager Nagashima could have seen him like this."
+    },
+    {
+      "speaker": "vocab",
+      "text": "姿",
+      "ruby": "<span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means figure, or how someone looks."
+    },
+    {
+      "speaker": "slow",
+      "text": "松井さんは、30日からチームを指揮します。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは、30<ruby>日<rt>にち</rt></ruby>からチームを<span class=\"vw\" data-ja=\"指揮\" data-reading=\"しき\" data-en=\"command, leading\"><ruby>指揮<rt>しき</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "Matsui will lead the team from the thirtieth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "指揮",
+      "ruby": "<span class=\"vw\" data-ja=\"指揮\" data-reading=\"しき\" data-en=\"command, leading\"><ruby>指揮<rt>しき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to lead or command."
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's listen to the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "プロ野球の巨人は、23日、新しい監督を発表しました。",
+      "ruby": "プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>巨人<rt>きょじん</rt></ruby>は、23<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>を<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい監督は、松井秀喜さんです。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>は、<ruby>松井<rt>まつい</rt></ruby><ruby>秀喜<rt>ひでき</rt></ruby>さんです。"
+    },
+    {
+      "speaker": "news",
+      "text": "松井さんは52歳で、石川県の出身です。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは52<ruby>歳<rt>さい</rt></ruby>で、<ruby>石川県<rt>いしかわけん</rt></ruby>の<span class=\"vw\" data-ja=\"出身\" data-reading=\"しゅっしん\" data-en=\"hometown, origin\"><ruby>出身<rt>しゅっしん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "1993年に巨人に入って、ホームランをたくさん打ちました。",
+      "ruby": "1993<ruby>年<rt>ねん</rt></ruby>に<ruby>巨人<rt>きょじん</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>て、ホームランをたくさん<ruby>打ち<rt>うち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2003年からは、アメリカの大リーグでプレーしました。",
+      "ruby": "2003<ruby>年<rt>ねん</rt></ruby>からは、アメリカの<span class=\"vw\" data-ja=\"大リーグ\" data-reading=\"だいリーグ\" data-en=\"Major League Baseball\"><ruby>大<rt>だい</rt></ruby>リーグ</span>でプレーしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ヤンキースでは、2009年のワールドシリーズでMVPに選ばれました。",
+      "ruby": "ヤンキースでは、2009<ruby>年<rt>ねん</rt></ruby>のワールドシリーズでMVPに<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本とアメリカで打ったホームランは、合わせて507本です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>とアメリカで<ruby>打っ<rt>うっ</rt></ruby>たホームランは、<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total, combined\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>507<ruby>本<rt>ほん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "松井さんが巨人に戻るのは、24年ぶりです。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんが<ruby>巨人<rt>きょじん</rt></ruby>に<span class=\"vw\" data-ja=\"戻る\" data-reading=\"もどる\" data-en=\"to return\"><ruby>戻る<rt>もどる</rt></ruby></span>のは、24<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"ぶり\" data-reading=\"ぶり\" data-en=\"for the first time in (a period)\">ぶりです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "契約は3年で、背番号は「90」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"契約\" data-reading=\"けいやく\" data-en=\"contract\"><ruby>契約<rt>けいやく</rt></ruby></span>は3<ruby>年<rt>ねん</rt></ruby>で、<span class=\"vw\" data-ja=\"背番号\" data-reading=\"せばんごう\" data-en=\"uniform number\"><ruby>背番号<rt>せばんごう</rt></ruby></span>は「90」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「90」は、去年亡くなった長嶋茂雄さんが、監督のときにつけていた番号です。",
+      "ruby": "「90」は、<ruby>去年<rt>きょねん</rt></ruby><ruby>亡く<rt>なく</rt></ruby>なった<ruby>長嶋茂雄<rt>ながしましげお</rt></ruby>さんが、<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"manager (of a team)\"><ruby>監督<rt>かんとく</rt></ruby></span>のときにつけていた<ruby>番号<rt>ばんごう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "長嶋さんは、松井さんにとって大切な恩師でした。",
+      "ruby": "<ruby>長嶋<rt>ながしま</rt></ruby>さんは、<ruby>松井<rt>まつい</rt></ruby>さんにとって<ruby>大切<rt>たいせつ</rt></ruby>な<span class=\"vw\" data-ja=\"恩師\" data-reading=\"おんし\" data-en=\"mentor, respected teacher\"><ruby>恩師<rt>おんし</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "会見で松井さんは、「ジャイアンツに新たな黄金時代が訪れるよう、きょうここからスタートしたい」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"会見\" data-reading=\"かいけん\" data-en=\"press conference\"><ruby>会見<rt>かいけん</rt></ruby></span>で<ruby>松井<rt>まつい</rt></ruby>さんは、「ジャイアンツに<ruby>新た<rt>あらた</rt></ruby>な<span class=\"vw\" data-ja=\"黄金時代\" data-reading=\"おうごんじだい\" data-en=\"golden age\"><ruby>黄金時代<rt>おうごんじだい</rt></ruby></span>が<span class=\"vw\" data-ja=\"訪れる\" data-reading=\"おとずれる\" data-en=\"to come, to arrive (of a time)\"><ruby>訪れ<rt>おとずれ</rt></ruby>るよう</span>、きょうここからスタートしたい」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「本当は、長嶋監督にもこの姿を見ていただきたかった」とも話しました。",
+      "ruby": "また、「<ruby>本当<rt>ほんとう</rt></ruby>は、<ruby>長嶋監督<rt>ながしまかんとく</rt></ruby>にもこの<span class=\"vw\" data-ja=\"姿\" data-reading=\"すがた\" data-en=\"figure, appearance\"><ruby>姿<rt>すがた</rt></ruby></span>を<ruby>見て<rt>みて</rt></ruby>いただきたかった」とも<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "松井さんは、30日からチームを指揮します。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは、30<ruby>日<rt>にち</rt></ruby>からチームを<span class=\"vw\" data-ja=\"指揮\" data-reading=\"しき\" data-en=\"command, leading\"><ruby>指揮<rt>しき</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "松井さんは、どこの出身ですか。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは、どこの<span class=\"vw\" data-ja=\"出身\" data-reading=\"しゅっしん\" data-en=\"hometown, origin\"><ruby>出身<rt>しゅっしん</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ishikawa Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "松井さんの背番号は、何番ですか。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんの<span class=\"vw\" data-ja=\"背番号\" data-reading=\"せばんごう\" data-en=\"uniform number\"><ruby>背番号<rt>せばんごう</rt></ruby></span>は、<ruby>何番<rt>なんばん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ninety."
+    },
+    {
+      "speaker": "slow",
+      "text": "松井さんは、いつからチームを指揮しますか。",
+      "ruby": "<ruby>松井<rt>まつい</rt></ruby>さんは、いつからチームを<span class=\"vw\" data-ja=\"指揮\" data-reading=\"しき\" data-en=\"command, leading\"><ruby>指揮<rt>しき</rt></ruby></span>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the thirtieth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
