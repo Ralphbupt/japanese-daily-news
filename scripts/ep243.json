@@ -1,0 +1,619 @@
+{
+  "episode": 243,
+  "title": "フィギュアGPフランス大会、中井亜美が逆転優勝",
+  "date": "2026-10-25",
+  "source": "NHK / 東京新聞 / THE ANSWER",
+  "level": "N5-N4",
+  "contentVersion": "2026102501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "competition, tournament",
+      "zh": "比赛，大赛"
+    },
+    {
+      "ja": "女子",
+      "reading": "じょし",
+      "en": "women's, girls'",
+      "zh": "女子"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "championship, winning first place",
+      "zh": "夺冠，冠军"
+    },
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "athlete, player",
+      "zh": "选手"
+    },
+    {
+      "ja": "18歳",
+      "reading": "じゅうはっさい",
+      "en": "eighteen years old",
+      "zh": "18岁"
+    },
+    {
+      "ja": "銅",
+      "reading": "どう",
+      "en": "bronze",
+      "zh": "铜"
+    },
+    {
+      "ja": "1日目",
+      "reading": "いちにちめ",
+      "en": "the first day",
+      "zh": "第一天"
+    },
+    {
+      "ja": "3位",
+      "reading": "さんい",
+      "en": "third place",
+      "zh": "第三名"
+    },
+    {
+      "ja": "難しい",
+      "reading": "むずかしい",
+      "en": "difficult",
+      "zh": "难"
+    },
+    {
+      "ja": "成功",
+      "reading": "せいこう",
+      "en": "success",
+      "zh": "成功"
+    },
+    {
+      "ja": "合計",
+      "reading": "ごうけい",
+      "en": "total",
+      "zh": "合计，总分"
+    },
+    {
+      "ja": "点",
+      "reading": "てん",
+      "en": "points, score",
+      "zh": "分"
+    },
+    {
+      "ja": "逆転",
+      "reading": "ぎゃくてん",
+      "en": "reversal, come-from-behind win",
+      "zh": "逆转"
+    },
+    {
+      "ja": "去年",
+      "reading": "きょねん",
+      "en": "last year",
+      "zh": "去年"
+    },
+    {
+      "ja": "続ける",
+      "reading": "つづける",
+      "en": "to continue",
+      "zh": "继续"
+    },
+    {
+      "ja": "演技",
+      "reading": "えんぎ",
+      "en": "performance, routine",
+      "zh": "表演"
+    },
+    {
+      "ja": "終わる",
+      "reading": "おわる",
+      "en": "to end, to finish",
+      "zh": "结束"
+    },
+    {
+      "ja": "笑顔",
+      "reading": "えがお",
+      "en": "smiling face",
+      "zh": "笑容"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜で、〜",
+      "meaning": "~ and ~ (linking descriptions)",
+      "meaningZh": "……，并且……（连接描述）",
+      "formation": "noun + で、 + next clause",
+      "example": "中井選手は18歳で、ことし2月のオリンピックで銅メダルをとりました。",
+      "translation": "Nakai is eighteen, and she won a bronze medal at the Olympics this February.",
+      "note": "The て-form of です; it links a fact about someone to the next statement.",
+      "noteZh": "「です」的て形，把关于某人的一个事实和后面的句子连接起来。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#て形"
+    },
+    {
+      "pattern": "〜と、〜",
+      "meaning": "when ~, (then) ~",
+      "meaningZh": "一……就……",
+      "formation": "verb dictionary form + と、 + result",
+      "example": "演技が終わると、中井選手は笑顔でガッツポーズをしました。",
+      "translation": "When her performance ended, Nakai smiled and pumped her fist.",
+      "note": "Shows that the second thing happens right after the first.",
+      "noteZh": "表示前一件事发生后，紧接着发生后一件事。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#と"
+    },
+    {
+      "pattern": "〜させる",
+      "meaning": "to make ~ happen (causative)",
+      "meaningZh": "使……（使役）",
+      "formation": "noun + を + 成功させる",
+      "example": "中井選手は難しいジャンプを成功させました。",
+      "translation": "Nakai succeeded with a difficult jump.",
+      "note": "成功する means to succeed; 成功させる means to make something succeed, to pull it off.",
+      "noteZh": "「成功する」是成功；「成功させる」是使某事成功，即完成某个动作。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#させる"
+    }
+  ],
+  "practiceZh": [
+    "フィギュアスケートのグランプリシリーズの1回目の大会が、フランスでありました。\n花样滑冰大奖赛系列赛的第一站比赛在法国举行。\n大会 = competition, tournament",
+    "女子では、日本の中井亜美選手が優勝しました。\n女子项目中，日本的中井亚美选手夺冠。\n女子 = women's, girls' / 優勝 = championship, winning first place / 選手 = athlete, player",
+    "中井選手は18歳で、ことし2月のオリンピックで銅メダルをとりました。\n中井选手18岁，今年2月在奥运会上获得了铜牌。\n18歳 = eighteen years old / 銅 = bronze",
+    "1日目のショートプログラムで、中井選手は3位でした。\n第一天的短节目中，中井选手排名第三。\n1日目 = the first day / 3位 = third place",
+    "2日目のフリーで、中井選手は難しいジャンプ「トリプルアクセル」を成功させました。\n第二天的自由滑中，中井选手成功完成了高难度跳跃“阿克塞尔三周跳”。\n難しい = difficult / 成功 = success",
+    "フリーは1位で、合計は219.74点でした。\n自由滑排名第一，总分219.74分。\n合計 = total / 点 = points, score",
+    "3位から1位になって、逆転で優勝しました。\n她从第三名升到第一名，逆转夺冠。\n逆転 = reversal, come-from-behind win",
+    "中井選手は、去年のフランスの大会でも優勝していて、2年続けての優勝です。\n中井选手去年也在法国站夺冠，这是连续两年夺冠。\n去年 = last year / 続ける = to continue",
+    "演技が終わると、中井選手は笑顔でガッツポーズをしました。\n表演结束后，中井选手面带笑容做出了胜利的握拳动作。\n演技 = performance, routine / 終わる = to end, to finish / 笑顔 = smiling face",
+    "日本の青木選手は、4位でした。\n日本的青木选手获得第四名。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-fifth. A young Japanese figure skater just won a big event in France. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "フィギュアスケートのグランプリシリーズの1回目の大会が、フランスでありました。",
+      "ruby": "フィギュアスケートのグランプリシリーズの1<ruby>回目<rt>かいめ</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>が、フランスでありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女子では、日本の中井亜美選手が優勝しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>では、<ruby>日本<rt>にほん</rt></ruby>の<ruby>中井<rt>なかい</rt></ruby><ruby>亜美<rt>あみ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中井選手は18歳で、ことし2月のオリンピックで銅メダルをとりました。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"18歳\" data-reading=\"じゅうはっさい\" data-en=\"eighteen years old\">18<ruby>歳<rt>さい</rt></ruby></span>で、ことし2<ruby>月<rt>がつ</rt></ruby>のオリンピックで<span class=\"vw\" data-ja=\"銅\" data-reading=\"どう\" data-en=\"bronze\"><ruby>銅<rt>どう</rt></ruby></span>メダルをとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1日目のショートプログラムで、中井選手は3位でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"1日目\" data-reading=\"いちにちめ\" data-en=\"the first day\">1<ruby>日目<rt>にちめ</rt></ruby></span>のショートプログラムで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2日目のフリーで、中井選手は難しいジャンプ「トリプルアクセル」を成功させました。",
+      "ruby": "2<ruby>日目<rt>にちめ</rt></ruby>のフリーで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"難しい\" data-reading=\"むずかしい\" data-en=\"difficult\"><ruby>難しい<rt>むずかしい</rt></ruby></span>ジャンプ「トリプルアクセル」を<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>させました。"
+    },
+    {
+      "speaker": "news",
+      "text": "フリーは1位で、合計は219.74点でした。",
+      "ruby": "フリーは1<ruby>位<rt>い</rt></ruby>で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は219.74<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"points, score\"><ruby>点<rt>てん</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "3位から1位になって、逆転で優勝しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>から1<ruby>位<rt>い</rt></ruby>になって、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"reversal, come-from-behind win\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>で<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中井選手は、去年のフランスの大会でも優勝していて、2年続けての優勝です。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>のフランスの<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>でも<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ての<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "演技が終わると、中井選手は笑顔でガッツポーズをしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"演技\" data-reading=\"えんぎ\" data-en=\"performance, routine\"><ruby>演技<rt>えんぎ</rt></ruby></span>が<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>ると</span>、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"笑顔\" data-reading=\"えがお\" data-en=\"smiling face\"><ruby>笑顔<rt>えがお</rt></ruby></span>でガッツポーズをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の青木選手は、4位でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>青木<rt>あおき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、4<ruby>位<rt>い</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "フィギュアスケートのグランプリシリーズの1回目の大会が、フランスでありました。",
+      "ruby": "フィギュアスケートのグランプリシリーズの1<ruby>回目<rt>かいめ</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>が、フランスでありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A figure skating Grand Prix series held its first event, in France."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大会",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a competition or tournament."
+    },
+    {
+      "speaker": "slow",
+      "text": "女子では、日本の中井亜美選手が優勝しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>では、<ruby>日本<rt>にほん</rt></ruby>の<ruby>中井<rt>なかい</rt></ruby><ruby>亜美<rt>あみ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the women's event, Ami Nakai of Japan won."
+    },
+    {
+      "speaker": "vocab",
+      "text": "女子",
+      "ruby": "<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means women's or girls', for a sports category."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winning first place, the championship."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選手",
+      "ruby": "<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means athlete or player."
+    },
+    {
+      "speaker": "slow",
+      "text": "中井選手は18歳で、ことし2月のオリンピックで銅メダルをとりました。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"18歳\" data-reading=\"じゅうはっさい\" data-en=\"eighteen years old\">18<ruby>歳<rt>さい</rt></ruby></span>で、ことし2<ruby>月<rt>がつ</rt></ruby>のオリンピックで<span class=\"vw\" data-ja=\"銅\" data-reading=\"どう\" data-en=\"bronze\"><ruby>銅<rt>どう</rt></ruby></span>メダルをとりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nakai is eighteen, and she won a bronze medal at the Olympics this February."
+    },
+    {
+      "speaker": "vocab",
+      "text": "18歳",
+      "ruby": "<span class=\"vw\" data-ja=\"18歳\" data-reading=\"じゅうはっさい\" data-en=\"eighteen years old\">18<ruby>歳<rt>さい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means eighteen years old."
+    },
+    {
+      "speaker": "vocab",
+      "text": "銅",
+      "ruby": "<span class=\"vw\" data-ja=\"銅\" data-reading=\"どう\" data-en=\"bronze\"><ruby>銅<rt>どう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bronze, so with medal it is a bronze medal."
+    },
+    {
+      "speaker": "slow",
+      "text": "1日目のショートプログラムで、中井選手は3位でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"1日目\" data-reading=\"いちにちめ\" data-en=\"the first day\">1<ruby>日目<rt>にちめ</rt></ruby></span>のショートプログラムで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "On day one, in the short program, Nakai was in third place."
+    },
+    {
+      "speaker": "vocab",
+      "text": "1日目",
+      "ruby": "<span class=\"vw\" data-ja=\"1日目\" data-reading=\"いちにちめ\" data-en=\"the first day\">1<ruby>日目<rt>にちめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "With a number, it means the first day, second day, and so on."
+    },
+    {
+      "speaker": "vocab",
+      "text": "3位",
+      "ruby": "<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means third place. After a number, this word means place or rank."
+    },
+    {
+      "speaker": "slow",
+      "text": "2日目のフリーで、中井選手は難しいジャンプ「トリプルアクセル」を成功させました。",
+      "ruby": "2<ruby>日目<rt>にちめ</rt></ruby>のフリーで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"難しい\" data-reading=\"むずかしい\" data-en=\"difficult\"><ruby>難しい<rt>むずかしい</rt></ruby></span>ジャンプ「トリプルアクセル」を<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>させました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On day two, in the free skate, Nakai landed a difficult jump, the triple axel."
+    },
+    {
+      "speaker": "vocab",
+      "text": "難しい",
+      "ruby": "<span class=\"vw\" data-ja=\"難しい\" data-reading=\"むずかしい\" data-en=\"difficult\"><ruby>難しい<rt>むずかしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means difficult."
+    },
+    {
+      "speaker": "vocab",
+      "text": "成功",
+      "ruby": "<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means success. With the verb, it means to succeed at something."
+    },
+    {
+      "speaker": "slow",
+      "text": "フリーは1位で、合計は219.74点でした。",
+      "ruby": "フリーは1<ruby>位<rt>い</rt></ruby>で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は219.74<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"points, score\"><ruby>点<rt>てん</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "She was first in the free skate, and her total was two hundred nineteen point seven four points."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合計",
+      "ruby": "<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means total."
+    },
+    {
+      "speaker": "vocab",
+      "text": "点",
+      "ruby": "<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"points, score\"><ruby>点<rt>てん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means points, as in a score."
+    },
+    {
+      "speaker": "slow",
+      "text": "3位から1位になって、逆転で優勝しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>から1<ruby>位<rt>い</rt></ruby>になって、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"reversal, come-from-behind win\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>で<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She went from third to first, winning from behind."
+    },
+    {
+      "speaker": "vocab",
+      "text": "逆転",
+      "ruby": "<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"reversal, come-from-behind win\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a reversal, coming from behind to win."
+    },
+    {
+      "speaker": "slow",
+      "text": "中井選手は、去年のフランスの大会でも優勝していて、2年続けての優勝です。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>のフランスの<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>でも<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ての<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nakai also won this event in France last year, so this is two wins in a row."
+    },
+    {
+      "speaker": "vocab",
+      "text": "去年",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続ける",
+      "ruby": "<span class=\"vw\" data-ja=\"続ける\" data-reading=\"つづける\" data-en=\"to continue\"><ruby>続け<rt>つづけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue. Here, two years in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "演技が終わると、中井選手は笑顔でガッツポーズをしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"演技\" data-reading=\"えんぎ\" data-en=\"performance, routine\"><ruby>演技<rt>えんぎ</rt></ruby></span>が<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>ると</span>、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"笑顔\" data-reading=\"えがお\" data-en=\"smiling face\"><ruby>笑顔<rt>えがお</rt></ruby></span>でガッツポーズをしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "When her performance ended, Nakai smiled and pumped her fist."
+    },
+    {
+      "speaker": "vocab",
+      "text": "演技",
+      "ruby": "<span class=\"vw\" data-ja=\"演技\" data-reading=\"えんぎ\" data-en=\"performance, routine\"><ruby>演技<rt>えんぎ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a performance, like a routine on the ice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "終わる",
+      "ruby": "<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to end or finish."
+    },
+    {
+      "speaker": "vocab",
+      "text": "笑顔",
+      "ruby": "<span class=\"vw\" data-ja=\"笑顔\" data-reading=\"えがお\" data-en=\"smiling face\"><ruby>笑顔<rt>えがお</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a smiling face."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の青木選手は、4位でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>青木<rt>あおき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、4<ruby>位<rt>い</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's Aoki finished fourth."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "フィギュアスケートのグランプリシリーズの1回目の大会が、フランスでありました。",
+      "ruby": "フィギュアスケートのグランプリシリーズの1<ruby>回目<rt>かいめ</rt></ruby>の<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>が、フランスでありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女子では、日本の中井亜美選手が優勝しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>では、<ruby>日本<rt>にほん</rt></ruby>の<ruby>中井<rt>なかい</rt></ruby><ruby>亜美<rt>あみ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中井選手は18歳で、ことし2月のオリンピックで銅メダルをとりました。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"18歳\" data-reading=\"じゅうはっさい\" data-en=\"eighteen years old\">18<ruby>歳<rt>さい</rt></ruby></span>で、ことし2<ruby>月<rt>がつ</rt></ruby>のオリンピックで<span class=\"vw\" data-ja=\"銅\" data-reading=\"どう\" data-en=\"bronze\"><ruby>銅<rt>どう</rt></ruby></span>メダルをとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1日目のショートプログラムで、中井選手は3位でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"1日目\" data-reading=\"いちにちめ\" data-en=\"the first day\">1<ruby>日目<rt>にちめ</rt></ruby></span>のショートプログラムで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2日目のフリーで、中井選手は難しいジャンプ「トリプルアクセル」を成功させました。",
+      "ruby": "2<ruby>日目<rt>にちめ</rt></ruby>のフリーで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"難しい\" data-reading=\"むずかしい\" data-en=\"difficult\"><ruby>難しい<rt>むずかしい</rt></ruby></span>ジャンプ「トリプルアクセル」を<span class=\"vw\" data-ja=\"成功\" data-reading=\"せいこう\" data-en=\"success\"><ruby>成功<rt>せいこう</rt></ruby></span>させました。"
+    },
+    {
+      "speaker": "news",
+      "text": "フリーは1位で、合計は219.74点でした。",
+      "ruby": "フリーは1<ruby>位<rt>い</rt></ruby>で、<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は219.74<span class=\"vw\" data-ja=\"点\" data-reading=\"てん\" data-en=\"points, score\"><ruby>点<rt>てん</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "3位から1位になって、逆転で優勝しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"3位\" data-reading=\"さんい\" data-en=\"third place\">3<ruby>位<rt>い</rt></ruby></span>から1<ruby>位<rt>い</rt></ruby>になって、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"reversal, come-from-behind win\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>で<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中井選手は、去年のフランスの大会でも優勝していて、2年続けての優勝です。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>のフランスの<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>でも<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ての<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "演技が終わると、中井選手は笑顔でガッツポーズをしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"演技\" data-reading=\"えんぎ\" data-en=\"performance, routine\"><ruby>演技<rt>えんぎ</rt></ruby></span>が<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>ると</span>、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span class=\"vw\" data-ja=\"笑顔\" data-reading=\"えがお\" data-en=\"smiling face\"><ruby>笑顔<rt>えがお</rt></ruby></span>でガッツポーズをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の青木選手は、4位でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>青木<rt>あおき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、4<ruby>位<rt>い</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会は、どこでありましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"competition, tournament\"><ruby>大会<rt>たいかい</rt></ruby></span>は、どこでありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In France."
+    },
+    {
+      "speaker": "slow",
+      "text": "中井選手は、何歳ですか。",
+      "ruby": "<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>何歳<rt>なんさい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "She is eighteen."
+    },
+    {
+      "speaker": "slow",
+      "text": "ショートプログラムで、中井選手は何位でしたか。",
+      "ruby": "ショートプログラムで、<ruby>中井<rt>なかい</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>何位<rt>なんい</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Third place."
+    },
+    {
+      "speaker": "slow",
+      "text": "青木選手は、何位でしたか。",
+      "ruby": "<ruby>青木<rt>あおき</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>何位<rt>なんい</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fourth place."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
