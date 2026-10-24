@@ -1,0 +1,623 @@
+{
+  "episode": 242,
+  "title": "「マリオ」の宮本茂さんに文化勲章、ゲーム界で初",
+  "date": "2026-10-24",
+  "source": "時事通信 / ファミ通 / 4Gamer",
+  "level": "N4-N3",
+  "contentVersion": "2026102401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "政府",
+      "reading": "せいふ",
+      "en": "government",
+      "zh": "政府"
+    },
+    {
+      "ja": "贈る",
+      "reading": "おくる",
+      "en": "to give, to present",
+      "zh": "赠送"
+    },
+    {
+      "ja": "任天堂",
+      "reading": "にんてんどう",
+      "en": "Nintendo",
+      "zh": "任天堂"
+    },
+    {
+      "ja": "文化",
+      "reading": "ぶんか",
+      "en": "culture",
+      "zh": "文化"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "研究者",
+      "reading": "けんきゅうしゃ",
+      "en": "researcher",
+      "zh": "研究人员"
+    },
+    {
+      "ja": "卒業",
+      "reading": "そつぎょう",
+      "en": "graduation",
+      "zh": "毕业"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popular, popularity",
+      "zh": "受欢迎"
+    },
+    {
+      "ja": "最近",
+      "reading": "さいきん",
+      "en": "recently",
+      "zh": "最近"
+    },
+    {
+      "ja": "漫画家",
+      "reading": "まんがか",
+      "en": "manga artist",
+      "zh": "漫画家"
+    },
+    {
+      "ja": "光栄",
+      "reading": "こうえい",
+      "en": "honor, privilege",
+      "zh": "荣幸"
+    },
+    {
+      "ja": "考える",
+      "reading": "かんがえる",
+      "en": "to think, to consider",
+      "zh": "思考"
+    },
+    {
+      "ja": "皇居",
+      "reading": "こうきょ",
+      "en": "Imperial Palace",
+      "zh": "皇居"
+    },
+    {
+      "ja": "式",
+      "reading": "しき",
+      "en": "ceremony",
+      "zh": "仪式"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ために",
+      "meaning": "for (the sake of) ~",
+      "meaningZh": "为了……",
+      "formation": "noun + の + ために",
+      "example": "文化勲章は、日本の文化のために大きな仕事をした人に贈られます。",
+      "translation": "The Order of Culture goes to people who did great work for Japanese culture.",
+      "note": "Shows the purpose or the beneficiary of an action.",
+      "noteZh": "表示行为的目的或受益对象。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ために"
+    },
+    {
+      "pattern": "〜たいと思う",
+      "meaning": "to want to ~ / to think one wants to ~",
+      "meaningZh": "想要……",
+      "formation": "verb ます-stem + たい + と思う",
+      "example": "宮本さんは、子どものころ、漫画家になりたいと思っていました。",
+      "translation": "As a child, Miyamoto wanted to become a manga artist.",
+      "note": "A softer way to express a wish; 思っていました shows a wish held over time.",
+      "noteZh": "委婉地表达愿望；「思っていました」表示过去一直抱有的想法。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#たいと思う"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to come to ~ / to start to ~",
+      "meaningZh": "变得……；开始……",
+      "formation": "verb dictionary form + ようになる",
+      "example": "「作るとは何かを、みんなが考えるようになる」と話しました。",
+      "translation": "He said everyone will come to think about what creating means.",
+      "note": "Describes a gradual change in behavior or ability.",
+      "noteZh": "表示行为或能力逐渐发生的变化。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜られる（受身）",
+      "meaning": "passive: is ~ed",
+      "meaningZh": "被……（被动）",
+      "formation": "verb passive form",
+      "example": "文化勲章を渡す式は、11月3日に皇居で行われます。",
+      "translation": "The ceremony will be held at the Imperial Palace on November third.",
+      "note": "Passive voice is common in news for events and awards.",
+      "noteZh": "新闻中常用被动形式描述活动和授奖。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#受身"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "政府は、今年の文化勲章を8人に贈ると発表しました。\n政府宣布，将向8人授予今年的文化勋章。\n政府 = government / 贈る = to give, to present / 文化 = culture",
+    "その中に、任天堂の宮本茂さん、73歳がいます。\n其中有任天堂的宫本茂先生，73岁。\n任天堂 = Nintendo",
+    "文化勲章は、日本の文化のために大きな仕事をした人に贈られます。\n文化勋章授予为日本文化做出巨大贡献的人。\n文化 = culture",
+    "ゲームを作る人が文化勲章を受けるのは、初めてです。\n制作游戏的人获得文化勋章，这是第一次。\n文化 = culture / 初めて = for the first time",
+    "ノーベル化学賞に決まった東京理科大学の研究者も、選ばれました。\n已确定获得诺贝尔化学奖的东京理科大学研究人员也入选了。\n研究者 = researcher",
+    "宮本さんは、1977年に大学を卒業して、任天堂に入りました。\n宫本先生1977年大学毕业后进入任天堂。\n任天堂 = Nintendo / 卒業 = graduation",
+    "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を作りました。\n然后制作了《大金刚》和《超级马力欧兄弟》。",
+    "「ゼルダの伝説」など、世界中で人気のゲームも作っています。\n他还制作了《塞尔达传说》等风靡全世界的游戏。\n人気 = popular, popularity",
+    "最近は、テーマパークや映画の仕事もしています。\n最近，他也从事主题公园和电影的工作。\n最近 = recently",
+    "宮本さんは、子どものころ、漫画家になりたいと思っていました。\n宫本先生小时候想成为漫画家。\n漫画家 = manga artist",
+    "京都にある任天堂の本社で、宮本さんは「本当に光栄です」と話しました。\n在位于京都的任天堂总部，宫本先生说：“真的很荣幸。”\n任天堂 = Nintendo / 光栄 = honor, privilege",
+    "AIについては、「作るとは何かを、みんなが考えるようになる」と話しました。\n关于AI，他说：“大家会开始思考‘创作’到底是什么。”\n考える = to think, to consider",
+    "文化勲章を渡す式は、11月3日に皇居で行われます。\n文化勋章的授予仪式将于11月3日在皇居举行。\n文化 = culture / 皇居 = Imperial Palace / 式 = ceremony"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-fourth. The creator of Mario receives one of Japan's highest honors. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、今年の文化勲章を8人に贈ると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を8<ruby>人<rt>にん</rt></ruby>に<span class=\"vw\" data-ja=\"贈る\" data-reading=\"おくる\" data-en=\"to give, to present\"><ruby>贈る<rt>おくる</rt></ruby></span>と<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その中に、任天堂の宮本茂さん、73歳がいます。",
+      "ruby": "その<ruby>中に<rt>なかに</rt></ruby>、<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>の<ruby>宮本<rt>みやもと</rt></ruby><ruby>茂<rt>しげる</rt></ruby>さん、73<ruby>歳<rt>さい</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化勲章は、日本の文化のために大きな仕事をした人に贈られます。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化<rt>ぶんか</rt></ruby></span>のために<ruby>大き<rt>おおき</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>に<ruby>贈ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゲームを作る人が文化勲章を受けるのは、初めてです。",
+      "ruby": "ゲームを<ruby>作る<rt>つくる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>受ける<rt>うける</rt></ruby>のは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ノーベル化学賞に決まった東京理科大学の研究者も、選ばれました。",
+      "ruby": "ノーベル<ruby>化学賞<rt>かがくしょう</rt></ruby>に<ruby>決ま<rt>きま</rt></ruby>った<ruby>東京理科大学<rt>とうきょうりかだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"研究者\" data-reading=\"けんきゅうしゃ\" data-en=\"researcher\"><ruby>研究者<rt>けんきゅうしゃ</rt></ruby></span>も、<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "宮本さんは、1977年に大学を卒業して、任天堂に入りました。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、1977<ruby>年<rt>ねん</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>を<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>して、<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を作りました。",
+      "ruby": "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ゼルダの伝説」など、世界中で人気のゲームも作っています。",
+      "ruby": "「ゼルダの<ruby>伝説<rt>でんせつ</rt></ruby>」など、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>のゲームも<ruby>作っ<rt>つくっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近は、テーマパークや映画の仕事もしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>は、テーマパークや<ruby>映画<rt>えいが</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>もしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "宮本さんは、子どものころ、漫画家になりたいと思っていました。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、<ruby>子ども<rt>こども</rt></ruby>のころ、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>になりたいと<ruby>思って<rt>おもって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都にある任天堂の本社で、宮本さんは「本当に光栄です」と話しました。",
+      "ruby": "<ruby>京都<rt>きょうと</rt></ruby>にある<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>の<ruby>本社<rt>ほんしゃ</rt></ruby>で、<ruby>宮本<rt>みやもと</rt></ruby>さんは「<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"光栄\" data-reading=\"こうえい\" data-en=\"honor, privilege\"><ruby>光栄<rt>こうえい</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "AIについては、「作るとは何かを、みんなが考えるようになる」と話しました。",
+      "ruby": "AIについては、「<ruby>作る<rt>つくる</rt></ruby>とは<ruby>何か<rt>なにか</rt></ruby>を、みんなが<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think, to consider\"><ruby>考え<rt>かんがえ</rt></ruby>るようになる</span>」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化勲章を渡す式は、11月3日に皇居で行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>渡す<rt>わたす</rt></ruby><span class=\"vw\" data-ja=\"式\" data-reading=\"しき\" data-en=\"ceremony\"><ruby>式<rt>しき</rt></ruby></span>は、11<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>に<span class=\"vw\" data-ja=\"皇居\" data-reading=\"こうきょ\" data-en=\"Imperial Palace\"><ruby>皇居<rt>こうきょ</rt></ruby></span>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it slowly."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、今年の文化勲章を8人に贈ると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を8<ruby>人<rt>にん</rt></ruby>に<span class=\"vw\" data-ja=\"贈る\" data-reading=\"おくる\" data-en=\"to give, to present\"><ruby>贈る<rt>おくる</rt></ruby></span>と<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government announced it will give this year's Order of Culture to eight people."
+    },
+    {
+      "speaker": "vocab",
+      "text": "政府",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the government."
+    },
+    {
+      "speaker": "vocab",
+      "text": "贈る",
+      "ruby": "<span class=\"vw\" data-ja=\"贈る\" data-reading=\"おくる\" data-en=\"to give, to present\"><ruby>贈る<rt>おくる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to give, as a gift or an honor."
+    },
+    {
+      "speaker": "slow",
+      "text": "その中に、任天堂の宮本茂さん、73歳がいます。",
+      "ruby": "その<ruby>中に<rt>なかに</rt></ruby>、<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>の<ruby>宮本<rt>みやもと</rt></ruby><ruby>茂<rt>しげる</rt></ruby>さん、73<ruby>歳<rt>さい</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Among them is Nintendo's Shigeru Miyamoto, seventy-three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "任天堂",
+      "ruby": "<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the name of the game company."
+    },
+    {
+      "speaker": "slow",
+      "text": "文化勲章は、日本の文化のために大きな仕事をした人に贈られます。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化<rt>ぶんか</rt></ruby></span>のために<ruby>大き<rt>おおき</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>に<ruby>贈ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Order of Culture goes to people who did great work for Japanese culture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "文化",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化<rt>ぶんか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means culture."
+    },
+    {
+      "speaker": "slow",
+      "text": "ゲームを作る人が文化勲章を受けるのは、初めてです。",
+      "ruby": "ゲームを<ruby>作る<rt>つくる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>受ける<rt>うける</rt></ruby>のは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the first time a game creator has received it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "ノーベル化学賞に決まった東京理科大学の研究者も、選ばれました。",
+      "ruby": "ノーベル<ruby>化学賞<rt>かがくしょう</rt></ruby>に<ruby>決ま<rt>きま</rt></ruby>った<ruby>東京理科大学<rt>とうきょうりかだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"研究者\" data-reading=\"けんきゅうしゃ\" data-en=\"researcher\"><ruby>研究者<rt>けんきゅうしゃ</rt></ruby></span>も、<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A Tokyo University of Science researcher, chosen for the Nobel Prize in Chemistry, was also selected."
+    },
+    {
+      "speaker": "vocab",
+      "text": "研究者",
+      "ruby": "<span class=\"vw\" data-ja=\"研究者\" data-reading=\"けんきゅうしゃ\" data-en=\"researcher\"><ruby>研究者<rt>けんきゅうしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means researcher."
+    },
+    {
+      "speaker": "slow",
+      "text": "宮本さんは、1977年に大学を卒業して、任天堂に入りました。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、1977<ruby>年<rt>ねん</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>を<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>して、<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Miyamoto graduated from college in nineteen seventy-seven and joined Nintendo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "卒業",
+      "ruby": "<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means graduation."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を作りました。",
+      "ruby": "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then he made Donkey Kong and Super Mario Bros."
+    },
+    {
+      "speaker": "slow",
+      "text": "「ゼルダの伝説」など、世界中で人気のゲームも作っています。",
+      "ruby": "「ゼルダの<ruby>伝説<rt>でんせつ</rt></ruby>」など、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>のゲームも<ruby>作っ<rt>つくっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "He also made games popular around the world, like The Legend of Zelda."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popular."
+    },
+    {
+      "speaker": "slow",
+      "text": "最近は、テーマパークや映画の仕事もしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>は、テーマパークや<ruby>映画<rt>えいが</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>もしています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Recently, he also works on theme parks and movies."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最近",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means recently."
+    },
+    {
+      "speaker": "slow",
+      "text": "宮本さんは、子どものころ、漫画家になりたいと思っていました。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、<ruby>子ども<rt>こども</rt></ruby>のころ、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>になりたいと<ruby>思って<rt>おもって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "host",
+      "text": "As a child, Miyamoto wanted to become a manga artist."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漫画家",
+      "ruby": "<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means manga artist."
+    },
+    {
+      "speaker": "slow",
+      "text": "京都にある任天堂の本社で、宮本さんは「本当に光栄です」と話しました。",
+      "ruby": "<ruby>京都<rt>きょうと</rt></ruby>にある<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>の<ruby>本社<rt>ほんしゃ</rt></ruby>で、<ruby>宮本<rt>みやもと</rt></ruby>さんは「<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"光栄\" data-reading=\"こうえい\" data-en=\"honor, privilege\"><ruby>光栄<rt>こうえい</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Nintendo's head office in Kyoto, he said he was truly honored."
+    },
+    {
+      "speaker": "vocab",
+      "text": "光栄",
+      "ruby": "<span class=\"vw\" data-ja=\"光栄\" data-reading=\"こうえい\" data-en=\"honor, privilege\"><ruby>光栄<rt>こうえい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an honor."
+    },
+    {
+      "speaker": "slow",
+      "text": "AIについては、「作るとは何かを、みんなが考えるようになる」と話しました。",
+      "ruby": "AIについては、「<ruby>作る<rt>つくる</rt></ruby>とは<ruby>何か<rt>なにか</rt></ruby>を、みんなが<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think, to consider\"><ruby>考え<rt>かんがえ</rt></ruby>るようになる</span>」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About AI, he said it will make everyone think about what creating really means."
+    },
+    {
+      "speaker": "vocab",
+      "text": "考える",
+      "ruby": "<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think, to consider\"><ruby>考え<rt>かんがえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to think about something."
+    },
+    {
+      "speaker": "slow",
+      "text": "文化勲章を渡す式は、11月3日に皇居で行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>渡す<rt>わたす</rt></ruby><span class=\"vw\" data-ja=\"式\" data-reading=\"しき\" data-en=\"ceremony\"><ruby>式<rt>しき</rt></ruby></span>は、11<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>に<span class=\"vw\" data-ja=\"皇居\" data-reading=\"こうきょ\" data-en=\"Imperial Palace\"><ruby>皇居<rt>こうきょ</rt></ruby></span>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The award ceremony will be held at the Imperial Palace on November third."
+    },
+    {
+      "speaker": "vocab",
+      "text": "式",
+      "ruby": "<span class=\"vw\" data-ja=\"式\" data-reading=\"しき\" data-en=\"ceremony\"><ruby>式<rt>しき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ceremony."
+    },
+    {
+      "speaker": "vocab",
+      "text": "皇居",
+      "ruby": "<span class=\"vw\" data-ja=\"皇居\" data-reading=\"こうきょ\" data-en=\"Imperial Palace\"><ruby>皇居<rt>こうきょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the Imperial Palace in Tokyo."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、今年の文化勲章を8人に贈ると発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"政府\" data-reading=\"せいふ\" data-en=\"government\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を8<ruby>人<rt>にん</rt></ruby>に<span class=\"vw\" data-ja=\"贈る\" data-reading=\"おくる\" data-en=\"to give, to present\"><ruby>贈る<rt>おくる</rt></ruby></span>と<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その中に、任天堂の宮本茂さん、73歳がいます。",
+      "ruby": "その<ruby>中に<rt>なかに</rt></ruby>、<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>の<ruby>宮本<rt>みやもと</rt></ruby><ruby>茂<rt>しげる</rt></ruby>さん、73<ruby>歳<rt>さい</rt></ruby>がいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化勲章は、日本の文化のために大きな仕事をした人に贈られます。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化<rt>ぶんか</rt></ruby></span>のために<ruby>大き<rt>おおき</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>に<ruby>贈ら<rt>おくら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "ゲームを作る人が文化勲章を受けるのは、初めてです。",
+      "ruby": "ゲームを<ruby>作る<rt>つくる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>受ける<rt>うける</rt></ruby>のは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ノーベル化学賞に決まった東京理科大学の研究者も、選ばれました。",
+      "ruby": "ノーベル<ruby>化学賞<rt>かがくしょう</rt></ruby>に<ruby>決ま<rt>きま</rt></ruby>った<ruby>東京理科大学<rt>とうきょうりかだいがく</rt></ruby>の<span class=\"vw\" data-ja=\"研究者\" data-reading=\"けんきゅうしゃ\" data-en=\"researcher\"><ruby>研究者<rt>けんきゅうしゃ</rt></ruby></span>も、<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "宮本さんは、1977年に大学を卒業して、任天堂に入りました。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、1977<ruby>年<rt>ねん</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>を<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>して、<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を作りました。",
+      "ruby": "そして、「ドンキーコング」や「スーパーマリオブラザーズ」を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ゼルダの伝説」など、世界中で人気のゲームも作っています。",
+      "ruby": "「ゼルダの<ruby>伝説<rt>でんせつ</rt></ruby>」など、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular, popularity\"><ruby>人気<rt>にんき</rt></ruby></span>のゲームも<ruby>作っ<rt>つくっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近は、テーマパークや映画の仕事もしています。",
+      "ruby": "<span class=\"vw\" data-ja=\"最近\" data-reading=\"さいきん\" data-en=\"recently\"><ruby>最近<rt>さいきん</rt></ruby></span>は、テーマパークや<ruby>映画<rt>えいが</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>もしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "宮本さんは、子どものころ、漫画家になりたいと思っていました。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、<ruby>子ども<rt>こども</rt></ruby>のころ、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>になりたいと<ruby>思って<rt>おもって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都にある任天堂の本社で、宮本さんは「本当に光栄です」と話しました。",
+      "ruby": "<ruby>京都<rt>きょうと</rt></ruby>にある<span class=\"vw\" data-ja=\"任天堂\" data-reading=\"にんてんどう\" data-en=\"Nintendo\"><ruby>任天堂<rt>にんてんどう</rt></ruby></span>の<ruby>本社<rt>ほんしゃ</rt></ruby>で、<ruby>宮本<rt>みやもと</rt></ruby>さんは「<ruby>本当<rt>ほんとう</rt></ruby>に<span class=\"vw\" data-ja=\"光栄\" data-reading=\"こうえい\" data-en=\"honor, privilege\"><ruby>光栄<rt>こうえい</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "AIについては、「作るとは何かを、みんなが考えるようになる」と話しました。",
+      "ruby": "AIについては、「<ruby>作る<rt>つくる</rt></ruby>とは<ruby>何か<rt>なにか</rt></ruby>を、みんなが<span class=\"vw\" data-ja=\"考える\" data-reading=\"かんがえる\" data-en=\"to think, to consider\"><ruby>考え<rt>かんがえ</rt></ruby>るようになる</span>」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化勲章を渡す式は、11月3日に皇居で行われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>渡す<rt>わたす</rt></ruby><span class=\"vw\" data-ja=\"式\" data-reading=\"しき\" data-en=\"ceremony\"><ruby>式<rt>しき</rt></ruby></span>は、11<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>に<span class=\"vw\" data-ja=\"皇居\" data-reading=\"こうきょ\" data-en=\"Imperial Palace\"><ruby>皇居<rt>こうきょ</rt></ruby></span>で<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の文化勲章は、何人に贈られますか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>は、<ruby>何人<rt>なんにん</rt></ruby>に<ruby>贈ら<rt>おくら</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eight people."
+    },
+    {
+      "speaker": "slow",
+      "text": "宮本さんは、子どものころ、何になりたいと思っていましたか。",
+      "ruby": "<ruby>宮本<rt>みやもと</rt></ruby>さんは、<ruby>子ども<rt>こども</rt></ruby>のころ、<ruby>何<rt>なに</rt></ruby>になりたいと<ruby>思って<rt>おもって</rt></ruby>いましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A manga artist."
+    },
+    {
+      "speaker": "slow",
+      "text": "文化勲章を渡す式は、いつ、どこで行われますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"文化\" data-reading=\"ぶんか\" data-en=\"culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>渡す<rt>わたす</rt></ruby><span class=\"vw\" data-ja=\"式\" data-reading=\"しき\" data-en=\"ceremony\"><ruby>式<rt>しき</rt></ruby></span>は、いつ、どこで<ruby>行わ<rt>おこなわ</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November third, at the Imperial Palace."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
