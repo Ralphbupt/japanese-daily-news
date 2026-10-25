@@ -1,0 +1,634 @@
+{
+  "episode": 245,
+  "title": "「東京湾大華火祭」、11年ぶりに開催",
+  "date": "2026-10-26",
+  "source": "朝日新聞 / ABEMA TIMES / NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026102601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "海",
+      "reading": "うみ",
+      "en": "sea, ocean",
+      "zh": "海"
+    },
+    {
+      "ja": "花火大会",
+      "reading": "はなびたいかい",
+      "en": "fireworks festival",
+      "zh": "烟花大会"
+    },
+    {
+      "ja": "開く",
+      "reading": "ひらく",
+      "en": "to hold (an event), to open",
+      "zh": "举办，打开"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to start, to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "毎年",
+      "reading": "まいとし",
+      "en": "every year",
+      "zh": "每年"
+    },
+    {
+      "ja": "夏",
+      "reading": "なつ",
+      "en": "summer",
+      "zh": "夏天"
+    },
+    {
+      "ja": "選手村",
+      "reading": "せんしゅむら",
+      "en": "athletes' village",
+      "zh": "选手村"
+    },
+    {
+      "ja": "休む",
+      "reading": "やすむ",
+      "en": "to rest, to take a break",
+      "zh": "休息，暂停"
+    },
+    {
+      "ja": "お祝い",
+      "reading": "おいわい",
+      "en": "celebration",
+      "zh": "庆祝"
+    },
+    {
+      "ja": "秋",
+      "reading": "あき",
+      "en": "autumn, fall",
+      "zh": "秋天"
+    },
+    {
+      "ja": "夕方",
+      "reading": "ゆうがた",
+      "en": "evening",
+      "zh": "傍晚"
+    },
+    {
+      "ja": "空",
+      "reading": "そら",
+      "en": "sky",
+      "zh": "天空"
+    },
+    {
+      "ja": "上がる",
+      "reading": "あがる",
+      "en": "to go up, to rise",
+      "zh": "升起，上升"
+    },
+    {
+      "ja": "雨",
+      "reading": "あめ",
+      "en": "rain",
+      "zh": "雨"
+    },
+    {
+      "ja": "降る",
+      "reading": "ふる",
+      "en": "to fall (rain, snow)",
+      "zh": "下（雨、雪）"
+    },
+    {
+      "ja": "着る",
+      "reading": "きる",
+      "en": "to wear, to put on",
+      "zh": "穿"
+    },
+    {
+      "ja": "見上げる",
+      "reading": "みあげる",
+      "en": "to look up",
+      "zh": "抬头看"
+    },
+    {
+      "ja": "最後",
+      "reading": "さいご",
+      "en": "the last, the end",
+      "zh": "最后"
+    },
+    {
+      "ja": "拍手",
+      "reading": "はくしゅ",
+      "en": "applause, clapping",
+      "zh": "鼓掌"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶりに",
+      "meaning": "for the first time in (a period of time)",
+      "meaningZh": "时隔……",
+      "formation": "time length + ぶりに + verb",
+      "example": "「東京湾大華火祭」という花火大会で、11年ぶりに開かれました。",
+      "translation": "It was the Tokyo Bay Grand Fireworks Festival, held for the first time in eleven years.",
+      "note": "Shows that something happens again after a long gap of that length.",
+      "noteZh": "表示经过一段时间后，某事再次发生。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ぶり"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because of ~; in order to ~",
+      "meaningZh": "因为……；为了……",
+      "formation": "verb dictionary form + ため",
+      "example": "オリンピックの選手村を作るため、2016年から休んでいました。",
+      "translation": "Because the Olympic athletes' village was being built, it took a break from 2016.",
+      "note": "Gives the reason or purpose; a little more formal than から.",
+      "noteZh": "表示原因或目的，比「から」更正式一些。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ため"
+    },
+    {
+      "pattern": "〜が、〜",
+      "meaning": "~, but ~",
+      "meaningZh": "虽然……，但是……",
+      "formation": "clause + が、 + contrasting clause",
+      "example": "この日は雨が降っていましたが、たくさんの人が見に来ました。",
+      "translation": "It was raining that day, but many people came to watch.",
+      "note": "Connects two clauses that contrast with each other.",
+      "noteZh": "连接两个意思相反的句子。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/#が"
+    }
+  ],
+  "practiceZh": [
+    "東京の海で、10月24日の夜、大きな花火大会がありました。\n东京的海上，10月24日晚上举行了一场大型烟花大会。\n海 = sea, ocean / 花火大会 = fireworks festival",
+    "「東京湾大華火祭」という花火大会で、11年ぶりに開かれました。\n这是名为“东京湾大华火祭”的烟花大会，时隔11年再次举办。\n開く = to hold (an event), to open",
+    "この花火大会は1988年に始まって、毎年夏にありました。\n这个烟花大会始于1988年，过去每年夏天举行。\n始まる = to start, to begin / 毎年 = every year / 夏 = summer",
+    "しかし、オリンピックの選手村を作るため、2016年から休んでいました。\n但是，为了建设奥运会选手村，从2016年开始一直停办。\n選手村 = athletes' village / 休む = to rest, to take a break",
+    "今年は、中央区と港区ができて80年のお祝いで、秋に開かれました。\n今年是为了庆祝中央区和港区成立80周年，在秋天举办。\nお祝い = celebration / 秋 = autumn, fall",
+    "花火は、夕方5時半に始まりました。\n烟花在傍晚5点半开始。\n夕方 = evening",
+    "およそ1万2000発の花火が、夜の空に上がりました。\n大约1万2000发烟花升上了夜空。\n空 = sky / 上がる = to go up, to rise",
+    "この日は雨が降っていましたが、たくさんの人が見に来ました。\n这一天虽然在下雨，但很多人来观看。\n雨 = rain / 降る = to fall (rain, snow)",
+    "レインコートを着た人たちが、空を見上げて「きれい」と言いました。\n穿着雨衣的人们抬头看着天空，说“好漂亮”。\n着る = to wear, to put on / 見上げる = to look up",
+    "最後の花火では、大きな拍手が起こりました。\n最后的烟花时，响起了热烈的掌声。\n最後 = the last, the end / 拍手 = applause, clapping"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-sixth. A famous fireworks show in Tokyo came back after eleven years. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の海で、10月24日の夜、大きな花火大会がありました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"海\" data-reading=\"うみ\" data-en=\"sea, ocean\"><ruby>海<rt>うみ</rt></ruby></span>で、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>か</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「東京湾大華火祭」という花火大会で、11年ぶりに開かれました。",
+      "ruby": "「<ruby>東京湾<rt>とうきょうわん</rt></ruby><ruby>大華火祭<rt>だいはなびまつり</rt></ruby>」という<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>で、11<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この花火大会は1988年に始まって、毎年夏にありました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>は1988<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span><span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>にありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、オリンピックの選手村を作るため、2016年から休んでいました。",
+      "ruby": "しかし、オリンピックの<span class=\"vw\" data-ja=\"選手村\" data-reading=\"せんしゅむら\" data-en=\"athletes' village\"><ruby>選手<rt>せんしゅ</rt></ruby><ruby>村<rt>むら</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ため、2016<ruby>年<rt>ねん</rt></ruby>から<ruby>休ん<rt>やすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、中央区と港区ができて80年のお祝いで、秋に開かれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>中央区<rt>ちゅうおうく</rt></ruby>と<ruby>港区<rt>みなとく</rt></ruby>ができて80<ruby>年<rt>ねん</rt></ruby>のお<ruby>祝い<rt>いわい</rt></ruby>で、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn, fall\"><ruby>秋<rt>あき</rt></ruby></span>に<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "花火は、夕方5時半に始まりました。",
+      "ruby": "<ruby>花火<rt>はなび</rt></ruby>は、<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>5<ruby>時半<rt>じはん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "およそ1万2000発の花火が、夜の空に上がりました。",
+      "ruby": "およそ1<ruby>万<rt>まん</rt></ruby>2000<ruby>発<rt>ぱつ</rt></ruby>の<ruby>花火<rt>はなび</rt></ruby>が、<ruby>夜<rt>よる</rt></ruby>の<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は雨が降っていましたが、たくさんの人が見に来ました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>ていましたが、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "レインコートを着た人たちが、空を見上げて「きれい」と言いました。",
+      "ruby": "レインコートを<ruby>着た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>を<ruby>見上げ<rt>みあげ</rt></ruby>て「きれい」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後の花火では、大きな拍手が起こりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"the last, the end\"><ruby>最後<rt>さいご</rt></ruby></span>の<ruby>花火<rt>はなび</rt></ruby>では、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>が<ruby>起こ<rt>おこ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の海で、10月24日の夜、大きな花火大会がありました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"海\" data-reading=\"うみ\" data-en=\"sea, ocean\"><ruby>海<rt>うみ</rt></ruby></span>で、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>か</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the night of October twenty-fourth, there was a big fireworks festival on the sea in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "海",
+      "ruby": "<span class=\"vw\" data-ja=\"海\" data-reading=\"うみ\" data-en=\"sea, ocean\"><ruby>海<rt>うみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the sea."
+    },
+    {
+      "speaker": "vocab",
+      "text": "花火大会",
+      "ruby": "<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fireworks festival. The first part means fireworks, and the second part means a big event."
+    },
+    {
+      "speaker": "slow",
+      "text": "「東京湾大華火祭」という花火大会で、11年ぶりに開かれました。",
+      "ruby": "「<ruby>東京湾<rt>とうきょうわん</rt></ruby><ruby>大華火祭<rt>だいはなびまつり</rt></ruby>」という<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>で、11<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was the Tokyo Bay Grand Fireworks Festival, held for the first time in eleven years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to hold (an event), to open\"><ruby>開く<rt>ひらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open, or to hold an event. Here it is used in the passive, was held."
+    },
+    {
+      "speaker": "slow",
+      "text": "この花火大会は1988年に始まって、毎年夏にありました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>は1988<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span><span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>にありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This festival started in nineteen eighty-eight and was held every summer."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to start, to begin\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to start or begin."
+    },
+    {
+      "speaker": "vocab",
+      "text": "毎年",
+      "ruby": "<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means every year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夏",
+      "ruby": "<span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means summer."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、オリンピックの選手村を作るため、2016年から休んでいました。",
+      "ruby": "しかし、オリンピックの<span class=\"vw\" data-ja=\"選手村\" data-reading=\"せんしゅむら\" data-en=\"athletes' village\"><ruby>選手<rt>せんしゅ</rt></ruby><ruby>村<rt>むら</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ため、2016<ruby>年<rt>ねん</rt></ruby>から<ruby>休ん<rt>やすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But from twenty sixteen it took a break, because the Olympic athletes' village was being built."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選手村",
+      "ruby": "<span class=\"vw\" data-ja=\"選手村\" data-reading=\"せんしゅむら\" data-en=\"athletes' village\"><ruby>選手<rt>せんしゅ</rt></ruby><ruby>村<rt>むら</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the athletes' village, where Olympic athletes stay."
+    },
+    {
+      "speaker": "vocab",
+      "text": "休む",
+      "ruby": "<span class=\"vw\" data-ja=\"休む\" data-reading=\"やすむ\" data-en=\"to rest, to take a break\"><ruby>休む<rt>やすむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to rest or take a break."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、中央区と港区ができて80年のお祝いで、秋に開かれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>中央区<rt>ちゅうおうく</rt></ruby>と<ruby>港区<rt>みなとく</rt></ruby>ができて80<ruby>年<rt>ねん</rt></ruby>のお<ruby>祝い<rt>いわい</rt></ruby>で、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn, fall\"><ruby>秋<rt>あき</rt></ruby></span>に<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, it was held in autumn, to celebrate eighty years since two Tokyo wards were created."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お祝い",
+      "ruby": "<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a celebration."
+    },
+    {
+      "speaker": "vocab",
+      "text": "秋",
+      "ruby": "<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn, fall\"><ruby>秋<rt>あき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means autumn."
+    },
+    {
+      "speaker": "slow",
+      "text": "花火は、夕方5時半に始まりました。",
+      "ruby": "<ruby>花火<rt>はなび</rt></ruby>は、<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>5<ruby>時半<rt>じはん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The fireworks started at five thirty in the evening."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夕方",
+      "ruby": "<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means early evening, around sunset."
+    },
+    {
+      "speaker": "slow",
+      "text": "およそ1万2000発の花火が、夜の空に上がりました。",
+      "ruby": "およそ1<ruby>万<rt>まん</rt></ruby>2000<ruby>発<rt>ぱつ</rt></ruby>の<ruby>花火<rt>はなび</rt></ruby>が、<ruby>夜<rt>よる</rt></ruby>の<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "About twelve thousand fireworks went up into the night sky."
+    },
+    {
+      "speaker": "vocab",
+      "text": "空",
+      "ruby": "<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the sky."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上がる",
+      "ruby": "<span class=\"vw\" data-ja=\"上がる\" data-reading=\"あがる\" data-en=\"to go up, to rise\"><ruby>上が<rt>あが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to go up or rise."
+    },
+    {
+      "speaker": "slow",
+      "text": "この日は雨が降っていましたが、たくさんの人が見に来ました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>ていましたが、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was raining that day, but many people came to watch."
+    },
+    {
+      "speaker": "vocab",
+      "text": "雨",
+      "ruby": "<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means rain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "降る",
+      "ruby": "<span class=\"vw\" data-ja=\"降る\" data-reading=\"ふる\" data-en=\"to fall (rain, snow)\"><ruby>降る<rt>ふる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fall, for rain or snow."
+    },
+    {
+      "speaker": "slow",
+      "text": "レインコートを着た人たちが、空を見上げて「きれい」と言いました。",
+      "ruby": "レインコートを<ruby>着た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>を<ruby>見上げ<rt>みあげ</rt></ruby>て「きれい」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "People in raincoats looked up at the sky and said, beautiful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "着る",
+      "ruby": "<span class=\"vw\" data-ja=\"着る\" data-reading=\"きる\" data-en=\"to wear, to put on\"><ruby>着る<rt>きる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to wear clothes on your upper body or whole body."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見上げる",
+      "ruby": "<span class=\"vw\" data-ja=\"見上げる\" data-reading=\"みあげる\" data-en=\"to look up\"><ruby>見上げ<rt>みあげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to look up at something."
+    },
+    {
+      "speaker": "slow",
+      "text": "最後の花火では、大きな拍手が起こりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"the last, the end\"><ruby>最後<rt>さいご</rt></ruby></span>の<ruby>花火<rt>はなび</rt></ruby>では、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>が<ruby>起こ<rt>おこ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the final fireworks, there was big applause."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最後",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"the last, the end\"><ruby>最後<rt>さいご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the last or the final one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "拍手",
+      "ruby": "<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means clapping, applause."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の海で、10月24日の夜、大きな花火大会がありました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"海\" data-reading=\"うみ\" data-en=\"sea, ocean\"><ruby>海<rt>うみ</rt></ruby></span>で、10<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>か</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「東京湾大華火祭」という花火大会で、11年ぶりに開かれました。",
+      "ruby": "「<ruby>東京湾<rt>とうきょうわん</rt></ruby><ruby>大華火祭<rt>だいはなびまつり</rt></ruby>」という<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>で、11<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この花火大会は1988年に始まって、毎年夏にありました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>は1988<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、<span class=\"vw\" data-ja=\"毎年\" data-reading=\"まいとし\" data-en=\"every year\"><ruby>毎年<rt>まいとし</rt></ruby></span><span class=\"vw\" data-ja=\"夏\" data-reading=\"なつ\" data-en=\"summer\"><ruby>夏<rt>なつ</rt></ruby></span>にありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、オリンピックの選手村を作るため、2016年から休んでいました。",
+      "ruby": "しかし、オリンピックの<span class=\"vw\" data-ja=\"選手村\" data-reading=\"せんしゅむら\" data-en=\"athletes' village\"><ruby>選手<rt>せんしゅ</rt></ruby><ruby>村<rt>むら</rt></ruby></span>を<ruby>作る<rt>つくる</rt></ruby>ため、2016<ruby>年<rt>ねん</rt></ruby>から<ruby>休ん<rt>やすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、中央区と港区ができて80年のお祝いで、秋に開かれました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>中央区<rt>ちゅうおうく</rt></ruby>と<ruby>港区<rt>みなとく</rt></ruby>ができて80<ruby>年<rt>ねん</rt></ruby>のお<ruby>祝い<rt>いわい</rt></ruby>で、<span class=\"vw\" data-ja=\"秋\" data-reading=\"あき\" data-en=\"autumn, fall\"><ruby>秋<rt>あき</rt></ruby></span>に<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "花火は、夕方5時半に始まりました。",
+      "ruby": "<ruby>花火<rt>はなび</rt></ruby>は、<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>5<ruby>時半<rt>じはん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "およそ1万2000発の花火が、夜の空に上がりました。",
+      "ruby": "およそ1<ruby>万<rt>まん</rt></ruby>2000<ruby>発<rt>ぱつ</rt></ruby>の<ruby>花火<rt>はなび</rt></ruby>が、<ruby>夜<rt>よる</rt></ruby>の<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>に<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は雨が降っていましたが、たくさんの人が見に来ました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は<span class=\"vw\" data-ja=\"雨\" data-reading=\"あめ\" data-en=\"rain\"><ruby>雨<rt>あめ</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>ていましたが、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見に<rt>みに</rt></ruby><ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "レインコートを着た人たちが、空を見上げて「きれい」と言いました。",
+      "ruby": "レインコートを<ruby>着た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"空\" data-reading=\"そら\" data-en=\"sky\"><ruby>空<rt>そら</rt></ruby></span>を<ruby>見上げ<rt>みあげ</rt></ruby>て「きれい」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最後の花火では、大きな拍手が起こりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最後\" data-reading=\"さいご\" data-en=\"the last, the end\"><ruby>最後<rt>さいご</rt></ruby></span>の<ruby>花火<rt>はなび</rt></ruby>では、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"拍手\" data-reading=\"はくしゅ\" data-en=\"applause, clapping\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>が<ruby>起こ<rt>おこ</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "花火大会は、何年ぶりに開かれましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"花火大会\" data-reading=\"はなびたいかい\" data-en=\"fireworks festival\"><ruby>花火大会<rt>はなびたいかい</rt></ruby></span>は、<ruby>何年<rt>なんねん</rt></ruby>ぶりに<ruby>開か<rt>ひらか</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "After eleven years."
+    },
+    {
+      "speaker": "slow",
+      "text": "花火は、何時に始まりましたか。",
+      "ruby": "<ruby>花火<rt>はなび</rt></ruby>は、<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At five thirty in the evening."
+    },
+    {
+      "speaker": "slow",
+      "text": "この日の天気は、どうでしたか。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は、どうでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was raining."
+    },
+    {
+      "speaker": "slow",
+      "text": "花火は、およそ何発上がりましたか。",
+      "ruby": "<ruby>花火<rt>はなび</rt></ruby>は、およそ<ruby>何発<rt>なんぱつ</rt></ruby><ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About twelve thousand."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
