@@ -1,0 +1,682 @@
+{
+  "episode": 244,
+  "title": "ゴルフ・吉田優利、米女子ツアーで初優勝",
+  "date": "2026-10-25",
+  "source": "共同通信 / THE ANSWER / e!Golf",
+  "level": "N4-N3",
+  "contentVersion": "2026102501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "女子",
+      "reading": "じょし",
+      "en": "women's, girls'",
+      "zh": "女子"
+    },
+    {
+      "ja": "大会",
+      "reading": "たいかい",
+      "en": "tournament, competition",
+      "zh": "比赛，大赛"
+    },
+    {
+      "ja": "選手",
+      "reading": "せんしゅ",
+      "en": "athlete, player",
+      "zh": "选手"
+    },
+    {
+      "ja": "優勝",
+      "reading": "ゆうしょう",
+      "en": "championship, winning first place",
+      "zh": "冠军，夺冠"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    },
+    {
+      "ja": "3年目",
+      "reading": "さんねんめ",
+      "en": "the third year",
+      "zh": "第三年"
+    },
+    {
+      "ja": "最終日",
+      "reading": "さいしゅうび",
+      "en": "the final day",
+      "zh": "最后一天"
+    },
+    {
+      "ja": "試合",
+      "reading": "しあい",
+      "en": "match, game",
+      "zh": "比赛"
+    },
+    {
+      "ja": "続ける",
+      "reading": "つづける",
+      "en": "to continue",
+      "zh": "继续"
+    },
+    {
+      "ja": "前半",
+      "reading": "ぜんはん",
+      "en": "first half",
+      "zh": "前半"
+    },
+    {
+      "ja": "後半",
+      "reading": "こうはん",
+      "en": "second half",
+      "zh": "后半"
+    },
+    {
+      "ja": "苦しい",
+      "reading": "くるしい",
+      "en": "painful, tough",
+      "zh": "痛苦，艰难"
+    },
+    {
+      "ja": "場面",
+      "reading": "ばめん",
+      "en": "scene, moment",
+      "zh": "场面"
+    },
+    {
+      "ja": "合計",
+      "reading": "ごうけい",
+      "en": "total",
+      "zh": "合计，总计"
+    },
+    {
+      "ja": "賞金",
+      "reading": "しょうきん",
+      "en": "prize money",
+      "zh": "奖金"
+    },
+    {
+      "ja": "仲間",
+      "reading": "なかま",
+      "en": "friends, fellow members",
+      "zh": "伙伴，同伴"
+    },
+    {
+      "ja": "お祝い",
+      "reading": "おいわい",
+      "en": "celebration",
+      "zh": "庆祝"
+    },
+    {
+      "ja": "応援",
+      "reading": "おうえん",
+      "en": "cheering, support",
+      "zh": "加油，支持"
+    },
+    {
+      "ja": "感謝",
+      "reading": "かんしゃ",
+      "en": "gratitude, thanks",
+      "zh": "感谢"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のは、初めてです",
+      "meaning": "it is the first time that ~",
+      "meaningZh": "……是第一次",
+      "formation": "verb dictionary form + のは、初めてです",
+      "example": "吉田選手がアメリカのツアーで優勝するのは、初めてです。",
+      "translation": "It is her first win on the American tour.",
+      "note": "の turns the clause into a noun so you can say something about it.",
+      "noteZh": "「の」把前面的句子名词化，再对它进行说明。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#のは"
+    },
+    {
+      "pattern": "〜ていて、〜",
+      "meaning": "~ was happening, and ~",
+      "meaningZh": "正在……，而且……",
+      "formation": "verb て-form + いて、 + next clause",
+      "example": "この日は雨が降っていて、試合の時間が長くなりました。",
+      "translation": "It was raining that day, and play took a long time.",
+      "note": "Links an ongoing situation to its result.",
+      "noteZh": "把正在持续的状态和它带来的结果连接起来。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ている"
+    },
+    {
+      "pattern": "〜も〜が、〜",
+      "meaning": "there was also ~, but ~",
+      "meaningZh": "虽然也有……，但是……",
+      "formation": "noun + も + ありました + が、 + next clause",
+      "example": "後半は苦しい場面もありましたが、17番でバーディーをとりました。",
+      "translation": "There were tough moments, but she made a birdie on the seventeenth.",
+      "note": "が here means but; も softens it to also some.",
+      "noteZh": "这里的「が」表示转折；「も」表示“也有一些”。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#が"
+    },
+    {
+      "pattern": "〜て、〜（理由・方法）",
+      "meaning": "by doing ~ / ~ and then ~",
+      "meaningZh": "通过……；……然后……",
+      "formation": "verb て-form + next clause",
+      "example": "試合の後、仲間の選手たちが、シャンパンをかけてお祝いしました。",
+      "translation": "Fellow players celebrated by pouring champagne on her.",
+      "note": "The て-form can show the way an action is done.",
+      "noteZh": "て形可以表示动作进行的方式。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#て形"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "アメリカの女子ゴルフツアーの大会が、韓国でありました。\n美国女子高尔夫巡回赛的一场比赛在韩国举行。\n女子 = women's, girls' / 大会 = tournament, competition",
+    "日本の吉田優利選手が、この大会で優勝しました。\n日本的吉田优利选手在这场比赛中夺冠。\n大会 = tournament, competition / 選手 = athlete, player / 優勝 = championship, winning first place",
+    "吉田選手がアメリカのツアーで優勝するのは、初めてです。\n这是吉田选手第一次在美国巡回赛上夺冠。\n選手 = athlete, player / 優勝 = championship, winning first place / 初めて = for the first time",
+    "吉田選手は26歳で、アメリカのツアーは今年で3年目です。\n吉田选手26岁，今年是她参加美国巡回赛的第三年。\n選手 = athlete, player / 3年目 = the third year",
+    "最終日、吉田選手は1位と4打差の2位から始めました。\n最后一天，吉田选手以落后第一名4杆的第二名开始比赛。\n選手 = athlete, player / 最終日 = the final day",
+    "この日は雨が降っていて、試合の時間が長くなりました。\n这天下着雨，比赛时间变得很长。\n試合 = match, game",
+    "2番ホールで、吉田選手はイーグルをとりました。\n在第2洞，吉田选手抓到了老鹰球。\n選手 = athlete, player",
+    "その後もバーディーを続けて、前半で1位になりました。\n之后她又接连抓到小鸟球，在前九洞升到了第一名。\n続ける = to continue / 前半 = first half",
+    "後半は苦しい場面もありましたが、17番でバーディーをとりました。\n后九洞虽然也有艰难的时刻，但她在第17洞抓到了小鸟球。\n後半 = second half / 苦しい = painful, tough / 場面 = scene, moment",
+    "合計は17アンダーで、2位の選手に1打差で勝ちました。\n总成绩低于标准杆17杆，以1杆的优势战胜了第二名的选手。\n選手 = athlete, player / 合計 = total",
+    "賞金は、日本のお金でおよそ5500万円です。\n奖金按日元计算约为5500万日元。\n賞金 = prize money",
+    "試合の後、仲間の選手たちが、シャンパンをかけてお祝いしました。\n比赛结束后，同伴选手们给她浇香槟庆祝。\n選手 = athlete, player / 試合 = match, game / 仲間 = friends, fellow members / お祝い = celebration",
+    "吉田選手は「17番でいいバーディーがとれて、うれしかったです」と話しました。\n吉田选手说：“在17洞抓到了很好的小鸟球，很开心。”\n選手 = athlete, player",
+    "そして、「応援ありがとうございました」と、ファンに感謝しました。\n她还向球迷表示感谢：“谢谢大家的加油。”\n応援 = cheering, support / 感謝 = gratitude, thanks"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-fifth. A Japanese golfer just won her first title on the American tour. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの女子ゴルフツアーの大会が、韓国でありました。",
+      "ruby": "アメリカの<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>ゴルフツアーの<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>が、<ruby>韓国<rt>かんこく</rt></ruby>でありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の吉田優利選手が、この大会で優勝しました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>吉田<rt>よしだ</rt></ruby><ruby>優利<rt>ゆうり</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が、この<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>で<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "吉田選手がアメリカのツアーで優勝するのは、初めてです。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がアメリカのツアーで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>するのは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "吉田選手は26歳で、アメリカのツアーは今年で3年目です。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は26<ruby>歳<rt>さい</rt></ruby>で、アメリカのツアーは<ruby>今年<rt>ことし</rt></ruby>で<span class=\"vw\" data-ja=\"3年目\" data-reading=\"さんねんめ\" data-en=\"the third year\">3<ruby>年目<rt>ねんめ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終日、吉田選手は1位と4打差の2位から始めました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最終日\" data-reading=\"さいしゅうび\" data-en=\"the final day\"><ruby>最終日<rt>さいしゅうび</rt></ruby></span>、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は1<ruby>位<rt>い</rt></ruby>と4<ruby>打差<rt>ださ</rt></ruby>の2<ruby>位<rt>い</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は雨が降っていて、試合の時間が長くなりました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2番ホールで、吉田選手はイーグルをとりました。",
+      "ruby": "2<ruby>番<rt>ばん</rt></ruby>ホールで、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はイーグルをとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後もバーディーを続けて、前半で1位になりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>もバーディーを<ruby>続け<rt>つづけ</rt></ruby>て、<span class=\"vw\" data-ja=\"前半\" data-reading=\"ぜんはん\" data-en=\"first half\"><ruby>前半<rt>ぜんはん</rt></ruby></span>で1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "後半は苦しい場面もありましたが、17番でバーディーをとりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half\"><ruby>後半<rt>こうはん</rt></ruby></span>は<span class=\"vw\" data-ja=\"苦しい\" data-reading=\"くるしい\" data-en=\"painful, tough\"><ruby>苦しい<rt>くるしい</rt></ruby></span><span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"scene, moment\"><ruby>場面<rt>ばめん</rt></ruby></span>もありましたが、17<ruby>番<rt>ばん</rt></ruby>でバーディーをとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "合計は17アンダーで、2位の選手に1打差で勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は17アンダーで、2<ruby>位<rt>い</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に1<ruby>打差<rt>ださ</rt></ruby>で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "賞金は、日本のお金でおよそ5500万円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>でおよそ5500<ruby>万円<rt>まんえん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合の後、仲間の選手たちが、シャンパンをかけてお祝いしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>の<ruby>後<rt>あと</rt></ruby>、<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"friends, fellow members\"><ruby>仲間<rt>なかま</rt></ruby></span>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが、シャンパンをかけてお<ruby>祝い<rt>いわい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "吉田選手は「17番でいいバーディーがとれて、うれしかったです」と話しました。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「17<ruby>番<rt>ばん</rt></ruby>でいいバーディーがとれて、うれしかったです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「応援ありがとうございました」と、ファンに感謝しました。",
+      "ruby": "そして、「<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>ありがとうございました」と、ファンに<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"gratitude, thanks\"><ruby>感謝し<rt>かんしゃし</rt></ruby></span>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it slowly."
+    },
+    {
+      "speaker": "slow",
+      "text": "アメリカの女子ゴルフツアーの大会が、韓国でありました。",
+      "ruby": "アメリカの<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>ゴルフツアーの<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>が、<ruby>韓国<rt>かんこく</rt></ruby>でありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A women's golf tour event from America was held in South Korea."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大会",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a tournament or competition."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の吉田優利選手が、この大会で優勝しました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>吉田<rt>よしだ</rt></ruby><ruby>優利<rt>ゆうり</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が、この<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>で<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's Yuri Yoshida won the tournament."
+    },
+    {
+      "speaker": "vocab",
+      "text": "優勝",
+      "ruby": "<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means winning first place."
+    },
+    {
+      "speaker": "slow",
+      "text": "吉田選手がアメリカのツアーで優勝するのは、初めてです。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がアメリカのツアーで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>するのは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is her first win on the American tour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "吉田選手は26歳で、アメリカのツアーは今年で3年目です。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は26<ruby>歳<rt>さい</rt></ruby>で、アメリカのツアーは<ruby>今年<rt>ことし</rt></ruby>で<span class=\"vw\" data-ja=\"3年目\" data-reading=\"さんねんめ\" data-en=\"the third year\">3<ruby>年目<rt>ねんめ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yoshida is twenty-six, and this is her third year on the American tour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "3年目",
+      "ruby": "<span class=\"vw\" data-ja=\"3年目\" data-reading=\"さんねんめ\" data-en=\"the third year\">3<ruby>年目<rt>ねんめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the third year."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終日、吉田選手は1位と4打差の2位から始めました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最終日\" data-reading=\"さいしゅうび\" data-en=\"the final day\"><ruby>最終日<rt>さいしゅうび</rt></ruby></span>、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は1<ruby>位<rt>い</rt></ruby>と4<ruby>打差<rt>ださ</rt></ruby>の2<ruby>位<rt>い</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the final day, she started in second place, four strokes behind the leader."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最終日",
+      "ruby": "<span class=\"vw\" data-ja=\"最終日\" data-reading=\"さいしゅうび\" data-en=\"the final day\"><ruby>最終日<rt>さいしゅうび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the final day."
+    },
+    {
+      "speaker": "slow",
+      "text": "この日は雨が降っていて、試合の時間が長くなりました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was raining that day, and play took a long time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試合",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a match or a game."
+    },
+    {
+      "speaker": "slow",
+      "text": "2番ホールで、吉田選手はイーグルをとりました。",
+      "ruby": "2<ruby>番<rt>ばん</rt></ruby>ホールで、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はイーグルをとりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the second hole, she made an eagle."
+    },
+    {
+      "speaker": "slow",
+      "text": "その後もバーディーを続けて、前半で1位になりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>もバーディーを<ruby>続け<rt>つづけ</rt></ruby>て、<span class=\"vw\" data-ja=\"前半\" data-reading=\"ぜんはん\" data-en=\"first half\"><ruby>前半<rt>ぜんはん</rt></ruby></span>で1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She kept making birdies and took first place in the front nine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "前半",
+      "ruby": "<span class=\"vw\" data-ja=\"前半\" data-reading=\"ぜんはん\" data-en=\"first half\"><ruby>前半<rt>ぜんはん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first half."
+    },
+    {
+      "speaker": "slow",
+      "text": "後半は苦しい場面もありましたが、17番でバーディーをとりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half\"><ruby>後半<rt>こうはん</rt></ruby></span>は<span class=\"vw\" data-ja=\"苦しい\" data-reading=\"くるしい\" data-en=\"painful, tough\"><ruby>苦しい<rt>くるしい</rt></ruby></span><span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"scene, moment\"><ruby>場面<rt>ばめん</rt></ruby></span>もありましたが、17<ruby>番<rt>ばん</rt></ruby>でバーディーをとりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The back nine had some tough moments, but she made a birdie on the seventeenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "後半",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half\"><ruby>後半<rt>こうはん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the second half."
+    },
+    {
+      "speaker": "vocab",
+      "text": "場面",
+      "ruby": "<span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"scene, moment\"><ruby>場面<rt>ばめん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a scene or a moment."
+    },
+    {
+      "speaker": "slow",
+      "text": "合計は17アンダーで、2位の選手に1打差で勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は17アンダーで、2<ruby>位<rt>い</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に1<ruby>打差<rt>ださ</rt></ruby>で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She finished at seventeen under par and won by one stroke."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合計",
+      "ruby": "<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means total."
+    },
+    {
+      "speaker": "slow",
+      "text": "賞金は、日本のお金でおよそ5500万円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>でおよそ5500<ruby>万円<rt>まんえん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The prize money is about fifty-five million yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "賞金",
+      "ruby": "<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prize money."
+    },
+    {
+      "speaker": "slow",
+      "text": "試合の後、仲間の選手たちが、シャンパンをかけてお祝いしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>の<ruby>後<rt>あと</rt></ruby>、<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"friends, fellow members\"><ruby>仲間<rt>なかま</rt></ruby></span>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが、シャンパンをかけてお<ruby>祝い<rt>いわい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After the round, fellow players celebrated by pouring champagne on her."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仲間",
+      "ruby": "<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"friends, fellow members\"><ruby>仲間<rt>なかま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means friends or fellow members."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お祝い",
+      "ruby": "<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a celebration."
+    },
+    {
+      "speaker": "slow",
+      "text": "吉田選手は「17番でいいバーディーがとれて、うれしかったです」と話しました。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「17<ruby>番<rt>ばん</rt></ruby>でいいバーディーがとれて、うれしかったです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She said she was happy to make a good birdie on the seventeenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、「応援ありがとうございました」と、ファンに感謝しました。",
+      "ruby": "そして、「<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>ありがとうございました」と、ファンに<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"gratitude, thanks\"><ruby>感謝し<rt>かんしゃし</rt></ruby></span>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then she thanked the fans for cheering her on."
+    },
+    {
+      "speaker": "vocab",
+      "text": "応援",
+      "ruby": "<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cheering or support."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感謝",
+      "ruby": "<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"gratitude, thanks\"><ruby>感謝<rt>かんしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means gratitude."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the whole story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの女子ゴルフツアーの大会が、韓国でありました。",
+      "ruby": "アメリカの<span class=\"vw\" data-ja=\"女子\" data-reading=\"じょし\" data-en=\"women's, girls'\"><ruby>女子<rt>じょし</rt></ruby></span>ゴルフツアーの<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>が、<ruby>韓国<rt>かんこく</rt></ruby>でありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の吉田優利選手が、この大会で優勝しました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>吉田<rt>よしだ</rt></ruby><ruby>優利<rt>ゆうり</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が、この<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>で<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "吉田選手がアメリカのツアーで優勝するのは、初めてです。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がアメリカのツアーで<span class=\"vw\" data-ja=\"優勝\" data-reading=\"ゆうしょう\" data-en=\"championship, winning first place\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>するのは、<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "吉田選手は26歳で、アメリカのツアーは今年で3年目です。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は26<ruby>歳<rt>さい</rt></ruby>で、アメリカのツアーは<ruby>今年<rt>ことし</rt></ruby>で<span class=\"vw\" data-ja=\"3年目\" data-reading=\"さんねんめ\" data-en=\"the third year\">3<ruby>年目<rt>ねんめ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終日、吉田選手は1位と4打差の2位から始めました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最終日\" data-reading=\"さいしゅうび\" data-en=\"the final day\"><ruby>最終日<rt>さいしゅうび</rt></ruby></span>、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は1<ruby>位<rt>い</rt></ruby>と4<ruby>打差<rt>ださ</rt></ruby>の2<ruby>位<rt>い</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は雨が降っていて、試合の時間が長くなりました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2番ホールで、吉田選手はイーグルをとりました。",
+      "ruby": "2<ruby>番<rt>ばん</rt></ruby>ホールで、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はイーグルをとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後もバーディーを続けて、前半で1位になりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>もバーディーを<ruby>続け<rt>つづけ</rt></ruby>て、<span class=\"vw\" data-ja=\"前半\" data-reading=\"ぜんはん\" data-en=\"first half\"><ruby>前半<rt>ぜんはん</rt></ruby></span>で1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "後半は苦しい場面もありましたが、17番でバーディーをとりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"後半\" data-reading=\"こうはん\" data-en=\"second half\"><ruby>後半<rt>こうはん</rt></ruby></span>は<span class=\"vw\" data-ja=\"苦しい\" data-reading=\"くるしい\" data-en=\"painful, tough\"><ruby>苦しい<rt>くるしい</rt></ruby></span><span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"scene, moment\"><ruby>場面<rt>ばめん</rt></ruby></span>もありましたが、17<ruby>番<rt>ばん</rt></ruby>でバーディーをとりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "合計は17アンダーで、2位の選手に1打差で勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"合計\" data-reading=\"ごうけい\" data-en=\"total\"><ruby>合計<rt>ごうけい</rt></ruby></span>は17アンダーで、2<ruby>位<rt>い</rt></ruby>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に1<ruby>打差<rt>ださ</rt></ruby>で<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "賞金は、日本のお金でおよそ5500万円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>でおよそ5500<ruby>万円<rt>まんえん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "試合の後、仲間の選手たちが、シャンパンをかけてお祝いしました。",
+      "ruby": "<span class=\"vw\" data-ja=\"試合\" data-reading=\"しあい\" data-en=\"match, game\"><ruby>試合<rt>しあい</rt></ruby></span>の<ruby>後<rt>あと</rt></ruby>、<span class=\"vw\" data-ja=\"仲間\" data-reading=\"なかま\" data-en=\"friends, fellow members\"><ruby>仲間<rt>なかま</rt></ruby></span>の<span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが、シャンパンをかけてお<ruby>祝い<rt>いわい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "吉田選手は「17番でいいバーディーがとれて、うれしかったです」と話しました。",
+      "ruby": "<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「17<ruby>番<rt>ばん</rt></ruby>でいいバーディーがとれて、うれしかったです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「応援ありがとうございました」と、ファンに感謝しました。",
+      "ruby": "そして、「<span class=\"vw\" data-ja=\"応援\" data-reading=\"おうえん\" data-en=\"cheering, support\"><ruby>応援<rt>おうえん</rt></ruby></span>ありがとうございました」と、ファンに<span class=\"vw\" data-ja=\"感謝\" data-reading=\"かんしゃ\" data-en=\"gratitude, thanks\"><ruby>感謝し<rt>かんしゃし</rt></ruby></span>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "大会は、どこでありましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"大会\" data-reading=\"たいかい\" data-en=\"tournament, competition\"><ruby>大会<rt>たいかい</rt></ruby></span>は、どこでありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In South Korea."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終日、吉田選手は1位と何打差でしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"最終日\" data-reading=\"さいしゅうび\" data-en=\"the final day\"><ruby>最終日<rt>さいしゅうび</rt></ruby></span>、<ruby>吉田<rt>よしだ</rt></ruby><span class=\"vw\" data-ja=\"選手\" data-reading=\"せんしゅ\" data-en=\"athlete, player\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は1<ruby>位<rt>い</rt></ruby>と<ruby>何<rt>なん</rt></ruby><ruby>打差<rt>ださ</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four strokes."
+    },
+    {
+      "speaker": "slow",
+      "text": "賞金は、日本のお金でいくらですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>は、<ruby>日本<rt>にほん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>でいくらですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About fifty-five million yen."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
