@@ -1,0 +1,665 @@
+{
+  "episode": 246,
+  "title": "「ドクターイエロー」の後継「ドクターS」がデビュー",
+  "date": "2026-10-26",
+  "source": "NHK / 共同通信 / テレビ朝日 / 日本テレビ",
+  "level": "N4-N3",
+  "contentVersion": "2026102601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "営業運転",
+      "reading": "えいぎょううんてん",
+      "en": "regular passenger service",
+      "zh": "营业运行，载客运行"
+    },
+    {
+      "ja": "継ぐ",
+      "reading": "つぐ",
+      "en": "to succeed, to take over",
+      "zh": "继承，接替"
+    },
+    {
+      "ja": "車両",
+      "reading": "しゃりょう",
+      "en": "railway car, vehicle",
+      "zh": "车辆"
+    },
+    {
+      "ja": "線路",
+      "reading": "せんろ",
+      "en": "railway track",
+      "zh": "铁轨，线路"
+    },
+    {
+      "ja": "点検",
+      "reading": "てんけん",
+      "en": "inspection, check",
+      "zh": "检查，检修"
+    },
+    {
+      "ja": "機能",
+      "reading": "きのう",
+      "en": "function, feature",
+      "zh": "功能"
+    },
+    {
+      "ja": "機械",
+      "reading": "きかい",
+      "en": "machine, equipment",
+      "zh": "机器，设备"
+    },
+    {
+      "ja": "乗せる",
+      "reading": "のせる",
+      "en": "to carry (passengers), to let ride",
+      "zh": "搭载，让……乘坐"
+    },
+    {
+      "ja": "列車",
+      "reading": "れっしゃ",
+      "en": "train",
+      "zh": "列车"
+    },
+    {
+      "ja": "編成",
+      "reading": "へんせい",
+      "en": "train set, formation",
+      "zh": "（列车的）编组"
+    },
+    {
+      "ja": "試験",
+      "reading": "しけん",
+      "en": "test, trial",
+      "zh": "试验，测试"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "黄色い",
+      "reading": "きいろい",
+      "en": "yellow",
+      "zh": "黄色的"
+    },
+    {
+      "ja": "役割",
+      "reading": "やくわり",
+      "en": "role",
+      "zh": "作用，角色"
+    },
+    {
+      "ja": "受け継ぐ",
+      "reading": "うけつぐ",
+      "en": "to inherit, to carry on",
+      "zh": "继承"
+    },
+    {
+      "ja": "幸せ",
+      "reading": "しあわせ",
+      "en": "happy, happiness",
+      "zh": "幸福"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てきました",
+      "meaning": "has been doing ~ (up to now)",
+      "meaningZh": "一直……（到现在）",
+      "formation": "verb て-form + きました",
+      "example": "ドクターイエローは、東海道・山陽新幹線で、線路や架線を点検してきました。",
+      "translation": "Doctor Yellow has inspected the tracks and overhead wires.",
+      "note": "Shows an action continuing from the past up to now.",
+      "noteZh": "表示从过去一直持续到现在的动作。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#てくる"
+    },
+    {
+      "pattern": "〜たまま",
+      "meaning": "while still ~, leaving ~ as it is",
+      "meaningZh": "保持……的状态",
+      "formation": "verb た-form + まま",
+      "example": "お客さんを乗せたまま、点検ができるようになりました。",
+      "translation": "It can now inspect while still carrying passengers.",
+      "note": "The first state stays unchanged while the next action happens.",
+      "noteZh": "前一个状态保持不变，同时进行后面的动作。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#まま"
+    },
+    {
+      "pattern": "〜ようになりました",
+      "meaning": "has come to be able to ~",
+      "meaningZh": "变得（能）……了",
+      "formation": "potential verb dictionary form + ようになりました",
+      "example": "点検ができるようになりました。",
+      "translation": "It has become possible to inspect.",
+      "note": "Shows a change in ability or situation.",
+      "noteZh": "表示能力或状况的变化。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ようになる"
+    },
+    {
+      "pattern": "〜ずつ",
+      "meaning": "~ each",
+      "meaningZh": "各……",
+      "formation": "number + counter + ずつ",
+      "example": "2編成ずつ、全部で4編成あります。",
+      "translation": "Two sets each, four sets in total.",
+      "note": "Shows the same amount for each item.",
+      "noteZh": "表示每一份数量相同。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ずつ"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "it is planned to ~",
+      "meaningZh": "预定……",
+      "formation": "verb dictionary form + 予定です",
+      "example": "来年の1月から始める予定です。",
+      "translation": "It is planned to start next January.",
+      "note": "Used for official schedules and plans.",
+      "noteZh": "用于正式的计划和日程。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#予定"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "JR東海は26日、新しい新幹線「ドクターS」の営業運転を始めました。\nJR东海26日开始了新型新干线“Doctor S”的载客运行。\n営業運転 = regular passenger service",
+    "ドクターSは、「ドクターイエロー」の後を継ぐ車両です。\nDoctor S是接替“Doctor Yellow”的车辆。\n継ぐ = to succeed, to take over / 車両 = railway car, vehicle",
+    "ドクターイエローは、東海道・山陽新幹線で、線路や架線を点検してきました。\nDoctor Yellow一直在东海道、山阳新干线上检查铁轨和架空电线。\n線路 = railway track / 点検 = inspection, check",
+    "ドクターSは、お客さんが乗るふつうの新幹線に、点検の機能をつけた車両です。\nDoctor S是在乘客乘坐的普通新干线上加装了检测功能的车辆。\n車両 = railway car, vehicle / 点検 = inspection, check / 機能 = function, feature",
+    "AIを使って、点検の機械を小さくしました。\n利用AI，把检测设备做小了。\n点検 = inspection, check / 機械 = machine, equipment",
+    "そのため、お客さんを乗せたまま、点検ができるようになりました。\n因此，可以在载着乘客的同时进行检测了。\n点検 = inspection, check",
+    "26日の朝、東京から博多に行く「のぞみ7号」に、ドクターSが使われました。\n26日早上，从东京开往博多的“希望7号”使用了Doctor S。",
+    "この列車は、午前8時25分に名古屋駅に着きました。\n这趟列车上午8点25分到达了名古屋站。\n列車 = train",
+    "レールを点検する車両と、架線を点検する車両が、2編成ずつ、全部で4編成あります。\n检查铁轨的车和检查电线的车各2列，一共4列。\n車両 = railway car, vehicle / 点検 = inspection, check / 編成 = train set, formation",
+    "実際の点検は、試験をしたあとで、来年の1月から始める予定です。\n实际检测将在试验之后，从明年1月开始。\n点検 = inspection, check / 試験 = test, trial / 予定 = plan, schedule",
+    "車両には、黄色い「S」のロゴマークが20か所についています。\n车上有20处黄色“S”的标志。\n車両 = railway car, vehicle / 黄色い = yellow",
+    "黄色い「S」は、ドクターイエローの役割を受け継いだことを表しています。\n黄色的“S”表示继承了Doctor Yellow的作用。\n黄色い = yellow / 役割 = role",
+    "乗ったお客さんは「見て幸せ、乗って幸せ」と話していました。\n乘车的乘客说：“看着幸福，坐上去也幸福。”\n幸せ = happy, happiness"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-sixth. The successor to Japan's famous yellow inspection bullet train made its debut. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は26日、新しい新幹線「ドクターS」の営業運転を始めました。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は26<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>「ドクターS」の<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"regular passenger service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドクターSは、「ドクターイエロー」の後を継ぐ車両です。",
+      "ruby": "ドクターSは、「ドクターイエロー」の<ruby>後<rt>あと</rt></ruby>を<span class=\"vw\" data-ja=\"継ぐ\" data-reading=\"つぐ\" data-en=\"to succeed, to take over\"><ruby>継ぐ<rt>つぐ</rt></ruby></span><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドクターイエローは、東海道・山陽新幹線で、線路や架線を点検してきました。",
+      "ruby": "ドクターイエローは、<ruby>東海道<rt>とうかいどう</rt></ruby>・<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>で、<span class=\"vw\" data-ja=\"線路\" data-reading=\"せんろ\" data-en=\"railway track\"><ruby>線路<rt>せんろ</rt></ruby></span>や<ruby>架線<rt>かせん</rt></ruby>を<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>してきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドクターSは、お客さんが乗るふつうの新幹線に、点検の機能をつけた車両です。",
+      "ruby": "ドクターSは、お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>乗る<rt>のる</rt></ruby>ふつうの<ruby>新幹線<rt>しんかんせん</rt></ruby>に、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>をつけた<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "AIを使って、点検の機械を小さくしました。",
+      "ruby": "AIを<ruby>使って<rt>つかって</rt></ruby>、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"機械\" data-reading=\"きかい\" data-en=\"machine, equipment\"><ruby>機械<rt>きかい</rt></ruby></span>を<ruby>小さく<rt>ちいさく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、お客さんを乗せたまま、点検ができるようになりました。",
+      "ruby": "そのため、お<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>たまま、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>ができるようになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "26日の朝、東京から博多に行く「のぞみ7号」に、ドクターSが使われました。",
+      "ruby": "26<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>博多<rt>はかた</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>「のぞみ7<ruby>号<rt>ごう</rt></ruby>」に、ドクターSが<ruby>使わ<rt>つかわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この列車は、午前8時25分に名古屋駅に着きました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"列車\" data-reading=\"れっしゃ\" data-en=\"train\"><ruby>列車<rt>れっしゃ</rt></ruby></span>は、<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>に<ruby>名古屋駅<rt>なごやえき</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "レールを点検する車両と、架線を点検する車両が、2編成ずつ、全部で4編成あります。",
+      "ruby": "レールを<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>する<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>と、<ruby>架線<rt>かせん</rt></ruby>を<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>する<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が、2<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>ずつ、<ruby>全部<rt>ぜんぶ</rt></ruby>で4<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "実際の点検は、試験をしたあとで、来年の1月から始める予定です。",
+      "ruby": "<ruby>実際<rt>じっさい</rt></ruby>の<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>をしたあとで、<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "車両には、黄色い「S」のロゴマークが20か所についています。",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>には、<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>「S」のロゴマークが20か<ruby>所<rt>しょ</rt></ruby>についています。"
+    },
+    {
+      "speaker": "news",
+      "text": "黄色い「S」は、ドクターイエローの役割を受け継いだことを表しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>「S」は、ドクターイエローの<span class=\"vw\" data-ja=\"役割\" data-reading=\"やくわり\" data-en=\"role\"><ruby>役割<rt>やくわり</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby><ruby>継い<rt>つい</rt></ruby>だことを<ruby>表し<rt>あらわし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "乗ったお客さんは「見て幸せ、乗って幸せ」と話していました。",
+      "ruby": "<ruby>乗っ<rt>のっ</rt></ruby>たお<ruby>客<rt>きゃく</rt></ruby>さんは「<ruby>見て<rt>みて</rt></ruby><span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>、<ruby>乗って<rt>のって</rt></ruby><span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it slowly."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東海は26日、新しい新幹線「ドクターS」の営業運転を始めました。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は26<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>「ドクターS」の<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"regular passenger service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-sixth, JR Central began passenger service on a new bullet train called Doctor S."
+    },
+    {
+      "speaker": "vocab",
+      "text": "営業運転",
+      "ruby": "<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"regular passenger service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means regular passenger service."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドクターSは、「ドクターイエロー」の後を継ぐ車両です。",
+      "ruby": "ドクターSは、「ドクターイエロー」の<ruby>後<rt>あと</rt></ruby>を<span class=\"vw\" data-ja=\"継ぐ\" data-reading=\"つぐ\" data-en=\"to succeed, to take over\"><ruby>継ぐ<rt>つぐ</rt></ruby></span><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Doctor S is the train that takes over from Doctor Yellow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "継ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"継ぐ\" data-reading=\"つぐ\" data-en=\"to succeed, to take over\"><ruby>継ぐ<rt>つぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take over or succeed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "車両",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a railway car or vehicle."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドクターイエローは、東海道・山陽新幹線で、線路や架線を点検してきました。",
+      "ruby": "ドクターイエローは、<ruby>東海道<rt>とうかいどう</rt></ruby>・<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>で、<span class=\"vw\" data-ja=\"線路\" data-reading=\"せんろ\" data-en=\"railway track\"><ruby>線路<rt>せんろ</rt></ruby></span>や<ruby>架線<rt>かせん</rt></ruby>を<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>してきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Doctor Yellow has inspected the tracks and overhead wires on the Tokaido and Sanyo lines."
+    },
+    {
+      "speaker": "vocab",
+      "text": "線路",
+      "ruby": "<span class=\"vw\" data-ja=\"線路\" data-reading=\"せんろ\" data-en=\"railway track\"><ruby>線路<rt>せんろ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means railway track."
+    },
+    {
+      "speaker": "vocab",
+      "text": "点検",
+      "ruby": "<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means inspection or a check."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドクターSは、お客さんが乗るふつうの新幹線に、点検の機能をつけた車両です。",
+      "ruby": "ドクターSは、お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>乗る<rt>のる</rt></ruby>ふつうの<ruby>新幹線<rt>しんかんせん</rt></ruby>に、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>をつけた<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Doctor S is a regular passenger bullet train with inspection functions added."
+    },
+    {
+      "speaker": "vocab",
+      "text": "機能",
+      "ruby": "<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a function or feature."
+    },
+    {
+      "speaker": "slow",
+      "text": "AIを使って、点検の機械を小さくしました。",
+      "ruby": "AIを<ruby>使って<rt>つかって</rt></ruby>、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"機械\" data-reading=\"きかい\" data-en=\"machine, equipment\"><ruby>機械<rt>きかい</rt></ruby></span>を<ruby>小さく<rt>ちいさく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Using AI, they made the inspection equipment smaller."
+    },
+    {
+      "speaker": "vocab",
+      "text": "機械",
+      "ruby": "<span class=\"vw\" data-ja=\"機械\" data-reading=\"きかい\" data-en=\"machine, equipment\"><ruby>機械<rt>きかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a machine or equipment."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのため、お客さんを乗せたまま、点検ができるようになりました。",
+      "ruby": "そのため、お<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>たまま、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>ができるようになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "So now it can inspect while still carrying passengers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "乗せる",
+      "ruby": "<span class=\"vw\" data-ja=\"乗せる\" data-reading=\"のせる\" data-en=\"to carry (passengers), to let ride\"><ruby>乗せ<rt>のせ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to carry passengers."
+    },
+    {
+      "speaker": "slow",
+      "text": "26日の朝、東京から博多に行く「のぞみ7号」に、ドクターSが使われました。",
+      "ruby": "26<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>博多<rt>はかた</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>「のぞみ7<ruby>号<rt>ごう</rt></ruby>」に、ドクターSが<ruby>使わ<rt>つかわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the twenty-sixth, Doctor S ran as an express from Tokyo bound for Hakata."
+    },
+    {
+      "speaker": "slow",
+      "text": "この列車は、午前8時25分に名古屋駅に着きました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"列車\" data-reading=\"れっしゃ\" data-en=\"train\"><ruby>列車<rt>れっしゃ</rt></ruby></span>は、<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>に<ruby>名古屋駅<rt>なごやえき</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The train arrived at Nagoya Station at eight twenty-five in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "列車",
+      "ruby": "<span class=\"vw\" data-ja=\"列車\" data-reading=\"れっしゃ\" data-en=\"train\"><ruby>列車<rt>れっしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a train."
+    },
+    {
+      "speaker": "slow",
+      "text": "レールを点検する車両と、架線を点検する車両が、2編成ずつ、全部で4編成あります。",
+      "ruby": "レールを<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>する<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>と、<ruby>架線<rt>かせん</rt></ruby>を<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>する<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が、2<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>ずつ、<ruby>全部<rt>ぜんぶ</rt></ruby>で4<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>あります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are two sets for rails and two for overhead wires, four sets in total."
+    },
+    {
+      "speaker": "vocab",
+      "text": "編成",
+      "ruby": "<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a train set."
+    },
+    {
+      "speaker": "slow",
+      "text": "実際の点検は、試験をしたあとで、来年の1月から始める予定です。",
+      "ruby": "<ruby>実際<rt>じっさい</rt></ruby>の<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>をしたあとで、<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Real inspections will start next January, after testing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試験",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a test or trial."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "車両には、黄色い「S」のロゴマークが20か所についています。",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>には、<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>「S」のロゴマークが20か<ruby>所<rt>しょ</rt></ruby>についています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The train has a yellow letter S logo in twenty places."
+    },
+    {
+      "speaker": "vocab",
+      "text": "黄色い",
+      "ruby": "<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means yellow."
+    },
+    {
+      "speaker": "slow",
+      "text": "黄色い「S」は、ドクターイエローの役割を受け継いだことを表しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>「S」は、ドクターイエローの<span class=\"vw\" data-ja=\"役割\" data-reading=\"やくわり\" data-en=\"role\"><ruby>役割<rt>やくわり</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby><ruby>継い<rt>つい</rt></ruby>だことを<ruby>表し<rt>あらわし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The yellow S shows it has inherited Doctor Yellow's role."
+    },
+    {
+      "speaker": "vocab",
+      "text": "役割",
+      "ruby": "<span class=\"vw\" data-ja=\"役割\" data-reading=\"やくわり\" data-en=\"role\"><ruby>役割<rt>やくわり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a role."
+    },
+    {
+      "speaker": "vocab",
+      "text": "受け継ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"受け継ぐ\" data-reading=\"うけつぐ\" data-en=\"to inherit, to carry on\"><ruby>受け継ぐ<rt>うけつぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to inherit or carry on."
+    },
+    {
+      "speaker": "slow",
+      "text": "乗ったお客さんは「見て幸せ、乗って幸せ」と話していました。",
+      "ruby": "<ruby>乗っ<rt>のっ</rt></ruby>たお<ruby>客<rt>きゃく</rt></ruby>さんは「<ruby>見て<rt>みて</rt></ruby><span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>、<ruby>乗って<rt>のって</rt></ruby><span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "One passenger said it is a joy to see, and a joy to ride."
+    },
+    {
+      "speaker": "vocab",
+      "text": "幸せ",
+      "ruby": "<span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means happy, or happiness."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東海は26日、新しい新幹線「ドクターS」の営業運転を始めました。",
+      "ruby": "JR<ruby>東海<rt>とうかい</rt></ruby>は26<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>「ドクターS」の<span class=\"vw\" data-ja=\"営業運転\" data-reading=\"えいぎょううんてん\" data-en=\"regular passenger service\"><ruby>営業運転<rt>えいぎょううんてん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドクターSは、「ドクターイエロー」の後を継ぐ車両です。",
+      "ruby": "ドクターSは、「ドクターイエロー」の<ruby>後<rt>あと</rt></ruby>を<span class=\"vw\" data-ja=\"継ぐ\" data-reading=\"つぐ\" data-en=\"to succeed, to take over\"><ruby>継ぐ<rt>つぐ</rt></ruby></span><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドクターイエローは、東海道・山陽新幹線で、線路や架線を点検してきました。",
+      "ruby": "ドクターイエローは、<ruby>東海道<rt>とうかいどう</rt></ruby>・<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>で、<span class=\"vw\" data-ja=\"線路\" data-reading=\"せんろ\" data-en=\"railway track\"><ruby>線路<rt>せんろ</rt></ruby></span>や<ruby>架線<rt>かせん</rt></ruby>を<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>してきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドクターSは、お客さんが乗るふつうの新幹線に、点検の機能をつけた車両です。",
+      "ruby": "ドクターSは、お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>乗る<rt>のる</rt></ruby>ふつうの<ruby>新幹線<rt>しんかんせん</rt></ruby>に、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"機能\" data-reading=\"きのう\" data-en=\"function, feature\"><ruby>機能<rt>きのう</rt></ruby></span>をつけた<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "AIを使って、点検の機械を小さくしました。",
+      "ruby": "AIを<ruby>使って<rt>つかって</rt></ruby>、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"機械\" data-reading=\"きかい\" data-en=\"machine, equipment\"><ruby>機械<rt>きかい</rt></ruby></span>を<ruby>小さく<rt>ちいさく</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、お客さんを乗せたまま、点検ができるようになりました。",
+      "ruby": "そのため、お<ruby>客<rt>きゃく</rt></ruby>さんを<ruby>乗せ<rt>のせ</rt></ruby>たまま、<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>ができるようになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "26日の朝、東京から博多に行く「のぞみ7号」に、ドクターSが使われました。",
+      "ruby": "26<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>博多<rt>はかた</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>「のぞみ7<ruby>号<rt>ごう</rt></ruby>」に、ドクターSが<ruby>使わ<rt>つかわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この列車は、午前8時25分に名古屋駅に着きました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"列車\" data-reading=\"れっしゃ\" data-en=\"train\"><ruby>列車<rt>れっしゃ</rt></ruby></span>は、<ruby>午前<rt>ごぜん</rt></ruby>8<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>に<ruby>名古屋駅<rt>なごやえき</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "レールを点検する車両と、架線を点検する車両が、2編成ずつ、全部で4編成あります。",
+      "ruby": "レールを<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>する<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>と、<ruby>架線<rt>かせん</rt></ruby>を<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>する<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が、2<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>ずつ、<ruby>全部<rt>ぜんぶ</rt></ruby>で4<span class=\"vw\" data-ja=\"編成\" data-reading=\"へんせい\" data-en=\"train set, formation\"><ruby>編成<rt>へんせい</rt></ruby></span>あります。"
+    },
+    {
+      "speaker": "news",
+      "text": "実際の点検は、試験をしたあとで、来年の1月から始める予定です。",
+      "ruby": "<ruby>実際<rt>じっさい</rt></ruby>の<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>は、<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"test, trial\"><ruby>試験<rt>しけん</rt></ruby></span>をしたあとで、<ruby>来年<rt>らいねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "車両には、黄色い「S」のロゴマークが20か所についています。",
+      "ruby": "<span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>には、<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>「S」のロゴマークが20か<ruby>所<rt>しょ</rt></ruby>についています。"
+    },
+    {
+      "speaker": "news",
+      "text": "黄色い「S」は、ドクターイエローの役割を受け継いだことを表しています。",
+      "ruby": "<span class=\"vw\" data-ja=\"黄色い\" data-reading=\"きいろい\" data-en=\"yellow\"><ruby>黄色い<rt>きいろい</rt></ruby></span>「S」は、ドクターイエローの<span class=\"vw\" data-ja=\"役割\" data-reading=\"やくわり\" data-en=\"role\"><ruby>役割<rt>やくわり</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby><ruby>継い<rt>つい</rt></ruby>だことを<ruby>表し<rt>あらわし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "乗ったお客さんは「見て幸せ、乗って幸せ」と話していました。",
+      "ruby": "<ruby>乗っ<rt>のっ</rt></ruby>たお<ruby>客<rt>きゃく</rt></ruby>さんは「<ruby>見て<rt>みて</rt></ruby><span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>、<ruby>乗って<rt>のって</rt></ruby><span class=\"vw\" data-ja=\"幸せ\" data-reading=\"しあわせ\" data-en=\"happy, happiness\"><ruby>幸せ<rt>しあわせ</rt></ruby></span>」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドクターSは、何の後を継ぐ車両ですか。",
+      "ruby": "ドクターSは、<ruby>何の<rt>なんの</rt></ruby><ruby>後<rt>あと</rt></ruby>を<span class=\"vw\" data-ja=\"継ぐ\" data-reading=\"つぐ\" data-en=\"to succeed, to take over\"><ruby>継ぐ<rt>つぐ</rt></ruby></span><span class=\"vw\" data-ja=\"車両\" data-reading=\"しゃりょう\" data-en=\"railway car, vehicle\"><ruby>車両<rt>しゃりょう</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Doctor Yellow."
+    },
+    {
+      "speaker": "slow",
+      "text": "のぞみ7号は、何時に名古屋駅に着きましたか。",
+      "ruby": "のぞみ7<ruby>号<rt>ごう</rt></ruby>は、<ruby>何時<rt>なんじ</rt></ruby>に<ruby>名古屋駅<rt>なごやえき</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At eight twenty-five in the morning."
+    },
+    {
+      "speaker": "slow",
+      "text": "実際の点検は、いつから始まりますか。",
+      "ruby": "<ruby>実際<rt>じっさい</rt></ruby>の<span class=\"vw\" data-ja=\"点検\" data-reading=\"てんけん\" data-en=\"inspection, check\"><ruby>点検<rt>てんけん</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next January."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
