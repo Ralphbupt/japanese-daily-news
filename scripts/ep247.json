@@ -1,0 +1,601 @@
+{
+  "episode": 247,
+  "title": "東京国際映画祭が開幕、大雨のレッドカーペット",
+  "date": "2026-10-27",
+  "source": "NHK / 映画.com / MOVIE WALKER PRESS",
+  "level": "N5-N4",
+  "contentVersion": "2026102701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "映画祭",
+      "reading": "えいがさい",
+      "en": "film festival",
+      "zh": "电影节"
+    },
+    {
+      "ja": "始まる",
+      "reading": "はじまる",
+      "en": "to start, to begin",
+      "zh": "开始"
+    },
+    {
+      "ja": "大きい",
+      "reading": "おおきい",
+      "en": "big",
+      "zh": "大的"
+    },
+    {
+      "ja": "39回目",
+      "reading": "さんじゅうきゅうかいめ",
+      "en": "the 39th time",
+      "zh": "第39届"
+    },
+    {
+      "ja": "開く",
+      "reading": "ひらく",
+      "en": "to hold (an event), to open",
+      "zh": "举办，打开"
+    },
+    {
+      "ja": "映画館",
+      "reading": "えいがかん",
+      "en": "movie theater",
+      "zh": "电影院"
+    },
+    {
+      "ja": "見られる",
+      "reading": "みられる",
+      "en": "can see, can watch",
+      "zh": "能看到"
+    },
+    {
+      "ja": "最初",
+      "reading": "さいしょ",
+      "en": "the first, the beginning",
+      "zh": "最初，第一个"
+    },
+    {
+      "ja": "夕方",
+      "reading": "ゆうがた",
+      "en": "early evening",
+      "zh": "傍晚"
+    },
+    {
+      "ja": "外国",
+      "reading": "がいこく",
+      "en": "foreign country, abroad",
+      "zh": "外国"
+    },
+    {
+      "ja": "俳優",
+      "reading": "はいゆう",
+      "en": "actor, actress",
+      "zh": "演员"
+    },
+    {
+      "ja": "監督",
+      "reading": "かんとく",
+      "en": "(film) director",
+      "zh": "导演"
+    },
+    {
+      "ja": "強い",
+      "reading": "つよい",
+      "en": "strong, heavy (rain)",
+      "zh": "强的，大的（雨）"
+    },
+    {
+      "ja": "恵みの雨",
+      "reading": "めぐみのあめ",
+      "en": "blessing rain, welcome rain",
+      "zh": "及时雨，恩惠之雨"
+    },
+    {
+      "ja": "上映",
+      "reading": "じょうえい",
+      "en": "screening (of a film)",
+      "zh": "上映"
+    },
+    {
+      "ja": "有名",
+      "reading": "ゆうめい",
+      "en": "famous",
+      "zh": "有名"
+    },
+    {
+      "ja": "歌",
+      "reading": "うた",
+      "en": "song",
+      "zh": "歌"
+    },
+    {
+      "ja": "作る",
+      "reading": "つくる",
+      "en": "to make, to create",
+      "zh": "制作，创作"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜の一つ",
+      "meaning": "one of ~",
+      "meaningZh": "……之一",
+      "formation": "Noun + の一つ",
+      "example": "この映画祭は、アジアでいちばん大きい映画祭の一つです。",
+      "translation": "This festival is one of the biggest film festivals in Asia.",
+      "note": "Used to say something is one member of a group, often with いちばん + adjective.",
+      "noteZh": "表示是某一类事物中的一个，常与「いちばん＋形容词」连用。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~",
+      "meaningZh": "到……为止",
+      "formation": "time + まで",
+      "example": "今年で39回目で、11月4日まで開かれます。",
+      "translation": "This year is the thirty-ninth time, and it will be held until November fourth.",
+      "note": "Marks the end point of a period of time.",
+      "noteZh": "表示时间的终点。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "〜にとって",
+      "meaning": "for ~, from the point of view of ~",
+      "meaningZh": "对……来说",
+      "formation": "Noun + にとって(は)",
+      "example": "俳優の中島健人さんは、「映画にとっては恵みの雨です」と話しました。",
+      "translation": "Actor Kento Nakajima said, for movies, this is a blessing rain.",
+      "note": "Shows whose point of view something is judged from.",
+      "noteZh": "表示从某人或某事物的立场来看。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "10月26日、東京で「東京国際映画祭」が始まりました。\n10月26日，“东京国际电影节”在东京开幕了。\n映画祭 = film festival / 始まる = to start, to begin",
+    "この映画祭は、アジアでいちばん大きい映画祭の一つです。\n这个电影节是亚洲最大的电影节之一。\n大きい = big",
+    "今年で39回目で、11月4日まで開かれます。\n今年是第39届，将举办到11月4日。\n39回目 = the 39th time / 開く = to hold (an event), to open",
+    "日比谷や銀座などの映画館で、204本の映画が見られます。\n在日比谷、银座等地的电影院，可以看到204部电影。\n映画館 = movie theater / 見られる = can see, can watch",
+    "最初の日の夕方、レッドカーペットのイベントがありました。\n第一天傍晚，举行了红毯活动。\n最初 = the first, the beginning / 夕方 = early evening",
+    "国内や外国から、およそ270人の俳優や監督が来ました。\n来自国内外的约270名演员和导演到场。\n外国 = foreign country, abroad / 俳優 = actor, actress / 監督 = (film) director",
+    "この日は、強い雨が降っていました。\n这一天下着大雨。\n強い = strong, heavy (rain)",
+    "俳優の中島健人さんは、「映画にとっては恵みの雨です」と話しました。\n演员中岛健人说：“对电影来说，这是恩惠之雨。”\n恵みの雨 = blessing rain, welcome rain",
+    "最初に上映される映画は、「スキヤキ　上を向いて歩こう」です。\n最先上映的电影是《SUKIYAKI 昂首向前走》。\n上映 = screening (of a film)",
+    "有名な歌「上を向いて歩こう」を作った人たちの話です。\n这是关于创作名曲《昂首向前走》的人们的故事。\n有名 = famous / 歌 = song"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-seventh. Asia's big film festival opened in Tokyo, in heavy rain. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月26日、東京で「東京国際映画祭」が始まりました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で「<ruby>東京国際<rt>とうきょうこくさい</rt></ruby><span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>」が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この映画祭は、アジアでいちばん大きい映画祭の一つです。",
+      "ruby": "この<span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>は、アジアでいちばん<span class=\"vw\" data-ja=\"大きい\" data-reading=\"おおきい\" data-en=\"big\"><ruby>大きい<rt>おおきい</rt></ruby></span><span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年で39回目で、11月4日まで開かれます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>で<span class=\"vw\" data-ja=\"39回目\" data-reading=\"さんじゅうきゅうかいめ\" data-en=\"the 39th time\">39<ruby>回目<rt>かいめ</rt></ruby></span>で、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日比谷や銀座などの映画館で、204本の映画が見られます。",
+      "ruby": "<ruby>日比谷<rt>ひびや</rt></ruby>や<ruby>銀座<rt>ぎんざ</rt></ruby>などの<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>で、204<ruby>本<rt>ほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の日の夕方、レッドカーペットのイベントがありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>、レッドカーペットのイベントがありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内や外国から、およそ270人の俳優や監督が来ました。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>や<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country, abroad\"><ruby>外国<rt>がいこく</rt></ruby></span>から、およそ270<ruby>人<rt>にん</rt></ruby>の<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>や<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"(film) director\"><ruby>監督<rt>かんとく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は、強い雨が降っていました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は、<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong, heavy (rain)\"><ruby>強い<rt>つよい</rt></ruby></span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "俳優の中島健人さんは、「映画にとっては恵みの雨です」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>の<ruby>中島<rt>なかじま</rt></ruby><ruby>健人<rt>けんと</rt></ruby>さんは、「<ruby>映画<rt>えいが</rt></ruby>にとっては<span class=\"vw\" data-ja=\"恵みの雨\" data-reading=\"めぐみのあめ\" data-en=\"blessing rain, welcome rain\"><ruby>恵み<rt>めぐみ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初に上映される映画は、「スキヤキ　上を向いて歩こう」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>に<span class=\"vw\" data-ja=\"上映\" data-reading=\"じょうえい\" data-en=\"screening (of a film)\"><ruby>上映<rt>じょうえい</rt></ruby></span>される<ruby>映画<rt>えいが</rt></ruby>は、「スキヤキ　<ruby>上<rt>うえ</rt></ruby>を<ruby>向い<rt>むい</rt></ruby>て<ruby>歩こ<rt>あるこ</rt></ruby>う」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "有名な歌「上を向いて歩こう」を作った人たちの話です。",
+      "ruby": "<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"歌\" data-reading=\"うた\" data-en=\"song\"><ruby>歌<rt>うた</rt></ruby></span>「<ruby>上<rt>うえ</rt></ruby>を<ruby>向い<rt>むい</rt></ruby>て<ruby>歩こ<rt>あるこ</rt></ruby>う」を<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちの<ruby>話<rt>はなし</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月26日、東京で「東京国際映画祭」が始まりました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で「<ruby>東京国際<rt>とうきょうこくさい</rt></ruby><span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>」が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October twenty-sixth, the Tokyo International Film Festival started in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "映画祭",
+      "ruby": "<span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a film festival. The first part means movie, and the second part means festival."
+    },
+    {
+      "speaker": "vocab",
+      "text": "始まる",
+      "ruby": "<span class=\"vw\" data-ja=\"始まる\" data-reading=\"はじまる\" data-en=\"to start, to begin\"><ruby>始ま<rt>はじま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to start or begin."
+    },
+    {
+      "speaker": "slow",
+      "text": "この映画祭は、アジアでいちばん大きい映画祭の一つです。",
+      "ruby": "この<span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>は、アジアでいちばん<span class=\"vw\" data-ja=\"大きい\" data-reading=\"おおきい\" data-en=\"big\"><ruby>大きい<rt>おおきい</rt></ruby></span><span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This festival is one of the biggest film festivals in Asia."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大きい",
+      "ruby": "<span class=\"vw\" data-ja=\"大きい\" data-reading=\"おおきい\" data-en=\"big\"><ruby>大きい<rt>おおきい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means big."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年で39回目で、11月4日まで開かれます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>で<span class=\"vw\" data-ja=\"39回目\" data-reading=\"さんじゅうきゅうかいめ\" data-en=\"the 39th time\">39<ruby>回目<rt>かいめ</rt></ruby></span>で、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year is the thirty-ninth time, and it will be held until November fourth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "39回目",
+      "ruby": "<span class=\"vw\" data-ja=\"39回目\" data-reading=\"さんじゅうきゅうかいめ\" data-en=\"the 39th time\">39<ruby>回目<rt>かいめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "With a number, it means the thirty-ninth time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to hold (an event), to open\"><ruby>開く<rt>ひらく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hold an event. Here it is passive, will be held."
+    },
+    {
+      "speaker": "slow",
+      "text": "日比谷や銀座などの映画館で、204本の映画が見られます。",
+      "ruby": "<ruby>日比谷<rt>ひびや</rt></ruby>や<ruby>銀座<rt>ぎんざ</rt></ruby>などの<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>で、204<ruby>本<rt>ほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "At movie theaters in areas like Hibiya and Ginza, people can see two hundred four films."
+    },
+    {
+      "speaker": "vocab",
+      "text": "映画館",
+      "ruby": "<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a movie theater."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見られる",
+      "ruby": "<span class=\"vw\" data-ja=\"見られる\" data-reading=\"みられる\" data-en=\"can see, can watch\"><ruby>見ら<rt>みら</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means can see, or can watch."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の日の夕方、レッドカーペットのイベントがありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>、レッドカーペットのイベントがありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the evening of the first day, there was a red carpet event."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最初",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first, or the beginning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夕方",
+      "ruby": "<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means early evening, around sunset."
+    },
+    {
+      "speaker": "slow",
+      "text": "国内や外国から、およそ270人の俳優や監督が来ました。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>や<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country, abroad\"><ruby>外国<rt>がいこく</rt></ruby></span>から、およそ270<ruby>人<rt>にん</rt></ruby>の<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>や<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"(film) director\"><ruby>監督<rt>かんとく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two hundred seventy actors and directors came, from Japan and from abroad."
+    },
+    {
+      "speaker": "vocab",
+      "text": "外国",
+      "ruby": "<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country, abroad\"><ruby>外国<rt>がいこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means foreign countries, abroad."
+    },
+    {
+      "speaker": "vocab",
+      "text": "俳優",
+      "ruby": "<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an actor or actress."
+    },
+    {
+      "speaker": "vocab",
+      "text": "監督",
+      "ruby": "<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"(film) director\"><ruby>監督<rt>かんとく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a film director."
+    },
+    {
+      "speaker": "slow",
+      "text": "この日は、強い雨が降っていました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は、<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong, heavy (rain)\"><ruby>強い<rt>つよい</rt></ruby></span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On this day, it was raining hard."
+    },
+    {
+      "speaker": "vocab",
+      "text": "強い",
+      "ruby": "<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong, heavy (rain)\"><ruby>強い<rt>つよい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means strong. With rain, it means heavy rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "俳優の中島健人さんは、「映画にとっては恵みの雨です」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>の<ruby>中島<rt>なかじま</rt></ruby><ruby>健人<rt>けんと</rt></ruby>さんは、「<ruby>映画<rt>えいが</rt></ruby>にとっては<span class=\"vw\" data-ja=\"恵みの雨\" data-reading=\"めぐみのあめ\" data-en=\"blessing rain, welcome rain\"><ruby>恵み<rt>めぐみ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Actor Kento Nakajima said, for movies, this is a blessing rain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "恵みの雨",
+      "ruby": "<span class=\"vw\" data-ja=\"恵みの雨\" data-reading=\"めぐみのあめ\" data-en=\"blessing rain, welcome rain\"><ruby>恵み<rt>めぐみ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a blessing rain, rain that brings good things."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初に上映される映画は、「スキヤキ　上を向いて歩こう」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>に<span class=\"vw\" data-ja=\"上映\" data-reading=\"じょうえい\" data-en=\"screening (of a film)\"><ruby>上映<rt>じょうえい</rt></ruby></span>される<ruby>映画<rt>えいが</rt></ruby>は、「スキヤキ　<ruby>上<rt>うえ</rt></ruby>を<ruby>向い<rt>むい</rt></ruby>て<ruby>歩こ<rt>あるこ</rt></ruby>う」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first film to be shown is a movie about a famous song."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上映",
+      "ruby": "<span class=\"vw\" data-ja=\"上映\" data-reading=\"じょうえい\" data-en=\"screening (of a film)\"><ruby>上映<rt>じょうえい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means showing a film on a screen."
+    },
+    {
+      "speaker": "slow",
+      "text": "有名な歌「上を向いて歩こう」を作った人たちの話です。",
+      "ruby": "<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"歌\" data-reading=\"うた\" data-en=\"song\"><ruby>歌<rt>うた</rt></ruby></span>「<ruby>上<rt>うえ</rt></ruby>を<ruby>向い<rt>むい</rt></ruby>て<ruby>歩こ<rt>あるこ</rt></ruby>う」を<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちの<ruby>話<rt>はなし</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a story about the people who made the famous song."
+    },
+    {
+      "speaker": "vocab",
+      "text": "有名",
+      "ruby": "<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means famous."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歌",
+      "ruby": "<span class=\"vw\" data-ja=\"歌\" data-reading=\"うた\" data-en=\"song\"><ruby>歌<rt>うた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a song."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月26日、東京で「東京国際映画祭」が始まりました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で「<ruby>東京国際<rt>とうきょうこくさい</rt></ruby><span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>」が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この映画祭は、アジアでいちばん大きい映画祭の一つです。",
+      "ruby": "この<span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>は、アジアでいちばん<span class=\"vw\" data-ja=\"大きい\" data-reading=\"おおきい\" data-en=\"big\"><ruby>大きい<rt>おおきい</rt></ruby></span><span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年で39回目で、11月4日まで開かれます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>で<span class=\"vw\" data-ja=\"39回目\" data-reading=\"さんじゅうきゅうかいめ\" data-en=\"the 39th time\">39<ruby>回目<rt>かいめ</rt></ruby></span>で、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "日比谷や銀座などの映画館で、204本の映画が見られます。",
+      "ruby": "<ruby>日比谷<rt>ひびや</rt></ruby>や<ruby>銀座<rt>ぎんざ</rt></ruby>などの<span class=\"vw\" data-ja=\"映画館\" data-reading=\"えいがかん\" data-en=\"movie theater\"><ruby>映画館<rt>えいがかん</rt></ruby></span>で、204<ruby>本<rt>ほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の日の夕方、レッドカーペットのイベントがありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>の<span class=\"vw\" data-ja=\"夕方\" data-reading=\"ゆうがた\" data-en=\"early evening\"><ruby>夕方<rt>ゆうがた</rt></ruby></span>、レッドカーペットのイベントがありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内や外国から、およそ270人の俳優や監督が来ました。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>や<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country, abroad\"><ruby>外国<rt>がいこく</rt></ruby></span>から、およそ270<ruby>人<rt>にん</rt></ruby>の<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>や<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"(film) director\"><ruby>監督<rt>かんとく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日は、強い雨が降っていました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>は、<span class=\"vw\" data-ja=\"強い\" data-reading=\"つよい\" data-en=\"strong, heavy (rain)\"><ruby>強い<rt>つよい</rt></ruby></span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "俳優の中島健人さんは、「映画にとっては恵みの雨です」と話しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>の<ruby>中島<rt>なかじま</rt></ruby><ruby>健人<rt>けんと</rt></ruby>さんは、「<ruby>映画<rt>えいが</rt></ruby>にとっては<span class=\"vw\" data-ja=\"恵みの雨\" data-reading=\"めぐみのあめ\" data-en=\"blessing rain, welcome rain\"><ruby>恵み<rt>めぐみ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初に上映される映画は、「スキヤキ　上を向いて歩こう」です。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"the first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>に<span class=\"vw\" data-ja=\"上映\" data-reading=\"じょうえい\" data-en=\"screening (of a film)\"><ruby>上映<rt>じょうえい</rt></ruby></span>される<ruby>映画<rt>えいが</rt></ruby>は、「スキヤキ　<ruby>上<rt>うえ</rt></ruby>を<ruby>向い<rt>むい</rt></ruby>て<ruby>歩こ<rt>あるこ</rt></ruby>う」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "有名な歌「上を向いて歩こう」を作った人たちの話です。",
+      "ruby": "<span class=\"vw\" data-ja=\"有名\" data-reading=\"ゆうめい\" data-en=\"famous\"><ruby>有名<rt>ゆうめい</rt></ruby></span>な<span class=\"vw\" data-ja=\"歌\" data-reading=\"うた\" data-en=\"song\"><ruby>歌<rt>うた</rt></ruby></span>「<ruby>上<rt>うえ</rt></ruby>を<ruby>向い<rt>むい</rt></ruby>て<ruby>歩こ<rt>あるこ</rt></ruby>う」を<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちの<ruby>話<rt>はなし</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "映画祭は、何日まで開かれますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"映画祭\" data-reading=\"えいがさい\" data-en=\"film festival\"><ruby>映画祭<rt>えいがさい</rt></ruby></span>は、<ruby>何日<rt>なんにち</rt></ruby>まで<ruby>開か<rt>ひらか</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until November fourth."
+    },
+    {
+      "speaker": "slow",
+      "text": "映画は、何本見られますか。",
+      "ruby": "<ruby>映画<rt>えいが</rt></ruby>は、<ruby>何本<rt>なんぼん</rt></ruby><ruby>見ら<rt>みら</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two hundred four films."
+    },
+    {
+      "speaker": "slow",
+      "text": "およそ何人の俳優や監督が来ましたか。",
+      "ruby": "およそ<ruby>何人<rt>なんにん</rt></ruby>の<span class=\"vw\" data-ja=\"俳優\" data-reading=\"はいゆう\" data-en=\"actor, actress\"><ruby>俳優<rt>はいゆう</rt></ruby></span>や<span class=\"vw\" data-ja=\"監督\" data-reading=\"かんとく\" data-en=\"(film) director\"><ruby>監督<rt>かんとく</rt></ruby></span>が<ruby>来ま<rt>きま</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two hundred seventy."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
