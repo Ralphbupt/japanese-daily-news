@@ -1,0 +1,571 @@
+{
+  "episode": 249,
+  "title": "「ポケモンユナイト」、来年3月にサービス終了へ",
+  "date": "2026-10-28",
+  "source": "Pokémon UNITE 公式サイト / GIGAZINE",
+  "level": "N5-N4",
+  "contentVersion": "2026102801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popular; popularity",
+      "zh": "人气，受欢迎"
+    },
+    {
+      "ja": "終わる",
+      "reading": "おわる",
+      "en": "to end, to finish",
+      "zh": "结束"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement",
+      "zh": "发表，宣布"
+    },
+    {
+      "ja": "来年",
+      "reading": "らいねん",
+      "en": "next year",
+      "zh": "明年"
+    },
+    {
+      "ja": "戦う",
+      "reading": "たたかう",
+      "en": "to fight, to battle",
+      "zh": "战斗，对战"
+    },
+    {
+      "ja": "遊ぶ",
+      "reading": "あそぶ",
+      "en": "to play",
+      "zh": "玩"
+    },
+    {
+      "ja": "使う",
+      "reading": "つかう",
+      "en": "to use",
+      "zh": "使用"
+    },
+    {
+      "ja": "買う",
+      "reading": "かう",
+      "en": "to buy",
+      "zh": "买"
+    },
+    {
+      "ja": "お金",
+      "reading": "おかね",
+      "en": "money",
+      "zh": "钱"
+    },
+    {
+      "ja": "消さないで",
+      "reading": "けさないで",
+      "en": "please don't delete",
+      "zh": "请不要删除"
+    },
+    {
+      "ja": "特別",
+      "reading": "とくべつ",
+      "en": "special",
+      "zh": "特别"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "今まで",
+      "reading": "いままで",
+      "en": "until now",
+      "zh": "到现在为止"
+    },
+    {
+      "ja": "記録",
+      "reading": "きろく",
+      "en": "record",
+      "zh": "记录"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "Verb (dictionary form) + ことができる",
+      "example": "サービスが終わった後も、今までの記録を見ることができます。",
+      "translation": "Even after the service ends, players can see their records until now.",
+      "note": "A polite way to say something is possible. The negative is ことができません.",
+      "noteZh": "表示能够做某事。否定形式是「ことができません」。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜ないでください",
+      "meaning": "please don't ~",
+      "meaningZh": "请不要……",
+      "formation": "Verb (ない form) + でください",
+      "example": "ゲームを消さないでください。",
+      "translation": "Please don't delete the game.",
+      "note": "A polite request asking someone not to do something.",
+      "noteZh": "礼貌地请求对方不要做某事。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……，将会……",
+      "formation": "Verb (dictionary form) + ことになる",
+      "example": "ポケモンユナイトのサービスが、終わることになりました。",
+      "translation": "It has been decided that the Pokemon Unite service will end.",
+      "note": "Used when something is decided by others or by circumstances, not by the speaker.",
+      "noteZh": "表示由他人或情况决定的事情，而不是说话人自己决定的。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜た後",
+      "meaning": "after ~",
+      "meaningZh": "……之后",
+      "formation": "Verb (た form) + 後",
+      "example": "サービスが終わった後、お金が返ってきます。",
+      "translation": "After the service ends, the money will come back.",
+      "note": "Shows that one thing happens after another.",
+      "noteZh": "表示在某件事发生之后。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "人気のゲーム「ポケモンユナイト」のサービスが、終わることになりました。\n人气游戏《宝可梦大集结》的服务将要结束了。\n人気 = popular; popularity / 終わる = to end, to finish",
+    "10月27日、ゲームのホームページで発表がありました。\n10月27日，游戏官网发布了这一消息。\n発表 = announcement",
+    "サービスが終わるのは、来年の3月23日です。\n服务结束的日期是明年3月23日。\n来年 = next year",
+    "ポケモンユナイトは、5人と5人のチームで戦うゲームです。\n《宝可梦大集结》是5人对5人的团队对战游戏。\n戦う = to fight, to battle",
+    "2021年に始まって、スイッチやスマートフォンで遊ぶことができました。\n这款游戏2021年开始运营，可以在Switch和智能手机上玩。\n遊ぶ = to play",
+    "27日から、ゲームの中で使う「ジェム」は、もう買うことができません。\n从27日起，已经不能再购买游戏里使用的“宝石”了。\n使う = to use / 買う = to buy",
+    "お金で買って使わなかったジェムは、サービスが終わった後、お金が返ってきます。\n用钱购买但没有使用的宝石，在服务结束后会退款。\nお金 = money",
+    "そのために、ゲームを消さないでくださいと言っています。\n为此，官方提醒玩家不要删除游戏。\n消さないで = please don't delete",
+    "11月12日には、特別なイベントなどがある予定です。\n11月12日预定会有特别活动等。\n特別 = special / 予定 = plan, schedule",
+    "サービスが終わった後も、今までの記録を見ることができます。\n服务结束后，也可以查看到目前为止的记录。\n今まで = until now / 記録 = record"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-eighth. A popular Pokemon game is going to end next spring. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "人気のゲーム「ポケモンユナイト」のサービスが、終わることになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>のゲーム「ポケモンユナイト」のサービスが、<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>ることになりました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月27日、ゲームのホームページで発表がありました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>、ゲームのホームページで<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "サービスが終わるのは、来年の3月23日です。",
+      "ruby": "サービスが<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>るのは</span>、<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の3<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ポケモンユナイトは、5人と5人のチームで戦うゲームです。",
+      "ruby": "ポケモンユナイトは、5<ruby>人<rt>にん</rt></ruby>と5<ruby>人<rt>にん</rt></ruby>のチームで<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to battle\"><ruby>戦う<rt>たたかう</rt></ruby></span>ゲームです。"
+    },
+    {
+      "speaker": "news",
+      "text": "2021年に始まって、スイッチやスマートフォンで遊ぶことができました。",
+      "ruby": "2021<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、スイッチやスマートフォンで<span class=\"vw\" data-ja=\"遊ぶ\" data-reading=\"あそぶ\" data-en=\"to play\"><ruby>遊ぶ<rt>あそぶ</rt></ruby></span>ことができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "27日から、ゲームの中で使う「ジェム」は、もう買うことができません。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>から、ゲームの<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>「ジェム」は、もう<span class=\"vw\" data-ja=\"買う\" data-reading=\"かう\" data-en=\"to buy\"><ruby>買う<rt>かう</rt></ruby></span>ことができません。"
+    },
+    {
+      "speaker": "news",
+      "text": "お金で買って使わなかったジェムは、サービスが終わった後、お金が返ってきます。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>で<ruby>買っ<rt>かっ</rt></ruby>て<ruby>使わ<rt>つかわ</rt></ruby>なかったジェムは、サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>、<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>が<ruby>返っ<rt>かえっ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのために、ゲームを消さないでくださいと言っています。",
+      "ruby": "そのために、ゲームを<span class=\"vw\" data-ja=\"消さないで\" data-reading=\"けさないで\" data-en=\"please don't delete\"><ruby>消さ<rt>けさ</rt></ruby>ないでくださいと</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月12日には、特別なイベントなどがある予定です。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>には、<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントなどがある<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "サービスが終わった後も、今までの記録を見ることができます。",
+      "ruby": "サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>も、<span class=\"vw\" data-ja=\"今まで\" data-reading=\"いままで\" data-en=\"until now\"><ruby>今まで<rt>いままで</rt></ruby></span>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "人気のゲーム「ポケモンユナイト」のサービスが、終わることになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>のゲーム「ポケモンユナイト」のサービスが、<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>ることになりました</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The service of the popular game Pokemon Unite is going to end."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popular, or popularity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "終わる",
+      "ruby": "<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to end. The ending here means it has been decided."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月27日、ゲームのホームページで発表がありました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>、ゲームのホームページで<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October twenty-seventh, it was announced on the game's homepage."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement."
+    },
+    {
+      "speaker": "slow",
+      "text": "サービスが終わるのは、来年の3月23日です。",
+      "ruby": "サービスが<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>るのは</span>、<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の3<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The service will end on March twenty-third next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "来年",
+      "ruby": "<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "ポケモンユナイトは、5人と5人のチームで戦うゲームです。",
+      "ruby": "ポケモンユナイトは、5<ruby>人<rt>にん</rt></ruby>と5<ruby>人<rt>にん</rt></ruby>のチームで<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to battle\"><ruby>戦う<rt>たたかう</rt></ruby></span>ゲームです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Pokemon Unite is a game where two teams of five people battle."
+    },
+    {
+      "speaker": "vocab",
+      "text": "戦う",
+      "ruby": "<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to battle\"><ruby>戦う<rt>たたかう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fight, or to battle."
+    },
+    {
+      "speaker": "slow",
+      "text": "2021年に始まって、スイッチやスマートフォンで遊ぶことができました。",
+      "ruby": "2021<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、スイッチやスマートフォンで<span class=\"vw\" data-ja=\"遊ぶ\" data-reading=\"あそぶ\" data-en=\"to play\"><ruby>遊ぶ<rt>あそぶ</rt></ruby></span>ことができました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It started in twenty twenty-one, and people could play it on the Switch and on smartphones."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遊ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"遊ぶ\" data-reading=\"あそぶ\" data-en=\"to play\"><ruby>遊ぶ<rt>あそぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to play. With the ending here, it means people could play."
+    },
+    {
+      "speaker": "slow",
+      "text": "27日から、ゲームの中で使う「ジェム」は、もう買うことができません。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>から、ゲームの<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>「ジェム」は、もう<span class=\"vw\" data-ja=\"買う\" data-reading=\"かう\" data-en=\"to buy\"><ruby>買う<rt>かう</rt></ruby></span>ことができません。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twenty-seventh, people can no longer buy gems, which are used inside the game."
+    },
+    {
+      "speaker": "vocab",
+      "text": "使う",
+      "ruby": "<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to use."
+    },
+    {
+      "speaker": "vocab",
+      "text": "買う",
+      "ruby": "<span class=\"vw\" data-ja=\"買う\" data-reading=\"かう\" data-en=\"to buy\"><ruby>買う<rt>かう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to buy."
+    },
+    {
+      "speaker": "slow",
+      "text": "お金で買って使わなかったジェムは、サービスが終わった後、お金が返ってきます。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>で<ruby>買っ<rt>かっ</rt></ruby>て<ruby>使わ<rt>つかわ</rt></ruby>なかったジェムは、サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>、<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>が<ruby>返っ<rt>かえっ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "host",
+      "text": "For gems that were bought with money and not used, the money will come back after the service ends."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お金",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means money."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのために、ゲームを消さないでくださいと言っています。",
+      "ruby": "そのために、ゲームを<span class=\"vw\" data-ja=\"消さないで\" data-reading=\"けさないで\" data-en=\"please don't delete\"><ruby>消さ<rt>けさ</rt></ruby>ないでくださいと</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "For that, they are asking players not to delete the game."
+    },
+    {
+      "speaker": "vocab",
+      "text": "消さないで",
+      "ruby": "<span class=\"vw\" data-ja=\"消さないで\" data-reading=\"けさないで\" data-en=\"please don't delete\"><ruby>消さ<rt>けさ</rt></ruby>ないで</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means please don't delete it."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月12日には、特別なイベントなどがある予定です。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>には、<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントなどがある<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November twelfth, special events and more are planned."
+    },
+    {
+      "speaker": "vocab",
+      "text": "特別",
+      "ruby": "<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means special."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or a schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "サービスが終わった後も、今までの記録を見ることができます。",
+      "ruby": "サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>も、<span class=\"vw\" data-ja=\"今まで\" data-reading=\"いままで\" data-en=\"until now\"><ruby>今まで<rt>いままで</rt></ruby></span>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even after the service ends, players can see their records until now."
+    },
+    {
+      "speaker": "vocab",
+      "text": "今まで",
+      "ruby": "<span class=\"vw\" data-ja=\"今まで\" data-reading=\"いままで\" data-en=\"until now\"><ruby>今まで<rt>いままで</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means until now."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記録",
+      "ruby": "<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a record."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "人気のゲーム「ポケモンユナイト」のサービスが、終わることになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popular; popularity\"><ruby>人気<rt>にんき</rt></ruby></span>のゲーム「ポケモンユナイト」のサービスが、<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>ることになりました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月27日、ゲームのホームページで発表がありました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>、ゲームのホームページで<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "サービスが終わるのは、来年の3月23日です。",
+      "ruby": "サービスが<span class=\"vw\" data-ja=\"終わる\" data-reading=\"おわる\" data-en=\"to end, to finish\"><ruby>終わ<rt>おわ</rt></ruby>るのは</span>、<span class=\"vw\" data-ja=\"来年\" data-reading=\"らいねん\" data-en=\"next year\"><ruby>来年<rt>らいねん</rt></ruby></span>の3<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "ポケモンユナイトは、5人と5人のチームで戦うゲームです。",
+      "ruby": "ポケモンユナイトは、5<ruby>人<rt>にん</rt></ruby>と5<ruby>人<rt>にん</rt></ruby>のチームで<span class=\"vw\" data-ja=\"戦う\" data-reading=\"たたかう\" data-en=\"to fight, to battle\"><ruby>戦う<rt>たたかう</rt></ruby></span>ゲームです。"
+    },
+    {
+      "speaker": "news",
+      "text": "2021年に始まって、スイッチやスマートフォンで遊ぶことができました。",
+      "ruby": "2021<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、スイッチやスマートフォンで<span class=\"vw\" data-ja=\"遊ぶ\" data-reading=\"あそぶ\" data-en=\"to play\"><ruby>遊ぶ<rt>あそぶ</rt></ruby></span>ことができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "27日から、ゲームの中で使う「ジェム」は、もう買うことができません。",
+      "ruby": "27<ruby>日<rt>にち</rt></ruby>から、ゲームの<ruby>中<rt>なか</rt></ruby>で<span class=\"vw\" data-ja=\"使う\" data-reading=\"つかう\" data-en=\"to use\"><ruby>使う<rt>つかう</rt></ruby></span>「ジェム」は、もう<span class=\"vw\" data-ja=\"買う\" data-reading=\"かう\" data-en=\"to buy\"><ruby>買う<rt>かう</rt></ruby></span>ことができません。"
+    },
+    {
+      "speaker": "news",
+      "text": "お金で買って使わなかったジェムは、サービスが終わった後、お金が返ってきます。",
+      "ruby": "<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>で<ruby>買っ<rt>かっ</rt></ruby>て<ruby>使わ<rt>つかわ</rt></ruby>なかったジェムは、サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>、<span class=\"vw\" data-ja=\"お金\" data-reading=\"おかね\" data-en=\"money\">お<ruby>金<rt>かね</rt></ruby></span>が<ruby>返っ<rt>かえっ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのために、ゲームを消さないでくださいと言っています。",
+      "ruby": "そのために、ゲームを<span class=\"vw\" data-ja=\"消さないで\" data-reading=\"けさないで\" data-en=\"please don't delete\"><ruby>消さ<rt>けさ</rt></ruby>ないでくださいと</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月12日には、特別なイベントなどがある予定です。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>には、<span class=\"vw\" data-ja=\"特別\" data-reading=\"とくべつ\" data-en=\"special\"><ruby>特別<rt>とくべつ</rt></ruby></span>なイベントなどがある<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "サービスが終わった後も、今までの記録を見ることができます。",
+      "ruby": "サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>も、<span class=\"vw\" data-ja=\"今まで\" data-reading=\"いままで\" data-en=\"until now\"><ruby>今まで<rt>いままで</rt></ruby></span>の<span class=\"vw\" data-ja=\"記録\" data-reading=\"きろく\" data-en=\"record\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "サービスは、いつ終わりますか。",
+      "ruby": "サービスは、いつ<ruby>終わり<rt>おわり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On March twenty-third next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "何人と何人のチームで戦いますか。",
+      "ruby": "<ruby>何人<rt>なんにん</rt></ruby>と<ruby>何人<rt>なんにん</rt></ruby>のチームで<ruby>戦い<rt>たたかい</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five people against five people."
+    },
+    {
+      "speaker": "slow",
+      "text": "ジェムは、いつから買うことができませんか。",
+      "ruby": "ジェムは、いつから<span class=\"vw\" data-ja=\"買う\" data-reading=\"かう\" data-en=\"to buy\"><ruby>買う<rt>かう</rt></ruby></span>ことができませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From October twenty-seventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "サービスが終わった後、何を見ることができますか。",
+      "ruby": "サービスが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>、<ruby>何を<rt>なにを</rt></ruby><ruby>見る<rt>みる</rt></ruby>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Their records until now."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
