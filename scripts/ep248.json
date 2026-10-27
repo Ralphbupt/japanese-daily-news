@@ -1,0 +1,658 @@
+{
+  "episode": 248,
+  "title": "「あしたのジョー」の漫画家、ちばてつやさん死去",
+  "date": "2026-10-27",
+  "source": "NHK / 時事通信 / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026102701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "知られる",
+      "reading": "しられる",
+      "en": "to be known (for)",
+      "zh": "以……闻名，被人知道"
+    },
+    {
+      "ja": "亡くなる",
+      "reading": "なくなる",
+      "en": "to pass away",
+      "zh": "去世"
+    },
+    {
+      "ja": "87歳",
+      "reading": "はちじゅうななさい",
+      "en": "87 years old",
+      "zh": "87岁"
+    },
+    {
+      "ja": "病院",
+      "reading": "びょういん",
+      "en": "hospital",
+      "zh": "医院"
+    },
+    {
+      "ja": "過ごす",
+      "reading": "すごす",
+      "en": "to spend (time)",
+      "zh": "度过"
+    },
+    {
+      "ja": "戦争",
+      "reading": "せんそう",
+      "en": "war",
+      "zh": "战争"
+    },
+    {
+      "ja": "漫画家",
+      "reading": "まんがか",
+      "en": "manga artist",
+      "zh": "漫画家"
+    },
+    {
+      "ja": "かき始める",
+      "reading": "かきはじめる",
+      "en": "to start drawing",
+      "zh": "开始画"
+    },
+    {
+      "ja": "大人気",
+      "reading": "だいにんき",
+      "en": "hugely popular",
+      "zh": "非常受欢迎"
+    },
+    {
+      "ja": "お葬式",
+      "reading": "おそうしき",
+      "en": "funeral",
+      "zh": "葬礼"
+    },
+    {
+      "ja": "相撲",
+      "reading": "すもう",
+      "en": "sumo wrestling",
+      "zh": "相扑"
+    },
+    {
+      "ja": "務める",
+      "reading": "つとめる",
+      "en": "to serve (in a role)",
+      "zh": "担任"
+    },
+    {
+      "ja": "教える",
+      "reading": "おしえる",
+      "en": "to teach",
+      "zh": "教"
+    },
+    {
+      "ja": "文化勲章",
+      "reading": "ぶんかくんしょう",
+      "en": "Order of Culture",
+      "zh": "文化勋章"
+    },
+    {
+      "ja": "続ける",
+      "reading": "つづける",
+      "en": "to continue",
+      "zh": "继续"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜で知られる",
+      "meaning": "known for ~",
+      "meaningZh": "以……闻名",
+      "formation": "Noun + で知られる",
+      "example": "漫画「あしたのジョー」で知られる、漫画家のちばてつやさんが亡くなりました。",
+      "translation": "Manga artist Tetsuya Chiba, known for the manga about Joe, has died.",
+      "note": "Passive of 知る; describes what a person or place is famous for.",
+      "noteZh": "「知る」的被动形，表示某人或某地因什么而出名。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as ~ (in the role of)",
+      "meaningZh": "作为……",
+      "formation": "Noun + として",
+      "example": "17歳のときに、漫画家としてデビューしました。",
+      "translation": "At seventeen, he debuted as a manga artist.",
+      "note": "Shows the role, position, or capacity in which someone acts.",
+      "noteZh": "表示身份、立场或资格。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/"
+    },
+    {
+      "pattern": "〜始める",
+      "meaning": "to start doing ~",
+      "meaningZh": "开始……",
+      "formation": "verb ます-stem + 始める",
+      "example": "1968年から、ボクシングの漫画「あしたのジョー」をかき始めました。",
+      "translation": "From 1968, he began drawing the boxing manga.",
+      "note": "Attach to the ます-stem to mark the beginning of an action.",
+      "noteZh": "接在动词ます形词干后，表示动作的开始。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜こともする",
+      "meaning": "also do ~ (sometimes)",
+      "meaningZh": "也做过……",
+      "formation": "verb dictionary form + こともする",
+      "example": "大学で、若い人たちに漫画を教えることもしました。",
+      "translation": "He also taught manga to young people at a university.",
+      "note": "Adds another activity alongside the main ones.",
+      "noteZh": "在主要活动之外，补充说明还做过的事情。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "漫画「あしたのジョー」で知られる、漫画家のちばてつやさんが亡くなりました。\n以漫画《明日之丈》闻名的漫画家千叶彻弥去世了。\n知られる = to be known (for) / 亡くなる = to pass away",
+    "87歳でした。\n享年87岁。\n87歳 = 87 years old",
+    "ちばさんは、10月22日に、東京の病院で亡くなりました。\n千叶先生于10月22日在东京的医院去世。\n病院 = hospital",
+    "ちばさんは1939年に東京で生まれ、子どものころを中国の東北部で過ごしました。\n千叶先生1939年出生于东京，童年是在中国东北度过的。\n過ごす = to spend (time)",
+    "戦争が終わった次の年、1946年に、日本に帰ってきました。\n战争结束后的第二年，也就是1946年，他回到了日本。\n戦争 = war",
+    "17歳のときに、漫画家としてデビューしました。\n17岁时，他作为漫画家出道。\n漫画家 = manga artist",
+    "1968年から、ボクシングの漫画「あしたのジョー」をかき始めました。\n从1968年起，他开始画拳击漫画《明日之丈》。\nかき始める = to start drawing",
+    "この漫画はアニメにもなって、大人気になりました。\n这部漫画还被改编成动画，大受欢迎。\n大人気 = hugely popular",
+    "物語の中で、ライバルの力石徹が死んだとき、本当にお葬式が開かれました。\n故事中对手力石彻死去时，现实中真的为他举办了葬礼。\nお葬式 = funeral",
+    "ちばさんは、相撲やゴルフ、剣道など、ほかのスポーツの漫画もたくさんかきました。\n千叶先生还画了很多相扑、高尔夫、剑道等其他运动的漫画。\n相撲 = sumo wrestling",
+    "日本漫画家協会の会長も務めました。\n他还担任过日本漫画家协会的会长。\n務める = to serve (in a role)",
+    "大学で、若い人たちに漫画を教えることもしました。\n他也曾在大学里教年轻人画漫画。\n教える = to teach",
+    "2024年には、漫画家として初めて、文化勲章を受けました。\n2024年，他成为第一位获得文化勋章的漫画家。\n文化勲章 = Order of Culture",
+    "最近まで、自分の毎日をかいたエッセー漫画を続けていました。\n直到最近，他还一直在画描写自己日常生活的随笔漫画。\n続ける = to continue"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-seventh. The legendary artist behind a famous boxing manga has died. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "漫画「あしたのジョー」で知られる、漫画家のちばてつやさんが亡くなりました。",
+      "ruby": "<ruby>漫画<rt>まんが</rt></ruby>「あしたのジョー」で<span class=\"vw\" data-ja=\"知られる\" data-reading=\"しられる\" data-en=\"to be known (for)\"><ruby>知ら<rt>しら</rt></ruby>れる</span>、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>のちばてつやさんが<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "87歳でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"87歳\" data-reading=\"はちじゅうななさい\" data-en=\"87 years old\">87<ruby>歳<rt>さい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "ちばさんは、10月22日に、東京の病院で亡くなりました。",
+      "ruby": "ちばさんは、10<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>に、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"病院\" data-reading=\"びょういん\" data-en=\"hospital\"><ruby>病院<rt>びょういん</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ちばさんは1939年に東京で生まれ、子どものころを中国の東北部で過ごしました。",
+      "ruby": "ちばさんは1939<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>のころを<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>東北<rt>とうほく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦争が終わった次の年、1946年に、日本に帰ってきました。",
+      "ruby": "<span class=\"vw\" data-ja=\"戦争\" data-reading=\"せんそう\" data-en=\"war\"><ruby>戦争<rt>せんそう</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>った<ruby>次の<rt>つぎの</rt></ruby><ruby>年<rt>ねん</rt></ruby>、1946<ruby>年<rt>ねん</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "17歳のときに、漫画家としてデビューしました。",
+      "ruby": "17<ruby>歳<rt>さい</rt></ruby>のときに、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>としてデビューしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1968年から、ボクシングの漫画「あしたのジョー」をかき始めました。",
+      "ruby": "1968<ruby>年<rt>ねん</rt></ruby>から、ボクシングの<ruby>漫画<rt>まんが</rt></ruby>「あしたのジョー」をかき<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この漫画はアニメにもなって、大人気になりました。",
+      "ruby": "この<ruby>漫画<rt>まんが</rt></ruby>はアニメにもなって、<span class=\"vw\" data-ja=\"大人気\" data-reading=\"だいにんき\" data-en=\"hugely popular\"><ruby>大人気<rt>だいにんき</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物語の中で、ライバルの力石徹が死んだとき、本当にお葬式が開かれました。",
+      "ruby": "<ruby>物語<rt>ものがたり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、ライバルの<ruby>力石<rt>りきいし</rt></ruby><ruby>徹<rt>とおる</rt></ruby>が<ruby>死ん<rt>しん</rt></ruby>だとき、<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>葬式<rt>そうしき</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ちばさんは、相撲やゴルフ、剣道など、ほかのスポーツの漫画もたくさんかきました。",
+      "ruby": "ちばさんは、<span class=\"vw\" data-ja=\"相撲\" data-reading=\"すもう\" data-en=\"sumo wrestling\"><ruby>相撲<rt>すもう</rt></ruby></span>やゴルフ、<ruby>剣道<rt>けんどう</rt></ruby>など、ほかのスポーツの<ruby>漫画<rt>まんが</rt></ruby>もたくさんかきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本漫画家協会の会長も務めました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby><span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span><ruby>協会<rt>きょうかい</rt></ruby>の<ruby>会長<rt>かいちょう</rt></ruby>も<ruby>務め<rt>つとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大学で、若い人たちに漫画を教えることもしました。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>で、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに<ruby>漫画<rt>まんが</rt></ruby>を<span class=\"vw\" data-ja=\"教える\" data-reading=\"おしえる\" data-en=\"to teach\"><ruby>教え<rt>おしえ</rt></ruby>ることもしました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年には、漫画家として初めて、文化勲章を受けました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>には、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>として<ruby>初めて<rt>はじめて</rt></ruby>、<span class=\"vw\" data-ja=\"文化勲章\" data-reading=\"ぶんかくんしょう\" data-en=\"Order of Culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近まで、自分の毎日をかいたエッセー漫画を続けていました。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>まで、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>毎日<rt>まいにち</rt></ruby>をかいたエッセー<ruby>漫画<rt>まんが</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it slowly."
+    },
+    {
+      "speaker": "slow",
+      "text": "漫画「あしたのジョー」で知られる、漫画家のちばてつやさんが亡くなりました。",
+      "ruby": "<ruby>漫画<rt>まんが</rt></ruby>「あしたのジョー」で<span class=\"vw\" data-ja=\"知られる\" data-reading=\"しられる\" data-en=\"to be known (for)\"><ruby>知ら<rt>しら</rt></ruby>れる</span>、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>のちばてつやさんが<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Manga artist Tetsuya Chiba, known for the boxing manga about Joe, has died."
+    },
+    {
+      "speaker": "vocab",
+      "text": "知られる",
+      "ruby": "<span class=\"vw\" data-ja=\"知られる\" data-reading=\"しられる\" data-en=\"to be known (for)\"><ruby>知ら<rt>しら</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be known for something."
+    },
+    {
+      "speaker": "vocab",
+      "text": "亡くなる",
+      "ruby": "<span class=\"vw\" data-ja=\"亡くなる\" data-reading=\"なくなる\" data-en=\"to pass away\"><ruby>亡く<rt>なく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a polite way to say someone died."
+    },
+    {
+      "speaker": "slow",
+      "text": "87歳でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"87歳\" data-reading=\"はちじゅうななさい\" data-en=\"87 years old\">87<ruby>歳<rt>さい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "He was eighty-seven."
+    },
+    {
+      "speaker": "vocab",
+      "text": "87歳",
+      "ruby": "<span class=\"vw\" data-ja=\"87歳\" data-reading=\"はちじゅうななさい\" data-en=\"87 years old\">87<ruby>歳<rt>さい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means eighty-seven years old."
+    },
+    {
+      "speaker": "slow",
+      "text": "ちばさんは、10月22日に、東京の病院で亡くなりました。",
+      "ruby": "ちばさんは、10<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>に、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"病院\" data-reading=\"びょういん\" data-en=\"hospital\"><ruby>病院<rt>びょういん</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He died on October twenty-second at a hospital in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "病院",
+      "ruby": "<span class=\"vw\" data-ja=\"病院\" data-reading=\"びょういん\" data-en=\"hospital\"><ruby>病院<rt>びょういん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hospital."
+    },
+    {
+      "speaker": "slow",
+      "text": "ちばさんは1939年に東京で生まれ、子どものころを中国の東北部で過ごしました。",
+      "ruby": "ちばさんは1939<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>のころを<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>東北<rt>とうほく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He was born in Tokyo in nineteen thirty-nine and spent his childhood in northeast China."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過ごす",
+      "ruby": "<span class=\"vw\" data-ja=\"過ごす\" data-reading=\"すごす\" data-en=\"to spend (time)\"><ruby>過ご<rt>すご</rt></ruby>す</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to spend time somewhere."
+    },
+    {
+      "speaker": "slow",
+      "text": "戦争が終わった次の年、1946年に、日本に帰ってきました。",
+      "ruby": "<span class=\"vw\" data-ja=\"戦争\" data-reading=\"せんそう\" data-en=\"war\"><ruby>戦争<rt>せんそう</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>った<ruby>次の<rt>つぎの</rt></ruby><ruby>年<rt>ねん</rt></ruby>、1946<ruby>年<rt>ねん</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen forty-six, the year after the war ended, he came back to Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "戦争",
+      "ruby": "<span class=\"vw\" data-ja=\"戦争\" data-reading=\"せんそう\" data-en=\"war\"><ruby>戦争<rt>せんそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means war."
+    },
+    {
+      "speaker": "slow",
+      "text": "17歳のときに、漫画家としてデビューしました。",
+      "ruby": "17<ruby>歳<rt>さい</rt></ruby>のときに、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>としてデビューしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At seventeen, he made his debut as a manga artist."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漫画家",
+      "ruby": "<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means manga artist."
+    },
+    {
+      "speaker": "slow",
+      "text": "1968年から、ボクシングの漫画「あしたのジョー」をかき始めました。",
+      "ruby": "1968<ruby>年<rt>ねん</rt></ruby>から、ボクシングの<ruby>漫画<rt>まんが</rt></ruby>「あしたのジョー」をかき<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From nineteen sixty-eight, he began drawing his boxing manga."
+    },
+    {
+      "speaker": "vocab",
+      "text": "かき始める",
+      "ruby": "<span class=\"vw\" data-ja=\"かき始める\" data-reading=\"かきはじめる\" data-en=\"to start drawing\">かき<ruby>始め<rt>はじめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to start drawing."
+    },
+    {
+      "speaker": "slow",
+      "text": "この漫画はアニメにもなって、大人気になりました。",
+      "ruby": "この<ruby>漫画<rt>まんが</rt></ruby>はアニメにもなって、<span class=\"vw\" data-ja=\"大人気\" data-reading=\"だいにんき\" data-en=\"hugely popular\"><ruby>大人気<rt>だいにんき</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The manga was also made into an anime and became hugely popular."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大人気",
+      "ruby": "<span class=\"vw\" data-ja=\"大人気\" data-reading=\"だいにんき\" data-en=\"hugely popular\"><ruby>大人気<rt>だいにんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hugely popular."
+    },
+    {
+      "speaker": "slow",
+      "text": "物語の中で、ライバルの力石徹が死んだとき、本当にお葬式が開かれました。",
+      "ruby": "<ruby>物語<rt>ものがたり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、ライバルの<ruby>力石<rt>りきいし</rt></ruby><ruby>徹<rt>とおる</rt></ruby>が<ruby>死ん<rt>しん</rt></ruby>だとき、<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>葬式<rt>そうしき</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "When the hero's rival died in the story, a real funeral was held for him."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お葬式",
+      "ruby": "<span class=\"vw\" data-ja=\"お葬式\" data-reading=\"おそうしき\" data-en=\"funeral\">お<ruby>葬式<rt>そうしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a funeral."
+    },
+    {
+      "speaker": "slow",
+      "text": "ちばさんは、相撲やゴルフ、剣道など、ほかのスポーツの漫画もたくさんかきました。",
+      "ruby": "ちばさんは、<span class=\"vw\" data-ja=\"相撲\" data-reading=\"すもう\" data-en=\"sumo wrestling\"><ruby>相撲<rt>すもう</rt></ruby></span>やゴルフ、<ruby>剣道<rt>けんどう</rt></ruby>など、ほかのスポーツの<ruby>漫画<rt>まんが</rt></ruby>もたくさんかきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He also drew many manga about other sports, like sumo, golf, and kendo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "相撲",
+      "ruby": "<span class=\"vw\" data-ja=\"相撲\" data-reading=\"すもう\" data-en=\"sumo wrestling\"><ruby>相撲<rt>すもう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sumo wrestling."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本漫画家協会の会長も務めました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby><span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span><ruby>協会<rt>きょうかい</rt></ruby>の<ruby>会長<rt>かいちょう</rt></ruby>も<ruby>務め<rt>つとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He also served as head of the Japan Cartoonists Association."
+    },
+    {
+      "speaker": "vocab",
+      "text": "務める",
+      "ruby": "<span class=\"vw\" data-ja=\"務める\" data-reading=\"つとめる\" data-en=\"to serve (in a role)\"><ruby>務め<rt>つとめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to serve in a role."
+    },
+    {
+      "speaker": "slow",
+      "text": "大学で、若い人たちに漫画を教えることもしました。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>で、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに<ruby>漫画<rt>まんが</rt></ruby>を<span class=\"vw\" data-ja=\"教える\" data-reading=\"おしえる\" data-en=\"to teach\"><ruby>教え<rt>おしえ</rt></ruby>ることもしました</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "He also taught manga to young people at a university."
+    },
+    {
+      "speaker": "vocab",
+      "text": "教える",
+      "ruby": "<span class=\"vw\" data-ja=\"教える\" data-reading=\"おしえる\" data-en=\"to teach\"><ruby>教え<rt>おしえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to teach."
+    },
+    {
+      "speaker": "slow",
+      "text": "2024年には、漫画家として初めて、文化勲章を受けました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>には、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>として<ruby>初めて<rt>はじめて</rt></ruby>、<span class=\"vw\" data-ja=\"文化勲章\" data-reading=\"ぶんかくんしょう\" data-en=\"Order of Culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In twenty twenty-four, he became the first manga artist to receive the Order of Culture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "文化勲章",
+      "ruby": "<span class=\"vw\" data-ja=\"文化勲章\" data-reading=\"ぶんかくんしょう\" data-en=\"Order of Culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the Order of Culture, a top national honor."
+    },
+    {
+      "speaker": "slow",
+      "text": "最近まで、自分の毎日をかいたエッセー漫画を続けていました。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>まで、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>毎日<rt>まいにち</rt></ruby>をかいたエッセー<ruby>漫画<rt>まんが</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until recently, he kept drawing an essay manga about his daily life."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続ける",
+      "ruby": "<span class=\"vw\" data-ja=\"続ける\" data-reading=\"つづける\" data-en=\"to continue\"><ruby>続け<rt>つづけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue."
+    },
+    {
+      "speaker": "host",
+      "text": "Now the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "漫画「あしたのジョー」で知られる、漫画家のちばてつやさんが亡くなりました。",
+      "ruby": "<ruby>漫画<rt>まんが</rt></ruby>「あしたのジョー」で<span class=\"vw\" data-ja=\"知られる\" data-reading=\"しられる\" data-en=\"to be known (for)\"><ruby>知ら<rt>しら</rt></ruby>れる</span>、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>のちばてつやさんが<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "87歳でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"87歳\" data-reading=\"はちじゅうななさい\" data-en=\"87 years old\">87<ruby>歳<rt>さい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "ちばさんは、10月22日に、東京の病院で亡くなりました。",
+      "ruby": "ちばさんは、10<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>に、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"病院\" data-reading=\"びょういん\" data-en=\"hospital\"><ruby>病院<rt>びょういん</rt></ruby></span>で<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ちばさんは1939年に東京で生まれ、子どものころを中国の東北部で過ごしました。",
+      "ruby": "ちばさんは1939<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>のころを<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>東北<rt>とうほく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "戦争が終わった次の年、1946年に、日本に帰ってきました。",
+      "ruby": "<span class=\"vw\" data-ja=\"戦争\" data-reading=\"せんそう\" data-en=\"war\"><ruby>戦争<rt>せんそう</rt></ruby></span>が<ruby>終わ<rt>おわ</rt></ruby>った<ruby>次の<rt>つぎの</rt></ruby><ruby>年<rt>ねん</rt></ruby>、1946<ruby>年<rt>ねん</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "17歳のときに、漫画家としてデビューしました。",
+      "ruby": "17<ruby>歳<rt>さい</rt></ruby>のときに、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>としてデビューしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1968年から、ボクシングの漫画「あしたのジョー」をかき始めました。",
+      "ruby": "1968<ruby>年<rt>ねん</rt></ruby>から、ボクシングの<ruby>漫画<rt>まんが</rt></ruby>「あしたのジョー」をかき<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この漫画はアニメにもなって、大人気になりました。",
+      "ruby": "この<ruby>漫画<rt>まんが</rt></ruby>はアニメにもなって、<span class=\"vw\" data-ja=\"大人気\" data-reading=\"だいにんき\" data-en=\"hugely popular\"><ruby>大人気<rt>だいにんき</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物語の中で、ライバルの力石徹が死んだとき、本当にお葬式が開かれました。",
+      "ruby": "<ruby>物語<rt>ものがたり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、ライバルの<ruby>力石<rt>りきいし</rt></ruby><ruby>徹<rt>とおる</rt></ruby>が<ruby>死ん<rt>しん</rt></ruby>だとき、<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>葬式<rt>そうしき</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ちばさんは、相撲やゴルフ、剣道など、ほかのスポーツの漫画もたくさんかきました。",
+      "ruby": "ちばさんは、<span class=\"vw\" data-ja=\"相撲\" data-reading=\"すもう\" data-en=\"sumo wrestling\"><ruby>相撲<rt>すもう</rt></ruby></span>やゴルフ、<ruby>剣道<rt>けんどう</rt></ruby>など、ほかのスポーツの<ruby>漫画<rt>まんが</rt></ruby>もたくさんかきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本漫画家協会の会長も務めました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby><span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span><ruby>協会<rt>きょうかい</rt></ruby>の<ruby>会長<rt>かいちょう</rt></ruby>も<ruby>務め<rt>つとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大学で、若い人たちに漫画を教えることもしました。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>で、<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに<ruby>漫画<rt>まんが</rt></ruby>を<span class=\"vw\" data-ja=\"教える\" data-reading=\"おしえる\" data-en=\"to teach\"><ruby>教え<rt>おしえ</rt></ruby>ることもしました</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "2024年には、漫画家として初めて、文化勲章を受けました。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>には、<span class=\"vw\" data-ja=\"漫画家\" data-reading=\"まんがか\" data-en=\"manga artist\"><ruby>漫画家<rt>まんがか</rt></ruby></span>として<ruby>初めて<rt>はじめて</rt></ruby>、<span class=\"vw\" data-ja=\"文化勲章\" data-reading=\"ぶんかくんしょう\" data-en=\"Order of Culture\"><ruby>文化勲章<rt>ぶんかくんしょう</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近まで、自分の毎日をかいたエッセー漫画を続けていました。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>まで、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>毎日<rt>まいにち</rt></ruby>をかいたエッセー<ruby>漫画<rt>まんが</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "ちばさんは、何歳で亡くなりましたか。",
+      "ruby": "ちばさんは、<ruby>何歳<rt>なんさい</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty-seven."
+    },
+    {
+      "speaker": "slow",
+      "text": "「あしたのジョー」は、何のスポーツの漫画ですか。",
+      "ruby": "「あしたのジョー」は、<ruby>何の<rt>なんの</rt></ruby>スポーツの<ruby>漫画<rt>まんが</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Boxing."
+    },
+    {
+      "speaker": "slow",
+      "text": "2024年に、ちばさんは何を受けましたか。",
+      "ruby": "2024<ruby>年<rt>ねん</rt></ruby>に、ちばさんは<ruby>何を<rt>なにを</rt></ruby><ruby>受け<rt>うけ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Order of Culture."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
