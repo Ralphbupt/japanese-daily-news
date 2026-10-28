@@ -1,0 +1,623 @@
+{
+  "episode": 250,
+  "title": "福田康夫元首相が死去、90歳",
+  "date": "2026-10-28",
+  "source": "毎日新聞 / 共同通信 / 時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026102801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "総理大臣",
+      "reading": "そうりだいじん",
+      "en": "prime minister",
+      "zh": "总理大臣，首相"
+    },
+    {
+      "ja": "亡くなる",
+      "reading": "なくなる",
+      "en": "to pass away",
+      "zh": "去世"
+    },
+    {
+      "ja": "90歳",
+      "reading": "きゅうじゅっさい",
+      "en": "90 years old",
+      "zh": "90岁"
+    },
+    {
+      "ja": "心不全",
+      "reading": "しんふぜん",
+      "en": "heart failure",
+      "zh": "心力衰竭"
+    },
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan, schedule",
+      "zh": "预定，计划"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生"
+    },
+    {
+      "ja": "石油",
+      "reading": "せきゆ",
+      "en": "oil, petroleum",
+      "zh": "石油"
+    },
+    {
+      "ja": "選挙",
+      "reading": "せんきょ",
+      "en": "election",
+      "zh": "选举"
+    },
+    {
+      "ja": "支える",
+      "reading": "ささえる",
+      "en": "to support",
+      "zh": "支持，辅佐"
+    },
+    {
+      "ja": "急に",
+      "reading": "きゅうに",
+      "en": "suddenly",
+      "zh": "突然"
+    },
+    {
+      "ja": "親子",
+      "reading": "おやこ",
+      "en": "parent and child",
+      "zh": "父子，亲子"
+    },
+    {
+      "ja": "議長",
+      "reading": "ぎちょう",
+      "en": "chair, chairperson",
+      "zh": "主席，议长"
+    },
+    {
+      "ja": "運営",
+      "reading": "うんえい",
+      "en": "management, running",
+      "zh": "运营，管理"
+    },
+    {
+      "ja": "関係",
+      "reading": "かんけい",
+      "en": "relationship, relations",
+      "zh": "关系"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のため",
+      "meaning": "because of ~ (cause)",
+      "meaningZh": "因为……",
+      "formation": "Noun + のため",
+      "example": "福田さんは、10月22日に、心不全のため東京の病院で亡くなりました。",
+      "translation": "He died of heart failure at a hospital in Tokyo.",
+      "note": "Formal way to give a cause, common in news.",
+      "noteZh": "书面语，表示原因，新闻中常用。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "be scheduled to ~",
+      "meaningZh": "预定……，计划……",
+      "formation": "verb dictionary form + 予定です",
+      "example": "お葬式は家族だけで行い、後で「お別れの会」を開く予定です。",
+      "translation": "A farewell gathering is planned for later.",
+      "note": "States a fixed plan or schedule.",
+      "noteZh": "表示已经确定的计划或安排。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜として",
+      "meaning": "as ~ (in the role of)",
+      "meaningZh": "作为……",
+      "formation": "Noun + として",
+      "example": "その後、官房長官として、2人の総理大臣を支えました。",
+      "translation": "As chief cabinet secretary, he supported two prime ministers.",
+      "note": "Shows the role or position in which someone acts.",
+      "noteZh": "表示身份、立场或资格。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~",
+      "meaningZh": "为了……",
+      "formation": "verb dictionary form + ために",
+      "example": "政治家をやめたあとも、日本と中国の関係を良くするために、活動を続けました。",
+      "translation": "He kept working to improve relations between Japan and China.",
+      "note": "Expresses purpose when the subject acts on purpose.",
+      "noteZh": "表示目的，主语有意识地去做某事。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "元総理大臣の福田康夫さんが亡くなりました。\n前首相福田康夫去世了。\n総理大臣 = prime minister / 亡くなる = to pass away",
+    "90歳でした。\n享年90岁。\n90歳 = 90 years old",
+    "福田さんは、10月22日に、心不全のため東京の病院で亡くなりました。\n福田先生于10月22日因心力衰竭在东京的医院去世。\n心不全 = heart failure",
+    "お葬式は家族だけで行い、後で「お別れの会」を開く予定です。\n葬礼只有家人参加，之后计划举行“告别会”。\n予定 = plan, schedule",
+    "福田さんは、1936年に東京で生まれました。\n福田先生1936年出生于东京。\n生まれる = to be born",
+    "大学を出たあと、石油の会社で17年ほど働きました。\n大学毕业后，他在一家石油公司工作了大约17年。\n石油 = oil, petroleum",
+    "1990年に、群馬県で選挙に出て、衆議院議員になりました。\n1990年，他在群马县参加选举，成为众议院议员。\n選挙 = election",
+    "その後、官房長官として、2人の総理大臣を支えました。\n之后，他作为内阁官房长官辅佐了两位首相。\n支える = to support",
+    "2007年、安倍晋三さんが急にやめたあと、福田さんが総理大臣になりました。\n2007年，安倍晋三突然辞职后，福田成为首相。\n急に = suddenly",
+    "お父さんの福田赳夫さんも総理大臣で、親子で総理大臣になったのは初めてでした。\n他的父亲福田赳夫也是首相，父子两代都当上首相，这是第一次。\n親子 = parent and child",
+    "2008年には、北海道の洞爺湖で開かれたサミットで、議長を務めました。\n2008年，他在北海道洞爷湖举行的峰会上担任主席。\n議長 = chair, chairperson",
+    "しかし、国会の運営が難しく、約1年で総理大臣をやめました。\n但是国会运营困难，他大约一年后辞去了首相职务。\n運営 = management, running",
+    "政治家をやめたあとも、日本と中国の関係を良くするために、活動を続けました。\n离开政界后，他仍为改善日中关系而继续活动。\n関係 = relationship, relations"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-eighth. A former prime minister of Japan has died at ninety. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "元総理大臣の福田康夫さんが亡くなりました。",
+      "ruby": "<ruby>元<rt>もと</rt></ruby><span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>の<ruby>福田<rt>ふくだ</rt></ruby><ruby>康夫<rt>やすお</rt></ruby>さんが<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "90歳でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"90歳\" data-reading=\"きゅうじゅっさい\" data-en=\"90 years old\">90<ruby>歳<rt>さい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "福田さんは、10月22日に、心不全のため東京の病院で亡くなりました。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、10<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>に、<span class=\"vw\" data-ja=\"心不全\" data-reading=\"しんふぜん\" data-en=\"heart failure\"><ruby>心不全<rt>しんふぜん</rt></ruby></span>のため<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お葬式は家族だけで行い、後で「お別れの会」を開く予定です。",
+      "ruby": "お<ruby>葬式<rt>そうしき</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>だけで<ruby>行い<rt>おこない</rt></ruby>、<ruby>後で<rt>あとで</rt></ruby>「お<ruby>別れ<rt>わかれ</rt></ruby>の<ruby>会<rt>かい</rt></ruby>」を<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "福田さんは、1936年に東京で生まれました。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、1936<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大学を出たあと、石油の会社で17年ほど働きました。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>あと、<span class=\"vw\" data-ja=\"石油\" data-reading=\"せきゆ\" data-en=\"oil, petroleum\"><ruby>石油<rt>せきゆ</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>で17<ruby>年<rt>ねん</rt></ruby>ほど<ruby>働き<rt>はたらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1990年に、群馬県で選挙に出て、衆議院議員になりました。",
+      "ruby": "1990<ruby>年<rt>ねん</rt></ruby>に、<ruby>群馬県<rt>ぐんまけん</rt></ruby>で<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出て<rt>でて</rt></ruby>、<ruby>衆議院議員<rt>しゅうぎいんぎいん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後、官房長官として、2人の総理大臣を支えました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>、<ruby>官房<rt>かんぼう</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>として、<ruby>2人<rt>ふたり</rt></ruby>の<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2007年、安倍晋三さんが急にやめたあと、福田さんが総理大臣になりました。",
+      "ruby": "2007<ruby>年<rt>ねん</rt></ruby>、<ruby>安倍<rt>あべ</rt></ruby><ruby>晋三<rt>しんぞう</rt></ruby>さんが<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>やめたあと、<ruby>福田<rt>ふくだ</rt></ruby>さんが<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お父さんの福田赳夫さんも総理大臣で、親子で総理大臣になったのは初めてでした。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>福田<rt>ふくだ</rt></ruby><ruby>赳夫<rt>たけお</rt></ruby>さんも<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"親子\" data-reading=\"おやこ\" data-en=\"parent and child\"><ruby>親子<rt>おやこ</rt></ruby></span>で<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>になったのは<ruby>初めて<rt>はじめて</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2008年には、北海道の洞爺湖で開かれたサミットで、議長を務めました。",
+      "ruby": "2008<ruby>年<rt>ねん</rt></ruby>には、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>洞爺湖<rt>とうやこ</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れたサミットで、<span class=\"vw\" data-ja=\"議長\" data-reading=\"ぎちょう\" data-en=\"chair, chairperson\"><ruby>議長<rt>ぎちょう</rt></ruby></span>を<ruby>務め<rt>つとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、国会の運営が難しく、約1年で総理大臣をやめました。",
+      "ruby": "しかし、<ruby>国会<rt>こっかい</rt></ruby>の<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"management, running\"><ruby>運営<rt>うんえい</rt></ruby></span>が<ruby>難しく<rt>むずかしく</rt></ruby>、<ruby>約<rt>やく</rt></ruby>1<ruby>年<rt>ねん</rt></ruby>で<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>をやめました。"
+    },
+    {
+      "speaker": "news",
+      "text": "政治家をやめたあとも、日本と中国の関係を良くするために、活動を続けました。",
+      "ruby": "<ruby>政治家<rt>せいじか</rt></ruby>をやめたあとも、<ruby>日本<rt>にほん</rt></ruby>と<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"関係\" data-reading=\"かんけい\" data-en=\"relationship, relations\"><ruby>関係<rt>かんけい</rt></ruby></span>を<ruby>良く<rt>よく</rt></ruby>するために、<ruby>活動<rt>かつどう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it slowly."
+    },
+    {
+      "speaker": "slow",
+      "text": "元総理大臣の福田康夫さんが亡くなりました。",
+      "ruby": "<ruby>元<rt>もと</rt></ruby><span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>の<ruby>福田<rt>ふくだ</rt></ruby><ruby>康夫<rt>やすお</rt></ruby>さんが<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Former prime minister Yasuo Fukuda has died."
+    },
+    {
+      "speaker": "vocab",
+      "text": "総理大臣",
+      "ruby": "<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prime minister."
+    },
+    {
+      "speaker": "vocab",
+      "text": "亡くなる",
+      "ruby": "<span class=\"vw\" data-ja=\"亡くなる\" data-reading=\"なくなる\" data-en=\"to pass away\"><ruby>亡く<rt>なく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a polite way to say someone died."
+    },
+    {
+      "speaker": "slow",
+      "text": "90歳でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"90歳\" data-reading=\"きゅうじゅっさい\" data-en=\"90 years old\">90<ruby>歳<rt>さい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "He was ninety."
+    },
+    {
+      "speaker": "vocab",
+      "text": "90歳",
+      "ruby": "<span class=\"vw\" data-ja=\"90歳\" data-reading=\"きゅうじゅっさい\" data-en=\"90 years old\">90<ruby>歳<rt>さい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ninety years old."
+    },
+    {
+      "speaker": "slow",
+      "text": "福田さんは、10月22日に、心不全のため東京の病院で亡くなりました。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、10<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>に、<span class=\"vw\" data-ja=\"心不全\" data-reading=\"しんふぜん\" data-en=\"heart failure\"><ruby>心不全<rt>しんふぜん</rt></ruby></span>のため<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He died of heart failure on October twenty-second at a hospital in Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "心不全",
+      "ruby": "<span class=\"vw\" data-ja=\"心不全\" data-reading=\"しんふぜん\" data-en=\"heart failure\"><ruby>心不全<rt>しんふぜん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means heart failure."
+    },
+    {
+      "speaker": "slow",
+      "text": "お葬式は家族だけで行い、後で「お別れの会」を開く予定です。",
+      "ruby": "お<ruby>葬式<rt>そうしき</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>だけで<ruby>行い<rt>おこない</rt></ruby>、<ruby>後で<rt>あとで</rt></ruby>「お<ruby>別れ<rt>わかれ</rt></ruby>の<ruby>会<rt>かい</rt></ruby>」を<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Only family attended the funeral, and a farewell gathering is planned for later."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan or schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "福田さんは、1936年に東京で生まれました。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、1936<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "He was born in Tokyo in nineteen thirty-six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"生まれる\" data-reading=\"うまれる\" data-en=\"to be born\"><ruby>生まれ<rt>うまれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be born."
+    },
+    {
+      "speaker": "slow",
+      "text": "大学を出たあと、石油の会社で17年ほど働きました。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>あと、<span class=\"vw\" data-ja=\"石油\" data-reading=\"せきゆ\" data-en=\"oil, petroleum\"><ruby>石油<rt>せきゆ</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>で17<ruby>年<rt>ねん</rt></ruby>ほど<ruby>働き<rt>はたらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After university, he worked at an oil company for about seventeen years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "石油",
+      "ruby": "<span class=\"vw\" data-ja=\"石油\" data-reading=\"せきゆ\" data-en=\"oil, petroleum\"><ruby>石油<rt>せきゆ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means oil."
+    },
+    {
+      "speaker": "slow",
+      "text": "1990年に、群馬県で選挙に出て、衆議院議員になりました。",
+      "ruby": "1990<ruby>年<rt>ねん</rt></ruby>に、<ruby>群馬県<rt>ぐんまけん</rt></ruby>で<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出て<rt>でて</rt></ruby>、<ruby>衆議院議員<rt>しゅうぎいんぎいん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen ninety, he ran in an election in Gunma and became a member of the lower house."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選挙",
+      "ruby": "<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means election."
+    },
+    {
+      "speaker": "slow",
+      "text": "その後、官房長官として、2人の総理大臣を支えました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>、<ruby>官房<rt>かんぼう</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>として、<ruby>2人<rt>ふたり</rt></ruby>の<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After that, as chief cabinet secretary, he supported two prime ministers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "支える",
+      "ruby": "<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support\"><ruby>支え<rt>ささえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to support."
+    },
+    {
+      "speaker": "slow",
+      "text": "2007年、安倍晋三さんが急にやめたあと、福田さんが総理大臣になりました。",
+      "ruby": "2007<ruby>年<rt>ねん</rt></ruby>、<ruby>安倍<rt>あべ</rt></ruby><ruby>晋三<rt>しんぞう</rt></ruby>さんが<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>やめたあと、<ruby>福田<rt>ふくだ</rt></ruby>さんが<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In two thousand seven, after Shinzo Abe suddenly quit, Fukuda became prime minister."
+    },
+    {
+      "speaker": "vocab",
+      "text": "急に",
+      "ruby": "<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suddenly."
+    },
+    {
+      "speaker": "slow",
+      "text": "お父さんの福田赳夫さんも総理大臣で、親子で総理大臣になったのは初めてでした。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>福田<rt>ふくだ</rt></ruby><ruby>赳夫<rt>たけお</rt></ruby>さんも<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"親子\" data-reading=\"おやこ\" data-en=\"parent and child\"><ruby>親子<rt>おやこ</rt></ruby></span>で<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>になったのは<ruby>初めて<rt>はじめて</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "His father was also prime minister, the first time a parent and child both held the job."
+    },
+    {
+      "speaker": "vocab",
+      "text": "親子",
+      "ruby": "<span class=\"vw\" data-ja=\"親子\" data-reading=\"おやこ\" data-en=\"parent and child\"><ruby>親子<rt>おやこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means parent and child."
+    },
+    {
+      "speaker": "slow",
+      "text": "2008年には、北海道の洞爺湖で開かれたサミットで、議長を務めました。",
+      "ruby": "2008<ruby>年<rt>ねん</rt></ruby>には、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>洞爺湖<rt>とうやこ</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れたサミットで、<span class=\"vw\" data-ja=\"議長\" data-reading=\"ぎちょう\" data-en=\"chair, chairperson\"><ruby>議長<rt>ぎちょう</rt></ruby></span>を<ruby>務め<rt>つとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In two thousand eight, he chaired the summit held at Lake Toya in Hokkaido."
+    },
+    {
+      "speaker": "vocab",
+      "text": "議長",
+      "ruby": "<span class=\"vw\" data-ja=\"議長\" data-reading=\"ぎちょう\" data-en=\"chair, chairperson\"><ruby>議長<rt>ぎちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the chair of a meeting."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、国会の運営が難しく、約1年で総理大臣をやめました。",
+      "ruby": "しかし、<ruby>国会<rt>こっかい</rt></ruby>の<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"management, running\"><ruby>運営<rt>うんえい</rt></ruby></span>が<ruby>難しく<rt>むずかしく</rt></ruby>、<ruby>約<rt>やく</rt></ruby>1<ruby>年<rt>ねん</rt></ruby>で<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>をやめました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But running parliament was hard, and he quit after about one year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運営",
+      "ruby": "<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"management, running\"><ruby>運営<rt>うんえい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means running or managing something."
+    },
+    {
+      "speaker": "slow",
+      "text": "政治家をやめたあとも、日本と中国の関係を良くするために、活動を続けました。",
+      "ruby": "<ruby>政治家<rt>せいじか</rt></ruby>をやめたあとも、<ruby>日本<rt>にほん</rt></ruby>と<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"関係\" data-reading=\"かんけい\" data-en=\"relationship, relations\"><ruby>関係<rt>かんけい</rt></ruby></span>を<ruby>良く<rt>よく</rt></ruby>するために、<ruby>活動<rt>かつどう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "After leaving politics, he kept working to improve relations between Japan and China."
+    },
+    {
+      "speaker": "vocab",
+      "text": "関係",
+      "ruby": "<span class=\"vw\" data-ja=\"関係\" data-reading=\"かんけい\" data-en=\"relationship, relations\"><ruby>関係<rt>かんけい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means relations or relationship."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "元総理大臣の福田康夫さんが亡くなりました。",
+      "ruby": "<ruby>元<rt>もと</rt></ruby><span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>の<ruby>福田<rt>ふくだ</rt></ruby><ruby>康夫<rt>やすお</rt></ruby>さんが<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "90歳でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"90歳\" data-reading=\"きゅうじゅっさい\" data-en=\"90 years old\">90<ruby>歳<rt>さい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "福田さんは、10月22日に、心不全のため東京の病院で亡くなりました。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、10<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>に、<span class=\"vw\" data-ja=\"心不全\" data-reading=\"しんふぜん\" data-en=\"heart failure\"><ruby>心不全<rt>しんふぜん</rt></ruby></span>のため<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お葬式は家族だけで行い、後で「お別れの会」を開く予定です。",
+      "ruby": "お<ruby>葬式<rt>そうしき</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>だけで<ruby>行い<rt>おこない</rt></ruby>、<ruby>後で<rt>あとで</rt></ruby>「お<ruby>別れ<rt>わかれ</rt></ruby>の<ruby>会<rt>かい</rt></ruby>」を<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan, schedule\"><ruby>予定<rt>よてい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "福田さんは、1936年に東京で生まれました。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、1936<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大学を出たあと、石油の会社で17年ほど働きました。",
+      "ruby": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>あと、<span class=\"vw\" data-ja=\"石油\" data-reading=\"せきゆ\" data-en=\"oil, petroleum\"><ruby>石油<rt>せきゆ</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>で17<ruby>年<rt>ねん</rt></ruby>ほど<ruby>働き<rt>はたらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1990年に、群馬県で選挙に出て、衆議院議員になりました。",
+      "ruby": "1990<ruby>年<rt>ねん</rt></ruby>に、<ruby>群馬県<rt>ぐんまけん</rt></ruby>で<span class=\"vw\" data-ja=\"選挙\" data-reading=\"せんきょ\" data-en=\"election\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出て<rt>でて</rt></ruby>、<ruby>衆議院議員<rt>しゅうぎいんぎいん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後、官房長官として、2人の総理大臣を支えました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>、<ruby>官房<rt>かんぼう</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>として、<ruby>2人<rt>ふたり</rt></ruby>の<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>を<ruby>支え<rt>ささえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2007年、安倍晋三さんが急にやめたあと、福田さんが総理大臣になりました。",
+      "ruby": "2007<ruby>年<rt>ねん</rt></ruby>、<ruby>安倍<rt>あべ</rt></ruby><ruby>晋三<rt>しんぞう</rt></ruby>さんが<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>やめたあと、<ruby>福田<rt>ふくだ</rt></ruby>さんが<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お父さんの福田赳夫さんも総理大臣で、親子で総理大臣になったのは初めてでした。",
+      "ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>福田<rt>ふくだ</rt></ruby><ruby>赳夫<rt>たけお</rt></ruby>さんも<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>で、<span class=\"vw\" data-ja=\"親子\" data-reading=\"おやこ\" data-en=\"parent and child\"><ruby>親子<rt>おやこ</rt></ruby></span>で<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>になったのは<ruby>初めて<rt>はじめて</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "2008年には、北海道の洞爺湖で開かれたサミットで、議長を務めました。",
+      "ruby": "2008<ruby>年<rt>ねん</rt></ruby>には、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>洞爺湖<rt>とうやこ</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れたサミットで、<span class=\"vw\" data-ja=\"議長\" data-reading=\"ぎちょう\" data-en=\"chair, chairperson\"><ruby>議長<rt>ぎちょう</rt></ruby></span>を<ruby>務め<rt>つとめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、国会の運営が難しく、約1年で総理大臣をやめました。",
+      "ruby": "しかし、<ruby>国会<rt>こっかい</rt></ruby>の<span class=\"vw\" data-ja=\"運営\" data-reading=\"うんえい\" data-en=\"management, running\"><ruby>運営<rt>うんえい</rt></ruby></span>が<ruby>難しく<rt>むずかしく</rt></ruby>、<ruby>約<rt>やく</rt></ruby>1<ruby>年<rt>ねん</rt></ruby>で<span class=\"vw\" data-ja=\"総理大臣\" data-reading=\"そうりだいじん\" data-en=\"prime minister\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>をやめました。"
+    },
+    {
+      "speaker": "news",
+      "text": "政治家をやめたあとも、日本と中国の関係を良くするために、活動を続けました。",
+      "ruby": "<ruby>政治家<rt>せいじか</rt></ruby>をやめたあとも、<ruby>日本<rt>にほん</rt></ruby>と<ruby>中国<rt>ちゅうごく</rt></ruby>の<span class=\"vw\" data-ja=\"関係\" data-reading=\"かんけい\" data-en=\"relationship, relations\"><ruby>関係<rt>かんけい</rt></ruby></span>を<ruby>良く<rt>よく</rt></ruby>するために、<ruby>活動<rt>かつどう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "福田さんは、何歳で亡くなりましたか。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんは、<ruby>何歳<rt>なんさい</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ninety."
+    },
+    {
+      "speaker": "slow",
+      "text": "福田さんのお父さんは、どんな仕事をしていましたか。",
+      "ruby": "<ruby>福田<rt>ふくだ</rt></ruby>さんのお<ruby>父さん<rt>とうさん</rt></ruby>は、どんな<ruby>仕事<rt>しごと</rt></ruby>をしていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "He was also prime minister."
+    },
+    {
+      "speaker": "slow",
+      "text": "2008年のサミットは、どこで開かれましたか。",
+      "ruby": "2008<ruby>年<rt>ねん</rt></ruby>のサミットは、どこで<ruby>開か<rt>ひらか</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Lake Toya in Hokkaido."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
