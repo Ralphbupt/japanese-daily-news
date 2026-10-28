@@ -1,0 +1,517 @@
+{
+  "episode": 251,
+  "title": "大阪の「通天閣」が70歳に、紫色に光る",
+  "date": "2026-10-29",
+  "source": "熊本日日新聞（共同通信） / 通天閣観光",
+  "level": "N5-N4",
+  "contentVersion": "2026102901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "70歳",
+      "reading": "ななじゅっさい",
+      "en": "seventy years old",
+      "zh": "70岁"
+    },
+    {
+      "ja": "町",
+      "reading": "まち",
+      "en": "town",
+      "zh": "城镇，街区"
+    },
+    {
+      "ja": "高さ",
+      "reading": "たかさ",
+      "en": "height",
+      "zh": "高度"
+    },
+    {
+      "ja": "できる",
+      "reading": "できる",
+      "en": "to be built, to be completed",
+      "zh": "建成，完成"
+    },
+    {
+      "ja": "最初",
+      "reading": "さいしょ",
+      "en": "first, the beginning",
+      "zh": "最初，第一个"
+    },
+    {
+      "ja": "火事",
+      "reading": "かじ",
+      "en": "fire (in a building)",
+      "zh": "火灾"
+    },
+    {
+      "ja": "お祝い",
+      "reading": "おいわい",
+      "en": "celebration",
+      "zh": "庆祝"
+    },
+    {
+      "ja": "光る",
+      "reading": "ひかる",
+      "en": "to shine",
+      "zh": "发光，闪耀"
+    },
+    {
+      "ja": "紫",
+      "reading": "むらさき",
+      "en": "purple",
+      "zh": "紫色"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "展望台",
+      "reading": "てんぼうだい",
+      "en": "observation deck",
+      "zh": "观景台"
+    },
+    {
+      "ja": "定期券",
+      "reading": "ていきけん",
+      "en": "commuter pass",
+      "zh": "月票，定期票"
+    },
+    {
+      "ja": "無料",
+      "reading": "むりょう",
+      "en": "free of charge",
+      "zh": "免费"
+    },
+    {
+      "ja": "渡す",
+      "reading": "わたす",
+      "en": "to hand over, to give",
+      "zh": "交给，赠送"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "Verb (dictionary form) + ことができる",
+      "example": "紫のライトは、11月12日まで、夜11時まで見ることができます。",
+      "translation": "The purple lights can be seen until November twelfth, until eleven at night.",
+      "note": "A polite way to say something is possible.",
+      "noteZh": "表示能够做某事，语气比较正式。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜ている",
+      "meaning": "is ~ing (ongoing action or state)",
+      "meaningZh": "正在……（持续的动作或状态）",
+      "formation": "Verb て-form + いる",
+      "example": "70歳のお祝いに、28日から通天閣が紫色に光っています。",
+      "translation": "Since the twenty-eighth, Tsutenkaku has been shining purple.",
+      "note": "Shows an action that is happening now and continuing.",
+      "noteZh": "表示正在进行、持续中的动作。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "〜が、〜",
+      "meaning": "~, but ~",
+      "meaningZh": "……，但是……",
+      "formation": "Sentence + が、 + sentence",
+      "example": "最初の通天閣は1912年にできましたが、1943年に火事でなくなりました。",
+      "translation": "The first Tsutenkaku was built in nineteen twelve, but it was lost in a fire in nineteen forty-three.",
+      "note": "Joins two sentences with a contrast.",
+      "noteZh": "连接两个意思相反的句子。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~, up to ~",
+      "meaningZh": "到……为止",
+      "formation": "Noun / time + まで",
+      "example": "30日までの3日間、電車の定期券を持っている人は、毎日1000人まで無料で入ることができます。",
+      "translation": "For the three days until the thirtieth, people with a train commuter pass can enter free, up to one thousand people each day.",
+      "note": "Shows a limit in time or number.",
+      "noteZh": "表示时间或数量的界限。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "大阪の「通天閣」が、10月28日で70歳になりました。\n大阪的“通天阁”在10月28日迎来了70岁。\n70歳 = seventy years old",
+    "通天閣は、大阪の新世界という町にある、高さ108メートルのタワーです。\n通天阁是一座位于大阪新世界街区、高108米的塔。\n町 = town / 高さ = height",
+    "今の通天閣は、1956年10月28日にできました。\n现在的通天阁建成于1956年10月28日。\nできました = to be built, to be completed",
+    "最初の通天閣は1912年にできましたが、1943年に火事でなくなりました。\n最初的通天阁建于1912年，但在1943年因火灾而消失了。\n最初 = first, the beginning / 火事 = fire (in a building)",
+    "70歳のお祝いに、28日から通天閣が紫色に光っています。\n为了庆祝70岁，从28日起通天阁亮起了紫色的灯光。\nお祝い = celebration / 光っています = to shine",
+    "日本では、70歳のお祝いの色は紫です。\n在日本，庆祝70岁的颜色是紫色。\n紫 = purple",
+    "紫のライトは、11月12日まで、夜11時まで見ることができます。\n紫色灯光可以看到11月12日，每天到晚上11点。\n夜 = night",
+    "展望台に入るお金は、いつもは1500円です。\n进入观景台平时需要1500日元。\n展望台 = observation deck",
+    "30日までの3日間、電車の定期券を持っている人は、毎日1000人まで無料で入ることができます。\n到30日为止的3天里，持有电车月票的人每天前1000名可以免费进入。\n定期券 = commuter pass / 無料 = free of charge",
+    "また、展望台に来た10万人に、記念のプレゼントを渡します。\n另外，还将向来到观景台的10万人赠送纪念礼物。\n渡します = to hand over, to give"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-ninth. A famous tower in Osaka is celebrating its seventieth birthday. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪の「通天閣」が、10月28日で70歳になりました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の「<ruby>通天閣<rt>つうてんかく</rt></ruby>」が、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>で<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "通天閣は、大阪の新世界という町にある、高さ108メートルのタワーです。",
+      "ruby": "<ruby>通天閣<rt>つうてんかく</rt></ruby>は、<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>新世界<rt>しんせかい</rt></ruby>という<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town\"><ruby>町<rt>まち</rt></ruby></span>にある、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>108メートルのタワーです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の通天閣は、1956年10月28日にできました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は、1956<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>にできました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の通天閣は1912年にできましたが、1943年に火事でなくなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は1912<ruby>年<rt>ねん</rt></ruby>にできましたが、1943<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (in a building)\"><ruby>火事<rt>かじ</rt></ruby></span>でなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "70歳のお祝いに、28日から通天閣が紫色に光っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>のお<ruby>祝い<rt>いわい</rt></ruby>に、28<ruby>日<rt>にち</rt></ruby>から<ruby>通天閣<rt>つうてんかく</rt></ruby>が<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫色<rt>むらさきいろ</rt></ruby></span>に<ruby>光っ<rt>ひかっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、70歳のお祝いの色は紫です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>のお<ruby>祝い<rt>いわい</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "紫のライトは、11月12日まで、夜11時まで見ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>のライトは、11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>まで、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>11<ruby>時<rt>じ</rt></ruby>まで<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "展望台に入るお金は、いつもは1500円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は、いつもは1500<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "30日までの3日間、電車の定期券を持っている人は、毎日1000人まで無料で入ることができます。",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>までの3<ruby>日間<rt>かかん</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"定期券\" data-reading=\"ていきけん\" data-en=\"commuter pass\"><ruby>定期券<rt>ていきけん</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>まで<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、展望台に来た10万人に、記念のプレゼントを渡します。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>来た<rt>きた</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>に、<ruby>記念<rt>きねん</rt></ruby>のプレゼントを<ruby>渡し<rt>わたし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪の「通天閣」が、10月28日で70歳になりました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の「<ruby>通天閣<rt>つうてんかく</rt></ruby>」が、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>で<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tsutenkaku in Osaka turned seventy years old on October twenty-eighth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "70歳",
+      "ruby": "<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means seventy years old."
+    },
+    {
+      "speaker": "slow",
+      "text": "通天閣は、大阪の新世界という町にある、高さ108メートルのタワーです。",
+      "ruby": "<ruby>通天閣<rt>つうてんかく</rt></ruby>は、<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>新世界<rt>しんせかい</rt></ruby>という<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town\"><ruby>町<rt>まち</rt></ruby></span>にある、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>108メートルのタワーです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tsutenkaku is a tower one hundred and eight meters tall, in a town called Shinsekai in Osaka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "町",
+      "ruby": "<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town\"><ruby>町<rt>まち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a town."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の通天閣は、1956年10月28日にできました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は、1956<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>にできました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The current Tsutenkaku was completed on October twenty-eighth, nineteen fifty-six."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初の通天閣は1912年にできましたが、1943年に火事でなくなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は1912<ruby>年<rt>ねん</rt></ruby>にできましたが、1943<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (in a building)\"><ruby>火事<rt>かじ</rt></ruby></span>でなくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first Tsutenkaku was built in nineteen twelve, but it was lost in a fire in nineteen forty-three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最初",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火事",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (in a building)\"><ruby>火事<rt>かじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fire, like a building on fire."
+    },
+    {
+      "speaker": "slow",
+      "text": "70歳のお祝いに、28日から通天閣が紫色に光っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>のお<ruby>祝い<rt>いわい</rt></ruby>に、28<ruby>日<rt>にち</rt></ruby>から<ruby>通天閣<rt>つうてんかく</rt></ruby>が<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫色<rt>むらさきいろ</rt></ruby></span>に<ruby>光っ<rt>ひかっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "To celebrate turning seventy, Tsutenkaku has been shining purple since the twenty-eighth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お祝い",
+      "ruby": "<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a celebration."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、70歳のお祝いの色は紫です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>のお<ruby>祝い<rt>いわい</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, the color for celebrating a seventieth birthday is purple."
+    },
+    {
+      "speaker": "vocab",
+      "text": "紫",
+      "ruby": "<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means purple."
+    },
+    {
+      "speaker": "slow",
+      "text": "紫のライトは、11月12日まで、夜11時まで見ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>のライトは、11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>まで、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>11<ruby>時<rt>じ</rt></ruby>まで<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The purple lights can be seen until November twelfth, until eleven at night."
+    },
+    {
+      "speaker": "slow",
+      "text": "展望台に入るお金は、いつもは1500円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は、いつもは1500<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The usual price to enter the observation deck is fifteen hundred yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "展望台",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an observation deck."
+    },
+    {
+      "speaker": "slow",
+      "text": "30日までの3日間、電車の定期券を持っている人は、毎日1000人まで無料で入ることができます。",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>までの3<ruby>日間<rt>かかん</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"定期券\" data-reading=\"ていきけん\" data-en=\"commuter pass\"><ruby>定期券<rt>ていきけん</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>まで<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "For the three days until the thirtieth, people with a train commuter pass can enter free, up to one thousand people each day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "定期券",
+      "ruby": "<span class=\"vw\" data-ja=\"定期券\" data-reading=\"ていきけん\" data-en=\"commuter pass\"><ruby>定期券<rt>ていきけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a commuter pass for trains."
+    },
+    {
+      "speaker": "vocab",
+      "text": "無料",
+      "ruby": "<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means free of charge."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、展望台に来た10万人に、記念のプレゼントを渡します。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>来た<rt>きた</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>に、<ruby>記念<rt>きねん</rt></ruby>のプレゼントを<ruby>渡し<rt>わたし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, the first one hundred thousand people who come to the observation deck will get a commemorative present."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪の「通天閣」が、10月28日で70歳になりました。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>の「<ruby>通天閣<rt>つうてんかく</rt></ruby>」が、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>で<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "通天閣は、大阪の新世界という町にある、高さ108メートルのタワーです。",
+      "ruby": "<ruby>通天閣<rt>つうてんかく</rt></ruby>は、<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>新世界<rt>しんせかい</rt></ruby>という<span class=\"vw\" data-ja=\"町\" data-reading=\"まち\" data-en=\"town\"><ruby>町<rt>まち</rt></ruby></span>にある、<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>108メートルのタワーです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の通天閣は、1956年10月28日にできました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は、1956<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>にできました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初の通天閣は1912年にできましたが、1943年に火事でなくなりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"最初\" data-reading=\"さいしょ\" data-en=\"first, the beginning\"><ruby>最初<rt>さいしょ</rt></ruby></span>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は1912<ruby>年<rt>ねん</rt></ruby>にできましたが、1943<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (in a building)\"><ruby>火事<rt>かじ</rt></ruby></span>でなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "70歳のお祝いに、28日から通天閣が紫色に光っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>のお<ruby>祝い<rt>いわい</rt></ruby>に、28<ruby>日<rt>にち</rt></ruby>から<ruby>通天閣<rt>つうてんかく</rt></ruby>が<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫色<rt>むらさきいろ</rt></ruby></span>に<ruby>光っ<rt>ひかっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、70歳のお祝いの色は紫です。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<span class=\"vw\" data-ja=\"70歳\" data-reading=\"ななじゅっさい\" data-en=\"seventy years old\">70<ruby>歳<rt>さい</rt></ruby></span>のお<ruby>祝い<rt>いわい</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "紫のライトは、11月12日まで、夜11時まで見ることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"紫\" data-reading=\"むらさき\" data-en=\"purple\"><ruby>紫<rt>むらさき</rt></ruby></span>のライトは、11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>まで、<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>11<ruby>時<rt>じ</rt></ruby>まで<ruby>見る<rt>みる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "展望台に入るお金は、いつもは1500円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は、いつもは1500<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "30日までの3日間、電車の定期券を持っている人は、毎日1000人まで無料で入ることができます。",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>までの3<ruby>日間<rt>かかん</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"定期券\" data-reading=\"ていきけん\" data-en=\"commuter pass\"><ruby>定期券<rt>ていきけん</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>まで<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>入る<rt>はいる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、展望台に来た10万人に、記念のプレゼントを渡します。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"展望台\" data-reading=\"てんぼうだい\" data-en=\"observation deck\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>来た<rt>きた</rt></ruby>10<ruby>万人<rt>まんにん</rt></ruby>に、<ruby>記念<rt>きねん</rt></ruby>のプレゼントを<ruby>渡し<rt>わたし</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "通天閣の高さは、何メートルですか。",
+      "ruby": "<ruby>通天閣<rt>つうてんかく</rt></ruby>の<span class=\"vw\" data-ja=\"高さ\" data-reading=\"たかさ\" data-en=\"height\"><ruby>高さ<rt>たかさ</rt></ruby></span>は、<ruby>何<rt>なに</rt></ruby>メートルですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred and eight meters."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の通天閣は、何年にできましたか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>通天閣<rt>つうてんかく</rt></ruby>は、<ruby>何年<rt>なんねん</rt></ruby>にできましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen fifty-six."
+    },
+    {
+      "speaker": "slow",
+      "text": "通天閣は、何色に光っていますか。",
+      "ruby": "<ruby>通天閣<rt>つうてんかく</rt></ruby>は、<ruby>何色<rt>なにいろ</rt></ruby>に<ruby>光っ<rt>ひかっ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Purple, the color for celebrating age seventy."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
