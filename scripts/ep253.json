@@ -1,0 +1,551 @@
+{
+  "episode": 253,
+  "title": "札幌や青森で初雪、平年より早い所も",
+  "date": "2026-10-30",
+  "source": "ウェザーニュース / 日本気象協会 tenki.jp",
+  "level": "N5-N4",
+  "contentVersion": "2026103001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "初雪",
+      "reading": "はつゆき",
+      "en": "first snow of the season",
+      "zh": "初雪"
+    },
+    {
+      "ja": "北海道",
+      "reading": "ほっかいどう",
+      "en": "Hokkaido",
+      "zh": "北海道"
+    },
+    {
+      "ja": "降る",
+      "reading": "ふる",
+      "en": "to fall (rain, snow)",
+      "zh": "下（雨、雪）"
+    },
+    {
+      "ja": "7つ",
+      "reading": "ななつ",
+      "en": "seven (things)",
+      "zh": "七个"
+    },
+    {
+      "ja": "本州",
+      "reading": "ほんしゅう",
+      "en": "Honshu, Japan's main island",
+      "zh": "本州（日本主岛）"
+    },
+    {
+      "ja": "いつもの年",
+      "reading": "いつものとし",
+      "en": "a usual year",
+      "zh": "往年，平常的年份"
+    },
+    {
+      "ja": "早い",
+      "reading": "はやい",
+      "en": "early",
+      "zh": "早"
+    },
+    {
+      "ja": "同じ",
+      "reading": "おなじ",
+      "en": "the same",
+      "zh": "相同"
+    },
+    {
+      "ja": "気温",
+      "reading": "きおん",
+      "en": "air temperature",
+      "zh": "气温"
+    },
+    {
+      "ja": "急に",
+      "reading": "きゅうに",
+      "en": "suddenly",
+      "zh": "突然"
+    },
+    {
+      "ja": "みぞれ",
+      "reading": "みぞれ",
+      "en": "sleet",
+      "zh": "雨夹雪"
+    },
+    {
+      "ja": "変わる",
+      "reading": "かわる",
+      "en": "to change",
+      "zh": "变化，变成"
+    },
+    {
+      "ja": "山",
+      "reading": "やま",
+      "en": "mountain",
+      "zh": "山"
+    },
+    {
+      "ja": "白い",
+      "reading": "しろい",
+      "en": "white",
+      "zh": "白色的"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "AはBより〜",
+      "meaning": "A is more ~ than B",
+      "meaningZh": "A比B更……",
+      "formation": "Noun + より + Adjective",
+      "example": "青森の初雪は、いつもの年より11日早いです。",
+      "translation": "Aomori's first snow came eleven days earlier than in a usual year.",
+      "note": "より marks the thing being compared against.",
+      "noteZh": "より表示比较的对象，相当于“比……”。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "〜と同じ",
+      "meaning": "the same as ~",
+      "meaningZh": "和……一样",
+      "formation": "Noun + と同じ",
+      "example": "札幌の初雪は、いつもの年と同じ日でした。",
+      "translation": "In Sapporo, the first snow came on the same day as in a usual year.",
+      "note": "Use と before 同じ to say what something is the same as.",
+      "noteZh": "在同じ前面用と表示与什么相同。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "AがBに変わる",
+      "meaning": "A changes into B",
+      "meaningZh": "A变成B",
+      "formation": "Noun + が + Noun + に変わる",
+      "example": "札幌では、夜中の2時ごろ、気温が急に下がって、雨がみぞれに変わりました。",
+      "translation": "In Sapporo, around two in the middle of the night, the temperature dropped suddenly, and the rain turned into sleet.",
+      "note": "に marks the result of the change.",
+      "noteZh": "に表示变化的结果。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "い-adjective (〜く) + なる",
+      "meaning": "to become ~",
+      "meaningZh": "变得……",
+      "formation": "い-adjective: drop い, add く + なる",
+      "example": "北陸や関東の高い山でも雪が降って、山の上が白くなりました。",
+      "translation": "Snow also fell on high mountains in Hokuriku and Kanto, and the mountain tops turned white.",
+      "note": "白い becomes 白く before なる.",
+      "noteZh": "い形容词去掉い加く，再接なる，表示状态的变化。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "10月28日の朝、北海道の札幌などで、今年初めての雪が降りました。\n10月28日早上，北海道札幌等地下了今年的第一场雪。\n北海道 = Hokkaido / 降る = to fall",
+    "その年に初めて降る雪を、「初雪」といいます。\n一年中第一次下的雪叫做“初雪”。\n初雪 = first snow",
+    "初雪が降ったのは、札幌、函館、室蘭、帯広、釧路、網走、青森の7つの町です。\n下初雪的是札幌、函馆、室兰、带广、钏路、网走、青森这7个城镇。\n7つ = seven",
+    "青森の初雪は、この冬、本州でいちばん早い初雪でした。\n青森的初雪是今冬本州最早的初雪。\n本州 = Honshu / いちばん = the most",
+    "青森の初雪は、いつもの年より11日早いです。\n青森的初雪比往年早了11天。\nいつもの年 = a usual year / 早い = early",
+    "釧路の初雪も、いつもの年より10日早いです。\n钏路的初雪也比往年早了10天。\nも = also",
+    "札幌の初雪は、いつもの年と同じ日でした。\n札幌的初雪和往年是同一天。\n同じ = the same",
+    "札幌では、夜中の2時ごろ、気温が急に下がって、雨がみぞれに変わりました。\n在札幌，半夜2点左右气温突然下降，雨变成了雨夹雪。\n気温 = temperature / 急に = suddenly / みぞれ = sleet",
+    "北陸や関東の高い山でも雪が降って、山の上が白くなりました。\n北陆和关东的高山也下了雪，山顶变白了。\n山 = mountain / 白い = white"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October thirtieth. Winter is coming early in northern Japan, with the first snow of the season. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月28日の朝、北海道の札幌などで、今年初めての雪が降りました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span class=\"vw\" data-ja=\"北海道\" data-reading=\"ほっかいどう\" data-en=\"Hokkaido\"><ruby>北海道<rt>ほっかいどう</rt></ruby></span>の<ruby>札幌<rt>さっぽろ</rt></ruby>などで、<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その年に初めて降る雪を、「初雪」といいます。",
+      "ruby": "その<ruby>年<rt>とし</rt></ruby>に<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"降る\" data-reading=\"ふる\" data-en=\"to fall (rain, snow)\"><ruby>降る<rt>ふる</rt></ruby></span><ruby>雪<rt>ゆき</rt></ruby>を、「<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "初雪が降ったのは、札幌、函館、室蘭、帯広、釧路、網走、青森の7つの町です。",
+      "ruby": "<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>たのは、<ruby>札幌<rt>さっぽろ</rt></ruby>、<ruby>函館<rt>はこだて</rt></ruby>、<ruby>室蘭<rt>むろらん</rt></ruby>、<ruby>帯広<rt>おびひろ</rt></ruby>、<ruby>釧路<rt>くしろ</rt></ruby>、<ruby>網走<rt>あばしり</rt></ruby>、<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"7つ\" data-reading=\"ななつ\" data-en=\"seven (things)\">7つの</span><ruby>町<rt>まち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森の初雪は、この冬、本州でいちばん早い初雪でした。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、この<ruby>冬<rt>ふゆ</rt></ruby>、<span class=\"vw\" data-ja=\"本州\" data-reading=\"ほんしゅう\" data-en=\"Honshu, Japan's main island\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>でいちばん<span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span><span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森の初雪は、いつもの年より11日早いです。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "釧路の初雪も、いつもの年より10日早いです。",
+      "ruby": "<ruby>釧路<rt>くしろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>も、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より<ruby>10日<rt>とおか</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌の初雪は、いつもの年と同じ日でした。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"the same\"><ruby>同じ<rt>おなじ</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌では、夜中の2時ごろ、気温が急に下がって、雨がみぞれに変わりました。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>では、<ruby>夜中<rt>よなか</rt></ruby>の2<ruby>時<rt>じ</rt></ruby>ごろ、<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span><ruby>下が<rt>さが</rt></ruby>って、<ruby>雨<rt>あめ</rt></ruby>がみぞれに<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "北陸や関東の高い山でも雪が降って、山の上が白くなりました。",
+      "ruby": "<ruby>北陸<rt>ほくりく</rt></ruby>や<ruby>関東<rt>かんとう</rt></ruby>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>でも<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>て、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>上が<rt>あが</rt></ruby><ruby>白く<rt>しろく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月28日の朝、北海道の札幌などで、今年初めての雪が降りました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span class=\"vw\" data-ja=\"北海道\" data-reading=\"ほっかいどう\" data-en=\"Hokkaido\"><ruby>北海道<rt>ほっかいどう</rt></ruby></span>の<ruby>札幌<rt>さっぽろ</rt></ruby>などで、<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of October twenty-eighth, the first snow of the year fell in places like Sapporo in Hokkaido."
+    },
+    {
+      "speaker": "vocab",
+      "text": "北海道",
+      "ruby": "<span class=\"vw\" data-ja=\"北海道\" data-reading=\"ほっかいどう\" data-en=\"Hokkaido\"><ruby>北海道<rt>ほっかいどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means Hokkaido, the big island in the far north of Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "降る",
+      "ruby": "<span class=\"vw\" data-ja=\"降る\" data-reading=\"ふる\" data-en=\"to fall (rain, snow)\"><ruby>降る<rt>ふる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fall, used for rain and snow."
+    },
+    {
+      "speaker": "slow",
+      "text": "その年に初めて降る雪を、「初雪」といいます。",
+      "ruby": "その<ruby>年<rt>とし</rt></ruby>に<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"降る\" data-reading=\"ふる\" data-en=\"to fall (rain, snow)\"><ruby>降る<rt>ふる</rt></ruby></span><ruby>雪<rt>ゆき</rt></ruby>を、「<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first snow that falls in a year is called by a special word."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初雪",
+      "ruby": "<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first snow of the season."
+    },
+    {
+      "speaker": "slow",
+      "text": "初雪が降ったのは、札幌、函館、室蘭、帯広、釧路、網走、青森の7つの町です。",
+      "ruby": "<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>たのは、<ruby>札幌<rt>さっぽろ</rt></ruby>、<ruby>函館<rt>はこだて</rt></ruby>、<ruby>室蘭<rt>むろらん</rt></ruby>、<ruby>帯広<rt>おびひろ</rt></ruby>、<ruby>釧路<rt>くしろ</rt></ruby>、<ruby>網走<rt>あばしり</rt></ruby>、<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"7つ\" data-reading=\"ななつ\" data-en=\"seven (things)\">7つの</span><ruby>町<rt>まち</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first snow fell in seven towns: Sapporo, Hakodate, Muroran, Obihiro, Kushiro, Abashiri, and Aomori."
+    },
+    {
+      "speaker": "vocab",
+      "text": "7つ",
+      "ruby": "<span class=\"vw\" data-ja=\"7つ\" data-reading=\"ななつ\" data-en=\"seven (things)\">7つ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means seven things."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森の初雪は、この冬、本州でいちばん早い初雪でした。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、この<ruby>冬<rt>ふゆ</rt></ruby>、<span class=\"vw\" data-ja=\"本州\" data-reading=\"ほんしゅう\" data-en=\"Honshu, Japan's main island\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>でいちばん<span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span><span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Aomori's first snow was the earliest this winter on Honshu."
+    },
+    {
+      "speaker": "vocab",
+      "text": "本州",
+      "ruby": "<span class=\"vw\" data-ja=\"本州\" data-reading=\"ほんしゅう\" data-en=\"Honshu, Japan's main island\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means Honshu, Japan's main island."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森の初雪は、いつもの年より11日早いです。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Aomori's first snow came eleven days earlier than in a usual year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "いつもの年",
+      "ruby": "<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a usual year, an average year."
+    },
+    {
+      "speaker": "slow",
+      "text": "釧路の初雪も、いつもの年より10日早いです。",
+      "ruby": "<ruby>釧路<rt>くしろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>も、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より<ruby>10日<rt>とおか</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kushiro's first snow was also ten days earlier than usual."
+    },
+    {
+      "speaker": "vocab",
+      "text": "早い",
+      "ruby": "<span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means early."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌の初雪は、いつもの年と同じ日でした。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"the same\"><ruby>同じ<rt>おなじ</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Sapporo, the first snow came on the same day as in a usual year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "同じ",
+      "ruby": "<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"the same\"><ruby>同じ<rt>おなじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the same."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌では、夜中の2時ごろ、気温が急に下がって、雨がみぞれに変わりました。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>では、<ruby>夜中<rt>よなか</rt></ruby>の2<ruby>時<rt>じ</rt></ruby>ごろ、<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span><ruby>下が<rt>さが</rt></ruby>って、<ruby>雨<rt>あめ</rt></ruby>がみぞれに<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Sapporo, around two in the middle of the night, the temperature dropped suddenly, and the rain turned into sleet."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気温",
+      "ruby": "<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the air temperature."
+    },
+    {
+      "speaker": "vocab",
+      "text": "急に",
+      "ruby": "<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suddenly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "みぞれ",
+      "ruby": "<span class=\"vw\" data-ja=\"みぞれ\" data-reading=\"みぞれ\" data-en=\"sleet\">みぞれ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sleet, rain mixed with snow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変わる",
+      "ruby": "<span class=\"vw\" data-ja=\"変わる\" data-reading=\"かわる\" data-en=\"to change\"><ruby>変わ<rt>かわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to change."
+    },
+    {
+      "speaker": "slow",
+      "text": "北陸や関東の高い山でも雪が降って、山の上が白くなりました。",
+      "ruby": "<ruby>北陸<rt>ほくりく</rt></ruby>や<ruby>関東<rt>かんとう</rt></ruby>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>でも<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>て、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>上が<rt>あが</rt></ruby><ruby>白く<rt>しろく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Snow also fell on high mountains in Hokuriku and Kanto, and the mountain tops turned white."
+    },
+    {
+      "speaker": "vocab",
+      "text": "山",
+      "ruby": "<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a mountain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "白い",
+      "ruby": "<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means white."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月28日の朝、北海道の札幌などで、今年初めての雪が降りました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span class=\"vw\" data-ja=\"北海道\" data-reading=\"ほっかいどう\" data-en=\"Hokkaido\"><ruby>北海道<rt>ほっかいどう</rt></ruby></span>の<ruby>札幌<rt>さっぽろ</rt></ruby>などで、<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その年に初めて降る雪を、「初雪」といいます。",
+      "ruby": "その<ruby>年<rt>とし</rt></ruby>に<ruby>初めて<rt>はじめて</rt></ruby><span class=\"vw\" data-ja=\"降る\" data-reading=\"ふる\" data-en=\"to fall (rain, snow)\"><ruby>降る<rt>ふる</rt></ruby></span><ruby>雪<rt>ゆき</rt></ruby>を、「<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "初雪が降ったのは、札幌、函館、室蘭、帯広、釧路、網走、青森の7つの町です。",
+      "ruby": "<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>たのは、<ruby>札幌<rt>さっぽろ</rt></ruby>、<ruby>函館<rt>はこだて</rt></ruby>、<ruby>室蘭<rt>むろらん</rt></ruby>、<ruby>帯広<rt>おびひろ</rt></ruby>、<ruby>釧路<rt>くしろ</rt></ruby>、<ruby>網走<rt>あばしり</rt></ruby>、<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"7つ\" data-reading=\"ななつ\" data-en=\"seven (things)\">7つの</span><ruby>町<rt>まち</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森の初雪は、この冬、本州でいちばん早い初雪でした。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、この<ruby>冬<rt>ふゆ</rt></ruby>、<span class=\"vw\" data-ja=\"本州\" data-reading=\"ほんしゅう\" data-en=\"Honshu, Japan's main island\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>でいちばん<span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span><span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "青森の初雪は、いつもの年より11日早いです。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "釧路の初雪も、いつもの年より10日早いです。",
+      "ruby": "<ruby>釧路<rt>くしろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>も、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より<ruby>10日<rt>とおか</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌の初雪は、いつもの年と同じ日でした。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>と<span class=\"vw\" data-ja=\"同じ\" data-reading=\"おなじ\" data-en=\"the same\"><ruby>同じ<rt>おなじ</rt></ruby></span><ruby>日<rt>ひ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌では、夜中の2時ごろ、気温が急に下がって、雨がみぞれに変わりました。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>では、<ruby>夜中<rt>よなか</rt></ruby>の2<ruby>時<rt>じ</rt></ruby>ごろ、<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"急に\" data-reading=\"きゅうに\" data-en=\"suddenly\"><ruby>急に<rt>きゅうに</rt></ruby></span><ruby>下が<rt>さが</rt></ruby>って、<ruby>雨<rt>あめ</rt></ruby>がみぞれに<ruby>変わり<rt>かわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "北陸や関東の高い山でも雪が降って、山の上が白くなりました。",
+      "ruby": "<ruby>北陸<rt>ほくりく</rt></ruby>や<ruby>関東<rt>かんとう</rt></ruby>の<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>でも<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>て、<span class=\"vw\" data-ja=\"山\" data-reading=\"やま\" data-en=\"mountain\"><ruby>山<rt>やま</rt></ruby></span>の<ruby>上が<rt>あが</rt></ruby><ruby>白く<rt>しろく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "初雪が降ったのは、いくつの町ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>が<ruby>降っ<rt>ふっ</rt></ruby>たのは、いくつの<ruby>町<rt>まち</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven towns."
+    },
+    {
+      "speaker": "slow",
+      "text": "青森の初雪は、いつもの年より何日早いですか。",
+      "ruby": "<ruby>青森<rt>あおもり</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より<ruby>何日<rt>なんにち</rt></ruby><span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eleven days earlier."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌では、雨が何に変わりましたか。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>では、<ruby>雨<rt>あめ</rt></ruby>が<ruby>何<rt>なに</rt></ruby>に<ruby>変わり<rt>かわり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It turned into sleet, rain mixed with snow."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌の初雪は、いつもの年より早いですか。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<span class=\"vw\" data-ja=\"初雪\" data-reading=\"はつゆき\" data-en=\"first snow of the season\"><ruby>初雪<rt>はつゆき</rt></ruby></span>は、<span class=\"vw\" data-ja=\"いつもの年\" data-reading=\"いつものとし\" data-en=\"a usual year\">いつもの<ruby>年<rt>とし</rt></ruby></span>より<span class=\"vw\" data-ja=\"早い\" data-reading=\"はやい\" data-en=\"early\"><ruby>早い<rt>はやい</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No. It came on the same day as in a usual year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Stay warm, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
