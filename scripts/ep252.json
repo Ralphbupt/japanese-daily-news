@@ -1,0 +1,677 @@
+{
+  "episode": 252,
+  "title": "卵の値段、1パック312円で過去最高に",
+  "date": "2026-10-29",
+  "source": "農林水産省 / TBS NEWS DIG / 共同通信",
+  "level": "N4-N3",
+  "contentVersion": "2026102901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表，公布"
+    },
+    {
+      "ja": "全国",
+      "reading": "ぜんこく",
+      "en": "the whole country, nationwide",
+      "zh": "全国"
+    },
+    {
+      "ja": "農林水産省",
+      "reading": "のうりんすいさんしょう",
+      "en": "Ministry of Agriculture, Forestry and Fisheries",
+      "zh": "农林水产省"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "先月",
+      "reading": "せんげつ",
+      "en": "last month",
+      "zh": "上个月"
+    },
+    {
+      "ja": "調べる",
+      "reading": "しらべる",
+      "en": "to check, to investigate",
+      "zh": "调查"
+    },
+    {
+      "ja": "原因",
+      "reading": "げんいん",
+      "en": "cause",
+      "zh": "原因"
+    },
+    {
+      "ja": "数",
+      "reading": "かず",
+      "en": "number",
+      "zh": "数量"
+    },
+    {
+      "ja": "広がる",
+      "reading": "ひろがる",
+      "en": "to spread",
+      "zh": "蔓延，扩散"
+    },
+    {
+      "ja": "産む",
+      "reading": "うむ",
+      "en": "to lay (eggs), to give birth",
+      "zh": "产（卵），生"
+    },
+    {
+      "ja": "少なくなる",
+      "reading": "すくなくなる",
+      "en": "to decrease",
+      "zh": "变少"
+    },
+    {
+      "ja": "年末",
+      "reading": "ねんまつ",
+      "en": "end of the year",
+      "zh": "年底"
+    },
+    {
+      "ja": "輸入",
+      "reading": "ゆにゅう",
+      "en": "import",
+      "zh": "进口"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    },
+    {
+      "ja": "円安",
+      "reading": "えんやす",
+      "en": "weak yen",
+      "zh": "日元贬值"
+    },
+    {
+      "ja": "過去最高",
+      "reading": "かこさいこう",
+      "en": "record high",
+      "zh": "历史最高"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てから",
+      "meaning": "since ~, after ~",
+      "meaningZh": "自从……以后",
+      "formation": "verb て-form + から",
+      "example": "2003年に調べ始めてから、いちばん高い値段です。",
+      "translation": "It is the highest price since the survey began in 2003.",
+      "note": "Marks the starting point of a period.",
+      "noteZh": "表示某个时间段的起点。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜始める",
+      "meaning": "to start ~ing",
+      "meaningZh": "开始……",
+      "formation": "verb ます-stem + 始める",
+      "example": "2003年に調べ始めてから、いちばん高い値段です。",
+      "translation": "Since they started checking in 2003.",
+      "note": "Attach to a verb stem to say an action begins.",
+      "noteZh": "接在动词ます形词干后，表示动作开始。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    },
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~",
+      "meaningZh": "到……为止",
+      "formation": "verb dictionary form / noun + まで",
+      "example": "新しいにわとりが卵を産むまで、5か月から6か月かかります。",
+      "translation": "It takes five to six months until new hens lay eggs.",
+      "note": "Shows the end point of time or an action.",
+      "noteZh": "表示时间或动作的终点。",
+      "level": "N5",
+      "jpnotesLink": "https://jpnotes.dev/N5/grammar-list/"
+    },
+    {
+      "pattern": "〜くなる",
+      "meaning": "to become ~",
+      "meaningZh": "变得……",
+      "formation": "い-adjective stem + くなる",
+      "example": "卵の値段が、また高くなりました。",
+      "translation": "Egg prices have gone up again.",
+      "note": "Shows a change in state with い-adjectives.",
+      "noteZh": "接在い形容词后，表示状态的变化。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/"
+    }
+  ],
+  "practiceZh": [
+    "今日のニュースです。\n今天的新闻。",
+    "卵の値段が、また高くなりました。\n鸡蛋价格又上涨了。\n値段 = price",
+    "農林水産省が、10月の食品の値段を調べて、発表しました。\n农林水产省调查并公布了10月份的食品价格。\n発表する = to announce",
+    "全国のスーパー、470の店で調べました。\n在全国470家超市进行了调查。\n全国 = the whole country, nationwide",
+    "卵10個入りの1パックは、平均312円でした。\n一盒10个装的鸡蛋平均价格为312日元。\n平均 = average",
+    "先月より3円上がりました。\n比上个月贵了3日元。\n先月 = last month",
+    "2003年に調べ始めてから、いちばん高い値段です。\n这是自2003年开始调查以来的最高价格。\n調べる = to check, to investigate",
+    "原因は、去年の冬に広がった鳥インフルエンザです。\n原因是去年冬天蔓延的禽流感。\n原因 = cause",
+    "たくさんのにわとりが死んで、卵の数が少なくなりました。\n很多鸡死了，鸡蛋数量减少了。\n数 = number",
+    "新しいにわとりが卵を産むまで、5か月から6か月かかります。\n新的母鸡到产蛋需要5到6个月。\n産む = to lay (eggs), to give birth",
+    "また、年末は、おでんやケーキで卵を使う人が増えます。\n另外，年底用鸡蛋做关东煮和蛋糕的人会增加。\n年末 = end of the year",
+    "輸入した牛肉も、100グラム451円で、いちばん高い値段と同じになりました。\n进口牛肉也达到每100克451日元，与最高价持平。\n輸入 = import",
+    "円安や、アメリカで雨が少ないことが原因です。\n原因是日元贬值以及美国降雨少。\n円安 = weak yen",
+    "とりのもも肉も、100グラム156円で、過去最高になりました。\n鸡腿肉也达到每100克156日元，创历史最高。\n過去最高 = record high"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twenty-ninth. Egg prices in Japan have hit a record high. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "卵の値段が、また高くなりました。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、また<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産省が、10月の食品の値段を調べて、発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>が、10<ruby>月<rt>がつ</rt></ruby>の<ruby>食品<rt>しょくひん</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>て、<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国のスーパー、470の店で調べました。",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>のスーパー、470の<ruby>店<rt>みせ</rt></ruby>で<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "卵10個入りの1パックは、平均312円でした。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>10<ruby>個<rt>こ</rt></ruby><ruby>入り<rt>いり</rt></ruby>の1パックは、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>312<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "先月より3円上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"先月\" data-reading=\"せんげつ\" data-en=\"last month\"><ruby>先月<rt>せんげつ</rt></ruby></span>より3<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2003年に調べ始めてから、いちばん高い値段です。",
+      "ruby": "2003<ruby>年<rt>ねん</rt></ruby>に<ruby>調べ<rt>しらべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、いちばん<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "原因は、去年の冬に広がった鳥インフルエンザです。",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>広が<rt>ひろが</rt></ruby>った<ruby>鳥<rt>とり</rt></ruby>インフルエンザです。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんのにわとりが死んで、卵の数が少なくなりました。",
+      "ruby": "たくさんのにわとりが<ruby>死<rt>し</rt></ruby>んで、<ruby>卵<rt>たまご</rt></ruby>の<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少なく<rt>すくなく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいにわとりが卵を産むまで、5か月から6か月かかります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>にわとりが<ruby>卵<rt>たまご</rt></ruby>を<span class=\"vw\" data-ja=\"産む\" data-reading=\"うむ\" data-en=\"to lay (eggs), to give birth\"><ruby>産む<rt>うむ</rt></ruby></span>まで、5か<ruby>月<rt>げつ</rt></ruby>から6か<ruby>月<rt>げつ</rt></ruby>かかります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、年末は、おでんやケーキで卵を使う人が増えます。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"年末\" data-reading=\"ねんまつ\" data-en=\"end of the year\"><ruby>年末<rt>ねんまつ</rt></ruby></span>は、おでんやケーキで<ruby>卵<rt>たまご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "輸入した牛肉も、100グラム451円で、いちばん高い値段と同じになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>も、100グラム451<ruby>円<rt>えん</rt></ruby>で、いちばん<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>と<ruby>同じ<rt>おなじ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "円安や、アメリカで雨が少ないことが原因です。",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>や、アメリカで<ruby>雨<rt>あめ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ことが<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "とりのもも肉も、100グラム156円で、過去最高になりました。",
+      "ruby": "とりのもも<ruby>肉<rt>にく</rt></ruby>も、100グラム156<ruby>円<rt>えん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's go through it slowly."
+    },
+    {
+      "speaker": "slow",
+      "text": "卵の値段が、また高くなりました。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、また<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Egg prices have gone up again."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "農林水産省が、10月の食品の値段を調べて、発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>が、10<ruby>月<rt>がつ</rt></ruby>の<ruby>食品<rt>しょくひん</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>て、<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The farm ministry checked October food prices and announced the results."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国のスーパー、470の店で調べました。",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>のスーパー、470の<ruby>店<rt>みせ</rt></ruby>で<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "They checked four hundred seventy supermarkets across the country."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全国",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the whole country."
+    },
+    {
+      "speaker": "vocab",
+      "text": "農林水産省",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the ministry for farming and food."
+    },
+    {
+      "speaker": "slow",
+      "text": "卵10個入りの1パックは、平均312円でした。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>10<ruby>個<rt>こ</rt></ruby><ruby>入り<rt>いり</rt></ruby>の1パックは、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>312<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "A pack of ten eggs cost three hundred twelve yen on average."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means average."
+    },
+    {
+      "speaker": "slow",
+      "text": "先月より3円上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"先月\" data-reading=\"せんげつ\" data-en=\"last month\"><ruby>先月<rt>せんげつ</rt></ruby></span>より3<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is up three yen from last month."
+    },
+    {
+      "speaker": "vocab",
+      "text": "先月",
+      "ruby": "<span class=\"vw\" data-ja=\"先月\" data-reading=\"せんげつ\" data-en=\"last month\"><ruby>先月<rt>せんげつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means last month."
+    },
+    {
+      "speaker": "slow",
+      "text": "2003年に調べ始めてから、いちばん高い値段です。",
+      "ruby": "2003<ruby>年<rt>ねん</rt></ruby>に<ruby>調べ<rt>しらべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、いちばん<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is the highest price since the survey began in two thousand three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調べる",
+      "ruby": "<span class=\"vw\" data-ja=\"調べる\" data-reading=\"しらべる\" data-en=\"to check, to investigate\"><ruby>調べ<rt>しらべ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to check or look into."
+    },
+    {
+      "speaker": "slow",
+      "text": "原因は、去年の冬に広がった鳥インフルエンザです。",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>広が<rt>ひろが</rt></ruby>った<ruby>鳥<rt>とり</rt></ruby>インフルエンザです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The cause is the bird flu that spread last winter."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原因",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cause."
+    },
+    {
+      "speaker": "slow",
+      "text": "たくさんのにわとりが死んで、卵の数が少なくなりました。",
+      "ruby": "たくさんのにわとりが<ruby>死<rt>し</rt></ruby>んで、<ruby>卵<rt>たまご</rt></ruby>の<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少なく<rt>すくなく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Many chickens died, so the number of eggs went down."
+    },
+    {
+      "speaker": "vocab",
+      "text": "数",
+      "ruby": "<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number\"><ruby>数<rt>かず</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means number or amount."
+    },
+    {
+      "speaker": "vocab",
+      "text": "広がる",
+      "ruby": "<span class=\"vw\" data-ja=\"広がる\" data-reading=\"ひろがる\" data-en=\"to spread\"><ruby>広が<rt>ひろが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to spread."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいにわとりが卵を産むまで、5か月から6か月かかります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>にわとりが<ruby>卵<rt>たまご</rt></ruby>を<span class=\"vw\" data-ja=\"産む\" data-reading=\"うむ\" data-en=\"to lay (eggs), to give birth\"><ruby>産む<rt>うむ</rt></ruby></span>まで、5か<ruby>月<rt>げつ</rt></ruby>から6か<ruby>月<rt>げつ</rt></ruby>かかります。"
+    },
+    {
+      "speaker": "host",
+      "text": "New hens need five to six months before they lay eggs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "産む",
+      "ruby": "<span class=\"vw\" data-ja=\"産む\" data-reading=\"うむ\" data-en=\"to lay (eggs), to give birth\"><ruby>産む<rt>うむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to lay eggs or give birth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "少なくなる",
+      "ruby": "<span class=\"vw\" data-ja=\"少なくなる\" data-reading=\"すくなくなる\" data-en=\"to decrease\"><ruby>少なく<rt>すくなく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to become fewer."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、年末は、おでんやケーキで卵を使う人が増えます。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"年末\" data-reading=\"ねんまつ\" data-en=\"end of the year\"><ruby>年末<rt>ねんまつ</rt></ruby></span>は、おでんやケーキで<ruby>卵<rt>たまご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, at the end of the year, more people use eggs in winter stews and cakes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "年末",
+      "ruby": "<span class=\"vw\" data-ja=\"年末\" data-reading=\"ねんまつ\" data-en=\"end of the year\"><ruby>年末<rt>ねんまつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the end of the year."
+    },
+    {
+      "speaker": "slow",
+      "text": "輸入した牛肉も、100グラム451円で、いちばん高い値段と同じになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>も、100グラム451<ruby>円<rt>えん</rt></ruby>で、いちばん<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>と<ruby>同じ<rt>おなじ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Imported beef was four hundred fifty-one yen per hundred grams, tying its record."
+    },
+    {
+      "speaker": "vocab",
+      "text": "輸入",
+      "ruby": "<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means import."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase."
+    },
+    {
+      "speaker": "slow",
+      "text": "円安や、アメリカで雨が少ないことが原因です。",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>や、アメリカで<ruby>雨<rt>あめ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ことが<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weak yen and dry weather in America are the causes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "円安",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the yen is weak."
+    },
+    {
+      "speaker": "slow",
+      "text": "とりのもも肉も、100グラム156円で、過去最高になりました。",
+      "ruby": "とりのもも<ruby>肉<rt>にく</rt></ruby>も、100グラム156<ruby>円<rt>えん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Chicken thigh was one hundred fifty-six yen per hundred grams, a record high."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過去最高",
+      "ruby": "<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the highest ever."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full news again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "卵の値段が、また高くなりました。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が、また<ruby>高く<rt>たかく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "農林水産省が、10月の食品の値段を調べて、発表しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"農林水産省\" data-reading=\"のうりんすいさんしょう\" data-en=\"Ministry of Agriculture, Forestry and Fisheries\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>が、10<ruby>月<rt>がつ</rt></ruby>の<ruby>食品<rt>しょくひん</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>調べ<rt>しらべ</rt></ruby>て、<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国のスーパー、470の店で調べました。",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>のスーパー、470の<ruby>店<rt>みせ</rt></ruby>で<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "卵10個入りの1パックは、平均312円でした。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>10<ruby>個<rt>こ</rt></ruby><ruby>入り<rt>いり</rt></ruby>の1パックは、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>312<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "先月より3円上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"先月\" data-reading=\"せんげつ\" data-en=\"last month\"><ruby>先月<rt>せんげつ</rt></ruby></span>より3<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2003年に調べ始めてから、いちばん高い値段です。",
+      "ruby": "2003<ruby>年<rt>ねん</rt></ruby>に<ruby>調べ<rt>しらべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、いちばん<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "原因は、去年の冬に広がった鳥インフルエンザです。",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>広が<rt>ひろが</rt></ruby>った<ruby>鳥<rt>とり</rt></ruby>インフルエンザです。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんのにわとりが死んで、卵の数が少なくなりました。",
+      "ruby": "たくさんのにわとりが<ruby>死<rt>し</rt></ruby>んで、<ruby>卵<rt>たまご</rt></ruby>の<span class=\"vw\" data-ja=\"数\" data-reading=\"かず\" data-en=\"number\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少なく<rt>すくなく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいにわとりが卵を産むまで、5か月から6か月かかります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>にわとりが<ruby>卵<rt>たまご</rt></ruby>を<span class=\"vw\" data-ja=\"産む\" data-reading=\"うむ\" data-en=\"to lay (eggs), to give birth\"><ruby>産む<rt>うむ</rt></ruby></span>まで、5か<ruby>月<rt>げつ</rt></ruby>から6か<ruby>月<rt>げつ</rt></ruby>かかります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、年末は、おでんやケーキで卵を使う人が増えます。",
+      "ruby": "また、<span class=\"vw\" data-ja=\"年末\" data-reading=\"ねんまつ\" data-en=\"end of the year\"><ruby>年末<rt>ねんまつ</rt></ruby></span>は、おでんやケーキで<ruby>卵<rt>たまご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "輸入した牛肉も、100グラム451円で、いちばん高い値段と同じになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>も、100グラム451<ruby>円<rt>えん</rt></ruby>で、いちばん<ruby>高い<rt>たかい</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>と<ruby>同じ<rt>おなじ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "円安や、アメリカで雨が少ないことが原因です。",
+      "ruby": "<span class=\"vw\" data-ja=\"円安\" data-reading=\"えんやす\" data-en=\"weak yen\"><ruby>円安<rt>えんやす</rt></ruby></span>や、アメリカで<ruby>雨<rt>あめ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ことが<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "とりのもも肉も、100グラム156円で、過去最高になりました。",
+      "ruby": "とりのもも<ruby>肉<rt>にく</rt></ruby>も、100グラム156<ruby>円<rt>えん</rt></ruby>で、<span class=\"vw\" data-ja=\"過去最高\" data-reading=\"かこさいこう\" data-en=\"record high\"><ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "卵10個入りの1パックは、平均いくらでしたか。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>10<ruby>個<rt>こ</rt></ruby><ruby>入り<rt>いり</rt></ruby>の1パックは、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>いくらでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three hundred twelve yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "卵が少なくなった原因は何ですか。",
+      "ruby": "<ruby>卵<rt>たまご</rt></ruby>が<ruby>少なく<rt>すくなく</rt></ruby>なった<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bird flu that spread last winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "輸入した牛肉は、100グラムいくらでしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"輸入\" data-reading=\"ゆにゅう\" data-en=\"import\"><ruby>輸入<rt>ゆにゅう</rt></ruby></span>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は、100グラムいくらでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four hundred fifty-one yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいにわとりが卵を産むまで、どのくらいかかりますか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>にわとりが<ruby>卵<rt>たまご</rt></ruby>を<span class=\"vw\" data-ja=\"産む\" data-reading=\"うむ\" data-en=\"to lay (eggs), to give birth\"><ruby>産む<rt>うむ</rt></ruby></span>まで、どのくらいかかりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five to six months."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
