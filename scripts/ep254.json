@@ -1,0 +1,568 @@
+{
+  "episode": 254,
+  "title": "「千鳥饅頭」の千鳥屋本家、破産へ",
+  "date": "2026-10-30",
+  "source": "読売新聞 / 東京商工リサーチ / 西日本新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026103001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "破産",
+      "reading": "はさん",
+      "en": "bankruptcy",
+      "zh": "破产"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    },
+    {
+      "ja": "老舗",
+      "reading": "しにせ",
+      "en": "long-established shop",
+      "zh": "老字号"
+    },
+    {
+      "ja": "おみやげ",
+      "reading": "おみやげ",
+      "en": "souvenir",
+      "zh": "伴手礼，特产"
+    },
+    {
+      "ja": "経営",
+      "reading": "けいえい",
+      "en": "business management",
+      "zh": "经营"
+    },
+    {
+      "ja": "原因",
+      "reading": "げんいん",
+      "en": "cause",
+      "zh": "原因"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease",
+      "zh": "减少"
+    },
+    {
+      "ja": "立て直す",
+      "reading": "たてなおす",
+      "en": "to rebuild, to restore",
+      "zh": "重建，重整"
+    },
+    {
+      "ja": "裁判所",
+      "reading": "さいばんしょ",
+      "en": "court of law",
+      "zh": "法院"
+    },
+    {
+      "ja": "手続き",
+      "reading": "てつづき",
+      "en": "procedure",
+      "zh": "手续，程序"
+    },
+    {
+      "ja": "借金",
+      "reading": "しゃっきん",
+      "en": "debt",
+      "zh": "债务，欠款"
+    },
+    {
+      "ja": "引き継ぐ",
+      "reading": "ひきつぐ",
+      "en": "to take over",
+      "zh": "接手，继承"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it is decided / it turns out that ~",
+      "meaningZh": "决定……；（结果）变成……",
+      "formation": "Verb (dictionary form) + ことになる",
+      "example": "「千鳥饅頭」を作っている会社が、破産することになりそうです。",
+      "translation": "The company that makes the bun looks set to go bankrupt.",
+      "note": "Used when something is decided by circumstances or by others, not by the speaker. With そうです it means 'it looks like ~ will happen'.",
+      "noteZh": "表示由外部情况或他人决定的结果，而不是说话人自己的决定。加上「そうです」表示“看样子会……”。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と言われている",
+      "meaning": "it is said that ~",
+      "meaningZh": "据说……；人们认为……",
+      "formation": "Plain form + と言われている",
+      "example": "物の値段が上がったことも、原因だと言われています。",
+      "translation": "Rising prices are also said to be a cause.",
+      "note": "Reports a widely held view or what people generally say, common in news.",
+      "noteZh": "用于转述一般的说法或普遍看法，新闻中很常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ための + Noun",
+      "meaning": "a ~ for the purpose of …",
+      "meaningZh": "为了……的（名词）",
+      "formation": "Verb (dictionary form) + ための + Noun",
+      "example": "会社を立て直すための手続きを、裁判所に申し立てていました。",
+      "translation": "The company had applied to the court for a procedure to rebuild itself.",
+      "note": "ための links a purpose to the noun that follows it.",
+      "noteZh": "「ための」把目的修饰到后面的名词上，相当于“为了……的……”。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "Verb (dictionary form) + ことができる",
+      "example": "店では今も、いつもどおり千鳥饅頭を買うことができます。",
+      "translation": "You can still buy the buns at the shops as usual.",
+      "note": "A slightly formal way to express ability or possibility.",
+      "noteZh": "表示能力或可能性，比可能形稍微正式。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "福岡県の有名なお菓子「千鳥饅頭」を作っている会社が、破産することになりそうです。\n福冈县的著名点心“千鸟馒头”的制造公司看来将要破产。\n破産 = bankruptcy",
+    "千鳥屋の歴史はとても古く、始まりは1630年です。\n千鸟屋历史悠久，始于1630年。\n歴史 = history",
+    "およそ400年も続いてきた、老舗のお菓子屋さんです。\n这是一家延续了大约400年的老字号点心店。\n老舗 = long-established shop",
+    "千鳥饅頭は、福岡のおみやげとして、多くの人に知られています。\n千鸟馒头作为福冈的伴手礼，广为人知。\nおみやげ = souvenir",
+    "しかし、コロナの間に借りたお金で、会社の経営が苦しくなりました。\n但是，由于新冠期间借的钱，公司经营变得困难。\n経営 = business management",
+    "物の値段が上がったことや、買い物をする人が減ったことも、原因だと言われています。\n据说物价上涨、购物的人减少也是原因。\n原因 = cause",
+    "店の数は、多い時は65ありましたが、44まで減りました。\n店铺数量最多时有65家，后来减少到44家。\n減る = to decrease",
+    "会社は今年の2月、会社を立て直すための手続きを、裁判所に申し立てていました。\n公司今年2月曾向法院申请了重整公司的手续。\n立て直す = to rebuild, to restore / 裁判所 = court of law",
+    "しかし、福岡の裁判所は10月13日、この手続きをやめると決めました。\n但是，福冈的法院在10月13日决定终止这一手续。\n手続き = procedure",
+    "借金は、グループの4つの会社を合わせて、およそ22億7000万円です。\n集团4家公司的债务合计约22亿7000万日元。\n借金 = debt",
+    "今は、親せきが経営する別の会社「千鳥屋宗家」が、店や工場を引き継いで、営業を続けています。\n现在，由亲属经营的另一家公司“千鸟屋宗家”接手了店铺和工厂，继续营业。\n引き継ぐ = to take over"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October thirtieth. A famous sweet maker in Fukuoka, about four hundred years old, is heading for bankruptcy. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "福岡県の有名なお菓子「千鳥饅頭」を作っている会社が、破産することになりそうです。",
+      "ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>菓子<rt>かし</rt></ruby>「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>」を<ruby>作っ<rt>つくっ</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>が、<span class=\"vw\" data-ja=\"破産\" data-reading=\"はさん\" data-en=\"bankruptcy\"><ruby>破産<rt>はさん</rt></ruby></span>することになりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の名前は「千鳥屋本家」で、福岡県の飯塚市にあります。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby><ruby>本家<rt>ほんけ</rt></ruby>」で、<ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>飯塚市<rt>いいづかし</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "千鳥屋の歴史はとても古く、始まりは1630年です。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>はとても<ruby>古く<rt>ふるく</rt></ruby>、<ruby>始まり<rt>はじまり</rt></ruby>は1630<ruby>年<rt>ねん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "およそ400年も続いてきた、老舗のお菓子屋さんです。",
+      "ruby": "およそ400<ruby>年<rt>ねん</rt></ruby>も<ruby>続い<rt>つづい</rt></ruby>てきた、<span class=\"vw\" data-ja=\"老舗\" data-reading=\"しにせ\" data-en=\"long-established shop\"><ruby>老舗<rt>しにせ</rt></ruby></span>のお<ruby>菓子屋<rt>かしや</rt></ruby>さんです。"
+    },
+    {
+      "speaker": "news",
+      "text": "千鳥饅頭は、福岡のおみやげとして、多くの人に知られています。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>は、<ruby>福岡<rt>ふくおか</rt></ruby>のおみやげとして、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>知ら<rt>しら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、コロナの間に借りたお金で、会社の経営が苦しくなりました。",
+      "ruby": "しかし、コロナの<ruby>間<rt>あいだ</rt></ruby>に<ruby>借り<rt>かり</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>苦しく<rt>くるしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物の値段が上がったことや、買い物をする人が減ったことも、原因だと言われています。",
+      "ruby": "<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>ったことや、<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも、<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の数は、多い時は65ありましたが、44まで減りました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は、<ruby>多い<rt>おおい</rt></ruby><ruby>時<rt>とき</rt></ruby>は65ありましたが、44まで<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は今年の2月、会社を立て直すための手続きを、裁判所に申し立てていました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の2<ruby>月<rt>がつ</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"vw\" data-ja=\"立て直す\" data-reading=\"たてなおす\" data-en=\"to rebuild, to restore\"><ruby>立て直す<rt>たてなおす</rt></ruby></span>ための<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>を、<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>に<ruby>申し<rt>もうし</rt></ruby><ruby>立て<rt>たて</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、福岡の裁判所は10月13日、この手続きをやめると決めました。",
+      "ruby": "しかし、<ruby>福岡<rt>ふくおか</rt></ruby>の<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>をやめると<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "借金は、グループの4つの会社を合わせて、およそ22億7000万円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"借金\" data-reading=\"しゃっきん\" data-en=\"debt\"><ruby>借金<rt>しゃっきん</rt></ruby></span>は、グループの4つの<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて、およそ22<ruby>億<rt>おく</rt></ruby>7000<ruby>万円<rt>まんえん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今は、親せきが経営する別の会社「千鳥屋宗家」が、店や工場を引き継いで、営業を続けています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>親<rt>しん</rt></ruby>せきが<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営す<rt>けいえいす</rt></ruby></span>る<ruby>別の<rt>べつの</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby><ruby>宗家<rt>そうけ</rt></ruby>」が、<ruby>店<rt>みせ</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>引き継い<rt>ひきつい</rt></ruby>で、<ruby>営業<rt>えいぎょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、店では今も、いつもどおり千鳥饅頭を買うことができます。",
+      "ruby": "そのため、<ruby>店<rt>みせ</rt></ruby>では<ruby>今<rt>いま</rt></ruby>も、いつもどおり<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "福岡県の有名なお菓子「千鳥饅頭」を作っている会社が、破産することになりそうです。",
+      "ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>菓子<rt>かし</rt></ruby>「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>」を<ruby>作っ<rt>つくっ</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>が、<span class=\"vw\" data-ja=\"破産\" data-reading=\"はさん\" data-en=\"bankruptcy\"><ruby>破産<rt>はさん</rt></ruby></span>することになりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "A company that makes a famous Fukuoka sweet, a kind of bun filled with bean paste, looks set to go bankrupt."
+    },
+    {
+      "speaker": "vocab",
+      "text": "破産",
+      "ruby": "<span class=\"vw\" data-ja=\"破産\" data-reading=\"はさん\" data-en=\"bankruptcy\"><ruby>破産<rt>はさん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bankruptcy."
+    },
+    {
+      "speaker": "slow",
+      "text": "千鳥屋の歴史はとても古く、始まりは1630年です。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>はとても<ruby>古く<rt>ふるく</rt></ruby>、<ruby>始まり<rt>はじまり</rt></ruby>は1630<ruby>年<rt>ねん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Chidoriya has a very long history. It began in sixteen thirty."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history."
+    },
+    {
+      "speaker": "slow",
+      "text": "およそ400年も続いてきた、老舗のお菓子屋さんです。",
+      "ruby": "およそ400<ruby>年<rt>ねん</rt></ruby>も<ruby>続い<rt>つづい</rt></ruby>てきた、<span class=\"vw\" data-ja=\"老舗\" data-reading=\"しにせ\" data-en=\"long-established shop\"><ruby>老舗<rt>しにせ</rt></ruby></span>のお<ruby>菓子屋<rt>かしや</rt></ruby>さんです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a long-established sweet shop that has continued for about four hundred years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "老舗",
+      "ruby": "<span class=\"vw\" data-ja=\"老舗\" data-reading=\"しにせ\" data-en=\"long-established shop\"><ruby>老舗<rt>しにせ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a long-established shop."
+    },
+    {
+      "speaker": "slow",
+      "text": "千鳥饅頭は、福岡のおみやげとして、多くの人に知られています。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>は、<ruby>福岡<rt>ふくおか</rt></ruby>のおみやげとして、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>知ら<rt>しら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bun is known to many people as a souvenir from Fukuoka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おみやげ",
+      "ruby": "<span class=\"vw\" data-ja=\"おみやげ\" data-reading=\"おみやげ\" data-en=\"souvenir\">おみやげ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a souvenir or gift from a trip."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、コロナの間に借りたお金で、会社の経営が苦しくなりました。",
+      "ruby": "しかし、コロナの<ruby>間<rt>あいだ</rt></ruby>に<ruby>借り<rt>かり</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>苦しく<rt>くるしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But money borrowed during the pandemic made the business difficult."
+    },
+    {
+      "speaker": "vocab",
+      "text": "経営",
+      "ruby": "<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営<rt>けいえい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means running a business."
+    },
+    {
+      "speaker": "slow",
+      "text": "物の値段が上がったことや、買い物をする人が減ったことも、原因だと言われています。",
+      "ruby": "<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>ったことや、<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも、<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Rising prices and fewer shoppers are also said to be causes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "原因",
+      "ruby": "<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cause."
+    },
+    {
+      "speaker": "slow",
+      "text": "店の数は、多い時は65ありましたが、44まで減りました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は、<ruby>多い<rt>おおい</rt></ruby><ruby>時<rt>とき</rt></ruby>は65ありましたが、44まで<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At its peak there were sixty-five shops, but that fell to forty-four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は今年の2月、会社を立て直すための手続きを、裁判所に申し立てていました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の2<ruby>月<rt>がつ</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"vw\" data-ja=\"立て直す\" data-reading=\"たてなおす\" data-en=\"to rebuild, to restore\"><ruby>立て直す<rt>たてなおす</rt></ruby></span>ための<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>を、<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>に<ruby>申し<rt>もうし</rt></ruby><ruby>立て<rt>たて</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In February, the company asked a court for a procedure to rebuild itself."
+    },
+    {
+      "speaker": "vocab",
+      "text": "立て直す",
+      "ruby": "<span class=\"vw\" data-ja=\"立て直す\" data-reading=\"たてなおす\" data-en=\"to rebuild, to restore\"><ruby>立て直す<rt>たてなおす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to rebuild or restore."
+    },
+    {
+      "speaker": "vocab",
+      "text": "裁判所",
+      "ruby": "<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a court."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、福岡の裁判所は10月13日、この手続きをやめると決めました。",
+      "ruby": "しかし、<ruby>福岡<rt>ふくおか</rt></ruby>の<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>をやめると<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But on October thirteenth, the court in Fukuoka decided to stop that procedure."
+    },
+    {
+      "speaker": "vocab",
+      "text": "手続き",
+      "ruby": "<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a procedure or formal process."
+    },
+    {
+      "speaker": "slow",
+      "text": "借金は、グループの4つの会社を合わせて、およそ22億7000万円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"借金\" data-reading=\"しゃっきん\" data-en=\"debt\"><ruby>借金<rt>しゃっきん</rt></ruby></span>は、グループの4つの<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて、およそ22<ruby>億<rt>おく</rt></ruby>7000<ruby>万円<rt>まんえん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The debt of the four group companies adds up to about two point two seven billion yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "借金",
+      "ruby": "<span class=\"vw\" data-ja=\"借金\" data-reading=\"しゃっきん\" data-en=\"debt\"><ruby>借金<rt>しゃっきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means debt."
+    },
+    {
+      "speaker": "slow",
+      "text": "今は、親せきが経営する別の会社「千鳥屋宗家」が、店や工場を引き継いで、営業を続けています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>親<rt>しん</rt></ruby>せきが<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営す<rt>けいえいす</rt></ruby></span>る<ruby>別の<rt>べつの</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby><ruby>宗家<rt>そうけ</rt></ruby>」が、<ruby>店<rt>みせ</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>引き継い<rt>ひきつい</rt></ruby>で、<ruby>営業<rt>えいぎょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now another company run by relatives has taken over the shops and the factory, and keeps them open."
+    },
+    {
+      "speaker": "vocab",
+      "text": "引き継ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"引き継ぐ\" data-reading=\"ひきつぐ\" data-en=\"to take over\"><ruby>引き継ぐ<rt>ひきつぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take over."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "福岡県の有名なお菓子「千鳥饅頭」を作っている会社が、破産することになりそうです。",
+      "ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>菓子<rt>かし</rt></ruby>「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>」を<ruby>作っ<rt>つくっ</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>が、<span class=\"vw\" data-ja=\"破産\" data-reading=\"はさん\" data-en=\"bankruptcy\"><ruby>破産<rt>はさん</rt></ruby></span>することになりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の名前は「千鳥屋本家」で、福岡県の飯塚市にあります。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby><ruby>本家<rt>ほんけ</rt></ruby>」で、<ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>飯塚市<rt>いいづかし</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "千鳥屋の歴史はとても古く、始まりは1630年です。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>はとても<ruby>古く<rt>ふるく</rt></ruby>、<ruby>始まり<rt>はじまり</rt></ruby>は1630<ruby>年<rt>ねん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "およそ400年も続いてきた、老舗のお菓子屋さんです。",
+      "ruby": "およそ400<ruby>年<rt>ねん</rt></ruby>も<ruby>続い<rt>つづい</rt></ruby>てきた、<span class=\"vw\" data-ja=\"老舗\" data-reading=\"しにせ\" data-en=\"long-established shop\"><ruby>老舗<rt>しにせ</rt></ruby></span>のお<ruby>菓子屋<rt>かしや</rt></ruby>さんです。"
+    },
+    {
+      "speaker": "news",
+      "text": "千鳥饅頭は、福岡のおみやげとして、多くの人に知られています。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>は、<ruby>福岡<rt>ふくおか</rt></ruby>のおみやげとして、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>知ら<rt>しら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、コロナの間に借りたお金で、会社の経営が苦しくなりました。",
+      "ruby": "しかし、コロナの<ruby>間<rt>あいだ</rt></ruby>に<ruby>借り<rt>かり</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>苦しく<rt>くるしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物の値段が上がったことや、買い物をする人が減ったことも、原因だと言われています。",
+      "ruby": "<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>ったことや、<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも、<span class=\"vw\" data-ja=\"原因\" data-reading=\"げんいん\" data-en=\"cause\"><ruby>原因<rt>げんいん</rt></ruby></span>だと<ruby>言わ<rt>いわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の数は、多い時は65ありましたが、44まで減りました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は、<ruby>多い<rt>おおい</rt></ruby><ruby>時<rt>とき</rt></ruby>は65ありましたが、44まで<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は今年の2月、会社を立て直すための手続きを、裁判所に申し立てていました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の2<ruby>月<rt>がつ</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"vw\" data-ja=\"立て直す\" data-reading=\"たてなおす\" data-en=\"to rebuild, to restore\"><ruby>立て直す<rt>たてなおす</rt></ruby></span>ための<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>を、<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>に<ruby>申し<rt>もうし</rt></ruby><ruby>立て<rt>たて</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、福岡の裁判所は10月13日、この手続きをやめると決めました。",
+      "ruby": "しかし、<ruby>福岡<rt>ふくおか</rt></ruby>の<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>、この<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>をやめると<ruby>決め<rt>きめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "借金は、グループの4つの会社を合わせて、およそ22億7000万円です。",
+      "ruby": "<span class=\"vw\" data-ja=\"借金\" data-reading=\"しゃっきん\" data-en=\"debt\"><ruby>借金<rt>しゃっきん</rt></ruby></span>は、グループの4つの<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて、およそ22<ruby>億<rt>おく</rt></ruby>7000<ruby>万円<rt>まんえん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "今は、親せきが経営する別の会社「千鳥屋宗家」が、店や工場を引き継いで、営業を続けています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>親<rt>しん</rt></ruby>せきが<span class=\"vw\" data-ja=\"経営\" data-reading=\"けいえい\" data-en=\"business management\"><ruby>経営す<rt>けいえいす</rt></ruby></span>る<ruby>別の<rt>べつの</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>「<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby><ruby>宗家<rt>そうけ</rt></ruby>」が、<ruby>店<rt>みせ</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>引き継い<rt>ひきつい</rt></ruby>で、<ruby>営業<rt>えいぎょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、店では今も、いつもどおり千鳥饅頭を買うことができます。",
+      "ruby": "そのため、<ruby>店<rt>みせ</rt></ruby>では<ruby>今<rt>いま</rt></ruby>も、いつもどおり<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "千鳥屋の始まりは、何年ですか。",
+      "ruby": "<ruby>千鳥<rt>ちどり</rt></ruby><ruby>屋<rt>や</rt></ruby>の<ruby>始まり<rt>はじまり</rt></ruby>は、<ruby>何年<rt>なんねん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixteen thirty, about four hundred years ago."
+    },
+    {
+      "speaker": "slow",
+      "text": "裁判所は、何月何日に手続きをやめると決めましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"裁判所\" data-reading=\"さいばんしょ\" data-en=\"court of law\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>は、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>に<span class=\"vw\" data-ja=\"手続き\" data-reading=\"てつづき\" data-en=\"procedure\"><ruby>手続き<rt>てつづき</rt></ruby></span>をやめると<ruby>決め<rt>きめ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "October thirteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、店で千鳥饅頭を買うことができますか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>で<ruby>千鳥<rt>ちどり</rt></ruby><ruby>饅頭<rt>まんじゅう</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ことができますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yes. A relative's company keeps the shops open."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
