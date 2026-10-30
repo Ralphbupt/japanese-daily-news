@@ -108,7 +108,7 @@ Cache invalidation is **per-episode**, via the `contentVersion` field (format `Y
 - Dates in intro text: written out ("May twenty-fourth"), no year
 - Difficulty levels: `N5-N4` (beginner) or `N4-N3` (intermediate) in `level` field
 - Scripts self-contained — each JSON includes all voice/rate config
-- Companion site: `jpnotes.dev` (grammar notes, cross-linked from grammar cards)
+- Companion site: `jpnotes.dev`. Each grammar point is linked to its jpnotes lesson section at build time (`site/src/lib/jpnotes.ts`, matching the pattern against `site/src/data/jpnotes-index.json`; unmatched → that level's `/N?_grammar_list/`). The links appear on grammar cards and in the RSS show notes ("Grammar in this episode"), tagged `utm_source=podcast&utm_medium=web|rss`. Refresh the index with `tools/update-jpnotes-index.sh` after jpnotes lessons change. The old per-script `jpnotesLink` field is unused (its URLs 404) — don't write it in new scripts.
 - Fonts: Fraunces (display), Noto Sans JP (JP), Outfit (body)
 - Light mode: warm yellow paper (#F3EDDA); Dark mode: #1A1A1E
 - Apple Podcasts: https://podcasts.apple.com/podcast/id1896815841
