@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { jpnotesLink, type JpnotesLink } from './jpnotes';
 
 const SCRIPTS_DIR = fileURLToPath(new URL('../../../scripts', import.meta.url));
 
@@ -40,7 +41,10 @@ export interface GrammarPoint {
   note?: string;
   noteZh?: string;
   level?: string;
+  /** Legacy field from older scripts; the URLs are wrong, use `jpnotes`. */
   jpnotesLink?: string;
+  /** The matching jpnotes.dev lesson section, worked out at build time. */
+  jpnotes?: JpnotesLink;
 }
 
 export interface RawEpisode {
@@ -167,7 +171,7 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
     paddedNum,
     timedSegments,
     vocabulary: raw.vocabulary ?? [],
-    grammar: raw.grammar ?? [],
+    grammar: (raw.grammar ?? []).map(g => ({ ...g, jpnotes: jpnotesLink(g.pattern, g.level) })),
     practiceZh: raw.practiceZh ?? [],
     level: raw.level ?? '',
     summary,

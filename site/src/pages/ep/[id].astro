@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import { getAllEpisodes } from '../../lib/episodes';
 import type { ProcessedEpisode } from '../../lib/episodes';
+import { withUtm } from '../../lib/jpnotes';
 
 const allEpisodes = getAllEpisodes();
 
@@ -200,6 +201,7 @@ const segmentsForClient = segs.map(s => ({
                 <div class="grammar-translation">{g.translation}</div>
                 {g.note && <div class="grammar-note">{g.note}</div>}
                 {g.noteZh && <div class="grammar-note-zh">{g.noteZh}</div>}
+                {g.jpnotes && <a class="grammar-card-link" href={withUtm(g.jpnotes.url, 'web')} target="_blank" rel="noopener">{g.jpnotes.matched ? <><span class="i18n-en">Grammar notes &rarr;</span><span class="i18n-zh">语法详解 &rarr;</span></> : <><span class="i18n-en">{g.level} grammar list &rarr;</span><span class="i18n-zh">{g.level} 语法清单 &rarr;</span></>}</a>}
               </div>
             ))}
           </div>
@@ -246,10 +248,11 @@ const segmentsForClient = segs.map(s => ({
                   <div class="grammar-translation">{g.translation}</div>
                   {g.note && <div class="grammar-note">{g.note}</div>}
                   {g.noteZh && <div class="grammar-note-zh">{g.noteZh}</div>}
+                  {g.jpnotes && <a class="grammar-card-link" href={withUtm(g.jpnotes.url, 'web')} target="_blank" rel="noopener">{g.jpnotes.matched ? <><span class="i18n-en">Grammar notes &rarr;</span><span class="i18n-zh">语法详解 &rarr;</span></> : <><span class="i18n-en">{g.level} grammar list &rarr;</span><span class="i18n-zh">{g.level} 语法清单 &rarr;</span></>}</a>}
                 </div>
               ))}
             </div>
-            <a href="https://jpnotes.dev" class="grammar-jpnotes" target="_blank">
+            <a href={withUtm('https://jpnotes.dev/', 'web')} class="grammar-jpnotes" target="_blank" rel="noopener">
               <span class="i18n-en">More grammar at jpnotes.dev &rarr;</span>
               <span class="i18n-zh">更多语法请访问 jpnotes.dev &rarr;</span>
             </a>

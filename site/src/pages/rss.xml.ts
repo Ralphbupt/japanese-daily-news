@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getAllEpisodes } from '../lib/episodes';
+import { withUtm } from '../lib/jpnotes';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -14,6 +15,20 @@ function escapeXml(s: string): string {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&apos;');
+}
+
+const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+// Show notes: the summary, then this episode's grammar points, each linked to
+// its jpnotes.dev lesson section (podcast apps render this HTML subset).
+function showNotes(ep: ReturnType<typeof getAllEpisodes>[number]): string {
+  let html = `<p>${esc(ep.description)}</p>`;
+  if (ep.grammar.length) {
+    html += '<p>Grammar in this episode:</p><ul>' + ep.grammar.map(g =>
+      `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a> — ${esc(g.meaning)}</li>`).join('') + '</ul>';
+  }
+  html += `<p>Free grammar notes, practice questions and Anki decks for JLPT N5–N1: <a href="${esc(withUtm('https://jpnotes.dev/', 'rss'))}">jpnotes.dev</a></p>`;
+  return html.replace(/]]>/g, ']]&gt;');
 }
 
 function rfcDate(d: string): string {
@@ -39,7 +54,7 @@ export const GET: APIRoute = async () => {
       <link>${link}</link>
       <guid isPermaLink="true">${link}</guid>
       <pubDate>${rfcDate(ep.date)}</pubDate>
-      <description>${escapeXml(ep.description)}</description>
+      <description><![CDATA[${showNotes(ep)}]]></description>
       <enclosure url="${audioUrl}" length="${length}" type="audio/mpeg"/>
       <itunes:duration>${durationSec}</itunes:duration>
       <itunes:episode>${ep.episode}</itunes:episode>
