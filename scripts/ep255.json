@@ -1,0 +1,571 @@
+{
+  "episode": 255,
+  "title": "紅葉の見ごろ予想、高尾山は11月13日ごろ",
+  "date": "2026-10-31",
+  "source": "ウェザーニュース / トラベルボイス",
+  "level": "N5-N4",
+  "contentVersion": "2026103101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "紅葉",
+      "reading": "こうよう",
+      "en": "autumn leaves",
+      "zh": "红叶"
+    },
+    {
+      "ja": "葉",
+      "reading": "は",
+      "en": "leaf",
+      "zh": "叶子"
+    },
+    {
+      "ja": "黄色",
+      "reading": "きいろ",
+      "en": "yellow",
+      "zh": "黄色"
+    },
+    {
+      "ja": "予想",
+      "reading": "よそう",
+      "en": "forecast, prediction",
+      "zh": "预测"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表，公布"
+    },
+    {
+      "ja": "ごろ",
+      "reading": "ごろ",
+      "en": "around (a time)",
+      "zh": "……左右（时间）"
+    },
+    {
+      "ja": "きれい",
+      "reading": "きれい",
+      "en": "beautiful, pretty",
+      "zh": "漂亮，美丽"
+    },
+    {
+      "ja": "少し",
+      "reading": "すこし",
+      "en": "a little",
+      "zh": "一点儿"
+    },
+    {
+      "ja": "遅い",
+      "reading": "おそい",
+      "en": "late",
+      "zh": "晚，迟"
+    },
+    {
+      "ja": "日の光",
+      "reading": "ひのひかり",
+      "en": "sunlight",
+      "zh": "阳光"
+    },
+    {
+      "ja": "少ない",
+      "reading": "すくない",
+      "en": "few, not much",
+      "zh": "少"
+    },
+    {
+      "ja": "晴れる",
+      "reading": "はれる",
+      "en": "to be sunny",
+      "zh": "放晴"
+    },
+    {
+      "ja": "多い",
+      "reading": "おおい",
+      "en": "many, a lot",
+      "zh": "多"
+    },
+    {
+      "ja": "いちばん",
+      "reading": "いちばん",
+      "en": "the most, number one",
+      "zh": "最"
+    },
+    {
+      "ja": "全国",
+      "reading": "ぜんこく",
+      "en": "the whole country",
+      "zh": "全国"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜そうです",
+      "meaning": "looks like ~ / likely to ~",
+      "meaningZh": "看起来……，好像要……",
+      "formation": "Verb stem / Adjective stem + そうです",
+      "example": "紅葉がいちばんきれいになりそうです。",
+      "translation": "The autumn leaves will likely be at their most beautiful.",
+      "note": "Expresses a guess based on what you see or know. Drop the い of an い-adjective; for verbs use the ます-stem.",
+      "noteZh": "表示根据看到或已知的情况所做的推测。动词用ます形词干，い形容词去掉い。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ことを「…」といいます",
+      "meaning": "~ is called \"...\"",
+      "meaningZh": "把……叫做“……”",
+      "formation": "Verb (plain) + ことを「Word」といいます",
+      "example": "秋に、木の葉が赤や黄色になることを、「紅葉」といいます。",
+      "translation": "When the leaves turn red and yellow in autumn, it is called \"kouyou\".",
+      "note": "Used to define a word. こと turns the verb phrase into a noun.",
+      "noteZh": "用来解释一个词的意思。こと把前面的动词短语名词化。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜になる",
+      "meaning": "to become ~",
+      "meaningZh": "变成……",
+      "formation": "Noun / な-adjective + になる; い-adjective (〜く) + なる",
+      "example": "葉の色がよくなりました。",
+      "translation": "The color of the leaves got better.",
+      "note": "Shows change. い-adjectives change い to く before なる (いい → よくなる).",
+      "noteZh": "表示变化。い形容词把い变成く再接なる（いい→よくなる）。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "秋に、木の葉が赤や黄色になることを、「紅葉」といいます。\n秋天树叶变成红色或黄色，叫做“红叶”。\n葉 = leaf / 黄色 = yellow / 紅葉 = autumn leaves",
+    "天気の会社のウェザーニューズが、今年の紅葉の予想を発表しました。\n天气公司Weathernews发布了今年的红叶预测。\n予想 = forecast / 発表する = to announce",
+    "東京の高尾山では、11月13日ごろ、紅葉がいちばんきれいになりそうです。\n东京的高尾山，11月13日左右红叶好像会最漂亮。\nごろ = around / きれい = beautiful",
+    "広島の宮島は、11月21日ごろです。\n广岛的宫岛是11月21日左右。",
+    "京都の嵐山は、11月23日ごろです。\n京都的岚山是11月23日左右。",
+    "11月の中ごろからの所は、いつもの年より少し遅くなりそうです。\n从11月中旬开始的地方，好像会比往年稍晚一点。\n少し = a little / 遅い = late",
+    "9月は、日の光が少なかったです。\n9月阳光很少。\n日の光 = sunlight / 少ない = few",
+    "でも、10月は晴れた日が多くて、葉の色がよくなりました。\n但是10月晴天多，叶子的颜色变好了。\n晴れる = to be sunny / 多い = many",
+    "今、栃木の日光や長野の上高地では、紅葉がいちばんきれいです。\n现在，栃木的日光和长野的上高地，红叶最漂亮。\nいちばん = the most",
+    "今年は、全国できれいな紅葉が見られそうです。\n今年在全国好像都能看到美丽的红叶。\n全国 = the whole country"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October thirty-first. A weather company has released its forecast for the best time to see autumn leaves. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋に、木の葉が赤や黄色になることを、「紅葉」といいます。",
+      "ruby": "<ruby>秋<rt>あき</rt></ruby>に、<ruby>木の葉<rt>このは</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>や<span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>になることを、「<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "天気の会社のウェザーニューズが、今年の紅葉の予想を発表しました。",
+      "ruby": "<ruby>天気<rt>てんき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のウェザーニューズが、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の高尾山では、11月13日ごろ、紅葉がいちばんきれいになりそうです。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>高尾山<rt>たかおさん</rt></ruby>では、11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいになりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島の宮島は、11月21日ごろです。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby>の<ruby>宮島<rt>みやじま</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都の嵐山は、11月23日ごろです。",
+      "ruby": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>嵐山<rt>あらしやま</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月の中ごろからの所は、いつもの年より少し遅くなりそうです。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>からの<ruby>所<rt>ところ</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>より<span class=\"vw\" data-ja=\"少し\" data-reading=\"すこし\" data-en=\"a little\"><ruby>少し<rt>すこし</rt></ruby></span><ruby>遅く<rt>おそく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月は、日の光が少なかったです。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>は、<span class=\"vw\" data-ja=\"日の光\" data-reading=\"ひのひかり\" data-en=\"sunlight\"><ruby>日<rt>ひ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby></span>が<ruby>少なか<rt>すくなか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、10月は晴れた日が多くて、葉の色がよくなりました。",
+      "ruby": "でも、10<ruby>月<rt>がつ</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て、<span class=\"vw\" data-ja=\"葉\" data-reading=\"は\" data-en=\"leaf\"><ruby>葉<rt>は</rt></ruby></span>の<ruby>色<rt>いろ</rt></ruby>がよくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、栃木の日光や長野の上高地では、紅葉がいちばんきれいです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>栃木<rt>とちぎ</rt></ruby>の<ruby>日光<rt>にっこう</rt></ruby>や<ruby>長野<rt>ながの</rt></ruby>の<ruby>上高地<rt>かみこうち</rt></ruby>では、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、全国できれいな紅葉が見られそうです。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>できれいな<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "秋に、木の葉が赤や黄色になることを、「紅葉」といいます。",
+      "ruby": "<ruby>秋<rt>あき</rt></ruby>に、<ruby>木の葉<rt>このは</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>や<span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>になることを、「<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In autumn, when the leaves on trees turn red and yellow, it is called by a special word."
+    },
+    {
+      "speaker": "vocab",
+      "text": "葉",
+      "ruby": "<span class=\"vw\" data-ja=\"葉\" data-reading=\"は\" data-en=\"leaf\"><ruby>葉<rt>は</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a leaf, or leaves."
+    },
+    {
+      "speaker": "vocab",
+      "text": "黄色",
+      "ruby": "<span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means yellow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "紅葉",
+      "ruby": "<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means autumn leaves, the red and yellow colors of fall."
+    },
+    {
+      "speaker": "slow",
+      "text": "天気の会社のウェザーニューズが、今年の紅葉の予想を発表しました。",
+      "ruby": "<ruby>天気<rt>てんき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のウェザーニューズが、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather company Weathernews announced its forecast for this year's autumn leaves."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予想",
+      "ruby": "<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a forecast or prediction."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の高尾山では、11月13日ごろ、紅葉がいちばんきれいになりそうです。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>高尾山<rt>たかおさん</rt></ruby>では、11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいになりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Mount Takao in Tokyo, the leaves will likely be at their most beautiful around November thirteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ごろ",
+      "ruby": "<span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Placed after a date or time, it means around or about."
+    },
+    {
+      "speaker": "vocab",
+      "text": "きれい",
+      "ruby": "<span class=\"vw\" data-ja=\"きれい\" data-reading=\"きれい\" data-en=\"beautiful, pretty\">きれい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means beautiful or pretty."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島の宮島は、11月21日ごろです。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby>の<ruby>宮島<rt>みやじま</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "For Miyajima in Hiroshima, it's around November twenty-first."
+    },
+    {
+      "speaker": "slow",
+      "text": "京都の嵐山は、11月23日ごろです。",
+      "ruby": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>嵐山<rt>あらしやま</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "For Arashiyama in Kyoto, it's around November twenty-third."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月の中ごろからの所は、いつもの年より少し遅くなりそうです。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>からの<ruby>所<rt>ところ</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>より<span class=\"vw\" data-ja=\"少し\" data-reading=\"すこし\" data-en=\"a little\"><ruby>少し<rt>すこし</rt></ruby></span><ruby>遅く<rt>おそく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Places that peak from mid-November on will likely be a little later than in a usual year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "少し",
+      "ruby": "<span class=\"vw\" data-ja=\"少し\" data-reading=\"すこし\" data-en=\"a little\"><ruby>少し<rt>すこし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a little."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遅い",
+      "ruby": "<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late\"><ruby>遅い<rt>おそい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means late."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月は、日の光が少なかったです。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>は、<span class=\"vw\" data-ja=\"日の光\" data-reading=\"ひのひかり\" data-en=\"sunlight\"><ruby>日<rt>ひ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby></span>が<ruby>少なか<rt>すくなか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In September, there was little sunlight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "日の光",
+      "ruby": "<span class=\"vw\" data-ja=\"日の光\" data-reading=\"ひのひかり\" data-en=\"sunlight\"><ruby>日<rt>ひ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sunlight."
+    },
+    {
+      "speaker": "vocab",
+      "text": "少ない",
+      "ruby": "<span class=\"vw\" data-ja=\"少ない\" data-reading=\"すくない\" data-en=\"few, not much\"><ruby>少ない<rt>すくない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means few, or not much."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、10月は晴れた日が多くて、葉の色がよくなりました。",
+      "ruby": "でも、10<ruby>月<rt>がつ</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て、<span class=\"vw\" data-ja=\"葉\" data-reading=\"は\" data-en=\"leaf\"><ruby>葉<rt>は</rt></ruby></span>の<ruby>色<rt>いろ</rt></ruby>がよくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But in October there were many sunny days, and the color of the leaves got better."
+    },
+    {
+      "speaker": "vocab",
+      "text": "晴れる",
+      "ruby": "<span class=\"vw\" data-ja=\"晴れる\" data-reading=\"はれる\" data-en=\"to be sunny\"><ruby>晴れ<rt>はれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be sunny or clear."
+    },
+    {
+      "speaker": "vocab",
+      "text": "多い",
+      "ruby": "<span class=\"vw\" data-ja=\"多い\" data-reading=\"おおい\" data-en=\"many, a lot\"><ruby>多い<rt>おおい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means many, or a lot."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、栃木の日光や長野の上高地では、紅葉がいちばんきれいです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>栃木<rt>とちぎ</rt></ruby>の<ruby>日光<rt>にっこう</rt></ruby>や<ruby>長野<rt>ながの</rt></ruby>の<ruby>上高地<rt>かみこうち</rt></ruby>では、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, in Nikko in Tochigi and Kamikochi in Nagano, the autumn leaves are at their most beautiful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "いちばん",
+      "ruby": "<span class=\"vw\" data-ja=\"いちばん\" data-reading=\"いちばん\" data-en=\"the most, number one\">いちばん</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the most, or number one."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、全国できれいな紅葉が見られそうです。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>できれいな<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, people will likely be able to see beautiful autumn leaves all over the country."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全国",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the whole country, nationwide."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋に、木の葉が赤や黄色になることを、「紅葉」といいます。",
+      "ruby": "<ruby>秋<rt>あき</rt></ruby>に、<ruby>木の葉<rt>このは</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>や<span class=\"vw\" data-ja=\"黄色\" data-reading=\"きいろ\" data-en=\"yellow\"><ruby>黄色<rt>きいろ</rt></ruby></span>になることを、「<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "天気の会社のウェザーニューズが、今年の紅葉の予想を発表しました。",
+      "ruby": "<ruby>天気<rt>てんき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のウェザーニューズが、<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>の<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast, prediction\"><ruby>予想<rt>よそう</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の高尾山では、11月13日ごろ、紅葉がいちばんきれいになりそうです。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>高尾山<rt>たかおさん</rt></ruby>では、11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいになりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島の宮島は、11月21日ごろです。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby>の<ruby>宮島<rt>みやじま</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都の嵐山は、11月23日ごろです。",
+      "ruby": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>嵐山<rt>あらしやま</rt></ruby>は、11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月の中ごろからの所は、いつもの年より少し遅くなりそうです。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>からの<ruby>所<rt>ところ</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>より<span class=\"vw\" data-ja=\"少し\" data-reading=\"すこし\" data-en=\"a little\"><ruby>少し<rt>すこし</rt></ruby></span><ruby>遅く<rt>おそく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "9月は、日の光が少なかったです。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>は、<span class=\"vw\" data-ja=\"日の光\" data-reading=\"ひのひかり\" data-en=\"sunlight\"><ruby>日<rt>ひ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby></span>が<ruby>少なか<rt>すくなか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、10月は晴れた日が多くて、葉の色がよくなりました。",
+      "ruby": "でも、10<ruby>月<rt>がつ</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て、<span class=\"vw\" data-ja=\"葉\" data-reading=\"は\" data-en=\"leaf\"><ruby>葉<rt>は</rt></ruby></span>の<ruby>色<rt>いろ</rt></ruby>がよくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、栃木の日光や長野の上高地では、紅葉がいちばんきれいです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>栃木<rt>とちぎ</rt></ruby>の<ruby>日光<rt>にっこう</rt></ruby>や<ruby>長野<rt>ながの</rt></ruby>の<ruby>上高地<rt>かみこうち</rt></ruby>では、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、全国できれいな紅葉が見られそうです。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country\"><ruby>全国<rt>ぜんこく</rt></ruby></span>できれいな<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "高尾山の紅葉は、何月何日ごろがいちばんきれいですか。",
+      "ruby": "<ruby>高尾山<rt>たかおさん</rt></ruby>の<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>は、<ruby>何月何日<rt>なんがつなんにち</rt></ruby><span class=\"vw\" data-ja=\"ごろ\" data-reading=\"ごろ\" data-en=\"around (a time)\">ごろ</span>がいちばんきれいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around November thirteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "9月は、日の光が多かったですか。",
+      "ruby": "9<ruby>月<rt>がつ</rt></ruby>は、<span class=\"vw\" data-ja=\"日の光\" data-reading=\"ひのひかり\" data-en=\"sunlight\"><ruby>日<rt>ひ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby></span>が<ruby>多か<rt>おおか</rt></ruby>ったですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No. There was little sunlight in September."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月は、どんな日が多かったですか。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>は、どんな<ruby>日<rt>ひ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "There were many sunny days."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、紅葉がいちばんきれいな所はどこですか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<span class=\"vw\" data-ja=\"紅葉\" data-reading=\"こうよう\" data-en=\"autumn leaves\"><ruby>紅葉<rt>こうよう</rt></ruby></span>がいちばんきれいな<ruby>所<rt>ところ</rt></ruby>はどこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nikko in Tochigi and Kamikochi in Nagano."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Enjoy the autumn colors, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
