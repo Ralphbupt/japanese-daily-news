@@ -1,0 +1,608 @@
+{
+  "episode": 256,
+  "title": "囲碁名人戦、芝野虎丸が一力遼を破り三冠に",
+  "date": "2026-10-31",
+  "source": "時事通信 / 共同通信 / 毎日新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026103101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "囲碁",
+      "reading": "いご",
+      "en": "the board game Go",
+      "zh": "围棋"
+    },
+    {
+      "ja": "名人",
+      "reading": "めいじん",
+      "en": "master; the Master title",
+      "zh": "名人"
+    },
+    {
+      "ja": "挑戦",
+      "reading": "ちょうせん",
+      "en": "challenge",
+      "zh": "挑战"
+    },
+    {
+      "ja": "先に",
+      "reading": "さきに",
+      "en": "first, before others",
+      "zh": "先，首先"
+    },
+    {
+      "ja": "勝負",
+      "reading": "しょうぶ",
+      "en": "contest, match",
+      "zh": "胜负，比赛"
+    },
+    {
+      "ja": "行われる",
+      "reading": "おこなわれる",
+      "en": "to be held",
+      "zh": "举行"
+    },
+    {
+      "ja": "対局",
+      "reading": "たいきょく",
+      "en": "a game (of Go or shogi)",
+      "zh": "对局"
+    },
+    {
+      "ja": "取る",
+      "reading": "とる",
+      "en": "to take, to win",
+      "zh": "取得，夺得"
+    },
+    {
+      "ja": "3年ぶり",
+      "reading": "さんねんぶり",
+      "en": "for the first time in three years",
+      "zh": "时隔三年"
+    },
+    {
+      "ja": "三冠",
+      "reading": "さんかん",
+      "en": "three titles at once",
+      "zh": "三冠"
+    },
+    {
+      "ja": "一方",
+      "reading": "いっぽう",
+      "en": "on the other hand",
+      "zh": "另一方面"
+    },
+    {
+      "ja": "続ける",
+      "reading": "つづける",
+      "en": "to continue",
+      "zh": "继续"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease",
+      "zh": "减少"
+    },
+    {
+      "ja": "注目",
+      "reading": "ちゅうもく",
+      "en": "attention",
+      "zh": "关注，瞩目"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔……",
+      "formation": "Time period + ぶり",
+      "example": "芝野さんが名人になるのは、3年ぶりです。",
+      "translation": "It's his first time as Master in three years.",
+      "note": "Shows that something happens again after a gap of that length of time.",
+      "noteZh": "表示隔了一段时间之后再次发生某事。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it is decided / it turns out that ~",
+      "meaningZh": "决定……；（结果）变成……",
+      "formation": "Verb (dictionary form) + ことになる",
+      "example": "最後の第7局で決まることになりました。",
+      "translation": "It came down to being decided in the final seventh game.",
+      "note": "Used for outcomes decided by circumstances, not by the speaker.",
+      "noteZh": "表示由客观情况决定的结果，而非说话人自己的决定。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことはできませんでした",
+      "meaning": "was not able to ~",
+      "meaningZh": "没能……",
+      "formation": "Verb (dictionary form) + ことはできませんでした",
+      "example": "一力さんは、3年続けて名人になることはできませんでした。",
+      "translation": "Ichiriki couldn't become Master for a third straight year.",
+      "note": "は adds contrast, suggesting it was hoped for but didn't happen.",
+      "noteZh": "「は」带有对比语气，暗示原本期待但没有实现。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜されそうです",
+      "meaning": "looks likely to be ~ed",
+      "meaningZh": "看样子会被……",
+      "formation": "Passive verb stem + そうです",
+      "example": "若い二人の戦いは、これからも注目されそうです。",
+      "translation": "The battle between the two young players looks set to draw attention.",
+      "note": "Passive (注目される, to receive attention) plus そう for a likely outcome.",
+      "noteZh": "被动形「注目される」加上「そうです」，表示推测可能的情况。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "囲碁の大きなタイトル戦「名人戦」で、芝野虎丸さんが勝ちました。\n在围棋重大头衔战“名人战”中，芝野虎丸获胜了。\n囲碁 = the board game Go / 名人 = master; the Master title",
+    "芝野さんは26歳で、一力遼名人に挑戦していました。\n芝野26岁，一直在挑战一力辽名人。\n挑戦 = challenge",
+    "名人戦では、先に4回勝った人が名人になります。\n在名人战中，先赢4局的人成为名人。\n先に = first, before others",
+    "二人の勝負は3勝3敗になり、最後の第7局で決まることになりました。\n两人的比赛打成3胜3负，最终将在最后的第7局决出胜负。\n勝負 = contest, match",
+    "第7局は、10月28日と29日の2日間、静岡県伊豆市で行われました。\n第7局于10月28日和29日两天在静冈县伊豆市举行。\n行われる = to be held",
+    "対局は212手で終わり、芝野さんが勝ちました。\n对局以212手结束，芝野获胜。\n対局 = a game (of Go or shogi)",
+    "これで芝野さんは4勝3敗となり、名人のタイトルを取りました。\n这样芝野以4胜3负夺得了名人头衔。\n取る = to take, to win",
+    "芝野さんが名人になるのは、3年ぶりです。\n芝野时隔三年再次成为名人。\n3年ぶり = for the first time in three years",
+    "名人と合わせて、三冠になりました。\n加上名人，他成为了三冠王。\n三冠 = three titles at once",
+    "一方、29歳の一力さんは、3年続けて名人になることはできませんでした。\n另一方面，29岁的一力未能连续三年成为名人。\n一方 = on the other hand / 続ける = to continue",
+    "一力さんのタイトルは、「王座」と「天元」の二つに減りました。\n一力的头衔减少为“王座”和“天元”两个。\n減る = to decrease",
+    "若い二人の戦いは、これからも注目されそうです。\n两位年轻棋手的较量今后看来也会备受关注。\n注目 = attention"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October thirty-first. A twenty-six-year-old player has won back one of the top titles in the board game Go. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "囲碁の大きなタイトル戦「名人戦」で、芝野虎丸さんが勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"囲碁\" data-reading=\"いご\" data-en=\"the board game Go\"><ruby>囲碁<rt>いご</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>なタイトル<ruby>戦<rt>せん</rt></ruby>「<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人戦<rt>めいじんせん</rt></ruby></span>」で、<ruby>芝野<rt>しばの</rt></ruby><ruby>虎丸<rt>とらまる</rt></ruby>さんが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "芝野さんは26歳で、一力遼名人に挑戦していました。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんは26<ruby>歳<rt>さい</rt></ruby>で、<ruby>一力<rt>いちりき</rt></ruby><ruby>遼<rt>りょう</rt></ruby><span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名人戦では、先に4回勝った人が名人になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人戦<rt>めいじんせん</rt></ruby></span>では、<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, before others\"><ruby>先に<rt>さきに</rt></ruby></span>4<ruby>回<rt>かい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "二人の勝負は3勝3敗になり、最後の第7局で決まることになりました。",
+      "ruby": "<ruby>二人<rt>ふたり</rt></ruby>の<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"contest, match\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>は3<ruby>勝<rt>しょう</rt></ruby>3<ruby>敗<rt>はい</rt></ruby>になり、<ruby>最後<rt>さいご</rt></ruby>の<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>で<ruby>決ま<rt>きま</rt></ruby>ることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "第7局は、10月28日と29日の2日間、静岡県伊豆市で行われました。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>と29<ruby>日<rt>にち</rt></ruby>の2<ruby>日間<rt>かかん</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>伊豆<rt>いず</rt></ruby><ruby>市<rt>し</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "対局は212手で終わり、芝野さんが勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"対局\" data-reading=\"たいきょく\" data-en=\"a game (of Go or shogi)\"><ruby>対局<rt>たいきょく</rt></ruby></span>は212<ruby>手で<rt>てで</rt></ruby><ruby>終わり<rt>おわり</rt></ruby>、<ruby>芝野<rt>しばの</rt></ruby>さんが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これで芝野さんは4勝3敗となり、名人のタイトルを取りました。",
+      "ruby": "これで<ruby>芝野<rt>しばの</rt></ruby>さんは4<ruby>勝<rt>しょう</rt></ruby>3<ruby>敗<rt>はい</rt></ruby>となり、<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>のタイトルを<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "芝野さんが名人になるのは、3年ぶりです。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんが<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になるのは、<span class=\"vw\" data-ja=\"3年ぶり\" data-reading=\"さんねんぶり\" data-en=\"for the first time in three years\">3<ruby>年<rt>ねん</rt></ruby>ぶりです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "芝野さんは今、「棋聖」と「十段」のタイトルも持っています。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>、「<ruby>棋聖<rt>きせい</rt></ruby>」と「<ruby>十<rt>じゅう</rt></ruby><ruby>段<rt>だん</rt></ruby>」のタイトルも<ruby>持っ<rt>もっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "名人と合わせて、三冠になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>と<ruby>合わ<rt>あわ</rt></ruby>せて、<span class=\"vw\" data-ja=\"三冠\" data-reading=\"さんかん\" data-en=\"three titles at once\"><ruby>三<rt>さん</rt></ruby><ruby>冠<rt>かん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、29歳の一力さんは、3年続けて名人になることはできませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、29<ruby>歳<rt>さい</rt></ruby>の<ruby>一力<rt>いちりき</rt></ruby>さんは、3<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になることはできませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "一力さんのタイトルは、「王座」と「天元」の二つに減りました。",
+      "ruby": "<ruby>一力<rt>いちりき</rt></ruby>さんのタイトルは、「<ruby>王座<rt>おうざ</rt></ruby>」と「<ruby>天元<rt>てんげん</rt></ruby>」の<ruby>二つ<rt>ふたつ</rt></ruby>に<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "若い二人の戦いは、これからも注目されそうです。",
+      "ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>二人<rt>ふたり</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>は、これからも<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "囲碁の大きなタイトル戦「名人戦」で、芝野虎丸さんが勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"囲碁\" data-reading=\"いご\" data-en=\"the board game Go\"><ruby>囲碁<rt>いご</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>なタイトル<ruby>戦<rt>せん</rt></ruby>「<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人戦<rt>めいじんせん</rt></ruby></span>」で、<ruby>芝野<rt>しばの</rt></ruby><ruby>虎丸<rt>とらまる</rt></ruby>さんが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Toramaru Shibano won the Master title match, one of the biggest titles in the board game Go."
+    },
+    {
+      "speaker": "vocab",
+      "text": "囲碁",
+      "ruby": "<span class=\"vw\" data-ja=\"囲碁\" data-reading=\"いご\" data-en=\"the board game Go\"><ruby>囲碁<rt>いご</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the board game Go."
+    },
+    {
+      "speaker": "vocab",
+      "text": "名人",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means master, and here it's the name of the title."
+    },
+    {
+      "speaker": "slow",
+      "text": "芝野さんは26歳で、一力遼名人に挑戦していました。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんは26<ruby>歳<rt>さい</rt></ruby>で、<ruby>一力<rt>いちりき</rt></ruby><ruby>遼<rt>りょう</rt></ruby><span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>していました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Shibano, twenty-six, was challenging the title holder, Ryo Ichiriki."
+    },
+    {
+      "speaker": "vocab",
+      "text": "挑戦",
+      "ruby": "<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means challenge."
+    },
+    {
+      "speaker": "slow",
+      "text": "名人戦では、先に4回勝った人が名人になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人戦<rt>めいじんせん</rt></ruby></span>では、<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, before others\"><ruby>先に<rt>さきに</rt></ruby></span>4<ruby>回<rt>かい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In this match, the first player to win four games becomes the champion."
+    },
+    {
+      "speaker": "vocab",
+      "text": "先に",
+      "ruby": "<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, before others\"><ruby>先に<rt>さきに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means first, before the other person."
+    },
+    {
+      "speaker": "slow",
+      "text": "二人の勝負は3勝3敗になり、最後の第7局で決まることになりました。",
+      "ruby": "<ruby>二人<rt>ふたり</rt></ruby>の<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"contest, match\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>は3<ruby>勝<rt>しょう</rt></ruby>3<ruby>敗<rt>はい</rt></ruby>になり、<ruby>最後<rt>さいご</rt></ruby>の<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>で<ruby>決ま<rt>きま</rt></ruby>ることになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The contest stood at three wins each, so it came down to the seventh and final game."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勝負",
+      "ruby": "<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"contest, match\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a contest or match."
+    },
+    {
+      "speaker": "slow",
+      "text": "第7局は、10月28日と29日の2日間、静岡県伊豆市で行われました。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>と29<ruby>日<rt>にち</rt></ruby>の2<ruby>日間<rt>かかん</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>伊豆<rt>いず</rt></ruby><ruby>市<rt>し</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Game seven was held over two days, October twenty-eighth and twenty-ninth, in Izu, Shizuoka."
+    },
+    {
+      "speaker": "vocab",
+      "text": "行われる",
+      "ruby": "<span class=\"vw\" data-ja=\"行われる\" data-reading=\"おこなわれる\" data-en=\"to be held\"><ruby>行わ<rt>おこなわ</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be held."
+    },
+    {
+      "speaker": "slow",
+      "text": "対局は212手で終わり、芝野さんが勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"対局\" data-reading=\"たいきょく\" data-en=\"a game (of Go or shogi)\"><ruby>対局<rt>たいきょく</rt></ruby></span>は212<ruby>手で<rt>てで</rt></ruby><ruby>終わり<rt>おわり</rt></ruby>、<ruby>芝野<rt>しばの</rt></ruby>さんが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The game ended after two hundred twelve moves, and Shibano won."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対局",
+      "ruby": "<span class=\"vw\" data-ja=\"対局\" data-reading=\"たいきょく\" data-en=\"a game (of Go or shogi)\"><ruby>対局<rt>たいきょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a game of Go or shogi."
+    },
+    {
+      "speaker": "slow",
+      "text": "これで芝野さんは4勝3敗となり、名人のタイトルを取りました。",
+      "ruby": "これで<ruby>芝野<rt>しばの</rt></ruby>さんは4<ruby>勝<rt>しょう</rt></ruby>3<ruby>敗<rt>はい</rt></ruby>となり、<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>のタイトルを<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "With four wins and three losses, Shibano took the title."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取る",
+      "ruby": "<span class=\"vw\" data-ja=\"取る\" data-reading=\"とる\" data-en=\"to take, to win\"><ruby>取る<rt>とる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take, here to win a title."
+    },
+    {
+      "speaker": "slow",
+      "text": "芝野さんが名人になるのは、3年ぶりです。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんが<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になるのは、<span class=\"vw\" data-ja=\"3年ぶり\" data-reading=\"さんねんぶり\" data-en=\"for the first time in three years\">3<ruby>年<rt>ねん</rt></ruby>ぶりです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's his first time as Master in three years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "3年ぶり",
+      "ruby": "<span class=\"vw\" data-ja=\"3年ぶり\" data-reading=\"さんねんぶり\" data-en=\"for the first time in three years\">3<ruby>年<rt>ねん</rt></ruby>ぶり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time in three years."
+    },
+    {
+      "speaker": "slow",
+      "text": "名人と合わせて、三冠になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>と<ruby>合わ<rt>あわ</rt></ruby>せて、<span class=\"vw\" data-ja=\"三冠\" data-reading=\"さんかん\" data-en=\"three titles at once\"><ruby>三<rt>さん</rt></ruby><ruby>冠<rt>かん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Together with his two other titles, he now holds three."
+    },
+    {
+      "speaker": "vocab",
+      "text": "三冠",
+      "ruby": "<span class=\"vw\" data-ja=\"三冠\" data-reading=\"さんかん\" data-en=\"three titles at once\"><ruby>三<rt>さん</rt></ruby><ruby>冠<rt>かん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means holding three titles at once."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、29歳の一力さんは、3年続けて名人になることはできませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、29<ruby>歳<rt>さい</rt></ruby>の<ruby>一力<rt>いちりき</rt></ruby>さんは、3<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になることはできませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, Ichiriki, twenty-nine, couldn't win the title for a third straight year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一方",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means on the other hand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続ける",
+      "ruby": "<span class=\"vw\" data-ja=\"続ける\" data-reading=\"つづける\" data-en=\"to continue\"><ruby>続け<rt>つづけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue."
+    },
+    {
+      "speaker": "slow",
+      "text": "一力さんのタイトルは、「王座」と「天元」の二つに減りました。",
+      "ruby": "<ruby>一力<rt>いちりき</rt></ruby>さんのタイトルは、「<ruby>王座<rt>おうざ</rt></ruby>」と「<ruby>天元<rt>てんげん</rt></ruby>」の<ruby>二つ<rt>ふたつ</rt></ruby>に<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ichiriki's titles dropped to two."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "若い二人の戦いは、これからも注目されそうです。",
+      "ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>二人<rt>ふたり</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>は、これからも<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rivalry between these two young players looks set to draw attention."
+    },
+    {
+      "speaker": "vocab",
+      "text": "注目",
+      "ruby": "<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means attention."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "囲碁の大きなタイトル戦「名人戦」で、芝野虎丸さんが勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"囲碁\" data-reading=\"いご\" data-en=\"the board game Go\"><ruby>囲碁<rt>いご</rt></ruby></span>の<ruby>大き<rt>おおき</rt></ruby>なタイトル<ruby>戦<rt>せん</rt></ruby>「<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人戦<rt>めいじんせん</rt></ruby></span>」で、<ruby>芝野<rt>しばの</rt></ruby><ruby>虎丸<rt>とらまる</rt></ruby>さんが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "芝野さんは26歳で、一力遼名人に挑戦していました。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんは26<ruby>歳<rt>さい</rt></ruby>で、<ruby>一力<rt>いちりき</rt></ruby><ruby>遼<rt>りょう</rt></ruby><span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>に<span class=\"vw\" data-ja=\"挑戦\" data-reading=\"ちょうせん\" data-en=\"challenge\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名人戦では、先に4回勝った人が名人になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人戦<rt>めいじんせん</rt></ruby></span>では、<span class=\"vw\" data-ja=\"先に\" data-reading=\"さきに\" data-en=\"first, before others\"><ruby>先に<rt>さきに</rt></ruby></span>4<ruby>回<rt>かい</rt></ruby><ruby>勝っ<rt>かっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "二人の勝負は3勝3敗になり、最後の第7局で決まることになりました。",
+      "ruby": "<ruby>二人<rt>ふたり</rt></ruby>の<span class=\"vw\" data-ja=\"勝負\" data-reading=\"しょうぶ\" data-en=\"contest, match\"><ruby>勝負<rt>しょうぶ</rt></ruby></span>は3<ruby>勝<rt>しょう</rt></ruby>3<ruby>敗<rt>はい</rt></ruby>になり、<ruby>最後<rt>さいご</rt></ruby>の<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>で<ruby>決ま<rt>きま</rt></ruby>ることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "第7局は、10月28日と29日の2日間、静岡県伊豆市で行われました。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>と29<ruby>日<rt>にち</rt></ruby>の2<ruby>日間<rt>かかん</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>伊豆<rt>いず</rt></ruby><ruby>市<rt>し</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "対局は212手で終わり、芝野さんが勝ちました。",
+      "ruby": "<span class=\"vw\" data-ja=\"対局\" data-reading=\"たいきょく\" data-en=\"a game (of Go or shogi)\"><ruby>対局<rt>たいきょく</rt></ruby></span>は212<ruby>手で<rt>てで</rt></ruby><ruby>終わり<rt>おわり</rt></ruby>、<ruby>芝野<rt>しばの</rt></ruby>さんが<ruby>勝ち<rt>かち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これで芝野さんは4勝3敗となり、名人のタイトルを取りました。",
+      "ruby": "これで<ruby>芝野<rt>しばの</rt></ruby>さんは4<ruby>勝<rt>しょう</rt></ruby>3<ruby>敗<rt>はい</rt></ruby>となり、<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>のタイトルを<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "芝野さんが名人になるのは、3年ぶりです。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんが<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になるのは、<span class=\"vw\" data-ja=\"3年ぶり\" data-reading=\"さんねんぶり\" data-en=\"for the first time in three years\">3<ruby>年<rt>ねん</rt></ruby>ぶりです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "芝野さんは今、「棋聖」と「十段」のタイトルも持っています。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>、「<ruby>棋聖<rt>きせい</rt></ruby>」と「<ruby>十<rt>じゅう</rt></ruby><ruby>段<rt>だん</rt></ruby>」のタイトルも<ruby>持っ<rt>もっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "名人と合わせて、三冠になりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>と<ruby>合わ<rt>あわ</rt></ruby>せて、<span class=\"vw\" data-ja=\"三冠\" data-reading=\"さんかん\" data-en=\"three titles at once\"><ruby>三<rt>さん</rt></ruby><ruby>冠<rt>かん</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、29歳の一力さんは、3年続けて名人になることはできませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby></span>、29<ruby>歳<rt>さい</rt></ruby>の<ruby>一力<rt>いちりき</rt></ruby>さんは、3<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になることはできませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "一力さんのタイトルは、「王座」と「天元」の二つに減りました。",
+      "ruby": "<ruby>一力<rt>いちりき</rt></ruby>さんのタイトルは、「<ruby>王座<rt>おうざ</rt></ruby>」と「<ruby>天元<rt>てんげん</rt></ruby>」の<ruby>二つ<rt>ふたつ</rt></ruby>に<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "若い二人の戦いは、これからも注目されそうです。",
+      "ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>二人<rt>ふたり</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>は、これからも<span class=\"vw\" data-ja=\"注目\" data-reading=\"ちゅうもく\" data-en=\"attention\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "第7局は、どこで行われましたか。",
+      "ruby": "<ruby>第<rt>だい</rt></ruby>7<ruby>局<rt>きょく</rt></ruby>は、どこで<ruby>行わ<rt>おこなわ</rt></ruby>れましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Izu, in Shizuoka Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "芝野さんは、何勝何敗で名人になりましたか。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんは、<ruby>何勝何敗<rt>なんしょうなんぱい</rt></ruby>で<span class=\"vw\" data-ja=\"名人\" data-reading=\"めいじん\" data-en=\"master; the Master title\"><ruby>名人<rt>めいじん</rt></ruby></span>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four wins and three losses."
+    },
+    {
+      "speaker": "slow",
+      "text": "芝野さんのタイトルは、いくつになりましたか。",
+      "ruby": "<ruby>芝野<rt>しばの</rt></ruby>さんのタイトルは、いくつになりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three titles."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
