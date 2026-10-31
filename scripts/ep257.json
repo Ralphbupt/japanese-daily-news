@@ -1,0 +1,523 @@
+{
+  "episode": 257,
+  "title": "富士山で初冠雪、今年から新しい方法で観測",
+  "date": "2026-11-01",
+  "source": "NHK / ウェザーニュース / YBS山梨放送",
+  "level": "N5-N4",
+  "contentVersion": "2026110101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "初冠雪",
+      "reading": "はつかんせつ",
+      "en": "first snowcap of the season",
+      "zh": "初冠雪（山顶首次积雪）"
+    },
+    {
+      "ja": "雪",
+      "reading": "ゆき",
+      "en": "snow",
+      "zh": "雪"
+    },
+    {
+      "ja": "積もる",
+      "reading": "つもる",
+      "en": "to pile up (snow)",
+      "zh": "积，堆积"
+    },
+    {
+      "ja": "白い",
+      "reading": "しろい",
+      "en": "white",
+      "zh": "白色的"
+    },
+    {
+      "ja": "発表する",
+      "reading": "はっぴょうする",
+      "en": "to announce",
+      "zh": "发表，公布"
+    },
+    {
+      "ja": "1センチ以上",
+      "reading": "いっセンチいじょう",
+      "en": "one centimeter or more",
+      "zh": "一厘米以上"
+    },
+    {
+      "ja": "去年",
+      "reading": "きょねん",
+      "en": "last year",
+      "zh": "去年"
+    },
+    {
+      "ja": "決める",
+      "reading": "きめる",
+      "en": "to decide",
+      "zh": "决定"
+    },
+    {
+      "ja": "使う",
+      "reading": "つかう",
+      "en": "to use",
+      "zh": "使用"
+    },
+    {
+      "ja": "方法",
+      "reading": "ほうほう",
+      "en": "method, way",
+      "zh": "方法"
+    },
+    {
+      "ja": "雲",
+      "reading": "くも",
+      "en": "cloud",
+      "zh": "云"
+    },
+    {
+      "ja": "夜",
+      "reading": "よる",
+      "en": "night",
+      "zh": "夜晚"
+    },
+    {
+      "ja": "遅い",
+      "reading": "おそい",
+      "en": "late",
+      "zh": "晚，迟"
+    },
+    {
+      "ja": "外国",
+      "reading": "がいこく",
+      "en": "foreign country",
+      "zh": "外国"
+    },
+    {
+      "ja": "写真を撮る",
+      "reading": "しゃしんをとる",
+      "en": "to take a photo",
+      "zh": "拍照"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のは初めてです",
+      "meaning": "it is the first time to ~",
+      "meaningZh": "……是第一次",
+      "formation": "Verb (dictionary form) + のは初めてです",
+      "example": "富士山で雪を見るのは初めてです。",
+      "translation": "It's my first time seeing snow on Mount Fuji.",
+      "note": "の turns the verb phrase into a noun, which becomes the topic with は.",
+      "noteZh": "の把动词短语名词化，再用は作为话题。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜までは / 〜からは",
+      "meaning": "until ~ / from ~ on",
+      "meaningZh": "到……为止 / 从……开始",
+      "formation": "Time noun + までは / からは",
+      "example": "去年までは、目で山を見て決めていました。今年からは、データを使って決めます。",
+      "translation": "Until last year they decided by eye. From this year they decide using data.",
+      "note": "Adding は contrasts the two periods: before vs. after a change.",
+      "noteZh": "加上は表示对比，强调变化前后的不同。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜でも",
+      "meaning": "even ~",
+      "meaningZh": "即使……也",
+      "formation": "Noun + でも",
+      "example": "雲が多い日や夜でも、雪のことがわかります。",
+      "translation": "Even on cloudy days or at night, they can know about the snow.",
+      "note": "Shows that something is true even in an unexpected or difficult case.",
+      "noteZh": "表示即使在意外或困难的情况下也成立。",
+      "level": "N4"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. On October thirtieth, Mount Fuji got its first snowcap of the season, and this year it was measured in a new way. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "山の上に初めて雪が積もって、白く見えることを、「初冠雪」といいます。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span><span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>が<ruby>積も<rt>つも</rt></ruby>って、<ruby>白く<rt>しろく</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ることを、「<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月30日、気象庁が、富士山の初冠雪を発表しました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が、<ruby>富士山<rt>ふじさん</rt></ruby>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝8時に、山の上に1センチ以上の雪が積もっていました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>8<ruby>時に<rt>じに</rt></ruby>、<ruby>山<rt>やま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><span class=\"vw\" data-ja=\"1センチ以上\" data-reading=\"いっセンチいじょう\" data-en=\"one centimeter or more\">1センチ<ruby>以上<rt>いじょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>が<ruby>積も<rt>つも</rt></ruby>っていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年までは、甲府の気象台の人が、目で山を見て決めていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>までは、<ruby>甲府<rt>こうふ</rt></ruby>の<ruby>気象台<rt>きしょうだい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>目で<rt>めで</rt></ruby><ruby>山<rt>やま</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年からは、レーダーや人工衛星のデータを使って決めます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>からは、レーダーや<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>のデータを<ruby>使って<rt>つかって</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい方法では、雲が多い日や夜でも、雪のことがわかります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"方法\" data-reading=\"ほうほう\" data-en=\"method, way\"><ruby>方法<rt>ほうほう</rt></ruby></span>では、<span class=\"vw\" data-ja=\"雲\" data-reading=\"くも\" data-en=\"cloud\"><ruby>雲<rt>くも</rt></ruby></span>が<ruby>多い<rt>おおい</rt></ruby><ruby>日<rt>ひ</rt></ruby>や<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>でも、<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>のことがわかります。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の初冠雪は10月23日で、いつもの年は10月2日ごろでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>で、いつもの<ruby>年<rt>とし</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>ごろでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、とても遅い初冠雪になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、とても<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "4合目の駐車場では、外国から来た人たちが、白い富士山の写真を撮っていました。",
+      "ruby": "4<ruby>合目<rt>ごうめ</rt></ruby>の<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>では、<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span><ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "フィリピンから来た人は、「富士山で雪を見るのは初めてです」と話していました。",
+      "ruby": "フィリピンから<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、「<ruby>富士山<rt>ふじさん</rt></ruby>で<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>のは<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "山の上に初めて雪が積もって、白く見えることを、「初冠雪」といいます。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span><span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>が<ruby>積も<rt>つも</rt></ruby>って、<ruby>白く<rt>しろく</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ることを、「<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "When snow piles up on top of a mountain for the first time in the season and it looks white, there is a special word for it: the first snowcap."
+    },
+    {
+      "speaker": "vocab",
+      "text": "雪",
+      "ruby": "<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means snow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "積もる",
+      "ruby": "<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up (snow)\"><ruby>積も<rt>つも</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pile up, like snow on the ground."
+    },
+    {
+      "speaker": "slow",
+      "text": "10月30日、気象庁が、富士山の初冠雪を発表しました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が、<ruby>富士山<rt>ふじさん</rt></ruby>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October thirtieth, the Japan Meteorological Agency announced the first snowcap on Mount Fuji."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表する",
+      "ruby": "<span class=\"vw\" data-ja=\"発表する\" data-reading=\"はっぴょうする\" data-en=\"to announce\"><ruby>発表<rt>はっぴょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝8時に、山の上に1センチ以上の雪が積もっていました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>8<ruby>時に<rt>じに</rt></ruby>、<ruby>山<rt>やま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><span class=\"vw\" data-ja=\"1センチ以上\" data-reading=\"いっセンチいじょう\" data-en=\"one centimeter or more\">1センチ<ruby>以上<rt>いじょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>が<ruby>積も<rt>つも</rt></ruby>っていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At eight in the morning, one centimeter or more of snow had piled up near the top of the mountain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "1センチ以上",
+      "ruby": "<span class=\"vw\" data-ja=\"1センチ以上\" data-reading=\"いっセンチいじょう\" data-en=\"one centimeter or more\">1センチ<ruby>以上<rt>いじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means one centimeter or more."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年までは、甲府の気象台の人が、目で山を見て決めていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>までは、<ruby>甲府<rt>こうふ</rt></ruby>の<ruby>気象台<rt>きしょうだい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>目で<rt>めで</rt></ruby><ruby>山<rt>やま</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until last year, staff at the weather office in Kofu decided by looking at the mountain with their own eyes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "決める",
+      "ruby": "<span class=\"vw\" data-ja=\"決める\" data-reading=\"きめる\" data-en=\"to decide\"><ruby>決め<rt>きめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decide."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年からは、レーダーや人工衛星のデータを使って決めます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>からは、レーダーや<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>のデータを<ruby>使って<rt>つかって</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From this year, they decide using data from radar and satellites."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい方法では、雲が多い日や夜でも、雪のことがわかります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"方法\" data-reading=\"ほうほう\" data-en=\"method, way\"><ruby>方法<rt>ほうほう</rt></ruby></span>では、<span class=\"vw\" data-ja=\"雲\" data-reading=\"くも\" data-en=\"cloud\"><ruby>雲<rt>くも</rt></ruby></span>が<ruby>多い<rt>おおい</rt></ruby><ruby>日<rt>ひ</rt></ruby>や<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>でも、<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>のことがわかります。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the new method, they can know about the snow even on cloudy days or at night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "方法",
+      "ruby": "<span class=\"vw\" data-ja=\"方法\" data-reading=\"ほうほう\" data-en=\"method, way\"><ruby>方法<rt>ほうほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a method or way of doing something."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜",
+      "ruby": "<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means night."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の初冠雪は10月23日で、いつもの年は10月2日ごろでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>で、いつもの<ruby>年<rt>とし</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>ごろでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year's first snowcap came on October twenty-third, and in a usual year it comes around October second."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、とても遅い初冠雪になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、とても<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, the first snowcap came very late."
+    },
+    {
+      "speaker": "vocab",
+      "text": "遅い",
+      "ruby": "<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late\"><ruby>遅い<rt>おそい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means late."
+    },
+    {
+      "speaker": "slow",
+      "text": "4合目の駐車場では、外国から来た人たちが、白い富士山の写真を撮っていました。",
+      "ruby": "4<ruby>合目<rt>ごうめ</rt></ruby>の<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>では、<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span><ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a parking lot partway up the mountain, visitors from other countries were taking photos of the white mountain."
+    },
+    {
+      "speaker": "vocab",
+      "text": "写真を撮る",
+      "ruby": "<span class=\"vw\" data-ja=\"写真を撮る\" data-reading=\"しゃしんをとる\" data-en=\"to take a photo\"><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮る<rt>とる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take a photo."
+    },
+    {
+      "speaker": "slow",
+      "text": "フィリピンから来た人は、「富士山で雪を見るのは初めてです」と話していました。",
+      "ruby": "フィリピンから<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、「<ruby>富士山<rt>ふじさん</rt></ruby>で<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>のは<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A visitor from the Philippines said it was the first time seeing snow on Mount Fuji."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "山の上に初めて雪が積もって、白く見えることを、「初冠雪」といいます。",
+      "ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span><span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>が<ruby>積も<rt>つも</rt></ruby>って、<ruby>白く<rt>しろく</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ることを、「<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>」といいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "10月30日、気象庁が、富士山の初冠雪を発表しました。",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が、<ruby>富士山<rt>ふじさん</rt></ruby>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝8時に、山の上に1センチ以上の雪が積もっていました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>8<ruby>時に<rt>じに</rt></ruby>、<ruby>山<rt>やま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><span class=\"vw\" data-ja=\"1センチ以上\" data-reading=\"いっセンチいじょう\" data-en=\"one centimeter or more\">1センチ<ruby>以上<rt>いじょう</rt></ruby></span>の<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>が<ruby>積も<rt>つも</rt></ruby>っていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年までは、甲府の気象台の人が、目で山を見て決めていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>までは、<ruby>甲府<rt>こうふ</rt></ruby>の<ruby>気象台<rt>きしょうだい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>目で<rt>めで</rt></ruby><ruby>山<rt>やま</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年からは、レーダーや人工衛星のデータを使って決めます。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>からは、レーダーや<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>のデータを<ruby>使って<rt>つかって</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい方法では、雲が多い日や夜でも、雪のことがわかります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"方法\" data-reading=\"ほうほう\" data-en=\"method, way\"><ruby>方法<rt>ほうほう</rt></ruby></span>では、<span class=\"vw\" data-ja=\"雲\" data-reading=\"くも\" data-en=\"cloud\"><ruby>雲<rt>くも</rt></ruby></span>が<ruby>多い<rt>おおい</rt></ruby><ruby>日<rt>ひ</rt></ruby>や<span class=\"vw\" data-ja=\"夜\" data-reading=\"よる\" data-en=\"night\"><ruby>夜<rt>よる</rt></ruby></span>でも、<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>のことがわかります。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の初冠雪は10月23日で、いつもの年は10月2日ごろでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>は10<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>で、いつもの<ruby>年<rt>とし</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby><ruby>2日<rt>ふつか</rt></ruby>ごろでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、とても遅い初冠雪になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、とても<span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "4合目の駐車場では、外国から来た人たちが、白い富士山の写真を撮っていました。",
+      "ruby": "4<ruby>合目<rt>ごうめ</rt></ruby>の<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>では、<span class=\"vw\" data-ja=\"外国\" data-reading=\"がいこく\" data-en=\"foreign country\"><ruby>外国<rt>がいこく</rt></ruby></span>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちが、<span class=\"vw\" data-ja=\"白い\" data-reading=\"しろい\" data-en=\"white\"><ruby>白い<rt>しろい</rt></ruby></span><ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "フィリピンから来た人は、「富士山で雪を見るのは初めてです」と話していました。",
+      "ruby": "フィリピンから<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、「<ruby>富士山<rt>ふじさん</rt></ruby>で<span class=\"vw\" data-ja=\"雪\" data-reading=\"ゆき\" data-en=\"snow\"><ruby>雪<rt>ゆき</rt></ruby></span>を<ruby>見る<rt>みる</rt></ruby>のは<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>です」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "富士山の初冠雪は、何月何日でしたか。",
+      "ruby": "<ruby>富士山<rt>ふじさん</rt></ruby>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>は、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "October thirtieth."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年からは、何を使って決めますか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>からは、<ruby>何を<rt>なにを</rt></ruby><ruby>使って<rt>つかって</rt></ruby><ruby>決め<rt>きめ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Data from radar and satellites."
+    },
+    {
+      "speaker": "slow",
+      "text": "いつもの年の初冠雪は、何月何日ごろですか。",
+      "ruby": "いつもの<ruby>年<rt>とし</rt></ruby>の<span class=\"vw\" data-ja=\"初冠雪\" data-reading=\"はつかんせつ\" data-en=\"first snowcap of the season\"><ruby>初冠雪<rt>はつかんせつ</rt></ruby></span>は、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>ごろですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around October second."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Stay warm, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "practiceZh": [
+    "山の上に初めて雪が積もって、白く見えることを、「初冠雪」といいます。\n山顶第一次积雪、看起来变白，叫做“初冠雪”。\n雪 = snow / 積もる = to pile up / 白い = white",
+    "10月30日、気象庁が、富士山の初冠雪を発表しました。\n10月30日，气象厅发布了富士山的初冠雪。\n発表する = to announce",
+    "朝8時に、山の上に1センチ以上の雪が積もっていました。\n早上8点，山顶积了1厘米以上的雪。\n1センチ以上 = one centimeter or more",
+    "去年までは、甲府の気象台の人が、目で山を見て決めていました。\n到去年为止，都是甲府气象台的人用眼睛看山来判断。\n去年 = last year / 決める = to decide",
+    "今年からは、レーダーや人工衛星のデータを使って決めます。\n从今年开始，用雷达和人造卫星的数据来判断。\n使う = to use",
+    "新しい方法では、雲が多い日や夜でも、雪のことがわかります。\n用新方法的话，即使是多云的日子或夜晚，也能知道积雪情况。\n方法 = method / 雲 = cloud / 夜 = night",
+    "去年の初冠雪は10月23日で、いつもの年は10月2日ごろでした。\n去年的初冠雪是10月23日，往年是10月2日左右。",
+    "今年は、とても遅い初冠雪になりました。\n今年的初冠雪来得很晚。\n遅い = late",
+    "4合目の駐車場では、外国から来た人たちが、白い富士山の写真を撮っていました。\n在四合目的停车场，从外国来的人们在拍白色富士山的照片。\n外国 = foreign country / 写真を撮る = to take a photo",
+    "フィリピンから来た人は、「富士山で雪を見るのは初めてです」と話していました。\n从菲律宾来的人说：“在富士山看到雪是第一次。”\n初めて = for the first time"
+  ]
+}
