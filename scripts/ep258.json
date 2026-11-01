@@ -1,0 +1,648 @@
+{
+  "episode": 258,
+  "title": "訪日客の免税、「リファンド方式」がスタート",
+  "date": "2026-11-01",
+  "source": "NHK / 毎日新聞 / 観光庁",
+  "level": "N4-N3",
+  "contentVersion": "2026110101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "免税",
+      "reading": "めんぜい",
+      "en": "tax-free",
+      "zh": "免税"
+    },
+    {
+      "ja": "制度",
+      "reading": "せいど",
+      "en": "system",
+      "zh": "制度"
+    },
+    {
+      "ja": "方式",
+      "reading": "ほうしき",
+      "en": "method, system",
+      "zh": "方式"
+    },
+    {
+      "ja": "消費税",
+      "reading": "しょうひぜい",
+      "en": "consumption tax",
+      "zh": "消费税"
+    },
+    {
+      "ja": "国内",
+      "reading": "こくない",
+      "en": "inside the country, domestic",
+      "zh": "国内"
+    },
+    {
+      "ja": "含める",
+      "reading": "ふくめる",
+      "en": "to include",
+      "zh": "包含，算入"
+    },
+    {
+      "ja": "税関",
+      "reading": "ぜいかん",
+      "en": "customs",
+      "zh": "海关"
+    },
+    {
+      "ja": "確認",
+      "reading": "かくにん",
+      "en": "check, confirmation",
+      "zh": "确认"
+    },
+    {
+      "ja": "返す",
+      "reading": "かえす",
+      "en": "to give back, to return",
+      "zh": "归还，退还"
+    },
+    {
+      "ja": "現金",
+      "reading": "げんきん",
+      "en": "cash",
+      "zh": "现金"
+    },
+    {
+      "ja": "以内",
+      "reading": "いない",
+      "en": "within",
+      "zh": "以内"
+    },
+    {
+      "ja": "上限",
+      "reading": "じょうげん",
+      "en": "upper limit",
+      "zh": "上限"
+    },
+    {
+      "ja": "全部",
+      "reading": "ぜんぶ",
+      "en": "all, everything",
+      "zh": "全部"
+    },
+    {
+      "ja": "預ける",
+      "reading": "あずける",
+      "en": "to leave in someone's care; to check (baggage)",
+      "zh": "寄存，托运"
+    },
+    {
+      "ja": "不正",
+      "reading": "ふせい",
+      "en": "fraud, wrongdoing",
+      "zh": "不正当行为，舞弊"
+    },
+    {
+      "ja": "防ぐ",
+      "reading": "ふせぐ",
+      "en": "to prevent",
+      "zh": "防止"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it has been decided that ~",
+      "meaningZh": "决定……；规定……",
+      "formation": "Verb (dictionary form) + ことになる",
+      "example": "まず消費税を含めた値段を払うことになりました。",
+      "translation": "It has been decided that shoppers first pay the price including tax.",
+      "note": "Used when a decision is made by others or by circumstances, not by the speaker.",
+      "noteZh": "表示不是说话人自己，而是由他人或情况决定的事情。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜なければならない",
+      "meaning": "must ~, have to ~",
+      "meaningZh": "必须……",
+      "formation": "Verb (ない-form without い) + ければならない",
+      "example": "90日以内に、出国するときにしなければなりません。",
+      "translation": "It must be done when leaving the country within ninety days.",
+      "note": "Expresses obligation or a rule.",
+      "noteZh": "表示义务或规定。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と (conditional)",
+      "meaning": "when / if ~ (then naturally)",
+      "meaningZh": "一……就……；如果……就……",
+      "formation": "Verb (dictionary form) + と",
+      "example": "店でパスポートを見せると、消費税なしで買い物ができました。",
+      "translation": "If you showed your passport at a store, you could shop without consumption tax.",
+      "note": "Shows a result that always or naturally follows the condition.",
+      "noteZh": "表示条件成立后必然或自然出现的结果。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜必要がある",
+      "meaning": "it is necessary to ~",
+      "meaningZh": "需要……；有必要……",
+      "formation": "Verb (dictionary form) + 必要がある",
+      "example": "荷物を預ける前にする必要があります。",
+      "translation": "It needs to be done before checking your bags.",
+      "note": "A slightly formal way to say something is needed.",
+      "noteZh": "表示有必要做某事，语气稍正式。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "外国人旅行者のための免税の制度が、11月1日から新しくなりました。\n外国游客的免税制度从11月1日起焕然一新。\n免税 = tax-free / 制度 = system",
+    "新しい制度は、「リファンド方式」と呼ばれています。\n新制度被称为“退税方式”。\n方式 = method, system",
+    "これまでは、店でパスポートを見せると、消費税なしで買い物ができました。\n以前，在店里出示护照，就能不付消费税购物。\n消費税 = consumption tax",
+    "しかし、免税で買った物を国内で売る人が多く、問題になっていました。\n但是，很多人把免税买的东西在国内转卖，成了问题。\n国内 = inside the country, domestic",
+    "そこで、買うときには、まず消費税を含めた値段を払うことになりました。\n因此，现在购买时要先支付包含消费税的价格。\n含める = to include",
+    "そして、出国するとき、空港や港の税関で確認を受けます。\n然后，出境时在机场或港口的海关接受确认。\n税関 = customs / 確認 = check, confirmation",
+    "買った物を国の外に持って行くことがわかると、消費税の分が返されます。\n确认买的东西会带出国后，消费税部分就会退还。\n返す = to give back, to return",
+    "返金は、クレジットカードや現金で受け取ることができます。\n退款可以通过信用卡或现金领取。\n現金 = cash",
+    "手続きは、買った日から90日以内に、出国するときにしなければなりません。\n手续必须在购买之日起90天以内出境时办理。\n以内 = within",
+    "また、一日に50万円までという買い物の上限は、なくなりました。\n另外，每天最多购买50万日元的上限取消了。\n上限 = upper limit",
+    "でも、一つのレシートの中で一つでも国内で使うと、そのレシートの分は全部返金されません。\n但是，同一张收据中只要有一件在国内使用，这张收据的部分就全部不退款。\n全部 = all, everything",
+    "税関の確認は、空港で荷物を預ける前にする必要があります。\n海关确认需要在机场托运行李之前办理。\n預ける = to leave in someone's care; to check (baggage)",
+    "国は、新しい制度で不正を防ぎたいと考えています。\n国家希望通过新制度防止不正当行为。\n不正 = fraud, wrongdoing / 防ぐ = to prevent"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is November first. Japan has changed how tax-free shopping works for foreign visitors. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人旅行者のための免税の制度が、11月1日から新しくなりました。",
+      "ruby": "<ruby>外国人旅行者<rt>がいこくじんりょこうしゃ</rt></ruby>のための<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>の<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>新しく<rt>あたらしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい制度は、「リファンド方式」と呼ばれています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>は、「リファンド<span class=\"vw\" data-ja=\"方式\" data-reading=\"ほうしき\" data-en=\"method, system\"><ruby>方式<rt>ほうしき</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでは、店でパスポートを見せると、消費税なしで買い物ができました。",
+      "ruby": "これまでは、<ruby>店<rt>みせ</rt></ruby>でパスポートを<ruby>見せ<rt>みせ</rt></ruby>ると、<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>なしで<ruby>買い物<rt>かいもの</rt></ruby>ができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、免税で買った物を国内で売る人が多く、問題になっていました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>で<ruby>買っ<rt>かっ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>を<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>売る<rt>うる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>問題<rt>もんだい</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで、買うときには、まず消費税を含めた値段を払うことになりました。",
+      "ruby": "そこで、<ruby>買う<rt>かう</rt></ruby>ときには、まず<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>を<ruby>含め<rt>ふくめ</rt></ruby>た<ruby>値段<rt>ねだん</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>ことになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、出国するとき、空港や港の税関で確認を受けます。",
+      "ruby": "そして、<ruby>出国<rt>しゅっこく</rt></ruby>するとき、<ruby>空港<rt>くうこう</rt></ruby>や<ruby>港<rt>みなと</rt></ruby>の<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>で<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "買った物を国の外に持って行くことがわかると、消費税の分が返されます。",
+      "ruby": "<ruby>買っ<rt>かっ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>を<ruby>国<rt>くに</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行く<rt>いく</rt></ruby>ことがわかると、<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>の<ruby>分<rt>ぶん</rt></ruby>が<ruby>返さ<rt>かえさ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "返金は、クレジットカードや現金で受け取ることができます。",
+      "ruby": "<ruby>返金<rt>へんきん</rt></ruby>は、クレジットカードや<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>受け取る<rt>うけとる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "手続きは、買った日から90日以内に、出国するときにしなければなりません。",
+      "ruby": "<ruby>手続き<rt>てつづき</rt></ruby>は、<ruby>買っ<rt>かっ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>から90<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"以内\" data-reading=\"いない\" data-en=\"within\"><ruby>以内<rt>いない</rt></ruby></span>に、<ruby>出国<rt>しゅっこく</rt></ruby>するときにしなければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、一日に50万円までという買い物の上限は、なくなりました。",
+      "ruby": "また、<ruby>一日<rt>いちにち</rt></ruby>に50<ruby>万円<rt>まんえん</rt></ruby>までという<ruby>買い物<rt>かいもの</rt></ruby>の<span class=\"vw\" data-ja=\"上限\" data-reading=\"じょうげん\" data-en=\"upper limit\"><ruby>上限<rt>じょうげん</rt></ruby></span>は、なくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、一つのレシートの中で一つでも国内で使うと、そのレシートの分は全部返金されません。",
+      "ruby": "でも、<ruby>一つ<rt>ひとつ</rt></ruby>のレシートの<ruby>中<rt>なか</rt></ruby>で<ruby>一つ<rt>ひとつ</rt></ruby>でも<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>使う<rt>つかう</rt></ruby>と、そのレシートの<ruby>分<rt>ぶん</rt></ruby>は<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all, everything\"><ruby>全部<rt>ぜんぶ</rt></ruby></span><ruby>返金<rt>へんきん</rt></ruby>されません。"
+    },
+    {
+      "speaker": "news",
+      "text": "税関の確認は、空港で荷物を預ける前にする必要があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>の<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>は、<ruby>空港<rt>くうこう</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>を<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to leave in someone's care; to check (baggage)\"><ruby>預け<rt>あずけ</rt></ruby>る</span><ruby>前<rt>まえ</rt></ruby>にする<ruby>必要<rt>ひつよう</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "国は、新しい制度で不正を防ぎたいと考えています。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>で<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"fraud, wrongdoing\"><ruby>不正<rt>ふせい</rt></ruby></span>を<ruby>防ぎ<rt>ふせぎ</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "外国人旅行者のための免税の制度が、11月1日から新しくなりました。",
+      "ruby": "<ruby>外国人旅行者<rt>がいこくじんりょこうしゃ</rt></ruby>のための<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>の<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>新しく<rt>あたらしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's tax-free system for foreign travelers changed on November first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "免税",
+      "ruby": "<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tax-free."
+    },
+    {
+      "speaker": "vocab",
+      "text": "制度",
+      "ruby": "<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a system."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい制度は、「リファンド方式」と呼ばれています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>は、「リファンド<span class=\"vw\" data-ja=\"方式\" data-reading=\"ほうしき\" data-en=\"method, system\"><ruby>方式<rt>ほうしき</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new system is called the refund method."
+    },
+    {
+      "speaker": "vocab",
+      "text": "方式",
+      "ruby": "<span class=\"vw\" data-ja=\"方式\" data-reading=\"ほうしき\" data-en=\"method, system\"><ruby>方式<rt>ほうしき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a method or system."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでは、店でパスポートを見せると、消費税なしで買い物ができました。",
+      "ruby": "これまでは、<ruby>店<rt>みせ</rt></ruby>でパスポートを<ruby>見せ<rt>みせ</rt></ruby>ると、<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>なしで<ruby>買い物<rt>かいもの</rt></ruby>ができました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until now, showing a passport at a store let visitors shop without consumption tax."
+    },
+    {
+      "speaker": "vocab",
+      "text": "消費税",
+      "ruby": "<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means consumption tax, a sales tax."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、免税で買った物を国内で売る人が多く、問題になっていました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>で<ruby>買っ<rt>かっ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>を<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>売る<rt>うる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>問題<rt>もんだい</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But many people resold tax-free goods inside the country, and that became a problem."
+    },
+    {
+      "speaker": "vocab",
+      "text": "国内",
+      "ruby": "<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means inside the country."
+    },
+    {
+      "speaker": "slow",
+      "text": "そこで、買うときには、まず消費税を含めた値段を払うことになりました。",
+      "ruby": "そこで、<ruby>買う<rt>かう</rt></ruby>ときには、まず<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>を<ruby>含め<rt>ふくめ</rt></ruby>た<ruby>値段<rt>ねだん</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>ことになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "So now, shoppers first pay the price including the tax."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含める",
+      "ruby": "<span class=\"vw\" data-ja=\"含める\" data-reading=\"ふくめる\" data-en=\"to include\"><ruby>含め<rt>ふくめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to include."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、出国するとき、空港や港の税関で確認を受けます。",
+      "ruby": "そして、<ruby>出国<rt>しゅっこく</rt></ruby>するとき、<ruby>空港<rt>くうこう</rt></ruby>や<ruby>港<rt>みなと</rt></ruby>の<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>で<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then, when leaving the country, they get checked by customs at the airport or port."
+    },
+    {
+      "speaker": "vocab",
+      "text": "税関",
+      "ruby": "<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means customs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "確認",
+      "ruby": "<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a check or confirmation."
+    },
+    {
+      "speaker": "slow",
+      "text": "買った物を国の外に持って行くことがわかると、消費税の分が返されます。",
+      "ruby": "<ruby>買っ<rt>かっ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>を<ruby>国<rt>くに</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行く<rt>いく</rt></ruby>ことがわかると、<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>の<ruby>分<rt>ぶん</rt></ruby>が<ruby>返さ<rt>かえさ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Once it's clear the goods are leaving the country, the tax is given back."
+    },
+    {
+      "speaker": "vocab",
+      "text": "返す",
+      "ruby": "<span class=\"vw\" data-ja=\"返す\" data-reading=\"かえす\" data-en=\"to give back, to return\"><ruby>返す<rt>かえす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to give back."
+    },
+    {
+      "speaker": "slow",
+      "text": "返金は、クレジットカードや現金で受け取ることができます。",
+      "ruby": "<ruby>返金<rt>へんきん</rt></ruby>は、クレジットカードや<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>受け取る<rt>うけとる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The refund can be received by credit card or in cash."
+    },
+    {
+      "speaker": "vocab",
+      "text": "現金",
+      "ruby": "<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cash."
+    },
+    {
+      "speaker": "slow",
+      "text": "手続きは、買った日から90日以内に、出国するときにしなければなりません。",
+      "ruby": "<ruby>手続き<rt>てつづき</rt></ruby>は、<ruby>買っ<rt>かっ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>から90<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"以内\" data-reading=\"いない\" data-en=\"within\"><ruby>以内<rt>いない</rt></ruby></span>に、<ruby>出国<rt>しゅっこく</rt></ruby>するときにしなければなりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "This must be done when leaving the country within ninety days of the purchase."
+    },
+    {
+      "speaker": "vocab",
+      "text": "以内",
+      "ruby": "<span class=\"vw\" data-ja=\"以内\" data-reading=\"いない\" data-en=\"within\"><ruby>以内<rt>いない</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means within."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、一日に50万円までという買い物の上限は、なくなりました。",
+      "ruby": "また、<ruby>一日<rt>いちにち</rt></ruby>に50<ruby>万円<rt>まんえん</rt></ruby>までという<ruby>買い物<rt>かいもの</rt></ruby>の<span class=\"vw\" data-ja=\"上限\" data-reading=\"じょうげん\" data-en=\"upper limit\"><ruby>上限<rt>じょうげん</rt></ruby></span>は、なくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, the limit of five hundred thousand yen in purchases per day is gone."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上限",
+      "ruby": "<span class=\"vw\" data-ja=\"上限\" data-reading=\"じょうげん\" data-en=\"upper limit\"><ruby>上限<rt>じょうげん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an upper limit."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、一つのレシートの中で一つでも国内で使うと、そのレシートの分は全部返金されません。",
+      "ruby": "でも、<ruby>一つ<rt>ひとつ</rt></ruby>のレシートの<ruby>中<rt>なか</rt></ruby>で<ruby>一つ<rt>ひとつ</rt></ruby>でも<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>使う<rt>つかう</rt></ruby>と、そのレシートの<ruby>分<rt>ぶん</rt></ruby>は<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all, everything\"><ruby>全部<rt>ぜんぶ</rt></ruby></span><ruby>返金<rt>へんきん</rt></ruby>されません。"
+    },
+    {
+      "speaker": "host",
+      "text": "But if even one item on a receipt is used in the country, nothing on that receipt is refunded."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全部",
+      "ruby": "<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all, everything\"><ruby>全部<rt>ぜんぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all of it."
+    },
+    {
+      "speaker": "slow",
+      "text": "税関の確認は、空港で荷物を預ける前にする必要があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>の<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>は、<ruby>空港<rt>くうこう</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>を<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to leave in someone's care; to check (baggage)\"><ruby>預け<rt>あずけ</rt></ruby>る</span><ruby>前<rt>まえ</rt></ruby>にする<ruby>必要<rt>ひつよう</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The customs check must be done before checking bags at the airport."
+    },
+    {
+      "speaker": "vocab",
+      "text": "預ける",
+      "ruby": "<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to leave in someone's care; to check (baggage)\"><ruby>預け<rt>あずけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leave something in someone's care, like checking a bag."
+    },
+    {
+      "speaker": "slow",
+      "text": "国は、新しい制度で不正を防ぎたいと考えています。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>で<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"fraud, wrongdoing\"><ruby>不正<rt>ふせい</rt></ruby></span>を<ruby>防ぎ<rt>ふせぎ</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government hopes the new system will stop fraud."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不正",
+      "ruby": "<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"fraud, wrongdoing\"><ruby>不正<rt>ふせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fraud or wrongdoing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "防ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"防ぐ\" data-reading=\"ふせぐ\" data-en=\"to prevent\"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to prevent."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "外国人旅行者のための免税の制度が、11月1日から新しくなりました。",
+      "ruby": "<ruby>外国人旅行者<rt>がいこくじんりょこうしゃ</rt></ruby>のための<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>の<span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>新しく<rt>あたらしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい制度は、「リファンド方式」と呼ばれています。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>は、「リファンド<span class=\"vw\" data-ja=\"方式\" data-reading=\"ほうしき\" data-en=\"method, system\"><ruby>方式<rt>ほうしき</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでは、店でパスポートを見せると、消費税なしで買い物ができました。",
+      "ruby": "これまでは、<ruby>店<rt>みせ</rt></ruby>でパスポートを<ruby>見せ<rt>みせ</rt></ruby>ると、<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>なしで<ruby>買い物<rt>かいもの</rt></ruby>ができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、免税で買った物を国内で売る人が多く、問題になっていました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"免税\" data-reading=\"めんぜい\" data-en=\"tax-free\"><ruby>免税<rt>めんぜい</rt></ruby></span>で<ruby>買っ<rt>かっ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>を<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>売る<rt>うる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>問題<rt>もんだい</rt></ruby>になっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで、買うときには、まず消費税を含めた値段を払うことになりました。",
+      "ruby": "そこで、<ruby>買う<rt>かう</rt></ruby>ときには、まず<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>を<ruby>含め<rt>ふくめ</rt></ruby>た<ruby>値段<rt>ねだん</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>ことになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、出国するとき、空港や港の税関で確認を受けます。",
+      "ruby": "そして、<ruby>出国<rt>しゅっこく</rt></ruby>するとき、<ruby>空港<rt>くうこう</rt></ruby>や<ruby>港<rt>みなと</rt></ruby>の<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>で<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "買った物を国の外に持って行くことがわかると、消費税の分が返されます。",
+      "ruby": "<ruby>買っ<rt>かっ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>を<ruby>国<rt>くに</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行く<rt>いく</rt></ruby>ことがわかると、<span class=\"vw\" data-ja=\"消費税\" data-reading=\"しょうひぜい\" data-en=\"consumption tax\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>の<ruby>分<rt>ぶん</rt></ruby>が<ruby>返さ<rt>かえさ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "返金は、クレジットカードや現金で受け取ることができます。",
+      "ruby": "<ruby>返金<rt>へんきん</rt></ruby>は、クレジットカードや<span class=\"vw\" data-ja=\"現金\" data-reading=\"げんきん\" data-en=\"cash\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>受け取る<rt>うけとる</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "手続きは、買った日から90日以内に、出国するときにしなければなりません。",
+      "ruby": "<ruby>手続き<rt>てつづき</rt></ruby>は、<ruby>買っ<rt>かっ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>から90<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"以内\" data-reading=\"いない\" data-en=\"within\"><ruby>以内<rt>いない</rt></ruby></span>に、<ruby>出国<rt>しゅっこく</rt></ruby>するときにしなければなりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、一日に50万円までという買い物の上限は、なくなりました。",
+      "ruby": "また、<ruby>一日<rt>いちにち</rt></ruby>に50<ruby>万円<rt>まんえん</rt></ruby>までという<ruby>買い物<rt>かいもの</rt></ruby>の<span class=\"vw\" data-ja=\"上限\" data-reading=\"じょうげん\" data-en=\"upper limit\"><ruby>上限<rt>じょうげん</rt></ruby></span>は、なくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、一つのレシートの中で一つでも国内で使うと、そのレシートの分は全部返金されません。",
+      "ruby": "でも、<ruby>一つ<rt>ひとつ</rt></ruby>のレシートの<ruby>中<rt>なか</rt></ruby>で<ruby>一つ<rt>ひとつ</rt></ruby>でも<span class=\"vw\" data-ja=\"国内\" data-reading=\"こくない\" data-en=\"inside the country, domestic\"><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>使う<rt>つかう</rt></ruby>と、そのレシートの<ruby>分<rt>ぶん</rt></ruby>は<span class=\"vw\" data-ja=\"全部\" data-reading=\"ぜんぶ\" data-en=\"all, everything\"><ruby>全部<rt>ぜんぶ</rt></ruby></span><ruby>返金<rt>へんきん</rt></ruby>されません。"
+    },
+    {
+      "speaker": "news",
+      "text": "税関の確認は、空港で荷物を預ける前にする必要があります。",
+      "ruby": "<span class=\"vw\" data-ja=\"税関\" data-reading=\"ぜいかん\" data-en=\"customs\"><ruby>税関<rt>ぜいかん</rt></ruby></span>の<span class=\"vw\" data-ja=\"確認\" data-reading=\"かくにん\" data-en=\"check, confirmation\"><ruby>確認<rt>かくにん</rt></ruby></span>は、<ruby>空港<rt>くうこう</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>を<span class=\"vw\" data-ja=\"預ける\" data-reading=\"あずける\" data-en=\"to leave in someone's care; to check (baggage)\"><ruby>預け<rt>あずけ</rt></ruby>る</span><ruby>前<rt>まえ</rt></ruby>にする<ruby>必要<rt>ひつよう</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "国は、新しい制度で不正を防ぎたいと考えています。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>で<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"fraud, wrongdoing\"><ruby>不正<rt>ふせい</rt></ruby></span>を<ruby>防ぎ<rt>ふせぎ</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい制度は、いつから始まりましたか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"制度\" data-reading=\"せいど\" data-en=\"system\"><ruby>制度<rt>せいど</rt></ruby></span>は、いつから<ruby>始まり<rt>はじまり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From November first."
+    },
+    {
+      "speaker": "slow",
+      "text": "手続きは、買った日から何日以内にしなければなりませんか。",
+      "ruby": "<ruby>手続き<rt>てつづき</rt></ruby>は、<ruby>買っ<rt>かっ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>から<ruby>何日<rt>なんにち</rt></ruby><span class=\"vw\" data-ja=\"以内\" data-reading=\"いない\" data-en=\"within\"><ruby>以内<rt>いない</rt></ruby></span>にしなければなりませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Within ninety days."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでの一日の買い物の上限は、いくらでしたか。",
+      "ruby": "これまでの<ruby>一日<rt>いちにち</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby>の<span class=\"vw\" data-ja=\"上限\" data-reading=\"じょうげん\" data-en=\"upper limit\"><ruby>上限<rt>じょうげん</rt></ruby></span>は、いくらでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five hundred thousand yen."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
