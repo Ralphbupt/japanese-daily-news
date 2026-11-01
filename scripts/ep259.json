@@ -1,0 +1,528 @@
+{
+  "episode": 259,
+  "title": "トヨタ「カローラ」、発売から60年",
+  "date": "2026-11-02",
+  "source": "NHK / メ～テレ / Car Watch / トヨタ自動車",
+  "level": "N5-N4",
+  "contentVersion": "2026110201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "発売",
+      "reading": "はつばい",
+      "en": "start of sales, release",
+      "zh": "发售，上市"
+    },
+    {
+      "ja": "お祝い",
+      "reading": "おいわい",
+      "en": "celebration",
+      "zh": "庆祝，祝贺"
+    },
+    {
+      "ja": "工場",
+      "reading": "こうじょう",
+      "en": "factory",
+      "zh": "工厂"
+    },
+    {
+      "ja": "およそ",
+      "reading": "およそ",
+      "en": "about, roughly",
+      "zh": "大约"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to line up, to stand in a row",
+      "zh": "排列，并排"
+    },
+    {
+      "ja": "時代",
+      "reading": "じだい",
+      "en": "era, the times",
+      "zh": "时代"
+    },
+    {
+      "ja": "意味",
+      "reading": "いみ",
+      "en": "meaning",
+      "zh": "意思，含义"
+    },
+    {
+      "ja": "花",
+      "reading": "はな",
+      "en": "flower",
+      "zh": "花"
+    },
+    {
+      "ja": "地域",
+      "reading": "ちいき",
+      "en": "region, area",
+      "zh": "地区"
+    },
+    {
+      "ja": "売れる",
+      "reading": "うれる",
+      "en": "to sell, to be sold",
+      "zh": "畅销，卖出"
+    },
+    {
+      "ja": "続けて",
+      "reading": "つづけて",
+      "en": "in a row, continuously",
+      "zh": "连续，接连"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜から〜まで",
+      "meaning": "from ~ to ~",
+      "meaningZh": "从……到……",
+      "formation": "Noun + から + Noun + まで",
+      "example": "1966年の最初のカローラから今の車まで、14台が並びました。",
+      "translation": "Fourteen cars lined up, from the first Corolla of 1966 to today's car.",
+      "note": "Marks the start and end of a range in time, place, or order.",
+      "noteZh": "表示时间、地点或顺序的起点和终点。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜という",
+      "meaning": "called ~; that says ~",
+      "meaningZh": "叫做……；……这样的",
+      "formation": "Noun/Phrase + という + Noun",
+      "example": "「カローラ」という名前は、「花のかんむり」という意味です。",
+      "translation": "The name \"Corolla\" means \"a crown of flowers.\"",
+      "note": "Used to name or explain something, like a quotation.",
+      "noteZh": "用来说明名称或内容，类似引用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜られている (passive)",
+      "meaning": "is being ~ed",
+      "meaningZh": "被……（被动的持续状态）",
+      "formation": "Verb (passive form) + ている",
+      "example": "カローラは、150以上の国や地域で売られています。",
+      "translation": "The Corolla is sold in more than 150 countries and regions.",
+      "note": "The passive with ている describes an ongoing situation.",
+      "noteZh": "被动形加ている，表示持续的状态。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜になる",
+      "meaning": "to become ~",
+      "meaningZh": "成为……；到了……",
+      "formation": "Noun + になる",
+      "example": "カローラが、発売から60年になりました。",
+      "translation": "It has been sixty years since the Corolla went on sale.",
+      "note": "Shows a change or reaching a point in time.",
+      "noteZh": "表示变化或到达某个时间点。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "トヨタ自動車の車「カローラ」が、発売から60年になりました。\n丰田汽车的车“卡罗拉”，自发售以来已经60年了。\n発売 = start of sales, release",
+    "11月1日、愛知県にある工場で、お祝いの式がありました。\n11月1日，在爱知县的工厂举行了庆祝仪式。\nお祝い = celebration / 工場 = factory",
+    "式には、車を売る店の人やファンなど、およそ130人が来ました。\n卖车的店员和车迷等大约130人参加了仪式。\nおよそ = about, roughly",
+    "会場には、1966年の最初のカローラから今の車まで、14台が並びました。\n会场上，从1966年的第一代卡罗拉到现在的车，共排列了14辆。\n並ぶ = to line up, to stand in a row",
+    "これからの時代のための、新しいコンセプトカーもありました。\n还有一辆为了未来时代的新概念车。\n時代 = era, the times",
+    "「カローラ」という名前は、「花のかんむり」という意味です。\n“卡罗拉”这个名字的意思是“花冠”。\n意味 = meaning / 花 = flower",
+    "カローラは、今、150以上の国や地域で売られています。\n卡罗拉现在在150多个国家和地区销售。\n地域 = region, area",
+    "去年の終わりまでに、全部で5700万台以上売れました。\n到去年年底，总共卖出了5700万辆以上。\n売れる = to sell, to be sold",
+    "日本では、1969年から33年続けて、いちばん売れた車でした。\n在日本，从1969年起连续33年都是最畅销的车。\n続けて = in a row, continuously",
+    "昔の開発の責任者たちは、カローラの歴史について話しました。\n过去的开发负责人们讲述了卡罗拉的历史。\n歴史 = history"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Toyota's famous car, the Corolla, has turned sixty, and the company held a ceremony on November first. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタ自動車の車「カローラ」が、発売から60年になりました。",
+      "ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>「カローラ」が、<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"start of sales, release\"><ruby>発売<rt>はつばい</rt></ruby></span>から60<ruby>年<rt>ねん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月1日、愛知県にある工場で、お祝いの式がありました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby>にある<span class=\"vw\" data-ja=\"工場\" data-reading=\"こうじょう\" data-en=\"factory\"><ruby>工場<rt>こうじょう</rt></ruby></span>で、<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>の<ruby>式<rt>しき</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式には、車を売る店の人やファンなど、およそ130人が来ました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>には、<ruby>車<rt>くるま</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>やファンなど、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about, roughly\">およそ</span>130<ruby>人<rt>にん</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には、1966年の最初のカローラから今の車まで、14台が並びました。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、1966<ruby>年<rt>ねん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>のカローラから<ruby>今<rt>いま</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>まで、14<ruby>台<rt>だい</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからの時代のための、新しいコンセプトカーもありました。",
+      "ruby": "これからの<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, the times\"><ruby>時代<rt>じだい</rt></ruby></span>のための、<ruby>新しい<rt>あたらしい</rt></ruby>コンセプトカーもありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「カローラ」という名前は、「花のかんむり」という意味です。",
+      "ruby": "「カローラ」という<ruby>名前<rt>なまえ</rt></ruby>は、「<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>のかんむり」という<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "カローラは、今、150以上の国や地域で売られています。",
+      "ruby": "カローラは、<ruby>今<rt>いま</rt></ruby>、150<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>や<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>で<ruby>売ら<rt>うら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の終わりまでに、全部で5700万台以上売れました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>までに、<ruby>全部<rt>ぜんぶ</rt></ruby>で5700<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、1969年から33年続けて、いちばん売れた車でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、1969<ruby>年<rt>ねん</rt></ruby>から33<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"続けて\" data-reading=\"つづけて\" data-en=\"in a row, continuously\"><ruby>続け<rt>つづけ</rt></ruby>て</span>、いちばん<ruby>売れ<rt>うれ</rt></ruby>た<ruby>車<rt>くるま</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔の開発の責任者たちは、カローラの歴史について話しました。",
+      "ruby": "<ruby>昔<rt>むかし</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>の<ruby>責任者<rt>せきにんしゃ</rt></ruby>たちは、カローラの<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>について<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "トヨタ自動車の車「カローラ」が、発売から60年になりました。",
+      "ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>「カローラ」が、<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"start of sales, release\"><ruby>発売<rt>はつばい</rt></ruby></span>から60<ruby>年<rt>ねん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Toyota's car, the Corolla, has now been on sale for sixty years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発売",
+      "ruby": "<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"start of sales, release\"><ruby>発売<rt>はつばい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the start of sales, or a product release."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月1日、愛知県にある工場で、お祝いの式がありました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby>にある<span class=\"vw\" data-ja=\"工場\" data-reading=\"こうじょう\" data-en=\"factory\"><ruby>工場<rt>こうじょう</rt></ruby></span>で、<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>の<ruby>式<rt>しき</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November first, there was a celebration ceremony at a factory in Aichi Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "お祝い",
+      "ruby": "<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a celebration."
+    },
+    {
+      "speaker": "vocab",
+      "text": "工場",
+      "ruby": "<span class=\"vw\" data-ja=\"工場\" data-reading=\"こうじょう\" data-en=\"factory\"><ruby>工場<rt>こうじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a factory."
+    },
+    {
+      "speaker": "slow",
+      "text": "式には、車を売る店の人やファンなど、およそ130人が来ました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>には、<ruby>車<rt>くるま</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>やファンなど、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about, roughly\">およそ</span>130<ruby>人<rt>にん</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one hundred thirty people came to the ceremony, including car dealers and fans."
+    },
+    {
+      "speaker": "vocab",
+      "text": "およそ",
+      "ruby": "<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about, roughly\">およそ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means about, or roughly."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場には、1966年の最初のカローラから今の車まで、14台が並びました。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、1966<ruby>年<rt>ねん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>のカローラから<ruby>今<rt>いま</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>まで、14<ruby>台<rt>だい</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the venue, fourteen cars stood in a row, from the very first Corolla of nineteen sixty-six to today's model."
+    },
+    {
+      "speaker": "vocab",
+      "text": "並ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up, to stand in a row\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to line up, or stand in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "これからの時代のための、新しいコンセプトカーもありました。",
+      "ruby": "これからの<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, the times\"><ruby>時代<rt>じだい</rt></ruby></span>のための、<ruby>新しい<rt>あたらしい</rt></ruby>コンセプトカーもありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "There was also a new concept car made for the years to come."
+    },
+    {
+      "speaker": "vocab",
+      "text": "時代",
+      "ruby": "<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, the times\"><ruby>時代<rt>じだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an era, or the times."
+    },
+    {
+      "speaker": "slow",
+      "text": "「カローラ」という名前は、「花のかんむり」という意味です。",
+      "ruby": "「カローラ」という<ruby>名前<rt>なまえ</rt></ruby>は、「<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>のかんむり」という<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The name Corolla means a crown of flowers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "意味",
+      "ruby": "<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means meaning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "花",
+      "ruby": "<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means flower."
+    },
+    {
+      "speaker": "slow",
+      "text": "カローラは、今、150以上の国や地域で売られています。",
+      "ruby": "カローラは、<ruby>今<rt>いま</rt></ruby>、150<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>や<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>で<ruby>売ら<rt>うら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Today, the Corolla is sold in more than one hundred fifty countries and regions."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地域",
+      "ruby": "<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a region or area."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の終わりまでに、全部で5700万台以上売れました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>までに、<ruby>全部<rt>ぜんぶ</rt></ruby>で5700<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "By the end of last year, more than fifty-seven million had been sold in total."
+    },
+    {
+      "speaker": "vocab",
+      "text": "売れる",
+      "ruby": "<span class=\"vw\" data-ja=\"売れる\" data-reading=\"うれる\" data-en=\"to sell, to be sold\"><ruby>売れ<rt>うれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to sell, or to be sold."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本では、1969年から33年続けて、いちばん売れた車でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、1969<ruby>年<rt>ねん</rt></ruby>から33<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"続けて\" data-reading=\"つづけて\" data-en=\"in a row, continuously\"><ruby>続け<rt>つづけ</rt></ruby>て</span>、いちばん<ruby>売れ<rt>うれ</rt></ruby>た<ruby>車<rt>くるま</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Japan, it was the best-selling car for thirty-three years in a row, starting in nineteen sixty-nine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続けて",
+      "ruby": "<span class=\"vw\" data-ja=\"続けて\" data-reading=\"つづけて\" data-en=\"in a row, continuously\"><ruby>続け<rt>つづけ</rt></ruby>て</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means in a row, or continuously."
+    },
+    {
+      "speaker": "slow",
+      "text": "昔の開発の責任者たちは、カローラの歴史について話しました。",
+      "ruby": "<ruby>昔<rt>むかし</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>の<ruby>責任者<rt>せきにんしゃ</rt></ruby>たちは、カローラの<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>について<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Former chief developers of the car talked about the history of the Corolla."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "トヨタ自動車の車「カローラ」が、発売から60年になりました。",
+      "ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>「カローラ」が、<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"start of sales, release\"><ruby>発売<rt>はつばい</rt></ruby></span>から60<ruby>年<rt>ねん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月1日、愛知県にある工場で、お祝いの式がありました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby>にある<span class=\"vw\" data-ja=\"工場\" data-reading=\"こうじょう\" data-en=\"factory\"><ruby>工場<rt>こうじょう</rt></ruby></span>で、<span class=\"vw\" data-ja=\"お祝い\" data-reading=\"おいわい\" data-en=\"celebration\">お<ruby>祝い<rt>いわい</rt></ruby></span>の<ruby>式<rt>しき</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "式には、車を売る店の人やファンなど、およそ130人が来ました。",
+      "ruby": "<ruby>式<rt>しき</rt></ruby>には、<ruby>車<rt>くるま</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>やファンなど、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about, roughly\">およそ</span>130<ruby>人<rt>にん</rt></ruby>が<ruby>来ま<rt>きま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には、1966年の最初のカローラから今の車まで、14台が並びました。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、1966<ruby>年<rt>ねん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>のカローラから<ruby>今<rt>いま</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>まで、14<ruby>台<rt>だい</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これからの時代のための、新しいコンセプトカーもありました。",
+      "ruby": "これからの<span class=\"vw\" data-ja=\"時代\" data-reading=\"じだい\" data-en=\"era, the times\"><ruby>時代<rt>じだい</rt></ruby></span>のための、<ruby>新しい<rt>あたらしい</rt></ruby>コンセプトカーもありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「カローラ」という名前は、「花のかんむり」という意味です。",
+      "ruby": "「カローラ」という<ruby>名前<rt>なまえ</rt></ruby>は、「<span class=\"vw\" data-ja=\"花\" data-reading=\"はな\" data-en=\"flower\"><ruby>花<rt>はな</rt></ruby></span>のかんむり」という<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "カローラは、今、150以上の国や地域で売られています。",
+      "ruby": "カローラは、<ruby>今<rt>いま</rt></ruby>、150<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>や<span class=\"vw\" data-ja=\"地域\" data-reading=\"ちいき\" data-en=\"region, area\"><ruby>地域<rt>ちいき</rt></ruby></span>で<ruby>売ら<rt>うら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の終わりまでに、全部で5700万台以上売れました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>までに、<ruby>全部<rt>ぜんぶ</rt></ruby>で5700<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本では、1969年から33年続けて、いちばん売れた車でした。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>では、1969<ruby>年<rt>ねん</rt></ruby>から33<ruby>年<rt>ねん</rt></ruby><span class=\"vw\" data-ja=\"続けて\" data-reading=\"つづけて\" data-en=\"in a row, continuously\"><ruby>続け<rt>つづけ</rt></ruby>て</span>、いちばん<ruby>売れ<rt>うれ</rt></ruby>た<ruby>車<rt>くるま</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "昔の開発の責任者たちは、カローラの歴史について話しました。",
+      "ruby": "<ruby>昔<rt>むかし</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>の<ruby>責任者<rt>せきにんしゃ</rt></ruby>たちは、カローラの<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>について<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "カローラは、発売から何年になりましたか。",
+      "ruby": "カローラは、<span class=\"vw\" data-ja=\"発売\" data-reading=\"はつばい\" data-en=\"start of sales, release\"><ruby>発売<rt>はつばい</rt></ruby></span>から<ruby>何年<rt>なんねん</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty years."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場には、何台の車が並びましたか。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には、<ruby>何台<rt>なんだい</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fourteen cars."
+    },
+    {
+      "speaker": "slow",
+      "text": "「カローラ」という名前は、どういう意味ですか。",
+      "ruby": "「カローラ」という<ruby>名前<rt>なまえ</rt></ruby>は、どういう<span class=\"vw\" data-ja=\"意味\" data-reading=\"いみ\" data-en=\"meaning\"><ruby>意味<rt>いみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A crown of flowers."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Have a great day, and thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
