@@ -1,0 +1,467 @@
+{
+  "episode": 261,
+  "title": "山梨で初めての「桃ソムリエ」試験",
+  "date": "2026-11-03",
+  "source": "NHK / 山梨県 / PR TIMES",
+  "level": "N5-N4",
+  "contentVersion": "2026110301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "桃",
+      "reading": "もも",
+      "en": "peach",
+      "zh": "桃子"
+    },
+    {
+      "ja": "認める",
+      "reading": "みとめる",
+      "en": "to recognize or approve",
+      "zh": "认可，承认"
+    },
+    {
+      "ja": "試験",
+      "reading": "しけん",
+      "en": "an exam or test",
+      "zh": "考试"
+    },
+    {
+      "ja": "無料",
+      "reading": "むりょう",
+      "en": "free of charge",
+      "zh": "免费"
+    },
+    {
+      "ja": "増やす",
+      "reading": "ふやす",
+      "en": "to increase something",
+      "zh": "增加"
+    },
+    {
+      "ja": "選ぶ",
+      "reading": "えらぶ",
+      "en": "to choose",
+      "zh": "选择"
+    },
+    {
+      "ja": "種類",
+      "reading": "しゅるい",
+      "en": "a kind or variety",
+      "zh": "种类"
+    },
+    {
+      "ja": "育て方",
+      "reading": "そだてかた",
+      "en": "how to grow or raise something",
+      "zh": "培育方法"
+    },
+    {
+      "ja": "結果",
+      "reading": "けっか",
+      "en": "result",
+      "zh": "结果"
+    },
+    {
+      "ja": "伝える",
+      "reading": "つたえる",
+      "en": "to tell or pass on",
+      "zh": "传达，告诉"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができます",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "Verb (dictionary form) + ことができます",
+      "example": "だれでも受けることができます。",
+      "translation": "Anyone can take it.",
+      "note": "A polite, slightly formal way to say something is possible or allowed.",
+      "noteZh": "礼貌、略正式地表示可能或被允许。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want (someone) to ~",
+      "meaningZh": "希望（别人）……",
+      "formation": "Person + に + Verb て-form + ほしい",
+      "example": "桃のおいしさを多くの人に伝えてほしいと考えています。",
+      "translation": "They hope they will tell many people how delicious peaches are.",
+      "note": "Expresses a wish for another person to do something; the person is marked with に.",
+      "noteZh": "表示希望别人做某事，对象用に表示。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜予定です",
+      "meaning": "is scheduled / planned to ~",
+      "meaningZh": "预定……，计划……",
+      "formation": "Verb (dictionary form) + 予定です / Noun + の予定です",
+      "example": "試験の結果は、12月の中ごろに発表される予定です。",
+      "translation": "The results are scheduled to be announced in mid-December.",
+      "note": "Used for fixed plans and schedules, common in news.",
+      "noteZh": "用于已定的计划或日程，新闻中常用。",
+      "level": "N4"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. On November first, Yamanashi, the top peach-growing prefecture, held its first exam for peach experts. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "山梨県は、桃をつくる量が全国で1番です。",
+      "ruby": "<ruby>山梨県<rt>やまなしけん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>をつくる<ruby>量<rt>りょう</rt></ruby>が<ruby>全国<rt>ぜんこく</rt></ruby>で1<ruby>番<rt>ばん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "山梨県は、桃のことをよく知っている人を、「桃ソムリエ」として認める制度をつくりました。",
+      "ruby": "<ruby>山梨県<rt>やまなしけん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>のことをよく<ruby>知って<rt>しって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>を、「<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエ」として<span class=\"vw\" data-ja=\"認める\" data-reading=\"みとめる\" data-en=\"to recognize or approve\"><ruby>認め<rt>みとめ</rt></ruby>る</span><ruby>制度<rt>せいど</rt></ruby>をつくりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月1日、甲府市の山梨大学で、初めての「桃ソムリエ」の試験がありました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>甲府市<rt>こうふし</rt></ruby>の<ruby>山梨大学<rt>やまなしだいがく</rt></ruby>で、<ruby>初めて<rt>はじめて</rt></ruby>の「<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエ」の<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験は無料で、年齢や住んでいる所に関係なく、だれでも受けることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>は<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>で、<ruby>年齢<rt>ねんれい</rt></ruby>や<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>所<rt>ところ</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく、だれでも<ruby>受ける<rt>うける</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "はじめは100人の予定でしたが、全国から問い合わせが多かったので、300人に増やしました。",
+      "ruby": "はじめは100<ruby>人<rt>にん</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>でしたが、<ruby>全国<rt>ぜんこく</rt></ruby>から<ruby>問い合わせ<rt>といあわせ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので、300<ruby>人<rt>にん</rt></ruby>に<ruby>増やし<rt>ふやし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "問題は40問で、4つの答えから1つを選びます。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>は40<ruby>問<rt>もん</rt></ruby>で、4つの<ruby>答え<rt>こたえ</rt></ruby>から1つを<ruby>選び<rt>えらび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "桃の種類や歴史、育て方、栄養、保存のしかたなどについて、問題が出ました。",
+      "ruby": "<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>の<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"a kind or variety\"><ruby>種類<rt>しゅるい</rt></ruby></span>や<ruby>歴史<rt>れきし</rt></ruby>、<span class=\"vw\" data-ja=\"育て方\" data-reading=\"そだてかた\" data-en=\"how to grow or raise something\"><ruby>育て<rt>そだて</rt></ruby><ruby>方<rt>かた</rt></ruby></span>、<ruby>栄養<rt>えいよう</rt></ruby>、<ruby>保存<rt>ほぞん</rt></ruby>のしかたなどについて、<ruby>問題<rt>もんだい</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験の結果は、12月の中ごろに発表される予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>は、12<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "県は、桃ソムリエに、桃のおいしさを多くの人に伝えてほしいと考えています。",
+      "ruby": "<ruby>県<rt>けん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエに、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>のおいしさを<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>てほしいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "山梨県は、桃をつくる量が全国で1番です。",
+      "ruby": "<ruby>山梨県<rt>やまなしけん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>をつくる<ruby>量<rt>りょう</rt></ruby>が<ruby>全国<rt>ぜんこく</rt></ruby>で1<ruby>番<rt>ばん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yamanashi Prefecture grows more peaches than any other prefecture in the country."
+    },
+    {
+      "speaker": "vocab",
+      "text": "桃",
+      "ruby": "<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means peach."
+    },
+    {
+      "speaker": "slow",
+      "text": "山梨県は、桃のことをよく知っている人を、「桃ソムリエ」として認める制度をつくりました。",
+      "ruby": "<ruby>山梨県<rt>やまなしけん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>のことをよく<ruby>知って<rt>しって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>を、「<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエ」として<span class=\"vw\" data-ja=\"認める\" data-reading=\"みとめる\" data-en=\"to recognize or approve\"><ruby>認め<rt>みとめ</rt></ruby>る</span><ruby>制度<rt>せいど</rt></ruby>をつくりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yamanashi created a system to certify people who know a lot about peaches as peach sommeliers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "認める",
+      "ruby": "<span class=\"vw\" data-ja=\"認める\" data-reading=\"みとめる\" data-en=\"to recognize or approve\"><ruby>認め<rt>みとめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to recognize or approve."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月1日、甲府市の山梨大学で、初めての「桃ソムリエ」の試験がありました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>甲府市<rt>こうふし</rt></ruby>の<ruby>山梨大学<rt>やまなしだいがく</rt></ruby>で、<ruby>初めて<rt>はじめて</rt></ruby>の「<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエ」の<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November first, the first peach sommelier exam was held at the University of Yamanashi in Kofu City."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試験",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an exam or test."
+    },
+    {
+      "speaker": "slow",
+      "text": "試験は無料で、年齢や住んでいる所に関係なく、だれでも受けることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>は<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>で、<ruby>年齢<rt>ねんれい</rt></ruby>や<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>所<rt>ところ</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく、だれでも<ruby>受ける<rt>うける</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The exam is free, and anyone can take it, no matter their age or where they live."
+    },
+    {
+      "speaker": "vocab",
+      "text": "無料",
+      "ruby": "<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means free of charge."
+    },
+    {
+      "speaker": "slow",
+      "text": "はじめは100人の予定でしたが、全国から問い合わせが多かったので、300人に増やしました。",
+      "ruby": "はじめは100<ruby>人<rt>にん</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>でしたが、<ruby>全国<rt>ぜんこく</rt></ruby>から<ruby>問い合わせ<rt>といあわせ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので、300<ruby>人<rt>にん</rt></ruby>に<ruby>増やし<rt>ふやし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At first they planned for one hundred people, but so many people around the country asked about it that they raised the limit to three hundred."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増やす",
+      "ruby": "<span class=\"vw\" data-ja=\"増やす\" data-reading=\"ふやす\" data-en=\"to increase something\"><ruby>増やす<rt>ふやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase something."
+    },
+    {
+      "speaker": "slow",
+      "text": "問題は40問で、4つの答えから1つを選びます。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>は40<ruby>問<rt>もん</rt></ruby>で、4つの<ruby>答え<rt>こたえ</rt></ruby>から1つを<ruby>選び<rt>えらび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "There were forty questions, and you choose one answer out of four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to choose."
+    },
+    {
+      "speaker": "slow",
+      "text": "桃の種類や歴史、育て方、栄養、保存のしかたなどについて、問題が出ました。",
+      "ruby": "<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>の<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"a kind or variety\"><ruby>種類<rt>しゅるい</rt></ruby></span>や<ruby>歴史<rt>れきし</rt></ruby>、<span class=\"vw\" data-ja=\"育て方\" data-reading=\"そだてかた\" data-en=\"how to grow or raise something\"><ruby>育て<rt>そだて</rt></ruby><ruby>方<rt>かた</rt></ruby></span>、<ruby>栄養<rt>えいよう</rt></ruby>、<ruby>保存<rt>ほぞん</rt></ruby>のしかたなどについて、<ruby>問題<rt>もんだい</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "The questions were about peach varieties, history, how to grow them, nutrition, and how to store them."
+    },
+    {
+      "speaker": "vocab",
+      "text": "種類",
+      "ruby": "<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"a kind or variety\"><ruby>種類<rt>しゅるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a kind or variety."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育て方",
+      "ruby": "<span class=\"vw\" data-ja=\"育て方\" data-reading=\"そだてかた\" data-en=\"how to grow or raise something\"><ruby>育て<rt>そだて</rt></ruby><ruby>方<rt>かた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means how to grow or raise something."
+    },
+    {
+      "speaker": "slow",
+      "text": "試験の結果は、12月の中ごろに発表される予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>は、12<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The results are expected to be announced in the middle of December."
+    },
+    {
+      "speaker": "vocab",
+      "text": "結果",
+      "ruby": "<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means result."
+    },
+    {
+      "speaker": "slow",
+      "text": "県は、桃ソムリエに、桃のおいしさを多くの人に伝えてほしいと考えています。",
+      "ruby": "<ruby>県<rt>けん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエに、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>のおいしさを<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>てほしいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The prefecture hopes the peach sommeliers will tell many people how delicious peaches are."
+    },
+    {
+      "speaker": "vocab",
+      "text": "伝える",
+      "ruby": "<span class=\"vw\" data-ja=\"伝える\" data-reading=\"つたえる\" data-en=\"to tell or pass on\"><ruby>伝え<rt>つたえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to tell or pass on."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "山梨県は、桃をつくる量が全国で1番です。",
+      "ruby": "<ruby>山梨県<rt>やまなしけん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>をつくる<ruby>量<rt>りょう</rt></ruby>が<ruby>全国<rt>ぜんこく</rt></ruby>で1<ruby>番<rt>ばん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "山梨県は、桃のことをよく知っている人を、「桃ソムリエ」として認める制度をつくりました。",
+      "ruby": "<ruby>山梨県<rt>やまなしけん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>のことをよく<ruby>知って<rt>しって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>を、「<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエ」として<span class=\"vw\" data-ja=\"認める\" data-reading=\"みとめる\" data-en=\"to recognize or approve\"><ruby>認め<rt>みとめ</rt></ruby>る</span><ruby>制度<rt>せいど</rt></ruby>をつくりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月1日、甲府市の山梨大学で、初めての「桃ソムリエ」の試験がありました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>、<ruby>甲府市<rt>こうふし</rt></ruby>の<ruby>山梨大学<rt>やまなしだいがく</rt></ruby>で、<ruby>初めて<rt>はじめて</rt></ruby>の「<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエ」の<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験は無料で、年齢や住んでいる所に関係なく、だれでも受けることができます。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>は<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>で、<ruby>年齢<rt>ねんれい</rt></ruby>や<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>所<rt>ところ</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく、だれでも<ruby>受ける<rt>うける</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "はじめは100人の予定でしたが、全国から問い合わせが多かったので、300人に増やしました。",
+      "ruby": "はじめは100<ruby>人<rt>にん</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>でしたが、<ruby>全国<rt>ぜんこく</rt></ruby>から<ruby>問い合わせ<rt>といあわせ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので、300<ruby>人<rt>にん</rt></ruby>に<ruby>増やし<rt>ふやし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "問題は40問で、4つの答えから1つを選びます。",
+      "ruby": "<ruby>問題<rt>もんだい</rt></ruby>は40<ruby>問<rt>もん</rt></ruby>で、4つの<ruby>答え<rt>こたえ</rt></ruby>から1つを<ruby>選び<rt>えらび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "桃の種類や歴史、育て方、栄養、保存のしかたなどについて、問題が出ました。",
+      "ruby": "<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>の<span class=\"vw\" data-ja=\"種類\" data-reading=\"しゅるい\" data-en=\"a kind or variety\"><ruby>種類<rt>しゅるい</rt></ruby></span>や<ruby>歴史<rt>れきし</rt></ruby>、<span class=\"vw\" data-ja=\"育て方\" data-reading=\"そだてかた\" data-en=\"how to grow or raise something\"><ruby>育て<rt>そだて</rt></ruby><ruby>方<rt>かた</rt></ruby></span>、<ruby>栄養<rt>えいよう</rt></ruby>、<ruby>保存<rt>ほぞん</rt></ruby>のしかたなどについて、<ruby>問題<rt>もんだい</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "試験の結果は、12月の中ごろに発表される予定です。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>は、12<ruby>月<rt>がつ</rt></ruby>の<ruby>中ごろ<rt>なかごろ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "県は、桃ソムリエに、桃のおいしさを多くの人に伝えてほしいと考えています。",
+      "ruby": "<ruby>県<rt>けん</rt></ruby>は、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエに、<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>のおいしさを<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>てほしいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "初めての桃ソムリエの試験は、どこでありましたか。",
+      "ruby": "<ruby>初めて<rt>はじめて</rt></ruby>の<span class=\"vw\" data-ja=\"桃\" data-reading=\"もも\" data-en=\"peach\"><ruby>桃<rt>もも</rt></ruby></span>ソムリエの<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>は、どこでありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the University of Yamanashi in Kofu City."
+    },
+    {
+      "speaker": "slow",
+      "text": "試験を受けるのに、お金はいくらかかりますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>を<ruby>受ける<rt>うける</rt></ruby>のに、お<ruby>金<rt>かね</rt></ruby>はいくらかかりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nothing. The exam is free."
+    },
+    {
+      "speaker": "slow",
+      "text": "試験の結果は、いつ発表されますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"試験\" data-reading=\"しけん\" data-en=\"an exam or test\"><ruby>試験<rt>しけん</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>は、いつ<ruby>発表<rt>はっぴょう</rt></ruby>されますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around the middle of December."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "practiceZh": [
+    "山梨県は、桃をつくる量が全国で1番です。\n山梨县的桃子产量全国第一。\n桃 = peach",
+    "山梨県は、桃のことをよく知っている人を、「桃ソムリエ」として認める制度をつくりました。\n山梨县建立了把非常了解桃子的人认定为“桃子侍酒师”的制度。\n認める = to recognize or approve",
+    "11月1日、甲府市の山梨大学で、初めての「桃ソムリエ」の試験がありました。\n11月1日，在甲府市的山梨大学举行了第一次“桃子侍酒师”考试。\n試験 = an exam or test",
+    "試験は無料で、年齢や住んでいる所に関係なく、だれでも受けることができます。\n考试免费，不论年龄和住在哪里，谁都可以参加。\n無料 = free of charge",
+    "はじめは100人の予定でしたが、全国から問い合わせが多かったので、300人に増やしました。\n起初计划100人，但因为来自全国的咨询很多，所以增加到了300人。\n増やす = to increase something",
+    "問題は40問で、4つの答えから1つを選びます。\n题目有40道，从4个答案中选1个。\n選ぶ = to choose",
+    "桃の種類や歴史、育て方、栄養、保存のしかたなどについて、問題が出ました。\n考了关于桃子的种类、历史、培育方法、营养、保存方法等问题。\n種類 = a kind or variety / 育て方 = how to grow or raise something",
+    "試験の結果は、12月の中ごろに発表される予定です。\n考试结果预定在12月中旬公布。\n結果 = result",
+    "県は、桃ソムリエに、桃のおいしさを多くの人に伝えてほしいと考えています。\n县里希望桃子侍酒师们把桃子的美味传达给更多的人。\n伝える = to tell or pass on"
+  ]
+}
