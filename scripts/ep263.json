@@ -1,0 +1,494 @@
+{
+  "episode": 263,
+  "title": "台風31号の影響、関東で5日に大雨のおそれ",
+  "titleZh": "受31号台风影响，关东5日或有大雨",
+  "titleEn": "Typhoon No. 31 may bring heavy rain to the Kanto region",
+  "date": "2026-11-04",
+  "source": "NHK / 日本気象協会 tenki.jp / ウェザーニュース / FNN",
+  "level": "N5-N4",
+  "contentVersion": "2026110401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "近づく",
+      "reading": "ちかづく",
+      "en": "to come close, to approach",
+      "zh": "接近，靠近"
+    },
+    {
+      "ja": "湿る",
+      "reading": "しめる",
+      "en": "to become damp",
+      "zh": "变潮湿"
+    },
+    {
+      "ja": "おそれ",
+      "reading": "おそれ",
+      "en": "risk, danger (that something bad may happen)",
+      "zh": "恐怕，有……的危险"
+    },
+    {
+      "ja": "雷",
+      "reading": "かみなり",
+      "en": "thunder, lightning",
+      "zh": "雷"
+    },
+    {
+      "ja": "激しい",
+      "reading": "はげしい",
+      "en": "intense, violent",
+      "zh": "激烈，猛烈"
+    },
+    {
+      "ja": "崩れる",
+      "reading": "くずれる",
+      "en": "to collapse, to fall apart",
+      "zh": "崩塌，倒塌"
+    },
+    {
+      "ja": "気をつける",
+      "reading": "きをつける",
+      "en": "to be careful, to watch out",
+      "zh": "小心，注意"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜始める",
+      "meaning": "to start ~ing",
+      "meaningZh": "开始……",
+      "formation": "Verb ます-stem + 始める",
+      "example": "4日の夜、海の近くから雨が降り始める所があります。",
+      "translation": "On the night of the 4th, rain will start falling in some places near the sea.",
+      "note": "Attach to a verb stem to say an action begins.",
+      "noteZh": "接在动词ます形词干后，表示动作开始。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ように言う",
+      "meaning": "to tell someone to ~",
+      "meaningZh": "让（某人）……，叮嘱……",
+      "formation": "Verb dictionary / ない-form + ように言う",
+      "example": "気象庁は、低い土地に水が入ることに気をつけるように言っています。",
+      "translation": "The weather agency is telling people to watch out for water flooding low land.",
+      "note": "Reports a request or instruction indirectly.",
+      "noteZh": "用于间接转述请求或指示。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜といいでしょう",
+      "meaning": "it would be good to ~",
+      "meaningZh": "最好……，……比较好",
+      "formation": "Verb dictionary form + といいでしょう",
+      "example": "4日に出かける人は、傘を持っていくといいでしょう。",
+      "translation": "People going out on the 4th should take an umbrella.",
+      "note": "A soft way to give advice, often heard in weather forecasts.",
+      "noteZh": "温和地给出建议，天气预报中常用。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "強い台風31号が、日本の南の海にあります。\n强台风31号位于日本南方海上。",
+    "台風は、ゆっくり北へ進んで、5日の朝ごろ、小笠原諸島に近づく予想です。\n台风正缓慢向北移动，预计5日早上前后接近小笠原群岛。\n近づく = to come close, to approach",
+    "台風は関東には近づかない予想ですが、台風の周りから湿った空気が関東に入ってきます。\n预计台风不会靠近关东，但台风周围的潮湿空气会进入关东。\n湿る = to become damp",
+    "このため、関東と伊豆諸島では、5日、大雨になるおそれがあります。\n因此，关东和伊豆群岛5日可能会下大雨。\nおそれ = risk, danger (that something bad may happen)",
+    "関東では、4日の夜、海の近くから雨が降り始める所があります。\n关东4日夜间，部分沿海地区将开始下雨。",
+    "雨がいちばん強くなるのは、5日の昼ごろです。\n雨势最强的时候是5日中午前后。",
+    "雷が鳴って、道が川のようになるほどの激しい雨が降る所もありそうです。\n有些地方可能会打雷，下起让道路像河一样的暴雨。\n雷 = thunder, lightning / 激しい = intense, violent",
+    "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、伊豆諸島で150ミリの予想です。\n预计从4日晚上6点起的24小时降雨量，多的地方关东南部为120毫米，伊豆群岛为150毫米。",
+    "気象庁は、山やがけが崩れることや、低い土地に水が入ることに気をつけるように言っています。\n气象厅提醒大家注意山体和山崖崩塌，以及低洼地区进水。\n崩れる = to collapse, to fall apart / 気をつける = to be careful, to watch out",
+    "4日に出かける人は、傘を持っていくといいでしょう。\n4日出门的人最好带上伞。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November fourth, a typhoon far to the south is still set to bring heavy rain to the Tokyo area. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い台風31号が、日本の南の海にあります。",
+      "zh": "强台风31号位于日本南方海上。",
+      "en": "The strong Typhoon No. 31 is over the sea south of Japan.",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>台風<rt>たいふう</rt></ruby>31<ruby>号<rt>ごう</rt></ruby>が、<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、ゆっくり北へ進んで、5日の朝ごろ、小笠原諸島に近づく予想です。",
+      "tts": "台風は、ゆっくり北へ進んで、5日の朝ごろ、おがさわらしょとうに近づく予想です。",
+      "zh": "台风正缓慢向北移动，预计5日早上前后接近小笠原群岛。",
+      "en": "The typhoon is moving slowly north and is expected to approach the Ogasawara Islands around the morning of the 5th.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、ゆっくり<ruby>北<rt>きた</rt></ruby>へ<ruby>進ん<rt>すすん</rt></ruby>で、<ruby>5日<rt>いつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごろ、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>に<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to come close, to approach\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は関東には近づかない予想ですが、台風の周りから湿った空気が関東に入ってきます。",
+      "zh": "预计台风不会靠近关东，但台风周围的潮湿空气会进入关东。",
+      "en": "The typhoon is not expected to approach the Kanto region, but damp air from around the typhoon will flow into Kanto.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は<ruby>関東<rt>かんとう</rt></ruby>には<ruby>近づ<rt>ちかづ</rt></ruby>かない<ruby>予想<rt>よそう</rt></ruby>ですが、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>から<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>が<ruby>関東<rt>かんとう</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、関東と伊豆諸島では、5日、大雨になるおそれがあります。",
+      "tts": "このため、関東といずしょとうでは、5日、大雨になるおそれがあります。",
+      "zh": "因此，关东和伊豆群岛5日可能会下大雨。",
+      "en": "Because of this, heavy rain may fall in Kanto and the Izu Islands on the 5th.",
+      "ruby": "このため、<ruby>関東<rt>かんとう</rt></ruby>と<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>では、<ruby>5日<rt>いつか</rt></ruby>、<ruby>大雨<rt>おおあめ</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "関東では、4日の夜、海の近くから雨が降り始める所があります。",
+      "zh": "关东4日夜间，部分沿海地区将开始下雨。",
+      "en": "In Kanto, rain will start falling in some places near the sea on the night of the 4th.",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby>では、<ruby>4日<rt>よっか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<ruby>所<rt>ところ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨がいちばん強くなるのは、5日の昼ごろです。",
+      "zh": "雨势最强的时候是5日中午前后。",
+      "en": "The rain will be heaviest around noon on the 5th.",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>がいちばん<ruby>強く<rt>つよく</rt></ruby>なるのは、<ruby>5日<rt>いつか</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>ごろです。"
+    },
+    {
+      "speaker": "news",
+      "text": "雷が鳴って、道が川のようになるほどの激しい雨が降る所もありそうです。",
+      "zh": "有些地方可能会打雷，下起让道路像河一样的暴雨。",
+      "en": "In some places there may be thunder and rain so heavy that roads turn into rivers.",
+      "ruby": "<span class=\"vw\" data-ja=\"雷\" data-reading=\"かみなり\" data-en=\"thunder, lightning\"><ruby>雷<rt>かみなり</rt></ruby></span>が<ruby>鳴っ<rt>なっ</rt></ruby>て、<ruby>道<rt>みち</rt></ruby>が<ruby>川<rt>かわ</rt></ruby>のようになるほどの<span class=\"vw\" data-ja=\"激しい\" data-reading=\"はげしい\" data-en=\"intense, violent\"><ruby>激しい<rt>はげしい</rt></ruby></span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>所<rt>ところ</rt></ruby>もありそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、伊豆諸島で150ミリの予想です。",
+      "tts": "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、いずしょとうで150ミリの予想です。",
+      "zh": "预计从4日晚上6点起的24小时降雨量，多的地方关东南部为120毫米，伊豆群岛为150毫米。",
+      "en": "In the 24 hours from 6 p.m. on the 4th, up to 120 millimeters of rain is expected in southern Kanto and 150 millimeters in the Izu Islands.",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>6<ruby>時<rt>じ</rt></ruby>から24<ruby>時間<rt>じかん</rt></ruby>に<ruby>降る<rt>ふる</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で、<ruby>関東<rt>かんとう</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>で120ミリ、<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>で150ミリの<ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、山やがけが崩れることや、低い土地に水が入ることに気をつけるように言っています。",
+      "zh": "气象厅提醒大家注意山体和山崖崩塌，以及低洼地区进水。",
+      "en": "The Japan Meteorological Agency is telling people to watch out for landslides and for water flooding low-lying land.",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>やがけが<span class=\"vw\" data-ja=\"崩れる\" data-reading=\"くずれる\" data-en=\"to collapse, to fall apart\"><ruby>崩れ<rt>くずれ</rt></ruby>る</span>ことや、<ruby>低い<rt>ひくい</rt></ruby><ruby>土地<rt>とち</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>ことに<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful, to watch out\"><ruby>気<rt>き</rt></ruby>をつける</span>ように<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "4日に出かける人は、傘を持っていくといいでしょう。",
+      "zh": "4日出门的人最好带上伞。",
+      "en": "People going out on the 4th should take an umbrella with them.",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>に<ruby>出か<rt>でか</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>は、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていくといいでしょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い台風31号が、日本の南の海にあります。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>台風<rt>たいふう</rt></ruby>31<ruby>号<rt>ごう</rt></ruby>が、<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The strong Typhoon Number thirty-one is over the sea south of Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風は、ゆっくり北へ進んで、5日の朝ごろ、小笠原諸島に近づく予想です。",
+      "tts": "台風は、ゆっくり北へ進んで、5日の朝ごろ、おがさわらしょとうに近づく予想です。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、ゆっくり<ruby>北<rt>きた</rt></ruby>へ<ruby>進ん<rt>すすん</rt></ruby>で、<ruby>5日<rt>いつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごろ、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>に<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to come close, to approach\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The typhoon is moving slowly north, and it is expected to come close to the Ogasawara Islands around the morning of the fifth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "近づく",
+      "ruby": "<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to come close, to approach\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to come close."
+    },
+    {
+      "speaker": "slow",
+      "text": "台風は関東には近づかない予想ですが、台風の周りから湿った空気が関東に入ってきます。",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は<ruby>関東<rt>かんとう</rt></ruby>には<ruby>近づ<rt>ちかづ</rt></ruby>かない<ruby>予想<rt>よそう</rt></ruby>ですが、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>から<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>が<ruby>関東<rt>かんとう</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The typhoon itself is not expected to come near the Tokyo area, but damp air from around it will flow in."
+    },
+    {
+      "speaker": "vocab",
+      "text": "湿る",
+      "ruby": "<span class=\"vw\" data-ja=\"湿る\" data-reading=\"しめる\" data-en=\"to become damp\"><ruby>湿る<rt>しめる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to become damp. Here it describes moist, humid air."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、関東と伊豆諸島では、5日、大雨になるおそれがあります。",
+      "tts": "このため、関東といずしょとうでは、5日、大雨になるおそれがあります。",
+      "ruby": "このため、<ruby>関東<rt>かんとう</rt></ruby>と<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>では、<ruby>5日<rt>いつか</rt></ruby>、<ruby>大雨<rt>おおあめ</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, there is a risk of heavy rain in the Kanto region and the Izu Islands on the fifth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おそれ",
+      "ruby": "<span class=\"vw\" data-ja=\"おそれ\" data-reading=\"おそれ\" data-en=\"risk, danger (that something bad may happen)\">おそれ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a risk that something bad may happen. News often uses it for weather warnings."
+    },
+    {
+      "speaker": "slow",
+      "text": "関東では、4日の夜、海の近くから雨が降り始める所があります。",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby>では、<ruby>4日<rt>よっか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<ruby>所<rt>ところ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the Kanto region, rain will start in some places near the sea on the night of the fourth."
+    },
+    {
+      "speaker": "slow",
+      "text": "雨がいちばん強くなるのは、5日の昼ごろです。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>がいちばん<ruby>強く<rt>つよく</rt></ruby>なるのは、<ruby>5日<rt>いつか</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>ごろです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rain will be strongest around noon on the fifth."
+    },
+    {
+      "speaker": "slow",
+      "text": "雷が鳴って、道が川のようになるほどの激しい雨が降る所もありそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"雷\" data-reading=\"かみなり\" data-en=\"thunder, lightning\"><ruby>雷<rt>かみなり</rt></ruby></span>が<ruby>鳴っ<rt>なっ</rt></ruby>て、<ruby>道<rt>みち</rt></ruby>が<ruby>川<rt>かわ</rt></ruby>のようになるほどの<span class=\"vw\" data-ja=\"激しい\" data-reading=\"はげしい\" data-en=\"intense, violent\"><ruby>激しい<rt>はげしい</rt></ruby></span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>所<rt>ところ</rt></ruby>もありそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In some places there may be thunder, and rain so heavy that roads look like rivers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "雷",
+      "ruby": "<span class=\"vw\" data-ja=\"雷\" data-reading=\"かみなり\" data-en=\"thunder, lightning\"><ruby>雷<rt>かみなり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means thunder or lightning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "激しい",
+      "ruby": "<span class=\"vw\" data-ja=\"激しい\" data-reading=\"はげしい\" data-en=\"intense, violent\"><ruby>激しい<rt>はげしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means intense or violent, like very heavy rain."
+    },
+    {
+      "speaker": "slow",
+      "text": "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、伊豆諸島で150ミリの予想です。",
+      "tts": "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、いずしょとうで150ミリの予想です。",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>6<ruby>時<rt>じ</rt></ruby>から24<ruby>時間<rt>じかん</rt></ruby>に<ruby>降る<rt>ふる</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で、<ruby>関東<rt>かんとう</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>で120ミリ、<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>で150ミリの<ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the twenty-four hours from six in the evening on the fourth, up to one hundred twenty millimeters of rain may fall in southern Kanto, and one hundred fifty in the Izu Islands."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、山やがけが崩れることや、低い土地に水が入ることに気をつけるように言っています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>やがけが<span class=\"vw\" data-ja=\"崩れる\" data-reading=\"くずれる\" data-en=\"to collapse, to fall apart\"><ruby>崩れ<rt>くずれ</rt></ruby>る</span>ことや、<ruby>低い<rt>ひくい</rt></ruby><ruby>土地<rt>とち</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>ことに<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful, to watch out\"><ruby>気<rt>き</rt></ruby>をつける</span>ように<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency is telling people to watch out for landslides and for water flooding low land."
+    },
+    {
+      "speaker": "vocab",
+      "text": "崩れる",
+      "ruby": "<span class=\"vw\" data-ja=\"崩れる\" data-reading=\"くずれる\" data-en=\"to collapse, to fall apart\"><ruby>崩れ<rt>くずれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to collapse."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気をつける",
+      "ruby": "<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful, to watch out\"><ruby>気<rt>き</rt></ruby>をつける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be careful."
+    },
+    {
+      "speaker": "slow",
+      "text": "4日に出かける人は、傘を持っていくといいでしょう。",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>に<ruby>出か<rt>でか</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>は、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていくといいでしょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you go out on the fourth, it's a good idea to take an umbrella."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い台風31号が、日本の南の海にあります。",
+      "zh": "强台风31号位于日本南方海上。",
+      "en": "The strong Typhoon No. 31 is over the sea south of Japan.",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>台風<rt>たいふう</rt></ruby>31<ruby>号<rt>ごう</rt></ruby>が、<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>にあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、ゆっくり北へ進んで、5日の朝ごろ、小笠原諸島に近づく予想です。",
+      "tts": "台風は、ゆっくり北へ進んで、5日の朝ごろ、おがさわらしょとうに近づく予想です。",
+      "zh": "台风正缓慢向北移动，预计5日早上前后接近小笠原群岛。",
+      "en": "The typhoon is moving slowly north and is expected to approach the Ogasawara Islands around the morning of the 5th.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、ゆっくり<ruby>北<rt>きた</rt></ruby>へ<ruby>進ん<rt>すすん</rt></ruby>で、<ruby>5日<rt>いつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごろ、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>に<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to come close, to approach\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span><ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は関東には近づかない予想ですが、台風の周りから湿った空気が関東に入ってきます。",
+      "zh": "预计台风不会靠近关东，但台风周围的潮湿空气会进入关东。",
+      "en": "The typhoon is not expected to approach the Kanto region, but damp air from around the typhoon will flow into Kanto.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は<ruby>関東<rt>かんとう</rt></ruby>には<ruby>近づ<rt>ちかづ</rt></ruby>かない<ruby>予想<rt>よそう</rt></ruby>ですが、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>から<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>が<ruby>関東<rt>かんとう</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、関東と伊豆諸島では、5日、大雨になるおそれがあります。",
+      "tts": "このため、関東といずしょとうでは、5日、大雨になるおそれがあります。",
+      "zh": "因此，关东和伊豆群岛5日可能会下大雨。",
+      "en": "Because of this, heavy rain may fall in Kanto and the Izu Islands on the 5th.",
+      "ruby": "このため、<ruby>関東<rt>かんとう</rt></ruby>と<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>では、<ruby>5日<rt>いつか</rt></ruby>、<ruby>大雨<rt>おおあめ</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "関東では、4日の夜、海の近くから雨が降り始める所があります。",
+      "zh": "关东4日夜间，部分沿海地区将开始下雨。",
+      "en": "In Kanto, rain will start falling in some places near the sea on the night of the 4th.",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby>では、<ruby>4日<rt>よっか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<ruby>所<rt>ところ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "雨がいちばん強くなるのは、5日の昼ごろです。",
+      "zh": "雨势最强的时候是5日中午前后。",
+      "en": "The rain will be heaviest around noon on the 5th.",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>がいちばん<ruby>強く<rt>つよく</rt></ruby>なるのは、<ruby>5日<rt>いつか</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>ごろです。"
+    },
+    {
+      "speaker": "news",
+      "text": "雷が鳴って、道が川のようになるほどの激しい雨が降る所もありそうです。",
+      "zh": "有些地方可能会打雷，下起让道路像河一样的暴雨。",
+      "en": "In some places there may be thunder and rain so heavy that roads turn into rivers.",
+      "ruby": "<span class=\"vw\" data-ja=\"雷\" data-reading=\"かみなり\" data-en=\"thunder, lightning\"><ruby>雷<rt>かみなり</rt></ruby></span>が<ruby>鳴っ<rt>なっ</rt></ruby>て、<ruby>道<rt>みち</rt></ruby>が<ruby>川<rt>かわ</rt></ruby>のようになるほどの<span class=\"vw\" data-ja=\"激しい\" data-reading=\"はげしい\" data-en=\"intense, violent\"><ruby>激しい<rt>はげしい</rt></ruby></span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>所<rt>ところ</rt></ruby>もありそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、伊豆諸島で150ミリの予想です。",
+      "tts": "4日の夜6時から24時間に降る雨の量は、多い所で、関東の南で120ミリ、いずしょとうで150ミリの予想です。",
+      "zh": "预计从4日晚上6点起的24小时降雨量，多的地方关东南部为120毫米，伊豆群岛为150毫米。",
+      "en": "In the 24 hours from 6 p.m. on the 4th, up to 120 millimeters of rain is expected in southern Kanto and 150 millimeters in the Izu Islands.",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>6<ruby>時<rt>じ</rt></ruby>から24<ruby>時間<rt>じかん</rt></ruby>に<ruby>降る<rt>ふる</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で、<ruby>関東<rt>かんとう</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>で120ミリ、<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>で150ミリの<ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、山やがけが崩れることや、低い土地に水が入ることに気をつけるように言っています。",
+      "zh": "气象厅提醒大家注意山体和山崖崩塌，以及低洼地区进水。",
+      "en": "The Japan Meteorological Agency is telling people to watch out for landslides and for water flooding low-lying land.",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>やがけが<span class=\"vw\" data-ja=\"崩れる\" data-reading=\"くずれる\" data-en=\"to collapse, to fall apart\"><ruby>崩れ<rt>くずれ</rt></ruby>る</span>ことや、<ruby>低い<rt>ひくい</rt></ruby><ruby>土地<rt>とち</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>ことに<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful, to watch out\"><ruby>気<rt>き</rt></ruby>をつける</span>ように<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "4日に出かける人は、傘を持っていくといいでしょう。",
+      "zh": "4日出门的人最好带上伞。",
+      "en": "People going out on the 4th should take an umbrella with them.",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>に<ruby>出か<rt>でか</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>は、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていくといいでしょう。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "雨がいちばん強くなるのは、いつですか。",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>がいちばん<ruby>強く<rt>つよく</rt></ruby>なるのは、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around noon on the fifth."
+    },
+    {
+      "speaker": "slow",
+      "text": "伊豆諸島では、多い所で何ミリの雨が降る予想ですか。",
+      "tts": "いずしょとうでは、多い所で何ミリの雨が降る予想ですか。",
+      "ruby": "<ruby>伊豆<rt>いず</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>では、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で<ruby>何<rt>なん</rt></ruby>ミリの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>予想<rt>よそう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred fifty millimeters."
+    },
+    {
+      "speaker": "slow",
+      "text": "4日に出かける人は、何を持っていくといいですか。",
+      "ruby": "<ruby>4日<rt>よっか</rt></ruby>に<ruby>出か<rt>でか</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>持っ<rt>もっ</rt></ruby>ていくといいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "An umbrella."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Stay dry, thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
