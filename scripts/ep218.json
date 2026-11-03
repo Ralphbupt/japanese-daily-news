@@ -1,0 +1,625 @@
+{
+  "episode": 218,
+  "title": "新聞の購読率、初めて5割を下回る",
+  "date": "2026-10-12",
+  "source": "時事通信 / nippon.com / 新聞通信調査会",
+  "level": "N4-N3",
+  "contentVersion": "2026101201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "割合",
+      "reading": "わりあい",
+      "en": "proportion, percentage",
+      "zh": "比例"
+    },
+    {
+      "ja": "下回る",
+      "reading": "したまわる",
+      "en": "to fall below",
+      "zh": "低于，跌破"
+    },
+    {
+      "ja": "世論調査",
+      "reading": "よろんちょうさ",
+      "en": "opinion poll",
+      "zh": "舆论调查，民意调查"
+    },
+    {
+      "ja": "全国",
+      "reading": "ぜんこく",
+      "en": "the whole country, nationwide",
+      "zh": "全国"
+    },
+    {
+      "ja": "購読",
+      "reading": "こうどく",
+      "en": "subscription",
+      "zh": "订阅"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease",
+      "zh": "减少"
+    },
+    {
+      "ja": "民放",
+      "reading": "みんぽう",
+      "en": "commercial broadcasting",
+      "zh": "民营广播电视"
+    },
+    {
+      "ja": "次",
+      "reading": "つぎ",
+      "en": "next",
+      "zh": "下一个，其次"
+    },
+    {
+      "ja": "番目",
+      "reading": "ばんめ",
+      "en": "(ordinal) -th",
+      "zh": "第……个"
+    },
+    {
+      "ja": "無料",
+      "reading": "むりょう",
+      "en": "free of charge",
+      "zh": "免费"
+    },
+    {
+      "ja": "十分",
+      "reading": "じゅうぶん",
+      "en": "enough, sufficient",
+      "zh": "足够，充分"
+    },
+    {
+      "ja": "理由",
+      "reading": "りゆう",
+      "en": "reason",
+      "zh": "理由，原因"
+    },
+    {
+      "ja": "地方",
+      "reading": "ちほう",
+      "en": "region, local area",
+      "zh": "地方"
+    },
+    {
+      "ja": "信頼",
+      "reading": "しんらい",
+      "en": "trust",
+      "zh": "信赖，信任"
+    },
+    {
+      "ja": "結果",
+      "reading": "けっか",
+      "en": "result",
+      "zh": "结果"
+    },
+    {
+      "ja": "課題",
+      "reading": "かだい",
+      "en": "issue, challenge",
+      "zh": "课题"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜から〜にかけて",
+      "meaning": "from ~ through ~ (a span of time/place)",
+      "meaningZh": "从……到……（一段时间/范围）",
+      "formation": "noun + から + noun + にかけて",
+      "example": "調査は7月から8月にかけて行われ、全国の18歳以上の2676人が答えました。",
+      "translation": "The survey ran from July to August, and two thousand six hundred seventy-six adults nationwide answered.",
+      "note": "Describes a rough span. 7月から8月にかけて = over July to August.",
+      "noteZh": "表示大致的时间或空间范围。7月から8月にかけて＝7月到8月期间。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#にかけて"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it means that ~, it turns out that ~",
+      "meaningZh": "也就是说……，结果是……",
+      "formation": "verb plain form + ことになる",
+      "example": "調査を始めた2008年度は88.6%だったので、20年近くで大きく減ったことになります。",
+      "translation": "It was eighty-eight point six percent in 2008, so it has dropped sharply in almost twenty years.",
+      "note": "Draws a conclusion from facts. 減ったことになります = this means it has fallen.",
+      "noteZh": "根据事实得出结论。減ったことになります＝也就是说减少了。",
+      "level": "N4",
+      "jpnotesLink": "https://jpnotes.dev/N4/grammar-list/#ことになる"
+    },
+    {
+      "pattern": "〜のに対して",
+      "meaning": "whereas ~, in contrast to ~",
+      "meaningZh": "与……相对，而……",
+      "formation": "verb/adjective plain form + のに対して",
+      "example": "一方で、全国紙が減ったのに対して、地方の新聞は前の年より少し増えました。",
+      "translation": "Meanwhile, national papers fell, while local papers rose a little from the year before.",
+      "note": "Contrasts two facts. 全国紙が減ったのに対して = while national papers fell.",
+      "noteZh": "对比两个事实。全国紙が減ったのに対して＝全国性报纸减少，而……",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#に対して"
+    },
+    {
+      "pattern": "〜中で",
+      "meaning": "amid ~, in a situation where ~",
+      "meaningZh": "在……的情况下",
+      "formation": "verb plain form + 中で",
+      "example": "新聞を読む人が減る中で、どうやって読者を増やすかが課題になっています。",
+      "translation": "As readers decline, how to gain more readers has become a challenge.",
+      "note": "Sets the background situation. 減る中で = as (readers) decline.",
+      "noteZh": "表示背景情况。減る中で＝在不断减少的情况下。",
+      "level": "N3",
+      "jpnotesLink": "https://jpnotes.dev/N3/grammar-list/#中で"
+    }
+  ],
+  "practiceZh": [
+    "新聞を毎月とっている人の割合が、初めて5割を下回りました。\n每月订阅报纸的人的比例首次跌破五成。\n割合 = proportion, percentage",
+    "「新聞通信調査会」が10日、世論調査の結果を発表しました。\n10日，“新闻通信调查会”公布了舆论调查的结果。\n世論調査 = opinion poll",
+    "調査は7月から8月にかけて行われ、全国の18歳以上の2676人が答えました。\n调查于7月至8月进行，全国2676名18岁以上的人作了回答。\n全国 = the whole country, nationwide",
+    "新聞を購読している人は49.8%で、去年より0.3ポイント減りました。\n订阅报纸的人占49.8%，比去年减少了0.3个百分点。\n購読 = subscription",
+    "調査を始めた2008年度は88.6%だったので、20年近くで大きく減ったことになります。\n开始调查的2008年度是88.6%，也就是说近20年来大幅减少了。\n減る = to decrease",
+    "1週間にニュースを見たり読んだりしたメディアを聞くと、民放のテレビが84.2%で最も多くなりました。\n询问一周内看过或读过新闻的媒体，民营电视台最多，占84.2%。\n民放 = commercial broadcasting",
+    "次はインターネットで74.4%、NHKのテレビが69.7%でした。\n其次是互联网，占74.4%，NHK电视占69.7%。\n次 = next",
+    "新聞は49.7%で、4番目でした。\n报纸占49.7%，排在第四位。\n番目 = (ordinal) -th",
+    "新聞をとらない理由では、「図書館やインターネットなど、無料のもので十分だ」という答えが29.9%で最も多くなりました。\n在不订报纸的理由中，回答“图书馆和互联网等免费的东西就足够了”的最多，占29.9%。\n無料 = free of charge",
+    "一方で、全国紙が減ったのに対して、地方の新聞は前の年より少し増えました。\n另一方面，全国性报纸减少了，而地方报纸比前一年略有增加。\n地方 = region, local area",
+    "また、情報の信頼度を100点満点で聞くと、NHKのテレビが66.1点で最も高く、新聞は64.6点でした。\n另外，以满分100分询问信息的可信度，NHK电视最高，为66.1分，报纸为64.6分。\n信頼 = trust",
+    "インターネットは46.9点で、新聞より低い結果になりました。\n互联网为46.9分，结果比报纸低。\n結果 = result",
+    "新聞を読む人が減る中で、どうやって読者を増やすかが課題になっています。\n在读报的人不断减少的情况下，如何增加读者成为了课题。\n課題 = issue, challenge"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today is October twelfth. Tonight: for the first time, fewer than half of people in Japan take a newspaper. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞を毎月とっている人の割合が、初めて5割を下回りました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>毎月<rt>まいつき</rt></ruby>とっている<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion, percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>が、<ruby>初めて<rt>はじめて</rt></ruby>5<ruby>割<rt>わり</rt></ruby>を<ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「新聞通信調査会」が10日、世論調査の結果を発表しました。",
+      "ruby": "「<ruby>新聞<rt>しんぶん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby><ruby>調査会<rt>ちょうさかい</rt></ruby>」が<ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"世論調査\" data-reading=\"よろんちょうさ\" data-en=\"opinion poll\"><ruby>世論調査<rt>よろんちょうさ</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査は7月から8月にかけて行われ、全国の18歳以上の2676人が答えました。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>にかけて<ruby>行わ<rt>おこなわ</rt></ruby>れ、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の18<ruby>歳<rt>とし</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の2676<ruby>人<rt>にん</rt></ruby>が<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞を購読している人は49.8%で、去年より0.3ポイント減りました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<span class=\"vw\" data-ja=\"購読\" data-reading=\"こうどく\" data-en=\"subscription\"><ruby>購読<rt>こうどく</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は49.8%で、<ruby>去年<rt>きょねん</rt></ruby>より0.3ポイント<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査を始めた2008年度は88.6%だったので、20年近くで大きく減ったことになります。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た2008<ruby>年度<rt>ねんど</rt></ruby>は88.6%だったので、20<ruby>年<rt>ねん</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>で<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>たことになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "1週間にニュースを見たり読んだりしたメディアを聞くと、民放のテレビが84.2%で最も多くなりました。",
+      "ruby": "1<ruby>週間<rt>しゅうかん</rt></ruby>にニュースを<ruby>見た<rt>みた</rt></ruby>り<ruby>読んだ<rt>よんだ</rt></ruby>りしたメディアを<ruby>聞く<rt>きく</rt></ruby>と、<span class=\"vw\" data-ja=\"民放\" data-reading=\"みんぽう\" data-en=\"commercial broadcasting\"><ruby>民放<rt>みんぽう</rt></ruby></span>のテレビが84.2%で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "次はインターネットで74.4%、NHKのテレビが69.7%でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>はインターネットで74.4%、NHKのテレビが69.7%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞は49.7%で、4番目でした。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>は49.7%で、4<span class=\"vw\" data-ja=\"番目\" data-reading=\"ばんめ\" data-en=\"(ordinal) -th\"><ruby>番目<rt>ばんめ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞をとらない理由では、「図書館やインターネットなど、無料のもので十分だ」という答えが29.9%で最も多くなりました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>をとらない<span class=\"vw\" data-ja=\"理由\" data-reading=\"りゆう\" data-en=\"reason\"><ruby>理由<rt>りゆう</rt></ruby></span>では、「<ruby>図書館<rt>としょかん</rt></ruby>やインターネットなど、<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>のもので<span class=\"vw\" data-ja=\"十分\" data-reading=\"じゅうぶん\" data-en=\"enough, sufficient\"><ruby>十分<rt>じゅうぶん</rt></ruby></span>だ」という<ruby>答え<rt>こたえ</rt></ruby>が29.9%で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、全国紙が減ったのに対して、地方の新聞は前の年より少し増えました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国紙<rt>ぜんこくし</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たのに<ruby>対し<rt>たいし</rt></ruby>て、<span class=\"vw\" data-ja=\"地方\" data-reading=\"ちほう\" data-en=\"region, local area\"><ruby>地方<rt>ちほう</rt></ruby></span>の<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>より<ruby>少し<rt>すこし</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、情報の信頼度を100点満点で聞くと、NHKのテレビが66.1点で最も高く、新聞は64.6点でした。",
+      "ruby": "また、<ruby>情報<rt>じょうほう</rt></ruby>の<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼度<rt>しんらいど</rt></ruby></span>を100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>と、NHKのテレビが66.1<ruby>点<rt>てん</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高く<rt>たかく</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>は64.6<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "インターネットは46.9点で、新聞より低い結果になりました。",
+      "ruby": "インターネットは46.9<ruby>点<rt>てん</rt></ruby>で、<ruby>新聞<rt>しんぶん</rt></ruby>より<ruby>低い<rt>ひくい</rt></ruby><span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞を読む人が減る中で、どうやって読者を増やすかが課題になっています。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span><ruby>中<rt>なか</rt></ruby>で、どうやって<ruby>読者<rt>どくしゃ</rt></ruby>を<ruby>増やす<rt>ふやす</rt></ruby>かが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue, challenge\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞を毎月とっている人の割合が、初めて5割を下回りました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>毎月<rt>まいつき</rt></ruby>とっている<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion, percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>が、<ruby>初めて<rt>はじめて</rt></ruby>5<ruby>割<rt>わり</rt></ruby>を<ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "For the first time, fewer than half of people take a monthly newspaper."
+    },
+    {
+      "speaker": "vocab",
+      "text": "割合",
+      "ruby": "<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion, percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means proportion."
+    },
+    {
+      "speaker": "slow",
+      "text": "「新聞通信調査会」が10日、世論調査の結果を発表しました。",
+      "ruby": "「<ruby>新聞<rt>しんぶん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby><ruby>調査会<rt>ちょうさかい</rt></ruby>」が<ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"世論調査\" data-reading=\"よろんちょうさ\" data-en=\"opinion poll\"><ruby>世論調査<rt>よろんちょうさ</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the tenth, the Japan Press Research Institute released the results of an opinion poll."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世論調査",
+      "ruby": "<span class=\"vw\" data-ja=\"世論調査\" data-reading=\"よろんちょうさ\" data-en=\"opinion poll\"><ruby>世論調査<rt>よろんちょうさ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means opinion poll."
+    },
+    {
+      "speaker": "slow",
+      "text": "調査は7月から8月にかけて行われ、全国の18歳以上の2676人が答えました。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>にかけて<ruby>行わ<rt>おこなわ</rt></ruby>れ、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の18<ruby>歳<rt>とし</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の2676<ruby>人<rt>にん</rt></ruby>が<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The survey ran from July to August, and two thousand six hundred seventy-six adults nationwide answered."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全国",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the whole country."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞を購読している人は49.8%で、去年より0.3ポイント減りました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<span class=\"vw\" data-ja=\"購読\" data-reading=\"こうどく\" data-en=\"subscription\"><ruby>購読<rt>こうどく</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は49.8%で、<ruby>去年<rt>きょねん</rt></ruby>より0.3ポイント<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Subscribers were forty-nine point eight percent, down zero point three points from last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "購読",
+      "ruby": "<span class=\"vw\" data-ja=\"購読\" data-reading=\"こうどく\" data-en=\"subscription\"><ruby>購読<rt>こうどく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means subscription."
+    },
+    {
+      "speaker": "slow",
+      "text": "調査を始めた2008年度は88.6%だったので、20年近くで大きく減ったことになります。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た2008<ruby>年度<rt>ねんど</rt></ruby>は88.6%だったので、20<ruby>年<rt>ねん</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>で<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>たことになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was eighty-eight point six percent in 2008, so it has dropped sharply in almost twenty years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "1週間にニュースを見たり読んだりしたメディアを聞くと、民放のテレビが84.2%で最も多くなりました。",
+      "ruby": "1<ruby>週間<rt>しゅうかん</rt></ruby>にニュースを<ruby>見た<rt>みた</rt></ruby>り<ruby>読んだ<rt>よんだ</rt></ruby>りしたメディアを<ruby>聞く<rt>きく</rt></ruby>と、<span class=\"vw\" data-ja=\"民放\" data-reading=\"みんぽう\" data-en=\"commercial broadcasting\"><ruby>民放<rt>みんぽう</rt></ruby></span>のテレビが84.2%で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Asked where they got news in a week, commercial TV came first at eighty-four point two percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "民放",
+      "ruby": "<span class=\"vw\" data-ja=\"民放\" data-reading=\"みんぽう\" data-en=\"commercial broadcasting\"><ruby>民放<rt>みんぽう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means commercial broadcasting."
+    },
+    {
+      "speaker": "slow",
+      "text": "次はインターネットで74.4%、NHKのテレビが69.7%でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>はインターネットで74.4%、NHKのテレビが69.7%でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next was the internet at seventy-four point four percent, then the public broadcaster's TV at sixty-nine point seven."
+    },
+    {
+      "speaker": "vocab",
+      "text": "次",
+      "ruby": "<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means next."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞は49.7%で、4番目でした。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>は49.7%で、4<span class=\"vw\" data-ja=\"番目\" data-reading=\"ばんめ\" data-en=\"(ordinal) -th\"><ruby>番目<rt>ばんめ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Newspapers were fourth, at forty-nine point seven percent."
+    },
+    {
+      "speaker": "vocab",
+      "text": "番目",
+      "ruby": "<span class=\"vw\" data-ja=\"番目\" data-reading=\"ばんめ\" data-en=\"(ordinal) -th\"><ruby>番目<rt>ばんめ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It shows order, like fourth."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞をとらない理由では、「図書館やインターネットなど、無料のもので十分だ」という答えが29.9%で最も多くなりました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>をとらない<span class=\"vw\" data-ja=\"理由\" data-reading=\"りゆう\" data-en=\"reason\"><ruby>理由<rt>りゆう</rt></ruby></span>では、「<ruby>図書館<rt>としょかん</rt></ruby>やインターネットなど、<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>のもので<span class=\"vw\" data-ja=\"十分\" data-reading=\"じゅうぶん\" data-en=\"enough, sufficient\"><ruby>十分<rt>じゅうぶん</rt></ruby></span>だ」という<ruby>答え<rt>こたえ</rt></ruby>が29.9%で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The top reason for not taking a paper, at twenty-nine point nine percent, was that free sources like libraries and the internet are enough."
+    },
+    {
+      "speaker": "vocab",
+      "text": "無料",
+      "ruby": "<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means free of charge."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方で、全国紙が減ったのに対して、地方の新聞は前の年より少し増えました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国紙<rt>ぜんこくし</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たのに<ruby>対し<rt>たいし</rt></ruby>て、<span class=\"vw\" data-ja=\"地方\" data-reading=\"ちほう\" data-en=\"region, local area\"><ruby>地方<rt>ちほう</rt></ruby></span>の<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>より<ruby>少し<rt>すこし</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, national papers fell, while local papers rose a little from the year before."
+    },
+    {
+      "speaker": "vocab",
+      "text": "地方",
+      "ruby": "<span class=\"vw\" data-ja=\"地方\" data-reading=\"ちほう\" data-en=\"region, local area\"><ruby>地方<rt>ちほう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means region, or local area."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、情報の信頼度を100点満点で聞くと、NHKのテレビが66.1点で最も高く、新聞は64.6点でした。",
+      "ruby": "また、<ruby>情報<rt>じょうほう</rt></ruby>の<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼度<rt>しんらいど</rt></ruby></span>を100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>と、NHKのテレビが66.1<ruby>点<rt>てん</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高く<rt>たかく</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>は64.6<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "On trust, out of one hundred points, the public broadcaster's TV was highest at sixty-six point one, and newspapers scored sixty-four point six."
+    },
+    {
+      "speaker": "vocab",
+      "text": "信頼",
+      "ruby": "<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼<rt>しんらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means trust."
+    },
+    {
+      "speaker": "slow",
+      "text": "インターネットは46.9点で、新聞より低い結果になりました。",
+      "ruby": "インターネットは46.9<ruby>点<rt>てん</rt></ruby>で、<ruby>新聞<rt>しんぶん</rt></ruby>より<ruby>低い<rt>ひくい</rt></ruby><span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The internet scored forty-six point nine, lower than newspapers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "結果",
+      "ruby": "<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means result."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞を読む人が減る中で、どうやって読者を増やすかが課題になっています。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span><ruby>中<rt>なか</rt></ruby>で、どうやって<ruby>読者<rt>どくしゃ</rt></ruby>を<ruby>増やす<rt>ふやす</rt></ruby>かが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue, challenge\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "As readers decline, how to gain more readers has become a challenge."
+    },
+    {
+      "speaker": "vocab",
+      "text": "課題",
+      "ruby": "<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue, challenge\"><ruby>課題<rt>かだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a challenge to solve."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞を毎月とっている人の割合が、初めて5割を下回りました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>毎月<rt>まいつき</rt></ruby>とっている<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion, percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>が、<ruby>初めて<rt>はじめて</rt></ruby>5<ruby>割<rt>わり</rt></ruby>を<ruby>下回り<rt>したまわり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「新聞通信調査会」が10日、世論調査の結果を発表しました。",
+      "ruby": "「<ruby>新聞<rt>しんぶん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby><ruby>調査会<rt>ちょうさかい</rt></ruby>」が<ruby>10日<rt>とおか</rt></ruby>、<span class=\"vw\" data-ja=\"世論調査\" data-reading=\"よろんちょうさ\" data-en=\"opinion poll\"><ruby>世論調査<rt>よろんちょうさ</rt></ruby></span>の<span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査は7月から8月にかけて行われ、全国の18歳以上の2676人が答えました。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>は7<ruby>月<rt>がつ</rt></ruby>から8<ruby>月<rt>がつ</rt></ruby>にかけて<ruby>行わ<rt>おこなわ</rt></ruby>れ、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の18<ruby>歳<rt>とし</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の2676<ruby>人<rt>にん</rt></ruby>が<ruby>答え<rt>こたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞を購読している人は49.8%で、去年より0.3ポイント減りました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<span class=\"vw\" data-ja=\"購読\" data-reading=\"こうどく\" data-en=\"subscription\"><ruby>購読<rt>こうどく</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は49.8%で、<ruby>去年<rt>きょねん</rt></ruby>より0.3ポイント<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調査を始めた2008年度は88.6%だったので、20年近くで大きく減ったことになります。",
+      "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た2008<ruby>年度<rt>ねんど</rt></ruby>は88.6%だったので、20<ruby>年<rt>ねん</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>で<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>たことになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "1週間にニュースを見たり読んだりしたメディアを聞くと、民放のテレビが84.2%で最も多くなりました。",
+      "ruby": "1<ruby>週間<rt>しゅうかん</rt></ruby>にニュースを<ruby>見た<rt>みた</rt></ruby>り<ruby>読んだ<rt>よんだ</rt></ruby>りしたメディアを<ruby>聞く<rt>きく</rt></ruby>と、<span class=\"vw\" data-ja=\"民放\" data-reading=\"みんぽう\" data-en=\"commercial broadcasting\"><ruby>民放<rt>みんぽう</rt></ruby></span>のテレビが84.2%で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "次はインターネットで74.4%、NHKのテレビが69.7%でした。",
+      "ruby": "<span class=\"vw\" data-ja=\"次\" data-reading=\"つぎ\" data-en=\"next\"><ruby>次<rt>つぎ</rt></ruby></span>はインターネットで74.4%、NHKのテレビが69.7%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞は49.7%で、4番目でした。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>は49.7%で、4<span class=\"vw\" data-ja=\"番目\" data-reading=\"ばんめ\" data-en=\"(ordinal) -th\"><ruby>番目<rt>ばんめ</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞をとらない理由では、「図書館やインターネットなど、無料のもので十分だ」という答えが29.9%で最も多くなりました。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>をとらない<span class=\"vw\" data-ja=\"理由\" data-reading=\"りゆう\" data-en=\"reason\"><ruby>理由<rt>りゆう</rt></ruby></span>では、「<ruby>図書館<rt>としょかん</rt></ruby>やインターネットなど、<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>のもので<span class=\"vw\" data-ja=\"十分\" data-reading=\"じゅうぶん\" data-en=\"enough, sufficient\"><ruby>十分<rt>じゅうぶん</rt></ruby></span>だ」という<ruby>答え<rt>こたえ</rt></ruby>が29.9%で<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、全国紙が減ったのに対して、地方の新聞は前の年より少し増えました。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country, nationwide\"><ruby>全国紙<rt>ぜんこくし</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たのに<ruby>対し<rt>たいし</rt></ruby>て、<span class=\"vw\" data-ja=\"地方\" data-reading=\"ちほう\" data-en=\"region, local area\"><ruby>地方<rt>ちほう</rt></ruby></span>の<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>より<ruby>少し<rt>すこし</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、情報の信頼度を100点満点で聞くと、NHKのテレビが66.1点で最も高く、新聞は64.6点でした。",
+      "ruby": "また、<ruby>情報<rt>じょうほう</rt></ruby>の<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼度<rt>しんらいど</rt></ruby></span>を100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>と、NHKのテレビが66.1<ruby>点<rt>てん</rt></ruby>で<ruby>最も<rt>もっとも</rt></ruby><ruby>高く<rt>たかく</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>は64.6<ruby>点<rt>てん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "インターネットは46.9点で、新聞より低い結果になりました。",
+      "ruby": "インターネットは46.9<ruby>点<rt>てん</rt></ruby>で、<ruby>新聞<rt>しんぶん</rt></ruby>より<ruby>低い<rt>ひくい</rt></ruby><span class=\"vw\" data-ja=\"結果\" data-reading=\"けっか\" data-en=\"result\"><ruby>結果<rt>けっか</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新聞を読む人が減る中で、どうやって読者を増やすかが課題になっています。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease\"><ruby>減る<rt>へる</rt></ruby></span><ruby>中<rt>なか</rt></ruby>で、どうやって<ruby>読者<rt>どくしゃ</rt></ruby>を<ruby>増やす<rt>ふやす</rt></ruby>かが<span class=\"vw\" data-ja=\"課題\" data-reading=\"かだい\" data-en=\"issue, challenge\"><ruby>課題<rt>かだい</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞を購読している人の割合は、何パーセントでしたか。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>を<span class=\"vw\" data-ja=\"購読\" data-reading=\"こうどく\" data-en=\"subscription\"><ruby>購読<rt>こうどく</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"割合\" data-reading=\"わりあい\" data-en=\"proportion, percentage\"><ruby>割合<rt>わりあい</rt></ruby></span>は、<ruby>何<rt>なに</rt></ruby>パーセントでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty-nine point eight percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "新聞をとらない理由で、最も多かった答えは何ですか。",
+      "ruby": "<ruby>新聞<rt>しんぶん</rt></ruby>をとらない<span class=\"vw\" data-ja=\"理由\" data-reading=\"りゆう\" data-en=\"reason\"><ruby>理由<rt>りゆう</rt></ruby></span>で、<ruby>最も<rt>もっとも</rt></ruby><ruby>多か<rt>おおか</rt></ruby>った<ruby>答え<rt>こたえ</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "That free sources, like libraries and the internet, are enough."
+    },
+    {
+      "speaker": "slow",
+      "text": "信頼度が最も高かったメディアは何ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"信頼\" data-reading=\"しんらい\" data-en=\"trust\"><ruby>信頼度<rt>しんらいど</rt></ruby></span>が<ruby>最も<rt>もっとも</rt></ruby><ruby>高かっ<rt>たかっ</rt></ruby>たメディアは<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The public broadcaster's TV, at sixty-six point one points."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
