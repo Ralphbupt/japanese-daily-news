@@ -62,6 +62,9 @@ function speakerLabel(s: string) {
 
 const segs = episode.timedSegments;
 const firstSlowIdx = segs.findIndex(s => s.speaker === 'slow');
+// "Japanese only" mode: the first full reading of the news, before the breakdown.
+const pureIdx = new Set(segs.map((_, i) => i).filter(i =>
+  segs[i].speaker === 'news' && (firstSlowIdx < 0 || i < firstSlowIdx)));
 const vocabRecapIdx = segs.findIndex(s =>
   s.speaker === 'host' &&
   (s.text.toLowerCase().includes('vocabulary recap') ||
@@ -135,6 +138,7 @@ const segmentsForClient = segs.map(s => ({
     <div class="mode-bar">
       <div class="mode-toggle">
         <button class="mode-btn active" data-mode="fulltext"><span class="i18n-en">Full Text</span><span class="i18n-zh">全文</span></button>
+        <button class="mode-btn" data-mode="japanese"><span class="i18n-en">Japanese only</span><span class="i18n-zh">纯日语</span></button>
         <button class="mode-btn" data-mode="practice"><span class="i18n-en">Practice</span><span class="i18n-zh">精听</span></button>
       </div>
     </div>
@@ -150,7 +154,7 @@ const segmentsForClient = segs.map(s => ({
             <div class="transcript-divider"><span><span class="i18n-en">Vocabulary Recap</span><span class="i18n-zh">词汇回顾</span></span></div>
           )}
           <div
-            class={`segment segment-${seg.speaker}`}
+            class={`segment segment-${seg.speaker}${pureIdx.has(i) ? ' seg-pure' : ''}`}
             data-index={seg.index}
             data-start={seg.start}
             data-end={seg.end}
@@ -349,6 +353,17 @@ const segmentsForClient = segs.map(s => ({
     var activeIndex = -1;
     var isDragging = false;
     var practiceMode = false;
+
+    // ===== Japanese-only range (first full reading of the news) =====
+    var jaOnly = false;
+    var pureSegs = segments.filter(function(s, i) {
+      return segmentEls[i] && segmentEls[i].classList.contains('seg-pure');
+    });
+    var rStart = pureSegs.length ? pureSegs[0].start : 0;
+    var rEnd = pureSegs.length ? pureSegs[pureSegs.length - 1].end : 0;
+    function rangeOn() { return jaOnly && rEnd > rStart; }
+    function viewDur() { return rangeOn() ? rEnd - rStart : audio.duration; }
+    function viewPos() { return rangeOn() ? Math.max(0, audio.currentTime - rStart) : audio.currentTime; }
     var autoPauseAt = -1;
     var storageKey = 'jdn-' + epId;
     var progressKey = 'jdn-progress';
@@ -415,9 +430,11 @@ const segmentsForClient = segs.map(s => ({
     });
     // Arriving from a finished episode: start playing (browsers may block; then
     // the user just taps play — the button state is already correct)
-    if (/[?&]autoplay=1/.test(location.search)) {
+    // (the play itself is deferred to the end of setup, after the mode is set)
+    var arrivedAutoplay = /[?&]autoplay=1/.test(location.search);
+    var arrivedJaOnly = /[?&]mode=ja/.test(location.search);
+    if (arrivedAutoplay || arrivedJaOnly) {
       try { history.replaceState(null, '', location.pathname); } catch(e) {}
-      if (autoplayOn) tryPlay();
     }
 
     // ===== Practice data =====
@@ -475,7 +492,10 @@ const segmentsForClient = segs.map(s => ({
 
     // ===== Play / Pause =====
     playBtn.addEventListener('click', function() {
-      if (audio.paused) tryPlay(); else audio.pause();
+      if (audio.paused) {
+        if (rangeOn() && (audio.currentTime < rStart || audio.currentTime >= rEnd)) audio.currentTime = rStart;
+        tryPlay();
+      } else audio.pause();
     });
 
     audio.addEventListener('play', function() {
@@ -500,7 +520,7 @@ const segmentsForClient = segs.map(s => ({
     });
 
     audio.addEventListener('loadedmetadata', function() {
-      totalTimeEl.textContent = fmt(audio.duration);
+      totalTimeEl.textContent = fmt(viewDur());
       if (audio.currentTime > audio.duration) {
         audio.currentTime = 0;
         currentTimeEl.textContent = fmt(0);
@@ -516,10 +536,23 @@ const segmentsForClient = segs.map(s => ({
     // ===== Time update =====
     var saveCounter = 0;
     audio.addEventListener('timeupdate', function() {
+      if (rangeOn()) {
+        if (audio.currentTime < rStart - 0.05) audio.currentTime = rStart;
+        else if (audio.currentTime >= rEnd) {
+          audio.pause();
+          audio.currentTime = rStart;
+          // Auto-play on: carry on with the next episode, still Japanese only
+          if (autoplayOn && nextEpNum) {
+            ga('autoplay_next', { mode: 'japanese' });
+            setTimeout(function() { location.href = '/ep/' + nextEpNum + '/?autoplay=1&mode=ja'; }, 600);
+          }
+        }
+      }
       if (!isDragging) {
-        var pct = audio.duration ? (audio.currentTime / audio.duration) * 100 : 0;
+        var vd = viewDur();
+        var pct = vd ? (viewPos() / vd) * 100 : 0;
         progressFill.style.width = pct + '%';
-        currentTimeEl.textContent = fmt(audio.currentTime);
+        currentTimeEl.textContent = fmt(viewPos());
       }
 
       // Auto-pause in practice mode
@@ -563,9 +596,9 @@ const segmentsForClient = segs.map(s => ({
       var rect = progressBar.getBoundingClientRect();
       var pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
       if (audio.duration) {
-        audio.currentTime = pct * audio.duration;
+        audio.currentTime = rangeOn() ? rStart + pct * (rEnd - rStart) : pct * audio.duration;
         progressFill.style.width = (pct * 100) + '%';
-        currentTimeEl.textContent = fmt(audio.currentTime);
+        currentTimeEl.textContent = fmt(viewPos());
       }
     }
     function gaSeekDebounced() {
@@ -655,6 +688,7 @@ const segmentsForClient = segs.map(s => ({
         for (var j = 0; j < modeBtns.length; j++) modeBtns[j].classList.remove('active');
         this.classList.add('active');
         var mode = this.getAttribute('data-mode');
+        setJaOnly(mode === 'japanese');
         if (mode === 'practice') {
           practiceMode = true;
           transcript.style.display = 'none';
@@ -670,6 +704,19 @@ const segmentsForClient = segs.map(s => ({
           pracView.classList.remove('visible');
         }
       });
+    }
+
+    function setJaOnly(on) {
+      if (on === jaOnly) return;
+      jaOnly = on;
+      transcript.classList.toggle('ja-only', on);
+      if (rangeOn() && (audio.currentTime < rStart || audio.currentTime >= rEnd)) audio.currentTime = rStart;
+      if (on) ga('japanese_only_on');
+      if (audio.duration) {
+        totalTimeEl.textContent = fmt(viewDur());
+        currentTimeEl.textContent = fmt(viewPos());
+        progressFill.style.width = (viewDur() ? viewPos() / viewDur() * 100 : 0) + '%';
+      }
     }
 
     // ===== Practice mode =====
@@ -716,6 +763,16 @@ const segmentsForClient = segs.map(s => ({
     window.addEventListener('langchange', function() {
       if (practiceMode) showPractice(practiceIdx);
     });
+
+    // ===== Arrived via auto-play =====
+    if (arrivedJaOnly) {
+      var jaBtn = document.querySelector('.mode-btn[data-mode="japanese"]');
+      if (jaBtn) jaBtn.click();
+    }
+    if (arrivedAutoplay && autoplayOn) {
+      if (rangeOn()) audio.currentTime = rStart;
+      tryPlay();
+    }
 
     // ===== Review toggle =====
     var reviewToggle = document.getElementById('review-toggle');
