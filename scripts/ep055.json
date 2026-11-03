@@ -46,72 +46,86 @@
     {
       "speaker": "news",
       "text": "天気のニュースです。",
-      "ruby": "<ruby>天気<rt>てんき</rt></ruby>のニュースです。"
+      "ruby": "<ruby>天気<rt>てんき</rt></ruby>のニュースです。",
+      "en": "This is weather news."
     },
     {
       "speaker": "news",
       "text": "昨日、7月8日、近畿、中国、九州北部で梅雨明けしました。",
-      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>8<ruby>日<rt>ようか</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>九州北部<rt>きゅうしゅうほくぶ</rt></ruby>で<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けしました</span>。"
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>8<ruby>日<rt>ようか</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>九州北部<rt>きゅうしゅうほくぶ</rt></ruby>で<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けしました</span>。",
+      "en": "Yesterday, July 8th, the rainy season ended in the Kinki region, the Chugoku region, and northern Kyushu."
     },
     {
       "speaker": "news",
       "text": "気象庁が、そう発表しました。",
-      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>が、そう<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>が、そう<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。",
+      "en": "The Japan Meteorological Agency announced this."
     },
     {
       "speaker": "news",
       "text": "今年の梅雨明けは、平年より11日早いです。",
-      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けは</span>、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><ruby>早い<rt>はやい</rt></ruby>です。"
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けは</span>、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><ruby>早い<rt>はやい</rt></ruby>です。",
+      "en": "This year's end of the rainy season is 11 days earlier than usual."
     },
     {
       "speaker": "news",
       "text": "でも、去年より11日遅い梅雨明けです。",
-      "ruby": "でも、<ruby>去年<rt>きょねん</rt></ruby>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late; slow\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けです</span>。"
+      "ruby": "でも、<ruby>去年<rt>きょねん</rt></ruby>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late; slow\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けです</span>。",
+      "en": "But it is 11 days later than last year."
     },
     {
       "speaker": "news",
       "text": "梅雨の時期は、雨がたくさん降りました。",
-      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"time; season; period\"><ruby>時期<rt>じき</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降り<rt>ふり</rt></ruby>ました。"
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"time; season; period\"><ruby>時期<rt>じき</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降り<rt>ふり</rt></ruby>ました。",
+      "en": "During the rainy season, a lot of rain fell."
     },
     {
       "speaker": "news",
       "text": "特に佐賀県では、平年の2倍以上の雨が降りました。",
-      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>佐賀県<rt>さがけん</rt></ruby>では、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>の2<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times; double\"><ruby>倍以上<rt>ばいいじょう</rt></ruby></span>の<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>佐賀県<rt>さがけん</rt></ruby>では、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>の2<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times; double\"><ruby>倍以上<rt>ばいいじょう</rt></ruby></span>の<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。",
+      "en": "Especially in Saga Prefecture, more than twice the usual amount of rain fell."
     },
     {
       "speaker": "news",
       "text": "東日本では、まだ梅雨が続いています。",
-      "ruby": "<span class=\"vw\" data-ja=\"東日本\" data-reading=\"ひがしにほん\" data-en=\"eastern Japan\"><ruby>東日本<rt>ひがしにほん</rt></ruby></span>では、まだ<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+      "ruby": "<span class=\"vw\" data-ja=\"東日本\" data-reading=\"ひがしにほん\" data-en=\"eastern Japan\"><ruby>東日本<rt>ひがしにほん</rt></ruby></span>では、まだ<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ています。",
+      "en": "In eastern Japan, the rainy season is still continuing."
     },
     {
       "speaker": "news",
       "text": "これから、本格的な夏が始まります。",
-      "ruby": "これから、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+      "ruby": "これから、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。",
+      "en": "From now on, real summer begins."
     },
     {
       "speaker": "news",
       "text": "梅雨明けのあとは、暑い日が続きます。",
-      "ruby": "<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けのあとは</span>、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けのあとは</span>、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。",
+      "en": "After the rainy season ends, hot days continue."
     },
     {
       "speaker": "news",
       "text": "9日は、さらに気温が上がる予想です。",
-      "ruby": "9<ruby>日<rt>ここのか</rt></ruby>は、さらに<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"(air) temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"上がる\" data-reading=\"あがる\" data-en=\"to rise; to go up\"><ruby>上が<rt>あが</rt></ruby>る</span><span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。"
+      "ruby": "9<ruby>日<rt>ここのか</rt></ruby>は、さらに<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"(air) temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"上がる\" data-reading=\"あがる\" data-en=\"to rise; to go up\"><ruby>上が<rt>あが</rt></ruby>る</span><span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。",
+      "en": "On the 9th, temperatures are expected to rise even further."
     },
     {
       "speaker": "news",
       "text": "気象庁は、熱中症に気をつけるように呼びかけています。",
-      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful; to take care\"><ruby>気を<rt>きを</rt></ruby>つけるように</span><ruby>呼び<rt>よび</rt></ruby>かけています。"
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful; to take care\"><ruby>気を<rt>きを</rt></ruby>つけるように</span><ruby>呼び<rt>よび</rt></ruby>かけています。",
+      "en": "The Japan Meteorological Agency is calling on people to be careful of heatstroke."
     },
     {
       "speaker": "news",
       "text": "外に出るときは、水やお茶を飲みましょう。",
-      "ruby": "<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ときは、<ruby>水<rt>みず</rt></ruby>やお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>ましょう。"
+      "ruby": "<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ときは、<ruby>水<rt>みず</rt></ruby>やお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>ましょう。",
+      "en": "When you go outside, drink water or tea."
     },
     {
       "speaker": "news",
       "text": "水をたくさん飲んで、元気に夏を過ごしましょう。",
-      "ruby": "<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>夏<rt>なつ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しましょう。"
+      "ruby": "<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>夏<rt>なつ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しましょう。",
+      "en": "Drink plenty of water and stay healthy this summer."
     },
     {
       "speaker": "host",
@@ -268,72 +282,86 @@
     {
       "speaker": "news",
       "text": "天気のニュースです。",
-      "ruby": "<ruby>天気<rt>てんき</rt></ruby>のニュースです。"
+      "ruby": "<ruby>天気<rt>てんき</rt></ruby>のニュースです。",
+      "en": "This is weather news."
     },
     {
       "speaker": "news",
       "text": "昨日、7月8日、近畿、中国、九州北部で梅雨明けしました。",
-      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>8<ruby>日<rt>ようか</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>九州北部<rt>きゅうしゅうほくぶ</rt></ruby>で<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けしました</span>。"
+      "ruby": "<ruby>昨日<rt>きのう</rt></ruby>、7<ruby>月<rt>がつ</rt></ruby>8<ruby>日<rt>ようか</rt></ruby>、<ruby>近畿<rt>きんき</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>九州北部<rt>きゅうしゅうほくぶ</rt></ruby>で<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けしました</span>。",
+      "en": "Yesterday, July 8th, the rainy season ended in the Kinki region, the Chugoku region, and northern Kyushu."
     },
     {
       "speaker": "news",
       "text": "気象庁が、そう発表しました。",
-      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>が、そう<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>が、そう<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。",
+      "en": "The Japan Meteorological Agency announced this."
     },
     {
       "speaker": "news",
       "text": "今年の梅雨明けは、平年より11日早いです。",
-      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けは</span>、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><ruby>早い<rt>はやい</rt></ruby>です。"
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けは</span>、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より11<ruby>日<rt>にち</rt></ruby><ruby>早い<rt>はやい</rt></ruby>です。",
+      "en": "This year's end of the rainy season is 11 days earlier than usual."
     },
     {
       "speaker": "news",
       "text": "でも、去年より11日遅い梅雨明けです。",
-      "ruby": "でも、<ruby>去年<rt>きょねん</rt></ruby>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late; slow\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けです</span>。"
+      "ruby": "でも、<ruby>去年<rt>きょねん</rt></ruby>より11<ruby>日<rt>にち</rt></ruby><span class=\"vw\" data-ja=\"遅い\" data-reading=\"おそい\" data-en=\"late; slow\"><ruby>遅い<rt>おそい</rt></ruby></span><span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けです</span>。",
+      "en": "But it is 11 days later than last year."
     },
     {
       "speaker": "news",
       "text": "梅雨の時期は、雨がたくさん降りました。",
-      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"time; season; period\"><ruby>時期<rt>じき</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降り<rt>ふり</rt></ruby>ました。"
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<span class=\"vw\" data-ja=\"時期\" data-reading=\"じき\" data-en=\"time; season; period\"><ruby>時期<rt>じき</rt></ruby></span>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降り<rt>ふり</rt></ruby>ました。",
+      "en": "During the rainy season, a lot of rain fell."
     },
     {
       "speaker": "news",
       "text": "特に佐賀県では、平年の2倍以上の雨が降りました。",
-      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>佐賀県<rt>さがけん</rt></ruby>では、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>の2<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times; double\"><ruby>倍以上<rt>ばいいじょう</rt></ruby></span>の<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>佐賀県<rt>さがけん</rt></ruby>では、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"a normal year; average year\"><ruby>平年<rt>へいねん</rt></ruby></span>の2<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times; double\"><ruby>倍以上<rt>ばいいじょう</rt></ruby></span>の<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。",
+      "en": "Especially in Saga Prefecture, more than twice the usual amount of rain fell."
     },
     {
       "speaker": "news",
       "text": "東日本では、まだ梅雨が続いています。",
-      "ruby": "<span class=\"vw\" data-ja=\"東日本\" data-reading=\"ひがしにほん\" data-en=\"eastern Japan\"><ruby>東日本<rt>ひがしにほん</rt></ruby></span>では、まだ<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+      "ruby": "<span class=\"vw\" data-ja=\"東日本\" data-reading=\"ひがしにほん\" data-en=\"eastern Japan\"><ruby>東日本<rt>ひがしにほん</rt></ruby></span>では、まだ<span class=\"vw\" data-ja=\"梅雨\" data-reading=\"つゆ\" data-en=\"rainy season\"><ruby>梅雨<rt>つゆ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ています。",
+      "en": "In eastern Japan, the rainy season is still continuing."
     },
     {
       "speaker": "news",
       "text": "これから、本格的な夏が始まります。",
-      "ruby": "これから、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。"
+      "ruby": "これから、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale; in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>夏<rt>なつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。",
+      "en": "From now on, real summer begins."
     },
     {
       "speaker": "news",
       "text": "梅雨明けのあとは、暑い日が続きます。",
-      "ruby": "<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けのあとは</span>、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。"
+      "ruby": "<span class=\"vw\" data-ja=\"梅雨明け\" data-reading=\"つゆあけ\" data-en=\"end of the rainy season\"><ruby>梅雨明<rt>つゆあ</rt></ruby>けのあとは</span>、<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>ます。",
+      "en": "After the rainy season ends, hot days continue."
     },
     {
       "speaker": "news",
       "text": "9日は、さらに気温が上がる予想です。",
-      "ruby": "9<ruby>日<rt>ここのか</rt></ruby>は、さらに<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"(air) temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"上がる\" data-reading=\"あがる\" data-en=\"to rise; to go up\"><ruby>上が<rt>あが</rt></ruby>る</span><span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。"
+      "ruby": "9<ruby>日<rt>ここのか</rt></ruby>は、さらに<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"(air) temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<span class=\"vw\" data-ja=\"上がる\" data-reading=\"あがる\" data-en=\"to rise; to go up\"><ruby>上が<rt>あが</rt></ruby>る</span><span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; prediction\"><ruby>予想<rt>よそう</rt></ruby></span>です。",
+      "en": "On the 9th, temperatures are expected to rise even further."
     },
     {
       "speaker": "news",
       "text": "気象庁は、熱中症に気をつけるように呼びかけています。",
-      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful; to take care\"><ruby>気を<rt>きを</rt></ruby>つけるように</span><ruby>呼び<rt>よび</rt></ruby>かけています。"
+      "ruby": "<span class=\"vw\" data-ja=\"気象庁\" data-reading=\"きしょうちょう\" data-en=\"Japan Meteorological Agency\"><ruby>気象庁<rt>きしょうちょう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"熱中症\" data-reading=\"ねっちゅうしょう\" data-en=\"heatstroke\"><ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby></span>に<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful; to take care\"><ruby>気を<rt>きを</rt></ruby>つけるように</span><ruby>呼び<rt>よび</rt></ruby>かけています。",
+      "en": "The Japan Meteorological Agency is calling on people to be careful of heatstroke."
     },
     {
       "speaker": "news",
       "text": "外に出るときは、水やお茶を飲みましょう。",
-      "ruby": "<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ときは、<ruby>水<rt>みず</rt></ruby>やお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>ましょう。"
+      "ruby": "<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ときは、<ruby>水<rt>みず</rt></ruby>やお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>ましょう。",
+      "en": "When you go outside, drink water or tea."
     },
     {
       "speaker": "news",
       "text": "水をたくさん飲んで、元気に夏を過ごしましょう。",
-      "ruby": "<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>夏<rt>なつ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しましょう。"
+      "ruby": "<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>夏<rt>なつ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しましょう。",
+      "en": "Drink plenty of water and stay healthy this summer."
     },
     {
       "speaker": "host",
