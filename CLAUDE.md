@@ -79,7 +79,7 @@ Critical rules:
 - Host refers to meanings only: "It means price" NOT "'Nedan' means price"
 - No comparing polite vs rude forms (don't mention offensive alternatives)
 - Host name is Maya: "Welcome to Japanese Daily News. I'm Maya."
-- Each JSON also includes `titleZh` / `titleEn` (the headline translated: a natural Chinese news headline ≤ 30 chars and a short English one ≤ 70 chars, sentence case — they become the /zh/ and English page titles, "<titleZh>｜日语新闻听力 第N集" / "<titleEn> | Easy Japanese News EP NNN"), `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh` (one entry per breakdown sentence: Japanese line, Chinese translation line, notes — the Chinese line is also shown under that sentence on /zh/ pages), and `level` fields
+- Each JSON also includes `titleZh` / `titleEn` (the headline translated: a natural Chinese news headline ≤ 30 chars and a short English one ≤ 70 chars, sentence case — they become the /zh/ and English page titles, "<titleZh>｜日语新闻听力 第N集" / "<titleEn> | Easy Japanese News EP NNN"), `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh` (one entry per breakdown sentence: Japanese line, Chinese translation line, notes — the Chinese line is also shown under that sentence on /zh/ pages), and `level` fields. Every `news` segment also gets a `zh` field with its Chinese translation (same text in the replay); /zh/ pages show it under the sentence, and validate-episode fails a news sentence with neither `zh` nor a practiceZh entry
 
 ## Site Architecture (`site/`)
 

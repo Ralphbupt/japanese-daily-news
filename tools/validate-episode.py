@@ -79,6 +79,11 @@ def validate(ep_path, errs):
 
     ja_speakers = {sp for sp, c in chars.items() if c.get("lang") == "ja"}
 
+    zh_covered = {"今日のニュースです。", "また明日。"}
+    for entry in d.get("practiceZh", []) or []:
+        if isinstance(entry, str) and "\n" in entry:
+            zh_covered.add(entry.split("\n")[0].strip())
+
     segs = d.get("segments", [])
     if not isinstance(segs, list) or not segs:
         add(errs, name, "'segments' must be a non-empty list")
@@ -101,6 +106,11 @@ def validate(ep_path, errs):
 
         if sp in ja_speakers and "ruby" not in s:
             add(errs, name, f"segments[{i}] {sp}-segment missing 'ruby' field — run add-furigana.py")
+
+        # /zh/ pages show a Chinese line under every news sentence: from its own
+        # "zh" field, or from practiceZh when the breakdown covers the sentence.
+        if sp == "news" and not s.get("zh") and text.strip() not in zh_covered:
+            add(errs, name, f"segments[{i}] news sentence has no Chinese translation — add a 'zh' field: {text[:30]!r}")
 
     vocab = d.get("vocabulary", [])
     if not isinstance(vocab, list):
