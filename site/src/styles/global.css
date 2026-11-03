@@ -1785,3 +1785,10 @@ ruby rt {
 .vocab-ja rt, .tt-ja rt {
   font-family: var(--font-jp);
 }
+
+/* "Japanese only" mode: just the first full reading of the news */
+.transcript.ja-only .segment:not(.seg-pure),
+.transcript.ja-only .transcript-divider {
+  display: none;
+}
+.transcript.ja-only .segment-label { display: none; }
