@@ -8,7 +8,7 @@
 # audit, audio, subtitles, copy assets) and pushes -> Cloudflare auto-deploys.
 #
 # Toolchain set up in userspace (no sudo): static ffmpeg/ffprobe in ~/.local/bin,
-# .venv built via uv (python 3.11) with google-genai + edge-tts + pykakasi (Gemini key at ~/.config/storyanim/gemini_key).
+# .venv built via uv (python 3.11) with edge-tts + pykakasi.
 set -euo pipefail
 
 export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:/bin"
@@ -63,8 +63,13 @@ Steps:
    wording. NEVER fabricate news.
 3. Write scripts/epNNN.json per the Script Format and ALL Critical rules:
    host (Maya) has ZERO Japanese characters and ZERO romaji; 9-10 news segments;
-   breakdown; full replay; quiz; closing. Include vocabulary (with zh), grammar
-   (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD". The "date" field MUST
+   breakdown; full replay; quiz; closing. Follow CLAUDE.md's "Vocab selection"
+   rules: no proper nouns, numbers or too-basic words, and a sentence with
+   nothing worth teaching gets no vocab segment — never pad to a quota.
+   Follow "Writing for the ear" (no long lists of names; uncommon place/person
+   names get a "tts" kana field) and do the "Self-check" (level, natural
+   Japanese, every quiz answer clearly stated in the news) before step 4.
+   Include vocabulary (with zh), grammar (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD". The "date" field MUST
    be exactly "$TODAY_BJ" (today's Beijing date — do NOT use your own notion of
    today), and contentVersion MUST be exactly "$VER_BJ".
    The "title" field MUST be a SHORT Japanese headline, max ~40 characters,

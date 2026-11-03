@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Gemini TTS (Edge TTS fallback) + ffmpeg. The site is built with Astro and deployed on Cloudflare Pages.
+Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Edge TTS + ffmpeg. The site is built with Astro and deployed on Cloudflare Pages.
 
 ## Full Pipeline for a New Episode
 
@@ -36,22 +36,37 @@ cd site && npm run dev
 git add . && git commit && git push
 ```
 
-Requires: `ffmpeg`, `ffprobe` on PATH. Python deps in `.venv/` (google-genai, edge-tts, pykakasi). Gemini key: `$GEMINI_API_KEY` or `~/.config/storyanim/gemini_key` (shared with matsuri.games); without a key, or with `TTS_ENGINE=edge`, everything uses Edge.
+Requires: `ffmpeg`, `ffprobe` on PATH. Python deps in `.venv/` (edge-tts, pykakasi).
 
 ## Script Format (`scripts/epNNN.json`)
 
 Four speaker roles:
-- `host` (Maya) — English explanations only, ZERO Japanese characters, ZERO romaji (Gemini voice Aoede, atempo 0.95)
-- `news` — Japanese news reading at moderate speed (Gemini voice Kore, atempo 0.88)
-- `slow` — Slow Japanese repeat of key sentences (Gemini voice Kore, atempo 0.80)
-- `vocab` — Individual Japanese vocabulary words (Gemini voice Kore, atempo 0.85)
+- `host` (Maya) — English explanations only, ZERO Japanese characters, ZERO romaji (en-US-AvaNeural)
+- `news` — Japanese news reading at moderate speed (ja-JP-NanamiNeural, -25%)
+- `slow` — Slow Japanese repeat of key sentences (ja-JP-NanamiNeural, -30%)
+- `vocab` — Individual Japanese vocabulary words (ja-JP-NanamiNeural, -30%)
 
-Gemini voices, style prompts and per-role tempo live in `tools/gen-episode.py` (`GEMINI_VOICES` / `GEMINI_STYLE` / `GEMINI_TEMPO`). The `voice`/`rate` in each script's `characters` are now only the Edge fallback (used per segment when Gemini fails — it is flaky on very short single words). Keep writing them as before.
+Misread words: `tools/tts_readings.py` rewrites words the voice gets wrong into kana before speaking (regex rules, shared by all episodes — add one when a word recurs). For a one-off, give the segment a `"tts"` field with the misread word in kana (e.g. `"text": "…網走…"`, `"tts": "…あばしり…"`); the transcript, furigana and subtitles keep `text`.
 
 Episode structure:
 1. Host intro (short — one or two sentences of context, then "Let's listen.")
 2. Full news (9-10 `news` segments — longer article with more detail)
-3. Breakdown: `slow` sentence → `host` translation → `vocab` word → `host` explanation (1-2 sentences max, no verbose transitions)
+3. Breakdown: `slow` sentence → `host` translation → (optional) `vocab` word → `host` explanation (1-2 sentences max, no verbose transitions)
+
+Vocab selection — quality over quantity. A sentence with nothing worth teaching gets NO vocab (just `slow` → `host` translation). Never pad to fill a quota; 4-8 good words per episode beats 14 filler ones.
+- DO pick: verbs, adjectives, adverbs, set expressions and common nouns a learner at this episode's `level` doesn't know yet but will meet again (e.g. 降る, 急に, 気温, みぞれ, いつもの年).
+- DON'T pick: proper nouns — place, person, company or event names (北海道, 本州, 札幌, トヨタ); plain numbers/counters/dates (7つ, 10月28日); katakana loanwords whose meaning is obvious (ニュース); words clearly below the level (山, 白い, 早い, 同じ in an N4-N3 episode — and the most basic ones like 山 even at N5-N4).
+- The top-level `vocabulary` list holds exactly the words that get a `vocab` segment.
+
+Writing for the ear (listeners can't re-read):
+- No long strings of proper nouns. Seven town names in one sentence is unlistenable (and the voice misread 網走 in ep253): summarize — 「北海道と青森の7つの町」 — and name at most one or two.
+- Names with uncommon readings (place / person names like 網走, 帯広, 細野豪志) get a `"tts"` field with the name in kana, on every segment that contains it (news, slow, quiz). Common ones (東京, 札幌, 大阪) don't need it.
+- One idea per sentence; split long sentences rather than stacking clauses.
+
+Self-check before running the pipeline (as jpnotes.dev reviews its listening items):
+- Level: vocabulary and grammar fit the episode's `level`; a word clearly above it is either replaced with a simpler one or taught as vocab.
+- Natural Japanese, the way NHK NEWS WEB EASY / a Japanese newsreader would say it — no word-for-word translation from English.
+- Quiz: each question is answered clearly in the news (a learner who followed the story can answer), has exactly one right answer, and uses words from the episode.
 4. Full news replay (same `news` segments)
 5. Quiz: `slow` question → `host` English answer
 6. Host closing + `news` "また明日。"
