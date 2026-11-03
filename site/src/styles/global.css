@@ -39,8 +39,13 @@ button { font-family: inherit; }
   --border-light: #E0D9C8;
 
   --font-display: 'Fraunces', serif;
-  --font-jp: 'Noto Sans JP', sans-serif;
-  --font-body: 'Outfit', sans-serif;
+  /* Same approach as jpnotes.dev: system Japanese fonts first (nothing to
+     download on Mac/iOS/Windows), Noto as the web fallback. The Japanese being
+     studied is set in Mincho, like a textbook's example lines; titles/UI stay
+     in Gothic. */
+  --font-jp: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", "Noto Sans JP", "PingFang SC", sans-serif;
+  --font-jp-serif: "Hiragino Mincho ProN", "Yu Mincho", YuMincho, "Noto Serif JP", "Noto Serif CJK JP", "Source Han Serif JP", serif;
+  --font-body: 'Outfit', "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
 
   --max-width: 72rem;
   --radius: 0.5rem;
@@ -1008,7 +1013,7 @@ body {
 }
 
 .practice-sentence {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-size: 1.375rem;
   font-weight: 600;
   line-height: 1.85;
@@ -1178,7 +1183,7 @@ body {
 .segment-news .segment-dot { background: var(--accent); }
 .segment-news .segment-label { color: var(--accent); }
 .segment-news .segment-text {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-size: 1.1875rem;
   color: var(--text);
   line-height: 1.8;
@@ -1187,7 +1192,7 @@ body {
 .segment-slow .segment-dot { background: var(--green); }
 .segment-slow .segment-label { color: var(--green); }
 .segment-slow .segment-text {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-size: 1.3125rem;
   color: var(--text);
   line-height: 1.8;
@@ -1196,7 +1201,7 @@ body {
 .segment-vocab .segment-dot { background: var(--accent); }
 .segment-vocab .segment-label { color: var(--accent); }
 .segment-vocab .segment-text {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-size: 1.125rem;
   font-weight: 600;
   color: var(--accent);
@@ -1272,7 +1277,7 @@ ruby rt {
 }
 
 .tt-ja {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-weight: 600;
   font-size: 0.9375rem;
 }
@@ -1344,7 +1349,7 @@ ruby rt {
 }
 
 .vocab-ja {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.4;
@@ -1426,7 +1431,7 @@ ruby rt {
 }
 
 .grammar-example {
-  font-family: var(--font-jp);
+  font-family: var(--font-jp-serif);
   font-size: 0.875rem;
   line-height: 1.6;
   margin-bottom: 0.125rem;
@@ -1772,4 +1777,11 @@ ruby rt {
     justify-content: center;
     max-width: 16rem;
   }
+}
+
+/* Furigana stays in Gothic over Mincho text (as on jpnotes.dev): Mincho's
+   thin strokes become hard to read at ruby size. */
+.segment-text rt, .practice-sentence rt, .grammar-example rt,
+.vocab-ja rt, .tt-ja rt {
+  font-family: var(--font-jp);
 }
