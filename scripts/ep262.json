@@ -1,0 +1,612 @@
+{
+  "episode": 262,
+  "title": "皇居三の丸尚蔵館が全面開館、皇居に初のカフェも",
+  "titleZh": "皇居三之丸尚藏馆全面开馆，皇居首家咖啡馆开业",
+  "titleEn": "Imperial Palace art museum fully reopens, with the palace's first café",
+  "date": "2026-11-03",
+  "source": "東京新聞 / 時事通信 / 美術手帖",
+  "level": "N4-N3",
+  "contentVersion": "2026110301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "伝わる",
+      "reading": "つたわる",
+      "en": "to be passed down",
+      "zh": "流传，传下来"
+    },
+    {
+      "ja": "寄贈",
+      "reading": "きぞう",
+      "en": "donation",
+      "zh": "捐赠"
+    },
+    {
+      "ja": "工事",
+      "reading": "こうじ",
+      "en": "construction work",
+      "zh": "施工，工程"
+    },
+    {
+      "ja": "展示",
+      "reading": "てんじ",
+      "en": "display, exhibition",
+      "zh": "展示，陈列"
+    },
+    {
+      "ja": "含む",
+      "reading": "ふくむ",
+      "en": "to include",
+      "zh": "包含"
+    },
+    {
+      "ja": "記念",
+      "reading": "きねん",
+      "en": "commemoration",
+      "zh": "纪念"
+    },
+    {
+      "ja": "休憩所",
+      "reading": "きゅうけいじょ",
+      "en": "a rest area, a place to take a break",
+      "zh": "休息处"
+    },
+    {
+      "ja": "映す",
+      "reading": "うつす",
+      "en": "to show on a screen, to reflect",
+      "zh": "放映，映出"
+    },
+    {
+      "ja": "対応",
+      "reading": "たいおう",
+      "en": "support, handling",
+      "zh": "对应，支持"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ため",
+      "meaning": "because ~ (formal reason)",
+      "meaningZh": "因为……（书面语，表示原因）",
+      "formation": "Verb/Adjective plain form + ため / Noun + のため",
+      "example": "展示する場所が狭かったため、新しい建物を作る工事が続いていました。",
+      "translation": "Because the display space was small, construction of a new building continued.",
+      "note": "A formal way to give a reason, very common in news.",
+      "noteZh": "书面语中表示原因的说法，新闻中很常见。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ないように",
+      "meaning": "so as not to ~",
+      "meaningZh": "为了不……",
+      "formation": "Verb ない-form + ように",
+      "example": "皇居の景色を壊さないように、建物は低く作られています。",
+      "translation": "The building was made low so as not to spoil the palace scenery.",
+      "note": "Shows the purpose of an action: to avoid something happening.",
+      "noteZh": "表示行为的目的：为了避免某事发生。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜を記念して",
+      "meaning": "to commemorate ~, in honor of ~",
+      "meaningZh": "为纪念……",
+      "formation": "Noun + を記念して",
+      "example": "開館を記念して、3つの展覧会が開かれます。",
+      "translation": "To mark the opening, three exhibitions will be held.",
+      "note": "Used when an event is held to mark an occasion.",
+      "noteZh": "用于为纪念某个时刻而举办活动。",
+      "level": "N3"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November third, the art museum inside Tokyo's Imperial Palace fully reopens after years of work. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "皇居の中にある美術館「皇居三の丸尚蔵館」が、11月3日、全面的にオープンしました。",
+      "tts": "皇居の中にある美術館「皇居さんのまるしょうぞうかん」が、11月3日、全面的にオープンしました。",
+      "zh": "位于皇居内的美术馆“皇居三之丸尚藏馆”于11月3日全面开馆。",
+      "en": "The art museum inside the Imperial Palace, the Museum of the Imperial Collections, Sannomaru Shozokan, fully opened on November 3.",
+      "ruby": "<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>ある<ruby>美術館<rt>びじゅつかん</rt></ruby>「<ruby>皇居<rt>こうきょ</rt></ruby><ruby>三の丸<rt>さんのまる</rt></ruby><ruby>尚蔵館<rt>しょうぞうかん</rt></ruby>」が、11<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>、<ruby>全面的<rt>ぜんめんてき</rt></ruby>にオープンしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この美術館には、皇室に伝わってきた絵や書などの美術品が集められています。",
+      "zh": "这座美术馆收藏着皇室代代相传的绘画、书法等美术品。",
+      "en": "The museum holds artworks such as paintings and calligraphy that have been passed down in the imperial family.",
+      "ruby": "この<ruby>美術館<rt>びじゅつかん</rt></ruby>には、<ruby>皇室<rt>こうしつ</rt></ruby>に<ruby>伝わ<rt>つたわ</rt></ruby>ってきた<ruby>絵<rt>え</rt></ruby>や<ruby>書<rt>しょ</rt></ruby>などの<ruby>美術品<rt>びじゅつひん</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>られています。",
+      "tts": "この美術館には、皇室に伝わってきた絵やしょなどの美術品が集められています。"
+    },
+    {
+      "speaker": "news",
+      "text": "1993年、上皇さまなどが国に寄贈した美術品を守るために作られました。",
+      "zh": "它建于1993年，是为了保护上皇等人捐赠给国家的美术品。",
+      "en": "It was built in 1993 to protect artworks that the Emperor Emeritus and others donated to the state.",
+      "ruby": "1993<ruby>年<rt>ねん</rt></ruby>、<ruby>上皇<rt>じょうこう</rt></ruby>さまなどが<ruby>国<rt>くに</rt></ruby>に<span class=\"vw\" data-ja=\"寄贈\" data-reading=\"きぞう\" data-en=\"donation\"><ruby>寄贈<rt>きぞう</rt></ruby></span>した<ruby>美術品<rt>びじゅつひん</rt></ruby>を<ruby>守る<rt>まもる</rt></ruby>ために<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、展示する場所が狭かったため、2019年から新しい建物を作る工事が続いていました。",
+      "zh": "但是由于展示空间狭小，从2019年起一直在进行新建筑的施工。",
+      "en": "But because the display space was small, construction of a new building had been going on since 2019.",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>狭か<rt>せまか</rt></ruby>ったため、2019<ruby>年<rt>ねん</rt></ruby>から<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "工事には、およそ155億円かかりました。",
+      "zh": "工程花费了大约155亿日元。",
+      "en": "The construction cost about 15.5 billion yen.",
+      "ruby": "<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>には、およそ155<ruby>億円<rt>おくえん</rt></ruby>かかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "展示できる広さは、前のおよそ8倍になりました。",
+      "zh": "可展示的面积扩大到了原来的大约8倍。",
+      "en": "The exhibition space is now about 8 times larger than before.",
+      "ruby": "<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>できる<ruby>広さ<rt>ひろさ</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>のおよそ8<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "美術館には、国宝10件を含む、およそ6300件の作品があります。",
+      "zh": "美术馆藏有包括10件国宝在内的大约6300件作品。",
+      "en": "The museum has about 6,300 works, including 10 National Treasures.",
+      "ruby": "<ruby>美術館<rt>びじゅつかん</rt></ruby>には、<ruby>国宝<rt>こくほう</rt></ruby>10<ruby>件<rt>けん</rt></ruby>を<span class=\"vw\" data-ja=\"含む\" data-reading=\"ふくむ\" data-en=\"to include\"><ruby>含む<rt>ふくむ</rt></ruby></span>、およそ6300<ruby>件<rt>けん</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "開館を記念して、これから半年の間に、3つの展覧会が開かれます。",
+      "zh": "为纪念开馆，今后半年内将举办3场展览。",
+      "en": "To mark the opening, three exhibitions will be held over the next six months.",
+      "ruby": "<ruby>開館<rt>かいかん</rt></ruby>を<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span>して、これから<ruby>半年<rt>はんとし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、3つの<ruby>展覧会<rt>てんらんかい</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "その中で、江戸時代の画家、伊藤若冲の有名な絵30枚が、すべて並べて展示されます。",
+      "tts": "その中で、江戸時代の画家、いとうじゃくちゅうの有名な絵30枚が、すべて並べて展示されます。",
+      "zh": "其中，江户时代画家伊藤若冲的30幅名画将全部并排展出。",
+      "en": "Among them, all 30 famous paintings by the Edo-period painter Ito Jakuchu will be shown side by side.",
+      "ruby": "その<ruby>中<rt>なか</rt></ruby>で、<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>画家<rt>がか</rt></ruby>、<ruby>伊藤<rt>いとう</rt></ruby><ruby>若冲<rt>じゃくちゅう</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>30<ruby>枚<rt>まい</rt></ruby>が、すべて<ruby>並べて<rt>ならべて</rt></ruby><span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>されます。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じ日、美術館の近くに、新しい休憩所もできました。",
+      "zh": "同一天，美术馆附近还新建了一座休息处。",
+      "en": "On the same day, a new rest house also opened near the museum.",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"休憩所\" data-reading=\"きゅうけいじょ\" data-en=\"a rest area, a place to take a break\"><ruby>休憩所<rt>きゅうけいじょ</rt></ruby></span>もできました。"
+    },
+    {
+      "speaker": "news",
+      "text": "木で作られた建物で、広さはおよそ2800平方メートルです。",
+      "zh": "这是一座木造建筑，面积约2800平方米。",
+      "en": "It is a wooden building of about 2,800 square meters.",
+      "ruby": "<ruby>木<rt>き</rt></ruby>で<ruby>作ら<rt>つくら</rt></ruby>れた<ruby>建物<rt>たてもの</rt></ruby>で、<ruby>広さ<rt>ひろさ</rt></ruby>はおよそ2800<ruby>平方<rt>へいほう</rt></ruby>メートルです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中には、皇居で初めてのカフェがあります。",
+      "zh": "里面有皇居里的第一家咖啡馆。",
+      "en": "Inside is the first café ever in the Imperial Palace.",
+      "ruby": "<ruby>中に<rt>なかに</rt></ruby>は、<ruby>皇居<rt>こうきょ</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>のカフェがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "皇居の景色を壊さないように、建物は低く作られています。",
+      "zh": "为了不破坏皇居的景观，建筑物建得很低。",
+      "en": "The building was made low so as not to spoil the scenery of the Imperial Palace.",
+      "ruby": "<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>壊さ<rt>こわさ</rt></ruby>ないように、<ruby>建物<rt>たてもの</rt></ruby>は<ruby>低く<rt>ひくく</rt></ruby><ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、日本各地の四季を映すスクリーンや、皇室の活動を紹介するコーナーもあります。",
+      "zh": "此外，还有放映日本各地四季景色的屏幕，以及介绍皇室活动的专区。",
+      "en": "There are also screens showing the four seasons across Japan, and a corner introducing the activities of the imperial family.",
+      "ruby": "また、<ruby>日本各地<rt>にほんかくち</rt></ruby>の<ruby>四季<rt>しき</rt></ruby>を<span class=\"vw\" data-ja=\"映す\" data-reading=\"うつす\" data-en=\"to show on a screen, to reflect\"><ruby>映す<rt>うつす</rt></ruby></span>スクリーンや、<ruby>皇室<rt>こうしつ</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するコーナーもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "説明は、英語や中国語など、いくつかの言葉に対応しています。",
+      "zh": "说明支持英语、中文等多种语言。",
+      "en": "The explanations are available in several languages, such as English and Chinese.",
+      "ruby": "<ruby>説明<rt>せつめい</rt></ruby>は、<ruby>英語<rt>えいご</rt></ruby>や<ruby>中国語<rt>ちゅうごくご</rt></ruby>など、いくつかの<ruby>言葉<rt>ことば</rt></ruby>に<span class=\"vw\" data-ja=\"対応\" data-reading=\"たいおう\" data-en=\"support, handling\"><ruby>対応<rt>たいおう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "皇居の中にある美術館「皇居三の丸尚蔵館」が、11月3日、全面的にオープンしました。",
+      "tts": "皇居の中にある美術館「皇居さんのまるしょうぞうかん」が、11月3日、全面的にオープンしました。",
+      "ruby": "<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>ある<ruby>美術館<rt>びじゅつかん</rt></ruby>「<ruby>皇居<rt>こうきょ</rt></ruby><ruby>三の丸<rt>さんのまる</rt></ruby><ruby>尚蔵館<rt>しょうぞうかん</rt></ruby>」が、11<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>、<ruby>全面的<rt>ぜんめんてき</rt></ruby>にオープンしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November third, the art museum inside the Imperial Palace fully opened."
+    },
+    {
+      "speaker": "slow",
+      "text": "この美術館には、皇室に伝わってきた絵や書などの美術品が集められています。",
+      "ruby": "この<ruby>美術館<rt>びじゅつかん</rt></ruby>には、<ruby>皇室<rt>こうしつ</rt></ruby>に<ruby>伝わ<rt>つたわ</rt></ruby>ってきた<ruby>絵<rt>え</rt></ruby>や<ruby>書<rt>しょ</rt></ruby>などの<ruby>美術品<rt>びじゅつひん</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>られています。",
+      "tts": "この美術館には、皇室に伝わってきた絵やしょなどの美術品が集められています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The museum holds paintings, calligraphy and other art passed down in the imperial family."
+    },
+    {
+      "speaker": "vocab",
+      "text": "伝わる",
+      "ruby": "<span class=\"vw\" data-ja=\"伝わる\" data-reading=\"つたわる\" data-en=\"to be passed down\"><ruby>伝わ<rt>つたわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be passed down."
+    },
+    {
+      "speaker": "slow",
+      "text": "1993年、上皇さまなどが国に寄贈した美術品を守るために作られました。",
+      "ruby": "1993<ruby>年<rt>ねん</rt></ruby>、<ruby>上皇<rt>じょうこう</rt></ruby>さまなどが<ruby>国<rt>くに</rt></ruby>に<span class=\"vw\" data-ja=\"寄贈\" data-reading=\"きぞう\" data-en=\"donation\"><ruby>寄贈<rt>きぞう</rt></ruby></span>した<ruby>美術品<rt>びじゅつひん</rt></ruby>を<ruby>守る<rt>まもる</rt></ruby>ために<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was built in 1993 to protect art donated to the nation by the Emperor Emeritus and others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "寄贈",
+      "ruby": "<span class=\"vw\" data-ja=\"寄贈\" data-reading=\"きぞう\" data-en=\"donation\"><ruby>寄贈<rt>きぞう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means donation."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、展示する場所が狭かったため、2019年から新しい建物を作る工事が続いていました。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>狭か<rt>せまか</rt></ruby>ったため、2019<ruby>年<rt>ねん</rt></ruby>から<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But the display space was small, so construction of a new building had been going on since 2019."
+    },
+    {
+      "speaker": "vocab",
+      "text": "展示",
+      "ruby": "<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means display, exhibition."
+    },
+    {
+      "speaker": "vocab",
+      "text": "工事",
+      "ruby": "<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means construction work."
+    },
+    {
+      "speaker": "slow",
+      "text": "美術館には、国宝10件を含む、およそ6300件の作品があります。",
+      "ruby": "<ruby>美術館<rt>びじゅつかん</rt></ruby>には、<ruby>国宝<rt>こくほう</rt></ruby>10<ruby>件<rt>けん</rt></ruby>を<span class=\"vw\" data-ja=\"含む\" data-reading=\"ふくむ\" data-en=\"to include\"><ruby>含む<rt>ふくむ</rt></ruby></span>、およそ6300<ruby>件<rt>けん</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The museum has about sixty-three hundred works, including ten National Treasures."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含む",
+      "ruby": "<span class=\"vw\" data-ja=\"含む\" data-reading=\"ふくむ\" data-en=\"to include\"><ruby>含む<rt>ふくむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to include."
+    },
+    {
+      "speaker": "slow",
+      "text": "開館を記念して、これから半年の間に、3つの展覧会が開かれます。",
+      "ruby": "<ruby>開館<rt>かいかん</rt></ruby>を<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span>して、これから<ruby>半年<rt>はんとし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、3つの<ruby>展覧会<rt>てんらんかい</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "To mark the opening, three exhibitions will be held over the next six months."
+    },
+    {
+      "speaker": "vocab",
+      "text": "記念",
+      "ruby": "<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means commemoration."
+    },
+    {
+      "speaker": "slow",
+      "text": "その中で、江戸時代の画家、伊藤若冲の有名な絵30枚が、すべて並べて展示されます。",
+      "tts": "その中で、江戸時代の画家、いとうじゃくちゅうの有名な絵30枚が、すべて並べて展示されます。",
+      "ruby": "その<ruby>中<rt>なか</rt></ruby>で、<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>画家<rt>がか</rt></ruby>、<ruby>伊藤<rt>いとう</rt></ruby><ruby>若冲<rt>じゃくちゅう</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>30<ruby>枚<rt>まい</rt></ruby>が、すべて<ruby>並べて<rt>ならべて</rt></ruby><span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>されます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Among them, all thirty famous paintings by an Edo-period painter will be shown side by side."
+    },
+    {
+      "speaker": "slow",
+      "text": "同じ日、美術館の近くに、新しい休憩所もできました。",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"休憩所\" data-reading=\"きゅうけいじょ\" data-en=\"a rest area, a place to take a break\"><ruby>休憩所<rt>きゅうけいじょ</rt></ruby></span>もできました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the same day, a new rest house opened near the museum."
+    },
+    {
+      "speaker": "vocab",
+      "text": "休憩所",
+      "ruby": "<span class=\"vw\" data-ja=\"休憩所\" data-reading=\"きゅうけいじょ\" data-en=\"a rest area, a place to take a break\"><ruby>休憩所<rt>きゅうけいじょ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a rest area, a place to take a break."
+    },
+    {
+      "speaker": "slow",
+      "text": "皇居の景色を壊さないように、建物は低く作られています。",
+      "ruby": "<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>壊さ<rt>こわさ</rt></ruby>ないように、<ruby>建物<rt>たてもの</rt></ruby>は<ruby>低く<rt>ひくく</rt></ruby><ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The building is low so it does not spoil the palace scenery."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、日本各地の四季を映すスクリーンや、皇室の活動を紹介するコーナーもあります。",
+      "ruby": "また、<ruby>日本各地<rt>にほんかくち</rt></ruby>の<ruby>四季<rt>しき</rt></ruby>を<span class=\"vw\" data-ja=\"映す\" data-reading=\"うつす\" data-en=\"to show on a screen, to reflect\"><ruby>映す<rt>うつす</rt></ruby></span>スクリーンや、<ruby>皇室<rt>こうしつ</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するコーナーもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "There are also screens showing the seasons around Japan, and a corner about the imperial family."
+    },
+    {
+      "speaker": "vocab",
+      "text": "映す",
+      "ruby": "<span class=\"vw\" data-ja=\"映す\" data-reading=\"うつす\" data-en=\"to show on a screen, to reflect\"><ruby>映す<rt>うつす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to show on a screen, to reflect."
+    },
+    {
+      "speaker": "slow",
+      "text": "説明は、英語や中国語など、いくつかの言葉に対応しています。",
+      "ruby": "<ruby>説明<rt>せつめい</rt></ruby>は、<ruby>英語<rt>えいご</rt></ruby>や<ruby>中国語<rt>ちゅうごくご</rt></ruby>など、いくつかの<ruby>言葉<rt>ことば</rt></ruby>に<span class=\"vw\" data-ja=\"対応\" data-reading=\"たいおう\" data-en=\"support, handling\"><ruby>対応<rt>たいおう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Explanations are available in several languages, including English and Chinese."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対応",
+      "ruby": "<span class=\"vw\" data-ja=\"対応\" data-reading=\"たいおう\" data-en=\"support, handling\"><ruby>対応<rt>たいおう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means support, handling."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "皇居の中にある美術館「皇居三の丸尚蔵館」が、11月3日、全面的にオープンしました。",
+      "tts": "皇居の中にある美術館「皇居さんのまるしょうぞうかん」が、11月3日、全面的にオープンしました。",
+      "zh": "位于皇居内的美术馆“皇居三之丸尚藏馆”于11月3日全面开馆。",
+      "en": "The art museum inside the Imperial Palace, the Museum of the Imperial Collections, Sannomaru Shozokan, fully opened on November 3.",
+      "ruby": "<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>ある<ruby>美術館<rt>びじゅつかん</rt></ruby>「<ruby>皇居<rt>こうきょ</rt></ruby><ruby>三の丸<rt>さんのまる</rt></ruby><ruby>尚蔵館<rt>しょうぞうかん</rt></ruby>」が、11<ruby>月<rt>がつ</rt></ruby><ruby>3日<rt>みっか</rt></ruby>、<ruby>全面的<rt>ぜんめんてき</rt></ruby>にオープンしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この美術館には、皇室に伝わってきた絵や書などの美術品が集められています。",
+      "zh": "这座美术馆收藏着皇室代代相传的绘画、书法等美术品。",
+      "en": "The museum holds artworks such as paintings and calligraphy that have been passed down in the imperial family.",
+      "ruby": "この<ruby>美術館<rt>びじゅつかん</rt></ruby>には、<ruby>皇室<rt>こうしつ</rt></ruby>に<ruby>伝わ<rt>つたわ</rt></ruby>ってきた<ruby>絵<rt>え</rt></ruby>や<ruby>書<rt>しょ</rt></ruby>などの<ruby>美術品<rt>びじゅつひん</rt></ruby>が<ruby>集め<rt>あつめ</rt></ruby>られています。",
+      "tts": "この美術館には、皇室に伝わってきた絵やしょなどの美術品が集められています。"
+    },
+    {
+      "speaker": "news",
+      "text": "1993年、上皇さまなどが国に寄贈した美術品を守るために作られました。",
+      "zh": "它建于1993年，是为了保护上皇等人捐赠给国家的美术品。",
+      "en": "It was built in 1993 to protect artworks that the Emperor Emeritus and others donated to the state.",
+      "ruby": "1993<ruby>年<rt>ねん</rt></ruby>、<ruby>上皇<rt>じょうこう</rt></ruby>さまなどが<ruby>国<rt>くに</rt></ruby>に<span class=\"vw\" data-ja=\"寄贈\" data-reading=\"きぞう\" data-en=\"donation\"><ruby>寄贈<rt>きぞう</rt></ruby></span>した<ruby>美術品<rt>びじゅつひん</rt></ruby>を<ruby>守る<rt>まもる</rt></ruby>ために<ruby>作ら<rt>つくら</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、展示する場所が狭かったため、2019年から新しい建物を作る工事が続いていました。",
+      "zh": "但是由于展示空间狭小，从2019年起一直在进行新建筑的施工。",
+      "en": "But because the display space was small, construction of a new building had been going on since 2019.",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>狭か<rt>せまか</rt></ruby>ったため、2019<ruby>年<rt>ねん</rt></ruby>から<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "工事には、およそ155億円かかりました。",
+      "zh": "工程花费了大约155亿日元。",
+      "en": "The construction cost about 15.5 billion yen.",
+      "ruby": "<span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>には、およそ155<ruby>億円<rt>おくえん</rt></ruby>かかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "展示できる広さは、前のおよそ8倍になりました。",
+      "zh": "可展示的面积扩大到了原来的大约8倍。",
+      "en": "The exhibition space is now about 8 times larger than before.",
+      "ruby": "<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>できる<ruby>広さ<rt>ひろさ</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>のおよそ8<ruby>倍<rt>ばい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "美術館には、国宝10件を含む、およそ6300件の作品があります。",
+      "zh": "美术馆藏有包括10件国宝在内的大约6300件作品。",
+      "en": "The museum has about 6,300 works, including 10 National Treasures.",
+      "ruby": "<ruby>美術館<rt>びじゅつかん</rt></ruby>には、<ruby>国宝<rt>こくほう</rt></ruby>10<ruby>件<rt>けん</rt></ruby>を<span class=\"vw\" data-ja=\"含む\" data-reading=\"ふくむ\" data-en=\"to include\"><ruby>含む<rt>ふくむ</rt></ruby></span>、およそ6300<ruby>件<rt>けん</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "開館を記念して、これから半年の間に、3つの展覧会が開かれます。",
+      "zh": "为纪念开馆，今后半年内将举办3场展览。",
+      "en": "To mark the opening, three exhibitions will be held over the next six months.",
+      "ruby": "<ruby>開館<rt>かいかん</rt></ruby>を<span class=\"vw\" data-ja=\"記念\" data-reading=\"きねん\" data-en=\"commemoration\"><ruby>記念<rt>きねん</rt></ruby></span>して、これから<ruby>半年<rt>はんとし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、3つの<ruby>展覧会<rt>てんらんかい</rt></ruby>が<ruby>開か<rt>ひらか</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "その中で、江戸時代の画家、伊藤若冲の有名な絵30枚が、すべて並べて展示されます。",
+      "tts": "その中で、江戸時代の画家、いとうじゃくちゅうの有名な絵30枚が、すべて並べて展示されます。",
+      "zh": "其中，江户时代画家伊藤若冲的30幅名画将全部并排展出。",
+      "en": "Among them, all 30 famous paintings by the Edo-period painter Ito Jakuchu will be shown side by side.",
+      "ruby": "その<ruby>中<rt>なか</rt></ruby>で、<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>画家<rt>がか</rt></ruby>、<ruby>伊藤<rt>いとう</rt></ruby><ruby>若冲<rt>じゃくちゅう</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>30<ruby>枚<rt>まい</rt></ruby>が、すべて<ruby>並べて<rt>ならべて</rt></ruby><span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>されます。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じ日、美術館の近くに、新しい休憩所もできました。",
+      "zh": "同一天，美术馆附近还新建了一座休息处。",
+      "en": "On the same day, a new rest house also opened near the museum.",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"休憩所\" data-reading=\"きゅうけいじょ\" data-en=\"a rest area, a place to take a break\"><ruby>休憩所<rt>きゅうけいじょ</rt></ruby></span>もできました。"
+    },
+    {
+      "speaker": "news",
+      "text": "木で作られた建物で、広さはおよそ2800平方メートルです。",
+      "zh": "这是一座木造建筑，面积约2800平方米。",
+      "en": "It is a wooden building of about 2,800 square meters.",
+      "ruby": "<ruby>木<rt>き</rt></ruby>で<ruby>作ら<rt>つくら</rt></ruby>れた<ruby>建物<rt>たてもの</rt></ruby>で、<ruby>広さ<rt>ひろさ</rt></ruby>はおよそ2800<ruby>平方<rt>へいほう</rt></ruby>メートルです。"
+    },
+    {
+      "speaker": "news",
+      "text": "中には、皇居で初めてのカフェがあります。",
+      "zh": "里面有皇居里的第一家咖啡馆。",
+      "en": "Inside is the first café ever in the Imperial Palace.",
+      "ruby": "<ruby>中に<rt>なかに</rt></ruby>は、<ruby>皇居<rt>こうきょ</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>のカフェがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "皇居の景色を壊さないように、建物は低く作られています。",
+      "zh": "为了不破坏皇居的景观，建筑物建得很低。",
+      "en": "The building was made low so as not to spoil the scenery of the Imperial Palace.",
+      "ruby": "<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>壊さ<rt>こわさ</rt></ruby>ないように、<ruby>建物<rt>たてもの</rt></ruby>は<ruby>低く<rt>ひくく</rt></ruby><ruby>作ら<rt>つくら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、日本各地の四季を映すスクリーンや、皇室の活動を紹介するコーナーもあります。",
+      "zh": "此外，还有放映日本各地四季景色的屏幕，以及介绍皇室活动的专区。",
+      "en": "There are also screens showing the four seasons across Japan, and a corner introducing the activities of the imperial family.",
+      "ruby": "また、<ruby>日本各地<rt>にほんかくち</rt></ruby>の<ruby>四季<rt>しき</rt></ruby>を<span class=\"vw\" data-ja=\"映す\" data-reading=\"うつす\" data-en=\"to show on a screen, to reflect\"><ruby>映す<rt>うつす</rt></ruby></span>スクリーンや、<ruby>皇室<rt>こうしつ</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するコーナーもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "説明は、英語や中国語など、いくつかの言葉に対応しています。",
+      "zh": "说明支持英语、中文等多种语言。",
+      "en": "The explanations are available in several languages, such as English and Chinese.",
+      "ruby": "<ruby>説明<rt>せつめい</rt></ruby>は、<ruby>英語<rt>えいご</rt></ruby>や<ruby>中国語<rt>ちゅうごくご</rt></ruby>など、いくつかの<ruby>言葉<rt>ことば</rt></ruby>に<span class=\"vw\" data-ja=\"対応\" data-reading=\"たいおう\" data-en=\"support, handling\"><ruby>対応<rt>たいおう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい建物を作る工事には、いくらかかりましたか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><span class=\"vw\" data-ja=\"工事\" data-reading=\"こうじ\" data-en=\"construction work\"><ruby>工事<rt>こうじ</rt></ruby></span>には、いくらかかりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About fifteen and a half billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "展示できる広さは、前の何倍になりましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"展示\" data-reading=\"てんじ\" data-en=\"display, exhibition\"><ruby>展示<rt>てんじ</rt></ruby></span>できる<ruby>広さ<rt>ひろさ</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<ruby>何倍<rt>なんばい</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eight times."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい休憩所には、皇居で初めての何がありますか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"休憩所\" data-reading=\"きゅうけいじょ\" data-en=\"a rest area, a place to take a break\"><ruby>休憩所<rt>きゅうけいじょ</rt></ruby></span>には、<ruby>皇居<rt>こうきょ</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>何<rt>なに</rt></ruby>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A café."
+    },
+    {
+      "speaker": "slow",
+      "text": "休憩所の建物は、どうして低く作られていますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"休憩所\" data-reading=\"きゅうけいじょ\" data-en=\"a rest area, a place to take a break\"><ruby>休憩所<rt>きゅうけいじょ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>は、どうして<ruby>低く<rt>ひくく</rt></ruby><ruby>作ら<rt>つくら</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "So it does not spoil the scenery of the palace."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Thanks for listening. See you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "practiceZh": [
+    "皇居の中にある美術館「皇居三の丸尚蔵館」が、11月3日、全面的にオープンしました。\n位于皇居内的美术馆“皇居三之丸尚藏馆”于11月3日全面开馆。",
+    "この美術館には、皇室に伝わってきた絵や書などの美術品が集められています。\n这座美术馆收藏着皇室代代相传的绘画、书法等美术品。\n伝わる = to be passed down",
+    "1993年、上皇さまなどが国に寄贈した美術品を守るために作られました。\n它建于1993年，是为了保护上皇等人捐赠给国家的美术品。\n寄贈 = donation",
+    "しかし、展示する場所が狭かったため、2019年から新しい建物を作る工事が続いていました。\n但是由于展示空间狭小，从2019年起一直在进行新建筑的施工。\n展示 = display, exhibition / 工事 = construction work",
+    "美術館には、国宝10件を含む、およそ6300件の作品があります。\n美术馆藏有包括10件国宝在内的大约6300件作品。\n含む = to include",
+    "開館を記念して、これから半年の間に、3つの展覧会が開かれます。\n为纪念开馆，今后半年内将举办3场展览。\n記念 = commemoration",
+    "その中で、江戸時代の画家、伊藤若冲の有名な絵30枚が、すべて並べて展示されます。\n其中，江户时代画家伊藤若冲的30幅名画将全部并排展出。",
+    "同じ日、美術館の近くに、新しい休憩所もできました。\n同一天，美术馆附近还新建了一座休息处。\n休憩所 = a rest area, a place to take a break",
+    "皇居の景色を壊さないように、建物は低く作られています。\n为了不破坏皇居的景观，建筑物建得很低。",
+    "また、日本各地の四季を映すスクリーンや、皇室の活動を紹介するコーナーもあります。\n此外，还有放映日本各地四季景色的屏幕，以及介绍皇室活动的专区。\n映す = to show on a screen, to reflect",
+    "説明は、英語や中国語など、いくつかの言葉に対応しています。\n说明支持英语、中文等多种语言。\n対応 = support, handling"
+  ]
+}
