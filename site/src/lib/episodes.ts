@@ -50,6 +50,9 @@ export interface GrammarPoint {
 export interface RawEpisode {
   episode: number;
   title: string;
+  /** Headline in Chinese / English, for the /zh/ and English pages' titles. */
+  titleZh?: string;
+  titleEn?: string;
   date: string;
   source: string;
   characters: Record<string, Character>;
@@ -75,6 +78,11 @@ export interface ProcessedEpisode extends RawEpisode {
   /** Story summary extracted from the host intro (no boilerplate). */
   summary: string;
   description: string;
+  /** Chinese meta description for /zh/ pages. */
+  descriptionZh: string;
+  /** Japanese sentence → its Chinese translation (from practiceZh), shown
+   *  under the transcript on /zh/ pages. */
+  zhLines: Record<string, string>;
   hasTimingData: boolean;
 }
 
@@ -109,6 +117,24 @@ function buildDescription(raw: RawEpisode, summary: string): string {
   const base = summary || raw.title;
   const level = raw.level ? ` Level ${raw.level}.` : '';
   return `${base} Learn Japanese with native audio, furigana, vocabulary and grammar.${level}`;
+}
+
+const LEVEL_ZH: Record<string, string> = { 'N5-N4': '初级 N5–N4', 'N4-N3': '中级 N4–N3' };
+
+function buildDescriptionZh(raw: RawEpisode): string {
+  const head = raw.titleZh ? `${raw.titleZh}。` : `${raw.title}。`;
+  const level = raw.level ? `（${LEVEL_ZH[raw.level] || raw.level}）` : '';
+  return `${head}用真实日语新闻练听力${level}：自然语速朗读、逐句讲解，附振假名、中文翻译、词汇和语法。`;
+}
+
+/** practiceZh entries are "Japanese sentence\nChinese translation\nnotes". */
+function buildZhLines(raw: RawEpisode): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const entry of raw.practiceZh ?? []) {
+    const [ja, zh] = entry.split('\n');
+    if (ja && zh) out[ja.trim()] = zh.trim();
+  }
+  return out;
 }
 
 const PAUSE_AFTER: Record<string, number> = {
@@ -176,6 +202,8 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
     level: raw.level ?? '',
     summary,
     description,
+    descriptionZh: buildDescriptionZh(raw),
+    zhLines: buildZhLines(raw),
     hasTimingData,
   };
 }

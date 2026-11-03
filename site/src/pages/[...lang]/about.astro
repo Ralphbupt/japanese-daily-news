@@ -1,17 +1,26 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../../layouts/Layout.astro';
+import { LANG_PARAMS, langOf, lp, altPaths } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return LANG_PARAMS.map(params => ({ params }));
+}
+
+const lang = langOf(Astro.params.lang);
 ---
-<Layout title="About" description="About Japanese Daily News — a free podcast for Japanese learners.">
+<Layout lang={lang}
+  title={lang === 'zh' ? '关于本播客' : 'About'}
+  description={lang === 'zh' ? '关于 Japanese Daily News：一档免费的日语学习播客，每集一则真实日语新闻。' : 'About Japanese Daily News — a free podcast for Japanese learners.'}>
   <nav class="nav">
-    <a href="/" class="nav-logo">Japanese Daily News</a>
+    <a href={lp('/', lang)} class="nav-logo">Japanese Daily News</a>
     <div class="nav-links">
       <a href="/rss.xml" class="nav-link nav-rss-icon">
         <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
         RSS
       </a>
       <div class="lang-toggle" id="lang-toggle">
-        <button class="lang-btn active" data-lang="en">EN</button>
-        <button class="lang-btn" data-lang="zh">中</button>
+        <a class="lang-btn" data-lang="en" hreflang="en" href={altPaths(Astro.url.pathname).en}>EN</a>
+        <a class="lang-btn" data-lang="zh" hreflang="zh-Hans" href={altPaths(Astro.url.pathname).zh}>中</a>
       </div>
       <button class="theme-btn" id="theme-toggle" aria-label="Toggle theme">
         <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
@@ -21,7 +30,7 @@ import Layout from '../layouts/Layout.astro';
   </nav>
 
   <main class="about-body">
-    <a href="/" class="ep-back">&larr; <span class="i18n-en">Home</span><span class="i18n-zh">首页</span></a>
+    <a href={lp('/', lang)} class="ep-back">&larr; <span class="i18n-en">Home</span><span class="i18n-zh">首页</span></a>
 
     <h1 class="about-title">
       <span class="i18n-en">About This Podcast</span>
@@ -92,7 +101,7 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <div class="about-cta">
-      <a href="/" class="btn btn-primary">&#9654; <span class="i18n-en">Start Listening</span><span class="i18n-zh">开始收听</span></a>
+      <a href={lp('/', lang)} class="btn btn-primary">&#9654; <span class="i18n-en">Start Listening</span><span class="i18n-zh">开始收听</span></a>
     </div>
   </main>
 </Layout>

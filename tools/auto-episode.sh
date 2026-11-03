@@ -69,7 +69,9 @@ Steps:
    Follow "Writing for the ear" (no long lists of names; uncommon place/person
    names get a "tts" kana field) and do the "Self-check" (level, natural
    Japanese, every quiz answer clearly stated in the news) before step 4.
-   Include vocabulary (with zh), grammar (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD". The "date" field MUST
+   Include titleZh and titleEn (the headline in Chinese / English — see
+   CLAUDE.md), vocabulary (with zh), grammar (with meaningZh/noteZh),
+   practiceZh, level="$LEVELFIELD". The "date" field MUST
    be exactly "$TODAY_BJ" (today's Beijing date — do NOT use your own notion of
    today), and contentVersion MUST be exactly "$VER_BJ".
    The "title" field MUST be a SHORT Japanese headline, max ~40 characters,

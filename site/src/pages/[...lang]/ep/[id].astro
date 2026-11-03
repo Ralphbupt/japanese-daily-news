@@ -1,20 +1,31 @@
 ---
-import Layout from '../../layouts/Layout.astro';
-import { getAllEpisodes } from '../../lib/episodes';
-import type { ProcessedEpisode } from '../../lib/episodes';
-import { withUtm } from '../../lib/jpnotes';
+import Layout from '../../../layouts/Layout.astro';
+import { getAllEpisodes } from '../../../lib/episodes';
+import type { ProcessedEpisode } from '../../../lib/episodes';
+import { withUtm } from '../../../lib/jpnotes';
+import { LANG_PARAMS, langOf, lp, altPaths } from '../../../lib/i18n';
 
 const allEpisodes = getAllEpisodes();
 
 export async function getStaticPaths() {
-  return getAllEpisodes().map(ep => ({
-    params: { id: ep.paddedNum },
+  // Every episode in both languages: /ep/NNN/ and /zh/ep/NNN/.
+  return LANG_PARAMS.flatMap(({ lang }) => getAllEpisodes().map(ep => ({
+    params: { lang, id: ep.paddedNum },
     props: { episode: ep },
-  }));
+  })));
 }
 
 interface Props { episode: ProcessedEpisode; }
 const { episode } = Astro.props;
+const lang = langOf(Astro.params.lang);
+const epNo = Number(episode.paddedNum);
+const pageDescription = lang === 'zh' ? episode.descriptionZh : episode.description;
+// Titles in the reader's language and the words learners search for
+// ("日语新闻听力", "easy Japanese news"); the Japanese headline stays the H1.
+const translatedTitle = lang === 'zh' ? episode.titleZh : episode.titleEn;
+const pageTitle = lang === 'zh'
+  ? `${episode.titleZh || episode.title}｜日语新闻听力 第${epNo}集`
+  : `${episode.titleEn || episode.title} | Easy Japanese News EP ${episode.paddedNum}`;
 
 const sorted = [...allEpisodes].sort((a, b) => a.episode - b.episode);
 const epIdx = sorted.findIndex(e => e.episode === episode.episode);
@@ -29,8 +40,11 @@ const episodeJsonLd = {
   "@context": "https://schema.org",
   "@type": "PodcastEpisode",
   "name": `EP ${episode.paddedNum}: ${episode.title}`,
-  "description": episode.description,
-  "url": `${SITE}/ep/${episode.paddedNum}/`,
+  "alternateName": [episode.titleEn, episode.titleZh].filter(Boolean),
+  "inLanguage": "ja",
+  "episodeNumber": epNo,
+  "description": pageDescription,
+  "url": `${SITE}${lp(`/ep/${episode.paddedNum}/`, lang)}`,
   "datePublished": episode.date,
   "duration": durationISO,
   "associatedMedia": {
@@ -45,12 +59,19 @@ const episodeJsonLd = {
 };
 
 function formatDate(d: string) {
+  if (lang === 'zh') {
+    const [y, m, day] = d.split('-').map(Number);
+    return `${y}年${m}月${day}日`;
+  }
   return new Date(d + 'T00:00:00').toLocaleDateString('en-US', {
     month: 'short', day: 'numeric', year: 'numeric',
   });
 }
 
 function speakerLabel(s: string) {
+  if (lang === 'zh') {
+    return ({ host: '主持', news: '新闻', slow: '慢速', vocab: '词汇' } as Record<string, string>)[s] || s;
+  }
   switch (s) {
     case 'host': return 'Host';
     case 'news': return 'News';
@@ -77,20 +98,21 @@ const segmentsForClient = segs.map(s => ({
 }));
 ---
 <Layout
-  title={`EP ${episode.paddedNum}: ${episode.title}`}
-  description={episode.description}
+  lang={lang}
+  fullTitle={pageTitle}
+  description={pageDescription}
   jsonLd={episodeJsonLd}
 >
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://podcast.jpnotes.dev/" },
-      { "@type": "ListItem", "position": 2, "name": episode.title, "item": `https://podcast.jpnotes.dev/ep/${episode.paddedNum}/` }
+      { "@type": "ListItem", "position": 1, "name": lang === 'zh' ? "首页" : "Home", "item": `${SITE}${lp('/', lang)}` },
+      { "@type": "ListItem", "position": 2, "name": episode.title, "item": `${SITE}${lp(`/ep/${episode.paddedNum}/`, lang)}` }
     ]
   })} />
   <nav class="nav">
-    <a href="/" class="nav-logo">Japanese Daily News</a>
+    <a href={lp('/', lang)} class="nav-logo">Japanese Daily News</a>
     <div class="nav-links">
       <a href="/rss.xml" class="nav-link nav-rss-icon">
         <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -102,8 +124,8 @@ const segmentsForClient = segs.map(s => ({
         <button class="fontsize-btn" data-size="large" style="font-size:0.9375rem" title="Large">A</button>
       </div>
       <div class="lang-toggle" id="lang-toggle">
-        <button class="lang-btn active" data-lang="en">EN</button>
-        <button class="lang-btn" data-lang="zh">中</button>
+        <a class="lang-btn" data-lang="en" hreflang="en" href={altPaths(Astro.url.pathname).en}>EN</a>
+        <a class="lang-btn" data-lang="zh" hreflang="zh-Hans" href={altPaths(Astro.url.pathname).zh}>中</a>
       </div>
       <button class="theme-btn" id="theme-toggle" aria-label="Toggle theme">
         <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
@@ -114,24 +136,25 @@ const segmentsForClient = segs.map(s => ({
 
   <header class="ep-header">
     <div class="ep-topbar">
-      <a href="/" class="ep-back">&larr; Episodes</a>
+      <a href={lp('/', lang)} class="ep-back">&larr; {lang === 'zh' ? '全部节目' : 'Episodes'}</a>
       <div class="ep-topnav">
         {prevEp && (
-          <a href={`/ep/${prevEp.paddedNum}/`} class="ep-topnav-link ep-nav-prev" title={`EP ${prevEp.paddedNum}: ${prevEp.title}`}>
+          <a href={lp(`/ep/${prevEp.paddedNum}/`, lang)} class="ep-topnav-link ep-nav-prev" title={`EP ${prevEp.paddedNum}: ${prevEp.title}`}>
             &larr; <span class="i18n-en">Prev</span><span class="i18n-zh">上一集</span>
           </a>
         )}
         {nextEp && (
-          <a href={`/ep/${nextEp.paddedNum}/`} class="ep-topnav-link ep-nav-next" title={`EP ${nextEp.paddedNum}: ${nextEp.title}`}>
+          <a href={lp(`/ep/${nextEp.paddedNum}/`, lang)} class="ep-topnav-link ep-nav-next" title={`EP ${nextEp.paddedNum}: ${nextEp.title}`}>
             <span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;
           </a>
         )}
       </div>
     </div>
     <p class="ep-page-meta">
-      Episode {episode.paddedNum} &middot; {formatDate(episode.date)} &middot; {episode.source}
+      {lang === 'zh' ? `第 ${Number(episode.paddedNum)} 集` : `Episode ${episode.paddedNum}`} &middot; {formatDate(episode.date)} &middot; {episode.source}
     </p>
-    <h1 class="ep-page-title">{episode.title}</h1>
+    <h1 class="ep-page-title" lang="ja">{episode.title}</h1>
+    {translatedTitle && <p class="ep-page-subtitle">{translatedTitle}</p>}
   </header>
 
   <main class="episode-body">
@@ -167,6 +190,8 @@ const segmentsForClient = segs.map(s => ({
               ? <div class="segment-text" set:html={seg.ruby} />
               : <div class="segment-text">{seg.text}</div>
             }
+            {lang === 'zh' && seg.speaker !== 'host' && episode.zhLines[seg.text.trim()] &&
+              <div class="segment-tr">{episode.zhLines[seg.text.trim()]}</div>}
           </div>
         </>
       ))}
@@ -198,13 +223,15 @@ const segmentsForClient = segs.map(s => ({
                   <span class="grammar-pattern">{g.pattern}</span>
                   {g.level && <span class="grammar-level">{g.level}</span>}
                 </div>
-                <div class="grammar-meaning">{g.meaning}</div>
-                {g.meaningZh && <div class="grammar-meaning-zh">{g.meaningZh}</div>}
+                {lang === 'zh' && g.meaningZh
+                  ? <div class="grammar-meaning-zh">{g.meaningZh}</div>
+                  : <div class="grammar-meaning">{g.meaning}</div>}
                 <div class="grammar-formation">{g.formation}</div>
                 <div class="grammar-example" set:html={g.example} />
                 <div class="grammar-translation">{g.translation}</div>
-                {g.note && <div class="grammar-note">{g.note}</div>}
-                {g.noteZh && <div class="grammar-note-zh">{g.noteZh}</div>}
+                {lang === 'zh' && g.noteZh
+                  ? <div class="grammar-note-zh">{g.noteZh}</div>
+                  : g.note && <div class="grammar-note">{g.note}</div>}
                 {g.jpnotes && <a class="grammar-card-link" href={withUtm(g.jpnotes.url, 'web')} target="_blank" rel="noopener">{g.jpnotes.matched ? <><span class="i18n-en">Grammar notes &rarr;</span><span class="i18n-zh">语法详解 &rarr;</span></> : <><span class="i18n-en">{g.level} grammar list &rarr;</span><span class="i18n-zh">{g.level} 语法清单 &rarr;</span></>}</a>}
               </div>
             ))}
@@ -228,8 +255,9 @@ const segmentsForClient = segs.map(s => ({
                 <div class="vocab-card">
                   <div class="vocab-ja">{v.ja}</div>
                   <div class="vocab-reading">{v.reading}</div>
-                  <div class="vocab-en">{v.en}</div>
-                  {v.zh && <div class="vocab-zh">{v.zh}</div>}
+                  {lang === 'zh' && v.zh
+                    ? <div class="vocab-zh">{v.zh}</div>
+                    : <div class="vocab-en">{v.en}</div>}
                 </div>
               ))}
             </div>
@@ -245,13 +273,15 @@ const segmentsForClient = segs.map(s => ({
                     <span class="grammar-pattern">{g.pattern}</span>
                     {g.level && <span class="grammar-level">{g.level}</span>}
                   </div>
-                  <div class="grammar-meaning">{g.meaning}</div>
-                  {g.meaningZh && <div class="grammar-meaning-zh">{g.meaningZh}</div>}
+                  {lang === 'zh' && g.meaningZh
+                    ? <div class="grammar-meaning-zh">{g.meaningZh}</div>
+                    : <div class="grammar-meaning">{g.meaning}</div>}
                   <div class="grammar-formation">{g.formation}</div>
                   <div class="grammar-example" set:html={g.example} />
                   <div class="grammar-translation">{g.translation}</div>
-                  {g.note && <div class="grammar-note">{g.note}</div>}
-                  {g.noteZh && <div class="grammar-note-zh">{g.noteZh}</div>}
+                  {lang === 'zh' && g.noteZh
+                    ? <div class="grammar-note-zh">{g.noteZh}</div>
+                    : g.note && <div class="grammar-note">{g.note}</div>}
                   {g.jpnotes && <a class="grammar-card-link" href={withUtm(g.jpnotes.url, 'web')} target="_blank" rel="noopener">{g.jpnotes.matched ? <><span class="i18n-en">Grammar notes &rarr;</span><span class="i18n-zh">语法详解 &rarr;</span></> : <><span class="i18n-en">{g.level} grammar list &rarr;</span><span class="i18n-zh">{g.level} 语法清单 &rarr;</span></>}</a>}
                 </div>
               ))}
@@ -269,13 +299,13 @@ const segmentsForClient = segs.map(s => ({
     <!-- Prev / Next -->
     <nav class="ep-nav">
       {prevEp ? (
-        <a href={`/ep/${prevEp.paddedNum}/`} class="ep-nav-link ep-nav-prev">
+        <a href={lp(`/ep/${prevEp.paddedNum}/`, lang)} class="ep-nav-link ep-nav-prev">
           <span class="ep-nav-label">&larr; <span class="i18n-en">Previous</span><span class="i18n-zh">上一集</span></span>
           <span class="ep-nav-title">EP {prevEp.paddedNum}: {prevEp.title}</span>
         </a>
       ) : <span />}
       {nextEp ? (
-        <a href={`/ep/${nextEp.paddedNum}/`} class="ep-nav-link ep-nav-next">
+        <a href={lp(`/ep/${nextEp.paddedNum}/`, lang)} class="ep-nav-link ep-nav-next">
           <span class="ep-nav-label"><span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;</span>
           <span class="ep-nav-title">EP {nextEp.paddedNum}: {nextEp.title}</span>
         </a>
@@ -333,6 +363,7 @@ const segmentsForClient = segs.map(s => ({
     var epId = dataEl.getAttribute('data-ep');
     var epCv = dataEl.getAttribute('data-cv') || '';
     var nextEpNum = dataEl.getAttribute('data-next') || '';
+    var langPrefix = document.documentElement.getAttribute('data-force-lang') === 'zh' ? '/zh' : '';
     var practiceZhArr = JSON.parse(dataEl.getAttribute('data-pzh') || '[]');
     var segments = raw.map(function(r) {
       return { index: r.i, start: r.s, end: r.e, speaker: r.sp, text: r.t, ruby: r.r };
@@ -596,7 +627,7 @@ const segmentsForClient = segs.map(s => ({
       try { localStorage.setItem(storageKey, JSON.stringify({ time: 0, speed: audio.playbackRate, ver: epCv })); } catch(e) {}
       if (autoplayOn && nextEpNum) {
         ga('autoplay_next');
-        setTimeout(function() { location.href = '/ep/' + nextEpNum + '/?autoplay=1'; }, 600);
+        setTimeout(function() { location.href = langPrefix + '/ep/' + nextEpNum + '/?autoplay=1'; }, 600);
       }
     });
 
@@ -626,7 +657,7 @@ const segmentsForClient = segs.map(s => ({
           // Auto-play on: carry on with the next episode, still Japanese only
           if (autoplayOn && nextEpNum) {
             ga('autoplay_next', { mode: 'japanese' });
-            setTimeout(function() { location.href = '/ep/' + nextEpNum + '/?autoplay=1&mode=ja'; }, 600);
+            setTimeout(function() { location.href = langPrefix + '/ep/' + nextEpNum + '/?autoplay=1&mode=ja'; }, 600);
           }
         }
       }
