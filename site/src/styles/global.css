@@ -1846,3 +1846,90 @@ ruby rt {
   color: var(--text-muted);
   font-family: var(--font-body);
 }
+
+.footer-license {
+  margin: 0.9rem auto 0;
+  max-width: 40rem;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--text-light);
+  text-align: center;
+}
+.footer-license a { color: inherit; text-decoration: underline; }
+
+/* /zh/ pages: show/hide the Chinese line under each sentence */
+.hide-tr .segment-tr { display: none; }
+.mode-bar { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+.tr-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.85rem;
+  font: inherit;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 2rem;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+.tr-toggle:hover { color: var(--text); border-color: var(--text-light); }
+.tr-toggle-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  border: 1.5px solid currentColor;
+}
+.tr-toggle.on { color: var(--accent); border-color: var(--accent); }
+.tr-toggle.on .tr-toggle-dot { background: currentColor; }
+
+/* --- Playlist panel --- */
+.playlist-btn { display: inline-flex; align-items: center; gap: 0.3rem; }
+.playlist-btn svg { width: 0.95rem; height: 0.95rem; }
+.playlist {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: var(--player-h);
+  width: min(26rem, 100vw);
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+  border-left: 1px solid var(--border);
+  box-shadow: -8px 0 24px rgba(0, 0, 0, 0.12);
+}
+.playlist[hidden] { display: none; }
+.pl-head { display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.1rem 0.5rem; }
+.pl-title { font-family: var(--font-display); font-size: 1.15rem; }
+.pl-close { background: none; border: none; font-size: 1.6rem; line-height: 1; color: var(--text-muted); cursor: pointer; padding: 0 0.25rem; }
+.pl-close:hover { color: var(--text); }
+.pl-controls { display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0 1.1rem; }
+.pl-seg { display: inline-flex; gap: 2px; padding: 2px; border: 1px solid var(--border); border-radius: 2rem; }
+.pl-seg button {
+  font: inherit; font-size: 0.75rem; font-weight: 600; padding: 0.25rem 0.7rem;
+  border: none; border-radius: 2rem; background: transparent; color: var(--text-muted); cursor: pointer;
+}
+.pl-seg button.active { background: var(--accent); color: #fff; }
+.pl-note { margin: 0.5rem 1.1rem 0.4rem; font-size: 0.75rem; color: var(--text-light); }
+.pl-list { list-style: none; margin: 0; padding: 0 0.5rem 1rem; overflow-y: auto; flex: 1; }
+.pl-item {
+  display: grid; grid-template-columns: 2.6rem 1fr auto; gap: 0.6rem; align-items: center;
+  padding: 0.6rem 0.6rem; border-radius: var(--radius); color: var(--text); text-decoration: none;
+}
+.pl-item:hover { background: var(--bg-alt); }
+.pl-item.current { background: var(--accent-soft); }
+.pl-item.current .pl-num { color: var(--accent); }
+.pl-num { font-family: var(--font-display); font-style: italic; color: var(--text-light); }
+.pl-text { display: flex; flex-direction: column; min-width: 0; }
+.pl-ja { font-family: var(--font-jp); font-size: 0.9rem; line-height: 1.4; }
+.pl-tr { font-size: 0.78rem; color: var(--text-muted); line-height: 1.4; }
+.pl-meta { display: flex; align-items: center; gap: 0.35rem; font-size: 0.7rem; color: var(--text-light); white-space: nowrap; }
+.pl-done { color: var(--green); font-size: 0.85rem; }
+.pl-loading { padding: 1rem; color: var(--text-light); }
+@media (max-width: 640px) {
+  /* Phones: a sheet rising from the player */
+  .playlist { top: auto; left: 0; width: 100%; height: 70vh; border-left: none; border-top: 1px solid var(--border); border-radius: 1rem 1rem 0 0; box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.15); }
+}

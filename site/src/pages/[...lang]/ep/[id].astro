@@ -23,6 +23,8 @@ const pageDescription = lang === 'zh' ? episode.descriptionZh : episode.descript
 // Titles in the reader's language and the words learners search for
 // ("日语新闻听力", "easy Japanese news"); the Japanese headline stays the H1.
 const translatedTitle = lang === 'zh' ? episode.titleZh : episode.titleEn;
+// Translation shown under each Japanese sentence, in the page's language.
+const trLines = lang === 'zh' ? episode.zhLines : episode.enLines;
 const pageTitle = lang === 'zh'
   ? `${episode.titleZh || episode.title}｜日语新闻听力 第${epNo}集`
   : `${episode.titleEn || episode.title} | Easy Japanese News EP ${episode.paddedNum}`;
@@ -164,6 +166,12 @@ const segmentsForClient = segs.map(s => ({
         <button class="mode-btn" data-mode="japanese"><span class="i18n-en">Japanese only</span><span class="i18n-zh">纯日语</span></button>
         <button class="mode-btn" data-mode="practice"><span class="i18n-en">Practice</span><span class="i18n-zh">精听</span></button>
       </div>
+      {Object.keys(trLines).length > 2 && (
+        <button class="tr-toggle" id="tr-toggle" type="button"
+          title={lang === 'zh' ? '显示/隐藏每句下面的中文翻译' : 'Show/hide the English translation under each sentence'}>
+          <span class="tr-toggle-dot"></span>{lang === 'zh' ? '译文' : 'Translation'}
+        </button>
+      )}
     </div>
 
     <!-- Transcript -->
@@ -190,8 +198,8 @@ const segmentsForClient = segs.map(s => ({
               ? <div class="segment-text" set:html={seg.ruby} />
               : <div class="segment-text">{seg.text}</div>
             }
-            {lang === 'zh' && seg.speaker !== 'host' && episode.zhLines[seg.text.trim()] &&
-              <div class="segment-tr">{episode.zhLines[seg.text.trim()]}</div>}
+            {seg.speaker !== 'host' && trLines[seg.text.trim()] &&
+              <div class="segment-tr" lang={lang === 'zh' ? 'zh-CN' : 'en'}>{trLines[seg.text.trim()]}</div>}
           </div>
         </>
       ))}
@@ -372,11 +380,37 @@ const segmentsForClient = segs.map(s => ({
         <button class="speed-btn autoplay-btn" id="autoplayBtn" title="Auto-play next episode / 自动连播下一集">
           <span class="i18n-en">Auto &rsaquo;</span><span class="i18n-zh">连播 &rsaquo;</span>
         </button>
+        <button class="speed-btn playlist-btn" id="playlistBtn" type="button" aria-controls="playlist" aria-expanded="false"
+          title={lang === 'zh' ? '播放列表' : 'Episode list'}>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h13M3 12h13M3 18h9" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><path d="M19 14v6l4-3z" fill="currentColor"/></svg>
+          <span class="i18n-en">List</span><span class="i18n-zh">列表</span>
+        </button>
       </div>
     </div>
   </div>
 
-  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} data-num={episode.paddedNum} data-title={episode.title} data-level={episode.level} style="display:none"></div>
+  <!-- Playlist panel (filled from /episodes.json when opened) -->
+  <div class="playlist" id="playlist" role="dialog" aria-label={lang === 'zh' ? '播放列表' : 'Episode list'} hidden>
+    <div class="pl-head">
+      <strong class="pl-title"><span class="i18n-en">Episodes</span><span class="i18n-zh">播放列表</span></strong>
+      <button class="pl-close" id="plClose" type="button" aria-label="Close">&times;</button>
+    </div>
+    <div class="pl-controls">
+      <div class="pl-seg" id="plOrder" role="group">
+        <button type="button" data-order="asc"><span class="i18n-en">Oldest first</span><span class="i18n-zh">从旧到新</span></button>
+        <button type="button" data-order="desc"><span class="i18n-en">Newest first</span><span class="i18n-zh">从新到旧</span></button>
+      </div>
+      <div class="pl-seg" id="plLevel" role="group">
+        <button type="button" data-level="all"><span class="i18n-en">All</span><span class="i18n-zh">全部</span></button>
+        <button type="button" data-level="N5-N4">N5–N4</button>
+        <button type="button" data-level="N4-N3">N4–N3</button>
+      </div>
+    </div>
+    <p class="pl-note"><span class="i18n-en">Auto-play follows this order and level.</span><span class="i18n-zh">连播按这里的顺序和级别播放。</span></p>
+    <ol class="pl-list" id="plList"></ol>
+  </div>
+
+  <div id="seg-data" data-prev={prevEp ? prevEp.paddedNum : ''} data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} data-num={episode.paddedNum} data-title={episode.title} data-level={episode.level} style="display:none"></div>
 
   <script is:inline>
   document.addEventListener('DOMContentLoaded', function() {
@@ -567,7 +601,8 @@ const segmentsForClient = segs.map(s => ({
     // (the play itself is deferred to the end of setup, after the mode is set)
     var arrivedAutoplay = /[?&]autoplay=1/.test(location.search);
     var arrivedJaOnly = /[?&]mode=ja/.test(location.search);
-    if (arrivedAutoplay || arrivedJaOnly) {
+    var arrivedPlay = /[?&]play=1/.test(location.search);   // picked from the playlist while playing
+    if (arrivedAutoplay || arrivedJaOnly || arrivedPlay) {
       try { history.replaceState(null, '', location.pathname); } catch(e) {}
     }
 
@@ -647,9 +682,10 @@ const segmentsForClient = segs.map(s => ({
       if (!gaCompleted) { gaCompleted = true; ga('audio_complete'); }
       // Finished: reset saved position so a revisit starts from the top (keep speed)
       try { localStorage.setItem(storageKey, JSON.stringify({ time: 0, speed: audio.playbackRate, ver: epCv })); } catch(e) {}
-      if (autoplayOn && nextEpNum) {
+      var nextFull = nextEpisode();
+      if (autoplayOn && nextFull) {
         ga('autoplay_next');
-        setTimeout(function() { location.href = langPrefix + '/ep/' + nextEpNum + '/?autoplay=1'; }, 600);
+        setTimeout(function() { location.href = langPrefix + '/ep/' + nextFull + '/?autoplay=1'; }, 600);
       }
     });
 
@@ -677,9 +713,10 @@ const segmentsForClient = segs.map(s => ({
           audio.currentTime = rStart;
           ga('japanese_only_complete');
           // Auto-play on: carry on with the next episode, still Japanese only
-          if (autoplayOn && nextEpNum) {
+          var nextJa = nextEpisode();
+          if (autoplayOn && nextJa) {
             ga('autoplay_next', { mode: 'japanese' });
-            setTimeout(function() { location.href = langPrefix + '/ep/' + nextEpNum + '/?autoplay=1&mode=ja'; }, 600);
+            setTimeout(function() { location.href = langPrefix + '/ep/' + nextJa + '/?autoplay=1&mode=ja'; }, 600);
           }
         }
       }
@@ -918,9 +955,119 @@ const segmentsForClient = segs.map(s => ({
       var modeBtn = document.querySelector('.mode-btn[data-mode="' + startMode + '"]');
       if (modeBtn) { restoringMode = true; modeBtn.click(); restoringMode = false; }
     }
-    if (arrivedAutoplay && autoplayOn) {
+    if ((arrivedAutoplay && autoplayOn) || arrivedPlay) {
       if (rangeOn()) audio.currentTime = rStart;
       tryPlay();
+    }
+
+    // ===== Playlist (order + level are global preferences; auto-play follows them) =====
+    var epNum = dataEl.getAttribute('data-num');
+    var prevEpNum = dataEl.getAttribute('data-prev') || '';
+    var isZhPage = langPrefix === '/zh';
+    var plOrder = 'asc', plLevel = 'all';
+    try {
+      plOrder = localStorage.getItem('jdn-order') === 'desc' ? 'desc' : 'asc';
+      var lvPref = localStorage.getItem('jdn-pl-level');
+      plLevel = (lvPref === 'N5-N4' || lvPref === 'N4-N3') ? lvPref : 'all';
+    } catch(e) {}
+    var epList = null, epListP = null;
+    function loadList() {
+      if (!epListP) epListP = fetch('/episodes.json').then(function(r) { return r.json(); })
+        .then(function(l) { epList = l; return l; }).catch(function() { return null; });
+      return epListP;
+    }
+    function orderedList() {
+      var l = epList.filter(function(e) { return plLevel === 'all' || e.lv === plLevel; });
+      return plOrder === 'desc' ? l.slice().reverse() : l;
+    }
+    // The episode auto-play goes to: the next one in the listener's order and
+    // level; before the list has loaded, the neighbour in that direction.
+    function nextEpisode() {
+      if (epList) {
+        var l = orderedList(), cur = Number(epNum);
+        var i = l.findIndex(function(e) { return e.n === epNum; });
+        if (i >= 0) return l[i + 1] ? l[i + 1].n : '';
+        var after = l.filter(function(e) { return plOrder === 'asc' ? Number(e.n) > cur : Number(e.n) < cur; });
+        return after.length ? after[0].n : '';
+      }
+      return plOrder === 'desc' ? prevEpNum : nextEpNum;
+    }
+    if (autoplayOn) loadList();   // ready by the end of the episode
+
+    var plPanel = document.getElementById('playlist');
+    var plBtn = document.getElementById('playlistBtn');
+    var plListEl = document.getElementById('plList');
+    function syncSeg(id, attr, val) {
+      document.querySelectorAll('#' + id + ' button').forEach(function(b) {
+        var on = b.getAttribute(attr) === val;
+        b.classList.toggle('active', on);
+        b.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+    }
+    function esc(t) { return String(t).replace(/[&<>"]/g, function(c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+    function renderList() {
+      syncSeg('plOrder', 'data-order', plOrder);
+      syncSeg('plLevel', 'data-level', plLevel);
+      if (!epList) { plListEl.innerHTML = '<li class="pl-loading">…</li>'; return; }
+      var prog = {};
+      try { prog = JSON.parse(localStorage.getItem('jdn-progress') || '{}'); } catch(e) {}
+      plListEl.innerHTML = orderedList().map(function(e) {
+        var cur = e.n === epNum, done = prog['ep' + e.n] && prog['ep' + e.n].listened;
+        var tr = isZhPage ? e.zh : e.en;
+        return '<li><a class="pl-item' + (cur ? ' current' : '') + '"' + (cur ? ' aria-current="true"' : '') +
+          ' href="' + langPrefix + '/ep/' + e.n + '/" data-n="' + e.n + '">' +
+          '<span class="pl-num">' + e.n + '</span><span class="pl-text"><span class="pl-ja" lang="ja">' + esc(e.t) + '</span>' +
+          (tr ? '<span class="pl-tr">' + esc(tr) + '</span>' : '') + '</span>' +
+          '<span class="pl-meta">' + (done ? '<span class="pl-done" title="listened">&#10003;</span>' : '') + '<span class="pl-lv">' + esc(e.lv) + '</span></span></a></li>';
+      }).join('');
+      var c = plListEl.querySelector('.current');
+      if (c) c.scrollIntoView({ block: 'center' });
+    }
+    function openList(open) {
+      plPanel.hidden = !open;
+      plBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      plBtn.classList.toggle('active', open);
+      if (open) { renderList(); loadList().then(renderList); ga('playlist_open'); }
+    }
+    plBtn.addEventListener('click', function() { openList(plPanel.hidden); });
+    document.getElementById('plClose').addEventListener('click', function() { openList(false); });
+    document.addEventListener('keydown', function(e) { if (e.key === 'Escape' && !plPanel.hidden) openList(false); });
+    document.getElementById('plOrder').addEventListener('click', function(e) {
+      var b = e.target.closest('button'); if (!b) return;
+      plOrder = b.getAttribute('data-order');
+      try { localStorage.setItem('jdn-order', plOrder); } catch(e2) {}
+      ga('playlist_order', { order: plOrder });
+      renderList();
+    });
+    document.getElementById('plLevel').addEventListener('click', function(e) {
+      var b = e.target.closest('button'); if (!b) return;
+      plLevel = b.getAttribute('data-level');
+      try { localStorage.setItem('jdn-pl-level', plLevel); } catch(e2) {}
+      ga('playlist_level', { level: plLevel });
+      renderList();
+    });
+    // Picking an episode while listening keeps playing there.
+    plListEl.addEventListener('click', function(e) {
+      var a = e.target.closest('a.pl-item'); if (!a) return;
+      ga('playlist_pick', { to: 'ep' + a.getAttribute('data-n') });
+      if (!audio.paused) { e.preventDefault(); location.href = a.getAttribute('href') + '?play=1'; }
+    });
+
+    // ===== Chinese translation lines on/off (global preference) =====
+    var trToggle = document.getElementById('tr-toggle');
+    if (trToggle) {
+      var syncTr = function() {
+        var shown = !document.documentElement.classList.contains('hide-tr');
+        trToggle.classList.toggle('on', shown);
+        trToggle.setAttribute('aria-pressed', shown ? 'true' : 'false');
+      };
+      syncTr();
+      trToggle.addEventListener('click', function() {
+        var hide = document.documentElement.classList.toggle('hide-tr');
+        try { localStorage.setItem('jdn-tr', hide ? '0' : '1'); } catch(e) {}
+        syncTr();
+        ga('translation_toggle', { shown: hide ? 0 : 1 });
+      });
     }
 
     // ===== Review toggle =====
