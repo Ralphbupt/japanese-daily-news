@@ -993,20 +993,24 @@ body {
 
 .mode-toggle {
   display: inline-flex;
+  gap: 2px;
+  padding: 3px;
   border: 1px solid var(--border);
   border-radius: 2rem;
-  overflow: hidden;
 }
 
+/* Each button is a pill of its own, so the active one is rounded wherever it
+   sits (the middle one used to show square corners). */
 .mode-btn {
-  padding: 0.375rem 1.125rem;
+  padding: 0.3rem 1rem;
   font-size: 0.8125rem;
   font-weight: 600;
   background: transparent;
   color: var(--text-muted);
   border: none;
+  border-radius: 2rem;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: background-color 0.2s, color 0.2s;
 }
 
 .mode-btn.active {

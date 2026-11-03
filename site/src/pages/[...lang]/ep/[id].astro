@@ -197,6 +197,21 @@ const segmentsForClient = segs.map(s => ({
       ))}
     </div>
 
+    {/* Apply the saved Japanese-only mode before the first paint (the main
+        script below runs later; without this the page showed the full text
+        and then jumped). The main script still does the rest on load. */}
+    <script is:inline>
+      (function(){
+        var ja = /[?&]mode=ja/.test(location.search);
+        try { ja = ja || localStorage.getItem('jdn-mode') === 'japanese'; } catch(e) {}
+        if (!ja) return;
+        document.getElementById('transcript').classList.add('ja-only');
+        document.querySelectorAll('.mode-btn').forEach(function(b) {
+          b.classList.toggle('active', b.getAttribute('data-mode') === 'japanese');
+        });
+      })();
+    </script>
+
     <!-- Practice mode -->
     <div class="practice-view" id="practice-view">
       <div class="practice-card">
@@ -295,6 +310,13 @@ const segmentsForClient = segs.map(s => ({
         </div>
       </section>
     )}
+
+    <script is:inline>
+      (function(){
+        var c = document.getElementById('review-content'), b = document.getElementById('review-toggle');
+        try { if (c && b && localStorage.getItem('jdn-review-open') === '1') { c.style.display = ''; b.classList.add('open'); } } catch(e) {}
+      })();
+    </script>
 
     <!-- Prev / Next -->
     <nav class="ep-nav">
