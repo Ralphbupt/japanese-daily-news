@@ -91,7 +91,7 @@ Astro 5 static site. Key files:
 - `src/pages/sitemap.xml.ts` — sitemap
 - `src/layouts/Layout.astro` — base layout with GA4, theme/lang toggle
 
-Features: synced transcript, furigana, vocab click tooltips, practice mode (精听), playback speed control, dark mode, EN/中文 toggle, font size toggle (S/M/L), localStorage progress tracking, collapsible vocab/grammar section, keyboard shortcuts.
+Features: synced transcript, furigana, vocab click tooltips, Japanese-only mode (纯日语: just the first news reading, auto-play continues in it), practice mode (精听), lock-screen title = current sentence (Media Session), playback speed control, dark mode, EN/中文 toggle, font size toggle (S/M/L), localStorage progress tracking (global preferences: theme, language, font size, speed `jdn-speed`, mode `jdn-mode` (full text / Japanese only — practice is never saved), vocab/grammar section open `jdn-review-open`, auto-play; per episode: position `jdn-epNNN`, listened/practiced), collapsible vocab/grammar section, keyboard shortcuts.
 
 ## Versioning
 
@@ -126,8 +126,8 @@ Cache invalidation is **per-episode**, via the `contentVersion` field (format `Y
 - Difficulty levels: `N5-N4` (beginner) or `N4-N3` (intermediate) in `level` field
 - Scripts self-contained — each JSON includes all voice/rate config
 - Companion site: `jpnotes.dev`. Each grammar point is linked to its jpnotes lesson section at build time (`site/src/lib/jpnotes.ts`, matching the pattern against `site/src/data/jpnotes-index.json`; unmatched → that level's `/N?_grammar_list/`). The links appear on grammar cards and in the RSS show notes ("Grammar in this episode"), tagged `utm_source=podcast&utm_medium=web|rss`. Refresh the index with `tools/update-jpnotes-index.sh` after jpnotes lessons change. The old per-script `jpnotesLink` field is unused (its URLs 404) — don't write it in new scripts.
-- Fonts: Fraunces (display), Noto Sans JP (JP), Outfit (body)
-- Light mode: warm yellow paper (#F3EDDA); Dark mode: #1A1A1E
+- Fonts: Fraunces (display), Outfit (body, PingFang SC for Chinese); Japanese uses system fonts first — Mincho (Hiragino Mincho / Yu Mincho, Noto Serif JP fallback) for transcript/practice/examples, Gothic (Hiragino Kaku Gothic, Noto Sans JP fallback) for titles and UI; furigana stays Gothic
+- Palette and fonts follow jpnotes.dev: light "paper" #f6f4ef with deep red accent #b8283f; dark #14141e with accent #e94560 (tokens at the top of `site/src/styles/global.css`). Japanese being studied is set in Mincho, UI in Gothic.
 - Apple Podcasts: https://podcasts.apple.com/podcast/id1896815841
 - Spotify: https://open.spotify.com/show/033nVZrL6xnSJDxcXc9PMQ
 - YouTube: https://www.youtube.com/playlist?list=PLFPcxHB9z1CRXO7aEgo5qE_jP_E3cXwKb

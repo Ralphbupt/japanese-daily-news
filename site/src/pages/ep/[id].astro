@@ -356,6 +356,7 @@ const segmentsForClient = segs.map(s => ({
 
     // ===== Japanese-only range (first full reading of the news) =====
     var jaOnly = false;
+    var restoringMode = false;   // true while re-applying the saved mode on load (no GA)
     var pureSegs = segments.filter(function(s, i) {
       return segmentEls[i] && segmentEls[i].classList.contains('seg-pure');
     });
@@ -775,6 +776,10 @@ const segmentsForClient = segs.map(s => ({
         for (var j = 0; j < modeBtns.length; j++) modeBtns[j].classList.remove('active');
         this.classList.add('active');
         var mode = this.getAttribute('data-mode');
+        // Full text / Japanese only is a listening preference, kept for every
+        // episode (like speed). Practice is a task on this one episode, so it
+        // doesn't overwrite the preference.
+        if (mode !== 'practice') { try { localStorage.setItem('jdn-mode', mode); } catch(e) {} }
         setJaOnly(mode === 'japanese');
         if (mode === 'practice') {
           practiceMode = true;
@@ -782,7 +787,7 @@ const segmentsForClient = segs.map(s => ({
           if (reviewSection) reviewSection.style.display = 'none';
           pracView.classList.add('visible');
           showPractice(practiceIdx);
-          ga('practice_mode_on');
+          if (!restoringMode) ga('practice_mode_on');
         } else {
           practiceMode = false;
           autoPauseAt = -1;
@@ -798,7 +803,7 @@ const segmentsForClient = segs.map(s => ({
       jaOnly = on;
       transcript.classList.toggle('ja-only', on);
       if (rangeOn() && (audio.currentTime < rStart || audio.currentTime >= rEnd)) audio.currentTime = rStart;
-      if (on) ga('japanese_only_on');
+      if (on && !restoringMode) ga('japanese_only_on');
       if (audio.duration) {
         totalTimeEl.textContent = fmt(viewDur());
         currentTimeEl.textContent = fmt(viewPos());
@@ -853,9 +858,12 @@ const segmentsForClient = segs.map(s => ({
     });
 
     // ===== Arrived via auto-play =====
-    if (arrivedJaOnly) {
-      var jaBtn = document.querySelector('.mode-btn[data-mode="japanese"]');
-      if (jaBtn) jaBtn.click();
+    // ===== Start in the listener's mode =====
+    var startMode = arrivedJaOnly ? 'japanese' : null;
+    if (!startMode) { try { startMode = localStorage.getItem('jdn-mode'); } catch(e) {} }
+    if (startMode === 'japanese') {
+      var modeBtn = document.querySelector('.mode-btn[data-mode="' + startMode + '"]');
+      if (modeBtn) { restoringMode = true; modeBtn.click(); restoringMode = false; }
     }
     if (arrivedAutoplay && autoplayOn) {
       if (rangeOn()) audio.currentTime = rStart;
@@ -870,8 +878,16 @@ const segmentsForClient = segs.map(s => ({
         var open = reviewContent.style.display !== 'none';
         reviewContent.style.display = open ? 'none' : '';
         reviewToggle.classList.toggle('open', !open);
+        // Open/closed is a reading preference: keep it for every episode.
+        try { localStorage.setItem('jdn-review-open', open ? '0' : '1'); } catch(e) {}
         if (!open) ga('grammar_expand');
       });
+      var reviewPref = null;
+      try { reviewPref = localStorage.getItem('jdn-review-open'); } catch(e) {}
+      if (reviewPref === '1' && reviewContent.style.display === 'none') {
+        reviewContent.style.display = '';
+        reviewToggle.classList.add('open');
+      }
     }
 
     // ===== Episode nav (prev/next) =====

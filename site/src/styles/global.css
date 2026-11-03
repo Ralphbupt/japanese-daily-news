@@ -22,21 +22,23 @@ button { font-family: inherit; }
 
 /* --- Custom Properties --- */
 :root {
-  --bg: #F3EDDA;
-  --bg-alt: #EAE3CE;
-  --bg-warm: #E0D9C4;
+  /* Palette from jpnotes.dev: "paper" off-white (~91% luminance) and a deep
+     red that passes 4.5:1 as text on every light surface. */
+  --bg: #f6f4ef;
+  --bg-alt: #efece5;
+  --bg-warm: #e8e3d7;
   --bg-dark: #1C1C1E;
-  --text: #2C2C2C;
-  --text-muted: #6B6560;
-  --text-light: #9B9590;
-  --text-inverse: #FAF9F5;
-  --accent: #C23B22;
-  --accent-hover: #A83219;
-  --accent-soft: #F5E6D0;
+  --text: #2b2a27;
+  --text-muted: #605c55;
+  --text-light: #7a7a7a;
+  --text-inverse: #fbfaf7;
+  --accent: #b8283f;
+  --accent-hover: #9e2236;
+  --accent-soft: #f4dfde;
   --green: #4A7C6F;
   --green-soft: #E5EEDF;
-  --border: #D8D0BA;
-  --border-light: #E0D9C8;
+  --border: #e3dfd5;
+  --border-light: #ebe8e0;
 
   --font-display: 'Fraunces', serif;
   /* Same approach as jpnotes.dev: system Japanese fonts first (nothing to
@@ -55,21 +57,21 @@ button { font-family: inherit; }
 }
 
 [data-theme="dark"] {
-    --bg: #1A1A1E;
-    --bg-alt: #242428;
-    --bg-warm: #2A2A2E;
-    --bg-dark: #111113;
-    --text: #E8E6E1;
-    --text-muted: #A09A93;
-    --text-light: #706B65;
-    --text-inverse: #1A1A1E;
-    --accent: #E05A45;
-    --accent-hover: #F06B55;
-    --accent-soft: #2D1F1C;
+    --bg: #14141e;
+    --bg-alt: #1f1f2e;
+    --bg-warm: #25253a;
+    --bg-dark: #0a0a14;
+    --text: #d4d4dc;
+    --text-muted: #a8a8b8;
+    --text-light: #888888;
+    --text-inverse: #14141e;
+    --accent: #e94560;
+    --accent-hover: #ff7088;
+    --accent-soft: #2e1a26;
     --green: #6BAF9E;
     --green-soft: #1C2926;
-    --border: #3A3A3E;
-    --border-light: #2E2E32;
+    --border: #2d2d44;
+    --border-light: #25253a;
 }
 
 /* Theme toggle button */
@@ -208,7 +210,7 @@ body {
 .btn-primary:hover {
   background: var(--accent-hover);
   transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(194, 59, 34, 0.25);
+  box-shadow: 0 6px 16px rgba(184, 40, 63, 0.25);
 }
 
 .btn-secondary {
@@ -1543,7 +1545,7 @@ ruby rt {
   height: 12px;
   border-radius: 50%;
   background: var(--accent);
-  box-shadow: 0 0 8px rgba(194, 59, 34, 0.5);
+  box-shadow: 0 0 8px rgba(184, 40, 63, 0.5);
   transition: transform 0.15s;
 }
 
