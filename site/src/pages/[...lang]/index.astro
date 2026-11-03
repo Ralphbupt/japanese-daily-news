@@ -231,12 +231,16 @@ const websiteJsonLd = {
       if (state.level !== 'N5-N4' && state.level !== 'N4-N3') state.level = 'all';
 
       function syncUrl() {
-        var p = new URLSearchParams();
+        // Keep params we don't manage (utm_* from jpnotes.dev links etc.): GA
+        // starts a few seconds after load and reads them from the URL.
+        var p = new URLSearchParams(location.search);
+        ['level', 'q', 'page'].forEach(function(k) { p.delete(k); });
         if (state.level !== 'all') p.set('level', state.level);
         if (state.q) p.set('q', state.q);
         if (state.page > 1) p.set('page', String(state.page));
         var qs = p.toString();
-        var url = location.pathname + (qs ? '?' + qs : '') + (qs ? '#episodes' : '');
+        var filtered = state.level !== 'all' || state.q || state.page > 1;
+        var url = location.pathname + (qs ? '?' + qs : '') + (filtered ? '#episodes' : '');
         history.replaceState(null, '', url);
       }
 
