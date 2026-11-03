@@ -481,12 +481,17 @@ const segmentsForClient = segs.map(s => ({
           audio.currentTime = saved.time;
           currentTimeEl.textContent = fmt(saved.time);
         }
-        if (saved.speed && saved.speed !== 1) {
-          audio.playbackRate = saved.speed;
-          var btns = speedControls.querySelectorAll('.speed-btn');
-          for (var k = 0; k < btns.length; k++) {
-            btns[k].classList.toggle('active', parseFloat(btns[k].getAttribute('data-speed')) === saved.speed);
-          }
+      }
+      // Speed is the listener's preference, not per episode: the last speed
+      // chosen anywhere (jdn-speed) wins, so auto-play keeps it on the next
+      // episode. Older per-episode saves are the fallback.
+      var prefSpeed = parseFloat(localStorage.getItem('jdn-speed') || '') || (saved && saved.speed) || 1;
+      if (prefSpeed !== 1) {
+        audio.defaultPlaybackRate = prefSpeed;   // Safari resets playbackRate to this on load
+        audio.playbackRate = prefSpeed;
+        var btns = speedControls.querySelectorAll('.speed-btn');
+        for (var k = 0; k < btns.length; k++) {
+          btns[k].classList.toggle('active', parseFloat(btns[k].getAttribute('data-speed')) === prefSpeed);
         }
       }
     } catch(e) {}
@@ -698,11 +703,15 @@ const segmentsForClient = segs.map(s => ({
       var btn = e.target.closest('.speed-btn');
       if (!btn) return;
       var speed = parseFloat(btn.getAttribute('data-speed'));
+      audio.defaultPlaybackRate = speed;
       audio.playbackRate = speed;
       var btns = speedControls.querySelectorAll('.speed-btn');
       for (var k = 0; k < btns.length; k++) btns[k].classList.remove('active');
       btn.classList.add('active');
-      try { localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed, ver: epCv })); } catch(e) {}
+      try {
+        localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed, ver: epCv }));
+        localStorage.setItem('jdn-speed', String(speed));
+      } catch(e) {}
       ga('audio_speed_change', { speed: speed });
     });
 
