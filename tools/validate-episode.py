@@ -111,6 +111,9 @@ def validate(ep_path, errs):
         # "zh" field, or from practiceZh when the breakdown covers the sentence.
         if sp == "news" and not s.get("zh") and text.strip() not in zh_covered:
             add(errs, name, f"segments[{i}] news sentence has no Chinese translation — add a 'zh' field: {text[:30]!r}")
+        # English pages show an English line under every news sentence.
+        if sp == "news" and not s.get("en") and text.strip() not in ("今日のニュースです。", "また明日。"):
+            add(errs, name, f"segments[{i}] news sentence has no English translation — add an 'en' field: {text[:30]!r}")
 
     vocab = d.get("vocabulary", [])
     if not isinstance(vocab, list):

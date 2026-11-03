@@ -70,7 +70,7 @@ Steps:
    names get a "tts" kana field) and do the "Self-check" (level, natural
    Japanese, every quiz answer clearly stated in the news) before step 4.
    Include titleZh and titleEn (the headline in Chinese / English — see
-   CLAUDE.md), a "zh" Chinese translation on every news segment, vocabulary
+   CLAUDE.md), "zh" (Chinese) and "en" (English) translations on every news segment, vocabulary
    (with zh), grammar (with meaningZh/noteZh), practiceZh, level="$LEVELFIELD". The "date" field MUST
    be exactly "$TODAY_BJ" (today's Beijing date — do NOT use your own notion of
    today), and contentVersion MUST be exactly "$VER_BJ".

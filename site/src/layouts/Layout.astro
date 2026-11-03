@@ -52,6 +52,7 @@ const ogImageUrl = new URL(ogImage, SITE).href;
         var sl=localStorage.getItem('jdn-lang');   // 404: one page, switched in place
         if(sl) h.setAttribute('data-lang',sl);
       }
+      if(localStorage.getItem('jdn-tr')==='0'){document.documentElement.classList.add('hide-tr')}   // Chinese lines under sentences hidden
       var fs=localStorage.getItem('jdn-fontsize')||'medium';
       document.documentElement.setAttribute('data-fontsize',fs);
       // Cache invalidation is now per-episode (see contentVersion in scripts/epNNN.json

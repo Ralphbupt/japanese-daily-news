@@ -19,6 +19,8 @@ export interface Segment {
   /** Chinese translation of a news sentence (shown on /zh/ pages). Sentences
    *  the breakdown covers also get one from practiceZh. */
   zh?: string;
+  /** English translation of a news sentence (shown on English pages). */
+  en?: string;
   /** What the TTS voice is given, when it differs from text (misreadings). */
   tts?: string;
 }
@@ -88,6 +90,8 @@ export interface ProcessedEpisode extends RawEpisode {
   /** Japanese sentence → its Chinese translation (from practiceZh), shown
    *  under the transcript on /zh/ pages. */
   zhLines: Record<string, string>;
+  /** Japanese sentence → its English translation (segment en fields). */
+  enLines: Record<string, string>;
   hasTimingData: boolean;
 }
 
@@ -148,6 +152,19 @@ function buildZhLines(raw: RawEpisode): Record<string, string> {
   for (const entry of raw.practiceZh ?? []) {
     const [ja, zh] = entry.split('\n');
     if (ja && zh && !(ja.trim() in out && !(ja.trim() in FIXED_ZH))) out[ja.trim()] = zh.trim();
+  }
+  return out;
+}
+
+const FIXED_EN: Record<string, string> = {
+  '今日のニュースです。': "Here's today's news.",
+  'また明日。': 'See you tomorrow.',
+};
+
+function buildEnLines(raw: RawEpisode): Record<string, string> {
+  const out: Record<string, string> = { ...FIXED_EN };
+  for (const seg of raw.segments) {
+    if (seg.en) out[seg.text.trim()] = seg.en.trim();
   }
   return out;
 }
@@ -219,6 +236,7 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
     description,
     descriptionZh: buildDescriptionZh(raw),
     zhLines: buildZhLines(raw),
+    enLines: buildEnLines(raw),
     hasTimingData,
   };
 }

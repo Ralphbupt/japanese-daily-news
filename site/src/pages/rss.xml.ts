@@ -73,6 +73,7 @@ export const GET: APIRoute = async () => {
     <link>${SITE}</link>
     <description>Learn Japanese through real news stories. Daily episodes with native audio, vocabulary breakdown, and grammar review.</description>
     <language>ja</language>
+    <copyright>© 2026 Japanese Daily News (podcast.jpnotes.dev). CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/</copyright>
     <atom:link href="${SITE}/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Japanese Daily News</itunes:author>
     <itunes:owner>
