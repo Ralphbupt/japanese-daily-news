@@ -324,7 +324,7 @@ const segmentsForClient = segs.map(s => ({
     </div>
   </div>
 
-  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} style="display:none"></div>
+  <div id="seg-data" data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} data-num={episode.paddedNum} data-title={episode.title} data-level={episode.level} style="display:none"></div>
 
   <script is:inline>
   document.addEventListener('DOMContentLoaded', function() {
@@ -362,6 +362,23 @@ const segmentsForClient = segs.map(s => ({
     var rStart = pureSegs.length ? pureSegs[0].start : 0;
     var rEnd = pureSegs.length ? pureSegs[pureSegs.length - 1].end : 0;
     function rangeOn() { return jaOnly && rEnd > rStart; }
+
+    // ===== Lock screen / notification: the current sentence as the title =====
+    var msArtist = 'Japanese Daily News · EP ' + (dataEl.getAttribute('data-num') || '');
+    var msAlbum = dataEl.getAttribute('data-title') || '';
+    var msArt = [{ src: '/cover.jpg', sizes: '3000x3000', type: 'image/jpeg' }];
+    var msLast = null;
+    function setNowPlaying(title) {
+      if (!('mediaSession' in navigator) || typeof MediaMetadata === 'undefined') return;
+      if (title === msLast) return;
+      msLast = title;
+      try {
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title: title, artist: msArtist, album: msAlbum, artwork: msArt
+        });
+      } catch(e) {}
+    }
+    setNowPlaying(msAlbum);
     function viewDur() { return rangeOn() ? rEnd - rStart : audio.duration; }
     function viewPos() { return rangeOn() ? Math.max(0, audio.currentTime - rStart) : audio.currentTime; }
     var autoPauseAt = -1;
@@ -373,12 +390,70 @@ const segmentsForClient = segs.map(s => ({
     var gaCompleted = false;
     var gaMilestones = { 25: false, 50: false, 75: false };
     var gaSeekTimer = null;
+    var epLevel = dataEl.getAttribute('data-level') || '';
     function ga(name, params) {
       if (!window.jdnEvent) return;
       params = params || {};
       params.episode_id = epId;
+      if (epLevel) params.level = epLevel;   // N5-N4 (morning) / N4-N3 (evening)
       window.jdnEvent(name, params);
     }
+
+    // ===== Listening analytics =====
+    // Sections of the fixed episode structure, so drop-off can be read per part
+    // (audio_section: breakdown / replay / quiz / end) instead of by percent.
+    var sectionStarts = (function() {
+      var out = [], firstSlow = -1, quiz = -1;
+      for (var i = 0; i < segments.length; i++) {
+        var sp = segments[i].speaker;
+        if (firstSlow < 0 && sp === 'slow') firstSlow = i;
+        if (quiz < 0 && sp === 'host' && /quiz/i.test(segments[i].text)) quiz = i;
+      }
+      if (firstSlow >= 0) {
+        out.push({ name: 'breakdown', t: segments[firstSlow].start });
+        for (var j = firstSlow; j < segments.length; j++) {
+          if (segments[j].speaker === 'news') { out.push({ name: 'replay', t: segments[j].start }); break; }
+        }
+      }
+      if (quiz >= 0) out.push({ name: 'quiz', t: segments[quiz].start });
+      if (segments.length) out.push({ name: 'end', t: segments[segments.length - 1].start });
+      return out;
+    })();
+    var sectionSeen = {};
+    var lastT = null;          // last timeupdate position, to tell playing from seeking
+    var listenSec = 0;         // seconds actually played since the last report
+    var bgSent = false;
+    function trackListening() {
+      var t = audio.currentTime;
+      if (lastT !== null && !audio.paused) {
+        var d = t - lastT;
+        if (d > 0 && d < 2) {   // continuous playback, not a seek
+          listenSec += d / (audio.playbackRate || 1);   // wall-clock seconds
+          if (!jaOnly) {
+            for (var k = 0; k < sectionStarts.length; k++) {
+              var sec = sectionStarts[k];
+              if (!sectionSeen[sec.name] && lastT < sec.t && t >= sec.t) {
+                sectionSeen[sec.name] = true;
+                ga('audio_section', { section: sec.name });
+              }
+            }
+          }
+          if (document.hidden && !bgSent) { bgSent = true; ga('background_listen'); }
+        }
+      }
+      lastT = t;
+    }
+    function reportListenTime() {
+      if (listenSec >= 1) {
+        ga('audio_listen_time', { seconds: Math.round(listenSec), mode: jaOnly ? 'japanese' : (practiceMode ? 'practice' : 'fulltext') });
+        listenSec = 0;
+      }
+    }
+    document.addEventListener('visibilitychange', function() {
+      if (document.hidden && !audio.paused && !bgSent) { bgSent = true; ga('background_listen'); }
+      if (document.hidden) reportListenTime();
+    });
+    window.addEventListener('pagehide', reportListenTime);
 
     function getProgress() {
       try { return JSON.parse(localStorage.getItem(progressKey)) || {}; } catch(e) { return {}; }
@@ -541,6 +616,7 @@ const segmentsForClient = segs.map(s => ({
         else if (audio.currentTime >= rEnd) {
           audio.pause();
           audio.currentTime = rStart;
+          ga('japanese_only_complete');
           // Auto-play on: carry on with the next episode, still Japanese only
           if (autoplayOn && nextEpNum) {
             ga('autoplay_next', { mode: 'japanese' });
@@ -562,6 +638,7 @@ const segmentsForClient = segs.map(s => ({
       }
 
       if (!practiceMode) updateActiveSegment();
+      trackListening();
 
       // Mark as listened when past 80%
       if (audio.duration && audio.currentTime / audio.duration > 0.8) {
@@ -637,6 +714,7 @@ const segmentsForClient = segs.map(s => ({
         if (t >= segments[k].start && t < segments[k].end) { newActive = k; break; }
       }
       if (newActive !== activeIndex) {
+        if (newActive >= 0) setNowPlaying(segments[newActive].text);
         for (var k = 0; k < segmentEls.length; k++) segmentEls[k].classList.remove('active');
         if (newActive >= 0 && segmentEls[newActive]) {
           segmentEls[newActive].classList.add('active');
@@ -730,6 +808,7 @@ const segmentsForClient = segs.map(s => ({
         pracText.textContent = pair.text;
       }
       pracCur.textContent = idx + 1;
+      setNowPlaying(pair.text);
       var lang = document.documentElement.getAttribute('data-lang') || 'en';
       pracExplanation.textContent = (lang === 'zh' && pair.explanationZh) ? pair.explanationZh : pair.explanation;
       pracExplanation.classList.remove('open');
