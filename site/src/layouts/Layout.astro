@@ -1,36 +1,57 @@
 ---
 import '../styles/global.css';
+import { altPaths, HTML_LANG, HREFLANG, OG_LOCALE, type Lang } from '../lib/i18n';
 
 interface Props {
+  lang?: Lang;
   title?: string;
+  /** Full <title> as is (no " — Japanese Daily News" appended). */
+  fullTitle?: string;
   description?: string;
   ogImage?: string;
-  jsonLd?: Record<string, any>;
+  jsonLd?: Record<string, any> | Record<string, any>[];
 }
 
 const SITE = 'https://podcast.jpnotes.dev';
 
 const {
+  lang = 'en',
   title = 'Japanese Daily News',
   description = 'Learn Japanese through real news stories. Daily podcast with vocabulary, grammar, and native audio.',
   ogImage = '/og.jpg', // 1200×630 for link previews; cover.jpg (3000×3000) stays the podcast artwork in the RSS feed
   jsonLd,
+  fullTitle: fullTitleProp,
 } = Astro.props;
 
-const fullTitle = title === 'Japanese Daily News' ? title : `${title} — Japanese Daily News`;
+const fullTitle = fullTitleProp || (title === 'Japanese Daily News' ? title : `${title} — Japanese Daily News`);
 const ogUrl = new URL(Astro.url.pathname, SITE).href;
+// The two language copies of this page (404 has none: it isn't per language).
+const isPerLang = !Astro.url.pathname.startsWith('/404');
+const alts = altPaths(Astro.url.pathname);
 const ogImageUrl = new URL(ogImage, SITE).href;
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang={HTML_LANG[lang]} data-lang={lang} data-force-lang={isPerLang ? lang : undefined} data-alt-en={isPerLang ? alts.en : undefined} data-alt-zh={isPerLang ? alts.zh : undefined}>
 <head>
   <script is:inline>
     (function(){
       var t=localStorage.getItem('theme');
       if(t==='warm'){document.documentElement.setAttribute('data-theme','warm')}
       else if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.setAttribute('data-theme','dark')}
-      var l=localStorage.getItem('jdn-lang')||((navigator.language||'').startsWith('zh')?'zh':'en');
-      document.documentElement.setAttribute('data-lang',l);
+      // One page per language (/ and /zh/). A reader whose language is the other
+      // one goes there before anything paints: a saved choice (jdn-lang), or —
+      // only on the English home page — a zh browser with none saved, so a /zh/
+      // or /ep/ link someone shares always opens in its own language.
+      var h=document.documentElement, page=h.getAttribute('data-force-lang');
+      if(page){
+        var saved=localStorage.getItem('jdn-lang');
+        var want=saved||((page==='en'&&location.pathname==='/'&&/^zh/i.test(navigator.language||''))?'zh':page);
+        var alt=want!==page&&h.getAttribute('data-alt-'+want);
+        if(alt){location.replace(alt+location.search+location.hash);}
+      } else {
+        var sl=localStorage.getItem('jdn-lang');   // 404: one page, switched in place
+        if(sl) h.setAttribute('data-lang',sl);
+      }
       var fs=localStorage.getItem('jdn-fontsize')||'medium';
       document.documentElement.setAttribute('data-fontsize',fs);
       // Cache invalidation is now per-episode (see contentVersion in scripts/epNNN.json
@@ -39,6 +60,9 @@ const ogImageUrl = new URL(ogImage, SITE).href;
     })();
   </script>
   <meta charset="UTF-8" />
+  {/* Bing mostly ignores hreflang and goes by the declared language (jpnotes.dev learned
+      this: Chinese queries landed on English pages) — so every page states it. */}
+  <meta http-equiv="Content-Language" content={HTML_LANG[lang]} />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="msvalidate.01" content="3D857E5EE3498FB5F8F63EEA5B69AFE1" />
   <meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)" />
@@ -51,14 +75,16 @@ const ogImageUrl = new URL(ogImage, SITE).href;
   <meta property="og:image" content={ogImageUrl} />
   <meta property="og:url" content={ogUrl} />
   <meta property="og:site_name" content="Japanese Daily News" />
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:locale:alternate" content="zh_CN" />
-  <meta property="og:locale:alternate" content="en_US" />
+  <meta property="og:locale" content={OG_LOCALE[lang]} />
+  <meta property="og:locale:alternate" content={OG_LOCALE[lang === 'zh' ? 'en' : 'zh']} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={fullTitle} />
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImageUrl} />
   <link rel="canonical" href={ogUrl} />
+  {isPerLang && <link rel="alternate" hreflang={HREFLANG.en} href={new URL(alts.en, SITE).href} />}
+  {isPerLang && <link rel="alternate" hreflang={HREFLANG.zh} href={new URL(alts.zh, SITE).href} />}
+  {isPerLang && <link rel="alternate" hreflang="x-default" href={new URL(alts.en, SITE).href} />}
   {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   <link rel="alternate" type="application/rss+xml" title="Japanese Daily News" href="/rss.xml" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -131,11 +157,20 @@ const ogImageUrl = new URL(ogImage, SITE).href;
         var b = e.target.closest('.lang-btn');
         if (!b) return;
         var l = b.getAttribute('data-lang');
-        document.documentElement.setAttribute('data-lang', l);
         localStorage.setItem('jdn-lang', l);
-        window.dispatchEvent(new Event('langchange'));
-        lt.querySelectorAll('.lang-btn').forEach(function(x) { x.classList.toggle('active', x.getAttribute('data-lang') === l); });
         if (window.jdnEvent) window.jdnEvent('language_toggle', { lang: l });
+        var alt = document.documentElement.getAttribute('data-alt-' + l);
+        if (alt) {
+          // The buttons are links to the other copy (crawlable); keep the query.
+          e.preventDefault();
+          if (l !== cl) location.href = alt + location.search + location.hash;
+        } else {
+          // No copy in that language (404): switch in place.
+          e.preventDefault();
+          document.documentElement.setAttribute('data-lang', l);
+          window.dispatchEvent(new Event('langchange'));
+          lt.querySelectorAll('.lang-btn').forEach(function(x) { x.classList.toggle('active', x.getAttribute('data-lang') === l); });
+        }
       });
     }
     document.addEventListener('click', function(e) {

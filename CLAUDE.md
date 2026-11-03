@@ -79,14 +79,15 @@ Critical rules:
 - Host refers to meanings only: "It means price" NOT "'Nedan' means price"
 - No comparing polite vs rude forms (don't mention offensive alternatives)
 - Host name is Maya: "Welcome to Japanese Daily News. I'm Maya."
-- Each JSON also includes `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh`, and `level` fields
+- Each JSON also includes `titleZh` / `titleEn` (the headline translated: a natural Chinese news headline ≤ 30 chars and a short English one ≤ 70 chars, sentence case — they become the /zh/ and English page titles, "<titleZh>｜日语新闻听力 第N集" / "<titleEn> | Easy Japanese News EP NNN"), `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh` (one entry per breakdown sentence: Japanese line, Chinese translation line, notes — the Chinese line is also shown under that sentence on /zh/ pages), and `level` fields
 
 ## Site Architecture (`site/`)
 
 Astro 5 static site. Key files:
 - `src/lib/episodes.ts` — loads episode JSONs, builds timing, types
-- `src/pages/ep/[id].astro` — episode page with player, transcript, practice mode
-- `src/pages/index.astro` — landing page
+- `src/pages/[...lang]/ep/[id].astro` — episode page with player, transcript, practice mode
+- `src/pages/[...lang]/index.astro`, `about.astro` — landing / about page
+- `src/lib/i18n.ts` — one page per language, like jpnotes.dev: English at `/…/`, Chinese at `/zh/…/` (`[...lang]` = undefined | `zh`). Write UI text with both `class="i18n-en"` / `class="i18n-zh"` siblings; after the build `astro.config.mjs` (`stripOtherLang`) keeps only the page's own language. `Layout.astro` sets `lang`, hreflang/x-default, and redirects to the reader's saved language (`jdn-lang`; a zh browser with none saved only from the English home page). Internal links go through `lp(path, lang)`
 - `src/pages/rss.xml.ts` — podcast RSS feed
 - `src/pages/sitemap.xml.ts` — sitemap
 - `src/layouts/Layout.astro` — base layout with GA4, theme/lang toggle
@@ -95,7 +96,7 @@ Features: synced transcript, furigana, vocab click tooltips, Japanese-only mode 
 
 ## Versioning
 
-Cache invalidation is **per-episode**, via the `contentVersion` field (format `YYYYMMDDNN`) in each `scripts/epNNN.json`. When an episode's content/timing changes, bump **only that episode's** `contentVersion`. Display-only fixes that leave audio/timing untouched (e.g. furigana corrections) do **not** need a bump — bumping would needlessly clear listeners' saved playback positions. The episode page (`ep/[id].astro`) stores it as `ver` alongside the saved playback position in `jdn-ep<NNN>`; on load, if the stored `ver` no longer matches, only that one episode's saved position is dropped — every other episode's progress is left intact. New episodes get a `contentVersion` at creation.
+Cache invalidation is **per-episode**, via the `contentVersion` field (format `YYYYMMDDNN`) in each `scripts/epNNN.json`. When an episode's content/timing changes, bump **only that episode's** `contentVersion`. Display-only fixes that leave audio/timing untouched (e.g. furigana corrections) do **not** need a bump — bumping would needlessly clear listeners' saved playback positions. The episode page (`[...lang]/ep/[id].astro`) stores it as `ver` alongside the saved playback position in `jdn-ep<NNN>`; on load, if the stored `ver` no longer matches, only that one episode's saved position is dropped — every other episode's progress is left intact. New episodes get a `contentVersion` at creation.
 
 (Legacy: there used to be a single global `PAGE_VERSION` in `Layout.astro` that wiped *all* `jdn-ep*` entries on any change. It was removed in favor of the per-episode field — don't reintroduce it.)
 

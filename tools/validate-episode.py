@@ -19,7 +19,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCRIPT_DIR = os.path.join(ROOT, "scripts")
 
-REQUIRED_TOP = ["episode", "title", "date", "source", "level",
+REQUIRED_TOP = ["episode", "title", "titleZh", "titleEn", "date", "source", "level",
                 "characters", "segments", "vocabulary", "grammar", "practiceZh"]
 REQUIRED_SPEAKERS = ["host", "news", "slow", "vocab"]
 CHAR_FIELDS = ["voice", "role", "lang", "rate"]

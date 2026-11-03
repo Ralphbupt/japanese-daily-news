@@ -1,4 +1,4 @@
-// IndexNow ping — notifies Bing/Yandex/Seznam/Naver of the current URL set so
+// IndexNow ping — notifies Bing/Yandex/Seznam/Naver of new and changed URLs so
 // they crawl fresh episodes fast (Google does not support IndexNow). Runs at
 // the end of `npm run build`, but only on Cloudflare Pages (CF_PAGES is set)
 // so local builds don't ping. Never fails the build.
@@ -15,11 +15,31 @@ if (!process.env.CF_PAGES) {
   process.exit(0);
 }
 
-const sitemap = fs.readFileSync("dist/sitemap.xml", "utf-8");
-const urlList = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map((m) => m[1]);
+// Submit only what changed (as jpnotes.dev does): IndexNow wants new or
+// updated URLs, not the whole site on every deploy (2 deploys a day × ~530
+// URLs). The sitemap that is still live during the build is the "before".
+function parse(xml) {
+  const map = new Map();
+  for (const block of xml.split("<url>").slice(1)) {
+    const loc = block.match(/<loc>(.*?)<\/loc>/)?.[1];
+    if (loc) map.set(loc, block.match(/<lastmod>(.*?)<\/lastmod>/)?.[1] || "");
+  }
+  return map;
+}
+
+const current = parse(fs.readFileSync("dist/sitemap.xml", "utf-8"));
+let previous = null;
+try {
+  const res = await fetch(`https://${HOST}/sitemap.xml`, { signal: AbortSignal.timeout(10000) });
+  if (res.ok) previous = parse(await res.text());
+} catch { /* first deploy or network trouble: submit everything */ }
+
+const homes = new Set([`https://${HOST}/`, `https://${HOST}/zh/`]); // episode lists change daily
+const urlList = [...current.keys()].filter(loc =>
+  !previous || homes.has(loc) || !previous.has(loc) || previous.get(loc) !== current.get(loc));
 
 if (urlList.length === 0) {
-  console.log("IndexNow: no URLs found in dist/sitemap.xml, skipping.");
+  console.log("IndexNow: nothing changed, skipping.");
   process.exit(0);
 }
 
@@ -37,7 +57,7 @@ try {
     body: JSON.stringify(body),
   });
   // 200 = accepted, 202 = accepted & key validation pending. Both are success.
-  console.log(`IndexNow: submitted ${urlList.length} URLs → HTTP ${res.status}`);
+  console.log(`IndexNow: submitted ${urlList.length} new/changed of ${current.size} URLs → HTTP ${res.status}`);
 } catch (err) {
   console.log(`IndexNow: ping failed (non-fatal): ${err.message}`);
 }
