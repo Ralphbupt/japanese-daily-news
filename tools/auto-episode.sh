@@ -8,7 +8,7 @@
 # audit, audio, subtitles, copy assets) and pushes -> Cloudflare auto-deploys.
 #
 # Toolchain set up in userspace (no sudo): static ffmpeg/ffprobe in ~/.local/bin,
-# .venv built via uv (python 3.11) with edge-tts + pykakasi.
+# .venv built via uv (python 3.11) with google-genai + edge-tts + pykakasi (Gemini key at ~/.config/storyanim/gemini_key).
 set -euo pipefail
 
 export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:/bin"
