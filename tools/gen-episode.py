@@ -1,12 +1,21 @@
 #!/usr/bin/env python3
-"""Generate podcast episode from JSON script using Edge TTS."""
+"""Generate podcast episode from JSON script.
+
+TTS engine: Gemini TTS by default (key from $GEMINI_API_KEY or
+~/.config/storyanim/gemini_key). Any segment Gemini fails on (it is flaky on
+very short single words) falls back to Edge TTS using the voice/rate in the
+script's `characters`. Set TTS_ENGINE=edge to use Edge for everything.
+"""
 
 import asyncio
 import json
 import os
+import shutil
 import subprocess
 import sys
 import tempfile
+import time
+import wave
 
 import edge_tts
 
@@ -27,9 +36,104 @@ PAUSE_AFTER = {
 }
 
 
+GEMINI_MODEL = os.environ.get("GEMINI_TTS_MODEL", "gemini-2.5-flash-preview-tts")
+GEMINI_VOICES = {"host": "Aoede", "news": "Kore", "slow": "Kore", "vocab": "Kore"}
+# Gemini speaks faster than the old Edge rates (-25%/-30%); slow it down with
+# ffmpeg atempo (pitch-preserving). Override all with GEMINI_TEMPO_SCALE.
+GEMINI_TEMPO = {"host": 0.95, "news": 0.88, "slow": 0.80, "vocab": 0.85}
+GEMINI_STYLE = {
+    "host": "Read this as a warm, friendly podcast host, at a relaxed pace: ",
+    "news": "日本語のニュースキャスターとして、落ち着いた自然な速さで読んでください：",
+    "slow": "日本語学習者のために、ゆっくり、はっきり読んでください：",
+    "vocab": "ゆっくり読んでください：",
+}
+
+
+def gemini_key():
+    key = os.environ.get("GEMINI_API_KEY")
+    path = os.path.expanduser("~/.config/storyanim/gemini_key")
+    if not key and os.path.exists(path):
+        key = open(path).read().strip()
+    return key
+
+
+_gemini_client = None
+
+
+def gemini_tts(speaker, text, reading, wav_path):
+    """Return True on success. Tries several prompt phrasings."""
+    global _gemini_client
+    from google import genai
+    from google.genai import types
+    if _gemini_client is None:
+        _gemini_client = genai.Client(api_key=gemini_key())
+    style = GEMINI_STYLE.get(speaker, "")
+    variants = [style + text, style + text + "。" if speaker != "host" else style + text + "."]
+    variants.append(f'Read this aloud exactly: "{text}"' if speaker == "host"
+                    else f"次の文をそのまま読み上げてください：「{text}」。")
+    if reading:
+        variants.append(style + reading + "。")
+    variants.append(variants[0])
+    config = types.GenerateContentConfig(
+        response_modalities=["AUDIO"],
+        speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
+            prebuilt_voice_config=types.PrebuiltVoiceConfig(
+                voice_name=GEMINI_VOICES.get(speaker, "Kore")))),
+    )
+    for prompt in variants:
+        try:
+            r = _gemini_client.models.generate_content(
+                model=GEMINI_MODEL, contents=prompt, config=config)
+            cand = r.candidates[0]
+            if not (cand.content and cand.content.parts):
+                raise RuntimeError(f"empty audio ({cand.finish_reason})")
+            pcm = cand.content.parts[0].inline_data.data
+            with wave.open(wav_path, "wb") as w:
+                w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000)
+                w.writeframes(pcm)
+            return True
+        except Exception as e:
+            msg = str(e)
+            print(f"      gemini retry: {msg[:100]}")
+            time.sleep(30 if ("429" in msg or "RESOURCE_EXHAUSTED" in msg) else 2)
+    return False
+
+
 async def generate_segment(text, voice, rate, output_path):
     communicate = edge_tts.Communicate(text, voice, rate=rate)
     await communicate.save(output_path)
+
+
+async def synth(seg, char, output_path, tmpdir, use_gemini):
+    """Write an mp3 for one segment. Returns the engine actually used."""
+    speaker, text = seg["speaker"], seg["text"]
+    if use_gemini:
+        import re
+        m = re.search(r'data-reading="([^"]+)"', seg.get("ruby", ""))
+        reading = m.group(1) if (m and speaker == "vocab") else None
+        wav = output_path + ".wav"
+        cache_dir = os.environ.get("TTS_CACHE")  # optional: reuse raw audio while tuning
+        cached = None
+        if cache_dir:
+            import hashlib
+            os.makedirs(cache_dir, exist_ok=True)
+            h = hashlib.md5(f"{GEMINI_MODEL}|{speaker}|{text}".encode()).hexdigest()
+            cached = os.path.join(cache_dir, h + ".wav")
+            if os.path.exists(cached):
+                shutil.copy(cached, wav)
+        ok = os.path.exists(wav) or gemini_tts(speaker, text, reading, wav)
+        if ok and cached and not os.path.exists(cached):
+            shutil.copy(wav, cached)
+        if ok:
+            tempo = GEMINI_TEMPO.get(speaker, 1.0) * float(os.environ.get("GEMINI_TEMPO_SCALE", "1"))
+            subprocess.run(["ffmpeg", "-y", "-i", wav, "-filter:a", f"atempo={tempo:.3f}",
+                            "-ar", "24000", "-ac", "1",
+                            "-c:a", "libmp3lame", "-b:a", "48k", output_path],
+                           capture_output=True, check=True)
+            return "gemini"
+    rate = char.get("rate", DEFAULT_RATES.get(char["lang"], "+0%"))
+    await generate_segment(text, char["voice"], rate, output_path)
+    return "edge"
 
 
 async def main():
@@ -48,19 +152,29 @@ async def main():
 
     seg_timings = []
     current_time = 1.5  # initial 1500ms silence
+    use_gemini = os.environ.get("TTS_ENGINE", "gemini") == "gemini" and bool(gemini_key())
+    print(f"TTS engine: {'gemini (' + GEMINI_MODEL + ')' if use_gemini else 'edge'}\n")
+    done = {}       # (speaker, text) -> mp3 path, so the news replay is not re-billed
+    fallbacks = []
 
     with tempfile.TemporaryDirectory() as tmpdir:
         for i, seg in enumerate(segments):
             speaker = seg["speaker"]
             text = seg["text"]
             char = characters[speaker]
-            voice = char["voice"]
-            rate = char.get("rate", DEFAULT_RATES.get(char["lang"], "+0%"))
 
             path = os.path.join(tmpdir, f"seg_{i:03d}.mp3")
             try:
-                await generate_segment(text, voice, rate, path)
-                label = f"{speaker}({char['lang']})"
+                key = (speaker, text)
+                if key in done:
+                    shutil.copy(done[key], path)
+                    engine = "reuse"
+                else:
+                    engine = await synth(seg, char, path, tmpdir, use_gemini)
+                    done[key] = path
+                    if use_gemini and engine == "edge":
+                        fallbacks.append(i + 1)
+                label = f"{speaker}({engine})"
                 print(f"  [{i+1}/{len(segments)}] {label:20s} {text[:55]}...")
             except Exception as e:
                 print(f"  [{i+1}/{len(segments)}] FAILED {speaker}: {e}")
@@ -137,6 +251,8 @@ async def main():
         print(f"  Timing: {timing_path}")
         print(f"  Duration: {int(duration_s // 60)}:{int(duration_s % 60):02d}")
         print(f"  Size: {size_mb:.1f} MB")
+        if fallbacks:
+            print(f"  Edge fallback segments: {fallbacks}")
 
 
 if __name__ == "__main__":

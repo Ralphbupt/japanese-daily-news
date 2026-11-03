@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Edge TTS + ffmpeg. The site is built with Astro and deployed on Cloudflare Pages.
+Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Gemini TTS (Edge TTS fallback) + ffmpeg. The site is built with Astro and deployed on Cloudflare Pages.
 
 ## Full Pipeline for a New Episode
 
@@ -36,15 +36,17 @@ cd site && npm run dev
 git add . && git commit && git push
 ```
 
-Requires: `ffmpeg`, `ffprobe` on PATH. Python deps in `.venv/` (edge-tts, pykakasi).
+Requires: `ffmpeg`, `ffprobe` on PATH. Python deps in `.venv/` (google-genai, edge-tts, pykakasi). Gemini key: `$GEMINI_API_KEY` or `~/.config/storyanim/gemini_key` (shared with matsuri.games); without a key, or with `TTS_ENGINE=edge`, everything uses Edge.
 
 ## Script Format (`scripts/epNNN.json`)
 
 Four speaker roles:
-- `host` (Maya) — English explanations only, ZERO Japanese characters, ZERO romaji (en-US-AvaNeural)
-- `news` — Japanese news reading at moderate speed (ja-JP-NanamiNeural, -25%)
-- `slow` — Slow Japanese repeat of key sentences (ja-JP-NanamiNeural, -30%)
-- `vocab` — Individual Japanese vocabulary words (ja-JP-NanamiNeural, -30%)
+- `host` (Maya) — English explanations only, ZERO Japanese characters, ZERO romaji (Gemini voice Aoede, atempo 0.95)
+- `news` — Japanese news reading at moderate speed (Gemini voice Kore, atempo 0.88)
+- `slow` — Slow Japanese repeat of key sentences (Gemini voice Kore, atempo 0.80)
+- `vocab` — Individual Japanese vocabulary words (Gemini voice Kore, atempo 0.85)
+
+Gemini voices, style prompts and per-role tempo live in `tools/gen-episode.py` (`GEMINI_VOICES` / `GEMINI_STYLE` / `GEMINI_TEMPO`). The `voice`/`rate` in each script's `characters` are now only the Edge fallback (used per segment when Gemini fails — it is flaky on very short single words). Keep writing them as before.
 
 Episode structure:
 1. Host intro (short — one or two sentences of context, then "Let's listen.")

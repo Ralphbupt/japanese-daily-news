@@ -22,7 +22,7 @@ cron (2×/day)
         2. add-furigana.py      ruby readings + vocab highlights  (pykakasi)
         3. validate-episode.py  schema + content rules            (deterministic gate)
         4. audit-furigana.py    flag suspicious kanji readings    (deterministic gate)
-        5. gen-episode.py       multi-voice TTS + timing manifest (Edge TTS, ffmpeg)
+        5. gen-episode.py       multi-voice TTS + timing manifest (Gemini TTS, Edge fallback, ffmpeg)
         6. gen-subtitles.py     VTT / SRT from timing data
         7. git push ──────────► Cloudflare Pages auto-deploy
 ```
@@ -55,7 +55,7 @@ Astro 5 static site: synced transcript with furigana, tap-to-define vocabulary, 
 
 ## Stack
 
-Claude Code (headless) · Python · Edge TTS · ffmpeg · pykakasi · Astro · Cloudflare Pages
+Claude Code (headless) · Python · Gemini TTS · Edge TTS · ffmpeg · pykakasi · Astro · Cloudflare Pages
 
 ## Repo layout
 
