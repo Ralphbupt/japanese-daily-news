@@ -123,7 +123,7 @@ Features: synced transcript, furigana, vocab click tooltips, Japanese-only mode 
 - Scripts self-contained — each JSON includes all voice/rate config
 - Companion site: `jpnotes.dev` (grammar notes, cross-linked from grammar cards)
 - Fonts: Fraunces (display), Outfit (body, PingFang SC for Chinese); Japanese uses system fonts first — Mincho (Hiragino Mincho / Yu Mincho, Noto Serif JP fallback) for transcript/practice/examples, Gothic (Hiragino Kaku Gothic, Noto Sans JP fallback) for titles and UI; furigana stays Gothic
-- Palette and fonts follow jpnotes.dev: light "paper" #f6f4ef with deep red accent #b8283f; dark #14141e with accent #e94560 (tokens at the top of `site/src/styles/global.css`). Japanese being studied is set in Mincho, UI in Gothic.
+- Themes (header button cycles light → warm → dark, saved in `theme`): light = jpnotes.dev "paper" #f6f4ef with deep red #b8283f (default); warm = the original yellow paper #F3EDDA with #C23B22; dark = #14141e with #e94560. Tokens at the top of `site/src/styles/global.css`.
 - Apple Podcasts: https://podcasts.apple.com/podcast/id1896815841
 - Spotify: https://open.spotify.com/show/033nVZrL6xnSJDxcXc9PMQ
 - YouTube: https://www.youtube.com/playlist?list=PLFPcxHB9z1CRXO7aEgo5qE_jP_E3cXwKb

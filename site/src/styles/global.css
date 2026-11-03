@@ -56,6 +56,22 @@ button { font-family: inherit; }
   color-scheme: light dark;
 }
 
+/* "Warm": the podcast's original warm yellow paper, kept as an option. */
+[data-theme="warm"] {
+  --bg: #F3EDDA;
+  --bg-alt: #EAE3CE;
+  --bg-warm: #E0D9C4;
+  --text: #2C2C2C;
+  --text-muted: #6B6560;
+  --text-light: #9B9590;
+  --text-inverse: #FAF9F5;
+  --accent: #C23B22;
+  --accent-hover: #A83219;
+  --accent-soft: #F5E6D0;
+  --border: #D8D0BA;
+  --border-light: #E0D9C8;
+}
+
 [data-theme="dark"] {
     --bg: #14141e;
     --bg-alt: #1f1f2e;
@@ -113,8 +129,15 @@ button { font-family: inherit; }
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
+[data-theme="warm"] .theme-btn::after {
+  content: 'Dark mode';
+}
 [data-theme="dark"] .theme-btn::after {
   content: 'Light mode';
+}
+/* Light (default) → warm → dark → light */
+:root:not([data-theme]) .theme-btn::after {
+  content: 'Warm paper';
 }
 
 .theme-btn:hover::after {

@@ -27,7 +27,8 @@ const ogImageUrl = new URL(ogImage, SITE).href;
   <script is:inline>
     (function(){
       var t=localStorage.getItem('theme');
-      if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.setAttribute('data-theme','dark')}
+      if(t==='warm'){document.documentElement.setAttribute('data-theme','warm')}
+      else if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.setAttribute('data-theme','dark')}
       var l=localStorage.getItem('jdn-lang')||((navigator.language||'').startsWith('zh')?'zh':'en');
       document.documentElement.setAttribute('data-lang',l);
       var fs=localStorage.getItem('jdn-fontsize')||'medium';
@@ -156,17 +157,15 @@ const ogImageUrl = new URL(ogImage, SITE).href;
       }
     });
 
+    // Themes cycle: light (jpnotes paper, default) → warm (the original yellow) → dark.
     document.getElementById('theme-toggle').addEventListener('click', function() {
-      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-      if (isDark) {
-        document.documentElement.removeAttribute('data-theme');
-        localStorage.setItem('theme', 'light');
-        if (window.jdnEvent) window.jdnEvent('theme_toggle', { theme: 'light' });
-      } else {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-        if (window.jdnEvent) window.jdnEvent('theme_toggle', { theme: 'dark' });
-      }
+      var order = ['light', 'warm', 'dark'];
+      var cur = document.documentElement.getAttribute('data-theme') || 'light';
+      var next = order[(order.indexOf(cur) + 1) % order.length];
+      if (next === 'light') document.documentElement.removeAttribute('data-theme');
+      else document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      if (window.jdnEvent) window.jdnEvent('theme_toggle', { theme: next });
     });
   </script>
 </body>
