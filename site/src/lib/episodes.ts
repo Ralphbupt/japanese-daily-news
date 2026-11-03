@@ -16,6 +16,11 @@ export interface Segment {
   speaker: string;
   text: string;
   ruby?: string;
+  /** Chinese translation of a news sentence (shown on /zh/ pages). Sentences
+   *  the breakdown covers also get one from practiceZh. */
+  zh?: string;
+  /** What the TTS voice is given, when it differs from text (misreadings). */
+  tts?: string;
 }
 
 export interface TimedSegment extends Segment {
@@ -127,12 +132,22 @@ function buildDescriptionZh(raw: RawEpisode): string {
   return `${head}用真实日语新闻练听力${level}：自然语速朗读、逐句讲解，附振假名、中文翻译、词汇和语法。`;
 }
 
-/** practiceZh entries are "Japanese sentence\nChinese translation\nnotes". */
+// Lines every episode opens / closes with.
+const FIXED_ZH: Record<string, string> = {
+  '今日のニュースです。': '今天的新闻。',
+  'また明日。': '明天见。',
+};
+
+/** Japanese sentence → Chinese: a segment's own zh field, else practiceZh
+ *  ("Japanese sentence\nChinese translation\nnotes"), else the fixed lines. */
 function buildZhLines(raw: RawEpisode): Record<string, string> {
-  const out: Record<string, string> = {};
+  const out: Record<string, string> = { ...FIXED_ZH };
+  for (const seg of raw.segments) {
+    if (seg.zh) out[seg.text.trim()] = seg.zh.trim();
+  }
   for (const entry of raw.practiceZh ?? []) {
     const [ja, zh] = entry.split('\n');
-    if (ja && zh) out[ja.trim()] = zh.trim();
+    if (ja && zh && !(ja.trim() in out && !(ja.trim() in FIXED_ZH))) out[ja.trim()] = zh.trim();
   }
   return out;
 }
