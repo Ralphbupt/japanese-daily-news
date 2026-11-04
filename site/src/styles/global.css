@@ -733,6 +733,7 @@ body {
 }
 
 .footer-links {
+  flex-wrap: wrap;
   display: flex;
   gap: 0.5rem;
   justify-content: center;
@@ -1005,6 +1006,7 @@ body {
   padding: 0.3rem 1rem;
   font-size: 0.8125rem;
   font-weight: 600;
+  white-space: nowrap;
   background: transparent;
   color: var(--text-muted);
   border: none;
@@ -1016,6 +1018,14 @@ body {
 .mode-btn.active {
   background: var(--accent);
   color: white;
+}
+
+/* Keep the three labels on one line on narrow phones ("Japanese only" wrapped) */
+@media (max-width: 400px) {
+  .mode-btn { padding: 0.3rem 0.7rem; }
+}
+@media (max-width: 350px) {
+  .mode-btn { padding: 0.3rem 0.45rem; font-size: 0.75rem; }
 }
 
 /* --- Practice Mode --- */
@@ -1793,6 +1803,14 @@ ruby rt {
   .nav-link:not(.nav-rss-icon) {
     display: none;
   }
+}
+
+/* Phones: the logo and the controls don't fit one line (the page panned
+   sideways, the logo squeezed into three): the controls go on a line of their own */
+@media (max-width: 480px) {
+  .nav { flex-wrap: wrap; row-gap: 0.5rem; }
+  .nav-links { gap: 0.5rem; margin-left: auto; }
+  .nav-rss-icon { font-size: 0; gap: 0; }
 }
 
 @media (max-width: 480px) {
