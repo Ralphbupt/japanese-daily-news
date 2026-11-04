@@ -413,7 +413,23 @@ const segmentsForClient = segs.map(s => ({
   <div id="seg-data" data-prev={prevEp ? prevEp.paddedNum : ''} data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} data-num={episode.paddedNum} data-title={episode.title} data-level={episode.level} style="display:none"></div>
 
   <script is:inline>
-  document.addEventListener('DOMContentLoaded', function() {
+  // Shared by every episode played on this page load (see swapIn).
+  var epList = null, epListP = null;
+  // addEventListener's { signal } option (Safari 15+). Without it old listeners
+  // can't be dropped, so episodes are changed by navigating.
+  var canSwap = (function() {
+    var ok = false;
+    try {
+      window.addEventListener('jdn-probe', null, { get signal() { ok = true; return undefined; } });
+    } catch(e) {}
+    return ok;
+  })();
+  // The URL moved with pushState and the page is one episode at a time.
+  window.addEventListener('popstate', function() { location.reload(); });
+
+  function initEpisode(arrive) {
+    var ctrl = new AbortController();
+    var sig = { signal: ctrl.signal };   // listeners on what outlives an episode: audio, document, window
     var dataEl = document.getElementById('seg-data');
     var raw = JSON.parse(dataEl.getAttribute('data-v'));
     var epId = dataEl.getAttribute('data-ep');
@@ -467,10 +483,80 @@ const segmentsForClient = segs.map(s => ({
       } catch(e) {}
     }
     setNowPlaying(msAlbum);
+
+    // Lock screens show about two lines of the title and cut the rest, and a
+    // page can't change that. So a long sentence goes out in pieces, each one
+    // shown while it is being read (its share of the sentence, by length).
+    var LOCK_MAX = 24;   // full-width characters; ASCII counts as half
+    function cols(t) {
+      var n = 0;
+      for (var i = 0; i < t.length; i++) n += t.charCodeAt(i) < 128 ? 0.5 : 1;
+      return n;
+    }
+    // A clause with no punctuation in reach: break at a space or after a
+    // particle that starts a new word, else at the limit.
+    function breakClause(part) {
+      var out = [];
+      while (cols(part) > LOCK_MAX) {
+        var i = 0, c = 0, cut = 0;
+        for (; i < part.length; i++) {
+          c += part.charCodeAt(i) < 128 ? 0.5 : 1;
+          if (c > LOCK_MAX) break;
+          if (/\s/.test(part[i]) || (/[はがをにでとも]/.test(part[i]) && /[^ぁ-ん]/.test(part[i + 1] || ''))) cut = i + 1;
+        }
+        if (cut < i / 2) cut = i;
+        out.push(part.slice(0, cut));
+        part = part.slice(cut);
+      }
+      out.push(part);
+      return out;
+    }
+    function lockPieces(text) {
+      var pieces = [], cur = '';
+      (text.match(/.+?(?:[、。！？,.!?;:]+[」』）"']*\s*|$)/g) || [text]).forEach(function(clause) {
+        breakClause(clause).forEach(function(part) {
+          if (cur && cols(cur + part) > LOCK_MAX) { pieces.push(cur.trim()); cur = ''; }
+          cur += part;
+        });
+      });
+      if (cur.trim()) pieces.push(cur.trim());
+      return pieces;
+    }
+    function lockLine(seg, t) {
+      var pieces = seg.lock || (seg.lock = lockPieces(seg.text.trim()));
+      var left = (t - seg.start) / (seg.end - seg.start) * cols(seg.text);
+      for (var i = 0; i < pieces.length - 1; i++) {
+        left -= cols(pieces[i]);
+        if (left < 0) return pieces[i];
+      }
+      return pieces[pieces.length - 1];
+    }
     function viewDur() { return rangeOn() ? rEnd - rStart : audio.duration; }
-    function viewPos() { return rangeOn() ? Math.max(0, audio.currentTime - rStart) : audio.currentTime; }
+    function viewPos() { return rangeOn() ? Math.max(0, pos() - rStart) : pos(); }
     var autoPauseAt = -1;
     var storageKey = 'jdn-' + epId;
+
+    // ===== Seeking =====
+    // iOS Safari fetches only the metadata until the first play(), and a seek
+    // issued then, with no play() in the same tap, never finishes: `seeking`
+    // stays true, no timeupdate, no sound, even after play(). Japanese only and
+    // resuming a saved position both hung on it. So until there is media data
+    // the position waits in pendingSeek and is applied once play() has fetched
+    // some. Always move and read the position through these two.
+    var pendingSeek = null;
+    function seek(t) {
+      if (audio.readyState >= 2) { pendingSeek = null; audio.currentTime = t; }
+      else pendingSeek = t;
+    }
+    function pos() { return pendingSeek !== null ? pendingSeek : audio.currentTime; }
+    function applySeek() {
+      if (pendingSeek === null || audio.readyState < 2) return;
+      var t = pendingSeek;
+      pendingSeek = null;
+      audio.currentTime = t;
+    }
+    audio.addEventListener('loadeddata', applySeek, sig);
+    audio.addEventListener('canplay', applySeek, sig);
     var progressKey = 'jdn-progress';
 
     // ===== GA4 analytics state =====
@@ -540,8 +626,8 @@ const segmentsForClient = segs.map(s => ({
     document.addEventListener('visibilitychange', function() {
       if (document.hidden && !audio.paused && !bgSent) { bgSent = true; ga('background_listen'); }
       if (document.hidden) reportListenTime();
-    });
-    window.addEventListener('pagehide', reportListenTime);
+    }, sig);
+    window.addEventListener('pagehide', reportListenTime, sig);
 
     function getProgress() {
       try { return JSON.parse(localStorage.getItem(progressKey)) || {}; } catch(e) { return {}; }
@@ -566,7 +652,7 @@ const segmentsForClient = segs.map(s => ({
       }
       if (saved) {
         if (saved.time > 1) {
-          audio.currentTime = saved.time;
+          seek(saved.time);
           currentTimeEl.textContent = fmt(saved.time);
         }
       }
@@ -599,9 +685,9 @@ const segmentsForClient = segs.map(s => ({
     // Arriving from a finished episode: start playing (browsers may block; then
     // the user just taps play — the button state is already correct)
     // (the play itself is deferred to the end of setup, after the mode is set)
-    var arrivedAutoplay = /[?&]autoplay=1/.test(location.search);
-    var arrivedJaOnly = /[?&]mode=ja/.test(location.search);
-    var arrivedPlay = /[?&]play=1/.test(location.search);   // picked from the playlist while playing
+    var arrivedAutoplay = arrive.autoplay || /[?&]autoplay=1/.test(location.search);
+    var arrivedJaOnly = arrive.ja || /[?&]mode=ja/.test(location.search);
+    var arrivedPlay = arrive.play || /[?&]play=1/.test(location.search);   // picked from the playlist while playing
     if (arrivedAutoplay || arrivedJaOnly || arrivedPlay) {
       try { history.replaceState(null, '', location.pathname); } catch(e) {}
     }
@@ -662,7 +748,7 @@ const segmentsForClient = segs.map(s => ({
     // ===== Play / Pause =====
     playBtn.addEventListener('click', function() {
       if (audio.paused) {
-        if (rangeOn() && (audio.currentTime < rStart || audio.currentTime >= rEnd)) audio.currentTime = rStart;
+        if (rangeOn() && (pos() < rStart || pos() >= rEnd)) seek(rStart);
         tryPlay();
       } else audio.pause();
     });
@@ -671,55 +757,61 @@ const segmentsForClient = segs.map(s => ({
       iconPlay.style.display = 'none';
       iconPause.style.display = 'block';
       if (!gaPlayed) { gaPlayed = true; ga('audio_play'); }
-    });
+    }, sig);
 
     audio.addEventListener('pause', function() {
       iconPlay.style.display = 'block';
       iconPause.style.display = 'none';
-    });
+    }, sig);
 
     audio.addEventListener('ended', function() {
       if (!gaCompleted) { gaCompleted = true; ga('audio_complete'); }
-      // Finished: reset saved position so a revisit starts from the top (keep speed)
-      try { localStorage.setItem(storageKey, JSON.stringify({ time: 0, speed: audio.playbackRate, ver: epCv })); } catch(e) {}
+      saveFinished();
       var nextFull = nextEpisode();
       if (autoplayOn && nextFull) {
         ga('autoplay_next');
-        setTimeout(function() { location.href = langPrefix + '/ep/' + nextFull + '/?autoplay=1'; }, 600);
+        goToEpisode(nextFull, { autoplay: true });
       }
-    });
+    }, sig);
+
+    // Finished: reset saved position so a revisit starts from the top (keep speed)
+    function saveFinished() {
+      try { localStorage.setItem(storageKey, JSON.stringify({ time: 0, speed: audio.playbackRate, ver: epCv })); } catch(e) {}
+    }
 
     audio.addEventListener('loadedmetadata', function() {
       totalTimeEl.textContent = fmt(viewDur());
-      if (audio.currentTime > audio.duration) {
-        audio.currentTime = 0;
-        currentTimeEl.textContent = fmt(0);
-      }
-    });
+      if (pos() > audio.duration) seek(0);
+      // The range is only known now: a saved position was shown as file time.
+      currentTimeEl.textContent = fmt(viewPos());
+      progressFill.style.width = (viewDur() ? viewPos() / viewDur() * 100 : 0) + '%';
+    }, sig);
     if (audio.readyState >= 1) {
       totalTimeEl.textContent = fmt(audio.duration);
-      if (audio.currentTime > audio.duration) {
-        audio.currentTime = 0;
-      }
+      if (pos() > audio.duration) seek(0);
     }
 
     // ===== Time update =====
     var saveCounter = 0;
     audio.addEventListener('timeupdate', function() {
+      if (leaving) return;
       if (rangeOn()) {
-        if (audio.currentTime < rStart - 0.05) audio.currentTime = rStart;
-        else if (audio.currentTime >= rEnd) {
-          audio.pause();
-          audio.currentTime = rStart;
+        if (pos() < rStart - 0.05) seek(rStart);
+        else if (pos() >= rEnd) {
           ga('japanese_only_complete');
           // Auto-play on: carry on with the next episode, still Japanese only
           var nextJa = nextEpisode();
           if (autoplayOn && nextJa) {
+            saveFinished();
             ga('autoplay_next', { mode: 'japanese' });
-            setTimeout(function() { location.href = langPrefix + '/ep/' + nextJa + '/?autoplay=1&mode=ja'; }, 600);
+            goToEpisode(nextJa, { autoplay: true, ja: true });
+            return;
           }
+          audio.pause();
+          seek(rStart);
         }
       }
+      if (autoplayOn && !prepared && (rangeOn() ? rEnd : audio.duration) - pos() < 30) prepareNext();
       if (!isDragging) {
         var vd = viewDur();
         var pct = vd ? (viewPos() / vd) * 100 : 0;
@@ -756,20 +848,20 @@ const segmentsForClient = segs.map(s => ({
       if (++saveCounter % 8 === 0) {
         try {
           localStorage.setItem(storageKey, JSON.stringify({
-            time: audio.currentTime,
+            time: pos(),
             speed: audio.playbackRate,
             ver: epCv
           }));
         } catch(e) {}
       }
-    });
+    }, sig);
 
     // ===== Seek =====
     function seekTo(clientX) {
       var rect = progressBar.getBoundingClientRect();
       var pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
       if (audio.duration) {
-        audio.currentTime = rangeOn() ? rStart + pct * (rEnd - rStart) : pct * audio.duration;
+        seek(rangeOn() ? rStart + pct * (rEnd - rStart) : pct * audio.duration);
         progressFill.style.width = (pct * 100) + '%';
         currentTimeEl.textContent = fmt(viewPos());
       }
@@ -783,11 +875,11 @@ const segmentsForClient = segs.map(s => ({
       }, 600);
     }
     progressBar.addEventListener('mousedown', function(e) { isDragging = true; seekTo(e.clientX); });
-    document.addEventListener('mousemove', function(e) { if (isDragging) seekTo(e.clientX); });
-    document.addEventListener('mouseup', function() { if (isDragging) { isDragging = false; gaSeekDebounced(); } });
+    document.addEventListener('mousemove', function(e) { if (isDragging) seekTo(e.clientX); }, sig);
+    document.addEventListener('mouseup', function() { if (isDragging) { isDragging = false; gaSeekDebounced(); } }, sig);
     progressBar.addEventListener('touchstart', function(e) { isDragging = true; seekTo(e.touches[0].clientX); }, { passive: true });
-    document.addEventListener('touchmove', function(e) { if (isDragging) seekTo(e.touches[0].clientX); });
-    document.addEventListener('touchend', function() { if (isDragging) { isDragging = false; gaSeekDebounced(); } });
+    document.addEventListener('touchmove', function(e) { if (isDragging) seekTo(e.touches[0].clientX); }, sig);
+    document.addEventListener('touchend', function() { if (isDragging) { isDragging = false; gaSeekDebounced(); } }, sig);
 
     // ===== Speed =====
     speedControls.addEventListener('click', function(e) {
@@ -800,7 +892,7 @@ const segmentsForClient = segs.map(s => ({
       for (var k = 0; k < btns.length; k++) btns[k].classList.remove('active');
       btn.classList.add('active');
       try {
-        localStorage.setItem(storageKey, JSON.stringify({ time: audio.currentTime, speed: speed, ver: epCv }));
+        localStorage.setItem(storageKey, JSON.stringify({ time: pos(), speed: speed, ver: epCv }));
         localStorage.setItem('jdn-speed', String(speed));
       } catch(e) {}
       ga('audio_speed_change', { speed: speed });
@@ -813,8 +905,8 @@ const segmentsForClient = segs.map(s => ({
       for (var k = 0; k < segments.length; k++) {
         if (t >= segments[k].start && t < segments[k].end) { newActive = k; break; }
       }
+      if (newActive >= 0) setNowPlaying(lockLine(segments[newActive], t));
       if (newActive !== activeIndex) {
-        if (newActive >= 0) setNowPlaying(segments[newActive].text);
         for (var k = 0; k < segmentEls.length; k++) segmentEls[k].classList.remove('active');
         if (newActive >= 0 && segmentEls[newActive]) {
           segmentEls[newActive].classList.add('active');
@@ -832,7 +924,7 @@ const segmentsForClient = segs.map(s => ({
       (function(idx) {
         segmentEls[idx].addEventListener('click', function(e) {
           if (e.target.closest('.vw')) return;
-          audio.currentTime = segments[idx].start;
+          seek(segments[idx].start);
           tryPlay();
         });
       })(k);
@@ -857,7 +949,7 @@ const segmentsForClient = segs.map(s => ({
       } else {
         tooltip.style.display = 'none';
       }
-    });
+    }, sig);
 
     // ===== Mode toggle =====
     var modeBtns = document.querySelectorAll('.mode-btn');
@@ -892,7 +984,7 @@ const segmentsForClient = segs.map(s => ({
       if (on === jaOnly) return;
       jaOnly = on;
       transcript.classList.toggle('ja-only', on);
-      if (rangeOn() && (audio.currentTime < rStart || audio.currentTime >= rEnd)) audio.currentTime = rStart;
+      if (rangeOn() && (pos() < rStart || pos() >= rEnd)) seek(rStart);
       if (on && !restoringMode) ga('japanese_only_on');
       if (audio.duration) {
         totalTimeEl.textContent = fmt(viewDur());
@@ -926,7 +1018,7 @@ const segmentsForClient = segs.map(s => ({
     function playPractice(idx) {
       if (idx < 0 || idx >= practicePairs.length) return;
       showPractice(idx);
-      audio.currentTime = practicePairs[idx].start;
+      seek(practicePairs[idx].start);
       autoPauseAt = practicePairs[idx].end;
       tryPlay();
     }
@@ -945,7 +1037,7 @@ const segmentsForClient = segs.map(s => ({
     // ===== Language switch =====
     window.addEventListener('langchange', function() {
       if (practiceMode) showPractice(practiceIdx);
-    });
+    }, sig);
 
     // ===== Arrived via auto-play =====
     // ===== Start in the listener's mode =====
@@ -956,7 +1048,7 @@ const segmentsForClient = segs.map(s => ({
       if (modeBtn) { restoringMode = true; modeBtn.click(); restoringMode = false; }
     }
     if ((arrivedAutoplay && autoplayOn) || arrivedPlay) {
-      if (rangeOn()) audio.currentTime = rStart;
+      if (rangeOn()) seek(rStart);
       tryPlay();
     }
 
@@ -970,7 +1062,6 @@ const segmentsForClient = segs.map(s => ({
       var lvPref = localStorage.getItem('jdn-pl-level');
       plLevel = (lvPref === 'N5-N4' || lvPref === 'N4-N3') ? lvPref : 'all';
     } catch(e) {}
-    var epList = null, epListP = null;
     function loadList() {
       if (!epListP) epListP = fetch('/episodes.json').then(function(r) { return r.json(); })
         .then(function(l) { epList = l; return l; }).catch(function() { return null; });
@@ -993,6 +1084,69 @@ const segmentsForClient = segs.map(s => ({
       return plOrder === 'desc' ? prevEpNum : nextEpNum;
     }
     if (autoplayOn) loadList();   // ready by the end of the episode
+
+    // ===== Changing episode in place =====
+    // iOS won't start audio on a freshly loaded page without a tap, so moving on
+    // by navigating left a silent page. Instead the next page is swapped in here
+    // and keeps this <audio>, which the listener has already allowed to play.
+    // It is fetched ahead (prepareNext): on a locked phone there may be no time
+    // to wait for the network once the sound stops.
+    var prepared = null;   // { n, doc }; doc stays null until fetched
+    var leaving = false;
+    function fetchEp(n) {
+      return fetch(langPrefix + '/ep/' + n + '/').then(function(r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.text();
+      }).then(function(html) {
+        var doc = new DOMParser().parseFromString(html, 'text/html');
+        if (!doc.getElementById('seg-data')) throw new Error('not an episode page');
+        return doc;
+      });
+    }
+    function prepareNext() {
+      var n = nextEpisode();
+      prepared = { n: n, doc: null };
+      if (n) fetchEp(n).then(function(doc) {
+        if (prepared && prepared.n === n) prepared.doc = doc;
+      }).catch(function() {});
+    }
+    function swapIn(n, doc, next) {
+      reportListenTime();
+      ctrl.abort();
+      doc.querySelectorAll('.episode-body script').forEach(function(s) { s.remove(); });
+      ['.ep-header', '.episode-body', '.player-inner', '#playlist', '#seg-data'].forEach(function(sel) {
+        var cur = document.querySelector(sel);
+        cur.parentNode.replaceChild(document.importNode(doc.querySelector(sel), true), cur);
+      });
+      tooltip.style.display = 'none';
+      document.title = doc.title;
+      ['data-alt-en', 'data-alt-zh'].forEach(function(a) {
+        document.documentElement.setAttribute(a, doc.documentElement.getAttribute(a) || '');
+      });
+      var langLinks = doc.querySelectorAll('.lang-btn');
+      document.querySelectorAll('.lang-btn').forEach(function(b, i) {
+        if (langLinks[i]) b.setAttribute('href', langLinks[i].getAttribute('href'));
+      });
+      var canon = document.querySelector('link[rel="canonical"]');
+      var newCanon = doc.querySelector('link[rel="canonical"]');
+      if (canon && newCanon) canon.setAttribute('href', newCanon.getAttribute('href'));
+      history.pushState(null, '', langPrefix + '/ep/' + n + '/');
+      window.scrollTo(0, 0);
+      audio.src = '/audio/' + document.getElementById('seg-data').getAttribute('data-ep') + '.mp3';
+      initEpisode(next);
+    }
+    function goToEpisode(n, next) {
+      if (leaving) return;
+      leaving = true;
+      function navigate() {
+        location.href = langPrefix + '/ep/' + n + '/' +
+          (next.play ? '?play=1' : '?autoplay=1' + (next.ja ? '&mode=ja' : ''));
+      }
+      if (!canSwap) { navigate(); return; }
+      if (prepared && prepared.n === n && prepared.doc) { swapIn(n, prepared.doc, next); return; }
+      audio.pause();
+      fetchEp(n).then(function(doc) { swapIn(n, doc, next); }).catch(navigate);
+    }
 
     var plPanel = document.getElementById('playlist');
     var plBtn = document.getElementById('playlistBtn');
@@ -1031,7 +1185,7 @@ const segmentsForClient = segs.map(s => ({
     }
     plBtn.addEventListener('click', function() { openList(plPanel.hidden); });
     document.getElementById('plClose').addEventListener('click', function() { openList(false); });
-    document.addEventListener('keydown', function(e) { if (e.key === 'Escape' && !plPanel.hidden) openList(false); });
+    document.addEventListener('keydown', function(e) { if (e.key === 'Escape' && !plPanel.hidden) openList(false); }, sig);
     document.getElementById('plOrder').addEventListener('click', function(e) {
       var b = e.target.closest('button'); if (!b) return;
       plOrder = b.getAttribute('data-order');
@@ -1050,7 +1204,7 @@ const segmentsForClient = segs.map(s => ({
     plListEl.addEventListener('click', function(e) {
       var a = e.target.closest('a.pl-item'); if (!a) return;
       ga('playlist_pick', { to: 'ep' + a.getAttribute('data-n') });
-      if (!audio.paused) { e.preventDefault(); location.href = a.getAttribute('href') + '?play=1'; }
+      if (!audio.paused) { e.preventDefault(); goToEpisode(a.getAttribute('data-n'), { play: true }); }
     });
 
     // ===== Chinese translation lines on/off (global preference) =====
@@ -1096,7 +1250,7 @@ const segmentsForClient = segs.map(s => ({
       if (nav) {
         ga('episode_nav', { direction: nav.classList.contains('ep-nav-prev') ? 'prev' : 'next' });
       }
-    });
+    }, sig);
 
     // ===== Keyboard =====
     document.addEventListener('keydown', function(e) {
@@ -1109,24 +1263,25 @@ const segmentsForClient = segs.map(s => ({
           break;
         case 'ArrowLeft':
           e.preventDefault();
-          audio.currentTime = Math.max(0, audio.currentTime - 5);
+          seek(Math.max(0, pos() - 5));
           break;
         case 'ArrowRight':
           e.preventDefault();
-          audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 5);
+          seek(Math.min(audio.duration || 0, pos() + 5));
           break;
         case 'ArrowUp':
           e.preventDefault();
           if (practiceMode) { if (practiceIdx > 0) { playPractice(practiceIdx - 1); } }
-          else if (activeIndex > 0) { audio.currentTime = segments[activeIndex - 1].start; tryPlay(); }
+          else if (activeIndex > 0) { seek(segments[activeIndex - 1].start); tryPlay(); }
           break;
         case 'ArrowDown':
           e.preventDefault();
           if (practiceMode) { if (practiceIdx < practicePairs.length - 1) { playPractice(practiceIdx + 1); } }
-          else if (activeIndex < segments.length - 1) { audio.currentTime = segments[activeIndex + 1].start; tryPlay(); }
+          else if (activeIndex < segments.length - 1) { seek(segments[activeIndex + 1].start); tryPlay(); }
           break;
       }
-    });
-  });
+    }, sig);
+  }
+  document.addEventListener('DOMContentLoaded', function() { initEpisode({}); });
   </script>
 </Layout>
