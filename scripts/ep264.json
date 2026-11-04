@@ -1,0 +1,644 @@
+{
+  "episode": 264,
+  "title": "無印良品、クレジットカード番号109万件が漏えいのおそれ",
+  "titleZh": "无印良品约109万条信用卡号或遭泄露",
+  "titleEn": "MUJI says 1.09 million credit card numbers may have leaked",
+  "date": "2026-11-04",
+  "source": "NHK / TBS NEWS DIG / 日本ネット経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026110401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November fourth, the company behind MUJI says about a million credit card numbers may have leaked. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「無印良品」を運営する「良品計画」は、11月4日、会員の情報について新しい発表をしました。",
+      "tts": "「無印良品」を運営する「りょうひんけいかく」は、11月4日、会員の情報について新しい発表をしました。",
+      "zh": "经营“无印良品”的良品计画于11月4日发布了有关会员信息的新消息。",
+      "en": "Ryohin Keikaku, which runs MUJI, made a new announcement about its members' information on November 4.",
+      "ruby": "「<ruby>無印良品<rt>むじるしりょうひん</rt></ruby>」を<span class=\"vw\" data-ja=\"運営する\" data-reading=\"うんえいする\" data-en=\"to run, to operate (a business)\"><ruby>運営<rt>うんえい</rt></ruby>する</span>「<ruby>良品<rt>りょうひん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>」は、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>、<ruby>会員<rt>かいいん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>について<ruby>新しい<rt>あたらしい</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社のシステムに、外から不正なアクセスがあったということです。",
+      "zh": "据称，公司系统遭到了来自外部的非法访问。",
+      "en": "The company says there was unauthorized access to its system from outside.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスがあったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、クレジットカードの番号、およそ109万件が漏れたおそれがあります。",
+      "zh": "因此，约109万条信用卡号码可能已经泄露。",
+      "en": "Because of this, about 1.09 million credit card numbers may have leaked.",
+      "ruby": "このため、クレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>、およそ109<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "対象は、2021年7月までに「MUJI Card」を作った人です。",
+      "tts": "対象は、2021年7月までに「ムジカード」を作った人です。",
+      "zh": "涉及的是2021年7月之前办理“MUJI Card”的人。",
+      "en": "Those affected are people who got a MUJI Card by July 2021.",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, those affected\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、2021<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>までに「MUJI Card」を<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "カードの番号は、全部の桁が見られた可能性があります。",
+      "zh": "信用卡号码的所有位数都可能被看到了。",
+      "en": "All the digits of the card numbers may have been seen.",
+      "ruby": "カードの<ruby>番号<rt>ばんごう</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>の<span class=\"vw\" data-ja=\"桁\" data-reading=\"けた\" data-en=\"digit (of a number)\"><ruby>桁<rt>けた</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れた<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "カードのIDや生年月日も含まれていました。",
+      "zh": "其中还包括卡的ID和出生日期。",
+      "en": "Card IDs and dates of birth were also included.",
+      "ruby": "カードのIDや<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>も<ruby>含ま<rt>ふくま</rt></ruby>れていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、カードの有効期限やセキュリティコードは含まれていません。",
+      "zh": "不过，其中不包括卡的有效期和安全码。",
+      "en": "However, card expiry dates and security codes were not included.",
+      "ruby": "ただ、カードの<span class=\"vw\" data-ja=\"有効期限\" data-reading=\"ゆうこうきげん\" data-en=\"expiry date\"><ruby>有効期限<rt>ゆうこうきげん</rt></ruby></span>やセキュリティコードは<ruby>含ま<rt>ふくま</rt></ruby>れていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "109万件のうち、今も使えるカードは、およそ34万5000件です。",
+      "zh": "在109万条中，目前仍可使用的卡约有34万5000张。",
+      "en": "Of the 1.09 million, about 345,000 cards can still be used.",
+      "ruby": "109<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>のうち、<ruby>今<rt>いま</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>るカードは、およそ34<ruby>万<rt>まん</rt></ruby>5000<ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、会員に特典をあげるために、カードの番号を受け取っていました。",
+      "zh": "公司为了给会员提供优惠，曾获取了信用卡号码。",
+      "en": "The company had received the card numbers in order to give members special benefits.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>会員<rt>かいいん</rt></ruby>に<span class=\"vw\" data-ja=\"特典\" data-reading=\"とくてん\" data-en=\"special benefit, perk\"><ruby>特典<rt>とくてん</rt></ruby></span>をあげるために、カードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その番号が、システムの中に残っていたということです。",
+      "zh": "据称，这些号码一直留在系统里。",
+      "en": "Those numbers had remained in the system, the company says.",
+      "ruby": "その<ruby>番号<rt>ばんごう</rt></ruby>が、システムの<ruby>中に<rt>なかに</rt></ruby><ruby>残っ<rt>のこっ</rt></ruby>ていたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "良品計画は、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。",
+      "tts": "りょうひんけいかくは、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。",
+      "zh": "良品计画在10月30日也曾宣布，最多约2726万条会员信息可能已经泄露。",
+      "en": "On October 30, Ryohin Keikaku had also announced that up to about 27.26 million records of member information may have leaked.",
+      "ruby": "<ruby>良品<rt>りょうひん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>にも、<ruby>会員<rt>かいいん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, at most\"><ruby>最大<rt>さいだい</rt></ruby></span>およそ2726<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、不正なアクセスはもう止めたと話しています。",
+      "zh": "公司表示，已经阻止了非法访问。",
+      "en": "The company says it has already stopped the unauthorized access.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスはもう<ruby>止め<rt>とめ</rt></ruby>たと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、カードが不正に使われた被害は見つかっていません。",
+      "zh": "目前还没有发现信用卡被盗用的损失。",
+      "en": "So far, no damage from cards being used fraudulently has been found.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、カードが<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>れた<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かっていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、カードの利用明細をよく確認するよう呼びかけています。",
+      "zh": "公司呼吁大家仔细确认信用卡的消费明细。",
+      "en": "The company is urging people to check their card statements carefully.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、カードの<ruby>利用明細<rt>りようめいさい</rt></ruby>をよく<ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "知らない支払いがあったら、カードの会社に連絡してほしいということです。",
+      "zh": "如果有不认识的付款，希望联系信用卡公司。",
+      "en": "If there is a payment they don't recognize, it asks them to contact the card company.",
+      "ruby": "<ruby>知ら<rt>しら</rt></ruby>ない<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>があったら、カードの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>してほしいということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "「無印良品」を運営する「良品計画」は、11月4日、会員の情報について新しい発表をしました。",
+      "tts": "「無印良品」を運営する「りょうひんけいかく」は、11月4日、会員の情報について新しい発表をしました。",
+      "ruby": "「<ruby>無印良品<rt>むじるしりょうひん</rt></ruby>」を<span class=\"vw\" data-ja=\"運営する\" data-reading=\"うんえいする\" data-en=\"to run, to operate (a business)\"><ruby>運営<rt>うんえい</rt></ruby>する</span>「<ruby>良品<rt>りょうひん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>」は、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>、<ruby>会員<rt>かいいん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>について<ruby>新しい<rt>あたらしい</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ryohin Keikaku, the company that runs MUJI, made a new announcement about its members' information on November fourth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運営する",
+      "ruby": "<span class=\"vw\" data-ja=\"運営する\" data-reading=\"うんえいする\" data-en=\"to run, to operate (a business)\"><ruby>運営<rt>うんえい</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to run or operate a business."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社のシステムに、外から不正なアクセスがあったということです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスがあったということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says someone got into its system from outside without permission."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不正",
+      "ruby": "<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means illegal, or not allowed."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、クレジットカードの番号、およそ109万件が漏れたおそれがあります。",
+      "ruby": "このため、クレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>、およそ109<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, about one point zero nine million credit card numbers may have leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漏れる",
+      "ruby": "<span class=\"vw\" data-ja=\"漏れる\" data-reading=\"もれる\" data-en=\"to leak\"><ruby>漏れ<rt>もれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leak."
+    },
+    {
+      "speaker": "slow",
+      "text": "対象は、2021年7月までに「MUJI Card」を作った人です。",
+      "tts": "対象は、2021年7月までに「ムジカード」を作った人です。",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, those affected\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、2021<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>までに「MUJI Card」を<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The people affected are those who got a MUJI Card by July twenty twenty-one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対象",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, those affected\"><ruby>対象<rt>たいしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the people or things something applies to."
+    },
+    {
+      "speaker": "slow",
+      "text": "カードの番号は、全部の桁が見られた可能性があります。",
+      "ruby": "カードの<ruby>番号<rt>ばんごう</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>の<span class=\"vw\" data-ja=\"桁\" data-reading=\"けた\" data-en=\"digit (of a number)\"><ruby>桁<rt>けた</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れた<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "All the digits of the card numbers may have been seen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "桁",
+      "ruby": "<span class=\"vw\" data-ja=\"桁\" data-reading=\"けた\" data-en=\"digit (of a number)\"><ruby>桁<rt>けた</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a digit in a number."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただ、カードの有効期限やセキュリティコードは含まれていません。",
+      "ruby": "ただ、カードの<span class=\"vw\" data-ja=\"有効期限\" data-reading=\"ゆうこうきげん\" data-en=\"expiry date\"><ruby>有効期限<rt>ゆうこうきげん</rt></ruby></span>やセキュリティコードは<ruby>含ま<rt>ふくま</rt></ruby>れていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "However, the expiry dates and security codes were not included."
+    },
+    {
+      "speaker": "vocab",
+      "text": "有効期限",
+      "ruby": "<span class=\"vw\" data-ja=\"有効期限\" data-reading=\"ゆうこうきげん\" data-en=\"expiry date\"><ruby>有効期限<rt>ゆうこうきげん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means expiry date."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、会員に特典をあげるために、カードの番号を受け取っていました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>会員<rt>かいいん</rt></ruby>に<span class=\"vw\" data-ja=\"特典\" data-reading=\"とくてん\" data-en=\"special benefit, perk\"><ruby>特典<rt>とくてん</rt></ruby></span>をあげるために、カードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company had received the card numbers to give members special benefits."
+    },
+    {
+      "speaker": "vocab",
+      "text": "特典",
+      "ruby": "<span class=\"vw\" data-ja=\"特典\" data-reading=\"とくてん\" data-en=\"special benefit, perk\"><ruby>特典<rt>とくてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a special benefit or perk."
+    },
+    {
+      "speaker": "slow",
+      "text": "良品計画は、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。",
+      "tts": "りょうひんけいかくは、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。",
+      "ruby": "<ruby>良品<rt>りょうひん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>にも、<ruby>会員<rt>かいいん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, at most\"><ruby>最大<rt>さいだい</rt></ruby></span>およそ2726<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>していました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October thirtieth, the company had also said that up to about twenty-seven million member records may have leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最大",
+      "ruby": "<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, at most\"><ruby>最大<rt>さいだい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means at most, the maximum."
+    },
+    {
+      "speaker": "slow",
+      "text": "今のところ、カードが不正に使われた被害は見つかっていません。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、カードが<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>れた<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かっていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, no damage from cards being misused has been found."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被害",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means damage or harm suffered."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、カードの利用明細をよく確認するよう呼びかけています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、カードの<ruby>利用明細<rt>りようめいさい</rt></ruby>をよく<ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company is asking people to check their card statements carefully."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on, to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people to do something."
+    },
+    {
+      "speaker": "slow",
+      "text": "知らない支払いがあったら、カードの会社に連絡してほしいということです。",
+      "ruby": "<ruby>知ら<rt>しら</rt></ruby>ない<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>があったら、カードの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>してほしいということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "If there is a payment they don't know about, they should contact the card company."
+    },
+    {
+      "speaker": "vocab",
+      "text": "支払い",
+      "ruby": "<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a payment."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「無印良品」を運営する「良品計画」は、11月4日、会員の情報について新しい発表をしました。",
+      "tts": "「無印良品」を運営する「りょうひんけいかく」は、11月4日、会員の情報について新しい発表をしました。",
+      "zh": "经营“无印良品”的良品计画于11月4日发布了有关会员信息的新消息。",
+      "en": "Ryohin Keikaku, which runs MUJI, made a new announcement about its members' information on November 4.",
+      "ruby": "「<ruby>無印良品<rt>むじるしりょうひん</rt></ruby>」を<span class=\"vw\" data-ja=\"運営する\" data-reading=\"うんえいする\" data-en=\"to run, to operate (a business)\"><ruby>運営<rt>うんえい</rt></ruby>する</span>「<ruby>良品<rt>りょうひん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>」は、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>、<ruby>会員<rt>かいいん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>について<ruby>新しい<rt>あたらしい</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>をしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社のシステムに、外から不正なアクセスがあったということです。",
+      "zh": "据称，公司系统遭到了来自外部的非法访问。",
+      "en": "The company says there was unauthorized access to its system from outside.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスがあったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、クレジットカードの番号、およそ109万件が漏れたおそれがあります。",
+      "zh": "因此，约109万条信用卡号码可能已经泄露。",
+      "en": "Because of this, about 1.09 million credit card numbers may have leaked.",
+      "ruby": "このため、クレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>、およそ109<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "対象は、2021年7月までに「MUJI Card」を作った人です。",
+      "tts": "対象は、2021年7月までに「ムジカード」を作った人です。",
+      "zh": "涉及的是2021年7月之前办理“MUJI Card”的人。",
+      "en": "Those affected are people who got a MUJI Card by July 2021.",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, those affected\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、2021<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>までに「MUJI Card」を<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "カードの番号は、全部の桁が見られた可能性があります。",
+      "zh": "信用卡号码的所有位数都可能被看到了。",
+      "en": "All the digits of the card numbers may have been seen.",
+      "ruby": "カードの<ruby>番号<rt>ばんごう</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>の<span class=\"vw\" data-ja=\"桁\" data-reading=\"けた\" data-en=\"digit (of a number)\"><ruby>桁<rt>けた</rt></ruby></span>が<ruby>見ら<rt>みら</rt></ruby>れた<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "カードのIDや生年月日も含まれていました。",
+      "zh": "其中还包括卡的ID和出生日期。",
+      "en": "Card IDs and dates of birth were also included.",
+      "ruby": "カードのIDや<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>も<ruby>含ま<rt>ふくま</rt></ruby>れていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、カードの有効期限やセキュリティコードは含まれていません。",
+      "zh": "不过，其中不包括卡的有效期和安全码。",
+      "en": "However, card expiry dates and security codes were not included.",
+      "ruby": "ただ、カードの<span class=\"vw\" data-ja=\"有効期限\" data-reading=\"ゆうこうきげん\" data-en=\"expiry date\"><ruby>有効期限<rt>ゆうこうきげん</rt></ruby></span>やセキュリティコードは<ruby>含ま<rt>ふくま</rt></ruby>れていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "109万件のうち、今も使えるカードは、およそ34万5000件です。",
+      "zh": "在109万条中，目前仍可使用的卡约有34万5000张。",
+      "en": "Of the 1.09 million, about 345,000 cards can still be used.",
+      "ruby": "109<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>のうち、<ruby>今<rt>いま</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>るカードは、およそ34<ruby>万<rt>まん</rt></ruby>5000<ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、会員に特典をあげるために、カードの番号を受け取っていました。",
+      "zh": "公司为了给会员提供优惠，曾获取了信用卡号码。",
+      "en": "The company had received the card numbers in order to give members special benefits.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>会員<rt>かいいん</rt></ruby>に<span class=\"vw\" data-ja=\"特典\" data-reading=\"とくてん\" data-en=\"special benefit, perk\"><ruby>特典<rt>とくてん</rt></ruby></span>をあげるために、カードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その番号が、システムの中に残っていたということです。",
+      "zh": "据称，这些号码一直留在系统里。",
+      "en": "Those numbers had remained in the system, the company says.",
+      "ruby": "その<ruby>番号<rt>ばんごう</rt></ruby>が、システムの<ruby>中に<rt>なかに</rt></ruby><ruby>残っ<rt>のこっ</rt></ruby>ていたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "良品計画は、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。",
+      "tts": "りょうひんけいかくは、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。",
+      "zh": "良品计画在10月30日也曾宣布，最多约2726万条会员信息可能已经泄露。",
+      "en": "On October 30, Ryohin Keikaku had also announced that up to about 27.26 million records of member information may have leaked.",
+      "ruby": "<ruby>良品<rt>りょうひん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>にも、<ruby>会員<rt>かいいん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>、<span class=\"vw\" data-ja=\"最大\" data-reading=\"さいだい\" data-en=\"maximum, at most\"><ruby>最大<rt>さいだい</rt></ruby></span>およそ2726<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、不正なアクセスはもう止めたと話しています。",
+      "zh": "公司表示，已经阻止了非法访问。",
+      "en": "The company says it has already stopped the unauthorized access.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスはもう<ruby>止め<rt>とめ</rt></ruby>たと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、カードが不正に使われた被害は見つかっていません。",
+      "zh": "目前还没有发现信用卡被盗用的损失。",
+      "en": "So far, no damage from cards being used fraudulently has been found.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、カードが<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal, unauthorized\"><ruby>不正<rt>ふせい</rt></ruby></span>に<ruby>使わ<rt>つかわ</rt></ruby>れた<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>見つ<rt>みつ</rt></ruby>かっていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、カードの利用明細をよく確認するよう呼びかけています。",
+      "zh": "公司呼吁大家仔细确认信用卡的消费明细。",
+      "en": "The company is urging people to check their card statements carefully.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、カードの<ruby>利用明細<rt>りようめいさい</rt></ruby>をよく<ruby>確認す<rt>かくにんす</rt></ruby>るよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "知らない支払いがあったら、カードの会社に連絡してほしいということです。",
+      "zh": "如果有不认识的付款，希望联系信用卡公司。",
+      "en": "If there is a payment they don't recognize, it asks them to contact the card company.",
+      "ruby": "<ruby>知ら<rt>しら</rt></ruby>ない<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>があったら、カードの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>してほしいということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "クレジットカードの番号は、およそ何件漏れたおそれがありますか。",
+      "ruby": "クレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>は、およそ<ruby>何件<rt>なんけん</rt></ruby><ruby>漏れ<rt>もれ</rt></ruby>たおそれがありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one point zero nine million."
+    },
+    {
+      "speaker": "slow",
+      "text": "今も使えるカードは、およそ何件ですか。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>るカードは、およそ<ruby>何件<rt>なんけん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three hundred forty-five thousand."
+    },
+    {
+      "speaker": "slow",
+      "text": "知らない支払いがあったら、どこに連絡しますか。",
+      "ruby": "<ruby>知ら<rt>しら</rt></ruby>ない<span class=\"vw\" data-ja=\"支払い\" data-reading=\"しはらい\" data-en=\"payment\"><ruby>支払い<rt>しはらい</rt></ruby></span>があったら、どこに<ruby>連絡<rt>れんらく</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The card company."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. Check your statements, thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "運営する",
+      "reading": "うんえいする",
+      "en": "to run, to operate (a business)",
+      "zh": "经营，运营"
+    },
+    {
+      "ja": "不正",
+      "reading": "ふせい",
+      "en": "illegal, unauthorized",
+      "zh": "非法，不正当"
+    },
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak",
+      "zh": "泄露，漏出"
+    },
+    {
+      "ja": "対象",
+      "reading": "たいしょう",
+      "en": "target, those affected",
+      "zh": "对象"
+    },
+    {
+      "ja": "桁",
+      "reading": "けた",
+      "en": "digit (of a number)",
+      "zh": "位数"
+    },
+    {
+      "ja": "有効期限",
+      "reading": "ゆうこうきげん",
+      "en": "expiry date",
+      "zh": "有效期"
+    },
+    {
+      "ja": "特典",
+      "reading": "とくてん",
+      "en": "special benefit, perk",
+      "zh": "优惠，特别待遇"
+    },
+    {
+      "ja": "最大",
+      "reading": "さいだい",
+      "en": "maximum, at most",
+      "zh": "最多，最大"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage, harm",
+      "zh": "损失，受害"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to urge",
+      "zh": "呼吁"
+    },
+    {
+      "ja": "支払い",
+      "reading": "しはらい",
+      "en": "payment",
+      "zh": "付款，支付"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~ (something bad)",
+      "meaningZh": "有……的危险，恐怕会……",
+      "formation": "Verb plain form + おそれがある / Noun + のおそれがある",
+      "example": "クレジットカードの番号、およそ109万件が漏れたおそれがあります。",
+      "translation": "About 1.09 million credit card numbers may have leaked.",
+      "note": "Used in news for bad things that may happen or may have happened.",
+      "noteZh": "新闻中常用，表示可能发生（或已发生）不好的事情。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~, reportedly ~",
+      "meaningZh": "据说……，据称……",
+      "formation": "Plain form + ということです",
+      "example": "その番号が、システムの中に残っていたということです。",
+      "translation": "Those numbers had reportedly remained in the system.",
+      "note": "Reports information heard from someone else; very common at the end of news sentences.",
+      "noteZh": "转述从别处得到的信息，新闻句尾非常常见。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~",
+      "meaningZh": "为了……",
+      "formation": "Verb dictionary form + ために / Noun + のために",
+      "example": "会社は、会員に特典をあげるために、カードの番号を受け取っていました。",
+      "translation": "The company had received the card numbers in order to give members benefits.",
+      "note": "Shows the purpose of an action.",
+      "noteZh": "表示行为的目的。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜よう呼びかける",
+      "meaning": "to urge (people) to ~",
+      "meaningZh": "呼吁（大家）……",
+      "formation": "Verb dictionary / ない-form + よう(に)呼びかける",
+      "example": "会社は、カードの利用明細をよく確認するよう呼びかけています。",
+      "translation": "The company is urging people to check their card statements carefully.",
+      "note": "Used when an organization asks the public to do something.",
+      "noteZh": "用于机构向公众发出请求或提醒。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "「無印良品」を運営する「良品計画」は、11月4日、会員の情報について新しい発表をしました。\n经营“无印良品”的良品计画于11月4日发布了有关会员信息的新消息。\n運営する = to run, to operate (a business)",
+    "会社のシステムに、外から不正なアクセスがあったということです。\n据称，公司系统遭到了来自外部的非法访问。\n不正 = illegal, unauthorized",
+    "このため、クレジットカードの番号、およそ109万件が漏れたおそれがあります。\n因此，约109万条信用卡号码可能已经泄露。\n漏れる = to leak",
+    "対象は、2021年7月までに「MUJI Card」を作った人です。\n涉及的是2021年7月之前办理“MUJI Card”的人。\n対象 = target, those affected",
+    "カードの番号は、全部の桁が見られた可能性があります。\n信用卡号码的所有位数都可能被看到了。\n桁 = digit (of a number)",
+    "ただ、カードの有効期限やセキュリティコードは含まれていません。\n不过，其中不包括卡的有效期和安全码。\n有効期限 = expiry date",
+    "会社は、会員に特典をあげるために、カードの番号を受け取っていました。\n公司为了给会员提供优惠，曾获取了信用卡号码。\n特典 = special benefit, perk",
+    "良品計画は、10月30日にも、会員の情報、最大およそ2726万件が漏れたおそれがあると発表していました。\n良品计画在10月30日也曾宣布，最多约2726万条会员信息可能已经泄露。\n最大 = maximum, at most",
+    "今のところ、カードが不正に使われた被害は見つかっていません。\n目前还没有发现信用卡被盗用的损失。\n被害 = damage, harm",
+    "会社は、カードの利用明細をよく確認するよう呼びかけています。\n公司呼吁大家仔细确认信用卡的消费明细。\n呼びかける = to call on, to urge",
+    "知らない支払いがあったら、カードの会社に連絡してほしいということです。\n如果有不认识的付款，希望联系信用卡公司。\n支払い = payment"
+  ]
+}
