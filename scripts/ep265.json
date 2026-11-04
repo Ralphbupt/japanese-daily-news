@@ -1,0 +1,496 @@
+{
+  "episode": 265,
+  "title": "日本で唯一のラッコ、鳥羽水族館で見られなくなる",
+  "titleZh": "日本仅有的海獭暂停展出，鸟羽水族馆",
+  "titleEn": "Japan's only sea otters taken off display at Toba Aquarium",
+  "date": "2026-11-05",
+  "source": "メ～テレ / ライブドアニュース / 鳥羽水族館",
+  "level": "N5-N4",
+  "contentVersion": "2026110501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November fifth, the only aquarium in Japan with sea otters has stopped showing them, because one of them is sick. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "三重県の鳥羽水族館で、11月4日から、人気のラッコを見ることができなくなりました。",
+      "tts": "三重県のとば水族館で、11月4日から、人気のラッコを見ることができなくなりました。",
+      "zh": "三重县的鸟羽水族馆从11月4日起看不到人气很高的海獭了。",
+      "en": "From November 4, visitors can no longer see the popular sea otters at Toba Aquarium in Mie Prefecture.",
+      "ruby": "<ruby>三重県<rt>みえけん</rt></ruby>の<ruby>鳥羽<rt>とば</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>から、<ruby>人気<rt>にんき</rt></ruby>のラッコを<ruby>見る<rt>みる</rt></ruby>ことができなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館にいる18歳のメスのラッコ、「キラ」の体の調子が悪いからです。",
+      "zh": "这是因为水族馆里18岁的雌性海獭“基拉”身体状况不好。",
+      "en": "This is because Kira, an 18-year-old female sea otter at the aquarium, is in poor health.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>にいる18<ruby>歳<rt>さい</rt></ruby>のメスのラッコ、「キラ」の<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"調子\" data-reading=\"ちょうし\" data-en=\"condition, shape\"><ruby>調子<rt>ちょうし</rt></ruby></span>が<ruby>悪い<rt>わるい</rt></ruby>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「キラ」は、8月ごろから、体をうまく動かすことができなくなってきました。",
+      "zh": "从8月前后开始，“基拉”渐渐无法很好地活动身体了。",
+      "en": "Since around August, Kira has gradually become unable to move her body well.",
+      "ruby": "「キラ」は、8<ruby>月<rt>がつ</rt></ruby>ごろから、<ruby>体<rt>からだ</rt></ruby>をうまく<ruby>動か<rt>うごか</rt></ruby>すことができなくなってきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近は、体重も減ってきています。",
+      "zh": "最近，体重也在逐渐下降。",
+      "en": "Recently, her weight has also been going down.",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>体重<rt>たいじゅう</rt></ruby>も<ruby>減っ<rt>へっ</rt></ruby>てきています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は今、「キラ」の治療と世話を続けています。",
+      "zh": "水族馆目前正在继续为“基拉”治疗和照顾它。",
+      "en": "The aquarium is now continuing to treat and care for Kira.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、「キラ」の<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>と<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care, looking after\"><ruby>世話<rt>せわ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の1月から、日本でラッコがいる水族館は、ここだけになりました。",
+      "zh": "从去年1月起，日本有海獭的水族馆就只剩这一家了。",
+      "en": "Since January last year, this has been the only aquarium in Japan with sea otters.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から、<ruby>日本<rt>にほん</rt></ruby>でラッコがいる<ruby>水族館<rt>すいぞくかん</rt></ruby>は、ここだけになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館には、22歳の「メイ」と18歳の「キラ」の2匹のラッコがいます。",
+      "zh": "水族馆里有两只海獭：22岁的“梅”和18岁的“基拉”。",
+      "en": "The aquarium has two sea otters: Mei, who is 22, and Kira, who is 18.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>には、22<ruby>歳<rt>さい</rt></ruby>の「メイ」と18<ruby>歳<rt>さい</rt></ruby>の「キラ」の2<ruby>匹<rt>ひき</rt></ruby>のラッコがいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、2匹とも、しばらく見ることができないと発表しました。",
+      "zh": "水族馆宣布，两只海獭暂时都看不到了。",
+      "en": "The aquarium announced that neither of the two can be seen for a while.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は、2<ruby>匹<rt>ひき</rt></ruby>とも、<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span><ruby>見る<rt>みる</rt></ruby>ことができないと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "インターネットで見ることができるライブ配信も、しばらく休みます。",
+      "zh": "在网上可以观看的直播也暂停一段时间。",
+      "en": "The live stream that people can watch on the internet will also be paused for a while.",
+      "ruby": "インターネットで<ruby>見る<rt>みる</rt></ruby>ことができるライブ<ruby>配信<rt>はいしん</rt></ruby>も、<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span><ruby>休み<rt>やすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、また見ることができるようになったときに、もう一度知らせると言っています。",
+      "zh": "水族馆表示，等到可以再次参观时，会再通知大家。",
+      "en": "The aquarium says it will let people know when they can see the otters again.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は、また<ruby>見る<rt>みる</rt></ruby>ことができるようになったときに、もう<ruby>一度<rt>いちど</rt></ruby><span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let someone know, to inform\"><ruby>知らせ<rt>しらせ</rt></ruby>ると</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "三重県の鳥羽水族館で、11月4日から、人気のラッコを見ることができなくなりました。",
+      "tts": "三重県のとば水族館で、11月4日から、人気のラッコを見ることができなくなりました。",
+      "ruby": "<ruby>三重県<rt>みえけん</rt></ruby>の<ruby>鳥羽<rt>とば</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>から、<ruby>人気<rt>にんき</rt></ruby>のラッコを<ruby>見る<rt>みる</rt></ruby>ことができなくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From November fourth, people can no longer see the popular sea otters at an aquarium in Mie Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館にいる18歳のメスのラッコ、「キラ」の体の調子が悪いからです。",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>にいる18<ruby>歳<rt>さい</rt></ruby>のメスのラッコ、「キラ」の<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"調子\" data-reading=\"ちょうし\" data-en=\"condition, shape\"><ruby>調子<rt>ちょうし</rt></ruby></span>が<ruby>悪い<rt>わるい</rt></ruby>からです。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is because Kira, an eighteen-year-old female sea otter at the aquarium, is not in good health."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調子",
+      "ruby": "<span class=\"vw\" data-ja=\"調子\" data-reading=\"ちょうし\" data-en=\"condition, shape\"><ruby>調子<rt>ちょうし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means condition. Saying the condition is bad means someone is not feeling well."
+    },
+    {
+      "speaker": "slow",
+      "text": "「キラ」は、8月ごろから、体をうまく動かすことができなくなってきました。",
+      "ruby": "「キラ」は、8<ruby>月<rt>がつ</rt></ruby>ごろから、<ruby>体<rt>からだ</rt></ruby>をうまく<ruby>動か<rt>うごか</rt></ruby>すことができなくなってきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since around August, Kira has slowly become unable to move her body well."
+    },
+    {
+      "speaker": "vocab",
+      "text": "うまく",
+      "ruby": "<span class=\"vw\" data-ja=\"うまく\" data-reading=\"うまく\" data-en=\"well, skillfully\">うまく</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means well or smoothly. With a negative, it means something does not go well."
+    },
+    {
+      "speaker": "slow",
+      "text": "最近は、体重も減ってきています。",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>体重<rt>たいじゅう</rt></ruby>も<ruby>減っ<rt>へっ</rt></ruby>てきています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Recently, her weight has also been going down."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease, to go down\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館は今、「キラ」の治療と世話を続けています。",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、「キラ」の<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>と<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care, looking after\"><ruby>世話<rt>せわ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium is now continuing to give Kira medical treatment and care."
+    },
+    {
+      "speaker": "vocab",
+      "text": "治療",
+      "ruby": "<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means medical treatment."
+    },
+    {
+      "speaker": "vocab",
+      "text": "世話",
+      "ruby": "<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care, looking after\"><ruby>世話<rt>せわ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means taking care of someone, like feeding and looking after an animal."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の1月から、日本でラッコがいる水族館は、ここだけになりました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から、<ruby>日本<rt>にほん</rt></ruby>でラッコがいる<ruby>水族館<rt>すいぞくかん</rt></ruby>は、ここだけになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since January last year, this has been the only aquarium in Japan that has sea otters."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館には、22歳の「メイ」と18歳の「キラ」の2匹のラッコがいます。",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>には、22<ruby>歳<rt>さい</rt></ruby>の「メイ」と18<ruby>歳<rt>さい</rt></ruby>の「キラ」の2<ruby>匹<rt>ひき</rt></ruby>のラッコがいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium has two sea otters: twenty-two-year-old Mei, and eighteen-year-old Kira."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館は、2匹とも、しばらく見ることができないと発表しました。",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は、2<ruby>匹<rt>ひき</rt></ruby>とも、<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span><ruby>見る<rt>みる</rt></ruby>ことができないと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium announced that, for a while, people cannot see either of them."
+    },
+    {
+      "speaker": "vocab",
+      "text": "しばらく",
+      "ruby": "<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for a while."
+    },
+    {
+      "speaker": "slow",
+      "text": "インターネットで見ることができるライブ配信も、しばらく休みます。",
+      "ruby": "インターネットで<ruby>見る<rt>みる</rt></ruby>ことができるライブ<ruby>配信<rt>はいしん</rt></ruby>も、<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span><ruby>休み<rt>やすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The live stream that people can watch on the internet will also take a break for a while."
+    },
+    {
+      "speaker": "slow",
+      "text": "水族館は、また見ることができるようになったときに、もう一度知らせると言っています。",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は、また<ruby>見る<rt>みる</rt></ruby>ことができるようになったときに、もう<ruby>一度<rt>いちど</rt></ruby><span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let someone know, to inform\"><ruby>知らせ<rt>しらせ</rt></ruby>ると</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "The aquarium says it will let people know when the otters can be seen again."
+    },
+    {
+      "speaker": "vocab",
+      "text": "知らせる",
+      "ruby": "<span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let someone know, to inform\"><ruby>知らせ<rt>しらせ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to let people know."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "三重県の鳥羽水族館で、11月4日から、人気のラッコを見ることができなくなりました。",
+      "tts": "三重県のとば水族館で、11月4日から、人気のラッコを見ることができなくなりました。",
+      "zh": "三重县的鸟羽水族馆从11月4日起看不到人气很高的海獭了。",
+      "en": "From November 4, visitors can no longer see the popular sea otters at Toba Aquarium in Mie Prefecture.",
+      "ruby": "<ruby>三重県<rt>みえけん</rt></ruby>の<ruby>鳥羽<rt>とば</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>から、<ruby>人気<rt>にんき</rt></ruby>のラッコを<ruby>見る<rt>みる</rt></ruby>ことができなくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館にいる18歳のメスのラッコ、「キラ」の体の調子が悪いからです。",
+      "zh": "这是因为水族馆里18岁的雌性海獭“基拉”身体状况不好。",
+      "en": "This is because Kira, an 18-year-old female sea otter at the aquarium, is in poor health.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>にいる18<ruby>歳<rt>さい</rt></ruby>のメスのラッコ、「キラ」の<ruby>体<rt>からだ</rt></ruby>の<span class=\"vw\" data-ja=\"調子\" data-reading=\"ちょうし\" data-en=\"condition, shape\"><ruby>調子<rt>ちょうし</rt></ruby></span>が<ruby>悪い<rt>わるい</rt></ruby>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「キラ」は、8月ごろから、体をうまく動かすことができなくなってきました。",
+      "zh": "从8月前后开始，“基拉”渐渐无法很好地活动身体了。",
+      "en": "Since around August, Kira has gradually become unable to move her body well.",
+      "ruby": "「キラ」は、8<ruby>月<rt>がつ</rt></ruby>ごろから、<ruby>体<rt>からだ</rt></ruby>をうまく<ruby>動か<rt>うごか</rt></ruby>すことができなくなってきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最近は、体重も減ってきています。",
+      "zh": "最近，体重也在逐渐下降。",
+      "en": "Recently, her weight has also been going down.",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>体重<rt>たいじゅう</rt></ruby>も<ruby>減っ<rt>へっ</rt></ruby>てきています。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は今、「キラ」の治療と世話を続けています。",
+      "zh": "水族馆目前正在继续为“基拉”治疗和照顾它。",
+      "en": "The aquarium is now continuing to treat and care for Kira.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、「キラ」の<span class=\"vw\" data-ja=\"治療\" data-reading=\"ちりょう\" data-en=\"medical treatment\"><ruby>治療<rt>ちりょう</rt></ruby></span>と<span class=\"vw\" data-ja=\"世話\" data-reading=\"せわ\" data-en=\"care, looking after\"><ruby>世話<rt>せわ</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の1月から、日本でラッコがいる水族館は、ここだけになりました。",
+      "zh": "从去年1月起，日本有海獭的水族馆就只剩这一家了。",
+      "en": "Since January last year, this has been the only aquarium in Japan with sea otters.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の1<ruby>月<rt>がつ</rt></ruby>から、<ruby>日本<rt>にほん</rt></ruby>でラッコがいる<ruby>水族館<rt>すいぞくかん</rt></ruby>は、ここだけになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館には、22歳の「メイ」と18歳の「キラ」の2匹のラッコがいます。",
+      "zh": "水族馆里有两只海獭：22岁的“梅”和18岁的“基拉”。",
+      "en": "The aquarium has two sea otters: Mei, who is 22, and Kira, who is 18.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>には、22<ruby>歳<rt>さい</rt></ruby>の「メイ」と18<ruby>歳<rt>さい</rt></ruby>の「キラ」の2<ruby>匹<rt>ひき</rt></ruby>のラッコがいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、2匹とも、しばらく見ることができないと発表しました。",
+      "zh": "水族馆宣布，两只海獭暂时都看不到了。",
+      "en": "The aquarium announced that neither of the two can be seen for a while.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は、2<ruby>匹<rt>ひき</rt></ruby>とも、<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span><ruby>見る<rt>みる</rt></ruby>ことができないと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "インターネットで見ることができるライブ配信も、しばらく休みます。",
+      "zh": "在网上可以观看的直播也暂停一段时间。",
+      "en": "The live stream that people can watch on the internet will also be paused for a while.",
+      "ruby": "インターネットで<ruby>見る<rt>みる</rt></ruby>ことができるライブ<ruby>配信<rt>はいしん</rt></ruby>も、<span class=\"vw\" data-ja=\"しばらく\" data-reading=\"しばらく\" data-en=\"for a while\">しばらく</span><ruby>休み<rt>やすみ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "水族館は、また見ることができるようになったときに、もう一度知らせると言っています。",
+      "zh": "水族馆表示，等到可以再次参观时，会再通知大家。",
+      "en": "The aquarium says it will let people know when they can see the otters again.",
+      "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>は、また<ruby>見る<rt>みる</rt></ruby>ことができるようになったときに、もう<ruby>一度<rt>いちど</rt></ruby><span class=\"vw\" data-ja=\"知らせる\" data-reading=\"しらせる\" data-en=\"to let someone know, to inform\"><ruby>知らせ<rt>しらせ</rt></ruby>ると</span><ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "「キラ」は何歳ですか。",
+      "ruby": "「キラ」は<ruby>何歳<rt>なんさい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighteen."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本にラッコは何匹いますか。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>にラッコは<ruby>何匹<rt>なんびき</rt></ruby>いますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two. Mei and Kira."
+    },
+    {
+      "speaker": "slow",
+      "text": "「キラ」は、いつごろから、体をうまく動かすことができなくなりましたか。",
+      "ruby": "「キラ」は、いつごろから、<ruby>体<rt>からだ</rt></ruby>をうまく<ruby>動か<rt>うごか</rt></ruby>すことができなくなりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since around August."
+    },
+    {
+      "speaker": "slow",
+      "text": "「キラ」は、最近、何が減っていますか。",
+      "ruby": "「キラ」は、<ruby>最近<rt>さいきん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Her weight."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Let's hope Kira gets better soon. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "調子",
+      "reading": "ちょうし",
+      "en": "condition, shape",
+      "zh": "状态，情况"
+    },
+    {
+      "ja": "うまく",
+      "reading": "うまく",
+      "en": "well, skillfully",
+      "zh": "好好地，顺利地"
+    },
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease, to go down",
+      "zh": "减少"
+    },
+    {
+      "ja": "治療",
+      "reading": "ちりょう",
+      "en": "medical treatment",
+      "zh": "治疗"
+    },
+    {
+      "ja": "世話",
+      "reading": "せわ",
+      "en": "care, looking after",
+      "zh": "照顾，照料"
+    },
+    {
+      "ja": "しばらく",
+      "reading": "しばらく",
+      "en": "for a while",
+      "zh": "暂时，一段时间"
+    },
+    {
+      "ja": "知らせる",
+      "reading": "しらせる",
+      "en": "to let someone know, to inform",
+      "zh": "通知，告知"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, to be able to ~",
+      "meaningZh": "能……，可以……",
+      "formation": "Verb dictionary form + ことができる",
+      "example": "8月ごろから、体をうまく動かすことができなくなってきました。",
+      "translation": "Since around August, she has become unable to move her body well.",
+      "note": "A standard way to say what is possible. The negative is ことができない.",
+      "noteZh": "表示能够做某事，否定形式为ことができない。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜からです",
+      "meaning": "it is because ~",
+      "meaningZh": "是因为……",
+      "formation": "Plain form + からです",
+      "example": "「キラ」の体の調子が悪いからです。",
+      "translation": "It is because Kira is in poor health.",
+      "note": "Gives the reason for the sentence before it.",
+      "noteZh": "用来说明前一句内容的原因。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to become able to ~, to come to ~",
+      "meaningZh": "变得（能）……",
+      "formation": "Verb dictionary / potential form + ようになる",
+      "example": "また見ることができるようになったときに、もう一度知らせると言っています。",
+      "translation": "They say they will let people know again when the otters can be seen again.",
+      "note": "Shows a change in ability or habit.",
+      "noteZh": "表示能力或状态的变化。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "三重県の鳥羽水族館で、11月4日から、人気のラッコを見ることができなくなりました。\n三重县的鸟羽水族馆从11月4日起看不到人气很高的海獭了。",
+    "水族館にいる18歳のメスのラッコ、「キラ」の体の調子が悪いからです。\n这是因为水族馆里18岁的雌性海獭“基拉”身体状况不好。\n調子 = condition, shape",
+    "「キラ」は、8月ごろから、体をうまく動かすことができなくなってきました。\n从8月前后开始，“基拉”渐渐无法很好地活动身体了。\nうまく = well, skillfully",
+    "最近は、体重も減ってきています。\n最近，体重也在逐渐下降。\n減る = to decrease, to go down",
+    "水族館は今、「キラ」の治療と世話を続けています。\n水族馆目前正在继续为“基拉”治疗和照顾它。\n治療 = medical treatment / 世話 = care, looking after",
+    "去年の1月から、日本でラッコがいる水族館は、ここだけになりました。\n从去年1月起，日本有海獭的水族馆就只剩这一家了。",
+    "水族館には、22歳の「メイ」と18歳の「キラ」の2匹のラッコがいます。\n水族馆里有两只海獭：22岁的“梅”和18岁的“基拉”。",
+    "水族館は、2匹とも、しばらく見ることができないと発表しました。\n水族馆宣布，两只海獭暂时都看不到了。\nしばらく = for a while",
+    "インターネットで見ることができるライブ配信も、しばらく休みます。\n在网上可以观看的直播也暂停一段时间。",
+    "水族館は、また見ることができるようになったときに、もう一度知らせると言っています。\n水族馆表示，等到可以再次参观时，会再通知大家。\n知らせる = to let someone know, to inform"
+  ]
+}
