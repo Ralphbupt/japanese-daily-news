@@ -1,0 +1,635 @@
+{
+  "episode": 266,
+  "title": "「書道」がユネスコ無形文化遺産に登録へ",
+  "titleZh": "日本“书道”有望列入联合国非遗名录",
+  "titleEn": "Japanese calligraphy recommended for UNESCO heritage list",
+  "date": "2026-11-05",
+  "source": "NHK / 時事通信 / 毎日新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026110501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "見通し",
+      "reading": "みとおし",
+      "en": "outlook, expectation",
+      "zh": "预期，前景"
+    },
+    {
+      "ja": "ふさわしい",
+      "reading": "ふさわしい",
+      "en": "suitable, fitting",
+      "zh": "合适的，相称的"
+    },
+    {
+      "ja": "伝統",
+      "reading": "でんとう",
+      "en": "tradition",
+      "zh": "传统"
+    },
+    {
+      "ja": "含まれる",
+      "reading": "ふくまれる",
+      "en": "to be included",
+      "zh": "被包含"
+    },
+    {
+      "ja": "場面",
+      "reading": "ばめん",
+      "en": "situation, scene",
+      "zh": "场合，场面"
+    },
+    {
+      "ja": "受け継ぐ",
+      "reading": "うけつぐ",
+      "en": "to inherit, to pass down",
+      "zh": "继承，传承"
+    },
+    {
+      "ja": "最終的に",
+      "reading": "さいしゅうてきに",
+      "en": "finally, in the end",
+      "zh": "最终"
+    },
+    {
+      "ja": "これまでに",
+      "reading": "これまでに",
+      "en": "so far, until now",
+      "zh": "到目前为止"
+    },
+    {
+      "ja": "おととし",
+      "reading": "おととし",
+      "en": "the year before last",
+      "zh": "前年"
+    },
+    {
+      "ja": "一方で",
+      "reading": "いっぽうで",
+      "en": "on the other hand",
+      "zh": "另一方面"
+    },
+    {
+      "ja": "考えられる",
+      "reading": "かんがえられる",
+      "en": "to be thought, to be considered",
+      "zh": "被认为"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ば",
+      "meaning": "if ~",
+      "meaningZh": "如果……就……",
+      "formation": "Verb ば-form (決まる → 決まれば)",
+      "example": "登録が決まれば、日本の無形文化遺産は24件目になります。",
+      "translation": "If the registration is decided, it will be Japan's 24th Intangible Cultural Heritage.",
+      "note": "A conditional: if the first part happens, the second part follows.",
+      "noteZh": "表示假定条件：如果前项成立，就会出现后项结果。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てきた",
+      "meaning": "have been ~ (up to now)",
+      "meaningZh": "一直……（到现在）",
+      "formation": "Verb て-form + きた",
+      "example": "生活のいろいろな場面で使われてきました。",
+      "translation": "It has been used in many situations in daily life.",
+      "note": "Shows an action continuing from the past up to the present.",
+      "noteZh": "表示从过去一直持续到现在的动作或状态。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜という",
+      "meaning": "that says ~, called ~",
+      "meaningZh": "……这样的（内容）",
+      "formation": "Sentence (plain form) + という + noun",
+      "example": "書道をやめる人がおよそ9割いるという調査もあります。",
+      "translation": "There is also a survey saying about 90 percent of people quit shodo.",
+      "note": "Links content to a noun such as a survey, opinion or story.",
+      "noteZh": "用于说明调查、意见、消息等名词的具体内容。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "日本の「書道」が、ユネスコの無形文化遺産に登録される見通しになりました。\n日本的“书道”有望被列入联合国教科文组织非物质文化遗产名录。\n見通し = outlook, expectation",
+    "ユネスコの専門家のグループが、「登録するのがふさわしい」という意見を出しました。\n联合国教科文组织的专家小组提出了“适合登录”的意见。\nふさわしい = suitable, fitting",
+    "文化庁が、5日に発表しました。\n日本文化厅于5日公布了这一消息。",
+    "書道は、筆や墨、すずりを使って、漢字やかなを書く日本の伝統文化です。\n书道是使用毛笔、墨和砚台书写汉字和假名的日本传统文化。\n伝統 = tradition",
+    "文字を彫って、はんこを作ることも、書道に含まれます。\n刻字制作印章也包含在书道之中。\n含まれる = to be included",
+    "書道は、手紙や、お正月の「書き初め」など、生活のいろいろな場面で使われてきました。\n书道一直被用于生活中的各种场合，比如写信和新年的“试笔”。\n場面 = situation, scene",
+    "学校や書道教室などで、人から人へ受け継がれていることも、評価されました。\n书道在学校和书法教室等地方代代相传，这一点也得到了好评。\n受け継ぐ = to inherit, to pass down",
+    "最終的には、11月30日から中国で開かれる会議で決まります。\n最终将在11月30日起于中国召开的会议上决定。\n最終的に = finally, in the end",
+    "登録が決まれば、日本の無形文化遺産は24件目になります。\n如果确定登录，这将是日本第24项非物质文化遗产。",
+    "日本ではこれまでに、歌舞伎や和食、和紙などが登録されています。\n日本此前已有歌舞伎、和食、和纸等被列入名录。\nこれまでに = so far, until now",
+    "おととしには、日本の「伝統的な酒造り」も登録されました。\n前年，日本的“传统酿酒”也被列入了名录。\nおととし = the year before last",
+    "一方で、学校を卒業したあと、書道をやめる人がおよそ9割いるという調査もあります。\n另一方面，也有调查显示，大约9成的人从学校毕业后就不再写书法了。\n一方で = on the other hand",
+    "パソコンやスマートフォンで文字を打つことが増えたことも、理由の一つだと考えられています。\n人们越来越多地用电脑和智能手机打字，这也被认为是原因之一。\n考えられる = to be thought, to be considered"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November fifth, Japanese calligraphy is set to join UNESCO's list of intangible cultural heritage. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の「書道」が、ユネスコの無形文化遺産に登録される見通しになりました。",
+      "zh": "日本的“书道”有望被列入联合国教科文组织非物质文化遗产名录。",
+      "en": "Japanese calligraphy, shodo, is expected to be registered as a UNESCO Intangible Cultural Heritage.",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の「<ruby>書道<rt>しょどう</rt></ruby>」が、ユネスコの<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>される<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook, expectation\"><ruby>見通し<rt>みとおし</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ユネスコの専門家のグループが、「登録するのがふさわしい」という意見を出しました。",
+      "zh": "联合国教科文组织的专家小组提出了“适合登录”的意见。",
+      "en": "A UNESCO group of experts gave the opinion that it is suitable for registration.",
+      "ruby": "ユネスコの<ruby>専門家<rt>せんもんか</rt></ruby>のグループが、「<ruby>登録<rt>とうろく</rt></ruby>するのがふさわしい」という<ruby>意見<rt>いけん</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化庁が、5日に発表しました。",
+      "zh": "日本文化厅于5日公布了这一消息。",
+      "en": "Japan's Agency for Cultural Affairs announced this on the 5th.",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>が、<ruby>5日<rt>いつか</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "書道は、筆や墨、すずりを使って、漢字やかなを書く日本の伝統文化です。",
+      "zh": "书道是使用毛笔、墨和砚台书写汉字和假名的日本传统文化。",
+      "en": "Shodo is a Japanese traditional culture of writing kanji and kana using a brush, ink and an inkstone.",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>は、<ruby>筆<rt>ふで</rt></ruby>や<ruby>墨<rt>すみ</rt></ruby>、すずりを<ruby>使って<rt>つかって</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>やかなを<ruby>書く<rt>かく</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統<rt>でんとう</rt></ruby></span><ruby>文化<rt>ぶんか</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "文字を彫って、はんこを作ることも、書道に含まれます。",
+      "zh": "刻字制作印章也包含在书道之中。",
+      "en": "Carving characters to make seals is also included in shodo.",
+      "ruby": "<ruby>文字<rt>もじ</rt></ruby>を<ruby>彫っ<rt>ほっ</rt></ruby>て、はんこを<ruby>作る<rt>つくる</rt></ruby>ことも、<ruby>書道<rt>しょどう</rt></ruby>に<ruby>含ま<rt>ふくま</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "書道は、手紙や、お正月の「書き初め」など、生活のいろいろな場面で使われてきました。",
+      "tts": "書道は、手紙や、お正月の「かきぞめ」など、生活のいろいろな場面で使われてきました。",
+      "zh": "书道一直被用于生活中的各种场合，比如写信和新年的“试笔”。",
+      "en": "Shodo has been used in many situations in daily life, such as letters and the New Year's first writing, kakizome.",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>は、<ruby>手紙<rt>てがみ</rt></ruby>や、お<ruby>正月<rt>しょうがつ</rt></ruby>の「<ruby>書き初め<rt>かきぞめ</rt></ruby>」など、<ruby>生活<rt>せいかつ</rt></ruby>のいろいろな<span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"situation, scene\"><ruby>場面<rt>ばめん</rt></ruby></span>で<ruby>使わ<rt>つかわ</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "学校や書道教室などで、人から人へ受け継がれていることも、評価されました。",
+      "zh": "书道在学校和书法教室等地方代代相传，这一点也得到了好评。",
+      "en": "It was also praised for being passed down from person to person at schools and calligraphy classes.",
+      "ruby": "<ruby>学校<rt>がっこう</rt></ruby>や<ruby>書道<rt>しょどう</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>などで、<ruby>人<rt>ひと</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>へ<ruby>受け継が<rt>うけつが</rt></ruby>れていることも、<ruby>評価<rt>ひょうか</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終的には、11月30日から中国で開かれる会議で決まります。",
+      "zh": "最终将在11月30日起于中国召开的会议上决定。",
+      "en": "The final decision will be made at a meeting held in China from November 30.",
+      "ruby": "<span class=\"vw\" data-ja=\"最終的に\" data-reading=\"さいしゅうてきに\" data-en=\"finally, in the end\"><ruby>最終的<rt>さいしゅうてき</rt></ruby>には</span>、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れる<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>決ま<rt>きま</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "登録が決まれば、日本の無形文化遺産は24件目になります。",
+      "zh": "如果确定登录，这将是日本第24项非物质文化遗产。",
+      "en": "If the registration is decided, it will be Japan's 24th Intangible Cultural Heritage.",
+      "ruby": "<ruby>登録<rt>とうろく</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>れば、<ruby>日本<rt>にほん</rt></ruby>の<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は24<ruby>件目<rt>けんめ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本ではこれまでに、歌舞伎や和食、和紙などが登録されています。",
+      "zh": "日本此前已有歌舞伎、和食、和纸等被列入名录。",
+      "en": "So far, kabuki, washoku Japanese cuisine, washi paper and others from Japan have been registered.",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>ではこれまでに、<ruby>歌舞伎<rt>かぶき</rt></ruby>や<ruby>和食<rt>わしょく</rt></ruby>、<ruby>和紙<rt>わし</rt></ruby>などが<ruby>登録<rt>とうろく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "おととしには、日本の「伝統的な酒造り」も登録されました。",
+      "tts": "おととしには、日本の「伝統的なさけづくり」も登録されました。",
+      "zh": "前年，日本的“传统酿酒”也被列入了名录。",
+      "en": "The year before last, Japan's traditional sake brewing was also registered.",
+      "ruby": "<span class=\"vw\" data-ja=\"おととし\" data-reading=\"おととし\" data-en=\"the year before last\">おととしには</span>、<ruby>日本<rt>にほん</rt></ruby>の「<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統的<rt>でんとうてき</rt></ruby></span>な<ruby>酒<rt>さけ</rt></ruby><ruby>造<rt>づく</rt></ruby>り」も<ruby>登録<rt>とうろく</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、学校を卒業したあと、書道をやめる人がおよそ9割いるという調査もあります。",
+      "zh": "另一方面，也有调查显示，大约9成的人从学校毕业后就不再写书法了。",
+      "en": "On the other hand, a survey shows that about 90 percent of people stop doing shodo after they finish school.",
+      "ruby": "<span class=\"vw\" data-ja=\"一方で\" data-reading=\"いっぽうで\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby>で</span>、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、<ruby>書道<rt>しょどう</rt></ruby>をやめる<ruby>人<rt>ひと</rt></ruby>がおよそ9<ruby>割<rt>わり</rt></ruby>いるという<ruby>調査<rt>ちょうさ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "パソコンやスマートフォンで文字を打つことが増えたことも、理由の一つだと考えられています。",
+      "zh": "人们越来越多地用电脑和智能手机打字，这也被认为是原因之一。",
+      "en": "People typing more on computers and smartphones is thought to be one of the reasons.",
+      "ruby": "パソコンやスマートフォンで<ruby>文字<rt>もじ</rt></ruby>を<ruby>打つ<rt>うつ</rt></ruby>ことが<ruby>増え<rt>ふえ</rt></ruby>たことも、<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本の「書道」が、ユネスコの無形文化遺産に登録される見通しになりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の「<ruby>書道<rt>しょどう</rt></ruby>」が、ユネスコの<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>される<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook, expectation\"><ruby>見通し<rt>みとおし</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japanese calligraphy is expected to become a UNESCO Intangible Cultural Heritage."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見通し",
+      "ruby": "<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook, expectation\"><ruby>見通し<rt>みとおし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means outlook. Here it shows something is expected to happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "ユネスコの専門家のグループが、「登録するのがふさわしい」という意見を出しました。",
+      "ruby": "ユネスコの<ruby>専門家<rt>せんもんか</rt></ruby>のグループが、「<ruby>登録<rt>とうろく</rt></ruby>するのがふさわしい」という<ruby>意見<rt>いけん</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A UNESCO group of experts said it is suitable for registration."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ふさわしい",
+      "ruby": "<span class=\"vw\" data-ja=\"ふさわしい\" data-reading=\"ふさわしい\" data-en=\"suitable, fitting\">ふさわしい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suitable or fitting."
+    },
+    {
+      "speaker": "slow",
+      "text": "文化庁が、5日に発表しました。",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>が、<ruby>5日<rt>いつか</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Japan's Agency for Cultural Affairs announced it on the fifth."
+    },
+    {
+      "speaker": "slow",
+      "text": "書道は、筆や墨、すずりを使って、漢字やかなを書く日本の伝統文化です。",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>は、<ruby>筆<rt>ふで</rt></ruby>や<ruby>墨<rt>すみ</rt></ruby>、すずりを<ruby>使って<rt>つかって</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>やかなを<ruby>書く<rt>かく</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統<rt>でんとう</rt></ruby></span><ruby>文化<rt>ぶんか</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Calligraphy is a Japanese tradition of writing kanji and kana with a brush, ink and an inkstone."
+    },
+    {
+      "speaker": "vocab",
+      "text": "伝統",
+      "ruby": "<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統<rt>でんとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means tradition."
+    },
+    {
+      "speaker": "slow",
+      "text": "文字を彫って、はんこを作ることも、書道に含まれます。",
+      "ruby": "<ruby>文字<rt>もじ</rt></ruby>を<ruby>彫っ<rt>ほっ</rt></ruby>て、はんこを<ruby>作る<rt>つくる</rt></ruby>ことも、<ruby>書道<rt>しょどう</rt></ruby>に<ruby>含ま<rt>ふくま</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Carving characters to make personal seals is also part of calligraphy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"含まれる\" data-reading=\"ふくまれる\" data-en=\"to be included\"><ruby>含ま<rt>ふくま</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be included."
+    },
+    {
+      "speaker": "slow",
+      "text": "書道は、手紙や、お正月の「書き初め」など、生活のいろいろな場面で使われてきました。",
+      "tts": "書道は、手紙や、お正月の「かきぞめ」など、生活のいろいろな場面で使われてきました。",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>は、<ruby>手紙<rt>てがみ</rt></ruby>や、お<ruby>正月<rt>しょうがつ</rt></ruby>の「<ruby>書き初め<rt>かきぞめ</rt></ruby>」など、<ruby>生活<rt>せいかつ</rt></ruby>のいろいろな<span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"situation, scene\"><ruby>場面<rt>ばめん</rt></ruby></span>で<ruby>使わ<rt>つかわ</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Calligraphy has been used in many parts of daily life, like letters and the first writing of the New Year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "場面",
+      "ruby": "<span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"situation, scene\"><ruby>場面<rt>ばめん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a situation or scene."
+    },
+    {
+      "speaker": "slow",
+      "text": "学校や書道教室などで、人から人へ受け継がれていることも、評価されました。",
+      "ruby": "<ruby>学校<rt>がっこう</rt></ruby>や<ruby>書道<rt>しょどう</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>などで、<ruby>人<rt>ひと</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>へ<ruby>受け継が<rt>うけつが</rt></ruby>れていることも、<ruby>評価<rt>ひょうか</rt></ruby>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was also praised for being passed down from person to person at schools and calligraphy classes."
+    },
+    {
+      "speaker": "vocab",
+      "text": "受け継ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"受け継ぐ\" data-reading=\"うけつぐ\" data-en=\"to inherit, to pass down\"><ruby>受け継ぐ<rt>うけつぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to inherit or carry on something."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終的には、11月30日から中国で開かれる会議で決まります。",
+      "ruby": "<span class=\"vw\" data-ja=\"最終的に\" data-reading=\"さいしゅうてきに\" data-en=\"finally, in the end\"><ruby>最終的<rt>さいしゅうてき</rt></ruby>には</span>、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れる<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>決ま<rt>きま</rt></ruby>ります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The final decision will be made at a meeting in China starting November thirtieth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "最終的に",
+      "ruby": "<span class=\"vw\" data-ja=\"最終的に\" data-reading=\"さいしゅうてきに\" data-en=\"finally, in the end\"><ruby>最終的<rt>さいしゅうてき</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means finally, in the end."
+    },
+    {
+      "speaker": "slow",
+      "text": "登録が決まれば、日本の無形文化遺産は24件目になります。",
+      "ruby": "<ruby>登録<rt>とうろく</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>れば、<ruby>日本<rt>にほん</rt></ruby>の<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は24<ruby>件目<rt>けんめ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "If it is approved, it will be Japan's twenty-fourth item on the list."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本ではこれまでに、歌舞伎や和食、和紙などが登録されています。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>ではこれまでに、<ruby>歌舞伎<rt>かぶき</rt></ruby>や<ruby>和食<rt>わしょく</rt></ruby>、<ruby>和紙<rt>わし</rt></ruby>などが<ruby>登録<rt>とうろく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, kabuki, Japanese cuisine and Japanese paper have been registered."
+    },
+    {
+      "speaker": "vocab",
+      "text": "これまでに",
+      "ruby": "<span class=\"vw\" data-ja=\"これまでに\" data-reading=\"これまでに\" data-en=\"so far, until now\">これまでに</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means so far, up to now."
+    },
+    {
+      "speaker": "slow",
+      "text": "おととしには、日本の「伝統的な酒造り」も登録されました。",
+      "tts": "おととしには、日本の「伝統的なさけづくり」も登録されました。",
+      "ruby": "<span class=\"vw\" data-ja=\"おととし\" data-reading=\"おととし\" data-en=\"the year before last\">おととしには</span>、<ruby>日本<rt>にほん</rt></ruby>の「<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統的<rt>でんとうてき</rt></ruby></span>な<ruby>酒<rt>さけ</rt></ruby><ruby>造<rt>づく</rt></ruby>り」も<ruby>登録<rt>とうろく</rt></ruby>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The year before last, traditional sake brewing was also registered."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おととし",
+      "ruby": "<span class=\"vw\" data-ja=\"おととし\" data-reading=\"おととし\" data-en=\"the year before last\">おととし</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the year before last."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方で、学校を卒業したあと、書道をやめる人がおよそ9割いるという調査もあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方で\" data-reading=\"いっぽうで\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby>で</span>、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、<ruby>書道<rt>しょどう</rt></ruby>をやめる<ruby>人<rt>ひと</rt></ruby>がおよそ9<ruby>割<rt>わり</rt></ruby>いるという<ruby>調査<rt>ちょうさ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, a survey says about ninety percent of people stop calligraphy after they finish school."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一方で",
+      "ruby": "<span class=\"vw\" data-ja=\"一方で\" data-reading=\"いっぽうで\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby>で</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means on the other hand."
+    },
+    {
+      "speaker": "slow",
+      "text": "パソコンやスマートフォンで文字を打つことが増えたことも、理由の一つだと考えられています。",
+      "ruby": "パソコンやスマートフォンで<ruby>文字<rt>もじ</rt></ruby>を<ruby>打つ<rt>うつ</rt></ruby>ことが<ruby>増え<rt>ふえ</rt></ruby>たことも、<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Typing more on computers and smartphones is thought to be one reason."
+    },
+    {
+      "speaker": "vocab",
+      "text": "考えられる",
+      "ruby": "<span class=\"vw\" data-ja=\"考えられる\" data-reading=\"かんがえられる\" data-en=\"to be thought, to be considered\"><ruby>考え<rt>かんがえ</rt></ruby>られる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be thought or believed."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本の「書道」が、ユネスコの無形文化遺産に登録される見通しになりました。",
+      "zh": "日本的“书道”有望被列入联合国教科文组织非物质文化遗产名录。",
+      "en": "Japanese calligraphy, shodo, is expected to be registered as a UNESCO Intangible Cultural Heritage.",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>の「<ruby>書道<rt>しょどう</rt></ruby>」が、ユネスコの<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>される<span class=\"vw\" data-ja=\"見通し\" data-reading=\"みとおし\" data-en=\"outlook, expectation\"><ruby>見通し<rt>みとおし</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ユネスコの専門家のグループが、「登録するのがふさわしい」という意見を出しました。",
+      "zh": "联合国教科文组织的专家小组提出了“适合登录”的意见。",
+      "en": "A UNESCO group of experts gave the opinion that it is suitable for registration.",
+      "ruby": "ユネスコの<ruby>専門家<rt>せんもんか</rt></ruby>のグループが、「<ruby>登録<rt>とうろく</rt></ruby>するのがふさわしい」という<ruby>意見<rt>いけん</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "文化庁が、5日に発表しました。",
+      "zh": "日本文化厅于5日公布了这一消息。",
+      "en": "Japan's Agency for Cultural Affairs announced this on the 5th.",
+      "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>が、<ruby>5日<rt>いつか</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "書道は、筆や墨、すずりを使って、漢字やかなを書く日本の伝統文化です。",
+      "zh": "书道是使用毛笔、墨和砚台书写汉字和假名的日本传统文化。",
+      "en": "Shodo is a Japanese traditional culture of writing kanji and kana using a brush, ink and an inkstone.",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>は、<ruby>筆<rt>ふで</rt></ruby>や<ruby>墨<rt>すみ</rt></ruby>、すずりを<ruby>使って<rt>つかって</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>やかなを<ruby>書く<rt>かく</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統<rt>でんとう</rt></ruby></span><ruby>文化<rt>ぶんか</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "文字を彫って、はんこを作ることも、書道に含まれます。",
+      "zh": "刻字制作印章也包含在书道之中。",
+      "en": "Carving characters to make seals is also included in shodo.",
+      "ruby": "<ruby>文字<rt>もじ</rt></ruby>を<ruby>彫っ<rt>ほっ</rt></ruby>て、はんこを<ruby>作る<rt>つくる</rt></ruby>ことも、<ruby>書道<rt>しょどう</rt></ruby>に<ruby>含ま<rt>ふくま</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "書道は、手紙や、お正月の「書き初め」など、生活のいろいろな場面で使われてきました。",
+      "tts": "書道は、手紙や、お正月の「かきぞめ」など、生活のいろいろな場面で使われてきました。",
+      "zh": "书道一直被用于生活中的各种场合，比如写信和新年的“试笔”。",
+      "en": "Shodo has been used in many situations in daily life, such as letters and the New Year's first writing, kakizome.",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>は、<ruby>手紙<rt>てがみ</rt></ruby>や、お<ruby>正月<rt>しょうがつ</rt></ruby>の「<ruby>書き初め<rt>かきぞめ</rt></ruby>」など、<ruby>生活<rt>せいかつ</rt></ruby>のいろいろな<span class=\"vw\" data-ja=\"場面\" data-reading=\"ばめん\" data-en=\"situation, scene\"><ruby>場面<rt>ばめん</rt></ruby></span>で<ruby>使わ<rt>つかわ</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "学校や書道教室などで、人から人へ受け継がれていることも、評価されました。",
+      "zh": "书道在学校和书法教室等地方代代相传，这一点也得到了好评。",
+      "en": "It was also praised for being passed down from person to person at schools and calligraphy classes.",
+      "ruby": "<ruby>学校<rt>がっこう</rt></ruby>や<ruby>書道<rt>しょどう</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>などで、<ruby>人<rt>ひと</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>へ<ruby>受け継が<rt>うけつが</rt></ruby>れていることも、<ruby>評価<rt>ひょうか</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終的には、11月30日から中国で開かれる会議で決まります。",
+      "zh": "最终将在11月30日起于中国召开的会议上决定。",
+      "en": "The final decision will be made at a meeting held in China from November 30.",
+      "ruby": "<span class=\"vw\" data-ja=\"最終的に\" data-reading=\"さいしゅうてきに\" data-en=\"finally, in the end\"><ruby>最終的<rt>さいしゅうてき</rt></ruby>には</span>、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>開か<rt>ひらか</rt></ruby>れる<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>決ま<rt>きま</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "登録が決まれば、日本の無形文化遺産は24件目になります。",
+      "zh": "如果确定登录，这将是日本第24项非物质文化遗产。",
+      "en": "If the registration is decided, it will be Japan's 24th Intangible Cultural Heritage.",
+      "ruby": "<ruby>登録<rt>とうろく</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>れば、<ruby>日本<rt>にほん</rt></ruby>の<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は24<ruby>件目<rt>けんめ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本ではこれまでに、歌舞伎や和食、和紙などが登録されています。",
+      "zh": "日本此前已有歌舞伎、和食、和纸等被列入名录。",
+      "en": "So far, kabuki, washoku Japanese cuisine, washi paper and others from Japan have been registered.",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>ではこれまでに、<ruby>歌舞伎<rt>かぶき</rt></ruby>や<ruby>和食<rt>わしょく</rt></ruby>、<ruby>和紙<rt>わし</rt></ruby>などが<ruby>登録<rt>とうろく</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "おととしには、日本の「伝統的な酒造り」も登録されました。",
+      "tts": "おととしには、日本の「伝統的なさけづくり」も登録されました。",
+      "zh": "前年，日本的“传统酿酒”也被列入了名录。",
+      "en": "The year before last, Japan's traditional sake brewing was also registered.",
+      "ruby": "<span class=\"vw\" data-ja=\"おととし\" data-reading=\"おととし\" data-en=\"the year before last\">おととしには</span>、<ruby>日本<rt>にほん</rt></ruby>の「<span class=\"vw\" data-ja=\"伝統\" data-reading=\"でんとう\" data-en=\"tradition\"><ruby>伝統的<rt>でんとうてき</rt></ruby></span>な<ruby>酒<rt>さけ</rt></ruby><ruby>造<rt>づく</rt></ruby>り」も<ruby>登録<rt>とうろく</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、学校を卒業したあと、書道をやめる人がおよそ9割いるという調査もあります。",
+      "zh": "另一方面，也有调查显示，大约9成的人从学校毕业后就不再写书法了。",
+      "en": "On the other hand, a survey shows that about 90 percent of people stop doing shodo after they finish school.",
+      "ruby": "<span class=\"vw\" data-ja=\"一方で\" data-reading=\"いっぽうで\" data-en=\"on the other hand\"><ruby>一方<rt>いっぽう</rt></ruby>で</span>、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、<ruby>書道<rt>しょどう</rt></ruby>をやめる<ruby>人<rt>ひと</rt></ruby>がおよそ9<ruby>割<rt>わり</rt></ruby>いるという<ruby>調査<rt>ちょうさ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "パソコンやスマートフォンで文字を打つことが増えたことも、理由の一つだと考えられています。",
+      "zh": "人们越来越多地用电脑和智能手机打字，这也被认为是原因之一。",
+      "en": "People typing more on computers and smartphones is thought to be one of the reasons.",
+      "ruby": "パソコンやスマートフォンで<ruby>文字<rt>もじ</rt></ruby>を<ruby>打つ<rt>うつ</rt></ruby>ことが<ruby>増え<rt>ふえ</rt></ruby>たことも、<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "書道では、何を使って文字を書きますか。",
+      "ruby": "<ruby>書道<rt>しょどう</rt></ruby>では、<ruby>何を<rt>なにを</rt></ruby><ruby>使って<rt>つかって</rt></ruby><ruby>文字<rt>もじ</rt></ruby>を<ruby>書き<rt>かき</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A brush, ink and an inkstone."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終的には、どこで決まりますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"最終的に\" data-reading=\"さいしゅうてきに\" data-en=\"finally, in the end\"><ruby>最終的<rt>さいしゅうてき</rt></ruby>には</span>、どこで<ruby>決ま<rt>きま</rt></ruby>りますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a meeting in China, starting November thirtieth."
+    },
+    {
+      "speaker": "slow",
+      "text": "登録が決まれば、日本の無形文化遺産は何件目になりますか。",
+      "ruby": "<ruby>登録<rt>とうろく</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>れば、<ruby>日本<rt>にほん</rt></ruby>の<ruby>無形<rt>むけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は<ruby>何件目<rt>なんけんめ</rt></ruby>になりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The twenty-fourth."
+    },
+    {
+      "speaker": "slow",
+      "text": "学校を卒業したあと、書道をやめる人はどのくらいいますか。",
+      "ruby": "<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、<ruby>書道<rt>しょどう</rt></ruby>をやめる<ruby>人<rt>ひと</rt></ruby>はどのくらいいますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About ninety percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for tonight. Maybe pick up a brush this weekend. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
