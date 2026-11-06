@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { jpnotesLink, type JpnotesLink } from './jpnotes';
+import type { Channel } from './i18n';
 
 const SCRIPTS_DIR = fileURLToPath(new URL('../../../scripts', import.meta.url));
 
@@ -105,7 +106,7 @@ function padNum(n: number): string {
 // content-rich description (the old logic emitted the same boilerplate greeting
 // for every episode, which Google treats as duplicate/thin content).
 function buildSummary(raw: RawEpisode): string {
-  const intro = raw.segments.find(s => s.speaker === 'host')?.text || '';
+  const intro = raw.segments.find(s => s.speaker === 'host' || s.speaker === 'guide')?.text || '';
   let summary = '';
   const m = intro.match(/Today['’]s story\b[^.!?]*?:\s*(.+?)(?:\s*Let['’]s listen\.?\s*)?$/i);
   if (m) summary = m[1].trim();
@@ -128,11 +129,12 @@ function buildDescription(raw: RawEpisode, summary: string): string {
   return `${base} Learn Japanese with native audio, furigana, vocabulary and grammar.${level}`;
 }
 
-const LEVEL_ZH: Record<string, string> = { 'N5-N4': '初级 N5–N4', 'N4-N3': '中级 N4–N3' };
+const LEVEL_ZH: Record<string, string> = { 'N5-N4': '初级 N5–N4', 'N4-N3': '中级 N4–N3', 'N3-N2': '中高级 N3–N2' };
 
 function buildDescriptionZh(raw: RawEpisode): string {
   const head = raw.titleZh ? `${raw.titleZh}。` : `${raw.title}。`;
   const level = raw.level ? `（${LEVEL_ZH[raw.level] || raw.level}）` : '';
+  if (raw.characters.guide) return `${head}全日语新闻听力${level}：新闻朗读加日语讲解，附振假名、中文翻译、词汇和语法。`;
   return `${head}用真实日语新闻练听力${level}：自然语速朗读、逐句讲解，附振假名、中文翻译、词汇和语法。`;
 }
 
@@ -171,6 +173,7 @@ function buildEnLines(raw: RawEpisode): Record<string, string> {
 
 const PAUSE_AFTER: Record<string, number> = {
   host: 0.6,
+  guide: 0.7,
   news: 0.7,
   slow: 0.8,
   vocab: 0.4,
@@ -184,9 +187,9 @@ function estimateDuration(text: string, lang: string, rate: string): number {
   return text.split(/\s+/).length / (2.5 * rateFactor);
 }
 
-function processEpisode(raw: RawEpisode): ProcessedEpisode {
+function processEpisode(raw: RawEpisode, prefix = 'ep'): ProcessedEpisode {
   const paddedNum = padNum(raw.episode);
-  const id = `ep${paddedNum}`;
+  const id = `${prefix}${paddedNum}`;
   let hasTimingData = false;
 
   let t = 1.5;
@@ -241,13 +244,17 @@ function processEpisode(raw: RawEpisode): ProcessedEpisode {
   };
 }
 
-export function getAllEpisodes(): ProcessedEpisode[] {
+/** Episode files per show: scripts/epNNN.json (main), scripts/nhNNN.json (nihongo). */
+export function getAllEpisodes(channel: Channel = 'main'): ProcessedEpisode[] {
+  const prefix = channel === 'nihongo' ? 'nh' : 'ep';
+  const file = new RegExp(`^${prefix}\\d+\\.json$`);
   return fs.readdirSync(SCRIPTS_DIR)
-    .filter(f => /^ep\d+\.json$/.test(f))
+    .filter(f => file.test(f))
     .sort()
     .reverse()
     .map(f => processEpisode(
-      JSON.parse(fs.readFileSync(path.join(SCRIPTS_DIR, f), 'utf-8'))
+      JSON.parse(fs.readFileSync(path.join(SCRIPTS_DIR, f), 'utf-8')),
+      prefix,
     ));
 }
 

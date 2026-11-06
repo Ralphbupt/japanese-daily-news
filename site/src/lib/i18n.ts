@@ -9,7 +9,34 @@ export type Lang = 'en' | 'zh';
 export const LANG_PARAMS: { lang: string | undefined }[] = [{ lang: undefined }, { lang: 'zh' }];
 
 export function langOf(param: string | undefined): Lang {
-  return param === 'zh' ? 'zh' : 'en';
+  return param === 'zh' || param?.startsWith('zh/') ? 'zh' : 'en';
+}
+
+// Two shows on one site: the English-explained 'main' one at /…/, the
+// all-Japanese one at /nihongo/… . Pages shared by both take these params in
+// [...lang] (undefined | zh | nihongo | zh/nihongo).
+export type Channel = 'main' | 'nihongo';
+export const CHANNEL_PARAMS: { lang: string | undefined; channel: Channel }[] = [
+  { lang: undefined, channel: 'main' },
+  { lang: 'zh', channel: 'main' },
+  { lang: 'nihongo', channel: 'nihongo' },
+  { lang: 'zh/nihongo', channel: 'nihongo' },
+];
+
+export function channelOf(param: string | undefined): Channel {
+  return param?.endsWith('nihongo') ? 'nihongo' : 'main';
+}
+
+export const SHOW_NAME: Record<Channel, string> = {
+  main: 'Japanese Daily News',
+  nihongo: '日本語で聞くニュース',
+};
+
+export const RSS_PATH: Record<Channel, string> = { main: '/rss.xml', nihongo: '/nihongo/rss.xml' };
+
+/** Site path in a language and channel: chp('/ep/001/', 'zh', 'nihongo') → '/zh/nihongo/ep/001/'. */
+export function chp(path: string, lang: Lang, channel: Channel): string {
+  return lp((channel === 'nihongo' ? '/nihongo' : '') + path, lang);
 }
 
 /** Site path in a language: lp('/ep/001/', 'zh') → '/zh/ep/001/'. */

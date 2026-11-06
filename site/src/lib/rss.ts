@@ -1,0 +1,111 @@
+import { getAllEpisodes } from './episodes';
+import { withUtm } from './jpnotes';
+import { RSS_PATH, SHOW_NAME, chp, type Channel } from './i18n';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const SITE = 'https://podcast.jpnotes.dev';
+const AUDIO_DIR = fileURLToPath(new URL('../../public/audio', import.meta.url));
+
+function escapeXml(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+// Show notes: the summary, then this episode's grammar points, each linked to
+// its jpnotes.dev lesson section (podcast apps render this HTML subset).
+function showNotes(ep: ReturnType<typeof getAllEpisodes>[number]): string {
+  let html = `<p>${esc(ep.description)}</p>`;
+  if (ep.grammar.length) {
+    html += '<p>Grammar in this episode:</p><ul>' + ep.grammar.map(g =>
+      `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a> — ${esc(g.meaning)}</li>`).join('') + '</ul>';
+  }
+  html += `<p>Free grammar notes, practice questions and Anki decks for JLPT N5–N1: <a href="${esc(withUtm('https://jpnotes.dev/', 'rss'))}">jpnotes.dev</a></p>`;
+  return html.replace(/]]>/g, ']]&gt;');
+}
+
+function rfcDate(d: string): string {
+  return new Date(d + 'T12:00:00Z').toUTCString();
+}
+
+const SHOW_TEXT: Record<Channel, { description: string; summary: string }> = {
+  main: {
+    description: 'Learn Japanese through real news stories. Daily episodes with native audio, vocabulary breakdown, and grammar review.',
+    summary: 'A daily Japanese news podcast for learners. Each episode covers a real news story with vocabulary breakdowns, grammar notes, and practice quizzes. Hosted by Maya.',
+  },
+  nihongo: {
+    description: 'JLPT N3〜N2の学習者のための、全部日本語のニュース番組です。本物のニュースを聞いて、やさしい日本語の解説を聞いて、もう一度ニュースを聞きます。',
+    summary: 'An all-Japanese daily news podcast for JLPT N3–N2 learners: a real news story, a talk about it in plain Japanese, then the story again.',
+  },
+};
+
+/** The podcast feed of one show. */
+export function buildRss(channel: Channel): Response {
+  const episodes = getAllEpisodes(channel);
+  const text = SHOW_TEXT[channel];
+  const home = `${SITE}${chp('/', 'en', channel)}`.replace(/\/$/, '') || SITE;
+
+  const items = episodes.map(ep => {
+    const audioUrl = `${SITE}/audio/${ep.id}.mp3`;
+    const link = `${SITE}${chp(`/ep/${ep.paddedNum}`, 'en', channel)}`;
+
+    let length = 0;
+    const audioPath = path.join(AUDIO_DIR, `${ep.id}.mp3`);
+    try { length = fs.statSync(audioPath).size; } catch { /* ok */ }
+
+    const lastSeg = ep.timedSegments[ep.timedSegments.length - 1];
+    const durationSec = lastSeg ? Math.round(lastSeg.end + 2) : 0;
+
+    return `    <item>
+      <title>${escapeXml(`EP ${ep.paddedNum}: ${ep.title}`)}</title>
+      <link>${link}</link>
+      <guid isPermaLink="true">${link}</guid>
+      <pubDate>${rfcDate(ep.date)}</pubDate>
+      <description><![CDATA[${showNotes(ep)}]]></description>
+      <enclosure url="${audioUrl}" length="${length}" type="audio/mpeg"/>
+      <itunes:duration>${durationSec}</itunes:duration>
+      <itunes:episode>${ep.episode}</itunes:episode>
+      <itunes:summary>${escapeXml(ep.description)}</itunes:summary>
+      <podcast:transcript url="${SITE}/subtitles/${ep.id}.vtt" type="text/vtt" language="ja"/>
+    </item>`;
+  }).join('\n');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>${SHOW_NAME[channel]}</title>
+    <link>${home}</link>
+    <description>${escapeXml(text.description)}</description>
+    <language>ja</language>
+    <copyright>© 2026 Japanese Daily News (podcast.jpnotes.dev). CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/</copyright>
+    <atom:link href="${SITE}${RSS_PATH[channel]}" rel="self" type="application/rss+xml"/>
+    <itunes:author>Japanese Daily News</itunes:author>
+    <itunes:owner>
+      <itunes:name>Japanese Daily News</itunes:name>
+      <itunes:email>pengcheng199@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="${SITE}/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>${escapeXml(text.summary)}</itunes:summary>
+${items}
+  </channel>
+</rss>`;
+
+  return new Response(xml, {
+    headers: { 'Content-Type': 'application/xml; charset=utf-8' },
+  });
+}

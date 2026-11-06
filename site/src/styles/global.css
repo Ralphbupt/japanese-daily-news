@@ -1223,6 +1223,8 @@ body {
   line-height: 1.7;
 }
 
+.segment-guide .segment-dot { background: var(--green); }
+.segment-guide .segment-label { color: var(--green); }
 .segment-news .segment-dot { background: var(--accent); }
 .segment-news .segment-label { color: var(--accent); }
 .segment-news .segment-text {
@@ -1951,3 +1953,28 @@ ruby rt {
   /* Phones: a sheet rising from the player */
   .playlist { top: auto; left: 0; width: 100%; height: 70vh; border-left: none; border-top: 1px solid var(--border); border-radius: 1rem 1rem 0 0; box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.15); }
 }
+
+/* Show switcher on the home pages */
+.channel-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+  padding: 0 1.5rem;
+}
+.channel-tab {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.875rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text-light);
+  font-size: 0.8125rem;
+  text-decoration: none;
+  transition: border-color 0.2s;
+}
+.channel-tab strong { color: var(--text); font-size: 1rem; }
+.channel-tab:hover { border-color: var(--accent); }
+.channel-tab.active { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }

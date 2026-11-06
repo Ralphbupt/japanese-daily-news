@@ -34,10 +34,16 @@ DEFAULT_RATES = {
 
 PAUSE_AFTER = {
     "host": 600,
+    "guide": 700,
     "news": 700,
     "slow": 800,
     "vocab": 400,
 }
+
+
+def pause_ms_after(seg):
+    """A segment's own "pause" (ms) wins, e.g. thinking time after a quiz question."""
+    return seg.get("pause", PAUSE_AFTER.get(seg["speaker"], 500))
 
 
 def tts_text(seg):
@@ -127,11 +133,11 @@ async def main():
                 "end": round(current_time + seg_dur, 3),
             })
             current_time += seg_dur
-            pause_ms = PAUSE_AFTER.get(speaker, 500)
+            pause_ms = pause_ms_after(seg)
             current_time += pause_ms / 1000
 
         print("\nGenerating pauses...")
-        all_pauses = set(PAUSE_AFTER.values())
+        all_pauses = set(PAUSE_AFTER.values()) | {pause_ms_after(s) for s in segments}
         all_pauses.add(1000)
         all_pauses.add(1500)
         all_pauses.add(2000)
@@ -149,7 +155,7 @@ async def main():
             f.write("file 'silence_1500.mp3'\n")
             for i, seg in enumerate(segments):
                 f.write(f"file 'seg_{i:03d}.mp3'\n")
-                pause = PAUSE_AFTER.get(seg["speaker"], 500)
+                pause = pause_ms_after(seg)
                 f.write(f"file 'silence_{pause}.mp3'\n")
             f.write("file 'silence_2000.mp3'\n")
 

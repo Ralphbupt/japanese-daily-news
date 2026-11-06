@@ -7,13 +7,21 @@ const LANGS: Lang[] = ['en', 'zh'];
 
 export const GET: APIRoute = async () => {
   const episodes = getAllEpisodes();
+  const nihongo = getAllEpisodes('nihongo');
 
   // Each page once per language; every copy lists all copies as alternates.
   const pages = [
     { path: '/', priority: '1.0', changefreq: 'daily' },
     { path: '/about/', priority: '0.5', changefreq: 'monthly' },
+    { path: '/nihongo/', priority: '0.9', changefreq: 'daily' },
     ...episodes.map(ep => ({
       path: `/ep/${ep.paddedNum}/`,
+      lastmod: ep.date,
+      priority: '0.8',
+      changefreq: 'monthly',
+    })),
+    ...nihongo.map(ep => ({
+      path: `/nihongo/ep/${ep.paddedNum}/`,
       lastmod: ep.date,
       priority: '0.8',
       changefreq: 'monthly',
