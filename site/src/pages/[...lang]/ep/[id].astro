@@ -482,7 +482,7 @@ const segmentsForClient = segs.map(s => ({
     // ===== Lock screen / notification: the current sentence as the title =====
     var msArtist = dataEl.getAttribute('data-show') + ' · EP ' + (dataEl.getAttribute('data-num') || '');
     var msAlbum = dataEl.getAttribute('data-title') || '';
-    var msArt = [{ src: '/cover.jpg', sizes: '3000x3000', type: 'image/jpeg' }];
+    var msArt = [{ src: isNihongo ? '/cover-nihongo.jpg' : '/cover.jpg', sizes: '3000x3000', type: 'image/jpeg' }];
     var msLast = null;
     function setNowPlaying(title) {
       if (!('mediaSession' in navigator) || typeof MediaMetadata === 'undefined') return;

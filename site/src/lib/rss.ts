@@ -1,6 +1,6 @@
 import { getAllEpisodes } from './episodes';
 import { withUtm } from './jpnotes';
-import { RSS_PATH, SHOW_NAME, chp, type Channel } from './i18n';
+import { COVER, RSS_PATH, SHOW_NAME, chp, type Channel } from './i18n';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -31,6 +31,21 @@ function showNotes(ep: ReturnType<typeof getAllEpisodes>[number]): string {
   return html.replace(/]]>/g, ']]&gt;');
 }
 
+// The all-Japanese show: notes in Japanese too, opening with the episode's hook.
+function showNotesJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
+  let html = `<p>${esc(hookJa(ep))}</p>`;
+  if (ep.grammar.length) {
+    html += '<p>今回の文法：</p><ul>' + ep.grammar.map(g =>
+      `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a></li>`).join('') + '</ul>';
+  }
+  html += `<p>ふりがな、翻訳、単語と文法はウェブサイトで：<a href="${SITE}/nihongo/ep/${ep.paddedNum}/">podcast.jpnotes.dev</a></p>`;
+  return html.replace(/]]>/g, ']]&gt;');
+}
+
+function hookJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
+  return ep.summary.replace(/\.$/, '');
+}
+
 function rfcDate(d: string): string {
   return new Date(d + 'T12:00:00Z').toUTCString();
 }
@@ -42,7 +57,7 @@ const SHOW_TEXT: Record<Channel, { description: string; summary: string }> = {
   },
   nihongo: {
     description: 'JLPT N3〜N2の学習者のための、全部日本語のニュース番組です。本物のニュースを聞いて、やさしい日本語の解説を聞いて、もう一度ニュースを聞きます。',
-    summary: 'An all-Japanese daily news podcast for JLPT N3–N2 learners: a real news story, a talk about it in plain Japanese, then the story again.',
+    summary: 'JLPT N3〜N2の学習者のための、全部日本語のニュース番組です。本物のニュースを聞いて、やさしい日本語の解説を聞いて、もう一度ニュースを聞きます。',
   },
 };
 
@@ -64,15 +79,15 @@ export function buildRss(channel: Channel): Response {
     const durationSec = lastSeg ? Math.round(lastSeg.end + 2) : 0;
 
     return `    <item>
-      <title>${escapeXml(`EP ${ep.paddedNum}: ${ep.title}`)}</title>
+      <title>${escapeXml(channel === 'nihongo' ? ep.title : `EP ${ep.paddedNum}: ${ep.title}`)}</title>
       <link>${link}</link>
       <guid isPermaLink="true">${link}</guid>
       <pubDate>${rfcDate(ep.date)}</pubDate>
-      <description><![CDATA[${showNotes(ep)}]]></description>
+      <description><![CDATA[${channel === 'nihongo' ? showNotesJa(ep) : showNotes(ep)}]]></description>
       <enclosure url="${audioUrl}" length="${length}" type="audio/mpeg"/>
       <itunes:duration>${durationSec}</itunes:duration>
       <itunes:episode>${ep.episode}</itunes:episode>
-      <itunes:summary>${escapeXml(ep.description)}</itunes:summary>
+      <itunes:summary>${escapeXml(channel === 'nihongo' ? hookJa(ep) : ep.description)}</itunes:summary>
       <podcast:transcript url="${SITE}/subtitles/${ep.id}.vtt" type="text/vtt" language="ja"/>
     </item>`;
   }).join('\n');
@@ -94,7 +109,7 @@ export function buildRss(channel: Channel): Response {
       <itunes:name>Japanese Daily News</itunes:name>
       <itunes:email>pengcheng199@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="${SITE}/cover.jpg"/>
+    <itunes:image href="${SITE}${COVER[channel]}"/>
     <itunes:category text="Education">
       <itunes:category text="Language Learning"/>
     </itunes:category>
