@@ -1,0 +1,494 @@
+{
+  "episode": 269,
+  "title": "ズワイガニ漁が解禁、初競りで1匹50万円",
+  "titleZh": "松叶蟹捕捞解禁，首拍一只50万日元",
+  "titleEn": "Snow crab season opens, top crab sells for 500,000 yen",
+  "date": "2026-11-07",
+  "source": "サンテレビ / ABCニュース / 北陸中日新聞 / 北國新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026110701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November seventh, crab season has started on the Sea of Japan coast, and one crab sold for a very high price. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "冬においしい「ズワイガニ」の漁が、11月6日に始まりました。",
+      "zh": "捕捞冬季美味“松叶蟹（雪蟹）”的渔期于11月6日开始了。",
+      "en": "Fishing for snow crab, a winter delicacy, began on November 6.",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>においしい「ズワイガニ」の<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "兵庫県の浜坂の港には、朝、カニをたくさんのせた船が帰ってきました。",
+      "tts": "兵庫県のはまさかの港には、朝、カニをたくさんのせた船が帰ってきました。",
+      "zh": "早上，满载螃蟹的渔船回到了兵库县的滨坂港。",
+      "en": "In the morning, boats loaded with crabs came back to the port of Hamasaka in Hyogo Prefecture.",
+      "ruby": "<ruby>兵庫県<rt>ひょうごけん</rt></ruby>の<ruby>浜坂<rt>はまさか</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>には、<ruby>朝<rt>あさ</rt></ruby>、カニをたくさんのせた<ruby>船<rt>ふね</rt></ruby>が<ruby>帰っ<rt>かえっ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ズワイガニの漁は、毎年11月6日から始まると決まっています。",
+      "zh": "按照规定，松叶蟹的捕捞每年从11月6日开始。",
+      "en": "By rule, snow crab fishing starts on November 6 every year.",
+      "ruby": "ズワイガニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>毎年<rt>まいとし</rt></ruby>11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>から<ruby>始ま<rt>はじま</rt></ruby>ると<ruby>決ま<rt>きま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "港では、カニの値段を決める「競り」がありました。",
+      "zh": "港口举行了决定螃蟹价格的“拍卖”。",
+      "en": "At the port, there was an auction to decide the crabs' prices.",
+      "ruby": "<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>では、カニの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>る「<ruby>競り<rt>せり</rt></ruby>」がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん高いカニは、1匹50万円で売れました。",
+      "zh": "最贵的一只螃蟹以50万日元卖出。",
+      "en": "The most expensive crab sold for 500,000 yen.",
+      "ruby": "いちばん<ruby>高い<rt>たかい</rt></ruby>カニは、<ruby>1匹<rt>いっぴき</rt></ruby>50<ruby>万円<rt>まんえん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "買ったのは、神戸にある和食の店の人です。",
+      "zh": "买下它的是神户一家日本料理店的人。",
+      "en": "The buyer was someone from a Japanese restaurant in Kobe.",
+      "ruby": "<ruby>買っ<rt>かっ</rt></ruby>たのは、<ruby>神戸<rt>こうべ</rt></ruby>にある<ruby>和食<rt>わしょく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "石川県では、天気が悪くて、金沢の港の船だけが漁に出ました。",
+      "zh": "在石川县，由于天气不好，只有金泽港的渔船出海捕捞。",
+      "en": "In Ishikawa Prefecture, the weather was bad, so only the boats from Kanazawa's port went out fishing.",
+      "ruby": "<ruby>石川県<rt>いしかわけん</rt></ruby>では、<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>て、<ruby>金沢<rt>かなざわ</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>だけが<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "金沢でも、いちばん高いカニは26万円で売れました。",
+      "zh": "在金泽，最贵的螃蟹也卖到了26万日元。",
+      "en": "In Kanazawa too, the most expensive crab sold for 260,000 yen.",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でも、いちばん<ruby>高い<rt>たかい</rt></ruby>カニは26<ruby>万円<rt>まんえん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金沢でとれたカニは、7日から店に並ぶ予定です。",
+      "zh": "在金泽捕获的螃蟹预计从7日开始在店里上架。",
+      "en": "The crabs caught in Kanazawa are expected to be in shops from the 7th.",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でとれたカニは、<ruby>7日<rt>なのか</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>に<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up, to be on display\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "オスのカニの漁は、来年の3月20日まで続きます。",
+      "zh": "雄蟹的捕捞将持续到明年3月20日。",
+      "en": "Fishing for male crabs will continue until March 20 next year.",
+      "ruby": "オスのカニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "冬においしい「ズワイガニ」の漁が、11月6日に始まりました。",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>においしい「ズワイガニ」の<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fishing for snow crab, a tasty winter food, began on November sixth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漁",
+      "tts": "りょう",
+      "ruby": "<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fishing, the work of catching fish or crabs."
+    },
+    {
+      "speaker": "slow",
+      "text": "兵庫県の浜坂の港には、朝、カニをたくさんのせた船が帰ってきました。",
+      "tts": "兵庫県のはまさかの港には、朝、カニをたくさんのせた船が帰ってきました。",
+      "ruby": "<ruby>兵庫県<rt>ひょうごけん</rt></ruby>の<ruby>浜坂<rt>はまさか</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>には、<ruby>朝<rt>あさ</rt></ruby>、カニをたくさんのせた<ruby>船<rt>ふね</rt></ruby>が<ruby>帰っ<rt>かえっ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the morning, boats full of crabs came back to the port of Hamasaka in Hyogo Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "港",
+      "ruby": "<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a port, where boats come in."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズワイガニの漁は、毎年11月6日から始まると決まっています。",
+      "ruby": "ズワイガニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>毎年<rt>まいとし</rt></ruby>11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>から<ruby>始ま<rt>はじま</rt></ruby>ると<ruby>決ま<rt>きま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is a rule that snow crab fishing starts on November sixth every year."
+    },
+    {
+      "speaker": "slow",
+      "text": "港では、カニの値段を決める「競り」がありました。",
+      "ruby": "<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>では、カニの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>る「<ruby>競り<rt>せり</rt></ruby>」がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At the port, there was an auction, where the prices of the crabs are decided."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "いちばん高いカニは、1匹50万円で売れました。",
+      "ruby": "いちばん<ruby>高い<rt>たかい</rt></ruby>カニは、<ruby>1匹<rt>いっぴき</rt></ruby>50<ruby>万円<rt>まんえん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The most expensive crab sold for five hundred thousand yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "売れる",
+      "ruby": "<span class=\"vw\" data-ja=\"売れる\" data-reading=\"うれる\" data-en=\"to sell, to be sold\"><ruby>売れ<rt>うれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be sold. Something sells."
+    },
+    {
+      "speaker": "slow",
+      "text": "買ったのは、神戸にある和食の店の人です。",
+      "ruby": "<ruby>買っ<rt>かっ</rt></ruby>たのは、<ruby>神戸<rt>こうべ</rt></ruby>にある<ruby>和食<rt>わしょく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The person who bought it works at a Japanese restaurant in Kobe."
+    },
+    {
+      "speaker": "slow",
+      "text": "石川県では、天気が悪くて、金沢の港の船だけが漁に出ました。",
+      "ruby": "<ruby>石川県<rt>いしかわけん</rt></ruby>では、<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>て、<ruby>金沢<rt>かなざわ</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>だけが<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Ishikawa Prefecture, the weather was bad, so only boats from the port of Kanazawa went out fishing."
+    },
+    {
+      "speaker": "slow",
+      "text": "金沢でも、いちばん高いカニは26万円で売れました。",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でも、いちばん<ruby>高い<rt>たかい</rt></ruby>カニは26<ruby>万円<rt>まんえん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Kanazawa too, the most expensive crab sold for two hundred sixty thousand yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "金沢でとれたカニは、7日から店に並ぶ予定です。",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でとれたカニは、<ruby>7日<rt>なのか</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>に<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up, to be on display\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The crabs caught in Kanazawa are planned to be in shops from the seventh."
+    },
+    {
+      "speaker": "vocab",
+      "text": "並ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up, to be on display\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to line up. For goods, it means they are out in the shop."
+    },
+    {
+      "speaker": "slow",
+      "text": "オスのカニの漁は、来年の3月20日まで続きます。",
+      "ruby": "オスのカニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fishing for male crabs continues until March twentieth next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続く",
+      "ruby": "<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue\"><ruby>続く<rt>つづく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "冬においしい「ズワイガニ」の漁が、11月6日に始まりました。",
+      "zh": "捕捞冬季美味“松叶蟹（雪蟹）”的渔期于11月6日开始了。",
+      "en": "Fishing for snow crab, a winter delicacy, began on November 6.",
+      "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>においしい「ズワイガニ」の<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "兵庫県の浜坂の港には、朝、カニをたくさんのせた船が帰ってきました。",
+      "tts": "兵庫県のはまさかの港には、朝、カニをたくさんのせた船が帰ってきました。",
+      "zh": "早上，满载螃蟹的渔船回到了兵库县的滨坂港。",
+      "en": "In the morning, boats loaded with crabs came back to the port of Hamasaka in Hyogo Prefecture.",
+      "ruby": "<ruby>兵庫県<rt>ひょうごけん</rt></ruby>の<ruby>浜坂<rt>はまさか</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>には、<ruby>朝<rt>あさ</rt></ruby>、カニをたくさんのせた<ruby>船<rt>ふね</rt></ruby>が<ruby>帰っ<rt>かえっ</rt></ruby>てきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ズワイガニの漁は、毎年11月6日から始まると決まっています。",
+      "zh": "按照规定，松叶蟹的捕捞每年从11月6日开始。",
+      "en": "By rule, snow crab fishing starts on November 6 every year.",
+      "ruby": "ズワイガニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>毎年<rt>まいとし</rt></ruby>11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>から<ruby>始ま<rt>はじま</rt></ruby>ると<ruby>決ま<rt>きま</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "港では、カニの値段を決める「競り」がありました。",
+      "zh": "港口举行了决定螃蟹价格的“拍卖”。",
+      "en": "At the port, there was an auction to decide the crabs' prices.",
+      "ruby": "<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>では、カニの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>決め<rt>きめ</rt></ruby>る「<ruby>競り<rt>せり</rt></ruby>」がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん高いカニは、1匹50万円で売れました。",
+      "zh": "最贵的一只螃蟹以50万日元卖出。",
+      "en": "The most expensive crab sold for 500,000 yen.",
+      "ruby": "いちばん<ruby>高い<rt>たかい</rt></ruby>カニは、<ruby>1匹<rt>いっぴき</rt></ruby>50<ruby>万円<rt>まんえん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "買ったのは、神戸にある和食の店の人です。",
+      "zh": "买下它的是神户一家日本料理店的人。",
+      "en": "The buyer was someone from a Japanese restaurant in Kobe.",
+      "ruby": "<ruby>買っ<rt>かっ</rt></ruby>たのは、<ruby>神戸<rt>こうべ</rt></ruby>にある<ruby>和食<rt>わしょく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "石川県では、天気が悪くて、金沢の港の船だけが漁に出ました。",
+      "zh": "在石川县，由于天气不好，只有金泽港的渔船出海捕捞。",
+      "en": "In Ishikawa Prefecture, the weather was bad, so only the boats from Kanazawa's port went out fishing.",
+      "ruby": "<ruby>石川県<rt>いしかわけん</rt></ruby>では、<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>て、<ruby>金沢<rt>かなざわ</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>だけが<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>出ま<rt>でま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "金沢でも、いちばん高いカニは26万円で売れました。",
+      "zh": "在金泽，最贵的螃蟹也卖到了26万日元。",
+      "en": "In Kanazawa too, the most expensive crab sold for 260,000 yen.",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でも、いちばん<ruby>高い<rt>たかい</rt></ruby>カニは26<ruby>万円<rt>まんえん</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金沢でとれたカニは、7日から店に並ぶ予定です。",
+      "zh": "在金泽捕获的螃蟹预计从7日开始在店里上架。",
+      "en": "The crabs caught in Kanazawa are expected to be in shops from the 7th.",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でとれたカニは、<ruby>7日<rt>なのか</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>に<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up, to be on display\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "オスのカニの漁は、来年の3月20日まで続きます。",
+      "zh": "雄蟹的捕捞将持续到明年3月20日。",
+      "en": "Fishing for male crabs will continue until March 20 next year.",
+      "ruby": "オスのカニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>まで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ズワイガニの漁は、毎年、何月何日に始まりますか。",
+      "ruby": "ズワイガニの<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November sixth."
+    },
+    {
+      "speaker": "slow",
+      "text": "浜坂の港で、いちばん高いカニは、いくらで売れましたか。",
+      "tts": "はまさかの港で、いちばん高いカニは、いくらで売れましたか。",
+      "ruby": "<ruby>浜坂<rt>はまさか</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>で、いちばん<ruby>高い<rt>たかい</rt></ruby>カニは、いくらで<ruby>売れ<rt>うれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five hundred thousand yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "石川県では、どうして金沢の港の船だけが漁に出ましたか。",
+      "ruby": "<ruby>石川県<rt>いしかわけん</rt></ruby>では、どうして<ruby>金沢<rt>かなざわ</rt></ruby>の<span class=\"vw\" data-ja=\"港\" data-reading=\"みなと\" data-en=\"port, harbor\"><ruby>港<rt>みなと</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>だけが<span class=\"vw\" data-ja=\"漁\" data-reading=\"りょう\" data-en=\"fishing\"><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>出ま<rt>でま</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the weather was bad."
+    },
+    {
+      "speaker": "slow",
+      "text": "金沢でとれたカニは、いつから店に並びますか。",
+      "ruby": "<ruby>金沢<rt>かなざわ</rt></ruby>でとれたカニは、いつから<ruby>店<rt>みせ</rt></ruby>に<ruby>並び<rt>ならび</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the seventh."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Maybe you will try some winter crab this year. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "漁",
+      "reading": "りょう",
+      "en": "fishing",
+      "zh": "捕鱼，渔业"
+    },
+    {
+      "ja": "港",
+      "reading": "みなと",
+      "en": "port, harbor",
+      "zh": "港口"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "売れる",
+      "reading": "うれる",
+      "en": "to sell, to be sold",
+      "zh": "卖出，畅销"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to line up, to be on display",
+      "zh": "排列，（商品）上架"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue",
+      "zh": "持续，继续"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜予定です",
+      "meaning": "to be scheduled to ~, to be planned",
+      "meaningZh": "预定……，计划……",
+      "formation": "Verb dictionary form + 予定です",
+      "example": "金沢でとれたカニは、7日から店に並ぶ予定です。",
+      "translation": "The crabs caught in Kanazawa are planned to be in shops from the 7th.",
+      "note": "Says something is planned or scheduled.",
+      "noteZh": "表示按计划或日程将要发生的事。",
+      "level": "N4"
+    },
+    {
+      "pattern": "Adjective 〜くて (reason)",
+      "meaning": "because (it is) ~",
+      "meaningZh": "因为……（形容词て形表示原因）",
+      "formation": "i-adjective: drop い + くて",
+      "example": "石川県では、天気が悪くて、金沢の港の船だけが漁に出ました。",
+      "translation": "In Ishikawa Prefecture, the weather was bad, so only the boats from Kanazawa's port went out fishing.",
+      "note": "The te-form of an adjective can give the reason for what comes next.",
+      "noteZh": "形容词的て形可以表示后面事情的原因。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜のは〜です",
+      "meaning": "the one who / the thing that ~ is ...",
+      "meaningZh": "……的是……",
+      "formation": "Verb plain form + のは + noun + です",
+      "example": "買ったのは、神戸にある和食の店の人です。",
+      "translation": "The buyer was someone from a Japanese restaurant in Kobe.",
+      "note": "Puts the focus on the part after は.",
+      "noteZh": "用来强调は后面的部分。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜まで",
+      "meaning": "until ~",
+      "meaningZh": "到……为止",
+      "formation": "Noun (time) + まで",
+      "example": "オスのカニの漁は、来年の3月20日まで続きます。",
+      "translation": "Fishing for male crabs will continue until March 20 next year.",
+      "note": "Shows the end point of a time.",
+      "noteZh": "表示时间的终点。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "冬においしい「ズワイガニ」の漁が、11月6日に始まりました。\n捕捞冬季美味“松叶蟹（雪蟹）”的渔期于11月6日开始了。\n漁 = fishing",
+    "兵庫県の浜坂の港には、朝、カニをたくさんのせた船が帰ってきました。\n早上，满载螃蟹的渔船回到了兵库县的滨坂港。\n港 = port, harbor",
+    "ズワイガニの漁は、毎年11月6日から始まると決まっています。\n按照规定，松叶蟹的捕捞每年从11月6日开始。",
+    "港では、カニの値段を決める「競り」がありました。\n港口举行了决定螃蟹价格的“拍卖”。\n値段 = price",
+    "いちばん高いカニは、1匹50万円で売れました。\n最贵的一只螃蟹以50万日元卖出。\n売れる = to sell, to be sold",
+    "買ったのは、神戸にある和食の店の人です。\n买下它的是神户一家日本料理店的人。",
+    "石川県では、天気が悪くて、金沢の港の船だけが漁に出ました。\n在石川县，由于天气不好，只有金泽港的渔船出海捕捞。",
+    "金沢でも、いちばん高いカニは26万円で売れました。\n在金泽，最贵的螃蟹也卖到了26万日元。",
+    "金沢でとれたカニは、7日から店に並ぶ予定です。\n在金泽捕获的螃蟹预计从7日开始在店里上架。\n並ぶ = to line up, to be on display",
+    "オスのカニの漁は、来年の3月20日まで続きます。\n雄蟹的捕捞将持续到明年3月20日。\n続く = to continue"
+  ]
+}
