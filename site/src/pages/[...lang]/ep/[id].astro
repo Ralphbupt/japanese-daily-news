@@ -335,6 +335,25 @@ const segmentsForClient = segs.map(s => ({
       })();
     </script>
 
+    <!-- The other show: only for readers it suits (N4-N3 upward, or finding the all-Japanese one hard) -->
+    {(isNihongo || episode.level === 'N4-N3') && (
+      <a href={chp('/', lang, isNihongo ? 'main' : 'nihongo')} class="channel-promo">
+        {isNihongo ? (
+          <>
+            <span class="channel-promo-label"><span class="i18n-en">Finding this hard?</span><span class="i18n-zh">听着有点吃力？</span></span>
+            <strong>{SHOW_NAME.main}</strong>
+            <span><span class="i18n-en">Daily news explained in English, sentence by sentence · N5–N3</span><span class="i18n-zh">英语逐句讲解的每日新闻 · N5–N3</span></span>
+          </>
+        ) : (
+          <>
+            <span class="channel-promo-label"><span class="i18n-en">Ready for more Japanese?</span><span class="i18n-zh">想多听点日语？</span></span>
+            <strong lang="ja">{SHOW_NAME.nihongo}</strong>
+            <span><span class="i18n-en">Daily news explained entirely in Japanese · N3–N2</span><span class="i18n-zh">全日语讲解的每日新闻 · N3–N2</span></span>
+          </>
+        )}
+      </a>
+    )}
+
     <!-- Prev / Next -->
     <nav class="ep-nav">
       {prevEp ? (
@@ -1259,6 +1278,7 @@ const segmentsForClient = segs.map(s => ({
 
     // ===== Episode nav (prev/next) =====
     document.addEventListener('click', function(e) {
+      if (e.target.closest('.channel-promo')) ga('channel_promo', { to: isNihongo ? 'main' : 'nihongo' });
       var nav = e.target.closest('.ep-nav-link, .ep-topnav-link');
       if (nav) {
         ga('episode_nav', { direction: nav.classList.contains('ep-nav-prev') ? 'prev' : 'next' });

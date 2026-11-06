@@ -39,6 +39,18 @@ VER_BJ="$(TZ=Asia/Shanghai date +%Y%m%d)01"
 # Keep local main in sync before generating (cron may run while you also work).
 git pull --rebase --autostash origin main >>"$LOG" 2>&1 || true
 
+# A run counts as published only if origin/main gained an episode of this show.
+PREFIX=ep; [ "$LEVEL" = "nh" ] && PREFIX=nh
+count_eps() { git ls-tree --name-only "$1" scripts/ | grep -cE "^scripts/${PREFIX}[0-9]+\.json$" || true; }
+BEFORE="$(count_eps HEAD)"
+
+# Telegram DM to the owner, through the same bot as stack/scripts/monitor.sh.
+notify() {
+  ( . /home/work/stack/.env
+    curl -s --max-time 10 "https://api.telegram.org/bot$BOT_TOKEN/sendMessage" \
+      -d chat_id="$OWNER_ID" --data-urlencode text="$1" >/dev/null ) || true
+}
+
 DRYLINE=""
 if [ "${JDN_DRY:-0}" = "1" ]; then
   DRYLINE='DRY RUN: do everything through step 5, but DO NOT run step 6 (no git add/commit/push). Instead print "DRY RUN COMPLETE" and list every file you created or changed.'
@@ -152,10 +164,19 @@ EOF
 fi
 
 echo "[$STAMP] level=$LEVEL dry=${JDN_DRY:-0} -> $LOG"
+RC=0
 claude -p "$PROMPT" \
   --model claude-opus-5-5 \
   --dangerously-skip-permissions \
-  >>"$LOG" 2>&1
+  >>"$LOG" 2>&1 || RC=$?
+
+if [ "${JDN_DRY:-0}" != "1" ]; then
+  git fetch -q origin main >>"$LOG" 2>&1 || true
+  AFTER="$(count_eps origin/main)"
+  if [ "$AFTER" -le "$BEFORE" ]; then
+    notify "🚨 Japanese Daily News: the $LEVEL run published no episode (exit $RC). Log: $LOG"
+  fi
+fi
 
 echo "[$(date -u +%Y%m%dT%H%M%SZ)] done. tail of log:"
 tail -n 20 "$LOG"
