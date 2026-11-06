@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getAllEpisodes } from '../../lib/episodes';
-import { CHANNEL_PARAMS, langOf, channelOf, lp, chp, altPaths, RSS_PATH, SHOW_NAME } from '../../lib/i18n';
+import { CHANNEL_PARAMS, langOf, channelOf, lp, chp, altPaths, RSS_PATH, SHOW_NAME, COVER } from '../../lib/i18n';
 
 export function getStaticPaths() {
   return CHANNEL_PARAMS.map(({ lang }) => ({ params: { lang } }));
@@ -41,7 +41,7 @@ const podcastJsonLd = {
     ? "An all-Japanese daily news podcast for JLPT N3–N2 learners: real news, read and explained in Japanese."
     : "Learn Japanese through real news stories. Daily episodes with native audio, vocabulary breakdown, and grammar review.",
   "url": isNihongo ? 'https://podcast.jpnotes.dev/nihongo/' : 'https://podcast.jpnotes.dev',
-  "image": "https://podcast.jpnotes.dev/cover.jpg",
+  "image": `https://podcast.jpnotes.dev${COVER[channel]}`,
   "author": { "@type": "Person", "name": "Japanese Daily News" },
   "inLanguage": "ja",
   "genre": "Education",

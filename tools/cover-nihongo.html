@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700;900&display=swap" rel="stylesheet">
+<!-- Cover of 日本語で聞くニュース. Render at 3000x3000; see site/public/cover-nihongo.jpg. -->
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 3000px; height: 3000px; overflow: hidden; position: relative;
+    background: #b8283f; color: #f6f4ef;
+    font-family: 'Noto Serif JP', serif;
+  }
+  .frame { position: absolute; inset: 130px; border: 8px solid #f6f4ef88; }
+  .content {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+  }
+  .small { font-size: 340px; font-weight: 700; letter-spacing: 0.1em; line-height: 1.25; margin-right: -0.1em; }
+  .big { font-size: 1040px; font-weight: 900; letter-spacing: 0.02em; line-height: 1.12; }
+  .level { margin-top: 90px; font-size: 130px; font-weight: 700; letter-spacing: 0.14em; color: #f6f4efcc; }
+</style>
+</head>
+<body>
+  <div class="frame"></div>
+  <div class="content">
+    <div class="small">日本語で</div>
+    <div class="big">聞く</div>
+    <div class="small">ニュース</div>
+    <div class="level">N3–N2</div>
+  </div>
+</body>
+</html>

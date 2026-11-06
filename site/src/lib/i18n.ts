@@ -27,6 +27,8 @@ export function channelOf(param: string | undefined): Channel {
   return param?.endsWith('nihongo') ? 'nihongo' : 'main';
 }
 
+export const COVER: Record<Channel, string> = { main: '/cover.jpg', nihongo: '/cover-nihongo.jpg' };
+
 export const SHOW_NAME: Record<Channel, string> = {
   main: 'Japanese Daily News',
   nihongo: '日本語で聞くニュース',
