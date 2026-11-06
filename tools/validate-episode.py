@@ -22,6 +22,8 @@ SCRIPT_DIR = os.path.join(ROOT, "scripts")
 REQUIRED_TOP = ["episode", "title", "titleZh", "titleEn", "date", "source", "level",
                 "characters", "segments", "vocabulary", "grammar", "practiceZh"]
 REQUIRED_SPEAKERS = ["host", "news", "slow", "vocab"]
+# nhNNN = the all-Japanese show: a Japanese "guide" talks around two news readings.
+NH_SPEAKERS = ["guide", "news"]
 CHAR_FIELDS = ["voice", "role", "lang", "rate"]
 VOCAB_FIELDS = ["ja", "reading", "en", "zh"]
 GRAMMAR_FIELDS = ["pattern", "meaning", "meaningZh", "formation", "example",
@@ -62,8 +64,9 @@ def validate(ep_path, errs):
     if "contentVersion" in d and not CONTENT_VERSION_RE.match(str(d["contentVersion"])):
         add(errs, name, f"'contentVersion' must be 10 digits (YYYYMMDDNN), got {d['contentVersion']!r}")
 
+    is_nh = name.startswith("nh")
     chars = d.get("characters", {})
-    for sp in REQUIRED_SPEAKERS:
+    for sp in (NH_SPEAKERS if is_nh else REQUIRED_SPEAKERS):
         if sp not in chars:
             add(errs, name, f"characters missing '{sp}'")
             continue
@@ -71,9 +74,12 @@ def validate(ep_path, errs):
             if f not in chars[sp]:
                 add(errs, name, f"characters.{sp} missing '{f}'")
 
-    if chars.get("host", {}).get("lang") != "en":
+    if is_nh:
+        if "host" in chars:
+            add(errs, name, "nh episodes have no English host (use 'guide')")
+    elif chars.get("host", {}).get("lang") != "en":
         add(errs, name, "characters.host.lang must be 'en'")
-    for sp in ("news", "slow", "vocab"):
+    for sp in ("guide", "news", "slow", "vocab"):
         if chars.get(sp, {}).get("lang") not in (None, "ja"):
             add(errs, name, f"characters.{sp}.lang must be 'ja'")
 
@@ -147,7 +153,7 @@ def staged_episode_jsons():
         return []
     files = []
     for line in out.splitlines():
-        if line.startswith("scripts/ep") and line.endswith(".json") and not line.endswith(".timing.json"):
+        if line.startswith(("scripts/ep", "scripts/nh")) and line.endswith(".json") and not line.endswith(".timing.json"):
             files.append(os.path.join(ROOT, line))
     return files
 
@@ -168,7 +174,7 @@ def main():
         paths = sorted(
             os.path.join(SCRIPT_DIR, f)
             for f in os.listdir(SCRIPT_DIR)
-            if f.startswith("ep") and f.endswith(".json") and not f.endswith(".timing.json")
+            if f.startswith(("ep", "nh")) and f.endswith(".json") and not f.endswith(".timing.json")
         )
 
     all_errs = []

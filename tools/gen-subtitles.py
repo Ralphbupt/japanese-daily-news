@@ -27,7 +27,7 @@ def fmt_srt(seconds):
 
 
 def speaker_label(speaker):
-    return {"host": "Host", "news": "News", "slow": "Slow", "vocab": "Vocab"}.get(
+    return {"host": "Host", "guide": "Guide", "news": "News", "slow": "Slow", "vocab": "Vocab"}.get(
         speaker, speaker
     )
 

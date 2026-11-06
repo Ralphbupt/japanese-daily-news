@@ -10,6 +10,8 @@ interface Props {
   description?: string;
   ogImage?: string;
   jsonLd?: Record<string, any> | Record<string, any>[];
+  /** The show's feed, for pages of a show other than the main one. */
+  rss?: { title: string; href: string };
 }
 
 const SITE = 'https://podcast.jpnotes.dev';
@@ -20,6 +22,7 @@ const {
   description = 'Learn Japanese through real news stories. Daily podcast with vocabulary, grammar, and native audio.',
   ogImage = '/og.jpg', // 1200×630 for link previews; cover.jpg (3000×3000) stays the podcast artwork in the RSS feed
   jsonLd,
+  rss = { title: 'Japanese Daily News', href: '/rss.xml' },
   fullTitle: fullTitleProp,
 } = Astro.props;
 
@@ -47,6 +50,12 @@ const ogImageUrl = new URL(ogImage, SITE).href;
         var saved=localStorage.getItem('jdn-lang');
         var want=saved||((page==='en'&&location.pathname==='/'&&/^zh/i.test(navigator.language||''))?'zh':page);
         var alt=want!==page&&h.getAttribute('data-alt-'+want);
+        // Opening the site on a main home page goes to the show the reader last
+        // picked (jdn-channel, set only by the tabs on the home page). Once per
+        // session, so Back and the tabs never bounce them away from a page.
+        var first=!sessionStorage.getItem('jdn-entered');
+        sessionStorage.setItem('jdn-entered','1');
+        if(first&&localStorage.getItem('jdn-channel')==='nihongo'&&/^\/(zh\/)?$/.test(location.pathname)){alt=want==='zh'?'/zh/nihongo/':'/nihongo/';}
         if(alt){location.replace(alt+location.search+location.hash);}
       } else {
         var sl=localStorage.getItem('jdn-lang');   // 404: one page, switched in place
@@ -87,7 +96,7 @@ const ogImageUrl = new URL(ogImage, SITE).href;
   {isPerLang && <link rel="alternate" hreflang={HREFLANG.zh} href={new URL(alts.zh, SITE).href} />}
   {isPerLang && <link rel="alternate" hreflang="x-default" href={new URL(alts.en, SITE).href} />}
   {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
-  <link rel="alternate" type="application/rss+xml" title="Japanese Daily News" href="/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title={rss.title} href={rss.href} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="manifest" href="/manifest.json" />
   <meta name="apple-mobile-web-app-capable" content="yes" />

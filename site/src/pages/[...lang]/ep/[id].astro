@@ -3,13 +3,14 @@ import Layout from '../../../layouts/Layout.astro';
 import { getAllEpisodes } from '../../../lib/episodes';
 import type { ProcessedEpisode } from '../../../lib/episodes';
 import { withUtm } from '../../../lib/jpnotes';
-import { LANG_PARAMS, langOf, lp, altPaths } from '../../../lib/i18n';
+import { CHANNEL_PARAMS, langOf, channelOf, chp, altPaths, RSS_PATH, SHOW_NAME } from '../../../lib/i18n';
 
-const allEpisodes = getAllEpisodes();
+const allEpisodes = getAllEpisodes(channelOf(Astro.params.lang));
 
 export async function getStaticPaths() {
-  // Every episode in both languages: /ep/NNN/ and /zh/ep/NNN/.
-  return LANG_PARAMS.flatMap(({ lang }) => getAllEpisodes().map(ep => ({
+  // Every episode in both languages: /ep/NNN/ and /zh/ep/NNN/, and for the
+  // all-Japanese show /nihongo/ep/NNN/ and /zh/nihongo/ep/NNN/.
+  return CHANNEL_PARAMS.flatMap(({ lang, channel }) => getAllEpisodes(channel).map(ep => ({
     params: { lang, id: ep.paddedNum },
     props: { episode: ep },
   })));
@@ -18,6 +19,10 @@ export async function getStaticPaths() {
 interface Props { episode: ProcessedEpisode; }
 const { episode } = Astro.props;
 const lang = langOf(Astro.params.lang);
+const channel = channelOf(Astro.params.lang);
+const isNihongo = channel === 'nihongo';
+const showName = SHOW_NAME[channel];
+const clp = (p: string) => chp(p, lang, channel);
 const epNo = Number(episode.paddedNum);
 const pageDescription = lang === 'zh' ? episode.descriptionZh : episode.description;
 // Titles in the reader's language and the words learners search for
@@ -25,7 +30,9 @@ const pageDescription = lang === 'zh' ? episode.descriptionZh : episode.descript
 const translatedTitle = lang === 'zh' ? episode.titleZh : episode.titleEn;
 // Translation shown under each Japanese sentence, in the page's language.
 const trLines = lang === 'zh' ? episode.zhLines : episode.enLines;
-const pageTitle = lang === 'zh'
+const pageTitle = isNihongo
+  ? `${(lang === 'zh' ? episode.titleZh : episode.titleEn) || episode.title} | ${showName} ${epNo}`
+  : lang === 'zh'
   ? `${episode.titleZh || episode.title}｜日语新闻听力 第${epNo}集`
   : `${episode.titleEn || episode.title} | Easy Japanese News EP ${episode.paddedNum}`;
 
@@ -46,7 +53,7 @@ const episodeJsonLd = {
   "inLanguage": "ja",
   "episodeNumber": epNo,
   "description": pageDescription,
-  "url": `${SITE}${lp(`/ep/${episode.paddedNum}/`, lang)}`,
+  "url": `${SITE}${clp(`/ep/${episode.paddedNum}/`)}`,
   "datePublished": episode.date,
   "duration": durationISO,
   "associatedMedia": {
@@ -55,8 +62,8 @@ const episodeJsonLd = {
   },
   "partOfSeries": {
     "@type": "PodcastSeries",
-    "name": "Japanese Daily News",
-    "url": SITE
+    "name": showName,
+    "url": isNihongo ? `${SITE}/nihongo/` : SITE
   }
 };
 
@@ -72,10 +79,11 @@ function formatDate(d: string) {
 
 function speakerLabel(s: string) {
   if (lang === 'zh') {
-    return ({ host: '主持', news: '新闻', slow: '慢速', vocab: '词汇' } as Record<string, string>)[s] || s;
+    return ({ host: '主持', guide: '讲解', news: '新闻', slow: '慢速', vocab: '词汇' } as Record<string, string>)[s] || s;
   }
   switch (s) {
     case 'host': return 'Host';
+    case 'guide': return 'Guide';
     case 'news': return 'News';
     case 'slow': return 'Slow Repeat';
     case 'vocab': return 'Vocab';
@@ -87,7 +95,7 @@ const segs = episode.timedSegments;
 const firstSlowIdx = segs.findIndex(s => s.speaker === 'slow');
 // "Japanese only" mode: the first full reading of the news, before the breakdown.
 const pureIdx = new Set(segs.map((_, i) => i).filter(i =>
-  segs[i].speaker === 'news' && (firstSlowIdx < 0 || i < firstSlowIdx)));
+  !isNihongo && segs[i].speaker === 'news' && (firstSlowIdx < 0 || i < firstSlowIdx)));
 const vocabRecapIdx = segs.findIndex(s =>
   s.speaker === 'host' &&
   (s.text.toLowerCase().includes('vocabulary recap') ||
@@ -99,7 +107,7 @@ const segmentsForClient = segs.map(s => ({
   r: s.ruby || '',
 }));
 ---
-<Layout
+<Layout rss={{ title: showName, href: RSS_PATH[channel] }}
   lang={lang}
   fullTitle={pageTitle}
   description={pageDescription}
@@ -109,14 +117,14 @@ const segmentsForClient = segs.map(s => ({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": lang === 'zh' ? "首页" : "Home", "item": `${SITE}${lp('/', lang)}` },
-      { "@type": "ListItem", "position": 2, "name": episode.title, "item": `${SITE}${lp(`/ep/${episode.paddedNum}/`, lang)}` }
+      { "@type": "ListItem", "position": 1, "name": lang === 'zh' ? "首页" : "Home", "item": `${SITE}${clp('/')}` },
+      { "@type": "ListItem", "position": 2, "name": episode.title, "item": `${SITE}${clp(`/ep/${episode.paddedNum}/`)}` }
     ]
   })} />
   <nav class="nav">
-    <a href={lp('/', lang)} class="nav-logo">Japanese Daily News</a>
+    <a href={clp('/')} class="nav-logo">{showName}</a>
     <div class="nav-links">
-      <a href="/rss.xml" class="nav-link nav-rss-icon">
+      <a href={RSS_PATH[channel]} class="nav-link nav-rss-icon">
         <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 010 4.36 2.18 2.18 0 010-4.36zM4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44zm0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
         RSS
       </a>
@@ -138,15 +146,15 @@ const segmentsForClient = segs.map(s => ({
 
   <header class="ep-header">
     <div class="ep-topbar">
-      <a href={lp('/', lang)} class="ep-back">&larr; {lang === 'zh' ? '全部节目' : 'Episodes'}</a>
+      <a href={clp('/')} class="ep-back">&larr; {lang === 'zh' ? '全部节目' : 'Episodes'}</a>
       <div class="ep-topnav">
         {prevEp && (
-          <a href={lp(`/ep/${prevEp.paddedNum}/`, lang)} class="ep-topnav-link ep-nav-prev" title={`EP ${prevEp.paddedNum}: ${prevEp.title}`}>
+          <a href={clp(`/ep/${prevEp.paddedNum}/`)} class="ep-topnav-link ep-nav-prev" title={`EP ${prevEp.paddedNum}: ${prevEp.title}`}>
             &larr; <span class="i18n-en">Prev</span><span class="i18n-zh">上一集</span>
           </a>
         )}
         {nextEp && (
-          <a href={lp(`/ep/${nextEp.paddedNum}/`, lang)} class="ep-topnav-link ep-nav-next" title={`EP ${nextEp.paddedNum}: ${nextEp.title}`}>
+          <a href={clp(`/ep/${nextEp.paddedNum}/`)} class="ep-topnav-link ep-nav-next" title={`EP ${nextEp.paddedNum}: ${nextEp.title}`}>
             <span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;
           </a>
         )}
@@ -163,8 +171,8 @@ const segmentsForClient = segs.map(s => ({
     <div class="mode-bar">
       <div class="mode-toggle">
         <button class="mode-btn active" data-mode="fulltext"><span class="i18n-en">Full Text</span><span class="i18n-zh">全文</span></button>
-        <button class="mode-btn" data-mode="japanese"><span class="i18n-en">Japanese only</span><span class="i18n-zh">纯日语</span></button>
-        <button class="mode-btn" data-mode="practice"><span class="i18n-en">Practice</span><span class="i18n-zh">精听</span></button>
+        {!isNihongo && <button class="mode-btn" data-mode="japanese"><span class="i18n-en">Japanese only</span><span class="i18n-zh">纯日语</span></button>}
+        {!isNihongo && <button class="mode-btn" data-mode="practice"><span class="i18n-en">Practice</span><span class="i18n-zh">精听</span></button>}
       </div>
       {Object.keys(trLines).length > 2 && (
         <button class="tr-toggle" id="tr-toggle" type="button"
@@ -208,8 +216,9 @@ const segmentsForClient = segs.map(s => ({
     {/* Apply the saved Japanese-only mode before the first paint (the main
         script below runs later; without this the page showed the full text
         and then jumped). The main script still does the rest on load. */}
-    <script is:inline>
+    <script is:inline define:vars={{ noJaMode: isNihongo }}>
       (function(){
+        if (noJaMode) return;
         var ja = /[?&]mode=ja/.test(location.search);
         try { ja = ja || localStorage.getItem('jdn-mode') === 'japanese'; } catch(e) {}
         if (!ja) return;
@@ -329,13 +338,13 @@ const segmentsForClient = segs.map(s => ({
     <!-- Prev / Next -->
     <nav class="ep-nav">
       {prevEp ? (
-        <a href={lp(`/ep/${prevEp.paddedNum}/`, lang)} class="ep-nav-link ep-nav-prev">
+        <a href={clp(`/ep/${prevEp.paddedNum}/`)} class="ep-nav-link ep-nav-prev">
           <span class="ep-nav-label">&larr; <span class="i18n-en">Previous</span><span class="i18n-zh">上一集</span></span>
           <span class="ep-nav-title">EP {prevEp.paddedNum}: {prevEp.title}</span>
         </a>
       ) : <span />}
       {nextEp ? (
-        <a href={lp(`/ep/${nextEp.paddedNum}/`, lang)} class="ep-nav-link ep-nav-next">
+        <a href={clp(`/ep/${nextEp.paddedNum}/`)} class="ep-nav-link ep-nav-next">
           <span class="ep-nav-label"><span class="i18n-en">Next</span><span class="i18n-zh">下一集</span> &rarr;</span>
           <span class="ep-nav-title">EP {nextEp.paddedNum}: {nextEp.title}</span>
         </a>
@@ -400,17 +409,17 @@ const segmentsForClient = segs.map(s => ({
         <button type="button" data-order="asc"><span class="i18n-en">Oldest first</span><span class="i18n-zh">从旧到新</span></button>
         <button type="button" data-order="desc"><span class="i18n-en">Newest first</span><span class="i18n-zh">从新到旧</span></button>
       </div>
-      <div class="pl-seg" id="plLevel" role="group">
+      <div class="pl-seg" id="plLevel" role="group" hidden={isNihongo}>
         <button type="button" data-level="all"><span class="i18n-en">All</span><span class="i18n-zh">全部</span></button>
         <button type="button" data-level="N5-N4">N5–N4</button>
         <button type="button" data-level="N4-N3">N4–N3</button>
       </div>
     </div>
-    <p class="pl-note"><span class="i18n-en">Auto-play follows this order and level.</span><span class="i18n-zh">连播按这里的顺序和级别播放。</span></p>
+    <p class="pl-note"><span class="i18n-en">{isNihongo ? 'Auto-play follows this order.' : 'Auto-play follows this order and level.'}</span><span class="i18n-zh">{isNihongo ? '连播按这里的顺序播放。' : '连播按这里的顺序和级别播放。'}</span></p>
     <ol class="pl-list" id="plList"></ol>
   </div>
 
-  <div id="seg-data" data-prev={prevEp ? prevEp.paddedNum : ''} data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} data-num={episode.paddedNum} data-title={episode.title} data-level={episode.level} style="display:none"></div>
+  <div id="seg-data" data-show={showName} data-channel-path={isNihongo ? '/nihongo' : ''} data-prev={prevEp ? prevEp.paddedNum : ''} data-v={JSON.stringify(segmentsForClient)} data-ep={episode.id} data-cv={episode.contentVersion || ''} data-next={nextEp ? nextEp.paddedNum : ''} data-pzh={JSON.stringify(episode.practiceZh)} data-num={episode.paddedNum} data-title={episode.title} data-level={episode.level} style="display:none"></div>
 
   <script is:inline>
   // Shared by every episode played on this page load (see swapIn).
@@ -436,6 +445,9 @@ const segmentsForClient = segs.map(s => ({
     var epCv = dataEl.getAttribute('data-cv') || '';
     var nextEpNum = dataEl.getAttribute('data-next') || '';
     var langPrefix = document.documentElement.getAttribute('data-force-lang') === 'zh' ? '/zh' : '';
+    var channelPath = document.getElementById('seg-data').getAttribute('data-channel-path') || '';
+    var isNihongo = !!channelPath;
+    var pagePrefix = langPrefix + channelPath;
     var practiceZhArr = JSON.parse(dataEl.getAttribute('data-pzh') || '[]');
     var segments = raw.map(function(r) {
       return { index: r.i, start: r.s, end: r.e, speaker: r.sp, text: r.t, ruby: r.r };
@@ -468,7 +480,7 @@ const segmentsForClient = segs.map(s => ({
     function rangeOn() { return jaOnly && rEnd > rStart; }
 
     // ===== Lock screen / notification: the current sentence as the title =====
-    var msArtist = 'Japanese Daily News · EP ' + (dataEl.getAttribute('data-num') || '');
+    var msArtist = dataEl.getAttribute('data-show') + ' · EP ' + (dataEl.getAttribute('data-num') || '');
     var msAlbum = dataEl.getAttribute('data-title') || '';
     var msArt = [{ src: '/cover.jpg', sizes: '3000x3000', type: 'image/jpeg' }];
     var msLast = null;
@@ -1043,7 +1055,7 @@ const segmentsForClient = segs.map(s => ({
     // ===== Start in the listener's mode =====
     var startMode = arrivedJaOnly ? 'japanese' : null;
     if (!startMode) { try { startMode = localStorage.getItem('jdn-mode'); } catch(e) {} }
-    if (startMode === 'japanese') {
+    if (startMode === 'japanese' && !isNihongo) {
       var modeBtn = document.querySelector('.mode-btn[data-mode="' + startMode + '"]');
       if (modeBtn) { restoringMode = true; modeBtn.click(); restoringMode = false; }
     }
@@ -1060,10 +1072,10 @@ const segmentsForClient = segs.map(s => ({
     try {
       plOrder = localStorage.getItem('jdn-order') === 'desc' ? 'desc' : 'asc';
       var lvPref = localStorage.getItem('jdn-pl-level');
-      plLevel = (lvPref === 'N5-N4' || lvPref === 'N4-N3') ? lvPref : 'all';
+      plLevel = (!isNihongo && (lvPref === 'N5-N4' || lvPref === 'N4-N3')) ? lvPref : 'all';
     } catch(e) {}
     function loadList() {
-      if (!epListP) epListP = fetch('/episodes.json').then(function(r) { return r.json(); })
+      if (!epListP) epListP = fetch(channelPath + '/episodes.json').then(function(r) { return r.json(); })
         .then(function(l) { epList = l; return l; }).catch(function() { return null; });
       return epListP;
     }
@@ -1094,7 +1106,7 @@ const segmentsForClient = segs.map(s => ({
     var prepared = null;   // { n, doc }; doc stays null until fetched
     var leaving = false;
     function fetchEp(n) {
-      return fetch(langPrefix + '/ep/' + n + '/').then(function(r) {
+      return fetch(pagePrefix + '/ep/' + n + '/').then(function(r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.text();
       }).then(function(html) {
@@ -1130,7 +1142,7 @@ const segmentsForClient = segs.map(s => ({
       var canon = document.querySelector('link[rel="canonical"]');
       var newCanon = doc.querySelector('link[rel="canonical"]');
       if (canon && newCanon) canon.setAttribute('href', newCanon.getAttribute('href'));
-      history.pushState(null, '', langPrefix + '/ep/' + n + '/');
+      history.pushState(null, '', pagePrefix + '/ep/' + n + '/');
       window.scrollTo(0, 0);
       audio.src = '/audio/' + document.getElementById('seg-data').getAttribute('data-ep') + '.mp3';
       initEpisode(next);
@@ -1139,7 +1151,7 @@ const segmentsForClient = segs.map(s => ({
       if (leaving) return;
       leaving = true;
       function navigate() {
-        location.href = langPrefix + '/ep/' + n + '/' +
+        location.href = pagePrefix + '/ep/' + n + '/' +
           (next.play ? '?play=1' : '?autoplay=1' + (next.ja ? '&mode=ja' : ''));
       }
       if (!canSwap) { navigate(); return; }
@@ -1166,10 +1178,11 @@ const segmentsForClient = segs.map(s => ({
       var prog = {};
       try { prog = JSON.parse(localStorage.getItem('jdn-progress') || '{}'); } catch(e) {}
       plListEl.innerHTML = orderedList().map(function(e) {
-        var cur = e.n === epNum, done = prog['ep' + e.n] && prog['ep' + e.n].listened;
+        var progKey = (isNihongo ? 'nh' : 'ep') + e.n;
+        var cur = e.n === epNum, done = prog[progKey] && prog[progKey].listened;
         var tr = isZhPage ? e.zh : e.en;
         return '<li><a class="pl-item' + (cur ? ' current' : '') + '"' + (cur ? ' aria-current="true"' : '') +
-          ' href="' + langPrefix + '/ep/' + e.n + '/" data-n="' + e.n + '">' +
+          ' href="' + pagePrefix + '/ep/' + e.n + '/" data-n="' + e.n + '">' +
           '<span class="pl-num">' + e.n + '</span><span class="pl-text"><span class="pl-ja" lang="ja">' + esc(e.t) + '</span>' +
           (tr ? '<span class="pl-tr">' + esc(tr) + '</span>' : '') + '</span>' +
           '<span class="pl-meta">' + (done ? '<span class="pl-done" title="listened">&#10003;</span>' : '') + '<span class="pl-lv">' + esc(e.lv) + '</span></span></a></li>';
