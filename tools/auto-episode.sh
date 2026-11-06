@@ -124,7 +124,7 @@ Steps:
    level="$LEVELFIELD", date exactly "$TODAY_BJ", contentVersion exactly "$VER_BJ",
    source naming the outlets used, titleZh, titleEn, characters copied from nh001.
    The title, hook and closing question must earn the click while staying faithful.
-   Say the date in the greeting. The talk must explain why the news matters, in
+   Open exactly as CLAUDE.md says: greeting, hook, then the news itself. The talk must explain why the news matters, in
    easy spoken Japanese, and must not be a vocabulary or grammar lesson. Facts in
    the talk must come from the sources. Do the "Self-check" in CLAUDE.md first.
 4. Run the pipeline. Use .venv/bin/python for ALL python tools:

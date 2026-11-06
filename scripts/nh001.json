@@ -6,7 +6,7 @@
   "date": "2026-11-06",
   "source": "NHK / 日本経済新聞 / 共同通信（デイリースポーツ） / 労働新聞社（厚生労働省 毎月勤労統計調査 2026年9月分速報）",
   "level": "N3-N2",
-  "contentVersion": "2026110601",
+  "contentVersion": "2026110602",
   "grammar": [
     {
       "pattern": "〜によると",
@@ -147,26 +147,21 @@
   "segments": [
     {
       "speaker": "guide",
-      "text": "給料の増え方が、およそ30年ぶりの大きさになりました。でも、私たちの暮らしは、本当に楽になっているのでしょうか。",
-      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>増え方<rt>ふえかた</rt></ruby>が、およそ30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>大きさ<rt>おおきさ</rt></ruby>になりました。でも、<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>暮らし<rt>くらし</rt></ruby>は、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>楽<rt>らく</rt></ruby>になっているのでしょうか。"
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月6日、金曜日です。",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは11月むいか、金曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>です。"
     },
     {
       "speaker": "guide",
-      "text": "こんにちは。日本語で聞くニュースです。今日は11月6日、金曜日。まずは、ニュースを聞いてみましょう。",
-      "tts": "こんにちは。日本語で聞くニュースです。きょうは11月むいか、金曜日。まずは、ニュースを聞いてみましょう。",
-      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>。まずは、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。"
-    },
-    {
-      "speaker": "news",
-      "text": "今日のニュースです。",
-      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+      "text": "給料の増え方が、およそ30年ぶりの大きさになりました。でも、私たちの暮らしは、本当に楽になっているのでしょうか。",
+      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>増え方<rt>ふえかた</rt></ruby>が、およそ30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>大きさ<rt>おおきさ</rt></ruby>になりました。でも、<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>暮らし<rt>くらし</rt></ruby>は、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>楽<rt>らく</rt></ruby>になっているのでしょうか。"
     },
     {
       "speaker": "news",
       "text": "物価の変動を反映した実質賃金が、9か月連続でプラスとなりました。",
       "zh": "反映物价变动后的实际工资，连续9个月同比增长。",
       "en": "Real wages, adjusted for prices, rose for the ninth month in a row.",
-      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>を<span class=\"vw\" data-ja=\"反映\" data-reading=\"はんえい\" data-en=\"reflection, to be reflected in\"><ruby>反映<rt>はんえい</rt></ruby></span>した<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>が、9か<ruby>月<rt>がつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>でプラスとなりました。",
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>を<span class=\"vw\" data-ja=\"反映\" data-reading=\"はんえい\" data-en=\"reflection, to be reflected in\"><ruby>反映<rt>はんえい</rt></ruby></span>した<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>が、9か<ruby>月<rt>げつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>でプラスとなりました。",
       "tts": "物価の変動を反映した実質賃金が、きゅうかげつ連続でプラスとなりました。"
     },
     {
@@ -182,7 +177,7 @@
       "text": "9か月以上続けてプラスになるのは、2016年から2017年にかけて12か月続いて以来です。",
       "zh": "连续9个月以上增长，是2016年至2017年连续12个月增长以来的首次。",
       "en": "It is the first run of nine months or more since a twelve-month streak from 2016 to 2017.",
-      "ruby": "9か<ruby>月<rt>がつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てプラスになるのは、2016<ruby>年<rt>ねん</rt></ruby>から2017<ruby>年<rt>ねん</rt></ruby>にかけて12か<ruby>月<rt>がつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>て<ruby>以来<rt>いらい</rt></ruby>です。"
+      "ruby": "9か<ruby>月<rt>げつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てプラスになるのは、2016<ruby>年<rt>ねん</rt></ruby>から2017<ruby>年<rt>ねん</rt></ruby>にかけて12か<ruby>月<rt>げつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>て<ruby>以来<rt>いらい</rt></ruby>です。"
     },
     {
       "speaker": "news",
@@ -322,15 +317,10 @@
     },
     {
       "speaker": "news",
-      "text": "今日のニュースです。",
-      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
-    },
-    {
-      "speaker": "news",
       "text": "物価の変動を反映した実質賃金が、9か月連続でプラスとなりました。",
       "zh": "反映物价变动后的实际工资，连续9个月同比增长。",
       "en": "Real wages, adjusted for prices, rose for the ninth month in a row.",
-      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>を<span class=\"vw\" data-ja=\"反映\" data-reading=\"はんえい\" data-en=\"reflection, to be reflected in\"><ruby>反映<rt>はんえい</rt></ruby></span>した<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>が、9か<ruby>月<rt>がつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>でプラスとなりました。",
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>を<span class=\"vw\" data-ja=\"反映\" data-reading=\"はんえい\" data-en=\"reflection, to be reflected in\"><ruby>反映<rt>はんえい</rt></ruby></span>した<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>が、9か<ruby>月<rt>げつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>でプラスとなりました。",
       "tts": "物価の変動を反映した実質賃金が、きゅうかげつ連続でプラスとなりました。"
     },
     {
@@ -346,7 +336,7 @@
       "text": "9か月以上続けてプラスになるのは、2016年から2017年にかけて12か月続いて以来です。",
       "zh": "连续9个月以上增长，是2016年至2017年连续12个月增长以来的首次。",
       "en": "It is the first run of nine months or more since a twelve-month streak from 2016 to 2017.",
-      "ruby": "9か<ruby>月<rt>がつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てプラスになるのは、2016<ruby>年<rt>ねん</rt></ruby>から2017<ruby>年<rt>ねん</rt></ruby>にかけて12か<ruby>月<rt>がつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>て<ruby>以来<rt>いらい</rt></ruby>です。"
+      "ruby": "9か<ruby>月<rt>げつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てプラスになるのは、2016<ruby>年<rt>ねん</rt></ruby>から2017<ruby>年<rt>ねん</rt></ruby>にかけて12か<ruby>月<rt>げつ</rt></ruby><ruby>続い<rt>つづい</rt></ruby>て<ruby>以来<rt>いらい</rt></ruby>です。"
     },
     {
       "speaker": "news",

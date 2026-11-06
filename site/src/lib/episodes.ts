@@ -106,7 +106,9 @@ function padNum(n: number): string {
 // content-rich description (the old logic emitted the same boilerplate greeting
 // for every episode, which Google treats as duplicate/thin content).
 function buildSummary(raw: RawEpisode): string {
-  const intro = raw.segments.find(s => s.speaker === 'host' || s.speaker === 'guide')?.text || '';
+  // The all-Japanese show opens with a greeting, then the hook (its summary).
+  const guide = raw.segments.filter(s => s.speaker === 'guide');
+  const intro = (guide.length ? guide[1] : raw.segments.find(s => s.speaker === 'host'))?.text || '';
   let summary = '';
   const m = intro.match(/Today['’]s story\b[^.!?]*?:\s*(.+?)(?:\s*Let['’]s listen\.?\s*)?$/i);
   if (m) summary = m[1].trim();
