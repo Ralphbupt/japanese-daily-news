@@ -3,6 +3,7 @@
 
 import json
 import os
+import re
 import sys
 from pykakasi import kakasi
 
@@ -10,6 +11,7 @@ ROOT = os.path.dirname(os.path.dirname(__file__))
 SCRIPT_DIR = os.path.join(ROOT, "scripts")
 
 kks = kakasi()
+MONTHS_COUNTER = re.compile(r"([かカヶヵケ箇])<ruby>月([^<]*)<rt>がつ")
 
 
 def has_kanji(text):
@@ -64,7 +66,8 @@ def to_ruby_html(text, vocab_list=None):
                 html_parts.append(orig)
             i += 1
 
-    return "".join(html_parts)
+    # pykakasi reads 月 as がつ even in 9か月 (months), which is げつ.
+    return MONTHS_COUNTER.sub(r"\1<ruby>月\2<rt>げつ", "".join(html_parts))
 
 
 def process_episode(ep_path):

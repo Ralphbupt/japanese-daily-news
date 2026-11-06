@@ -56,6 +56,9 @@ def audit_ruby(html, where, findings):
     for m in re.finditer(r"(?<![0-9０-９])([1-9]|10)<ruby>日<rt>にち</rt></ruby>", html):
         findings.append(f"{where}: {m.group(1)}日=にち — should be "
                         f"<ruby>{m.group(1)}日<rt>{DATE_READING[m.group(1)]}</rt></ruby>")
+    # counter 〜か月 reads げつ, not the calendar がつ
+    for m in re.finditer(r"[かカヶヵケ箇]<ruby>月[^<]*<rt>がつ", html):
+        findings.append(f"{where}: {m.group(0)} — か月 reads げつ")
     for m in RUBY.finditer(html):
         base, rt = m.group(1), m.group(2)
         prev = plain_before(html, m.start())
