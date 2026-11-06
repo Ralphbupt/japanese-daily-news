@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Autonomous daily-episode generator for cron.
-#   Usage: tools/auto-episode.sh n5|n4
+#   Usage: tools/auto-episode.sh n5|n4|nh   (nh = the all-Japanese show, nhNNN)
 #   Env:   JDN_DRY=1  -> generate everything but do NOT commit/push (for testing)
 #
 # Drives a headless Claude Code (Fable 5) session that finds real Japanese
@@ -21,7 +21,8 @@ case "$LEVEL" in
       STYLE="Target duration ~7:30-8:00 with 9-10 news segments, per CLAUDE.md.";;
   n4) LEVELFIELD="N4-N3"; LEVELDESC="a more substantial INTERMEDIATE real news story (evening N4)"
       STYLE="EVENING STYLE (overrides CLAUDE.md defaults): make this episode LONGER and DENSER in Japanese. Target ~9:00-10:00. Use 13-15 news segments and more breakdown sentences so there is MORE Japanese listening. Keep host (Maya) commentary MINIMAL: one short line per intro/translation, no verbose transitions or extra explanation. Prioritize Japanese volume over English commentary.";;
-  *)  echo "usage: $0 n5|n4" >&2; exit 2;;
+  nh) LEVELFIELD="N3-N2"; LEVELDESC=""; STYLE="";;
+  *)  echo "usage: $0 n5|n4|nh" >&2; exit 2;;
 esac
 
 mkdir -p "$REPO/logs"
@@ -100,6 +101,55 @@ contentVersion. Keep host commentary concise. If validate fails, fix and re-run
 until it passes before committing.
 $DRYLINE
 EOF
+
+if [ "$LEVEL" = "nh" ]; then
+  read -r -d '' PROMPT <<EOF || true
+You are an autonomous content generator for the all-Japanese podcast
+「日本語で聞くニュース」. Work in the repo at $REPO. FIRST read CLAUDE.md in full,
+especially the section "日本語で聞くニュース", and read scripts/nh001.json as the
+model of the format. Then produce ONE brand-new episode for today.
+
+Steps:
+1. Next id: list scripts/nh*.json (not *.timing.json), take the highest NNN, add 1, zero-pad (e.g. nh002).
+   The "episode" field is that number.
+2. Find a REAL Japanese news story from the last 1-2 days with WebSearch (fall back
+   to WebFetch of NHK / major outlets), and confirm its facts in at least two
+   sources. Choose the story listeners would most want to tap on and talk about:
+   daily life, money, work, food, travel, society, a surprising number. Avoid
+   stories that are only a list of officials or companies. Dedupe against all
+   past episodes of both shows:
+     grep -h '"title"' scripts/ep*.json scripts/nh*.json
+   NEVER fabricate news, and never exaggerate beyond the sources.
+3. Write scripts/nhNNN.json exactly as CLAUDE.md describes for this show:
+   level="$LEVELFIELD", date exactly "$TODAY_BJ", contentVersion exactly "$VER_BJ",
+   source naming the outlets used, titleZh, titleEn, characters copied from nh001.
+   The title, hook and closing question must earn the click while staying faithful.
+   Say the date in the greeting. The talk must explain why the news matters, in
+   easy spoken Japanese, and must not be a vocabulary or grammar lesson. Facts in
+   the talk must come from the sources. Do the "Self-check" in CLAUDE.md first.
+4. Run the pipeline. Use .venv/bin/python for ALL python tools:
+     .venv/bin/python tools/add-furigana.py nhNNN
+     .venv/bin/python tools/validate-episode.py nhNNN      # must pass; fix until clean
+     .venv/bin/python tools/audit-furigana.py nhNNN        # hand-fix any SUSPECT readings in the JSON
+     .venv/bin/python tools/gen-nihongo.py nhNNN
+   If gen-nihongo prints CHECK for a line, read what it heard. If the voice misread
+   something, add a "tts" kana field to that segment and run gen-nihongo again.
+   If the audio or timing fails, stop and report the error: never publish an
+   episode without audio.
+     .venv/bin/python tools/gen-subtitles.py nhNNN
+     cp audio/nhNNN.mp3 site/public/audio/
+     cp subtitles/nhNNN.* site/public/subtitles/
+5. Re-run validate-episode.py nhNNN to confirm it is clean.
+6. Commit and push only the new episode's files:
+     git add scripts/nhNNN.json scripts/nhNNN.timing.json audio/nhNNN.mp3 subtitles/nhNNN.vtt subtitles/nhNNN.srt
+     git commit -m "Add nhNNN: <short English summary of the story>"
+     git push origin main
+   (Cloudflare Pages auto-deploys on push.)
+
+Only ADD the new episode. Do NOT modify other episodes.
+$DRYLINE
+EOF
+fi
 
 echo "[$STAMP] level=$LEVEL dry=${JDN_DRY:-0} -> $LOG"
 claude -p "$PROMPT" \

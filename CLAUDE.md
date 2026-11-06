@@ -81,6 +81,18 @@ Critical rules:
 - Host name is Maya: "Welcome to Japanese Daily News. I'm Maya."
 - Each JSON also includes `titleZh` / `titleEn` (the headline translated: a natural Chinese news headline ≤ 30 chars and a short English one ≤ 70 chars, sentence case — they become the /zh/ and English page titles, "<titleZh>｜日语新闻听力 第N集" / "<titleEn> | Easy Japanese News EP NNN"), `vocabulary` (with `zh` field), `grammar` (with `meaningZh`/`noteZh`), `practiceZh` (one entry per breakdown sentence: Japanese line, Chinese translation line, notes — the Chinese line is also shown under that sentence on /zh/ pages), and `level` fields. Every `news` segment also gets a `zh` (Chinese) and an `en` (English) field with its faithful translation — same facts and order, digits as in the source; identical in the replay. The /zh/ and English pages show them under the sentence (readers can hide them), and validate-episode fails a news sentence without `en`, or without `zh` unless practiceZh covers it
 
+## 日本語で聞くニュース (second show, `scripts/nhNNN.json`)
+
+An all-Japanese daily show for N3–N2 learners, on the same site at `/nihongo/` and `/zh/nihongo/`, with its own RSS (`/nihongo/rss.xml`), numbering from 1 and cover (`site/public/cover-nihongo.jpg`). Apple Podcasts: https://podcasts.apple.com/podcast/id6831520512 . Same JSON as the main show, with these differences:
+
+- Speakers: only `guide` (voice Charon) and `news` (voice Leda), both `"lang": "ja"`, `"rate": "+0%"`. No host, slow or vocab segments, and no English or Chinese in the audio.
+- Structure: `guide` hook (1 line, a question or surprise from the story) → `guide` greeting with the date → 12-15 `news` lines → 10-14 `guide` lines talking about the story in plain, natural Japanese → `guide` transition with `"break": true` → the same `news` lines again → `guide` closing with an open question to the listener, ending 「また明日。」. Target 5:00-6:30.
+- Teaching lives on the page: `vocabulary` (6-8), `grammar` (4-5), top-level `quiz` (3 `{q, a}` in Japanese) and `practiceZh`; never read them out as a lesson. Every `news` line has `zh` and `en`.
+- Pick stories people want to talk about, and make the title, hook and description earn the click: a concrete number, a surprise or a question that touches daily life. Every claim stays faithful to the sources; no exaggeration or invented tension. `title` is at most ~40 characters.
+- Numbers and counters the voice may misread get a `tts` kana field (e.g. 「9か月」→「きゅうかげつ」).
+- Audio: `.venv/bin/python tools/gen-nihongo.py nhNNN` (Gemini TTS `gemini-3.8-flash-lite-tts`, timing from `gemini-3.5-transcribe`; key in `$GEMINI_API_KEY` or `~/.config/storyanim/gemini_key`; never print it). It writes `audio/nhNNN.mp3` and `scripts/nhNNN.timing.json`, and prints `CHECK` for lines the transcript does not match. Don't add style instructions to the TTS text: the voice reads them aloud. The remaining pipeline steps are the same as the main show, with `nhNNN` in place of `epNNN`.
+- Published daily by cron with `tools/auto-episode.sh nh` at 11:00 Japan time, for listeners at Japan noon.
+
 ## Site Architecture (`site/`)
 
 Astro 5 static site. Key files:
