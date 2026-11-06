@@ -1,0 +1,676 @@
+{
+  "episode": 268,
+  "title": "食料品の消費税を1%に、減税法案が衆議院で可決",
+  "titleZh": "食品消费税降至1%，减税法案获众议院通过",
+  "titleEn": "Lower house passes bill cutting food consumption tax to 1%",
+  "date": "2026-11-06",
+  "source": "日本経済新聞 / テレビ朝日 / Yahoo!ニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026110601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November sixth, Japan's lower house passed a bill to cut the tax on food. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "食料品の消費税を下げるための法案が、6日、衆議院で可決されました。",
+      "zh": "6日，为降低食品消费税的法案在众议院获得通过。",
+      "en": "On the 6th, a bill to lower the consumption tax on food was passed in the House of Representatives.",
+      "ruby": "<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>るための<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>が、<ruby>6日<rt>むいか</rt></ruby>、<ruby>衆議院<rt>しゅうぎいん</rt></ruby>で<span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"passing, approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、スーパーなどで買う食料品の消費税は、8%です。",
+      "zh": "目前，在超市等处购买的食品的消费税是8%。",
+      "en": "Right now, the consumption tax on food bought at supermarkets and other stores is 8%.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、スーパーなどで<ruby>買う<rt>かう</rt></ruby><ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>は、8%です。"
+    },
+    {
+      "speaker": "news",
+      "text": "法案では、これを2027年4月から2年間、1%に下げます。",
+      "zh": "根据法案，从2027年4月起的2年间，这一税率将降到1%。",
+      "en": "Under the bill, this will be lowered to 1% for two years from April 2027.",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>では、これを2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から2<ruby>年間<rt>ねんかん</rt></ruby>、1%に<ruby>下げ<rt>さげ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、今1080円の買い物は、1010円になります。",
+      "zh": "例如，现在1080日元的购物将变成1010日元。",
+      "en": "For example, shopping that costs 1,080 yen now would cost 1,010 yen.",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>今<rt>いま</rt></ruby>1080<ruby>円<rt>えん</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby>は、1010<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "残りの1%の分は、お金を配って助けます。",
+      "zh": "剩下的1%部分，将通过发放现金来帮助大家。",
+      "en": "For the remaining 1%, people will be helped by handing out money.",
+      "ruby": "<ruby>残り<rt>のこり</rt></ruby>の1%の<ruby>分<rt>ぶん</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>を<ruby>配っ<rt>くばっ</rt></ruby>て<ruby>助け<rt>たすけ</rt></ruby>ます。",
+      "tts": "残りの1%のぶんは、お金を配って助けます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、6000億円のお金を、収入に合わせて配る予定です。",
+      "zh": "政府计划根据收入发放6000亿日元。",
+      "en": "The government plans to hand out 600 billion yen based on people's income.",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、6000<ruby>億円<rt>おくえん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を、<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>に<ruby>合わ<rt>あわ</rt></ruby>せて<span class=\"vw\" data-ja=\"配る\" data-reading=\"くばる\" data-en=\"to hand out, to distribute\"><ruby>配る<rt>くばる</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このお金は、収入が少ない人や、真ん中ぐらいの人に配られます。",
+      "zh": "这笔钱将发给收入较低和中等收入的人。",
+      "en": "This money will go to people with low or middle incomes.",
+      "ruby": "このお<ruby>金<rt>かね</rt></ruby>は、<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>が<ruby>少ない<rt>すくない</rt></ruby><ruby>人<rt>ひと</rt></ruby>や、<ruby>真ん中<rt>まんなか</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>に<ruby>配ら<rt>くばら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、これで、食料品の消費税を「実質ゼロ」にしたいと考えています。",
+      "zh": "政府希望借此让食品消费税“实际上为零”。",
+      "en": "With this, the government wants to make the consumption tax on food \"effectively zero.\"",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、これで、<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>を「<span class=\"vw\" data-ja=\"実質\" data-reading=\"じっしつ\" data-en=\"in effect, substantially\"><ruby>実質<rt>じっしつ</rt></ruby></span>ゼロ」にしたいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市首相は、お金をもらう人を、働いている人の3割以上にしたいと話しました。",
+      "zh": "高市首相表示，希望领取这笔钱的人达到就业人口的3成以上。",
+      "en": "Prime Minister Takaichi said she wants the people receiving the money to be at least 30% of working people.",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><ruby>首相<rt>しゅしょう</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>をもらう<ruby>人<rt>ひと</rt></ruby>を、<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>の3<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にしたいと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "法案には、自民党と日本維新の会が賛成し、野党は全部の党が反対しました。",
+      "tts": "法案には、自民党とにっぽんいしんのかいが賛成し、野党は全部の党が反対しました。",
+      "zh": "自民党和日本维新会赞成该法案，在野党则全部反对。",
+      "en": "The Liberal Democratic Party and the Japan Innovation Party voted for the bill, and every opposition party voted against it.",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>には、<ruby>自民党<rt>じみんとう</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby><ruby>維新<rt>いしん</rt></ruby>の<ruby>会<rt>かい</rt></ruby>が<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement, voting for\"><ruby>賛成<rt>さんせい</rt></ruby></span>し、<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>党<rt>とう</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "野党は、「減税のためのお金をどこから出すのか、政府は説明していない」と言っています。",
+      "zh": "在野党表示：“政府没有说明减税的钱从哪里来。”",
+      "en": "The opposition parties say, \"The government has not explained where the money for the tax cut will come from.\"",
+      "ruby": "<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>は、「<ruby>減税<rt>げんぜい</rt></ruby>のためのお<ruby>金<rt>かね</rt></ruby>をどこから<ruby>出す<rt>だす</rt></ruby>のか、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ていない」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "自民党でも、石破前首相など4人が、投票しないで席を立ちました。",
+      "tts": "自民党でも、いしば前首相など4人が、投票しないで席を立ちました。",
+      "zh": "在自民党内，前首相石破等4人也没有投票就离席了。",
+      "en": "Even in the Liberal Democratic Party, four members, including former Prime Minister Ishiba, left their seats without voting.",
+      "ruby": "<ruby>自民党<rt>じみんとう</rt></ruby>でも、<ruby>石破<rt>いしば</rt></ruby><ruby>前首相<rt>ぜんしゅしょう</rt></ruby>など<ruby>4人<rt>よにん</rt></ruby>が、<ruby>投票<rt>とうひょう</rt></ruby>しないで<ruby>席<rt>せき</rt></ruby>を<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "法案は、来週から参議院で話し合われます。",
+      "zh": "法案将从下周起在参议院进行讨论。",
+      "en": "The bill will be discussed in the House of Councillors from next week.",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>は、<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>参議院<rt>さんぎいん</rt></ruby>で<ruby>話し合わ<rt>はなしあわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "参議院では、与党の議員が半分より少ないため、法案が通るかどうかは、まだわかりません。",
+      "zh": "在参议院，执政党议员不到半数，因此法案能否通过还不清楚。",
+      "en": "In the House of Councillors, the ruling parties have less than half of the members, so it is not yet clear whether the bill will pass.",
+      "ruby": "<ruby>参議院<rt>さんぎいん</rt></ruby>では、<ruby>与党<rt>よとう</rt></ruby>の<ruby>議員<rt>ぎいん</rt></ruby>が<ruby>半分<rt>はんぶん</rt></ruby>より<ruby>少ない<rt>すくない</rt></ruby>ため、<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>が<ruby>通る<rt>とおる</rt></ruby>かどうかは、まだわかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、今の国会の間に、この法律を作りたいと考えています。",
+      "zh": "政府希望在本届国会期间制定这部法律。",
+      "en": "The government wants to make this law during the current session of the Diet.",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、この<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。",
+      "tts": "政府は、今の国会のあいだに、この法律を作りたいと考えています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "食料品の消費税を下げるための法案が、6日、衆議院で可決されました。",
+      "ruby": "<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>るための<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>が、<ruby>6日<rt>むいか</rt></ruby>、<ruby>衆議院<rt>しゅうぎいん</rt></ruby>で<span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"passing, approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the sixth, a bill to lower the consumption tax on food was passed in the lower house."
+    },
+    {
+      "speaker": "vocab",
+      "text": "法案",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a bill, a draft of a law."
+    },
+    {
+      "speaker": "vocab",
+      "text": "可決",
+      "ruby": "<span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"passing, approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a bill or plan is voted through and approved."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、スーパーなどで買う食料品の消費税は、8%です。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、スーパーなどで<ruby>買う<rt>かう</rt></ruby><ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>は、8%です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, the consumption tax on food from places like supermarkets is eight percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "法案では、これを2027年4月から2年間、1%に下げます。",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>では、これを2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から2<ruby>年間<rt>ねんかん</rt></ruby>、1%に<ruby>下げ<rt>さげ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Under the bill, it will drop to one percent for two years, starting in April twenty twenty-seven."
+    },
+    {
+      "speaker": "slow",
+      "text": "例えば、今1080円の買い物は、1010円になります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>今<rt>いま</rt></ruby>1080<ruby>円<rt>えん</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby>は、1010<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "For example, shopping that costs one thousand and eighty yen now will cost one thousand and ten yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "残りの1%の分は、お金を配って助けます。",
+      "ruby": "<ruby>残り<rt>のこり</rt></ruby>の1%の<ruby>分<rt>ぶん</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>を<ruby>配っ<rt>くばっ</rt></ruby>て<ruby>助け<rt>たすけ</rt></ruby>ます。",
+      "tts": "残りの1%のぶんは、お金を配って助けます。"
+    },
+    {
+      "speaker": "host",
+      "text": "For the remaining one percent, people will be helped with money handed out to them."
+    },
+    {
+      "speaker": "vocab",
+      "text": "配る",
+      "ruby": "<span class=\"vw\" data-ja=\"配る\" data-reading=\"くばる\" data-en=\"to hand out, to distribute\"><ruby>配る<rt>くばる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hand out or distribute."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、6000億円のお金を、収入に合わせて配る予定です。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、6000<ruby>億円<rt>おくえん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を、<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>に<ruby>合わ<rt>あわ</rt></ruby>せて<span class=\"vw\" data-ja=\"配る\" data-reading=\"くばる\" data-en=\"to hand out, to distribute\"><ruby>配る<rt>くばる</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government plans to hand out six hundred billion yen, based on people's income."
+    },
+    {
+      "speaker": "vocab",
+      "text": "収入",
+      "ruby": "<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means income, the money you earn."
+    },
+    {
+      "speaker": "slow",
+      "text": "このお金は、収入が少ない人や、真ん中ぐらいの人に配られます。",
+      "ruby": "このお<ruby>金<rt>かね</rt></ruby>は、<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>が<ruby>少ない<rt>すくない</rt></ruby><ruby>人<rt>ひと</rt></ruby>や、<ruby>真ん中<rt>まんなか</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>に<ruby>配ら<rt>くばら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "This money will go to people with low or middle incomes."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、これで、食料品の消費税を「実質ゼロ」にしたいと考えています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、これで、<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>を「<span class=\"vw\" data-ja=\"実質\" data-reading=\"じっしつ\" data-en=\"in effect, substantially\"><ruby>実質<rt>じっしつ</rt></ruby></span>ゼロ」にしたいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "With this, the government wants the tax on food to be effectively zero."
+    },
+    {
+      "speaker": "vocab",
+      "text": "実質",
+      "ruby": "<span class=\"vw\" data-ja=\"実質\" data-reading=\"じっしつ\" data-en=\"in effect, substantially\"><ruby>実質<rt>じっしつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means in effect, or in reality."
+    },
+    {
+      "speaker": "slow",
+      "text": "高市首相は、お金をもらう人を、働いている人の3割以上にしたいと話しました。",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><ruby>首相<rt>しゅしょう</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>をもらう<ruby>人<rt>ひと</rt></ruby>を、<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>の3<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にしたいと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Prime Minister Takaichi said she wants at least thirty percent of working people to receive the money."
+    },
+    {
+      "speaker": "slow",
+      "text": "法案には、自民党と日本維新の会が賛成し、野党は全部の党が反対しました。",
+      "tts": "法案には、自民党とにっぽんいしんのかいが賛成し、野党は全部の党が反対しました。",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>には、<ruby>自民党<rt>じみんとう</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby><ruby>維新<rt>いしん</rt></ruby>の<ruby>会<rt>かい</rt></ruby>が<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement, voting for\"><ruby>賛成<rt>さんせい</rt></ruby></span>し、<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>党<rt>とう</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two ruling-side parties voted for the bill, and every opposition party voted against it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "賛成",
+      "ruby": "<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement, voting for\"><ruby>賛成<rt>さんせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means agreeing, or voting for something."
+    },
+    {
+      "speaker": "vocab",
+      "text": "野党",
+      "ruby": "<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means opposition party, the parties not in government."
+    },
+    {
+      "speaker": "slow",
+      "text": "野党は、「減税のためのお金をどこから出すのか、政府は説明していない」と言っています。",
+      "ruby": "<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>は、「<ruby>減税<rt>げんぜい</rt></ruby>のためのお<ruby>金<rt>かね</rt></ruby>をどこから<ruby>出す<rt>だす</rt></ruby>のか、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ていない」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "The opposition says the government has not explained where the money for the tax cut will come from."
+    },
+    {
+      "speaker": "slow",
+      "text": "自民党でも、石破前首相など4人が、投票しないで席を立ちました。",
+      "tts": "自民党でも、いしば前首相など4人が、投票しないで席を立ちました。",
+      "ruby": "<ruby>自民党<rt>じみんとう</rt></ruby>でも、<ruby>石破<rt>いしば</rt></ruby><ruby>前首相<rt>ぜんしゅしょう</rt></ruby>など<ruby>4人<rt>よにん</rt></ruby>が、<ruby>投票<rt>とうひょう</rt></ruby>しないで<ruby>席<rt>せき</rt></ruby>を<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even in the ruling party, four members, including former Prime Minister Ishiba, left their seats without voting."
+    },
+    {
+      "speaker": "slow",
+      "text": "法案は、来週から参議院で話し合われます。",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>は、<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>参議院<rt>さんぎいん</rt></ruby>で<ruby>話し合わ<rt>はなしあわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From next week, the bill will be discussed in the upper house."
+    },
+    {
+      "speaker": "vocab",
+      "text": "話し合う",
+      "ruby": "<span class=\"vw\" data-ja=\"話し合う\" data-reading=\"はなしあう\" data-en=\"to discuss, to talk over\"><ruby>話し合う<rt>はなしあう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to discuss, to talk something over together."
+    },
+    {
+      "speaker": "slow",
+      "text": "参議院では、与党の議員が半分より少ないため、法案が通るかどうかは、まだわかりません。",
+      "ruby": "<ruby>参議院<rt>さんぎいん</rt></ruby>では、<ruby>与党<rt>よとう</rt></ruby>の<ruby>議員<rt>ぎいん</rt></ruby>が<ruby>半分<rt>はんぶん</rt></ruby>より<ruby>少ない<rt>すくない</rt></ruby>ため、<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>が<ruby>通る<rt>とおる</rt></ruby>かどうかは、まだわかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the upper house, the ruling parties have less than half the seats, so it is not clear yet if the bill will pass."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、今の国会の間に、この法律を作りたいと考えています。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、この<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。",
+      "tts": "政府は、今の国会のあいだに、この法律を作りたいと考えています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government wants to make this law during the current session of parliament."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "食料品の消費税を下げるための法案が、6日、衆議院で可決されました。",
+      "zh": "6日，为降低食品消费税的法案在众议院获得通过。",
+      "en": "On the 6th, a bill to lower the consumption tax on food was passed in the House of Representatives.",
+      "ruby": "<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>るための<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>が、<ruby>6日<rt>むいか</rt></ruby>、<ruby>衆議院<rt>しゅうぎいん</rt></ruby>で<span class=\"vw\" data-ja=\"可決\" data-reading=\"かけつ\" data-en=\"passing, approval (of a bill)\"><ruby>可決<rt>かけつ</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、スーパーなどで買う食料品の消費税は、8%です。",
+      "zh": "目前，在超市等处购买的食品的消费税是8%。",
+      "en": "Right now, the consumption tax on food bought at supermarkets and other stores is 8%.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、スーパーなどで<ruby>買う<rt>かう</rt></ruby><ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>は、8%です。"
+    },
+    {
+      "speaker": "news",
+      "text": "法案では、これを2027年4月から2年間、1%に下げます。",
+      "zh": "根据法案，从2027年4月起的2年间，这一税率将降到1%。",
+      "en": "Under the bill, this will be lowered to 1% for two years from April 2027.",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>では、これを2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から2<ruby>年間<rt>ねんかん</rt></ruby>、1%に<ruby>下げ<rt>さげ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、今1080円の買い物は、1010円になります。",
+      "zh": "例如，现在1080日元的购物将变成1010日元。",
+      "en": "For example, shopping that costs 1,080 yen now would cost 1,010 yen.",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>今<rt>いま</rt></ruby>1080<ruby>円<rt>えん</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby>は、1010<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "残りの1%の分は、お金を配って助けます。",
+      "zh": "剩下的1%部分，将通过发放现金来帮助大家。",
+      "en": "For the remaining 1%, people will be helped by handing out money.",
+      "ruby": "<ruby>残り<rt>のこり</rt></ruby>の1%の<ruby>分<rt>ぶん</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>を<ruby>配っ<rt>くばっ</rt></ruby>て<ruby>助け<rt>たすけ</rt></ruby>ます。",
+      "tts": "残りの1%のぶんは、お金を配って助けます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、6000億円のお金を、収入に合わせて配る予定です。",
+      "zh": "政府计划根据收入发放6000亿日元。",
+      "en": "The government plans to hand out 600 billion yen based on people's income.",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、6000<ruby>億円<rt>おくえん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を、<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>に<ruby>合わ<rt>あわ</rt></ruby>せて<span class=\"vw\" data-ja=\"配る\" data-reading=\"くばる\" data-en=\"to hand out, to distribute\"><ruby>配る<rt>くばる</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このお金は、収入が少ない人や、真ん中ぐらいの人に配られます。",
+      "zh": "这笔钱将发给收入较低和中等收入的人。",
+      "en": "This money will go to people with low or middle incomes.",
+      "ruby": "このお<ruby>金<rt>かね</rt></ruby>は、<span class=\"vw\" data-ja=\"収入\" data-reading=\"しゅうにゅう\" data-en=\"income\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>が<ruby>少ない<rt>すくない</rt></ruby><ruby>人<rt>ひと</rt></ruby>や、<ruby>真ん中<rt>まんなか</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>に<ruby>配ら<rt>くばら</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、これで、食料品の消費税を「実質ゼロ」にしたいと考えています。",
+      "zh": "政府希望借此让食品消费税“实际上为零”。",
+      "en": "With this, the government wants to make the consumption tax on food \"effectively zero.\"",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、これで、<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>を「<span class=\"vw\" data-ja=\"実質\" data-reading=\"じっしつ\" data-en=\"in effect, substantially\"><ruby>実質<rt>じっしつ</rt></ruby></span>ゼロ」にしたいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "高市首相は、お金をもらう人を、働いている人の3割以上にしたいと話しました。",
+      "zh": "高市首相表示，希望领取这笔钱的人达到就业人口的3成以上。",
+      "en": "Prime Minister Takaichi said she wants the people receiving the money to be at least 30% of working people.",
+      "ruby": "<ruby>高市<rt>たかいち</rt></ruby><ruby>首相<rt>しゅしょう</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>をもらう<ruby>人<rt>ひと</rt></ruby>を、<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>の3<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にしたいと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "法案には、自民党と日本維新の会が賛成し、野党は全部の党が反対しました。",
+      "tts": "法案には、自民党とにっぽんいしんのかいが賛成し、野党は全部の党が反対しました。",
+      "zh": "自民党和日本维新会赞成该法案，在野党则全部反对。",
+      "en": "The Liberal Democratic Party and the Japan Innovation Party voted for the bill, and every opposition party voted against it.",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>には、<ruby>自民党<rt>じみんとう</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby><ruby>維新<rt>いしん</rt></ruby>の<ruby>会<rt>かい</rt></ruby>が<span class=\"vw\" data-ja=\"賛成\" data-reading=\"さんせい\" data-en=\"agreement, voting for\"><ruby>賛成<rt>さんせい</rt></ruby></span>し、<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>党<rt>とう</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "野党は、「減税のためのお金をどこから出すのか、政府は説明していない」と言っています。",
+      "zh": "在野党表示：“政府没有说明减税的钱从哪里来。”",
+      "en": "The opposition parties say, \"The government has not explained where the money for the tax cut will come from.\"",
+      "ruby": "<span class=\"vw\" data-ja=\"野党\" data-reading=\"やとう\" data-en=\"opposition party\"><ruby>野党<rt>やとう</rt></ruby></span>は、「<ruby>減税<rt>げんぜい</rt></ruby>のためのお<ruby>金<rt>かね</rt></ruby>をどこから<ruby>出す<rt>だす</rt></ruby>のか、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>説明し<rt>せつめいし</rt></ruby>ていない」と<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "自民党でも、石破前首相など4人が、投票しないで席を立ちました。",
+      "tts": "自民党でも、いしば前首相など4人が、投票しないで席を立ちました。",
+      "zh": "在自民党内，前首相石破等4人也没有投票就离席了。",
+      "en": "Even in the Liberal Democratic Party, four members, including former Prime Minister Ishiba, left their seats without voting.",
+      "ruby": "<ruby>自民党<rt>じみんとう</rt></ruby>でも、<ruby>石破<rt>いしば</rt></ruby><ruby>前首相<rt>ぜんしゅしょう</rt></ruby>など<ruby>4人<rt>よにん</rt></ruby>が、<ruby>投票<rt>とうひょう</rt></ruby>しないで<ruby>席<rt>せき</rt></ruby>を<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "法案は、来週から参議院で話し合われます。",
+      "zh": "法案将从下周起在参议院进行讨论。",
+      "en": "The bill will be discussed in the House of Councillors from next week.",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>は、<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>参議院<rt>さんぎいん</rt></ruby>で<ruby>話し合わ<rt>はなしあわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "参議院では、与党の議員が半分より少ないため、法案が通るかどうかは、まだわかりません。",
+      "zh": "在参议院，执政党议员不到半数，因此法案能否通过还不清楚。",
+      "en": "In the House of Councillors, the ruling parties have less than half of the members, so it is not yet clear whether the bill will pass.",
+      "ruby": "<ruby>参議院<rt>さんぎいん</rt></ruby>では、<ruby>与党<rt>よとう</rt></ruby>の<ruby>議員<rt>ぎいん</rt></ruby>が<ruby>半分<rt>はんぶん</rt></ruby>より<ruby>少ない<rt>すくない</rt></ruby>ため、<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>が<ruby>通る<rt>とおる</rt></ruby>かどうかは、まだわかりません。"
+    },
+    {
+      "speaker": "news",
+      "text": "政府は、今の国会の間に、この法律を作りたいと考えています。",
+      "zh": "政府希望在本届国会期间制定这部法律。",
+      "en": "The government wants to make this law during the current session of the Diet.",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、この<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。",
+      "tts": "政府は、今の国会のあいだに、この法律を作りたいと考えています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "食料品の消費税は、2027年4月から、何%になりますか。",
+      "ruby": "<ruby>食料品<rt>しょくりょうひん</rt></ruby>の<ruby>消費税<rt>しょうひぜい</rt></ruby>は、2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から、<ruby>何<rt>なん</rt></ruby>%になりますか。",
+      "tts": "食料品の消費税は、2027年4月から、なんパーセントになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "この減税は、何年間ですか。",
+      "ruby": "この<ruby>減税<rt>げんぜい</rt></ruby>は、<ruby>何年間<rt>なんねんかん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two years."
+    },
+    {
+      "speaker": "slow",
+      "text": "政府は、いくらのお金を配る予定ですか。",
+      "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、いくらのお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"配る\" data-reading=\"くばる\" data-en=\"to hand out, to distribute\"><ruby>配る<rt>くばる</rt></ruby></span><ruby>予定<rt>よてい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Six hundred billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "法案に反対したのは、どこですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>したのは、どこですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Every opposition party."
+    },
+    {
+      "speaker": "slow",
+      "text": "法案は、来週から、どこで話し合われますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"法案\" data-reading=\"ほうあん\" data-en=\"bill (draft law)\"><ruby>法案<rt>ほうあん</rt></ruby></span>は、<ruby>来週<rt>らいしゅう</rt></ruby>から、どこで<ruby>話し合わ<rt>はなしあわ</rt></ruby>れますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the House of Councillors, the upper house."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. The next step is the upper house. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "法案",
+      "reading": "ほうあん",
+      "en": "bill (draft law)",
+      "zh": "法案"
+    },
+    {
+      "ja": "可決",
+      "reading": "かけつ",
+      "en": "passing, approval (of a bill)",
+      "zh": "（议案）通过"
+    },
+    {
+      "ja": "配る",
+      "reading": "くばる",
+      "en": "to hand out, to distribute",
+      "zh": "分发，发放"
+    },
+    {
+      "ja": "収入",
+      "reading": "しゅうにゅう",
+      "en": "income",
+      "zh": "收入"
+    },
+    {
+      "ja": "実質",
+      "reading": "じっしつ",
+      "en": "in effect, substantially",
+      "zh": "实际上，实质"
+    },
+    {
+      "ja": "賛成",
+      "reading": "さんせい",
+      "en": "agreement, voting for",
+      "zh": "赞成"
+    },
+    {
+      "ja": "野党",
+      "reading": "やとう",
+      "en": "opposition party",
+      "zh": "在野党"
+    },
+    {
+      "ja": "話し合う",
+      "reading": "はなしあう",
+      "en": "to discuss, to talk over",
+      "zh": "商量，讨论"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ための",
+      "meaning": "for (the purpose of) ~",
+      "meaningZh": "为了……的",
+      "formation": "Verb dictionary form / Noun + の + ための + Noun",
+      "example": "食料品の消費税を下げるための法案が、衆議院で可決されました。",
+      "translation": "A bill to lower the consumption tax on food was passed in the lower house.",
+      "note": "Describes what a thing is for.",
+      "noteZh": "修饰名词，表示该事物的目的。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜に合わせて",
+      "meaning": "in line with ~, according to ~",
+      "meaningZh": "根据……，配合……",
+      "formation": "Noun + に合わせて",
+      "example": "政府は、6000億円のお金を、収入に合わせて配る予定です。",
+      "translation": "The government plans to hand out 600 billion yen based on income.",
+      "note": "Shows that an action is adjusted to fit something.",
+      "noteZh": "表示根据某个标准来调整行为。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ないで",
+      "meaning": "without doing ~",
+      "meaningZh": "不……就……，没有……而……",
+      "formation": "Verb nai-form + で",
+      "example": "石破前首相など4人が、投票しないで席を立ちました。",
+      "translation": "Four members, including former Prime Minister Ishiba, left their seats without voting.",
+      "note": "Says an action was done without doing something else first.",
+      "noteZh": "表示在不做某事的状态下做另一件事。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because ~",
+      "meaningZh": "因为……",
+      "formation": "Plain form (Noun + の) + ため",
+      "example": "与党の議員が半分より少ないため、法案が通るかどうかは、まだわかりません。",
+      "translation": "Because the ruling parties have less than half the members, it is not yet clear whether the bill will pass.",
+      "note": "A formal way to give a reason, common in news.",
+      "noteZh": "书面化的原因表达，新闻中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否……",
+      "formation": "Plain form + かどうか",
+      "example": "法案が通るかどうかは、まだわかりません。",
+      "translation": "It is not yet clear whether the bill will pass.",
+      "note": "Embeds a yes-or-no question inside a sentence.",
+      "noteZh": "把是非疑问句嵌入句子中。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "食料品の消費税を下げるための法案が、6日、衆議院で可決されました。\n6日，为降低食品消费税的法案在众议院获得通过。\n法案 = bill (draft law) / 可決 = passing, approval (of a bill)",
+    "今、スーパーなどで買う食料品の消費税は、8%です。\n目前，在超市等处购买的食品的消费税是8%。",
+    "法案では、これを2027年4月から2年間、1%に下げます。\n根据法案，从2027年4月起的2年间，这一税率将降到1%。",
+    "例えば、今1080円の買い物は、1010円になります。\n例如，现在1080日元的购物将变成1010日元。",
+    "残りの1%の分は、お金を配って助けます。\n剩下的1%部分，将通过发放现金来帮助大家。\n配る = to hand out, to distribute",
+    "政府は、6000億円のお金を、収入に合わせて配る予定です。\n政府计划根据收入发放6000亿日元。\n収入 = income",
+    "このお金は、収入が少ない人や、真ん中ぐらいの人に配られます。\n这笔钱将发给收入较低和中等收入的人。",
+    "政府は、これで、食料品の消費税を「実質ゼロ」にしたいと考えています。\n政府希望借此让食品消费税“实际上为零”。\n実質 = in effect, substantially",
+    "高市首相は、お金をもらう人を、働いている人の3割以上にしたいと話しました。\n高市首相表示，希望领取这笔钱的人达到就业人口的3成以上。",
+    "法案には、自民党と日本維新の会が賛成し、野党は全部の党が反対しました。\n自民党和日本维新会赞成该法案，在野党则全部反对。\n賛成 = agreement, voting for / 野党 = opposition party",
+    "野党は、「減税のためのお金をどこから出すのか、政府は説明していない」と言っています。\n在野党表示：“政府没有说明减税的钱从哪里来。”",
+    "自民党でも、石破前首相など4人が、投票しないで席を立ちました。\n在自民党内，前首相石破等4人也没有投票就离席了。",
+    "法案は、来週から参議院で話し合われます。\n法案将从下周起在参议院进行讨论。\n話し合う = to discuss, to talk over",
+    "参議院では、与党の議員が半分より少ないため、法案が通るかどうかは、まだわかりません。\n在参议院，执政党议员不到半数，因此法案能否通过还不清楚。",
+    "政府は、今の国会の間に、この法律を作りたいと考えています。\n政府希望在本届国会期间制定这部法律。"
+  ]
+}
