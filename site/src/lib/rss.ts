@@ -27,6 +27,9 @@ function showNotes(ep: ReturnType<typeof getAllEpisodes>[number]): string {
     html += '<p>Grammar in this episode:</p><ul>' + ep.grammar.map(g =>
       `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a> — ${esc(g.meaning)}</li>`).join('') + '</ul>';
   }
+  if (ep.level === 'N4-N3') {
+    html += `<p>Ready for more Japanese? Try our all-Japanese daily show for N3–N2 learners: <a href="${SITE}/nihongo/?utm_source=podcast&amp;utm_medium=rss">${SHOW_NAME.nihongo}</a></p>`;
+  }
   html += `<p>Free grammar notes, practice questions and Anki decks for JLPT N5–N1: <a href="${esc(withUtm('https://jpnotes.dev/', 'rss'))}">jpnotes.dev</a></p>`;
   return html.replace(/]]>/g, ']]&gt;');
 }
@@ -38,6 +41,7 @@ function showNotesJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
     html += '<p>今回の文法：</p><ul>' + ep.grammar.map(g =>
       `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a></li>`).join('') + '</ul>';
   }
+  html += `<p>難しいと感じたら、英語の解説つきの番組もあります：<a href="${SITE}/?utm_source=podcast&amp;utm_medium=rss">${SHOW_NAME.main}</a></p>`;
   html += `<p>ふりがな、翻訳、単語と文法はウェブサイトで：<a href="${SITE}/nihongo/ep/${ep.paddedNum}/">podcast.jpnotes.dev</a></p>`;
   return html.replace(/]]>/g, ']]&gt;');
 }

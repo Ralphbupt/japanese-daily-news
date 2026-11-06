@@ -1978,3 +1978,18 @@ ruby rt {
 .channel-tab strong { color: var(--text); font-size: 1rem; }
 .channel-tab:hover { border-color: var(--accent); }
 .channel-tab.active { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.channel-promo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin: 2rem 0;
+  padding: 1rem 1.125rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.875rem;
+}
+.channel-promo:hover { border-color: var(--accent); }
+.channel-promo strong { color: var(--text); font-size: 1rem; }
+.channel-promo-label { color: var(--accent); font-size: 0.8125rem; }

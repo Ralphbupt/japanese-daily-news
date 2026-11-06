@@ -27,6 +27,11 @@ export function channelOf(param: string | undefined): Channel {
   return param?.endsWith('nihongo') ? 'nihongo' : 'main';
 }
 
+export const APPLE_URL: Record<Channel, string> = {
+  main: 'https://podcasts.apple.com/podcast/id1896815841',
+  nihongo: 'https://podcasts.apple.com/podcast/id6831520512',
+};
+
 export const COVER: Record<Channel, string> = { main: '/cover.jpg', nihongo: '/cover-nihongo.jpg' };
 
 export const SHOW_NAME: Record<Channel, string> = {
