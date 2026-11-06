@@ -149,12 +149,16 @@
       "speaker": "guide",
       "text": "こんにちは。日本語で聞くニュースです。今日は11月6日、金曜日です。",
       "tts": "こんにちは。日本語で聞くニュースです。きょうは11月むいか、金曜日です。",
-      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>です。"
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月6日，星期五。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Friday, November 6th."
     },
     {
       "speaker": "guide",
       "text": "給料の増え方が、およそ30年ぶりの大きさになりました。でも、私たちの暮らしは、本当に楽になっているのでしょうか。",
-      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>増え方<rt>ふえかた</rt></ruby>が、およそ30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>大きさ<rt>おおきさ</rt></ruby>になりました。でも、<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>暮らし<rt>くらし</rt></ruby>は、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>楽<rt>らく</rt></ruby>になっているのでしょうか。"
+      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>増え方<rt>ふえかた</rt></ruby>が、およそ30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>大きさ<rt>おおきさ</rt></ruby>になりました。でも、<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>暮らし<rt>くらし</rt></ruby>は、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>楽<rt>らく</rt></ruby>になっているのでしょうか。",
+      "zh": "工资的涨幅达到了约30年来的最高水平。可是，我们的生活真的变轻松了吗？",
+      "en": "Pay has grown by the most in about 30 years. But is life really getting any easier for us?"
     },
     {
       "speaker": "news",
@@ -252,68 +256,94 @@
     {
       "speaker": "guide",
       "text": "今のニュースで、一番大事な言葉は、実質賃金です。",
-      "ruby": "<ruby>今<rt>いま</rt></ruby>のニュースで、<ruby>一番大事<rt>いちばんだいじ</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>は、<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>です。"
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のニュースで、<ruby>一番大事<rt>いちばんだいじ</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>は、<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>です。",
+      "zh": "刚才的新闻里，最重要的词是“实际工资”。",
+      "en": "The most important term in that story is real wages."
     },
     {
       "speaker": "guide",
       "text": "実質賃金というのは、もらったお金の額ではなく、そのお金でどれだけ物が買えるかを表す数字です。",
-      "ruby": "<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>というのは、もらったお<ruby>金<rt>かね</rt></ruby>の<ruby>額<rt>がく</rt></ruby>ではなく、そのお<ruby>金<rt>かね</rt></ruby>でどれだけ<ruby>物<rt>もの</rt></ruby>が<ruby>買え<rt>かえ</rt></ruby>るかを<ruby>表す<rt>あらわす</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>です。"
+      "ruby": "<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>というのは、もらったお<ruby>金<rt>かね</rt></ruby>の<ruby>額<rt>がく</rt></ruby>ではなく、そのお<ruby>金<rt>かね</rt></ruby>でどれだけ<ruby>物<rt>もの</rt></ruby>が<ruby>買え<rt>かえ</rt></ruby>るかを<ruby>表す<rt>あらわす</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>です。",
+      "zh": "实际工资不是指拿到多少钱，而是表示用这些钱能买到多少东西的数字。",
+      "en": "Real wages aren't the amount of money you receive. They show how much that money can actually buy."
     },
     {
       "speaker": "guide",
       "text": "例えば、給料が3%増えても、物の値段が5%上がれば、買える物は減ってしまいますよね。その場合、実質賃金はマイナスになります。",
-      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>給料<rt>きゅうりょう</rt></ruby>が3%<ruby>増え<rt>ふえ</rt></ruby>ても、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が5%<ruby>上が<rt>あが</rt></ruby>れば、<ruby>買え<rt>かえ</rt></ruby>る<ruby>物<rt>もの</rt></ruby>は<ruby>減っ<rt>へっ</rt></ruby>てしまいますよね。その<ruby>場合<rt>ばあい</rt></ruby>、<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>はマイナスになります。"
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>給料<rt>きゅうりょう</rt></ruby>が3%<ruby>増え<rt>ふえ</rt></ruby>ても、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が5%<ruby>上が<rt>あが</rt></ruby>れば、<ruby>買え<rt>かえ</rt></ruby>る<ruby>物<rt>もの</rt></ruby>は<ruby>減っ<rt>へっ</rt></ruby>てしまいますよね。その<ruby>場合<rt>ばあい</rt></ruby>、<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>はマイナスになります。",
+      "zh": "比如，工资涨了3%，但物价涨了5%，能买到的东西就变少了，对吧？这种情况下，实际工资就是负增长。",
+      "en": "For example, if pay rises 3% but prices rise 5%, you can buy less, right? In that case, real wages fall."
     },
     {
       "speaker": "guide",
       "text": "今回は、給料が4.6%増えて、物価の上昇を上回りました。だから、プラスになったわけです。",
-      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>が4.6%<ruby>増え<rt>ふえ</rt></ruby>て、<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>ました。だから、プラスになったわけです。"
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>が4.6%<ruby>増え<rt>ふえ</rt></ruby>て、<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>ました。だから、プラスになったわけです。",
+      "zh": "这次工资涨了4.6%，超过了物价的涨幅，所以才是正增长。",
+      "en": "This time pay rose 4.6%, more than prices did. That is why the figure is positive."
     },
     {
       "speaker": "guide",
       "text": "では、なぜ給料がこんなに増えたのでしょうか。",
-      "ruby": "では、なぜ<ruby>給料<rt>きゅうりょう</rt></ruby>がこんなに<ruby>増え<rt>ふえ</rt></ruby>たのでしょうか。"
+      "ruby": "では、なぜ<ruby>給料<rt>きゅうりょう</rt></ruby>がこんなに<ruby>増え<rt>ふえ</rt></ruby>たのでしょうか。",
+      "zh": "那么，工资为什么涨了这么多呢？",
+      "en": "So why has pay risen this much?"
     },
     {
       "speaker": "guide",
       "text": "担当者が挙げたのは、春闘です。春闘というのは、毎年春に、労働組合が会社と給料について話し合うことです。",
-      "ruby": "<ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>挙げ<rt>あげ</rt></ruby>たのは、<ruby>春闘<rt>しゅんとう</rt></ruby>です。<ruby>春闘<rt>しゅんとう</rt></ruby>というのは、<ruby>毎年<rt>まいとし</rt></ruby><ruby>春<rt>はる</rt></ruby>に、<ruby>労働組合<rt>ろうどうくみあい</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>給料<rt>きゅうりょう</rt></ruby>について<ruby>話し合う<rt>はなしあう</rt></ruby>ことです。"
+      "ruby": "<ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>挙げ<rt>あげ</rt></ruby>たのは、<ruby>春闘<rt>しゅんとう</rt></ruby>です。<ruby>春闘<rt>しゅんとう</rt></ruby>というのは、<ruby>毎年<rt>まいとし</rt></ruby><ruby>春<rt>はる</rt></ruby>に、<ruby>労働組合<rt>ろうどうくみあい</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>給料<rt>きゅうりょう</rt></ruby>について<ruby>話し合う<rt>はなしあう</rt></ruby>ことです。",
+      "zh": "负责人提到的是“春斗”。春斗就是每年春天，工会和公司就工资进行谈判。",
+      "en": "The official pointed to shunto, the talks held every spring between labor unions and companies about pay."
     },
     {
       "speaker": "guide",
       "text": "そこで決まった賃上げ、つまり給料を上げたことが、影響していると見ているわけです。去年、最低賃金が上がったことも、影響したとみられています。",
-      "ruby": "そこで<ruby>決ま<rt>きま</rt></ruby>った<span class=\"vw\" data-ja=\"賃上げ\" data-reading=\"ちんあげ\" data-en=\"wage increase\"><ruby>賃上げ<rt>ちんあげ</rt></ruby></span>、つまり<ruby>給料<rt>きゅうりょう</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>たことが、<ruby>影響<rt>えいきょう</rt></ruby>していると<ruby>見て<rt>みて</rt></ruby>いるわけです。<ruby>去年<rt>きょねん</rt></ruby>、<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>ったことも、<ruby>影響<rt>えいきょう</rt></ruby>したとみられています。"
+      "ruby": "そこで<ruby>決ま<rt>きま</rt></ruby>った<span class=\"vw\" data-ja=\"賃上げ\" data-reading=\"ちんあげ\" data-en=\"wage increase\"><ruby>賃上げ<rt>ちんあげ</rt></ruby></span>、つまり<ruby>給料<rt>きゅうりょう</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>たことが、<ruby>影響<rt>えいきょう</rt></ruby>していると<ruby>見て<rt>みて</rt></ruby>いるわけです。<ruby>去年<rt>きょねん</rt></ruby>、<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>ったことも、<ruby>影響<rt>えいきょう</rt></ruby>したとみられています。",
+      "zh": "也就是说，他们认为春斗中谈定的加薪，也就是提高工资，起了作用。去年最低工资上调，据认为也有影响。",
+      "en": "In other words, they see the raises agreed there as a factor. Last year's rise in the minimum wage is also thought to have had an effect."
     },
     {
       "speaker": "guide",
       "text": "ただ、このニュースには、もう一つ見ておきたい点があります。",
-      "ruby": "ただ、このニュースには、もう<ruby>一つ<rt>ひとつ</rt></ruby><ruby>見て<rt>みて</rt></ruby>おきたい<ruby>点<rt>てん</rt></ruby>があります。"
+      "ruby": "ただ、このニュースには、もう<ruby>一つ<rt>ひとつ</rt></ruby><ruby>見て<rt>みて</rt></ruby>おきたい<ruby>点<rt>てん</rt></ruby>があります。",
+      "zh": "不过，这条新闻还有一点值得留意。",
+      "en": "But there is one more point worth noting in this story."
     },
     {
       "speaker": "guide",
       "text": "物価の上昇が、国の対策で抑えられているということです。ガソリンの税金をなくしたり、電気代やガス代を補助したりして、物の値段が上がりにくくなっているんです。",
-      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>が、<ruby>国<rt>くに</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>で<ruby>抑え<rt>おさえ</rt></ruby>られているということです。ガソリンの<ruby>税金<rt>ぜいきん</rt></ruby>をなくしたり、<ruby>電気代<rt>でんきだい</rt></ruby>やガス<ruby>代<rt>だい</rt></ruby>を<ruby>補助<rt>ほじょ</rt></ruby>したりして、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>りにくくなっているんです。"
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>が、<ruby>国<rt>くに</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>で<ruby>抑え<rt>おさえ</rt></ruby>られているということです。ガソリンの<ruby>税金<rt>ぜいきん</rt></ruby>をなくしたり、<ruby>電気代<rt>でんきだい</rt></ruby>やガス<ruby>代<rt>だい</rt></ruby>を<ruby>補助<rt>ほじょ</rt></ruby>したりして、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>りにくくなっているんです。",
+      "zh": "那就是物价上涨被国家的措施压住了。通过取消汽油税、补贴电费和燃气费，物价变得不容易上涨。",
+      "en": "Rising prices are being held down by government measures. Scrapping the gasoline tax and subsidizing electricity and gas bills is making prices rise more slowly."
     },
     {
       "speaker": "guide",
       "text": "もしこの対策がなければ、物価はもっと上がって、実質賃金の伸びは、もっと小さかったかもしれません。",
-      "ruby": "もしこの<ruby>対策<rt>たいさく</rt></ruby>がなければ、<ruby>物価<rt>ぶっか</rt></ruby>はもっと<ruby>上が<rt>あが</rt></ruby>って、<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>の<ruby>伸び<rt>のび</rt></ruby>は、もっと<ruby>小さか<rt>ちいさか</rt></ruby>ったかもしれません。"
+      "ruby": "もしこの<ruby>対策<rt>たいさく</rt></ruby>がなければ、<ruby>物価<rt>ぶっか</rt></ruby>はもっと<ruby>上が<rt>あが</rt></ruby>って、<span class=\"vw\" data-ja=\"実質賃金\" data-reading=\"じっしつちんぎん\" data-en=\"real wages (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby></span>の<ruby>伸び<rt>のび</rt></ruby>は、もっと<ruby>小さか<rt>ちいさか</rt></ruby>ったかもしれません。",
+      "zh": "如果没有这些措施，物价可能涨得更多，实际工资的增幅也可能更小。",
+      "en": "Without these measures, prices might have risen further, and real wage growth might have been smaller."
     },
     {
       "speaker": "guide",
       "text": "つまり、数字はプラスでも、給料の力だけで暮らしが良くなったとは言い切れない、ということです。",
-      "ruby": "つまり、<ruby>数字<rt>すうじ</rt></ruby>はプラスでも、<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>だけで<ruby>暮らし<rt>くらし</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>なったとは<ruby>言い切れ<rt>いいきれ</rt></ruby>ない、ということです。"
+      "ruby": "つまり、<ruby>数字<rt>すうじ</rt></ruby>はプラスでも、<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>だけで<ruby>暮らし<rt>くらし</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>なったとは<ruby>言い切れ<rt>いいきれ</rt></ruby>ない、ということです。",
+      "zh": "也就是说，虽然数字是正的，但不能断言生活变好全靠工资的力量。",
+      "en": "So even though the figure is positive, we can't say life improved through pay alone."
     },
     {
       "speaker": "guide",
       "text": "給料が増えているのは、確かに良いニュースです。ただ、生活が楽になったかどうかは、これからも物価の動きを見ていく必要がありそうです。",
-      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ているのは、<ruby>確かに<rt>たしかに</rt></ruby><ruby>良い<rt>よい</rt></ruby>ニュースです。ただ、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>になったかどうかは、これからも<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>動き<rt>うごき</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>いく<ruby>必要<rt>ひつよう</rt></ruby>がありそうです。"
+      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ているのは、<ruby>確かに<rt>たしかに</rt></ruby><ruby>良い<rt>よい</rt></ruby>ニュースです。ただ、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>になったかどうかは、これからも<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>動き<rt>うごき</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>いく<ruby>必要<rt>ひつよう</rt></ruby>がありそうです。",
+      "zh": "工资在涨，确实是好消息。不过，生活是否变轻松，看来还要继续观察物价的走势。",
+      "en": "Rising pay is certainly good news. But whether life is getting easier will depend on how prices move from here."
     },
     {
       "speaker": "guide",
       "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
       "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。",
-      "break": true
+      "break": true,
+      "zh": "那么，我们再听一遍新闻。这次应该比刚才听得更明白。",
+      "en": "Now let's listen to the news once more. You should understand it better this time."
     },
     {
       "speaker": "news",
@@ -411,7 +441,9 @@
     {
       "speaker": "guide",
       "text": "皆さんの国では、給料と物の値段、どちらが速く上がっていますか。今日も聞いてくださって、ありがとうございました。また明日。",
-      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>では、<ruby>給料<rt>きゅうりょう</rt></ruby>と<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>、どちらが<ruby>速く<rt>はやく</rt></ruby><ruby>上が<rt>あが</rt></ruby>っていますか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>では、<ruby>給料<rt>きゅうりょう</rt></ruby>と<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>、どちらが<ruby>速く<rt>はやく</rt></ruby><ruby>上が<rt>あが</rt></ruby>っていますか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。",
+      "zh": "在你的国家，工资和物价，哪个涨得更快呢？感谢收听，我们明天见。",
+      "en": "In your country, which is rising faster, pay or prices? Thanks for listening. See you tomorrow."
     }
   ]
 }

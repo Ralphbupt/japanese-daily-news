@@ -120,6 +120,9 @@ def validate(ep_path, errs):
         # English pages show an English line under every news sentence.
         if sp == "news" and not s.get("en") and text.strip() not in ("今日のニュースです。", "また明日。"):
             add(errs, name, f"segments[{i}] news sentence has no English translation — add an 'en' field: {text[:30]!r}")
+        # The all-Japanese show translates the talk too: it is the hardest part.
+        if sp == "guide" and (not s.get("zh") or not s.get("en")):
+            add(errs, name, f"segments[{i}] guide line needs both 'zh' and 'en' fields: {text[:30]!r}")
 
     vocab = d.get("vocabulary", [])
     if not isinstance(vocab, list):
