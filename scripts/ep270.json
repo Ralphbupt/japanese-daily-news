@@ -1,0 +1,659 @@
+{
+  "episode": 270,
+  "title": "国税庁のふりをした偽メールが急増、相談1万4000件",
+  "titleZh": "冒充国税厅的诈骗邮件激增，咨询达1.4万件",
+  "titleEn": "Fake tax agency emails surge, with 14,000 inquiries in a month",
+  "date": "2026-11-07",
+  "source": "NHK / 共同通信 / 熊本日日新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026110701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November seventh: fake emails that pretend to come from Japan's tax office are spreading fast. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁のふりをした、うそのメールが、急に増えています。",
+      "zh": "冒充国税厅的虚假邮件正在急剧增加。",
+      "en": "Fake emails pretending to be from the National Tax Agency are rapidly increasing.",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>のふりをした、うそのメールが、<ruby>急に<rt>きゅうに</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールの送り主には、「国税庁」や、税金の手続きをするシステム「e-Tax」の名前が出ます。",
+      "zh": "邮件的发件人显示为“国税厅”或办理税务手续的系统“e-Tax”的名字。",
+      "en": "The sender of the emails shows the name \"National Tax Agency\" or \"e-Tax,\" the system used for tax procedures.",
+      "tts": "メールの送り主には、「国税庁」や、税金の手続きをするシステム「イータックス」の名前が出ます。",
+      "ruby": "メールの<ruby>送り主<rt>おくりぬし</rt></ruby>には、「<ruby>国税庁<rt>こくぜいちょう</rt></ruby>」や、<ruby>税金<rt>ぜいきん</rt></ruby>の<ruby>手続き<rt>てつづき</rt></ruby>をするシステム「e-Tax」の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "送り主の名前は、メールを送る人が自由に決めることができるからです。",
+      "zh": "这是因为发件人的名字可以由发邮件的人自由设定。",
+      "en": "This is because the person sending an email can freely choose the sender's name.",
+      "ruby": "<ruby>送り主<rt>おくりぬし</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、メールを<ruby>送る<rt>おくる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>に<ruby>決め<rt>きめ</rt></ruby>ることができるからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "件名には、「至急」や「警告」などの言葉が書いてあります。",
+      "zh": "邮件主题里写着“紧急”“警告”等字样。",
+      "en": "The subject lines contain words such as \"urgent\" and \"warning.\"",
+      "ruby": "<span class=\"vw\" data-ja=\"件名\" data-reading=\"けんめい\" data-en=\"subject (of an email)\"><ruby>件名<rt>けんめい</rt></ruby></span>には、「<span class=\"vw\" data-ja=\"至急\" data-reading=\"しきゅう\" data-en=\"urgent, immediately\"><ruby>至急<rt>しきゅう</rt></ruby></span>」や「<ruby>警告<rt>けいこく</rt></ruby>」などの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>書い<rt>かい</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールには、「税金が戻ってきます」や「まだ払っていない税金があります」などと書いてあります。",
+      "zh": "邮件里写着“您的税款将被退还”“您还有未缴的税款”等内容。",
+      "en": "The emails say things like \"Your tax will be refunded\" or \"You have unpaid tax.\"",
+      "ruby": "メールには、「<ruby>税金<rt>ぜいきん</rt></ruby>が<ruby>戻っ<rt>もどっ</rt></ruby>てきます」や「まだ<ruby>払っ<rt>はらっ</rt></ruby>ていない<ruby>税金<rt>ぜいきん</rt></ruby>があります」などと<ruby>書い<rt>かい</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "中には、戻ってくるお金の額を、細かく書いたメールもあります。",
+      "zh": "其中还有详细写明退还金额的邮件。",
+      "en": "Some of the emails even give the exact amount of money to be returned.",
+      "ruby": "<ruby>中に<rt>なかに</rt></ruby>は、<ruby>戻っ<rt>もどっ</rt></ruby>てくるお<ruby>金<rt>かね</rt></ruby>の<ruby>額<rt>がく</rt></ruby>を、<ruby>細かく<rt>こまかく</rt></ruby><ruby>書い<rt>かい</rt></ruby>たメールもあります。",
+      "tts": "中には、戻ってくるお金のがくを、細かく書いたメールもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールのリンクを押すと、本物によく似た、にせのサイトに行きます。",
+      "zh": "点击邮件里的链接，就会进入一个和真网站很像的假网站。",
+      "en": "If you tap the link in the email, you go to a fake site that looks very much like the real one.",
+      "ruby": "メールのリンクを<ruby>押す<rt>おす</rt></ruby>と、<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing, genuine\"><ruby>本物<rt>ほんもの</rt></ruby></span>によく<ruby>似た<rt>にた</rt></ruby>、にせのサイトに<ruby>行き<rt>いき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで名前やカードの番号などを入れると、情報が盗まれてしまいます。",
+      "zh": "如果在那里输入姓名或卡号等，信息就会被盗走。",
+      "en": "If you enter your name, card number or other details there, the information is stolen.",
+      "ruby": "そこで<ruby>名前<rt>なまえ</rt></ruby>やカードの<ruby>番号<rt>ばんごう</rt></ruby>などを<ruby>入れ<rt>いれ</rt></ruby>ると、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "アプリをダウンロードさせようとするメールもあります。",
+      "zh": "也有试图让人下载应用程序的邮件。",
+      "en": "Some emails also try to get people to download an app.",
+      "ruby": "アプリをダウンロードさせようとするメールもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁には、9月の終わりから10月の終わりまでに、およそ1万4000件の相談がありました。",
+      "zh": "从9月底到10月底，国税厅共收到约1万4000件咨询。",
+      "en": "From late September to late October, the National Tax Agency received about 14,000 inquiries.",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>には、9<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>から10<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>までに、およそ1<ruby>万<rt>まん</rt></ruby>4000<ruby>件<rt>けん</rt></ruby>の<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それまでは、相談は1日に十数件ぐらいでした。",
+      "zh": "在那之前，咨询每天只有十几件左右。",
+      "en": "Before that, there were only about a dozen or so inquiries a day.",
+      "tts": "それまでは、相談は1日にじゅうすうけんぐらいでした。",
+      "ruby": "それまでは、<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>は<ruby>1日<rt>いちにち</rt></ruby>に<ruby>十数<rt>じゅうすう</rt></ruby><ruby>件<rt>けん</rt></ruby>ぐらいでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "実際に、お金をだまし取られた人もいます。",
+      "zh": "实际上，也有人被骗走了钱。",
+      "en": "Some people have actually been cheated out of money.",
+      "ruby": "<ruby>実際に<rt>じっさいに</rt></ruby>、お<ruby>金<rt>かね</rt></ruby>をだまし<ruby>取ら<rt>とら</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁は、「メールで、税金を返す手続きを案内したり、税金を払うように言ったりすることはありません」と話しています。",
+      "zh": "国税厅表示：“我们不会通过邮件指导退税手续，也不会要求缴税。”",
+      "en": "The National Tax Agency says, \"We never guide people through tax refunds or tell them to pay tax by email.\"",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、「メールで、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby><ruby>手続き<rt>てつづき</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>したり、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>ように<ruby>言った<rt>いった</rt></ruby>りすることはありません」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「おかしいと思ったら、リンクを押したり、アプリをダウンロードしたりしないでください」と呼びかけています。",
+      "zh": "并呼吁：“如果觉得可疑，请不要点击链接或下载应用程序。”",
+      "en": "It also urges people, \"If something seems strange, do not tap links or download apps.\"",
+      "ruby": "そして、「おかしいと<ruby>思った<rt>おもった</rt></ruby>ら、リンクを<ruby>押し<rt>おし</rt></ruby>たり、アプリをダウンロードしたりしないでください」と<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁のふりをした、うそのメールが、急に増えています。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>のふりをした、うそのメールが、<ruby>急に<rt>きゅうに</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fake emails pretending to be from the national tax office are suddenly increasing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ふり",
+      "ruby": "<span class=\"vw\" data-ja=\"ふり\" data-reading=\"ふり\" data-en=\"pretending (〜のふりをする = to pretend to be)\">ふり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means pretending. Here, the emails pretend to come from the tax office."
+    },
+    {
+      "speaker": "slow",
+      "text": "メールの送り主には、「国税庁」や、税金の手続きをするシステム「e-Tax」の名前が出ます。",
+      "tts": "メールの送り主には、「国税庁」や、税金の手続きをするシステム「イータックス」の名前が出ます。",
+      "ruby": "メールの<ruby>送り主<rt>おくりぬし</rt></ruby>には、「<ruby>国税庁<rt>こくぜいちょう</rt></ruby>」や、<ruby>税金<rt>ぜいきん</rt></ruby>の<ruby>手続き<rt>てつづき</rt></ruby>をするシステム「e-Tax」の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>す。"
+    },
+    {
+      "speaker": "host",
+      "text": "The sender shows the name of the tax office, or of its online tax system."
+    },
+    {
+      "speaker": "slow",
+      "text": "送り主の名前は、メールを送る人が自由に決めることができるからです。",
+      "ruby": "<ruby>送り主<rt>おくりぬし</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、メールを<ruby>送る<rt>おくる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>に<ruby>決め<rt>きめ</rt></ruby>ることができるからです。"
+    },
+    {
+      "speaker": "host",
+      "text": "That's because whoever sends an email can freely choose the sender's name."
+    },
+    {
+      "speaker": "slow",
+      "text": "件名には、「至急」や「警告」などの言葉が書いてあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"件名\" data-reading=\"けんめい\" data-en=\"subject (of an email)\"><ruby>件名<rt>けんめい</rt></ruby></span>には、「<span class=\"vw\" data-ja=\"至急\" data-reading=\"しきゅう\" data-en=\"urgent, immediately\"><ruby>至急<rt>しきゅう</rt></ruby></span>」や「<ruby>警告<rt>けいこく</rt></ruby>」などの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>書い<rt>かい</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The subject lines use words like urgent and warning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "件名",
+      "ruby": "<span class=\"vw\" data-ja=\"件名\" data-reading=\"けんめい\" data-en=\"subject (of an email)\"><ruby>件名<rt>けんめい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the subject line of an email."
+    },
+    {
+      "speaker": "vocab",
+      "text": "至急",
+      "ruby": "<span class=\"vw\" data-ja=\"至急\" data-reading=\"しきゅう\" data-en=\"urgent, immediately\"><ruby>至急<rt>しきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means urgent, right away."
+    },
+    {
+      "speaker": "slow",
+      "text": "メールには、「税金が戻ってきます」や「まだ払っていない税金があります」などと書いてあります。",
+      "ruby": "メールには、「<ruby>税金<rt>ぜいきん</rt></ruby>が<ruby>戻っ<rt>もどっ</rt></ruby>てきます」や「まだ<ruby>払っ<rt>はらっ</rt></ruby>ていない<ruby>税金<rt>ぜいきん</rt></ruby>があります」などと<ruby>書い<rt>かい</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The emails say things like, your tax will be returned, or, you have unpaid tax."
+    },
+    {
+      "speaker": "slow",
+      "text": "中には、戻ってくるお金の額を、細かく書いたメールもあります。",
+      "ruby": "<ruby>中に<rt>なかに</rt></ruby>は、<ruby>戻っ<rt>もどっ</rt></ruby>てくるお<ruby>金<rt>かね</rt></ruby>の<ruby>額<rt>がく</rt></ruby>を、<ruby>細かく<rt>こまかく</rt></ruby><ruby>書い<rt>かい</rt></ruby>たメールもあります。",
+      "tts": "中には、戻ってくるお金のがくを、細かく書いたメールもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some even give the exact amount of money you will get back."
+    },
+    {
+      "speaker": "slow",
+      "text": "メールのリンクを押すと、本物によく似た、にせのサイトに行きます。",
+      "ruby": "メールのリンクを<ruby>押す<rt>おす</rt></ruby>と、<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing, genuine\"><ruby>本物<rt>ほんもの</rt></ruby></span>によく<ruby>似た<rt>にた</rt></ruby>、にせのサイトに<ruby>行き<rt>いき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tap the link, and you reach a fake site that looks just like the real one."
+    },
+    {
+      "speaker": "vocab",
+      "text": "本物",
+      "ruby": "<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing, genuine\"><ruby>本物<rt>ほんもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the real thing, not a fake."
+    },
+    {
+      "speaker": "slow",
+      "text": "そこで名前やカードの番号などを入れると、情報が盗まれてしまいます。",
+      "ruby": "そこで<ruby>名前<rt>なまえ</rt></ruby>やカードの<ruby>番号<rt>ばんごう</rt></ruby>などを<ruby>入れ<rt>いれ</rt></ruby>ると、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Enter your name or card number there, and your information is stolen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "盗む",
+      "ruby": "<span class=\"vw\" data-ja=\"盗む\" data-reading=\"ぬすむ\" data-en=\"to steal\"><ruby>盗む<rt>ぬすむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to steal."
+    },
+    {
+      "speaker": "slow",
+      "text": "アプリをダウンロードさせようとするメールもあります。",
+      "ruby": "アプリをダウンロードさせようとするメールもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some emails also try to make you download an app."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁には、9月の終わりから10月の終わりまでに、およそ1万4000件の相談がありました。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>には、9<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>から10<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>までに、およそ1<ruby>万<rt>まん</rt></ruby>4000<ruby>件<rt>けん</rt></ruby>の<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From late September to late October, the tax office got about fourteen thousand inquiries."
+    },
+    {
+      "speaker": "vocab",
+      "text": "相談",
+      "ruby": "<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means asking someone for advice or help."
+    },
+    {
+      "speaker": "slow",
+      "text": "それまでは、相談は1日に十数件ぐらいでした。",
+      "tts": "それまでは、相談は1日にじゅうすうけんぐらいでした。",
+      "ruby": "それまでは、<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>は<ruby>1日<rt>いちにち</rt></ruby>に<ruby>十数<rt>じゅうすう</rt></ruby><ruby>件<rt>けん</rt></ruby>ぐらいでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Before that, it was only about a dozen or so a day."
+    },
+    {
+      "speaker": "slow",
+      "text": "実際に、お金をだまし取られた人もいます。",
+      "ruby": "<ruby>実際に<rt>じっさいに</rt></ruby>、お<ruby>金<rt>かね</rt></ruby>をだまし<ruby>取ら<rt>とら</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some people have actually been cheated out of money."
+    },
+    {
+      "speaker": "vocab",
+      "text": "だまし取る",
+      "ruby": "<span class=\"vw\" data-ja=\"だまし取る\" data-reading=\"だましとる\" data-en=\"to cheat someone out of (money)\">だまし<ruby>取る<rt>とる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take something from someone by tricking them."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁は、「メールで、税金を返す手続きを案内したり、税金を払うように言ったりすることはありません」と話しています。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、「メールで、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby><ruby>手続き<rt>てつづき</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>したり、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>ように<ruby>言った<rt>いった</rt></ruby>りすることはありません」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tax office says it never uses email to guide refunds or ask for payment."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、「おかしいと思ったら、リンクを押したり、アプリをダウンロードしたりしないでください」と呼びかけています。",
+      "ruby": "そして、「おかしいと<ruby>思った<rt>おもった</rt></ruby>ら、リンクを<ruby>押し<rt>おし</rt></ruby>たり、アプリをダウンロードしたりしないでください」と<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also urges people not to tap links or download apps if something seems strange."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on, to urge (the public)\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people to do something."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁のふりをした、うそのメールが、急に増えています。",
+      "zh": "冒充国税厅的虚假邮件正在急剧增加。",
+      "en": "Fake emails pretending to be from the National Tax Agency are rapidly increasing.",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>のふりをした、うそのメールが、<ruby>急に<rt>きゅうに</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールの送り主には、「国税庁」や、税金の手続きをするシステム「e-Tax」の名前が出ます。",
+      "zh": "邮件的发件人显示为“国税厅”或办理税务手续的系统“e-Tax”的名字。",
+      "en": "The sender of the emails shows the name \"National Tax Agency\" or \"e-Tax,\" the system used for tax procedures.",
+      "tts": "メールの送り主には、「国税庁」や、税金の手続きをするシステム「イータックス」の名前が出ます。",
+      "ruby": "メールの<ruby>送り主<rt>おくりぬし</rt></ruby>には、「<ruby>国税庁<rt>こくぜいちょう</rt></ruby>」や、<ruby>税金<rt>ぜいきん</rt></ruby>の<ruby>手続き<rt>てつづき</rt></ruby>をするシステム「e-Tax」の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>す。"
+    },
+    {
+      "speaker": "news",
+      "text": "送り主の名前は、メールを送る人が自由に決めることができるからです。",
+      "zh": "这是因为发件人的名字可以由发邮件的人自由设定。",
+      "en": "This is because the person sending an email can freely choose the sender's name.",
+      "ruby": "<ruby>送り主<rt>おくりぬし</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、メールを<ruby>送る<rt>おくる</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>に<ruby>決め<rt>きめ</rt></ruby>ることができるからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "件名には、「至急」や「警告」などの言葉が書いてあります。",
+      "zh": "邮件主题里写着“紧急”“警告”等字样。",
+      "en": "The subject lines contain words such as \"urgent\" and \"warning.\"",
+      "ruby": "<span class=\"vw\" data-ja=\"件名\" data-reading=\"けんめい\" data-en=\"subject (of an email)\"><ruby>件名<rt>けんめい</rt></ruby></span>には、「<span class=\"vw\" data-ja=\"至急\" data-reading=\"しきゅう\" data-en=\"urgent, immediately\"><ruby>至急<rt>しきゅう</rt></ruby></span>」や「<ruby>警告<rt>けいこく</rt></ruby>」などの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>書い<rt>かい</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールには、「税金が戻ってきます」や「まだ払っていない税金があります」などと書いてあります。",
+      "zh": "邮件里写着“您的税款将被退还”“您还有未缴的税款”等内容。",
+      "en": "The emails say things like \"Your tax will be refunded\" or \"You have unpaid tax.\"",
+      "ruby": "メールには、「<ruby>税金<rt>ぜいきん</rt></ruby>が<ruby>戻っ<rt>もどっ</rt></ruby>てきます」や「まだ<ruby>払っ<rt>はらっ</rt></ruby>ていない<ruby>税金<rt>ぜいきん</rt></ruby>があります」などと<ruby>書い<rt>かい</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "中には、戻ってくるお金の額を、細かく書いたメールもあります。",
+      "zh": "其中还有详细写明退还金额的邮件。",
+      "en": "Some of the emails even give the exact amount of money to be returned.",
+      "ruby": "<ruby>中に<rt>なかに</rt></ruby>は、<ruby>戻っ<rt>もどっ</rt></ruby>てくるお<ruby>金<rt>かね</rt></ruby>の<ruby>額<rt>がく</rt></ruby>を、<ruby>細かく<rt>こまかく</rt></ruby><ruby>書い<rt>かい</rt></ruby>たメールもあります。",
+      "tts": "中には、戻ってくるお金のがくを、細かく書いたメールもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールのリンクを押すと、本物によく似た、にせのサイトに行きます。",
+      "zh": "点击邮件里的链接，就会进入一个和真网站很像的假网站。",
+      "en": "If you tap the link in the email, you go to a fake site that looks very much like the real one.",
+      "ruby": "メールのリンクを<ruby>押す<rt>おす</rt></ruby>と、<span class=\"vw\" data-ja=\"本物\" data-reading=\"ほんもの\" data-en=\"the real thing, genuine\"><ruby>本物<rt>ほんもの</rt></ruby></span>によく<ruby>似た<rt>にた</rt></ruby>、にせのサイトに<ruby>行き<rt>いき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そこで名前やカードの番号などを入れると、情報が盗まれてしまいます。",
+      "zh": "如果在那里输入姓名或卡号等，信息就会被盗走。",
+      "en": "If you enter your name, card number or other details there, the information is stolen.",
+      "ruby": "そこで<ruby>名前<rt>なまえ</rt></ruby>やカードの<ruby>番号<rt>ばんごう</rt></ruby>などを<ruby>入れ<rt>いれ</rt></ruby>ると、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "アプリをダウンロードさせようとするメールもあります。",
+      "zh": "也有试图让人下载应用程序的邮件。",
+      "en": "Some emails also try to get people to download an app.",
+      "ruby": "アプリをダウンロードさせようとするメールもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁には、9月の終わりから10月の終わりまでに、およそ1万4000件の相談がありました。",
+      "zh": "从9月底到10月底，国税厅共收到约1万4000件咨询。",
+      "en": "From late September to late October, the National Tax Agency received about 14,000 inquiries.",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>には、9<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>から10<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>までに、およそ1<ruby>万<rt>まん</rt></ruby>4000<ruby>件<rt>けん</rt></ruby>の<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それまでは、相談は1日に十数件ぐらいでした。",
+      "zh": "在那之前，咨询每天只有十几件左右。",
+      "en": "Before that, there were only about a dozen or so inquiries a day.",
+      "tts": "それまでは、相談は1日にじゅうすうけんぐらいでした。",
+      "ruby": "それまでは、<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>は<ruby>1日<rt>いちにち</rt></ruby>に<ruby>十数<rt>じゅうすう</rt></ruby><ruby>件<rt>けん</rt></ruby>ぐらいでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "実際に、お金をだまし取られた人もいます。",
+      "zh": "实际上，也有人被骗走了钱。",
+      "en": "Some people have actually been cheated out of money.",
+      "ruby": "<ruby>実際に<rt>じっさいに</rt></ruby>、お<ruby>金<rt>かね</rt></ruby>をだまし<ruby>取ら<rt>とら</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "国税庁は、「メールで、税金を返す手続きを案内したり、税金を払うように言ったりすることはありません」と話しています。",
+      "zh": "国税厅表示：“我们不会通过邮件指导退税手续，也不会要求缴税。”",
+      "en": "The National Tax Agency says, \"We never guide people through tax refunds or tell them to pay tax by email.\"",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、「メールで、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby><ruby>手続き<rt>てつづき</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>したり、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>払う<rt>はらう</rt></ruby>ように<ruby>言った<rt>いった</rt></ruby>りすることはありません」と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「おかしいと思ったら、リンクを押したり、アプリをダウンロードしたりしないでください」と呼びかけています。",
+      "zh": "并呼吁：“如果觉得可疑，请不要点击链接或下载应用程序。”",
+      "en": "It also urges people, \"If something seems strange, do not tap links or download apps.\"",
+      "ruby": "そして、「おかしいと<ruby>思った<rt>おもった</rt></ruby>ら、リンクを<ruby>押し<rt>おし</rt></ruby>たり、アプリをダウンロードしたりしないでください」と<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "うそのメールは、どこのふりをしていますか。",
+      "ruby": "うそのメールは、どこのふりをしていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The National Tax Agency, the tax office."
+    },
+    {
+      "speaker": "slow",
+      "text": "メールの件名には、どんな言葉が書いてありますか。",
+      "ruby": "メールの<span class=\"vw\" data-ja=\"件名\" data-reading=\"けんめい\" data-en=\"subject (of an email)\"><ruby>件名<rt>けんめい</rt></ruby></span>には、どんな<ruby>言葉<rt>ことば</rt></ruby>が<ruby>書い<rt>かい</rt></ruby>てありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Words like urgent and warning."
+    },
+    {
+      "speaker": "slow",
+      "text": "にせのサイトで名前やカードの番号を入れると、どうなりますか。",
+      "ruby": "にせのサイトで<ruby>名前<rt>なまえ</rt></ruby>やカードの<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>ると、どうなりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Your information is stolen."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁には、およそ何件の相談がありましたか。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>には、およそ<ruby>何件<rt>なんけん</rt></ruby>の<span class=\"vw\" data-ja=\"相談\" data-reading=\"そうだん\" data-en=\"consultation, asking for advice\"><ruby>相談<rt>そうだん</rt></ruby></span>がありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About fourteen thousand."
+    },
+    {
+      "speaker": "slow",
+      "text": "国税庁は、メールで税金の手続きを案内しますか。",
+      "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>は、メールで<ruby>税金<rt>ぜいきん</rt></ruby>の<ruby>手続き<rt>てつづき</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No, never."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. If an email says urgent, slow down. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "ふり",
+      "reading": "ふり",
+      "en": "pretending (〜のふりをする = to pretend to be)",
+      "zh": "假装（〜のふりをする＝冒充……）"
+    },
+    {
+      "ja": "件名",
+      "reading": "けんめい",
+      "en": "subject (of an email)",
+      "zh": "（邮件）主题"
+    },
+    {
+      "ja": "至急",
+      "reading": "しきゅう",
+      "en": "urgent, immediately",
+      "zh": "紧急，火速"
+    },
+    {
+      "ja": "本物",
+      "reading": "ほんもの",
+      "en": "the real thing, genuine",
+      "zh": "真的，真货"
+    },
+    {
+      "ja": "盗む",
+      "reading": "ぬすむ",
+      "en": "to steal",
+      "zh": "偷，盗取"
+    },
+    {
+      "ja": "相談",
+      "reading": "そうだん",
+      "en": "consultation, asking for advice",
+      "zh": "咨询，商量"
+    },
+    {
+      "ja": "だまし取る",
+      "reading": "だましとる",
+      "en": "to cheat someone out of (money)",
+      "zh": "骗取"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to urge (the public)",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜のふりをする",
+      "meaning": "to pretend to be ~",
+      "meaningZh": "假装……，冒充……",
+      "formation": "Noun + のふりをする / Verb plain form + ふりをする",
+      "example": "国税庁のふりをした、うそのメールが、急に増えています。",
+      "translation": "Fake emails pretending to be from the National Tax Agency are rapidly increasing.",
+      "note": "Says someone or something acts as if it were something it is not.",
+      "noteZh": "表示装作某种样子，实际并非如此。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜からです",
+      "meaning": "it is because ~",
+      "meaningZh": "是因为……",
+      "formation": "Plain form + からです",
+      "example": "送り主の名前は、メールを送る人が自由に決めることができるからです。",
+      "translation": "This is because the person sending an email can freely choose the sender's name.",
+      "note": "Gives the reason for the previous sentence, after the fact has been stated.",
+      "noteZh": "放在句末，说明前一句的原因。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と、〜",
+      "meaning": "when / if ~, (then naturally) ~",
+      "meaningZh": "一……就……",
+      "formation": "Verb dictionary form + と",
+      "example": "メールのリンクを押すと、本物によく似た、にせのサイトに行きます。",
+      "translation": "If you tap the link in the email, you go to a fake site that looks very much like the real one.",
+      "note": "The second part always or automatically follows the first.",
+      "noteZh": "表示前项一发生，后项就必然随之发生。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ (with regret)",
+      "meaningZh": "……了（遗憾、不好的结果）",
+      "formation": "Verb て-form + しまう",
+      "example": "そこで名前やカードの番号などを入れると、情報が盗まれてしまいます。",
+      "translation": "If you enter your name or card number there, the information is stolen.",
+      "note": "Shows an unwanted result.",
+      "noteZh": "表示出现了不希望的结果。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜させようとする",
+      "meaning": "to try to make (someone) do ~",
+      "meaningZh": "试图让（某人）做……",
+      "formation": "Causative volitional (させよう) + とする",
+      "example": "アプリをダウンロードさせようとするメールもあります。",
+      "translation": "Some emails also try to get people to download an app.",
+      "note": "Causative plus 〜ようとする: an attempt to get someone else to act.",
+      "noteZh": "使役形加「〜ようとする」，表示企图让别人做某事。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "do things like ~ and ~",
+      "meaningZh": "又……又……，……啦……啦",
+      "formation": "Verb た-form + り、Verb た-form + り + する",
+      "example": "おかしいと思ったら、リンクを押したり、アプリをダウンロードしたりしないでください。",
+      "translation": "If something seems strange, do not tap links or download apps.",
+      "note": "Lists example actions; with しないで, it asks you not to do any of them.",
+      "noteZh": "列举动作；后接「しないで」表示这些都不要做。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "国税庁のふりをした、うそのメールが、急に増えています。\n冒充国税厅的虚假邮件正在急剧增加。\nふり = pretending (〜のふりをする = to pretend to be)",
+    "メールの送り主には、「国税庁」や、税金の手続きをするシステム「e-Tax」の名前が出ます。\n邮件的发件人显示为“国税厅”或办理税务手续的系统“e-Tax”的名字。",
+    "送り主の名前は、メールを送る人が自由に決めることができるからです。\n这是因为发件人的名字可以由发邮件的人自由设定。",
+    "件名には、「至急」や「警告」などの言葉が書いてあります。\n邮件主题里写着“紧急”“警告”等字样。\n件名 = subject (of an email) / 至急 = urgent, immediately",
+    "メールには、「税金が戻ってきます」や「まだ払っていない税金があります」などと書いてあります。\n邮件里写着“您的税款将被退还”“您还有未缴的税款”等内容。",
+    "中には、戻ってくるお金の額を、細かく書いたメールもあります。\n其中还有详细写明退还金额的邮件。",
+    "メールのリンクを押すと、本物によく似た、にせのサイトに行きます。\n点击邮件里的链接，就会进入一个和真网站很像的假网站。\n本物 = the real thing, genuine",
+    "そこで名前やカードの番号などを入れると、情報が盗まれてしまいます。\n如果在那里输入姓名或卡号等，信息就会被盗走。\n盗む = to steal",
+    "アプリをダウンロードさせようとするメールもあります。\n也有试图让人下载应用程序的邮件。",
+    "国税庁には、9月の終わりから10月の終わりまでに、およそ1万4000件の相談がありました。\n从9月底到10月底，国税厅共收到约1万4000件咨询。\n相談 = consultation, asking for advice",
+    "それまでは、相談は1日に十数件ぐらいでした。\n在那之前，咨询每天只有十几件左右。",
+    "実際に、お金をだまし取られた人もいます。\n实际上，也有人被骗走了钱。\nだまし取る = to cheat someone out of (money)",
+    "国税庁は、「メールで、税金を返す手続きを案内したり、税金を払うように言ったりすることはありません」と話しています。\n国税厅表示：“我们不会通过邮件指导退税手续，也不会要求缴税。”",
+    "そして、「おかしいと思ったら、リンクを押したり、アプリをダウンロードしたりしないでください」と呼びかけています。\n并呼吁：“如果觉得可疑，请不要点击链接或下载应用程序。”\n呼びかける = to call on, to urge (the public)"
+  ]
+}
