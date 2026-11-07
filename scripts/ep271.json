@@ -1,0 +1,498 @@
+{
+  "episode": 271,
+  "title": "愛知県で震度5強の地震、津波の心配なし",
+  "titleZh": "爱知县发生5强地震，无海啸风险",
+  "titleEn": "Strong quake shakes Aichi at night, no tsunami risk",
+  "date": "2026-11-08",
+  "source": "NHK / 中日新聞 / CBCテレビ",
+  "level": "N5-N4",
+  "contentVersion": "2026110801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "表す",
+      "reading": "あらわす",
+      "en": "to show, to express",
+      "zh": "表示，表现"
+    },
+    {
+      "ja": "揺れ",
+      "reading": "ゆれ",
+      "en": "shaking, tremor",
+      "zh": "摇晃，震动"
+    },
+    {
+      "ja": "心配",
+      "reading": "しんぱい",
+      "en": "worry, concern",
+      "zh": "担心，担忧"
+    },
+    {
+      "ja": "転ぶ",
+      "reading": "ころぶ",
+      "en": "to fall down, to trip and fall",
+      "zh": "摔倒，跌倒"
+    },
+    {
+      "ja": "割れる",
+      "reading": "われる",
+      "en": "to break, to crack (glass, dishes)",
+      "zh": "碎，裂开"
+    },
+    {
+      "ja": "一時",
+      "reading": "いちじ",
+      "en": "for a while, temporarily",
+      "zh": "一时，暂时"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "doing things like ~ and ~",
+      "meaningZh": "又……又……；……啦……啦（列举）",
+      "formation": "Verb た-form + り, Verb た-form + り + する",
+      "example": "愛知県では、転んだり、落ちてきた物に当たったりして、20人以上がけがをしました。",
+      "translation": "In Aichi, more than 20 people were hurt, for example by falling down or being hit by falling objects.",
+      "note": "Lists a few examples of actions or events, without giving all of them.",
+      "noteZh": "列举几个有代表性的动作或事情，暗示还有其他。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜が、〜",
+      "meaning": "~, but ~",
+      "meaningZh": "……，但是……",
+      "formation": "Sentence (polite or plain) + が, Sentence",
+      "example": "東海道新幹線は一時止まりましたが、朝8時前に、また動き始めました。",
+      "translation": "The Tokaido Shinkansen stopped for a while, but started running again before 8 a.m.",
+      "note": "Joins two sentences that contrast with each other.",
+      "noteZh": "连接两个意思相反或转折的句子。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜始める",
+      "meaning": "to start doing ~",
+      "meaningZh": "开始……",
+      "formation": "Verb ます-stem + 始める",
+      "example": "東海道新幹線は一時止まりましたが、朝8時前に、また動き始めました。",
+      "translation": "The Tokaido Shinkansen stopped for a while, but started running again before 8 a.m.",
+      "note": "Shows that an action begins.",
+      "noteZh": "表示动作开始。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と話しています",
+      "meaning": "says that ~",
+      "meaningZh": "表示……，说……",
+      "formation": "Plain form / quote + と話しています",
+      "example": "気象庁は、この地震は「南海トラフ地震」とは、起こり方が違うと話しています。",
+      "translation": "The Japan Meteorological Agency says this earthquake happened in a different way from a \"Nankai Trough earthquake.\"",
+      "note": "Common in news to report what a person or organization says.",
+      "noteZh": "新闻中常用来转述某人或某机构的说法。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "8日の午前1時ごろ、静岡県の西のほうで、強い地震がありました。\n8日凌晨1点左右，静冈县西部发生了强烈地震。",
+    "地震の大きさを表すマグニチュードは、5.7でした。\n表示地震规模的震级为5.7级。\n表す = to show, to express",
+    "愛知県の知多市では、震度5強の、強い揺れがありました。\n爱知县知多市观测到5强的强烈震感。\n揺れ = shaking, tremor",
+    "長野県や岐阜県、静岡県でも、震度5弱の揺れがありました。\n长野县、岐阜县和静冈县也观测到5弱的震感。",
+    "この地震で、津波の心配はありません。\n这次地震没有引发海啸的担忧。\n心配 = worry, concern",
+    "愛知県では、転んだり、落ちてきた物に当たったりして、20人以上がけがをしました。\n在爱知县，有20多人因摔倒或被掉落的东西砸到而受伤。\n転ぶ = to fall down, to trip and fall",
+    "店の窓ガラスが割れたり、本屋の本が落ちたりしました。\n有商店的窗玻璃碎了，书店的书也掉了下来。\n割れる = to break, to crack (glass, dishes)",
+    "東海道新幹線は一時止まりましたが、朝8時前に、また動き始めました。\n东海道新干线一度停运，但在早上8点前恢复了运行。\n一時 = for a while, temporarily",
+    "気象庁は、この地震は「南海トラフ地震」とは、起こり方が違うと話しています。\n气象厅表示，这次地震与“南海海槽地震”的发生方式不同。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November eighth: a strong earthquake shook central Japan in the middle of the night. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の午前1時ごろ、静岡県の西のほうで、強い地震がありました。",
+      "zh": "8日凌晨1点左右，静冈县西部发生了强烈地震。",
+      "en": "At around 1 a.m. on the 8th, a strong earthquake struck the western part of Shizuoka Prefecture.",
+      "tts": "ようかのごぜんいちじごろ、しずおかけんのにしのほうで、つよいじしんがありました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>1<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>西<rt>にし</rt></ruby>のほうで、<ruby>強い<rt>つよい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震の大きさを表すマグニチュードは、5.7でした。",
+      "zh": "表示地震规模的震级为5.7级。",
+      "en": "The magnitude, which shows the size of the earthquake, was 5.7.",
+      "tts": "じしんのおおきさをあらわすマグニチュードは、ごてんななでした。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to show, to express\"><ruby>表す<rt>あらわす</rt></ruby></span>マグニチュードは、5.7でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県の知多市では、震度5強の、強い揺れがありました。",
+      "zh": "爱知县知多市观测到5强的强烈震感。",
+      "en": "In Chita City, Aichi Prefecture, there was strong shaking of upper 5 on Japan's intensity scale.",
+      "tts": "あいちけんのちたしでは、しんどごきょうの、つよいゆれがありました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>知多市<rt>ちたし</rt></ruby>では、<ruby>震度<rt>しんど</rt></ruby>5<ruby>強<rt>きょう</rt></ruby>の、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "長野県や岐阜県、静岡県でも、震度5弱の揺れがありました。",
+      "zh": "长野县、岐阜县和静冈县也观测到5弱的震感。",
+      "en": "Nagano, Gifu and Shizuoka prefectures also had shaking of lower 5.",
+      "tts": "ながのけんやぎふけん、しずおかけんでも、しんどごじゃくのゆれがありました。",
+      "ruby": "<ruby>長野県<rt>ながのけん</rt></ruby>や<ruby>岐阜県<rt>ぎふけん</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby>でも、<ruby>震度<rt>しんど</rt></ruby>5<ruby>弱<rt>じゃく</rt></ruby>の<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震で、津波の心配はありません。",
+      "zh": "这次地震没有引发海啸的担忧。",
+      "en": "There is no danger of a tsunami from this earthquake.",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>津波<rt>つなみ</rt></ruby>の<span class=\"vw\" data-ja=\"心配\" data-reading=\"しんぱい\" data-en=\"worry, concern\"><ruby>心配<rt>しんぱい</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県では、転んだり、落ちてきた物に当たったりして、20人以上がけがをしました。",
+      "zh": "在爱知县，有20多人因摔倒或被掉落的东西砸到而受伤。",
+      "en": "In Aichi, more than 20 people were hurt, for example by falling down or being hit by falling objects.",
+      "tts": "あいちけんでは、ころんだり、おちてきたものにあたったりして、にじゅうにんいじょうがけがをしました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>では、<ruby>転ん<rt>ころん</rt></ruby>だり、<ruby>落ち<rt>おち</rt></ruby>てきた<ruby>物<rt>もの</rt></ruby>に<ruby>当た<rt>あた</rt></ruby>ったりして、20<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の窓ガラスが割れたり、本屋の本が落ちたりしました。",
+      "zh": "有商店的窗玻璃碎了，书店的书也掉了下来。",
+      "en": "Shop windows broke, and books fell in a bookstore.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>ガラスが<ruby>割れ<rt>われ</rt></ruby>たり、<ruby>本屋<rt>ほんや</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>たりしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線は一時止まりましたが、朝8時前に、また動き始めました。",
+      "zh": "东海道新干线一度停运，但在早上8点前恢复了运行。",
+      "en": "The Tokaido Shinkansen stopped for a while, but started running again before 8 a.m.",
+      "tts": "とうかいどうしんかんせんはいちじとまりましたが、あさはちじまえに、またうごきはじめました。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a while, temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span><ruby>止まり<rt>とまり</rt></ruby>ましたが、<ruby>朝<rt>あさ</rt></ruby>8<ruby>時前<rt>じまえ</rt></ruby>に、また<ruby>動き<rt>うごき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、この地震は「南海トラフ地震」とは、起こり方が違うと話しています。",
+      "zh": "气象厅表示，这次地震与“南海海槽地震”的发生方式不同。",
+      "en": "The Japan Meteorological Agency says this earthquake happened in a different way from a \"Nankai Trough earthquake.\"",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、この<ruby>地震<rt>じしん</rt></ruby>は「<ruby>南海<rt>なんかい</rt></ruby>トラフ<ruby>地震<rt>じしん</rt></ruby>」とは、<ruby>起こ<rt>おこ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>が<ruby>違う<rt>ちがう</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "8日の午前1時ごろ、静岡県の西のほうで、強い地震がありました。",
+      "tts": "ようかのごぜんいちじごろ、しずおかけんのにしのほうで、つよいじしんがありました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>1<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>西<rt>にし</rt></ruby>のほうで、<ruby>強い<rt>つよい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At around one in the morning on the eighth, a strong earthquake hit the western part of Shizuoka."
+    },
+    {
+      "speaker": "slow",
+      "text": "地震の大きさを表すマグニチュードは、5.7でした。",
+      "tts": "じしんのおおきさをあらわすマグニチュードは、ごてんななでした。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to show, to express\"><ruby>表す<rt>あらわす</rt></ruby></span>マグニチュードは、5.7でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Its magnitude, which shows the size of the quake, was five point seven."
+    },
+    {
+      "speaker": "vocab",
+      "text": "表す",
+      "ruby": "<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to show, to express\"><ruby>表す<rt>あらわす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to show or to express. Here, the number shows how big the quake was."
+    },
+    {
+      "speaker": "slow",
+      "text": "愛知県の知多市では、震度5強の、強い揺れがありました。",
+      "tts": "あいちけんのちたしでは、しんどごきょうの、つよいゆれがありました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>知多市<rt>ちたし</rt></ruby>では、<ruby>震度<rt>しんど</rt></ruby>5<ruby>強<rt>きょう</rt></ruby>の、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In one city in Aichi, the shaking reached upper five on Japan's intensity scale."
+    },
+    {
+      "speaker": "vocab",
+      "text": "揺れ",
+      "ruby": "<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means shaking. You will hear it often in earthquake news."
+    },
+    {
+      "speaker": "slow",
+      "text": "長野県や岐阜県、静岡県でも、震度5弱の揺れがありました。",
+      "tts": "ながのけんやぎふけん、しずおかけんでも、しんどごじゃくのゆれがありました。",
+      "ruby": "<ruby>長野県<rt>ながのけん</rt></ruby>や<ruby>岐阜県<rt>ぎふけん</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby>でも、<ruby>震度<rt>しんど</rt></ruby>5<ruby>弱<rt>じゃく</rt></ruby>の<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nagano, Gifu and Shizuoka also had shaking of lower five."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地震で、津波の心配はありません。",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>津波<rt>つなみ</rt></ruby>の<span class=\"vw\" data-ja=\"心配\" data-reading=\"しんぱい\" data-en=\"worry, concern\"><ruby>心配<rt>しんぱい</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "There is no danger of a tsunami from this quake."
+    },
+    {
+      "speaker": "vocab",
+      "text": "心配",
+      "ruby": "<span class=\"vw\" data-ja=\"心配\" data-reading=\"しんぱい\" data-en=\"worry, concern\"><ruby>心配<rt>しんぱい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means worry. Here, there is nothing to worry about."
+    },
+    {
+      "speaker": "slow",
+      "text": "愛知県では、転んだり、落ちてきた物に当たったりして、20人以上がけがをしました。",
+      "tts": "あいちけんでは、ころんだり、おちてきたものにあたったりして、にじゅうにんいじょうがけがをしました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>では、<ruby>転ん<rt>ころん</rt></ruby>だり、<ruby>落ち<rt>おち</rt></ruby>てきた<ruby>物<rt>もの</rt></ruby>に<ruby>当た<rt>あた</rt></ruby>ったりして、20<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Aichi, more than twenty people were hurt, by falling down or being hit by falling things."
+    },
+    {
+      "speaker": "vocab",
+      "text": "転ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"転ぶ\" data-reading=\"ころぶ\" data-en=\"to fall down, to trip and fall\"><ruby>転ぶ<rt>ころぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to fall down, to trip and fall."
+    },
+    {
+      "speaker": "slow",
+      "text": "店の窓ガラスが割れたり、本屋の本が落ちたりしました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>ガラスが<ruby>割れ<rt>われ</rt></ruby>たり、<ruby>本屋<rt>ほんや</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>たりしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Shop windows broke, and books fell in a bookstore."
+    },
+    {
+      "speaker": "vocab",
+      "text": "割れる",
+      "ruby": "<span class=\"vw\" data-ja=\"割れる\" data-reading=\"われる\" data-en=\"to break, to crack (glass, dishes)\"><ruby>割れ<rt>われ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to break or crack, like glass."
+    },
+    {
+      "speaker": "slow",
+      "text": "東海道新幹線は一時止まりましたが、朝8時前に、また動き始めました。",
+      "tts": "とうかいどうしんかんせんはいちじとまりましたが、あさはちじまえに、またうごきはじめました。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a while, temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span><ruby>止まり<rt>とまり</rt></ruby>ましたが、<ruby>朝<rt>あさ</rt></ruby>8<ruby>時前<rt>じまえ</rt></ruby>に、また<ruby>動き<rt>うごき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bullet train stopped for a while, but started running again before eight in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一時",
+      "ruby": "<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a while, temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for a while, temporarily."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は、この地震は「南海トラフ地震」とは、起こり方が違うと話しています。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、この<ruby>地震<rt>じしん</rt></ruby>は「<ruby>南海<rt>なんかい</rt></ruby>トラフ<ruby>地震<rt>じしん</rt></ruby>」とは、<ruby>起こ<rt>おこ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>が<ruby>違う<rt>ちがう</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency says this quake happened in a different way from the big feared quake along the Pacific coast."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の午前1時ごろ、静岡県の西のほうで、強い地震がありました。",
+      "zh": "8日凌晨1点左右，静冈县西部发生了强烈地震。",
+      "en": "At around 1 a.m. on the 8th, a strong earthquake struck the western part of Shizuoka Prefecture.",
+      "tts": "ようかのごぜんいちじごろ、しずおかけんのにしのほうで、つよいじしんがありました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>1<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>西<rt>にし</rt></ruby>のほうで、<ruby>強い<rt>つよい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地震の大きさを表すマグニチュードは、5.7でした。",
+      "zh": "表示地震规模的震级为5.7级。",
+      "en": "The magnitude, which shows the size of the earthquake, was 5.7.",
+      "tts": "じしんのおおきさをあらわすマグニチュードは、ごてんななでした。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<span class=\"vw\" data-ja=\"表す\" data-reading=\"あらわす\" data-en=\"to show, to express\"><ruby>表す<rt>あらわす</rt></ruby></span>マグニチュードは、5.7でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県の知多市では、震度5強の、強い揺れがありました。",
+      "zh": "爱知县知多市观测到5强的强烈震感。",
+      "en": "In Chita City, Aichi Prefecture, there was strong shaking of upper 5 on Japan's intensity scale.",
+      "tts": "あいちけんのちたしでは、しんどごきょうの、つよいゆれがありました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>知多市<rt>ちたし</rt></ruby>では、<ruby>震度<rt>しんど</rt></ruby>5<ruby>強<rt>きょう</rt></ruby>の、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "長野県や岐阜県、静岡県でも、震度5弱の揺れがありました。",
+      "zh": "长野县、岐阜县和静冈县也观测到5弱的震感。",
+      "en": "Nagano, Gifu and Shizuoka prefectures also had shaking of lower 5.",
+      "tts": "ながのけんやぎふけん、しずおかけんでも、しんどごじゃくのゆれがありました。",
+      "ruby": "<ruby>長野県<rt>ながのけん</rt></ruby>や<ruby>岐阜県<rt>ぎふけん</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby>でも、<ruby>震度<rt>しんど</rt></ruby>5<ruby>弱<rt>じゃく</rt></ruby>の<span class=\"vw\" data-ja=\"揺れ\" data-reading=\"ゆれ\" data-en=\"shaking, tremor\"><ruby>揺れ<rt>ゆれ</rt></ruby></span>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地震で、津波の心配はありません。",
+      "zh": "这次地震没有引发海啸的担忧。",
+      "en": "There is no danger of a tsunami from this earthquake.",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>津波<rt>つなみ</rt></ruby>の<span class=\"vw\" data-ja=\"心配\" data-reading=\"しんぱい\" data-en=\"worry, concern\"><ruby>心配<rt>しんぱい</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛知県では、転んだり、落ちてきた物に当たったりして、20人以上がけがをしました。",
+      "zh": "在爱知县，有20多人因摔倒或被掉落的东西砸到而受伤。",
+      "en": "In Aichi, more than 20 people were hurt, for example by falling down or being hit by falling objects.",
+      "tts": "あいちけんでは、ころんだり、おちてきたものにあたったりして、にじゅうにんいじょうがけがをしました。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>では、<ruby>転ん<rt>ころん</rt></ruby>だり、<ruby>落ち<rt>おち</rt></ruby>てきた<ruby>物<rt>もの</rt></ruby>に<ruby>当た<rt>あた</rt></ruby>ったりして、20<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の窓ガラスが割れたり、本屋の本が落ちたりしました。",
+      "zh": "有商店的窗玻璃碎了，书店的书也掉了下来。",
+      "en": "Shop windows broke, and books fell in a bookstore.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>ガラスが<ruby>割れ<rt>われ</rt></ruby>たり、<ruby>本屋<rt>ほんや</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>たりしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東海道新幹線は一時止まりましたが、朝8時前に、また動き始めました。",
+      "zh": "东海道新干线一度停运，但在早上8点前恢复了运行。",
+      "en": "The Tokaido Shinkansen stopped for a while, but started running again before 8 a.m.",
+      "tts": "とうかいどうしんかんせんはいちじとまりましたが、あさはちじまえに、またうごきはじめました。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は<span class=\"vw\" data-ja=\"一時\" data-reading=\"いちじ\" data-en=\"for a while, temporarily\"><ruby>一時<rt>いちじ</rt></ruby></span><ruby>止まり<rt>とまり</rt></ruby>ましたが、<ruby>朝<rt>あさ</rt></ruby>8<ruby>時前<rt>じまえ</rt></ruby>に、また<ruby>動き<rt>うごき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は、この地震は「南海トラフ地震」とは、起こり方が違うと話しています。",
+      "zh": "气象厅表示，这次地震与“南海海槽地震”的发生方式不同。",
+      "en": "The Japan Meteorological Agency says this earthquake happened in a different way from a \"Nankai Trough earthquake.\"",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、この<ruby>地震<rt>じしん</rt></ruby>は「<ruby>南海<rt>なんかい</rt></ruby>トラフ<ruby>地震<rt>じしん</rt></ruby>」とは、<ruby>起こ<rt>おこ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>が<ruby>違う<rt>ちがう</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "地震は、何時ごろありましたか。",
+      "ruby": "<ruby>地震<rt>じしん</rt></ruby>は、<ruby>何時<rt>なんじ</rt></ruby>ごろありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At around one in the morning."
+    },
+    {
+      "speaker": "slow",
+      "text": "知多市の震度は、いくつでしたか。",
+      "tts": "ちたしのしんどは、いくつでしたか。",
+      "ruby": "<ruby>知多市<rt>ちたし</rt></ruby>の<ruby>震度<rt>しんど</rt></ruby>は、いくつでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Upper five."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地震で、津波の心配はありますか。",
+      "ruby": "この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>津波<rt>つなみ</rt></ruby>の<span class=\"vw\" data-ja=\"心配\" data-reading=\"しんぱい\" data-en=\"worry, concern\"><ruby>心配<rt>しんぱい</rt></ruby></span>はありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No, there is no danger of a tsunami."
+    },
+    {
+      "speaker": "slow",
+      "text": "愛知県では、何人以上がけがをしましたか。",
+      "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>では、<ruby>何人<rt>なんにん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than twenty people."
+    },
+    {
+      "speaker": "slow",
+      "text": "東海道新幹線は、朝8時前に、どうなりましたか。",
+      "tts": "とうかいどうしんかんせんは、あさはちじまえに、どうなりましたか。",
+      "ruby": "<ruby>東海道新幹線<rt>とうかいどうしんかんせん</rt></ruby>は、<ruby>朝<rt>あさ</rt></ruby>8<ruby>時前<rt>じまえ</rt></ruby>に、どうなりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It started running again."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. If you live in the area, take care, and watch for more shaking. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
