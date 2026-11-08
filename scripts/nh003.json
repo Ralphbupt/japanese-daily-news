@@ -1,0 +1,501 @@
+{
+  "episode": 3,
+  "title": "台風32号が発生、32年ぶり　今年は毎月台風が生まれる",
+  "titleZh": "第32号台风生成，时隔32年 今年每月都有台风",
+  "titleEn": "Typhoon No. 32 forms, the first in 32 years",
+  "date": "2026-11-08",
+  "source": "ウェザーニュース / tenki.jp（日本気象協会） / 熊本日日新聞（共同通信）/ 気象庁",
+  "level": "N3-N2",
+  "contentVersion": "2026110801",
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to ~",
+      "meaningZh": "据……，根据……",
+      "formation": "Noun + によりますと",
+      "example": "気象庁の統計によりますと、台風は平年、1年におよそ25個発生します。",
+      "translation": "According to Japan Meteorological Agency statistics, about 25 typhoons form in an average year.",
+      "note": "A polite form of によると, often used in news to name the source.",
+      "noteZh": "によると的礼貌说法，新闻中常用来说明信息来源。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜に続いて",
+      "meaning": "following ~, after ~",
+      "meaningZh": "继……之后",
+      "formation": "Noun + に続いて",
+      "example": "1951年に統計を取り始めてから、1965年と2015年に続いて、3回目です。",
+      "translation": "Since records began in 1951, this is the third time, after 1965 and 2015.",
+      "note": "Shows that something happens next in a series.",
+      "noteZh": "表示在一系列事情中接着发生。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜見込みだ",
+      "meaning": "is expected to ~",
+      "meaningZh": "预计……",
+      "formation": "Verb dictionary form + 見込みだ",
+      "example": "台風は、これから強い勢力に発達する見込みです。",
+      "translation": "The typhoon is expected to develop into a strong typhoon.",
+      "note": "Used for forecasts and predictions based on information.",
+      "noteZh": "用于根据信息作出的预测。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "有……的危险，恐怕会……",
+      "formation": "Verb dictionary form / Noun + の + おそれがある",
+      "example": "10日から11日ごろにかけて、小笠原諸島に近づくおそれがあります。",
+      "translation": "It may approach the Ogasawara Islands around the 10th to 11th.",
+      "note": "Only for bad possibilities; common in weather and disaster news.",
+      "noteZh": "只用于不好的可能性，常见于天气和灾害新闻。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜わけだ",
+      "meaning": "that means ~, so it is that ~",
+      "meaningZh": "也就是说……，就是……",
+      "formation": "Plain form + わけだ",
+      "example": "暦の上では、冬が始まる日でした。その日に、台風が生まれたわけです。",
+      "translation": "It was the first day of winter on the calendar. A typhoon formed on that very day.",
+      "note": "Draws a conclusion from the facts just mentioned.",
+      "noteZh": "根据前面的事实得出结论。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "7日、太平洋のマリアナ諸島で、台風32号が発生しました。\n7日，第32号台风在太平洋的马里亚纳群岛附近生成。\n",
+    "1年に32個の台風が発生するのは、1994年以来、32年ぶりです。\n一年中生成32个台风，是自1994年以来时隔32年。\n",
+    "気象庁の統計によりますと、台風は平年、1年におよそ25個発生します。\n据气象厅统计，台风在常年一年大约生成25个。\n",
+    "1951年に統計を取り始めてから、1965年と2015年に続いて、3回目です。\n这是自1951年开始统计以来，继1965年和2015年之后的第3次。\n",
+    "9日ごろに東へ向きを変え、10日から11日ごろにかけて、小笠原諸島に近づくおそれがあります。\n台风预计在9日前后转向东方，10日至11日前后可能接近小笠原群岛。\n",
+    "小笠原諸島が5日以内に暴風域に入る確率は、91%と予想されています。\n预计小笠原群岛在5天内进入暴风圈的概率为91%。\n"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "発生",
+      "reading": "はっせい",
+      "en": "occurrence, to form",
+      "zh": "发生，生成"
+    },
+    {
+      "ja": "平年",
+      "reading": "へいねん",
+      "en": "an average year",
+      "zh": "常年，往年平均"
+    },
+    {
+      "ja": "統計",
+      "reading": "とうけい",
+      "en": "statistics",
+      "zh": "统计"
+    },
+    {
+      "ja": "勢力",
+      "reading": "せいりょく",
+      "en": "strength (of a storm)",
+      "zh": "势力，强度"
+    },
+    {
+      "ja": "発達",
+      "reading": "はったつ",
+      "en": "development, to develop",
+      "zh": "发展，增强"
+    },
+    {
+      "ja": "暴風域",
+      "reading": "ぼうふういき",
+      "en": "storm zone (winds of 25 m/s or more)",
+      "zh": "暴风圈"
+    },
+    {
+      "ja": "確率",
+      "reading": "かくりつ",
+      "en": "probability, chance",
+      "zh": "概率"
+    },
+    {
+      "ja": "暦",
+      "reading": "こよみ",
+      "en": "calendar",
+      "zh": "历法，日历"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "1年に32個の台風が発生するのは、何年ぶりですか。",
+      "a": "1994年以来、32年ぶりです。"
+    },
+    {
+      "q": "台風は、平年、1年に何個くらい発生しますか。",
+      "a": "およそ25個です。"
+    },
+    {
+      "q": "台風32号は、いつごろ小笠原諸島に近づくおそれがありますか。",
+      "a": "10日から11日ごろです。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月8日、日曜日です。",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは11月ようか、日曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月8日，星期日。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Sunday, November 8th.",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>8日<rt>ようか</rt></ruby>、<ruby>日曜日<rt>にちようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "今年32個目の台風が生まれました。32号まで来たのは、32年ぶりです。普通の年は、何個くらいだと思いますか。",
+      "zh": "今年第32个台风生成了。台风编号到32号，是时隔32年。你觉得普通年份大约有几个？",
+      "en": "This year's 32nd typhoon has formed. It's been 32 years since the count reached No. 32. How many do you think form in a normal year?",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>32<ruby>個目<rt>こめ</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。32<ruby>号<rt>ごう</rt></ruby>まで<ruby>来た<rt>きた</rt></ruby>のは、32<ruby>年<rt>ねん</rt></ruby>ぶりです。<ruby>普通<rt>ふつう</rt></ruby>の<ruby>年<rt>とし</rt></ruby>は、<ruby>何個<rt>なんこ</rt></ruby>くらいだと<ruby>思い<rt>おもい</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "news",
+      "text": "7日、太平洋のマリアナ諸島で、台風32号が発生しました。",
+      "tts": "なのか、太平洋のマリアナ諸島で、台風32号が発生しました。",
+      "zh": "7日，第32号台风在太平洋的马里亚纳群岛附近生成。",
+      "en": "On the 7th, Typhoon No. 32 formed near the Mariana Islands in the Pacific.",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>、<ruby>太平洋<rt>たいへいよう</rt></ruby>のマリアナ<ruby>諸島<rt>しょとう</rt></ruby>で、<ruby>台風<rt>たいふう</rt></ruby>32<ruby>号<rt>ごう</rt></ruby>が<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年に32個の台風が発生するのは、1994年以来、32年ぶりです。",
+      "zh": "一年中生成32个台风，是自1994年以来时隔32年。",
+      "en": "It is the first time in 32 years, since 1994, that 32 typhoons have formed in one year.",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>に32<ruby>個<rt>こ</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>するのは、1994<ruby>年<rt>ねん</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、32<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の世紀に入ってからは、初めてのことです。",
+      "zh": "这是进入本世纪以来的第一次。",
+      "en": "It is the first time this century.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>世紀<rt>せいき</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>てからは、<ruby>初めて<rt>はじめて</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁の統計によりますと、台風は平年、1年におよそ25個発生します。",
+      "zh": "据气象厅统计，台风在常年一年大约生成25个。",
+      "en": "According to Japan Meteorological Agency statistics, about 25 typhoons form in an average year.",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>の<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>によりますと、<ruby>台風<rt>たいふう</rt></ruby>は<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"an average year\"><ruby>平年<rt>へいねん</rt></ruby></span>、1<ruby>年<rt>ねん</rt></ruby>におよそ25<ruby>個<rt>こ</rt></ruby><span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、10月の終わりの時点で、すでに平年より9個多くなっていました。",
+      "zh": "今年截至10月底，台风数已经比常年多了9个。",
+      "en": "By the end of October this year, there were already nine more than average.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、すでに<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"an average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より9<ruby>個<rt>こ</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、今年は1月から11月まで、毎月台風が発生しました。",
+      "zh": "另外，今年从1月到11月，每个月都有台风生成。",
+      "en": "Also, this year a typhoon formed every month from January to November.",
+      "ruby": "また、<ruby>今年<rt>ことし</rt></ruby>は1<ruby>月<rt>がつ</rt></ruby>から11<ruby>月<rt>がつ</rt></ruby>まで、<ruby>毎月<rt>まいつき</rt></ruby><ruby>台風<rt>たいふう</rt></ruby>が<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1951年に統計を取り始めてから、1965年と2015年に続いて、3回目です。",
+      "zh": "这是自1951年开始统计以来，继1965年和2015年之后的第3次。",
+      "en": "Since records began in 1951, this is only the third time, after 1965 and 2015.",
+      "ruby": "1951<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、1965<ruby>年<rt>ねん</rt></ruby>と2015<ruby>年<rt>ねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て、3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年で台風が最も多かったのは1967年で、39個でした。",
+      "zh": "一年中台风最多的是1967年，共39个。",
+      "en": "The year with the most typhoons was 1967, with 39.",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>で<ruby>台風<rt>たいふう</rt></ruby>が<ruby>最も<rt>もっとも</rt></ruby><ruby>多か<rt>おおか</rt></ruby>ったのは1967<ruby>年<rt>ねん</rt></ruby>で、39<ruby>個<rt>こ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風32号は、7日の夜、小笠原諸島の近くの海を、時速25キロで西北西に進んでいました。",
+      "tts": "台風32号は、なのかの夜、小笠原諸島の近くの海を、時速25キロで西北西に進んでいました。",
+      "zh": "7日夜，第32号台风正在小笠原群岛附近海域以每小时25公里的速度向西北偏西方向移动。",
+      "en": "On the night of the 7th, Typhoon No. 32 was moving west-northwest at 25 kilometers per hour in waters near the Ogasawara Islands.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>32<ruby>号<rt>ごう</rt></ruby>は、<ruby>7日<rt>なのか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を、<ruby>時速<rt>じそく</rt></ruby>25キロで<ruby>西北西<rt>せいほくせい</rt></ruby>に<ruby>進ん<rt>すすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中心の気圧は1000ヘクトパスカル、中心付近の最大風速は20メートル、最大瞬間風速は30メートルです。",
+      "zh": "中心气压为1000百帕，中心附近最大风速为每秒20米，最大瞬时风速为每秒30米。",
+      "en": "Its central pressure was 1,000 hectopascals, with maximum sustained winds of 20 meters per second near the center and gusts up to 30 meters per second.",
+      "ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>の<ruby>気圧<rt>きあつ</rt></ruby>は1000ヘクトパスカル、<ruby>中心付近<rt>ちゅうしんふきん</rt></ruby>の<ruby>最大<rt>さいだい</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は20メートル、<ruby>最大<rt>さいだい</rt></ruby><ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は30メートルです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、これから強い勢力に発達する見込みです。",
+      "zh": "预计台风今后将发展为“强”级别。",
+      "en": "The typhoon is expected to develop into a strong typhoon.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、これから<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"勢力\" data-reading=\"せいりょく\" data-en=\"strength (of a storm)\"><ruby>勢力<rt>せいりょく</rt></ruby></span>に<span class=\"vw\" data-ja=\"発達\" data-reading=\"はったつ\" data-en=\"development, to develop\"><ruby>発達<rt>はったつ</rt></ruby></span>する<ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "9日ごろに東へ向きを変え、10日から11日ごろにかけて、小笠原諸島に近づくおそれがあります。",
+      "tts": "ここのかごろに東へ向きを変え、とおかから、じゅういちにちごろにかけて、小笠原諸島に近づくおそれがあります。",
+      "zh": "台风预计在9日前后转向东方，10日至11日前后可能接近小笠原群岛。",
+      "en": "It is expected to turn east around the 9th and may approach the Ogasawara Islands around the 10th to 11th.",
+      "ruby": "<ruby>9日<rt>ここのか</rt></ruby>ごろに<ruby>東<rt>ひがし</rt></ruby>へ<ruby>向き<rt>むき</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>、<ruby>10日<rt>とおか</rt></ruby>から<ruby>11日<rt>じゅういちにち</rt></ruby>ごろにかけて、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>くおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "小笠原諸島が5日以内に暴風域に入る確率は、91%と予想されています。",
+      "zh": "预计小笠原群岛在5天内进入暴风圈的概率为91%。",
+      "en": "The chance that the Ogasawara Islands will be within the storm's gale zone within five days is forecast at 91%.",
+      "ruby": "<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>が<ruby>5日<rt>いつか</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<span class=\"vw\" data-ja=\"暴風域\" data-reading=\"ぼうふういき\" data-en=\"storm zone (winds of 25 m/s or more)\"><ruby>暴風<rt>ぼうふう</rt></ruby><ruby>域<rt>いき</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability, chance\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、91%と<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "小笠原諸島では、荒れた天気になるおそれがあり、今後の台風の情報に注意が必要です。",
+      "zh": "小笠原群岛可能会出现恶劣天气，需要留意今后的台风信息。",
+      "en": "Rough weather is possible in the Ogasawara Islands, and people should watch for further typhoon information.",
+      "ruby": "<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>では、<ruby>荒れ<rt>あれ</rt></ruby>た<ruby>天気<rt>てんき</rt></ruby>になるおそれがあり、<ruby>今後<rt>こんご</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "台風32号と聞いて、「そんなに多いの」と思った人もいるかもしれません。",
+      "zh": "听到“第32号台风”，也许有人会想“有这么多吗”。",
+      "en": "Hearing \"Typhoon No. 32,\" some of you may have thought, \"That many?\"",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>32<ruby>号<rt>ごう</rt></ruby>と<ruby>聞い<rt>きい</rt></ruby>て、「そんなに<ruby>多い<rt>おおい</rt></ruby>の」と<ruby>思った<rt>おもった</rt></ruby><ruby>人<rt>ひと</rt></ruby>もいるかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "台風は、その年に生まれた順に番号がつきます。32号は、今年32番目の台風ということです。",
+      "zh": "台风按当年生成的顺序编号。第32号就是今年第32个台风。",
+      "en": "Typhoons are numbered in the order they form each year. No. 32 means the 32nd typhoon this year.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、その<ruby>年<rt>とし</rt></ruby>に<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>順に<rt>じゅんに</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>がつきます。32<ruby>号<rt>ごう</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>32<ruby>番目<rt>ばんめ</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>ということです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "普通の年は25個くらいですから、今年はかなり多いですね。",
+      "zh": "普通年份大约25个，所以今年相当多。",
+      "en": "An average year has about 25, so this year has a lot.",
+      "ruby": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>年<rt>とし</rt></ruby>は25<ruby>個<rt>こ</rt></ruby>くらいですから、<ruby>今年<rt>ことし</rt></ruby>はかなり<ruby>多い<rt>おおい</rt></ruby>ですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "10月の終わりには、もう平年より9個も多かったんです。",
+      "zh": "到10月底，就已经比常年多了9个。",
+      "en": "By the end of October, there were already nine more than average.",
+      "ruby": "10<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>には、もう<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"an average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より9<ruby>個<rt>こ</rt></ruby>も<ruby>多か<rt>おおか</rt></ruby>ったんです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それに、今年は1月から11月まで、毎月台風が生まれました。これも、とても珍しいことです。",
+      "zh": "而且，今年从1月到11月每个月都有台风生成。这也非常罕见。",
+      "en": "And this year a typhoon formed every month from January to November. That is very rare, too.",
+      "ruby": "それに、<ruby>今年<rt>ことし</rt></ruby>は1<ruby>月<rt>がつ</rt></ruby>から11<ruby>月<rt>がつ</rt></ruby>まで、<ruby>毎月<rt>まいつき</rt></ruby><ruby>台風<rt>たいふう</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>ました。これも、とても<ruby>珍しい<rt>めずらしい</rt></ruby>ことです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "ちなみに、一番多かったのは1967年の39個です。上には上がありますね。",
+      "zh": "顺便一提，最多的是1967年，有39个。真是人外有人、天外有天啊。",
+      "en": "By the way, the record is 39, in 1967. There's always a bigger number.",
+      "ruby": "ちなみに、<ruby>一番<rt>いちばん</rt></ruby><ruby>多か<rt>おおか</rt></ruby>ったのは1967<ruby>年<rt>ねん</rt></ruby>の39<ruby>個<rt>こ</rt></ruby>です。<ruby>上<rt>うえ</rt></ruby>には<ruby>上<rt>うえ</rt></ruby>がありますね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "台風というと、夏や秋のものというイメージがあるかもしれません。",
+      "zh": "说到台风，大家可能会觉得是夏天或秋天的事。",
+      "en": "You may think of typhoons as a summer or autumn thing.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>というと、<ruby>夏<rt>なつ</rt></ruby>や<ruby>秋<rt>あき</rt></ruby>のものというイメージがあるかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "でも、7日は「立冬」。暦の上では、冬が始まる日でした。その日に、台風が生まれたわけです。",
+      "tts": "でも、なのかは「立冬」。暦の上では、冬が始まる日でした。その日に、台風が生まれたわけです。",
+      "zh": "但是，7日是“立冬”，按历法是冬天开始的日子。台风就是在这一天生成的。",
+      "en": "But the 7th was the first day of winter on the old calendar. A typhoon formed on that very day.",
+      "ruby": "でも、<ruby>7日<rt>なのか</rt></ruby>は「<ruby>立冬<rt>りっとう</rt></ruby>」。<span class=\"vw\" data-ja=\"暦\" data-reading=\"こよみ\" data-en=\"calendar\"><ruby>暦<rt>こよみ</rt></ruby></span>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>冬<rt>ふゆ</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>る<ruby>日<rt>ひ</rt></ruby>でした。その<ruby>日<rt>ひ</rt></ruby>に、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たわけです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "今回、特に気をつけたいのは、小笠原諸島です。",
+      "zh": "这次特别需要注意的是小笠原群岛。",
+      "en": "This time, the Ogasawara Islands need to be especially careful.",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>、<ruby>特に<rt>とくに</rt></ruby><ruby>気を<rt>きを</rt></ruby>つけたいのは、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "この台風には、「チャンパカ」という名前もついています。",
+      "zh": "这个台风还有一个名字，叫“占芭卡”。",
+      "en": "This typhoon also has a name: Champaka.",
+      "ruby": "この<ruby>台風<rt>たいふう</rt></ruby>には、「チャンパカ」という<ruby>名前<rt>なまえ</rt></ruby>もついています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "小笠原諸島は、東京から南へ遠く離れた、東京都の島々です。",
+      "zh": "小笠原群岛是远离东京、位于南方的东京都所属岛屿。",
+      "en": "The Ogasawara Islands are islands of Tokyo, far to the south of the city.",
+      "ruby": "<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>へ<ruby>遠く<rt>とおく</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>た、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>島々<rt>しまじま</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "台風は、強い勢力になって、10日から11日ごろに近づくおそれがあります。",
+      "tts": "台風は、強い勢力になって、とおかから、じゅういちにちごろに近づくおそれがあります。",
+      "zh": "台风可能会增强为“强”级别，在10日至11日前后接近。",
+      "en": "The typhoon may grow strong and approach around the 10th to 11th.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"勢力\" data-reading=\"せいりょく\" data-en=\"strength (of a storm)\"><ruby>勢力<rt>せいりょく</rt></ruby></span>になって、<ruby>10日<rt>とおか</rt></ruby>から<ruby>11日<rt>じゅういちにち</rt></ruby>ごろに<ruby>近づ<rt>ちかづ</rt></ruby>くおそれがあります。"
+    },
+    {
+      "speaker": "guide",
+      "text": "暴風域に入る確率は、91%。かなり高い数字ですね。",
+      "zh": "进入暴风圈的概率是91%，这个数字相当高。",
+      "en": "The chance of being in the gale zone is 91%. That is quite high.",
+      "ruby": "<span class=\"vw\" data-ja=\"暴風域\" data-reading=\"ぼうふういき\" data-en=\"storm zone (winds of 25 m/s or more)\"><ruby>暴風<rt>ぼうふう</rt></ruby><ruby>域<rt>いき</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability, chance\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、91%。かなり<ruby>高い<rt>たかい</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>ですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "小笠原諸島に住んでいる人や、旅行の予定がある人は、早めに準備をしておくと安心です。",
+      "zh": "住在小笠原群岛或打算去旅行的人，提早做好准备会更安心。",
+      "en": "If you live in the Ogasawara Islands or plan to travel there, preparing early will give you peace of mind.",
+      "ruby": "<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>人<rt>ひと</rt></ruby>や、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>は、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>準備<rt>じゅんび</rt></ruby>をしておくと<ruby>安心<rt>あんしん</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "一方で、この台風は日本の南の海で、東へ向きを変える見込みです。",
+      "zh": "另一方面，预计这个台风会在日本南方海上转向东方。",
+      "en": "On the other hand, this typhoon is expected to turn east over the sea south of Japan.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、この<ruby>台風<rt>たいふう</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で、<ruby>東<rt>ひがし</rt></ruby>へ<ruby>向き<rt>むき</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>る<ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "ただ、台風の進み方は変わることもあります。天気予報を、こまめに確かめておきたいですね。",
+      "zh": "不过，台风的路径也可能改变。最好勤看天气预报。",
+      "en": "But a typhoon's path can change. It's a good idea to check the forecast often.",
+      "ruby": "ただ、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>進み方<rt>すすみかた</rt></ruby>は<ruby>変わ<rt>かわ</rt></ruby>ることもあります。<ruby>天気予報<rt>てんきよほう</rt></ruby>を、こまめに<ruby>確か<rt>たしか</rt></ruby>めておきたいですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻。这次应该比刚才听得更明白。",
+      "en": "Now let's listen to the news once more. You should understand it better this time.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "7日、太平洋のマリアナ諸島で、台風32号が発生しました。",
+      "tts": "なのか、太平洋のマリアナ諸島で、台風32号が発生しました。",
+      "zh": "7日，第32号台风在太平洋的马里亚纳群岛附近生成。",
+      "en": "On the 7th, Typhoon No. 32 formed near the Mariana Islands in the Pacific.",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>、<ruby>太平洋<rt>たいへいよう</rt></ruby>のマリアナ<ruby>諸島<rt>しょとう</rt></ruby>で、<ruby>台風<rt>たいふう</rt></ruby>32<ruby>号<rt>ごう</rt></ruby>が<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年に32個の台風が発生するのは、1994年以来、32年ぶりです。",
+      "zh": "一年中生成32个台风，是自1994年以来时隔32年。",
+      "en": "It is the first time in 32 years, since 1994, that 32 typhoons have formed in one year.",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>に32<ruby>個<rt>こ</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>するのは、1994<ruby>年<rt>ねん</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、32<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の世紀に入ってからは、初めてのことです。",
+      "zh": "这是进入本世纪以来的第一次。",
+      "en": "It is the first time this century.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>世紀<rt>せいき</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>てからは、<ruby>初めて<rt>はじめて</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁の統計によりますと、台風は平年、1年におよそ25個発生します。",
+      "zh": "据气象厅统计，台风在常年一年大约生成25个。",
+      "en": "According to Japan Meteorological Agency statistics, about 25 typhoons form in an average year.",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>の<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>によりますと、<ruby>台風<rt>たいふう</rt></ruby>は<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"an average year\"><ruby>平年<rt>へいねん</rt></ruby></span>、1<ruby>年<rt>ねん</rt></ruby>におよそ25<ruby>個<rt>こ</rt></ruby><span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、10月の終わりの時点で、すでに平年より9個多くなっていました。",
+      "zh": "今年截至10月底，台风数已经比常年多了9个。",
+      "en": "By the end of October this year, there were already nine more than average.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>の<ruby>時点で<rt>じてんで</rt></ruby>、すでに<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"an average year\"><ruby>平年<rt>へいねん</rt></ruby></span>より9<ruby>個<rt>こ</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、今年は1月から11月まで、毎月台風が発生しました。",
+      "zh": "另外，今年从1月到11月，每个月都有台风生成。",
+      "en": "Also, this year a typhoon formed every month from January to November.",
+      "ruby": "また、<ruby>今年<rt>ことし</rt></ruby>は1<ruby>月<rt>がつ</rt></ruby>から11<ruby>月<rt>がつ</rt></ruby>まで、<ruby>毎月<rt>まいつき</rt></ruby><ruby>台風<rt>たいふう</rt></ruby>が<span class=\"vw\" data-ja=\"発生\" data-reading=\"はっせい\" data-en=\"occurrence, to form\"><ruby>発生<rt>はっせい</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1951年に統計を取り始めてから、1965年と2015年に続いて、3回目です。",
+      "zh": "这是自1951年开始统计以来，继1965年和2015年之后的第3次。",
+      "en": "Since records began in 1951, this is only the third time, after 1965 and 2015.",
+      "ruby": "1951<ruby>年<rt>ねん</rt></ruby>に<span class=\"vw\" data-ja=\"統計\" data-reading=\"とうけい\" data-en=\"statistics\"><ruby>統計<rt>とうけい</rt></ruby></span>を<ruby>取り<rt>とり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>てから、1965<ruby>年<rt>ねん</rt></ruby>と2015<ruby>年<rt>ねん</rt></ruby>に<ruby>続い<rt>つづい</rt></ruby>て、3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年で台風が最も多かったのは1967年で、39個でした。",
+      "zh": "一年中台风最多的是1967年，共39个。",
+      "en": "The year with the most typhoons was 1967, with 39.",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>で<ruby>台風<rt>たいふう</rt></ruby>が<ruby>最も<rt>もっとも</rt></ruby><ruby>多か<rt>おおか</rt></ruby>ったのは1967<ruby>年<rt>ねん</rt></ruby>で、39<ruby>個<rt>こ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風32号は、7日の夜、小笠原諸島の近くの海を、時速25キロで西北西に進んでいました。",
+      "tts": "台風32号は、なのかの夜、小笠原諸島の近くの海を、時速25キロで西北西に進んでいました。",
+      "zh": "7日夜，第32号台风正在小笠原群岛附近海域以每小时25公里的速度向西北偏西方向移动。",
+      "en": "On the night of the 7th, Typhoon No. 32 was moving west-northwest at 25 kilometers per hour in waters near the Ogasawara Islands.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>32<ruby>号<rt>ごう</rt></ruby>は、<ruby>7日<rt>なのか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を、<ruby>時速<rt>じそく</rt></ruby>25キロで<ruby>西北西<rt>せいほくせい</rt></ruby>に<ruby>進ん<rt>すすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "中心の気圧は1000ヘクトパスカル、中心付近の最大風速は20メートル、最大瞬間風速は30メートルです。",
+      "zh": "中心气压为1000百帕，中心附近最大风速为每秒20米，最大瞬时风速为每秒30米。",
+      "en": "Its central pressure was 1,000 hectopascals, with maximum sustained winds of 20 meters per second near the center and gusts up to 30 meters per second.",
+      "ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>の<ruby>気圧<rt>きあつ</rt></ruby>は1000ヘクトパスカル、<ruby>中心付近<rt>ちゅうしんふきん</rt></ruby>の<ruby>最大<rt>さいだい</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は20メートル、<ruby>最大<rt>さいだい</rt></ruby><ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>風速<rt>ふうそく</rt></ruby>は30メートルです。"
+    },
+    {
+      "speaker": "news",
+      "text": "台風は、これから強い勢力に発達する見込みです。",
+      "zh": "预计台风今后将发展为“强”级别。",
+      "en": "The typhoon is expected to develop into a strong typhoon.",
+      "ruby": "<ruby>台風<rt>たいふう</rt></ruby>は、これから<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"勢力\" data-reading=\"せいりょく\" data-en=\"strength (of a storm)\"><ruby>勢力<rt>せいりょく</rt></ruby></span>に<span class=\"vw\" data-ja=\"発達\" data-reading=\"はったつ\" data-en=\"development, to develop\"><ruby>発達<rt>はったつ</rt></ruby></span>する<ruby>見込み<rt>みこみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "9日ごろに東へ向きを変え、10日から11日ごろにかけて、小笠原諸島に近づくおそれがあります。",
+      "tts": "ここのかごろに東へ向きを変え、とおかから、じゅういちにちごろにかけて、小笠原諸島に近づくおそれがあります。",
+      "zh": "台风预计在9日前后转向东方，10日至11日前后可能接近小笠原群岛。",
+      "en": "It is expected to turn east around the 9th and may approach the Ogasawara Islands around the 10th to 11th.",
+      "ruby": "<ruby>9日<rt>ここのか</rt></ruby>ごろに<ruby>東<rt>ひがし</rt></ruby>へ<ruby>向き<rt>むき</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>、<ruby>10日<rt>とおか</rt></ruby>から<ruby>11日<rt>じゅういちにち</rt></ruby>ごろにかけて、<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>くおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "小笠原諸島が5日以内に暴風域に入る確率は、91%と予想されています。",
+      "zh": "预计小笠原群岛在5天内进入暴风圈的概率为91%。",
+      "en": "The chance that the Ogasawara Islands will be within the storm's gale zone within five days is forecast at 91%.",
+      "ruby": "<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>が<ruby>5日<rt>いつか</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<span class=\"vw\" data-ja=\"暴風域\" data-reading=\"ぼうふういき\" data-en=\"storm zone (winds of 25 m/s or more)\"><ruby>暴風<rt>ぼうふう</rt></ruby><ruby>域<rt>いき</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby><span class=\"vw\" data-ja=\"確率\" data-reading=\"かくりつ\" data-en=\"probability, chance\"><ruby>確率<rt>かくりつ</rt></ruby></span>は、91%と<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "小笠原諸島では、荒れた天気になるおそれがあり、今後の台風の情報に注意が必要です。",
+      "zh": "小笠原群岛可能会出现恶劣天气，需要留意今后的台风信息。",
+      "en": "Rough weather is possible in the Ogasawara Islands, and people should watch for further typhoon information.",
+      "ruby": "<ruby>小笠原<rt>おがさわら</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>では、<ruby>荒れ<rt>あれ</rt></ruby>た<ruby>天気<rt>てんき</rt></ruby>になるおそれがあり、<ruby>今後<rt>こんご</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんの住んでいる所では、今年、台風の影響はありましたか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "你住的地方今年受到台风影响了吗？感谢收听，我们明天见。",
+      "en": "Where you live, were you affected by typhoons this year? Thanks for listening. See you tomorrow.",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>所<rt>ところ</rt></ruby>では、<ruby>今年<rt>ことし</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>はありましたか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
