@@ -1,0 +1,488 @@
+{
+  "episode": 273,
+  "title": "海の底の「ゴジラ」、世界の地質遺産に",
+  "titleZh": "海底“哥斯拉”地形入选世界地质遗产",
+  "titleEn": "Undersea \"Godzilla\" landform named a world geological heritage site",
+  "date": "2026-11-09",
+  "source": "時事通信 / 日本経済新聞 / 読売新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026110901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "底",
+      "reading": "そこ",
+      "en": "bottom",
+      "zh": "底，底部"
+    },
+    {
+      "ja": "見つける",
+      "reading": "みつける",
+      "en": "to find, to discover",
+      "zh": "找到，发现"
+    },
+    {
+      "ja": "幅",
+      "reading": "はば",
+      "en": "width",
+      "zh": "宽度"
+    },
+    {
+      "ja": "倍",
+      "reading": "ばい",
+      "en": "times (as in three times), double",
+      "zh": "倍"
+    },
+    {
+      "ja": "つける",
+      "reading": "つける",
+      "en": "to attach; (名前を〜) to give a name",
+      "zh": "附上；（名前を〜）起名字"
+    },
+    {
+      "ja": "選ぶ",
+      "reading": "えらぶ",
+      "en": "to choose, to select",
+      "zh": "选择，挑选"
+    },
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜という",
+      "meaning": "called ~, named ~",
+      "meaningZh": "叫做……的，名为……的",
+      "formation": "Noun + という + Noun",
+      "example": "太平洋の深い海の底に、「ゴジラ」という名前の地形があります。",
+      "translation": "Deep at the bottom of the Pacific Ocean, there is a landform named \"Godzilla.\"",
+      "note": "Used to give the name of something the listener may not know.",
+      "noteZh": "用于说明听话人可能不知道的事物的名称。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~, so ~",
+      "meaningZh": "因为……所以……",
+      "formation": "Plain form + ので (な-adj / noun + なので)",
+      "example": "とても大きいので、怪獣の「ゴジラ」から名前をつけました。",
+      "translation": "Because it is so big, it was named after the monster Godzilla.",
+      "note": "Gives a reason in a soft, objective way.",
+      "noteZh": "以较客观、委婉的语气说明原因。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜られる（受身）",
+      "meaning": "passive: is / was done",
+      "meaningZh": "被动：被……",
+      "formation": "Group 1: 選ぶ → 選ばれる; Group 2: 見る → 見られる",
+      "example": "今月、この地形が、世界の「地質遺産100選」に選ばれました。",
+      "translation": "This month, the landform was chosen as one of the world's \"100 Geological Heritage Sites.\"",
+      "note": "The subject receives the action. Common in news.",
+      "noteZh": "主语是动作的承受者，新闻中很常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~, for ~",
+      "meaningZh": "为了……",
+      "formation": "Verb dictionary form + ために / Noun + のために",
+      "example": "地質遺産は、地球の歴史を知るために、大切な場所です。",
+      "translation": "Geological heritage sites are important places for learning about the history of the Earth.",
+      "note": "Shows a purpose.",
+      "noteZh": "表示目的。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "太平洋の深い海の底に、「ゴジラ」という名前の地形があります。\n在太平洋深深的海底，有一处名叫“哥斯拉”的地形。\n底 = bottom",
+    "海上保安庁が、2001年に、沖ノ鳥島の南東の海で、この地形を見つけました。\n日本海上保安厅于2001年在冲之鸟岛东南方的海域发现了这处地形。\n見つける = to find, to discover",
+    "この地形は、長さがおよそ125キロ、幅がおよそ55キロあります。\n这处地形长约125公里，宽约55公里。\n幅 = width",
+    "東京都の3倍ぐらいの大きさで、同じ形の地形の中で、世界でいちばん大きいです。\n它的面积约为东京都的3倍，是世界上同类地形中最大的。\n倍 = times (as in three times), double",
+    "とても大きいので、怪獣の「ゴジラ」から名前をつけました。\n因为它非常大，所以用怪兽“哥斯拉”来命名。\nつける = to attach; (名前を〜) to give a name",
+    "地形の中の山などにも、ゴジラの「腕」や「足」、「背骨」という名前がついています。\n地形中的山等处也分别被命名为哥斯拉的“手臂”“腿”和“脊梁骨”。",
+    "今月、この地形が、世界の「地質遺産100選」に選ばれました。\n本月，这处地形入选了世界“地质遗产100选”。\n選ぶ = to choose, to select",
+    "地質遺産は、地球の歴史を知るために、大切な場所です。\n地质遗产是了解地球历史的重要地点。\n歴史 = history",
+    "海の中の場所が選ばれたのは、今回が初めてです。\n这是第一次有海洋中的地点入选。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November ninth: a giant landform deep under the sea, named after Godzilla, has joined a world list of special places. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "太平洋の深い海の底に、「ゴジラ」という名前の地形があります。",
+      "zh": "在太平洋深深的海底，有一处名叫“哥斯拉”的地形。",
+      "en": "Deep at the bottom of the Pacific Ocean, there is a landform named \"Godzilla.\"",
+      "ruby": "<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>深い<rt>ふかい</rt></ruby><ruby>海<rt>うみ</rt></ruby>の<span class=\"vw\" data-ja=\"底\" data-reading=\"そこ\" data-en=\"bottom\"><ruby>底<rt>そこ</rt></ruby></span>に、「ゴジラ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>地形<rt>ちけい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "海上保安庁が、2001年に、沖ノ鳥島の南東の海で、この地形を見つけました。",
+      "zh": "日本海上保安厅于2001年在冲之鸟岛东南方的海域发现了这处地形。",
+      "en": "The Japan Coast Guard found this landform in 2001, in the sea southeast of Okinotorishima.",
+      "tts": "かいじょうほあんちょうが、にせんいちねんに、おきのとりしまのなんとうのうみで、このちけいをみつけました。",
+      "ruby": "<ruby>海上保安庁<rt>かいじょうほあんちょう</rt></ruby>が、2001<ruby>年<rt>ねん</rt></ruby>に、<ruby>沖<rt>おき</rt></ruby>ノ<ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>の<ruby>南東<rt>なんとう</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で、この<ruby>地形<rt>ちけい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地形は、長さがおよそ125キロ、幅がおよそ55キロあります。",
+      "zh": "这处地形长约125公里，宽约55公里。",
+      "en": "The landform is about 125 kilometers long and about 55 kilometers wide.",
+      "tts": "このちけいは、ながさがおよそひゃくにじゅうごキロ、はばがおよそごじゅうごキロあります。",
+      "ruby": "この<ruby>地形<rt>ちけい</rt></ruby>は、<ruby>長さ<rt>ながさ</rt></ruby>がおよそ125キロ、<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width\"><ruby>幅<rt>はば</rt></ruby></span>がおよそ55キロあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京都の3倍ぐらいの大きさで、同じ形の地形の中で、世界でいちばん大きいです。",
+      "zh": "它的面积约为东京都的3倍，是世界上同类地形中最大的。",
+      "en": "It is about 3 times the size of Tokyo, and the largest landform of its kind in the world.",
+      "tts": "とうきょうとのさんばいぐらいのおおきさで、おなじかたちのちけいのなかで、せかいでいちばんおおきいです。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の3<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (as in three times), double\"><ruby>倍<rt>ばい</rt></ruby></span>ぐらいの<ruby>大きさ<rt>おおきさ</rt></ruby>で、<ruby>同じ<rt>おなじ</rt></ruby><ruby>形<rt>かたち</rt></ruby>の<ruby>地形<rt>ちけい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>大きい<rt>おおきい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "とても大きいので、怪獣の「ゴジラ」から名前をつけました。",
+      "zh": "因为它非常大，所以用怪兽“哥斯拉”来命名。",
+      "en": "Because it is so big, it was named after the monster Godzilla.",
+      "ruby": "とても<ruby>大きい<rt>おおきい</rt></ruby>ので、<ruby>怪獣<rt>かいじゅう</rt></ruby>の「ゴジラ」から<ruby>名前<rt>なまえ</rt></ruby>をつけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地形の中の山などにも、ゴジラの「腕」や「足」、「背骨」という名前がついています。",
+      "zh": "地形中的山等处也分别被命名为哥斯拉的“手臂”“腿”和“脊梁骨”。",
+      "en": "Parts of it, such as its mountains, are also named Godzilla's \"arms,\" \"legs\" and \"spine.\"",
+      "ruby": "<ruby>地形<rt>ちけい</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>山<rt>やま</rt></ruby>などにも、ゴジラの「<ruby>腕<rt>うで</rt></ruby>」や「<ruby>足<rt>あし</rt></ruby>」、「<ruby>背骨<rt>せぼね</rt></ruby>」という<ruby>名前<rt>なまえ</rt></ruby>がついています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月、この地形が、世界の「地質遺産100選」に選ばれました。",
+      "zh": "本月，这处地形入选了世界“地质遗产100选”。",
+      "en": "This month, the landform was chosen as one of the world's \"100 Geological Heritage Sites.\"",
+      "tts": "こんげつ、このちけいが、せかいの「ちしついさんひゃくせん」にえらばれました。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>、この<ruby>地形<rt>ちけい</rt></ruby>が、<ruby>世界<rt>せかい</rt></ruby>の「<ruby>地質<rt>ちしつ</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>100<ruby>選<rt>せん</rt></ruby>」に<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地質遺産は、地球の歴史を知るために、大切な場所です。",
+      "zh": "地质遗产是了解地球历史的重要地点。",
+      "en": "Geological heritage sites are important places for learning about the history of the Earth.",
+      "ruby": "<ruby>地質<rt>ちしつ</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>を<ruby>知る<rt>しる</rt></ruby>ために、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "海の中の場所が選ばれたのは、今回が初めてです。",
+      "zh": "这是第一次有海洋中的地点入选。",
+      "en": "This is the first time a place in the ocean has been chosen.",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>選ば<rt>えらば</rt></ruby>れたのは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "太平洋の深い海の底に、「ゴジラ」という名前の地形があります。",
+      "ruby": "<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>深い<rt>ふかい</rt></ruby><ruby>海<rt>うみ</rt></ruby>の<span class=\"vw\" data-ja=\"底\" data-reading=\"そこ\" data-en=\"bottom\"><ruby>底<rt>そこ</rt></ruby></span>に、「ゴジラ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>地形<rt>ちけい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Deep at the bottom of the Pacific Ocean, there is a landform named Godzilla."
+    },
+    {
+      "speaker": "vocab",
+      "text": "底",
+      "ruby": "<span class=\"vw\" data-ja=\"底\" data-reading=\"そこ\" data-en=\"bottom\"><ruby>底<rt>そこ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bottom. The bottom of the sea, the bottom of a cup."
+    },
+    {
+      "speaker": "slow",
+      "text": "海上保安庁が、2001年に、沖ノ鳥島の南東の海で、この地形を見つけました。",
+      "tts": "かいじょうほあんちょうが、にせんいちねんに、おきのとりしまのなんとうのうみで、このちけいをみつけました。",
+      "ruby": "<ruby>海上保安庁<rt>かいじょうほあんちょう</rt></ruby>が、2001<ruby>年<rt>ねん</rt></ruby>に、<ruby>沖<rt>おき</rt></ruby>ノ<ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>の<ruby>南東<rt>なんとう</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で、この<ruby>地形<rt>ちけい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The coast guard found it in two thousand and one, in the sea near a tiny Japanese island far to the south."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見つける",
+      "ruby": "<span class=\"vw\" data-ja=\"見つける\" data-reading=\"みつける\" data-en=\"to find, to discover\"><ruby>見つ<rt>みつ</rt></ruby>ける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to find, to discover."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地形は、長さがおよそ125キロ、幅がおよそ55キロあります。",
+      "tts": "このちけいは、ながさがおよそひゃくにじゅうごキロ、はばがおよそごじゅうごキロあります。",
+      "ruby": "この<ruby>地形<rt>ちけい</rt></ruby>は、<ruby>長さ<rt>ながさ</rt></ruby>がおよそ125キロ、<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width\"><ruby>幅<rt>はば</rt></ruby></span>がおよそ55キロあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is about one hundred twenty-five kilometers long and about fifty-five kilometers wide."
+    },
+    {
+      "speaker": "vocab",
+      "text": "幅",
+      "ruby": "<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width\"><ruby>幅<rt>はば</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means width. Long and wide, length and width."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京都の3倍ぐらいの大きさで、同じ形の地形の中で、世界でいちばん大きいです。",
+      "tts": "とうきょうとのさんばいぐらいのおおきさで、おなじかたちのちけいのなかで、せかいでいちばんおおきいです。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の3<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (as in three times), double\"><ruby>倍<rt>ばい</rt></ruby></span>ぐらいの<ruby>大きさ<rt>おおきさ</rt></ruby>で、<ruby>同じ<rt>おなじ</rt></ruby><ruby>形<rt>かたち</rt></ruby>の<ruby>地形<rt>ちけい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>大きい<rt>おおきい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is about three times the size of Tokyo, and the largest of its kind in the world."
+    },
+    {
+      "speaker": "vocab",
+      "text": "倍",
+      "ruby": "<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (as in three times), double\"><ruby>倍<rt>ばい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means times, as in three times bigger."
+    },
+    {
+      "speaker": "slow",
+      "text": "とても大きいので、怪獣の「ゴジラ」から名前をつけました。",
+      "ruby": "とても<ruby>大きい<rt>おおきい</rt></ruby>ので、<ruby>怪獣<rt>かいじゅう</rt></ruby>の「ゴジラ」から<ruby>名前<rt>なまえ</rt></ruby>をつけました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because it is so big, it was named after the monster Godzilla."
+    },
+    {
+      "speaker": "vocab",
+      "text": "つける",
+      "ruby": "<span class=\"vw\" data-ja=\"つける\" data-reading=\"つける\" data-en=\"to attach; (名前を〜) to give a name\">つける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to attach. With the word for name, it means to give a name."
+    },
+    {
+      "speaker": "slow",
+      "text": "地形の中の山などにも、ゴジラの「腕」や「足」、「背骨」という名前がついています。",
+      "ruby": "<ruby>地形<rt>ちけい</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>山<rt>やま</rt></ruby>などにも、ゴジラの「<ruby>腕<rt>うで</rt></ruby>」や「<ruby>足<rt>あし</rt></ruby>」、「<ruby>背骨<rt>せぼね</rt></ruby>」という<ruby>名前<rt>なまえ</rt></ruby>がついています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Parts of it, like its mountains, are named Godzilla's arms, legs and spine."
+    },
+    {
+      "speaker": "slow",
+      "text": "今月、この地形が、世界の「地質遺産100選」に選ばれました。",
+      "tts": "こんげつ、このちけいが、せかいの「ちしついさんひゃくせん」にえらばれました。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>、この<ruby>地形<rt>ちけい</rt></ruby>が、<ruby>世界<rt>せかい</rt></ruby>の「<ruby>地質<rt>ちしつ</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>100<ruby>選<rt>せん</rt></ruby>」に<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This month, it was chosen for a world list of one hundred geological heritage sites."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose, to select\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to choose. Here it is in the passive form: was chosen."
+    },
+    {
+      "speaker": "slow",
+      "text": "地質遺産は、地球の歴史を知るために、大切な場所です。",
+      "ruby": "<ruby>地質<rt>ちしつ</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>を<ruby>知る<rt>しる</rt></ruby>ために、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "These sites are important places for learning about the history of the Earth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history."
+    },
+    {
+      "speaker": "slow",
+      "text": "海の中の場所が選ばれたのは、今回が初めてです。",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>選ば<rt>えらば</rt></ruby>れたのは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the first time a place in the ocean has been chosen."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "太平洋の深い海の底に、「ゴジラ」という名前の地形があります。",
+      "zh": "在太平洋深深的海底，有一处名叫“哥斯拉”的地形。",
+      "en": "Deep at the bottom of the Pacific Ocean, there is a landform named \"Godzilla.\"",
+      "ruby": "<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>深い<rt>ふかい</rt></ruby><ruby>海<rt>うみ</rt></ruby>の<span class=\"vw\" data-ja=\"底\" data-reading=\"そこ\" data-en=\"bottom\"><ruby>底<rt>そこ</rt></ruby></span>に、「ゴジラ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>地形<rt>ちけい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "海上保安庁が、2001年に、沖ノ鳥島の南東の海で、この地形を見つけました。",
+      "zh": "日本海上保安厅于2001年在冲之鸟岛东南方的海域发现了这处地形。",
+      "en": "The Japan Coast Guard found this landform in 2001, in the sea southeast of Okinotorishima.",
+      "tts": "かいじょうほあんちょうが、にせんいちねんに、おきのとりしまのなんとうのうみで、このちけいをみつけました。",
+      "ruby": "<ruby>海上保安庁<rt>かいじょうほあんちょう</rt></ruby>が、2001<ruby>年<rt>ねん</rt></ruby>に、<ruby>沖<rt>おき</rt></ruby>ノ<ruby>鳥<rt>とり</rt></ruby><ruby>島<rt>しま</rt></ruby>の<ruby>南東<rt>なんとう</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で、この<ruby>地形<rt>ちけい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この地形は、長さがおよそ125キロ、幅がおよそ55キロあります。",
+      "zh": "这处地形长约125公里，宽约55公里。",
+      "en": "The landform is about 125 kilometers long and about 55 kilometers wide.",
+      "tts": "このちけいは、ながさがおよそひゃくにじゅうごキロ、はばがおよそごじゅうごキロあります。",
+      "ruby": "この<ruby>地形<rt>ちけい</rt></ruby>は、<ruby>長さ<rt>ながさ</rt></ruby>がおよそ125キロ、<span class=\"vw\" data-ja=\"幅\" data-reading=\"はば\" data-en=\"width\"><ruby>幅<rt>はば</rt></ruby></span>がおよそ55キロあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京都の3倍ぐらいの大きさで、同じ形の地形の中で、世界でいちばん大きいです。",
+      "zh": "它的面积约为东京都的3倍，是世界上同类地形中最大的。",
+      "en": "It is about 3 times the size of Tokyo, and the largest landform of its kind in the world.",
+      "tts": "とうきょうとのさんばいぐらいのおおきさで、おなじかたちのちけいのなかで、せかいでいちばんおおきいです。",
+      "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の3<span class=\"vw\" data-ja=\"倍\" data-reading=\"ばい\" data-en=\"times (as in three times), double\"><ruby>倍<rt>ばい</rt></ruby></span>ぐらいの<ruby>大きさ<rt>おおきさ</rt></ruby>で、<ruby>同じ<rt>おなじ</rt></ruby><ruby>形<rt>かたち</rt></ruby>の<ruby>地形<rt>ちけい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>大きい<rt>おおきい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "とても大きいので、怪獣の「ゴジラ」から名前をつけました。",
+      "zh": "因为它非常大，所以用怪兽“哥斯拉”来命名。",
+      "en": "Because it is so big, it was named after the monster Godzilla.",
+      "ruby": "とても<ruby>大きい<rt>おおきい</rt></ruby>ので、<ruby>怪獣<rt>かいじゅう</rt></ruby>の「ゴジラ」から<ruby>名前<rt>なまえ</rt></ruby>をつけました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地形の中の山などにも、ゴジラの「腕」や「足」、「背骨」という名前がついています。",
+      "zh": "地形中的山等处也分别被命名为哥斯拉的“手臂”“腿”和“脊梁骨”。",
+      "en": "Parts of it, such as its mountains, are also named Godzilla's \"arms,\" \"legs\" and \"spine.\"",
+      "ruby": "<ruby>地形<rt>ちけい</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>山<rt>やま</rt></ruby>などにも、ゴジラの「<ruby>腕<rt>うで</rt></ruby>」や「<ruby>足<rt>あし</rt></ruby>」、「<ruby>背骨<rt>せぼね</rt></ruby>」という<ruby>名前<rt>なまえ</rt></ruby>がついています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今月、この地形が、世界の「地質遺産100選」に選ばれました。",
+      "zh": "本月，这处地形入选了世界“地质遗产100选”。",
+      "en": "This month, the landform was chosen as one of the world's \"100 Geological Heritage Sites.\"",
+      "tts": "こんげつ、このちけいが、せかいの「ちしついさんひゃくせん」にえらばれました。",
+      "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>、この<ruby>地形<rt>ちけい</rt></ruby>が、<ruby>世界<rt>せかい</rt></ruby>の「<ruby>地質<rt>ちしつ</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>100<ruby>選<rt>せん</rt></ruby>」に<ruby>選ば<rt>えらば</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "地質遺産は、地球の歴史を知るために、大切な場所です。",
+      "zh": "地质遗产是了解地球历史的重要地点。",
+      "en": "Geological heritage sites are important places for learning about the history of the Earth.",
+      "ruby": "<ruby>地質<rt>ちしつ</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>を<ruby>知る<rt>しる</rt></ruby>ために、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "海の中の場所が選ばれたのは、今回が初めてです。",
+      "zh": "这是第一次有海洋中的地点入选。",
+      "en": "This is the first time a place in the ocean has been chosen.",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>選ば<rt>えらば</rt></ruby>れたのは、<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地形は、何から名前をつけましたか。",
+      "ruby": "この<ruby>地形<rt>ちけい</rt></ruby>は、<ruby>何か<rt>なにか</rt></ruby>ら<ruby>名前<rt>なまえ</rt></ruby>をつけましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the monster Godzilla."
+    },
+    {
+      "speaker": "slow",
+      "text": "この地形は、東京都の何倍ぐらいの大きさですか。",
+      "tts": "このちけいは、とうきょうとのなんばいぐらいのおおきさですか。",
+      "ruby": "この<ruby>地形<rt>ちけい</rt></ruby>は、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>何倍<rt>なんばい</rt></ruby>ぐらいの<ruby>大きさ<rt>おおきさ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three times."
+    },
+    {
+      "speaker": "slow",
+      "text": "海の中の場所が選ばれたのは、初めてですか。",
+      "ruby": "<ruby>海<rt>うみ</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>が<ruby>選ば<rt>えらば</rt></ruby>れたのは、<ruby>初めて<rt>はじめて</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Yes, it is the first time."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Next time you look at the sea, remember there may be a monster sleeping at the bottom. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
