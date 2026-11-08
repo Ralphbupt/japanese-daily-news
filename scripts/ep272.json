@@ -1,0 +1,670 @@
+{
+  "episode": 272,
+  "title": "北海道や東北で記録的な暴風、札幌で積雪10センチ",
+  "titleZh": "北海道和东北遭创纪录暴风，札幌积雪10厘米",
+  "titleEn": "Record winds hit northern Japan, Sapporo gets 10 cm of snow",
+  "date": "2026-11-08",
+  "source": "NHK / tenki.jp / ウェザーニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026110801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "大荒れ",
+      "reading": "おおあれ",
+      "en": "stormy, very rough weather",
+      "zh": "狂风暴雨，天气恶劣"
+    },
+    {
+      "ja": "発達",
+      "reading": "はったつ",
+      "en": "development; (of a storm) growing stronger",
+      "zh": "发展；（低气压等）增强"
+    },
+    {
+      "ja": "猛烈",
+      "reading": "もうれつ",
+      "en": "fierce, violent",
+      "zh": "猛烈，剧烈"
+    },
+    {
+      "ja": "積もる",
+      "reading": "つもる",
+      "en": "to pile up, to accumulate (snow, dust)",
+      "zh": "积，堆积"
+    },
+    {
+      "ja": "一気に",
+      "reading": "いっきに",
+      "en": "all at once, in one go",
+      "zh": "一下子，一口气"
+    },
+    {
+      "ja": "停電",
+      "reading": "ていでん",
+      "en": "power outage, blackout",
+      "zh": "停电"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "expectation, forecast",
+      "zh": "预计，预期"
+    },
+    {
+      "ja": "警戒",
+      "reading": "けいかい",
+      "en": "caution, vigilance, being on guard",
+      "zh": "警戒，戒备"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ためです",
+      "meaning": "it is because ~",
+      "meaningZh": "这是因为……",
+      "formation": "Plain form + ためです",
+      "example": "オホーツク海で低気圧が発達して、冷たい空気が南に下りてきたためです。",
+      "translation": "This is because a low-pressure system developed over the Sea of Okhotsk and cold air moved south.",
+      "note": "Gives the reason for something said just before. Formal; common in news.",
+      "noteZh": "说明前面所述事情的原因，书面、新闻中常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜を中心に",
+      "meaning": "mainly in ~, centering on ~",
+      "meaningZh": "以……为中心",
+      "formation": "Noun + を中心に",
+      "example": "北海道では、日本海側を中心に、たくさんの雪が降りました。",
+      "translation": "In Hokkaido, a lot of snow fell, mainly on the Sea of Japan side.",
+      "note": "Shows the main area or focus of something.",
+      "noteZh": "表示某事的主要范围或重点。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "doing things like ~ and ~",
+      "meaningZh": "又……又……；……啦……啦（列举）",
+      "formation": "Verb た-form + り, Verb た-form + り + する",
+      "example": "湿った重い雪が電線について、木が倒れたり、停電したりするおそれもあります。",
+      "translation": "Wet, heavy snow is sticking to power lines, and trees may fall or power may go out.",
+      "note": "Lists a few examples of actions or events.",
+      "noteZh": "列举几个有代表性的动作或事情。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "有……的危险/可能",
+      "formation": "Verb dictionary form / Noun + の + おそれがある",
+      "example": "湿った重い雪が電線について、木が倒れたり、停電したりするおそれもあります。",
+      "translation": "Wet, heavy snow is sticking to power lines, and trees may fall or power may go out.",
+      "note": "Used for bad things that might happen. Common in weather and disaster news.",
+      "noteZh": "用于可能发生的坏事，天气、灾害新闻中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜見込みです",
+      "meaning": "~ is expected",
+      "meaningZh": "预计……",
+      "formation": "Verb dictionary form / Noun + の + 見込みです",
+      "example": "強い風は、8日の朝まで続く見込みです。",
+      "translation": "The strong winds are expected to continue until the morning of the 8th.",
+      "note": "States what is expected to happen, based on a forecast.",
+      "noteZh": "根据预测说明预计会发生的事。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜よう呼びかける",
+      "meaning": "to urge (someone) to ~",
+      "meaningZh": "呼吁……",
+      "formation": "Verb dictionary / ない form + よう(に)呼びかける",
+      "example": "気象予報士は、車を運転する人に、冬用のタイヤに替えて、急ブレーキなどをしないよう呼びかけています。",
+      "translation": "Weather forecasters are urging drivers to switch to winter tires and avoid things like sudden braking.",
+      "note": "Reports a public call or appeal.",
+      "noteZh": "转述公开的呼吁。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "7日、北海道や東北では、とても強い風が吹いて、大荒れの天気になりました。\n7日，北海道和东北地区刮起了非常强的风，天气变得十分恶劣。\n大荒れ = stormy, very rough weather",
+    "オホーツク海で低気圧が発達して、冷たい空気が南に下りてきたためです。\n这是因为鄂霍次克海上的低气压增强，冷空气南下。\n発達 = development; (of a storm) growing stronger",
+    "北海道のえりも岬では、7日の夕方、1秒に45メートルという、猛烈な風が吹きました。\n7日傍晚，北海道襟裳岬刮起了每秒45米的猛烈大风。\n猛烈 = fierce, violent",
+    "秋田県のにかほ市でも、31メートルの風が吹きました。\n秋田县仁贺保市也刮起了31米的大风。",
+    "これは、にかほ市で、11月としては今までで一番強い記録です。\n这是仁贺保市11月有观测以来最强的纪录。",
+    "また、この日は、冬の始まりを表す「立冬」でした。\n另外，这一天正是表示冬天开始的“立冬”。",
+    "北海道では、日本海側を中心に、たくさんの雪が降りました。\n北海道以日本海一侧为中心下了大雪。",
+    "深川市では、朝の2時間で、雪が18センチも積もりました。\n深川市早上2小时内积雪就增加了18厘米。\n積もる = to pile up, to accumulate (snow, dust)",
+    "札幌市でも10センチの雪が積もって、町は一気に雪景色になりました。\n札幌市也积雪10厘米，城市一下子变成了一片雪景。\n一気に = all at once, in one go",
+    "札幌の気温は、午前10時に、マイナス0.3度でした。\n札幌上午10点的气温为零下0.3度。",
+    "湿った重い雪が電線について、木が倒れたり、停電したりするおそれもあります。\n湿重的雪附着在电线上，还可能导致树木倒下或停电。\n停電 = power outage, blackout",
+    "強い風は、8日の朝まで続く見込みです。\n强风预计将持续到8日早上。\n見込み = expectation, forecast",
+    "北海道や東北では、暴風や高い波に、十分な警戒が必要です。\n北海道和东北地区需要对暴风和巨浪保持充分警惕。\n警戒 = caution, vigilance, being on guard",
+    "気象予報士は、車を運転する人に、冬用のタイヤに替えて、急ブレーキなどをしないよう呼びかけています。\n气象预报员呼吁开车的人换上冬季轮胎，不要急刹车等。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November eighth: record winds and heavy snow hit northern Japan. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "7日、北海道や東北では、とても強い風が吹いて、大荒れの天気になりました。",
+      "zh": "7日，北海道和东北地区刮起了非常强的风，天气变得十分恶劣。",
+      "en": "On the 7th, very strong winds blew in Hokkaido and Tohoku, and the weather turned stormy.",
+      "tts": "なのか、ほっかいどうやとうほくでは、とてもつよいかぜがふいて、おおあれのてんきになりました。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>東北<rt>とうほく</rt></ruby>では、とても<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹い<rt>ふい</rt></ruby>て、<span class=\"vw\" data-ja=\"大荒れ\" data-reading=\"おおあれ\" data-en=\"stormy, very rough weather\"><ruby>大荒れ<rt>おおあれ</rt></ruby></span>の<ruby>天気<rt>てんき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "オホーツク海で低気圧が発達して、冷たい空気が南に下りてきたためです。",
+      "zh": "这是因为鄂霍次克海上的低气压增强，冷空气南下。",
+      "en": "This is because a low-pressure system developed over the Sea of Okhotsk and cold air moved south.",
+      "ruby": "オホーツク<ruby>海<rt>うみ</rt></ruby>で<ruby>低気圧<rt>ていきあつ</rt></ruby>が<span class=\"vw\" data-ja=\"発達\" data-reading=\"はったつ\" data-en=\"development; (of a storm) growing stronger\"><ruby>発達<rt>はったつ</rt></ruby></span>して、<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>南<rt>みなみ</rt></ruby>に<ruby>下り<rt>おり</rt></ruby>てきたためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道のえりも岬では、7日の夕方、1秒に45メートルという、猛烈な風が吹きました。",
+      "zh": "7日傍晚，北海道襟裳岬刮起了每秒45米的猛烈大风。",
+      "en": "At Cape Erimo in Hokkaido, a ferocious wind of 45 meters per second blew on the evening of the 7th.",
+      "tts": "ほっかいどうのえりもみさきでは、なのかのゆうがた、いちびょうによんじゅうごメートルという、もうれつなかぜがふきました。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>のえりも<ruby>岬<rt>みさき</rt></ruby>では、<ruby>7日<rt>なのか</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、1<ruby>秒<rt>びょう</rt></ruby>に45メートルという、<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce, violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>な<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋田県のにかほ市でも、31メートルの風が吹きました。",
+      "zh": "秋田县仁贺保市也刮起了31米的大风。",
+      "en": "In Nikaho City, Akita Prefecture, a 31-meter wind also blew.",
+      "tts": "あきたけんのにかほしでも、さんじゅういちメートルのかぜがふきました。",
+      "ruby": "<ruby>秋田県<rt>あきたけん</rt></ruby>のにかほ<ruby>市<rt>し</rt></ruby>でも、31メートルの<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、にかほ市で、11月としては今までで一番強い記録です。",
+      "zh": "这是仁贺保市11月有观测以来最强的纪录。",
+      "en": "This is the strongest ever recorded in Nikaho for November.",
+      "tts": "これは、にかほしで、じゅういちがつとしてはいままででいちばんつよいきろくです。",
+      "ruby": "これは、にかほ<ruby>市<rt>し</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby>としては<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>強い<rt>つよい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、この日は、冬の始まりを表す「立冬」でした。",
+      "zh": "另外，这一天正是表示冬天开始的“立冬”。",
+      "en": "That day was also Rittō, which marks the start of winter.",
+      "tts": "また、このひは、ふゆのはじまりをあらわす「りっとう」でした。",
+      "ruby": "また、この<ruby>日<rt>ひ</rt></ruby>は、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>始まり<rt>はじまり</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>「<ruby>立冬<rt>りっとう</rt></ruby>」でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道では、日本海側を中心に、たくさんの雪が降りました。",
+      "zh": "北海道以日本海一侧为中心下了大雪。",
+      "en": "In Hokkaido, a lot of snow fell, mainly on the Sea of Japan side.",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>では、<ruby>日本海側<rt>にほんかいがわ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、たくさんの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "深川市では、朝の2時間で、雪が18センチも積もりました。",
+      "zh": "深川市早上2小时内积雪就增加了18厘米。",
+      "en": "In Fukagawa City, as much as 18 centimeters of snow piled up in two hours in the morning.",
+      "tts": "ふかがわしでは、あさのにじかんで、ゆきがじゅうはっセンチもつもりました。",
+      "ruby": "<ruby>深川<rt>ふかがわ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<ruby>朝<rt>あさ</rt></ruby>の2<ruby>時間<rt>じかん</rt></ruby>で、<ruby>雪<rt>ゆき</rt></ruby>が18センチも<ruby>積も<rt>つも</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌市でも10センチの雪が積もって、町は一気に雪景色になりました。",
+      "zh": "札幌市也积雪10厘米，城市一下子变成了一片雪景。",
+      "en": "In Sapporo, 10 centimeters of snow piled up too, and the city turned into a snowy scene all at once.",
+      "tts": "さっぽろしでもじゅっセンチのゆきがつもって、まちはいっきにゆきげしきになりました。",
+      "ruby": "<ruby>札幌市<rt>さっぽろし</rt></ruby>でも10センチの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>積も<rt>つも</rt></ruby>って、<ruby>町<rt>まち</rt></ruby>は<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span><ruby>雪景色<rt>ゆきげしき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌の気温は、午前10時に、マイナス0.3度でした。",
+      "zh": "札幌上午10点的气温为零下0.3度。",
+      "en": "The temperature in Sapporo was minus 0.3 degrees at 10 a.m.",
+      "tts": "さっぽろのきおんは、ごぜんじゅうじに、マイナスれいてんさんどでした。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>に、マイナス0.3<ruby>度<rt>ど</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "湿った重い雪が電線について、木が倒れたり、停電したりするおそれもあります。",
+      "zh": "湿重的雪附着在电线上，还可能导致树木倒下或停电。",
+      "en": "Wet, heavy snow is sticking to power lines, and trees may fall or power may go out.",
+      "ruby": "<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>重い<rt>おもい</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>が<ruby>電線<rt>でんせん</rt></ruby>について、<ruby>木<rt>き</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>たり、<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage, blackout\"><ruby>停電<rt>ていでん</rt></ruby></span>したりするおそれもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い風は、8日の朝まで続く見込みです。",
+      "zh": "强风预计将持续到8日早上。",
+      "en": "The strong winds are expected to continue until the morning of the 8th.",
+      "tts": "つよいかぜは、ようかのあさまでつづくみこみです。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>は、<ruby>8日<rt>ようか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>まで<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道や東北では、暴風や高い波に、十分な警戒が必要です。",
+      "zh": "北海道和东北地区需要对暴风和巨浪保持充分警惕。",
+      "en": "In Hokkaido and Tohoku, people need to be fully on guard against storm winds and high waves.",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>東北<rt>とうほく</rt></ruby>では、<ruby>暴風<rt>ぼうふう</rt></ruby>や<ruby>高い<rt>たかい</rt></ruby><ruby>波<rt>なみ</rt></ruby>に、<ruby>十分<rt>じゅうぶん</rt></ruby>な<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution, vigilance, being on guard\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象予報士は、車を運転する人に、冬用のタイヤに替えて、急ブレーキなどをしないよう呼びかけています。",
+      "zh": "气象预报员呼吁开车的人换上冬季轮胎，不要急刹车等。",
+      "en": "Weather forecasters are urging drivers to switch to winter tires and avoid things like sudden braking.",
+      "ruby": "<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>に、<ruby>冬用<rt>ふゆよう</rt></ruby>のタイヤに<ruby>替え<rt>かえ</rt></ruby>て、<ruby>急<rt>きゅう</rt></ruby>ブレーキなどをしないよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "7日、北海道や東北では、とても強い風が吹いて、大荒れの天気になりました。",
+      "tts": "なのか、ほっかいどうやとうほくでは、とてもつよいかぜがふいて、おおあれのてんきになりました。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>東北<rt>とうほく</rt></ruby>では、とても<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹い<rt>ふい</rt></ruby>て、<span class=\"vw\" data-ja=\"大荒れ\" data-reading=\"おおあれ\" data-en=\"stormy, very rough weather\"><ruby>大荒れ<rt>おおあれ</rt></ruby></span>の<ruby>天気<rt>てんき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the seventh, very strong winds hit Hokkaido and the northeast, and the weather turned stormy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大荒れ",
+      "ruby": "<span class=\"vw\" data-ja=\"大荒れ\" data-reading=\"おおあれ\" data-en=\"stormy, very rough weather\"><ruby>大荒れ<rt>おおあれ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means very stormy, rough weather."
+    },
+    {
+      "speaker": "slow",
+      "text": "オホーツク海で低気圧が発達して、冷たい空気が南に下りてきたためです。",
+      "ruby": "オホーツク<ruby>海<rt>うみ</rt></ruby>で<ruby>低気圧<rt>ていきあつ</rt></ruby>が<span class=\"vw\" data-ja=\"発達\" data-reading=\"はったつ\" data-en=\"development; (of a storm) growing stronger\"><ruby>発達<rt>はったつ</rt></ruby></span>して、<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>南<rt>みなみ</rt></ruby>に<ruby>下り<rt>おり</rt></ruby>てきたためです。"
+    },
+    {
+      "speaker": "host",
+      "text": "A low-pressure system grew stronger over the northern sea, and cold air came down south."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発達",
+      "ruby": "<span class=\"vw\" data-ja=\"発達\" data-reading=\"はったつ\" data-en=\"development; (of a storm) growing stronger\"><ruby>発達<rt>はったつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to develop or grow stronger. Used for storms and low pressure."
+    },
+    {
+      "speaker": "slow",
+      "text": "北海道のえりも岬では、7日の夕方、1秒に45メートルという、猛烈な風が吹きました。",
+      "tts": "ほっかいどうのえりもみさきでは、なのかのゆうがた、いちびょうによんじゅうごメートルという、もうれつなかぜがふきました。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>のえりも<ruby>岬<rt>みさき</rt></ruby>では、<ruby>7日<rt>なのか</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、1<ruby>秒<rt>びょう</rt></ruby>に45メートルという、<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce, violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>な<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At a cape in Hokkaido, a ferocious wind of forty-five meters per second blew that evening."
+    },
+    {
+      "speaker": "vocab",
+      "text": "猛烈",
+      "ruby": "<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce, violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fierce or violent."
+    },
+    {
+      "speaker": "slow",
+      "text": "秋田県のにかほ市でも、31メートルの風が吹きました。",
+      "tts": "あきたけんのにかほしでも、さんじゅういちメートルのかぜがふきました。",
+      "ruby": "<ruby>秋田県<rt>あきたけん</rt></ruby>のにかほ<ruby>市<rt>し</rt></ruby>でも、31メートルの<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In a city in Akita, the wind reached thirty-one meters per second."
+    },
+    {
+      "speaker": "slow",
+      "text": "これは、にかほ市で、11月としては今までで一番強い記録です。",
+      "tts": "これは、にかほしで、じゅういちがつとしてはいままででいちばんつよいきろくです。",
+      "ruby": "これは、にかほ<ruby>市<rt>し</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby>としては<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>強い<rt>つよい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "That is the strongest November wind ever recorded there."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、この日は、冬の始まりを表す「立冬」でした。",
+      "tts": "また、このひは、ふゆのはじまりをあらわす「りっとう」でした。",
+      "ruby": "また、この<ruby>日<rt>ひ</rt></ruby>は、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>始まり<rt>はじまり</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>「<ruby>立冬<rt>りっとう</rt></ruby>」でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "That day was also the traditional first day of winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "北海道では、日本海側を中心に、たくさんの雪が降りました。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>では、<ruby>日本海側<rt>にほんかいがわ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、たくさんの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Hokkaido, a lot of snow fell, mostly on the Sea of Japan side."
+    },
+    {
+      "speaker": "slow",
+      "text": "深川市では、朝の2時間で、雪が18センチも積もりました。",
+      "tts": "ふかがわしでは、あさのにじかんで、ゆきがじゅうはっセンチもつもりました。",
+      "ruby": "<ruby>深川<rt>ふかがわ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<ruby>朝<rt>あさ</rt></ruby>の2<ruby>時間<rt>じかん</rt></ruby>で、<ruby>雪<rt>ゆき</rt></ruby>が18センチも<ruby>積も<rt>つも</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In one city, eighteen centimeters of snow piled up in just two morning hours."
+    },
+    {
+      "speaker": "vocab",
+      "text": "積もる",
+      "ruby": "<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up, to accumulate (snow, dust)\"><ruby>積も<rt>つも</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pile up, like snow or dust."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌市でも10センチの雪が積もって、町は一気に雪景色になりました。",
+      "tts": "さっぽろしでもじゅっセンチのゆきがつもって、まちはいっきにゆきげしきになりました。",
+      "ruby": "<ruby>札幌市<rt>さっぽろし</rt></ruby>でも10センチの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>積も<rt>つも</rt></ruby>って、<ruby>町<rt>まち</rt></ruby>は<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span><ruby>雪景色<rt>ゆきげしき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sapporo got ten centimeters too, and the city turned white all at once."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一気に",
+      "ruby": "<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all at once, in one go."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌の気温は、午前10時に、マイナス0.3度でした。",
+      "tts": "さっぽろのきおんは、ごぜんじゅうじに、マイナスれいてんさんどでした。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>に、マイナス0.3<ruby>度<rt>ど</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "At ten in the morning, Sapporo was minus zero point three degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "湿った重い雪が電線について、木が倒れたり、停電したりするおそれもあります。",
+      "ruby": "<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>重い<rt>おもい</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>が<ruby>電線<rt>でんせん</rt></ruby>について、<ruby>木<rt>き</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>たり、<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage, blackout\"><ruby>停電<rt>ていでん</rt></ruby></span>したりするおそれもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Wet, heavy snow on power lines could bring down trees or cause blackouts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "停電",
+      "ruby": "<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage, blackout\"><ruby>停電<rt>ていでん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a power outage."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い風は、8日の朝まで続く見込みです。",
+      "tts": "つよいかぜは、ようかのあさまでつづくみこみです。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>は、<ruby>8日<rt>ようか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>まで<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The strong winds are expected to last until the morning of the eighth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込み",
+      "ruby": "<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an expectation or forecast. Common in weather news."
+    },
+    {
+      "speaker": "slow",
+      "text": "北海道や東北では、暴風や高い波に、十分な警戒が必要です。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>東北<rt>とうほく</rt></ruby>では、<ruby>暴風<rt>ぼうふう</rt></ruby>や<ruby>高い<rt>たかい</rt></ruby><ruby>波<rt>なみ</rt></ruby>に、<ruby>十分<rt>じゅうぶん</rt></ruby>な<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution, vigilance, being on guard\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "People in the north need to stay on guard against storm winds and high waves."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警戒",
+      "ruby": "<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution, vigilance, being on guard\"><ruby>警戒<rt>けいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means caution, being on guard."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象予報士は、車を運転する人に、冬用のタイヤに替えて、急ブレーキなどをしないよう呼びかけています。",
+      "ruby": "<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>に、<ruby>冬用<rt>ふゆよう</rt></ruby>のタイヤに<ruby>替え<rt>かえ</rt></ruby>て、<ruby>急<rt>きゅう</rt></ruby>ブレーキなどをしないよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forecasters urge drivers to switch to winter tires and avoid sudden braking."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "7日、北海道や東北では、とても強い風が吹いて、大荒れの天気になりました。",
+      "zh": "7日，北海道和东北地区刮起了非常强的风，天气变得十分恶劣。",
+      "en": "On the 7th, very strong winds blew in Hokkaido and Tohoku, and the weather turned stormy.",
+      "tts": "なのか、ほっかいどうやとうほくでは、とてもつよいかぜがふいて、おおあれのてんきになりました。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>東北<rt>とうほく</rt></ruby>では、とても<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹い<rt>ふい</rt></ruby>て、<span class=\"vw\" data-ja=\"大荒れ\" data-reading=\"おおあれ\" data-en=\"stormy, very rough weather\"><ruby>大荒れ<rt>おおあれ</rt></ruby></span>の<ruby>天気<rt>てんき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "オホーツク海で低気圧が発達して、冷たい空気が南に下りてきたためです。",
+      "zh": "这是因为鄂霍次克海上的低气压增强，冷空气南下。",
+      "en": "This is because a low-pressure system developed over the Sea of Okhotsk and cold air moved south.",
+      "ruby": "オホーツク<ruby>海<rt>うみ</rt></ruby>で<ruby>低気圧<rt>ていきあつ</rt></ruby>が<span class=\"vw\" data-ja=\"発達\" data-reading=\"はったつ\" data-en=\"development; (of a storm) growing stronger\"><ruby>発達<rt>はったつ</rt></ruby></span>して、<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>南<rt>みなみ</rt></ruby>に<ruby>下り<rt>おり</rt></ruby>てきたためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道のえりも岬では、7日の夕方、1秒に45メートルという、猛烈な風が吹きました。",
+      "zh": "7日傍晚，北海道襟裳岬刮起了每秒45米的猛烈大风。",
+      "en": "At Cape Erimo in Hokkaido, a ferocious wind of 45 meters per second blew on the evening of the 7th.",
+      "tts": "ほっかいどうのえりもみさきでは、なのかのゆうがた、いちびょうによんじゅうごメートルという、もうれつなかぜがふきました。",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>のえりも<ruby>岬<rt>みさき</rt></ruby>では、<ruby>7日<rt>なのか</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、1<ruby>秒<rt>びょう</rt></ruby>に45メートルという、<span class=\"vw\" data-ja=\"猛烈\" data-reading=\"もうれつ\" data-en=\"fierce, violent\"><ruby>猛烈<rt>もうれつ</rt></ruby></span>な<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋田県のにかほ市でも、31メートルの風が吹きました。",
+      "zh": "秋田县仁贺保市也刮起了31米的大风。",
+      "en": "In Nikaho City, Akita Prefecture, a 31-meter wind also blew.",
+      "tts": "あきたけんのにかほしでも、さんじゅういちメートルのかぜがふきました。",
+      "ruby": "<ruby>秋田県<rt>あきたけん</rt></ruby>のにかほ<ruby>市<rt>し</rt></ruby>でも、31メートルの<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、にかほ市で、11月としては今までで一番強い記録です。",
+      "zh": "这是仁贺保市11月有观测以来最强的纪录。",
+      "en": "This is the strongest ever recorded in Nikaho for November.",
+      "tts": "これは、にかほしで、じゅういちがつとしてはいままででいちばんつよいきろくです。",
+      "ruby": "これは、にかほ<ruby>市<rt>し</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby>としては<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>強い<rt>つよい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、この日は、冬の始まりを表す「立冬」でした。",
+      "zh": "另外，这一天正是表示冬天开始的“立冬”。",
+      "en": "That day was also Rittō, which marks the start of winter.",
+      "tts": "また、このひは、ふゆのはじまりをあらわす「りっとう」でした。",
+      "ruby": "また、この<ruby>日<rt>ひ</rt></ruby>は、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>始まり<rt>はじまり</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby>「<ruby>立冬<rt>りっとう</rt></ruby>」でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道では、日本海側を中心に、たくさんの雪が降りました。",
+      "zh": "北海道以日本海一侧为中心下了大雪。",
+      "en": "In Hokkaido, a lot of snow fell, mainly on the Sea of Japan side.",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>では、<ruby>日本海側<rt>にほんかいがわ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、たくさんの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>ふり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "深川市では、朝の2時間で、雪が18センチも積もりました。",
+      "zh": "深川市早上2小时内积雪就增加了18厘米。",
+      "en": "In Fukagawa City, as much as 18 centimeters of snow piled up in two hours in the morning.",
+      "tts": "ふかがわしでは、あさのにじかんで、ゆきがじゅうはっセンチもつもりました。",
+      "ruby": "<ruby>深川<rt>ふかがわ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<ruby>朝<rt>あさ</rt></ruby>の2<ruby>時間<rt>じかん</rt></ruby>で、<ruby>雪<rt>ゆき</rt></ruby>が18センチも<ruby>積も<rt>つも</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌市でも10センチの雪が積もって、町は一気に雪景色になりました。",
+      "zh": "札幌市也积雪10厘米，城市一下子变成了一片雪景。",
+      "en": "In Sapporo, 10 centimeters of snow piled up too, and the city turned into a snowy scene all at once.",
+      "tts": "さっぽろしでもじゅっセンチのゆきがつもって、まちはいっきにゆきげしきになりました。",
+      "ruby": "<ruby>札幌市<rt>さっぽろし</rt></ruby>でも10センチの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>積も<rt>つも</rt></ruby>って、<ruby>町<rt>まち</rt></ruby>は<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span><ruby>雪景色<rt>ゆきげしき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌の気温は、午前10時に、マイナス0.3度でした。",
+      "zh": "札幌上午10点的气温为零下0.3度。",
+      "en": "The temperature in Sapporo was minus 0.3 degrees at 10 a.m.",
+      "tts": "さっぽろのきおんは、ごぜんじゅうじに、マイナスれいてんさんどでした。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>に、マイナス0.3<ruby>度<rt>ど</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "湿った重い雪が電線について、木が倒れたり、停電したりするおそれもあります。",
+      "zh": "湿重的雪附着在电线上，还可能导致树木倒下或停电。",
+      "en": "Wet, heavy snow is sticking to power lines, and trees may fall or power may go out.",
+      "ruby": "<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>重い<rt>おもい</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>が<ruby>電線<rt>でんせん</rt></ruby>について、<ruby>木<rt>き</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>たり、<span class=\"vw\" data-ja=\"停電\" data-reading=\"ていでん\" data-en=\"power outage, blackout\"><ruby>停電<rt>ていでん</rt></ruby></span>したりするおそれもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "強い風は、8日の朝まで続く見込みです。",
+      "zh": "强风预计将持续到8日早上。",
+      "en": "The strong winds are expected to continue until the morning of the 8th.",
+      "tts": "つよいかぜは、ようかのあさまでつづくみこみです。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>は、<ruby>8日<rt>ようか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>まで<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "北海道や東北では、暴風や高い波に、十分な警戒が必要です。",
+      "zh": "北海道和东北地区需要对暴风和巨浪保持充分警惕。",
+      "en": "In Hokkaido and Tohoku, people need to be fully on guard against storm winds and high waves.",
+      "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>や<ruby>東北<rt>とうほく</rt></ruby>では、<ruby>暴風<rt>ぼうふう</rt></ruby>や<ruby>高い<rt>たかい</rt></ruby><ruby>波<rt>なみ</rt></ruby>に、<ruby>十分<rt>じゅうぶん</rt></ruby>な<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution, vigilance, being on guard\"><ruby>警戒<rt>けいかい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "気象予報士は、車を運転する人に、冬用のタイヤに替えて、急ブレーキなどをしないよう呼びかけています。",
+      "zh": "气象预报员呼吁开车的人换上冬季轮胎，不要急刹车等。",
+      "en": "Weather forecasters are urging drivers to switch to winter tires and avoid things like sudden braking.",
+      "ruby": "<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>に、<ruby>冬用<rt>ふゆよう</rt></ruby>のタイヤに<ruby>替え<rt>かえ</rt></ruby>て、<ruby>急<rt>きゅう</rt></ruby>ブレーキなどをしないよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "えりも岬では、1秒に何メートルの風が吹きましたか。",
+      "tts": "えりもみさきでは、いちびょうになんメートルのかぜがふきましたか。",
+      "ruby": "えりも<ruby>岬<rt>みさき</rt></ruby>では、1<ruby>秒<rt>びょう</rt></ruby>に<ruby>何<rt>なん</rt></ruby>メートルの<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty-five meters."
+    },
+    {
+      "speaker": "slow",
+      "text": "7日は、何の日でしたか。",
+      "tts": "なのかは、なんのひでしたか。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>は、<ruby>何の<rt>なんの</rt></ruby><ruby>日<rt>ひ</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The traditional first day of winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "深川市では、2時間で何センチの雪が積もりましたか。",
+      "tts": "ふかがわしでは、にじかんでなんセンチのゆきがつもりましたか。",
+      "ruby": "<ruby>深川<rt>ふかがわ</rt></ruby><ruby>市<rt>し</rt></ruby>では、2<ruby>時間<rt>じかん</rt></ruby>で<ruby>何<rt>なん</rt></ruby>センチの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>積も<rt>つも</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighteen centimeters."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌市では、何センチの雪が積もりましたか。",
+      "tts": "さっぽろしでは、なんセンチのゆきがつもりましたか。",
+      "ruby": "<ruby>札幌市<rt>さっぽろし</rt></ruby>では、<ruby>何<rt>なん</rt></ruby>センチの<ruby>雪<rt>ゆき</rt></ruby>が<ruby>積も<rt>つも</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Ten centimeters."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い風は、いつまで続く見込みですか。",
+      "tts": "つよいかぜは、いつまでつづくみこみですか。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>は、いつまで<ruby>続く<rt>つづく</rt></ruby><span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation, forecast\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until the morning of the eighth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this evening. If you are in the north, stay warm and drive carefully. Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "zh": "明天见。",
+      "en": "See you tomorrow.",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
