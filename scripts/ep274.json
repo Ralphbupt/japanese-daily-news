@@ -1,0 +1,602 @@
+{
+  "episode": 274,
+  "title": "銀座で車に「にせの基地局」、スマホ1万台が圏外に",
+  "titleZh": "银座车载“伪基站”致上万部手机断信号",
+  "titleEn": "Fake phone tower in a car knocks out 10,000 phones in Ginza",
+  "date": "2026-11-09",
+  "source": "NHK / 読売新聞 / 朝日新聞 / ABEMA TIMES",
+  "level": "N4-N3",
+  "contentVersion": "2026110901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "逮捕",
+      "reading": "たいほ",
+      "en": "arrest",
+      "zh": "逮捕"
+    },
+    {
+      "ja": "疑い",
+      "reading": "うたがい",
+      "en": "suspicion, doubt",
+      "zh": "嫌疑，怀疑"
+    },
+    {
+      "ja": "圏外",
+      "reading": "けんがい",
+      "en": "out of range, no signal",
+      "zh": "不在服务区，无信号"
+    },
+    {
+      "ja": "にせ",
+      "reading": "にせ",
+      "en": "fake, counterfeit",
+      "zh": "假的，冒牌"
+    },
+    {
+      "ja": "仕組み",
+      "reading": "しくみ",
+      "en": "system, mechanism, how something works",
+      "zh": "结构，机制，原理"
+    },
+    {
+      "ja": "誘導",
+      "reading": "ゆうどう",
+      "en": "guiding, leading (someone somewhere)",
+      "zh": "引导，诱导"
+    },
+    {
+      "ja": "ねらう",
+      "reading": "ねらう",
+      "en": "to aim at, to target",
+      "zh": "瞄准，以……为目标"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage, harm; being a victim",
+      "zh": "受害，损失"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜疑いがもたれています",
+      "meaning": "is suspected of ~",
+      "meaningZh": "涉嫌……",
+      "formation": "Plain form + 疑いがもたれています",
+      "example": "男は、東京の銀座で、車に積んだ機械から、許可なく強い電波を出した疑いがもたれています。",
+      "translation": "The man is suspected of sending out strong radio waves without permission from a device loaded in a car in Ginza, Tokyo.",
+      "note": "Standard news phrase for what police suspect someone did.",
+      "noteZh": "新闻中描述警方怀疑某人所做之事的固定说法。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜とみられています",
+      "meaning": "it is believed that ~",
+      "meaningZh": "被认为……",
+      "formation": "Plain form + とみられています",
+      "example": "車の中の機械は、携帯電話の「にせの基地局」として使われていたとみられています。",
+      "translation": "The device in the car is believed to have been used as a fake mobile phone base station.",
+      "note": "Reports what is thought likely, without full proof. Common in news.",
+      "noteZh": "表示推测、被认为如此，但尚未完全证实。新闻常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "reportedly ~, it is said that ~",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "男は、この車で、銀座や新宿など、人が多い町を走っていたということです。",
+      "translation": "The man reportedly drove this car around crowded areas such as Ginza and Shinjuku.",
+      "note": "Passes on information heard from a source.",
+      "noteZh": "转述从消息来源得到的信息。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜に対し",
+      "meaning": "in response to ~, toward ~",
+      "meaningZh": "对于……，面对……",
+      "formation": "Noun + に対し(て)",
+      "example": "調べに対し、男は「車に無線機は積んでいないし、知らない」と話し、疑いを否認しています。",
+      "translation": "Under questioning, the man said, \"I didn't have a radio in the car, and I don't know about it,\" denying the allegations.",
+      "note": "Shows the target of a reply or action. 調べに対し = when questioned.",
+      "noteZh": "表示回应或动作的对象。“調べに対し”即“面对调查”。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜にのぼる",
+      "meaning": "to reach (a large number)",
+      "meaningZh": "达到……（较大的数量）",
+      "formation": "Number + にのぼる",
+      "example": "これまでに18人が被害にあい、カードを勝手に使われた被害は、およそ400万円にのぼるということです。",
+      "translation": "So far 18 people have been victims, and the losses from cards used without permission reportedly reach about 4 million yen.",
+      "note": "Stresses that a number is large.",
+      "noteZh": "强调数量之大。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "警視庁は9日、中国籍の31歳の男を逮捕したと発表しました。\n东京警视厅9日宣布，逮捕了一名31岁的中国籍男子。\n逮捕 = arrest",
+    "男は、東京の銀座で、車に積んだ機械から、許可なく強い電波を出した疑いがもたれています。\n该男子涉嫌在东京银座，未经许可从车上装载的设备发出强电波。\n疑い = suspicion, doubt",
+    "7日の午後3時半ごろ、銀座4丁目の交差点の近くで、警戒していた警察官が男を捕まえました。\n7日下午3点半左右，在银座四丁目十字路口附近，正在巡逻戒备的警察抓住了该男子。",
+    "この電波のせいで、周りにあった1万台以上のスマートフォンが、およそ1時間、「圏外」になりました。\n由于这些电波，周围一万多部智能手机在大约1小时内处于“无信号”状态。\n圏外 = out of range, no signal",
+    "車の中の機械は、携帯電話の「にせの基地局」として使われていたとみられています。\n车内的设备被认为是被当作手机的“伪基站”使用的。\nにせ = fake, counterfeit",
+    "電波は、少なくとも半径500メートルまで届いていました。\n电波至少覆盖了半径500米的范围。",
+    "機械は、「2G」という古い通信の仕組みを使っていました。\n该设备使用的是名为“2G”的旧通信方式。\n仕組み = system, mechanism, how something works",
+    "男は、この車で、銀座や新宿など、人が多い町を走っていたということです。\n据说，该男子曾开着这辆车在银座、新宿等人多的街区行驶。",
+    "近くにいた人のスマートフォンには、「クレジットカードの支払いが止まっている」という中国語のメッセージが届き、にせのサイトに誘導していました。\n附近的人的智能手机收到了写着“信用卡付款已被暂停”的中文短信，把人引导到虚假网站。\n誘導 = guiding, leading (someone somewhere)",
+    "警視庁は、中国人の観光客などをねらった詐欺だとみて調べています。\n警视厅认为这是针对中国游客等人的诈骗，正在进行调查。\nねらう = to aim at, to target",
+    "これまでに18人が被害にあい、カードを勝手に使われた被害は、およそ400万円にのぼるということです。\n据说，迄今已有18人受害，信用卡被盗刷的损失约达400万日元。\n被害 = damage, harm; being a victim",
+    "調べに対し、男は「車に無線機は積んでいないし、知らない」と話し、疑いを否認しています。\n面对调查，该男子称“车上没有装无线电设备，我不知道”，否认了嫌疑。",
+    "携帯電話会社の電波をじゃまする事件で、警察が取り締まったのは、全国で初めてだということです。\n据说，这是全国首次由警方查处干扰手机运营商电波的案件。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November ninth: a fake phone tower in a car knocked out signals for thousands of phones in Tokyo. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "警視庁は9日、中国籍の31歳の男を逮捕したと発表しました。",
+      "zh": "东京警视厅9日宣布，逮捕了一名31岁的中国籍男子。",
+      "en": "On the 9th, the Tokyo Metropolitan Police announced the arrest of a 31-year-old Chinese man.",
+      "tts": "けいしちょうはここのか、ちゅうごくせきのさんじゅういっさいのおとこをたいほしたとはっぴょうしました。",
+      "ruby": "<ruby>警視庁<rt>けいしちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、<ruby>中国籍<rt>ちゅうごくせき</rt></ruby>の31<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>を<span class=\"vw\" data-ja=\"逮捕\" data-reading=\"たいほ\" data-en=\"arrest\"><ruby>逮捕<rt>たいほ</rt></ruby></span>したと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男は、東京の銀座で、車に積んだ機械から、許可なく強い電波を出した疑いがもたれています。",
+      "zh": "该男子涉嫌在东京银座，未经许可从车上装载的设备发出强电波。",
+      "en": "The man is suspected of sending out strong radio waves without permission from a device loaded in a car in Ginza, Tokyo.",
+      "ruby": "<ruby>男<rt>おとこ</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>で、<ruby>車<rt>くるま</rt></ruby>に<ruby>積ん<rt>つん</rt></ruby>だ<ruby>機械<rt>きかい</rt></ruby>から、<ruby>許可<rt>きょか</rt></ruby>なく<ruby>強い<rt>つよい</rt></ruby><ruby>電波<rt>でんぱ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>がもたれています。"
+    },
+    {
+      "speaker": "news",
+      "text": "7日の午後3時半ごろ、銀座4丁目の交差点の近くで、警戒していた警察官が男を捕まえました。",
+      "zh": "7日下午3点半左右，在银座四丁目十字路口附近，正在巡逻戒备的警察抓住了该男子。",
+      "en": "Around 3:30 p.m. on the 7th, police officers on patrol caught the man near the Ginza 4-chome intersection.",
+      "tts": "なのかのごごさんじはんごろ、ぎんざよんちょうめのこうさてんのちかくで、けいかいしていたけいさつかんがおとこをつかまえました。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>3<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>銀座<rt>ぎんざ</rt></ruby>4<ruby>丁目<rt>ちょうめ</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で、<ruby>警戒<rt>けいかい</rt></ruby>していた<ruby>警察官<rt>けいさつかん</rt></ruby>が<ruby>男<rt>おとこ</rt></ruby>を<ruby>捕ま<rt>つかま</rt></ruby>えました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この電波のせいで、周りにあった1万台以上のスマートフォンが、およそ1時間、「圏外」になりました。",
+      "zh": "由于这些电波，周围一万多部智能手机在大约1小时内处于“无信号”状态。",
+      "en": "Because of these radio waves, more than 10,000 smartphones nearby were \"out of service\" for about an hour.",
+      "tts": "このでんぱのせいで、まわりにあったいちまんだいいじょうのスマートフォンが、およそいちじかん、「けんがい」になりました。",
+      "ruby": "この<ruby>電波<rt>でんぱ</rt></ruby>のせいで、<ruby>周り<rt>まわり</rt></ruby>にあった1<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のスマートフォンが、およそ1<ruby>時間<rt>じかん</rt></ruby>、「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range, no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "車の中の機械は、携帯電話の「にせの基地局」として使われていたとみられています。",
+      "zh": "车内的设备被认为是被当作手机的“伪基站”使用的。",
+      "en": "The device in the car is believed to have been used as a fake mobile phone base station.",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>機械<rt>きかい</rt></ruby>は、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の「<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせの</span><ruby>基地局<rt>きちきょく</rt></ruby>」として<ruby>使わ<rt>つかわ</rt></ruby>れていたとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電波は、少なくとも半径500メートルまで届いていました。",
+      "zh": "电波至少覆盖了半径500米的范围。",
+      "en": "The radio waves reached at least a 500-meter radius.",
+      "tts": "でんぱは、すくなくともはんけいごひゃくメートルまでとどいていました。",
+      "ruby": "<ruby>電波<rt>でんぱ</rt></ruby>は、<ruby>少なくとも<rt>すくなくとも</rt></ruby><ruby>半径<rt>はんけい</rt></ruby>500メートルまで<ruby>届い<rt>とどい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "機械は、「2G」という古い通信の仕組みを使っていました。",
+      "zh": "该设备使用的是名为“2G”的旧通信方式。",
+      "en": "The device used an old communication system called \"2G.\"",
+      "tts": "きかいは、「ニジー」というふるいつうしんのしくみをつかっていました。",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>は、「2G」という<ruby>古い<rt>ふるい</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>の<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, mechanism, how something works\"><ruby>仕組み<rt>しくみ</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男は、この車で、銀座や新宿など、人が多い町を走っていたということです。",
+      "zh": "据说，该男子曾开着这辆车在银座、新宿等人多的街区行驶。",
+      "en": "The man reportedly drove this car around crowded areas such as Ginza and Shinjuku.",
+      "ruby": "<ruby>男<rt>おとこ</rt></ruby>は、この<ruby>車<rt>くるま</rt></ruby>で、<ruby>銀座<rt>ぎんざ</rt></ruby>や<ruby>新宿<rt>しんじゅく</rt></ruby>など、<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>町<rt>まち</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>ていたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "近くにいた人のスマートフォンには、「クレジットカードの支払いが止まっている」という中国語のメッセージが届き、にせのサイトに誘導していました。",
+      "zh": "附近的人的智能手机收到了写着“信用卡付款已被暂停”的中文短信，把人引导到虚假网站。",
+      "en": "Smartphones of people nearby received Chinese messages saying \"your credit card payments have been stopped,\" which led them to fake websites.",
+      "ruby": "<ruby>近く<rt>ちかく</rt></ruby>にいた<ruby>人<rt>ひと</rt></ruby>のスマートフォンには、「クレジットカードの<ruby>支払い<rt>しはらい</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>っている」という<ruby>中国語<rt>ちゅうごくご</rt></ruby>のメッセージが<ruby>届き<rt>とどき</rt></ruby>、<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせの</span>サイトに<span class=\"vw\" data-ja=\"誘導\" data-reading=\"ゆうどう\" data-en=\"guiding, leading (someone somewhere)\"><ruby>誘導<rt>ゆうどう</rt></ruby></span>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "警視庁は、中国人の観光客などをねらった詐欺だとみて調べています。",
+      "zh": "警视厅认为这是针对中国游客等人的诈骗，正在进行调查。",
+      "en": "The police believe it was a scam targeting Chinese tourists and others, and are investigating.",
+      "ruby": "<ruby>警視庁<rt>けいしちょう</rt></ruby>は、<ruby>中国人<rt>ちゅうごくじん</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>などをねらった<ruby>詐欺<rt>さぎ</rt></ruby>だとみて<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでに18人が被害にあい、カードを勝手に使われた被害は、およそ400万円にのぼるということです。",
+      "zh": "据说，迄今已有18人受害，信用卡被盗刷的损失约达400万日元。",
+      "en": "So far 18 people have been victims, and the losses from cards used without permission reportedly reach about 4 million yen.",
+      "tts": "これまでにじゅうはちにんがひがいにあい、カードをかってにつかわれたひがいは、およそよんひゃくまんえんにのぼるということです。",
+      "ruby": "これまでに18<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>にあい、カードを<ruby>勝手<rt>かって</rt></ruby>に<ruby>使わ<rt>つかわ</rt></ruby>れた<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>は、およそ400<ruby>万円<rt>まんえん</rt></ruby>にのぼるということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "調べに対し、男は「車に無線機は積んでいないし、知らない」と話し、疑いを否認しています。",
+      "zh": "面对调查，该男子称“车上没有装无线电设备，我不知道”，否认了嫌疑。",
+      "en": "Under questioning, the man said, \"I didn't have a radio in the car, and I don't know about it,\" denying the allegations.",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>、<ruby>男<rt>おとこ</rt></ruby>は「<ruby>車<rt>くるま</rt></ruby>に<ruby>無線機<rt>むせんき</rt></ruby>は<ruby>積ん<rt>つん</rt></ruby>でいないし、<ruby>知ら<rt>しら</rt></ruby>ない」と<ruby>話し<rt>はなし</rt></ruby>、<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>を<ruby>否認<rt>ひにん</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "携帯電話会社の電波をじゃまする事件で、警察が取り締まったのは、全国で初めてだということです。",
+      "zh": "据说，这是全国首次由警方查处干扰手机运营商电波的案件。",
+      "en": "This is reportedly the first time in Japan that police have cracked down on a case of interfering with a mobile carrier's radio waves.",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>をじゃまする<ruby>事件<rt>じけん</rt></ruby>で、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>取り締ま<rt>とりしま</rt></ruby>ったのは、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>だということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "警視庁は9日、中国籍の31歳の男を逮捕したと発表しました。",
+      "tts": "けいしちょうはここのか、ちゅうごくせきのさんじゅういっさいのおとこをたいほしたとはっぴょうしました。",
+      "ruby": "<ruby>警視庁<rt>けいしちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、<ruby>中国籍<rt>ちゅうごくせき</rt></ruby>の31<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>を<span class=\"vw\" data-ja=\"逮捕\" data-reading=\"たいほ\" data-en=\"arrest\"><ruby>逮捕<rt>たいほ</rt></ruby></span>したと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Tokyo police announced on the ninth that they had arrested a thirty-one-year-old Chinese man."
+    },
+    {
+      "speaker": "vocab",
+      "text": "逮捕",
+      "ruby": "<span class=\"vw\" data-ja=\"逮捕\" data-reading=\"たいほ\" data-en=\"arrest\"><ruby>逮捕<rt>たいほ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means arrest."
+    },
+    {
+      "speaker": "slow",
+      "text": "男は、東京の銀座で、車に積んだ機械から、許可なく強い電波を出した疑いがもたれています。",
+      "ruby": "<ruby>男<rt>おとこ</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>で、<ruby>車<rt>くるま</rt></ruby>に<ruby>積ん<rt>つん</rt></ruby>だ<ruby>機械<rt>きかい</rt></ruby>から、<ruby>許可<rt>きょか</rt></ruby>なく<ruby>強い<rt>つよい</rt></ruby><ruby>電波<rt>でんぱ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>がもたれています。"
+    },
+    {
+      "speaker": "host",
+      "text": "He is suspected of sending strong radio waves, without permission, from a machine in his car in a shopping district of Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "疑い",
+      "ruby": "<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suspicion. Very common in crime news."
+    },
+    {
+      "speaker": "slow",
+      "text": "7日の午後3時半ごろ、銀座4丁目の交差点の近くで、警戒していた警察官が男を捕まえました。",
+      "tts": "なのかのごごさんじはんごろ、ぎんざよんちょうめのこうさてんのちかくで、けいかいしていたけいさつかんがおとこをつかまえました。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>3<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>銀座<rt>ぎんざ</rt></ruby>4<ruby>丁目<rt>ちょうめ</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で、<ruby>警戒<rt>けいかい</rt></ruby>していた<ruby>警察官<rt>けいさつかん</rt></ruby>が<ruby>男<rt>おとこ</rt></ruby>を<ruby>捕ま<rt>つかま</rt></ruby>えました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around three thirty on the afternoon of the seventh, officers on watch caught him near a big intersection."
+    },
+    {
+      "speaker": "slow",
+      "text": "この電波のせいで、周りにあった1万台以上のスマートフォンが、およそ1時間、「圏外」になりました。",
+      "tts": "このでんぱのせいで、まわりにあったいちまんだいいじょうのスマートフォンが、およそいちじかん、「けんがい」になりました。",
+      "ruby": "この<ruby>電波<rt>でんぱ</rt></ruby>のせいで、<ruby>周り<rt>まわり</rt></ruby>にあった1<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のスマートフォンが、およそ1<ruby>時間<rt>じかん</rt></ruby>、「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range, no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of the waves, more than ten thousand phones nearby lost signal for about an hour."
+    },
+    {
+      "speaker": "vocab",
+      "text": "圏外",
+      "ruby": "<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range, no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means out of range, with no signal."
+    },
+    {
+      "speaker": "slow",
+      "text": "車の中の機械は、携帯電話の「にせの基地局」として使われていたとみられています。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>機械<rt>きかい</rt></ruby>は、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の「<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせの</span><ruby>基地局<rt>きちきょく</rt></ruby>」として<ruby>使わ<rt>つかわ</rt></ruby>れていたとみられています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The machine in the car seems to have worked as a fake phone tower."
+    },
+    {
+      "speaker": "vocab",
+      "text": "にせ",
+      "ruby": "<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fake."
+    },
+    {
+      "speaker": "slow",
+      "text": "電波は、少なくとも半径500メートルまで届いていました。",
+      "tts": "でんぱは、すくなくともはんけいごひゃくメートルまでとどいていました。",
+      "ruby": "<ruby>電波<rt>でんぱ</rt></ruby>は、<ruby>少なくとも<rt>すくなくとも</rt></ruby><ruby>半径<rt>はんけい</rt></ruby>500メートルまで<ruby>届い<rt>とどい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The waves reached at least five hundred meters in every direction."
+    },
+    {
+      "speaker": "slow",
+      "text": "機械は、「2G」という古い通信の仕組みを使っていました。",
+      "tts": "きかいは、「ニジー」というふるいつうしんのしくみをつかっていました。",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>は、「2G」という<ruby>古い<rt>ふるい</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>の<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, mechanism, how something works\"><ruby>仕組み<rt>しくみ</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The machine used an old network standard called two G."
+    },
+    {
+      "speaker": "vocab",
+      "text": "仕組み",
+      "ruby": "<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, mechanism, how something works\"><ruby>仕組み<rt>しくみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a system, or how something works."
+    },
+    {
+      "speaker": "slow",
+      "text": "男は、この車で、銀座や新宿など、人が多い町を走っていたということです。",
+      "ruby": "<ruby>男<rt>おとこ</rt></ruby>は、この<ruby>車<rt>くるま</rt></ruby>で、<ruby>銀座<rt>ぎんざ</rt></ruby>や<ruby>新宿<rt>しんじゅく</rt></ruby>など、<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>町<rt>まち</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>ていたということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "He reportedly drove the car around busy areas of Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "近くにいた人のスマートフォンには、「クレジットカードの支払いが止まっている」という中国語のメッセージが届き、にせのサイトに誘導していました。",
+      "ruby": "<ruby>近く<rt>ちかく</rt></ruby>にいた<ruby>人<rt>ひと</rt></ruby>のスマートフォンには、「クレジットカードの<ruby>支払い<rt>しはらい</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>っている」という<ruby>中国語<rt>ちゅうごくご</rt></ruby>のメッセージが<ruby>届き<rt>とどき</rt></ruby>、<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせの</span>サイトに<span class=\"vw\" data-ja=\"誘導\" data-reading=\"ゆうどう\" data-en=\"guiding, leading (someone somewhere)\"><ruby>誘導<rt>ゆうどう</rt></ruby></span>していました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Nearby phones got messages in Chinese saying card payments were stopped, leading people to fake websites."
+    },
+    {
+      "speaker": "vocab",
+      "text": "誘導",
+      "ruby": "<span class=\"vw\" data-ja=\"誘導\" data-reading=\"ゆうどう\" data-en=\"guiding, leading (someone somewhere)\"><ruby>誘導<rt>ゆうどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to guide or lead someone somewhere."
+    },
+    {
+      "speaker": "slow",
+      "text": "警視庁は、中国人の観光客などをねらった詐欺だとみて調べています。",
+      "ruby": "<ruby>警視庁<rt>けいしちょう</rt></ruby>は、<ruby>中国人<rt>ちゅうごくじん</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>などをねらった<ruby>詐欺<rt>さぎ</rt></ruby>だとみて<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Police think it was a scam aimed at Chinese tourists and others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ねらう",
+      "ruby": "<span class=\"vw\" data-ja=\"ねらう\" data-reading=\"ねらう\" data-en=\"to aim at, to target\">ねらう</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to aim at or target."
+    },
+    {
+      "speaker": "slow",
+      "text": "これまでに18人が被害にあい、カードを勝手に使われた被害は、およそ400万円にのぼるということです。",
+      "tts": "これまでにじゅうはちにんがひがいにあい、カードをかってにつかわれたひがいは、およそよんひゃくまんえんにのぼるということです。",
+      "ruby": "これまでに18<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>にあい、カードを<ruby>勝手<rt>かって</rt></ruby>に<ruby>使わ<rt>つかわ</rt></ruby>れた<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>は、およそ400<ruby>万円<rt>まんえん</rt></ruby>にのぼるということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighteen people have been victims so far, losing about four million yen to card misuse."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被害",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means damage or harm. To be a victim is said with this word."
+    },
+    {
+      "speaker": "slow",
+      "text": "調べに対し、男は「車に無線機は積んでいないし、知らない」と話し、疑いを否認しています。",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>、<ruby>男<rt>おとこ</rt></ruby>は「<ruby>車<rt>くるま</rt></ruby>に<ruby>無線機<rt>むせんき</rt></ruby>は<ruby>積ん<rt>つん</rt></ruby>でいないし、<ruby>知ら<rt>しら</rt></ruby>ない」と<ruby>話し<rt>はなし</rt></ruby>、<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>を<ruby>否認<rt>ひにん</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "He told police there was no radio in his car and he knows nothing, denying the charge."
+    },
+    {
+      "speaker": "slow",
+      "text": "携帯電話会社の電波をじゃまする事件で、警察が取り締まったのは、全国で初めてだということです。",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>をじゃまする<ruby>事件<rt>じけん</rt></ruby>で、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>取り締ま<rt>とりしま</rt></ruby>ったのは、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>だということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It is reportedly the first such crackdown in Japan."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "警視庁は9日、中国籍の31歳の男を逮捕したと発表しました。",
+      "zh": "东京警视厅9日宣布，逮捕了一名31岁的中国籍男子。",
+      "en": "On the 9th, the Tokyo Metropolitan Police announced the arrest of a 31-year-old Chinese man.",
+      "tts": "けいしちょうはここのか、ちゅうごくせきのさんじゅういっさいのおとこをたいほしたとはっぴょうしました。",
+      "ruby": "<ruby>警視庁<rt>けいしちょう</rt></ruby>は<ruby>9日<rt>ここのか</rt></ruby>、<ruby>中国籍<rt>ちゅうごくせき</rt></ruby>の31<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>を<span class=\"vw\" data-ja=\"逮捕\" data-reading=\"たいほ\" data-en=\"arrest\"><ruby>逮捕<rt>たいほ</rt></ruby></span>したと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男は、東京の銀座で、車に積んだ機械から、許可なく強い電波を出した疑いがもたれています。",
+      "zh": "该男子涉嫌在东京银座，未经许可从车上装载的设备发出强电波。",
+      "en": "The man is suspected of sending out strong radio waves without permission from a device loaded in a car in Ginza, Tokyo.",
+      "ruby": "<ruby>男<rt>おとこ</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>で、<ruby>車<rt>くるま</rt></ruby>に<ruby>積ん<rt>つん</rt></ruby>だ<ruby>機械<rt>きかい</rt></ruby>から、<ruby>許可<rt>きょか</rt></ruby>なく<ruby>強い<rt>つよい</rt></ruby><ruby>電波<rt>でんぱ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>がもたれています。"
+    },
+    {
+      "speaker": "news",
+      "text": "7日の午後3時半ごろ、銀座4丁目の交差点の近くで、警戒していた警察官が男を捕まえました。",
+      "zh": "7日下午3点半左右，在银座四丁目十字路口附近，正在巡逻戒备的警察抓住了该男子。",
+      "en": "Around 3:30 p.m. on the 7th, police officers on patrol caught the man near the Ginza 4-chome intersection.",
+      "tts": "なのかのごごさんじはんごろ、ぎんざよんちょうめのこうさてんのちかくで、けいかいしていたけいさつかんがおとこをつかまえました。",
+      "ruby": "<ruby>7日<rt>なのか</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>3<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>銀座<rt>ぎんざ</rt></ruby>4<ruby>丁目<rt>ちょうめ</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で、<ruby>警戒<rt>けいかい</rt></ruby>していた<ruby>警察官<rt>けいさつかん</rt></ruby>が<ruby>男<rt>おとこ</rt></ruby>を<ruby>捕ま<rt>つかま</rt></ruby>えました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この電波のせいで、周りにあった1万台以上のスマートフォンが、およそ1時間、「圏外」になりました。",
+      "zh": "由于这些电波，周围一万多部智能手机在大约1小时内处于“无信号”状态。",
+      "en": "Because of these radio waves, more than 10,000 smartphones nearby were \"out of service\" for about an hour.",
+      "tts": "このでんぱのせいで、まわりにあったいちまんだいいじょうのスマートフォンが、およそいちじかん、「けんがい」になりました。",
+      "ruby": "この<ruby>電波<rt>でんぱ</rt></ruby>のせいで、<ruby>周り<rt>まわり</rt></ruby>にあった1<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のスマートフォンが、およそ1<ruby>時間<rt>じかん</rt></ruby>、「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range, no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "車の中の機械は、携帯電話の「にせの基地局」として使われていたとみられています。",
+      "zh": "车内的设备被认为是被当作手机的“伪基站”使用的。",
+      "en": "The device in the car is believed to have been used as a fake mobile phone base station.",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>機械<rt>きかい</rt></ruby>は、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の「<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせの</span><ruby>基地局<rt>きちきょく</rt></ruby>」として<ruby>使わ<rt>つかわ</rt></ruby>れていたとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "電波は、少なくとも半径500メートルまで届いていました。",
+      "zh": "电波至少覆盖了半径500米的范围。",
+      "en": "The radio waves reached at least a 500-meter radius.",
+      "tts": "でんぱは、すくなくともはんけいごひゃくメートルまでとどいていました。",
+      "ruby": "<ruby>電波<rt>でんぱ</rt></ruby>は、<ruby>少なくとも<rt>すくなくとも</rt></ruby><ruby>半径<rt>はんけい</rt></ruby>500メートルまで<ruby>届い<rt>とどい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "機械は、「2G」という古い通信の仕組みを使っていました。",
+      "zh": "该设备使用的是名为“2G”的旧通信方式。",
+      "en": "The device used an old communication system called \"2G.\"",
+      "tts": "きかいは、「ニジー」というふるいつうしんのしくみをつかっていました。",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>は、「2G」という<ruby>古い<rt>ふるい</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>の<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, mechanism, how something works\"><ruby>仕組み<rt>しくみ</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男は、この車で、銀座や新宿など、人が多い町を走っていたということです。",
+      "zh": "据说，该男子曾开着这辆车在银座、新宿等人多的街区行驶。",
+      "en": "The man reportedly drove this car around crowded areas such as Ginza and Shinjuku.",
+      "ruby": "<ruby>男<rt>おとこ</rt></ruby>は、この<ruby>車<rt>くるま</rt></ruby>で、<ruby>銀座<rt>ぎんざ</rt></ruby>や<ruby>新宿<rt>しんじゅく</rt></ruby>など、<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>町<rt>まち</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>ていたということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "近くにいた人のスマートフォンには、「クレジットカードの支払いが止まっている」という中国語のメッセージが届き、にせのサイトに誘導していました。",
+      "zh": "附近的人的智能手机收到了写着“信用卡付款已被暂停”的中文短信，把人引导到虚假网站。",
+      "en": "Smartphones of people nearby received Chinese messages saying \"your credit card payments have been stopped,\" which led them to fake websites.",
+      "ruby": "<ruby>近く<rt>ちかく</rt></ruby>にいた<ruby>人<rt>ひと</rt></ruby>のスマートフォンには、「クレジットカードの<ruby>支払い<rt>しはらい</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>っている」という<ruby>中国語<rt>ちゅうごくご</rt></ruby>のメッセージが<ruby>届き<rt>とどき</rt></ruby>、<span class=\"vw\" data-ja=\"にせ\" data-reading=\"にせ\" data-en=\"fake, counterfeit\">にせの</span>サイトに<span class=\"vw\" data-ja=\"誘導\" data-reading=\"ゆうどう\" data-en=\"guiding, leading (someone somewhere)\"><ruby>誘導<rt>ゆうどう</rt></ruby></span>していました。"
+    },
+    {
+      "speaker": "news",
+      "text": "警視庁は、中国人の観光客などをねらった詐欺だとみて調べています。",
+      "zh": "警视厅认为这是针对中国游客等人的诈骗，正在进行调查。",
+      "en": "The police believe it was a scam targeting Chinese tourists and others, and are investigating.",
+      "ruby": "<ruby>警視庁<rt>けいしちょう</rt></ruby>は、<ruby>中国人<rt>ちゅうごくじん</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>などをねらった<ruby>詐欺<rt>さぎ</rt></ruby>だとみて<ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "これまでに18人が被害にあい、カードを勝手に使われた被害は、およそ400万円にのぼるということです。",
+      "zh": "据说，迄今已有18人受害，信用卡被盗刷的损失约达400万日元。",
+      "en": "So far 18 people have been victims, and the losses from cards used without permission reportedly reach about 4 million yen.",
+      "tts": "これまでにじゅうはちにんがひがいにあい、カードをかってにつかわれたひがいは、およそよんひゃくまんえんにのぼるということです。",
+      "ruby": "これまでに18<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>にあい、カードを<ruby>勝手<rt>かって</rt></ruby>に<ruby>使わ<rt>つかわ</rt></ruby>れた<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm; being a victim\"><ruby>被害<rt>ひがい</rt></ruby></span>は、およそ400<ruby>万円<rt>まんえん</rt></ruby>にのぼるということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "調べに対し、男は「車に無線機は積んでいないし、知らない」と話し、疑いを否認しています。",
+      "zh": "面对调查，该男子称“车上没有装无线电设备，我不知道”，否认了嫌疑。",
+      "en": "Under questioning, the man said, \"I didn't have a radio in the car, and I don't know about it,\" denying the allegations.",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>、<ruby>男<rt>おとこ</rt></ruby>は「<ruby>車<rt>くるま</rt></ruby>に<ruby>無線機<rt>むせんき</rt></ruby>は<ruby>積ん<rt>つん</rt></ruby>でいないし、<ruby>知ら<rt>しら</rt></ruby>ない」と<ruby>話し<rt>はなし</rt></ruby>、<span class=\"vw\" data-ja=\"疑い\" data-reading=\"うたがい\" data-en=\"suspicion, doubt\"><ruby>疑い<rt>うたがい</rt></ruby></span>を<ruby>否認<rt>ひにん</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "携帯電話会社の電波をじゃまする事件で、警察が取り締まったのは、全国で初めてだということです。",
+      "zh": "据说，这是全国首次由警方查处干扰手机运营商电波的案件。",
+      "en": "This is reportedly the first time in Japan that police have cracked down on a case of interfering with a mobile carrier's radio waves.",
+      "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>をじゃまする<ruby>事件<rt>じけん</rt></ruby>で、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>取り締ま<rt>とりしま</rt></ruby>ったのは、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>だということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマートフォンは、およそ何時間「圏外」になりましたか。",
+      "tts": "スマートフォンは、およそなんじかん「けんがい」になりましたか。",
+      "ruby": "スマートフォンは、およそ<ruby>何時間<rt>なんじかん</rt></ruby>「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range, no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one hour."
+    },
+    {
+      "speaker": "slow",
+      "text": "機械は、何という古い通信の仕組みを使っていましたか。",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>は、<ruby>何と<rt>なんと</rt></ruby>いう<ruby>古い<rt>ふるい</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>の<span class=\"vw\" data-ja=\"仕組み\" data-reading=\"しくみ\" data-en=\"system, mechanism, how something works\"><ruby>仕組み<rt>しくみ</rt></ruby></span>を<ruby>使って<rt>つかって</rt></ruby>いましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two G, an old network standard."
+    },
+    {
+      "speaker": "slow",
+      "text": "メッセージは、何語で書かれていましたか。",
+      "ruby": "メッセージは、<ruby>何語<rt>なにご</rt></ruby>で<ruby>書か<rt>かか</rt></ruby>れていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Chinese."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
