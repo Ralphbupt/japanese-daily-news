@@ -50,8 +50,19 @@ function hookJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
   return ep.summary.replace(/\.$/, '');
 }
 
-function rfcDate(d: string): string {
-  return new Date(d + 'T12:00:00Z').toUTCString();
+// When the daily cron (tools/auto-episode.sh, CRON_TZ=Asia/Shanghai) publishes
+// each kind of episode: n5 at 07:00, nh at 10:00, n4 at 19:00 Beijing time. The
+// push lands ~5 min later and Cloudflare deploys a few minutes after that.
+// `date` is the Beijing calendar date.
+const PUBLISH_TIME_BJ: Record<string, string> = {
+  'N5-N4': '07:10',
+  'N3-N2': '10:10',
+  'N4-N3': '19:10',
+};
+
+function rfcDate(d: string, level: string): string {
+  const time = PUBLISH_TIME_BJ[level] ?? '12:00';
+  return new Date(`${d}T${time}:00+08:00`).toUTCString();
 }
 
 const SHOW_TEXT: Record<Channel, { description: string; summary: string }> = {
@@ -86,7 +97,7 @@ export function buildRss(channel: Channel): Response {
       <title>${escapeXml(channel === 'nihongo' ? ep.title : `EP ${ep.paddedNum}: ${ep.title}`)}</title>
       <link>${link}</link>
       <guid isPermaLink="true">${link}</guid>
-      <pubDate>${rfcDate(ep.date)}</pubDate>
+      <pubDate>${rfcDate(ep.date, ep.level)}</pubDate>
       <description><![CDATA[${channel === 'nihongo' ? showNotesJa(ep) : showNotes(ep)}]]></description>
       <enclosure url="${audioUrl}" length="${length}" type="audio/mpeg"/>
       <itunes:duration>${durationSec}</itunes:duration>
