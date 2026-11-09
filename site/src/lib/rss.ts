@@ -84,6 +84,9 @@ export function buildRss(channel: Channel): Response {
 
   const items = episodes.map(ep => {
     const audioUrl = `${SITE}/audio/${ep.id}.mp3`;
+    // <link> ends in a slash, as the pages are served (the slashless address 308-redirects: Search Console listed 181
+    // episodes as "Page with redirect", found through this feed, 2026-11-09). <guid> keeps the old address: podcast
+    // apps know each episode by it, and a changed guid would show every episode as new.
     const link = `${SITE}${chp(`/ep/${ep.paddedNum}`, 'en', channel)}`;
 
     let length = 0;
@@ -95,7 +98,7 @@ export function buildRss(channel: Channel): Response {
 
     return `    <item>
       <title>${escapeXml(channel === 'nihongo' ? ep.title : `EP ${ep.paddedNum}: ${ep.title}`)}</title>
-      <link>${link}</link>
+      <link>${link}/</link>
       <guid isPermaLink="true">${link}</guid>
       <pubDate>${rfcDate(ep.date, ep.level)}</pubDate>
       <description><![CDATA[${channel === 'nihongo' ? showNotesJa(ep) : showNotes(ep)}]]></description>
