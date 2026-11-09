@@ -1,0 +1,487 @@
+{
+  "episode": 275,
+  "title": "赤ちゃんの名前ランキング、男の子は「朔」が初の1位",
+  "titleZh": "日本新生儿名字排行榜，男孩名“朔”首次登顶",
+  "titleEn": "Baby name ranking: \"Saku\" tops the boys' list for the first time",
+  "date": "2026-11-10",
+  "source": "たまひよONLINE / Yahoo!ニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026111001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; (〜する) to announce",
+      "zh": "发表，公布"
+    },
+    {
+      "ja": "調べる",
+      "reading": "しらべる",
+      "en": "to look into, to check, to research",
+      "zh": "调查，查"
+    },
+    {
+      "ja": "生まれる",
+      "reading": "うまれる",
+      "en": "to be born",
+      "zh": "出生，诞生"
+    },
+    {
+      "ja": "初めて",
+      "reading": "はじめて",
+      "en": "for the first time",
+      "zh": "第一次，首次"
+    },
+    {
+      "ja": "去年",
+      "reading": "きょねん",
+      "en": "last year",
+      "zh": "去年"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popularity; popular",
+      "zh": "人气，受欢迎"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜られる（受身）",
+      "meaning": "is/was done (passive)",
+      "meaningZh": "被……（被动态）",
+      "formation": "Verb (ない-stem) + れる / られる; する → される",
+      "example": "今年生まれた赤ちゃんの名前のランキングが発表されました。",
+      "translation": "A ranking of the names of babies born this year has been announced.",
+      "note": "News often uses the passive when who did it is not important.",
+      "noteZh": "新闻中常用被动态，当动作的执行者不重要时使用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜でしたが、〜",
+      "meaning": "was ~, but ~",
+      "meaningZh": "虽然是……，但是……",
+      "formation": "Sentence + が + Sentence",
+      "example": "「朔」は、去年は13位でしたが、今年初めて1位になりました。",
+      "translation": "\"Saku\" was 13th last year, but this year it became number 1 for the first time.",
+      "note": "が joins two sentences that contrast with each other.",
+      "noteZh": "が连接两个意思相对的句子，表示转折。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period of time)",
+      "meaningZh": "时隔……",
+      "formation": "Time period + ぶり",
+      "example": "女の子でいちばん多かった名前は「陽葵」で、3年ぶりの1位です。",
+      "translation": "The most common name for girls was \"Himari,\" number 1 for the first time in 3 years.",
+      "note": "Shows that something happens again after a gap of that length of time.",
+      "noteZh": "表示经过一段时间后某事再次发生。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜や〜など",
+      "meaning": "things like ~ and ~",
+      "meaningZh": "……和……等",
+      "formation": "Noun + や + Noun + など",
+      "example": "男の子の名前では、空や光、風など、自然を感じる漢字が人気です。",
+      "translation": "For boys' names, kanji that feel like nature, such as sky, light and wind, are popular.",
+      "note": "Lists a few examples out of a bigger group.",
+      "noteZh": "从更多事物中举出几个例子。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "今年生まれた赤ちゃんの名前のランキングが発表されました。\n今年出生的婴儿名字排行榜公布了。\n発表 = announcement; (〜する) to announce",
+    "赤ちゃんの雑誌などを作っている「たまひよ」が、2005年から毎年調べています。\n制作婴儿杂志等的“Tamahiyo”从2005年起每年都进行调查。\n調べる = to look into, to check, to research",
+    "今年は、1月から9月までに生まれた、およそ16万5000人の赤ちゃんの名前を調べました。\n今年调查了1月至9月出生的约16万5000名婴儿的名字。\n生まれる = to be born",
+    "男の子でいちばん多かった名前は「朔」でした。\n男孩中最多的名字是“朔”。",
+    "「朔」は、去年は13位でしたが、今年初めて1位になりました。\n“朔”去年排名第13位，今年首次登上第1位。\n初めて = for the first time",
+    "去年1位だった「碧」は、2位になりました。\n去年排名第1位的“碧”今年排在第2位。\n去年 = last year",
+    "女の子でいちばん多かった名前は「陽葵」で、3年ぶりの1位です。\n女孩中最多的名字是“阳葵”，时隔3年再次排名第1。",
+    "男の子の名前では、空や光、風など、自然を感じる漢字が人気です。\n男孩名字中，“空”“光”“风”等能让人感受到大自然的汉字很受欢迎。\n人気 = popularity; popular",
+    "女の子の名前では、「葉」や「心」、「花」という漢字を使った名前が多かったです。\n女孩名字中，使用“叶”“心”“花”等汉字的名字很多。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November tenth: what were the most popular names for babies born in Japan this year? Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年生まれた赤ちゃんの名前のランキングが発表されました。",
+      "zh": "今年出生的婴儿名字排行榜公布了。",
+      "en": "A ranking of the names of babies born this year has been announced.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby><ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>のランキングが<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; (〜する) to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの雑誌などを作っている「たまひよ」が、2005年から毎年調べています。",
+      "zh": "制作婴儿杂志等的“Tamahiyo”从2005年起每年都进行调查。",
+      "en": "Tamahiyo, which makes magazines about babies and more, has done this survey every year since 2005.",
+      "tts": "あかちゃんのざっしなどをつくっている「たまひよ」が、にせんごねんからまいとししらべています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>などを<ruby>作っ<rt>つくっ</rt></ruby>ている「たまひよ」が、2005<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、1月から9月までに生まれた、およそ16万5000人の赤ちゃんの名前を調べました。",
+      "zh": "今年调查了1月至9月出生的约16万5000名婴儿的名字。",
+      "en": "This year, it looked at the names of about 165,000 babies born from January to September.",
+      "tts": "ことしは、いちがつからくがつまでにうまれた、およそじゅうろくまんごせんにんのあかちゃんのなまえをしらべました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、1<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までに<ruby>生まれ<rt>うまれ</rt></ruby>た、およそ16<ruby>万<rt>まん</rt></ruby>5000<ruby>人<rt>にん</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男の子でいちばん多かった名前は「朔」でした。",
+      "zh": "男孩中最多的名字是“朔”。",
+      "en": "The most common name for boys was \"Saku.\"",
+      "tts": "おとこのこでいちばんおおかったなまえは「さく」でした。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>でいちばん<ruby>多か<rt>おおか</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>朔<rt>さく</rt></ruby>」でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "「朔」は、去年は13位でしたが、今年初めて1位になりました。",
+      "zh": "“朔”去年排名第13位，今年首次登上第1位。",
+      "en": "\"Saku\" was 13th last year, but this year it became number 1 for the first time.",
+      "tts": "「さく」は、きょねんはじゅうさんいでしたが、ことしはじめていちいになりました。",
+      "ruby": "「<ruby>朔<rt>さく</rt></ruby>」は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>は13<ruby>位<rt>い</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby><span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初<rt>はじ</rt></ruby>めて</span>1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年1位だった「碧」は、2位になりました。",
+      "zh": "去年排名第1位的“碧”今年排在第2位。",
+      "en": "\"Ao,\" which was number 1 last year, came in 2nd.",
+      "tts": "きょねんいちいだった「あお」は、にいになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>1<ruby>位<rt>い</rt></ruby>だった「<ruby>碧<rt>あお</rt></ruby>」は、2<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女の子でいちばん多かった名前は「陽葵」で、3年ぶりの1位です。",
+      "zh": "女孩中最多的名字是“阳葵”，时隔3年再次排名第1。",
+      "en": "The most common name for girls was \"Himari,\" number 1 for the first time in 3 years.",
+      "tts": "おんなのこでいちばんおおかったなまえは「ひまり」で、さんねんぶりのいちいです。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>でいちばん<ruby>多か<rt>おおか</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>陽葵<rt>ひまり</rt></ruby>」で、3<ruby>年<rt>ねん</rt></ruby>ぶりの1<ruby>位<rt>い</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "男の子の名前では、空や光、風など、自然を感じる漢字が人気です。",
+      "zh": "男孩名字中，“空”“光”“风”等能让人感受到大自然的汉字很受欢迎。",
+      "en": "For boys' names, kanji that feel like nature, such as sky, light and wind, are popular.",
+      "tts": "おとこのこのなまえでは、そらやひかり、かぜなど、しぜんをかんじるかんじがにんきです。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>では、<ruby>空<rt>そら</rt></ruby>や<ruby>光<rt>ひかり</rt></ruby>、<ruby>風<rt>かぜ</rt></ruby>など、<ruby>自然<rt>しぜん</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る<ruby>漢字<rt>かんじ</rt></ruby>が<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "女の子の名前では、「葉」や「心」、「花」という漢字を使った名前が多かったです。",
+      "zh": "女孩名字中，使用“叶”“心”“花”等汉字的名字很多。",
+      "en": "For girls' names, there were many names using the kanji for leaf, heart and flower.",
+      "tts": "おんなのこのなまえでは、「は」や「こころ」、「はな」というかんじをつかったなまえがおおかったです。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>では、「<ruby>葉<rt>は</rt></ruby>」や「<ruby>心<rt>こころ</rt></ruby>」、「<ruby>花<rt>はな</rt></ruby>」という<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby><ruby>名前<rt>なまえ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年生まれた赤ちゃんの名前のランキングが発表されました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby><ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>のランキングが<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; (〜する) to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A ranking of the names of babies born this year has been announced."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; (〜する) to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means announcement. With the verb to do, it means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんの雑誌などを作っている「たまひよ」が、2005年から毎年調べています。",
+      "tts": "あかちゃんのざっしなどをつくっている「たまひよ」が、にせんごねんからまいとししらべています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>などを<ruby>作っ<rt>つくっ</rt></ruby>ている「たまひよ」が、2005<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "A company that makes baby magazines has done this survey every year since two thousand and five."
+    },
+    {
+      "speaker": "vocab",
+      "text": "調べる",
+      "ruby": "<span class=\"vw\" data-ja=\"調べる\" data-reading=\"しらべる\" data-en=\"to look into, to check, to research\"><ruby>調べ<rt>しらべ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to look into, to check, to research."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、1月から9月までに生まれた、およそ16万5000人の赤ちゃんの名前を調べました。",
+      "tts": "ことしは、いちがつからくがつまでにうまれた、およそじゅうろくまんごせんにんのあかちゃんのなまえをしらべました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、1<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までに<ruby>生まれ<rt>うまれ</rt></ruby>た、およそ16<ruby>万<rt>まん</rt></ruby>5000<ruby>人<rt>にん</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, it looked at the names of about one hundred sixty-five thousand babies born from January to September."
+    },
+    {
+      "speaker": "vocab",
+      "text": "生まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"生まれる\" data-reading=\"うまれる\" data-en=\"to be born\"><ruby>生まれ<rt>うまれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be born."
+    },
+    {
+      "speaker": "slow",
+      "text": "男の子でいちばん多かった名前は「朔」でした。",
+      "tts": "おとこのこでいちばんおおかったなまえは「さく」でした。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>でいちばん<ruby>多か<rt>おおか</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>朔<rt>さく</rt></ruby>」でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The most common boy's name was a one-kanji name. The kanji means the first day of the moon's cycle."
+    },
+    {
+      "speaker": "slow",
+      "text": "「朔」は、去年は13位でしたが、今年初めて1位になりました。",
+      "tts": "「さく」は、きょねんはじゅうさんいでしたが、ことしはじめていちいになりました。",
+      "ruby": "「<ruby>朔<rt>さく</rt></ruby>」は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>は13<ruby>位<rt>い</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby><span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初<rt>はじ</rt></ruby>めて</span>1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This name was thirteenth last year, but this year it became number one for the first time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初めて",
+      "ruby": "<span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初めて<rt>はじめて</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means for the first time."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年1位だった「碧」は、2位になりました。",
+      "tts": "きょねんいちいだった「あお」は、にいになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>1<ruby>位<rt>い</rt></ruby>だった「<ruby>碧<rt>あお</rt></ruby>」は、2<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year's number one, a kanji meaning deep blue-green, came in second."
+    },
+    {
+      "speaker": "vocab",
+      "text": "去年",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means last year."
+    },
+    {
+      "speaker": "slow",
+      "text": "女の子でいちばん多かった名前は「陽葵」で、3年ぶりの1位です。",
+      "tts": "おんなのこでいちばんおおかったなまえは「ひまり」で、さんねんぶりのいちいです。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>でいちばん<ruby>多か<rt>おおか</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>陽葵<rt>ひまり</rt></ruby>」で、3<ruby>年<rt>ねん</rt></ruby>ぶりの1<ruby>位<rt>い</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The most common girl's name uses the kanji for sun and a flower. It is number one again for the first time in three years."
+    },
+    {
+      "speaker": "slow",
+      "text": "男の子の名前では、空や光、風など、自然を感じる漢字が人気です。",
+      "tts": "おとこのこのなまえでは、そらやひかり、かぜなど、しぜんをかんじるかんじがにんきです。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>では、<ruby>空<rt>そら</rt></ruby>や<ruby>光<rt>ひかり</rt></ruby>、<ruby>風<rt>かぜ</rt></ruby>など、<ruby>自然<rt>しぜん</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る<ruby>漢字<rt>かんじ</rt></ruby>が<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "For boys, kanji that feel like nature, such as sky, light and wind, are popular."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popularity. Popular things have a lot of it."
+    },
+    {
+      "speaker": "slow",
+      "text": "女の子の名前では、「葉」や「心」、「花」という漢字を使った名前が多かったです。",
+      "tts": "おんなのこのなまえでは、「は」や「こころ」、「はな」というかんじをつかったなまえがおおかったです。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>では、「<ruby>葉<rt>は</rt></ruby>」や「<ruby>心<rt>こころ</rt></ruby>」、「<ruby>花<rt>はな</rt></ruby>」という<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby><ruby>名前<rt>なまえ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "host",
+      "text": "For girls, many names used the kanji for leaf, heart and flower."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "今日のニュースです。",
+      "zh": "今天的新闻。",
+      "en": "Here is today's news.",
+      "ruby": "<ruby>今日<rt>きょう</rt></ruby>のニュースです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年生まれた赤ちゃんの名前のランキングが発表されました。",
+      "zh": "今年出生的婴儿名字排行榜公布了。",
+      "en": "A ranking of the names of babies born this year has been announced.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby><ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>のランキングが<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; (〜する) to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの雑誌などを作っている「たまひよ」が、2005年から毎年調べています。",
+      "zh": "制作婴儿杂志等的“Tamahiyo”从2005年起每年都进行调查。",
+      "en": "Tamahiyo, which makes magazines about babies and more, has done this survey every year since 2005.",
+      "tts": "あかちゃんのざっしなどをつくっている「たまひよ」が、にせんごねんからまいとししらべています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>などを<ruby>作っ<rt>つくっ</rt></ruby>ている「たまひよ」が、2005<ruby>年<rt>ねん</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>調べ<rt>しらべ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、1月から9月までに生まれた、およそ16万5000人の赤ちゃんの名前を調べました。",
+      "zh": "今年调查了1月至9月出生的约16万5000名婴儿的名字。",
+      "en": "This year, it looked at the names of about 165,000 babies born from January to September.",
+      "tts": "ことしは、いちがつからくがつまでにうまれた、およそじゅうろくまんごせんにんのあかちゃんのなまえをしらべました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、1<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までに<ruby>生まれ<rt>うまれ</rt></ruby>た、およそ16<ruby>万<rt>まん</rt></ruby>5000<ruby>人<rt>にん</rt></ruby>の<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "男の子でいちばん多かった名前は「朔」でした。",
+      "zh": "男孩中最多的名字是“朔”。",
+      "en": "The most common name for boys was \"Saku.\"",
+      "tts": "おとこのこでいちばんおおかったなまえは「さく」でした。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>でいちばん<ruby>多か<rt>おおか</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>朔<rt>さく</rt></ruby>」でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "「朔」は、去年は13位でしたが、今年初めて1位になりました。",
+      "zh": "“朔”去年排名第13位，今年首次登上第1位。",
+      "en": "\"Saku\" was 13th last year, but this year it became number 1 for the first time.",
+      "tts": "「さく」は、きょねんはじゅうさんいでしたが、ことしはじめていちいになりました。",
+      "ruby": "「<ruby>朔<rt>さく</rt></ruby>」は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>は13<ruby>位<rt>い</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby><span class=\"vw\" data-ja=\"初めて\" data-reading=\"はじめて\" data-en=\"for the first time\"><ruby>初<rt>はじ</rt></ruby>めて</span>1<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年1位だった「碧」は、2位になりました。",
+      "zh": "去年排名第1位的“碧”今年排在第2位。",
+      "en": "\"Ao,\" which was number 1 last year, came in 2nd.",
+      "tts": "きょねんいちいだった「あお」は、にいになりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span>1<ruby>位<rt>い</rt></ruby>だった「<ruby>碧<rt>あお</rt></ruby>」は、2<ruby>位<rt>い</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "女の子でいちばん多かった名前は「陽葵」で、3年ぶりの1位です。",
+      "zh": "女孩中最多的名字是“阳葵”，时隔3年再次排名第1。",
+      "en": "The most common name for girls was \"Himari,\" number 1 for the first time in 3 years.",
+      "tts": "おんなのこでいちばんおおかったなまえは「ひまり」で、さんねんぶりのいちいです。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>でいちばん<ruby>多か<rt>おおか</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>陽葵<rt>ひまり</rt></ruby>」で、3<ruby>年<rt>ねん</rt></ruby>ぶりの1<ruby>位<rt>い</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "男の子の名前では、空や光、風など、自然を感じる漢字が人気です。",
+      "zh": "男孩名字中，“空”“光”“风”等能让人感受到大自然的汉字很受欢迎。",
+      "en": "For boys' names, kanji that feel like nature, such as sky, light and wind, are popular.",
+      "tts": "おとこのこのなまえでは、そらやひかり、かぜなど、しぜんをかんじるかんじがにんきです。",
+      "ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>では、<ruby>空<rt>そら</rt></ruby>や<ruby>光<rt>ひかり</rt></ruby>、<ruby>風<rt>かぜ</rt></ruby>など、<ruby>自然<rt>しぜん</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る<ruby>漢字<rt>かんじ</rt></ruby>が<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "女の子の名前では、「葉」や「心」、「花」という漢字を使った名前が多かったです。",
+      "zh": "女孩名字中，使用“叶”“心”“花”等汉字的名字很多。",
+      "en": "For girls' names, there were many names using the kanji for leaf, heart and flower.",
+      "tts": "おんなのこのなまえでは、「は」や「こころ」、「はな」というかんじをつかったなまえがおおかったです。",
+      "ruby": "<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>では、「<ruby>葉<rt>は</rt></ruby>」や「<ruby>心<rt>こころ</rt></ruby>」、「<ruby>花<rt>はな</rt></ruby>」という<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby><ruby>名前<rt>なまえ</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、何人ぐらいの赤ちゃんの名前を調べましたか。",
+      "tts": "ことしは、なんにんぐらいのあかちゃんのなまえをしらべましたか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>何人<rt>なんにん</rt></ruby>ぐらいの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one hundred sixty-five thousand babies."
+    },
+    {
+      "speaker": "slow",
+      "text": "「朔」は、去年何位でしたか。",
+      "tts": "「さく」は、きょねんなんいでしたか。",
+      "ruby": "「<ruby>朔<rt>さく</rt></ruby>」は、<span class=\"vw\" data-ja=\"去年\" data-reading=\"きょねん\" data-en=\"last year\"><ruby>去年<rt>きょねん</rt></ruby></span><ruby>何位<rt>なんい</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirteenth place."
+    },
+    {
+      "speaker": "slow",
+      "text": "「陽葵」は、何年ぶりの1位ですか。",
+      "tts": "「ひまり」は、なんねんぶりのいちいですか。",
+      "ruby": "「<ruby>陽葵<rt>ひまり</rt></ruby>」は、<ruby>何年<rt>なんねん</rt></ruby>ぶりの1<ruby>位<rt>い</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three years. It is number one again for the first time in three years."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. If you had a Japanese name, which kanji would you choose? Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
