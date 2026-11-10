@@ -1,0 +1,482 @@
+{
+  "episode": 277,
+  "title": "タッチしないで通れる改札、山手線の全駅に",
+  "titleZh": "手机不用刷也能过闸，JR东日本推出新检票口",
+  "titleEn": "JR East to bring touch-free walk-through ticket gates to Yamanote Line",
+  "date": "2026-11-11",
+  "source": "NHK / 朝日新聞 / スマートモビリティJP",
+  "level": "N5-N4",
+  "contentVersion": "2026111101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "改札",
+      "reading": "かいさつ",
+      "en": "ticket gate",
+      "zh": "检票口"
+    },
+    {
+      "ja": "通る",
+      "reading": "とおる",
+      "en": "to go through; to pass",
+      "zh": "通过，经过"
+    },
+    {
+      "ja": "開く",
+      "reading": "あく",
+      "en": "to open",
+      "zh": "打开，开"
+    },
+    {
+      "ja": "必要",
+      "reading": "ひつよう",
+      "en": "necessary; needed",
+      "zh": "必要，需要"
+    },
+    {
+      "ja": "試しに",
+      "reading": "ためしに",
+      "en": "as a trial; to try out",
+      "zh": "试着，试一试"
+    },
+    {
+      "ja": "荷物",
+      "reading": "にもつ",
+      "en": "luggage; bags",
+      "zh": "行李，随身物品"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜なくても",
+      "meaning": "even without doing ~",
+      "meaningZh": "即使不……也……",
+      "formation": "Verb (ない-form) − い + くても",
+      "example": "新しい改札では、タッチしなくても、歩いたまま通ることができます。",
+      "translation": "With the new gates, you can walk through without touching anything.",
+      "note": "Says the result happens even if you don't do the action.",
+      "noteZh": "表示即使不做某个动作，结果也会成立。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜たまま",
+      "meaning": "while still ~; leaving it as it is",
+      "meaningZh": "保持……的状态",
+      "formation": "Verb (た-form) + まま",
+      "example": "スマホをポケットやかばんに入れたままでも、ゲートが開きます。",
+      "translation": "The gate opens even if your smartphone stays in your pocket or bag.",
+      "note": "Something stays in the same state while something else happens.",
+      "noteZh": "表示保持某种状态不变，同时发生另一件事。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can do ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "Verb (dictionary form) + ことができる",
+      "example": "新しい改札では、タッチしなくても、歩いたまま通ることができます。",
+      "translation": "With the new gates, you can walk through without touching anything.",
+      "note": "A slightly formal way to say something is possible.",
+      "noteZh": "表示可能，语气比可能形稍正式。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "come to be able to ~; it becomes possible to ~",
+      "meaningZh": "变得（能）……",
+      "formation": "Verb (potential / dictionary form) + ようになる",
+      "example": "そして2028年の春から、山手線のすべての駅など、40の駅で使えるようになります。",
+      "translation": "Then from spring 2028, it will be usable at 40 stations.",
+      "note": "Shows a change: something not possible before becomes possible.",
+      "noteZh": "表示状态的变化：以前不能的事变得可以了。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "JR東日本は、新しい「ウォークスルー改札」を始めると発表しました。\nJR东日本宣布将推出新的“步行通过式检票口”。\n改札 = ticket gate",
+    "今は、駅の改札を通るとき、ICカードやスマホを機械にタッチします。\n现在，通过车站检票口时，要把IC卡或手机贴在机器上。\n通る = to go through; to pass",
+    "新しい改札では、タッチしなくても、歩いたまま通ることができます。\n新的检票口不用刷卡，边走就能通过。",
+    "スマホをポケットやかばんに入れたままでも、ゲートが開きます。\n即使手机放在口袋或包里，闸门也会打开。\n開く = to open",
+    "使うには、モバイルSuicaを入れた、決まったスマホが必要です。\n使用时，需要装有“移动Suica”的指定手机。\n必要 = necessary; needed",
+    "顔の写真を登録する必要はありません。\n不需要登记面部照片。",
+    "2027年4月からは、東京や新宿など14の駅で、およそ400人が試しに使います。\n从2027年4月起，约400人将在东京、新宿等14个车站试用。\n試しに = as a trial; to try out",
+    "そして2028年の春から、山手線のすべての駅など、40の駅で使えるようになります。\n然后从2028年春天起，山手线所有车站等40个车站都可以使用。",
+    "社長は、大きな荷物を持っている人や、ベビーカーを押している人も、楽に通れるようになると話しました。\n社长表示，提着大件行李的人和推着婴儿车的人也能轻松通过。\n荷物 = luggage; bags",
+    "JR東日本は、2032年の3月までに、およそ550の駅で使えるようにしたいと考えています。\nJR东日本希望到2032年3月前，让约550个车站都能使用。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November eleventh: in Tokyo, you may soon walk through train ticket gates without touching anything at all. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、新しい「ウォークスルー改札」を始めると発表しました。",
+      "zh": "JR东日本宣布将推出新的“步行通过式检票口”。",
+      "en": "JR East announced that it will start new \"walk-through ticket gates.\"",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>「ウォークスルー<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>」を<ruby>始め<rt>はじめ</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今は、駅の改札を通るとき、ICカードやスマホを機械にタッチします。",
+      "zh": "现在，通过车站检票口时，要把IC卡或手机贴在机器上。",
+      "en": "Now, when you go through a station ticket gate, you touch an IC card or a smartphone to the machine.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>の<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>とき、ICカードやスマホを<ruby>機械<rt>きかい</rt></ruby>にタッチします。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい改札では、タッチしなくても、歩いたまま通ることができます。",
+      "zh": "新的检票口不用刷卡，边走就能通过。",
+      "en": "With the new gates, you can walk straight through without touching anything.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>では、タッチしなくても、<ruby>歩い<rt>あるい</rt></ruby>たまま<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマホをポケットやかばんに入れたままでも、ゲートが開きます。",
+      "zh": "即使手机放在口袋或包里，闸门也会打开。",
+      "en": "The gate opens even if your smartphone stays in your pocket or bag.",
+      "ruby": "スマホをポケットやかばんに<ruby>入れ<rt>いれ</rt></ruby>たままでも、ゲートが<ruby>開き<rt>あき</rt></ruby>ます。",
+      "tts": "スマホをポケットやかばんにいれたままでも、ゲートがあきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "使うには、モバイルSuicaを入れた、決まったスマホが必要です。",
+      "zh": "使用时，需要装有“移动Suica”的指定手机。",
+      "en": "To use it, you need a designated smartphone with Mobile Suica on it.",
+      "tts": "つかうには、モバイルスイカをいれた、きまったスマホがひつようです。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby>には、モバイルSuicaを<ruby>入れ<rt>いれ</rt></ruby>た、<ruby>決ま<rt>きま</rt></ruby>ったスマホが<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "顔の写真を登録する必要はありません。",
+      "zh": "不需要登记面部照片。",
+      "en": "You do not need to register a photo of your face.",
+      "ruby": "<ruby>顔<rt>かお</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>登録<rt>とうろく</rt></ruby>する<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "2027年4月からは、東京や新宿など14の駅で、およそ400人が試しに使います。",
+      "zh": "从2027年4月起，约400人将在东京、新宿等14个车站试用。",
+      "en": "From April 2027, about 400 people will try it out at 14 stations, such as Tokyo and Shinjuku.",
+      "ruby": "2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>からは、<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>新宿<rt>しんじゅく</rt></ruby>など14の<ruby>駅<rt>えき</rt></ruby>で、およそ400<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial; to try out\"><ruby>試し<rt>ためし</rt></ruby>に</span><ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして2028年の春から、山手線のすべての駅など、40の駅で使えるようになります。",
+      "zh": "然后从2028年春天起，山手线所有车站等40个车站都可以使用。",
+      "en": "Then from spring 2028, it will be usable at 40 stations, including every station on the Yamanote Line.",
+      "tts": "そしてにせんにじゅうはちねんのはるから、やまのてせんのすべてのえきなど、よんじゅうのえきでつかえるようになります。",
+      "ruby": "そして2028<ruby>年<rt>ねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>山手線<rt>やまのてせん</rt></ruby>のすべての<ruby>駅<rt>えき</rt></ruby>など、40の<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "社長は、大きな荷物を持っている人や、ベビーカーを押している人も、楽に通れるようになると話しました。",
+      "zh": "社长表示，提着大件行李的人和推着婴儿车的人也能轻松通过。",
+      "en": "The company president said people carrying big bags or pushing strollers will also be able to get through easily.",
+      "ruby": "<ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; bags\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>や、ベビーカーを<ruby>押し<rt>おし</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>も、<ruby>楽<rt>らく</rt></ruby>に<ruby>通れ<rt>とおれ</rt></ruby>るようになると<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、2032年の3月までに、およそ550の駅で使えるようにしたいと考えています。",
+      "zh": "JR东日本希望到2032年3月前，让约550个车站都能使用。",
+      "en": "JR East hopes to make it usable at about 550 stations by March 2032.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、2032<ruby>年<rt>ねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby>までに、およそ550の<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようにしたいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、新しい「ウォークスルー改札」を始めると発表しました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>「ウォークスルー<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>」を<ruby>始め<rt>はじめ</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR East announced that it will start new walk-through ticket gates."
+    },
+    {
+      "speaker": "vocab",
+      "text": "改札",
+      "ruby": "<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ticket gate, the gate you pass through at a train station."
+    },
+    {
+      "speaker": "slow",
+      "text": "今は、駅の改札を通るとき、ICカードやスマホを機械にタッチします。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>の<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>とき、ICカードやスマホを<ruby>機械<rt>きかい</rt></ruby>にタッチします。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now, when you go through a ticket gate, you touch an IC card or a smartphone to the machine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "通る",
+      "ruby": "<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>",
+      "tts": "とおる"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to go through, or to pass."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい改札では、タッチしなくても、歩いたまま通ることができます。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>では、タッチしなくても、<ruby>歩い<rt>あるい</rt></ruby>たまま<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "With the new gates, you can keep walking and go through, without touching anything."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマホをポケットやかばんに入れたままでも、ゲートが開きます。",
+      "ruby": "スマホをポケットやかばんに<ruby>入れ<rt>いれ</rt></ruby>たままでも、ゲートが<ruby>開き<rt>あき</rt></ruby>ます。",
+      "tts": "スマホをポケットやかばんにいれたままでも、ゲートがあきます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The gate opens even if your phone stays in your pocket or bag."
+    },
+    {
+      "speaker": "vocab",
+      "text": "開く",
+      "ruby": "<span class=\"vw\" data-ja=\"開く\" data-reading=\"ひらく\" data-en=\"to open\"><ruby>開く<rt>あく</rt></ruby></span>",
+      "tts": "あく"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to open, when a door or gate opens by itself."
+    },
+    {
+      "speaker": "slow",
+      "text": "使うには、モバイルSuicaを入れた、決まったスマホが必要です。",
+      "tts": "つかうには、モバイルスイカをいれた、きまったスマホがひつようです。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby>には、モバイルSuicaを<ruby>入れ<rt>いれ</rt></ruby>た、<ruby>決ま<rt>きま</rt></ruby>ったスマホが<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "To use it, you need a certain kind of smartphone with the train pass app on it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "必要",
+      "ruby": "<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means necessary, or needed."
+    },
+    {
+      "speaker": "slow",
+      "text": "顔の写真を登録する必要はありません。",
+      "ruby": "<ruby>顔<rt>かお</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>登録<rt>とうろく</rt></ruby>する<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "You do not need to register a photo of your face."
+    },
+    {
+      "speaker": "slow",
+      "text": "2027年4月からは、東京や新宿など14の駅で、およそ400人が試しに使います。",
+      "ruby": "2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>からは、<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>新宿<rt>しんじゅく</rt></ruby>など14の<ruby>駅<rt>えき</rt></ruby>で、およそ400<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial; to try out\"><ruby>試し<rt>ためし</rt></ruby>に</span><ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From April twenty twenty-seven, about four hundred people will try it at fourteen stations, such as Tokyo and Shinjuku."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試しに",
+      "ruby": "<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial; to try out\"><ruby>試し<rt>ためし</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means as a trial, to try something out."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして2028年の春から、山手線のすべての駅など、40の駅で使えるようになります。",
+      "tts": "そしてにせんにじゅうはちねんのはるから、やまのてせんのすべてのえきなど、よんじゅうのえきでつかえるようになります。",
+      "ruby": "そして2028<ruby>年<rt>ねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>山手線<rt>やまのてせん</rt></ruby>のすべての<ruby>駅<rt>えき</rt></ruby>など、40の<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then from spring twenty twenty-eight, it can be used at forty stations, including every station on the Yamanote Line, the big loop line in Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "社長は、大きな荷物を持っている人や、ベビーカーを押している人も、楽に通れるようになると話しました。",
+      "ruby": "<ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; bags\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>や、ベビーカーを<ruby>押し<rt>おし</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>も、<ruby>楽<rt>らく</rt></ruby>に<ruby>通れ<rt>とおれ</rt></ruby>るようになると<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company president said people with big bags or pushing strollers can also go through easily."
+    },
+    {
+      "speaker": "vocab",
+      "text": "荷物",
+      "ruby": "<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; bags\"><ruby>荷物<rt>にもつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means bags or luggage, things you carry."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、2032年の3月までに、およそ550の駅で使えるようにしたいと考えています。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、2032<ruby>年<rt>ねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby>までに、およそ550の<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようにしたいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR East hopes to make it usable at about five hundred fifty stations by March twenty thirty-two."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、新しい「ウォークスルー改札」を始めると発表しました。",
+      "zh": "JR东日本宣布将推出新的“步行通过式检票口”。",
+      "en": "JR East announced that it will start new \"walk-through ticket gates.\"",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>新しい<rt>あたらしい</rt></ruby>「ウォークスルー<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>」を<ruby>始め<rt>はじめ</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今は、駅の改札を通るとき、ICカードやスマホを機械にタッチします。",
+      "zh": "现在，通过车站检票口时，要把IC卡或手机贴在机器上。",
+      "en": "Now, when you go through a station ticket gate, you touch an IC card or a smartphone to the machine.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>の<span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>を<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>とき、ICカードやスマホを<ruby>機械<rt>きかい</rt></ruby>にタッチします。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい改札では、タッチしなくても、歩いたまま通ることができます。",
+      "zh": "新的检票口不用刷卡，边走就能通过。",
+      "en": "With the new gates, you can walk straight through without touching anything.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>では、タッチしなくても、<ruby>歩い<rt>あるい</rt></ruby>たまま<span class=\"vw\" data-ja=\"通る\" data-reading=\"とおる\" data-en=\"to go through; to pass\"><ruby>通る<rt>とおる</rt></ruby></span>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマホをポケットやかばんに入れたままでも、ゲートが開きます。",
+      "zh": "即使手机放在口袋或包里，闸门也会打开。",
+      "en": "The gate opens even if your smartphone stays in your pocket or bag.",
+      "ruby": "スマホをポケットやかばんに<ruby>入れ<rt>いれ</rt></ruby>たままでも、ゲートが<ruby>開き<rt>あき</rt></ruby>ます。",
+      "tts": "スマホをポケットやかばんにいれたままでも、ゲートがあきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "使うには、モバイルSuicaを入れた、決まったスマホが必要です。",
+      "zh": "使用时，需要装有“移动Suica”的指定手机。",
+      "en": "To use it, you need a designated smartphone with Mobile Suica on it.",
+      "tts": "つかうには、モバイルスイカをいれた、きまったスマホがひつようです。",
+      "ruby": "<ruby>使う<rt>つかう</rt></ruby>には、モバイルSuicaを<ruby>入れ<rt>いれ</rt></ruby>た、<ruby>決ま<rt>きま</rt></ruby>ったスマホが<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "顔の写真を登録する必要はありません。",
+      "zh": "不需要登记面部照片。",
+      "en": "You do not need to register a photo of your face.",
+      "ruby": "<ruby>顔<rt>かお</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>登録<rt>とうろく</rt></ruby>する<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>はありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "2027年4月からは、東京や新宿など14の駅で、およそ400人が試しに使います。",
+      "zh": "从2027年4月起，约400人将在东京、新宿等14个车站试用。",
+      "en": "From April 2027, about 400 people will try it out at 14 stations, such as Tokyo and Shinjuku.",
+      "ruby": "2027<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>からは、<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>新宿<rt>しんじゅく</rt></ruby>など14の<ruby>駅<rt>えき</rt></ruby>で、およそ400<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"試しに\" data-reading=\"ためしに\" data-en=\"as a trial; to try out\"><ruby>試し<rt>ためし</rt></ruby>に</span><ruby>使い<rt>つかい</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして2028年の春から、山手線のすべての駅など、40の駅で使えるようになります。",
+      "zh": "然后从2028年春天起，山手线所有车站等40个车站都可以使用。",
+      "en": "Then from spring 2028, it will be usable at 40 stations, including every station on the Yamanote Line.",
+      "tts": "そしてにせんにじゅうはちねんのはるから、やまのてせんのすべてのえきなど、よんじゅうのえきでつかえるようになります。",
+      "ruby": "そして2028<ruby>年<rt>ねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>山手線<rt>やまのてせん</rt></ruby>のすべての<ruby>駅<rt>えき</rt></ruby>など、40の<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "社長は、大きな荷物を持っている人や、ベビーカーを押している人も、楽に通れるようになると話しました。",
+      "zh": "社长表示，提着大件行李的人和推着婴儿车的人也能轻松通过。",
+      "en": "The company president said people carrying big bags or pushing strollers will also be able to get through easily.",
+      "ruby": "<ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"荷物\" data-reading=\"にもつ\" data-en=\"luggage; bags\"><ruby>荷物<rt>にもつ</rt></ruby></span>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>や、ベビーカーを<ruby>押し<rt>おし</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>も、<ruby>楽<rt>らく</rt></ruby>に<ruby>通れ<rt>とおれ</rt></ruby>るようになると<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、2032年の3月までに、およそ550の駅で使えるようにしたいと考えています。",
+      "zh": "JR东日本希望到2032年3月前，让约550个车站都能使用。",
+      "en": "JR East hopes to make it usable at about 550 stations by March 2032.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、2032<ruby>年<rt>ねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby>までに、およそ550の<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようにしたいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい改札では、スマホをどこに入れたままでも通れますか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"改札\" data-reading=\"かいさつ\" data-en=\"ticket gate\"><ruby>改札<rt>かいさつ</rt></ruby></span>では、スマホをどこに<ruby>入れ<rt>いれ</rt></ruby>たままでも<ruby>通れ<rt>とおれ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In your pocket or in your bag."
+    },
+    {
+      "speaker": "slow",
+      "text": "2028年の春から、いくつの駅で使えるようになりますか。",
+      "tts": "にせんにじゅうはちねんのはるから、いくつのえきでつかえるようになりますか。",
+      "ruby": "2028<ruby>年<rt>ねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、いくつの<ruby>駅<rt>えき</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>るようになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Forty stations."
+    },
+    {
+      "speaker": "slow",
+      "text": "顔の写真を登録する必要がありますか。",
+      "ruby": "<ruby>顔<rt>かお</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>登録<rt>とうろく</rt></ruby>する<span class=\"vw\" data-ja=\"必要\" data-reading=\"ひつよう\" data-en=\"necessary; needed\"><ruby>必要<rt>ひつよう</rt></ruby></span>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No. You do not need to register a photo of your face."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for this morning. Would you like to walk through the gate with your phone in your bag? Thanks for listening, and see you next time."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
