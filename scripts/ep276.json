@@ -1,0 +1,629 @@
+{
+  "episode": 276,
+  "title": "女子ゴルフ・佐久間朱莉、アメリカツアーで初優勝",
+  "titleZh": "女子高尔夫佐久间朱莉逆转夺得美巡赛首冠",
+  "titleEn": "Golfer Shuri Sakuma comes from behind for her first LPGA win",
+  "date": "2026-11-10",
+  "source": "GDO / 時事通信 / ゴルフ情報ALBA / e!Golf",
+  "level": "N4-N3",
+  "contentVersion": "2026111001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "逆転",
+      "reading": "ぎゃくてん",
+      "en": "comeback, reversal",
+      "zh": "逆转"
+    },
+    {
+      "ja": "差",
+      "reading": "さ",
+      "en": "difference, gap, margin",
+      "zh": "差距，差别"
+    },
+    {
+      "ja": "一気に",
+      "reading": "いっきに",
+      "en": "all at once, in one go",
+      "zh": "一口气，一举"
+    },
+    {
+      "ja": "賞金",
+      "reading": "しょうきん",
+      "en": "prize money",
+      "zh": "奖金"
+    },
+    {
+      "ja": "資格",
+      "reading": "しかく",
+      "en": "qualification, eligibility",
+      "zh": "资格"
+    },
+    {
+      "ja": "半々",
+      "reading": "はんはん",
+      "en": "half and half, fifty-fifty",
+      "zh": "一半一半"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜にとって",
+      "meaning": "for ~, from the standpoint of ~",
+      "meaningZh": "对……来说",
+      "formation": "Noun + にとって",
+      "example": "佐久間選手にとって、アメリカのツアーで初めての優勝です。",
+      "translation": "It is Sakuma's first win on the U.S. tour.",
+      "note": "Shows whose point of view something matters from.",
+      "noteZh": "表示从某人的立场或角度来看。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ていて、〜",
+      "meaning": "has been doing ~, and ~ (connecting a state)",
+      "meaningZh": "……着，并且……",
+      "formation": "Verb て-form + いて",
+      "example": "佐久間選手は、日本のツアーでも前の週に優勝していて、2週続けての優勝です。",
+      "translation": "Sakuma had also won on the Japanese tour the week before, making it two wins in a row.",
+      "note": "The て-form of 〜ている, used to link a background fact to the next clause.",
+      "noteZh": "「〜ている」的て形，用来把背景事实和后句连接起来。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~, be able to ~",
+      "meaningZh": "能够……",
+      "formation": "Verb dictionary form + ことができる",
+      "example": "佐久間選手は「去年できなかった5勝目を、1年で挙げることができて、うれしいです」と話しました。",
+      "translation": "Sakuma said, \"I'm happy I was able to get the fifth win in one year, which I couldn't do last year.\"",
+      "note": "A slightly formal way to say someone is able to do something.",
+      "noteZh": "表示能够做某事，比可能形稍正式。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否……",
+      "formation": "Plain form + かどうか",
+      "example": "一方、アメリカに行くかどうかについては「今は半々ぐらい」と話し、まだ決めていないということです。",
+      "translation": "On whether she will go to America, however, she said \"right now it's about fifty-fifty,\" and reportedly has not decided yet.",
+      "note": "Turns a yes/no question into part of a sentence.",
+      "noteZh": "把是非疑问句变成句子的一部分。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is reported that ~",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "一方、アメリカに行くかどうかについては「今は半々ぐらい」と話し、まだ決めていないということです。",
+      "translation": "On whether she will go to America, however, she said \"right now it's about fifty-fifty,\" and reportedly has not decided yet.",
+      "note": "News phrase for passing on information heard from others.",
+      "noteZh": "新闻中转述所得信息的常用说法。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "アメリカの女子ゴルフツアーの大会「TOTOジャパンクラシック」が、茨城県で行われました。\n美国女子高尔夫巡回赛的赛事“TOTO日本精英赛”在茨城县举行。",
+    "8日の最終日、23歳の佐久間朱莉選手が、逆転で優勝しました。\n在8日的最后一轮，23岁的佐久间朱莉选手逆转夺冠。\n逆転 = comeback, reversal",
+    "佐久間選手にとって、アメリカのツアーで初めての優勝です。\n这是佐久间选手在美国巡回赛上的首个冠军。",
+    "佐久間選手は、1位と3打差の5位で、最終日をスタートしました。\n佐久间选手以落后第一名3杆、排名第5的位置开始了最后一轮。\n差 = difference, gap, margin",
+    "この日はボギーが一つもなく、バーディーを8つ取りました。\n这一天她没有一个柏忌，抓下了8只小鸟。",
+    "特に後半は、11番から5つのホールで続けてバーディーを取り、一気にトップに立ちました。\n尤其是后半程，她从11号洞起连续5个洞抓到小鸟，一举升至首位。\n一気に = all at once, in one go",
+    "通算20アンダーで、2位の選手に4打の差をつけて優勝しました。\n她以总成绩低于标准杆20杆，领先第二名4杆夺冠。",
+    "2位から4位も、全員日本の選手でした。\n第2名到第4名也全都是日本选手。",
+    "佐久間選手は、日本のツアーでも前の週に優勝していて、2週続けての優勝です。\n佐久间选手前一周也在日本巡回赛上夺冠，这是她连续两周夺冠。",
+    "日本のツアーでは、今シーズン5回目の優勝になりました。\n在日本巡回赛上，这是她本赛季第5个冠军。",
+    "佐久間選手は、賞金31万5000ドル、日本円でおよそ4990万円を手にしました。\n佐久间选手获得了31万5000美元的奖金，约合4990万日元。\n賞金 = prize money",
+    "また、来年のアメリカのツアーに出る資格も得ました。\n同时，她还获得了明年参加美国巡回赛的资格。\n資格 = qualification, eligibility",
+    "佐久間選手は「去年できなかった5勝目を、1年で挙げることができて、うれしいです」と話しました。\n佐久间选手说：“去年没能实现的一年5胜，今年做到了，我很高兴。”",
+    "一方、アメリカに行くかどうかについては「今は半々ぐらい」と話し、まだ決めていないということです。\n另一方面，关于是否去美国，她表示“现在大概一半一半”，据说还没有做出决定。\n半々 = half and half, fifty-fifty"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November tenth: a young golfer came from behind to win her first American tour title, at a tournament in Japan. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの女子ゴルフツアーの大会「TOTOジャパンクラシック」が、茨城県で行われました。",
+      "zh": "美国女子高尔夫巡回赛的赛事“TOTO日本精英赛”在茨城县举行。",
+      "en": "The U.S. women's golf tour event, the TOTO Japan Classic, was held in Ibaraki Prefecture.",
+      "tts": "アメリカの女子ゴルフツアーの大会「トートージャパンクラシック」が、茨城県で行われました。",
+      "ruby": "アメリカの<ruby>女子<rt>じょし</rt></ruby>ゴルフツアーの<ruby>大会<rt>たいかい</rt></ruby>「TOTOジャパンクラシック」が、<ruby>茨城県<rt>いばらきけん</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の最終日、23歳の佐久間朱莉選手が、逆転で優勝しました。",
+      "zh": "在8日的最后一轮，23岁的佐久间朱莉选手逆转夺冠。",
+      "en": "On the final day, the 8th, 23-year-old Shuri Sakuma came from behind to win.",
+      "tts": "ようかの最終日、にじゅうさんさいのさくましゅり選手が、逆転で優勝しました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>最終日<rt>さいしゅうび</rt></ruby>、23<ruby>歳<rt>さい</rt></ruby>の<ruby>佐久間<rt>さくま</rt></ruby><ruby>朱莉<rt>しゅり</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, reversal\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>で<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手にとって、アメリカのツアーで初めての優勝です。",
+      "zh": "这是佐久间选手在美国巡回赛上的首个冠军。",
+      "en": "It is Sakuma's first win on the U.S. tour.",
+      "tts": "さくま選手にとって、アメリカのツアーで初めての優勝です。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>にとって、アメリカのツアーで<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は、1位と3打差の5位で、最終日をスタートしました。",
+      "zh": "佐久间选手以落后第一名3杆、排名第5的位置开始了最后一轮。",
+      "en": "Sakuma started the final day in 5th place, three shots behind the leader.",
+      "tts": "さくま選手は、いちいとさんださのごいで、最終日をスタートしました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、1<ruby>位<rt>い</rt></ruby>と3<ruby>打差<rt>ださ</rt></ruby>の5<ruby>位<rt>い</rt></ruby>で、<ruby>最終日<rt>さいしゅうび</rt></ruby>をスタートしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日はボギーが一つもなく、バーディーを8つ取りました。",
+      "zh": "这一天她没有一个柏忌，抓下了8只小鸟。",
+      "en": "That day she made no bogeys at all and made eight birdies.",
+      "tts": "このひはボギーが一つもなく、バーディーをやっつ取りました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>はボギーが<ruby>一つ<rt>ひとつ</rt></ruby>もなく、バーディーを8つ<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "特に後半は、11番から5つのホールで続けてバーディーを取り、一気にトップに立ちました。",
+      "zh": "尤其是后半程，她从11号洞起连续5个洞抓到小鸟，一举升至首位。",
+      "en": "On the back nine in particular, she birdied five holes in a row from the 11th and shot to the top in one go.",
+      "tts": "特に後半は、じゅういちばんからいつつのホールで続けてバーディーを取り、一気にトップに立ちました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>後半<rt>こうはん</rt></ruby>は、11<ruby>番<rt>ばん</rt></ruby>から5つのホールで<ruby>続け<rt>つづけ</rt></ruby>てバーディーを<ruby>取り<rt>とり</rt></ruby>、<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span>トップに<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "通算20アンダーで、2位の選手に4打の差をつけて優勝しました。",
+      "zh": "她以总成绩低于标准杆20杆，领先第二名4杆夺冠。",
+      "en": "She won at 20 under par in total, four shots ahead of the runner-up.",
+      "tts": "通算にじゅうアンダーで、にいの選手によんだの差をつけて優勝しました。",
+      "ruby": "<ruby>通算<rt>つうさん</rt></ruby>20アンダーで、2<ruby>位<rt>い</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>に4<ruby>打<rt>だ</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap, margin\"><ruby>差<rt>さ</rt></ruby></span>をつけて<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2位から4位も、全員日本の選手でした。",
+      "zh": "第2名到第4名也全都是日本选手。",
+      "en": "Second through fourth places were also all Japanese players.",
+      "tts": "にいからよんいも、全員日本の選手でした。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>から4<ruby>位<rt>い</rt></ruby>も、<ruby>全員<rt>ぜんいん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は、日本のツアーでも前の週に優勝していて、2週続けての優勝です。",
+      "zh": "佐久间选手前一周也在日本巡回赛上夺冠，这是她连续两周夺冠。",
+      "en": "Sakuma had also won on the Japanese tour the week before, making it two wins in a row.",
+      "tts": "さくま選手は、日本のツアーでも前の週に優勝していて、にしゅう続けての優勝です。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>のツアーでも<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>に<ruby>優勝<rt>ゆうしょう</rt></ruby>していて、2<ruby>週<rt>しゅう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ての<ruby>優勝<rt>ゆうしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本のツアーでは、今シーズン5回目の優勝になりました。",
+      "zh": "在日本巡回赛上，这是她本赛季第5个冠军。",
+      "en": "On the Japanese tour, it is her 5th win this season.",
+      "tts": "日本のツアーでは、今シーズンごかいめの優勝になりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>のツアーでは、<ruby>今<rt>いま</rt></ruby>シーズン5<ruby>回目<rt>かいめ</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は、賞金31万5000ドル、日本円でおよそ4990万円を手にしました。",
+      "zh": "佐久间选手获得了31万5000美元的奖金，约合4990万日元。",
+      "en": "Sakuma received prize money of 315,000 dollars, about 49.9 million yen.",
+      "tts": "さくま選手は、賞金さんじゅういちまんごせんドル、日本円でおよそよんせんきゅうひゃくきゅうじゅうまんえんを手にしました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>31<ruby>万<rt>まん</rt></ruby>5000ドル、<ruby>日本円<rt>にほんえん</rt></ruby>でおよそ4990<ruby>万円<rt>まんえん</rt></ruby>を<ruby>手に<rt>てに</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、来年のアメリカのツアーに出る資格も得ました。",
+      "zh": "同时，她还获得了明年参加美国巡回赛的资格。",
+      "en": "She also earned the right to play on the U.S. tour next year.",
+      "ruby": "また、<ruby>来年<rt>らいねん</rt></ruby>のアメリカのツアーに<ruby>出る<rt>でる</rt></ruby><span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification, eligibility\"><ruby>資格<rt>しかく</rt></ruby></span>も<ruby>得ま<rt>えま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は「去年できなかった5勝目を、1年で挙げることができて、うれしいです」と話しました。",
+      "zh": "佐久间选手说：“去年没能实现的一年5胜，今年做到了，我很高兴。”",
+      "en": "Sakuma said, \"I'm happy I was able to get the fifth win in one year, which I couldn't do last year.\"",
+      "tts": "さくま選手は「去年できなかったごしょうめを、いちねんで挙げることができて、うれしいです」と話しました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は「<ruby>去年<rt>きょねん</rt></ruby>できなかった5<ruby>勝目<rt>しょうめ</rt></ruby>を、1<ruby>年<rt>ねん</rt></ruby>で<ruby>挙げ<rt>あげ</rt></ruby>ることができて、うれしいです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、アメリカに行くかどうかについては「今は半々ぐらい」と話し、まだ決めていないということです。",
+      "zh": "另一方面，关于是否去美国，她表示“现在大概一半一半”，据说还没有做出决定。",
+      "en": "On whether she will go to America, however, she said \"right now it's about fifty-fifty,\" and reportedly has not decided yet.",
+      "tts": "一方、アメリカに行くかどうかについては「今ははんはんぐらい」と話し、まだ決めていないということです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、アメリカに<ruby>行く<rt>いく</rt></ruby>かどうかについては「<ruby>今<rt>いま</rt></ruby>は<span class=\"vw\" data-ja=\"半々\" data-reading=\"はんはん\" data-en=\"half and half, fifty-fifty\"><ruby>半々<rt>はんはん</rt></ruby></span>ぐらい」と<ruby>話し<rt>はなし</rt></ruby>、まだ<ruby>決め<rt>きめ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "アメリカの女子ゴルフツアーの大会「TOTOジャパンクラシック」が、茨城県で行われました。",
+      "tts": "アメリカの女子ゴルフツアーの大会「トートージャパンクラシック」が、茨城県で行われました。",
+      "ruby": "アメリカの<ruby>女子<rt>じょし</rt></ruby>ゴルフツアーの<ruby>大会<rt>たいかい</rt></ruby>「TOTOジャパンクラシック」が、<ruby>茨城県<rt>いばらきけん</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The U.S. women's golf tour held a tournament in Ibaraki, in Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "8日の最終日、23歳の佐久間朱莉選手が、逆転で優勝しました。",
+      "tts": "ようかの最終日、にじゅうさんさいのさくましゅり選手が、逆転で優勝しました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>最終日<rt>さいしゅうび</rt></ruby>、23<ruby>歳<rt>さい</rt></ruby>の<ruby>佐久間<rt>さくま</rt></ruby><ruby>朱莉<rt>しゅり</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, reversal\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>で<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the final day, the eighth, twenty-three-year-old Shuri Sakuma came from behind and won."
+    },
+    {
+      "speaker": "vocab",
+      "text": "逆転",
+      "ruby": "<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, reversal\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a comeback, turning the tables."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手にとって、アメリカのツアーで初めての優勝です。",
+      "tts": "さくま選手にとって、アメリカのツアーで初めての優勝です。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>にとって、アメリカのツアーで<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was her first win on the American tour."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は、1位と3打差の5位で、最終日をスタートしました。",
+      "tts": "さくま選手は、いちいとさんださのごいで、最終日をスタートしました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、1<ruby>位<rt>い</rt></ruby>と3<ruby>打差<rt>ださ</rt></ruby>の5<ruby>位<rt>い</rt></ruby>で、<ruby>最終日<rt>さいしゅうび</rt></ruby>をスタートしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She started the last day in fifth place, three shots behind the leader."
+    },
+    {
+      "speaker": "vocab",
+      "text": "差",
+      "ruby": "<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap, margin\"><ruby>差<rt>さ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a gap or difference."
+    },
+    {
+      "speaker": "slow",
+      "text": "この日はボギーが一つもなく、バーディーを8つ取りました。",
+      "tts": "このひはボギーが一つもなく、バーディーをやっつ取りました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>はボギーが<ruby>一つ<rt>ひとつ</rt></ruby>もなく、バーディーを8つ<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "That day she had no bogeys and made eight birdies."
+    },
+    {
+      "speaker": "slow",
+      "text": "特に後半は、11番から5つのホールで続けてバーディーを取り、一気にトップに立ちました。",
+      "tts": "特に後半は、じゅういちばんからいつつのホールで続けてバーディーを取り、一気にトップに立ちました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>後半<rt>こうはん</rt></ruby>は、11<ruby>番<rt>ばん</rt></ruby>から5つのホールで<ruby>続け<rt>つづけ</rt></ruby>てバーディーを<ruby>取り<rt>とり</rt></ruby>、<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span>トップに<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the back nine, she made five birdies in a row from the eleventh hole and jumped to the top."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一気に",
+      "ruby": "<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means all at once, in one go."
+    },
+    {
+      "speaker": "slow",
+      "text": "通算20アンダーで、2位の選手に4打の差をつけて優勝しました。",
+      "tts": "通算にじゅうアンダーで、にいの選手によんだの差をつけて優勝しました。",
+      "ruby": "<ruby>通算<rt>つうさん</rt></ruby>20アンダーで、2<ruby>位<rt>い</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>に4<ruby>打<rt>だ</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap, margin\"><ruby>差<rt>さ</rt></ruby></span>をつけて<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She finished twenty under par, four shots ahead of second place."
+    },
+    {
+      "speaker": "slow",
+      "text": "2位から4位も、全員日本の選手でした。",
+      "tts": "にいからよんいも、全員日本の選手でした。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>から4<ruby>位<rt>い</rt></ruby>も、<ruby>全員<rt>ぜんいん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Second to fourth place were all Japanese players too."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は、日本のツアーでも前の週に優勝していて、2週続けての優勝です。",
+      "tts": "さくま選手は、日本のツアーでも前の週に優勝していて、にしゅう続けての優勝です。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>のツアーでも<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>に<ruby>優勝<rt>ゆうしょう</rt></ruby>していて、2<ruby>週<rt>しゅう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ての<ruby>優勝<rt>ゆうしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "She also won on the Japanese tour the week before, so that's two weeks in a row."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本のツアーでは、今シーズン5回目の優勝になりました。",
+      "tts": "日本のツアーでは、今シーズンごかいめの優勝になりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>のツアーでは、<ruby>今<rt>いま</rt></ruby>シーズン5<ruby>回目<rt>かいめ</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's her fifth win of the season on the Japanese tour."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は、賞金31万5000ドル、日本円でおよそ4990万円を手にしました。",
+      "tts": "さくま選手は、賞金さんじゅういちまんごせんドル、日本円でおよそよんせんきゅうひゃくきゅうじゅうまんえんを手にしました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>31<ruby>万<rt>まん</rt></ruby>5000ドル、<ruby>日本円<rt>にほんえん</rt></ruby>でおよそ4990<ruby>万円<rt>まんえん</rt></ruby>を<ruby>手に<rt>てに</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She took home three hundred fifteen thousand dollars, about forty-nine point nine million yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "賞金",
+      "ruby": "<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means prize money."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、来年のアメリカのツアーに出る資格も得ました。",
+      "ruby": "また、<ruby>来年<rt>らいねん</rt></ruby>のアメリカのツアーに<ruby>出る<rt>でる</rt></ruby><span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification, eligibility\"><ruby>資格<rt>しかく</rt></ruby></span>も<ruby>得ま<rt>えま</rt></ruby>した。"
+    },
+    {
+      "speaker": "host",
+      "text": "She also earned the right to play on the American tour next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "資格",
+      "ruby": "<span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification, eligibility\"><ruby>資格<rt>しかく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means qualification, or the right to do something."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は「去年できなかった5勝目を、1年で挙げることができて、うれしいです」と話しました。",
+      "tts": "さくま選手は「去年できなかったごしょうめを、いちねんで挙げることができて、うれしいです」と話しました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は「<ruby>去年<rt>きょねん</rt></ruby>できなかった5<ruby>勝目<rt>しょうめ</rt></ruby>を、1<ruby>年<rt>ねん</rt></ruby>で<ruby>挙げ<rt>あげ</rt></ruby>ることができて、うれしいです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "She said she was happy to get five wins in one year, which she missed last year."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、アメリカに行くかどうかについては「今は半々ぐらい」と話し、まだ決めていないということです。",
+      "tts": "一方、アメリカに行くかどうかについては「今ははんはんぐらい」と話し、まだ決めていないということです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、アメリカに<ruby>行く<rt>いく</rt></ruby>かどうかについては「<ruby>今<rt>いま</rt></ruby>は<span class=\"vw\" data-ja=\"半々\" data-reading=\"はんはん\" data-en=\"half and half, fifty-fifty\"><ruby>半々<rt>はんはん</rt></ruby></span>ぐらい」と<ruby>話し<rt>はなし</rt></ruby>、まだ<ruby>決め<rt>きめ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "But on moving to America, she said it's about fifty-fifty, and she hasn't decided."
+    },
+    {
+      "speaker": "vocab",
+      "text": "半々",
+      "tts": "はんはん",
+      "ruby": "<span class=\"vw\" data-ja=\"半々\" data-reading=\"はんはん\" data-en=\"half and half, fifty-fifty\"><ruby>半々<rt>はんはん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means half and half."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "アメリカの女子ゴルフツアーの大会「TOTOジャパンクラシック」が、茨城県で行われました。",
+      "zh": "美国女子高尔夫巡回赛的赛事“TOTO日本精英赛”在茨城县举行。",
+      "en": "The U.S. women's golf tour event, the TOTO Japan Classic, was held in Ibaraki Prefecture.",
+      "tts": "アメリカの女子ゴルフツアーの大会「トートージャパンクラシック」が、茨城県で行われました。",
+      "ruby": "アメリカの<ruby>女子<rt>じょし</rt></ruby>ゴルフツアーの<ruby>大会<rt>たいかい</rt></ruby>「TOTOジャパンクラシック」が、<ruby>茨城県<rt>いばらきけん</rt></ruby>で<ruby>行わ<rt>おこなわ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "8日の最終日、23歳の佐久間朱莉選手が、逆転で優勝しました。",
+      "zh": "在8日的最后一轮，23岁的佐久间朱莉选手逆转夺冠。",
+      "en": "On the final day, the 8th, 23-year-old Shuri Sakuma came from behind to win.",
+      "tts": "ようかの最終日、にじゅうさんさいのさくましゅり選手が、逆転で優勝しました。",
+      "ruby": "<ruby>8日<rt>ようか</rt></ruby>の<ruby>最終日<rt>さいしゅうび</rt></ruby>、23<ruby>歳<rt>さい</rt></ruby>の<ruby>佐久間<rt>さくま</rt></ruby><ruby>朱莉<rt>しゅり</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が、<span class=\"vw\" data-ja=\"逆転\" data-reading=\"ぎゃくてん\" data-en=\"comeback, reversal\"><ruby>逆転<rt>ぎゃくてん</rt></ruby></span>で<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手にとって、アメリカのツアーで初めての優勝です。",
+      "zh": "这是佐久间选手在美国巡回赛上的首个冠军。",
+      "en": "It is Sakuma's first win on the U.S. tour.",
+      "tts": "さくま選手にとって、アメリカのツアーで初めての優勝です。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>にとって、アメリカのツアーで<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は、1位と3打差の5位で、最終日をスタートしました。",
+      "zh": "佐久间选手以落后第一名3杆、排名第5的位置开始了最后一轮。",
+      "en": "Sakuma started the final day in 5th place, three shots behind the leader.",
+      "tts": "さくま選手は、いちいとさんださのごいで、最終日をスタートしました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、1<ruby>位<rt>い</rt></ruby>と3<ruby>打差<rt>ださ</rt></ruby>の5<ruby>位<rt>い</rt></ruby>で、<ruby>最終日<rt>さいしゅうび</rt></ruby>をスタートしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この日はボギーが一つもなく、バーディーを8つ取りました。",
+      "zh": "这一天她没有一个柏忌，抓下了8只小鸟。",
+      "en": "That day she made no bogeys at all and made eight birdies.",
+      "tts": "このひはボギーが一つもなく、バーディーをやっつ取りました。",
+      "ruby": "この<ruby>日<rt>ひ</rt></ruby>はボギーが<ruby>一つ<rt>ひとつ</rt></ruby>もなく、バーディーを8つ<ruby>取り<rt>とり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "特に後半は、11番から5つのホールで続けてバーディーを取り、一気にトップに立ちました。",
+      "zh": "尤其是后半程，她从11号洞起连续5个洞抓到小鸟，一举升至首位。",
+      "en": "On the back nine in particular, she birdied five holes in a row from the 11th and shot to the top in one go.",
+      "tts": "特に後半は、じゅういちばんからいつつのホールで続けてバーディーを取り、一気にトップに立ちました。",
+      "ruby": "<ruby>特に<rt>とくに</rt></ruby><ruby>後半<rt>こうはん</rt></ruby>は、11<ruby>番<rt>ばん</rt></ruby>から5つのホールで<ruby>続け<rt>つづけ</rt></ruby>てバーディーを<ruby>取り<rt>とり</rt></ruby>、<span class=\"vw\" data-ja=\"一気に\" data-reading=\"いっきに\" data-en=\"all at once, in one go\"><ruby>一気<rt>いっき</rt></ruby>に</span>トップに<ruby>立ち<rt>たち</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "通算20アンダーで、2位の選手に4打の差をつけて優勝しました。",
+      "zh": "她以总成绩低于标准杆20杆，领先第二名4杆夺冠。",
+      "en": "She won at 20 under par in total, four shots ahead of the runner-up.",
+      "tts": "通算にじゅうアンダーで、にいの選手によんだの差をつけて優勝しました。",
+      "ruby": "<ruby>通算<rt>つうさん</rt></ruby>20アンダーで、2<ruby>位<rt>い</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>に4<ruby>打<rt>だ</rt></ruby>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference, gap, margin\"><ruby>差<rt>さ</rt></ruby></span>をつけて<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2位から4位も、全員日本の選手でした。",
+      "zh": "第2名到第4名也全都是日本选手。",
+      "en": "Second through fourth places were also all Japanese players.",
+      "tts": "にいからよんいも、全員日本の選手でした。",
+      "ruby": "2<ruby>位<rt>い</rt></ruby>から4<ruby>位<rt>い</rt></ruby>も、<ruby>全員<rt>ぜんいん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は、日本のツアーでも前の週に優勝していて、2週続けての優勝です。",
+      "zh": "佐久间选手前一周也在日本巡回赛上夺冠，这是她连续两周夺冠。",
+      "en": "Sakuma had also won on the Japanese tour the week before, making it two wins in a row.",
+      "tts": "さくま選手は、日本のツアーでも前の週に優勝していて、にしゅう続けての優勝です。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>のツアーでも<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>に<ruby>優勝<rt>ゆうしょう</rt></ruby>していて、2<ruby>週<rt>しゅう</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ての<ruby>優勝<rt>ゆうしょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本のツアーでは、今シーズン5回目の優勝になりました。",
+      "zh": "在日本巡回赛上，这是她本赛季第5个冠军。",
+      "en": "On the Japanese tour, it is her 5th win this season.",
+      "tts": "日本のツアーでは、今シーズンごかいめの優勝になりました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>のツアーでは、<ruby>今<rt>いま</rt></ruby>シーズン5<ruby>回目<rt>かいめ</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は、賞金31万5000ドル、日本円でおよそ4990万円を手にしました。",
+      "zh": "佐久间选手获得了31万5000美元的奖金，约合4990万日元。",
+      "en": "Sakuma received prize money of 315,000 dollars, about 49.9 million yen.",
+      "tts": "さくま選手は、賞金さんじゅういちまんごせんドル、日本円でおよそよんせんきゅうひゃくきゅうじゅうまんえんを手にしました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<span class=\"vw\" data-ja=\"賞金\" data-reading=\"しょうきん\" data-en=\"prize money\"><ruby>賞金<rt>しょうきん</rt></ruby></span>31<ruby>万<rt>まん</rt></ruby>5000ドル、<ruby>日本円<rt>にほんえん</rt></ruby>でおよそ4990<ruby>万円<rt>まんえん</rt></ruby>を<ruby>手に<rt>てに</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、来年のアメリカのツアーに出る資格も得ました。",
+      "zh": "同时，她还获得了明年参加美国巡回赛的资格。",
+      "en": "She also earned the right to play on the U.S. tour next year.",
+      "ruby": "また、<ruby>来年<rt>らいねん</rt></ruby>のアメリカのツアーに<ruby>出る<rt>でる</rt></ruby><span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification, eligibility\"><ruby>資格<rt>しかく</rt></ruby></span>も<ruby>得ま<rt>えま</rt></ruby>した。"
+    },
+    {
+      "speaker": "news",
+      "text": "佐久間選手は「去年できなかった5勝目を、1年で挙げることができて、うれしいです」と話しました。",
+      "zh": "佐久间选手说：“去年没能实现的一年5胜，今年做到了，我很高兴。”",
+      "en": "Sakuma said, \"I'm happy I was able to get the fifth win in one year, which I couldn't do last year.\"",
+      "tts": "さくま選手は「去年できなかったごしょうめを、いちねんで挙げることができて、うれしいです」と話しました。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は「<ruby>去年<rt>きょねん</rt></ruby>できなかった5<ruby>勝目<rt>しょうめ</rt></ruby>を、1<ruby>年<rt>ねん</rt></ruby>で<ruby>挙げ<rt>あげ</rt></ruby>ることができて、うれしいです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、アメリカに行くかどうかについては「今は半々ぐらい」と話し、まだ決めていないということです。",
+      "zh": "另一方面，关于是否去美国，她表示“现在大概一半一半”，据说还没有做出决定。",
+      "en": "On whether she will go to America, however, she said \"right now it's about fifty-fifty,\" and reportedly has not decided yet.",
+      "tts": "一方、アメリカに行くかどうかについては「今ははんはんぐらい」と話し、まだ決めていないということです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、アメリカに<ruby>行く<rt>いく</rt></ruby>かどうかについては「<ruby>今<rt>いま</rt></ruby>は<span class=\"vw\" data-ja=\"半々\" data-reading=\"はんはん\" data-en=\"half and half, fifty-fifty\"><ruby>半々<rt>はんはん</rt></ruby></span>ぐらい」と<ruby>話し<rt>はなし</rt></ruby>、まだ<ruby>決め<rt>きめ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は、何位で最終日をスタートしましたか。",
+      "tts": "さくま選手は、なにいで最終日をスタートしましたか。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>何位<rt>なにい</rt></ruby>で<ruby>最終日<rt>さいしゅうび</rt></ruby>をスタートしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fifth place."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は、最終日にバーディーをいくつ取りましたか。",
+      "tts": "さくま選手は、最終日にバーディーをいくつ取りましたか。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>最終日<rt>さいしゅうび</rt></ruby>にバーディーをいくつ<ruby>取り<rt>とり</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eight."
+    },
+    {
+      "speaker": "slow",
+      "text": "佐久間選手は、来年、何に出る資格を得ましたか。",
+      "tts": "さくま選手は、来年、何に出る資格を得ましたか。",
+      "ruby": "<ruby>佐久間<rt>さくま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>に<ruby>出る<rt>でる</rt></ruby><span class=\"vw\" data-ja=\"資格\" data-reading=\"しかく\" data-en=\"qualification, eligibility\"><ruby>資格<rt>しかく</rt></ruby></span>を<ruby>得ま<rt>えま</rt></ruby>したか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The American tour."
+    },
+    {
+      "speaker": "slow",
+      "text": "アメリカに行くかどうか、もう決めましたか。",
+      "ruby": "アメリカに<ruby>行く<rt>いく</rt></ruby>かどうか、もう<ruby>決め<rt>きめ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No, not yet. She said it's about fifty-fifty."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
