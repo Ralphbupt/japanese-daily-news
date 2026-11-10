@@ -1,0 +1,494 @@
+{
+  "episode": 5,
+  "title": "家計の支出6.8%減、10か月連続　給料は増えても使わない？",
+  "titleZh": "家庭消费支出减6.8%，连续10个月下降",
+  "titleEn": "Household spending falls 6.8%, down for a 10th straight month",
+  "date": "2026-11-10",
+  "source": "NHK / 共同通信（東京新聞・デイリースポーツ） / TBS NEWS DIG / テレビ朝日（ANN）（総務省 家計調査 2026年9月分）",
+  "level": "N3-N2",
+  "contentVersion": "2026111001",
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to ~",
+      "meaningZh": "据……",
+      "formation": "Noun + によりますと / によると",
+      "example": "それによりますと、2人以上の世帯が使ったお金は、1世帯あたり28万9536円でした。",
+      "translation": "According to it, households of two or more people spent 289,536 yen per household.",
+      "note": "Names the source of information. News uses the polite によりますと.",
+      "noteZh": "表示信息来源。新闻里常用礼貌形によりますと。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~, the first time since ~",
+      "meaningZh": "自……以来",
+      "formation": "Noun / Verb て-form + 以来",
+      "example": "減り方は、コロナ禍だった2020年9月以来の大きさです。",
+      "translation": "The drop is the largest since September 2020, during the pandemic.",
+      "note": "Marks how long ago something last happened on this scale.",
+      "noteZh": "说明上一次出现这种程度的情况是什么时候。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜たうえ（に）",
+      "meaning": "on top of ~, in addition to ~",
+      "meaningZh": "不仅……而且……，再加上……",
+      "formation": "Verb た-form / Noun + の + うえ（に）",
+      "example": "秋雨前線が停滞したうえ、三つの台風が発生し、雨が多くなりました。",
+      "translation": "An autumn rain front stalled, and on top of that three typhoons formed.",
+      "note": "Adds a second fact in the same direction as the first.",
+      "noteZh": "在前一件事的基础上，再追加同方向的另一件事。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~, reportedly",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "そのため、買い物をする機会が減ったということです。",
+      "translation": "Reportedly, there were fewer chances to go shopping as a result.",
+      "note": "News uses it to pass on what a source said.",
+      "noteZh": "新闻中用来转述消息来源的说法。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜とは限らない",
+      "meaning": "not necessarily ~",
+      "meaningZh": "不一定……",
+      "formation": "Plain form + とは限らない",
+      "example": "収入が増えても、すぐにお金を使うとは限りません。",
+      "translation": "Even if income rises, people don't necessarily spend right away.",
+      "note": "Denies that something is always true.",
+      "noteZh": "表示并非总是如此。",
+      "level": "N2"
+    }
+  ],
+  "practiceZh": [
+    "物価の変動の影響を除いた実質で、去年の同じ月より6.8%減りました。\n剔除物价变动影响后，实际比去年同月减少6.8%。\n",
+    "減り方は、コロナ禍だった2020年9月以来の大きさです。\n降幅是新冠疫情期间的2020年9月以来最大的。\n",
+    "秋雨前線が停滞したうえ、三つの台風が発生し、雨が多くなりました。\n秋雨锋面停滞不前，又生成了三个台风，降雨增多。\n",
+    "総務省によりますと、8月と9月は大雨の影響で、外出を控える人が多くなりました。\n据总务省说，8月和9月受暴雨影响，减少外出的人增多了。\n",
+    "一方で、外食は増えていて、好調が続いています。\n另一方面，在外就餐有所增加，势头持续良好。\n",
+    "しかし、使ったお金は10.0%減って、31万3391円でした。\n但消费支出减少了10.0%，为31万3391日元。\n"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "家計",
+      "reading": "かけい",
+      "en": "household finances",
+      "zh": "家庭收支，家计"
+    },
+    {
+      "ja": "世帯",
+      "reading": "せたい",
+      "en": "household",
+      "zh": "家庭，户"
+    },
+    {
+      "ja": "下回る",
+      "reading": "したまわる",
+      "en": "to fall below",
+      "zh": "低于"
+    },
+    {
+      "ja": "停滞",
+      "reading": "ていたい",
+      "en": "stalling, stagnation",
+      "zh": "停滞"
+    },
+    {
+      "ja": "控える",
+      "reading": "ひかえる",
+      "en": "to refrain from, to cut back on",
+      "zh": "控制，节制，避免"
+    },
+    {
+      "ja": "機会",
+      "reading": "きかい",
+      "en": "opportunity, chance",
+      "zh": "机会"
+    },
+    {
+      "ja": "支出",
+      "reading": "ししゅつ",
+      "en": "spending, expenditure",
+      "zh": "支出"
+    },
+    {
+      "ja": "好調",
+      "reading": "こうちょう",
+      "en": "doing well, going strong",
+      "zh": "势头良好"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "9月に家庭が使ったお金は、去年の同じ月と比べて、実質でどうなりましたか。",
+      "a": "6.8%減りました。前の年を下回るのは10か月連続です。"
+    },
+    {
+      "q": "総務省は、お金を使う人が減った理由を何だと説明していますか。",
+      "a": "天候です。雨が多く、外出を控える人が多くなりました。"
+    },
+    {
+      "q": "天気が悪くても増えていたのは、何への支出ですか。",
+      "a": "外食です。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月10日、火曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月10日，星期二。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Tuesday, November 10th.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは11月とおか、火曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>、<ruby>火曜日<rt>かようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "給料は増えているのに、家庭で使うお金は、10か月も続けて減っています。いったい、どうしてでしょう。",
+      "zh": "工资在涨，家庭花的钱却连续10个月减少。这到底是为什么呢？",
+      "en": "Pay is rising, yet the money families spend has fallen for 10 months straight. Why could that be?",
+      "tts": "給料は増えているのに、家庭で使うお金は、じゅっかげつも続けて減っています。いったい、どうしてでしょう。",
+      "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>ているのに、<ruby>家庭<rt>かてい</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は、10か<ruby>月<rt>げつ</rt></ruby>も<ruby>続け<rt>つづけ</rt></ruby>て<ruby>減っ<rt>へっ</rt></ruby>ています。いったい、どうしてでしょう。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は10日、9月の家計調査の結果を発表しました。",
+      "zh": "总务省10日公布了9月家庭收支调查的结果。",
+      "en": "On the 10th, the Ministry of Internal Affairs and Communications released the results of its household survey for September.",
+      "tts": "総務省はとおか、9月の家計調査の結果を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は<ruby>10日<rt>とおか</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household finances\"><ruby>家計<rt>かけい</rt></ruby></span><ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それによりますと、2人以上の世帯が使ったお金は、1世帯あたり28万9536円でした。",
+      "zh": "据此，两人以上家庭的消费支出为每户28万9536日元。",
+      "en": "According to the survey, households of two or more people spent 289,536 yen per household.",
+      "ruby": "それによりますと、2<ruby>人<rt>ひと</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>が<ruby>使った<rt>つかった</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は、1<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>あたり28<ruby>万<rt>まん</rt></ruby>9536<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価の変動の影響を除いた実質で、去年の同じ月より6.8%減りました。",
+      "zh": "剔除物价变动影响后，实际比去年同月减少6.8%。",
+      "en": "In real terms, excluding the effect of price changes, that was down 6.8% from the same month last year.",
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>実質<rt>じっしつ</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>より6.8%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "前の年を下回るのは、10か月連続です。",
+      "zh": "这是连续10个月低于上一年。",
+      "en": "It is the 10th month in a row that spending has been below the previous year.",
+      "tts": "前の年を下回るのは、じゅっかげつ連続です。",
+      "ruby": "<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>を<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below\"><ruby>下回る<rt>したまわる</rt></ruby></span>のは、10か<ruby>月<rt>げつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "減り方は、コロナ禍だった2020年9月以来の大きさです。",
+      "zh": "降幅是新冠疫情期间的2020年9月以来最大的。",
+      "en": "The drop is the largest since September 2020, during the COVID-19 pandemic.",
+      "ruby": "<ruby>減り<rt>へり</rt></ruby><ruby>方は<rt>かたは</rt></ruby>、コロナ<ruby>禍<rt>か</rt></ruby>だった2020<ruby>年<rt>ねん</rt></ruby>9<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は、天候の影響が大きかったと説明しています。",
+      "zh": "总务省解释说，天气的影响很大。",
+      "en": "The ministry explained that the weather had a big impact.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は、<ruby>天候<rt>てんこう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>大きか<rt>おおきか</rt></ruby>ったと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋雨前線が停滞したうえ、三つの台風が発生し、雨が多くなりました。",
+      "zh": "秋雨锋面停滞不前，又生成了三个台风，降雨增多。",
+      "en": "An autumn rain front stalled, and on top of that three typhoons formed, bringing a lot of rain.",
+      "ruby": "<ruby>秋雨<rt>あきさめ</rt></ruby><ruby>前線<rt>ぜんせん</rt></ruby>が<span class=\"vw\" data-ja=\"停滞\" data-reading=\"ていたい\" data-en=\"stalling, stagnation\"><ruby>停滞<rt>ていたい</rt></ruby></span>したうえ、<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>し、<ruby>雨<rt>あめ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省によりますと、8月と9月は大雨の影響で、外出を控える人が多くなりました。",
+      "zh": "据总务省说，8月和9月受暴雨影响，减少外出的人增多了。",
+      "en": "According to the ministry, heavy rain in August and September led many people to stay home.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>によりますと、8<ruby>月<rt>がつ</rt></ruby>と9<ruby>月<rt>がつ</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>外出<rt>がいしゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"控える\" data-reading=\"ひかえる\" data-en=\"to refrain from, to cut back on\"><ruby>控え<rt>ひかえ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、買い物をする機会が減ったということです。",
+      "zh": "据说因此购物的机会减少了。",
+      "en": "As a result, there were fewer chances to go shopping.",
+      "ruby": "そのため、<ruby>買い物<rt>かいもの</rt></ruby>をする<span class=\"vw\" data-ja=\"機会\" data-reading=\"きかい\" data-en=\"opportunity, chance\"><ruby>機会<rt>きかい</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気温も例年より低く、飲み物や電気代、エアコンなどへの支出は、10%を超えて減りました。",
+      "zh": "气温也比往年低，饮料、电费、空调等方面的支出减少了10%以上。",
+      "en": "Temperatures were also lower than usual, and spending on drinks, electricity and air conditioners fell by more than 10%.",
+      "ruby": "<ruby>気温<rt>きおん</rt></ruby>も<ruby>例年<rt>れいねん</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>、<ruby>飲み物<rt>のみもの</rt></ruby>や<ruby>電気代<rt>でんきだい</rt></ruby>、エアコンなどへの<span class=\"vw\" data-ja=\"支出\" data-reading=\"ししゅつ\" data-en=\"spending, expenditure\"><ruby>支出<rt>ししゅつ</rt></ruby></span>は、10%を<ruby>超え<rt>こえ</rt></ruby>て<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "消費の大部分を占める食料は、2.5%減りました。",
+      "zh": "占消费大部分的食品减少了2.5%。",
+      "en": "Food, which makes up most of spending, fell 2.5%.",
+      "ruby": "<ruby>消費<rt>しょうひ</rt></ruby>の<ruby>大部分<rt>だいぶぶん</rt></ruby>を<ruby>占め<rt>しめ</rt></ruby>る<ruby>食料<rt>しょくりょう</rt></ruby>は、2.5%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "教養娯楽への支出も、8.7%減りました。",
+      "zh": "文化娱乐方面的支出也减少了8.7%。",
+      "en": "Spending on culture and recreation also fell 8.7%.",
+      "ruby": "<ruby>教養<rt>きょうよう</rt></ruby><ruby>娯楽<rt>ごらく</rt></ruby>への<span class=\"vw\" data-ja=\"支出\" data-reading=\"ししゅつ\" data-en=\"spending, expenditure\"><ruby>支出<rt>ししゅつ</rt></ruby></span>も、8.7%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、外食は増えていて、好調が続いています。",
+      "zh": "另一方面，在外就餐有所增加，势头持续良好。",
+      "en": "On the other hand, eating out increased and continues to do well.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>外食<rt>がいしょく</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"好調\" data-reading=\"こうちょう\" data-en=\"doing well, going strong\"><ruby>好調<rt>こうちょう</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社などで働く人の世帯では、収入は実質で0.9%増えて、52万8074円でした。",
+      "zh": "在公司等单位工作者的家庭中，实际收入增长0.9%，为52万8074日元。",
+      "en": "Among households of salaried workers, income rose 0.9% in real terms to 528,074 yen.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>などで<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>では、<ruby>収入<rt>しゅうにゅう</rt></ruby>は<ruby>実質<rt>じっしつ</rt></ruby>で0.9%<ruby>増え<rt>ふえ</rt></ruby>て、52<ruby>万<rt>まん</rt></ruby>8074<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、使ったお金は10.0%減って、31万3391円でした。",
+      "zh": "但消费支出减少了10.0%，为31万3391日元。",
+      "en": "But their spending fell 10.0% to 313,391 yen.",
+      "tts": "しかし、使ったお金はじゅってんゼロパーセント減って、31万3391円でした。",
+      "ruby": "しかし、<ruby>使った<rt>つかった</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は10.0%<ruby>減っ<rt>へっ</rt></ruby>て、31<ruby>万<rt>まん</rt></ruby>3391<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "guide",
+      "text": "6.8%減と聞いても、どのくらいなのか、分かりにくいかもしれませんね。でも、コロナの時以来の、大きな減り方なんです。",
+      "zh": "听到减少6.8%，也许很难想象到底有多少吧。不过，这是新冠疫情以来最大的降幅。",
+      "en": "Hearing 6.8% down may not tell you much. But it is the biggest drop since the pandemic.",
+      "ruby": "6.8%<ruby>減<rt>げん</rt></ruby>と<ruby>聞い<rt>きい</rt></ruby>ても、どのくらいなのか、<ruby>分か<rt>わか</rt></ruby>りにくいかもしれませんね。でも、コロナの<ruby>時以来<rt>ときいらい</rt></ruby>の、<ruby>大き<rt>おおき</rt></ruby>な<ruby>減り<rt>へり</rt></ruby><ruby>方<rt>かた</rt></ruby>なんです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "家計調査というのは、家庭が毎月、何にいくら使ったかを調べるものです。国の景気を見るときの、大切な数字の一つです。",
+      "zh": "家庭收支调查，就是调查家庭每个月在什么上花了多少钱。这是观察国家经济景气的重要数据之一。",
+      "en": "The household survey looks at what families spend their money on each month. It is one of the key numbers for judging the economy.",
+      "ruby": "<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household finances\"><ruby>家計<rt>かけい</rt></ruby></span><ruby>調査<rt>ちょうさ</rt></ruby>というのは、<ruby>家庭<rt>かてい</rt></ruby>が<ruby>毎月<rt>まいつき</rt></ruby>、<ruby>何<rt>なに</rt></ruby>にいくら<ruby>使った<rt>つかった</rt></ruby>かを<ruby>調べ<rt>しらべ</rt></ruby>るものです。<ruby>国<rt>くに</rt></ruby>の<ruby>景気<rt>けいき</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ときの、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>数字<rt>すうじ</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "今回は、物の値段が上がった分を除いて比べています。それでも、はっきり減っていました。",
+      "zh": "这次是剔除物价上涨部分后进行比较的。即便如此，支出也明显减少了。",
+      "en": "This time the comparison takes out the rise in prices. Even so, spending clearly went down.",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>った<ruby>分<rt>ぶん</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>て<ruby>比べ<rt>くらべ</rt></ruby>ています。それでも、はっきり<ruby>減っ<rt>へっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "総務省が理由に挙げたのは、天気です。秋雨前線や台風で、雨がとても多かったんです。",
+      "zh": "总务省列举的原因是天气。由于秋雨锋面和台风，雨水特别多。",
+      "en": "The reason the ministry gave was the weather. The autumn rain front and typhoons brought a lot of rain.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>が<ruby>理由<rt>りゆう</rt></ruby>に<ruby>挙げ<rt>あげ</rt></ruby>たのは、<ruby>天気<rt>てんき</rt></ruby>です。<ruby>秋雨<rt>あきさめ</rt></ruby><ruby>前線<rt>ぜんせん</rt></ruby>や<ruby>台風<rt>たいふう</rt></ruby>で、<ruby>雨<rt>あめ</rt></ruby>がとても<ruby>多か<rt>おおか</rt></ruby>ったんです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "雨の日が続くと、出かけるのが面倒になりますよね。買い物に行く回数も減ります。",
+      "zh": "下雨天一多，就懒得出门了吧。去购物的次数也会减少。",
+      "en": "When rainy days keep coming, going out feels like a hassle. You go shopping less often too.",
+      "ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、<ruby>出か<rt>でか</rt></ruby>けるのが<ruby>面倒<rt>めんどう</rt></ruby>になりますよね。<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>回数<rt>かいすう</rt></ruby>も<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "涼しかったので、冷たい飲み物やエアコンも、あまり買われなかったようです。",
+      "zh": "因为天气凉快，冷饮和空调好像也没怎么卖出去。",
+      "en": "Since it was cool, people apparently didn't buy many cold drinks or air conditioners either.",
+      "ruby": "<ruby>涼しか<rt>すずしか</rt></ruby>ったので、<ruby>冷たい<rt>つめたい</rt></ruby><ruby>飲み物<rt>のみもの</rt></ruby>やエアコンも、あまり<ruby>買わ<rt>かわ</rt></ruby>れなかったようです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "おもしろいのは外食です。天気が悪くても、外で食べるお金は増えていました。",
+      "zh": "有意思的是在外就餐。即使天气不好，在外吃饭的花费却增加了。",
+      "en": "What's interesting is eating out. Even in bad weather, spending on eating out went up.",
+      "ruby": "おもしろいのは<ruby>外食<rt>がいしょく</rt></ruby>です。<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>ても、<ruby>外<rt>そと</rt></ruby>で<ruby>食べ<rt>たべ</rt></ruby>るお<ruby>金<rt>かね</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "ただ、マイナスは9月だけではありません。もう10か月も続いています。",
+      "zh": "不过，负增长不只是9月。已经持续了10个月。",
+      "en": "But the drop isn't just in September. It has gone on for 10 months now.",
+      "tts": "ただ、マイナスは9月だけではありません。もうじゅっかげつも続いています。",
+      "ruby": "ただ、マイナスは9<ruby>月<rt>がつ</rt></ruby>だけではありません。もう10か<ruby>月<rt>げつ</rt></ruby>も<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "先週、この番組では、給料の伸びが約30年ぶりの高さだというニュースを伝えました。",
+      "zh": "上周，本节目报道了工资增幅创近30年新高的新闻。",
+      "en": "Last week on this show, we reported that pay growth was at its highest in about 30 years.",
+      "ruby": "<ruby>先週<rt>せんしゅう</rt></ruby>、この<ruby>番組<rt>ばんぐみ</rt></ruby>では、<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>伸び<rt>のび</rt></ruby>が<ruby>約<rt>やく</rt></ruby>30<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>高さ<rt>たかさ</rt></ruby>だというニュースを<ruby>伝え<rt>つたえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "今回の調査でも、働く人の世帯の収入は、0.9%増えています。",
+      "zh": "在这次调查中，工薪家庭的收入也增长了0.9%。",
+      "en": "In this survey too, the income of working households rose 0.9%.",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>でも、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>の<ruby>収入<rt>しゅうにゅう</rt></ruby>は、0.9%<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それなのに、使ったお金は10%も減りました。",
+      "zh": "尽管如此，消费支出却减少了多达10%。",
+      "en": "Even so, their spending fell by as much as 10%.",
+      "ruby": "それなのに、<ruby>使った<rt>つかった</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は10%も<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "収入が増えても、すぐにお金を使うとは限らない、ということかもしれません。",
+      "zh": "这或许说明，即使收入增加，也不一定会马上花钱。",
+      "en": "Maybe it means that even when income rises, people don't necessarily spend right away.",
+      "ruby": "<ruby>収入<rt>しゅうにゅう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ても、すぐにお<ruby>金<rt>かね</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>とは<ruby>限ら<rt>かぎら</rt></ruby>ない、ということかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "家庭がお金を使わないと、お店や会社のもうけも増えにくくなります。だから、この数字は注目されているんです。",
+      "zh": "家庭不花钱的话，商店和企业的利润也难以增加。所以这个数字备受关注。",
+      "en": "If families don't spend, it's harder for shops and companies to earn more. That's why people watch this number closely.",
+      "ruby": "<ruby>家庭<rt>かてい</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないと、お<ruby>店<rt>みせ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>のもうけも<ruby>増え<rt>ふえ</rt></ruby>にくくなります。だから、この<ruby>数字<rt>すうじ</rt></ruby>は<ruby>注目<rt>ちゅうもく</rt></ruby>されているんです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻吧。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. You should understand it better this time.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は10日、9月の家計調査の結果を発表しました。",
+      "zh": "总务省10日公布了9月家庭收支调查的结果。",
+      "en": "On the 10th, the Ministry of Internal Affairs and Communications released the results of its household survey for September.",
+      "tts": "総務省はとおか、9月の家計調査の結果を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は<ruby>10日<rt>とおか</rt></ruby>、9<ruby>月<rt>がつ</rt></ruby>の<span class=\"vw\" data-ja=\"家計\" data-reading=\"かけい\" data-en=\"household finances\"><ruby>家計<rt>かけい</rt></ruby></span><ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それによりますと、2人以上の世帯が使ったお金は、1世帯あたり28万9536円でした。",
+      "zh": "据此，两人以上家庭的消费支出为每户28万9536日元。",
+      "en": "According to the survey, households of two or more people spent 289,536 yen per household.",
+      "ruby": "それによりますと、2<ruby>人<rt>ひと</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>が<ruby>使った<rt>つかった</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は、1<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>あたり28<ruby>万<rt>まん</rt></ruby>9536<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価の変動の影響を除いた実質で、去年の同じ月より6.8%減りました。",
+      "zh": "剔除物价变动影响后，实际比去年同月减少6.8%。",
+      "en": "In real terms, excluding the effect of price changes, that was down 6.8% from the same month last year.",
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>実質<rt>じっしつ</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>より6.8%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "前の年を下回るのは、10か月連続です。",
+      "zh": "这是连续10个月低于上一年。",
+      "en": "It is the 10th month in a row that spending has been below the previous year.",
+      "tts": "前の年を下回るのは、じゅっかげつ連続です。",
+      "ruby": "<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>ねん</rt></ruby>を<span class=\"vw\" data-ja=\"下回る\" data-reading=\"したまわる\" data-en=\"to fall below\"><ruby>下回る<rt>したまわる</rt></ruby></span>のは、10か<ruby>月<rt>げつ</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "減り方は、コロナ禍だった2020年9月以来の大きさです。",
+      "zh": "降幅是新冠疫情期间的2020年9月以来最大的。",
+      "en": "The drop is the largest since September 2020, during the COVID-19 pandemic.",
+      "ruby": "<ruby>減り<rt>へり</rt></ruby><ruby>方は<rt>かたは</rt></ruby>、コロナ<ruby>禍<rt>か</rt></ruby>だった2020<ruby>年<rt>ねん</rt></ruby>9<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は、天候の影響が大きかったと説明しています。",
+      "zh": "总务省解释说，天气的影响很大。",
+      "en": "The ministry explained that the weather had a big impact.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は、<ruby>天候<rt>てんこう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>大きか<rt>おおきか</rt></ruby>ったと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "秋雨前線が停滞したうえ、三つの台風が発生し、雨が多くなりました。",
+      "zh": "秋雨锋面停滞不前，又生成了三个台风，降雨增多。",
+      "en": "An autumn rain front stalled, and on top of that three typhoons formed, bringing a lot of rain.",
+      "ruby": "<ruby>秋雨<rt>あきさめ</rt></ruby><ruby>前線<rt>ぜんせん</rt></ruby>が<span class=\"vw\" data-ja=\"停滞\" data-reading=\"ていたい\" data-en=\"stalling, stagnation\"><ruby>停滞<rt>ていたい</rt></ruby></span>したうえ、<ruby>三つ<rt>みっつ</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>し、<ruby>雨<rt>あめ</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省によりますと、8月と9月は大雨の影響で、外出を控える人が多くなりました。",
+      "zh": "据总务省说，8月和9月受暴雨影响，减少外出的人增多了。",
+      "en": "According to the ministry, heavy rain in August and September led many people to stay home.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>によりますと、8<ruby>月<rt>がつ</rt></ruby>と9<ruby>月<rt>がつ</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>外出<rt>がいしゅつ</rt></ruby>を<span class=\"vw\" data-ja=\"控える\" data-reading=\"ひかえる\" data-en=\"to refrain from, to cut back on\"><ruby>控え<rt>ひかえ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、買い物をする機会が減ったということです。",
+      "zh": "据说因此购物的机会减少了。",
+      "en": "As a result, there were fewer chances to go shopping.",
+      "ruby": "そのため、<ruby>買い物<rt>かいもの</rt></ruby>をする<span class=\"vw\" data-ja=\"機会\" data-reading=\"きかい\" data-en=\"opportunity, chance\"><ruby>機会<rt>きかい</rt></ruby></span>が<ruby>減っ<rt>へっ</rt></ruby>たということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "気温も例年より低く、飲み物や電気代、エアコンなどへの支出は、10%を超えて減りました。",
+      "zh": "气温也比往年低，饮料、电费、空调等方面的支出减少了10%以上。",
+      "en": "Temperatures were also lower than usual, and spending on drinks, electricity and air conditioners fell by more than 10%.",
+      "ruby": "<ruby>気温<rt>きおん</rt></ruby>も<ruby>例年<rt>れいねん</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>、<ruby>飲み物<rt>のみもの</rt></ruby>や<ruby>電気代<rt>でんきだい</rt></ruby>、エアコンなどへの<span class=\"vw\" data-ja=\"支出\" data-reading=\"ししゅつ\" data-en=\"spending, expenditure\"><ruby>支出<rt>ししゅつ</rt></ruby></span>は、10%を<ruby>超え<rt>こえ</rt></ruby>て<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "消費の大部分を占める食料は、2.5%減りました。",
+      "zh": "占消费大部分的食品减少了2.5%。",
+      "en": "Food, which makes up most of spending, fell 2.5%.",
+      "ruby": "<ruby>消費<rt>しょうひ</rt></ruby>の<ruby>大部分<rt>だいぶぶん</rt></ruby>を<ruby>占め<rt>しめ</rt></ruby>る<ruby>食料<rt>しょくりょう</rt></ruby>は、2.5%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "教養娯楽への支出も、8.7%減りました。",
+      "zh": "文化娱乐方面的支出也减少了8.7%。",
+      "en": "Spending on culture and recreation also fell 8.7%.",
+      "ruby": "<ruby>教養<rt>きょうよう</rt></ruby><ruby>娯楽<rt>ごらく</rt></ruby>への<span class=\"vw\" data-ja=\"支出\" data-reading=\"ししゅつ\" data-en=\"spending, expenditure\"><ruby>支出<rt>ししゅつ</rt></ruby></span>も、8.7%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、外食は増えていて、好調が続いています。",
+      "zh": "另一方面，在外就餐有所增加，势头持续良好。",
+      "en": "On the other hand, eating out increased and continues to do well.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>外食<rt>がいしょく</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>ていて、<span class=\"vw\" data-ja=\"好調\" data-reading=\"こうちょう\" data-en=\"doing well, going strong\"><ruby>好調<rt>こうちょう</rt></ruby></span>が<ruby>続い<rt>つづい</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社などで働く人の世帯では、収入は実質で0.9%増えて、52万8074円でした。",
+      "zh": "在公司等单位工作者的家庭中，实际收入增长0.9%，为52万8074日元。",
+      "en": "Among households of salaried workers, income rose 0.9% in real terms to 528,074 yen.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>などで<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"世帯\" data-reading=\"せたい\" data-en=\"household\"><ruby>世帯<rt>せたい</rt></ruby></span>では、<ruby>収入<rt>しゅうにゅう</rt></ruby>は<ruby>実質<rt>じっしつ</rt></ruby>で0.9%<ruby>増え<rt>ふえ</rt></ruby>て、52<ruby>万<rt>まん</rt></ruby>8074<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、使ったお金は10.0%減って、31万3391円でした。",
+      "zh": "但消费支出减少了10.0%，为31万3391日元。",
+      "en": "But their spending fell 10.0% to 313,391 yen.",
+      "tts": "しかし、使ったお金はじゅってんゼロパーセント減って、31万3391円でした。",
+      "ruby": "しかし、<ruby>使った<rt>つかった</rt></ruby>お<ruby>金<rt>かね</rt></ruby>は10.0%<ruby>減っ<rt>へっ</rt></ruby>て、31<ruby>万<rt>まん</rt></ruby>3391<ruby>円<rt>えん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんの家では、最近、使うお金が増えましたか。それとも、減りましたか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "你家最近花的钱是变多了，还是变少了？感谢今天的收听。明天见。",
+      "en": "At your home, has your spending gone up lately, or down? Thanks for listening today. See you tomorrow.",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>では、<ruby>最近<rt>さいきん</rt></ruby>、<ruby>使う<rt>つかう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ましたか。それとも、<ruby>減り<rt>へり</rt></ruby>ましたか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
