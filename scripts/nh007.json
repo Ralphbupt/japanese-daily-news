@@ -1,0 +1,476 @@
+{
+  "episode": 7,
+  "title": "奈良のシカでけが、救急搬送51人で過去最多　7割以上が外国人",
+  "titleZh": "奈良鹿致伤送医51人创新高，七成以上是外国游客",
+  "titleEn": "Deer injuries in Nara send a record 51 people to hospital, most from abroad",
+  "date": "2026-11-12",
+  "source": "NHK / テレビ朝日（ANN・市立奈良病院 2026年11月5日時点） / 共同通信（熊本日日新聞）・読売テレビ（奈良の鹿愛護会 2026年7月調査、奈良県クラウドファンディング） / 奈良県（「奈良のシカ」人身事故資料）",
+  "level": "N3-N2",
+  "contentVersion": "2026111201",
+  "grammar": [
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to ~",
+      "meaningZh": "据……",
+      "formation": "Noun + によりますと / によると",
+      "example": "市立奈良病院によりますと、シカによるけがで運ばれた人は、今年は11月5日までに51人になりました。",
+      "translation": "According to Nara City Hospital, 51 people had been taken there with deer injuries this year as of November 5.",
+      "note": "Names the source of the information; news uses the polite form.",
+      "noteZh": "表示信息来源，新闻里常用礼貌形。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "doing things like ~ and ~",
+      "meaningZh": "又……又……，……啦……啦",
+      "formation": "Verb た-form + り、Verb た-form + り + する",
+      "example": "シカの角で突かれたり、かまれたりして、けがをしています。",
+      "translation": "They were hurt by being butted with antlers or bitten.",
+      "note": "Gives examples from a longer list, not every case.",
+      "noteZh": "列举几个例子，暗示不止这些。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜とみられる",
+      "meaning": "it is thought that ~",
+      "meaningZh": "被认为……，据推测……",
+      "formation": "Plain form + とみられる / とみられている",
+      "example": "背景には、観光客が増えたことと、シカの数が増えたことがあるとみられています。",
+      "translation": "The rise is thought to be due to more tourists and more deer.",
+      "note": "A careful way to state a likely cause without being certain.",
+      "noteZh": "谨慎地说明可能的原因，并不断定。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜以外",
+      "meaning": "other than ~, besides ~",
+      "meaningZh": "……以外",
+      "formation": "Noun + 以外の + Noun",
+      "example": "愛護会は、せんべい以外の野菜や食べ残しなどが与えられ、栄養がよくなったことも、増えた原因の一つだとしています。",
+      "translation": "The foundation says one reason for the rise is that deer are being given vegetables, leftovers and other food besides deer crackers, which has improved their nutrition.",
+      "note": "Excludes the noun before it.",
+      "noteZh": "把前面的名词排除在外。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ため（に）",
+      "meaning": "in order to ~",
+      "meaningZh": "为了……",
+      "formation": "Verb dictionary form / Noun の + ため（に）",
+      "example": "奈良県は、人とシカが共に暮らせる環境を作るため、クラウドファンディングで3000万円を目標に寄付を集めています。",
+      "translation": "Nara Prefecture is raising donations through crowdfunding, with a goal of 30 million yen, to create an environment where people and deer can live together.",
+      "note": "States the purpose of an action.",
+      "noteZh": "表示行为的目的。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "市立奈良病院によりますと、シカによるけがで運ばれた人は、今年は11月5日までに51人になりました。\n据奈良市立医院介绍，今年截至11月5日，因被鹿弄伤而送医的人达到51人。\n",
+    "すでに去年1年間の人数を上回り、これまでで最も多くなっています。\n这已经超过了去年全年的人数，创下历史新高。\n",
+    "シカの角で突かれたり、かまれたりして、けがをしています。\n他们是被鹿角顶伤或被鹿咬伤的。\n",
+    "背景には、観光客が増えたことと、シカの数が増えたことがあるとみられています。\n外界认为，背后的原因是游客增加和鹿的数量增加。\n",
+    "愛護会は、せんべい以外の野菜や食べ残しなどが与えられ、栄養がよくなったことも、増えた原因の一つだとしています。\n爱护会认为，有人喂给鹿饼干以外的蔬菜和剩饭等，使鹿的营养变好，这也是数量增加的原因之一。\n",
+    "奈良県は、人とシカが共に暮らせる環境を作るため、クラウドファンディングで3000万円を目標に寄付を集めています。\n奈良县为了打造人与鹿共生的环境，正通过众筹募集捐款，目标为3000万日元。\n"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "上回る",
+      "reading": "うわまわる",
+      "en": "to exceed",
+      "zh": "超过"
+    },
+    {
+      "ja": "突く",
+      "reading": "つく",
+      "en": "to poke, to butt",
+      "zh": "顶，戳"
+    },
+    {
+      "ja": "背景",
+      "reading": "はいけい",
+      "en": "background (cause)",
+      "zh": "背景"
+    },
+    {
+      "ja": "与える",
+      "reading": "あたえる",
+      "en": "to give",
+      "zh": "给予"
+    },
+    {
+      "ja": "栄養",
+      "reading": "えいよう",
+      "en": "nutrition",
+      "zh": "营养"
+    },
+    {
+      "ja": "寄付",
+      "reading": "きふ",
+      "en": "donation",
+      "zh": "捐款"
+    },
+    {
+      "ja": "整備",
+      "reading": "せいび",
+      "en": "improvement, maintenance (of facilities)",
+      "zh": "修整，完善"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "今年、シカのけがで運ばれた人は、11月5日までに何人でしたか。",
+      "a": "51人です。"
+    },
+    {
+      "q": "運ばれた人のうち、外国から来た人はどのくらいですか。",
+      "a": "7割以上です。"
+    },
+    {
+      "q": "奈良県は、クラウドファンディングで集めたお金を、何に使う予定ですか。",
+      "a": "シカが休む場所の整備などに使う予定です。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月12日、木曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月12日，星期四。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Thursday, November 12th.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは11月じゅうににち、木曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日は<rt>こんにちは</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>、<ruby>木曜日<rt>もくようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "奈良公園の、かわいいシカ。でも今年、シカにけがをさせられて救急車で運ばれた人が、過去最多になりました。",
+      "zh": "奈良公园里可爱的鹿。但今年，被鹿弄伤后用救护车送医的人创下了历史新高。",
+      "en": "The cute deer of Nara Park. But this year, a record number of people were hurt by them and taken away by ambulance.",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>の、かわいいシカ。でも<ruby>今年<rt>ことし</rt></ruby>、シカにけがをさせられて<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>が、<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良公園の周辺で、シカにけがをさせられて、救急車で運ばれる人が増えています。",
+      "zh": "在奈良公园周边，被鹿弄伤后用救护车送医的人越来越多。",
+      "en": "More and more people around Nara Park are being hurt by deer and taken away by ambulance.",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>の<ruby>周辺<rt>しゅうへん</rt></ruby>で、シカにけがをさせられて、<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>運ば<rt>はこば</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "市立奈良病院によりますと、シカによるけがで運ばれた人は、今年は11月5日までに51人になりました。",
+      "zh": "据奈良市立医院介绍，今年截至11月5日，因被鹿弄伤而送医的人达到51人。",
+      "en": "According to Nara City Hospital, 51 people had been taken there with deer injuries this year as of November 5.",
+      "tts": "市立奈良病院によりますと、シカによるけがで運ばれた人は、今年は11月いつかまでに、ごじゅういちにんになりました。",
+      "ruby": "<ruby>市立<rt>しりつ</rt></ruby><ruby>奈良<rt>なら</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>によりますと、シカによるけがで<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>までに51<ruby>人<rt>にん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "すでに去年1年間の人数を上回り、これまでで最も多くなっています。",
+      "zh": "这已经超过了去年全年的人数，创下历史新高。",
+      "en": "That is already more than in all of last year, and the most on record.",
+      "ruby": "すでに<ruby>去年<rt>きょねん</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>人数<rt>にんずう</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "2023年は23人で、その後の2年間は、40人台でした。",
+      "zh": "2023年为23人，之后两年都是40多人。",
+      "en": "In 2023 the number was 23, and in the two years after that it was in the 40s.",
+      "tts": "にせんにじゅうさんねんは、にじゅうさんにんで、その後の2年間は、よんじゅうにんだいでした。",
+      "ruby": "2023<ruby>年<rt>ねん</rt></ruby>は23<ruby>人<rt>にん</rt></ruby>で、その<ruby>後<rt>ご</rt></ruby>の2<ruby>年間<rt>ねんかん</rt></ruby>は、40<ruby>人台<rt>にんだい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "運ばれた人の7割以上は、外国から来た人です。",
+      "zh": "送医者中七成以上是外国游客。",
+      "en": "More than 70% of those taken to hospital were visitors from abroad.",
+      "tts": "運ばれた人のななわり以上は、外国から来た人です。",
+      "ruby": "<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>の7<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "シカの角で突かれたり、かまれたりして、けがをしています。",
+      "zh": "他们是被鹿角顶伤或被鹿咬伤的。",
+      "en": "They were hurt by being butted with antlers or bitten.",
+      "ruby": "シカの<ruby>角<rt>つの</rt></ruby>で<ruby>突か<rt>つか</rt></ruby>れたり、かまれたりして、けがをしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "観光客の中には、シカせんべいを持っていて、かまれたという人もいます。",
+      "zh": "有游客说，自己因为拿着鹿饼干而被咬了。",
+      "en": "One tourist said they were bitten while holding deer crackers.",
+      "ruby": "<ruby>観光客<rt>かんこうきゃく</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、シカせんべいを<ruby>持っ<rt>もっ</rt></ruby>ていて、かまれたという<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "背景には、観光客が増えたことと、シカの数が増えたことがあるとみられています。",
+      "zh": "外界认为，背后的原因是游客增加和鹿的数量增加。",
+      "en": "The rise is thought to be due to more tourists and more deer.",
+      "ruby": "<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background (cause)\"><ruby>背景<rt>はいけい</rt></ruby></span>には、<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たことと、シカの<ruby>数<rt>かず</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たことがあるとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良の鹿愛護会が7月に行った調査では、シカの数は1687頭で、過去最多でした。",
+      "zh": "奈良鹿爱护会7月进行的调查显示，鹿的数量为1687头，创历史新高。",
+      "en": "A survey by the Nara Deer Preservation Foundation in July counted 1,687 deer, the most on record.",
+      "tts": "ならのしかあいごかいが7月に行った調査では、シカの数はせんろっぴゃくはちじゅうななとうで、過去最多でした。",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby>の<ruby>鹿<rt>しか</rt></ruby><ruby>愛護<rt>あいご</rt></ruby><ruby>会<rt>かい</rt></ruby>が7<ruby>月<rt>がつ</rt></ruby>に<ruby>行った<rt>いった</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>では、シカの<ruby>数<rt>かず</rt></ruby>は1687<ruby>頭<rt>とう</rt></ruby>で、<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年より222頭増えています。",
+      "zh": "比去年增加了222头。",
+      "en": "That is 222 more than last year.",
+      "tts": "去年よりにひゃくにじゅうにとう増えています。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>より222<ruby>頭<rt>とう</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛護会は、せんべい以外の野菜や食べ残しなどが与えられ、栄養がよくなったことも、増えた原因の一つだとしています。",
+      "zh": "爱护会认为，有人喂给鹿饼干以外的蔬菜和剩饭等，使鹿的营养变好，这也是数量增加的原因之一。",
+      "en": "The foundation says one reason for the rise is that deer are being given vegetables, leftovers and other food besides deer crackers, which has improved their nutrition.",
+      "ruby": "<ruby>愛護<rt>あいご</rt></ruby><ruby>会<rt>かい</rt></ruby>は、せんべい<ruby>以外<rt>いがい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>や<ruby>食べ残し<rt>たべのこし</rt></ruby>などが<ruby>与え<rt>あたえ</rt></ruby>られ、<span class=\"vw\" data-ja=\"栄養\" data-reading=\"えいよう\" data-en=\"nutrition\"><ruby>栄養<rt>えいよう</rt></ruby></span>がよくなったことも、<ruby>増え<rt>ふえ</rt></ruby>た<ruby>原因<rt>げんいん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>だとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "公園を出て、近くの住宅地や畑で、えさを探すシカも出ています。",
+      "zh": "也有鹿离开公园，到附近的住宅区和农田里找食物。",
+      "en": "Some deer are leaving the park to look for food in nearby neighborhoods and fields.",
+      "ruby": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>住宅地<rt>じゅうたくち</rt></ruby>や<ruby>畑<rt>はたけ</rt></ruby>で、えさを<ruby>探す<rt>さがす</rt></ruby>シカも<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良県は、人とシカが共に暮らせる環境を作るため、クラウドファンディングで3000万円を目標に寄付を集めています。",
+      "zh": "奈良县为了打造人与鹿共生的环境，正通过众筹募集捐款，目标为3000万日元。",
+      "en": "Nara Prefecture is raising donations through crowdfunding, with a goal of 30 million yen, to create an environment where people and deer can live together.",
+      "tts": "奈良県は、人とシカが共に暮らせる環境を作るため、クラウドファンディングで、さんぜんまんえんを目標に寄付を集めています。",
+      "ruby": "<ruby>奈良県<rt>ならけん</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>とシカが<ruby>共に<rt>ともに</rt></ruby><ruby>暮ら<rt>くら</rt></ruby>せる<ruby>環境<rt>かんきょう</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>ため、クラウドファンディングで3000<ruby>万円<rt>まんえん</rt></ruby>を<ruby>目標<rt>もくひょう</rt></ruby>に<span class=\"vw\" data-ja=\"寄付\" data-reading=\"きふ\" data-en=\"donation\"><ruby>寄付<rt>きふ</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "集めたお金は、シカが休む場所の整備などに使う予定で、募集は12月4日までです。",
+      "zh": "募集的资金计划用于修整鹿休息的场所等，募集截止到12月4日。",
+      "en": "The money will be used for things like improving places for the deer to rest, and donations are accepted until December 4.",
+      "tts": "集めたお金は、シカが休む場所の整備などに使う予定で、募集は12月よっかまでです。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>は、シカが<ruby>休む<rt>やすむ</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>の<span class=\"vw\" data-ja=\"整備\" data-reading=\"せいび\" data-en=\"improvement, maintenance (of facilities)\"><ruby>整備<rt>せいび</rt></ruby></span>などに<ruby>使う<rt>つかう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>で、<ruby>募集<rt>ぼしゅう</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>までです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "奈良公園のシカは、海外から来る観光客にも、とても人気があります。",
+      "zh": "奈良公园的鹿也很受海外游客欢迎。",
+      "en": "The deer of Nara Park are very popular with visitors from abroad too.",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>のシカは、<ruby>海外<rt>かいがい</rt></ruby>から<ruby>来る<rt>くる</rt></ruby><ruby>観光客<rt>かんこうきゃく</rt></ruby>にも、とても<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "guide",
+      "text": "でも、シカは野生の動物です。かわいく見えても、角で突かれたら、大きなけがになります。",
+      "zh": "但鹿是野生动物。即使看起来很可爱，被鹿角顶到也可能受重伤。",
+      "en": "But deer are wild animals. They may look cute, but being butted by antlers can cause serious injuries.",
+      "ruby": "でも、シカは<ruby>野生<rt>やせい</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>です。かわいく<ruby>見え<rt>みえ</rt></ruby>ても、<ruby>角<rt>つの</rt></ruby>で<ruby>突か<rt>つか</rt></ruby>れたら、<ruby>大き<rt>おおき</rt></ruby>なけがになります。"
+    },
+    {
+      "speaker": "guide",
+      "text": "今年、救急車で運ばれた人は51人。2023年の2倍以上です。",
+      "zh": "今年用救护车送医的人有51人，是2023年的两倍多。",
+      "en": "This year, 51 people were taken by ambulance. That's more than twice as many as in 2023.",
+      "tts": "今年、救急車で運ばれた人は、ごじゅういちにん。にせんにじゅうさんねんの、にばい以上です。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>、<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>は51<ruby>人<rt>にん</rt></ruby>。2023<ruby>年<rt>ねん</rt></ruby>の2<ruby>倍以上<rt>ばいいじょう</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "理由は、二つあるとみられています。観光客が増えたこと。そして、シカ自体が増えたことです。",
+      "zh": "原因被认为有两个：游客增加了，鹿本身也增加了。",
+      "en": "There seem to be two reasons: more tourists, and more deer.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>二つ<rt>ふたつ</rt></ruby>あるとみられています。<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たこと。そして、シカ<ruby>自体<rt>じたい</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たことです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "シカは今、1687頭。たった1年で、222頭も増えました。",
+      "zh": "现在鹿有1687头，仅仅一年就增加了222头。",
+      "en": "There are now 1,687 deer, 222 more in just one year.",
+      "tts": "シカは今、せんろっぴゃくはちじゅうななとう。たった1年で、にひゃくにじゅうにとうも増えました。",
+      "ruby": "シカは<ruby>今<rt>いま</rt></ruby>、1687<ruby>頭<rt>とう</rt></ruby>。たった1<ruby>年<rt>ねん</rt></ruby>で、222<ruby>頭<rt>とう</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "シカは、せんべいを買った人をよく覚えていて、ずっと後をついてくる、と話す観光客もいました。",
+      "zh": "有游客说，鹿很会记住买了鹿饼干的人，会一直跟在后面。",
+      "en": "One tourist said the deer remember who bought crackers and keep following them.",
+      "ruby": "シカは、せんべいを<ruby>買っ<rt>かっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>をよく<ruby>覚え<rt>おぼえ</rt></ruby>ていて、ずっと<ruby>後<rt>あと</rt></ruby>をついてくる、と<ruby>話す<rt>はなす</rt></ruby><ruby>観光客<rt>かんこうきゃく</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "せんべいを持っていると、たくさんのシカが集まってきます。そこで、かまれてしまうこともあるようです。",
+      "zh": "手里拿着鹿饼干，就会有很多鹿聚过来，有时就会在这时被咬。",
+      "en": "If you're holding crackers, lots of deer gather around, and that's apparently when people sometimes get bitten.",
+      "ruby": "せんべいを<ruby>持っ<rt>もっ</rt></ruby>ていると、たくさんのシカが<ruby>集ま<rt>あつま</rt></ruby>ってきます。そこで、かまれてしまうこともあるようです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それに、せんべい以外の食べ物をあげる人もいます。それが、シカが増える原因の一つになっている、ということでした。",
+      "zh": "此外，还有人喂鹿饼干以外的食物，这也成了鹿增加的原因之一。",
+      "en": "On top of that, some people feed them food other than crackers, and that is said to be one reason the deer are increasing.",
+      "ruby": "それに、せんべい<ruby>以外<rt>いがい</rt></ruby>の<ruby>食べ物<rt>たべもの</rt></ruby>をあげる<ruby>人<rt>ひと</rt></ruby>もいます。それが、シカが<ruby>増え<rt>ふえ</rt></ruby>る<ruby>原因<rt>げんいん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>になっている、ということでした。"
+    },
+    {
+      "speaker": "guide",
+      "text": "シカが増えると、公園の中だけでは、えさが足りなくなります。だから、住宅地や畑にまで出ていくのですね。",
+      "zh": "鹿多了，公园里的食物就不够了，所以它们才会跑到住宅区和农田去。",
+      "en": "With more deer, there isn't enough food in the park alone. That's why they go out into neighborhoods and fields.",
+      "ruby": "シカが<ruby>増え<rt>ふえ</rt></ruby>ると、<ruby>公園<rt>こうえん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だけでは、えさが<ruby>足り<rt>たり</rt></ruby>なくなります。だから、<ruby>住宅地<rt>じゅうたくち</rt></ruby>や<ruby>畑<rt>はたけ</rt></ruby>にまで<ruby>出て<rt>でて</rt></ruby>いくのですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "運ばれた人の7割以上が外国人、というのも気になる数字です。シカが野生の動物だということが、まだあまり伝わっていないのかもしれません。",
+      "zh": "送医者七成以上是外国人，这个数字也值得关注。也许“鹿是野生动物”这一点还没有被充分了解。",
+      "en": "It's also striking that more than 70% of them were foreigners. Perhaps people don't yet realize that the deer are wild animals.",
+      "tts": "運ばれた人のななわり以上が外国人、というのも気になる数字です。シカが野生の動物だということが、まだあまり伝わっていないのかもしれません。",
+      "ruby": "<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>の7<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>外国人<rt>がいこくじん</rt></ruby>、というのも<ruby>気に<rt>きに</rt></ruby>なる<ruby>数字<rt>すうじ</rt></ruby>です。シカが<ruby>野生<rt>やせい</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>だということが、まだあまり<ruby>伝わ<rt>つたわ</rt></ruby>っていないのかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "奈良県は、寄付を集めて、シカが休める場所を整えようとしています。",
+      "zh": "奈良县正在募集捐款，打算修整鹿可以休息的地方。",
+      "en": "Nara Prefecture is collecting donations to improve places where the deer can rest.",
+      "ruby": "<ruby>奈良県<rt>ならけん</rt></ruby>は、<span class=\"vw\" data-ja=\"寄付\" data-reading=\"きふ\" data-en=\"donation\"><ruby>寄付<rt>きふ</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>て、シカが<ruby>休め<rt>やすめ</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>整え<rt>ととのえ</rt></ruby>ようとしています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "シカに会いに行くときは、少し距離をとって、せんべいはすぐにあげる。それだけでも、けがは減らせるかもしれませんね。",
+      "zh": "去看鹿的时候，保持一点距离，鹿饼干拿到就马上喂掉。光是这样，也许就能减少受伤。",
+      "en": "When you go to see the deer, keep a little distance and hand over the crackers right away. That alone might cut down on injuries.",
+      "ruby": "シカに<ruby>会い<rt>あい</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ときは、<ruby>少し<rt>すこし</rt></ruby><ruby>距離<rt>きょり</rt></ruby>をとって、せんべいはすぐにあげる。それだけでも、けがは<ruby>減ら<rt>へら</rt></ruby>せるかもしれませんね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻吧。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. You should understand it better this time.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良公園の周辺で、シカにけがをさせられて、救急車で運ばれる人が増えています。",
+      "zh": "在奈良公园周边，被鹿弄伤后用救护车送医的人越来越多。",
+      "en": "More and more people around Nara Park are being hurt by deer and taken away by ambulance.",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>の<ruby>周辺<rt>しゅうへん</rt></ruby>で、シカにけがをさせられて、<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>運ば<rt>はこば</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "市立奈良病院によりますと、シカによるけがで運ばれた人は、今年は11月5日までに51人になりました。",
+      "zh": "据奈良市立医院介绍，今年截至11月5日，因被鹿弄伤而送医的人达到51人。",
+      "en": "According to Nara City Hospital, 51 people had been taken there with deer injuries this year as of November 5.",
+      "tts": "市立奈良病院によりますと、シカによるけがで運ばれた人は、今年は11月いつかまでに、ごじゅういちにんになりました。",
+      "ruby": "<ruby>市立<rt>しりつ</rt></ruby><ruby>奈良<rt>なら</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>によりますと、シカによるけがで<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>までに51<ruby>人<rt>にん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "すでに去年1年間の人数を上回り、これまでで最も多くなっています。",
+      "zh": "这已经超过了去年全年的人数，创下历史新高。",
+      "en": "That is already more than in all of last year, and the most on record.",
+      "ruby": "すでに<ruby>去年<rt>きょねん</rt></ruby>1<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>人数<rt>にんずう</rt></ruby>を<ruby>上回り<rt>うわまわり</rt></ruby>、これまでで<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "2023年は23人で、その後の2年間は、40人台でした。",
+      "zh": "2023年为23人，之后两年都是40多人。",
+      "en": "In 2023 the number was 23, and in the two years after that it was in the 40s.",
+      "tts": "にせんにじゅうさんねんは、にじゅうさんにんで、その後の2年間は、よんじゅうにんだいでした。",
+      "ruby": "2023<ruby>年<rt>ねん</rt></ruby>は23<ruby>人<rt>にん</rt></ruby>で、その<ruby>後<rt>ご</rt></ruby>の2<ruby>年間<rt>ねんかん</rt></ruby>は、40<ruby>人台<rt>にんだい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "運ばれた人の7割以上は、外国から来た人です。",
+      "zh": "送医者中七成以上是外国游客。",
+      "en": "More than 70% of those taken to hospital were visitors from abroad.",
+      "tts": "運ばれた人のななわり以上は、外国から来た人です。",
+      "ruby": "<ruby>運ば<rt>はこば</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>の7<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "シカの角で突かれたり、かまれたりして、けがをしています。",
+      "zh": "他们是被鹿角顶伤或被鹿咬伤的。",
+      "en": "They were hurt by being butted with antlers or bitten.",
+      "ruby": "シカの<ruby>角<rt>つの</rt></ruby>で<ruby>突か<rt>つか</rt></ruby>れたり、かまれたりして、けがをしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "観光客の中には、シカせんべいを持っていて、かまれたという人もいます。",
+      "zh": "有游客说，自己因为拿着鹿饼干而被咬了。",
+      "en": "One tourist said they were bitten while holding deer crackers.",
+      "ruby": "<ruby>観光客<rt>かんこうきゃく</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、シカせんべいを<ruby>持っ<rt>もっ</rt></ruby>ていて、かまれたという<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "背景には、観光客が増えたことと、シカの数が増えたことがあるとみられています。",
+      "zh": "外界认为，背后的原因是游客增加和鹿的数量增加。",
+      "en": "The rise is thought to be due to more tourists and more deer.",
+      "ruby": "<span class=\"vw\" data-ja=\"背景\" data-reading=\"はいけい\" data-en=\"background (cause)\"><ruby>背景<rt>はいけい</rt></ruby></span>には、<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たことと、シカの<ruby>数<rt>かず</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たことがあるとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良の鹿愛護会が7月に行った調査では、シカの数は1687頭で、過去最多でした。",
+      "zh": "奈良鹿爱护会7月进行的调查显示，鹿的数量为1687头，创历史新高。",
+      "en": "A survey by the Nara Deer Preservation Foundation in July counted 1,687 deer, the most on record.",
+      "tts": "ならのしかあいごかいが7月に行った調査では、シカの数はせんろっぴゃくはちじゅうななとうで、過去最多でした。",
+      "ruby": "<ruby>奈良<rt>なら</rt></ruby>の<ruby>鹿<rt>しか</rt></ruby><ruby>愛護<rt>あいご</rt></ruby><ruby>会<rt>かい</rt></ruby>が7<ruby>月<rt>がつ</rt></ruby>に<ruby>行った<rt>いった</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>では、シカの<ruby>数<rt>かず</rt></ruby>は1687<ruby>頭<rt>とう</rt></ruby>で、<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年より222頭増えています。",
+      "zh": "比去年增加了222头。",
+      "en": "That is 222 more than last year.",
+      "tts": "去年よりにひゃくにじゅうにとう増えています。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>より222<ruby>頭<rt>とう</rt></ruby><ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "愛護会は、せんべい以外の野菜や食べ残しなどが与えられ、栄養がよくなったことも、増えた原因の一つだとしています。",
+      "zh": "爱护会认为，有人喂给鹿饼干以外的蔬菜和剩饭等，使鹿的营养变好，这也是数量增加的原因之一。",
+      "en": "The foundation says one reason for the rise is that deer are being given vegetables, leftovers and other food besides deer crackers, which has improved their nutrition.",
+      "ruby": "<ruby>愛護<rt>あいご</rt></ruby><ruby>会<rt>かい</rt></ruby>は、せんべい<ruby>以外<rt>いがい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>や<ruby>食べ残し<rt>たべのこし</rt></ruby>などが<ruby>与え<rt>あたえ</rt></ruby>られ、<span class=\"vw\" data-ja=\"栄養\" data-reading=\"えいよう\" data-en=\"nutrition\"><ruby>栄養<rt>えいよう</rt></ruby></span>がよくなったことも、<ruby>増え<rt>ふえ</rt></ruby>た<ruby>原因<rt>げんいん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>だとしています。"
+    },
+    {
+      "speaker": "news",
+      "text": "公園を出て、近くの住宅地や畑で、えさを探すシカも出ています。",
+      "zh": "也有鹿离开公园，到附近的住宅区和农田里找食物。",
+      "en": "Some deer are leaving the park to look for food in nearby neighborhoods and fields.",
+      "ruby": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>住宅地<rt>じゅうたくち</rt></ruby>や<ruby>畑<rt>はたけ</rt></ruby>で、えさを<ruby>探す<rt>さがす</rt></ruby>シカも<ruby>出て<rt>でて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "奈良県は、人とシカが共に暮らせる環境を作るため、クラウドファンディングで3000万円を目標に寄付を集めています。",
+      "zh": "奈良县为了打造人与鹿共生的环境，正通过众筹募集捐款，目标为3000万日元。",
+      "en": "Nara Prefecture is raising donations through crowdfunding, with a goal of 30 million yen, to create an environment where people and deer can live together.",
+      "tts": "奈良県は、人とシカが共に暮らせる環境を作るため、クラウドファンディングで、さんぜんまんえんを目標に寄付を集めています。",
+      "ruby": "<ruby>奈良県<rt>ならけん</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>とシカが<ruby>共に<rt>ともに</rt></ruby><ruby>暮ら<rt>くら</rt></ruby>せる<ruby>環境<rt>かんきょう</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>ため、クラウドファンディングで3000<ruby>万円<rt>まんえん</rt></ruby>を<ruby>目標<rt>もくひょう</rt></ruby>に<span class=\"vw\" data-ja=\"寄付\" data-reading=\"きふ\" data-en=\"donation\"><ruby>寄付<rt>きふ</rt></ruby></span>を<ruby>集め<rt>あつめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "集めたお金は、シカが休む場所の整備などに使う予定で、募集は12月4日までです。",
+      "zh": "募集的资金计划用于修整鹿休息的场所等，募集截止到12月4日。",
+      "en": "The money will be used for things like improving places for the deer to rest, and donations are accepted until December 4.",
+      "tts": "集めたお金は、シカが休む場所の整備などに使う予定で、募集は12月よっかまでです。",
+      "ruby": "<ruby>集め<rt>あつめ</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>は、シカが<ruby>休む<rt>やすむ</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>の<span class=\"vw\" data-ja=\"整備\" data-reading=\"せいび\" data-en=\"improvement, maintenance (of facilities)\"><ruby>整備<rt>せいび</rt></ruby></span>などに<ruby>使う<rt>つかう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>で、<ruby>募集<rt>ぼしゅう</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby><ruby>4日<rt>よっか</rt></ruby>までです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんは、奈良でシカにせんべいをあげてみたいですか。それとも、少し離れて見るだけにしますか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "你想在奈良亲手喂鹿饼干吗？还是只在稍远的地方看看呢？感谢今天的收听。明天见。",
+      "en": "Would you like to feed crackers to the deer in Nara, or would you rather just watch from a little way off? Thanks for listening today. See you tomorrow.",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>は、<ruby>奈良<rt>なら</rt></ruby>でシカにせんべいをあげてみたいですか。それとも、<ruby>少し<rt>すこし</rt></ruby><ruby>離れ<rt>はなれ</rt></ruby>て<ruby>見る<rt>みる</rt></ruby>だけにしますか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
