@@ -1,0 +1,669 @@
+{
+  "episode": 280,
+  "title": "「5万人」のはずの鳥取のグルメイベント、客は1000人以下",
+  "titleZh": "号称5万人的鸟取美食节，游客不到1000人",
+  "titleEn": "Tottori food festival promised 50,000 visitors, but fewer than 1,000 came",
+  "date": "2026-11-12",
+  "source": "テレビ朝日 / FNNプライムオンライン / 東洋経済オンライン",
+  "level": "N4-N3",
+  "contentVersion": "2026111201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twelfth: a food festival promised huge crowds, but almost nobody came. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "鳥取県倉吉市で、11月7日と8日に、食べ物のイベントが開かれました。",
+      "zh": "11月7日和8日，鸟取县仓吉市举办了一场美食活动。",
+      "en": "A food event was held in Kurayoshi, Tottori Prefecture, on November 7 and 8.",
+      "tts": "鳥取県くらよし市で、じゅういちがつなのかとようかに、食べ物のイベントが開かれました。",
+      "ruby": "<ruby>鳥取県<rt>とっとりけん</rt></ruby><ruby>倉吉<rt>くらよし</rt></ruby><ruby>市<rt>し</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>と<ruby>8日<rt>ようか</rt></ruby>に、<ruby>食べ物<rt>たべもの</rt></ruby>のイベントが<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国のご当地グルメが集まって、売り上げを競うイベントです。",
+      "zh": "这是一场全国各地特色美食聚在一起、比拼销售额的活动。",
+      "en": "It was an event where local specialty foods from all over Japan gathered and competed on sales.",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>のご<ruby>当地<rt>とうち</rt></ruby>グルメが<ruby>集ま<rt>あつま</rt></ruby>って、<ruby>売り上げ<rt>うりあげ</rt></ruby>を<span class=\"vw\" data-ja=\"競う\" data-reading=\"きそう\" data-en=\"to compete\"><ruby>競う<rt>きそう</rt></ruby></span>イベントです。"
+    },
+    {
+      "speaker": "news",
+      "text": "店はおよそ50あって、東と西の2つのチームに分かれました。",
+      "zh": "大约有50家店铺，分成了东、西两支队伍。",
+      "en": "There were about 50 stalls, split into two teams, East and West.",
+      "tts": "店はおよそごじゅうあって、東と西のふたつのチームに分かれました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>はおよそ50あって、<ruby>東<rt>ひがし</rt></ruby>と<ruby>西<rt>にし</rt></ruby>の2つのチームに<ruby>分か<rt>わか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "主催者は、チラシに「5万人が来る」と書いていました。",
+      "zh": "主办方在传单上写着“会有5万人来”。",
+      "en": "The organizer had written on flyers that 50,000 people would come.",
+      "tts": "主催者は、チラシに「ごまんにんが来る」と書いていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>は、チラシに「5<ruby>万人<rt>まんにん</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>」と<ruby>書い<rt>かい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「経済効果は10億円」とも書いていました。",
+      "zh": "传单上还写着“经济效益达10亿日元”。",
+      "en": "The flyers also said the economic effect would be 1 billion yen.",
+      "tts": "「経済効果はじゅうおくえん」とも書いていました。",
+      "ruby": "「<ruby>経済効果<rt>けいざいこうか</rt></ruby>は10<ruby>億円<rt>おくえん</rt></ruby>」とも<ruby>書い<rt>かい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、実際に来た人は、1000人に届かなかったとみられています。",
+      "zh": "然而，实际来的人估计不到1000人。",
+      "en": "However, the number of people who actually came is believed to have been under 1,000.",
+      "tts": "しかし、実際に来た人は、せんにんに届かなかったとみられています。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"実際に\" data-reading=\"じっさいに\" data-en=\"actually; in reality\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、1000<ruby>人<rt>にん</rt></ruby>に<ruby>届か<rt>とどか</rt></ruby>なかったとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店を出すために、5万円や10万円を払った人もいました。",
+      "zh": "还有人为了摆摊支付了5万日元或10万日元。",
+      "en": "Some people paid 50,000 or 100,000 yen to open a stall.",
+      "tts": "店を出すために、ごまんえんやじゅうまんえんを払った人もいました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>ために、5<ruby>万円<rt>まんえん</rt></ruby>や10<ruby>万円<rt>まんえん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には、始まる1時間前まで、電気がありませんでした。",
+      "zh": "直到活动开始前1小时，会场都没有通电。",
+      "en": "Until one hour before the start, there was no electricity at the venue.",
+      "tts": "会場には、始まるいちじかんまえまで、電気がありませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; event site\"><ruby>会場<rt>かいじょう</rt></ruby></span>には、<ruby>始ま<rt>はじま</rt></ruby>る1<ruby>時間前<rt>じかんまえ</rt></ruby>まで、<ruby>電気<rt>でんき</rt></ruby>がありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "テントや冷蔵庫も、足りなかったということです。",
+      "zh": "据说帐篷和冰箱也不够。",
+      "en": "Tents and refrigerators were also in short supply, it is reported.",
+      "ruby": "テントや<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>も、<ruby>足り<rt>たり</rt></ruby>なかったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "からあげの店は、鶏肉を200キロ用意しましたが、客は4人か5人だけでした。",
+      "zh": "一家炸鸡店准备了200公斤鸡肉，但客人只有四五个。",
+      "en": "A fried chicken stall prepared 200 kilograms of chicken, but had only four or five customers.",
+      "tts": "からあげの店は、鶏肉をにひゃくキロ用意しましたが、客はよにんかごにんだけでした。",
+      "ruby": "からあげの<ruby>店<rt>みせ</rt></ruby>は、<ruby>鶏肉<rt>とりにく</rt></ruby>を200キロ<ruby>用意し<rt>よういし</rt></ruby>ましたが、<ruby>客<rt>きゃく</rt></ruby>は4<ruby>人<rt>にん</rt></ruby>か5<ruby>人<rt>にん</rt></ruby>だけでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この店は、33万円以上の赤字になりました。",
+      "zh": "这家店亏损了33万日元以上。",
+      "en": "This stall lost more than 330,000 yen.",
+      "tts": "この店は、さんじゅうさんまんえん以上の赤字になりました。",
+      "ruby": "この<ruby>店<rt>みせ</rt></ruby>は、33<ruby>万円<rt>まんえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"a loss; being in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の人は、たくさん売るつもりだったので、とても驚いたと話しています。",
+      "zh": "店主说，本来打算大卖一场，所以非常震惊。",
+      "en": "The stall owner says they had planned to sell a lot, so they were very shocked.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、たくさん<ruby>売る<rt>うる</rt></ruby>つもりだったので、とても<ruby>驚い<rt>おどろい</rt></ruby>たと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店を出した人たちは、主催者にきちんと説明してほしいと話しています。",
+      "zh": "摆摊的人们表示，希望主办方好好解释清楚。",
+      "en": "The people who ran stalls say they want the organizer to explain properly.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>にきちんと<ruby>説明し<rt>せつめいし</rt></ruby>てほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "倉吉市の市長は、「非常に残念に思っている」と話しました。",
+      "zh": "仓吉市市长表示“感到非常遗憾”。",
+      "en": "The mayor of Kurayoshi said, \"I find it extremely regrettable.\"",
+      "tts": "くらよし市の市長は、「非常に残念に思っている」と話しました。",
+      "ruby": "<ruby>倉吉<rt>くらよし</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>市長<rt>しちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span><ruby>残念<rt>ざんねん</rt></ruby>に<ruby>思って<rt>おもって</rt></ruby>いる」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "鳥取県倉吉市で、11月7日と8日に、食べ物のイベントが開かれました。",
+      "tts": "鳥取県くらよし市で、じゅういちがつなのかとようかに、食べ物のイベントが開かれました。",
+      "ruby": "<ruby>鳥取県<rt>とっとりけん</rt></ruby><ruby>倉吉<rt>くらよし</rt></ruby><ruby>市<rt>し</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>と<ruby>8日<rt>ようか</rt></ruby>に、<ruby>食べ物<rt>たべもの</rt></ruby>のイベントが<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A food event was held in a city in Tottori Prefecture on November seventh and eighth."
+    },
+    {
+      "speaker": "slow",
+      "text": "全国のご当地グルメが集まって、売り上げを競うイベントです。",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>のご<ruby>当地<rt>とうち</rt></ruby>グルメが<ruby>集ま<rt>あつま</rt></ruby>って、<ruby>売り上げ<rt>うりあげ</rt></ruby>を<span class=\"vw\" data-ja=\"競う\" data-reading=\"きそう\" data-en=\"to compete\"><ruby>競う<rt>きそう</rt></ruby></span>イベントです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Local specialty foods from all over Japan came together to compete on sales."
+    },
+    {
+      "speaker": "vocab",
+      "text": "競う",
+      "ruby": "<span class=\"vw\" data-ja=\"競う\" data-reading=\"きそう\" data-en=\"to compete\"><ruby>競う<rt>きそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to compete."
+    },
+    {
+      "speaker": "slow",
+      "text": "店はおよそ50あって、東と西の2つのチームに分かれました。",
+      "tts": "店はおよそごじゅうあって、東と西のふたつのチームに分かれました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>はおよそ50あって、<ruby>東<rt>ひがし</rt></ruby>と<ruby>西<rt>にし</rt></ruby>の2つのチームに<ruby>分か<rt>わか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "There were about fifty stalls, split into two teams, East and West."
+    },
+    {
+      "speaker": "vocab",
+      "text": "分かれる",
+      "ruby": "<span class=\"vw\" data-ja=\"分かれる\" data-reading=\"わかれる\" data-en=\"to be divided; to split\"><ruby>分か<rt>わか</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to split up, or be divided."
+    },
+    {
+      "speaker": "slow",
+      "text": "主催者は、チラシに「5万人が来る」と書いていました。",
+      "tts": "主催者は、チラシに「ごまんにんが来る」と書いていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>は、チラシに「5<ruby>万人<rt>まんにん</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>」と<ruby>書い<rt>かい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The organizer's flyers said fifty thousand people would come."
+    },
+    {
+      "speaker": "vocab",
+      "text": "主催者",
+      "ruby": "<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the organizer of an event."
+    },
+    {
+      "speaker": "slow",
+      "text": "「経済効果は10億円」とも書いていました。",
+      "tts": "「経済効果はじゅうおくえん」とも書いていました。",
+      "ruby": "「<ruby>経済効果<rt>けいざいこうか</rt></ruby>は10<ruby>億円<rt>おくえん</rt></ruby>」とも<ruby>書い<rt>かい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "They also said the economic effect would be one billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、実際に来た人は、1000人に届かなかったとみられています。",
+      "tts": "しかし、実際に来た人は、せんにんに届かなかったとみられています。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"実際に\" data-reading=\"じっさいに\" data-en=\"actually; in reality\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、1000<ruby>人<rt>にん</rt></ruby>に<ruby>届か<rt>とどか</rt></ruby>なかったとみられています。"
+    },
+    {
+      "speaker": "host",
+      "text": "But the number of people who actually came is thought to be under one thousand."
+    },
+    {
+      "speaker": "vocab",
+      "text": "実際に",
+      "ruby": "<span class=\"vw\" data-ja=\"実際に\" data-reading=\"じっさいに\" data-en=\"actually; in reality\"><ruby>実際に<rt>じっさいに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means actually, in reality."
+    },
+    {
+      "speaker": "slow",
+      "text": "店を出すために、5万円や10万円を払った人もいました。",
+      "tts": "店を出すために、ごまんえんやじゅうまんえんを払った人もいました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>ために、5<ruby>万円<rt>まんえん</rt></ruby>や10<ruby>万円<rt>まんえん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some people paid fifty thousand or one hundred thousand yen to run a stall."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場には、始まる1時間前まで、電気がありませんでした。",
+      "tts": "会場には、始まるいちじかんまえまで、電気がありませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; event site\"><ruby>会場<rt>かいじょう</rt></ruby></span>には、<ruby>始ま<rt>はじま</rt></ruby>る1<ruby>時間前<rt>じかんまえ</rt></ruby>まで、<ruby>電気<rt>でんき</rt></ruby>がありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The venue had no electricity until one hour before the start."
+    },
+    {
+      "speaker": "vocab",
+      "text": "会場",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; event site\"><ruby>会場<rt>かいじょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the place where an event is held."
+    },
+    {
+      "speaker": "slow",
+      "text": "テントや冷蔵庫も、足りなかったということです。",
+      "ruby": "テントや<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>も、<ruby>足り<rt>たり</rt></ruby>なかったということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "There weren't enough tents or refrigerators either."
+    },
+    {
+      "speaker": "vocab",
+      "text": "足りない",
+      "ruby": "<span class=\"vw\" data-ja=\"足りない\" data-reading=\"たりない\" data-en=\"not enough\"><ruby>足り<rt>たり</rt></ruby>ない</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means not enough."
+    },
+    {
+      "speaker": "slow",
+      "text": "からあげの店は、鶏肉を200キロ用意しましたが、客は4人か5人だけでした。",
+      "tts": "からあげの店は、鶏肉をにひゃくキロ用意しましたが、客はよにんかごにんだけでした。",
+      "ruby": "からあげの<ruby>店<rt>みせ</rt></ruby>は、<ruby>鶏肉<rt>とりにく</rt></ruby>を200キロ<ruby>用意し<rt>よういし</rt></ruby>ましたが、<ruby>客<rt>きゃく</rt></ruby>は4<ruby>人<rt>にん</rt></ruby>か5<ruby>人<rt>にん</rt></ruby>だけでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "A fried chicken stall got two hundred kilograms of chicken ready, but had only four or five customers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "用意する",
+      "ruby": "<span class=\"vw\" data-ja=\"用意する\" data-reading=\"よういする\" data-en=\"to prepare; to get ready\"><ruby>用意す<rt>よういす</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to prepare, to get something ready."
+    },
+    {
+      "speaker": "slow",
+      "text": "この店は、33万円以上の赤字になりました。",
+      "tts": "この店は、さんじゅうさんまんえん以上の赤字になりました。",
+      "ruby": "この<ruby>店<rt>みせ</rt></ruby>は、33<ruby>万円<rt>まんえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"a loss; being in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This stall lost more than three hundred thirty thousand yen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "赤字",
+      "ruby": "<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"a loss; being in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a financial loss, being in the red."
+    },
+    {
+      "speaker": "slow",
+      "text": "店の人は、たくさん売るつもりだったので、とても驚いたと話しています。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、たくさん<ruby>売る<rt>うる</rt></ruby>つもりだったので、とても<ruby>驚い<rt>おどろい</rt></ruby>たと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The owner says they planned to sell a lot, so they were shocked."
+    },
+    {
+      "speaker": "slow",
+      "text": "店を出した人たちは、主催者にきちんと説明してほしいと話しています。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>にきちんと<ruby>説明し<rt>せつめいし</rt></ruby>てほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The stall owners want the organizer to give a proper explanation."
+    },
+    {
+      "speaker": "vocab",
+      "text": "きちんと",
+      "ruby": "<span class=\"vw\" data-ja=\"きちんと\" data-reading=\"きちんと\" data-en=\"properly; neatly\">きちんと</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means properly, the right way."
+    },
+    {
+      "speaker": "slow",
+      "text": "倉吉市の市長は、「非常に残念に思っている」と話しました。",
+      "tts": "くらよし市の市長は、「非常に残念に思っている」と話しました。",
+      "ruby": "<ruby>倉吉<rt>くらよし</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>市長<rt>しちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span><ruby>残念<rt>ざんねん</rt></ruby>に<ruby>思って<rt>おもって</rt></ruby>いる」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The city's mayor said it was extremely regrettable."
+    },
+    {
+      "speaker": "vocab",
+      "text": "非常に",
+      "ruby": "<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means extremely, a more formal way to say very."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "鳥取県倉吉市で、11月7日と8日に、食べ物のイベントが開かれました。",
+      "zh": "11月7日和8日，鸟取县仓吉市举办了一场美食活动。",
+      "en": "A food event was held in Kurayoshi, Tottori Prefecture, on November 7 and 8.",
+      "tts": "鳥取県くらよし市で、じゅういちがつなのかとようかに、食べ物のイベントが開かれました。",
+      "ruby": "<ruby>鳥取県<rt>とっとりけん</rt></ruby><ruby>倉吉<rt>くらよし</rt></ruby><ruby>市<rt>し</rt></ruby>で、11<ruby>月<rt>がつ</rt></ruby><ruby>7日<rt>なのか</rt></ruby>と<ruby>8日<rt>ようか</rt></ruby>に、<ruby>食べ物<rt>たべもの</rt></ruby>のイベントが<ruby>開か<rt>ひらか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "全国のご当地グルメが集まって、売り上げを競うイベントです。",
+      "zh": "这是一场全国各地特色美食聚在一起、比拼销售额的活动。",
+      "en": "It was an event where local specialty foods from all over Japan gathered and competed on sales.",
+      "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>のご<ruby>当地<rt>とうち</rt></ruby>グルメが<ruby>集ま<rt>あつま</rt></ruby>って、<ruby>売り上げ<rt>うりあげ</rt></ruby>を<span class=\"vw\" data-ja=\"競う\" data-reading=\"きそう\" data-en=\"to compete\"><ruby>競う<rt>きそう</rt></ruby></span>イベントです。"
+    },
+    {
+      "speaker": "news",
+      "text": "店はおよそ50あって、東と西の2つのチームに分かれました。",
+      "zh": "大约有50家店铺，分成了东、西两支队伍。",
+      "en": "There were about 50 stalls, split into two teams, East and West.",
+      "tts": "店はおよそごじゅうあって、東と西のふたつのチームに分かれました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>はおよそ50あって、<ruby>東<rt>ひがし</rt></ruby>と<ruby>西<rt>にし</rt></ruby>の2つのチームに<ruby>分か<rt>わか</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "主催者は、チラシに「5万人が来る」と書いていました。",
+      "zh": "主办方在传单上写着“会有5万人来”。",
+      "en": "The organizer had written on flyers that 50,000 people would come.",
+      "tts": "主催者は、チラシに「ごまんにんが来る」と書いていました。",
+      "ruby": "<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>は、チラシに「5<ruby>万人<rt>まんにん</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>」と<ruby>書い<rt>かい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「経済効果は10億円」とも書いていました。",
+      "zh": "传单上还写着“经济效益达10亿日元”。",
+      "en": "The flyers also said the economic effect would be 1 billion yen.",
+      "tts": "「経済効果はじゅうおくえん」とも書いていました。",
+      "ruby": "「<ruby>経済効果<rt>けいざいこうか</rt></ruby>は10<ruby>億円<rt>おくえん</rt></ruby>」とも<ruby>書い<rt>かい</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、実際に来た人は、1000人に届かなかったとみられています。",
+      "zh": "然而，实际来的人估计不到1000人。",
+      "en": "However, the number of people who actually came is believed to have been under 1,000.",
+      "tts": "しかし、実際に来た人は、せんにんに届かなかったとみられています。",
+      "ruby": "しかし、<span class=\"vw\" data-ja=\"実際に\" data-reading=\"じっさいに\" data-en=\"actually; in reality\"><ruby>実際に<rt>じっさいに</rt></ruby></span><ruby>来た<rt>きた</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、1000<ruby>人<rt>にん</rt></ruby>に<ruby>届か<rt>とどか</rt></ruby>なかったとみられています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店を出すために、5万円や10万円を払った人もいました。",
+      "zh": "还有人为了摆摊支付了5万日元或10万日元。",
+      "en": "Some people paid 50,000 or 100,000 yen to open a stall.",
+      "tts": "店を出すために、ごまんえんやじゅうまんえんを払った人もいました。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>ために、5<ruby>万円<rt>まんえん</rt></ruby>や10<ruby>万円<rt>まんえん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には、始まる1時間前まで、電気がありませんでした。",
+      "zh": "直到活动开始前1小时，会场都没有通电。",
+      "en": "Until one hour before the start, there was no electricity at the venue.",
+      "tts": "会場には、始まるいちじかんまえまで、電気がありませんでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; event site\"><ruby>会場<rt>かいじょう</rt></ruby></span>には、<ruby>始ま<rt>はじま</rt></ruby>る1<ruby>時間前<rt>じかんまえ</rt></ruby>まで、<ruby>電気<rt>でんき</rt></ruby>がありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "テントや冷蔵庫も、足りなかったということです。",
+      "zh": "据说帐篷和冰箱也不够。",
+      "en": "Tents and refrigerators were also in short supply, it is reported.",
+      "ruby": "テントや<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>も、<ruby>足り<rt>たり</rt></ruby>なかったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "からあげの店は、鶏肉を200キロ用意しましたが、客は4人か5人だけでした。",
+      "zh": "一家炸鸡店准备了200公斤鸡肉，但客人只有四五个。",
+      "en": "A fried chicken stall prepared 200 kilograms of chicken, but had only four or five customers.",
+      "tts": "からあげの店は、鶏肉をにひゃくキロ用意しましたが、客はよにんかごにんだけでした。",
+      "ruby": "からあげの<ruby>店<rt>みせ</rt></ruby>は、<ruby>鶏肉<rt>とりにく</rt></ruby>を200キロ<ruby>用意し<rt>よういし</rt></ruby>ましたが、<ruby>客<rt>きゃく</rt></ruby>は4<ruby>人<rt>にん</rt></ruby>か5<ruby>人<rt>にん</rt></ruby>だけでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "この店は、33万円以上の赤字になりました。",
+      "zh": "这家店亏损了33万日元以上。",
+      "en": "This stall lost more than 330,000 yen.",
+      "tts": "この店は、さんじゅうさんまんえん以上の赤字になりました。",
+      "ruby": "この<ruby>店<rt>みせ</rt></ruby>は、33<ruby>万円<rt>まんえん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"vw\" data-ja=\"赤字\" data-reading=\"あかじ\" data-en=\"a loss; being in the red\"><ruby>赤字<rt>あかじ</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "店の人は、たくさん売るつもりだったので、とても驚いたと話しています。",
+      "zh": "店主说，本来打算大卖一场，所以非常震惊。",
+      "en": "The stall owner says they had planned to sell a lot, so they were very shocked.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、たくさん<ruby>売る<rt>うる</rt></ruby>つもりだったので、とても<ruby>驚い<rt>おどろい</rt></ruby>たと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店を出した人たちは、主催者にきちんと説明してほしいと話しています。",
+      "zh": "摆摊的人们表示，希望主办方好好解释清楚。",
+      "en": "The people who ran stalls say they want the organizer to explain properly.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>にきちんと<ruby>説明し<rt>せつめいし</rt></ruby>てほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "倉吉市の市長は、「非常に残念に思っている」と話しました。",
+      "zh": "仓吉市市长表示“感到非常遗憾”。",
+      "en": "The mayor of Kurayoshi said, \"I find it extremely regrettable.\"",
+      "tts": "くらよし市の市長は、「非常に残念に思っている」と話しました。",
+      "ruby": "<ruby>倉吉<rt>くらよし</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>市長<rt>しちょう</rt></ruby>は、「<span class=\"vw\" data-ja=\"非常に\" data-reading=\"ひじょうに\" data-en=\"extremely; very\"><ruby>非常に<rt>ひじょうに</rt></ruby></span><ruby>残念<rt>ざんねん</rt></ruby>に<ruby>思って<rt>おもって</rt></ruby>いる」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "主催者は、チラシに何人が来ると書いていましたか。",
+      "tts": "主催者は、チラシになんにんが来ると書いていましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"主催者\" data-reading=\"しゅさいしゃ\" data-en=\"organizer; host of an event\"><ruby>主催者<rt>しゅさいしゃ</rt></ruby></span>は、チラシに<ruby>何人<rt>なんにん</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>と<ruby>書い<rt>かい</rt></ruby>ていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fifty thousand people."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場には、始まる何時間前まで、電気がありませんでしたか。",
+      "tts": "会場には、始まるなんじかんまえまで、電気がありませんでしたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"会場\" data-reading=\"かいじょう\" data-en=\"venue; event site\"><ruby>会場<rt>かいじょう</rt></ruby></span>には、<ruby>始ま<rt>はじま</rt></ruby>る<ruby>何時間<rt>なんじかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>まで、<ruby>電気<rt>でんき</rt></ruby>がありませんでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until one hour before the start."
+    },
+    {
+      "speaker": "slow",
+      "text": "店を出すために、いくら払った人がいましたか。",
+      "tts": "店を出すために、いくら払った人がいましたか。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>を<ruby>出す<rt>だす</rt></ruby>ために、いくら<ruby>払っ<rt>はらっ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>がいましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fifty thousand or one hundred thousand yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "からあげの店は、鶏肉を何キロ用意しましたか。",
+      "tts": "からあげの店は、鶏肉をなんキロ用意しましたか。",
+      "ruby": "からあげの<ruby>店<rt>みせ</rt></ruby>は、<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>何<rt>なん</rt></ruby>キロ<ruby>用意し<rt>よういし</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two hundred kilograms."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "競う",
+      "reading": "きそう",
+      "en": "to compete",
+      "zh": "竞争，比拼"
+    },
+    {
+      "ja": "分かれる",
+      "reading": "わかれる",
+      "en": "to be divided; to split",
+      "zh": "分开，分成"
+    },
+    {
+      "ja": "主催者",
+      "reading": "しゅさいしゃ",
+      "en": "organizer; host of an event",
+      "zh": "主办方"
+    },
+    {
+      "ja": "実際に",
+      "reading": "じっさいに",
+      "en": "actually; in reality",
+      "zh": "实际上"
+    },
+    {
+      "ja": "会場",
+      "reading": "かいじょう",
+      "en": "venue; event site",
+      "zh": "会场"
+    },
+    {
+      "ja": "足りない",
+      "reading": "たりない",
+      "en": "not enough",
+      "zh": "不够"
+    },
+    {
+      "ja": "用意する",
+      "reading": "よういする",
+      "en": "to prepare; to get ready",
+      "zh": "准备"
+    },
+    {
+      "ja": "赤字",
+      "reading": "あかじ",
+      "en": "a loss; being in the red",
+      "zh": "赤字，亏损"
+    },
+    {
+      "ja": "きちんと",
+      "reading": "きちんと",
+      "en": "properly; neatly",
+      "zh": "好好地，规规矩矩地"
+    },
+    {
+      "ja": "非常に",
+      "reading": "ひじょうに",
+      "en": "extremely; very",
+      "zh": "非常"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜とみられている",
+      "meaning": "it is believed that ~; it is thought that ~",
+      "meaningZh": "据认为……，估计……",
+      "formation": "Plain form + とみられている",
+      "example": "しかし、実際に来た人は、1000人に届かなかったとみられています。",
+      "translation": "However, the number of people who actually came is believed to have been under 1,000.",
+      "note": "News style for an estimate that is not confirmed yet.",
+      "noteZh": "新闻用语，表示尚未确认的推测、估计。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~; reportedly ~",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "テントや冷蔵庫も、足りなかったということです。",
+      "translation": "Tents and refrigerators were also in short supply, it is reported.",
+      "note": "News style for passing on information from a source.",
+      "noteZh": "新闻用语，用于转述消息来源的信息。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜つもりだった",
+      "meaning": "intended to ~; planned to ~",
+      "meaningZh": "本来打算……",
+      "formation": "Verb (dictionary form) + つもりだった",
+      "example": "店の人は、たくさん売るつもりだったので、とても驚いたと話しています。",
+      "translation": "The stall owner says they had planned to sell a lot, so they were very shocked.",
+      "note": "The past form often hints that the plan did not work out.",
+      "noteZh": "过去式常暗示计划没有实现。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want (someone) to ~",
+      "meaningZh": "希望（别人）……",
+      "formation": "Person + に + Verb (て-form) + ほしい",
+      "example": "店を出した人たちは、主催者にきちんと説明してほしいと話しています。",
+      "translation": "The people who ran stalls say they want the organizer to explain properly.",
+      "note": "Used for what you want another person to do; the person takes に.",
+      "noteZh": "表示希望别人做某事，对方用に表示。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "鳥取県倉吉市で、11月7日と8日に、食べ物のイベントが開かれました。\n11月7日和8日，鸟取县仓吉市举办了一场美食活动。",
+    "全国のご当地グルメが集まって、売り上げを競うイベントです。\n这是一场全国各地特色美食聚在一起、比拼销售额的活动。\n競う = to compete",
+    "店はおよそ50あって、東と西の2つのチームに分かれました。\n大约有50家店铺，分成了东、西两支队伍。\n分かれる = to be divided; to split",
+    "主催者は、チラシに「5万人が来る」と書いていました。\n主办方在传单上写着“会有5万人来”。\n主催者 = organizer; host of an event",
+    "「経済効果は10億円」とも書いていました。\n传单上还写着“经济效益达10亿日元”。",
+    "しかし、実際に来た人は、1000人に届かなかったとみられています。\n然而，实际来的人估计不到1000人。\n実際に = actually; in reality",
+    "店を出すために、5万円や10万円を払った人もいました。\n还有人为了摆摊支付了5万日元或10万日元。",
+    "会場には、始まる1時間前まで、電気がありませんでした。\n直到活动开始前1小时，会场都没有通电。\n会場 = venue; event site",
+    "テントや冷蔵庫も、足りなかったということです。\n据说帐篷和冰箱也不够。\n足りない = not enough",
+    "からあげの店は、鶏肉を200キロ用意しましたが、客は4人か5人だけでした。\n一家炸鸡店准备了200公斤鸡肉，但客人只有四五个。\n用意する = to prepare; to get ready",
+    "この店は、33万円以上の赤字になりました。\n这家店亏损了33万日元以上。\n赤字 = a loss; being in the red",
+    "店の人は、たくさん売るつもりだったので、とても驚いたと話しています。\n店主说，本来打算大卖一场，所以非常震惊。",
+    "店を出した人たちは、主催者にきちんと説明してほしいと話しています。\n摆摊的人们表示，希望主办方好好解释清楚。\nきちんと = properly; neatly",
+    "倉吉市の市長は、「非常に残念に思っている」と話しました。\n仓吉市市长表示“感到非常遗憾”。\n非常に = extremely; very"
+  ]
+}
