@@ -1,0 +1,684 @@
+{
+  "episode": 282,
+  "title": "京都の養鶏場で鳥インフルエンザ、今シーズン国内初",
+  "titleZh": "京都养鸡场发生禽流感，本季日本国内首例",
+  "titleEn": "Kyoto chicken farm has Japan's first bird flu case of the season",
+  "date": "2026-11-13",
+  "source": "産経新聞 / MBSニュース / テレビ朝日（ANN） / 日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026111301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November thirteenth: the first bird flu case of the season at a chicken farm in Japan. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "京都府亀岡市の養鶏場で、鳥インフルエンザが確認されました。",
+      "tts": "京都府かめおかしの養鶏場で、鳥インフルエンザが確認されました。",
+      "zh": "京都府龟冈市的一家养鸡场确认发生了禽流感。",
+      "en": "Bird flu has been confirmed at a poultry farm in Kameoka, Kyoto Prefecture.",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby><ruby>亀岡<rt>かめおか</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で、<ruby>鳥<rt>とり</rt></ruby>インフルエンザが<ruby>確認さ<rt>かくにんさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内の養鶏場で確認されたのは、今シーズン初めてです。",
+      "tts": "国内の養鶏場で確認されたのは、こんシーズン初めてです。",
+      "zh": "这是本季国内养鸡场首次确认发生禽流感。",
+      "en": "It is the first case at a poultry farm in Japan this season.",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>の<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で<ruby>確認さ<rt>かくにんさ</rt></ruby>れたのは、<ruby>今<rt>こん</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。",
+      "tts": "じゅういちにち、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。",
+      "zh": "11日，养鸡场向京都府报告说：“死掉的鸡比平时多。”",
+      "en": "On the 11th, the farm told the prefecture, \"More chickens than usual are dying.\"",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>、<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>から<ruby>府<rt>ふ</rt></ruby>に、「ニワトリがいつもより<ruby>多く<rt>おおく</rt></ruby><ruby>死ん<rt>しん</rt></ruby>でいる」と<ruby>連絡<rt>れんらく</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調べると、14羽のニワトリが死んでいました。",
+      "tts": "調べると、じゅうよんわのニワトリが死んでいました。",
+      "zh": "经调查，有14只鸡死亡。",
+      "en": "When they checked, 14 chickens had died.",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>ると、14<ruby>羽<rt>わ</rt></ruby>のニワトリが<ruby>死ん<rt>しん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "府が簡単な検査をすると、10羽すべてが陽性でした。",
+      "tts": "府が簡単な検査をすると、じゅっぱすべてが陽性でした。",
+      "zh": "京都府进行简易检测后，10只鸡全部呈阳性。",
+      "en": "When the prefecture ran a simple test, all 10 birds were positive.",
+      "ruby": "<ruby>府<rt>ふ</rt></ruby>が<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>検査<rt>けんさ</rt></ruby>をすると、10<ruby>羽<rt>ぱ</rt></ruby>すべてが<span class=\"vw\" data-ja=\"陽性\" data-reading=\"ようせい\" data-en=\"positive (test result)\"><ruby>陽性<rt>ようせい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして12日、詳しい検査で、鳥インフルエンザだとわかりました。",
+      "tts": "そしてじゅうににち、詳しい検査で、鳥インフルエンザだとわかりました。",
+      "zh": "然后在12日，详细检测确认是禽流感。",
+      "en": "Then on the 12th, a detailed test showed it was bird flu.",
+      "ruby": "そして12<ruby>日<rt>にち</rt></ruby>、<ruby>詳しい<rt>くわしい</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>で、<ruby>鳥<rt>とり</rt></ruby>インフルエンザだとわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "府は12日の朝から、この養鶏場のニワトリおよそ20万羽の殺処分を始めました。",
+      "tts": "府はじゅうににちの朝から、この養鶏場のニワトリおよそにじゅうまんばの殺処分を始めました。",
+      "zh": "京都府从12日早上开始扑杀这家养鸡场的约20万只鸡。",
+      "en": "From the morning of the 12th, the prefecture began culling about 200,000 chickens at this farm.",
+      "ruby": "<ruby>府<rt>ふ</rt></ruby>は12<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>から、この<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>のニワトリおよそ20<ruby>万羽<rt>まんば</rt></ruby>の<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "消毒などの作業が終わるまで、1週間ぐらいかかる見込みです。",
+      "tts": "消毒などの作業が終わるまで、いっしゅうかんぐらいかかる見込みです。",
+      "zh": "消毒等作业预计需要一周左右才能完成。",
+      "en": "Work such as disinfection is expected to take about a week to finish.",
+      "ruby": "<ruby>消毒<rt>しょうどく</rt></ruby>などの<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るまで、1<ruby>週間<rt>しゅうかん</rt></ruby>ぐらいかかる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; estimate\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "半径10キロの中にある7つの養鶏場では、ニワトリや卵を運び出すことが制限されました。",
+      "tts": "はんけいじっキロの中にあるななつの養鶏場では、ニワトリや卵を運び出すことが制限されました。",
+      "zh": "半径10公里内的7家养鸡场被限制运出鸡和鸡蛋。",
+      "en": "At seven farms within a 10-kilometer radius, moving chickens and eggs out has been restricted.",
+      "ruby": "<ruby>半径<rt>はんけい</rt></ruby>10キロの<ruby>中に<rt>なかに</rt></ruby>ある7つの<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>では、ニワトリや<ruby>卵<rt>たまご</rt></ruby>を<ruby>運び<rt>はこび</rt></ruby><ruby>出す<rt>だす</rt></ruby>ことが<ruby>制限<rt>せいげん</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この7つの養鶏場には、合わせておよそ30万羽のニワトリがいます。",
+      "tts": "このななつの養鶏場には、合わせておよそさんじゅうまんばのニワトリがいます。",
+      "zh": "这7家养鸡场共有约30万只鸡。",
+      "en": "These seven farms have about 300,000 chickens in total.",
+      "ruby": "この7つの<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>には、<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total; all together\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>およそ30<ruby>万羽<rt>まんば</rt></ruby>のニワトリがいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都府で鳥インフルエンザが出たのは、今回で3回目です。",
+      "tts": "京都府で鳥インフルエンザが出たのは、今回でさんかいめです。",
+      "zh": "这是京都府第3次发生禽流感。",
+      "en": "This is the third time bird flu has broken out in Kyoto Prefecture.",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby>インフルエンザが<ruby>出た<rt>でた</rt></ruby>のは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の12月にも、亀岡市の別の養鶏場で、およそ28万羽が殺処分されました。",
+      "tts": "去年のじゅうにがつにも、かめおかしの別の養鶏場で、およそにじゅうはちまんばが殺処分されました。",
+      "zh": "去年12月，龟冈市的另一家养鸡场也扑杀了约28万只鸡。",
+      "en": "Last December, about 280,000 birds were also culled at another farm in Kameoka.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>にも、<ruby>亀岡<rt>かめおか</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>別の<rt>べつの</rt></ruby><ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で、およそ28<ruby>万羽<rt>まんば</rt></ruby>が<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ウイルスは、野鳥が運んでくると考えられています。",
+      "zh": "人们认为病毒是由野生鸟类带来的。",
+      "en": "The virus is thought to be brought in by wild birds.",
+      "ruby": "ウイルスは、<span class=\"vw\" data-ja=\"野鳥\" data-reading=\"やちょう\" data-en=\"wild bird\"><ruby>野鳥<rt>やちょう</rt></ruby></span>が<ruby>運ん<rt>はこん</rt></ruby>でくると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都府の知事は、感染した鶏肉や卵が店に出ることはないと話しました。",
+      "zh": "京都府知事表示，感染的鸡肉和鸡蛋不会流入商店。",
+      "en": "The governor of Kyoto said infected chicken meat and eggs will not reach stores.",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby>の<ruby>知事<rt>ちじ</rt></ruby>は、<ruby>感染<rt>かんせん</rt></ruby>した<ruby>鶏肉<rt>とりにく</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>が<ruby>店<rt>みせ</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ことはないと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "となりの兵庫県も会議を開いて、警戒を強めています。",
+      "zh": "邻近的兵库县也召开会议，加强了警戒。",
+      "en": "Neighboring Hyogo Prefecture has also held a meeting and is on higher alert.",
+      "ruby": "となりの<ruby>兵庫県<rt>ひょうごけん</rt></ruby>も<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開い<rt>ひらい</rt></ruby>て、<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; being on guard; alert\"><ruby>警戒<rt>けいかい</rt></ruby></span>を<ruby>強め<rt>つよめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "京都府亀岡市の養鶏場で、鳥インフルエンザが確認されました。",
+      "tts": "京都府かめおかしの養鶏場で、鳥インフルエンザが確認されました。",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby><ruby>亀岡<rt>かめおか</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で、<ruby>鳥<rt>とり</rt></ruby>インフルエンザが<ruby>確認さ<rt>かくにんさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bird flu was confirmed at a poultry farm in Kyoto Prefecture."
+    },
+    {
+      "speaker": "vocab",
+      "text": "確認する",
+      "ruby": "<span class=\"vw\" data-ja=\"確認する\" data-reading=\"かくにんする\" data-en=\"to confirm; to check\"><ruby>確認す<rt>かくにんす</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to confirm."
+    },
+    {
+      "speaker": "slow",
+      "text": "国内の養鶏場で確認されたのは、今シーズン初めてです。",
+      "tts": "国内の養鶏場で確認されたのは、こんシーズン初めてです。",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>の<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で<ruby>確認さ<rt>かくにんさ</rt></ruby>れたのは、<ruby>今<rt>こん</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the first case at a farm in Japan this season."
+    },
+    {
+      "speaker": "slow",
+      "text": "11日、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。",
+      "tts": "じゅういちにち、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>、<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>から<ruby>府<rt>ふ</rt></ruby>に、「ニワトリがいつもより<ruby>多く<rt>おおく</rt></ruby><ruby>死ん<rt>しん</rt></ruby>でいる」と<ruby>連絡<rt>れんらく</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the eleventh, the farm reported that more chickens than usual were dying."
+    },
+    {
+      "speaker": "slow",
+      "text": "調べると、14羽のニワトリが死んでいました。",
+      "tts": "調べると、じゅうよんわのニワトリが死んでいました。",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>ると、14<ruby>羽<rt>わ</rt></ruby>のニワトリが<ruby>死ん<rt>しん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "When they checked, fourteen chickens were dead."
+    },
+    {
+      "speaker": "slow",
+      "text": "府が簡単な検査をすると、10羽すべてが陽性でした。",
+      "tts": "府が簡単な検査をすると、じゅっぱすべてが陽性でした。",
+      "ruby": "<ruby>府<rt>ふ</rt></ruby>が<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>検査<rt>けんさ</rt></ruby>をすると、10<ruby>羽<rt>ぱ</rt></ruby>すべてが<span class=\"vw\" data-ja=\"陽性\" data-reading=\"ようせい\" data-en=\"positive (test result)\"><ruby>陽性<rt>ようせい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "A simple test showed all ten birds were positive."
+    },
+    {
+      "speaker": "vocab",
+      "text": "陽性",
+      "ruby": "<span class=\"vw\" data-ja=\"陽性\" data-reading=\"ようせい\" data-en=\"positive (test result)\"><ruby>陽性<rt>ようせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means positive, as in a test result."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして12日、詳しい検査で、鳥インフルエンザだとわかりました。",
+      "tts": "そしてじゅうににち、詳しい検査で、鳥インフルエンザだとわかりました。",
+      "ruby": "そして12<ruby>日<rt>にち</rt></ruby>、<ruby>詳しい<rt>くわしい</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>で、<ruby>鳥<rt>とり</rt></ruby>インフルエンザだとわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then on the twelfth, a detailed test confirmed bird flu."
+    },
+    {
+      "speaker": "slow",
+      "text": "府は12日の朝から、この養鶏場のニワトリおよそ20万羽の殺処分を始めました。",
+      "tts": "府はじゅうににちの朝から、この養鶏場のニワトリおよそにじゅうまんばの殺処分を始めました。",
+      "ruby": "<ruby>府<rt>ふ</rt></ruby>は12<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>から、この<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>のニワトリおよそ20<ruby>万羽<rt>まんば</rt></ruby>の<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From that morning, the prefecture began culling about two hundred thousand chickens."
+    },
+    {
+      "speaker": "vocab",
+      "text": "殺処分",
+      "ruby": "<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means culling, killing animals to stop a disease."
+    },
+    {
+      "speaker": "slow",
+      "text": "消毒などの作業が終わるまで、1週間ぐらいかかる見込みです。",
+      "tts": "消毒などの作業が終わるまで、いっしゅうかんぐらいかかる見込みです。",
+      "ruby": "<ruby>消毒<rt>しょうどく</rt></ruby>などの<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るまで、1<ruby>週間<rt>しゅうかん</rt></ruby>ぐらいかかる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; estimate\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Disinfection and other work should take about a week."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込み",
+      "ruby": "<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; estimate\"><ruby>見込み<rt>みこみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an expectation or estimate."
+    },
+    {
+      "speaker": "slow",
+      "text": "半径10キロの中にある7つの養鶏場では、ニワトリや卵を運び出すことが制限されました。",
+      "tts": "はんけいじっキロの中にあるななつの養鶏場では、ニワトリや卵を運び出すことが制限されました。",
+      "ruby": "<ruby>半径<rt>はんけい</rt></ruby>10キロの<ruby>中に<rt>なかに</rt></ruby>ある7つの<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>では、ニワトリや<ruby>卵<rt>たまご</rt></ruby>を<ruby>運び<rt>はこび</rt></ruby><ruby>出す<rt>だす</rt></ruby>ことが<ruby>制限<rt>せいげん</rt></ruby>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven farms within ten kilometers can't move chickens or eggs out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "制限する",
+      "ruby": "<span class=\"vw\" data-ja=\"制限する\" data-reading=\"せいげんする\" data-en=\"to restrict; to limit\"><ruby>制限<rt>せいげん</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to restrict or limit."
+    },
+    {
+      "speaker": "slow",
+      "text": "この7つの養鶏場には、合わせておよそ30万羽のニワトリがいます。",
+      "tts": "このななつの養鶏場には、合わせておよそさんじゅうまんばのニワトリがいます。",
+      "ruby": "この7つの<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>には、<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total; all together\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>およそ30<ruby>万羽<rt>まんば</rt></ruby>のニワトリがいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Those farms have about three hundred thousand chickens in total."
+    },
+    {
+      "speaker": "vocab",
+      "text": "合わせて",
+      "ruby": "<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total; all together\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means in total, all together."
+    },
+    {
+      "speaker": "slow",
+      "text": "京都府で鳥インフルエンザが出たのは、今回で3回目です。",
+      "tts": "京都府で鳥インフルエンザが出たのは、今回でさんかいめです。",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby>インフルエンザが<ruby>出た<rt>でた</rt></ruby>のは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the third outbreak in Kyoto Prefecture."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の12月にも、亀岡市の別の養鶏場で、およそ28万羽が殺処分されました。",
+      "tts": "去年のじゅうにがつにも、かめおかしの別の養鶏場で、およそにじゅうはちまんばが殺処分されました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>にも、<ruby>亀岡<rt>かめおか</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>別の<rt>べつの</rt></ruby><ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で、およそ28<ruby>万羽<rt>まんば</rt></ruby>が<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last December, about two hundred eighty thousand birds were culled at another farm in the same city."
+    },
+    {
+      "speaker": "slow",
+      "text": "ウイルスは、野鳥が運んでくると考えられています。",
+      "ruby": "ウイルスは、<span class=\"vw\" data-ja=\"野鳥\" data-reading=\"やちょう\" data-en=\"wild bird\"><ruby>野鳥<rt>やちょう</rt></ruby></span>が<ruby>運ん<rt>はこん</rt></ruby>でくると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The virus is thought to come with wild birds."
+    },
+    {
+      "speaker": "vocab",
+      "text": "野鳥",
+      "ruby": "<span class=\"vw\" data-ja=\"野鳥\" data-reading=\"やちょう\" data-en=\"wild bird\"><ruby>野鳥<rt>やちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means wild birds."
+    },
+    {
+      "speaker": "slow",
+      "text": "京都府の知事は、感染した鶏肉や卵が店に出ることはないと話しました。",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby>の<ruby>知事<rt>ちじ</rt></ruby>は、<ruby>感染<rt>かんせん</rt></ruby>した<ruby>鶏肉<rt>とりにく</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>が<ruby>店<rt>みせ</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ことはないと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The governor said infected meat and eggs will not reach stores."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感染する",
+      "ruby": "<span class=\"vw\" data-ja=\"感染する\" data-reading=\"かんせんする\" data-en=\"to be infected\"><ruby>感染<rt>かんせん</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be infected."
+    },
+    {
+      "speaker": "slow",
+      "text": "となりの兵庫県も会議を開いて、警戒を強めています。",
+      "ruby": "となりの<ruby>兵庫県<rt>ひょうごけん</rt></ruby>も<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開い<rt>ひらい</rt></ruby>て、<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; being on guard; alert\"><ruby>警戒<rt>けいかい</rt></ruby></span>を<ruby>強め<rt>つよめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Neighboring Hyogo also held a meeting and is staying on alert."
+    },
+    {
+      "speaker": "vocab",
+      "text": "警戒",
+      "ruby": "<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; being on guard; alert\"><ruby>警戒<rt>けいかい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means caution, being on guard."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "京都府亀岡市の養鶏場で、鳥インフルエンザが確認されました。",
+      "tts": "京都府かめおかしの養鶏場で、鳥インフルエンザが確認されました。",
+      "zh": "京都府龟冈市的一家养鸡场确认发生了禽流感。",
+      "en": "Bird flu has been confirmed at a poultry farm in Kameoka, Kyoto Prefecture.",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby><ruby>亀岡<rt>かめおか</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で、<ruby>鳥<rt>とり</rt></ruby>インフルエンザが<ruby>確認さ<rt>かくにんさ</rt></ruby>れました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国内の養鶏場で確認されたのは、今シーズン初めてです。",
+      "tts": "国内の養鶏場で確認されたのは、こんシーズン初めてです。",
+      "zh": "这是本季国内养鸡场首次确认发生禽流感。",
+      "en": "It is the first case at a poultry farm in Japan this season.",
+      "ruby": "<ruby>国内<rt>こくない</rt></ruby>の<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で<ruby>確認さ<rt>かくにんさ</rt></ruby>れたのは、<ruby>今<rt>こん</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。",
+      "tts": "じゅういちにち、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。",
+      "zh": "11日，养鸡场向京都府报告说：“死掉的鸡比平时多。”",
+      "en": "On the 11th, the farm told the prefecture, \"More chickens than usual are dying.\"",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>、<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>から<ruby>府<rt>ふ</rt></ruby>に、「ニワトリがいつもより<ruby>多く<rt>おおく</rt></ruby><ruby>死ん<rt>しん</rt></ruby>でいる」と<ruby>連絡<rt>れんらく</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調べると、14羽のニワトリが死んでいました。",
+      "tts": "調べると、じゅうよんわのニワトリが死んでいました。",
+      "zh": "经调查，有14只鸡死亡。",
+      "en": "When they checked, 14 chickens had died.",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>ると、14<ruby>羽<rt>わ</rt></ruby>のニワトリが<ruby>死ん<rt>しん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "府が簡単な検査をすると、10羽すべてが陽性でした。",
+      "tts": "府が簡単な検査をすると、じゅっぱすべてが陽性でした。",
+      "zh": "京都府进行简易检测后，10只鸡全部呈阳性。",
+      "en": "When the prefecture ran a simple test, all 10 birds were positive.",
+      "ruby": "<ruby>府<rt>ふ</rt></ruby>が<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>検査<rt>けんさ</rt></ruby>をすると、10<ruby>羽<rt>ぱ</rt></ruby>すべてが<span class=\"vw\" data-ja=\"陽性\" data-reading=\"ようせい\" data-en=\"positive (test result)\"><ruby>陽性<rt>ようせい</rt></ruby></span>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして12日、詳しい検査で、鳥インフルエンザだとわかりました。",
+      "tts": "そしてじゅうににち、詳しい検査で、鳥インフルエンザだとわかりました。",
+      "zh": "然后在12日，详细检测确认是禽流感。",
+      "en": "Then on the 12th, a detailed test showed it was bird flu.",
+      "ruby": "そして12<ruby>日<rt>にち</rt></ruby>、<ruby>詳しい<rt>くわしい</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>で、<ruby>鳥<rt>とり</rt></ruby>インフルエンザだとわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "府は12日の朝から、この養鶏場のニワトリおよそ20万羽の殺処分を始めました。",
+      "tts": "府はじゅうににちの朝から、この養鶏場のニワトリおよそにじゅうまんばの殺処分を始めました。",
+      "zh": "京都府从12日早上开始扑杀这家养鸡场的约20万只鸡。",
+      "en": "From the morning of the 12th, the prefecture began culling about 200,000 chickens at this farm.",
+      "ruby": "<ruby>府<rt>ふ</rt></ruby>は12<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>から、この<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>のニワトリおよそ20<ruby>万羽<rt>まんば</rt></ruby>の<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "消毒などの作業が終わるまで、1週間ぐらいかかる見込みです。",
+      "tts": "消毒などの作業が終わるまで、いっしゅうかんぐらいかかる見込みです。",
+      "zh": "消毒等作业预计需要一周左右才能完成。",
+      "en": "Work such as disinfection is expected to take about a week to finish.",
+      "ruby": "<ruby>消毒<rt>しょうどく</rt></ruby>などの<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るまで、1<ruby>週間<rt>しゅうかん</rt></ruby>ぐらいかかる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; estimate\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "半径10キロの中にある7つの養鶏場では、ニワトリや卵を運び出すことが制限されました。",
+      "tts": "はんけいじっキロの中にあるななつの養鶏場では、ニワトリや卵を運び出すことが制限されました。",
+      "zh": "半径10公里内的7家养鸡场被限制运出鸡和鸡蛋。",
+      "en": "At seven farms within a 10-kilometer radius, moving chickens and eggs out has been restricted.",
+      "ruby": "<ruby>半径<rt>はんけい</rt></ruby>10キロの<ruby>中に<rt>なかに</rt></ruby>ある7つの<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>では、ニワトリや<ruby>卵<rt>たまご</rt></ruby>を<ruby>運び<rt>はこび</rt></ruby><ruby>出す<rt>だす</rt></ruby>ことが<ruby>制限<rt>せいげん</rt></ruby>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この7つの養鶏場には、合わせておよそ30万羽のニワトリがいます。",
+      "tts": "このななつの養鶏場には、合わせておよそさんじゅうまんばのニワトリがいます。",
+      "zh": "这7家养鸡场共有约30万只鸡。",
+      "en": "These seven farms have about 300,000 chickens in total.",
+      "ruby": "この7つの<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>には、<span class=\"vw\" data-ja=\"合わせて\" data-reading=\"あわせて\" data-en=\"in total; all together\"><ruby>合わ<rt>あわ</rt></ruby>せて</span>およそ30<ruby>万羽<rt>まんば</rt></ruby>のニワトリがいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都府で鳥インフルエンザが出たのは、今回で3回目です。",
+      "tts": "京都府で鳥インフルエンザが出たのは、今回でさんかいめです。",
+      "zh": "这是京都府第3次发生禽流感。",
+      "en": "This is the third time bird flu has broken out in Kyoto Prefecture.",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby>インフルエンザが<ruby>出た<rt>でた</rt></ruby>のは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の12月にも、亀岡市の別の養鶏場で、およそ28万羽が殺処分されました。",
+      "tts": "去年のじゅうにがつにも、かめおかしの別の養鶏場で、およそにじゅうはちまんばが殺処分されました。",
+      "zh": "去年12月，龟冈市的另一家养鸡场也扑杀了约28万只鸡。",
+      "en": "Last December, about 280,000 birds were also culled at another farm in Kameoka.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>にも、<ruby>亀岡<rt>かめおか</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>別の<rt>べつの</rt></ruby><ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で、およそ28<ruby>万羽<rt>まんば</rt></ruby>が<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>されました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ウイルスは、野鳥が運んでくると考えられています。",
+      "zh": "人们认为病毒是由野生鸟类带来的。",
+      "en": "The virus is thought to be brought in by wild birds.",
+      "ruby": "ウイルスは、<span class=\"vw\" data-ja=\"野鳥\" data-reading=\"やちょう\" data-en=\"wild bird\"><ruby>野鳥<rt>やちょう</rt></ruby></span>が<ruby>運ん<rt>はこん</rt></ruby>でくると<ruby>考え<rt>かんがえ</rt></ruby>られています。"
+    },
+    {
+      "speaker": "news",
+      "text": "京都府の知事は、感染した鶏肉や卵が店に出ることはないと話しました。",
+      "zh": "京都府知事表示，感染的鸡肉和鸡蛋不会流入商店。",
+      "en": "The governor of Kyoto said infected chicken meat and eggs will not reach stores.",
+      "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby>の<ruby>知事<rt>ちじ</rt></ruby>は、<ruby>感染<rt>かんせん</rt></ruby>した<ruby>鶏肉<rt>とりにく</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>が<ruby>店<rt>みせ</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ことはないと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "となりの兵庫県も会議を開いて、警戒を強めています。",
+      "zh": "邻近的兵库县也召开会议，加强了警戒。",
+      "en": "Neighboring Hyogo Prefecture has also held a meeting and is on higher alert.",
+      "ruby": "となりの<ruby>兵庫県<rt>ひょうごけん</rt></ruby>も<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開い<rt>ひらい</rt></ruby>て、<span class=\"vw\" data-ja=\"警戒\" data-reading=\"けいかい\" data-en=\"caution; being on guard; alert\"><ruby>警戒<rt>けいかい</rt></ruby></span>を<ruby>強め<rt>つよめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "簡単な検査で、何羽が陽性でしたか。",
+      "tts": "簡単な検査で、なんわが陽性でしたか。",
+      "ruby": "<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>検査<rt>けんさ</rt></ruby>で、<ruby>何羽<rt>なんわ</rt></ruby>が<span class=\"vw\" data-ja=\"陽性\" data-reading=\"ようせい\" data-en=\"positive (test result)\"><ruby>陽性<rt>ようせい</rt></ruby></span>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "All ten birds."
+    },
+    {
+      "speaker": "slow",
+      "text": "この養鶏場で殺処分されるニワトリは、およそ何羽ですか。",
+      "tts": "この養鶏場で殺処分されるニワトリは、およそなんばですか。",
+      "ruby": "この<ruby>養鶏<rt>ようけい</rt></ruby><ruby>場<rt>ば</rt></ruby>で<span class=\"vw\" data-ja=\"殺処分\" data-reading=\"さつしょぶん\" data-en=\"culling; killing animals to stop disease\"><ruby>殺<rt>さつ</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby></span>されるニワトリは、およそ<ruby>何羽<rt>なんば</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two hundred thousand."
+    },
+    {
+      "speaker": "slow",
+      "text": "消毒などの作業は、どのぐらいかかる見込みですか。",
+      "ruby": "<ruby>消毒<rt>しょうどく</rt></ruby>などの<ruby>作業<rt>さぎょう</rt></ruby>は、どのぐらいかかる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; estimate\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one week."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "確認する",
+      "reading": "かくにんする",
+      "en": "to confirm; to check",
+      "zh": "确认"
+    },
+    {
+      "ja": "陽性",
+      "reading": "ようせい",
+      "en": "positive (test result)",
+      "zh": "阳性"
+    },
+    {
+      "ja": "殺処分",
+      "reading": "さつしょぶん",
+      "en": "culling; killing animals to stop disease",
+      "zh": "扑杀，宰杀处理"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "expectation; estimate",
+      "zh": "预计，估计"
+    },
+    {
+      "ja": "制限する",
+      "reading": "せいげんする",
+      "en": "to restrict; to limit",
+      "zh": "限制"
+    },
+    {
+      "ja": "合わせて",
+      "reading": "あわせて",
+      "en": "in total; all together",
+      "zh": "合计，加起来"
+    },
+    {
+      "ja": "野鳥",
+      "reading": "やちょう",
+      "en": "wild bird",
+      "zh": "野鸟，野生鸟类"
+    },
+    {
+      "ja": "感染する",
+      "reading": "かんせんする",
+      "en": "to be infected",
+      "zh": "感染"
+    },
+    {
+      "ja": "警戒",
+      "reading": "けいかい",
+      "en": "caution; being on guard; alert",
+      "zh": "警戒"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と、…",
+      "meaning": "when ~ (then …); as a result of doing ~",
+      "meaningZh": "一……就……；……之后（发现）",
+      "formation": "Dictionary form + と",
+      "example": "府が簡単な検査をすると、10羽すべてが陽性でした。",
+      "translation": "When the prefecture ran a simple test, all 10 birds were positive.",
+      "note": "Shows what was found or happened right after an action.",
+      "noteZh": "表示做了某个动作之后发现的结果或发生的事情。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜見込みです",
+      "meaning": "is expected to ~",
+      "meaningZh": "预计……",
+      "formation": "Plain form + 見込みです",
+      "example": "消毒などの作業が終わるまで、1週間ぐらいかかる見込みです。",
+      "translation": "Work such as disinfection is expected to take about a week to finish.",
+      "note": "News style for a forecast or plan based on the current situation.",
+      "noteZh": "新闻用语，表示根据现状做出的预测。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜と考えられています",
+      "meaning": "it is thought that ~",
+      "meaningZh": "人们认为……",
+      "formation": "Plain form + と考えられています",
+      "example": "ウイルスは、野鳥が運んでくると考えられています。",
+      "translation": "The virus is thought to be brought in by wild birds.",
+      "note": "Passive of 考える; states a general or expert view without naming who.",
+      "noteZh": "考える的被动形式，表示一般或专家的看法，不点明是谁。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ことはない",
+      "meaning": "there is no chance that ~; ~ will not happen",
+      "meaningZh": "不会……",
+      "formation": "Dictionary form + ことはない",
+      "example": "京都府の知事は、感染した鶏肉や卵が店に出ることはないと話しました。",
+      "translation": "The governor of Kyoto said infected chicken meat and eggs will not reach stores.",
+      "note": "A strong denial that something will happen.",
+      "noteZh": "强烈否定某事会发生。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜てくる",
+      "meaning": "to (do and) come; ~ toward here",
+      "meaningZh": "……过来，……来",
+      "formation": "Verb て-form + くる",
+      "example": "ウイルスは、野鳥が運んでくると考えられています。",
+      "translation": "The virus is thought to be brought in by wild birds.",
+      "note": "Shows movement toward the speaker's side, here into the area.",
+      "noteZh": "表示动作朝向说话人一方（此处指进入本地区）。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "京都府亀岡市の養鶏場で、鳥インフルエンザが確認されました。\n京都府龟冈市的一家养鸡场确认发生了禽流感。\n確認する = to confirm; to check",
+    "国内の養鶏場で確認されたのは、今シーズン初めてです。\n这是本季国内养鸡场首次确认发生禽流感。",
+    "11日、養鶏場から府に、「ニワトリがいつもより多く死んでいる」と連絡がありました。\n11日，养鸡场向京都府报告说：“死掉的鸡比平时多。”",
+    "調べると、14羽のニワトリが死んでいました。\n经调查，有14只鸡死亡。",
+    "府が簡単な検査をすると、10羽すべてが陽性でした。\n京都府进行简易检测后，10只鸡全部呈阳性。\n陽性 = positive (test result)",
+    "そして12日、詳しい検査で、鳥インフルエンザだとわかりました。\n然后在12日，详细检测确认是禽流感。",
+    "府は12日の朝から、この養鶏場のニワトリおよそ20万羽の殺処分を始めました。\n京都府从12日早上开始扑杀这家养鸡场的约20万只鸡。\n殺処分 = culling; killing animals to stop disease",
+    "消毒などの作業が終わるまで、1週間ぐらいかかる見込みです。\n消毒等作业预计需要一周左右才能完成。\n見込み = expectation; estimate",
+    "半径10キロの中にある7つの養鶏場では、ニワトリや卵を運び出すことが制限されました。\n半径10公里内的7家养鸡场被限制运出鸡和鸡蛋。\n制限する = to restrict; to limit",
+    "この7つの養鶏場には、合わせておよそ30万羽のニワトリがいます。\n这7家养鸡场共有约30万只鸡。\n合わせて = in total; all together",
+    "京都府で鳥インフルエンザが出たのは、今回で3回目です。\n这是京都府第3次发生禽流感。",
+    "去年の12月にも、亀岡市の別の養鶏場で、およそ28万羽が殺処分されました。\n去年12月，龟冈市的另一家养鸡场也扑杀了约28万只鸡。",
+    "ウイルスは、野鳥が運んでくると考えられています。\n人们认为病毒是由野生鸟类带来的。\n野鳥 = wild bird",
+    "京都府の知事は、感染した鶏肉や卵が店に出ることはないと話しました。\n京都府知事表示，感染的鸡肉和鸡蛋不会流入商店。\n感染する = to be infected",
+    "となりの兵庫県も会議を開いて、警戒を強めています。\n邻近的兵库县也召开会议，加强了警戒。\n警戒 = caution; being on guard; alert"
+  ]
+}
