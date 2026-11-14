@@ -1,0 +1,488 @@
+{
+  "episode": 9,
+  "title": "会社の忘年会や社員旅行、コロナ前より大きく減る　年賀状は1割台に",
+  "titleZh": "公司忘年会和员工旅行比疫情前大减，贺年卡降至一成多",
+  "titleEn": "Fewer firms hold year-end parties and staff trips than before COVID",
+  "date": "2026-11-14",
+  "source": "帝国データバンク（2026年11月13日発表・PR TIMES / Yahoo!ニュース / 静岡新聞アットエス） / 東京商工リサーチ（2026年11月5日発表）",
+  "level": "N3-N2",
+  "contentVersion": "2026111401",
+  "grammar": [
+    {
+      "pattern": "〜にかけて",
+      "meaning": "from ~ through ~",
+      "meaningZh": "从……到……（一段时间）",
+      "formation": "Noun + から + Noun + にかけて",
+      "example": "帝国データバンクは、今月6日から10日にかけて、全国の1074社に、社内のイベントについて聞きました。",
+      "translation": "Teikoku Databank asked 1,074 companies across Japan about their in-house events from the 6th to the 10th of this month.",
+      "note": "Marks a span of time without stressing exact start and end points.",
+      "noteZh": "表示一段时间，不强调精确的起止点。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜ことが分かりました",
+      "meaning": "it has been found that ~",
+      "meaningZh": "……（调查）表明，得知……",
+      "formation": "Plain form + ことが分かりました",
+      "example": "会社で開く忘年会や社員旅行などのイベントが、大きく減っていることが、調査で分かりました。",
+      "translation": "A survey has found that company events such as year-end parties and staff trips have fallen sharply.",
+      "note": "A standard news opening for results of a survey or investigation.",
+      "noteZh": "新闻中报道调查结果时的常见开头。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ごとに",
+      "meaning": "each ~, per ~",
+      "meaningZh": "每……，按……",
+      "formation": "Noun + ごとに",
+      "example": "会社全体で開くのはやめて、部署ごとに開くことにした。",
+      "translation": "We stopped holding it for the whole company and decided to hold it by department.",
+      "note": "Divides something into units and does it for each one.",
+      "noteZh": "按单位分开，每个单位分别进行。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜かわりに",
+      "meaning": "instead of ~",
+      "meaningZh": "代替……，不……而……",
+      "formation": "Noun + の + かわりに / Verb plain + かわりに",
+      "example": "夜の飲み会のかわりに、昼のランチ会にする会社もあります。",
+      "translation": "Some companies hold lunch gatherings instead of evening drinking parties.",
+      "note": "Replaces one thing with another.",
+      "noteZh": "表示用另一件事来代替。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜わけではありません",
+      "meaning": "it is not (necessarily) the case that ~",
+      "meaningZh": "并不是……",
+      "formation": "Plain form + わけではありません",
+      "example": "社員が集まる場が、全部なくなったわけではありません。",
+      "translation": "That does not mean every chance for employees to get together has disappeared.",
+      "note": "Denies a conclusion the listener might draw. Often with 全部 or 必ずしも.",
+      "noteZh": "否定听者可能得出的结论，常与全部、必ずしも一起用。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "会社で開く忘年会や社員旅行などのイベントが、コロナ禍の前と比べて、大きく減っていることが、民間の調査会社の調査で分かりました。\n民间调查公司的调查显示，公司举办的忘年会、员工旅行等活动与新冠疫情前相比大幅减少。\n",
+    "いちばん多い「忘年会・新年会」は、76.5%から63.1%に減りました。\n最常见的“忘年会・新年会”从76.5%减少到63.1%。\n",
+    "会社として出す年賀状は、コロナ禍の前は4割を超えていましたが、今は1割台です。\n以公司名义寄出的贺年卡，疫情前超过四成，现在只有一成多。\n〜台：表示数值的范围，如“1割台”=10%到19%。",
+    "一方で、内定式や、健康のためのイベントは、コロナ禍の前より増えています。\n另一方面，录用内定仪式和促进健康的活动比疫情前有所增加。\n",
+    "「飲み会に参加できない社員が増えたので、ランチ会を何回か開くようになった」という会社もあります。\n也有公司说：“因为不能参加酒会的员工变多了，所以改为举办几次午餐会。”\n",
+    "コロナ禍の前は開いていたのに、今回は開かない会社に理由を聞くと、「開くニーズが高くない」が63.7%で、最も多くなりました。\n询问疫情前举办、但这次不办的企业原因，“举办的需求不高”最多，占63.7%。\n"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "忘年会",
+      "reading": "ぼうねんかい",
+      "en": "year-end party",
+      "zh": "忘年会，年终聚会"
+    },
+    {
+      "ja": "送別会",
+      "reading": "そうべつかい",
+      "en": "farewell party",
+      "zh": "欢送会"
+    },
+    {
+      "ja": "年賀状",
+      "reading": "ねんがじょう",
+      "en": "New Year's card",
+      "zh": "贺年卡"
+    },
+    {
+      "ja": "内定式",
+      "reading": "ないていしき",
+      "en": "ceremony for students with job offers",
+      "zh": "录用内定仪式"
+    },
+    {
+      "ja": "部署",
+      "reading": "ぶしょ",
+      "en": "department, section (of a company)",
+      "zh": "部门"
+    },
+    {
+      "ja": "いやがる",
+      "reading": "いやがる",
+      "en": "to be reluctant, to dislike",
+      "zh": "不愿意，讨厌"
+    },
+    {
+      "ja": "働き方改革",
+      "reading": "はたらきかたかいかく",
+      "en": "work-style reform",
+      "zh": "工作方式改革"
+    },
+    {
+      "ja": "好評",
+      "reading": "こうひょう",
+      "en": "well received, popular",
+      "zh": "好评，受欢迎"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "「忘年会・新年会」を行っている会社は、コロナ禍の前と今で、どう変わりましたか。",
+      "a": "76.5%から63.1%に減りました。"
+    },
+    {
+      "q": "会社として出す年賀状は、今、どのくらいですか。",
+      "a": "1割台です。コロナ禍の前は4割を超えていました。"
+    },
+    {
+      "q": "飲み会に参加できない社員が増えた会社は、何をするようになりましたか。",
+      "a": "ランチ会を何回か開くようになりました。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月14日、土曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月14日，星期六。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Saturday, November 14th.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは、じゅういちがつじゅうよっか、土曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>、<ruby>土曜日<rt>どようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "もうすぐ忘年会のシーズン。でも、会社の忘年会や社員旅行は、コロナの前より、ずいぶん減っているようです。",
+      "zh": "忘年会的季节快到了。可是，公司的忘年会和员工旅行似乎比疫情前少了很多。",
+      "en": "Year-end party season is almost here. But company year-end parties and staff trips seem to have become much less common than before the pandemic.",
+      "ruby": "もうすぐ<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>のシーズン。でも、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>や<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>は、コロナの<ruby>前<rt>まえ</rt></ruby>より、ずいぶん<ruby>減っ<rt>へっ</rt></ruby>ているようです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社で開く忘年会や社員旅行などのイベントが、コロナ禍の前と比べて、大きく減っていることが、民間の調査会社の調査で分かりました。",
+      "zh": "民间调查公司的调查显示，公司举办的忘年会、员工旅行等活动与新冠疫情前相比大幅减少。",
+      "en": "A private research firm's survey has found that company events such as year-end parties and staff trips have fallen sharply compared with before the COVID-19 pandemic.",
+      "tts": "会社で開く忘年会や社員旅行などのイベントが、コロナかの前と比べて、大きく減っていることが、民間の調査会社の調査で分かりました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>や<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>などのイベントが、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>ていることが、<ruby>民間<rt>みんかん</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>で<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクは、今月6日から10日にかけて、全国の1074社に、社内のイベントについて聞きました。",
+      "zh": "帝国数据银行于本月6日至10日，就公司内部活动询问了全国1074家企业。",
+      "en": "Teikoku Databank asked 1,074 companies across Japan about their in-house events from the 6th to the 10th of this month.",
+      "tts": "ていこくデータバンクは、今月むいかからとおかにかけて、全国のせんななじゅうよんしゃに、社内のイベントについて聞きました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクは、<ruby>今月<rt>こんげつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>から<ruby>10日<rt>とおか</rt></ruby>にかけて、<ruby>全国<rt>ぜんこく</rt></ruby>の1074<ruby>社<rt>しゃ</rt></ruby>に、<ruby>社内<rt>しゃない</rt></ruby>のイベントについて<ruby>聞き<rt>きき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "何か社内のイベントを行っている会社は、コロナ禍の前は92.6%でしたが、今は86.4%に下がりました。",
+      "zh": "举办某种公司内部活动的企业，疫情前占92.6%，现在降到了86.4%。",
+      "en": "The share of companies holding some kind of in-house event was 92.6% before the pandemic, but it has now fallen to 86.4%.",
+      "tts": "何か社内のイベントを行っている会社は、コロナかの前はきゅうじゅうにてんろくパーセントでしたが、今ははちじゅうろくてんよんパーセントに下がりました。",
+      "ruby": "<ruby>何か<rt>なにか</rt></ruby><ruby>社内<rt>しゃない</rt></ruby>のイベントを<ruby>行って<rt>いって</rt></ruby>いる<ruby>会社<rt>かいしゃ</rt></ruby>は、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は92.6%でしたが、<ruby>今<rt>いま</rt></ruby>は86.4%に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん多い「忘年会・新年会」は、76.5%から63.1%に減りました。",
+      "zh": "最常见的“忘年会・新年会”从76.5%减少到63.1%。",
+      "en": "Year-end and New Year parties, the most common event, fell from 76.5% to 63.1%.",
+      "tts": "いちばん多い「忘年会・新年会」は、ななじゅうろくてんごパーセントから、ろくじゅうさんてんいちパーセントに減りました。",
+      "ruby": "いちばん<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>・<ruby>新年会<rt>しんねんかい</rt></ruby>」は、76.5%から63.1%に<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「歓迎会・送別会」も、52.1%から42.9%に減っています。",
+      "zh": "“欢迎会・欢送会”也从52.1%减少到42.9%。",
+      "en": "Welcome and farewell parties have also fallen, from 52.1% to 42.9%.",
+      "tts": "「かんげいかい・そうべつかい」も、ごじゅうにてんいちパーセントから、よんじゅうにてんきゅうパーセントに減っています。",
+      "ruby": "「<ruby>歓迎会<rt>かんげいかい</rt></ruby>・<span class=\"vw\" data-ja=\"送別会\" data-reading=\"そうべつかい\" data-en=\"farewell party\"><ruby>送別会<rt>そうべつかい</rt></ruby></span>」も、52.1%から42.9%に<ruby>減っ<rt>へっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社として出す年賀状は、コロナ禍の前は4割を超えていましたが、今は1割台です。",
+      "zh": "以公司名义寄出的贺年卡，疫情前超过四成，现在只有一成多。",
+      "en": "New Year's cards sent by companies were over 40% before the pandemic, but are now in the 10% range.",
+      "tts": "会社として出す年賀状は、コロナかの前はよんわりを超えていましたが、今はいちわりだいです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>として<ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"年賀状\" data-reading=\"ねんがじょう\" data-en=\"New Year's card\"><ruby>年賀状<rt>ねんがじょう</rt></ruby></span>は、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は4<ruby>割<rt>わり</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ていましたが、<ruby>今<rt>いま</rt></ruby>は1<ruby>割<rt>わり</rt></ruby><ruby>台<rt>だい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "社員旅行も、大きく減りました。",
+      "zh": "员工旅行也大幅减少。",
+      "en": "Staff trips have also dropped sharply.",
+      "ruby": "<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>も、<ruby>大きく<rt>おおきく</rt></ruby><ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、内定式や、健康のためのイベントは、コロナ禍の前より増えています。",
+      "zh": "另一方面，录用内定仪式和促进健康的活动比疫情前有所增加。",
+      "en": "On the other hand, ceremonies for future new hires and health events have increased compared with before the pandemic.",
+      "tts": "一方で、ないていしきや、健康のためのイベントは、コロナかの前より増えています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"内定式\" data-reading=\"ないていしき\" data-en=\"ceremony for students with job offers\"><ruby>内定式<rt>ないていしき</rt></ruby></span>や、<ruby>健康<rt>けんこう</rt></ruby>のためのイベントは、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>より<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社からは、「忘年会やゴルフの大会に参加したくない社員が増えた」という声がありました。",
+      "zh": "有公司表示：“不想参加忘年会和高尔夫比赛的员工变多了。”",
+      "en": "One company said, \"More employees don't want to take part in year-end parties or golf competitions.\"",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>からは、「<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>やゴルフの<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>したくない<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た」という<ruby>声<rt>こえ</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「飲み会に参加できない社員が増えたので、ランチ会を何回か開くようになった」という会社もあります。",
+      "zh": "也有公司说：“因为不能参加酒会的员工变多了，所以改为举办几次午餐会。”",
+      "en": "Another company said, \"More employees can't attend drinking parties, so we now hold lunch gatherings several times.\"",
+      "ruby": "「<ruby>飲み会<rt>のみかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>できない<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たので、ランチ<ruby>会<rt>かい</rt></ruby>を<ruby>何回<rt>なんかい</rt></ruby>か<ruby>開く<rt>ひらく</rt></ruby>ようになった」という<ruby>会社<rt>かいしゃ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「会社全体で開くのはやめて、部署ごとに開くことにした」という会社もありました。",
+      "zh": "还有公司表示：“不再举办全公司的活动，改为按部门举办。”",
+      "en": "Another said, \"We stopped holding it for the whole company and decided to hold it by department.\"",
+      "ruby": "また、「<ruby>会社全体<rt>かいしゃぜんたい</rt></ruby>で<ruby>開く<rt>ひらく</rt></ruby>のはやめて、<span class=\"vw\" data-ja=\"部署\" data-reading=\"ぶしょ\" data-en=\"department, section (of a company)\"><ruby>部署<rt>ぶしょ</rt></ruby></span>ごとに<ruby>開く<rt>ひらく</rt></ruby>ことにした」という<ruby>会社<rt>かいしゃ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "別の調査会社、東京商工リサーチの調査では、この年末から年始に忘年会や新年会を開く会社は、56.5%でした。",
+      "zh": "另一家调查公司东京商工调查的调查显示，今年年末到明年年初举办忘年会或新年会的企业占56.5%。",
+      "en": "In a survey by another firm, Tokyo Shoko Research, 56.5% of companies said they would hold a year-end or New Year party this coming holiday season.",
+      "tts": "別の調査会社、とうきょうしょうこうリサーチの調査では、この年末から年始に忘年会や新年会を開く会社は、ごじゅうろくてんごパーセントでした。",
+      "ruby": "<ruby>別の<rt>べつの</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby><ruby>商工<rt>しょうこう</rt></ruby>リサーチの<ruby>調査<rt>ちょうさ</rt></ruby>では、この<ruby>年末<rt>ねんまつ</rt></ruby>から<ruby>年始<rt>ねんし</rt></ruby>に<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>や<ruby>新年会<rt>しんねんかい</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>は、56.5%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "コロナ禍の前は開いていたのに、今回は開かない会社に理由を聞くと、「開くニーズが高くない」が63.7%で、最も多くなりました。",
+      "zh": "询问疫情前举办、但这次不办的企业原因，“举办的需求不高”最多，占63.7%。",
+      "en": "Asked why, companies that held parties before the pandemic but won't this time most often said there was little demand, at 63.7%.",
+      "tts": "コロナかの前は開いていたのに、今回は開かない会社に理由を聞くと、「開くニーズが高くない」が、ろくじゅうさんてんななパーセントで、最も多くなりました。",
+      "ruby": "コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は<ruby>開い<rt>ひらい</rt></ruby>ていたのに、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>開か<rt>ひらか</rt></ruby>ない<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>理由<rt>りゆう</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>と、「<ruby>開く<rt>ひらく</rt></ruby>ニーズが<ruby>高く<rt>たかく</rt></ruby>ない」が63.7%で、<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「参加をいやがる社員が増えた」という答えも、39.6%ありました。",
+      "zh": "回答“不愿参加的员工增加了”的也占39.6%。",
+      "en": "39.6% said more employees were reluctant to take part.",
+      "tts": "「参加をいやがる社員が増えた」という答えも、さんじゅうきゅうてんろくパーセントありました。",
+      "ruby": "「<ruby>参加<rt>さんか</rt></ruby>をいやがる<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た」という<ruby>答え<rt>こたえ</rt></ruby>も、39.6%ありました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "忘年会は、一年の終わりに、会社の人たちが集まって、食べたり飲んだりする会ですね。",
+      "zh": "忘年会就是在一年结束时，公司同事聚在一起吃吃喝喝的聚会。",
+      "en": "A year-end party is a gathering at the end of the year where people from a company get together to eat and drink.",
+      "ruby": "<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>は、<ruby>一年<rt>いちねん</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>に、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>集ま<rt>あつま</rt></ruby>って、<ruby>食べた<rt>たべた</rt></ruby>り<ruby>飲ん<rt>のん</rt></ruby>だりする<ruby>会<rt>かい</rt></ruby>ですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "コロナの時、多くの会社が、こうしたイベントをやめたり、小さくしたりしました。そして今も、元に戻っていない会社が多いんです。",
+      "zh": "疫情期间，很多公司取消或缩小了这类活动。而现在，仍有很多公司没有恢复。",
+      "en": "During the pandemic, many companies stopped or scaled back these events. And many still haven't gone back to how things were.",
+      "ruby": "コロナの<ruby>時<rt>とき</rt></ruby>、<ruby>多く<rt>おおく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が、こうしたイベントをやめたり、<ruby>小さく<rt>ちいさく</rt></ruby>したりしました。そして<ruby>今<rt>いま</rt></ruby>も、<ruby>元に<rt>もとに</rt></ruby><ruby>戻っ<rt>もどっ</rt></ruby>ていない<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>んです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "理由の一つは、働き方の変化です。「働き方改革で、時間が取れなくなった」という会社もありました。",
+      "zh": "原因之一是工作方式的变化。也有公司说：“因为工作方式改革，抽不出时间了。”",
+      "en": "One reason is the change in how people work. One company said work-style reform left them no time for it.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、<ruby>働き<rt>はたらき</rt></ruby><ruby>方<rt>かた</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>です。「<span class=\"vw\" data-ja=\"働き方改革\" data-reading=\"はたらきかたかいかく\" data-en=\"work-style reform\"><ruby>働き<rt>はたらき</rt></ruby><ruby>方<rt>かた</rt></ruby><ruby>改革<rt>かいかく</rt></ruby></span>で、<ruby>時間<rt>じかん</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>なくなった」という<ruby>会社<rt>かいしゃ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "社員の気持ちも変わっています。家族との時間を大切にする社員が増えた、という声もありました。",
+      "zh": "员工的想法也在变化。也有公司说，重视与家人相处时间的员工变多了。",
+      "en": "Employees' feelings are changing too. Some companies said more employees value time with their families.",
+      "ruby": "<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>も<ruby>変わ<rt>かわ</rt></ruby>っています。<ruby>家族<rt>かぞく</rt></ruby>との<ruby>時間<rt>じかん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にする<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た、という<ruby>声<rt>こえ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "ある建設会社は、コロナの時に忘年会を開かず、そのかわりにボーナスにしたところ、社員に好評だったそうです。",
+      "zh": "有一家建筑公司在疫情期间没办忘年会，而是改成了奖金，结果很受员工欢迎。",
+      "en": "One construction company said that when it skipped the year-end party during the pandemic and gave a bonus instead, employees liked it.",
+      "ruby": "ある<ruby>建設会社<rt>けんせつがいしゃ</rt></ruby>は、コロナの<ruby>時に<rt>ときに</rt></ruby><span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>を<ruby>開か<rt>ひらか</rt></ruby>ず、そのかわりにボーナスにしたところ、<ruby>社員<rt>しゃいん</rt></ruby>に<span class=\"vw\" data-ja=\"好評\" data-reading=\"こうひょう\" data-en=\"well received, popular\"><ruby>好評<rt>こうひょう</rt></ruby></span>だったそうです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "でも、社員が集まる場が、全部なくなったわけではありません。",
+      "zh": "不过，员工聚在一起的场合并没有全部消失。",
+      "en": "But that does not mean every chance for employees to get together has disappeared.",
+      "ruby": "でも、<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>集まる<rt>あつまる</rt></ruby><ruby>場<rt>ば</rt></ruby>が、<ruby>全部<rt>ぜんぶ</rt></ruby>なくなったわけではありません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "夜の飲み会のかわりに、昼のランチ会にしたり、部署ごとの小さな会にしたりする会社もあります。",
+      "zh": "也有公司把晚上的酒会改成中午的午餐会，或者改成按部门的小聚会。",
+      "en": "Some companies hold lunch gatherings instead of evening drinking parties, or smaller parties for each department.",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>の<ruby>飲み会<rt>のみかい</rt></ruby>のかわりに、<ruby>昼<rt>ひる</rt></ruby>のランチ<ruby>会<rt>かい</rt></ruby>にしたり、<span class=\"vw\" data-ja=\"部署\" data-reading=\"ぶしょ\" data-en=\"department, section (of a company)\"><ruby>部署<rt>ぶしょ</rt></ruby></span>ごとの<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>会<rt>かい</rt></ruby>にしたりする<ruby>会社<rt>かいしゃ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "guide",
+      "text": "夜の飲み会には、子どもの世話などで、出られない人もいますよね。昼なら、もっと多くの人が参加できます。",
+      "zh": "晚上的酒会，有些人因为要照顾孩子等原因没法参加。如果是中午，就能有更多人参加。",
+      "en": "Some people can't come to evening drinking parties, for example because they look after children. At lunchtime, more people can join.",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>の<ruby>飲み会<rt>のみかい</rt></ruby>には、<ruby>子ども<rt>こども</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>などで、<ruby>出ら<rt>でら</rt></ruby>れない<ruby>人<rt>ひと</rt></ruby>もいますよね。<ruby>昼<rt>ひる</rt></ruby>なら、もっと<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>できます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "東京商工リサーチの調査では、忘年会を続けている会社の8割以上が、その理由を「社員どうしの仲をよくするため」と答えています。",
+      "zh": "东京商工调查的调查显示，继续举办忘年会的企业中，八成以上的理由是“为了增进员工之间的感情”。",
+      "en": "In Tokyo Shoko Research's survey, more than 80% of companies that still hold year-end parties said the reason was to bring employees closer together.",
+      "tts": "とうきょうしょうこうリサーチの調査では、忘年会を続けている会社のはちわり以上が、その理由を「社員どうしの仲をよくするため」と答えています。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby><ruby>商工<rt>しょうこう</rt></ruby>リサーチの<ruby>調査<rt>ちょうさ</rt></ruby>では、<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>を<ruby>続け<rt>つづけ</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>の8<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が、その<ruby>理由<rt>りゆう</rt></ruby>を「<ruby>社員<rt>しゃいん</rt></ruby>どうしの<ruby>仲<rt>なか</rt></ruby>をよくするため」と<ruby>答え<rt>こたえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "みんなで集まる時間は大切。でも、無理に参加させたくはない。会社は、その間で、新しい形を探しているのかもしれません。",
+      "zh": "大家聚在一起的时间很重要，但又不想强迫员工参加。公司也许正在两者之间寻找新的形式。",
+      "en": "Time together matters, but companies don't want to force anyone to come. They may be looking for a new form somewhere in between.",
+      "ruby": "みんなで<ruby>集まる<rt>あつまる</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>。でも、<ruby>無理<rt>むり</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>させたくはない。<ruby>会社<rt>かいしゃ</rt></ruby>は、その<ruby>間<rt>あいだ</rt></ruby>で、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>形<rt>かたち</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>ているのかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "一方で、増えているのが、内定式や、健康のためのイベントです。",
+      "zh": "另一方面，录用内定仪式和促进健康的活动在增加。",
+      "en": "Meanwhile, ceremonies for future new hires and health events are on the rise.",
+      "tts": "一方で、増えているのが、ないていしきや、健康のためのイベントです。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>増え<rt>ふえ</rt></ruby>ているのが、<span class=\"vw\" data-ja=\"内定式\" data-reading=\"ないていしき\" data-en=\"ceremony for students with job offers\"><ruby>内定式<rt>ないていしき</rt></ruby></span>や、<ruby>健康<rt>けんこう</rt></ruby>のためのイベントです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "年に一度の大きな飲み会より、昼間の小さな集まり。会社のイベントの形が、少しずつ変わってきています。",
+      "zh": "比起一年一次的大型酒会，更多是白天的小型聚会。公司活动的形式正在一点点改变。",
+      "en": "Small daytime get-togethers rather than one big drinking party a year: the shape of company events is slowly changing.",
+      "ruby": "<ruby>年<rt>ねん</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な<ruby>飲み会<rt>のみかい</rt></ruby>より、<ruby>昼間<rt>ひるま</rt></ruby>の<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>集まり<rt>あつまり</rt></ruby>。<ruby>会社<rt>かいしゃ</rt></ruby>のイベントの<ruby>形<rt>かたち</rt></ruby>が、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>変わ<rt>かわ</rt></ruby>ってきています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻吧。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. You should understand it better this time.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社で開く忘年会や社員旅行などのイベントが、コロナ禍の前と比べて、大きく減っていることが、民間の調査会社の調査で分かりました。",
+      "zh": "民间调查公司的调查显示，公司举办的忘年会、员工旅行等活动与新冠疫情前相比大幅减少。",
+      "en": "A private research firm's survey has found that company events such as year-end parties and staff trips have fallen sharply compared with before the COVID-19 pandemic.",
+      "tts": "会社で開く忘年会や社員旅行などのイベントが、コロナかの前と比べて、大きく減っていることが、民間の調査会社の調査で分かりました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>開く<rt>ひらく</rt></ruby><span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>や<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>などのイベントが、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>ていることが、<ruby>民間<rt>みんかん</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>で<ruby>分か<rt>わか</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクは、今月6日から10日にかけて、全国の1074社に、社内のイベントについて聞きました。",
+      "zh": "帝国数据银行于本月6日至10日，就公司内部活动询问了全国1074家企业。",
+      "en": "Teikoku Databank asked 1,074 companies across Japan about their in-house events from the 6th to the 10th of this month.",
+      "tts": "ていこくデータバンクは、今月むいかからとおかにかけて、全国のせんななじゅうよんしゃに、社内のイベントについて聞きました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクは、<ruby>今月<rt>こんげつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>から<ruby>10日<rt>とおか</rt></ruby>にかけて、<ruby>全国<rt>ぜんこく</rt></ruby>の1074<ruby>社<rt>しゃ</rt></ruby>に、<ruby>社内<rt>しゃない</rt></ruby>のイベントについて<ruby>聞き<rt>きき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "何か社内のイベントを行っている会社は、コロナ禍の前は92.6%でしたが、今は86.4%に下がりました。",
+      "zh": "举办某种公司内部活动的企业，疫情前占92.6%，现在降到了86.4%。",
+      "en": "The share of companies holding some kind of in-house event was 92.6% before the pandemic, but it has now fallen to 86.4%.",
+      "tts": "何か社内のイベントを行っている会社は、コロナかの前はきゅうじゅうにてんろくパーセントでしたが、今ははちじゅうろくてんよんパーセントに下がりました。",
+      "ruby": "<ruby>何か<rt>なにか</rt></ruby><ruby>社内<rt>しゃない</rt></ruby>のイベントを<ruby>行って<rt>いって</rt></ruby>いる<ruby>会社<rt>かいしゃ</rt></ruby>は、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は92.6%でしたが、<ruby>今<rt>いま</rt></ruby>は86.4%に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん多い「忘年会・新年会」は、76.5%から63.1%に減りました。",
+      "zh": "最常见的“忘年会・新年会”从76.5%减少到63.1%。",
+      "en": "Year-end and New Year parties, the most common event, fell from 76.5% to 63.1%.",
+      "tts": "いちばん多い「忘年会・新年会」は、ななじゅうろくてんごパーセントから、ろくじゅうさんてんいちパーセントに減りました。",
+      "ruby": "いちばん<ruby>多い<rt>おおい</rt></ruby>「<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>・<ruby>新年会<rt>しんねんかい</rt></ruby>」は、76.5%から63.1%に<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「歓迎会・送別会」も、52.1%から42.9%に減っています。",
+      "zh": "“欢迎会・欢送会”也从52.1%减少到42.9%。",
+      "en": "Welcome and farewell parties have also fallen, from 52.1% to 42.9%.",
+      "tts": "「かんげいかい・そうべつかい」も、ごじゅうにてんいちパーセントから、よんじゅうにてんきゅうパーセントに減っています。",
+      "ruby": "「<ruby>歓迎会<rt>かんげいかい</rt></ruby>・<span class=\"vw\" data-ja=\"送別会\" data-reading=\"そうべつかい\" data-en=\"farewell party\"><ruby>送別会<rt>そうべつかい</rt></ruby></span>」も、52.1%から42.9%に<ruby>減っ<rt>へっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社として出す年賀状は、コロナ禍の前は4割を超えていましたが、今は1割台です。",
+      "zh": "以公司名义寄出的贺年卡，疫情前超过四成，现在只有一成多。",
+      "en": "New Year's cards sent by companies were over 40% before the pandemic, but are now in the 10% range.",
+      "tts": "会社として出す年賀状は、コロナかの前はよんわりを超えていましたが、今はいちわりだいです。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>として<ruby>出す<rt>だす</rt></ruby><span class=\"vw\" data-ja=\"年賀状\" data-reading=\"ねんがじょう\" data-en=\"New Year's card\"><ruby>年賀状<rt>ねんがじょう</rt></ruby></span>は、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は4<ruby>割<rt>わり</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ていましたが、<ruby>今<rt>いま</rt></ruby>は1<ruby>割<rt>わり</rt></ruby><ruby>台<rt>だい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "社員旅行も、大きく減りました。",
+      "zh": "员工旅行也大幅减少。",
+      "en": "Staff trips have also dropped sharply.",
+      "ruby": "<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>も、<ruby>大きく<rt>おおきく</rt></ruby><ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、内定式や、健康のためのイベントは、コロナ禍の前より増えています。",
+      "zh": "另一方面，录用内定仪式和促进健康的活动比疫情前有所增加。",
+      "en": "On the other hand, ceremonies for future new hires and health events have increased compared with before the pandemic.",
+      "tts": "一方で、ないていしきや、健康のためのイベントは、コロナかの前より増えています。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<span class=\"vw\" data-ja=\"内定式\" data-reading=\"ないていしき\" data-en=\"ceremony for students with job offers\"><ruby>内定式<rt>ないていしき</rt></ruby></span>や、<ruby>健康<rt>けんこう</rt></ruby>のためのイベントは、コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>より<ruby>増え<rt>ふえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社からは、「忘年会やゴルフの大会に参加したくない社員が増えた」という声がありました。",
+      "zh": "有公司表示：“不想参加忘年会和高尔夫比赛的员工变多了。”",
+      "en": "One company said, \"More employees don't want to take part in year-end parties or golf competitions.\"",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>からは、「<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>やゴルフの<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>したくない<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た」という<ruby>声<rt>こえ</rt></ruby>がありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「飲み会に参加できない社員が増えたので、ランチ会を何回か開くようになった」という会社もあります。",
+      "zh": "也有公司说：“因为不能参加酒会的员工变多了，所以改为举办几次午餐会。”",
+      "en": "Another company said, \"More employees can't attend drinking parties, so we now hold lunch gatherings several times.\"",
+      "ruby": "「<ruby>飲み会<rt>のみかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>できない<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>たので、ランチ<ruby>会<rt>かい</rt></ruby>を<ruby>何回<rt>なんかい</rt></ruby>か<ruby>開く<rt>ひらく</rt></ruby>ようになった」という<ruby>会社<rt>かいしゃ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、「会社全体で開くのはやめて、部署ごとに開くことにした」という会社もありました。",
+      "zh": "还有公司表示：“不再举办全公司的活动，改为按部门举办。”",
+      "en": "Another said, \"We stopped holding it for the whole company and decided to hold it by department.\"",
+      "ruby": "また、「<ruby>会社全体<rt>かいしゃぜんたい</rt></ruby>で<ruby>開く<rt>ひらく</rt></ruby>のはやめて、<span class=\"vw\" data-ja=\"部署\" data-reading=\"ぶしょ\" data-en=\"department, section (of a company)\"><ruby>部署<rt>ぶしょ</rt></ruby></span>ごとに<ruby>開く<rt>ひらく</rt></ruby>ことにした」という<ruby>会社<rt>かいしゃ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "別の調査会社、東京商工リサーチの調査では、この年末から年始に忘年会や新年会を開く会社は、56.5%でした。",
+      "zh": "另一家调查公司东京商工调查的调查显示，今年年末到明年年初举办忘年会或新年会的企业占56.5%。",
+      "en": "In a survey by another firm, Tokyo Shoko Research, 56.5% of companies said they would hold a year-end or New Year party this coming holiday season.",
+      "tts": "別の調査会社、とうきょうしょうこうリサーチの調査では、この年末から年始に忘年会や新年会を開く会社は、ごじゅうろくてんごパーセントでした。",
+      "ruby": "<ruby>別の<rt>べつの</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby><ruby>商工<rt>しょうこう</rt></ruby>リサーチの<ruby>調査<rt>ちょうさ</rt></ruby>では、この<ruby>年末<rt>ねんまつ</rt></ruby>から<ruby>年始<rt>ねんし</rt></ruby>に<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>や<ruby>新年会<rt>しんねんかい</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>は、56.5%でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "コロナ禍の前は開いていたのに、今回は開かない会社に理由を聞くと、「開くニーズが高くない」が63.7%で、最も多くなりました。",
+      "zh": "询问疫情前举办、但这次不办的企业原因，“举办的需求不高”最多，占63.7%。",
+      "en": "Asked why, companies that held parties before the pandemic but won't this time most often said there was little demand, at 63.7%.",
+      "tts": "コロナかの前は開いていたのに、今回は開かない会社に理由を聞くと、「開くニーズが高くない」が、ろくじゅうさんてんななパーセントで、最も多くなりました。",
+      "ruby": "コロナ<ruby>禍<rt>か</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は<ruby>開い<rt>ひらい</rt></ruby>ていたのに、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>開か<rt>ひらか</rt></ruby>ない<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>理由<rt>りゆう</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>と、「<ruby>開く<rt>ひらく</rt></ruby>ニーズが<ruby>高く<rt>たかく</rt></ruby>ない」が63.7%で、<ruby>最も<rt>もっとも</rt></ruby><ruby>多く<rt>おおく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「参加をいやがる社員が増えた」という答えも、39.6%ありました。",
+      "zh": "回答“不愿参加的员工增加了”的也占39.6%。",
+      "en": "39.6% said more employees were reluctant to take part.",
+      "tts": "「参加をいやがる社員が増えた」という答えも、さんじゅうきゅうてんろくパーセントありました。",
+      "ruby": "「<ruby>参加<rt>さんか</rt></ruby>をいやがる<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た」という<ruby>答え<rt>こたえ</rt></ruby>も、39.6%ありました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんの会社や学校では、今年、忘年会がありますか。夜の飲み会と昼のランチ会、皆さんなら、どちらに行きたいですか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "你的公司或学校今年有忘年会吗？晚上的酒会和中午的午餐会，你更想去哪一个？感谢今天的收听。明天见。",
+      "en": "Is there a year-end party at your company or school this year? An evening drinking party or a lunch gathering: which would you rather go to? Thanks for listening today. See you tomorrow.",
+      "tts": "皆さんの会社や学校では、今年、忘年会がありますか。夜の飲み会と昼のランチ会、皆さんなら、どちらに行きたいですか。きょうも聞いてくださって、ありがとうございました。また明日。",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>学校<rt>がっこう</rt></ruby>では、<ruby>今年<rt>ことし</rt></ruby>、<span class=\"vw\" data-ja=\"忘年会\" data-reading=\"ぼうねんかい\" data-en=\"year-end party\"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span>がありますか。<ruby>夜<rt>よる</rt></ruby>の<ruby>飲み会<rt>のみかい</rt></ruby>と<ruby>昼<rt>ひる</rt></ruby>のランチ<ruby>会<rt>かい</rt></ruby>、<ruby>皆さん<rt>みなさん</rt></ruby>なら、どちらに<ruby>行き<rt>いき</rt></ruby>たいですか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
