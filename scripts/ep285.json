@@ -1,0 +1,516 @@
+{
+  "episode": 285,
+  "title": "JR北海道の新しい観光列車「赤い星」、初めて公開",
+  "titleZh": "JR北海道新观光列车“红星”首次亮相",
+  "titleEn": "JR Hokkaido unveils its new red tourist train, the Red Star",
+  "date": "2026-11-15",
+  "source": "NHK / 北海道新聞 / HBC / 産経新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026111501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November fifteenth: a railway company in the far north has shown off a brand-new red tourist train. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "JR北海道は14日、新しい観光列車「赤い星」を、初めてみんなに見せました。",
+      "tts": "JR北海道は14日、新しい観光列車「あかいほし」を、初めてみんなに見せました。",
+      "zh": "JR北海道14日首次向大家展示了新的观光列车“红星”。",
+      "en": "On the 14th, JR Hokkaido showed its new tourist train, the Red Star, to the public for the first time.",
+      "ruby": "JR<ruby>北海道<rt>ほっかいどう</rt></ruby>は14<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"観光\" data-reading=\"かんこう\" data-en=\"sightseeing; tourism\"><ruby>観光<rt>かんこう</rt></ruby></span><ruby>列車<rt>れっしゃ</rt></ruby>「<ruby>赤い<rt>あかい</rt></ruby><ruby>星<rt>ほし</rt></ruby>」を、<ruby>初めて<rt>はじめて</rt></ruby>みんなに<ruby>見せ<rt>みせ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "列車は4両で、きれいな赤い色です。",
+      "tts": "列車はよんりょうで、きれいな赤い色です。",
+      "zh": "列车有4节车厢，是漂亮的红色。",
+      "en": "The train has 4 cars and is a beautiful red.",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は4<ruby>両<rt>りょう</rt></ruby>で、きれいな<ruby>赤い<rt>あかい</rt></ruby><ruby>色<rt>いろ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "約45年前の古い列車を、新しく作り直しました。",
+      "tts": "やくよんじゅうごねんまえの古い列車を、新しく作り直しました。",
+      "zh": "它是把约45年前的旧列车重新改造而成的。",
+      "en": "It was made by rebuilding an old train from about 45 years ago.",
+      "ruby": "<ruby>約<rt>やく</rt></ruby>45<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>古い<rt>ふるい</rt></ruby><ruby>列車<rt>れっしゃ</rt></ruby>を、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>作り直し<rt>つくりなおし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は、昔の北海道のマークだった「赤い星」から付けました。",
+      "tts": "名前は、昔の北海道のマークだった「あかいほし」から付けました。",
+      "zh": "名字取自过去北海道的标志“红星”。",
+      "en": "The name comes from the Red Star, an old symbol of Hokkaido.",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>の<ruby>北海道<rt>ほっかいどう</rt></ruby>のマークだった「<ruby>赤い<rt>あかい</rt></ruby><ruby>星<rt>ほし</rt></ruby>」から<ruby>付け<rt>つけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "列車の中には、北海道の木がたくさん使われています。",
+      "zh": "列车里大量使用了北海道的木材。",
+      "en": "Inside the train, a lot of wood from Hokkaido is used.",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "4両目は全部たたみの部屋で、お茶を楽しむことができます。",
+      "tts": "よんりょうめは全部たたみの部屋で、お茶を楽しむことができます。",
+      "zh": "第4节车厢全是榻榻米房间，可以在那里品茶。",
+      "en": "The fourth car is all tatami-mat rooms, where you can enjoy tea.",
+      "ruby": "4<ruby>両目<rt>りょうめ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><span class=\"vw\" data-ja=\"たたみ\" data-reading=\"たたみ\" data-en=\"tatami (straw floor mat)\">たたみの</span><ruby>部屋<rt>へや</rt></ruby>で、お<ruby>茶<rt>ちゃ</rt></ruby>を<span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>むことができます</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "2両目にはピアノがあって、飲み物やおみやげを買うことができます。",
+      "tts": "にりょうめにはピアノがあって、飲み物やおみやげを買うことができます。",
+      "zh": "第2节车厢有钢琴，还可以买饮料和伴手礼。",
+      "en": "The second car has a piano, and you can buy drinks and souvenirs.",
+      "ruby": "2<ruby>両目<rt>りょうめ</rt></ruby>にはピアノがあって、<ruby>飲み物<rt>のみもの</rt></ruby>やおみやげを<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "列車は来年の2月から、札幌と網走の間を走ります。",
+      "tts": "列車は来年のにがつから、さっぽろとあばしりの間を走ります。",
+      "zh": "列车将从明年2月起在札幌和网走之间运行。",
+      "en": "From February next year, the train will run between Sapporo and Abashiri.",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の2<ruby>月<rt>がつ</rt></ruby>から、<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>網走<rt>あばしり</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>走り<rt>はしり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "昼ご飯が付いた切符は、大人1人3万9000円です。",
+      "tts": "昼ご飯が付いた切符は、おとなひとりさんまんきゅうせんえんです。",
+      "zh": "含午餐的车票每位成人3万9000日元。",
+      "en": "A ticket with lunch costs 39,000 yen for one adult.",
+      "ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>が<ruby>付い<rt>つい</rt></ruby>た<ruby>切符<rt>きっぷ</rt></ruby>は、<ruby>大人<rt>おとな</rt></ruby><ruby>1人<rt>ひとり</rt></ruby>3<ruby>万<rt>まん</rt></ruby>9000<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR北海道は、この列車で、北海道に旅行に来る人を増やしたいと考えています。",
+      "zh": "JR北海道希望通过这趟列车，让更多人来北海道旅行。",
+      "en": "JR Hokkaido hopes the train will bring more travelers to Hokkaido.",
+      "ruby": "JR<ruby>北海道<rt>ほっかいどう</rt></ruby>は、この<ruby>列車<rt>れっしゃ</rt></ruby>で、<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><ruby>人<rt>ひと</rt></ruby>を<ruby>増やし<rt>ふやし</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR北海道は14日、新しい観光列車「赤い星」を、初めてみんなに見せました。",
+      "tts": "JR北海道は14日、新しい観光列車「あかいほし」を、初めてみんなに見せました。",
+      "ruby": "JR<ruby>北海道<rt>ほっかいどう</rt></ruby>は14<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"観光\" data-reading=\"かんこう\" data-en=\"sightseeing; tourism\"><ruby>観光<rt>かんこう</rt></ruby></span><ruby>列車<rt>れっしゃ</rt></ruby>「<ruby>赤い<rt>あかい</rt></ruby><ruby>星<rt>ほし</rt></ruby>」を、<ruby>初めて<rt>はじめて</rt></ruby>みんなに<ruby>見せ<rt>みせ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR Hokkaido showed its new tourist train, the Red Star, to the public for the first time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "観光",
+      "ruby": "<span class=\"vw\" data-ja=\"観光\" data-reading=\"かんこう\" data-en=\"sightseeing; tourism\"><ruby>観光<rt>かんこう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means sightseeing, or tourism."
+    },
+    {
+      "speaker": "slow",
+      "text": "列車は4両で、きれいな赤い色です。",
+      "tts": "列車はよんりょうで、きれいな赤い色です。",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は4<ruby>両<rt>りょう</rt></ruby>で、きれいな<ruby>赤い<rt>あかい</rt></ruby><ruby>色<rt>いろ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The train has four cars, and it's a beautiful red."
+    },
+    {
+      "speaker": "slow",
+      "text": "約45年前の古い列車を、新しく作り直しました。",
+      "tts": "やくよんじゅうごねんまえの古い列車を、新しく作り直しました。",
+      "ruby": "<ruby>約<rt>やく</rt></ruby>45<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>古い<rt>ふるい</rt></ruby><ruby>列車<rt>れっしゃ</rt></ruby>を、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>作り直し<rt>つくりなおし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's an old train from about forty-five years ago, rebuilt like new."
+    },
+    {
+      "speaker": "vocab",
+      "text": "作り直す",
+      "ruby": "<span class=\"vw\" data-ja=\"作り直す\" data-reading=\"つくりなおす\" data-en=\"to remake; to rebuild\"><ruby>作り直す<rt>つくりなおす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to make something again, or rebuild it."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前は、昔の北海道のマークだった「赤い星」から付けました。",
+      "tts": "名前は、昔の北海道のマークだった「あかいほし」から付けました。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>の<ruby>北海道<rt>ほっかいどう</rt></ruby>のマークだった「<ruby>赤い<rt>あかい</rt></ruby><ruby>星<rt>ほし</rt></ruby>」から<ruby>付け<rt>つけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The name comes from a red star, an old symbol of the island."
+    },
+    {
+      "speaker": "slow",
+      "text": "列車の中には、北海道の木がたくさん使われています。",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Inside, lots of local wood is used."
+    },
+    {
+      "speaker": "slow",
+      "text": "4両目は全部たたみの部屋で、お茶を楽しむことができます。",
+      "tts": "よんりょうめは全部たたみの部屋で、お茶を楽しむことができます。",
+      "ruby": "4<ruby>両目<rt>りょうめ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><span class=\"vw\" data-ja=\"たたみ\" data-reading=\"たたみ\" data-en=\"tatami (straw floor mat)\">たたみの</span><ruby>部屋<rt>へや</rt></ruby>で、お<ruby>茶<rt>ちゃ</rt></ruby>を<span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>むことができます</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "The fourth car is all tatami rooms, where you can enjoy tea."
+    },
+    {
+      "speaker": "vocab",
+      "text": "たたみ",
+      "ruby": "<span class=\"vw\" data-ja=\"たたみ\" data-reading=\"たたみ\" data-en=\"tatami (straw floor mat)\">たたみ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the traditional straw mat used for floors in Japanese rooms."
+    },
+    {
+      "speaker": "vocab",
+      "text": "楽しむ",
+      "ruby": "<span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>む</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to enjoy."
+    },
+    {
+      "speaker": "slow",
+      "text": "2両目にはピアノがあって、飲み物やおみやげを買うことができます。",
+      "tts": "にりょうめにはピアノがあって、飲み物やおみやげを買うことができます。",
+      "ruby": "2<ruby>両目<rt>りょうめ</rt></ruby>にはピアノがあって、<ruby>飲み物<rt>のみもの</rt></ruby>やおみやげを<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The second car has a piano, and you can buy drinks and souvenirs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おみやげ",
+      "ruby": "<span class=\"vw\" data-ja=\"おみやげ\" data-reading=\"おみやげ\" data-en=\"souvenir; gift from a trip\">おみやげ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a souvenir, or a gift you bring back from a trip."
+    },
+    {
+      "speaker": "slow",
+      "text": "列車は来年の2月から、札幌と網走の間を走ります。",
+      "tts": "列車は来年のにがつから、さっぽろとあばしりの間を走ります。",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の2<ruby>月<rt>がつ</rt></ruby>から、<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>網走<rt>あばしり</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>走り<rt>はしり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From next February, it will run between Sapporo and a town in the far northeast called Abashiri."
+    },
+    {
+      "speaker": "slow",
+      "text": "昼ご飯が付いた切符は、大人1人3万9000円です。",
+      "tts": "昼ご飯が付いた切符は、おとなひとりさんまんきゅうせんえんです。",
+      "ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>が<ruby>付い<rt>つい</rt></ruby>た<ruby>切符<rt>きっぷ</rt></ruby>は、<ruby>大人<rt>おとな</rt></ruby><ruby>1人<rt>ひとり</rt></ruby>3<ruby>万<rt>まん</rt></ruby>9000<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "A ticket with lunch costs thirty-nine thousand yen per adult."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR北海道は、この列車で、北海道に旅行に来る人を増やしたいと考えています。",
+      "ruby": "JR<ruby>北海道<rt>ほっかいどう</rt></ruby>は、この<ruby>列車<rt>れっしゃ</rt></ruby>で、<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><ruby>人<rt>ひと</rt></ruby>を<ruby>増やし<rt>ふやし</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company hopes the train will bring more travelers to the island."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増やす",
+      "ruby": "<span class=\"vw\" data-ja=\"増やす\" data-reading=\"ふやす\" data-en=\"to increase (something)\"><ruby>増やす<rt>ふやす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase something, to make it more."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "JR北海道は14日、新しい観光列車「赤い星」を、初めてみんなに見せました。",
+      "tts": "JR北海道は14日、新しい観光列車「あかいほし」を、初めてみんなに見せました。",
+      "zh": "JR北海道14日首次向大家展示了新的观光列车“红星”。",
+      "en": "On the 14th, JR Hokkaido showed its new tourist train, the Red Star, to the public for the first time.",
+      "ruby": "JR<ruby>北海道<rt>ほっかいどう</rt></ruby>は14<ruby>日<rt>にち</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><span class=\"vw\" data-ja=\"観光\" data-reading=\"かんこう\" data-en=\"sightseeing; tourism\"><ruby>観光<rt>かんこう</rt></ruby></span><ruby>列車<rt>れっしゃ</rt></ruby>「<ruby>赤い<rt>あかい</rt></ruby><ruby>星<rt>ほし</rt></ruby>」を、<ruby>初めて<rt>はじめて</rt></ruby>みんなに<ruby>見せ<rt>みせ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "列車は4両で、きれいな赤い色です。",
+      "tts": "列車はよんりょうで、きれいな赤い色です。",
+      "zh": "列车有4节车厢，是漂亮的红色。",
+      "en": "The train has 4 cars and is a beautiful red.",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は4<ruby>両<rt>りょう</rt></ruby>で、きれいな<ruby>赤い<rt>あかい</rt></ruby><ruby>色<rt>いろ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "約45年前の古い列車を、新しく作り直しました。",
+      "tts": "やくよんじゅうごねんまえの古い列車を、新しく作り直しました。",
+      "zh": "它是把约45年前的旧列车重新改造而成的。",
+      "en": "It was made by rebuilding an old train from about 45 years ago.",
+      "ruby": "<ruby>約<rt>やく</rt></ruby>45<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>古い<rt>ふるい</rt></ruby><ruby>列車<rt>れっしゃ</rt></ruby>を、<ruby>新しく<rt>あたらしく</rt></ruby><ruby>作り直し<rt>つくりなおし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は、昔の北海道のマークだった「赤い星」から付けました。",
+      "tts": "名前は、昔の北海道のマークだった「あかいほし」から付けました。",
+      "zh": "名字取自过去北海道的标志“红星”。",
+      "en": "The name comes from the Red Star, an old symbol of Hokkaido.",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>の<ruby>北海道<rt>ほっかいどう</rt></ruby>のマークだった「<ruby>赤い<rt>あかい</rt></ruby><ruby>星<rt>ほし</rt></ruby>」から<ruby>付け<rt>つけ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "列車の中には、北海道の木がたくさん使われています。",
+      "zh": "列车里大量使用了北海道的木材。",
+      "en": "Inside the train, a lot of wood from Hokkaido is used.",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>使わ<rt>つかわ</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "4両目は全部たたみの部屋で、お茶を楽しむことができます。",
+      "tts": "よんりょうめは全部たたみの部屋で、お茶を楽しむことができます。",
+      "zh": "第4节车厢全是榻榻米房间，可以在那里品茶。",
+      "en": "The fourth car is all tatami-mat rooms, where you can enjoy tea.",
+      "ruby": "4<ruby>両目<rt>りょうめ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><span class=\"vw\" data-ja=\"たたみ\" data-reading=\"たたみ\" data-en=\"tatami (straw floor mat)\">たたみの</span><ruby>部屋<rt>へや</rt></ruby>で、お<ruby>茶<rt>ちゃ</rt></ruby>を<span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>むことができます</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "2両目にはピアノがあって、飲み物やおみやげを買うことができます。",
+      "tts": "にりょうめにはピアノがあって、飲み物やおみやげを買うことができます。",
+      "zh": "第2节车厢有钢琴，还可以买饮料和伴手礼。",
+      "en": "The second car has a piano, and you can buy drinks and souvenirs.",
+      "ruby": "2<ruby>両目<rt>りょうめ</rt></ruby>にはピアノがあって、<ruby>飲み物<rt>のみもの</rt></ruby>やおみやげを<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "列車は来年の2月から、札幌と網走の間を走ります。",
+      "tts": "列車は来年のにがつから、さっぽろとあばしりの間を走ります。",
+      "zh": "列车将从明年2月起在札幌和网走之间运行。",
+      "en": "From February next year, the train will run between Sapporo and Abashiri.",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の2<ruby>月<rt>がつ</rt></ruby>から、<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>網走<rt>あばしり</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>走り<rt>はしり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "昼ご飯が付いた切符は、大人1人3万9000円です。",
+      "tts": "昼ご飯が付いた切符は、おとなひとりさんまんきゅうせんえんです。",
+      "zh": "含午餐的车票每位成人3万9000日元。",
+      "en": "A ticket with lunch costs 39,000 yen for one adult.",
+      "ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>が<ruby>付い<rt>つい</rt></ruby>た<ruby>切符<rt>きっぷ</rt></ruby>は、<ruby>大人<rt>おとな</rt></ruby><ruby>1人<rt>ひとり</rt></ruby>3<ruby>万<rt>まん</rt></ruby>9000<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR北海道は、この列車で、北海道に旅行に来る人を増やしたいと考えています。",
+      "zh": "JR北海道希望通过这趟列车，让更多人来北海道旅行。",
+      "en": "JR Hokkaido hopes the train will bring more travelers to Hokkaido.",
+      "ruby": "JR<ruby>北海道<rt>ほっかいどう</rt></ruby>は、この<ruby>列車<rt>れっしゃ</rt></ruby>で、<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><ruby>人<rt>ひと</rt></ruby>を<ruby>増やし<rt>ふやし</rt></ruby>たいと<ruby>考え<rt>かんがえ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "列車は何両ですか。",
+      "tts": "列車はなんりょうですか。",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は<ruby>何両<rt>なんりょう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four cars."
+    },
+    {
+      "speaker": "slow",
+      "text": "4両目では、何を楽しむことができますか。",
+      "tts": "よんりょうめでは、何を楽しむことができますか。",
+      "ruby": "4<ruby>両目<rt>りょうめ</rt></ruby>では、<ruby>何を<rt>なにを</rt></ruby><span class=\"vw\" data-ja=\"楽しむ\" data-reading=\"たのしむ\" data-en=\"to enjoy\"><ruby>楽し<rt>たのし</rt></ruby>むことができますか</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tea, in a tatami room."
+    },
+    {
+      "speaker": "slow",
+      "text": "2両目には、何がありますか。",
+      "tts": "にりょうめには、何がありますか。",
+      "ruby": "2<ruby>両目<rt>りょうめ</rt></ruby>には、<ruby>何<rt>なに</rt></ruby>がありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A piano."
+    },
+    {
+      "speaker": "slow",
+      "text": "列車は、いつから走りますか。",
+      "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>は、いつから<ruby>走り<rt>はしり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From February next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "昼ご飯が付いた切符は、大人1人いくらですか。",
+      "tts": "昼ご飯が付いた切符は、おとなひとりいくらですか。",
+      "ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>が<ruby>付い<rt>つい</rt></ruby>た<ruby>切符<rt>きっぷ</rt></ruby>は、<ruby>大人<rt>おとな</rt></ruby><ruby>1人<rt>ひとり</rt></ruby>いくらですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty-nine thousand yen."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. Thanks for listening, and see you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "観光",
+      "reading": "かんこう",
+      "en": "sightseeing; tourism",
+      "zh": "观光"
+    },
+    {
+      "ja": "作り直す",
+      "reading": "つくりなおす",
+      "en": "to remake; to rebuild",
+      "zh": "重新制作，改造"
+    },
+    {
+      "ja": "たたみ",
+      "reading": "たたみ",
+      "en": "tatami (straw floor mat)",
+      "zh": "榻榻米"
+    },
+    {
+      "ja": "楽しむ",
+      "reading": "たのしむ",
+      "en": "to enjoy",
+      "zh": "享受，欣赏"
+    },
+    {
+      "ja": "おみやげ",
+      "reading": "おみやげ",
+      "en": "souvenir; gift from a trip",
+      "zh": "伴手礼，土特产"
+    },
+    {
+      "ja": "増やす",
+      "reading": "ふやす",
+      "en": "to increase (something)",
+      "zh": "增加"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~; be able to ~",
+      "meaningZh": "能够……，可以……",
+      "formation": "Verb dictionary form + ことができる",
+      "example": "4両目は全部たたみの部屋で、お茶を楽しむことができます。",
+      "translation": "The fourth car is all tatami rooms, where you can enjoy tea.",
+      "note": "A slightly more formal way to say something is possible, common in news and guides.",
+      "noteZh": "表示能够做某事，比可能形稍正式，新闻和介绍中常用。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜て、〜 (て-form linking)",
+      "meaning": "~ and ~",
+      "meaningZh": "……，并且……（连接两个句子）",
+      "formation": "Verb て-form / ある → あって + next clause",
+      "example": "2両目にはピアノがあって、飲み物やおみやげを買うことができます。",
+      "translation": "The second car has a piano, and you can buy drinks and souvenirs.",
+      "note": "The て-form joins two facts into one sentence.",
+      "noteZh": "用て形把两个事实连成一句话。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜られている (passive)",
+      "meaning": "is ~ed",
+      "meaningZh": "被……（被动）",
+      "formation": "Verb passive form + ている",
+      "example": "列車の中には、北海道の木がたくさん使われています。",
+      "translation": "Inside the train, a lot of wood from Hokkaido is used.",
+      "note": "Describes a state when who did it isn't important.",
+      "noteZh": "不强调动作的执行者，只描述现在的状态。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜たいと考えている",
+      "meaning": "hopes to ~; is thinking of ~",
+      "meaningZh": "希望……，打算……",
+      "formation": "Verb ます-stem + たい + と考えている",
+      "example": "JR北海道は、この列車で、北海道に旅行に来る人を増やしたいと考えています。",
+      "translation": "JR Hokkaido hopes the train will bring more travelers to Hokkaido.",
+      "note": "Used in news to report what a person or company wants to do.",
+      "noteZh": "新闻中用来转述个人或公司的愿望、打算。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "JR北海道は14日、新しい観光列車「赤い星」を、初めてみんなに見せました。\nJR北海道14日首次向大家展示了新的观光列车“红星”。\n観光 = sightseeing; tourism",
+    "列車は4両で、きれいな赤い色です。\n列车有4节车厢，是漂亮的红色。",
+    "約45年前の古い列車を、新しく作り直しました。\n它是把约45年前的旧列车重新改造而成的。\n作り直す = to remake; to rebuild",
+    "名前は、昔の北海道のマークだった「赤い星」から付けました。\n名字取自过去北海道的标志“红星”。",
+    "列車の中には、北海道の木がたくさん使われています。\n列车里大量使用了北海道的木材。",
+    "4両目は全部たたみの部屋で、お茶を楽しむことができます。\n第4节车厢全是榻榻米房间，可以在那里品茶。\nたたみ = tatami (straw floor mat)\n楽しむ = to enjoy",
+    "2両目にはピアノがあって、飲み物やおみやげを買うことができます。\n第2节车厢有钢琴，还可以买饮料和伴手礼。\nおみやげ = souvenir; gift from a trip",
+    "列車は来年の2月から、札幌と網走の間を走ります。\n列车将从明年2月起在札幌和网走之间运行。",
+    "昼ご飯が付いた切符は、大人1人3万9000円です。\n含午餐的车票每位成人3万9000日元。",
+    "JR北海道は、この列車で、北海道に旅行に来る人を増やしたいと考えています。\nJR北海道希望通过这趟列车，让更多人来北海道旅行。\n増やす = to increase (something)"
+  ]
+}
