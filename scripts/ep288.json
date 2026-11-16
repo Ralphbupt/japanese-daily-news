@@ -1,0 +1,648 @@
+{
+  "episode": 288,
+  "title": "近鉄、「しまかぜ」など特別車両の料金を値上げへ",
+  "titleZh": "近铁上调“岛风”等特别车厢费用，包厢涨约5倍",
+  "titleEn": "Kintetsu to raise fees for its premium train seats",
+  "date": "2026-11-16",
+  "source": "中日新聞 / 日本経済新聞 / 京都新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026111601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November sixteenth: a big rail company is raising the price of its most comfortable train seats. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "関西と名古屋を走る鉄道会社の近鉄は、特急の特別な車両の料金を、値上げすると発表しました。",
+      "tts": "関西と名古屋を走る鉄道会社のきんてつは、特急の特別な車両の料金を、値上げすると発表しました。",
+      "zh": "连接关西和名古屋的铁路公司近铁宣布，将上调特急列车特别车厢的费用。",
+      "en": "Kintetsu, a railway company that runs in the Kansai area and Nagoya, announced it will raise the fees for special cars on its limited express trains.",
+      "ruby": "<ruby>関西<rt>かんさい</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>鉄道会社<rt>てつどうがいしゃ</rt></ruby>の<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>特急<rt>とっきゅう</rt></ruby>の<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>を、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>すると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; 発表する = to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げは、来年の3月13日に買うきっぷからです。",
+      "zh": "涨价从明年3月13日购买的车票开始实行。",
+      "en": "The increase applies to tickets bought from March 13 next year.",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>きっぷからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "対象は、「ひのとり」のプレミアム車両や、観光特急「しまかぜ」などです。",
+      "zh": "涨价对象包括“火之鸟”的高级车厢和观光特急“岛风”等。",
+      "en": "The increase covers the premium cars of the Hinotori and the Shimakaze sightseeing express, among others.",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; what something applies to\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、「ひのとり」のプレミアム<ruby>車両<rt>しゃりょう</rt></ruby>や、<ruby>観光特急<rt>かんこうとっきゅう</rt></ruby>「しまかぜ」などです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ひのとり」は、大阪と名古屋を結ぶ特急です。",
+      "zh": "“火之鸟”是连接大阪和名古屋的特急列车。",
+      "en": "The Hinotori is a limited express that connects Osaka and Nagoya.",
+      "ruby": "「ひのとり」は、<ruby>大阪<rt>おおさか</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, link; to tie\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span><ruby>特急<rt>とっきゅう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「しまかぜ」は、大阪や名古屋などから、伊勢志摩へ行く観光特急です。",
+      "tts": "「しまかぜ」は、大阪や名古屋などから、いせしまへ行く観光特急です。",
+      "zh": "“岛风”是从大阪、名古屋等地开往伊势志摩的观光特急列车。",
+      "en": "The Shimakaze is a sightseeing express that goes from places like Osaka and Nagoya to Ise-Shima.",
+      "ruby": "「しまかぜ」は、<ruby>大阪<rt>おおさか</rt></ruby>や<ruby>名古屋<rt>なごや</rt></ruby>などから、<ruby>伊勢志摩<rt>いせしま</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><ruby>観光特急<rt>かんこうとっきゅう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "どちらも、席が広くて、ゆったり座れることで人気があります。",
+      "zh": "两者都因座位宽敞、坐得舒适而很受欢迎。",
+      "en": "Both are popular because the seats are wide and you can sit comfortably.",
+      "ruby": "どちらも、<ruby>席<rt>せき</rt></ruby>が<ruby>広く<rt>ひろく</rt></ruby>て、<span class=\"vw\" data-ja=\"ゆったり\" data-reading=\"ゆったり\" data-en=\"roomy, relaxed, comfortable\">ゆったり</span><ruby>座れ<rt>すわれ</rt></ruby>ることで<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪難波と近鉄名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。",
+      "tts": "おおさかなんばときんてつ名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。",
+      "zh": "在大阪难波和近铁名古屋之间，“火之鸟”高级车厢的费用将从900日元涨到1500日元。",
+      "en": "Between Osaka-Namba and Kintetsu-Nagoya, the fee for the Hinotori premium car will go from 900 yen to 1,500 yen.",
+      "ruby": "<ruby>大阪難波<rt>おおさかなんば</rt></ruby>と<ruby>近鉄名古屋<rt>きんてつなごや</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>では、「ひのとり」のプレミアム<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>が、900<ruby>円<rt>えん</rt></ruby>から1500<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪難波と賢島の間の「しまかぜ」は、1050円から1900円に上がります。",
+      "tts": "おおさかなんばとかしこじまの間の「しまかぜ」は、1050円から1900円に上がります。",
+      "zh": "大阪难波至贤岛之间的“岛风”将从1050日元涨到1900日元。",
+      "en": "On the Shimakaze between Osaka-Namba and Kashikojima, it will rise from 1,050 yen to 1,900 yen.",
+      "ruby": "<ruby>大阪難波<rt>おおさかなんば</rt></ruby>と<ruby>賢島<rt>かしこじま</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の「しまかぜ」は、1050<ruby>円<rt>えん</rt></ruby>から1900<ruby>円<rt>えん</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「しまかぜ」の個室は、1部屋1050円から5000円になります。",
+      "tts": "「しまかぜ」の個室は、ひとへや1050円から5000円になります。",
+      "zh": "“岛风”的包厢将从每间1050日元涨到5000日元。",
+      "en": "Private rooms on the Shimakaze will go from 1,050 yen to 5,000 yen per room.",
+      "ruby": "「しまかぜ」の<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>は、1<ruby>部屋<rt>へや</rt></ruby>1050<ruby>円<rt>えん</rt></ruby>から5000<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "個室の料金は、およそ5倍になります。",
+      "zh": "包厢的费用将涨到大约5倍。",
+      "en": "The private room fee will become about five times higher.",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>は、およそ5<ruby>倍<rt>ばい</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ふつうの運賃と特急料金は、今のまま変わりません。",
+      "zh": "普通票价和特急费用将维持现状，不会改变。",
+      "en": "Regular fares and limited express fees will stay the same as now.",
+      "ruby": "ふつうの<span class=\"vw\" data-ja=\"運賃\" data-reading=\"うんちん\" data-en=\"fare (train, bus, taxi)\"><ruby>運賃<rt>うんちん</rt></ruby></span>と<ruby>特急料金<rt>とっきゅうりょうきん</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>のまま<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "news",
+      "text": "近鉄は、働く人の給料や、車両と設備を直す費用が増えていると説明しています。",
+      "tts": "きんてつは、働く人の給料や、車両と設備を直すひようが増えていると説明しています。",
+      "zh": "近铁解释说，员工工资以及维修车辆和设备的费用正在增加。",
+      "en": "Kintetsu explains that staff wages and the costs of repairing trains and facilities are rising.",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>や、<ruby>車両<rt>しゃりょう</rt></ruby>と<ruby>設備<rt>せつび</rt></ruby>を<ruby>直す<rt>なおす</rt></ruby><span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost, expenses\"><ruby>費用<rt>ひよう</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ていると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、物の値段が上がる流れが、これからも続くと見ています。",
+      "zh": "此外，公司预计物价上涨的趋势今后还会持续。",
+      "en": "It also expects the trend of rising prices to continue.",
+      "ruby": "また、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>る<ruby>流れ<rt>ながれ</rt></ruby>が、これからも<ruby>続く<rt>つづく</rt></ruby>と<ruby>見て<rt>みて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "近鉄は、このままでは今のサービスを続けるのが難しいと話しています。",
+      "tts": "きんてつは、このままでは今のサービスを続けるのが難しいと話しています。",
+      "zh": "近铁表示，照这样下去，很难继续维持现在的服务。",
+      "en": "Kintetsu says that, as things are, it would be hard to keep up its current service.",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、このままでは<ruby>今<rt>いま</rt></ruby>のサービスを<ruby>続け<rt>つづけ</rt></ruby>るのが<ruby>難しい<rt>むずかしい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "関西と名古屋を走る鉄道会社の近鉄は、特急の特別な車両の料金を、値上げすると発表しました。",
+      "tts": "関西と名古屋を走る鉄道会社のきんてつは、特急の特別な車両の料金を、値上げすると発表しました。",
+      "ruby": "<ruby>関西<rt>かんさい</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>鉄道会社<rt>てつどうがいしゃ</rt></ruby>の<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>特急<rt>とっきゅう</rt></ruby>の<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>を、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>すると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; 発表する = to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A rail company in western Japan announced it will raise the fees for special cars on its express trains."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a price increase. With the verb for do, it means to raise prices."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; 発表する = to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement, or to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げは、来年の3月13日に買うきっぷからです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>きっぷからです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The higher price starts with tickets bought on March thirteenth next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "対象は、「ひのとり」のプレミアム車両や、観光特急「しまかぜ」などです。",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; what something applies to\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、「ひのとり」のプレミアム<ruby>車両<rt>しゃりょう</rt></ruby>や、<ruby>観光特急<rt>かんこうとっきゅう</rt></ruby>「しまかぜ」などです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It covers the premium cars of one express train, and a sightseeing express train, among others."
+    },
+    {
+      "speaker": "vocab",
+      "text": "対象",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; what something applies to\"><ruby>対象<rt>たいしょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the things or people something applies to."
+    },
+    {
+      "speaker": "slow",
+      "text": "「ひのとり」は、大阪と名古屋を結ぶ特急です。",
+      "ruby": "「ひのとり」は、<ruby>大阪<rt>おおさか</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, link; to tie\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span><ruby>特急<rt>とっきゅう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first one is an express train that connects Osaka and Nagoya."
+    },
+    {
+      "speaker": "vocab",
+      "text": "結ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, link; to tie\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to connect two places. It also means to tie."
+    },
+    {
+      "speaker": "slow",
+      "text": "「しまかぜ」は、大阪や名古屋などから、伊勢志摩へ行く観光特急です。",
+      "tts": "「しまかぜ」は、大阪や名古屋などから、いせしまへ行く観光特急です。",
+      "ruby": "「しまかぜ」は、<ruby>大阪<rt>おおさか</rt></ruby>や<ruby>名古屋<rt>なごや</rt></ruby>などから、<ruby>伊勢志摩<rt>いせしま</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><ruby>観光特急<rt>かんこうとっきゅう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The second is a sightseeing express from Osaka, Nagoya and other cities to a seaside area famous for its great shrine."
+    },
+    {
+      "speaker": "slow",
+      "text": "どちらも、席が広くて、ゆったり座れることで人気があります。",
+      "ruby": "どちらも、<ruby>席<rt>せき</rt></ruby>が<ruby>広く<rt>ひろく</rt></ruby>て、<span class=\"vw\" data-ja=\"ゆったり\" data-reading=\"ゆったり\" data-en=\"roomy, relaxed, comfortable\">ゆったり</span><ruby>座れ<rt>すわれ</rt></ruby>ることで<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Both are popular because the seats are wide and comfortable."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ゆったり",
+      "ruby": "<span class=\"vw\" data-ja=\"ゆったり\" data-reading=\"ゆったり\" data-en=\"roomy, relaxed, comfortable\">ゆったり</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means roomy and relaxed, with plenty of space."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪難波と近鉄名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。",
+      "tts": "おおさかなんばときんてつ名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。",
+      "ruby": "<ruby>大阪難波<rt>おおさかなんば</rt></ruby>と<ruby>近鉄名古屋<rt>きんてつなごや</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>では、「ひのとり」のプレミアム<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>が、900<ruby>円<rt>えん</rt></ruby>から1500<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Between Osaka and Nagoya, the premium car fee goes from nine hundred to fifteen hundred yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪難波と賢島の間の「しまかぜ」は、1050円から1900円に上がります。",
+      "tts": "おおさかなんばとかしこじまの間の「しまかぜ」は、1050円から1900円に上がります。",
+      "ruby": "<ruby>大阪難波<rt>おおさかなんば</rt></ruby>と<ruby>賢島<rt>かしこじま</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の「しまかぜ」は、1050<ruby>円<rt>えん</rt></ruby>から1900<ruby>円<rt>えん</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the sightseeing train, it rises from one thousand and fifty to nineteen hundred yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "「しまかぜ」の個室は、1部屋1050円から5000円になります。",
+      "tts": "「しまかぜ」の個室は、ひとへや1050円から5000円になります。",
+      "ruby": "「しまかぜ」の<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>は、1<ruby>部屋<rt>へや</rt></ruby>1050<ruby>円<rt>えん</rt></ruby>から5000<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "A private room on that train goes from one thousand and fifty to five thousand yen per room."
+    },
+    {
+      "speaker": "vocab",
+      "text": "個室",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a private room."
+    },
+    {
+      "speaker": "slow",
+      "text": "個室の料金は、およそ5倍になります。",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>は、およそ5<ruby>倍<rt>ばい</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "That's about five times the price."
+    },
+    {
+      "speaker": "slow",
+      "text": "ふつうの運賃と特急料金は、今のまま変わりません。",
+      "ruby": "ふつうの<span class=\"vw\" data-ja=\"運賃\" data-reading=\"うんちん\" data-en=\"fare (train, bus, taxi)\"><ruby>運賃<rt>うんちん</rt></ruby></span>と<ruby>特急料金<rt>とっきゅうりょうきん</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>のまま<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Regular fares and express fees will not change."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運賃",
+      "ruby": "<span class=\"vw\" data-ja=\"運賃\" data-reading=\"うんちん\" data-en=\"fare (train, bus, taxi)\"><ruby>運賃<rt>うんちん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the fare you pay to ride a train, bus or taxi."
+    },
+    {
+      "speaker": "slow",
+      "text": "近鉄は、働く人の給料や、車両と設備を直す費用が増えていると説明しています。",
+      "tts": "きんてつは、働く人の給料や、車両と設備を直すひようが増えていると説明しています。",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>や、<ruby>車両<rt>しゃりょう</rt></ruby>と<ruby>設備<rt>せつび</rt></ruby>を<ruby>直す<rt>なおす</rt></ruby><span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost, expenses\"><ruby>費用<rt>ひよう</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ていると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says staff pay and the cost of repairing trains and facilities are going up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "費用",
+      "ruby": "<span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost, expenses\"><ruby>費用<rt>ひよう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means cost or expenses."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、物の値段が上がる流れが、これからも続くと見ています。",
+      "ruby": "また、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>る<ruby>流れ<rt>ながれ</rt></ruby>が、これからも<ruby>続く<rt>つづく</rt></ruby>と<ruby>見て<rt>みて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also expects prices in general to keep rising."
+    },
+    {
+      "speaker": "slow",
+      "text": "近鉄は、このままでは今のサービスを続けるのが難しいと話しています。",
+      "tts": "きんてつは、このままでは今のサービスを続けるのが難しいと話しています。",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、このままでは<ruby>今<rt>いま</rt></ruby>のサービスを<ruby>続け<rt>つづけ</rt></ruby>るのが<ruby>難しい<rt>むずかしい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says that, as things are, it would be hard to keep its current service going."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "関西と名古屋を走る鉄道会社の近鉄は、特急の特別な車両の料金を、値上げすると発表しました。",
+      "tts": "関西と名古屋を走る鉄道会社のきんてつは、特急の特別な車両の料金を、値上げすると発表しました。",
+      "zh": "连接关西和名古屋的铁路公司近铁宣布，将上调特急列车特别车厢的费用。",
+      "en": "Kintetsu, a railway company that runs in the Kansai area and Nagoya, announced it will raise the fees for special cars on its limited express trains.",
+      "ruby": "<ruby>関西<rt>かんさい</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby><ruby>鉄道会社<rt>てつどうがいしゃ</rt></ruby>の<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>特急<rt>とっきゅう</rt></ruby>の<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>を、<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>すると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; 発表する = to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げは、来年の3月13日に買うきっぷからです。",
+      "zh": "涨价从明年3月13日购买的车票开始实行。",
+      "en": "The increase applies to tickets bought from March 13 next year.",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>の3<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>きっぷからです。"
+    },
+    {
+      "speaker": "news",
+      "text": "対象は、「ひのとり」のプレミアム車両や、観光特急「しまかぜ」などです。",
+      "zh": "涨价对象包括“火之鸟”的高级车厢和观光特急“岛风”等。",
+      "en": "The increase covers the premium cars of the Hinotori and the Shimakaze sightseeing express, among others.",
+      "ruby": "<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target; what something applies to\"><ruby>対象<rt>たいしょう</rt></ruby></span>は、「ひのとり」のプレミアム<ruby>車両<rt>しゃりょう</rt></ruby>や、<ruby>観光特急<rt>かんこうとっきゅう</rt></ruby>「しまかぜ」などです。"
+    },
+    {
+      "speaker": "news",
+      "text": "「ひのとり」は、大阪と名古屋を結ぶ特急です。",
+      "zh": "“火之鸟”是连接大阪和名古屋的特急列车。",
+      "en": "The Hinotori is a limited express that connects Osaka and Nagoya.",
+      "ruby": "「ひのとり」は、<ruby>大阪<rt>おおさか</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, link; to tie\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span><ruby>特急<rt>とっきゅう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "「しまかぜ」は、大阪や名古屋などから、伊勢志摩へ行く観光特急です。",
+      "tts": "「しまかぜ」は、大阪や名古屋などから、いせしまへ行く観光特急です。",
+      "zh": "“岛风”是从大阪、名古屋等地开往伊势志摩的观光特急列车。",
+      "en": "The Shimakaze is a sightseeing express that goes from places like Osaka and Nagoya to Ise-Shima.",
+      "ruby": "「しまかぜ」は、<ruby>大阪<rt>おおさか</rt></ruby>や<ruby>名古屋<rt>なごや</rt></ruby>などから、<ruby>伊勢志摩<rt>いせしま</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><ruby>観光特急<rt>かんこうとっきゅう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "どちらも、席が広くて、ゆったり座れることで人気があります。",
+      "zh": "两者都因座位宽敞、坐得舒适而很受欢迎。",
+      "en": "Both are popular because the seats are wide and you can sit comfortably.",
+      "ruby": "どちらも、<ruby>席<rt>せき</rt></ruby>が<ruby>広く<rt>ひろく</rt></ruby>て、<span class=\"vw\" data-ja=\"ゆったり\" data-reading=\"ゆったり\" data-en=\"roomy, relaxed, comfortable\">ゆったり</span><ruby>座れ<rt>すわれ</rt></ruby>ることで<ruby>人気<rt>にんき</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪難波と近鉄名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。",
+      "tts": "おおさかなんばときんてつ名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。",
+      "zh": "在大阪难波和近铁名古屋之间，“火之鸟”高级车厢的费用将从900日元涨到1500日元。",
+      "en": "Between Osaka-Namba and Kintetsu-Nagoya, the fee for the Hinotori premium car will go from 900 yen to 1,500 yen.",
+      "ruby": "<ruby>大阪難波<rt>おおさかなんば</rt></ruby>と<ruby>近鉄名古屋<rt>きんてつなごや</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>では、「ひのとり」のプレミアム<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>が、900<ruby>円<rt>えん</rt></ruby>から1500<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大阪難波と賢島の間の「しまかぜ」は、1050円から1900円に上がります。",
+      "tts": "おおさかなんばとかしこじまの間の「しまかぜ」は、1050円から1900円に上がります。",
+      "zh": "大阪难波至贤岛之间的“岛风”将从1050日元涨到1900日元。",
+      "en": "On the Shimakaze between Osaka-Namba and Kashikojima, it will rise from 1,050 yen to 1,900 yen.",
+      "ruby": "<ruby>大阪難波<rt>おおさかなんば</rt></ruby>と<ruby>賢島<rt>かしこじま</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の「しまかぜ」は、1050<ruby>円<rt>えん</rt></ruby>から1900<ruby>円<rt>えん</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「しまかぜ」の個室は、1部屋1050円から5000円になります。",
+      "tts": "「しまかぜ」の個室は、ひとへや1050円から5000円になります。",
+      "zh": "“岛风”的包厢将从每间1050日元涨到5000日元。",
+      "en": "Private rooms on the Shimakaze will go from 1,050 yen to 5,000 yen per room.",
+      "ruby": "「しまかぜ」の<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>は、1<ruby>部屋<rt>へや</rt></ruby>1050<ruby>円<rt>えん</rt></ruby>から5000<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "個室の料金は、およそ5倍になります。",
+      "zh": "包厢的费用将涨到大约5倍。",
+      "en": "The private room fee will become about five times higher.",
+      "ruby": "<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>の<ruby>料金<rt>りょうきん</rt></ruby>は、およそ5<ruby>倍<rt>ばい</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ふつうの運賃と特急料金は、今のまま変わりません。",
+      "zh": "普通票价和特急费用将维持现状，不会改变。",
+      "en": "Regular fares and limited express fees will stay the same as now.",
+      "ruby": "ふつうの<span class=\"vw\" data-ja=\"運賃\" data-reading=\"うんちん\" data-en=\"fare (train, bus, taxi)\"><ruby>運賃<rt>うんちん</rt></ruby></span>と<ruby>特急料金<rt>とっきゅうりょうきん</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>のまま<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "news",
+      "text": "近鉄は、働く人の給料や、車両と設備を直す費用が増えていると説明しています。",
+      "tts": "きんてつは、働く人の給料や、車両と設備を直すひようが増えていると説明しています。",
+      "zh": "近铁解释说，员工工资以及维修车辆和设备的费用正在增加。",
+      "en": "Kintetsu explains that staff wages and the costs of repairing trains and facilities are rising.",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>や、<ruby>車両<rt>しゃりょう</rt></ruby>と<ruby>設備<rt>せつび</rt></ruby>を<ruby>直す<rt>なおす</rt></ruby><span class=\"vw\" data-ja=\"費用\" data-reading=\"ひよう\" data-en=\"cost, expenses\"><ruby>費用<rt>ひよう</rt></ruby></span>が<ruby>増え<rt>ふえ</rt></ruby>ていると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、物の値段が上がる流れが、これからも続くと見ています。",
+      "zh": "此外，公司预计物价上涨的趋势今后还会持续。",
+      "en": "It also expects the trend of rising prices to continue.",
+      "ruby": "また、<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>る<ruby>流れ<rt>ながれ</rt></ruby>が、これからも<ruby>続く<rt>つづく</rt></ruby>と<ruby>見て<rt>みて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "近鉄は、このままでは今のサービスを続けるのが難しいと話しています。",
+      "tts": "きんてつは、このままでは今のサービスを続けるのが難しいと話しています。",
+      "zh": "近铁表示，照这样下去，很难继续维持现在的服务。",
+      "en": "Kintetsu says that, as things are, it would be hard to keep up its current service.",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、このままでは<ruby>今<rt>いま</rt></ruby>のサービスを<ruby>続け<rt>つづけ</rt></ruby>るのが<ruby>難しい<rt>むずかしい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げは、いつ買うきっぷからですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; 値上げする = to raise the price\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>は、いつ<ruby>買う<rt>かう</rt></ruby>きっぷからですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tickets bought from March thirteenth next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "「ひのとり」は、どことどこを結ぶ特急ですか。",
+      "ruby": "「ひのとり」は、どことどこを<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect, link; to tie\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span><ruby>特急<rt>とっきゅう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Osaka and Nagoya."
+    },
+    {
+      "speaker": "slow",
+      "text": "「しまかぜ」の個室は、1部屋いくらになりますか。",
+      "tts": "「しまかぜ」の個室は、ひとへやいくらになりますか。",
+      "ruby": "「しまかぜ」の<span class=\"vw\" data-ja=\"個室\" data-reading=\"こしつ\" data-en=\"private room\"><ruby>個室<rt>こしつ</rt></ruby></span>は、1<ruby>部屋<rt>へや</rt></ruby>いくらになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five thousand yen per room."
+    },
+    {
+      "speaker": "slow",
+      "text": "変わらない料金は、何ですか。",
+      "ruby": "<ruby>変わ<rt>かわ</rt></ruby>らない<ruby>料金<rt>りょうきん</rt></ruby>は、<ruby>何<rt>なん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Regular fares and express fees."
+    },
+    {
+      "speaker": "slow",
+      "text": "近鉄は、何が増えていると説明していますか。",
+      "tts": "きんてつは、何が増えていると説明していますか。",
+      "ruby": "<ruby>近鉄<rt>きんてつ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ていると<ruby>説明し<rt>せつめいし</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Staff pay and the cost of repairing trains and facilities."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "値上げ",
+      "reading": "ねあげ",
+      "en": "price increase; 値上げする = to raise the price",
+      "zh": "涨价"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; 発表する = to announce",
+      "zh": "发表，宣布"
+    },
+    {
+      "ja": "対象",
+      "reading": "たいしょう",
+      "en": "target; what something applies to",
+      "zh": "对象，适用范围"
+    },
+    {
+      "ja": "結ぶ",
+      "reading": "むすぶ",
+      "en": "to connect, link; to tie",
+      "zh": "连接；系，结"
+    },
+    {
+      "ja": "ゆったり",
+      "reading": "ゆったり",
+      "en": "roomy, relaxed, comfortable",
+      "zh": "宽敞舒适，从容"
+    },
+    {
+      "ja": "個室",
+      "reading": "こしつ",
+      "en": "private room",
+      "zh": "包厢，单间"
+    },
+    {
+      "ja": "運賃",
+      "reading": "うんちん",
+      "en": "fare (train, bus, taxi)",
+      "zh": "车费，票价"
+    },
+    {
+      "ja": "費用",
+      "reading": "ひよう",
+      "en": "cost, expenses",
+      "zh": "费用"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と発表しました",
+      "meaning": "announced that ~",
+      "meaningZh": "宣布……",
+      "formation": "Plain form + と発表しました",
+      "example": "近鉄は、特急の特別な車両の料金を、値上げすると発表しました。",
+      "translation": "Kintetsu announced it will raise the fees for special cars on its limited express trains.",
+      "note": "A common news pattern for reporting what a company or government announced.",
+      "noteZh": "新闻中常用，表示公司或政府宣布的内容。",
+      "level": "N4"
+    },
+    {
+      "pattern": "AからBになる",
+      "meaning": "to go from A to B",
+      "meaningZh": "从A变成B",
+      "formation": "Noun + から + Noun + になる",
+      "example": "「しまかぜ」の個室は、1部屋1050円から5000円になります。",
+      "translation": "Private rooms on the Shimakaze will go from 1,050 yen to 5,000 yen per room.",
+      "note": "Shows a change from one amount or state to another. AからBに上がる is used for a rise.",
+      "noteZh": "表示从一种数量或状态变为另一种。上涨时也可说AからBに上がる。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことで人気があります",
+      "meaning": "popular because ~",
+      "meaningZh": "因……而受欢迎",
+      "formation": "Plain form + ことで人気があります",
+      "example": "どちらも、席が広くて、ゆったり座れることで人気があります。",
+      "translation": "Both are popular because the seats are wide and you can sit comfortably.",
+      "note": "〜ことで gives the reason or feature something is known for.",
+      "noteZh": "〜ことで表示受欢迎的原因或特点。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜のが難しい",
+      "meaning": "it is hard to ~",
+      "meaningZh": "……很难",
+      "formation": "Verb dictionary form + のが難しい",
+      "example": "このままでは今のサービスを続けるのが難しいと話しています。",
+      "translation": "It says that, as things are, it would be hard to keep up its current service.",
+      "note": "の turns the verb into a noun phrase so it can take an adjective like 難しい.",
+      "noteZh": "の把动词名词化，后接難しい等形容词。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と見ています",
+      "meaning": "expects / thinks that ~",
+      "meaningZh": "预计……，认为……",
+      "formation": "Plain form + と見ています",
+      "example": "物の値段が上がる流れが、これからも続くと見ています。",
+      "translation": "It expects the trend of rising prices to continue.",
+      "note": "News style for an outlook or forecast; softer than 考えています.",
+      "noteZh": "新闻用语，表示预测或看法。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "関西と名古屋を走る鉄道会社の近鉄は、特急の特別な車両の料金を、値上げすると発表しました。\n连接关西和名古屋的铁路公司近铁宣布，将上调特急列车特别车厢的费用。\n値上げ（ねあげ）= 涨价\n発表（はっぴょう）= 发表，宣布",
+    "値上げは、来年の3月13日に買うきっぷからです。\n涨价从明年3月13日购买的车票开始实行。",
+    "対象は、「ひのとり」のプレミアム車両や、観光特急「しまかぜ」などです。\n涨价对象包括“火之鸟”的高级车厢和观光特急“岛风”等。\n対象（たいしょう）= 对象，适用范围",
+    "「ひのとり」は、大阪と名古屋を結ぶ特急です。\n“火之鸟”是连接大阪和名古屋的特急列车。\n結ぶ（むすぶ）= 连接；系，结",
+    "「しまかぜ」は、大阪や名古屋などから、伊勢志摩へ行く観光特急です。\n“岛风”是从大阪、名古屋等地开往伊势志摩的观光特急列车。",
+    "どちらも、席が広くて、ゆったり座れることで人気があります。\n两者都因座位宽敞、坐得舒适而很受欢迎。\nゆったり（ゆったり）= 宽敞舒适，从容",
+    "大阪難波と近鉄名古屋の間では、「ひのとり」のプレミアム車両の料金が、900円から1500円になります。\n在大阪难波和近铁名古屋之间，“火之鸟”高级车厢的费用将从900日元涨到1500日元。",
+    "大阪難波と賢島の間の「しまかぜ」は、1050円から1900円に上がります。\n大阪难波至贤岛之间的“岛风”将从1050日元涨到1900日元。",
+    "「しまかぜ」の個室は、1部屋1050円から5000円になります。\n“岛风”的包厢将从每间1050日元涨到5000日元。\n個室（こしつ）= 包厢，单间",
+    "個室の料金は、およそ5倍になります。\n包厢的费用将涨到大约5倍。",
+    "ふつうの運賃と特急料金は、今のまま変わりません。\n普通票价和特急费用将维持现状，不会改变。\n運賃（うんちん）= 车费，票价",
+    "近鉄は、働く人の給料や、車両と設備を直す費用が増えていると説明しています。\n近铁解释说，员工工资以及维修车辆和设备的费用正在增加。\n費用（ひよう）= 费用",
+    "また、物の値段が上がる流れが、これからも続くと見ています。\n此外，公司预计物价上涨的趋势今后还会持续。",
+    "近鉄は、このままでは今のサービスを続けるのが難しいと話しています。\n近铁表示，照这样下去，很难继续维持现在的服务。"
+  ]
+}
