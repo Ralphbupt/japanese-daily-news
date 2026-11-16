@@ -69,7 +69,7 @@ Self-check before running the pipeline (as jpnotes.dev reviews its listening ite
 - Quiz: each question is answered clearly in the news (a learner who followed the story can answer), has exactly one right answer, and uses words from the episode.
 4. Full news replay (same `news` segments)
 5. Quiz: `slow` question → `host` English answer
-6. Host closing + `news` "また明日。"
+6. Host closing, exactly: "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow." — then `news` "また明日。" (the follow ask grows Spotify followers, which drive its home-feed recommendations)
 
 Target duration: ~7:30–8:00. Prioritize Japanese content over host commentary.
 

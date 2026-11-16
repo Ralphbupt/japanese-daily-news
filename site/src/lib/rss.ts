@@ -46,6 +46,16 @@ function showNotesJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
   return html.replace(/]]>/g, ']]&gt;');
 }
 
+// Main-show item title: the Japanese headline, then the English one and the level, so
+// listeners who search in English ("easy Japanese news N4") find the episode on Spotify,
+// where search is the largest source of impressions (2026-11).
+function mainTitle(ep: ReturnType<typeof getAllEpisodes>[number]): string {
+  let t = `EP ${ep.paddedNum}: ${ep.title}`;
+  if (ep.titleEn) t += ` | ${ep.titleEn}`;
+  if (ep.level) t += ` (JLPT ${ep.level})`;
+  return t;
+}
+
 function hookJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
   return ep.summary.replace(/\.$/, '');
 }
@@ -67,8 +77,8 @@ function rfcDate(d: string, level: string): string {
 
 const SHOW_TEXT: Record<Channel, { description: string; summary: string }> = {
   main: {
-    description: 'Learn Japanese through real news stories. Daily episodes with native audio, vocabulary breakdown, and grammar review.',
-    summary: 'A daily Japanese news podcast for learners. Each episode covers a real news story with vocabulary breakdowns, grammar notes, and practice quizzes. Hosted by Maya.',
+    description: 'Easy Japanese listening practice with real news, every day. Two short episodes a day for JLPT N5–N3 learners: Japanese news read by a native voice, a slow sentence-by-sentence breakdown in English, key vocabulary and grammar, and a quick quiz. Learn Japanese on your commute.',
+    summary: 'Easy Japanese listening practice with real news, every day. Two short episodes a day for JLPT N5–N3 learners: Japanese news read by a native voice, a slow sentence-by-sentence breakdown in English, key vocabulary and grammar, and a quick quiz. Hosted by Maya. Transcripts with furigana at podcast.jpnotes.dev.',
   },
   nihongo: {
     description: 'JLPT N3〜N2の学習者のための、全部日本語のニュース番組です。本物のニュースを聞いて、やさしい日本語の解説を聞いて、もう一度ニュースを聞きます。',
@@ -97,7 +107,7 @@ export function buildRss(channel: Channel): Response {
     const durationSec = lastSeg ? Math.round(lastSeg.end + 2) : 0;
 
     return `    <item>
-      <title>${escapeXml(channel === 'nihongo' ? ep.title : `EP ${ep.paddedNum}: ${ep.title}`)}</title>
+      <title>${escapeXml(channel === 'nihongo' ? ep.title : mainTitle(ep))}</title>
       <link>${link}/</link>
       <guid isPermaLink="true">${link}</guid>
       <pubDate>${rfcDate(ep.date, ep.level)}</pubDate>

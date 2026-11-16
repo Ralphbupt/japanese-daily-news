@@ -76,7 +76,8 @@ Steps:
    wording. NEVER fabricate news.
 3. Write scripts/epNNN.json per the Script Format and ALL Critical rules:
    host (Maya) has ZERO Japanese characters and ZERO romaji; 9-10 news segments;
-   breakdown; full replay; quiz; closing. Follow CLAUDE.md's "Vocab selection"
+   breakdown; full replay; quiz; closing (the host closing line is exactly
+   "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."). Follow CLAUDE.md's "Vocab selection"
    rules: no proper nouns, numbers or too-basic words, and a sentence with
    nothing worth teaching gets no vocab segment — never pad to a quota.
    Follow "Writing for the ear" (no long lists of names; uncommon place/person
