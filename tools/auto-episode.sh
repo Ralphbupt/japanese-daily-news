@@ -111,6 +111,9 @@ Steps:
 Only ADD the new episode. Do NOT modify other episodes or bump their
 contentVersion. Keep host commentary concise. If validate fails, fix and re-run
 until it passes before committing.
+Run EVERY command in the foreground and wait for it to finish (audio generation takes
+several minutes — pass a long Bash timeout, e.g. 1200000 ms). NEVER use background
+tasks: this is a one-shot headless run, and it ends as soon as you stop to wait.
 $DRYLINE
 EOF
 
@@ -159,12 +162,17 @@ Steps:
    (Cloudflare Pages auto-deploys on push.)
 
 Only ADD the new episode. Do NOT modify other episodes.
+Run EVERY command in the foreground and wait for it to finish (audio generation takes
+several minutes — pass a long Bash timeout, e.g. 1200000 ms). NEVER use background
+tasks: this is a one-shot headless run, and it ends as soon as you stop to wait.
 $DRYLINE
 EOF
 fi
 
 echo "[$STAMP] level=$LEVEL dry=${JDN_DRY:-0} -> $LOG"
 RC=0
+CLAUDE_CODE_DISABLE_BACKGROUND_TASKS=1 \
+BASH_DEFAULT_TIMEOUT_MS=1200000 BASH_MAX_TIMEOUT_MS=1800000 \
 claude -p "$PROMPT" \
   --model claude-opus-5-5 \
   --dangerously-skip-permissions \
