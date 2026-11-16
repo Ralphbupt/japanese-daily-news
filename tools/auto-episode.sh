@@ -68,7 +68,9 @@ Steps:
 1. Next id: list scripts/ep*.json, take the highest NNN, add 1, zero-pad (e.g. ep039).
 2. Find a REAL, recent (last few days) Japanese news story with WebSearch
    (fall back to WebFetch of NHK / NHK NEWS WEB EASY / major outlets). Pick one
-   suitable for the level. Then dedupe against ALL past episodes: run
+   suitable for the level. Choose by what listeners play most (see "Story choice" in
+   CLAUDE.md): a story that touches daily life in Japan or that a learner or
+   visitor would care about beats politics, personnel and sports results. Then dedupe against ALL past episodes: run
      grep -h '"title"' scripts/ep*.json
    to list every previous title (they are short one-line headlines) and AVOID
    any story already covered in ANY earlier episode, not just recent ones —

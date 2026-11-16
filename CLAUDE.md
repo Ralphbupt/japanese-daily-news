@@ -53,6 +53,8 @@ Episode structure:
 2. Full news (9-10 `news` segments — longer article with more detail)
 3. Breakdown: `slow` sentence → `host` translation → (optional) `vocab` word → `host` explanation (1-2 sentences max, no verbose transitions)
 
+Story choice (from Spotify/Apple numbers, 2026-11): pick what a learner or visitor would want to hear about. Best: daily life and money (prices, taxes, new rules), trains and transport (ep277 gates, ep278 Romancecar), weather and disasters (typhoons, earthquakes), scams and data leaks, animals and zoos, culture, festivals and seasons, anime/games/films. Weakest: politics and personnel changes, sports results, corporate finance — use them only for very big news. Never trade accuracy for appeal.
+
 Vocab selection — quality over quantity. A sentence with nothing worth teaching gets NO vocab (just `slow` → `host` translation). Never pad to fill a quota; 4-8 good words per episode beats 14 filler ones.
 - DO pick: verbs, adjectives, adverbs, set expressions and common nouns a learner at this episode's `level` doesn't know yet but will meet again (e.g. 降る, 急に, 気温, みぞれ, いつもの年).
 - DON'T pick: proper nouns — place, person, company or event names (北海道, 本州, 札幌, トヨタ); plain numbers/counters/dates (7つ, 10月28日); katakana loanwords whose meaning is obvious (ニュース); words clearly below the level (山, 白い, 早い, 同じ in an N4-N3 episode — and the most basic ones like 山 even at N5-N4).
