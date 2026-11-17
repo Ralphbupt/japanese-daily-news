@@ -1,0 +1,677 @@
+{
+  "episode": 290,
+  "title": "ドコモの「5G SA」で通信障害、今月3回目",
+  "titleZh": "NTT DOCOMO“5G SA”又出故障，本月第3次",
+  "titleEn": "Docomo's 5G network goes down for the third time this month",
+  "date": "2026-11-17",
+  "source": "ITmedia / ケータイ Watch / Yahoo!ニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026111701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November seventeenth: one of Japan's biggest mobile networks went down for the third time this month. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "NTTドコモの携帯電話で、16日、大きな通信障害が起きました。",
+      "zh": "NTT DOCOMO的手机网络16日发生了大规模通信故障。",
+      "en": "A major network outage hit NTT Docomo mobile phones on the 16th.",
+      "ruby": "NTTドコモの<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で、16<ruby>日<rt>にち</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<ruby>通信障害<rt>つうしんしょうがい</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "障害が起きたのは、「5G SA」という新しいサービスを使っている人たちです。",
+      "tts": "障害が起きたのは、「ファイブジー エスエー」という新しいサービスを使っている人たちです。",
+      "zh": "受影响的是使用名为“5G SA”的新服务的用户。",
+      "en": "It affected people using a new service called 5G SA.",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たのは、「5G SA」という<ruby>新しい<rt>あたらしい</rt></ruby>サービスを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>たちです。"
+    },
+    {
+      "speaker": "news",
+      "text": "午前10時ごろから、電話やインターネットが使いにくくなりました。",
+      "zh": "从上午10点左右开始，电话和上网变得难以使用。",
+      "en": "From around 10 a.m., phone calls and the internet became hard to use.",
+      "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>ごろから、<ruby>電話<rt>でんわ</rt></ruby>やインターネットが<ruby>使い<rt>つかい</rt></ruby>にくくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "メッセージを送ることも、難しくなりました。",
+      "zh": "发送短信也变得困难。",
+      "en": "Sending text messages also became difficult.",
+      "ruby": "メッセージを<ruby>送る<rt>おくる</rt></ruby>ことも、<ruby>難しく<rt>むずかしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンの画面に、「圏外」と表示された人もいました。",
+      "zh": "有些人的手机屏幕上显示“无信号”。",
+      "en": "Some people's smartphone screens showed \"no service.\"",
+      "ruby": "スマートフォンの<ruby>画面<rt>がめん</rt></ruby>に、「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range; no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」と<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; 表示される = to be shown\"><ruby>表示さ<rt>ひょうじさ</rt></ruby></span>れた<ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "障害は全国で起きて、すべて直ったのは午後4時ごろでした。",
+      "zh": "故障发生在全国各地，直到下午4点左右才全部恢复。",
+      "en": "The outage happened nationwide, and it was fully fixed at around 4 p.m.",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>て、すべて<ruby>直っ<rt>なおっ</rt></ruby>たのは<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>ごろでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "4Gや、ふつうの5Gを使っている人には、影響はありませんでした。",
+      "tts": "フォージーや、ふつうのファイブジーを使っている人には、影響はありませんでした。",
+      "zh": "使用4G或普通5G的用户没有受到影响。",
+      "en": "People using 4G or regular 5G were not affected.",
+      "ruby": "4Gや、ふつうの5Gを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>には、<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; influence\"><ruby>影響<rt>えいきょう</rt></ruby></span>はありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモの「5G SA」で障害が起きたのは、今月に入って3回目です。",
+      "tts": "ドコモの「ファイブジー エスエー」で障害が起きたのは、今月に入って3回目です。",
+      "zh": "这是DOCOMO的“5G SA”本月第3次发生故障。",
+      "en": "This is the third outage on Docomo's 5G SA service this month.",
+      "ruby": "ドコモの「5G SA」で<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たのは、<ruby>今月<rt>こんげつ</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>て3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月5日の障害は、直るまでに14時間ほどかかりました。",
+      "zh": "11月5日的故障花了大约14个小时才恢复。",
+      "en": "The outage on November 5 took about 14 hours to fix.",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>の<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"直る\" data-reading=\"なおる\" data-en=\"to be fixed; to be repaired\"><ruby>直る<rt>なおる</rt></ruby></span>までに14<ruby>時間<rt>じかん</rt></ruby>ほどかかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日にも、9時間ほどつながりにくい状態が続きました。",
+      "zh": "11日也出现了约9个小时难以连接的状况。",
+      "en": "On the 11th, too, connections were poor for about 9 hours.",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>にも、9<ruby>時間<rt>じかん</rt></ruby>ほどつながりにくい<span class=\"vw\" data-ja=\"状態\" data-reading=\"じょうたい\" data-en=\"state; condition\"><ruby>状態<rt>じょうたい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモによりますと、サイバー攻撃を受けたようすはないということです。",
+      "zh": "据DOCOMO称，没有发现遭到网络攻击的迹象。",
+      "en": "According to Docomo, there are no signs of a cyberattack.",
+      "ruby": "ドコモによりますと、サイバー<ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たようすはないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモは、つながらない場合は、設定で「4G」を選ぶと、使えることがあると話しています。",
+      "tts": "ドコモは、つながらない場合は、設定で「フォージー」を選ぶと、使えることがあると話しています。",
+      "zh": "DOCOMO表示，无法连接时，在设置中选择“4G”，有时就能使用。",
+      "en": "Docomo says that if you can't connect, choosing 4G in your settings may let you use your phone.",
+      "ruby": "ドコモは、つながらない<ruby>場合<rt>ばあい</rt></ruby>は、<span class=\"vw\" data-ja=\"設定\" data-reading=\"せってい\" data-en=\"settings\"><ruby>設定<rt>せってい</rt></ruby></span>で「4G」を<ruby>選ぶ<rt>えらぶ</rt></ruby>と、<ruby>使え<rt>つかえ</rt></ruby>ることがあると<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンを再起動したり、機内モードをオンにしてからオフにしたりする方法もあります。",
+      "zh": "也可以重启手机，或者打开飞行模式后再关闭。",
+      "en": "You can also restart your smartphone, or turn airplane mode on and then off.",
+      "ruby": "スマートフォンを<span class=\"vw\" data-ja=\"再起動\" data-reading=\"さいきどう\" data-en=\"restart (a device)\"><ruby>再起動<rt>さいきどう</rt></ruby></span>したり、<ruby>機内<rt>きない</rt></ruby>モードをオンにしてからオフにしたりする<ruby>方法<rt>ほうほう</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務大臣は17日、短い間に3回も障害が起きたことは、大変残念だと述べました。",
+      "zh": "总务大臣17日表示，短时间内发生3次故障，非常遗憾。",
+      "en": "On the 17th, the internal affairs minister said it was very regrettable that three outages happened in a short time.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>短い<rt>みじかい</rt></ruby><ruby>間<rt>あいだ</rt></ruby>に3<ruby>回<rt>かい</rt></ruby>も<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たことは、<ruby>大変残念<rt>たいへんざんねん</rt></ruby>だと<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、携帯電話は暮らしや経済を支える大切なものだと話しました。",
+      "zh": "大臣表示，手机是支撑生活和经济的重要设施。",
+      "en": "The minister said mobile phones are an important part of what supports daily life and the economy.",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>は<ruby>暮らし<rt>くらし</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>を<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support; to hold up\"><ruby>支え<rt>ささえ</rt></ruby>る</span><ruby>大切<rt>たいせつ</rt></ruby>なものだと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "NTTドコモの携帯電話で、16日、大きな通信障害が起きました。",
+      "ruby": "NTTドコモの<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で、16<ruby>日<rt>にち</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<ruby>通信障害<rt>つうしんしょうがい</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A major network outage hit one of Japan's biggest mobile phone companies on the sixteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "障害",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a problem or failure. Here, a network outage."
+    },
+    {
+      "speaker": "slow",
+      "text": "障害が起きたのは、「5G SA」という新しいサービスを使っている人たちです。",
+      "tts": "障害が起きたのは、「ファイブジー エスエー」という新しいサービスを使っている人たちです。",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たのは、「5G SA」という<ruby>新しい<rt>あたらしい</rt></ruby>サービスを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>たちです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It affected people using a new type of five G service."
+    },
+    {
+      "speaker": "slow",
+      "text": "午前10時ごろから、電話やインターネットが使いにくくなりました。",
+      "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>ごろから、<ruby>電話<rt>でんわ</rt></ruby>やインターネットが<ruby>使い<rt>つかい</rt></ruby>にくくなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "From around ten in the morning, calls and the internet became hard to use."
+    },
+    {
+      "speaker": "slow",
+      "text": "メッセージを送ることも、難しくなりました。",
+      "ruby": "メッセージを<ruby>送る<rt>おくる</rt></ruby>ことも、<ruby>難しく<rt>むずかしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sending text messages also became difficult."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマートフォンの画面に、「圏外」と表示された人もいました。",
+      "ruby": "スマートフォンの<ruby>画面<rt>がめん</rt></ruby>に、「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range; no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」と<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; 表示される = to be shown\"><ruby>表示さ<rt>ひょうじさ</rt></ruby></span>れた<ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some people's screens showed \"no service.\""
+    },
+    {
+      "speaker": "vocab",
+      "text": "圏外",
+      "ruby": "<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range; no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means out of range, with no signal."
+    },
+    {
+      "speaker": "vocab",
+      "text": "表示",
+      "ruby": "<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; 表示される = to be shown\"><ruby>表示<rt>ひょうじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a display. With the verb for do, to show on a screen."
+    },
+    {
+      "speaker": "slow",
+      "text": "障害は全国で起きて、すべて直ったのは午後4時ごろでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>て、すべて<ruby>直っ<rt>なおっ</rt></ruby>たのは<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>ごろでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "It happened nationwide, and was fully fixed around four in the afternoon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "直る",
+      "ruby": "<span class=\"vw\" data-ja=\"直る\" data-reading=\"なおる\" data-en=\"to be fixed; to be repaired\"><ruby>直る<rt>なおる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be fixed, or to get better."
+    },
+    {
+      "speaker": "slow",
+      "text": "4Gや、ふつうの5Gを使っている人には、影響はありませんでした。",
+      "tts": "フォージーや、ふつうのファイブジーを使っている人には、影響はありませんでした。",
+      "ruby": "4Gや、ふつうの5Gを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>には、<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; influence\"><ruby>影響<rt>えいきょう</rt></ruby></span>はありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "People on four G or regular five G were not affected."
+    },
+    {
+      "speaker": "vocab",
+      "text": "影響",
+      "ruby": "<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; influence\"><ruby>影響<rt>えいきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an effect or influence."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドコモの「5G SA」で障害が起きたのは、今月に入って3回目です。",
+      "tts": "ドコモの「ファイブジー エスエー」で障害が起きたのは、今月に入って3回目です。",
+      "ruby": "ドコモの「5G SA」で<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たのは、<ruby>今月<rt>こんげつ</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>て3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the third outage on that service this month."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月5日の障害は、直るまでに14時間ほどかかりました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>の<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"直る\" data-reading=\"なおる\" data-en=\"to be fixed; to be repaired\"><ruby>直る<rt>なおる</rt></ruby></span>までに14<ruby>時間<rt>じかん</rt></ruby>ほどかかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The one on November fifth took about fourteen hours to fix."
+    },
+    {
+      "speaker": "slow",
+      "text": "11日にも、9時間ほどつながりにくい状態が続きました。",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>にも、9<ruby>時間<rt>じかん</rt></ruby>ほどつながりにくい<span class=\"vw\" data-ja=\"状態\" data-reading=\"じょうたい\" data-en=\"state; condition\"><ruby>状態<rt>じょうたい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the eleventh, connections were poor for about nine hours."
+    },
+    {
+      "speaker": "vocab",
+      "text": "状態",
+      "ruby": "<span class=\"vw\" data-ja=\"状態\" data-reading=\"じょうたい\" data-en=\"state; condition\"><ruby>状態<rt>じょうたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a state or condition."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドコモによりますと、サイバー攻撃を受けたようすはないということです。",
+      "ruby": "ドコモによりますと、サイバー<ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たようすはないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says there are no signs of a cyberattack."
+    },
+    {
+      "speaker": "slow",
+      "text": "ドコモは、つながらない場合は、設定で「4G」を選ぶと、使えることがあると話しています。",
+      "tts": "ドコモは、つながらない場合は、設定で「フォージー」を選ぶと、使えることがあると話しています。",
+      "ruby": "ドコモは、つながらない<ruby>場合<rt>ばあい</rt></ruby>は、<span class=\"vw\" data-ja=\"設定\" data-reading=\"せってい\" data-en=\"settings\"><ruby>設定<rt>せってい</rt></ruby></span>で「4G」を<ruby>選ぶ<rt>えらぶ</rt></ruby>と、<ruby>使え<rt>つかえ</rt></ruby>ることがあると<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "If you can't connect, choosing four G in your settings may help."
+    },
+    {
+      "speaker": "vocab",
+      "text": "設定",
+      "ruby": "<span class=\"vw\" data-ja=\"設定\" data-reading=\"せってい\" data-en=\"settings\"><ruby>設定<rt>せってい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means settings, like on a phone."
+    },
+    {
+      "speaker": "slow",
+      "text": "スマートフォンを再起動したり、機内モードをオンにしてからオフにしたりする方法もあります。",
+      "ruby": "スマートフォンを<span class=\"vw\" data-ja=\"再起動\" data-reading=\"さいきどう\" data-en=\"restart (a device)\"><ruby>再起動<rt>さいきどう</rt></ruby></span>したり、<ruby>機内<rt>きない</rt></ruby>モードをオンにしてからオフにしたりする<ruby>方法<rt>ほうほう</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "You can also restart the phone, or turn airplane mode on and off."
+    },
+    {
+      "speaker": "vocab",
+      "text": "再起動",
+      "ruby": "<span class=\"vw\" data-ja=\"再起動\" data-reading=\"さいきどう\" data-en=\"restart (a device)\"><ruby>再起動<rt>さいきどう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to restart a device."
+    },
+    {
+      "speaker": "slow",
+      "text": "総務大臣は17日、短い間に3回も障害が起きたことは、大変残念だと述べました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>短い<rt>みじかい</rt></ruby><ruby>間<rt>あいだ</rt></ruby>に3<ruby>回<rt>かい</rt></ruby>も<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たことは、<ruby>大変残念<rt>たいへんざんねん</rt></ruby>だと<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The minister said three outages in a short time was very regrettable."
+    },
+    {
+      "speaker": "slow",
+      "text": "大臣は、携帯電話は暮らしや経済を支える大切なものだと話しました。",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>は<ruby>暮らし<rt>くらし</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>を<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support; to hold up\"><ruby>支え<rt>ささえ</rt></ruby>る</span><ruby>大切<rt>たいせつ</rt></ruby>なものだと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The minister added that mobile phones support daily life and the economy."
+    },
+    {
+      "speaker": "vocab",
+      "text": "支える",
+      "ruby": "<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support; to hold up\"><ruby>支え<rt>ささえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to support or hold up."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "NTTドコモの携帯電話で、16日、大きな通信障害が起きました。",
+      "zh": "NTT DOCOMO的手机网络16日发生了大规模通信故障。",
+      "en": "A major network outage hit NTT Docomo mobile phones on the 16th.",
+      "ruby": "NTTドコモの<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で、16<ruby>日<rt>にち</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<ruby>通信障害<rt>つうしんしょうがい</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "障害が起きたのは、「5G SA」という新しいサービスを使っている人たちです。",
+      "tts": "障害が起きたのは、「ファイブジー エスエー」という新しいサービスを使っている人たちです。",
+      "zh": "受影响的是使用名为“5G SA”的新服务的用户。",
+      "en": "It affected people using a new service called 5G SA.",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たのは、「5G SA」という<ruby>新しい<rt>あたらしい</rt></ruby>サービスを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>たちです。"
+    },
+    {
+      "speaker": "news",
+      "text": "午前10時ごろから、電話やインターネットが使いにくくなりました。",
+      "zh": "从上午10点左右开始，电话和上网变得难以使用。",
+      "en": "From around 10 a.m., phone calls and the internet became hard to use.",
+      "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>ごろから、<ruby>電話<rt>でんわ</rt></ruby>やインターネットが<ruby>使い<rt>つかい</rt></ruby>にくくなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "メッセージを送ることも、難しくなりました。",
+      "zh": "发送短信也变得困难。",
+      "en": "Sending text messages also became difficult.",
+      "ruby": "メッセージを<ruby>送る<rt>おくる</rt></ruby>ことも、<ruby>難しく<rt>むずかしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンの画面に、「圏外」と表示された人もいました。",
+      "zh": "有些人的手机屏幕上显示“无信号”。",
+      "en": "Some people's smartphone screens showed \"no service.\"",
+      "ruby": "スマートフォンの<ruby>画面<rt>がめん</rt></ruby>に、「<span class=\"vw\" data-ja=\"圏外\" data-reading=\"けんがい\" data-en=\"out of range; no signal\"><ruby>圏外<rt>けんがい</rt></ruby></span>」と<span class=\"vw\" data-ja=\"表示\" data-reading=\"ひょうじ\" data-en=\"display; 表示される = to be shown\"><ruby>表示さ<rt>ひょうじさ</rt></ruby></span>れた<ruby>人<rt>ひと</rt></ruby>もいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "障害は全国で起きて、すべて直ったのは午後4時ごろでした。",
+      "zh": "故障发生在全国各地，直到下午4点左右才全部恢复。",
+      "en": "The outage happened nationwide, and it was fully fixed at around 4 p.m.",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>て、すべて<ruby>直っ<rt>なおっ</rt></ruby>たのは<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>ごろでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "4Gや、ふつうの5Gを使っている人には、影響はありませんでした。",
+      "tts": "フォージーや、ふつうのファイブジーを使っている人には、影響はありませんでした。",
+      "zh": "使用4G或普通5G的用户没有受到影响。",
+      "en": "People using 4G or regular 5G were not affected.",
+      "ruby": "4Gや、ふつうの5Gを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>には、<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; influence\"><ruby>影響<rt>えいきょう</rt></ruby></span>はありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモの「5G SA」で障害が起きたのは、今月に入って3回目です。",
+      "tts": "ドコモの「ファイブジー エスエー」で障害が起きたのは、今月に入って3回目です。",
+      "zh": "这是DOCOMO的“5G SA”本月第3次发生故障。",
+      "en": "This is the third outage on Docomo's 5G SA service this month.",
+      "ruby": "ドコモの「5G SA」で<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たのは、<ruby>今月<rt>こんげつ</rt></ruby>に<ruby>入っ<rt>はいっ</rt></ruby>て3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月5日の障害は、直るまでに14時間ほどかかりました。",
+      "zh": "11月5日的故障花了大约14个小时才恢复。",
+      "en": "The outage on November 5 took about 14 hours to fix.",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>の<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"直る\" data-reading=\"なおる\" data-en=\"to be fixed; to be repaired\"><ruby>直る<rt>なおる</rt></ruby></span>までに14<ruby>時間<rt>じかん</rt></ruby>ほどかかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "11日にも、9時間ほどつながりにくい状態が続きました。",
+      "zh": "11日也出现了约9个小时难以连接的状况。",
+      "en": "On the 11th, too, connections were poor for about 9 hours.",
+      "ruby": "11<ruby>日<rt>にち</rt></ruby>にも、9<ruby>時間<rt>じかん</rt></ruby>ほどつながりにくい<span class=\"vw\" data-ja=\"状態\" data-reading=\"じょうたい\" data-en=\"state; condition\"><ruby>状態<rt>じょうたい</rt></ruby></span>が<ruby>続き<rt>つづき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモによりますと、サイバー攻撃を受けたようすはないということです。",
+      "zh": "据DOCOMO称，没有发现遭到网络攻击的迹象。",
+      "en": "According to Docomo, there are no signs of a cyberattack.",
+      "ruby": "ドコモによりますと、サイバー<ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>たようすはないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ドコモは、つながらない場合は、設定で「4G」を選ぶと、使えることがあると話しています。",
+      "tts": "ドコモは、つながらない場合は、設定で「フォージー」を選ぶと、使えることがあると話しています。",
+      "zh": "DOCOMO表示，无法连接时，在设置中选择“4G”，有时就能使用。",
+      "en": "Docomo says that if you can't connect, choosing 4G in your settings may let you use your phone.",
+      "ruby": "ドコモは、つながらない<ruby>場合<rt>ばあい</rt></ruby>は、<span class=\"vw\" data-ja=\"設定\" data-reading=\"せってい\" data-en=\"settings\"><ruby>設定<rt>せってい</rt></ruby></span>で「4G」を<ruby>選ぶ<rt>えらぶ</rt></ruby>と、<ruby>使え<rt>つかえ</rt></ruby>ることがあると<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "スマートフォンを再起動したり、機内モードをオンにしてからオフにしたりする方法もあります。",
+      "zh": "也可以重启手机，或者打开飞行模式后再关闭。",
+      "en": "You can also restart your smartphone, or turn airplane mode on and then off.",
+      "ruby": "スマートフォンを<span class=\"vw\" data-ja=\"再起動\" data-reading=\"さいきどう\" data-en=\"restart (a device)\"><ruby>再起動<rt>さいきどう</rt></ruby></span>したり、<ruby>機内<rt>きない</rt></ruby>モードをオンにしてからオフにしたりする<ruby>方法<rt>ほうほう</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務大臣は17日、短い間に3回も障害が起きたことは、大変残念だと述べました。",
+      "zh": "总务大臣17日表示，短时间内发生3次故障，非常遗憾。",
+      "en": "On the 17th, the internal affairs minister said it was very regrettable that three outages happened in a short time.",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>短い<rt>みじかい</rt></ruby><ruby>間<rt>あいだ</rt></ruby>に3<ruby>回<rt>かい</rt></ruby>も<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>起き<rt>おき</rt></ruby>たことは、<ruby>大変残念<rt>たいへんざんねん</rt></ruby>だと<ruby>述べ<rt>のべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大臣は、携帯電話は暮らしや経済を支える大切なものだと話しました。",
+      "zh": "大臣表示，手机是支撑生活和经济的重要设施。",
+      "en": "The minister said mobile phones are an important part of what supports daily life and the economy.",
+      "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>は、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>は<ruby>暮らし<rt>くらし</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>を<span class=\"vw\" data-ja=\"支える\" data-reading=\"ささえる\" data-en=\"to support; to hold up\"><ruby>支え<rt>ささえ</rt></ruby>る</span><ruby>大切<rt>たいせつ</rt></ruby>なものだと<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "障害は、何時ごろから起きましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は、<ruby>何時<rt>なんじ</rt></ruby>ごろから<ruby>起き<rt>おき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around ten in the morning."
+    },
+    {
+      "speaker": "slow",
+      "text": "影響がなかったのは、どんな人ですか。",
+      "ruby": "<span class=\"vw\" data-ja=\"影響\" data-reading=\"えいきょう\" data-en=\"effect; influence\"><ruby>影響<rt>えいきょう</rt></ruby></span>がなかったのは、どんな<ruby>人<rt>ひと</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "People using four G or regular five G."
+    },
+    {
+      "speaker": "slow",
+      "text": "「5G SA」の障害は、今月何回目ですか。",
+      "tts": "「ファイブジー エスエー」の障害は、今月何回目ですか。",
+      "ruby": "「5G SA」の<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>何回目<rt>なんかいめ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The third time."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月5日の障害は、直るまでにどのくらいかかりましたか。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby><ruby>5日<rt>いつか</rt></ruby>の<span class=\"vw\" data-ja=\"障害\" data-reading=\"しょうがい\" data-en=\"failure; outage (通信障害 = network outage)\"><ruby>障害<rt>しょうがい</rt></ruby></span>は、<span class=\"vw\" data-ja=\"直る\" data-reading=\"なおる\" data-en=\"to be fixed; to be repaired\"><ruby>直る<rt>なおる</rt></ruby></span>までにどのくらいかかりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About fourteen hours."
+    },
+    {
+      "speaker": "slow",
+      "text": "つながらないとき、設定で何を選ぶといいですか。",
+      "ruby": "つながらないとき、<span class=\"vw\" data-ja=\"設定\" data-reading=\"せってい\" data-en=\"settings\"><ruby>設定<rt>せってい</rt></ruby></span>で<ruby>何を<rt>なにを</rt></ruby><ruby>選ぶ<rt>えらぶ</rt></ruby>といいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four G."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "障害",
+      "reading": "しょうがい",
+      "en": "failure; outage (通信障害 = network outage)",
+      "zh": "故障，障碍"
+    },
+    {
+      "ja": "圏外",
+      "reading": "けんがい",
+      "en": "out of range; no signal",
+      "zh": "无信号，不在服务区"
+    },
+    {
+      "ja": "表示",
+      "reading": "ひょうじ",
+      "en": "display; 表示される = to be shown",
+      "zh": "显示"
+    },
+    {
+      "ja": "直る",
+      "reading": "なおる",
+      "en": "to be fixed; to be repaired",
+      "zh": "修好，恢复"
+    },
+    {
+      "ja": "影響",
+      "reading": "えいきょう",
+      "en": "effect; influence",
+      "zh": "影响"
+    },
+    {
+      "ja": "状態",
+      "reading": "じょうたい",
+      "en": "state; condition",
+      "zh": "状态"
+    },
+    {
+      "ja": "設定",
+      "reading": "せってい",
+      "en": "settings",
+      "zh": "设置"
+    },
+    {
+      "ja": "再起動",
+      "reading": "さいきどう",
+      "en": "restart (a device)",
+      "zh": "重启"
+    },
+    {
+      "ja": "支える",
+      "reading": "ささえる",
+      "en": "to support; to hold up",
+      "zh": "支撑，支持"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜にくくなる",
+      "meaning": "to become hard to ~",
+      "meaningZh": "变得难以……",
+      "formation": "Verb stem + にくくなる",
+      "example": "午前10時ごろから、電話やインターネットが使いにくくなりました。",
+      "translation": "From around 10 a.m., phone calls and the internet became hard to use.",
+      "note": "〜にくい means \"hard to do\"; with なる it describes a change.",
+      "noteZh": "〜にくい表示“难以……”，加上なる表示状态的变化。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜までに",
+      "meaning": "by ~; before ~ (until something is done)",
+      "meaningZh": "到……为止，在……之前",
+      "formation": "Verb dictionary form / Noun + までに",
+      "example": "11月5日の障害は、直るまでに14時間ほどかかりました。",
+      "translation": "The outage on November 5 took about 14 hours to fix.",
+      "note": "With かかる, it tells how long it took until something happened.",
+      "noteZh": "和かかる一起用，表示到某事完成为止花了多长时间。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜によりますと、〜ということです",
+      "meaning": "according to ~, it is said that ~",
+      "meaningZh": "据……称，……",
+      "formation": "Noun + によりますと、Plain form + ということです",
+      "example": "ドコモによりますと、サイバー攻撃を受けたようすはないということです。",
+      "translation": "According to Docomo, there are no signs of a cyberattack.",
+      "note": "A set pair in news for reporting what a source said.",
+      "noteZh": "新闻中常用的固定搭配，用于转述消息来源的说法。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ことがある",
+      "meaning": "sometimes ~; there are cases where ~",
+      "meaningZh": "有时会……",
+      "formation": "Verb dictionary form + ことがある",
+      "example": "設定で「4G」を選ぶと、使えることがあると話しています。",
+      "translation": "Choosing 4G in your settings may let you use your phone.",
+      "note": "With the dictionary form it means \"sometimes\"; with the た-form it means \"have done before\".",
+      "noteZh": "接辞书形表示“有时会”，接た形表示“曾经做过”。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜たり〜たりする",
+      "meaning": "do things like ~ and ~",
+      "meaningZh": "又……又……，……或……",
+      "formation": "Verb た-form + り, Verb た-form + り + する",
+      "example": "スマートフォンを再起動したり、機内モードをオンにしてからオフにしたりする方法もあります。",
+      "translation": "You can also restart your smartphone, or turn airplane mode on and then off.",
+      "note": "Lists a few example actions, not all of them.",
+      "noteZh": "列举几个动作作为例子，并非全部。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "NTTドコモの携帯電話で、16日、大きな通信障害が起きました。\nNTT DOCOMO的手机网络16日发生了大规模通信故障。\n障害（しょうがい）= 故障\n起きる（おきる）= 发生",
+    "障害が起きたのは、「5G SA」という新しいサービスを使っている人たちです。\n受影响的是使用名为“5G SA”的新服务的用户。\nサービス = 服务",
+    "午前10時ごろから、電話やインターネットが使いにくくなりました。\n从上午10点左右开始，电话和上网变得难以使用。\n使いにくい（つかいにくい）= 难用",
+    "メッセージを送ることも、難しくなりました。\n发送短信也变得困难。\n難しい（むずかしい）= 困难",
+    "スマートフォンの画面に、「圏外」と表示された人もいました。\n有些人的手机屏幕上显示“无信号”。\n圏外（けんがい）= 无信号\n表示（ひょうじ）= 显示",
+    "障害は全国で起きて、すべて直ったのは午後4時ごろでした。\n故障发生在全国各地，直到下午4点左右才全部恢复。\n全国（ぜんこく）= 全国\n直る（なおる）= 修好，恢复",
+    "4Gや、ふつうの5Gを使っている人には、影響はありませんでした。\n使用4G或普通5G的用户没有受到影响。\n影響（えいきょう）= 影响",
+    "ドコモの「5G SA」で障害が起きたのは、今月に入って3回目です。\n这是DOCOMO的“5G SA”本月第3次发生故障。\n今月に入って = 进入本月以来",
+    "11月5日の障害は、直るまでに14時間ほどかかりました。\n11月5日的故障花了大约14个小时才恢复。\n〜までに = 到……为止\nかかる = 花费（时间）",
+    "11日にも、9時間ほどつながりにくい状態が続きました。\n11日也出现了约9个小时难以连接的状况。\n状態（じょうたい）= 状态\n続く（つづく）= 持续",
+    "ドコモによりますと、サイバー攻撃を受けたようすはないということです。\n据DOCOMO称，没有发现遭到网络攻击的迹象。\n攻撃（こうげき）= 攻击\n〜ということです = 据说",
+    "ドコモは、つながらない場合は、設定で「4G」を選ぶと、使えることがあると話しています。\nDOCOMO表示，无法连接时，在设置中选择“4G”，有时就能使用。\n設定（せってい）= 设置\n場合（ばあい）= 情况",
+    "スマートフォンを再起動したり、機内モードをオンにしてからオフにしたりする方法もあります。\n也可以重启手机，或者打开飞行模式后再关闭。\n再起動（さいきどう）= 重启\n機内モード（きないモード）= 飞行模式",
+    "総務大臣は17日、短い間に3回も障害が起きたことは、大変残念だと述べました。\n总务大臣17日表示，短时间内发生3次故障，非常遗憾。\n大臣（だいじん）= 大臣\n述べる（のべる）= 陈述",
+    "大臣は、携帯電話は暮らしや経済を支える大切なものだと話しました。\n大臣表示，手机是支撑生活和经济的重要设施。\n暮らし（くらし）= 生活\n支える（ささえる）= 支撑"
+  ]
+}
