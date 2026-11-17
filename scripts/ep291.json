@@ -1,0 +1,528 @@
+{
+  "episode": 291,
+  "title": "東京・葛飾区の住宅街に野生のシカ、角は1本",
+  "titleZh": "东京葛饰区住宅区出现野生鹿",
+  "titleEn": "A wild deer wanders into a Tokyo neighborhood",
+  "date": "2026-11-18",
+  "source": "毎日新聞 / ABEMA TIMES / J-CAST ニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026111801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November eighteenth: a surprise visitor in a quiet Tokyo neighborhood. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "11月17日の朝、東京の葛飾区で、野生のシカが見つかりました。",
+      "tts": "じゅういちがつじゅうしちにちの朝、東京のかつしかくで、野生のシカが見つかりました。",
+      "zh": "11月17日早上，在东京葛饰区发现了一头野生鹿。",
+      "en": "On the morning of November 17th, a wild deer was found in Katsushika Ward, Tokyo.",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>で、<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild (animal or plant)\"><ruby>野生<rt>やせい</rt></ruby></span>のシカが<ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝7時半ごろ、駅の近くの住宅街で、シカを見た人がいました。",
+      "tts": "朝しちじはんごろ、駅の近くの住宅街で、シカを見た人がいました。",
+      "zh": "早上7点半左右，有人在车站附近的住宅区看到了鹿。",
+      "en": "Around 7:30 a.m., someone saw the deer in a residential area near a train station.",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>7<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"住宅街\" data-reading=\"じゅうたくがい\" data-en=\"residential area\"><ruby>住宅街<rt>じゅうたくがい</rt></ruby></span>で、シカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大人のシカで、角は1本だけでした。",
+      "tts": "大人のシカで、角はいっぽんだけでした。",
+      "zh": "那是一头成年鹿，只有1只角。",
+      "en": "It was an adult deer, with only 1 antler.",
+      "ruby": "<ruby>大人<rt>おとな</rt></ruby>のシカで、<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>は1<ruby>本<rt>ほん</rt></ruby>だけでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "9時すぎには、近くの畑にシカがいました。",
+      "tts": "くじすぎには、近くの畑にシカがいました。",
+      "zh": "9点多，鹿出现在附近的田地里。",
+      "en": "A little after 9, the deer was in a nearby field.",
+      "ruby": "9<ruby>時<rt>じ</rt></ruby>すぎには、<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"畑\" data-reading=\"はたけ\" data-en=\"field (for crops)\"><ruby>畑<rt>はたけ</rt></ruby></span>にシカがいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "区は、「シカを見ても、近づかないでください」と言いました。",
+      "zh": "区政府提醒说：“即使看到鹿，也请不要靠近。”",
+      "en": "The ward said, \"Even if you see the deer, please do not go near it.\"",
+      "ruby": "<ruby>区<rt>く</rt></ruby>は、「シカを<ruby>見て<rt>みて</rt></ruby>も、<ruby>近づ<rt>ちかづ</rt></ruby>かないでください」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後2時半ごろ、専門の人が、シカを眠らせる薬を使いました。",
+      "tts": "午後にじはんごろ、専門の人が、シカを眠らせる薬を使いました。",
+      "zh": "下午2点半左右，专业人员使用了让鹿睡着的药。",
+      "en": "Around 2:30 p.m., specialists used a drug to put the deer to sleep.",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>2<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、シカを<ruby>眠ら<rt>ねむら</rt></ruby>せる<ruby>薬<rt>くすり</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、3時ごろ、シカを捕まえました。",
+      "tts": "そして、さんじごろ、シカを捕まえました。",
+      "zh": "然后，在3点左右抓住了鹿。",
+      "en": "Then, around 3 o'clock, they caught the deer.",
+      "ruby": "そして、3<ruby>時<rt>じ</rt></ruby>ごろ、シカを<ruby>捕ま<rt>つかま</rt></ruby>えました。"
+    },
+    {
+      "speaker": "news",
+      "text": "けがをした人や、壊れた物はありませんでした。",
+      "zh": "没有人受伤，也没有东西被损坏。",
+      "en": "No one was hurt, and nothing was broken.",
+      "ruby": "けがをした<ruby>人<rt>ひと</rt></ruby>や、<ruby>壊れ<rt>こわれ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>はありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "千葉県でも、角が1本のシカを見た人がいました。",
+      "tts": "千葉県でも、角がいっぽんのシカを見た人がいました。",
+      "zh": "在千叶县，也有人看到了只有1只角的鹿。",
+      "en": "In Chiba Prefecture, too, people saw a deer with 1 antler.",
+      "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>でも、<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>が1<ruby>本<rt>ほん</rt></ruby>のシカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じシカかどうかは、まだわかりません。",
+      "zh": "目前还不知道是不是同一头鹿。",
+      "en": "It is not yet known whether it is the same deer.",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby>シカかどうかは、まだわかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月17日の朝、東京の葛飾区で、野生のシカが見つかりました。",
+      "tts": "じゅういちがつじゅうしちにちの朝、東京のかつしかくで、野生のシカが見つかりました。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>で、<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild (animal or plant)\"><ruby>野生<rt>やせい</rt></ruby></span>のシカが<ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of November seventeenth, a wild deer was found in a ward in eastern Tokyo."
+    },
+    {
+      "speaker": "vocab",
+      "text": "野生",
+      "ruby": "<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild (animal or plant)\"><ruby>野生<rt>やせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means wild, living in nature, not kept by people."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝7時半ごろ、駅の近くの住宅街で、シカを見た人がいました。",
+      "tts": "朝しちじはんごろ、駅の近くの住宅街で、シカを見た人がいました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>7<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"住宅街\" data-reading=\"じゅうたくがい\" data-en=\"residential area\"><ruby>住宅街<rt>じゅうたくがい</rt></ruby></span>で、シカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around seven thirty in the morning, someone saw the deer in a residential area near a station."
+    },
+    {
+      "speaker": "vocab",
+      "text": "住宅街",
+      "ruby": "<span class=\"vw\" data-ja=\"住宅街\" data-reading=\"じゅうたくがい\" data-en=\"residential area\"><ruby>住宅街<rt>じゅうたくがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a residential area, a part of town full of houses."
+    },
+    {
+      "speaker": "slow",
+      "text": "大人のシカで、角は1本だけでした。",
+      "tts": "大人のシカで、角はいっぽんだけでした。",
+      "ruby": "<ruby>大人<rt>おとな</rt></ruby>のシカで、<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>は1<ruby>本<rt>ほん</rt></ruby>だけでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was an adult deer, with only one antler."
+    },
+    {
+      "speaker": "vocab",
+      "text": "角",
+      "ruby": "<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a horn or antler."
+    },
+    {
+      "speaker": "slow",
+      "text": "9時すぎには、近くの畑にシカがいました。",
+      "tts": "くじすぎには、近くの畑にシカがいました。",
+      "ruby": "9<ruby>時<rt>じ</rt></ruby>すぎには、<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"畑\" data-reading=\"はたけ\" data-en=\"field (for crops)\"><ruby>畑<rt>はたけ</rt></ruby></span>にシカがいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A little after nine, the deer was in a nearby field."
+    },
+    {
+      "speaker": "vocab",
+      "text": "畑",
+      "ruby": "<span class=\"vw\" data-ja=\"畑\" data-reading=\"はたけ\" data-en=\"field (for crops)\"><ruby>畑<rt>はたけ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a field where vegetables are grown."
+    },
+    {
+      "speaker": "slow",
+      "text": "区は、「シカを見ても、近づかないでください」と言いました。",
+      "ruby": "<ruby>区<rt>く</rt></ruby>は、「シカを<ruby>見て<rt>みて</rt></ruby>も、<ruby>近づ<rt>ちかづ</rt></ruby>かないでください」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The ward said, even if you see the deer, please don't go near it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "近づく",
+      "ruby": "<span class=\"vw\" data-ja=\"近づく\" data-reading=\"ちかづく\" data-en=\"to approach; to get close\"><ruby>近づ<rt>ちかづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to get close or approach."
+    },
+    {
+      "speaker": "slow",
+      "text": "午後2時半ごろ、専門の人が、シカを眠らせる薬を使いました。",
+      "tts": "午後にじはんごろ、専門の人が、シカを眠らせる薬を使いました。",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>2<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、シカを<ruby>眠ら<rt>ねむら</rt></ruby>せる<ruby>薬<rt>くすり</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around two thirty in the afternoon, specialists used a drug to put the deer to sleep."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、3時ごろ、シカを捕まえました。",
+      "tts": "そして、さんじごろ、シカを捕まえました。",
+      "ruby": "そして、3<ruby>時<rt>じ</rt></ruby>ごろ、シカを<ruby>捕ま<rt>つかま</rt></ruby>えました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then, around three o'clock, they caught the deer."
+    },
+    {
+      "speaker": "vocab",
+      "text": "捕まえる",
+      "ruby": "<span class=\"vw\" data-ja=\"捕まえる\" data-reading=\"つかまえる\" data-en=\"to catch\"><ruby>捕ま<rt>つかま</rt></ruby>える</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to catch an animal or a person."
+    },
+    {
+      "speaker": "slow",
+      "text": "けがをした人や、壊れた物はありませんでした。",
+      "ruby": "けがをした<ruby>人<rt>ひと</rt></ruby>や、<ruby>壊れ<rt>こわれ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>はありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "No one was hurt, and nothing was broken."
+    },
+    {
+      "speaker": "vocab",
+      "text": "壊れる",
+      "ruby": "<span class=\"vw\" data-ja=\"壊れる\" data-reading=\"こわれる\" data-en=\"to break; to be broken\"><ruby>壊れ<rt>こわれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to break, or be broken."
+    },
+    {
+      "speaker": "slow",
+      "text": "千葉県でも、角が1本のシカを見た人がいました。",
+      "tts": "千葉県でも、角がいっぽんのシカを見た人がいました。",
+      "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>でも、<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>が1<ruby>本<rt>ほん</rt></ruby>のシカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the next prefecture, Chiba, people also saw a deer with one antler."
+    },
+    {
+      "speaker": "slow",
+      "text": "同じシカかどうかは、まだわかりません。",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby>シカかどうかは、まだわかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's not yet known whether it's the same deer."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "11月17日の朝、東京の葛飾区で、野生のシカが見つかりました。",
+      "tts": "じゅういちがつじゅうしちにちの朝、東京のかつしかくで、野生のシカが見つかりました。",
+      "zh": "11月17日早上，在东京葛饰区发现了一头野生鹿。",
+      "en": "On the morning of November 17th, a wild deer was found in Katsushika Ward, Tokyo.",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>で、<span class=\"vw\" data-ja=\"野生\" data-reading=\"やせい\" data-en=\"wild (animal or plant)\"><ruby>野生<rt>やせい</rt></ruby></span>のシカが<ruby>見つ<rt>みつ</rt></ruby>かりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝7時半ごろ、駅の近くの住宅街で、シカを見た人がいました。",
+      "tts": "朝しちじはんごろ、駅の近くの住宅街で、シカを見た人がいました。",
+      "zh": "早上7点半左右，有人在车站附近的住宅区看到了鹿。",
+      "en": "Around 7:30 a.m., someone saw the deer in a residential area near a train station.",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>7<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"住宅街\" data-reading=\"じゅうたくがい\" data-en=\"residential area\"><ruby>住宅街<rt>じゅうたくがい</rt></ruby></span>で、シカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大人のシカで、角は1本だけでした。",
+      "tts": "大人のシカで、角はいっぽんだけでした。",
+      "zh": "那是一头成年鹿，只有1只角。",
+      "en": "It was an adult deer, with only 1 antler.",
+      "ruby": "<ruby>大人<rt>おとな</rt></ruby>のシカで、<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>は1<ruby>本<rt>ほん</rt></ruby>だけでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "9時すぎには、近くの畑にシカがいました。",
+      "tts": "くじすぎには、近くの畑にシカがいました。",
+      "zh": "9点多，鹿出现在附近的田地里。",
+      "en": "A little after 9, the deer was in a nearby field.",
+      "ruby": "9<ruby>時<rt>じ</rt></ruby>すぎには、<ruby>近く<rt>ちかく</rt></ruby>の<span class=\"vw\" data-ja=\"畑\" data-reading=\"はたけ\" data-en=\"field (for crops)\"><ruby>畑<rt>はたけ</rt></ruby></span>にシカがいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "区は、「シカを見ても、近づかないでください」と言いました。",
+      "zh": "区政府提醒说：“即使看到鹿，也请不要靠近。”",
+      "en": "The ward said, \"Even if you see the deer, please do not go near it.\"",
+      "ruby": "<ruby>区<rt>く</rt></ruby>は、「シカを<ruby>見て<rt>みて</rt></ruby>も、<ruby>近づ<rt>ちかづ</rt></ruby>かないでください」と<ruby>言い<rt>いい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "午後2時半ごろ、専門の人が、シカを眠らせる薬を使いました。",
+      "tts": "午後にじはんごろ、専門の人が、シカを眠らせる薬を使いました。",
+      "zh": "下午2点半左右，专业人员使用了让鹿睡着的药。",
+      "en": "Around 2:30 p.m., specialists used a drug to put the deer to sleep.",
+      "ruby": "<ruby>午後<rt>ごご</rt></ruby>2<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、シカを<ruby>眠ら<rt>ねむら</rt></ruby>せる<ruby>薬<rt>くすり</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、3時ごろ、シカを捕まえました。",
+      "tts": "そして、さんじごろ、シカを捕まえました。",
+      "zh": "然后，在3点左右抓住了鹿。",
+      "en": "Then, around 3 o'clock, they caught the deer.",
+      "ruby": "そして、3<ruby>時<rt>じ</rt></ruby>ごろ、シカを<ruby>捕ま<rt>つかま</rt></ruby>えました。"
+    },
+    {
+      "speaker": "news",
+      "text": "けがをした人や、壊れた物はありませんでした。",
+      "zh": "没有人受伤，也没有东西被损坏。",
+      "en": "No one was hurt, and nothing was broken.",
+      "ruby": "けがをした<ruby>人<rt>ひと</rt></ruby>や、<ruby>壊れ<rt>こわれ</rt></ruby>た<ruby>物<rt>もの</rt></ruby>はありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "千葉県でも、角が1本のシカを見た人がいました。",
+      "tts": "千葉県でも、角がいっぽんのシカを見た人がいました。",
+      "zh": "在千叶县，也有人看到了只有1只角的鹿。",
+      "en": "In Chiba Prefecture, too, people saw a deer with 1 antler.",
+      "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>でも、<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>が1<ruby>本<rt>ほん</rt></ruby>のシカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じシカかどうかは、まだわかりません。",
+      "zh": "目前还不知道是不是同一头鹿。",
+      "en": "It is not yet known whether it is the same deer.",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby>シカかどうかは、まだわかりません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "シカを見た人がいたのは、朝何時ごろですか。",
+      "tts": "シカを見た人がいたのは、朝なんじごろですか。",
+      "ruby": "シカを<ruby>見た<rt>みた</rt></ruby><ruby>人<rt>ひと</rt></ruby>がいたのは、<ruby>朝<rt>あさ</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ごろですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around seven thirty."
+    },
+    {
+      "speaker": "slow",
+      "text": "シカの角は、何本でしたか。",
+      "tts": "シカの角は、なんぼんでしたか。",
+      "ruby": "シカの<span class=\"vw\" data-ja=\"角\" data-reading=\"つの\" data-en=\"horn; antler\"><ruby>角<rt>つの</rt></ruby></span>は、<ruby>何本<rt>なんぼん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Only one."
+    },
+    {
+      "speaker": "slow",
+      "text": "区は、何と言いましたか。",
+      "tts": "区は、なんと言いましたか。",
+      "ruby": "<ruby>区<rt>く</rt></ruby>は、<ruby>何と<rt>なんと</rt></ruby><ruby>言い<rt>いい</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even if you see the deer, please don't go near it."
+    },
+    {
+      "speaker": "slow",
+      "text": "シカを捕まえたのは、何時ごろですか。",
+      "tts": "シカを捕まえたのは、なんじごろですか。",
+      "ruby": "シカを<ruby>捕ま<rt>つかま</rt></ruby>えたのは、<ruby>何時<rt>なんじ</rt></ruby>ごろですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Around three in the afternoon."
+    },
+    {
+      "speaker": "slow",
+      "text": "けがをした人はいましたか。",
+      "ruby": "けがをした<ruby>人<rt>ひと</rt></ruby>はいましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No. No one was hurt."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "野生",
+      "reading": "やせい",
+      "en": "wild (animal or plant)",
+      "zh": "野生"
+    },
+    {
+      "ja": "住宅街",
+      "reading": "じゅうたくがい",
+      "en": "residential area",
+      "zh": "住宅区"
+    },
+    {
+      "ja": "角",
+      "reading": "つの",
+      "en": "horn; antler",
+      "zh": "角，犄角"
+    },
+    {
+      "ja": "畑",
+      "reading": "はたけ",
+      "en": "field (for crops)",
+      "zh": "旱田，菜地"
+    },
+    {
+      "ja": "近づく",
+      "reading": "ちかづく",
+      "en": "to approach; to get close",
+      "zh": "靠近，接近"
+    },
+    {
+      "ja": "捕まえる",
+      "reading": "つかまえる",
+      "en": "to catch",
+      "zh": "抓住，捕捉"
+    },
+    {
+      "ja": "壊れる",
+      "reading": "こわれる",
+      "en": "to break; to be broken",
+      "zh": "坏，损坏"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ないでください",
+      "meaning": "please don't ~",
+      "meaningZh": "请不要……",
+      "formation": "Verb ない-form + でください",
+      "example": "シカを見ても、近づかないでください。",
+      "translation": "Even if you see the deer, please do not go near it.",
+      "note": "A polite way to ask someone not to do something.",
+      "noteZh": "礼貌地请求对方不要做某事。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ても",
+      "meaning": "even if ~",
+      "meaningZh": "即使……也……",
+      "formation": "Verb て-form + も",
+      "example": "シカを見ても、近づかないでください。",
+      "translation": "Even if you see the deer, please do not go near it.",
+      "note": "Shows that the result does not change, whatever happens first.",
+      "noteZh": "表示即使前项成立，后项也不变。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否……",
+      "formation": "Noun / plain form + かどうか",
+      "example": "同じシカかどうかは、まだわかりません。",
+      "translation": "It is not yet known whether it is the same deer.",
+      "note": "Used for a yes-or-no question inside a sentence, often with わかりません.",
+      "noteZh": "把是非疑问嵌入句中，常与わかりません连用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ごろ",
+      "meaning": "around (a time)",
+      "meaningZh": "……左右（时间）",
+      "formation": "Time + ごろ",
+      "example": "そして、3時ごろ、シカを捕まえました。",
+      "translation": "Then, around 3 o'clock, they caught the deer.",
+      "note": "Shows an approximate point in time.",
+      "noteZh": "表示大概的时间点。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "11月17日の朝、東京の葛飾区で、野生のシカが見つかりました。\n11月17日早上，在东京葛饰区发现了一头野生鹿。\n野生 = wild (animal or plant)",
+    "朝7時半ごろ、駅の近くの住宅街で、シカを見た人がいました。\n早上7点半左右，有人在车站附近的住宅区看到了鹿。\n住宅街 = residential area",
+    "大人のシカで、角は1本だけでした。\n那是一头成年鹿，只有1只角。\n角 = horn; antler",
+    "9時すぎには、近くの畑にシカがいました。\n9点多，鹿出现在附近的田地里。\n畑 = field (for crops)",
+    "区は、「シカを見ても、近づかないでください」と言いました。\n区政府提醒说：“即使看到鹿，也请不要靠近。”\n近づく = to approach; to get close",
+    "午後2時半ごろ、専門の人が、シカを眠らせる薬を使いました。\n下午2点半左右，专业人员使用了让鹿睡着的药。",
+    "そして、3時ごろ、シカを捕まえました。\n然后，在3点左右抓住了鹿。\n捕まえる = to catch",
+    "けがをした人や、壊れた物はありませんでした。\n没有人受伤，也没有东西被损坏。\n壊れる = to break; to be broken",
+    "千葉県でも、角が1本のシカを見た人がいました。\n在千叶县，也有人看到了只有1只角的鹿。",
+    "同じシカかどうかは、まだわかりません。\n目前还不知道是不是同一头鹿。"
+  ]
+}
