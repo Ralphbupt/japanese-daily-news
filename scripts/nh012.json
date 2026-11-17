@@ -1,0 +1,491 @@
+{
+  "episode": 12,
+  "title": "GDP、4期ぶりマイナス　物価高で歯ブラシや服も買い控え",
+  "titleZh": "日本GDP时隔4季度负增长，物价高涨下牙刷衣服也少买",
+  "titleEn": "Japan's economy shrinks for the first time in a year as shoppers cut back",
+  "date": "2026-11-17",
+  "source": "内閣府（2026年7〜9月期 GDP速報） / 日本経済新聞 / 東京新聞 / 中日新聞 / テレ東BIZ（Yahoo!ニュース）",
+  "level": "N3-N2",
+  "contentVersion": "2026111701",
+  "grammar": [
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period)",
+      "meaningZh": "时隔……",
+      "formation": "Period + ぶり",
+      "example": "GDPがマイナスになったのは、4期ぶりです。",
+      "translation": "It is the first time in four quarters that GDP has shrunk.",
+      "note": "Says how long it has been since something last happened.",
+      "noteZh": "表示距离上次发生某事已经隔了多久。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜に加えて",
+      "meaning": "in addition to ~",
+      "meaningZh": "除了……之外，再加上……",
+      "formation": "Noun + に加えて",
+      "example": "相次ぐ値上げに加えて、出かける機会が減ったことも影響しました。",
+      "translation": "In addition to one price rise after another, fewer chances to go out also had an effect.",
+      "note": "Adds one more factor to the first; common in news.",
+      "noteZh": "在前项基础上追加另一个因素，新闻中常用。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜を占める",
+      "meaning": "to make up, to account for ~",
+      "meaningZh": "占……",
+      "formation": "Noun (share) + を占める",
+      "example": "GDPの半分以上を占める個人消費は、0.3%減りました。",
+      "translation": "Personal consumption, which makes up more than half of GDP, fell 0.3%.",
+      "note": "Used with shares and proportions.",
+      "noteZh": "用于表示比例、份额。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜反動で",
+      "meaning": "as a reaction to ~, after ~",
+      "meaningZh": "由于……的反作用，作为……的反弹",
+      "formation": "Noun / Verb plain form + 反動で",
+      "example": "エアコンと車は、4月から6月によく売れた反動で、減りました。",
+      "translation": "Air conditioners and cars dropped as a reaction after selling well from April to June.",
+      "note": "Explains a swing in the opposite direction after a big change.",
+      "noteZh": "说明大的变化之后出现的反方向变动。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~, reportedly ~",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "買い替える人が多かったということです。",
+      "translation": "Reportedly, many people replaced theirs.",
+      "note": "Passes on information heard from a source; typical in news.",
+      "noteZh": "转述从信息来源听到的内容，新闻常用。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "物価の変動を除いた実質で、その前の3か月と比べて、0.02%減りました。\n剔除物价变动后的实际GDP，比前3个月减少了0.02%。\n",
+    "GDPの半分以上を占める個人消費は、0.3%減って、2期連続のマイナスとなりました。\n占GDP一半以上的个人消费减少了0.3%，连续2个季度负增长。\n",
+    "相次ぐ値上げに加えて、天気の悪い日や災害で、出かける機会が減ったことも影響しました。\n除了接连涨价，坏天气和灾害导致外出机会减少，也产生了影响。\n",
+    "また、エアコンと車は、4月から6月によく売れた反動で、減りました。\n另外，空调和汽车因4月至6月卖得很好，出现了回落。\n",
+    "一方、企業の設備投資は1.6%増えて、3期ぶりのプラスでした。\n另一方面，企业设备投资增长1.6%，时隔3个季度转为正增长。\n",
+    "住宅への投資は、値段が高くなって買うのを控える人が増え、1.1%減りました。\n住宅投资因价格上涨、推迟购买的人增多，减少了1.1%。\n"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "速報値",
+      "reading": "そくほうち",
+      "en": "preliminary figure",
+      "zh": "初步统计值，速报值"
+    },
+    {
+      "ja": "実質",
+      "reading": "じっしつ",
+      "en": "real (adjusted for prices)",
+      "zh": "实际（剔除物价因素）"
+    },
+    {
+      "ja": "個人消費",
+      "reading": "こじんしょうひ",
+      "en": "personal consumption",
+      "zh": "个人消费"
+    },
+    {
+      "ja": "占める",
+      "reading": "しめる",
+      "en": "to make up, to account for",
+      "zh": "占"
+    },
+    {
+      "ja": "相次ぐ",
+      "reading": "あいつぐ",
+      "en": "to happen one after another",
+      "zh": "接连发生"
+    },
+    {
+      "ja": "反動",
+      "reading": "はんどう",
+      "en": "reaction, backlash",
+      "zh": "反作用，回落"
+    },
+    {
+      "ja": "設備投資",
+      "reading": "せつびとうし",
+      "en": "capital investment",
+      "zh": "设备投资"
+    },
+    {
+      "ja": "控える",
+      "reading": "ひかえる",
+      "en": "to hold back from",
+      "zh": "节制，暂缓"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "7月から9月のGDPは、その前の3か月と比べて、どうなりましたか。",
+      "a": "0.02%減って、4期ぶりのマイナスになりました。"
+    },
+    {
+      "q": "個人消費で減ったものには、どんなものがありますか。",
+      "a": "歯ブラシなどの日用品や服、お米やお菓子、魚などです。"
+    },
+    {
+      "q": "企業の設備投資は、どうなりましたか。",
+      "a": "1.6%増えて、3期ぶりのプラスになりました。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月17日、火曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月17日，星期二。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Tuesday, November 17th.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは、じゅういちがつじゅうしちにち、火曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日は<rt>こんにちは</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>、<ruby>火曜日<rt>かようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "最近、シャンプーや服を買うのを、少しがまんしていませんか。実は、そんな人が多いことが、国の数字にも表れました。",
+      "zh": "最近，你是不是在买洗发水和衣服时有点克制？其实，这样的人很多，这也体现在了国家的数据里。",
+      "en": "Have you been holding back a little on buying shampoo or clothes lately? It turns out many people are, and it shows up in the national figures.",
+      "ruby": "<ruby>最近<rt>さいきん</rt></ruby>、シャンプーや<ruby>服<rt>ふく</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>のを、<ruby>少し<rt>すこし</rt></ruby>がまんしていませんか。<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ことが、<ruby>国<rt>くに</rt></ruby>の<ruby>数字<rt>すうじ</rt></ruby>にも<ruby>表れ<rt>あらわれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は16日、今年7月から9月までの、国内総生産、GDPの速報値を発表しました。",
+      "zh": "内阁府16日公布了今年7月至9月国内生产总值（GDP）的初步统计值。",
+      "en": "On the 16th, the Cabinet Office released preliminary figures for gross domestic product, or GDP, for July through September this year.",
+      "tts": "内閣府は、じゅうろくにち、今年しちがつからくがつまでの、国内総生産、ジーディーピーの速報値を発表しました。",
+      "ruby": "<ruby>内閣府<rt>ないかくふ</rt></ruby>は16<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までの、<ruby>国内<rt>こくない</rt></ruby><ruby>総生産<rt>そうせいさん</rt></ruby>、GDPの<span class=\"vw\" data-ja=\"速報値\" data-reading=\"そくほうち\" data-en=\"preliminary figure\"><ruby>速報値<rt>そくほうち</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価の変動を除いた実質で、その前の3か月と比べて、0.02%減りました。",
+      "zh": "剔除物价变动后的实际GDP，比前3个月减少了0.02%。",
+      "en": "In real terms, excluding price changes, it fell 0.02% from the previous three months.",
+      "tts": "物価の変動を除いた実質で、その前のさんかげつと比べて、れいてんれいにパーセント減りました。",
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>た<span class=\"vw\" data-ja=\"実質\" data-reading=\"じっしつ\" data-en=\"real (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby></span>で、その<ruby>前<rt>まえ</rt></ruby>の3か<ruby>月<rt>げつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、0.02%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この状態が1年間続いた場合に換算した年率では、0.1%のマイナスです。",
+      "zh": "按这种状态持续1年换算的年率为负0.1%。",
+      "en": "At an annualized rate, assuming this pace continued for a year, that is a 0.1% decline.",
+      "tts": "この状態がいちねんかん続いた場合に換算した年率では、れいてんいちパーセントのマイナスです。",
+      "ruby": "この<ruby>状態<rt>じょうたい</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>した<ruby>年率<rt>ねんりつ</rt></ruby>では、0.1%のマイナスです。"
+    },
+    {
+      "speaker": "news",
+      "text": "GDPがマイナスになったのは、4期ぶりです。",
+      "zh": "这是GDP时隔4个季度再次出现负增长。",
+      "en": "It is the first time in four quarters that GDP has shrunk.",
+      "tts": "ジーディーピーがマイナスになったのは、よんきぶりです。",
+      "ruby": "GDPがマイナスになったのは、4<ruby>期<rt>き</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "市場では、プラスになるという予想が多く、それを下回る結果となりました。",
+      "zh": "市场上很多人预测会是正增长，结果低于预期。",
+      "en": "Many in the market had expected growth, so the result fell short of forecasts.",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>では、プラスになるという<ruby>予想<rt>よそう</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、それを<ruby>下回る<rt>したまわる</rt></ruby><ruby>結果<rt>けっか</rt></ruby>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "GDPの半分以上を占める個人消費は、0.3%減って、2期連続のマイナスとなりました。",
+      "zh": "占GDP一半以上的个人消费减少了0.3%，连续2个季度负增长。",
+      "en": "Personal consumption, which makes up more than half of GDP, fell 0.3%, declining for a second straight quarter.",
+      "tts": "ジーディーピーの半分以上を占める個人消費は、れいてんさんパーセント減って、にきれんぞくのマイナスとなりました。",
+      "ruby": "GDPの<ruby>半分以上<rt>はんぶんいじょう</rt></ruby>を<span class=\"vw\" data-ja=\"占める\" data-reading=\"しめる\" data-en=\"to make up, to account for\"><ruby>占め<rt>しめ</rt></ruby>る</span><span class=\"vw\" data-ja=\"個人消費\" data-reading=\"こじんしょうひ\" data-en=\"personal consumption\"><ruby>個人消費<rt>こじんしょうひ</rt></ruby></span>は、0.3%<ruby>減っ<rt>へっ</rt></ruby>て、2<ruby>期<rt>き</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>のマイナスとなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯ブラシなどの日用品や、服の消費が減りました。",
+      "zh": "牙刷等日用品和服装的消费减少了。",
+      "en": "Spending on everyday goods such as toothbrushes, and on clothes, went down.",
+      "ruby": "<ruby>歯ブラシ<rt>はぶらし</rt></ruby>などの<ruby>日用品<rt>にちようひん</rt></ruby>や、<ruby>服<rt>ふく</rt></ruby>の<ruby>消費<rt>しょうひ</rt></ruby>が<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物では、お米やお菓子、魚などが減りました。",
+      "zh": "食品方面，大米、点心零食和鱼类等减少了。",
+      "en": "Among foods, spending on rice, sweets and fish fell.",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>では、お<ruby>米<rt>こめ</rt></ruby>やお<ruby>菓子<rt>かし</rt></ruby>、<ruby>魚<rt>さかな</rt></ruby>などが<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "相次ぐ値上げに加えて、天気の悪い日や災害で、出かける機会が減ったことも影響しました。",
+      "zh": "除了接连涨价，坏天气和灾害导致外出机会减少，也产生了影响。",
+      "en": "Besides one price rise after another, fewer chances to go out because of bad weather and disasters also had an effect.",
+      "ruby": "<span class=\"vw\" data-ja=\"相次ぐ\" data-reading=\"あいつぐ\" data-en=\"to happen one after another\"><ruby>相次ぐ<rt>あいつぐ</rt></ruby></span><ruby>値上げ<rt>ねあげ</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>天気<rt>てんき</rt></ruby>の<ruby>悪い<rt>わるい</rt></ruby><ruby>日<rt>ひ</rt></ruby>や<ruby>災害<rt>さいがい</rt></ruby>で、<ruby>出か<rt>でか</rt></ruby>ける<ruby>機会<rt>きかい</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも<ruby>影響<rt>えいきょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、エアコンと車は、4月から6月によく売れた反動で、減りました。",
+      "zh": "另外，空调和汽车因4月至6月卖得很好，出现了回落。",
+      "en": "Air conditioners and cars also dropped, as a reaction after selling well from April to June.",
+      "tts": "また、エアコンと車は、しがつからろくがつによく売れた反動で、減りました。",
+      "ruby": "また、エアコンと<ruby>車<rt>くるま</rt></ruby>は、4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>によく<ruby>売れ<rt>うれ</rt></ruby>た<span class=\"vw\" data-ja=\"反動\" data-reading=\"はんどう\" data-en=\"reaction, backlash\"><ruby>反動<rt>はんどう</rt></ruby></span>で、<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "エアコンは、来年4月に省エネの基準が厳しくなって値段が上がる前に、買い替える人が多かったということです。",
+      "zh": "据说很多人赶在明年4月节能标准变严、价格上涨之前换购了空调。",
+      "en": "Many people replaced their air conditioners before energy-saving standards get stricter next April and prices go up.",
+      "tts": "エアコンは、来年しがつに省エネの基準が厳しくなって値段が上がる前に、買い替える人が多かったということです。",
+      "ruby": "エアコンは、<ruby>来年<rt>らいねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>に<ruby>省エネ<rt>しょうえね</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby>が<ruby>厳しく<rt>きびしく</rt></ruby>なって<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>買い<rt>かい</rt></ruby><ruby>替え<rt>かえ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、企業の設備投資は1.6%増えて、3期ぶりのプラスでした。",
+      "zh": "另一方面，企业设备投资增长1.6%，时隔3个季度转为正增长。",
+      "en": "Meanwhile, business investment in equipment rose 1.6%, growing for the first time in three quarters.",
+      "tts": "一方、企業の設備投資は、いってんろくパーセント増えて、さんきぶりのプラスでした。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>企業<rt>きぎょう</rt></ruby>の<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>は1.6%<ruby>増え<rt>ふえ</rt></ruby>て、3<ruby>期<rt>き</rt></ruby>ぶりのプラスでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "人手不足への対応や、AIなど、デジタルへの投資が伸びています。",
+      "zh": "应对人手不足以及AI等数字化方面的投资在增加。",
+      "en": "Investment to cope with labor shortages and in digital areas such as AI is growing.",
+      "tts": "人手不足への対応や、エーアイなど、デジタルへの投資が伸びています。",
+      "ruby": "<ruby>人手不足<rt>ひとでぶそく</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>や、AIなど、デジタルへの<ruby>投資<rt>とうし</rt></ruby>が<ruby>伸び<rt>のび</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "住宅への投資は、値段が高くなって買うのを控える人が増え、1.1%減りました。",
+      "zh": "住宅投资因价格上涨、推迟购买的人增多，减少了1.1%。",
+      "en": "Housing investment fell 1.1%, as more people held off buying because of high prices.",
+      "tts": "住宅への投資は、値段が高くなって買うのを控える人が増え、いってんいちパーセント減りました。",
+      "ruby": "<ruby>住宅<rt>じゅうたく</rt></ruby>への<ruby>投資<rt>とうし</rt></ruby>は、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なって<ruby>買う<rt>かう</rt></ruby>のを<span class=\"vw\" data-ja=\"控える\" data-reading=\"ひかえる\" data-en=\"to hold back from\"><ruby>控え<rt>ひかえ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>、1.1%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "GDPは、国の中で、ある期間に生み出された、ものやサービスの価値を、全部足したものです。",
+      "zh": "GDP是一个国家在一定时期内创造的商品和服务价值的总和。",
+      "en": "GDP is the total value of all the goods and services produced in a country over a certain period.",
+      "ruby": "GDPは、<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、ある<ruby>期間<rt>きかん</rt></ruby>に<ruby>生み出さ<rt>うみださ</rt></ruby>れた、ものやサービスの<ruby>価値<rt>かち</rt></ruby>を、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>足し<rt>たし</rt></ruby>たものです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "簡単に言うと、日本の経済の大きさを表す数字ですね。",
+      "zh": "简单来说，就是表示日本经济规模的数字。",
+      "en": "Simply put, it is a number that shows the size of Japan's economy.",
+      "ruby": "<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>言う<rt>いう</rt></ruby>と、<ruby>日本<rt>にほん</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>の<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>数字<rt>すうじ</rt></ruby>ですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "今回は、0.02%のマイナス。数字だけ見ると、ほとんど変わっていません。",
+      "zh": "这次是负0.02%。光看数字，几乎没有变化。",
+      "en": "This time it was minus 0.02%. Looking at the number alone, hardly anything changed.",
+      "tts": "今回は、れいてんれいにパーセントのマイナス。数字だけ見ると、ほとんど変わっていません。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、0.02%のマイナス。<ruby>数字<rt>すうじ</rt></ruby>だけ<ruby>見る<rt>みる</rt></ruby>と、ほとんど<ruby>変わ<rt>かわ</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "でも、中身を見ると、気になるところがあります。私たちの毎日の買い物、個人消費です。",
+      "zh": "但是看看内容，有让人在意的地方，那就是我们每天的购物，也就是个人消费。",
+      "en": "But look inside and something stands out: our everyday shopping, personal consumption.",
+      "ruby": "でも、<ruby>中身<rt>なかみ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>気に<rt>きに</rt></ruby>なるところがあります。<ruby>私たち<rt>わたしたち</rt></ruby>の<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby>、<span class=\"vw\" data-ja=\"個人消費\" data-reading=\"こじんしょうひ\" data-en=\"personal consumption\"><ruby>個人消費<rt>こじんしょうひ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "個人消費は、GDPの半分以上を占めています。そこが、2期続けて減りました。",
+      "zh": "个人消费占GDP的一半以上，这部分连续两个季度减少了。",
+      "en": "Personal consumption makes up more than half of GDP, and it has fallen for two quarters in a row.",
+      "tts": "個人消費は、ジーディーピーの半分以上を占めています。そこが、にき続けて減りました。",
+      "ruby": "<span class=\"vw\" data-ja=\"個人消費\" data-reading=\"こじんしょうひ\" data-en=\"personal consumption\"><ruby>個人消費<rt>こじんしょうひ</rt></ruby></span>は、GDPの<ruby>半分以上<rt>はんぶんいじょう</rt></ruby>を<ruby>占め<rt>しめ</rt></ruby>ています。そこが、2<ruby>期<rt>き</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "減ったものは、歯ブラシ、服、お米、お菓子。毎日の暮らしに近いものばかりです。",
+      "zh": "减少的是牙刷、衣服、大米、零食，全都是贴近日常生活的东西。",
+      "en": "What fell were toothbrushes, clothes, rice and sweets: all things close to daily life.",
+      "ruby": "<ruby>減っ<rt>へっ</rt></ruby>たものは、<ruby>歯ブラシ<rt>はぶらし</rt></ruby>、<ruby>服<rt>ふく</rt></ruby>、お<ruby>米<rt>こめ</rt></ruby>、お<ruby>菓子<rt>かし</rt></ruby>。<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>暮らし<rt>くらし</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>ものばかりです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "値上げが続くと、「今月はやめておこう」「安いもので我慢しよう」と考える人が増えますよね。",
+      "zh": "涨价持续下去，想着“这个月就算了吧”“用便宜的凑合一下吧”的人就会变多。",
+      "en": "When prices keep rising, more people think, \"I'll skip it this month,\" or \"I'll make do with something cheaper.\"",
+      "ruby": "<ruby>値上げ<rt>ねあげ</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、「<ruby>今月<rt>こんげつ</rt></ruby>はやめておこう」「<ruby>安い<rt>やすい</rt></ruby>もので<ruby>我慢<rt>がまん</rt></ruby>しよう」と<ruby>考え<rt>かんがえ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ますよね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それに、7月から9月は、天気の悪い日や災害もあって、出かける機会が減りました。",
+      "zh": "而且7月到9月有坏天气和灾害，外出的机会减少了。",
+      "en": "On top of that, from July to September, bad weather and disasters meant fewer chances to go out.",
+      "tts": "それに、しちがつからくがつは、天気の悪い日や災害もあって、出かける機会が減りました。",
+      "ruby": "それに、7<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>は、<ruby>天気<rt>てんき</rt></ruby>の<ruby>悪い<rt>わるい</rt></ruby><ruby>日<rt>ひ</rt></ruby>や<ruby>災害<rt>さいがい</rt></ruby>もあって、<ruby>出か<rt>でか</rt></ruby>ける<ruby>機会<rt>きかい</rt></ruby>が<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "出かけなければ、服を買ったり、ホテルに泊まったりすることも、少なくなりますね。",
+      "zh": "不出门的话，买衣服、住酒店的情况也会变少。",
+      "en": "If you don't go out, you also buy fewer clothes and stay in hotels less.",
+      "ruby": "<ruby>出か<rt>でか</rt></ruby>けなければ、<ruby>服<rt>ふく</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たり、ホテルに<ruby>泊ま<rt>とま</rt></ruby>ったりすることも、<ruby>少なく<rt>すくなく</rt></ruby>なりますね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "エアコンが減ったのは、少し理由が違います。その前の3か月に、値上がりする前に買い替えた人が多かったからです。",
+      "zh": "空调减少的原因有点不同，是因为在之前的3个月里，很多人赶在涨价前换购了。",
+      "en": "Air conditioners fell for a slightly different reason: many people had replaced theirs in the previous three months, before prices go up.",
+      "tts": "エアコンが減ったのは、少し理由が違います。その前のさんかげつに、値上がりする前に買い替えた人が多かったからです。",
+      "ruby": "エアコンが<ruby>減っ<rt>へっ</rt></ruby>たのは、<ruby>少し<rt>すこし</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>が<ruby>違い<rt>ちがい</rt></ruby>ます。その<ruby>前<rt>まえ</rt></ruby>の3か<ruby>月<rt>げつ</rt></ruby>に、<ruby>値上がり<rt>ねあがり</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<ruby>買い<rt>かい</rt></ruby><ruby>替え<rt>かえ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったからです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "一方で、会社は、AIなどへの投資を増やしています。足りない人の手を、デジタルで補おうとしているんですね。",
+      "zh": "另一方面，企业在增加对AI等的投资，想用数字技术弥补人手的不足。",
+      "en": "Companies, on the other hand, are investing more in things like AI. They are trying to make up for the shortage of workers with digital tools.",
+      "tts": "一方で、会社は、エーアイなどへの投資を増やしています。足りない人の手を、デジタルで補おうとしているんですね。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>は、AIなどへの<ruby>投資<rt>とうし</rt></ruby>を<ruby>増やし<rt>ふやし</rt></ruby>ています。<ruby>足り<rt>たり</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>の<ruby>手<rt>て</rt></ruby>を、デジタルで<ruby>補お<rt>おぎなお</rt></ruby>うとしているんですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "会社は投資を増やしているのに、家庭の財布のひもは、かたくなっている。今回の数字からは、そんな姿が見えてきます。",
+      "zh": "企业在增加投资，家庭却捂紧了钱包。从这次的数字中，可以看到这样的景象。",
+      "en": "Companies are investing more, while households are tightening their purse strings. That is the picture these numbers show.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>投資<rt>とうし</rt></ruby>を<ruby>増やし<rt>ふやし</rt></ruby>ているのに、<ruby>家庭<rt>かてい</rt></ruby>の<ruby>財布<rt>さいふ</rt></ruby>のひもは、かたくなっている。<ruby>今回<rt>こんかい</rt></ruby>の<ruby>数字<rt>すうじ</rt></ruby>からは、そんな<ruby>姿<rt>すがた</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>てきます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻吧。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. You should understand it better this time.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "内閣府は16日、今年7月から9月までの、国内総生産、GDPの速報値を発表しました。",
+      "zh": "内阁府16日公布了今年7月至9月国内生产总值（GDP）的初步统计值。",
+      "en": "On the 16th, the Cabinet Office released preliminary figures for gross domestic product, or GDP, for July through September this year.",
+      "tts": "内閣府は、じゅうろくにち、今年しちがつからくがつまでの、国内総生産、ジーディーピーの速報値を発表しました。",
+      "ruby": "<ruby>内閣府<rt>ないかくふ</rt></ruby>は16<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>から9<ruby>月<rt>がつ</rt></ruby>までの、<ruby>国内<rt>こくない</rt></ruby><ruby>総生産<rt>そうせいさん</rt></ruby>、GDPの<span class=\"vw\" data-ja=\"速報値\" data-reading=\"そくほうち\" data-en=\"preliminary figure\"><ruby>速報値<rt>そくほうち</rt></ruby></span>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "物価の変動を除いた実質で、その前の3か月と比べて、0.02%減りました。",
+      "zh": "剔除物价变动后的实际GDP，比前3个月减少了0.02%。",
+      "en": "In real terms, excluding price changes, it fell 0.02% from the previous three months.",
+      "tts": "物価の変動を除いた実質で、その前のさんかげつと比べて、れいてんれいにパーセント減りました。",
+      "ruby": "<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>た<span class=\"vw\" data-ja=\"実質\" data-reading=\"じっしつ\" data-en=\"real (adjusted for prices)\"><ruby>実質<rt>じっしつ</rt></ruby></span>で、その<ruby>前<rt>まえ</rt></ruby>の3か<ruby>月<rt>げつ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>て、0.02%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "この状態が1年間続いた場合に換算した年率では、0.1%のマイナスです。",
+      "zh": "按这种状态持续1年换算的年率为负0.1%。",
+      "en": "At an annualized rate, assuming this pace continued for a year, that is a 0.1% decline.",
+      "tts": "この状態がいちねんかん続いた場合に換算した年率では、れいてんいちパーセントのマイナスです。",
+      "ruby": "この<ruby>状態<rt>じょうたい</rt></ruby>が1<ruby>年間<rt>ねんかん</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>した<ruby>年率<rt>ねんりつ</rt></ruby>では、0.1%のマイナスです。"
+    },
+    {
+      "speaker": "news",
+      "text": "GDPがマイナスになったのは、4期ぶりです。",
+      "zh": "这是GDP时隔4个季度再次出现负增长。",
+      "en": "It is the first time in four quarters that GDP has shrunk.",
+      "tts": "ジーディーピーがマイナスになったのは、よんきぶりです。",
+      "ruby": "GDPがマイナスになったのは、4<ruby>期<rt>き</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "市場では、プラスになるという予想が多く、それを下回る結果となりました。",
+      "zh": "市场上很多人预测会是正增长，结果低于预期。",
+      "en": "Many in the market had expected growth, so the result fell short of forecasts.",
+      "ruby": "<ruby>市場<rt>しじょう</rt></ruby>では、プラスになるという<ruby>予想<rt>よそう</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、それを<ruby>下回る<rt>したまわる</rt></ruby><ruby>結果<rt>けっか</rt></ruby>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "GDPの半分以上を占める個人消費は、0.3%減って、2期連続のマイナスとなりました。",
+      "zh": "占GDP一半以上的个人消费减少了0.3%，连续2个季度负增长。",
+      "en": "Personal consumption, which makes up more than half of GDP, fell 0.3%, declining for a second straight quarter.",
+      "tts": "ジーディーピーの半分以上を占める個人消費は、れいてんさんパーセント減って、にきれんぞくのマイナスとなりました。",
+      "ruby": "GDPの<ruby>半分以上<rt>はんぶんいじょう</rt></ruby>を<span class=\"vw\" data-ja=\"占める\" data-reading=\"しめる\" data-en=\"to make up, to account for\"><ruby>占め<rt>しめ</rt></ruby>る</span><span class=\"vw\" data-ja=\"個人消費\" data-reading=\"こじんしょうひ\" data-en=\"personal consumption\"><ruby>個人消費<rt>こじんしょうひ</rt></ruby></span>は、0.3%<ruby>減っ<rt>へっ</rt></ruby>て、2<ruby>期<rt>き</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>のマイナスとなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "歯ブラシなどの日用品や、服の消費が減りました。",
+      "zh": "牙刷等日用品和服装的消费减少了。",
+      "en": "Spending on everyday goods such as toothbrushes, and on clothes, went down.",
+      "ruby": "<ruby>歯ブラシ<rt>はぶらし</rt></ruby>などの<ruby>日用品<rt>にちようひん</rt></ruby>や、<ruby>服<rt>ふく</rt></ruby>の<ruby>消費<rt>しょうひ</rt></ruby>が<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物では、お米やお菓子、魚などが減りました。",
+      "zh": "食品方面，大米、点心零食和鱼类等减少了。",
+      "en": "Among foods, spending on rice, sweets and fish fell.",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>では、お<ruby>米<rt>こめ</rt></ruby>やお<ruby>菓子<rt>かし</rt></ruby>、<ruby>魚<rt>さかな</rt></ruby>などが<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "相次ぐ値上げに加えて、天気の悪い日や災害で、出かける機会が減ったことも影響しました。",
+      "zh": "除了接连涨价，坏天气和灾害导致外出机会减少，也产生了影响。",
+      "en": "Besides one price rise after another, fewer chances to go out because of bad weather and disasters also had an effect.",
+      "ruby": "<span class=\"vw\" data-ja=\"相次ぐ\" data-reading=\"あいつぐ\" data-en=\"to happen one after another\"><ruby>相次ぐ<rt>あいつぐ</rt></ruby></span><ruby>値上げ<rt>ねあげ</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>天気<rt>てんき</rt></ruby>の<ruby>悪い<rt>わるい</rt></ruby><ruby>日<rt>ひ</rt></ruby>や<ruby>災害<rt>さいがい</rt></ruby>で、<ruby>出か<rt>でか</rt></ruby>ける<ruby>機会<rt>きかい</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たことも<ruby>影響<rt>えいきょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、エアコンと車は、4月から6月によく売れた反動で、減りました。",
+      "zh": "另外，空调和汽车因4月至6月卖得很好，出现了回落。",
+      "en": "Air conditioners and cars also dropped, as a reaction after selling well from April to June.",
+      "tts": "また、エアコンと車は、しがつからろくがつによく売れた反動で、減りました。",
+      "ruby": "また、エアコンと<ruby>車<rt>くるま</rt></ruby>は、4<ruby>月<rt>がつ</rt></ruby>から6<ruby>月<rt>がつ</rt></ruby>によく<ruby>売れ<rt>うれ</rt></ruby>た<span class=\"vw\" data-ja=\"反動\" data-reading=\"はんどう\" data-en=\"reaction, backlash\"><ruby>反動<rt>はんどう</rt></ruby></span>で、<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "エアコンは、来年4月に省エネの基準が厳しくなって値段が上がる前に、買い替える人が多かったということです。",
+      "zh": "据说很多人赶在明年4月节能标准变严、价格上涨之前换购了空调。",
+      "en": "Many people replaced their air conditioners before energy-saving standards get stricter next April and prices go up.",
+      "tts": "エアコンは、来年しがつに省エネの基準が厳しくなって値段が上がる前に、買い替える人が多かったということです。",
+      "ruby": "エアコンは、<ruby>来年<rt>らいねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>に<ruby>省エネ<rt>しょうえね</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby>が<ruby>厳しく<rt>きびしく</rt></ruby>なって<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>買い<rt>かい</rt></ruby><ruby>替え<rt>かえ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、企業の設備投資は1.6%増えて、3期ぶりのプラスでした。",
+      "zh": "另一方面，企业设备投资增长1.6%，时隔3个季度转为正增长。",
+      "en": "Meanwhile, business investment in equipment rose 1.6%, growing for the first time in three quarters.",
+      "tts": "一方、企業の設備投資は、いってんろくパーセント増えて、さんきぶりのプラスでした。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>企業<rt>きぎょう</rt></ruby>の<span class=\"vw\" data-ja=\"設備投資\" data-reading=\"せつびとうし\" data-en=\"capital investment\"><ruby>設備投資<rt>せつびとうし</rt></ruby></span>は1.6%<ruby>増え<rt>ふえ</rt></ruby>て、3<ruby>期<rt>き</rt></ruby>ぶりのプラスでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "人手不足への対応や、AIなど、デジタルへの投資が伸びています。",
+      "zh": "应对人手不足以及AI等数字化方面的投资在增加。",
+      "en": "Investment to cope with labor shortages and in digital areas such as AI is growing.",
+      "tts": "人手不足への対応や、エーアイなど、デジタルへの投資が伸びています。",
+      "ruby": "<ruby>人手不足<rt>ひとでぶそく</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>や、AIなど、デジタルへの<ruby>投資<rt>とうし</rt></ruby>が<ruby>伸び<rt>のび</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "住宅への投資は、値段が高くなって買うのを控える人が増え、1.1%減りました。",
+      "zh": "住宅投资因价格上涨、推迟购买的人增多，减少了1.1%。",
+      "en": "Housing investment fell 1.1%, as more people held off buying because of high prices.",
+      "tts": "住宅への投資は、値段が高くなって買うのを控える人が増え、いってんいちパーセント減りました。",
+      "ruby": "<ruby>住宅<rt>じゅうたく</rt></ruby>への<ruby>投資<rt>とうし</rt></ruby>は、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なって<ruby>買う<rt>かう</rt></ruby>のを<span class=\"vw\" data-ja=\"控える\" data-reading=\"ひかえる\" data-en=\"to hold back from\"><ruby>控え<rt>ひかえ</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>、1.1%<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんは最近、値上げで買うのをやめたものや、安いものに変えたものはありますか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "你最近有没有因为涨价而不再买、或者换成便宜货的东西？感谢今天的收听。明天见。",
+      "en": "Is there anything you have stopped buying, or switched to a cheaper version of, because of price rises? Thanks for listening today. See you tomorrow.",
+      "tts": "皆さんは最近、値上げで買うのをやめたものや、安いものに変えたものはありますか。きょうも聞いてくださって、ありがとうございました。また明日。",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>値上げ<rt>ねあげ</rt></ruby>で<ruby>買う<rt>かう</rt></ruby>のをやめたものや、<ruby>安い<rt>やすい</rt></ruby>ものに<ruby>変え<rt>かえ</rt></ruby>たものはありますか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
