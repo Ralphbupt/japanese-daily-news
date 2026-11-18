@@ -129,7 +129,7 @@ Cache invalidation is **per-episode**, via the `contentVersion` field (format `Y
 
 ## Deployment
 
-- Site: Worker `podcast-site` serving `site/dist` as static assets on `podcast.jpnotes.dev` (`site/wrangler.toml`, like jpnotes-site). Moved off Cloudflare Pages on 2026-11-18; the Pages project `japanese-daily-news` is kept with builds off
+- Site: Worker `podcast-site` serving `site/dist` as static assets on `podcast.jpnotes.dev` (`site/wrangler.toml`, like jpnotes-site). Moved off Cloudflare Pages on 2026-11-18 (the Pages project was deleted the same day)
 - Build & deploy: `.github/workflows/deploy.yml` on every push to main — `cd site && npm ci && npm run build && npx wrangler deploy` (secret `CLOUDFLARE_API_TOKEN`, "Edit Cloudflare Workers" template), then IndexNow (`site/indexnow.mjs`). By hand: `cd site && npm run build && npx wrangler deploy`
 - Audio: mp3s are NOT in git (`audio/*.mp3` is ignored; the 2026-11-18 move left them in history). `tools/audio-sync.py epNNN` uploads `audio/epNNN.mp3` to R2 (bucket `jpnotes-audio`, key `podcast/epNNN.mp3`, served at `https://audio.jpnotes.dev/podcast/epNNN.mp3`) and records its size in `site/src/data/audio-bytes.json` (committed; the RSS enclosure length). Run it before pushing. Pages and feeds point at R2 via `site/src/lib/audio.ts`; `site/public/_redirects` sends the old `/audio/*` URLs there. Auth: local wrangler login, or `CLOUDFLARE_API_TOKEN` (R2 edit) — the cron server keeps it in its crontab, and `auto-episode.sh` refuses to run without it
 - Subtitles committed to git, copied to `site/public/` during build

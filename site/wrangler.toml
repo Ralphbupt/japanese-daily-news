@@ -3,7 +3,7 @@
 # Requests for files are free and don't count against the Workers plan.
 # dist/_redirects (from public/) is applied by Cloudflare: /audio/* → R2.
 # Moved off Cloudflare Pages on 2026-11-18: the podcast CNAME to japanese-daily-news.pages.dev
-# was deleted and the domain attached here. The Pages project is kept with its builds turned off.
+# was deleted and the domain attached here; the Pages project was then deleted.
 name = "podcast-site"
 compatibility_date = "2026-09-01"
 workers_dev = false         # true gives a podcast-site.<account>.workers.dev copy, for checks without touching the domain
