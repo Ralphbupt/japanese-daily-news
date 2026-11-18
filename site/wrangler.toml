@@ -2,10 +2,12 @@
 #   npm run build && npx wrangler deploy        (from site/; CI does this on every push: .github/workflows/deploy.yml)
 # Requests for files are free and don't count against the Workers plan.
 # dist/_redirects (from public/) is applied by Cloudflare: /audio/* → R2.
-# Moved off Cloudflare Pages (project japanese-daily-news) on 2026-11-18.
+# Moved off Cloudflare Pages on 2026-11-18: the podcast CNAME to japanese-daily-news.pages.dev
+# was deleted and the domain attached here. The Pages project is kept with its builds turned off.
 name = "podcast-site"
 compatibility_date = "2026-09-01"
-workers_dev = true          # podcast-site.<account>.workers.dev, for checks without touching the domain
+workers_dev = false         # true gives a podcast-site.<account>.workers.dev copy, for checks without touching the domain
+routes = [{ pattern = "podcast.jpnotes.dev", custom_domain = true }]
 preview_urls = false
 
 [assets]

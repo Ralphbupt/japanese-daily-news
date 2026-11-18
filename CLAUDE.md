@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Edge TTS + ffmpeg. The site is built with Astro and deployed on Cloudflare Pages.
+Japanese Daily News is a podcast for Japanese learners, hosted at `podcast.jpnotes.dev`. Each episode covers a real Japanese news story with four speaker roles. Episodes are defined as JSON scripts and converted to MP3 audio using Edge TTS + ffmpeg. The site is built with Astro and served by Cloudflare Workers static assets (deployed from GitHub Actions).
 
 ## Full Pipeline for a New Episode
 
@@ -32,7 +32,7 @@ cp subtitles/epNNN.* site/public/subtitles/
 # 7. Build and preview
 cd site && npm run dev
 
-# 8. Deploy (push to GitHub, Cloudflare auto-deploys)
+# 8. Deploy (push to GitHub; Actions builds and deploys to Cloudflare)
 git add . && git commit && git push
 ```
 
@@ -129,8 +129,8 @@ Cache invalidation is **per-episode**, via the `contentVersion` field (format `Y
 
 ## Deployment
 
-- Site: Cloudflare Pages (`podcast.jpnotes.dev`)
-- Build: `cd site && npm install && npm run build` → output `site/dist`
+- Site: Worker `podcast-site` serving `site/dist` as static assets on `podcast.jpnotes.dev` (`site/wrangler.toml`, like jpnotes-site). Moved off Cloudflare Pages on 2026-11-18; the Pages project `japanese-daily-news` is kept with builds off
+- Build & deploy: `.github/workflows/deploy.yml` on every push to main — `cd site && npm ci && npm run build && npx wrangler deploy` (secret `CLOUDFLARE_API_TOKEN`, "Edit Cloudflare Workers" template), then IndexNow (`site/indexnow.mjs`). By hand: `cd site && npm run build && npx wrangler deploy`
 - Audio: mp3s are NOT in git (`audio/*.mp3` is ignored; the 2026-11-18 move left them in history). `tools/audio-sync.py epNNN` uploads `audio/epNNN.mp3` to R2 (bucket `jpnotes-audio`, key `podcast/epNNN.mp3`, served at `https://audio.jpnotes.dev/podcast/epNNN.mp3`) and records its size in `site/src/data/audio-bytes.json` (committed; the RSS enclosure length). Run it before pushing. Pages and feeds point at R2 via `site/src/lib/audio.ts`; `site/public/_redirects` sends the old `/audio/*` URLs there. Auth: local wrangler login, or `CLOUDFLARE_API_TOKEN` (R2 edit) — the cron server keeps it in its crontab, and `auto-episode.sh` refuses to run without it
 - Subtitles committed to git, copied to `site/public/` during build
 - GA4: `G-7W59Y18KC8`

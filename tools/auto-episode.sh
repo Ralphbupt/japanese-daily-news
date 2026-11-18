@@ -5,7 +5,7 @@
 #
 # Drives a headless Claude Code (Fable 5) session that finds real Japanese
 # news, writes scripts/epNNN.json, runs the full pipeline (furigana, validate,
-# audit, audio, subtitles, copy assets) and pushes -> Cloudflare auto-deploys.
+# audit, audio, subtitles, copy assets) and pushes -> GitHub Actions deploys to Cloudflare.
 #
 # Toolchain set up in userspace (no sudo): static ffmpeg/ffprobe in ~/.local/bin,
 # .venv built via uv (python 3.11) with edge-tts + pykakasi.
@@ -120,7 +120,7 @@ Steps:
      git add -A
      git commit -m "Add epNNN: <short English summary of the story>"
      git push origin main
-   (Cloudflare Pages auto-deploys on push.)
+   (GitHub Actions deploys the site on push.)
 
 Only ADD the new episode. Do NOT modify other episodes or bump their
 contentVersion. Keep host commentary concise. If validate fails, fix and re-run
@@ -175,7 +175,7 @@ Steps:
      git add scripts/nhNNN.json scripts/nhNNN.timing.json site/src/data/audio-bytes.json subtitles/nhNNN.vtt subtitles/nhNNN.srt
      git commit -m "Add nhNNN: <short English summary of the story>"
      git push origin main
-   (Cloudflare Pages auto-deploys on push.)
+   (GitHub Actions deploys the site on push.)
 
 Only ADD the new episode. Do NOT modify other episodes.
 Run EVERY command in the foreground and wait for it to finish (audio generation takes
