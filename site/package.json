@@ -3,11 +3,14 @@
   "type": "module",
   "scripts": {
     "dev": "npm run copy-audio; astro dev",
-    "build": "npm run copy-audio && astro build && node indexnow.mjs",
+    "build": "npm run copy-audio && astro build",
     "preview": "astro preview",
     "copy-audio": "mkdir -p public/subtitles && cp ../subtitles/*.vtt ../subtitles/*.srt public/subtitles/ 2>/dev/null || true"
   },
   "dependencies": {
     "astro": "^5.8.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.156.0"
   }
 }

@@ -1,0 +1,58 @@
+name: Deploy
+
+# Builds the site and publishes site/dist to Cloudflare, which serves it as static
+# assets (site/wrangler.toml: Worker "podcast-site" on podcast.jpnotes.dev).
+# Moved off Cloudflare Pages on 2026-11-18, as jpnotes.dev did.
+# Secret: CLOUDFLARE_API_TOKEN (Workers Scripts edit on the account).
+# Episode audio is not built here: it is in R2 (tools/audio-sync.py).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      # Shallow: the old mp3s (2.3 GB) are still in the history.
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22   # wrangler needs 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - run: npm ci
+      - run: npm run build
+
+      # Snapshot the sitemap that is live right now, before this deploy replaces
+      # it, so indexnow.mjs can submit only the URLs whose lastmod changed.
+      - name: Save live sitemap
+        continue-on-error: true
+        run: curl -sf https://podcast.jpnotes.dev/sitemap.xml -o prev-sitemap.xml || rm -f prev-sitemap.xml
+
+      # Uploads only the files that changed.
+      - name: Deploy to Cloudflare
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: npx wrangler deploy
+
+      # Notify Bing/Yandex/etc. of pages changed by this deploy (Google ignores IndexNow).
+      # After the deploy, so the key file and new pages are live. Never blocks a deploy.
+      - name: Ping IndexNow
+        continue-on-error: true
+        env:
+          INDEXNOW: "1"
+        run: node indexnow.mjs

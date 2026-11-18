@@ -1,0 +1,15 @@
+# The podcast site: dist/ served as static assets by Cloudflare (no script), like jpnotes-site.
+#   npm run build && npx wrangler deploy        (from site/; CI does this on every push: .github/workflows/deploy.yml)
+# Requests for files are free and don't count against the Workers plan.
+# dist/_redirects (from public/) is applied by Cloudflare: /audio/* → R2.
+# Moved off Cloudflare Pages (project japanese-daily-news) on 2026-11-18.
+name = "podcast-site"
+compatibility_date = "2026-09-01"
+workers_dev = true          # podcast-site.<account>.workers.dev, for checks without touching the domain
+preview_urls = false
+
+[assets]
+directory = "./dist"
+# /ep/291 → /ep/291/ (served from ep/291/index.html), as on Pages.
+html_handling = "auto-trailing-slash"
+not_found_handling = "404-page"

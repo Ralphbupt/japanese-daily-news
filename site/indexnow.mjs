@@ -1,7 +1,7 @@
 // IndexNow ping — notifies Bing/Yandex/Seznam/Naver of new and changed URLs so
-// they crawl fresh episodes fast (Google does not support IndexNow). Runs at
-// the end of `npm run build`, but only on Cloudflare Pages (CF_PAGES is set)
-// so local builds don't ping. Never fails the build.
+// they crawl fresh episodes fast (Google does not support IndexNow). Runs in
+// CI after the deploy (.github/workflows/deploy.yml sets INDEXNOW=1), so local
+// builds don't ping. Never fails the build.
 //
 // Key must be live at https://podcast.jpnotes.dev/<key>.txt (site/public/).
 // Same pattern as jpnotes.dev's indexnow.mjs in the japanese repo.
@@ -10,14 +10,15 @@ import fs from "node:fs";
 const KEY = "b25394c3a16456aefab2502b078c56ed";
 const HOST = "podcast.jpnotes.dev";
 
-if (!process.env.CF_PAGES) {
-  console.log("IndexNow: not a Cloudflare Pages build, skipping ping.");
+if (!process.env.INDEXNOW) {
+  console.log("IndexNow: not the CI deploy, skipping ping.");
   process.exit(0);
 }
 
 // Submit only what changed (as jpnotes.dev does): IndexNow wants new or
 // updated URLs, not the whole site on every deploy (2 deploys a day × ~530
-// URLs). The sitemap that is still live during the build is the "before".
+// URLs). The "before" is the sitemap saved by CI just before the deploy
+// (prev-sitemap.xml), else the live one.
 function parse(xml) {
   const map = new Map();
   for (const block of xml.split("<url>").slice(1)) {
@@ -30,8 +31,11 @@ function parse(xml) {
 const current = parse(fs.readFileSync("dist/sitemap.xml", "utf-8"));
 let previous = null;
 try {
-  const res = await fetch(`https://${HOST}/sitemap.xml`, { signal: AbortSignal.timeout(10000) });
-  if (res.ok) previous = parse(await res.text());
+  if (fs.existsSync("prev-sitemap.xml")) previous = parse(fs.readFileSync("prev-sitemap.xml", "utf-8"));
+  else {
+    const res = await fetch(`https://${HOST}/sitemap.xml`, { signal: AbortSignal.timeout(10000) });
+    if (res.ok) previous = parse(await res.text());
+  }
 } catch { /* first deploy or network trouble: submit everything */ }
 
 const homes = new Set([`https://${HOST}/`, `https://${HOST}/zh/`]); // episode lists change daily
