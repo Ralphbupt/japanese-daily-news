@@ -116,8 +116,9 @@ Steps:
    mp3 is not in R2. (mp3s are not committed; audio-sync records the size in
    site/src/data/audio-bytes.json, which is.)
 5. Re-run validate-episode.py epNNN to confirm it is clean.
-6. Commit and push:
-     git add -A
+6. Commit and push only the new episode's files (never `git add -A`: a script
+   left over from an earlier failed run would be published without audio):
+     git add scripts/epNNN.json scripts/epNNN.timing.json site/src/data/audio-bytes.json subtitles/epNNN.vtt subtitles/epNNN.srt
      git commit -m "Add epNNN: <short English summary of the story>"
      git push origin main
    (GitHub Actions deploys the site on push.)
