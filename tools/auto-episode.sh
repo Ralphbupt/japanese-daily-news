@@ -51,6 +51,14 @@ notify() {
       -d chat_id="$OWNER_ID" --data-urlencode text="$1" >/dev/null ) || true
 }
 
+# The mp3 goes to R2 (tools/audio-sync.py) with an API token kept in the crontab.
+# Without it the episode could not be published, so don't spend a run on it.
+if [ "${JDN_DRY:-0}" != "1" ] && [ -z "${CLOUDFLARE_API_TOKEN:-}" ]; then
+  echo "CLOUDFLARE_API_TOKEN is not set (crontab); no episode generated" >>"$LOG"
+  notify "🚨 Japanese Daily News: the $LEVEL run did not start: CLOUDFLARE_API_TOKEN is missing from the crontab (needed to upload audio to R2)."
+  exit 1
+fi
+
 DRYLINE=""
 if [ "${JDN_DRY:-0}" = "1" ]; then
   DRYLINE='DRY RUN: do everything through step 5, but DO NOT run step 6 (no git add/commit/push). Instead print "DRY RUN COMPLETE" and list every file you created or changed.'
@@ -102,8 +110,11 @@ Steps:
      .venv/bin/python tools/audit-furigana.py epNNN        # hand-fix any SUSPECT readings in the JSON
      .venv/bin/python tools/gen-episode.py epNNN
      .venv/bin/python tools/gen-subtitles.py epNNN
-     cp audio/epNNN.mp3 site/public/audio/
+     .venv/bin/python tools/audio-sync.py epNNN            # uploads the mp3 to R2 (the site plays it from there)
      cp subtitles/epNNN.* site/public/subtitles/
+   If audio-sync.py fails, stop and report the error: never push an episode whose
+   mp3 is not in R2. (mp3s are not committed; audio-sync records the size in
+   site/src/data/audio-bytes.json, which is.)
 5. Re-run validate-episode.py epNNN to confirm it is clean.
 6. Commit and push:
      git add -A
@@ -155,11 +166,13 @@ Steps:
    If the audio or timing fails, stop and report the error: never publish an
    episode without audio.
      .venv/bin/python tools/gen-subtitles.py nhNNN
-     cp audio/nhNNN.mp3 site/public/audio/
+     .venv/bin/python tools/audio-sync.py nhNNN            # uploads the mp3 to R2 (the site plays it from there)
      cp subtitles/nhNNN.* site/public/subtitles/
+   If audio-sync.py fails, stop and report the error: never push an episode whose
+   mp3 is not in R2.
 5. Re-run validate-episode.py nhNNN to confirm it is clean.
 6. Commit and push only the new episode's files:
-     git add scripts/nhNNN.json scripts/nhNNN.timing.json audio/nhNNN.mp3 subtitles/nhNNN.vtt subtitles/nhNNN.srt
+     git add scripts/nhNNN.json scripts/nhNNN.timing.json site/src/data/audio-bytes.json subtitles/nhNNN.vtt subtitles/nhNNN.srt
      git commit -m "Add nhNNN: <short English summary of the story>"
      git push origin main
    (Cloudflare Pages auto-deploys on push.)

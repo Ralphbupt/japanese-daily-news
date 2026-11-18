@@ -3,6 +3,7 @@ import Layout from '../../../layouts/Layout.astro';
 import { getAllEpisodes } from '../../../lib/episodes';
 import type { ProcessedEpisode } from '../../../lib/episodes';
 import { withUtm } from '../../../lib/jpnotes';
+import { audioUrl } from '../../../lib/audio';
 import { CHANNEL_PARAMS, langOf, channelOf, chp, altPaths, RSS_PATH, SHOW_NAME } from '../../../lib/i18n';
 
 const allEpisodes = getAllEpisodes(channelOf(Astro.params.lang));
@@ -58,7 +59,7 @@ const episodeJsonLd = {
   "duration": durationISO,
   "associatedMedia": {
     "@type": "MediaObject",
-    "contentUrl": `${SITE}/audio/${episode.id}.mp3`
+    "contentUrl": audioUrl(episode.id)
   },
   "partOfSeries": {
     "@type": "PodcastSeries",
@@ -381,7 +382,7 @@ const segmentsForClient = segs.map(s => ({
   <!-- Player -->
   <div class="player-bar" id="player">
     <audio id="audio" preload="auto">
-      <source src={`/audio/${episode.id}.mp3`} type="audio/mpeg" />
+      <source src={audioUrl(episode.id)} type="audio/mpeg" />
     </audio>
     <div class="player-inner">
       <div class="player-progress" id="progressBar">
@@ -1163,7 +1164,7 @@ const segmentsForClient = segs.map(s => ({
       if (canon && newCanon) canon.setAttribute('href', newCanon.getAttribute('href'));
       history.pushState(null, '', pagePrefix + '/ep/' + n + '/');
       window.scrollTo(0, 0);
-      audio.src = '/audio/' + document.getElementById('seg-data').getAttribute('data-ep') + '.mp3';
+      audio.src = doc.querySelector('#audio source').getAttribute('src');
       initEpisode(next);
     }
     function goToEpisode(n, next) {

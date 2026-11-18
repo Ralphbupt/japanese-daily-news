@@ -25,8 +25,8 @@ python3 tools/audit-furigana.py epNNN   # pykakasi mislabels multi-reading kanji
 # 5. Generate subtitles (VTT + SRT)
 python3 tools/gen-subtitles.py epNNN
 
-# 6. Copy assets to site
-cp audio/epNNN.mp3 site/public/audio/
+# 6. Upload the mp3 to R2 (and record its size), copy subtitles to site
+python3 tools/audio-sync.py epNNN
 cp subtitles/epNNN.* site/public/subtitles/
 
 # 7. Build and preview
@@ -131,7 +131,8 @@ Cache invalidation is **per-episode**, via the `contentVersion` field (format `Y
 
 - Site: Cloudflare Pages (`podcast.jpnotes.dev`)
 - Build: `cd site && npm install && npm run build` → output `site/dist`
-- Audio/subtitles committed to git, copied to `site/public/` during build
+- Audio: mp3s are NOT in git (`audio/*.mp3` is ignored; the 2026-11-18 move left them in history). `tools/audio-sync.py epNNN` uploads `audio/epNNN.mp3` to R2 (bucket `jpnotes-audio`, key `podcast/epNNN.mp3`, served at `https://audio.jpnotes.dev/podcast/epNNN.mp3`) and records its size in `site/src/data/audio-bytes.json` (committed; the RSS enclosure length). Run it before pushing. Pages and feeds point at R2 via `site/src/lib/audio.ts`; `site/public/_redirects` sends the old `/audio/*` URLs there. Auth: local wrangler login, or `CLOUDFLARE_API_TOKEN` (R2 edit) — the cron server keeps it in its crontab, and `auto-episode.sh` refuses to run without it
+- Subtitles committed to git, copied to `site/public/` during build
 - GA4: `G-7W59Y18KC8`
 
 ## Conventions

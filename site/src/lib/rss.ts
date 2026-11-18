@@ -1,12 +1,9 @@
 import { getAllEpisodes } from './episodes';
 import { withUtm } from './jpnotes';
 import { COVER, RSS_PATH, SHOW_NAME, chp, type Channel } from './i18n';
-import fs from 'node:fs';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { audioUrl, audioBytes } from './audio';
 
 const SITE = 'https://podcast.jpnotes.dev';
-const AUDIO_DIR = fileURLToPath(new URL('../../public/audio', import.meta.url));
 
 function escapeXml(s: string): string {
   return s
@@ -93,15 +90,13 @@ export function buildRss(channel: Channel): Response {
   const home = `${SITE}${chp('/', 'en', channel)}`.replace(/\/$/, '') || SITE;
 
   const items = episodes.map(ep => {
-    const audioUrl = `${SITE}/audio/${ep.id}.mp3`;
+    const enclosure = audioUrl(ep.id);
     // <link> ends in a slash, as the pages are served (the slashless address 308-redirects: Search Console listed 181
     // episodes as "Page with redirect", found through this feed, 2026-11-09). <guid> keeps the old address: podcast
     // apps know each episode by it, and a changed guid would show every episode as new.
     const link = `${SITE}${chp(`/ep/${ep.paddedNum}`, 'en', channel)}`;
 
-    let length = 0;
-    const audioPath = path.join(AUDIO_DIR, `${ep.id}.mp3`);
-    try { length = fs.statSync(audioPath).size; } catch { /* ok */ }
+    const length = audioBytes(ep.id);
 
     const lastSeg = ep.timedSegments[ep.timedSegments.length - 1];
     const durationSec = lastSeg ? Math.round(lastSeg.end + 2) : 0;
@@ -112,7 +107,7 @@ export function buildRss(channel: Channel): Response {
       <guid isPermaLink="true">${link}</guid>
       <pubDate>${rfcDate(ep.date, ep.level)}</pubDate>
       <description><![CDATA[${channel === 'nihongo' ? showNotesJa(ep) : showNotes(ep)}]]></description>
-      <enclosure url="${audioUrl}" length="${length}" type="audio/mpeg"/>
+      <enclosure url="${enclosure}" length="${length}" type="audio/mpeg"/>
       <itunes:duration>${durationSec}</itunes:duration>
       <itunes:episode>${ep.episode}</itunes:episode>
       <itunes:summary>${escapeXml(channel === 'nihongo' ? hookJa(ep) : ep.description)}</itunes:summary>
