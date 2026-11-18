@@ -1,0 +1,697 @@
+{
+  "episode": 292,
+  "title": "岩手県のクマ出没、去年の20分の1に　ブナが豊作",
+  "titleZh": "岩手县熊出没骤减至去年的二十分之一",
+  "titleEn": "Bear sightings in Iwate fall to a twentieth of last year",
+  "date": "2026-11-18",
+  "source": "岩手めんこいテレビ（Yahoo!ニュース）",
+  "level": "N4-N3",
+  "contentVersion": "2026111801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "減る",
+      "reading": "へる",
+      "en": "to decrease; to go down",
+      "zh": "减少"
+    },
+    {
+      "ja": "およそ",
+      "reading": "およそ",
+      "en": "about; roughly",
+      "zh": "大约"
+    },
+    {
+      "ja": "実",
+      "reading": "み",
+      "en": "nut; fruit (of a tree)",
+      "zh": "果实"
+    },
+    {
+      "ja": "ほとんど",
+      "reading": "ほとんど",
+      "en": "almost (none, with a negative)",
+      "zh": "几乎（不）"
+    },
+    {
+      "ja": "豊作",
+      "reading": "ほうさく",
+      "en": "good harvest",
+      "zh": "丰收"
+    },
+    {
+      "ja": "襲う",
+      "reading": "おそう",
+      "en": "to attack",
+      "zh": "袭击"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "harm; damage",
+      "zh": "受害，损害"
+    },
+    {
+      "ja": "亡くなる",
+      "reading": "なくなる",
+      "en": "to pass away",
+      "zh": "去世"
+    },
+    {
+      "ja": "油断",
+      "reading": "ゆだん",
+      "en": "carelessness; letting one's guard down",
+      "zh": "大意，疏忽"
+    },
+    {
+      "ja": "慣れる",
+      "reading": "なれる",
+      "en": "to get used to",
+      "zh": "习惯"
+    },
+    {
+      "ja": "冬眠",
+      "reading": "とうみん",
+      "en": "hibernation",
+      "zh": "冬眠"
+    },
+    {
+      "ja": "連れる",
+      "reading": "つれる",
+      "en": "to bring (someone) along",
+      "zh": "带着"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜かもしれません",
+      "meaning": "might ~; may ~",
+      "meaningZh": "也许……，可能……",
+      "formation": "Plain form + かもしれません",
+      "example": "人の住む所に慣れたクマは、これからも出てくるかもしれません。",
+      "translation": "Bears used to places where people live may keep appearing.",
+      "note": "Shows something is possible but not certain.",
+      "noteZh": "表示有可能，但不确定。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~; reportedly ~",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "冬眠が遅れるクマもいるかもしれないということです。",
+      "translation": "It is said that some bears may hibernate late.",
+      "note": "Used in news to report what someone else said.",
+      "noteZh": "新闻中常用来转述别人说的内容。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜なくなる",
+      "meaning": "to stop ~ing; to no longer ~",
+      "meaningZh": "变得不再……",
+      "formation": "Verb ない-form (drop い) + くなる",
+      "example": "クマは人の住む所に来なくなりました。",
+      "translation": "Bears stopped coming to places where people live.",
+      "note": "Shows a change: something that used to happen no longer happens.",
+      "noteZh": "表示变化：以前发生的事不再发生。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことが大切だ",
+      "meaning": "it is important to ~",
+      "meaningZh": "……很重要",
+      "formation": "Verb dictionary form + ことが大切だ",
+      "example": "家のかぎをかけることが大切です。",
+      "translation": "It is important to lock your house.",
+      "note": "Turns an action into a noun with こと to say it matters.",
+      "noteZh": "用こと把动作名词化，表示做这件事很重要。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "岩手県で、クマが出てくる件数が大きく減っています。\n岩手县出现熊的次数大幅减少。\n減る = to decrease; to go down",
+    "今年の10月、クマが出たという知らせは146件でした。\n今年10月，熊出没的报告有146起。",
+    "去年の10月は3088件だったので、およそ20分の1です。\n去年10月有3088起，所以大约只有去年的20分之1。\nおよそ = about; roughly",
+    "理由は、山でブナの実がたくさんできたことです。\n原因是山里结了很多山毛榉的果实。\n実 = nut; fruit (of a tree)",
+    "去年は、ブナの実がほとんどできませんでした。\n去年，山毛榉几乎没有结果。\nほとんど = almost (none, with a negative)",
+    "今年は、この11年でいちばんの豊作になりました。\n今年是这11年来收成最好的一年。\n豊作 = good harvest",
+    "クマは山で食べ物を見つけられるので、人の住む所に来なくなりました。\n因为熊在山里能找到食物，所以不再来人住的地方了。",
+    "クマに襲われた人も減りました。\n被熊袭击的人也减少了。\n襲う = to attack",
+    "去年は40人が被害にあって、5人が亡くなりました。\n去年有40人受害，其中5人死亡。\n被害 = harm; damage",
+    "今年は12人で、亡くなった人は3人でした。\n今年是12人，死亡的有3人。\n亡くなる = to pass away",
+    "しかし、岩手大学の先生は、まだ油断できないと話しています。\n但是，岩手大学的老师说，现在还不能大意。\n油断 = carelessness; letting one's guard down",
+    "人の住む所に慣れたクマは、これからも出てくるかもしれません。\n习惯了人类居住地的熊，今后也可能会出现。\n慣れる = to get used to",
+    "食べ物が多いので、冬眠が遅れるクマもいるかもしれないということです。\n据说因为食物多，有些熊可能会推迟冬眠。\n冬眠 = hibernation",
+    "来年は、子どもを連れたクマが増えるかもしれません。\n明年，带着小熊的熊可能会增多。\n連れる = to bring (someone) along",
+    "先生は、家のかぎをかけることや、クマよけのスプレーを持つことが大切だと言っています。\n老师说，锁好家门、随身携带防熊喷雾很重要。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November eighteenth: why bears are staying away from towns in northern Japan this fall. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "岩手県で、クマが出てくる件数が大きく減っています。",
+      "zh": "岩手县出现熊的次数大幅减少。",
+      "en": "In Iwate Prefecture, the number of bear sightings has dropped sharply.",
+      "ruby": "<ruby>岩手県<rt>いわてけん</rt></ruby>で、クマが<ruby>出て<rt>でて</rt></ruby>くる<ruby>件数<rt>けんすう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の10月、クマが出たという知らせは146件でした。",
+      "tts": "今年のじゅうがつ、クマが出たという知らせはひゃくよんじゅうろっけんでした。",
+      "zh": "今年10月，熊出没的报告有146起。",
+      "en": "This October, there were 146 reports of bears appearing.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>、クマが<ruby>出た<rt>でた</rt></ruby>という<ruby>知らせ<rt>しらせ</rt></ruby>は146<ruby>件<rt>けん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の10月は3088件だったので、およそ20分の1です。",
+      "tts": "去年のじゅうがつはさんぜんはちじゅうはっけんだったので、およそにじゅうぶんのいちです。",
+      "zh": "去年10月有3088起，所以大约只有去年的20分之1。",
+      "en": "Last October there were 3,088, so it is about 1/20.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>は3088<ruby>件<rt>けん</rt></ruby>だったので、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>20<ruby>分<rt>ぶん</rt></ruby>の1です。"
+    },
+    {
+      "speaker": "news",
+      "text": "理由は、山でブナの実がたくさんできたことです。",
+      "zh": "原因是山里结了很多山毛榉的果实。",
+      "en": "The reason is that beech trees in the mountains produced a lot of nuts.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>でブナの<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>がたくさんできたことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年は、ブナの実がほとんどできませんでした。",
+      "zh": "去年，山毛榉几乎没有结果。",
+      "en": "Last year, the beech trees produced almost no nuts.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は、ブナの<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>がほとんどできませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、この11年でいちばんの豊作になりました。",
+      "tts": "今年は、このじゅういちねんでいちばんの豊作になりました。",
+      "zh": "今年是这11年来收成最好的一年。",
+      "en": "This year, it was the best crop in 11 years.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、この11<ruby>年<rt>ねん</rt></ruby>でいちばんの<span class=\"vw\" data-ja=\"豊作\" data-reading=\"ほうさく\" data-en=\"good harvest\"><ruby>豊作<rt>ほうさく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "クマは山で食べ物を見つけられるので、人の住む所に来なくなりました。",
+      "zh": "因为熊在山里能找到食物，所以不再来人住的地方了。",
+      "en": "Because bears can find food in the mountains, they stopped coming to places where people live.",
+      "ruby": "クマは<ruby>山<rt>やま</rt></ruby>で<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けられるので、<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>来な<rt>こな</rt></ruby>くなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "クマに襲われた人も減りました。",
+      "zh": "被熊袭击的人也减少了。",
+      "en": "The number of people attacked by bears has also gone down.",
+      "ruby": "クマに<ruby>襲わ<rt>おそわ</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>も<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年は40人が被害にあって、5人が亡くなりました。",
+      "tts": "去年はよんじゅうにんが被害にあって、ごにんが亡くなりました。",
+      "zh": "去年有40人受害，其中5人死亡。",
+      "en": "Last year, 40 people were harmed, and 5 of them died.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は40<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"harm; damage\"><ruby>被害<rt>ひがい</rt></ruby></span>にあって、5<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は12人で、亡くなった人は3人でした。",
+      "tts": "今年はじゅうににんで、亡くなった人はさんにんでした。",
+      "zh": "今年是12人，死亡的有3人。",
+      "en": "This year it was 12 people, and 3 of them died.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は12<ruby>人<rt>にん</rt></ruby>で、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は3<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、岩手大学の先生は、まだ油断できないと話しています。",
+      "zh": "但是，岩手大学的老师说，现在还不能大意。",
+      "en": "However, a professor at Iwate University says people still cannot let their guard down.",
+      "ruby": "しかし、<ruby>岩手大学<rt>いわてだいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は、まだ<span class=\"vw\" data-ja=\"油断\" data-reading=\"ゆだん\" data-en=\"carelessness; letting one's guard down\"><ruby>油断<rt>ゆだん</rt></ruby></span>できないと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "人の住む所に慣れたクマは、これからも出てくるかもしれません。",
+      "zh": "习惯了人类居住地的熊，今后也可能会出现。",
+      "en": "Bears that have gotten used to places where people live may keep appearing.",
+      "ruby": "<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>慣れ<rt>なれ</rt></ruby>たクマは、これからも<ruby>出て<rt>でて</rt></ruby>くるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物が多いので、冬眠が遅れるクマもいるかもしれないということです。",
+      "zh": "据说因为食物多，有些熊可能会推迟冬眠。",
+      "en": "Because there is a lot of food, some bears may start hibernating late.",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ので、<span class=\"vw\" data-ja=\"冬眠\" data-reading=\"とうみん\" data-en=\"hibernation\"><ruby>冬眠<rt>とうみん</rt></ruby></span>が<ruby>遅れ<rt>おくれ</rt></ruby>るクマもいるかもしれないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "来年は、子どもを連れたクマが増えるかもしれません。",
+      "zh": "明年，带着小熊的熊可能会增多。",
+      "en": "Next year, there may be more bears with cubs.",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>は、<ruby>子ども<rt>こども</rt></ruby>を<ruby>連れ<rt>つれ</rt></ruby>たクマが<ruby>増え<rt>ふえ</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "先生は、家のかぎをかけることや、クマよけのスプレーを持つことが大切だと言っています。",
+      "zh": "老师说，锁好家门、随身携带防熊喷雾很重要。",
+      "en": "The professor says it is important to lock your house and to carry bear spray.",
+      "ruby": "<ruby>先生<rt>せんせい</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>のかぎをかけることや、クマよけのスプレーを<ruby>持つ<rt>もつ</rt></ruby>ことが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "岩手県で、クマが出てくる件数が大きく減っています。",
+      "ruby": "<ruby>岩手県<rt>いわてけん</rt></ruby>で、クマが<ruby>出て<rt>でて</rt></ruby>くる<ruby>件数<rt>けんすう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Iwate Prefecture, the number of bear sightings has dropped sharply."
+    },
+    {
+      "speaker": "vocab",
+      "text": "減る",
+      "ruby": "<span class=\"vw\" data-ja=\"減る\" data-reading=\"へる\" data-en=\"to decrease; to go down\"><ruby>減る<rt>へる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decrease or go down."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の10月、クマが出たという知らせは146件でした。",
+      "tts": "今年のじゅうがつ、クマが出たという知らせはひゃくよんじゅうろっけんでした。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>、クマが<ruby>出た<rt>でた</rt></ruby>という<ruby>知らせ<rt>しらせ</rt></ruby>は146<ruby>件<rt>けん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "This October, there were one hundred forty-six reports of bears."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年の10月は3088件だったので、およそ20分の1です。",
+      "tts": "去年のじゅうがつはさんぜんはちじゅうはっけんだったので、およそにじゅうぶんのいちです。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>は3088<ruby>件<rt>けん</rt></ruby>だったので、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>20<ruby>分<rt>ぶん</rt></ruby>の1です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last October there were three thousand eighty-eight, so it's about one twentieth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "およそ",
+      "ruby": "<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means about, or roughly."
+    },
+    {
+      "speaker": "slow",
+      "text": "理由は、山でブナの実がたくさんできたことです。",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>でブナの<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>がたくさんできたことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The reason: beech trees in the mountains produced a lot of nuts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "実",
+      "ruby": "<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a nut, berry or fruit on a tree."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年は、ブナの実がほとんどできませんでした。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は、ブナの<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>がほとんどできませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year, the beech trees produced almost no nuts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ほとんど",
+      "ruby": "<span class=\"vw\" data-ja=\"ほとんど\" data-reading=\"ほとんど\" data-en=\"almost (none, with a negative)\">ほとんど</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Before a negative, it means almost none."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、この11年でいちばんの豊作になりました。",
+      "tts": "今年は、このじゅういちねんでいちばんの豊作になりました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、この11<ruby>年<rt>ねん</rt></ruby>でいちばんの<span class=\"vw\" data-ja=\"豊作\" data-reading=\"ほうさく\" data-en=\"good harvest\"><ruby>豊作<rt>ほうさく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year was the best crop in eleven years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "豊作",
+      "ruby": "<span class=\"vw\" data-ja=\"豊作\" data-reading=\"ほうさく\" data-en=\"good harvest\"><ruby>豊作<rt>ほうさく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a good harvest."
+    },
+    {
+      "speaker": "slow",
+      "text": "クマは山で食べ物を見つけられるので、人の住む所に来なくなりました。",
+      "ruby": "クマは<ruby>山<rt>やま</rt></ruby>で<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けられるので、<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>来な<rt>こな</rt></ruby>くなりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bears can find food in the mountains, so they stopped coming to where people live."
+    },
+    {
+      "speaker": "slow",
+      "text": "クマに襲われた人も減りました。",
+      "ruby": "クマに<ruby>襲わ<rt>おそわ</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>も<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fewer people were attacked by bears, too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "襲う",
+      "ruby": "<span class=\"vw\" data-ja=\"襲う\" data-reading=\"おそう\" data-en=\"to attack\"><ruby>襲う<rt>おそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to attack."
+    },
+    {
+      "speaker": "slow",
+      "text": "去年は40人が被害にあって、5人が亡くなりました。",
+      "tts": "去年はよんじゅうにんが被害にあって、ごにんが亡くなりました。",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は40<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"harm; damage\"><ruby>被害<rt>ひがい</rt></ruby></span>にあって、5<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Last year, forty people were harmed, and five died."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被害",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"harm; damage\"><ruby>被害<rt>ひがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means harm or damage. With the verb after it, it means to suffer harm."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は12人で、亡くなった人は3人でした。",
+      "tts": "今年はじゅうににんで、亡くなった人はさんにんでした。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は12<ruby>人<rt>にん</rt></ruby>で、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は3<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, twelve people, and three died."
+    },
+    {
+      "speaker": "vocab",
+      "text": "亡くなる",
+      "ruby": "<span class=\"vw\" data-ja=\"亡くなる\" data-reading=\"なくなる\" data-en=\"to pass away\"><ruby>亡く<rt>なく</rt></ruby>なる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "A polite way to say to die, or pass away."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、岩手大学の先生は、まだ油断できないと話しています。",
+      "ruby": "しかし、<ruby>岩手大学<rt>いわてだいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は、まだ<span class=\"vw\" data-ja=\"油断\" data-reading=\"ゆだん\" data-en=\"carelessness; letting one's guard down\"><ruby>油断<rt>ゆだん</rt></ruby></span>できないと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "But a university professor says people still can't let their guard down."
+    },
+    {
+      "speaker": "vocab",
+      "text": "油断",
+      "ruby": "<span class=\"vw\" data-ja=\"油断\" data-reading=\"ゆだん\" data-en=\"carelessness; letting one's guard down\"><ruby>油断<rt>ゆだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means carelessness, letting your guard down."
+    },
+    {
+      "speaker": "slow",
+      "text": "人の住む所に慣れたクマは、これからも出てくるかもしれません。",
+      "ruby": "<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>慣れ<rt>なれ</rt></ruby>たクマは、これからも<ruby>出て<rt>でて</rt></ruby>くるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bears used to places where people live may keep appearing."
+    },
+    {
+      "speaker": "vocab",
+      "text": "慣れる",
+      "ruby": "<span class=\"vw\" data-ja=\"慣れる\" data-reading=\"なれる\" data-en=\"to get used to\"><ruby>慣れ<rt>なれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to get used to something."
+    },
+    {
+      "speaker": "slow",
+      "text": "食べ物が多いので、冬眠が遅れるクマもいるかもしれないということです。",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ので、<span class=\"vw\" data-ja=\"冬眠\" data-reading=\"とうみん\" data-en=\"hibernation\"><ruby>冬眠<rt>とうみん</rt></ruby></span>が<ruby>遅れ<rt>おくれ</rt></ruby>るクマもいるかもしれないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "With so much food, some bears may start their winter sleep late."
+    },
+    {
+      "speaker": "vocab",
+      "text": "冬眠",
+      "ruby": "<span class=\"vw\" data-ja=\"冬眠\" data-reading=\"とうみん\" data-en=\"hibernation\"><ruby>冬眠<rt>とうみん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means hibernation, the long winter sleep."
+    },
+    {
+      "speaker": "slow",
+      "text": "来年は、子どもを連れたクマが増えるかもしれません。",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>は、<ruby>子ども<rt>こども</rt></ruby>を<ruby>連れ<rt>つれ</rt></ruby>たクマが<ruby>増え<rt>ふえ</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Next year, there may be more bears with cubs."
+    },
+    {
+      "speaker": "vocab",
+      "text": "連れる",
+      "ruby": "<span class=\"vw\" data-ja=\"連れる\" data-reading=\"つれる\" data-en=\"to bring (someone) along\"><ruby>連れ<rt>つれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to bring someone along with you."
+    },
+    {
+      "speaker": "slow",
+      "text": "先生は、家のかぎをかけることや、クマよけのスプレーを持つことが大切だと言っています。",
+      "ruby": "<ruby>先生<rt>せんせい</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>のかぎをかけることや、クマよけのスプレーを<ruby>持つ<rt>もつ</rt></ruby>ことが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "The professor says locking your house and carrying bear spray are important."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "岩手県で、クマが出てくる件数が大きく減っています。",
+      "zh": "岩手县出现熊的次数大幅减少。",
+      "en": "In Iwate Prefecture, the number of bear sightings has dropped sharply.",
+      "ruby": "<ruby>岩手県<rt>いわてけん</rt></ruby>で、クマが<ruby>出て<rt>でて</rt></ruby>くる<ruby>件数<rt>けんすう</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>減っ<rt>へっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年の10月、クマが出たという知らせは146件でした。",
+      "tts": "今年のじゅうがつ、クマが出たという知らせはひゃくよんじゅうろっけんでした。",
+      "zh": "今年10月，熊出没的报告有146起。",
+      "en": "This October, there were 146 reports of bears appearing.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>、クマが<ruby>出た<rt>でた</rt></ruby>という<ruby>知らせ<rt>しらせ</rt></ruby>は146<ruby>件<rt>けん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年の10月は3088件だったので、およそ20分の1です。",
+      "tts": "去年のじゅうがつはさんぜんはちじゅうはっけんだったので、およそにじゅうぶんのいちです。",
+      "zh": "去年10月有3088起，所以大约只有去年的20分之1。",
+      "en": "Last October there were 3,088, so it is about 1/20.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>は3088<ruby>件<rt>けん</rt></ruby>だったので、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>20<ruby>分<rt>ぶん</rt></ruby>の1です。"
+    },
+    {
+      "speaker": "news",
+      "text": "理由は、山でブナの実がたくさんできたことです。",
+      "zh": "原因是山里结了很多山毛榉的果实。",
+      "en": "The reason is that beech trees in the mountains produced a lot of nuts.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>でブナの<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>がたくさんできたことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年は、ブナの実がほとんどできませんでした。",
+      "zh": "去年，山毛榉几乎没有结果。",
+      "en": "Last year, the beech trees produced almost no nuts.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は、ブナの<span class=\"vw\" data-ja=\"実\" data-reading=\"み\" data-en=\"nut; fruit (of a tree)\"><ruby>実<rt>み</rt></ruby></span>がほとんどできませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、この11年でいちばんの豊作になりました。",
+      "tts": "今年は、このじゅういちねんでいちばんの豊作になりました。",
+      "zh": "今年是这11年来收成最好的一年。",
+      "en": "This year, it was the best crop in 11 years.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、この11<ruby>年<rt>ねん</rt></ruby>でいちばんの<span class=\"vw\" data-ja=\"豊作\" data-reading=\"ほうさく\" data-en=\"good harvest\"><ruby>豊作<rt>ほうさく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "クマは山で食べ物を見つけられるので、人の住む所に来なくなりました。",
+      "zh": "因为熊在山里能找到食物，所以不再来人住的地方了。",
+      "en": "Because bears can find food in the mountains, they stopped coming to places where people live.",
+      "ruby": "クマは<ruby>山<rt>やま</rt></ruby>で<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けられるので、<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>来な<rt>こな</rt></ruby>くなりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "クマに襲われた人も減りました。",
+      "zh": "被熊袭击的人也减少了。",
+      "en": "The number of people attacked by bears has also gone down.",
+      "ruby": "クマに<ruby>襲わ<rt>おそわ</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>も<ruby>減り<rt>へり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "去年は40人が被害にあって、5人が亡くなりました。",
+      "tts": "去年はよんじゅうにんが被害にあって、ごにんが亡くなりました。",
+      "zh": "去年有40人受害，其中5人死亡。",
+      "en": "Last year, 40 people were harmed, and 5 of them died.",
+      "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は40<ruby>人<rt>にん</rt></ruby>が<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"harm; damage\"><ruby>被害<rt>ひがい</rt></ruby></span>にあって、5<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は12人で、亡くなった人は3人でした。",
+      "tts": "今年はじゅうににんで、亡くなった人はさんにんでした。",
+      "zh": "今年是12人，死亡的有3人。",
+      "en": "This year it was 12 people, and 3 of them died.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は12<ruby>人<rt>にん</rt></ruby>で、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>人<rt>ひと</rt></ruby>は3<ruby>人<rt>にん</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、岩手大学の先生は、まだ油断できないと話しています。",
+      "zh": "但是，岩手大学的老师说，现在还不能大意。",
+      "en": "However, a professor at Iwate University says people still cannot let their guard down.",
+      "ruby": "しかし、<ruby>岩手大学<rt>いわてだいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は、まだ<span class=\"vw\" data-ja=\"油断\" data-reading=\"ゆだん\" data-en=\"carelessness; letting one's guard down\"><ruby>油断<rt>ゆだん</rt></ruby></span>できないと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "人の住む所に慣れたクマは、これからも出てくるかもしれません。",
+      "zh": "习惯了人类居住地的熊，今后也可能会出现。",
+      "en": "Bears that have gotten used to places where people live may keep appearing.",
+      "ruby": "<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>慣れ<rt>なれ</rt></ruby>たクマは、これからも<ruby>出て<rt>でて</rt></ruby>くるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物が多いので、冬眠が遅れるクマもいるかもしれないということです。",
+      "zh": "据说因为食物多，有些熊可能会推迟冬眠。",
+      "en": "Because there is a lot of food, some bears may start hibernating late.",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ので、<span class=\"vw\" data-ja=\"冬眠\" data-reading=\"とうみん\" data-en=\"hibernation\"><ruby>冬眠<rt>とうみん</rt></ruby></span>が<ruby>遅れ<rt>おくれ</rt></ruby>るクマもいるかもしれないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "来年は、子どもを連れたクマが増えるかもしれません。",
+      "zh": "明年，带着小熊的熊可能会增多。",
+      "en": "Next year, there may be more bears with cubs.",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>は、<ruby>子ども<rt>こども</rt></ruby>を<ruby>連れ<rt>つれ</rt></ruby>たクマが<ruby>増え<rt>ふえ</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "先生は、家のかぎをかけることや、クマよけのスプレーを持つことが大切だと言っています。",
+      "zh": "老师说，锁好家门、随身携带防熊喷雾很重要。",
+      "en": "The professor says it is important to lock your house and to carry bear spray.",
+      "ruby": "<ruby>先生<rt>せんせい</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>のかぎをかけることや、クマよけのスプレーを<ruby>持つ<rt>もつ</rt></ruby>ことが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言って<rt>いって</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年の10月、クマが出たという知らせは何件でしたか。",
+      "tts": "今年のじゅうがつ、クマが出たという知らせはなんけんでしたか。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>の10<ruby>月<rt>がつ</rt></ruby>、クマが<ruby>出た<rt>でた</rt></ruby>という<ruby>知らせ<rt>しらせ</rt></ruby>は<ruby>何件<rt>なんけん</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred forty-six."
+    },
+    {
+      "speaker": "slow",
+      "text": "クマが人の住む所に来なくなった理由は何ですか。",
+      "tts": "クマが人の住む所に来なくなった理由はなんですか。",
+      "ruby": "クマが<ruby>人<rt>ひと</rt></ruby>の<ruby>住む<rt>すむ</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>来な<rt>こな</rt></ruby>くなった<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Beech trees in the mountains produced a lot of nuts, so bears can find food there."
+    },
+    {
+      "speaker": "slow",
+      "text": "来年は、どんなクマが増えるかもしれませんか。",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>は、どんなクマが<ruby>増え<rt>ふえ</rt></ruby>るかもしれませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bears with cubs."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
