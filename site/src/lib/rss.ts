@@ -18,8 +18,48 @@ const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replac
 
 // Show notes: the summary, then this episode's grammar points, each linked to
 // its jpnotes.dev lesson section (podcast apps render this HTML subset).
+// Chapters as timestamps in the show notes ("00:00 Intro", one per line), which Spotify
+// and other apps turn into chapters. Every episode has the same shape, so the starts come
+// from its timing: the main show is intro, news, breakdown, news again, quiz; the
+// all-Japanese one is opening, news, talk, news again. A chapter starts at the line that
+// introduces it. Fewer than three chapters (an odd old episode) gives none.
+type Ep = ReturnType<typeof getAllEpisodes>[number];
+function stamp(sec: number): string {
+  const s = Math.floor(sec), h = Math.floor(s / 3600), m = Math.floor(s / 60) % 60, r = s % 60;
+  const mm = String(m).padStart(2, '0'), ss = String(r).padStart(2, '0');
+  return h ? `${h}:${mm}:${ss}` : `${mm}:${ss}`;
+}
+function chapters(ep: Ep, channel: Channel): string {
+  const seg = ep.timedSegments;
+  const isNews = (i: number) => seg[i]?.speaker === 'news';
+  const after = (from: number, ok: (i: number) => boolean) => {
+    for (let i = Math.max(from, 0); i < seg.length; i++) if (ok(i)) return i;
+    return -1;
+  };
+  const news1 = after(0, isNews);
+  const talk = news1 < 0 ? -1 : after(news1, i => !isNews(i));
+  const news2 = talk < 0 ? -1 : after(talk, isNews);
+  const lead = (i: number) => (i > 0 && !isNews(i - 1) ? i - 1 : i);   // the line announcing it
+  const quiz = news2 < 0 ? -1 : after(news2, i => !isNews(i) && i < seg.length - 2);
+  const labels = channel === 'nihongo'
+    ? ['オープニング', 'ニュース', 'ニュースについて', 'もう一度ニュース']
+    : ['Intro', 'The news in Japanese', 'Sentence by sentence', 'The news again', 'Quiz'];
+  const starts = channel === 'nihongo'
+    ? [0, news1, talk, news2 < 0 ? -1 : lead(news2)]
+    : [0, news1, talk, news2 < 0 ? -1 : lead(news2), quiz];
+  const list: [number, string][] = [];
+  starts.forEach((i, k) => {
+    if (i < 0) return;
+    const t = k === 0 ? 0 : seg[i].start;
+    if (list.length && t - list[list.length - 1][0] < 10) return;   // apps want chapters of 10 s or more
+    list.push([t, labels[k]]);
+  });
+  if (list.length < 3) return '';
+  return '<p>' + list.map(([t, l]) => `${stamp(t)} ${esc(l)}`).join('<br>') + '</p>';
+}
+
 function showNotes(ep: ReturnType<typeof getAllEpisodes>[number]): string {
-  let html = `<p>${esc(ep.description)}</p>`;
+  let html = `<p>${esc(ep.description)}</p>` + chapters(ep, 'main');
   if (ep.grammar.length) {
     html += '<p>Grammar in this episode:</p><ul>' + ep.grammar.map(g =>
       `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a> — ${esc(g.meaning)}</li>`).join('') + '</ul>';
@@ -33,7 +73,7 @@ function showNotes(ep: ReturnType<typeof getAllEpisodes>[number]): string {
 
 // The all-Japanese show: notes in Japanese too, opening with the episode's hook.
 function showNotesJa(ep: ReturnType<typeof getAllEpisodes>[number]): string {
-  let html = `<p>${esc(hookJa(ep))}</p>`;
+  let html = `<p>${esc(hookJa(ep))}</p>` + chapters(ep, 'nihongo');
   if (ep.grammar.length) {
     html += '<p>今回の文法：</p><ul>' + ep.grammar.map(g =>
       `<li><a href="${esc(withUtm(g.jpnotes!.url, 'rss'))}">${esc(g.pattern)}</a></li>`).join('') + '</ul>';

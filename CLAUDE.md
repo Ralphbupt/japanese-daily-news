@@ -102,7 +102,7 @@ Astro 5 static site. Key files:
 - `src/pages/[...lang]/ep/[id].astro` — episode page with player, transcript, practice mode
 - `src/pages/[...lang]/index.astro`, `about.astro` — landing / about page
 - `src/lib/i18n.ts` — one page per language, like jpnotes.dev: English at `/…/`, Chinese at `/zh/…/` (`[...lang]` = undefined | `zh`). Write UI text with both `class="i18n-en"` / `class="i18n-zh"` siblings; after the build `astro.config.mjs` (`stripOtherLang`) keeps only the page's own language. `Layout.astro` sets `lang`, hreflang/x-default, and redirects to the reader's saved language (`jdn-lang`; a zh browser with none saved only from the English home page). Internal links go through `lp(path, lang)`
-- `src/pages/rss.xml.ts` — podcast RSS feed
+- `src/pages/rss.xml.ts` — podcast RSS feed (built by `src/lib/rss.ts`; show notes start with chapter timestamps — intro / news / breakdown / news again / quiz — computed from each episode's timing, which Spotify turns into chapters)
 - `src/pages/sitemap.xml.ts` — sitemap
 - `src/layouts/Layout.astro` — base layout with GA4, theme/lang toggle
 
