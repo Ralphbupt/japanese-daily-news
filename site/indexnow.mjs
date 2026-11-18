@@ -7,7 +7,7 @@
 // Same pattern as jpnotes.dev's indexnow.mjs in the japanese repo.
 import fs from "node:fs";
 
-const KEY = "b25394c3a16456aefab2502b078c56ed";
+const KEY = "3ada3fa769e6b72d50eb6b75118f1182";
 const HOST = "podcast.jpnotes.dev";
 
 if (!process.env.INDEXNOW) {
