@@ -1,0 +1,740 @@
+{
+  "episode": 294,
+  "title": "強い寒気で冬の嵐、北日本や北陸で大雪のおそれ",
+  "titleZh": "强冷空气带来冬季风暴，北日本和北陆或降大雪",
+  "titleEn": "Winter storm brings heavy snow risk to northern Japan",
+  "date": "2026-11-19",
+  "source": "tenki.jp（日本気象協会）、NHK、UX新潟テレビ21（Yahoo!ニュース）",
+  "level": "N4-N3",
+  "contentVersion": "2026111901",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "寒気",
+      "reading": "かんき",
+      "en": "cold air; a cold air mass",
+      "zh": "冷空气"
+    },
+    {
+      "ja": "流れ込む",
+      "reading": "ながれこむ",
+      "en": "to flow in",
+      "zh": "流入；涌入"
+    },
+    {
+      "ja": "嵐",
+      "reading": "あらし",
+      "en": "storm",
+      "zh": "暴风雨；风暴"
+    },
+    {
+      "ja": "おそれ",
+      "reading": "おそれ",
+      "en": "risk; fear (that something bad happens)",
+      "zh": "恐怕；有……的危险"
+    },
+    {
+      "ja": "上空",
+      "reading": "じょうくう",
+      "en": "the sky above; high in the air",
+      "zh": "高空；上空"
+    },
+    {
+      "ja": "積もる",
+      "reading": "つもる",
+      "en": "to pile up; to accumulate",
+      "zh": "堆积；积（雪）"
+    },
+    {
+      "ja": "大しけ",
+      "reading": "おおしけ",
+      "en": "very rough sea; stormy sea",
+      "zh": "海上狂风巨浪"
+    },
+    {
+      "ja": "在来線",
+      "reading": "ざいらいせん",
+      "en": "conventional (non-Shinkansen) train line",
+      "zh": "普通铁路线（非新干线）"
+    },
+    {
+      "ja": "運休",
+      "reading": "うんきゅう",
+      "en": "suspension of service (train, bus)",
+      "zh": "停运"
+    },
+    {
+      "ja": "初日",
+      "reading": "しょにち",
+      "en": "the first day",
+      "zh": "第一天"
+    },
+    {
+      "ja": "範囲",
+      "reading": "はんい",
+      "en": "range; area; extent",
+      "zh": "范围"
+    },
+    {
+      "ja": "凍る",
+      "reading": "こおる",
+      "en": "to freeze",
+      "zh": "结冰；冻结"
+    },
+    {
+      "ja": "すべる",
+      "reading": "すべる",
+      "en": "to slip; to slide",
+      "zh": "滑；打滑"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜にかけて",
+      "meaning": "from ~ through ~; over (a period)",
+      "meaningZh": "从……到……（一段时间）",
+      "formation": "Noun + から + Noun + にかけて",
+      "example": "20日から21日にかけて、北日本では大雪になるおそれがあります。",
+      "translation": "From the 20th to the 21st, there is a risk of heavy snow in northern Japan.",
+      "note": "Marks a span of time or area without exact edges; common in weather news.",
+      "noteZh": "表示大致的时间或地域范围，天气预报中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "有……的危险；恐怕会……",
+      "formation": "Verb dictionary form / Noun + の + おそれがある",
+      "example": "道が凍って、すべりやすくなるおそれがあります。",
+      "translation": "Roads may freeze and become slippery.",
+      "note": "Used only for bad things that might happen; a news and warning expression.",
+      "noteZh": "只用于可能发生的坏事，新闻和警报中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜そうです (様態)",
+      "meaning": "looks like ~; is likely to ~",
+      "meaningZh": "看样子会……，好像要……",
+      "formation": "Verb ます-stem + そうです",
+      "example": "午前中を中心に雪が続きそうです。",
+      "translation": "Snow is likely to continue, mainly in the morning.",
+      "note": "A guess based on what you see or know now, not hearsay.",
+      "noteZh": "根据现在看到或了解的情况做出的推测，不是传闻。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜やすい",
+      "meaning": "easy to ~; tends to ~",
+      "meaningZh": "容易……",
+      "formation": "Verb ます-stem + やすい",
+      "example": "道がすべりやすくなります。",
+      "translation": "Roads become slippery.",
+      "note": "With an unwanted action, it means something tends to happen.",
+      "noteZh": "接不希望发生的动作时，表示容易发生。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜を中心に",
+      "meaning": "mainly in ~; centered on ~",
+      "meaningZh": "以……为中心",
+      "formation": "Noun + を中心に",
+      "example": "日本海側を中心に冬の嵐になっています。",
+      "translation": "A winter storm is hitting, mainly the Sea of Japan side.",
+      "note": "Shows the main area or time where something happens.",
+      "noteZh": "表示事情发生的主要地区或时间。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "強い寒気が流れ込んで、日本海側を中心に冬の嵐になっています。\n强冷空气涌入，以日本海一侧为中心出现了冬季风暴。\n寒気 = cold air; a cold air mass\n流れ込む = to flow in\n嵐 = storm",
+    "19日の朝、石川県の金沢市では、27.3メートルの強い風が吹きました。\n19日早上，石川县金泽市刮起了27.3米的强风。",
+    "20日から21日にかけて、北日本や北陸では大雪になるおそれがあります。\n20日到21日，北日本和北陆地区可能会下大雪。\nおそれ = risk; fear (that something bad happens)",
+    "21日の昼までの48時間に、多い所で70センチ以上の雪が降る予想です。\n预计到21日中午的48小时内，雪多的地方降雪量将超过70厘米。",
+    "上空には、いつもの年より10度ぐらい低い、とても冷たい空気が来ています。\n高空有比往年低10度左右的非常冷的空气。\n上空 = the sky above; high in the air",
+    "関東から西日本でも、山や内陸では初雪になる所がありそうです。\n从关东到西日本，山区和内陆也有些地方可能会迎来初雪。",
+    "平地でも、雪が積もる所があるかもしれません。\n平地也可能有地方积雪。\n積もる = to pile up; to accumulate",
+    "新潟県では、20日の夕方までに、山沿いで15センチの雪が積もる所がありそうです。\n新潟县到20日傍晚，靠山地区有些地方可能积雪15厘米。",
+    "北陸では、波の高さが6メートルになって、大しけになる所があります。\n北陆地区浪高将达6米，有些地方海上会有狂浪。\n大しけ = very rough sea; stormy sea",
+    "JR東日本は、新潟県の在来線が運休するかもしれないと話しています。\nJR东日本表示，新潟县的普通线路列车可能会停运。\n在来線 = conventional (non-Shinkansen) train line\n運休 = suspension of service (train, bus)",
+    "21日の土曜日は3連休の初日ですが、午前中を中心に雪が続きそうです。\n21日星期六是三连休的第一天，但以上午为主可能会继续下雪。\n初日 = the first day",
+    "22日と23日は、広い範囲で晴れますが、冬の寒さになります。\n22日和23日大范围放晴，但会是冬天般的寒冷。\n範囲 = range; area; extent",
+    "23日の朝、名古屋では、気温が2度まで下がる予想です。\n预计23日早上，名古屋的气温将降到2度。",
+    "車で出かけるときは、冬用のタイヤが必要です。\n开车出门时需要冬季轮胎。",
+    "雪がやんだあとも、朝と夜は道が凍って、すべりやすくなるおそれがあります。\n雪停了以后，早晚道路也可能结冰，变得容易打滑。\n凍る = to freeze\nすべる = to slip; to slide"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November nineteenth: a winter storm brings heavy snow, right before a three-day weekend. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "強い寒気が流れ込んで、日本海側を中心に冬の嵐になっています。",
+      "tts": "強いかんきが流れ込んで、日本海側を中心に冬の嵐になっています。",
+      "zh": "强冷空气涌入，以日本海一侧为中心出现了冬季风暴。",
+      "en": "Strong cold air has flowed in, bringing a winter storm mainly to the Sea of Japan side.",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"寒気\" data-reading=\"かんき\" data-en=\"cold air; a cold air mass\"><ruby>寒気<rt>かんき</rt></ruby></span>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込ん<rt>こん</rt></ruby>で、<ruby>日本海側<rt>にほんかいがわ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>冬<rt>ふゆ</rt></ruby>の<span class=\"vw\" data-ja=\"嵐\" data-reading=\"あらし\" data-en=\"storm\"><ruby>嵐<rt>あらし</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日の朝、石川県の金沢市では、27.3メートルの強い風が吹きました。",
+      "tts": "じゅうくにちの朝、石川県の金沢市では、にじゅうななてんさんメートルの強い風が吹きました。",
+      "zh": "19日早上，石川县金泽市刮起了27.3米的强风。",
+      "en": "On the morning of the 19th, a strong gust of 27.3 meters per second blew in Kanazawa, Ishikawa Prefecture.",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>金沢市<rt>かなざわし</rt></ruby>では、27.3メートルの<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "20日から21日にかけて、北日本や北陸では大雪になるおそれがあります。",
+      "tts": "はつかからにじゅういちにちにかけて、北日本や北陸では大雪になるおそれがあります。",
+      "zh": "20日到21日，北日本和北陆地区可能会下大雪。",
+      "en": "From the 20th to the 21st, there is a risk of heavy snow in northern Japan and Hokuriku.",
+      "ruby": "<ruby>20日<rt>はつか</rt></ruby>から21<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>北日本<rt>きたにほん</rt></ruby>や<ruby>北陸<rt>ほくりく</rt></ruby>では<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日の昼までの48時間に、多い所で70センチ以上の雪が降る予想です。",
+      "tts": "にじゅういちにちの昼までのよんじゅうはちじかんに、多い所でななじゅっセンチ以上の雪が降る予想です。",
+      "zh": "预计到21日中午的48小时内，雪多的地方降雪量将超过70厘米。",
+      "en": "In the 48 hours to noon on the 21st, more than 70 centimeters of snow is forecast in the snowiest places.",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>までの48<ruby>時間<rt>じかん</rt></ruby>に、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で70センチ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "上空には、いつもの年より10度ぐらい低い、とても冷たい空気が来ています。",
+      "tts": "上空には、いつもの年よりじゅうどぐらい低い、とても冷たい空気が来ています。",
+      "zh": "高空有比往年低10度左右的非常冷的空气。",
+      "en": "High in the sky, very cold air about 10 degrees lower than in a usual year has arrived.",
+      "ruby": "<span class=\"vw\" data-ja=\"上空\" data-reading=\"じょうくう\" data-en=\"the sky above; high in the air\"><ruby>上空<rt>じょうくう</rt></ruby></span>には、いつもの<ruby>年<rt>とし</rt></ruby>より10<ruby>度<rt>ど</rt></ruby>ぐらい<ruby>低い<rt>ひくい</rt></ruby>、とても<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "関東から西日本でも、山や内陸では初雪になる所がありそうです。",
+      "zh": "从关东到西日本，山区和内陆也有些地方可能会迎来初雪。",
+      "en": "From Kanto to western Japan, too, some mountain and inland areas are likely to see their first snow.",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby>から<ruby>西日本<rt>にしにほん</rt></ruby>でも、<ruby>山<rt>やま</rt></ruby>や<ruby>内陸<rt>ないりく</rt></ruby>では<ruby>初雪<rt>はつゆき</rt></ruby>になる<ruby>所<rt>ところ</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "平地でも、雪が積もる所があるかもしれません。",
+      "zh": "平地也可能有地方积雪。",
+      "en": "Snow may pile up in some places even on the plains.",
+      "ruby": "<ruby>平地<rt>へいち</rt></ruby>でも、<ruby>雪<rt>ゆき</rt></ruby>が<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span><ruby>所<rt>ところ</rt></ruby>があるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "新潟県では、20日の夕方までに、山沿いで15センチの雪が積もる所がありそうです。",
+      "tts": "新潟県では、はつかの夕方までに、山沿いでじゅうごセンチの雪が積もる所がありそうです。",
+      "zh": "新潟县到20日傍晚，靠山地区有些地方可能积雪15厘米。",
+      "en": "In Niigata Prefecture, some places along the mountains are likely to get 15 centimeters of snow by the evening of the 20th.",
+      "ruby": "<ruby>新潟県<rt>にいがたけん</rt></ruby>では、<ruby>20日<rt>はつか</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>までに、<ruby>山沿い<rt>やまぞい</rt></ruby>で15センチの<ruby>雪<rt>ゆき</rt></ruby>が<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span><ruby>所<rt>ところ</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "北陸では、波の高さが6メートルになって、大しけになる所があります。",
+      "tts": "北陸では、波の高さがろくメートルになって、おおしけになる所があります。",
+      "zh": "北陆地区浪高将达6米，有些地方海上会有狂浪。",
+      "en": "In Hokuriku, waves will reach 6 meters, and the sea will be very rough in some places.",
+      "ruby": "<ruby>北陸<rt>ほくりく</rt></ruby>では、<ruby>波<rt>なみ</rt></ruby>の<ruby>高さ<rt>たかさ</rt></ruby>が6メートルになって、<span class=\"vw\" data-ja=\"大しけ\" data-reading=\"おおしけ\" data-en=\"very rough sea; stormy sea\"><ruby>大<rt>おお</rt></ruby>しけになる</span><ruby>所<rt>ところ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、新潟県の在来線が運休するかもしれないと話しています。",
+      "zh": "JR东日本表示，新潟县的普通线路列车可能会停运。",
+      "en": "JR East says regular (non-bullet) train lines in Niigata Prefecture may be suspended.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>新潟県<rt>にいがたけん</rt></ruby>の<span class=\"vw\" data-ja=\"在来線\" data-reading=\"ざいらいせん\" data-en=\"conventional (non-Shinkansen) train line\"><ruby>在来線<rt>ざいらいせん</rt></ruby></span>が<span class=\"vw\" data-ja=\"運休\" data-reading=\"うんきゅう\" data-en=\"suspension of service (train, bus)\"><ruby>運休<rt>うんきゅう</rt></ruby></span>するかもしれないと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日の土曜日は3連休の初日ですが、午前中を中心に雪が続きそうです。",
+      "tts": "にじゅういちにちの土曜日はさんれんきゅうの初日ですが、午前中を中心に雪が続きそうです。",
+      "zh": "21日星期六是三连休的第一天，但以上午为主可能会继续下雪。",
+      "en": "Saturday the 21st is the first day of a three-day weekend, but snow is likely to continue, mainly in the morning.",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>は3<ruby>連休<rt>れんきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"初日\" data-reading=\"しょにち\" data-en=\"the first day\"><ruby>初日<rt>しょにち</rt></ruby></span>ですが、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>そうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日と23日は、広い範囲で晴れますが、冬の寒さになります。",
+      "tts": "にじゅうににちとにじゅうさんにちは、広い範囲で晴れますが、冬の寒さになります。",
+      "zh": "22日和23日大范围放晴，但会是冬天般的寒冷。",
+      "en": "On the 22nd and 23rd, it will be sunny over a wide area, but it will be winter-cold.",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>と23<ruby>日<rt>にち</rt></ruby>は、<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area; extent\"><ruby>範囲<rt>はんい</rt></ruby></span>で<ruby>晴れ<rt>はれ</rt></ruby>ますが、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>寒さ<rt>さむさ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "23日の朝、名古屋では、気温が2度まで下がる予想です。",
+      "tts": "にじゅうさんにちの朝、名古屋では、気温がにどまで下がる予想です。",
+      "zh": "预计23日早上，名古屋的气温将降到2度。",
+      "en": "On the morning of the 23rd, the temperature in Nagoya is forecast to drop to 2 degrees.",
+      "ruby": "23<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>名古屋<rt>なごや</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が2<ruby>度<rt>ど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>る<ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "車で出かけるときは、冬用のタイヤが必要です。",
+      "zh": "开车出门时需要冬季轮胎。",
+      "en": "When you go out by car, you need winter tires.",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>で<ruby>出か<rt>でか</rt></ruby>けるときは、<ruby>冬用<rt>ふゆよう</rt></ruby>のタイヤが<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "雪がやんだあとも、朝と夜は道が凍って、すべりやすくなるおそれがあります。",
+      "zh": "雪停了以后，早晚道路也可能结冰，变得容易打滑。",
+      "en": "Even after the snow stops, roads may freeze in the morning and at night and become slippery.",
+      "ruby": "<ruby>雪<rt>ゆき</rt></ruby>がやんだあとも、<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>は<ruby>道<rt>みち</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>て、すべりやすくなるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い寒気が流れ込んで、日本海側を中心に冬の嵐になっています。",
+      "tts": "強いかんきが流れ込んで、日本海側を中心に冬の嵐になっています。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"寒気\" data-reading=\"かんき\" data-en=\"cold air; a cold air mass\"><ruby>寒気<rt>かんき</rt></ruby></span>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込ん<rt>こん</rt></ruby>で、<ruby>日本海側<rt>にほんかいがわ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>冬<rt>ふゆ</rt></ruby>の<span class=\"vw\" data-ja=\"嵐\" data-reading=\"あらし\" data-en=\"storm\"><ruby>嵐<rt>あらし</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Strong cold air has flowed in, bringing a winter storm mainly to the Sea of Japan side."
+    },
+    {
+      "speaker": "vocab",
+      "text": "寒気",
+      "tts": "かんき",
+      "ruby": "<span class=\"vw\" data-ja=\"寒気\" data-reading=\"かんき\" data-en=\"cold air; a cold air mass\"><ruby>寒気<rt>かんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a mass of cold air."
+    },
+    {
+      "speaker": "vocab",
+      "text": "流れ込む",
+      "ruby": "<span class=\"vw\" data-ja=\"流れ込む\" data-reading=\"ながれこむ\" data-en=\"to flow in\"><ruby>流れ<rt>ながれ</rt></ruby><ruby>込む<rt>こむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to flow into a place."
+    },
+    {
+      "speaker": "vocab",
+      "text": "嵐",
+      "ruby": "<span class=\"vw\" data-ja=\"嵐\" data-reading=\"あらし\" data-en=\"storm\"><ruby>嵐<rt>あらし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a storm."
+    },
+    {
+      "speaker": "slow",
+      "text": "19日の朝、石川県の金沢市では、27.3メートルの強い風が吹きました。",
+      "tts": "じゅうくにちの朝、石川県の金沢市では、にじゅうななてんさんメートルの強い風が吹きました。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>金沢市<rt>かなざわし</rt></ruby>では、27.3メートルの<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the nineteenth, a gust of twenty-seven point three meters per second blew in Kanazawa."
+    },
+    {
+      "speaker": "slow",
+      "text": "20日から21日にかけて、北日本や北陸では大雪になるおそれがあります。",
+      "tts": "はつかからにじゅういちにちにかけて、北日本や北陸では大雪になるおそれがあります。",
+      "ruby": "<ruby>20日<rt>はつか</rt></ruby>から21<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>北日本<rt>きたにほん</rt></ruby>や<ruby>北陸<rt>ほくりく</rt></ruby>では<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twentieth to the twenty-first, heavy snow may hit northern Japan and Hokuriku."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おそれ",
+      "ruby": "<span class=\"vw\" data-ja=\"おそれ\" data-reading=\"おそれ\" data-en=\"risk; fear (that something bad happens)\">おそれ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "After a verb, it means there is a risk of something bad."
+    },
+    {
+      "speaker": "slow",
+      "text": "21日の昼までの48時間に、多い所で70センチ以上の雪が降る予想です。",
+      "tts": "にじゅういちにちの昼までのよんじゅうはちじかんに、多い所でななじゅっセンチ以上の雪が降る予想です。",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>までの48<ruby>時間<rt>じかん</rt></ruby>に、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で70センチ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the forty-eight hours to noon on the twenty-first, over seventy centimeters of snow may fall in some places."
+    },
+    {
+      "speaker": "slow",
+      "text": "上空には、いつもの年より10度ぐらい低い、とても冷たい空気が来ています。",
+      "tts": "上空には、いつもの年よりじゅうどぐらい低い、とても冷たい空気が来ています。",
+      "ruby": "<span class=\"vw\" data-ja=\"上空\" data-reading=\"じょうくう\" data-en=\"the sky above; high in the air\"><ruby>上空<rt>じょうくう</rt></ruby></span>には、いつもの<ruby>年<rt>とし</rt></ruby>より10<ruby>度<rt>ど</rt></ruby>ぐらい<ruby>低い<rt>ひくい</rt></ruby>、とても<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>います。"
+    },
+    {
+      "speaker": "host",
+      "text": "High in the sky, the air is about ten degrees colder than in a usual year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "上空",
+      "ruby": "<span class=\"vw\" data-ja=\"上空\" data-reading=\"じょうくう\" data-en=\"the sky above; high in the air\"><ruby>上空<rt>じょうくう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means high up in the sky."
+    },
+    {
+      "speaker": "slow",
+      "text": "関東から西日本でも、山や内陸では初雪になる所がありそうです。",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby>から<ruby>西日本<rt>にしにほん</rt></ruby>でも、<ruby>山<rt>やま</rt></ruby>や<ruby>内陸<rt>ないりく</rt></ruby>では<ruby>初雪<rt>はつゆき</rt></ruby>になる<ruby>所<rt>ところ</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "From Kanto to western Japan, some mountain and inland areas may see their first snow."
+    },
+    {
+      "speaker": "slow",
+      "text": "平地でも、雪が積もる所があるかもしれません。",
+      "ruby": "<ruby>平地<rt>へいち</rt></ruby>でも、<ruby>雪<rt>ゆき</rt></ruby>が<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span><ruby>所<rt>ところ</rt></ruby>があるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Snow may pile up even on the plains."
+    },
+    {
+      "speaker": "vocab",
+      "text": "積もる",
+      "ruby": "<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to pile up, like snow on the ground."
+    },
+    {
+      "speaker": "slow",
+      "text": "新潟県では、20日の夕方までに、山沿いで15センチの雪が積もる所がありそうです。",
+      "tts": "新潟県では、はつかの夕方までに、山沿いでじゅうごセンチの雪が積もる所がありそうです。",
+      "ruby": "<ruby>新潟県<rt>にいがたけん</rt></ruby>では、<ruby>20日<rt>はつか</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>までに、<ruby>山沿い<rt>やまぞい</rt></ruby>で15センチの<ruby>雪<rt>ゆき</rt></ruby>が<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span><ruby>所<rt>ところ</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Niigata, up to fifteen centimeters may pile up along the mountains by the evening of the twentieth."
+    },
+    {
+      "speaker": "slow",
+      "text": "北陸では、波の高さが6メートルになって、大しけになる所があります。",
+      "tts": "北陸では、波の高さがろくメートルになって、おおしけになる所があります。",
+      "ruby": "<ruby>北陸<rt>ほくりく</rt></ruby>では、<ruby>波<rt>なみ</rt></ruby>の<ruby>高さ<rt>たかさ</rt></ruby>が6メートルになって、<span class=\"vw\" data-ja=\"大しけ\" data-reading=\"おおしけ\" data-en=\"very rough sea; stormy sea\"><ruby>大<rt>おお</rt></ruby>しけになる</span><ruby>所<rt>ところ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Hokuriku, waves will reach six meters, and the sea will be very rough."
+    },
+    {
+      "speaker": "vocab",
+      "text": "大しけ",
+      "tts": "おおしけ",
+      "ruby": "<span class=\"vw\" data-ja=\"大しけ\" data-reading=\"おおしけ\" data-en=\"very rough sea; stormy sea\"><ruby>大<rt>おお</rt></ruby>しけ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a very rough, stormy sea."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、新潟県の在来線が運休するかもしれないと話しています。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>新潟県<rt>にいがたけん</rt></ruby>の<span class=\"vw\" data-ja=\"在来線\" data-reading=\"ざいらいせん\" data-en=\"conventional (non-Shinkansen) train line\"><ruby>在来線<rt>ざいらいせん</rt></ruby></span>が<span class=\"vw\" data-ja=\"運休\" data-reading=\"うんきゅう\" data-en=\"suspension of service (train, bus)\"><ruby>運休<rt>うんきゅう</rt></ruby></span>するかもしれないと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR East says local train lines in Niigata may stop running."
+    },
+    {
+      "speaker": "vocab",
+      "text": "在来線",
+      "ruby": "<span class=\"vw\" data-ja=\"在来線\" data-reading=\"ざいらいせん\" data-en=\"conventional (non-Shinkansen) train line\"><ruby>在来線<rt>ざいらいせん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means regular train lines, not the bullet train."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運休",
+      "ruby": "<span class=\"vw\" data-ja=\"運休\" data-reading=\"うんきゅう\" data-en=\"suspension of service (train, bus)\"><ruby>運休<rt>うんきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a train or bus not running."
+    },
+    {
+      "speaker": "slow",
+      "text": "21日の土曜日は3連休の初日ですが、午前中を中心に雪が続きそうです。",
+      "tts": "にじゅういちにちの土曜日はさんれんきゅうの初日ですが、午前中を中心に雪が続きそうです。",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>は3<ruby>連休<rt>れんきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"初日\" data-reading=\"しょにち\" data-en=\"the first day\"><ruby>初日<rt>しょにち</rt></ruby></span>ですが、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>そうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Saturday is the first day of a three-day weekend, but snow will likely continue in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "初日",
+      "ruby": "<span class=\"vw\" data-ja=\"初日\" data-reading=\"しょにち\" data-en=\"the first day\"><ruby>初日<rt>しょにち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the first day."
+    },
+    {
+      "speaker": "slow",
+      "text": "22日と23日は、広い範囲で晴れますが、冬の寒さになります。",
+      "tts": "にじゅうににちとにじゅうさんにちは、広い範囲で晴れますが、冬の寒さになります。",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>と23<ruby>日<rt>にち</rt></ruby>は、<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area; extent\"><ruby>範囲<rt>はんい</rt></ruby></span>で<ruby>晴れ<rt>はれ</rt></ruby>ますが、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>寒さ<rt>さむさ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-second and twenty-third, it will be sunny over a wide area, but cold."
+    },
+    {
+      "speaker": "vocab",
+      "text": "範囲",
+      "ruby": "<span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area; extent\"><ruby>範囲<rt>はんい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means range, or area."
+    },
+    {
+      "speaker": "slow",
+      "text": "23日の朝、名古屋では、気温が2度まで下がる予想です。",
+      "tts": "にじゅうさんにちの朝、名古屋では、気温がにどまで下がる予想です。",
+      "ruby": "23<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>名古屋<rt>なごや</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が2<ruby>度<rt>ど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>る<ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the twenty-third, Nagoya may drop to two degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "車で出かけるときは、冬用のタイヤが必要です。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>で<ruby>出か<rt>でか</rt></ruby>けるときは、<ruby>冬用<rt>ふゆよう</rt></ruby>のタイヤが<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "When you go out by car, you need winter tires."
+    },
+    {
+      "speaker": "slow",
+      "text": "雪がやんだあとも、朝と夜は道が凍って、すべりやすくなるおそれがあります。",
+      "ruby": "<ruby>雪<rt>ゆき</rt></ruby>がやんだあとも、<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>は<ruby>道<rt>みち</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>て、すべりやすくなるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even after the snow stops, roads may freeze and get slippery."
+    },
+    {
+      "speaker": "vocab",
+      "text": "凍る",
+      "ruby": "<span class=\"vw\" data-ja=\"凍る\" data-reading=\"こおる\" data-en=\"to freeze\"><ruby>凍る<rt>こおる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to freeze."
+    },
+    {
+      "speaker": "vocab",
+      "text": "すべる",
+      "ruby": "<span class=\"vw\" data-ja=\"すべる\" data-reading=\"すべる\" data-en=\"to slip; to slide\">すべる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to slip or slide."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "強い寒気が流れ込んで、日本海側を中心に冬の嵐になっています。",
+      "tts": "強いかんきが流れ込んで、日本海側を中心に冬の嵐になっています。",
+      "zh": "强冷空气涌入，以日本海一侧为中心出现了冬季风暴。",
+      "en": "Strong cold air has flowed in, bringing a winter storm mainly to the Sea of Japan side.",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"寒気\" data-reading=\"かんき\" data-en=\"cold air; a cold air mass\"><ruby>寒気<rt>かんき</rt></ruby></span>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込ん<rt>こん</rt></ruby>で、<ruby>日本海側<rt>にほんかいがわ</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>冬<rt>ふゆ</rt></ruby>の<span class=\"vw\" data-ja=\"嵐\" data-reading=\"あらし\" data-en=\"storm\"><ruby>嵐<rt>あらし</rt></ruby></span>になっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日の朝、石川県の金沢市では、27.3メートルの強い風が吹きました。",
+      "tts": "じゅうくにちの朝、石川県の金沢市では、にじゅうななてんさんメートルの強い風が吹きました。",
+      "zh": "19日早上，石川县金泽市刮起了27.3米的强风。",
+      "en": "On the morning of the 19th, a strong gust of 27.3 meters per second blew in Kanazawa, Ishikawa Prefecture.",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>金沢市<rt>かなざわし</rt></ruby>では、27.3メートルの<ruby>強い<rt>つよい</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "20日から21日にかけて、北日本や北陸では大雪になるおそれがあります。",
+      "tts": "はつかからにじゅういちにちにかけて、北日本や北陸では大雪になるおそれがあります。",
+      "zh": "20日到21日，北日本和北陆地区可能会下大雪。",
+      "en": "From the 20th to the 21st, there is a risk of heavy snow in northern Japan and Hokuriku.",
+      "ruby": "<ruby>20日<rt>はつか</rt></ruby>から21<ruby>日<rt>にち</rt></ruby>にかけて、<ruby>北日本<rt>きたにほん</rt></ruby>や<ruby>北陸<rt>ほくりく</rt></ruby>では<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日の昼までの48時間に、多い所で70センチ以上の雪が降る予想です。",
+      "tts": "にじゅういちにちの昼までのよんじゅうはちじかんに、多い所でななじゅっセンチ以上の雪が降る予想です。",
+      "zh": "预计到21日中午的48小时内，雪多的地方降雪量将超过70厘米。",
+      "en": "In the 48 hours to noon on the 21st, more than 70 centimeters of snow is forecast in the snowiest places.",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>までの48<ruby>時間<rt>じかん</rt></ruby>に、<ruby>多い<rt>おおい</rt></ruby><ruby>所<rt>ところ</rt></ruby>で70センチ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby><ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "上空には、いつもの年より10度ぐらい低い、とても冷たい空気が来ています。",
+      "tts": "上空には、いつもの年よりじゅうどぐらい低い、とても冷たい空気が来ています。",
+      "zh": "高空有比往年低10度左右的非常冷的空气。",
+      "en": "High in the sky, very cold air about 10 degrees lower than in a usual year has arrived.",
+      "ruby": "<span class=\"vw\" data-ja=\"上空\" data-reading=\"じょうくう\" data-en=\"the sky above; high in the air\"><ruby>上空<rt>じょうくう</rt></ruby></span>には、いつもの<ruby>年<rt>とし</rt></ruby>より10<ruby>度<rt>ど</rt></ruby>ぐらい<ruby>低い<rt>ひくい</rt></ruby>、とても<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>います。"
+    },
+    {
+      "speaker": "news",
+      "text": "関東から西日本でも、山や内陸では初雪になる所がありそうです。",
+      "zh": "从关东到西日本，山区和内陆也有些地方可能会迎来初雪。",
+      "en": "From Kanto to western Japan, too, some mountain and inland areas are likely to see their first snow.",
+      "ruby": "<ruby>関東<rt>かんとう</rt></ruby>から<ruby>西日本<rt>にしにほん</rt></ruby>でも、<ruby>山<rt>やま</rt></ruby>や<ruby>内陸<rt>ないりく</rt></ruby>では<ruby>初雪<rt>はつゆき</rt></ruby>になる<ruby>所<rt>ところ</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "平地でも、雪が積もる所があるかもしれません。",
+      "zh": "平地也可能有地方积雪。",
+      "en": "Snow may pile up in some places even on the plains.",
+      "ruby": "<ruby>平地<rt>へいち</rt></ruby>でも、<ruby>雪<rt>ゆき</rt></ruby>が<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span><ruby>所<rt>ところ</rt></ruby>があるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "新潟県では、20日の夕方までに、山沿いで15センチの雪が積もる所がありそうです。",
+      "tts": "新潟県では、はつかの夕方までに、山沿いでじゅうごセンチの雪が積もる所がありそうです。",
+      "zh": "新潟县到20日傍晚，靠山地区有些地方可能积雪15厘米。",
+      "en": "In Niigata Prefecture, some places along the mountains are likely to get 15 centimeters of snow by the evening of the 20th.",
+      "ruby": "<ruby>新潟県<rt>にいがたけん</rt></ruby>では、<ruby>20日<rt>はつか</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>までに、<ruby>山沿い<rt>やまぞい</rt></ruby>で15センチの<ruby>雪<rt>ゆき</rt></ruby>が<span class=\"vw\" data-ja=\"積もる\" data-reading=\"つもる\" data-en=\"to pile up; to accumulate\"><ruby>積も<rt>つも</rt></ruby>る</span><ruby>所<rt>ところ</rt></ruby>がありそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "北陸では、波の高さが6メートルになって、大しけになる所があります。",
+      "tts": "北陸では、波の高さがろくメートルになって、おおしけになる所があります。",
+      "zh": "北陆地区浪高将达6米，有些地方海上会有狂浪。",
+      "en": "In Hokuriku, waves will reach 6 meters, and the sea will be very rough in some places.",
+      "ruby": "<ruby>北陸<rt>ほくりく</rt></ruby>では、<ruby>波<rt>なみ</rt></ruby>の<ruby>高さ<rt>たかさ</rt></ruby>が6メートルになって、<span class=\"vw\" data-ja=\"大しけ\" data-reading=\"おおしけ\" data-en=\"very rough sea; stormy sea\"><ruby>大<rt>おお</rt></ruby>しけになる</span><ruby>所<rt>ところ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、新潟県の在来線が運休するかもしれないと話しています。",
+      "zh": "JR东日本表示，新潟县的普通线路列车可能会停运。",
+      "en": "JR East says regular (non-bullet) train lines in Niigata Prefecture may be suspended.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>新潟県<rt>にいがたけん</rt></ruby>の<span class=\"vw\" data-ja=\"在来線\" data-reading=\"ざいらいせん\" data-en=\"conventional (non-Shinkansen) train line\"><ruby>在来線<rt>ざいらいせん</rt></ruby></span>が<span class=\"vw\" data-ja=\"運休\" data-reading=\"うんきゅう\" data-en=\"suspension of service (train, bus)\"><ruby>運休<rt>うんきゅう</rt></ruby></span>するかもしれないと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日の土曜日は3連休の初日ですが、午前中を中心に雪が続きそうです。",
+      "tts": "にじゅういちにちの土曜日はさんれんきゅうの初日ですが、午前中を中心に雪が続きそうです。",
+      "zh": "21日星期六是三连休的第一天，但以上午为主可能会继续下雪。",
+      "en": "Saturday the 21st is the first day of a three-day weekend, but snow is likely to continue, mainly in the morning.",
+      "ruby": "21<ruby>日<rt>にち</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>は3<ruby>連休<rt>れんきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"初日\" data-reading=\"しょにち\" data-en=\"the first day\"><ruby>初日<rt>しょにち</rt></ruby></span>ですが、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>そうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日と23日は、広い範囲で晴れますが、冬の寒さになります。",
+      "tts": "にじゅうににちとにじゅうさんにちは、広い範囲で晴れますが、冬の寒さになります。",
+      "zh": "22日和23日大范围放晴，但会是冬天般的寒冷。",
+      "en": "On the 22nd and 23rd, it will be sunny over a wide area, but it will be winter-cold.",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>と23<ruby>日<rt>にち</rt></ruby>は、<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area; extent\"><ruby>範囲<rt>はんい</rt></ruby></span>で<ruby>晴れ<rt>はれ</rt></ruby>ますが、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>寒さ<rt>さむさ</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "23日の朝、名古屋では、気温が2度まで下がる予想です。",
+      "tts": "にじゅうさんにちの朝、名古屋では、気温がにどまで下がる予想です。",
+      "zh": "预计23日早上，名古屋的气温将降到2度。",
+      "en": "On the morning of the 23rd, the temperature in Nagoya is forecast to drop to 2 degrees.",
+      "ruby": "23<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>名古屋<rt>なごや</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が2<ruby>度<rt>ど</rt></ruby>まで<ruby>下が<rt>さが</rt></ruby>る<ruby>予想<rt>よそう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "車で出かけるときは、冬用のタイヤが必要です。",
+      "zh": "开车出门时需要冬季轮胎。",
+      "en": "When you go out by car, you need winter tires.",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>で<ruby>出か<rt>でか</rt></ruby>けるときは、<ruby>冬用<rt>ふゆよう</rt></ruby>のタイヤが<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "雪がやんだあとも、朝と夜は道が凍って、すべりやすくなるおそれがあります。",
+      "zh": "雪停了以后，早晚道路也可能结冰，变得容易打滑。",
+      "en": "Even after the snow stops, roads may freeze in the morning and at night and become slippery.",
+      "ruby": "<ruby>雪<rt>ゆき</rt></ruby>がやんだあとも、<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>は<ruby>道<rt>みち</rt></ruby>が<ruby>凍っ<rt>こおっ</rt></ruby>て、すべりやすくなるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "19日の朝、金沢市では何メートルの風が吹きましたか。",
+      "tts": "じゅうくにちの朝、金沢市ではなんメートルの風が吹きましたか。",
+      "ruby": "19<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>金沢市<rt>かなざわし</rt></ruby>では<ruby>何<rt>なん</rt></ruby>メートルの<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き<rt>ふき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Twenty-seven point three meters per second."
+    },
+    {
+      "speaker": "slow",
+      "text": "3連休の初日は何曜日ですか。",
+      "tts": "さんれんきゅうの初日はなんようびですか。",
+      "ruby": "3<ruby>連休<rt>れんきゅう</rt></ruby>の<span class=\"vw\" data-ja=\"初日\" data-reading=\"しょにち\" data-en=\"the first day\"><ruby>初日<rt>しょにち</rt></ruby></span>は<ruby>何曜日<rt>なんようび</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Saturday."
+    },
+    {
+      "speaker": "slow",
+      "text": "車で出かけるときは、何が必要ですか。",
+      "ruby": "<ruby>車<rt>くるま</rt></ruby>で<ruby>出か<rt>でか</rt></ruby>けるときは、<ruby>何<rt>なに</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Winter tires."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
