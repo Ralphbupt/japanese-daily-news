@@ -1,0 +1,536 @@
+{
+  "episode": 295,
+  "title": "ボージョレ・ヌーボーが解禁、今年はアルコールが過去最高",
+  "titleZh": "博若莱新酒解禁，今年酒精度创新高",
+  "titleEn": "Beaujolais Nouveau goes on sale, with record-high alcohol",
+  "date": "2026-11-20",
+  "source": "NHK / 北海道放送（HBC） / 読売テレビ",
+  "level": "N5-N4",
+  "contentVersion": "2026112001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "販売",
+      "reading": "はんばい",
+      "en": "sale; selling",
+      "zh": "销售；出售"
+    },
+    {
+      "ja": "とれる",
+      "reading": "とれる",
+      "en": "to be harvested; to be picked",
+      "zh": "收获；采摘到"
+    },
+    {
+      "ja": "夜中",
+      "reading": "よなか",
+      "en": "the middle of the night",
+      "zh": "半夜；深夜"
+    },
+    {
+      "ja": "感じる",
+      "reading": "かんじる",
+      "en": "to feel; to sense",
+      "zh": "感觉；感受到"
+    },
+    {
+      "ja": "熟す",
+      "reading": "じゅくす",
+      "en": "to ripen",
+      "zh": "成熟；熟透"
+    },
+    {
+      "ja": "今までで一番",
+      "reading": "いままでで いちばん",
+      "en": "the most ever; the highest so far",
+      "zh": "迄今为止最……"
+    },
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "酔う",
+      "reading": "よう",
+      "en": "to get drunk",
+      "zh": "喝醉"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てみる",
+      "meaning": "try doing ~",
+      "meaningZh": "试着做……",
+      "formation": "Verb て-form + みる",
+      "example": "ワインを少し飲んでみる会も開きました。",
+      "translation": "They also held an event to try a little of the wine.",
+      "note": "Used when you do something to see what it is like.",
+      "noteZh": "表示尝试做某事，看看结果或感觉如何。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because of ~; since ~",
+      "meaningZh": "因为……；由于……",
+      "formation": "Plain past/present form + ため",
+      "example": "とても暑い日が続いたため、ブドウがよく熟しました。",
+      "translation": "Because hot days continued, the grapes ripened well.",
+      "note": "A slightly formal way to give a reason; common in the news.",
+      "noteZh": "比较正式的表示原因的说法，新闻中常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ような感じがする",
+      "meaning": "it feels like ~",
+      "meaningZh": "感觉好像……",
+      "formation": "Plain form + ような感じがする",
+      "example": "酔うのが早いような感じがします。",
+      "translation": "It feels like I get drunk faster.",
+      "note": "Used to describe a feeling or impression softly.",
+      "noteZh": "用来委婉地描述自己的感觉或印象。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜が、〜",
+      "meaning": "~, but ~",
+      "meaningZh": "虽然……，但是……",
+      "formation": "Sentence (polite or plain) + が、 + sentence",
+      "example": "作るお金が高くなっていますが、値段を去年と同じにしました。",
+      "translation": "It costs more to make, but they kept the price the same as last year.",
+      "note": "Joins two sentences that contrast.",
+      "noteZh": "连接两个意思相反的句子。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、11月19日に始まりました。\n法国葡萄酒的新酒“博若莱新酒”于11月19日开始销售。\n販売 = sale; selling",
+    "ボージョレ・ヌーボーは、その年にとれたブドウで作るワインです。\n博若莱新酒是用当年收获的葡萄酿造的葡萄酒。\nとれる = to be harvested; to be picked",
+    "毎年11月の3回目の木曜日に、世界で同じ日に売り始めます。\n每年11月的第3个星期四，全世界在同一天开始销售。",
+    "札幌のコンビニでは、夜中の0時に売り始めて、ワインを少し飲んでみる会も開きました。\n札幌的一家便利店在半夜0点开始销售，还举办了试饮会。\n夜中 = the middle of the night",
+    "ソムリエは、「甘さを感じる、果物の味がいっぱいのワインです」と話していました。\n侍酒师说：“这是一款能感受到甜味、果味十足的葡萄酒。”\n感じる = to feel; to sense",
+    "このコンビニでは、1本2000円ぐらいで売っています。\n这家便利店的售价约为每瓶2000日元。",
+    "今年のフランスはとても暑い日が続いたため、ブドウがよく熟しました。\n今年法国持续炎热，所以葡萄熟得很好。\n熟す = to ripen",
+    "アルコールの強さは、今までで一番です。\n酒精度是迄今为止最高的。\n今までで一番 = the most ever; the highest so far",
+    "作るお金が高くなっていますが、大阪のデパートでは、値段を去年と同じにしました。\n虽然生产成本在上涨，但大阪的一家百货店把价格定得和去年一样。\n値段 = price",
+    "飲んだ人は、「おいしいです。酔うのが早いような感じがします」と話していました。\n喝过的人说：“很好喝。感觉醉得好像比较快。”\n酔う = to get drunk"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twentieth: France's new wine of the year has gone on sale in Japan, and this year it's stronger than ever. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、11月19日に始まりました。",
+      "tts": "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、じゅういちがつじゅうくにちに始まりました。",
+      "zh": "法国葡萄酒的新酒“博若莱新酒”于11月19日开始销售。",
+      "en": "Sales of Beaujolais Nouveau, the new wine from France, began on November 19th.",
+      "ruby": "フランスのワインの<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>、「ボージョレ・ヌーボー」の<span class=\"vw\" data-ja=\"販売\" data-reading=\"はんばい\" data-en=\"sale; selling\"><ruby>販売<rt>はんばい</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ボージョレ・ヌーボーは、その年にとれたブドウで作るワインです。",
+      "zh": "博若莱新酒是用当年收获的葡萄酿造的葡萄酒。",
+      "en": "Beaujolais Nouveau is wine made from grapes picked that year.",
+      "ruby": "ボージョレ・ヌーボーは、その<ruby>年<rt>ねん</rt></ruby>にとれたブドウで<ruby>作る<rt>つくる</rt></ruby>ワインです。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎年11月の3回目の木曜日に、世界で同じ日に売り始めます。",
+      "tts": "毎年じゅういちがつのさんかいめの木曜日に、世界で同じ日に売り始めます。",
+      "zh": "每年11月的第3个星期四，全世界在同一天开始销售。",
+      "en": "Every year, it goes on sale on the same day around the world, on the third Thursday of November.",
+      "ruby": "<ruby>毎年<rt>まいとし</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>の3<ruby>回目<rt>かいめ</rt></ruby>の<ruby>木曜日<rt>もくようび</rt></ruby>に、<ruby>世界<rt>せかい</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌のコンビニでは、夜中の0時に売り始めて、ワインを少し飲んでみる会も開きました。",
+      "tts": "札幌のコンビニでは、夜中のれいじに売り始めて、ワインを少し飲んでみる会も開きました。",
+      "zh": "札幌的一家便利店在半夜0点开始销售，还举办了试饮会。",
+      "en": "A convenience store in Sapporo started selling it at midnight and also held a tasting event.",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>のコンビニでは、<span class=\"vw\" data-ja=\"夜中\" data-reading=\"よなか\" data-en=\"the middle of the night\"><ruby>夜中<rt>よなか</rt></ruby></span>の0<ruby>時<rt>じ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>て、ワインを<ruby>少し<rt>すこし</rt></ruby><ruby>飲ん<rt>のん</rt></ruby>でみる<ruby>会<rt>かい</rt></ruby>も<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ソムリエは、「甘さを感じる、果物の味がいっぱいのワインです」と話していました。",
+      "zh": "侍酒师说：“这是一款能感受到甜味、果味十足的葡萄酒。”",
+      "en": "A sommelier said, \"It's a wine full of fruit flavor, where you can feel the sweetness.\"",
+      "ruby": "ソムリエは、「<ruby>甘さ<rt>あまさ</rt></ruby>を<span class=\"vw\" data-ja=\"感じる\" data-reading=\"かんじる\" data-en=\"to feel; to sense\"><ruby>感じ<rt>かんじ</rt></ruby>る</span>、<ruby>果物<rt>くだもの</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>がいっぱいのワインです」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このコンビニでは、1本2000円ぐらいで売っています。",
+      "tts": "このコンビニでは、いっぽんにせんえんぐらいで売っています。",
+      "zh": "这家便利店的售价约为每瓶2000日元。",
+      "en": "This convenience store sells it for about 2,000 yen a bottle.",
+      "ruby": "このコンビニでは、1<ruby>本<rt>ほん</rt></ruby>2000<ruby>円<rt>えん</rt></ruby>ぐらいで<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年のフランスはとても暑い日が続いたため、ブドウがよく熟しました。",
+      "tts": "今年のフランスはとても暑い日が続いたため、ブドウがよくじゅくしました。",
+      "zh": "今年法国持续炎热，所以葡萄熟得很好。",
+      "en": "This year France had a long run of very hot days, so the grapes ripened well.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のフランスはとても<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>たため、ブドウがよく<ruby>熟し<rt>じゅくし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルコールの強さは、今までで一番です。",
+      "zh": "酒精度是迄今为止最高的。",
+      "en": "Its alcohol strength is the highest ever.",
+      "ruby": "アルコールの<ruby>強さ<rt>つよさ</rt></ruby>は、<span class=\"vw\" data-ja=\"今までで一番\" data-reading=\"いままでで いちばん\" data-en=\"the most ever; the highest so far\"><ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "作るお金が高くなっていますが、大阪のデパートでは、値段を去年と同じにしました。",
+      "zh": "虽然生产成本在上涨，但大阪的一家百货店把价格定得和去年一样。",
+      "en": "Production costs are rising, but a department store in Osaka kept its prices the same as last year.",
+      "ruby": "<ruby>作る<rt>つくる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっていますが、<ruby>大阪<rt>おおさか</rt></ruby>のデパートでは、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "飲んだ人は、「おいしいです。酔うのが早いような感じがします」と話していました。",
+      "zh": "喝过的人说：“很好喝。感觉醉得好像比较快。”",
+      "en": "A person who drank it said, \"It's delicious. I feel like I'm getting drunk faster.\"",
+      "ruby": "<ruby>飲ん<rt>のん</rt></ruby>だ<ruby>人<rt>ひと</rt></ruby>は、「おいしいです。<span class=\"vw\" data-ja=\"酔う\" data-reading=\"よう\" data-en=\"to get drunk\"><ruby>酔う<rt>よう</rt></ruby></span>のが<ruby>早い<rt>はやい</rt></ruby>ような<ruby>感じ<rt>かんじ</rt></ruby>がします」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、11月19日に始まりました。",
+      "tts": "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、じゅういちがつじゅうくにちに始まりました。",
+      "ruby": "フランスのワインの<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>、「ボージョレ・ヌーボー」の<span class=\"vw\" data-ja=\"販売\" data-reading=\"はんばい\" data-en=\"sale; selling\"><ruby>販売<rt>はんばい</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The sale of Beaujolais Nouveau, this year's new wine from France, started on November nineteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "販売",
+      "ruby": "<span class=\"vw\" data-ja=\"販売\" data-reading=\"はんばい\" data-en=\"sale; selling\"><ruby>販売<rt>はんばい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means selling, or sales."
+    },
+    {
+      "speaker": "slow",
+      "text": "ボージョレ・ヌーボーは、その年にとれたブドウで作るワインです。",
+      "ruby": "ボージョレ・ヌーボーは、その<ruby>年<rt>ねん</rt></ruby>にとれたブドウで<ruby>作る<rt>つくる</rt></ruby>ワインです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Beaujolais Nouveau is a wine made from grapes picked in the same year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "とれる",
+      "ruby": "<span class=\"vw\" data-ja=\"とれる\" data-reading=\"とれる\" data-en=\"to be harvested; to be picked\">とれる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fruit or vegetables are harvested, or picked."
+    },
+    {
+      "speaker": "slow",
+      "text": "毎年11月の3回目の木曜日に、世界で同じ日に売り始めます。",
+      "tts": "毎年じゅういちがつのさんかいめの木曜日に、世界で同じ日に売り始めます。",
+      "ruby": "<ruby>毎年<rt>まいとし</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>の3<ruby>回目<rt>かいめ</rt></ruby>の<ruby>木曜日<rt>もくようび</rt></ruby>に、<ruby>世界<rt>せかい</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Every year, it goes on sale on the same day all over the world: the third Thursday of November."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌のコンビニでは、夜中の0時に売り始めて、ワインを少し飲んでみる会も開きました。",
+      "tts": "札幌のコンビニでは、夜中のれいじに売り始めて、ワインを少し飲んでみる会も開きました。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>のコンビニでは、<span class=\"vw\" data-ja=\"夜中\" data-reading=\"よなか\" data-en=\"the middle of the night\"><ruby>夜中<rt>よなか</rt></ruby></span>の0<ruby>時<rt>じ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>て、ワインを<ruby>少し<rt>すこし</rt></ruby><ruby>飲ん<rt>のん</rt></ruby>でみる<ruby>会<rt>かい</rt></ruby>も<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A convenience store in Sapporo started selling it at midnight, and also held an event to taste a little of the wine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "夜中",
+      "ruby": "<span class=\"vw\" data-ja=\"夜中\" data-reading=\"よなか\" data-en=\"the middle of the night\"><ruby>夜中<rt>よなか</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the middle of the night."
+    },
+    {
+      "speaker": "slow",
+      "text": "ソムリエは、「甘さを感じる、果物の味がいっぱいのワインです」と話していました。",
+      "ruby": "ソムリエは、「<ruby>甘さ<rt>あまさ</rt></ruby>を<span class=\"vw\" data-ja=\"感じる\" data-reading=\"かんじる\" data-en=\"to feel; to sense\"><ruby>感じ<rt>かんじ</rt></ruby>る</span>、<ruby>果物<rt>くだもの</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>がいっぱいのワインです」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A sommelier, a wine expert, said it's a wine full of fruit flavor, and you can feel the sweetness."
+    },
+    {
+      "speaker": "vocab",
+      "text": "感じる",
+      "ruby": "<span class=\"vw\" data-ja=\"感じる\" data-reading=\"かんじる\" data-en=\"to feel; to sense\"><ruby>感じ<rt>かんじ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to feel, or to sense something."
+    },
+    {
+      "speaker": "slow",
+      "text": "このコンビニでは、1本2000円ぐらいで売っています。",
+      "tts": "このコンビニでは、いっぽんにせんえんぐらいで売っています。",
+      "ruby": "このコンビニでは、1<ruby>本<rt>ほん</rt></ruby>2000<ruby>円<rt>えん</rt></ruby>ぐらいで<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "This store sells it for about two thousand yen a bottle."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年のフランスはとても暑い日が続いたため、ブドウがよく熟しました。",
+      "tts": "今年のフランスはとても暑い日が続いたため、ブドウがよくじゅくしました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のフランスはとても<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>たため、ブドウがよく<ruby>熟し<rt>じゅくし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year, France had many very hot days in a row, so the grapes ripened well."
+    },
+    {
+      "speaker": "vocab",
+      "text": "熟す",
+      "ruby": "<span class=\"vw\" data-ja=\"熟す\" data-reading=\"じゅくす\" data-en=\"to ripen\"><ruby>熟す<rt>じゅくす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means fruit becomes ripe."
+    },
+    {
+      "speaker": "slow",
+      "text": "アルコールの強さは、今までで一番です。",
+      "ruby": "アルコールの<ruby>強さ<rt>つよさ</rt></ruby>は、<span class=\"vw\" data-ja=\"今までで一番\" data-reading=\"いままでで いちばん\" data-en=\"the most ever; the highest so far\"><ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Its alcohol is the strongest ever."
+    },
+    {
+      "speaker": "vocab",
+      "text": "今までで一番",
+      "ruby": "<span class=\"vw\" data-ja=\"今までで一番\" data-reading=\"いままでで いちばん\" data-en=\"the most ever; the highest so far\"><ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the most ever, or the best so far."
+    },
+    {
+      "speaker": "slow",
+      "text": "作るお金が高くなっていますが、大阪のデパートでは、値段を去年と同じにしました。",
+      "ruby": "<ruby>作る<rt>つくる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっていますが、<ruby>大阪<rt>おおさか</rt></ruby>のデパートでは、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby>にしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It costs more to make wine now, but a department store in Osaka kept its prices the same as last year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "slow",
+      "text": "飲んだ人は、「おいしいです。酔うのが早いような感じがします」と話していました。",
+      "ruby": "<ruby>飲ん<rt>のん</rt></ruby>だ<ruby>人<rt>ひと</rt></ruby>は、「おいしいです。<span class=\"vw\" data-ja=\"酔う\" data-reading=\"よう\" data-en=\"to get drunk\"><ruby>酔う<rt>よう</rt></ruby></span>のが<ruby>早い<rt>はやい</rt></ruby>ような<ruby>感じ<rt>かんじ</rt></ruby>がします」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Someone who tried it said, it's delicious, and it feels like I get drunk faster."
+    },
+    {
+      "speaker": "vocab",
+      "text": "酔う",
+      "ruby": "<span class=\"vw\" data-ja=\"酔う\" data-reading=\"よう\" data-en=\"to get drunk\"><ruby>酔う<rt>よう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to get drunk."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、11月19日に始まりました。",
+      "tts": "フランスのワインの新しいお酒、「ボージョレ・ヌーボー」の販売が、じゅういちがつじゅうくにちに始まりました。",
+      "zh": "法国葡萄酒的新酒“博若莱新酒”于11月19日开始销售。",
+      "en": "Sales of Beaujolais Nouveau, the new wine from France, began on November 19th.",
+      "ruby": "フランスのワインの<ruby>新しい<rt>あたらしい</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>、「ボージョレ・ヌーボー」の<span class=\"vw\" data-ja=\"販売\" data-reading=\"はんばい\" data-en=\"sale; selling\"><ruby>販売<rt>はんばい</rt></ruby></span>が、11<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ボージョレ・ヌーボーは、その年にとれたブドウで作るワインです。",
+      "zh": "博若莱新酒是用当年收获的葡萄酿造的葡萄酒。",
+      "en": "Beaujolais Nouveau is wine made from grapes picked that year.",
+      "ruby": "ボージョレ・ヌーボーは、その<ruby>年<rt>ねん</rt></ruby>にとれたブドウで<ruby>作る<rt>つくる</rt></ruby>ワインです。"
+    },
+    {
+      "speaker": "news",
+      "text": "毎年11月の3回目の木曜日に、世界で同じ日に売り始めます。",
+      "tts": "毎年じゅういちがつのさんかいめの木曜日に、世界で同じ日に売り始めます。",
+      "zh": "每年11月的第3个星期四，全世界在同一天开始销售。",
+      "en": "Every year, it goes on sale on the same day around the world, on the third Thursday of November.",
+      "ruby": "<ruby>毎年<rt>まいとし</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>の3<ruby>回目<rt>かいめ</rt></ruby>の<ruby>木曜日<rt>もくようび</rt></ruby>に、<ruby>世界<rt>せかい</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby><ruby>日<rt>ひ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "札幌のコンビニでは、夜中の0時に売り始めて、ワインを少し飲んでみる会も開きました。",
+      "tts": "札幌のコンビニでは、夜中のれいじに売り始めて、ワインを少し飲んでみる会も開きました。",
+      "zh": "札幌的一家便利店在半夜0点开始销售，还举办了试饮会。",
+      "en": "A convenience store in Sapporo started selling it at midnight and also held a tasting event.",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>のコンビニでは、<span class=\"vw\" data-ja=\"夜中\" data-reading=\"よなか\" data-en=\"the middle of the night\"><ruby>夜中<rt>よなか</rt></ruby></span>の0<ruby>時<rt>じ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>て、ワインを<ruby>少し<rt>すこし</rt></ruby><ruby>飲ん<rt>のん</rt></ruby>でみる<ruby>会<rt>かい</rt></ruby>も<ruby>開き<rt>ひらき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ソムリエは、「甘さを感じる、果物の味がいっぱいのワインです」と話していました。",
+      "zh": "侍酒师说：“这是一款能感受到甜味、果味十足的葡萄酒。”",
+      "en": "A sommelier said, \"It's a wine full of fruit flavor, where you can feel the sweetness.\"",
+      "ruby": "ソムリエは、「<ruby>甘さ<rt>あまさ</rt></ruby>を<span class=\"vw\" data-ja=\"感じる\" data-reading=\"かんじる\" data-en=\"to feel; to sense\"><ruby>感じ<rt>かんじ</rt></ruby>る</span>、<ruby>果物<rt>くだもの</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>がいっぱいのワインです」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このコンビニでは、1本2000円ぐらいで売っています。",
+      "tts": "このコンビニでは、いっぽんにせんえんぐらいで売っています。",
+      "zh": "这家便利店的售价约为每瓶2000日元。",
+      "en": "This convenience store sells it for about 2,000 yen a bottle.",
+      "ruby": "このコンビニでは、1<ruby>本<rt>ほん</rt></ruby>2000<ruby>円<rt>えん</rt></ruby>ぐらいで<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年のフランスはとても暑い日が続いたため、ブドウがよく熟しました。",
+      "tts": "今年のフランスはとても暑い日が続いたため、ブドウがよくじゅくしました。",
+      "zh": "今年法国持续炎热，所以葡萄熟得很好。",
+      "en": "This year France had a long run of very hot days, so the grapes ripened well.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>のフランスはとても<ruby>暑い<rt>あつい</rt></ruby><ruby>日<rt>ひ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>たため、ブドウがよく<ruby>熟し<rt>じゅくし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "アルコールの強さは、今までで一番です。",
+      "zh": "酒精度是迄今为止最高的。",
+      "en": "Its alcohol strength is the highest ever.",
+      "ruby": "アルコールの<ruby>強さ<rt>つよさ</rt></ruby>は、<span class=\"vw\" data-ja=\"今までで一番\" data-reading=\"いままでで いちばん\" data-en=\"the most ever; the highest so far\"><ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "作るお金が高くなっていますが、大阪のデパートでは、値段を去年と同じにしました。",
+      "zh": "虽然生产成本在上涨，但大阪的一家百货店把价格定得和去年一样。",
+      "en": "Production costs are rising, but a department store in Osaka kept its prices the same as last year.",
+      "ruby": "<ruby>作る<rt>つくる</rt></ruby>お<ruby>金<rt>かね</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっていますが、<ruby>大阪<rt>おおさか</rt></ruby>のデパートでは、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby>にしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "飲んだ人は、「おいしいです。酔うのが早いような感じがします」と話していました。",
+      "zh": "喝过的人说：“很好喝。感觉醉得好像比较快。”",
+      "en": "A person who drank it said, \"It's delicious. I feel like I'm getting drunk faster.\"",
+      "ruby": "<ruby>飲ん<rt>のん</rt></ruby>だ<ruby>人<rt>ひと</rt></ruby>は、「おいしいです。<span class=\"vw\" data-ja=\"酔う\" data-reading=\"よう\" data-en=\"to get drunk\"><ruby>酔う<rt>よう</rt></ruby></span>のが<ruby>早い<rt>はやい</rt></ruby>ような<ruby>感じ<rt>かんじ</rt></ruby>がします」と<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ボージョレ・ヌーボーは、何で作るワインですか。",
+      "ruby": "ボージョレ・ヌーボーは、<ruby>何<rt>なに</rt></ruby>で<ruby>作る<rt>つくる</rt></ruby>ワインですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Grapes picked in the same year."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌のコンビニでは、何時に売り始めましたか。",
+      "tts": "札幌のコンビニでは、なんじに売り始めましたか。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>のコンビニでは、<ruby>何時<rt>なんじ</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "At midnight."
+    },
+    {
+      "speaker": "slow",
+      "text": "このコンビニでは、1本いくらぐらいですか。",
+      "tts": "このコンビニでは、いっぽんいくらぐらいですか。",
+      "ruby": "このコンビニでは、1<ruby>本<rt>ほん</rt></ruby>いくらぐらいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About two thousand yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "ブドウがよく熟したのは、どうしてですか。",
+      "tts": "ブドウがよくじゅくしたのは、どうしてですか。",
+      "ruby": "ブドウがよく<ruby>熟し<rt>じゅくし</rt></ruby>たのは、どうしてですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because France had many very hot days this year."
+    },
+    {
+      "speaker": "slow",
+      "text": "大阪のデパートでは、値段をどうしましたか。",
+      "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>のデパートでは、<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>をどうしましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "They kept it the same as last year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
