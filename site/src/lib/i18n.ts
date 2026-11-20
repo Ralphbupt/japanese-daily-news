@@ -32,6 +32,11 @@ export const APPLE_URL: Record<Channel, string> = {
   nihongo: 'https://podcasts.apple.com/podcast/id6831520512',
 };
 
+export const SPOTIFY_URL: Record<Channel, string> = {
+  main: 'https://open.spotify.com/show/033nVZrL6xnSJDxcXc9PMQ',
+  nihongo: 'https://open.spotify.com/show/4UXe9pWwl1uTx3H0z1PevD',
+};
+
 export const COVER: Record<Channel, string> = { main: '/cover.jpg', nihongo: '/cover-nihongo.jpg' };
 
 export const SHOW_NAME: Record<Channel, string> = {

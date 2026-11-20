@@ -85,7 +85,7 @@ Critical rules:
 
 ## 日本語で聞くニュース (second show, `scripts/nhNNN.json`)
 
-An all-Japanese daily show for N3–N2 learners, on the same site at `/nihongo/` and `/zh/nihongo/`, with its own RSS (`/nihongo/rss.xml`), numbering from 1 and cover (`site/public/cover-nihongo.jpg`). Apple Podcasts: https://podcasts.apple.com/podcast/id6831520512 . Same JSON as the main show, with these differences:
+An all-Japanese daily show for N3–N2 learners, on the same site at `/nihongo/` and `/zh/nihongo/`, with its own RSS (`/nihongo/rss.xml`), numbering from 1 and cover (`site/public/cover-nihongo.jpg`). Apple Podcasts: https://podcasts.apple.com/podcast/id6831520512 , Spotify: https://open.spotify.com/show/4UXe9pWwl1uTx3H0z1PevD . Same JSON as the main show, with these differences:
 
 - Speakers: only `guide` (voice Charon) and `news` (voice Leda), both `"lang": "ja"`, `"rate": "+0%"`. No host, slow or vocab segments, and no English or Chinese in the audio.
 - Structure: `guide` greeting with the date only (「こんにちは。日本語で聞くニュースです。今日は11月6日、金曜日です。」) → `guide` hook (1 line, a question or surprise from the story) → 12-15 `news` lines → 10-14 `guide` lines talking about the story in plain, natural Japanese → `guide` transition with `"break": true` → the same `news` lines again → `guide` closing with an open question to the listener, ending 「また明日。」. Target 5:00-6:30. No line announces the news: the first `news` line starts the story itself (never 「今日のニュースです。」, never 「まずはニュースを聞いてみましょう」), and the replay starts the same way.
