@@ -1,0 +1,544 @@
+{
+  "episode": 297,
+  "title": "「さっぽろホワイトイルミネーション」始まる、82万個の光",
+  "titleZh": "札幌白色灯饰节开幕，82万个灯泡点亮冬夜",
+  "titleEn": "Sapporo White Illumination begins with 820,000 lights",
+  "date": "2026-11-21",
+  "source": "デイリースポーツ（共同通信）、鉄道チャンネル、さっぽろホワイトイルミネーション公式サイト",
+  "level": "N5-N4",
+  "contentVersion": "2026112101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "およそ",
+      "reading": "およそ",
+      "en": "about; roughly",
+      "zh": "大约"
+    },
+    {
+      "ja": "電球",
+      "reading": "でんきゅう",
+      "en": "light bulb",
+      "zh": "灯泡"
+    },
+    {
+      "ja": "飾る",
+      "reading": "かざる",
+      "en": "to decorate; to display",
+      "zh": "装饰；摆放"
+    },
+    {
+      "ja": "噴水",
+      "reading": "ふんすい",
+      "en": "fountain",
+      "zh": "喷泉"
+    },
+    {
+      "ja": "明かり",
+      "reading": "あかり",
+      "en": "light; lamp light",
+      "zh": "灯光；亮光"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to line up; to stand in a row",
+      "zh": "排列；排成一排"
+    },
+    {
+      "ja": "続く",
+      "reading": "つづく",
+      "en": "to continue; to last",
+      "zh": "持续；继续"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てあります",
+      "meaning": "something has been done (and stays that way)",
+      "meaningZh": "（有人做了某事后）保持着……的状态",
+      "formation": "Verb て-form + あります",
+      "example": "町の中には、およそ82万個の電球が飾ってあります。",
+      "translation": "About 820,000 light bulbs have been put up around the city.",
+      "note": "Describes the result of someone's action that you can see now, often with が.",
+      "noteZh": "表示某人有意做的动作的结果现在仍然存在，常和が一起用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と (条件)",
+      "meaning": "when ~; whenever ~",
+      "meaningZh": "一……就……",
+      "formation": "Verb dictionary form + と",
+      "example": "暗くなると、木や道が白や金色の光でいっぱいになります。",
+      "translation": "When it gets dark, the trees and streets fill with white and gold light.",
+      "note": "Shows something that always happens as a natural result.",
+      "noteZh": "表示必然或自然而然发生的结果。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜のような",
+      "meaning": "like ~; that looks like ~",
+      "meaningZh": "像……一样的",
+      "formation": "Noun + のような + Noun",
+      "example": "光る噴水のような新しい飾りがあります。",
+      "translation": "There are new decorations that look like glowing fountains.",
+      "note": "Compares one thing to another before a noun.",
+      "noteZh": "用于名词前，表示比喻或举例。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜から〜まで",
+      "meaning": "from ~ to/until ~",
+      "meaningZh": "从……到……",
+      "formation": "Noun + から + Noun + まで",
+      "example": "毎日午後4時半から夜10時まで、明かりがつきます。",
+      "translation": "The lights are on every day from 4:30 p.m. until 10 p.m.",
+      "note": "Marks the start and end of a time or place.",
+      "noteZh": "表示时间或地点的起点和终点。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜回目",
+      "meaning": "the ~th time",
+      "meaningZh": "第……次（届）",
+      "formation": "Number + 回目",
+      "example": "今年で46回目です。",
+      "translation": "This year is the 46th time.",
+      "note": "Counts which time an event is happening.",
+      "noteZh": "表示第几次。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "札幌の大通公園などで、20日、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。\n20日，冬季灯光活动“札幌白色灯饰节”在札幌大通公园等地开幕。",
+    "このイベントは1981年に始まって、今年で46回目です。\n这个活动始于1981年，今年是第46届。",
+    "町の中には、およそ82万個の電球が飾ってあります。\n街上装饰着大约82万个灯泡。\nおよそ = about; roughly\n電球 = light bulb\n飾る = to decorate; to display",
+    "暗くなると、木や道が白や金色の光でいっぱいになります。\n天一黑，树木和道路就会被白色和金色的灯光填满。",
+    "今年は、光る噴水のような新しい飾りや、新しいクリスマスツリーもあります。\n今年还有像发光喷泉一样的新装饰和新的圣诞树。\n噴水 = fountain",
+    "大通公園では、毎日午後4時半から夜10時まで、明かりがつきます。\n在大通公园，灯光每天从下午4点半亮到晚上10点。\n明かり = light; lamp light",
+    "12月23日から25日までは、夜12時まで明かりがつきます。\n12月23日到25日，灯光会亮到夜里12点。",
+    "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマス市」も始まりました。\n公园里，与札幌关系友好的德国城市慕尼黑的“圣诞市集”也开幕了。",
+    "木で作った小さな店が40以上並んで、ソーセージや温かいワインなどを売っています。\n40多家木制小店排成一排，出售香肠和热红酒等。\n並ぶ = to line up; to stand in a row",
+    "大通公園のイルミネーションは、12月25日のクリスマスまで続きます。\n大通公园的灯饰将持续到12月25日圣诞节。\n続く = to continue; to last"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-first: Sapporo's big winter light show has begun, with hundreds of thousands of lights and a Christmas market. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "札幌の大通公園などで、20日、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。",
+      "tts": "札幌のおおどおりこうえんなどで、はつか、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。",
+      "zh": "20日，冬季灯光活动“札幌白色灯饰节”在札幌大通公园等地开幕。",
+      "en": "On the 20th, the winter light event Sapporo White Illumination began in Sapporo's Odori Park and other places.",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>などで、<ruby>20日<rt>はつか</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>のイベント「さっぽろホワイトイルミネーション」が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このイベントは1981年に始まって、今年で46回目です。",
+      "tts": "このイベントはせんきゅうひゃくはちじゅういちねんに始まって、今年でよんじゅうろっかいめです。",
+      "zh": "这个活动始于1981年，今年是第46届。",
+      "en": "The event started in 1981, and this year is the 46th time.",
+      "ruby": "このイベントは1981<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、<ruby>今年<rt>ことし</rt></ruby>で46<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "町の中には、およそ82万個の電球が飾ってあります。",
+      "tts": "町の中には、およそはちじゅうにまんこの電球が飾ってあります。",
+      "zh": "街上装饰着大约82万个灯泡。",
+      "en": "About 820,000 light bulbs have been put up around the city.",
+      "ruby": "<ruby>町<rt>まち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>82<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>の<span class=\"vw\" data-ja=\"電球\" data-reading=\"でんきゅう\" data-en=\"light bulb\"><ruby>電球<rt>でんきゅう</rt></ruby></span>が<ruby>飾っ<rt>かざっ</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "暗くなると、木や道が白や金色の光でいっぱいになります。",
+      "tts": "暗くなると、木や道が白やきんいろの光でいっぱいになります。",
+      "zh": "天一黑，树木和道路就会被白色和金色的灯光填满。",
+      "en": "When it gets dark, the trees and streets fill with white and gold light.",
+      "ruby": "<ruby>暗く<rt>くらく</rt></ruby>なると、<ruby>木<rt>き</rt></ruby>や<ruby>道<rt>みち</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>や<ruby>金色<rt>きんいろ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>でいっぱいになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、光る噴水のような新しい飾りや、新しいクリスマスツリーもあります。",
+      "zh": "今年还有像发光喷泉一样的新装饰和新的圣诞树。",
+      "en": "This year there are also new decorations that look like glowing fountains, and a new Christmas tree.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>光る<rt>ひかる</rt></ruby><span class=\"vw\" data-ja=\"噴水\" data-reading=\"ふんすい\" data-en=\"fountain\"><ruby>噴水<rt>ふんすい</rt></ruby></span>のような<ruby>新しい<rt>あたらしい</rt></ruby><ruby>飾り<rt>かざり</rt></ruby>や、<ruby>新しい<rt>あたらしい</rt></ruby>クリスマスツリーもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大通公園では、毎日午後4時半から夜10時まで、明かりがつきます。",
+      "tts": "おおどおりこうえんでは、毎日ごごよじはんから夜じゅうじまで、明かりがつきます。",
+      "zh": "在大通公园，灯光每天从下午4点半亮到晚上10点。",
+      "en": "In Odori Park, the lights are on every day from 4:30 in the afternoon until 10 at night.",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>では、<ruby>毎日午後<rt>まいにちごご</rt></ruby>4<ruby>時半<rt>じはん</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>10<ruby>時<rt>じ</rt></ruby>まで、<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "12月23日から25日までは、夜12時まで明かりがつきます。",
+      "tts": "じゅうにがつにじゅうさんにちからにじゅうごにちまでは、夜じゅうにじまで明かりがつきます。",
+      "zh": "12月23日到25日，灯光会亮到夜里12点。",
+      "en": "From December 23rd to the 25th, the lights stay on until 12 at night.",
+      "ruby": "12<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>から25<ruby>日<rt>にち</rt></ruby>までは、<ruby>夜<rt>よる</rt></ruby>12<ruby>時<rt>じ</rt></ruby>まで<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマス市」も始まりました。",
+      "tts": "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマスいち」も始まりました。",
+      "zh": "公园里，与札幌关系友好的德国城市慕尼黑的“圣诞市集”也开幕了。",
+      "en": "In the park, a Munich Christmas market, named after the German city that is Sapporo's friend, has also started.",
+      "ruby": "<ruby>公園<rt>こうえん</rt></ruby>では、<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>仲<rt>なか</rt></ruby>がいいドイツの<ruby>町<rt>まち</rt></ruby>、ミュンヘンの「クリスマス<ruby>市<rt>いち</rt></ruby>」も<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "木で作った小さな店が40以上並んで、ソーセージや温かいワインなどを売っています。",
+      "tts": "木で作った小さな店がよんじゅう以上並んで、ソーセージや温かいワインなどを売っています。",
+      "zh": "40多家木制小店排成一排，出售香肠和热红酒等。",
+      "en": "More than 40 small wooden shops stand in a row, selling things like sausages and warm wine.",
+      "ruby": "<ruby>木<rt>き</rt></ruby>で<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>店<rt>みせ</rt></ruby>が40<ruby>以上<rt>いじょう</rt></ruby><ruby>並ん<rt>ならん</rt></ruby>で、ソーセージや<ruby>温かい<rt>あたたかい</rt></ruby>ワインなどを<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "大通公園のイルミネーションは、12月25日のクリスマスまで続きます。",
+      "tts": "おおどおりこうえんのイルミネーションは、じゅうにがつにじゅうごにちのクリスマスまで続きます。",
+      "zh": "大通公园的灯饰将持续到12月25日圣诞节。",
+      "en": "The illumination in Odori Park will continue until Christmas, December 25th.",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>のイルミネーションは、12<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>のクリスマスまで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "札幌の大通公園などで、20日、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。",
+      "tts": "札幌のおおどおりこうえんなどで、はつか、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>などで、<ruby>20日<rt>はつか</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>のイベント「さっぽろホワイトイルミネーション」が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sapporo White Illumination, a winter light event, started on the twentieth in Sapporo's Odori Park and other places."
+    },
+    {
+      "speaker": "slow",
+      "text": "このイベントは1981年に始まって、今年で46回目です。",
+      "tts": "このイベントはせんきゅうひゃくはちじゅういちねんに始まって、今年でよんじゅうろっかいめです。",
+      "ruby": "このイベントは1981<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、<ruby>今年<rt>ことし</rt></ruby>で46<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This event started in nineteen eighty-one, and this is the forty-sixth year."
+    },
+    {
+      "speaker": "slow",
+      "text": "町の中には、およそ82万個の電球が飾ってあります。",
+      "tts": "町の中には、およそはちじゅうにまんこの電球が飾ってあります。",
+      "ruby": "<ruby>町<rt>まち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>82<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>の<span class=\"vw\" data-ja=\"電球\" data-reading=\"でんきゅう\" data-en=\"light bulb\"><ruby>電球<rt>でんきゅう</rt></ruby></span>が<ruby>飾っ<rt>かざっ</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eight hundred twenty thousand light bulbs are put up around the city."
+    },
+    {
+      "speaker": "vocab",
+      "text": "およそ",
+      "ruby": "<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means about, or roughly."
+    },
+    {
+      "speaker": "vocab",
+      "text": "電球",
+      "ruby": "<span class=\"vw\" data-ja=\"電球\" data-reading=\"でんきゅう\" data-en=\"light bulb\"><ruby>電球<rt>でんきゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a light bulb."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飾る",
+      "ruby": "<span class=\"vw\" data-ja=\"飾る\" data-reading=\"かざる\" data-en=\"to decorate; to display\"><ruby>飾る<rt>かざる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to decorate, or to put something up for display."
+    },
+    {
+      "speaker": "slow",
+      "text": "暗くなると、木や道が白や金色の光でいっぱいになります。",
+      "tts": "暗くなると、木や道が白やきんいろの光でいっぱいになります。",
+      "ruby": "<ruby>暗く<rt>くらく</rt></ruby>なると、<ruby>木<rt>き</rt></ruby>や<ruby>道<rt>みち</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>や<ruby>金色<rt>きんいろ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>でいっぱいになります。"
+    },
+    {
+      "speaker": "host",
+      "text": "When it gets dark, the trees and streets are filled with white and gold light."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年は、光る噴水のような新しい飾りや、新しいクリスマスツリーもあります。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>光る<rt>ひかる</rt></ruby><span class=\"vw\" data-ja=\"噴水\" data-reading=\"ふんすい\" data-en=\"fountain\"><ruby>噴水<rt>ふんすい</rt></ruby></span>のような<ruby>新しい<rt>あたらしい</rt></ruby><ruby>飾り<rt>かざり</rt></ruby>や、<ruby>新しい<rt>あたらしい</rt></ruby>クリスマスツリーもあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "This year there are new decorations that look like glowing fountains, and a new Christmas tree too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "噴水",
+      "ruby": "<span class=\"vw\" data-ja=\"噴水\" data-reading=\"ふんすい\" data-en=\"fountain\"><ruby>噴水<rt>ふんすい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fountain."
+    },
+    {
+      "speaker": "slow",
+      "text": "大通公園では、毎日午後4時半から夜10時まで、明かりがつきます。",
+      "tts": "おおどおりこうえんでは、毎日ごごよじはんから夜じゅうじまで、明かりがつきます。",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>では、<ruby>毎日午後<rt>まいにちごご</rt></ruby>4<ruby>時半<rt>じはん</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>10<ruby>時<rt>じ</rt></ruby>まで、<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In Odori Park, the lights come on every day from four thirty in the afternoon until ten at night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "明かり",
+      "ruby": "<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a light, or lights that are turned on."
+    },
+    {
+      "speaker": "slow",
+      "text": "12月23日から25日までは、夜12時まで明かりがつきます。",
+      "tts": "じゅうにがつにじゅうさんにちからにじゅうごにちまでは、夜じゅうにじまで明かりがつきます。",
+      "ruby": "12<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>から25<ruby>日<rt>にち</rt></ruby>までは、<ruby>夜<rt>よる</rt></ruby>12<ruby>時<rt>じ</rt></ruby>まで<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From December twenty-third to the twenty-fifth, the lights stay on until midnight."
+    },
+    {
+      "speaker": "slow",
+      "text": "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマス市」も始まりました。",
+      "tts": "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマスいち」も始まりました。",
+      "ruby": "<ruby>公園<rt>こうえん</rt></ruby>では、<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>仲<rt>なか</rt></ruby>がいいドイツの<ruby>町<rt>まち</rt></ruby>、ミュンヘンの「クリスマス<ruby>市<rt>いち</rt></ruby>」も<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the park, a Christmas market from Munich, a German city that is a friend city of Sapporo, has also started."
+    },
+    {
+      "speaker": "slow",
+      "text": "木で作った小さな店が40以上並んで、ソーセージや温かいワインなどを売っています。",
+      "tts": "木で作った小さな店がよんじゅう以上並んで、ソーセージや温かいワインなどを売っています。",
+      "ruby": "<ruby>木<rt>き</rt></ruby>で<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>店<rt>みせ</rt></ruby>が40<ruby>以上<rt>いじょう</rt></ruby><ruby>並ん<rt>ならん</rt></ruby>で、ソーセージや<ruby>温かい<rt>あたたかい</rt></ruby>ワインなどを<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "More than forty small wooden shops stand in a row, selling things like sausages and warm wine."
+    },
+    {
+      "speaker": "vocab",
+      "text": "並ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to line up; to stand in a row\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to stand in a row, or to line up."
+    },
+    {
+      "speaker": "slow",
+      "text": "大通公園のイルミネーションは、12月25日のクリスマスまで続きます。",
+      "tts": "おおどおりこうえんのイルミネーションは、じゅうにがつにじゅうごにちのクリスマスまで続きます。",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>のイルミネーションは、12<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>のクリスマスまで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The lights in Odori Park will continue until Christmas, December twenty-fifth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "続く",
+      "ruby": "<span class=\"vw\" data-ja=\"続く\" data-reading=\"つづく\" data-en=\"to continue; to last\"><ruby>続く<rt>つづく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to continue, or to go on."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "札幌の大通公園などで、20日、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。",
+      "tts": "札幌のおおどおりこうえんなどで、はつか、冬の光のイベント「さっぽろホワイトイルミネーション」が始まりました。",
+      "zh": "20日，冬季灯光活动“札幌白色灯饰节”在札幌大通公园等地开幕。",
+      "en": "On the 20th, the winter light event Sapporo White Illumination began in Sapporo's Odori Park and other places.",
+      "ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>などで、<ruby>20日<rt>はつか</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>のイベント「さっぽろホワイトイルミネーション」が<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このイベントは1981年に始まって、今年で46回目です。",
+      "tts": "このイベントはせんきゅうひゃくはちじゅういちねんに始まって、今年でよんじゅうろっかいめです。",
+      "zh": "这个活动始于1981年，今年是第46届。",
+      "en": "The event started in 1981, and this year is the 46th time.",
+      "ruby": "このイベントは1981<ruby>年<rt>ねん</rt></ruby>に<ruby>始ま<rt>はじま</rt></ruby>って、<ruby>今年<rt>ことし</rt></ruby>で46<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "町の中には、およそ82万個の電球が飾ってあります。",
+      "tts": "町の中には、およそはちじゅうにまんこの電球が飾ってあります。",
+      "zh": "街上装饰着大约82万个灯泡。",
+      "en": "About 820,000 light bulbs have been put up around the city.",
+      "ruby": "<ruby>町<rt>まち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそ</span>82<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>の<span class=\"vw\" data-ja=\"電球\" data-reading=\"でんきゅう\" data-en=\"light bulb\"><ruby>電球<rt>でんきゅう</rt></ruby></span>が<ruby>飾っ<rt>かざっ</rt></ruby>てあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "暗くなると、木や道が白や金色の光でいっぱいになります。",
+      "tts": "暗くなると、木や道が白やきんいろの光でいっぱいになります。",
+      "zh": "天一黑，树木和道路就会被白色和金色的灯光填满。",
+      "en": "When it gets dark, the trees and streets fill with white and gold light.",
+      "ruby": "<ruby>暗く<rt>くらく</rt></ruby>なると、<ruby>木<rt>き</rt></ruby>や<ruby>道<rt>みち</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>や<ruby>金色<rt>きんいろ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>でいっぱいになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年は、光る噴水のような新しい飾りや、新しいクリスマスツリーもあります。",
+      "zh": "今年还有像发光喷泉一样的新装饰和新的圣诞树。",
+      "en": "This year there are also new decorations that look like glowing fountains, and a new Christmas tree.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>は、<ruby>光る<rt>ひかる</rt></ruby><span class=\"vw\" data-ja=\"噴水\" data-reading=\"ふんすい\" data-en=\"fountain\"><ruby>噴水<rt>ふんすい</rt></ruby></span>のような<ruby>新しい<rt>あたらしい</rt></ruby><ruby>飾り<rt>かざり</rt></ruby>や、<ruby>新しい<rt>あたらしい</rt></ruby>クリスマスツリーもあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "大通公園では、毎日午後4時半から夜10時まで、明かりがつきます。",
+      "tts": "おおどおりこうえんでは、毎日ごごよじはんから夜じゅうじまで、明かりがつきます。",
+      "zh": "在大通公园，灯光每天从下午4点半亮到晚上10点。",
+      "en": "In Odori Park, the lights are on every day from 4:30 in the afternoon until 10 at night.",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>では、<ruby>毎日午後<rt>まいにちごご</rt></ruby>4<ruby>時半<rt>じはん</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>10<ruby>時<rt>じ</rt></ruby>まで、<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "12月23日から25日までは、夜12時まで明かりがつきます。",
+      "tts": "じゅうにがつにじゅうさんにちからにじゅうごにちまでは、夜じゅうにじまで明かりがつきます。",
+      "zh": "12月23日到25日，灯光会亮到夜里12点。",
+      "en": "From December 23rd to the 25th, the lights stay on until 12 at night.",
+      "ruby": "12<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>から25<ruby>日<rt>にち</rt></ruby>までは、<ruby>夜<rt>よる</rt></ruby>12<ruby>時<rt>じ</rt></ruby>まで<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきます。"
+    },
+    {
+      "speaker": "news",
+      "text": "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマス市」も始まりました。",
+      "tts": "公園では、札幌と仲がいいドイツの町、ミュンヘンの「クリスマスいち」も始まりました。",
+      "zh": "公园里，与札幌关系友好的德国城市慕尼黑的“圣诞市集”也开幕了。",
+      "en": "In the park, a Munich Christmas market, named after the German city that is Sapporo's friend, has also started.",
+      "ruby": "<ruby>公園<rt>こうえん</rt></ruby>では、<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>仲<rt>なか</rt></ruby>がいいドイツの<ruby>町<rt>まち</rt></ruby>、ミュンヘンの「クリスマス<ruby>市<rt>いち</rt></ruby>」も<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "木で作った小さな店が40以上並んで、ソーセージや温かいワインなどを売っています。",
+      "tts": "木で作った小さな店がよんじゅう以上並んで、ソーセージや温かいワインなどを売っています。",
+      "zh": "40多家木制小店排成一排，出售香肠和热红酒等。",
+      "en": "More than 40 small wooden shops stand in a row, selling things like sausages and warm wine.",
+      "ruby": "<ruby>木<rt>き</rt></ruby>で<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>店<rt>みせ</rt></ruby>が40<ruby>以上<rt>いじょう</rt></ruby><ruby>並ん<rt>ならん</rt></ruby>で、ソーセージや<ruby>温かい<rt>あたたかい</rt></ruby>ワインなどを<ruby>売っ<rt>うっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "大通公園のイルミネーションは、12月25日のクリスマスまで続きます。",
+      "tts": "おおどおりこうえんのイルミネーションは、じゅうにがつにじゅうごにちのクリスマスまで続きます。",
+      "zh": "大通公园的灯饰将持续到12月25日圣诞节。",
+      "en": "The illumination in Odori Park will continue until Christmas, December 25th.",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>のイルミネーションは、12<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>のクリスマスまで<ruby>続き<rt>つづき</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "このイベントは、今年で何回目ですか。",
+      "tts": "このイベントは、今年でなんかいめですか。",
+      "ruby": "このイベントは、<ruby>今年<rt>ことし</rt></ruby>で<ruby>何回目<rt>なんかいめ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The forty-sixth time."
+    },
+    {
+      "speaker": "slow",
+      "text": "電球は、およそいくつ飾ってありますか。",
+      "ruby": "<span class=\"vw\" data-ja=\"電球\" data-reading=\"でんきゅう\" data-en=\"light bulb\"><ruby>電球<rt>でんきゅう</rt></ruby></span>は、<span class=\"vw\" data-ja=\"およそ\" data-reading=\"およそ\" data-en=\"about; roughly\">およそいくつ</span><ruby>飾っ<rt>かざっ</rt></ruby>てありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eight hundred twenty thousand."
+    },
+    {
+      "speaker": "slow",
+      "text": "大通公園では、毎日何時から明かりがつきますか。",
+      "tts": "おおどおりこうえんでは、毎日なんじから明かりがつきますか。",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>では、<ruby>毎日<rt>まいにち</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>から<span class=\"vw\" data-ja=\"明かり\" data-reading=\"あかり\" data-en=\"light; lamp light\"><ruby>明かり<rt>あかり</rt></ruby></span>がつきますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From four thirty in the afternoon."
+    },
+    {
+      "speaker": "slow",
+      "text": "木で作った店では、何を売っていますか。",
+      "ruby": "<ruby>木<rt>き</rt></ruby>で<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>店<rt>みせ</rt></ruby>では、<ruby>何を<rt>なにを</rt></ruby><ruby>売っ<rt>うっ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Things like sausages and warm wine."
+    },
+    {
+      "speaker": "slow",
+      "text": "大通公園のイルミネーションは、いつまで続きますか。",
+      "tts": "おおどおりこうえんのイルミネーションは、いつまで続きますか。",
+      "ruby": "<ruby>大通<rt>おおどおり</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>のイルミネーションは、いつまで<ruby>続き<rt>つづき</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until Christmas, December twenty-fifth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
