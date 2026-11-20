@@ -114,8 +114,8 @@ function rfcDate(d: string, level: string): string {
 
 const SHOW_TEXT: Record<Channel, { description: string; summary: string }> = {
   main: {
-    description: 'Easy Japanese listening practice with real news, every day. Two short episodes a day for JLPT N5–N3 learners: Japanese news read by a native voice, a slow sentence-by-sentence breakdown in English, key vocabulary and grammar, and a quick quiz. Learn Japanese on your commute.',
-    summary: 'Easy Japanese listening practice with real news, every day. Two short episodes a day for JLPT N5–N3 learners: Japanese news read by a native voice, a slow sentence-by-sentence breakdown in English, key vocabulary and grammar, and a quick quiz. Hosted by Maya. Transcripts with furigana at podcast.jpnotes.dev.',
+    description: 'Easy Japanese listening practice with real news, every day. Two short episodes a day for JLPT N5–N3 learners: Japanese news read by a native voice, a slow sentence-by-sentence breakdown in English, key vocabulary and grammar, and a quick quiz. Learn Japanese on your commute. Ready for more? Try our sister show 日本語で聞くニュース: daily news all in Japanese for N3–N2 learners.',
+    summary: 'Easy Japanese listening practice with real news, every day. Two short episodes a day for JLPT N5–N3 learners: Japanese news read by a native voice, a slow sentence-by-sentence breakdown in English, key vocabulary and grammar, and a quick quiz. Hosted by Maya. Transcripts with furigana at podcast.jpnotes.dev. Ready for more? Try our sister show 日本語で聞くニュース: daily news all in Japanese for N3–N2 learners.',
   },
   nihongo: {
     description: 'JLPT N3〜N2の学習者のための、全部日本語のニュース番組です。本物のニュースを聞いて、やさしい日本語の解説を聞いて、もう一度ニュースを聞きます。',
