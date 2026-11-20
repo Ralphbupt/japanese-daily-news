@@ -1,0 +1,496 @@
+{
+  "episode": 15,
+  "title": "お米が3割安く、下げ幅は過去最大　それでも物価は2.2%上昇",
+  "titleZh": "大米降价近三成创纪录，物价仍涨2.2%",
+  "titleEn": "Rice prices fall a record 30%, but overall prices still rise 2.2%",
+  "date": "2026-11-20",
+  "source": "NHK / 日本経済新聞 / テレビ朝日（ANN） / ロイター（ニューズウィーク日本版）（総務省 消費者物価指数 2026年10月分）",
+  "level": "N3-N2",
+  "contentVersion": "2026112001",
+  "grammar": [
+    {
+      "pattern": "〜を除いた",
+      "meaning": "excluding ~",
+      "meaningZh": "除去……，不包括……",
+      "formation": "Noun + を除いた + Noun / を除いて",
+      "example": "天候によって値段が大きく変わる生鮮食品を除いた指数は、去年の同じ月より2.2%上がりました。",
+      "translation": "The index excluding fresh food rose 2.2% from the same month last year.",
+      "note": "Leaves something out of a group. Common in statistics.",
+      "noteZh": "把某部分排除在外，统计新闻中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~",
+      "meaningZh": "自……以来",
+      "formation": "Noun / Verb て-form + 以来",
+      "example": "比べることができる1971年1月以来、最も大きな下げ幅となりました。",
+      "translation": "It was the biggest drop since January 1971, when comparable records begin.",
+      "note": "Marks the start point of a record or a long period.",
+      "noteZh": "表示记录或一段较长时间的起点。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜ため(です)",
+      "meaning": "because of ~",
+      "meaningZh": "因为……",
+      "formation": "Plain form / Noun + の + ため",
+      "example": "国の電気代とガス代の補助が、先月から小さくなったためです。",
+      "translation": "This is because the government subsidies were reduced from the previous month.",
+      "note": "A formal way to give a reason. News often ends a sentence with 〜ためです.",
+      "noteZh": "较正式地说明原因，新闻常用〜ためです结句。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜どころか",
+      "meaning": "far from ~, rather than ~",
+      "meaningZh": "不但不……反而……",
+      "formation": "Plain form / Noun + どころか",
+      "example": "全体の物価は、下がるどころか、上がっています。",
+      "translation": "Overall prices, far from falling, are rising.",
+      "note": "The reality is the opposite of what was expected.",
+      "noteZh": "表示实际情况与预想完全相反。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜にくい",
+      "meaning": "hard to ~",
+      "meaningZh": "难以……，不容易……",
+      "formation": "Verb ます-stem + にくい",
+      "example": "毎日の買い物全体では、楽になったと感じにくいかもしれません。",
+      "translation": "In daily shopping overall, it may be hard to feel things have gotten easier.",
+      "note": "Says something does not happen easily.",
+      "noteZh": "表示某事不容易发生或做到。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "天候によって値段が大きく変わる生鮮食品を除いた指数は、去年の同じ月より2.2%上がりました。\n剔除受天气影响价格波动较大的生鲜食品后，指数比去年同月上涨2.2%。\n",
+    "上昇率は9月の2.1%から0.1ポイント拡大し、2か月続けて2%を超えました。\n涨幅比9月的2.1%扩大0.1个百分点，连续2个月超过2%。\n",
+    "コメ類は29.7%下がり、比べることができる1971年1月以来、最も大きな下げ幅となりました。\n大米类下跌29.7%，是有可比数据的1971年1月以来最大的跌幅。\n",
+    "お米が余って、在庫が積み上がっていることが影響しています。\n这是受大米供过于求、库存不断增加的影响。\n",
+    "国の電気代とガス代の補助が、先月から小さくなったためです。\n这是因为国家对电费和燃气费的补贴从上个月起缩小了。\n",
+    "ホテルや旅館の宿泊料は6.7%上がりました。外国からの観光客が多く、秋の旅行の需要も高いためです。\n酒店和旅馆的住宿费上涨6.7%。这是因为外国游客多，秋季旅游需求也很旺盛。\n"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "生鮮食品",
+      "reading": "せいせんしょくひん",
+      "en": "fresh food (vegetables, fish, fruit)",
+      "zh": "生鲜食品"
+    },
+    {
+      "ja": "上昇率",
+      "reading": "じょうしょうりつ",
+      "en": "rate of increase",
+      "zh": "上涨率，涨幅"
+    },
+    {
+      "ja": "下げ幅",
+      "reading": "さげはば",
+      "en": "size of a drop",
+      "zh": "跌幅，降幅"
+    },
+    {
+      "ja": "在庫",
+      "reading": "ざいこ",
+      "en": "stock, inventory",
+      "zh": "库存"
+    },
+    {
+      "ja": "積み上がる",
+      "reading": "つみあがる",
+      "en": "to pile up",
+      "zh": "堆积，不断增加"
+    },
+    {
+      "ja": "補助",
+      "reading": "ほじょ",
+      "en": "subsidy, support",
+      "zh": "补贴，补助"
+    },
+    {
+      "ja": "宿泊料",
+      "reading": "しゅくはくりょう",
+      "en": "hotel charge, room rate",
+      "zh": "住宿费"
+    },
+    {
+      "ja": "押し上げる",
+      "reading": "おしあげる",
+      "en": "to push up",
+      "zh": "推高，抬高"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "生鮮食品を除いた10月の物価は、去年の同じ月と比べて何%上がりましたか。",
+      "a": "2.2%上がりました。"
+    },
+    {
+      "q": "お米の値段が大きく下がったのは、なぜですか。",
+      "a": "お米が余って、在庫が積み上がっているからです。"
+    },
+    {
+      "q": "電気代やガス代が上がったのは、なぜですか。",
+      "a": "国の補助が、先月から小さくなったからです。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月20日、金曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月20日，星期五。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Friday, November 20th.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは、じゅういちがつはつか、金曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日は<rt>こんにちは</rt></ruby>11<ruby>月<rt>がつ</rt></ruby><ruby>20日<rt>はつか</rt></ruby>、<ruby>金曜日<rt>きんようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "お米の値段が、去年より3割ほど安くなりました。それなのに、物価は上がっています。なぜでしょうか。",
+      "zh": "大米价格比去年便宜了三成左右。可是物价却在上涨。这是为什么呢？",
+      "en": "Rice is about 30% cheaper than last year. And yet prices are going up. Why?",
+      "tts": "お米の値段が、去年より、さんわりほど安くなりました。それなのに、物価は上がっています。なぜでしょうか。",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>より3<ruby>割<rt>わり</rt></ruby>ほど<ruby>安く<rt>やすく</rt></ruby>なりました。それなのに、<ruby>物価<rt>ぶっか</rt></ruby>は<ruby>上が<rt>あが</rt></ruby>っています。なぜでしょうか。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は20日、10月の消費者物価指数を発表しました。",
+      "zh": "总务省20日公布了10月的消费者物价指数。",
+      "en": "On the 20th, the Ministry of Internal Affairs released the consumer price index for October.",
+      "tts": "総務省は、はつか、じゅうがつの消費者物価指数を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は<ruby>20日<rt>はつか</rt></ruby>、10<ruby>月<rt>がつ</rt></ruby>の<ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天候によって値段が大きく変わる生鮮食品を除いた指数は、去年の同じ月より2.2%上がりました。",
+      "zh": "剔除受天气影响价格波动较大的生鲜食品后，指数比去年同月上涨2.2%。",
+      "en": "The index excluding fresh food, whose prices change a lot with the weather, rose 2.2% from the same month last year.",
+      "tts": "天候によって値段が大きく変わる生鮮食品を除いた指数は、去年の同じ月より、にてんにパーセント上がりました。",
+      "ruby": "<ruby>天候<rt>てんこう</rt></ruby>によって<ruby>値段<rt>ねだん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food (vegetables, fish, fruit)\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>指数<rt>しすう</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>より2.2%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "上昇率は9月の2.1%から0.1ポイント拡大し、2か月続けて2%を超えました。",
+      "zh": "涨幅比9月的2.1%扩大0.1个百分点，连续2个月超过2%。",
+      "en": "The rate of increase widened by 0.1 point from 2.1% in September, topping 2% for the second month in a row.",
+      "tts": "上昇率は、くがつの、にてんいちパーセントから、れいてんいちポイント拡大し、にかげつ続けて、にパーセントを超えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上昇率\" data-reading=\"じょうしょうりつ\" data-en=\"rate of increase\"><ruby>上昇<rt>じょうしょう</rt></ruby><ruby>率<rt>りつ</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>の2.1%から0.1ポイント<ruby>拡大<rt>かくだい</rt></ruby>し、2か<ruby>月<rt>げつ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て2%を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生鮮食品も含めた全体の指数は、2.3%上がりました。",
+      "zh": "包括生鲜食品在内的整体指数上涨2.3%。",
+      "en": "The overall index, including fresh food, rose 2.3%.",
+      "tts": "生鮮食品も含めた全体の指数は、にてんさんパーセント上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food (vegetables, fish, fruit)\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>も<ruby>含め<rt>ふくめ</rt></ruby>た<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>指数<rt>しすう</rt></ruby>は、2.3%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、大きく値下がりしたのがお米です。",
+      "zh": "另一方面，大米价格大幅下跌。",
+      "en": "On the other hand, rice fell sharply in price.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>大きく<rt>おおきく</rt></ruby><ruby>値下がり<rt>ねさがり</rt></ruby>したのがお<ruby>米<rt>こめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメ類は29.7%下がり、比べることができる1971年1月以来、最も大きな下げ幅となりました。",
+      "zh": "大米类下跌29.7%，是有可比数据的1971年1月以来最大的跌幅。",
+      "en": "Rice fell 29.7%, the biggest drop since January 1971, when comparable records begin.",
+      "tts": "コメ類は、にじゅうきゅうてんななパーセント下がり、比べることができる、せんきゅうひゃくななじゅういちねん、いちがつ以来、最も大きな下げ幅となりました。",
+      "ruby": "コメ<ruby>類<rt>るい</rt></ruby>は29.7%<ruby>下が<rt>さが</rt></ruby>り、<ruby>比べ<rt>くらべ</rt></ruby>ることができる1971<ruby>年<rt>ねん</rt></ruby>1<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>最も<rt>もっとも</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"下げ幅\" data-reading=\"さげはば\" data-en=\"size of a drop\"><ruby>下げ<rt>さげ</rt></ruby><ruby>幅<rt>はば</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米が余って、在庫が積み上がっていることが影響しています。",
+      "zh": "这是受大米供过于求、库存不断增加的影响。",
+      "en": "This reflects a surplus of rice and growing stockpiles.",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>が<ruby>余っ<rt>あまっ</rt></ruby>て、<span class=\"vw\" data-ja=\"在庫\" data-reading=\"ざいこ\" data-en=\"stock, inventory\"><ruby>在庫<rt>ざいこ</rt></ruby></span>が<ruby>積み<rt>つみ</rt></ruby><ruby>上が<rt>あが</rt></ruby>っていることが<ruby>影響<rt>えいきょう</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "反対に、電気代は1.6%、都市ガス代は5.3%上がりました。",
+      "zh": "相反，电费上涨1.6%，城市燃气费上涨5.3%。",
+      "en": "By contrast, electricity rose 1.6% and city gas 5.3%.",
+      "tts": "反対に、電気代は、いってんろくパーセント、都市ガス代は、ごてんさんパーセント上がりました。",
+      "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>電気代<rt>でんきだい</rt></ruby>は1.6%、<ruby>都市<rt>とし</rt></ruby>ガス<ruby>代<rt>だい</rt></ruby>は5.3%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国の電気代とガス代の補助が、先月から小さくなったためです。",
+      "zh": "这是因为国家对电费和燃气费的补贴从上个月起缩小了。",
+      "en": "This is because the government's subsidies for electricity and gas were reduced from the previous month.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<ruby>電気代<rt>でんきだい</rt></ruby>とガス<ruby>代<rt>だい</rt></ruby>の<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy, support\"><ruby>補助<rt>ほじょ</rt></ruby></span>が、<ruby>先月<rt>せんげつ</rt></ruby>から<ruby>小さく<rt>ちいさく</rt></ruby>なったためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物では、からあげが9.6%、輸入した牛肉が12.2%上がりました。",
+      "zh": "食品方面，炸鸡块上涨9.6%，进口牛肉上涨12.2%。",
+      "en": "Among foods, fried chicken rose 9.6% and imported beef 12.2%.",
+      "tts": "食べ物では、からあげが、きゅうてんろくパーセント、輸入した牛肉が、じゅうにてんにパーセント上がりました。",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>では、からあげが9.6%、<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>が12.2%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "輸入した牛肉は、アメリカの干ばつの影響を受けています。",
+      "zh": "进口牛肉受到了美国干旱的影响。",
+      "en": "Imported beef has been affected by drought in the United States.",
+      "ruby": "<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は、アメリカの<ruby>干<rt>かん</rt></ruby>ばつの<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "生鮮野菜も6.3%上がりました。9月の天気が悪く、葉物野菜がよく育たなかったためです。",
+      "zh": "生鲜蔬菜也上涨了6.3%。这是因为9月天气不好，叶菜长得不好。",
+      "en": "Fresh vegetables also rose 6.3%, because bad weather in September kept leafy greens from growing well.",
+      "tts": "生鮮野菜も、ろくてんさんパーセント上がりました。くがつの天気が悪く、葉物野菜がよく育たなかったためです。",
+      "ruby": "<ruby>生鮮<rt>せいせん</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>も6.3%<ruby>上が<rt>あが</rt></ruby>りました。9<ruby>月<rt>がつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>、<ruby>葉物<rt>はもの</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>がよく<ruby>育た<rt>そだた</rt></ruby>なかったためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ホテルや旅館の宿泊料は6.7%上がりました。外国からの観光客が多く、秋の旅行の需要も高いためです。",
+      "zh": "酒店和旅馆的住宿费上涨6.7%。这是因为外国游客多，秋季旅游需求也很旺盛。",
+      "en": "Hotel and ryokan rates rose 6.7%, because there are many foreign tourists and demand for autumn travel is also high.",
+      "tts": "ホテルや旅館の宿泊料は、ろくてんななパーセント上がりました。外国からの観光客が多く、秋の旅行の需要も高いためです。",
+      "ruby": "ホテルや<ruby>旅館<rt>りょかん</rt></ruby>の<span class=\"vw\" data-ja=\"宿泊料\" data-reading=\"しゅくはくりょう\" data-en=\"hotel charge, room rate\"><ruby>宿泊料<rt>しゅくはくりょう</rt></ruby></span>は6.7%<ruby>上が<rt>あが</rt></ruby>りました。<ruby>外国<rt>がいこく</rt></ruby>からの<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>需要<rt>じゅよう</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>ためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このほか、トイレットペーパーは17.9%、スマートフォンは17.2%上がりました。",
+      "zh": "此外，卫生纸上涨17.9%，智能手机上涨17.2%。",
+      "en": "In addition, toilet paper rose 17.9% and smartphones 17.2%.",
+      "tts": "このほか、トイレットペーパーは、じゅうななてんきゅうパーセント、スマートフォンは、じゅうななてんにパーセント上がりました。",
+      "ruby": "このほか、トイレットペーパーは17.9%、スマートフォンは17.2%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "お米が安くなったのは、うれしいニュースですね。",
+      "zh": "大米变便宜了，真是个好消息。",
+      "en": "Rice getting cheaper is good news, isn't it?",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>が<ruby>安く<rt>やすく</rt></ruby>なったのは、うれしいニュースですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "29.7%というのは、1000円だったものが、700円ぐらいになった計算です。",
+      "zh": "29.7%，相当于原来1000日元的东西变成了700日元左右。",
+      "en": "29.7% means something that cost 1,000 yen now costs about 700 yen.",
+      "tts": "にじゅうきゅうてんななパーセントというのは、せんえんだったものが、ななひゃくえんぐらいになった計算です。",
+      "ruby": "29.7%というのは、1000<ruby>円<rt>えん</rt></ruby>だったものが、700<ruby>円<rt>えん</rt></ruby>ぐらいになった<ruby>計算<rt>けいさん</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "比べられる1971年から今まで、こんなに下がったことはありませんでした。",
+      "zh": "从有可比数据的1971年到现在，从来没有跌得这么厉害过。",
+      "en": "Since 1971, when comparisons began, it has never fallen this much.",
+      "tts": "比べられる、せんきゅうひゃくななじゅういちねんから今まで、こんなに下がったことはありませんでした。",
+      "ruby": "<ruby>比べ<rt>くらべ</rt></ruby>られる1971<ruby>年<rt>ねん</rt></ruby>から<ruby>今まで<rt>いままで</rt></ruby>、こんなに<ruby>下が<rt>さが</rt></ruby>ったことはありませんでした。"
+    },
+    {
+      "speaker": "guide",
+      "text": "でも、全体の物価は、下がるどころか、上がっています。",
+      "zh": "可是，整体物价不但没降，反而在上涨。",
+      "en": "But overall prices, far from falling, are rising.",
+      "ruby": "でも、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>物価<rt>ぶっか</rt></ruby>は、<ruby>下が<rt>さが</rt></ruby>るどころか、<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "大きな理由の一つが、電気代とガス代です。",
+      "zh": "一个重要原因是电费和燃气费。",
+      "en": "One big reason is electricity and gas bills.",
+      "ruby": "<ruby>大き<rt>おおき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>が、<ruby>電気代<rt>でんきだい</rt></ruby>とガス<ruby>代<rt>だい</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "国の補助が小さくなって、家の電気代やガス代が、また上がり始めました。",
+      "zh": "国家补贴缩小后，家里的电费和燃气费又开始上涨了。",
+      "en": "With smaller government subsidies, household electricity and gas bills have started rising again.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy, support\"><ruby>補助<rt>ほじょ</rt></ruby></span>が<ruby>小さく<rt>ちいさく</rt></ruby>なって、<ruby>家<rt>いえ</rt></ruby>の<ruby>電気代<rt>でんきだい</rt></ruby>やガス<ruby>代<rt>だい</rt></ruby>が、また<ruby>上が<rt>あが</rt></ruby>り<ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "これから寒くなって、暖房を使う季節です。気になる人も多いでしょう。",
+      "zh": "接下来天气转冷，到了用暖气的季节，很多人会在意吧。",
+      "en": "It's getting colder, and heating season is coming. Many people must be worried.",
+      "ruby": "これから<ruby>寒く<rt>さむく</rt></ruby>なって、<ruby>暖房<rt>だんぼう</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>季節<rt>きせつ</rt></ruby>です。<ruby>気に<rt>きに</rt></ruby>なる<ruby>人<rt>ひと</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>でしょう。"
+    },
+    {
+      "speaker": "guide",
+      "text": "からあげや牛肉、野菜も値上がりしています。",
+      "zh": "炸鸡块、牛肉和蔬菜也在涨价。",
+      "en": "Fried chicken, beef and vegetables are going up too.",
+      "ruby": "からあげや<ruby>牛肉<rt>ぎゅうにく</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>も<ruby>値上がり<rt>ねあがり</rt></ruby>しています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "お米は安くなっても、おかずの値段が上がっている、ということですね。",
+      "zh": "也就是说，大米虽然便宜了，菜的价格却在上涨。",
+      "en": "So rice is cheaper, but the things you eat with it cost more.",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>は<ruby>安く<rt>やすく</rt></ruby>なっても、おかずの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っている、ということですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "旅行が好きな人には、ホテルや旅館の値段も気になるところです。",
+      "zh": "对喜欢旅行的人来说，酒店和旅馆的价格也是关心的问题。",
+      "en": "For people who love to travel, hotel and ryokan prices are a concern too.",
+      "ruby": "<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>には、ホテルや<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>気に<rt>きに</rt></ruby>なるところです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "外国からの観光客が多いことも、宿泊料を押し上げています。",
+      "zh": "外国游客多，也推高了住宿费。",
+      "en": "The large number of foreign tourists is also pushing up hotel rates.",
+      "ruby": "<ruby>外国<rt>がいこく</rt></ruby>からの<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ことも、<span class=\"vw\" data-ja=\"宿泊料\" data-reading=\"しゅくはくりょう\" data-en=\"hotel charge, room rate\"><ruby>宿泊料<rt>しゅくはくりょう</rt></ruby></span>を<ruby>押し<rt>おし</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "ですから、毎日の買い物全体では、楽になったと感じにくいかもしれません。",
+      "zh": "所以，就日常购物整体而言，可能很难感到轻松。",
+      "en": "So, looking at daily shopping as a whole, it may be hard to feel things have gotten easier.",
+      "ruby": "ですから、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>では、<ruby>楽<rt>らく</rt></ruby>になったと<ruby>感じ<rt>かんじ</rt></ruby>にくいかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "何が上がって、何が下がったのか。中身を見ると、物価のニュースがよく分かります。",
+      "zh": "什么涨了，什么降了。看看具体内容，就能更好地理解物价新闻。",
+      "en": "What went up, and what went down? Looking inside the numbers makes price news much clearer.",
+      "ruby": "<ruby>何<rt>なに</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>って、<ruby>何<rt>なに</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>ったのか。<ruby>中身<rt>なかみ</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>物価<rt>ぶっか</rt></ruby>のニュースがよく<ruby>分か<rt>わか</rt></ruby>ります。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. You should understand it better this time.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "総務省は20日、10月の消費者物価指数を発表しました。",
+      "zh": "总务省20日公布了10月的消费者物价指数。",
+      "en": "On the 20th, the Ministry of Internal Affairs released the consumer price index for October.",
+      "tts": "総務省は、はつか、じゅうがつの消費者物価指数を発表しました。",
+      "ruby": "<ruby>総務<rt>そうむ</rt></ruby><ruby>省<rt>しょう</rt></ruby>は<ruby>20日<rt>はつか</rt></ruby>、10<ruby>月<rt>がつ</rt></ruby>の<ruby>消費者<rt>しょうひしゃ</rt></ruby><ruby>物価<rt>ぶっか</rt></ruby><ruby>指数<rt>しすう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "天候によって値段が大きく変わる生鮮食品を除いた指数は、去年の同じ月より2.2%上がりました。",
+      "zh": "剔除受天气影响价格波动较大的生鲜食品后，指数比去年同月上涨2.2%。",
+      "en": "The index excluding fresh food, whose prices change a lot with the weather, rose 2.2% from the same month last year.",
+      "tts": "天候によって値段が大きく変わる生鮮食品を除いた指数は、去年の同じ月より、にてんにパーセント上がりました。",
+      "ruby": "<ruby>天候<rt>てんこう</rt></ruby>によって<ruby>値段<rt>ねだん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food (vegetables, fish, fruit)\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>除い<rt>のぞい</rt></ruby>た<ruby>指数<rt>しすう</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同じ<rt>おなじ</rt></ruby><ruby>月<rt>がつ</rt></ruby>より2.2%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "上昇率は9月の2.1%から0.1ポイント拡大し、2か月続けて2%を超えました。",
+      "zh": "涨幅比9月的2.1%扩大0.1个百分点，连续2个月超过2%。",
+      "en": "The rate of increase widened by 0.1 point from 2.1% in September, topping 2% for the second month in a row.",
+      "tts": "上昇率は、くがつの、にてんいちパーセントから、れいてんいちポイント拡大し、にかげつ続けて、にパーセントを超えました。",
+      "ruby": "<span class=\"vw\" data-ja=\"上昇率\" data-reading=\"じょうしょうりつ\" data-en=\"rate of increase\"><ruby>上昇<rt>じょうしょう</rt></ruby><ruby>率<rt>りつ</rt></ruby></span>は9<ruby>月<rt>がつ</rt></ruby>の2.1%から0.1ポイント<ruby>拡大<rt>かくだい</rt></ruby>し、2か<ruby>月<rt>げつ</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て2%を<ruby>超え<rt>こえ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "生鮮食品も含めた全体の指数は、2.3%上がりました。",
+      "zh": "包括生鲜食品在内的整体指数上涨2.3%。",
+      "en": "The overall index, including fresh food, rose 2.3%.",
+      "tts": "生鮮食品も含めた全体の指数は、にてんさんパーセント上がりました。",
+      "ruby": "<span class=\"vw\" data-ja=\"生鮮食品\" data-reading=\"せいせんしょくひん\" data-en=\"fresh food (vegetables, fish, fruit)\"><ruby>生鮮<rt>せいせん</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby></span>も<ruby>含め<rt>ふくめ</rt></ruby>た<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>指数<rt>しすう</rt></ruby>は、2.3%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方で、大きく値下がりしたのがお米です。",
+      "zh": "另一方面，大米价格大幅下跌。",
+      "en": "On the other hand, rice fell sharply in price.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>大きく<rt>おおきく</rt></ruby><ruby>値下がり<rt>ねさがり</rt></ruby>したのがお<ruby>米<rt>こめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "コメ類は29.7%下がり、比べることができる1971年1月以来、最も大きな下げ幅となりました。",
+      "zh": "大米类下跌29.7%，是有可比数据的1971年1月以来最大的跌幅。",
+      "en": "Rice fell 29.7%, the biggest drop since January 1971, when comparable records begin.",
+      "tts": "コメ類は、にじゅうきゅうてんななパーセント下がり、比べることができる、せんきゅうひゃくななじゅういちねん、いちがつ以来、最も大きな下げ幅となりました。",
+      "ruby": "コメ<ruby>類<rt>るい</rt></ruby>は29.7%<ruby>下が<rt>さが</rt></ruby>り、<ruby>比べ<rt>くらべ</rt></ruby>ることができる1971<ruby>年<rt>ねん</rt></ruby>1<ruby>月<rt>がつ</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>最も<rt>もっとも</rt></ruby><ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"下げ幅\" data-reading=\"さげはば\" data-en=\"size of a drop\"><ruby>下げ<rt>さげ</rt></ruby><ruby>幅<rt>はば</rt></ruby></span>となりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "お米が余って、在庫が積み上がっていることが影響しています。",
+      "zh": "这是受大米供过于求、库存不断增加的影响。",
+      "en": "This reflects a surplus of rice and growing stockpiles.",
+      "ruby": "お<ruby>米<rt>こめ</rt></ruby>が<ruby>余っ<rt>あまっ</rt></ruby>て、<span class=\"vw\" data-ja=\"在庫\" data-reading=\"ざいこ\" data-en=\"stock, inventory\"><ruby>在庫<rt>ざいこ</rt></ruby></span>が<ruby>積み<rt>つみ</rt></ruby><ruby>上が<rt>あが</rt></ruby>っていることが<ruby>影響<rt>えいきょう</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "反対に、電気代は1.6%、都市ガス代は5.3%上がりました。",
+      "zh": "相反，电费上涨1.6%，城市燃气费上涨5.3%。",
+      "en": "By contrast, electricity rose 1.6% and city gas 5.3%.",
+      "tts": "反対に、電気代は、いってんろくパーセント、都市ガス代は、ごてんさんパーセント上がりました。",
+      "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>電気代<rt>でんきだい</rt></ruby>は1.6%、<ruby>都市<rt>とし</rt></ruby>ガス<ruby>代<rt>だい</rt></ruby>は5.3%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国の電気代とガス代の補助が、先月から小さくなったためです。",
+      "zh": "这是因为国家对电费和燃气费的补贴从上个月起缩小了。",
+      "en": "This is because the government's subsidies for electricity and gas were reduced from the previous month.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<ruby>電気代<rt>でんきだい</rt></ruby>とガス<ruby>代<rt>だい</rt></ruby>の<span class=\"vw\" data-ja=\"補助\" data-reading=\"ほじょ\" data-en=\"subsidy, support\"><ruby>補助<rt>ほじょ</rt></ruby></span>が、<ruby>先月<rt>せんげつ</rt></ruby>から<ruby>小さく<rt>ちいさく</rt></ruby>なったためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "食べ物では、からあげが9.6%、輸入した牛肉が12.2%上がりました。",
+      "zh": "食品方面，炸鸡块上涨9.6%，进口牛肉上涨12.2%。",
+      "en": "Among foods, fried chicken rose 9.6% and imported beef 12.2%.",
+      "tts": "食べ物では、からあげが、きゅうてんろくパーセント、輸入した牛肉が、じゅうにてんにパーセント上がりました。",
+      "ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>では、からあげが9.6%、<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>が12.2%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "輸入した牛肉は、アメリカの干ばつの影響を受けています。",
+      "zh": "进口牛肉受到了美国干旱的影响。",
+      "en": "Imported beef has been affected by drought in the United States.",
+      "ruby": "<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は、アメリカの<ruby>干<rt>かん</rt></ruby>ばつの<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受け<rt>うけ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "生鮮野菜も6.3%上がりました。9月の天気が悪く、葉物野菜がよく育たなかったためです。",
+      "zh": "生鲜蔬菜也上涨了6.3%。这是因为9月天气不好，叶菜长得不好。",
+      "en": "Fresh vegetables also rose 6.3%, because bad weather in September kept leafy greens from growing well.",
+      "tts": "生鮮野菜も、ろくてんさんパーセント上がりました。くがつの天気が悪く、葉物野菜がよく育たなかったためです。",
+      "ruby": "<ruby>生鮮<rt>せいせん</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>も6.3%<ruby>上が<rt>あが</rt></ruby>りました。9<ruby>月<rt>がつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>、<ruby>葉物<rt>はもの</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>がよく<ruby>育た<rt>そだた</rt></ruby>なかったためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ホテルや旅館の宿泊料は6.7%上がりました。外国からの観光客が多く、秋の旅行の需要も高いためです。",
+      "zh": "酒店和旅馆的住宿费上涨6.7%。这是因为外国游客多，秋季旅游需求也很旺盛。",
+      "en": "Hotel and ryokan rates rose 6.7%, because there are many foreign tourists and demand for autumn travel is also high.",
+      "tts": "ホテルや旅館の宿泊料は、ろくてんななパーセント上がりました。外国からの観光客が多く、秋の旅行の需要も高いためです。",
+      "ruby": "ホテルや<ruby>旅館<rt>りょかん</rt></ruby>の<span class=\"vw\" data-ja=\"宿泊料\" data-reading=\"しゅくはくりょう\" data-en=\"hotel charge, room rate\"><ruby>宿泊料<rt>しゅくはくりょう</rt></ruby></span>は6.7%<ruby>上が<rt>あが</rt></ruby>りました。<ruby>外国<rt>がいこく</rt></ruby>からの<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>需要<rt>じゅよう</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>ためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このほか、トイレットペーパーは17.9%、スマートフォンは17.2%上がりました。",
+      "zh": "此外，卫生纸上涨17.9%，智能手机上涨17.2%。",
+      "en": "In addition, toilet paper rose 17.9% and smartphones 17.2%.",
+      "tts": "このほか、トイレットペーパーは、じゅうななてんきゅうパーセント、スマートフォンは、じゅうななてんにパーセント上がりました。",
+      "ruby": "このほか、トイレットペーパーは17.9%、スマートフォンは17.2%<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんは最近、安くなったと感じるもの、高くなったと感じるものは何ですか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "最近你觉得什么东西变便宜了，什么东西变贵了？感谢今天的收听。明天见。",
+      "en": "Lately, what feels cheaper to you, and what feels more expensive? Thanks for listening today. See you tomorrow.",
+      "tts": "皆さんは最近、安くなったと感じるもの、高くなったと感じるものは何ですか。きょうも聞いてくださって、ありがとうございました。また明日。",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>安く<rt>やすく</rt></ruby>なったと<ruby>感じ<rt>かんじ</rt></ruby>るもの、<ruby>高く<rt>たかく</rt></ruby>なったと<ruby>感じ<rt>かんじ</rt></ruby>るものは<ruby>何<rt>なん</rt></ruby>ですか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
