@@ -1,0 +1,747 @@
+{
+  "episode": 296,
+  "title": "楽天証券に不正アクセス、最大1572万口座の情報漏れか",
+  "titleZh": "乐天证券遭非法访问，最多1572万账户信息或泄露",
+  "titleEn": "Rakuten Securities hack may have leaked data from 15.7M accounts",
+  "date": "2026-11-20",
+  "source": "Impress Watch / 日本経済新聞 / J-CASTニュース / 株探",
+  "level": "N4-N3",
+  "contentVersion": "2026112001",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak; to leak out",
+      "zh": "泄漏；外泄"
+    },
+    {
+      "ja": "不正",
+      "reading": "ふせい",
+      "en": "illegal; unauthorized; dishonest",
+      "zh": "非法；不正当"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; to announce",
+      "zh": "发布；宣布"
+    },
+    {
+      "ja": "口座",
+      "reading": "こうざ",
+      "en": "(bank or brokerage) account",
+      "zh": "账户"
+    },
+    {
+      "ja": "引き出す",
+      "reading": "ひきだす",
+      "en": "to withdraw (money)",
+      "zh": "提取（存款）；取出"
+    },
+    {
+      "ja": "年収",
+      "reading": "ねんしゅう",
+      "en": "yearly income",
+      "zh": "年收入"
+    },
+    {
+      "ja": "暗証番号",
+      "reading": "あんしょうばんごう",
+      "en": "PIN; secret number",
+      "zh": "密码（数字）；PIN码"
+    },
+    {
+      "ja": "気づく",
+      "reading": "きづく",
+      "en": "to notice; to realize",
+      "zh": "注意到；发觉"
+    },
+    {
+      "ja": "試す",
+      "reading": "ためす",
+      "en": "to try out; to test",
+      "zh": "试；测试"
+    },
+    {
+      "ja": "ふだん",
+      "reading": "ふだん",
+      "en": "usually; normally",
+      "zh": "平时；平常"
+    },
+    {
+      "ja": "命じる",
+      "reading": "めいじる",
+      "en": "to order; to command",
+      "zh": "命令"
+    },
+    {
+      "ja": "あやしい",
+      "reading": "あやしい",
+      "en": "suspicious; fishy",
+      "zh": "可疑的"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to appeal to (people)",
+      "zh": "呼吁；号召"
+    },
+    {
+      "ja": "勧める",
+      "reading": "すすめる",
+      "en": "to recommend; to advise",
+      "zh": "建议；推荐"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~; may (something bad)",
+      "meaningZh": "有……的可能（危险）",
+      "formation": "Verb plain form / Noun + の + おそれがある",
+      "example": "お客さんの情報が外に漏れたおそれがあります。",
+      "translation": "Customer information may have leaked out.",
+      "note": "Used in news for a possible bad result.",
+      "noteZh": "新闻中常用，表示可能发生不好的事情。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~; reportedly ~",
+      "meaningZh": "据说……；据称……",
+      "formation": "Plain form + ということです",
+      "example": "パスワードは漏れていないということです。",
+      "translation": "Reportedly, the passwords did not leak.",
+      "note": "Passes on information heard from someone else; very common in news.",
+      "noteZh": "转述从别处得到的信息，新闻中非常常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜よう（に）命じる／呼びかける／勧める",
+      "meaning": "order / call on / recommend (someone) to ~",
+      "meaningZh": "命令／呼吁／建议（某人）做……",
+      "formation": "Verb dictionary form / ない-form + よう（に）+ verb",
+      "example": "金融庁は、原因を報告するよう命じました。",
+      "translation": "The agency ordered them to report the cause.",
+      "note": "Reports an order or request indirectly.",
+      "noteZh": "间接转述命令、请求或建议的内容。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ために",
+      "meaning": "in order to ~",
+      "meaningZh": "为了……",
+      "formation": "Verb dictionary form / Noun + の + ために",
+      "example": "システムを新しくするために、お客さんの情報を使っていました。",
+      "translation": "They were using customer data in order to upgrade the system.",
+      "note": "Shows purpose.",
+      "noteZh": "表示目的。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜も含めて",
+      "meaning": "including ~",
+      "meaningZh": "包括……在内",
+      "formation": "Noun + も含めて",
+      "example": "やめた人の口座も含めて、最大1572万口座分です。",
+      "translation": "Including closed accounts, it is up to 15.72 million accounts.",
+      "note": "Adds something to the total that might be overlooked.",
+      "noteZh": "表示把容易被忽略的部分也算在内。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "大手のネット証券会社「楽天証券」で、お客さんの情報が外に漏れたおそれがあることがわかりました。\n大型网络证券公司“乐天证券”被发现客户信息可能外泄。\n漏れる = to leak; to leak out",
+    "楽天証券は17日、会社のシステムに、外から不正なアクセスがあったと発表しました。\n乐天证券于17日宣布，公司系统遭到了来自外部的非法访问。\n不正 = illegal; unauthorized; dishonest\n発表 = announcement; to announce",
+    "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大1572万口座分です。\n可能外泄的信息包括已注销用户的账户在内，合计最多达1572万个账户。\n口座 = (bank or brokerage) account",
+    "このうち447万口座分は、名前や住所、電話番号、メールアドレスなどです。\n其中447万个账户的信息包括姓名、住址、电话号码、电子邮箱等。",
+    "働いている会社や、お金を引き出す銀行の口座、年収も含まれています。\n其中还包括工作单位、用于取款的银行账户以及年收入。\n引き出す = to withdraw (money)\n年収 = yearly income",
+    "ほかの1125万口座分は、ログインするときに使うIDなどです。\n另外1125万个账户的信息是登录时使用的ID等。",
+    "ログインのパスワードや暗証番号は、漏れていないということです。\n据称，登录密码和交易密码没有外泄。\n暗証番号 = PIN; secret number",
+    "会社は16日に不正なアクセスに気づいて、アクセスを止めました。\n公司于16日发现了非法访问，并切断了访问。\n気づく = to notice; to realize",
+    "調べると、11日に情報が外に漏れていたことがわかりました。\n经过调查发现，信息在11日就已经外泄。",
+    "漏れたのは、システムを試すための「テスト環境」に入れていた情報でした。\n外泄的是存放在用于测试系统的“测试环境”中的信息。\n試す = to try out; to test",
+    "会社は、ふだんはテスト環境に本当のお客さんの情報を置かないと説明しています。\n公司解释说，平时不会在测试环境中存放真实的客户信息。\nふだん = usually; normally",
+    "今回は、システムを新しくするために、一部のお客さんの情報を使っていました。\n这次是为了更新系统，使用了部分客户的信息。",
+    "金融庁は19日、楽天証券に、原因などをくわしく報告するよう命じました。\n金融厅于19日命令乐天证券详细报告原因等情况。\n命じる = to order; to command",
+    "楽天証券は、あやしいメールや電話、SMSに十分注意するよう呼びかけています。\n乐天证券呼吁大家充分注意可疑的邮件、电话和短信。\nあやしい = suspicious; fishy\n呼びかける = to call on; to appeal to (people)",
+    "また、スマートフォンなどで本人かどうかを確かめる「パスキー」を設定するよう勧めています。\n此外，公司还建议设置用智能手机等确认是否本人的“通行密钥”。\n勧める = to recommend; to advise"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twentieth: a big data leak at one of Japan's largest online brokerages. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "大手のネット証券会社「楽天証券」で、お客さんの情報が外に漏れたおそれがあることがわかりました。",
+      "zh": "大型网络证券公司“乐天证券”被发现客户信息可能外泄。",
+      "en": "It has come to light that customer information may have leaked out at Rakuten Securities, a major online brokerage.",
+      "ruby": "<ruby>大手<rt>おおて</rt></ruby>のネット<ruby>証券会社<rt>しょうけんがいしゃ</rt></ruby>「<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>」で、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあることがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "楽天証券は17日、会社のシステムに、外から不正なアクセスがあったと発表しました。",
+      "tts": "楽天証券はじゅうしちにち、会社のシステムに、外から不正なアクセスがあったと発表しました。",
+      "zh": "乐天证券于17日宣布，公司系统遭到了来自外部的非法访问。",
+      "en": "On the 17th, Rakuten Securities announced that there had been unauthorized access to its system from outside.",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスがあったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大1572万口座分です。",
+      "tts": "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大せんごひゃくななじゅうにまんこうざぶんです。",
+      "zh": "可能外泄的信息包括已注销用户的账户在内，合计最多达1572万个账户。",
+      "en": "The information that may have leaked covers up to 15.72 million accounts in total, including the accounts of people who have left.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<ruby>情報<rt>じょうほう</rt></ruby>は、やめた<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>も<ruby>含め<rt>ふくめ</rt></ruby>て、あわせて<ruby>最大<rt>さいだい</rt></ruby>1572<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このうち447万口座分は、名前や住所、電話番号、メールアドレスなどです。",
+      "tts": "このうちよんひゃくよんじゅうななまんこうざぶんは、名前や住所、電話番号、メールアドレスなどです。",
+      "zh": "其中447万个账户的信息包括姓名、住址、电话号码、电子邮箱等。",
+      "en": "For 4.47 million of these accounts, it is names, addresses, phone numbers, email addresses and so on.",
+      "ruby": "このうち447<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>は、<ruby>名前<rt>なまえ</rt></ruby>や<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、メールアドレスなどです。"
+    },
+    {
+      "speaker": "news",
+      "text": "働いている会社や、お金を引き出す銀行の口座、年収も含まれています。",
+      "zh": "其中还包括工作单位、用于取款的银行账户以及年收入。",
+      "en": "It also includes the companies where people work, the bank accounts they withdraw money to, and their yearly income.",
+      "ruby": "<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>や、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"引き出す\" data-reading=\"ひきだす\" data-en=\"to withdraw (money)\"><ruby>引き出す<rt>ひきだす</rt></ruby></span><ruby>銀行<rt>ぎんこう</rt></ruby>の<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>、<span class=\"vw\" data-ja=\"年収\" data-reading=\"ねんしゅう\" data-en=\"yearly income\"><ruby>年収<rt>ねんしゅう</rt></ruby></span>も<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ほかの1125万口座分は、ログインするときに使うIDなどです。",
+      "tts": "ほかのせんひゃくにじゅうごまんこうざぶんは、ログインするときに使うIDなどです。",
+      "zh": "另外1125万个账户的信息是登录时使用的ID等。",
+      "en": "For the other 11.25 million accounts, it is the IDs used to log in, and so on.",
+      "ruby": "ほかの1125<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>は、ログインするときに<ruby>使う<rt>つかう</rt></ruby>IDなどです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ログインのパスワードや暗証番号は、漏れていないということです。",
+      "zh": "据称，登录密码和交易密码没有外泄。",
+      "en": "The company says login passwords and PINs did not leak.",
+      "ruby": "ログインのパスワードや<span class=\"vw\" data-ja=\"暗証番号\" data-reading=\"あんしょうばんごう\" data-en=\"PIN; secret number\"><ruby>暗証番号<rt>あんしょうばんごう</rt></ruby></span>は、<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は16日に不正なアクセスに気づいて、アクセスを止めました。",
+      "tts": "会社はじゅうろくにちに不正なアクセスに気づいて、アクセスを止めました。",
+      "zh": "公司于16日发现了非法访问，并切断了访问。",
+      "en": "The company noticed the unauthorized access on the 16th and stopped it.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は16<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気づ<rt>きづ</rt></ruby>いて、アクセスを<ruby>止め<rt>とめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調べると、11日に情報が外に漏れていたことがわかりました。",
+      "tts": "調べると、じゅういちにちに情報が外に漏れていたことがわかりました。",
+      "zh": "经过调查发现，信息在11日就已经外泄。",
+      "en": "An investigation found that the information had leaked out on the 11th.",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>ると、11<ruby>日<rt>にち</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>ていたことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたのは、システムを試すための「テスト環境」に入れていた情報でした。",
+      "zh": "外泄的是存放在用于测试系统的“测试环境”中的信息。",
+      "en": "What leaked was information that had been put in a \"test environment\" used to try out the system.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たのは、システムを<span class=\"vw\" data-ja=\"試す\" data-reading=\"ためす\" data-en=\"to try out; to test\"><ruby>試す<rt>ためす</rt></ruby></span>ための「テスト<ruby>環境<rt>かんきょう</rt></ruby>」に<ruby>入れ<rt>いれ</rt></ruby>ていた<ruby>情報<rt>じょうほう</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、ふだんはテスト環境に本当のお客さんの情報を置かないと説明しています。",
+      "zh": "公司解释说，平时不会在测试环境中存放真实的客户信息。",
+      "en": "The company explains that it normally does not keep real customer information in the test environment.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"ふだん\" data-reading=\"ふだん\" data-en=\"usually; normally\">ふだんは</span>テスト<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>本当<rt>ほんとう</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>置か<rt>おか</rt></ruby>ないと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回は、システムを新しくするために、一部のお客さんの情報を使っていました。",
+      "zh": "这次是为了更新系统，使用了部分客户的信息。",
+      "en": "This time, it had been using some customers' information in order to upgrade the system.",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、システムを<ruby>新しく<rt>あたらしく</rt></ruby>するために、<ruby>一部<rt>いちぶ</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金融庁は19日、楽天証券に、原因などをくわしく報告するよう命じました。",
+      "tts": "金融庁はじゅうくにち、楽天証券に、原因などをくわしく報告するよう命じました。",
+      "zh": "金融厅于19日命令乐天证券详细报告原因等情况。",
+      "en": "On the 19th, the Financial Services Agency ordered Rakuten Securities to report the cause and other details.",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は19<ruby>日<rt>にち</rt></ruby>、<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>に、<ruby>原因<rt>げんいん</rt></ruby>などをくわしく<ruby>報告<rt>ほうこく</rt></ruby>するよう<ruby>命じ<rt>めいじ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "楽天証券は、あやしいメールや電話、SMSに十分注意するよう呼びかけています。",
+      "tts": "楽天証券は、あやしいメールや電話、エスエムエスに十分注意するよう呼びかけています。",
+      "zh": "乐天证券呼吁大家充分注意可疑的邮件、电话和短信。",
+      "en": "Rakuten Securities is calling on people to be very careful of suspicious emails, phone calls and text messages.",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は、<span class=\"vw\" data-ja=\"あやしい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\">あやしい</span>メールや<ruby>電話<rt>でんわ</rt></ruby>、SMSに<ruby>十分注意<rt>じゅうぶんちゅうい</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、スマートフォンなどで本人かどうかを確かめる「パスキー」を設定するよう勧めています。",
+      "zh": "此外，公司还建议设置用智能手机等确认是否本人的“通行密钥”。",
+      "en": "It is also recommending that customers set up a \"passkey\", which uses a smartphone or similar device to check that it is really them.",
+      "ruby": "また、スマートフォンなどで<ruby>本人<rt>ほんにん</rt></ruby>かどうかを<ruby>確か<rt>たしか</rt></ruby>める「パスキー」を<ruby>設定<rt>せってい</rt></ruby>するよう<ruby>勧め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "大手のネット証券会社「楽天証券」で、お客さんの情報が外に漏れたおそれがあることがわかりました。",
+      "ruby": "<ruby>大手<rt>おおて</rt></ruby>のネット<ruby>証券会社<rt>しょうけんがいしゃ</rt></ruby>「<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>」で、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあることがわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "At Rakuten Securities, a big online brokerage, customer data may have leaked out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漏れる",
+      "ruby": "<span class=\"vw\" data-ja=\"漏れる\" data-reading=\"もれる\" data-en=\"to leak; to leak out\"><ruby>漏れ<rt>もれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leak, like water or information."
+    },
+    {
+      "speaker": "slow",
+      "text": "楽天証券は17日、会社のシステムに、外から不正なアクセスがあったと発表しました。",
+      "tts": "楽天証券はじゅうしちにち、会社のシステムに、外から不正なアクセスがあったと発表しました。",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスがあったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the seventeenth, the company announced unauthorized access to its system."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不正",
+      "ruby": "<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means wrong or unauthorized."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an official announcement."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大1572万口座分です。",
+      "tts": "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大せんごひゃくななじゅうにまんこうざぶんです。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<ruby>情報<rt>じょうほう</rt></ruby>は、やめた<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>も<ruby>含め<rt>ふくめ</rt></ruby>て、あわせて<ruby>最大<rt>さいだい</rt></ruby>1572<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The data covers up to fifteen point seven two million accounts, including closed ones."
+    },
+    {
+      "speaker": "vocab",
+      "text": "口座",
+      "ruby": "<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a bank or money account."
+    },
+    {
+      "speaker": "slow",
+      "text": "このうち447万口座分は、名前や住所、電話番号、メールアドレスなどです。",
+      "tts": "このうちよんひゃくよんじゅうななまんこうざぶんは、名前や住所、電話番号、メールアドレスなどです。",
+      "ruby": "このうち447<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>は、<ruby>名前<rt>なまえ</rt></ruby>や<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、メールアドレスなどです。"
+    },
+    {
+      "speaker": "host",
+      "text": "For four point four seven million accounts, it's names, addresses, phone numbers and emails."
+    },
+    {
+      "speaker": "slow",
+      "text": "働いている会社や、お金を引き出す銀行の口座、年収も含まれています。",
+      "ruby": "<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>や、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"引き出す\" data-reading=\"ひきだす\" data-en=\"to withdraw (money)\"><ruby>引き出す<rt>ひきだす</rt></ruby></span><ruby>銀行<rt>ぎんこう</rt></ruby>の<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>、<span class=\"vw\" data-ja=\"年収\" data-reading=\"ねんしゅう\" data-en=\"yearly income\"><ruby>年収<rt>ねんしゅう</rt></ruby></span>も<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also includes workplaces, bank accounts for withdrawals, and yearly income."
+    },
+    {
+      "speaker": "vocab",
+      "text": "引き出す",
+      "ruby": "<span class=\"vw\" data-ja=\"引き出す\" data-reading=\"ひきだす\" data-en=\"to withdraw (money)\"><ruby>引き出す<rt>ひきだす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to take money out of an account."
+    },
+    {
+      "speaker": "vocab",
+      "text": "年収",
+      "ruby": "<span class=\"vw\" data-ja=\"年収\" data-reading=\"ねんしゅう\" data-en=\"yearly income\"><ruby>年収<rt>ねんしゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means how much you earn in a year."
+    },
+    {
+      "speaker": "slow",
+      "text": "ほかの1125万口座分は、ログインするときに使うIDなどです。",
+      "tts": "ほかのせんひゃくにじゅうごまんこうざぶんは、ログインするときに使うIDなどです。",
+      "ruby": "ほかの1125<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>は、ログインするときに<ruby>使う<rt>つかう</rt></ruby>IDなどです。"
+    },
+    {
+      "speaker": "host",
+      "text": "For the other eleven point two five million, it's login IDs."
+    },
+    {
+      "speaker": "slow",
+      "text": "ログインのパスワードや暗証番号は、漏れていないということです。",
+      "ruby": "ログインのパスワードや<span class=\"vw\" data-ja=\"暗証番号\" data-reading=\"あんしょうばんごう\" data-en=\"PIN; secret number\"><ruby>暗証番号<rt>あんしょうばんごう</rt></ruby></span>は、<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Login passwords and PINs reportedly did not leak."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暗証番号",
+      "ruby": "<span class=\"vw\" data-ja=\"暗証番号\" data-reading=\"あんしょうばんごう\" data-en=\"PIN; secret number\"><ruby>暗証番号<rt>あんしょうばんごう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a secret number, like a PIN."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は16日に不正なアクセスに気づいて、アクセスを止めました。",
+      "tts": "会社はじゅうろくにちに不正なアクセスに気づいて、アクセスを止めました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は16<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気づ<rt>きづ</rt></ruby>いて、アクセスを<ruby>止め<rt>とめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company noticed the access on the sixteenth and blocked it."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気づく",
+      "ruby": "<span class=\"vw\" data-ja=\"気づく\" data-reading=\"きづく\" data-en=\"to notice; to realize\"><ruby>気づ<rt>きづ</rt></ruby>く</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to notice."
+    },
+    {
+      "speaker": "slow",
+      "text": "調べると、11日に情報が外に漏れていたことがわかりました。",
+      "tts": "調べると、じゅういちにちに情報が外に漏れていたことがわかりました。",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>ると、11<ruby>日<rt>にち</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>ていたことがわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "An investigation found the data had leaked on the eleventh."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れたのは、システムを試すための「テスト環境」に入れていた情報でした。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たのは、システムを<span class=\"vw\" data-ja=\"試す\" data-reading=\"ためす\" data-en=\"to try out; to test\"><ruby>試す<rt>ためす</rt></ruby></span>ための「テスト<ruby>環境<rt>かんきょう</rt></ruby>」に<ruby>入れ<rt>いれ</rt></ruby>ていた<ruby>情報<rt>じょうほう</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "What leaked was data placed in a test environment, used to try out the system."
+    },
+    {
+      "speaker": "vocab",
+      "text": "試す",
+      "ruby": "<span class=\"vw\" data-ja=\"試す\" data-reading=\"ためす\" data-en=\"to try out; to test\"><ruby>試す<rt>ためす</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to try something out."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、ふだんはテスト環境に本当のお客さんの情報を置かないと説明しています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"ふだん\" data-reading=\"ふだん\" data-en=\"usually; normally\">ふだんは</span>テスト<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>本当<rt>ほんとう</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>置か<rt>おか</rt></ruby>ないと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says it normally keeps no real customer data there."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ふだん",
+      "ruby": "<span class=\"vw\" data-ja=\"ふだん\" data-reading=\"ふだん\" data-en=\"usually; normally\">ふだん</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means usually, on normal days."
+    },
+    {
+      "speaker": "slow",
+      "text": "今回は、システムを新しくするために、一部のお客さんの情報を使っていました。",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、システムを<ruby>新しく<rt>あたらしく</rt></ruby>するために、<ruby>一部<rt>いちぶ</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This time, it used some customers' data to upgrade the system."
+    },
+    {
+      "speaker": "slow",
+      "text": "金融庁は19日、楽天証券に、原因などをくわしく報告するよう命じました。",
+      "tts": "金融庁はじゅうくにち、楽天証券に、原因などをくわしく報告するよう命じました。",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は19<ruby>日<rt>にち</rt></ruby>、<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>に、<ruby>原因<rt>げんいん</rt></ruby>などをくわしく<ruby>報告<rt>ほうこく</rt></ruby>するよう<ruby>命じ<rt>めいじ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the nineteenth, the Financial Services Agency ordered a detailed report on the cause."
+    },
+    {
+      "speaker": "vocab",
+      "text": "命じる",
+      "ruby": "<span class=\"vw\" data-ja=\"命じる\" data-reading=\"めいじる\" data-en=\"to order; to command\"><ruby>命じ<rt>めいじ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to give an order."
+    },
+    {
+      "speaker": "slow",
+      "text": "楽天証券は、あやしいメールや電話、SMSに十分注意するよう呼びかけています。",
+      "tts": "楽天証券は、あやしいメールや電話、エスエムエスに十分注意するよう呼びかけています。",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は、<span class=\"vw\" data-ja=\"あやしい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\">あやしい</span>メールや<ruby>電話<rt>でんわ</rt></ruby>、SMSに<ruby>十分注意<rt>じゅうぶんちゅうい</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company urges people to watch out for suspicious emails, calls and texts."
+    },
+    {
+      "speaker": "vocab",
+      "text": "あやしい",
+      "ruby": "<span class=\"vw\" data-ja=\"あやしい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\">あやしい</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suspicious."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to appeal to (people)\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people to do something."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、スマートフォンなどで本人かどうかを確かめる「パスキー」を設定するよう勧めています。",
+      "ruby": "また、スマートフォンなどで<ruby>本人<rt>ほんにん</rt></ruby>かどうかを<ruby>確か<rt>たしか</rt></ruby>める「パスキー」を<ruby>設定<rt>せってい</rt></ruby>するよう<ruby>勧め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also recommends setting up a passkey, which checks it's really you with a smartphone."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勧める",
+      "ruby": "<span class=\"vw\" data-ja=\"勧める\" data-reading=\"すすめる\" data-en=\"to recommend; to advise\"><ruby>勧め<rt>すすめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to recommend."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "大手のネット証券会社「楽天証券」で、お客さんの情報が外に漏れたおそれがあることがわかりました。",
+      "zh": "大型网络证券公司“乐天证券”被发现客户信息可能外泄。",
+      "en": "It has come to light that customer information may have leaked out at Rakuten Securities, a major online brokerage.",
+      "ruby": "<ruby>大手<rt>おおて</rt></ruby>のネット<ruby>証券会社<rt>しょうけんがいしゃ</rt></ruby>「<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>」で、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあることがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "楽天証券は17日、会社のシステムに、外から不正なアクセスがあったと発表しました。",
+      "tts": "楽天証券はじゅうしちにち、会社のシステムに、外から不正なアクセスがあったと発表しました。",
+      "zh": "乐天证券于17日宣布，公司系统遭到了来自外部的非法访问。",
+      "en": "On the 17th, Rakuten Securities announced that there had been unauthorized access to its system from outside.",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は17<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>のシステムに、<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスがあったと<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大1572万口座分です。",
+      "tts": "漏れたおそれがある情報は、やめた人の口座も含めて、あわせて最大せんごひゃくななじゅうにまんこうざぶんです。",
+      "zh": "可能外泄的信息包括已注销用户的账户在内，合计最多达1572万个账户。",
+      "en": "The information that may have leaked covers up to 15.72 million accounts in total, including the accounts of people who have left.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがある<ruby>情報<rt>じょうほう</rt></ruby>は、やめた<ruby>人<rt>ひと</rt></ruby>の<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>も<ruby>含め<rt>ふくめ</rt></ruby>て、あわせて<ruby>最大<rt>さいだい</rt></ruby>1572<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "このうち447万口座分は、名前や住所、電話番号、メールアドレスなどです。",
+      "tts": "このうちよんひゃくよんじゅうななまんこうざぶんは、名前や住所、電話番号、メールアドレスなどです。",
+      "zh": "其中447万个账户的信息包括姓名、住址、电话号码、电子邮箱等。",
+      "en": "For 4.47 million of these accounts, it is names, addresses, phone numbers, email addresses and so on.",
+      "ruby": "このうち447<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>は、<ruby>名前<rt>なまえ</rt></ruby>や<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>、メールアドレスなどです。"
+    },
+    {
+      "speaker": "news",
+      "text": "働いている会社や、お金を引き出す銀行の口座、年収も含まれています。",
+      "zh": "其中还包括工作单位、用于取款的银行账户以及年收入。",
+      "en": "It also includes the companies where people work, the bank accounts they withdraw money to, and their yearly income.",
+      "ruby": "<ruby>働い<rt>はたらい</rt></ruby>ている<ruby>会社<rt>かいしゃ</rt></ruby>や、お<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"引き出す\" data-reading=\"ひきだす\" data-en=\"to withdraw (money)\"><ruby>引き出す<rt>ひきだす</rt></ruby></span><ruby>銀行<rt>ぎんこう</rt></ruby>の<span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span>、<span class=\"vw\" data-ja=\"年収\" data-reading=\"ねんしゅう\" data-en=\"yearly income\"><ruby>年収<rt>ねんしゅう</rt></ruby></span>も<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "ほかの1125万口座分は、ログインするときに使うIDなどです。",
+      "tts": "ほかのせんひゃくにじゅうごまんこうざぶんは、ログインするときに使うIDなどです。",
+      "zh": "另外1125万个账户的信息是登录时使用的ID等。",
+      "en": "For the other 11.25 million accounts, it is the IDs used to log in, and so on.",
+      "ruby": "ほかの1125<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"口座\" data-reading=\"こうざ\" data-en=\"(bank or brokerage) account\"><ruby>口座<rt>こうざ</rt></ruby></span><ruby>分<rt>ぶん</rt></ruby>は、ログインするときに<ruby>使う<rt>つかう</rt></ruby>IDなどです。"
+    },
+    {
+      "speaker": "news",
+      "text": "ログインのパスワードや暗証番号は、漏れていないということです。",
+      "zh": "据称，登录密码和交易密码没有外泄。",
+      "en": "The company says login passwords and PINs did not leak.",
+      "ruby": "ログインのパスワードや<span class=\"vw\" data-ja=\"暗証番号\" data-reading=\"あんしょうばんごう\" data-en=\"PIN; secret number\"><ruby>暗証番号<rt>あんしょうばんごう</rt></ruby></span>は、<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は16日に不正なアクセスに気づいて、アクセスを止めました。",
+      "tts": "会社はじゅうろくにちに不正なアクセスに気づいて、アクセスを止めました。",
+      "zh": "公司于16日发现了非法访问，并切断了访问。",
+      "en": "The company noticed the unauthorized access on the 16th and stopped it.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は16<ruby>日<rt>にち</rt></ruby>に<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気づ<rt>きづ</rt></ruby>いて、アクセスを<ruby>止め<rt>とめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "調べると、11日に情報が外に漏れていたことがわかりました。",
+      "tts": "調べると、じゅういちにちに情報が外に漏れていたことがわかりました。",
+      "zh": "经过调查发现，信息在11日就已经外泄。",
+      "en": "An investigation found that the information had leaked out on the 11th.",
+      "ruby": "<ruby>調べ<rt>しらべ</rt></ruby>ると、11<ruby>日<rt>にち</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>ていたことがわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたのは、システムを試すための「テスト環境」に入れていた情報でした。",
+      "zh": "外泄的是存放在用于测试系统的“测试环境”中的信息。",
+      "en": "What leaked was information that had been put in a \"test environment\" used to try out the system.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たのは、システムを<span class=\"vw\" data-ja=\"試す\" data-reading=\"ためす\" data-en=\"to try out; to test\"><ruby>試す<rt>ためす</rt></ruby></span>ための「テスト<ruby>環境<rt>かんきょう</rt></ruby>」に<ruby>入れ<rt>いれ</rt></ruby>ていた<ruby>情報<rt>じょうほう</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、ふだんはテスト環境に本当のお客さんの情報を置かないと説明しています。",
+      "zh": "公司解释说，平时不会在测试环境中存放真实的客户信息。",
+      "en": "The company explains that it normally does not keep real customer information in the test environment.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"ふだん\" data-reading=\"ふだん\" data-en=\"usually; normally\">ふだんは</span>テスト<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>本当<rt>ほんとう</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>置か<rt>おか</rt></ruby>ないと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今回は、システムを新しくするために、一部のお客さんの情報を使っていました。",
+      "zh": "这次是为了更新系统，使用了部分客户的信息。",
+      "en": "This time, it had been using some customers' information in order to upgrade the system.",
+      "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、システムを<ruby>新しく<rt>あたらしく</rt></ruby>するために、<ruby>一部<rt>いちぶ</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>いました。"
+    },
+    {
+      "speaker": "news",
+      "text": "金融庁は19日、楽天証券に、原因などをくわしく報告するよう命じました。",
+      "tts": "金融庁はじゅうくにち、楽天証券に、原因などをくわしく報告するよう命じました。",
+      "zh": "金融厅于19日命令乐天证券详细报告原因等情况。",
+      "en": "On the 19th, the Financial Services Agency ordered Rakuten Securities to report the cause and other details.",
+      "ruby": "<ruby>金融<rt>きんゆう</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は19<ruby>日<rt>にち</rt></ruby>、<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>に、<ruby>原因<rt>げんいん</rt></ruby>などをくわしく<ruby>報告<rt>ほうこく</rt></ruby>するよう<ruby>命じ<rt>めいじ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "楽天証券は、あやしいメールや電話、SMSに十分注意するよう呼びかけています。",
+      "tts": "楽天証券は、あやしいメールや電話、エスエムエスに十分注意するよう呼びかけています。",
+      "zh": "乐天证券呼吁大家充分注意可疑的邮件、电话和短信。",
+      "en": "Rakuten Securities is calling on people to be very careful of suspicious emails, phone calls and text messages.",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は、<span class=\"vw\" data-ja=\"あやしい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\">あやしい</span>メールや<ruby>電話<rt>でんわ</rt></ruby>、SMSに<ruby>十分注意<rt>じゅうぶんちゅうい</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、スマートフォンなどで本人かどうかを確かめる「パスキー」を設定するよう勧めています。",
+      "zh": "此外，公司还建议设置用智能手机等确认是否本人的“通行密钥”。",
+      "en": "It is also recommending that customers set up a \"passkey\", which uses a smartphone or similar device to check that it is really them.",
+      "ruby": "また、スマートフォンなどで<ruby>本人<rt>ほんにん</rt></ruby>かどうかを<ruby>確か<rt>たしか</rt></ruby>める「パスキー」を<ruby>設定<rt>せってい</rt></ruby>するよう<ruby>勧め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "楽天証券は、何日に不正なアクセスに気づきましたか。",
+      "tts": "楽天証券は、なんにちに不正なアクセスに気づきましたか。",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は、<ruby>何日<rt>なんにち</rt></ruby>に<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気づ<rt>きづ</rt></ruby>きましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the sixteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れたのは、何に入れていた情報でしたか。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たのは、<ruby>何<rt>なに</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ていた<ruby>情報<rt>じょうほう</rt></ruby>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Information in a test environment, used to try out the system."
+    },
+    {
+      "speaker": "slow",
+      "text": "楽天証券は、何を設定するよう勧めていますか。",
+      "tts": "楽天証券は、なにを設定するよう勧めていますか。",
+      "ruby": "<ruby>楽天<rt>らくてん</rt></ruby><ruby>証券<rt>しょうけん</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby><ruby>設定<rt>せってい</rt></ruby>するよう<ruby>勧め<rt>すすめ</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A passkey."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
