@@ -1,0 +1,652 @@
+{
+  "episode": 298,
+  "title": "Suicaの新しいキャラクターは紫のウサギに決定",
+  "titleZh": "Suica新形象角色揭晓：紫色兔子接替企鹅",
+  "titleEn": "Suica's new character is a purple rabbit, replacing the penguin",
+  "date": "2026-11-21",
+  "source": "マイナビニュース、トラベル Watch、ライブドアニュース",
+  "level": "N4-N3",
+  "contentVersion": "2026112101",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; to announce",
+      "zh": "发表；公布"
+    },
+    {
+      "ja": "親しむ",
+      "reading": "したしむ",
+      "en": "to be close to; to be familiar with (親しまれる = to be loved)",
+      "zh": "亲近；熟悉（親しまれる＝受人喜爱）"
+    },
+    {
+      "ja": "交代",
+      "reading": "こうたい",
+      "en": "switching places; taking over",
+      "zh": "交替；换班"
+    },
+    {
+      "ja": "落ち着く",
+      "reading": "おちつく",
+      "en": "to be calm; to settle down",
+      "zh": "平静；沉着"
+    },
+    {
+      "ja": "活躍",
+      "reading": "かつやく",
+      "en": "being active; playing an important role",
+      "zh": "活跃；大显身手"
+    },
+    {
+      "ja": "募集",
+      "reading": "ぼしゅう",
+      "en": "calling for; recruiting (entries)",
+      "zh": "招募；征集"
+    },
+    {
+      "ja": "応募",
+      "reading": "おうぼ",
+      "en": "applying; sending in an entry",
+      "zh": "报名；应征"
+    },
+    {
+      "ja": "卒業",
+      "reading": "そつぎょう",
+      "en": "graduation; to graduate",
+      "zh": "毕业"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜てきました",
+      "meaning": "have been ~ (up to now)",
+      "meaningZh": "一直……（到现在）",
+      "formation": "Verb て-form + きました",
+      "example": "「Suicaのペンギン」は、25年間、多くの人に親しまれてきました。",
+      "translation": "The Suica penguin has been loved by many people for 25 years.",
+      "note": "Shows something that has continued from the past up to now.",
+      "noteZh": "表示某种状态或动作从过去一直持续到现在。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜られる (受身)",
+      "meaning": "passive: is ~ed (by someone)",
+      "meaningZh": "被动：被……",
+      "formation": "Verb passive form (親しむ → 親しまれる, 選ぶ → 選ばれる)",
+      "example": "選ばれなかったリスとモグラについても話しました。",
+      "translation": "He also talked about the squirrel and the mole that were not chosen.",
+      "note": "The subject receives the action; the doer is marked with に.",
+      "noteZh": "主语承受动作，动作的发出者用に表示。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~; reportedly ~",
+      "meaningZh": "据说……；据介绍……",
+      "formation": "Plain form + ということです",
+      "example": "紫色は、青と赤を合わせた色だということです。",
+      "translation": "The purple is said to be a mix of blue and red.",
+      "note": "Common in news to pass on information from another source.",
+      "noteZh": "新闻中常用，表示转述从别处得到的信息。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜のではなく",
+      "meaning": "not ~, but (rather) ~",
+      "meaningZh": "不是……而是……",
+      "formation": "Plain form + のではなく",
+      "example": "名前は、応募の数の多さで決めるのではなく、選考委員会が選びます。",
+      "translation": "The name won't be decided by the number of entries; a committee will choose it.",
+      "note": "Denies one way and gives the real one after it.",
+      "noteZh": "否定前项，引出真正的情况。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ないか考える",
+      "meaning": "to think about whether ~ could be done",
+      "meaningZh": "考虑能不能……",
+      "formation": "Verb ない-form + か + 考える",
+      "example": "これから何か活躍できないか考えている。",
+      "translation": "We are thinking about whether they can play some role from now on.",
+      "note": "A soft way to say you are looking for a possibility.",
+      "noteZh": "委婉地表示正在寻找某种可能性。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "JR東日本は、Suicaが始まって25年になる18日、Suicaの新しいキャラクターを発表しました。\nJR东日本在Suica诞生25周年的18日，发布了Suica的新形象角色。\n発表 = announcement; to announce",
+    "新しいキャラクターは、紫色のウサギです。\n新角色是一只紫色的兔子。",
+    "今のキャラクター「Suicaのペンギン」は、25年間、多くの人に親しまれてきました。\n现在的角色“Suica企鹅”25年来一直深受许多人喜爱。\n親しむ = to be close to; to be familiar with (親しまれる = to be loved)",
+    "ペンギンは来年3月31日でキャラクターを卒業して、4月1日からウサギと交代します。\n企鹅将于明年3月31日从角色岗位“毕业”，从4月1日起由兔子接替。\n交代 = switching places; taking over",
+    "JR東日本は9月に、リスとウサギとモグラの3つの中から、次のキャラクターを選ぶ投票を行いました。\nJR东日本在9月举行了投票，从松鼠、兔子和鼹鼠三个候选中选出下一个角色。",
+    "投票は全部で約166万票で、ウサギはそのうち約86万票を集めました。\n投票总数约166万票，其中兔子获得了约86万票。",
+    "ウサギは半分以上の票を集めて、1位になりました。\n兔子获得了一半以上的选票，排名第一。",
+    "紫色は、落ち着いた気持ちを表す青と、熱い気持ちを表す赤を合わせた色だということです。\n据介绍，紫色是由代表平静心情的蓝色和代表热烈心情的红色混合而成的颜色。\n落ち着く = to be calm; to settle down",
+    "デザインを考えたイラストレーターは、「SNSに、もうファンが描いた絵が出ていて、うれしいです」と話しました。\n设计这个角色的插画师说：“社交网络上已经出现了粉丝画的画，我很高兴。”",
+    "JR東日本の社長は、選ばれなかったリスとモグラについても、「これから何か活躍できないか考えている」と話しました。\nJR东日本社长也谈到了没有被选上的松鼠和鼹鼠，表示“正在考虑今后能否让它们在某些地方发挥作用”。\n活躍 = being active; playing an important role",
+    "新しいウサギには、まだ名前がありません。\n新的兔子还没有名字。",
+    "JR東日本は12月15日まで、特設サイトで名前のアイデアを募集しています。\nJR东日本在专题网站上征集名字创意，截止到12月15日。\n募集 = calling for; recruiting (entries)",
+    "応募した人は全員、デジタルの壁紙を1つもらえます。\n所有投稿的人都能获得一张数字壁纸。\n応募 = applying; sending in an entry",
+    "名前は、応募の数の多さで決めるのではなく、選考委員会が選びます。\n名字不是按投稿数量的多少来决定，而是由评选委员会挑选。",
+    "決まった名前は、来年3月31日の、ペンギンからウサギへのバトンタッチの式で発表されます。\n确定的名字将在明年3月31日企鹅向兔子交接的仪式上公布。\n卒業 = graduation; to graduate"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-first: Suica, the train card used all over Tokyo, has picked a new character to replace its famous penguin. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、Suicaが始まって25年になる18日、Suicaの新しいキャラクターを発表しました。",
+      "zh": "JR东日本在Suica诞生25周年的18日，发布了Suica的新形象角色。",
+      "en": "On the 18th, the day Suica turned 25, JR East announced Suica's new character.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、Suicaが<ruby>始ま<rt>はじま</rt></ruby>って25<ruby>年<rt>ねん</rt></ruby>になる18<ruby>日<rt>にち</rt></ruby>、Suicaの<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターを<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいキャラクターは、紫色のウサギです。",
+      "zh": "新角色是一只紫色的兔子。",
+      "en": "The new character is a purple rabbit.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターは、<ruby>紫色<rt>むらさきいろ</rt></ruby>のウサギです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のキャラクター「Suicaのペンギン」は、25年間、多くの人に親しまれてきました。",
+      "zh": "现在的角色“Suica企鹅”25年来一直深受许多人喜爱。",
+      "en": "The current character, the Suica penguin, has been loved by many people for 25 years.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のキャラクター「Suicaのペンギン」は、25<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>親しま<rt>したしま</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンは来年3月31日でキャラクターを卒業して、4月1日からウサギと交代します。",
+      "zh": "企鹅将于明年3月31日从角色岗位“毕业”，从4月1日起由兔子接替。",
+      "en": "The penguin will graduate as the character on March 31 next year, and the rabbit will take over from April 1.",
+      "ruby": "ペンギンは<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>でキャラクターを<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation; to graduate\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>して、4<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からウサギと<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"switching places; taking over\"><ruby>交代<rt>こうたい</rt></ruby></span>します。",
+      "tts": "ペンギンは来年3月31日でキャラクターを卒業して、しがつついたちからウサギと交代します。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は9月に、リスとウサギとモグラの3つの中から、次のキャラクターを選ぶ投票を行いました。",
+      "zh": "JR东日本在9月举行了投票，从松鼠、兔子和鼹鼠三个候选中选出下一个角色。",
+      "en": "In September, JR East held a vote to choose the next character from three options: a squirrel, a rabbit and a mole.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は9<ruby>月<rt>がつ</rt></ruby>に、リスとウサギとモグラの3つの<ruby>中<rt>なか</rt></ruby>から、<ruby>次の<rt>つぎの</rt></ruby>キャラクターを<ruby>選ぶ<rt>えらぶ</rt></ruby><ruby>投票<rt>とうひょう</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "投票は全部で約166万票で、ウサギはそのうち約86万票を集めました。",
+      "zh": "投票总数约166万票，其中兔子获得了约86万票。",
+      "en": "There were about 1.66 million votes in total, and the rabbit got about 860,000 of them.",
+      "ruby": "<ruby>投票<rt>とうひょう</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>約<rt>やく</rt></ruby>166<ruby>万<rt>まん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>で、ウサギはそのうち<ruby>約<rt>やく</rt></ruby>86<ruby>万<rt>まん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ウサギは半分以上の票を集めて、1位になりました。",
+      "zh": "兔子获得了一半以上的选票，排名第一。",
+      "en": "The rabbit won more than half of the votes and came first.",
+      "ruby": "ウサギは<ruby>半分以上<rt>はんぶんいじょう</rt></ruby>の<ruby>票<rt>ひょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て、<ruby>1位<rt>いちい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "紫色は、落ち着いた気持ちを表す青と、熱い気持ちを表す赤を合わせた色だということです。",
+      "zh": "据介绍，紫色是由代表平静心情的蓝色和代表热烈心情的红色混合而成的颜色。",
+      "en": "The purple is said to be a mix of blue, which stands for a calm feeling, and red, which stands for strong emotion.",
+      "ruby": "<ruby>紫色<rt>むらさきいろ</rt></ruby>は、<ruby>落ち着い<rt>おちつい</rt></ruby>た<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>青<rt>あお</rt></ruby>と、<ruby>熱い<rt>あつい</rt></ruby><ruby>気持ち<rt>きもち</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>赤<rt>あか</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せた<ruby>色<rt>いろ</rt></ruby>だということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "デザインを考えたイラストレーターは、「SNSに、もうファンが描いた絵が出ていて、うれしいです」と話しました。",
+      "zh": "设计这个角色的插画师说：“社交网络上已经出现了粉丝画的画，我很高兴。”",
+      "en": "The illustrator who came up with the design said, \"Fans are already posting their drawings on social media, and I'm happy.\"",
+      "ruby": "デザインを<ruby>考え<rt>かんがえ</rt></ruby>たイラストレーターは、「SNSに、もうファンが<ruby>描い<rt>えがい</rt></ruby>た<ruby>絵<rt>え</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>いて、うれしいです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本の社長は、選ばれなかったリスとモグラについても、「これから何か活躍できないか考えている」と話しました。",
+      "zh": "JR东日本社长也谈到了没有被选上的松鼠和鼹鼠，表示“正在考虑今后能否让它们在某些地方发挥作用”。",
+      "en": "JR East's president also spoke about the squirrel and the mole that were not chosen, saying, \"We are thinking about whether they can play some role from now on.\"",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>選ば<rt>えらば</rt></ruby>れなかったリスとモグラについても、「これから<ruby>何か<rt>なにか</rt></ruby><span class=\"vw\" data-ja=\"活躍\" data-reading=\"かつやく\" data-en=\"being active; playing an important role\"><ruby>活躍<rt>かつやく</rt></ruby></span>できないか<ruby>考え<rt>かんがえ</rt></ruby>ている」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいウサギには、まだ名前がありません。",
+      "zh": "新的兔子还没有名字。",
+      "en": "The new rabbit does not have a name yet.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>ウサギには、まだ<ruby>名前<rt>なまえ</rt></ruby>がありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は12月15日まで、特設サイトで名前のアイデアを募集しています。",
+      "zh": "JR东日本在专题网站上征集名字创意，截止到12月15日。",
+      "en": "JR East is collecting name ideas on a special website until December 15.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>まで、<ruby>特設<rt>とくせつ</rt></ruby>サイトで<ruby>名前<rt>なまえ</rt></ruby>のアイデアを<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"calling for; recruiting (entries)\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "応募した人は全員、デジタルの壁紙を1つもらえます。",
+      "zh": "所有投稿的人都能获得一张数字壁纸。",
+      "en": "Everyone who sends an entry gets one digital wallpaper.",
+      "ruby": "<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby>、デジタルの<ruby>壁紙<rt>かべがみ</rt></ruby>を1つもらえます。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は、応募の数の多さで決めるのではなく、選考委員会が選びます。",
+      "zh": "名字不是按投稿数量的多少来决定，而是由评选委员会挑选。",
+      "en": "The name will not be decided by how many entries it gets; a selection committee will choose it.",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>は、<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>の<ruby>多さ<rt>おおさ</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>るのではなく、<ruby>選考委員会<rt>せんこういいんかい</rt></ruby>が<ruby>選び<rt>えらび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "決まった名前は、来年3月31日の、ペンギンからウサギへのバトンタッチの式で発表されます。",
+      "zh": "确定的名字将在明年3月31日企鹅向兔子交接的仪式上公布。",
+      "en": "The chosen name will be announced on March 31 next year, at a ceremony where the penguin passes the baton to the rabbit.",
+      "ruby": "<ruby>決ま<rt>きま</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>の、ペンギンからウサギへのバトンタッチの<ruby>式<rt>しき</rt></ruby>で<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>されます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、Suicaが始まって25年になる18日、Suicaの新しいキャラクターを発表しました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、Suicaが<ruby>始ま<rt>はじま</rt></ruby>って25<ruby>年<rt>ねん</rt></ruby>になる18<ruby>日<rt>にち</rt></ruby>、Suicaの<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターを<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the eighteenth, the day Suica turned twenty-five, JR East announced Suica's new character."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to announce, or an announcement."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいキャラクターは、紫色のウサギです。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターは、<ruby>紫色<rt>むらさきいろ</rt></ruby>のウサギです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new character is a purple rabbit."
+    },
+    {
+      "speaker": "slow",
+      "text": "今のキャラクター「Suicaのペンギン」は、25年間、多くの人に親しまれてきました。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のキャラクター「Suicaのペンギン」は、25<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>親しま<rt>したしま</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The current character, the Suica penguin, has been loved by many people for twenty-five years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "親しむ",
+      "ruby": "<span class=\"vw\" data-ja=\"親しむ\" data-reading=\"したしむ\" data-en=\"to be close to; to be familiar with (親しまれる = to be loved)\"><ruby>親しむ<rt>したしむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to become close to, or familiar with. Here, it means the penguin has been loved."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンは来年3月31日でキャラクターを卒業して、4月1日からウサギと交代します。",
+      "ruby": "ペンギンは<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>でキャラクターを<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation; to graduate\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>して、4<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からウサギと<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"switching places; taking over\"><ruby>交代<rt>こうたい</rt></ruby></span>します。",
+      "tts": "ペンギンは来年3月31日でキャラクターを卒業して、しがつついたちからウサギと交代します。"
+    },
+    {
+      "speaker": "host",
+      "text": "The penguin will graduate on March thirty-first next year, and the rabbit takes over from April first."
+    },
+    {
+      "speaker": "vocab",
+      "text": "交代",
+      "ruby": "<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"switching places; taking over\"><ruby>交代<rt>こうたい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to switch places, or take over from someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は9月に、リスとウサギとモグラの3つの中から、次のキャラクターを選ぶ投票を行いました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は9<ruby>月<rt>がつ</rt></ruby>に、リスとウサギとモグラの3つの<ruby>中<rt>なか</rt></ruby>から、<ruby>次の<rt>つぎの</rt></ruby>キャラクターを<ruby>選ぶ<rt>えらぶ</rt></ruby><ruby>投票<rt>とうひょう</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In September, JR East held a vote to choose the next character from a squirrel, a rabbit and a mole."
+    },
+    {
+      "speaker": "slow",
+      "text": "投票は全部で約166万票で、ウサギはそのうち約86万票を集めました。",
+      "ruby": "<ruby>投票<rt>とうひょう</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>約<rt>やく</rt></ruby>166<ruby>万<rt>まん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>で、ウサギはそのうち<ruby>約<rt>やく</rt></ruby>86<ruby>万<rt>まん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "There were about one point six six million votes, and the rabbit got about eight hundred sixty thousand."
+    },
+    {
+      "speaker": "slow",
+      "text": "ウサギは半分以上の票を集めて、1位になりました。",
+      "ruby": "ウサギは<ruby>半分以上<rt>はんぶんいじょう</rt></ruby>の<ruby>票<rt>ひょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て、<ruby>1位<rt>いちい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The rabbit won more than half the votes and came first."
+    },
+    {
+      "speaker": "slow",
+      "text": "紫色は、落ち着いた気持ちを表す青と、熱い気持ちを表す赤を合わせた色だということです。",
+      "ruby": "<ruby>紫色<rt>むらさきいろ</rt></ruby>は、<ruby>落ち着い<rt>おちつい</rt></ruby>た<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>青<rt>あお</rt></ruby>と、<ruby>熱い<rt>あつい</rt></ruby><ruby>気持ち<rt>きもち</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>赤<rt>あか</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せた<ruby>色<rt>いろ</rt></ruby>だということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The purple is said to mix blue, for a calm feeling, and red, for strong emotion."
+    },
+    {
+      "speaker": "vocab",
+      "text": "落ち着く",
+      "ruby": "<span class=\"vw\" data-ja=\"落ち着く\" data-reading=\"おちつく\" data-en=\"to be calm; to settle down\"><ruby>落ち着く<rt>おちつく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be calm, or to settle down."
+    },
+    {
+      "speaker": "slow",
+      "text": "デザインを考えたイラストレーターは、「SNSに、もうファンが描いた絵が出ていて、うれしいです」と話しました。",
+      "ruby": "デザインを<ruby>考え<rt>かんがえ</rt></ruby>たイラストレーターは、「SNSに、もうファンが<ruby>描い<rt>えがい</rt></ruby>た<ruby>絵<rt>え</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>いて、うれしいです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The illustrator who designed it said fans are already posting their drawings on social media, and they're happy."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本の社長は、選ばれなかったリスとモグラについても、「これから何か活躍できないか考えている」と話しました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>選ば<rt>えらば</rt></ruby>れなかったリスとモグラについても、「これから<ruby>何か<rt>なにか</rt></ruby><span class=\"vw\" data-ja=\"活躍\" data-reading=\"かつやく\" data-en=\"being active; playing an important role\"><ruby>活躍<rt>かつやく</rt></ruby></span>できないか<ruby>考え<rt>かんがえ</rt></ruby>ている」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The president said they're also thinking about whether the squirrel and the mole can play some role from now on."
+    },
+    {
+      "speaker": "vocab",
+      "text": "活躍",
+      "ruby": "<span class=\"vw\" data-ja=\"活躍\" data-reading=\"かつやく\" data-en=\"being active; playing an important role\"><ruby>活躍<rt>かつやく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be active, or to play an important role."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいウサギには、まだ名前がありません。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>ウサギには、まだ<ruby>名前<rt>なまえ</rt></ruby>がありません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new rabbit doesn't have a name yet."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は12月15日まで、特設サイトで名前のアイデアを募集しています。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>まで、<ruby>特設<rt>とくせつ</rt></ruby>サイトで<ruby>名前<rt>なまえ</rt></ruby>のアイデアを<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"calling for; recruiting (entries)\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR East is collecting name ideas on a special website until December fifteenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "募集",
+      "ruby": "<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"calling for; recruiting (entries)\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call for, or to collect entries or applications."
+    },
+    {
+      "speaker": "slow",
+      "text": "応募した人は全員、デジタルの壁紙を1つもらえます。",
+      "ruby": "<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby>、デジタルの<ruby>壁紙<rt>かべがみ</rt></ruby>を1つもらえます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Everyone who enters gets one digital wallpaper."
+    },
+    {
+      "speaker": "vocab",
+      "text": "応募",
+      "ruby": "<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to apply, or to send in an entry."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前は、応募の数の多さで決めるのではなく、選考委員会が選びます。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>は、<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>の<ruby>多さ<rt>おおさ</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>るのではなく、<ruby>選考委員会<rt>せんこういいんかい</rt></ruby>が<ruby>選び<rt>えらび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The name won't be picked by how many entries it gets; a committee will choose it."
+    },
+    {
+      "speaker": "slow",
+      "text": "決まった名前は、来年3月31日の、ペンギンからウサギへのバトンタッチの式で発表されます。",
+      "ruby": "<ruby>決ま<rt>きま</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>の、ペンギンからウサギへのバトンタッチの<ruby>式<rt>しき</rt></ruby>で<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>されます。"
+    },
+    {
+      "speaker": "host",
+      "text": "The name will be announced next March thirty-first, at the ceremony where the penguin passes the baton to the rabbit."
+    },
+    {
+      "speaker": "vocab",
+      "text": "卒業",
+      "ruby": "<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation; to graduate\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means graduation, or to graduate. The penguin graduates from its job."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、Suicaが始まって25年になる18日、Suicaの新しいキャラクターを発表しました。",
+      "zh": "JR东日本在Suica诞生25周年的18日，发布了Suica的新形象角色。",
+      "en": "On the 18th, the day Suica turned 25, JR East announced Suica's new character.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、Suicaが<ruby>始ま<rt>はじま</rt></ruby>って25<ruby>年<rt>ねん</rt></ruby>になる18<ruby>日<rt>にち</rt></ruby>、Suicaの<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターを<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいキャラクターは、紫色のウサギです。",
+      "zh": "新角色是一只紫色的兔子。",
+      "en": "The new character is a purple rabbit.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターは、<ruby>紫色<rt>むらさきいろ</rt></ruby>のウサギです。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のキャラクター「Suicaのペンギン」は、25年間、多くの人に親しまれてきました。",
+      "zh": "现在的角色“Suica企鹅”25年来一直深受许多人喜爱。",
+      "en": "The current character, the Suica penguin, has been loved by many people for 25 years.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のキャラクター「Suicaのペンギン」は、25<ruby>年間<rt>ねんかん</rt></ruby>、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>親しま<rt>したしま</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンは来年3月31日でキャラクターを卒業して、4月1日からウサギと交代します。",
+      "zh": "企鹅将于明年3月31日从角色岗位“毕业”，从4月1日起由兔子接替。",
+      "en": "The penguin will graduate as the character on March 31 next year, and the rabbit will take over from April 1.",
+      "ruby": "ペンギンは<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>でキャラクターを<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation; to graduate\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>して、4<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>からウサギと<span class=\"vw\" data-ja=\"交代\" data-reading=\"こうたい\" data-en=\"switching places; taking over\"><ruby>交代<rt>こうたい</rt></ruby></span>します。",
+      "tts": "ペンギンは来年3月31日でキャラクターを卒業して、しがつついたちからウサギと交代します。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は9月に、リスとウサギとモグラの3つの中から、次のキャラクターを選ぶ投票を行いました。",
+      "zh": "JR东日本在9月举行了投票，从松鼠、兔子和鼹鼠三个候选中选出下一个角色。",
+      "en": "In September, JR East held a vote to choose the next character from three options: a squirrel, a rabbit and a mole.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は9<ruby>月<rt>がつ</rt></ruby>に、リスとウサギとモグラの3つの<ruby>中<rt>なか</rt></ruby>から、<ruby>次の<rt>つぎの</rt></ruby>キャラクターを<ruby>選ぶ<rt>えらぶ</rt></ruby><ruby>投票<rt>とうひょう</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "投票は全部で約166万票で、ウサギはそのうち約86万票を集めました。",
+      "zh": "投票总数约166万票，其中兔子获得了约86万票。",
+      "en": "There were about 1.66 million votes in total, and the rabbit got about 860,000 of them.",
+      "ruby": "<ruby>投票<rt>とうひょう</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>約<rt>やく</rt></ruby>166<ruby>万<rt>まん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>で、ウサギはそのうち<ruby>約<rt>やく</rt></ruby>86<ruby>万<rt>まん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ウサギは半分以上の票を集めて、1位になりました。",
+      "zh": "兔子获得了一半以上的选票，排名第一。",
+      "en": "The rabbit won more than half of the votes and came first.",
+      "ruby": "ウサギは<ruby>半分以上<rt>はんぶんいじょう</rt></ruby>の<ruby>票<rt>ひょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>て、<ruby>1位<rt>いちい</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "紫色は、落ち着いた気持ちを表す青と、熱い気持ちを表す赤を合わせた色だということです。",
+      "zh": "据介绍，紫色是由代表平静心情的蓝色和代表热烈心情的红色混合而成的颜色。",
+      "en": "The purple is said to be a mix of blue, which stands for a calm feeling, and red, which stands for strong emotion.",
+      "ruby": "<ruby>紫色<rt>むらさきいろ</rt></ruby>は、<ruby>落ち着い<rt>おちつい</rt></ruby>た<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>青<rt>あお</rt></ruby>と、<ruby>熱い<rt>あつい</rt></ruby><ruby>気持ち<rt>きもち</rt></ruby>を<ruby>表す<rt>あらわす</rt></ruby><ruby>赤<rt>あか</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せた<ruby>色<rt>いろ</rt></ruby>だということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "デザインを考えたイラストレーターは、「SNSに、もうファンが描いた絵が出ていて、うれしいです」と話しました。",
+      "zh": "设计这个角色的插画师说：“社交网络上已经出现了粉丝画的画，我很高兴。”",
+      "en": "The illustrator who came up with the design said, \"Fans are already posting their drawings on social media, and I'm happy.\"",
+      "ruby": "デザインを<ruby>考え<rt>かんがえ</rt></ruby>たイラストレーターは、「SNSに、もうファンが<ruby>描い<rt>えがい</rt></ruby>た<ruby>絵<rt>え</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>いて、うれしいです」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本の社長は、選ばれなかったリスとモグラについても、「これから何か活躍できないか考えている」と話しました。",
+      "zh": "JR东日本社长也谈到了没有被选上的松鼠和鼹鼠，表示“正在考虑今后能否让它们在某些地方发挥作用”。",
+      "en": "JR East's president also spoke about the squirrel and the mole that were not chosen, saying, \"We are thinking about whether they can play some role from now on.\"",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>選ば<rt>えらば</rt></ruby>れなかったリスとモグラについても、「これから<ruby>何か<rt>なにか</rt></ruby><span class=\"vw\" data-ja=\"活躍\" data-reading=\"かつやく\" data-en=\"being active; playing an important role\"><ruby>活躍<rt>かつやく</rt></ruby></span>できないか<ruby>考え<rt>かんがえ</rt></ruby>ている」と<ruby>話し<rt>はなし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しいウサギには、まだ名前がありません。",
+      "zh": "新的兔子还没有名字。",
+      "en": "The new rabbit does not have a name yet.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>ウサギには、まだ<ruby>名前<rt>なまえ</rt></ruby>がありません。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は12月15日まで、特設サイトで名前のアイデアを募集しています。",
+      "zh": "JR东日本在专题网站上征集名字创意，截止到12月15日。",
+      "en": "JR East is collecting name ideas on a special website until December 15.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>まで、<ruby>特設<rt>とくせつ</rt></ruby>サイトで<ruby>名前<rt>なまえ</rt></ruby>のアイデアを<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"calling for; recruiting (entries)\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "応募した人は全員、デジタルの壁紙を1つもらえます。",
+      "zh": "所有投稿的人都能获得一张数字壁纸。",
+      "en": "Everyone who sends an entry gets one digital wallpaper.",
+      "ruby": "<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby>、デジタルの<ruby>壁紙<rt>かべがみ</rt></ruby>を1つもらえます。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前は、応募の数の多さで決めるのではなく、選考委員会が選びます。",
+      "zh": "名字不是按投稿数量的多少来决定，而是由评选委员会挑选。",
+      "en": "The name will not be decided by how many entries it gets; a selection committee will choose it.",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>は、<span class=\"vw\" data-ja=\"応募\" data-reading=\"おうぼ\" data-en=\"applying; sending in an entry\"><ruby>応募<rt>おうぼ</rt></ruby></span>の<ruby>数<rt>かず</rt></ruby>の<ruby>多さ<rt>おおさ</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>るのではなく、<ruby>選考委員会<rt>せんこういいんかい</rt></ruby>が<ruby>選び<rt>えらび</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "決まった名前は、来年3月31日の、ペンギンからウサギへのバトンタッチの式で発表されます。",
+      "zh": "确定的名字将在明年3月31日企鹅向兔子交接的仪式上公布。",
+      "en": "The chosen name will be announced on March 31 next year, at a ceremony where the penguin passes the baton to the rabbit.",
+      "ruby": "<ruby>決ま<rt>きま</rt></ruby>った<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>の、ペンギンからウサギへのバトンタッチの<ruby>式<rt>しき</rt></ruby>で<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce\"><ruby>発表<rt>はっぴょう</rt></ruby></span>されます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しいキャラクターは、何ですか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>キャラクターは、<ruby>何<rt>なん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A purple rabbit."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンは、いつキャラクターを卒業しますか。",
+      "ruby": "ペンギンは、いつキャラクターを<span class=\"vw\" data-ja=\"卒業\" data-reading=\"そつぎょう\" data-en=\"graduation; to graduate\"><ruby>卒業<rt>そつぎょう</rt></ruby></span>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On March thirty-first next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "投票で、次のキャラクターの候補はいくつありましたか。",
+      "ruby": "<ruby>投票<rt>とうひょう</rt></ruby>で、<ruby>次の<rt>つぎの</rt></ruby>キャラクターの<ruby>候補<rt>こうほ</rt></ruby>はいくつありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three: a squirrel, a rabbit and a mole."
+    },
+    {
+      "speaker": "slow",
+      "text": "紫色は、何色と何色を合わせた色ですか。",
+      "ruby": "<ruby>紫色<rt>むらさきいろ</rt></ruby>は、<ruby>何色<rt>なにいろ</rt></ruby>と<ruby>何色<rt>なにいろ</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せた<ruby>色<rt>いろ</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Blue and red."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前のアイデアは、いつまで募集していますか。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>のアイデアは、いつまで<span class=\"vw\" data-ja=\"募集\" data-reading=\"ぼしゅう\" data-en=\"calling for; recruiting (entries)\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>していますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Until December fifteenth."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
