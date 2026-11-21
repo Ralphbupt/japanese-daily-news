@@ -1,0 +1,520 @@
+{
+  "episode": 299,
+  "title": "四ツ谷駅の草を食べるヤギ、仕事が早すぎて早めに退職",
+  "titleZh": "四谷站除草山羊工作太出色，提前“退休”",
+  "titleEn": "Yotsuya Station's weeding goats retire early after eating all the grass",
+  "date": "2026-11-22",
+  "source": "NHK、テレビ朝日（ANN）、日テレNEWS",
+  "level": "N5-N4",
+  "contentVersion": "2026112201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "予定",
+      "reading": "よてい",
+      "en": "plan; schedule",
+      "zh": "预定；计划"
+    },
+    {
+      "ja": "環境",
+      "reading": "かんきょう",
+      "en": "environment",
+      "zh": "环境"
+    },
+    {
+      "ja": "呼ぶ",
+      "reading": "よぶ",
+      "en": "to call; to name",
+      "zh": "叫；称呼"
+    },
+    {
+      "ja": "立ち止まる",
+      "reading": "たちどまる",
+      "en": "to stop (walking); to stand still",
+      "zh": "停下脚步；站住"
+    },
+    {
+      "ja": "ほとんど",
+      "reading": "ほとんど",
+      "en": "almost; hardly (with a negative)",
+      "zh": "几乎；大部分"
+    },
+    {
+      "ja": "えさ",
+      "reading": "えさ",
+      "en": "animal food; feed",
+      "zh": "饲料；饵食"
+    },
+    {
+      "ja": "過ごす",
+      "reading": "すごす",
+      "en": "to spend (time)",
+      "zh": "度过；过（日子）"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ことになりました",
+      "meaning": "it has been decided that ~; it turned out that ~",
+      "meaningZh": "决定……；（结果）变成……",
+      "formation": "Verb dictionary form + ことになりました",
+      "example": "2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "translation": "It has been decided that the two goats will stop working earlier than planned.",
+      "note": "Used for decisions made by others or by circumstances, not by the speaker alone.",
+      "noteZh": "表示不是由说话人单方面决定，而是由他人或情况决定的事情。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てもらう",
+      "meaning": "to have someone do ~ (for you)",
+      "meaningZh": "请（让）别人为自己做……",
+      "formation": "Person + に + Verb て-form + もらう",
+      "example": "駅の前の草をヤギに食べてもらっていました。",
+      "translation": "They had the goats eat the grass in front of the station.",
+      "note": "The person who does the action is marked with に; the subject receives the benefit.",
+      "noteZh": "做动作的人用に表示，主语是受益的一方。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜と呼ばれる",
+      "meaning": "to be called ~",
+      "meaningZh": "被称为……",
+      "formation": "Name + と + 呼ばれる (passive of 呼ぶ)",
+      "example": "2匹は「よつやぎ」と呼ばれて、人気になりました。",
+      "translation": "The two were called Yotsuyagi and became popular.",
+      "note": "A common way to give a nickname or what people call something.",
+      "noteZh": "常用来介绍昵称或人们对某物的叫法。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "than ~",
+      "meaningZh": "比……",
+      "formation": "Noun / plain form + より",
+      "example": "ヤギは思っていたよりずっと速く草を食べました。",
+      "translation": "The goats ate the grass much faster than expected.",
+      "note": "Marks the thing being compared with; ずっと makes the difference bigger.",
+      "noteZh": "表示比较的对象；加上ずっと表示差别很大。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜かどうか",
+      "meaning": "whether or not ~",
+      "meaningZh": "是否……",
+      "formation": "Noun / plain form + かどうか",
+      "example": "同じ2匹かどうかはわからないということです。",
+      "translation": "It is said they don't know whether they will be the same two.",
+      "note": "Used inside a sentence for a yes-or-no question, often with わからない.",
+      "noteZh": "把是非疑问句放进句子里，常和わからない一起用。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "東京のJR四ツ谷駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。\n在东京JR四谷站从事吃草工作的两只山羊，将比原计划提前结束工作。\n予定 = plan; schedule",
+    "ヤギは、1歳のオスの「ナギ」と、2歳のメスの「ポッケ」です。\n这两只山羊是1岁的公羊“凪”（Nagi）和2岁的母羊“口袋”（Pocke）。",
+    "JR東日本は、10月9日から、駅の前の草をヤギに食べてもらっていました。\nJR东日本从10月9日起，一直让山羊吃车站前的草。",
+    "機械を使わないで草を取るので、環境にやさしい方法です。\n这是不用机器除草的方法，所以对环境很友好。\n環境 = environment",
+    "2匹は「よつやぎ」と呼ばれて、駅を使う人たちに人気になりました。\n这两只山羊被称为“四谷羊”，在乘坐车站的人们中很受欢迎。\n呼ぶ = to call; to name",
+    "たくさんの人が立ち止まって、ヤギの写真を撮っていました。\n很多人停下脚步，给山羊拍照。\n立ち止まる = to stop (walking); to stand still",
+    "仕事は3か月の予定でしたが、ヤギは思っていたよりずっと速く草を食べました。\n工作原计划为3个月，但山羊吃草的速度比预想的快得多。",
+    "今は、食べられる草がほとんどなくなって、牧草などのえさをあげているということです。\n据说现在能吃的草几乎没有了，所以在喂它们牧草等饲料。\nほとんど = almost; hardly (with a negative)\nえさ = animal food; feed",
+    "そのため、2匹は12月1日に仕事をやめて、牧場で冬休みを過ごします。\n因此，两只山羊将在12月1日结束工作，到牧场度过寒假。\n過ごす = to spend (time)",
+    "JR東日本は、来年の春もヤギに草を食べてもらう予定ですが、同じ2匹かどうかはわからないということです。\nJR东日本计划明年春天也让山羊来吃草，但据说还不知道是不是同样的两只。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-second: two goats that eat the grass at a busy Tokyo train station are retiring early, because they did their job too well. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "東京のJR四ツ谷駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "zh": "在东京JR四谷站从事吃草工作的两只山羊，将比原计划提前结束工作。",
+      "en": "Two goats that had been working at JR Yotsuya Station in Tokyo, eating grass, will stop working earlier than planned.",
+      "tts": "東京のJRよつや駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>のJR<ruby>四ツ谷<rt>よつや</rt></ruby><ruby>駅<rt>えき</rt></ruby>で、<ruby>草<rt>くさ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしていた2<ruby>匹<rt>ひき</rt></ruby>のヤギが、<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>より<ruby>早く<rt>はやく</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>をやめることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ヤギは、1歳のオスの「ナギ」と、2歳のメスの「ポッケ」です。",
+      "zh": "这两只山羊是1岁的公羊“凪”（Nagi）和2岁的母羊“口袋”（Pocke）。",
+      "en": "The goats are Nagi, a one-year-old male, and Pocke, a two-year-old female.",
+      "ruby": "ヤギは、<ruby>1歳<rt>いっさい</rt></ruby>のオスの「ナギ」と、<ruby>2歳<rt>にさい</rt></ruby>のメスの「ポッケ」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、10月9日から、駅の前の草をヤギに食べてもらっていました。",
+      "zh": "JR东日本从10月9日起，一直让山羊吃车站前的草。",
+      "en": "Since October 9, JR East had been having the goats eat the grass in front of the station.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby><ruby>9日<rt>ここのか</rt></ruby>から、<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>をヤギに<ruby>食べて<rt>たべて</rt></ruby>もらっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "機械を使わないで草を取るので、環境にやさしい方法です。",
+      "zh": "这是不用机器除草的方法，所以对环境很友好。",
+      "en": "It is an eco-friendly way, because the grass is removed without using machines.",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないで<ruby>草<rt>くさ</rt></ruby>を<ruby>取る<rt>とる</rt></ruby>ので、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>にやさしい<ruby>方法<rt>ほうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹は「よつやぎ」と呼ばれて、駅を使う人たちに人気になりました。",
+      "zh": "这两只山羊被称为“四谷羊”，在乘坐车站的人们中很受欢迎。",
+      "en": "The two were called \"Yotsuyagi\" and became popular with people who use the station.",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は「よつやぎ」と<ruby>呼ば<rt>よば</rt></ruby>れて、<ruby>駅<rt>えき</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに<ruby>人気<rt>にんき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんの人が立ち止まって、ヤギの写真を撮っていました。",
+      "zh": "很多人停下脚步，给山羊拍照。",
+      "en": "Many people stopped to take photos of the goats.",
+      "ruby": "たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>立ち<rt>たち</rt></ruby><ruby>止ま<rt>とま</rt></ruby>って、ヤギの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "仕事は3か月の予定でしたが、ヤギは思っていたよりずっと速く草を食べました。",
+      "zh": "工作原计划为3个月，但山羊吃草的速度比预想的快得多。",
+      "en": "The job was planned for three months, but the goats ate the grass much faster than expected.",
+      "ruby": "<ruby>仕事<rt>しごと</rt></ruby>は3か<ruby>月<rt>げつ</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でしたが、ヤギは<ruby>思って<rt>おもって</rt></ruby>いたよりずっと<ruby>速く<rt>はやく</rt></ruby><ruby>草<rt>くさ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今は、食べられる草がほとんどなくなって、牧草などのえさをあげているということです。",
+      "zh": "据说现在能吃的草几乎没有了，所以在喂它们牧草等饲料。",
+      "en": "Now there is almost no grass left for them to eat, so they are being given feed such as hay.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>食べ<rt>たべ</rt></ruby>られる<ruby>草<rt>くさ</rt></ruby>がほとんどなくなって、<ruby>牧草<rt>ぼくそう</rt></ruby>などのえさをあげているということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、2匹は12月1日に仕事をやめて、牧場で冬休みを過ごします。",
+      "zh": "因此，两只山羊将在12月1日结束工作，到牧场度过寒假。",
+      "en": "So the two will stop working on December 1 and spend their winter break on a farm.",
+      "tts": "そのため、2匹はじゅうにがつついたちに仕事をやめて、ぼくじょうで冬休みを過ごします。",
+      "ruby": "そのため、2<ruby>匹<rt>ひき</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>をやめて、<ruby>牧場<rt>ぼくじょう</rt></ruby>で<ruby>冬休み<rt>ふゆやすみ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、来年の春もヤギに草を食べてもらう予定ですが、同じ2匹かどうかはわからないということです。",
+      "zh": "JR东日本计划明年春天也让山羊来吃草，但据说还不知道是不是同样的两只。",
+      "en": "JR East plans to have goats eat the grass again next spring, but it is not known whether they will be the same two.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>もヤギに<ruby>草<rt>くさ</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>もらう<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですが、<ruby>同じ<rt>おなじ</rt></ruby>2<ruby>匹<rt>ひき</rt></ruby>かどうかはわからないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京のJR四ツ谷駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "tts": "東京のJRよつや駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>のJR<ruby>四ツ谷<rt>よつや</rt></ruby><ruby>駅<rt>えき</rt></ruby>で、<ruby>草<rt>くさ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしていた2<ruby>匹<rt>ひき</rt></ruby>のヤギが、<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>より<ruby>早く<rt>はやく</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>をやめることになりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two goats that ate the grass at JR Yotsuya Station in Tokyo will stop working earlier than planned."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予定",
+      "ruby": "<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a plan, or a schedule."
+    },
+    {
+      "speaker": "slow",
+      "text": "ヤギは、1歳のオスの「ナギ」と、2歳のメスの「ポッケ」です。",
+      "ruby": "ヤギは、<ruby>1歳<rt>いっさい</rt></ruby>のオスの「ナギ」と、<ruby>2歳<rt>にさい</rt></ruby>のメスの「ポッケ」です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The goats are a one-year-old male and a two-year-old female."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、10月9日から、駅の前の草をヤギに食べてもらっていました。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby><ruby>9日<rt>ここのか</rt></ruby>から、<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>をヤギに<ruby>食べて<rt>たべて</rt></ruby>もらっていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Since October ninth, JR East had the goats eat the grass in front of the station."
+    },
+    {
+      "speaker": "slow",
+      "text": "機械を使わないで草を取るので、環境にやさしい方法です。",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないで<ruby>草<rt>くさ</rt></ruby>を<ruby>取る<rt>とる</rt></ruby>ので、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>にやさしい<ruby>方法<rt>ほうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's a kind way to treat nature, because no machines are used."
+    },
+    {
+      "speaker": "vocab",
+      "text": "環境",
+      "ruby": "<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the environment. Kind to the environment means eco-friendly."
+    },
+    {
+      "speaker": "slow",
+      "text": "2匹は「よつやぎ」と呼ばれて、駅を使う人たちに人気になりました。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は「よつやぎ」と<ruby>呼ば<rt>よば</rt></ruby>れて、<ruby>駅<rt>えき</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに<ruby>人気<rt>にんき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The two goats got a nickname and became popular with people who use the station."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"呼ぶ\" data-reading=\"よぶ\" data-en=\"to call; to name\"><ruby>呼ぶ<rt>よぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call. Here, the goats were called by a nickname."
+    },
+    {
+      "speaker": "slow",
+      "text": "たくさんの人が立ち止まって、ヤギの写真を撮っていました。",
+      "ruby": "たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>立ち<rt>たち</rt></ruby><ruby>止ま<rt>とま</rt></ruby>って、ヤギの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Many people stopped to take photos of the goats."
+    },
+    {
+      "speaker": "vocab",
+      "text": "立ち止まる",
+      "ruby": "<span class=\"vw\" data-ja=\"立ち止まる\" data-reading=\"たちどまる\" data-en=\"to stop (walking); to stand still\"><ruby>立ち<rt>たち</rt></ruby><ruby>止ま<rt>とま</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to stop walking and stand still."
+    },
+    {
+      "speaker": "slow",
+      "text": "仕事は3か月の予定でしたが、ヤギは思っていたよりずっと速く草を食べました。",
+      "ruby": "<ruby>仕事<rt>しごと</rt></ruby>は3か<ruby>月<rt>げつ</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でしたが、ヤギは<ruby>思って<rt>おもって</rt></ruby>いたよりずっと<ruby>速く<rt>はやく</rt></ruby><ruby>草<rt>くさ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The job was planned for three months, but the goats ate much faster than expected."
+    },
+    {
+      "speaker": "slow",
+      "text": "今は、食べられる草がほとんどなくなって、牧草などのえさをあげているということです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>食べ<rt>たべ</rt></ruby>られる<ruby>草<rt>くさ</rt></ruby>がほとんどなくなって、<ruby>牧草<rt>ぼくそう</rt></ruby>などのえさをあげているということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now there's almost no grass left, so they're being given hay."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ほとんど",
+      "ruby": "<span class=\"vw\" data-ja=\"ほとんど\" data-reading=\"ほとんど\" data-en=\"almost; hardly (with a negative)\">ほとんど</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means almost. With a negative, it means almost none."
+    },
+    {
+      "speaker": "vocab",
+      "text": "えさ",
+      "ruby": "<span class=\"vw\" data-ja=\"えさ\" data-reading=\"えさ\" data-en=\"animal food; feed\">えさ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means food for animals."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのため、2匹は12月1日に仕事をやめて、牧場で冬休みを過ごします。",
+      "tts": "そのため、2匹はじゅうにがつついたちに仕事をやめて、ぼくじょうで冬休みを過ごします。",
+      "ruby": "そのため、2<ruby>匹<rt>ひき</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>をやめて、<ruby>牧場<rt>ぼくじょう</rt></ruby>で<ruby>冬休み<rt>ふゆやすみ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>します。"
+    },
+    {
+      "speaker": "host",
+      "text": "So on December first the two will stop working and spend their winter break on a farm."
+    },
+    {
+      "speaker": "vocab",
+      "text": "過ごす",
+      "ruby": "<span class=\"vw\" data-ja=\"過ごす\" data-reading=\"すごす\" data-en=\"to spend (time)\"><ruby>過ご<rt>すご</rt></ruby>す</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to spend time."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR東日本は、来年の春もヤギに草を食べてもらう予定ですが、同じ2匹かどうかはわからないということです。",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>もヤギに<ruby>草<rt>くさ</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>もらう<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですが、<ruby>同じ<rt>おなじ</rt></ruby>2<ruby>匹<rt>ひき</rt></ruby>かどうかはわからないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "JR East plans to use goats again next spring, but it doesn't know if they'll be the same two."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "東京のJR四ツ谷駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "zh": "在东京JR四谷站从事吃草工作的两只山羊，将比原计划提前结束工作。",
+      "en": "Two goats that had been working at JR Yotsuya Station in Tokyo, eating grass, will stop working earlier than planned.",
+      "tts": "東京のJRよつや駅で、草を食べる仕事をしていた2匹のヤギが、予定より早く仕事をやめることになりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>のJR<ruby>四ツ谷<rt>よつや</rt></ruby><ruby>駅<rt>えき</rt></ruby>で、<ruby>草<rt>くさ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしていた2<ruby>匹<rt>ひき</rt></ruby>のヤギが、<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>より<ruby>早く<rt>はやく</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>をやめることになりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ヤギは、1歳のオスの「ナギ」と、2歳のメスの「ポッケ」です。",
+      "zh": "这两只山羊是1岁的公羊“凪”（Nagi）和2岁的母羊“口袋”（Pocke）。",
+      "en": "The goats are Nagi, a one-year-old male, and Pocke, a two-year-old female.",
+      "ruby": "ヤギは、<ruby>1歳<rt>いっさい</rt></ruby>のオスの「ナギ」と、<ruby>2歳<rt>にさい</rt></ruby>のメスの「ポッケ」です。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、10月9日から、駅の前の草をヤギに食べてもらっていました。",
+      "zh": "JR东日本从10月9日起，一直让山羊吃车站前的草。",
+      "en": "Since October 9, JR East had been having the goats eat the grass in front of the station.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、10<ruby>月<rt>がつ</rt></ruby><ruby>9日<rt>ここのか</rt></ruby>から、<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>をヤギに<ruby>食べて<rt>たべて</rt></ruby>もらっていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "機械を使わないで草を取るので、環境にやさしい方法です。",
+      "zh": "这是不用机器除草的方法，所以对环境很友好。",
+      "en": "It is an eco-friendly way, because the grass is removed without using machines.",
+      "ruby": "<ruby>機械<rt>きかい</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないで<ruby>草<rt>くさ</rt></ruby>を<ruby>取る<rt>とる</rt></ruby>ので、<span class=\"vw\" data-ja=\"環境\" data-reading=\"かんきょう\" data-en=\"environment\"><ruby>環境<rt>かんきょう</rt></ruby></span>にやさしい<ruby>方法<rt>ほうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "2匹は「よつやぎ」と呼ばれて、駅を使う人たちに人気になりました。",
+      "zh": "这两只山羊被称为“四谷羊”，在乘坐车站的人们中很受欢迎。",
+      "en": "The two were called \"Yotsuyagi\" and became popular with people who use the station.",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は「よつやぎ」と<ruby>呼ば<rt>よば</rt></ruby>れて、<ruby>駅<rt>えき</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに<ruby>人気<rt>にんき</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "たくさんの人が立ち止まって、ヤギの写真を撮っていました。",
+      "zh": "很多人停下脚步，给山羊拍照。",
+      "en": "Many people stopped to take photos of the goats.",
+      "ruby": "たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>立ち<rt>たち</rt></ruby><ruby>止ま<rt>とま</rt></ruby>って、ヤギの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "仕事は3か月の予定でしたが、ヤギは思っていたよりずっと速く草を食べました。",
+      "zh": "工作原计划为3个月，但山羊吃草的速度比预想的快得多。",
+      "en": "The job was planned for three months, but the goats ate the grass much faster than expected.",
+      "ruby": "<ruby>仕事<rt>しごと</rt></ruby>は3か<ruby>月<rt>げつ</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でしたが、ヤギは<ruby>思って<rt>おもって</rt></ruby>いたよりずっと<ruby>速く<rt>はやく</rt></ruby><ruby>草<rt>くさ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今は、食べられる草がほとんどなくなって、牧草などのえさをあげているということです。",
+      "zh": "据说现在能吃的草几乎没有了，所以在喂它们牧草等饲料。",
+      "en": "Now there is almost no grass left for them to eat, so they are being given feed such as hay.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>は、<ruby>食べ<rt>たべ</rt></ruby>られる<ruby>草<rt>くさ</rt></ruby>がほとんどなくなって、<ruby>牧草<rt>ぼくそう</rt></ruby>などのえさをあげているということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、2匹は12月1日に仕事をやめて、牧場で冬休みを過ごします。",
+      "zh": "因此，两只山羊将在12月1日结束工作，到牧场度过寒假。",
+      "en": "So the two will stop working on December 1 and spend their winter break on a farm.",
+      "tts": "そのため、2匹はじゅうにがつついたちに仕事をやめて、ぼくじょうで冬休みを過ごします。",
+      "ruby": "そのため、2<ruby>匹<rt>ひき</rt></ruby>は12<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>をやめて、<ruby>牧場<rt>ぼくじょう</rt></ruby>で<ruby>冬休み<rt>ふゆやすみ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR東日本は、来年の春もヤギに草を食べてもらう予定ですが、同じ2匹かどうかはわからないということです。",
+      "zh": "JR东日本计划明年春天也让山羊来吃草，但据说还不知道是不是同样的两只。",
+      "en": "JR East plans to have goats eat the grass again next spring, but it is not known whether they will be the same two.",
+      "ruby": "JR<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>もヤギに<ruby>草<rt>くさ</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>もらう<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>ですが、<ruby>同じ<rt>おなじ</rt></ruby>2<ruby>匹<rt>ひき</rt></ruby>かどうかはわからないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "ヤギは、何匹いましたか。",
+      "ruby": "ヤギは、<ruby>何匹<rt>なんびき</rt></ruby>いましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two."
+    },
+    {
+      "speaker": "slow",
+      "text": "ヤギは、いつから草を食べていましたか。",
+      "ruby": "ヤギは、いつから<ruby>草<rt>くさ</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From October ninth."
+    },
+    {
+      "speaker": "slow",
+      "text": "仕事は、何か月の予定でしたか。",
+      "ruby": "<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>何か月<rt>なんかげつ</rt></ruby>の<span class=\"vw\" data-ja=\"予定\" data-reading=\"よてい\" data-en=\"plan; schedule\"><ruby>予定<rt>よてい</rt></ruby></span>でしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three months."
+    },
+    {
+      "speaker": "slow",
+      "text": "ヤギは、いつ仕事をやめますか。",
+      "ruby": "ヤギは、いつ<ruby>仕事<rt>しごと</rt></ruby>をやめますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On December first."
+    },
+    {
+      "speaker": "slow",
+      "text": "2匹は、どこで冬休みを過ごしますか。",
+      "ruby": "2<ruby>匹<rt>ひき</rt></ruby>は、どこで<ruby>冬休み<rt>ふゆやすみ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On a farm."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
