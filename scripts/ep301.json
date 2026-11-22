@@ -1,0 +1,517 @@
+{
+  "episode": 301,
+  "title": "各地で今シーズン一番の冷え込み、東京は4.9度",
+  "titleZh": "日本多地迎来入冬最冷早晨，东京4.9度",
+  "titleEn": "Coldest morning of the season across Japan, Tokyo hits 4.9°C",
+  "date": "2026-11-23",
+  "source": "日本気象協会 tenki.jp、ウェザーニュース、広島テレビ、NHK",
+  "level": "N5-N4",
+  "contentVersion": "2026112301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "範囲",
+      "reading": "はんい",
+      "en": "range; area (広い範囲 = a wide area)",
+      "zh": "范围（広い範囲＝大范围）"
+    },
+    {
+      "ja": "気温",
+      "reading": "きおん",
+      "en": "air temperature",
+      "zh": "气温"
+    },
+    {
+      "ja": "下がる",
+      "reading": "さがる",
+      "en": "to go down; to drop",
+      "zh": "下降；降低"
+    },
+    {
+      "ja": "都心",
+      "reading": "としん",
+      "en": "city center; central Tokyo",
+      "zh": "市中心（多指东京市中心）"
+    },
+    {
+      "ja": "予想",
+      "reading": "よそう",
+      "en": "forecast; expectation; to expect",
+      "zh": "预测；预想"
+    },
+    {
+      "ja": "差",
+      "reading": "さ",
+      "en": "difference; gap",
+      "zh": "差；差距"
+    },
+    {
+      "ja": "気をつける",
+      "reading": "きをつける",
+      "en": "to be careful; to take care",
+      "zh": "注意；小心"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜くなる",
+      "meaning": "to become ~ (i-adjective)",
+      "meaningZh": "变得……（い形容词）",
+      "formation": "i-adjective stem + くなる (寒い → 寒くなる, 低い → 低くなる)",
+      "example": "日本の広い範囲で、とても寒くなりました。",
+      "translation": "It became very cold across a wide area of Japan.",
+      "note": "Shows a change of state. Drop the final い and add くなる.",
+      "noteZh": "表示状态的变化。去掉词尾的い，加上くなる。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~; so ~",
+      "meaningZh": "因为……所以……",
+      "formation": "Plain form + ので (な-adjective / noun + なので)",
+      "example": "空が晴れて、風も弱かったので、夜の間に気温が大きく下がりました。",
+      "translation": "Because the sky was clear and the wind was weak, the temperature dropped a lot during the night.",
+      "note": "Gives a reason in a soft, objective way; common in news and polite speech.",
+      "noteZh": "以较柔和、客观的语气说明原因，新闻和礼貌用语中常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜のは初めてです",
+      "meaning": "it is the first time that ~",
+      "meaningZh": "……是第一次",
+      "formation": "Plain form + のは + 初めてです",
+      "example": "東京の都心で5度より低くなったのは、今シーズン初めてです。",
+      "translation": "It was the first time this season that central Tokyo went below 5 degrees.",
+      "note": "の turns the sentence before it into a noun, which becomes the topic.",
+      "noteZh": "の把前面的句子名词化，作为话题。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning": "for the first time in (a period of time)",
+      "meaningZh": "时隔……；……以来第一次",
+      "formation": "Time period + ぶり (5年ぶり, 3か月ぶり)",
+      "example": "11月に5度より低くなったのは、5年ぶりです。",
+      "translation": "It was the first time in 5 years that it went below 5 degrees in November.",
+      "note": "Says how long it has been since something last happened.",
+      "noteZh": "表示距离上一次发生某事已经过了多长时间。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜のような",
+      "meaning": "like ~; similar to ~",
+      "meaningZh": "像……一样的",
+      "formation": "Noun + のような + noun",
+      "example": "12月の終わりごろのような寒さになりました。",
+      "translation": "It became as cold as late December.",
+      "note": "Compares one thing to another before a noun.",
+      "noteZh": "用于名词前，把某事物比作另一事物。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "3連休の2日目の22日の朝は、日本の広い範囲で、とても寒くなりました。\n三连休第二天的22日早上，日本大范围地区都非常寒冷。\n範囲 = range; area (広い範囲 = a wide area)",
+    "空が晴れて、風も弱かったので、夜の間に気温が大きく下がりました。\n因为天空晴朗、风也很弱，夜间气温大幅下降。\n気温 = air temperature\n下がる = to go down; to drop",
+    "東京の都心では、午前4時19分に、気温が4.9度になりました。\n东京市中心在凌晨4点19分，气温降到了4.9度。\n都心 = city center; central Tokyo",
+    "東京の都心で5度より低くなったのは、今シーズン初めてです。\n东京市中心气温低于5度，这是本季第一次。",
+    "11月に5度より低くなったのは、5年ぶりです。\n11月气温低于5度，是5年来的第一次。",
+    "広島市でも3度になって、12月の終わりごろのような寒さになりました。\n广岛市气温也降到了3度，冷得像12月下旬一样。",
+    "同じ広島県の山の方では、マイナス2.4度になった所もありました。\n同在广岛县的山区，有的地方降到了零下2.4度。",
+    "でも、昼は晴れて暖かくなり、東京の都心では14.7度まで上がりました。\n不过白天天气晴朗、变得暖和，东京市中心气温升到了14.7度。",
+    "23日の朝も、関東から西の地方では、22日より寒くなる所が多いと予想されています。\n预计23日早上，关东以西的地区也有很多地方会比22日更冷。\n予想 = forecast; expectation; to expect",
+    "朝と昼の気温の差が大きいので、体に気をつけてください。\n早上和白天的温差很大，请注意身体。\n差 = difference; gap\n気をつける = to be careful; to take care"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-third: yesterday morning was the coldest of the season in many parts of Japan, and central Tokyo dropped below five degrees. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "3連休の2日目の22日の朝は、日本の広い範囲で、とても寒くなりました。",
+      "zh": "三连休第二天的22日早上，日本大范围地区都非常寒冷。",
+      "en": "On the morning of the 22nd, the second day of the three-day weekend, it was very cold across a wide area of Japan.",
+      "tts": "3連休のふつかめの22日の朝は、日本の広い範囲で、とても寒くなりました。",
+      "ruby": "3<ruby>連休<rt>れんきゅう</rt></ruby>の<ruby>2日目<rt>ふつかめ</rt></ruby>の22<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area (広い範囲 = a wide area)\"><ruby>範囲<rt>はんい</rt></ruby></span>で、とても<ruby>寒く<rt>さむく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "空が晴れて、風も弱かったので、夜の間に気温が大きく下がりました。",
+      "zh": "因为天空晴朗、风也很弱，夜间气温大幅下降。",
+      "en": "Because the sky was clear and the wind was weak, the temperature dropped a lot during the night.",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>晴れ<rt>はれ</rt></ruby>て、<ruby>風<rt>かぜ</rt></ruby>も<ruby>弱か<rt>よわか</rt></ruby>ったので、<ruby>夜<rt>よる</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心では、午前4時19分に、気温が4.9度になりました。",
+      "zh": "东京市中心在凌晨4点19分，气温降到了4.9度。",
+      "en": "In central Tokyo, the temperature fell to 4.9 degrees at 4:19 a.m.",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>では、<ruby>午前<rt>ごぜん</rt></ruby>4<ruby>時<rt>じ</rt></ruby>19<ruby>分<rt>ふん</rt></ruby>に、<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が4.9<ruby>度<rt>ど</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心で5度より低くなったのは、今シーズン初めてです。",
+      "zh": "东京市中心气温低于5度，这是本季第一次。",
+      "en": "It was the first time this season that central Tokyo went below 5 degrees.",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>で5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月に5度より低くなったのは、5年ぶりです。",
+      "zh": "11月气温低于5度，是5年来的第一次。",
+      "en": "It was the first time in 5 years that it went below 5 degrees in November.",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>に5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、5<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市でも3度になって、12月の終わりごろのような寒さになりました。",
+      "zh": "广岛市气温也降到了3度，冷得像12月下旬一样。",
+      "en": "Hiroshima City also fell to 3 degrees, as cold as late December.",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>でも3<ruby>度<rt>ど</rt></ruby>になって、12<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろのような<ruby>寒さ<rt>さむさ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じ広島県の山の方では、マイナス2.4度になった所もありました。",
+      "zh": "同在广岛县的山区，有的地方降到了零下2.4度。",
+      "en": "In the mountains of the same Hiroshima Prefecture, some places fell to minus 2.4 degrees.",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>では、マイナス2.4<ruby>度<rt>ど</rt></ruby>になった<ruby>所<rt>ところ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、昼は晴れて暖かくなり、東京の都心では14.7度まで上がりました。",
+      "zh": "不过白天天气晴朗、变得暖和，东京市中心气温升到了14.7度。",
+      "en": "But in the daytime it was sunny and warm, and central Tokyo rose to 14.7 degrees.",
+      "ruby": "でも、<ruby>昼<rt>ひる</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>て<ruby>暖かく<rt>あたたかく</rt></ruby>なり、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>では14.7<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "23日の朝も、関東から西の地方では、22日より寒くなる所が多いと予想されています。",
+      "zh": "预计23日早上，关东以西的地区也有很多地方会比22日更冷。",
+      "en": "On the morning of the 23rd too, many places from Kanto westward are expected to be colder than on the 22nd.",
+      "ruby": "23<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>も、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>西<rt>にし</rt></ruby>の<ruby>地方<rt>ちほう</rt></ruby>では、22<ruby>日<rt>にち</rt></ruby>より<ruby>寒く<rt>さむく</rt></ruby>なる<ruby>所<rt>ところ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>と<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation; to expect\"><ruby>予想<rt>よそう</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝と昼の気温の差が大きいので、体に気をつけてください。",
+      "zh": "早上和白天的温差很大，请注意身体。",
+      "en": "The difference between morning and daytime temperatures is large, so please take care of your health.",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>昼<rt>ひる</rt></ruby>の<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference; gap\"><ruby>差が<rt>さが</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby>ので、<ruby>体<rt>からだ</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "3連休の2日目の22日の朝は、日本の広い範囲で、とても寒くなりました。",
+      "tts": "3連休のふつかめの22日の朝は、日本の広い範囲で、とても寒くなりました。",
+      "ruby": "3<ruby>連休<rt>れんきゅう</rt></ruby>の<ruby>2日目<rt>ふつかめ</rt></ruby>の22<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area (広い範囲 = a wide area)\"><ruby>範囲<rt>はんい</rt></ruby></span>で、とても<ruby>寒く<rt>さむく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the twenty-second, the second day of the long weekend, it got very cold across a wide area of Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "範囲",
+      "ruby": "<span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area (広い範囲 = a wide area)\"><ruby>範囲<rt>はんい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means range or area. Together with the word for wide, it means a wide area."
+    },
+    {
+      "speaker": "slow",
+      "text": "空が晴れて、風も弱かったので、夜の間に気温が大きく下がりました。",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>晴れ<rt>はれ</rt></ruby>て、<ruby>風<rt>かぜ</rt></ruby>も<ruby>弱か<rt>よわか</rt></ruby>ったので、<ruby>夜<rt>よる</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The sky was clear and the wind was weak, so the temperature dropped a lot during the night."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気温",
+      "ruby": "<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means air temperature, the temperature outside."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下がる",
+      "ruby": "<span class=\"vw\" data-ja=\"下がる\" data-reading=\"さがる\" data-en=\"to go down; to drop\"><ruby>下が<rt>さが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to go down or to drop, like a temperature or a price."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心では、午前4時19分に、気温が4.9度になりました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>では、<ruby>午前<rt>ごぜん</rt></ruby>4<ruby>時<rt>じ</rt></ruby>19<ruby>分<rt>ふん</rt></ruby>に、<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が4.9<ruby>度<rt>ど</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In central Tokyo, the temperature fell to four point nine degrees at four nineteen in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "都心",
+      "ruby": "<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the city center. In the news, it usually means central Tokyo."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心で5度より低くなったのは、今シーズン初めてです。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>で5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was the first time this season that central Tokyo went below five degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月に5度より低くなったのは、5年ぶりです。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>に5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、5<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was the first time in five years that it went below five degrees in November."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島市でも3度になって、12月の終わりごろのような寒さになりました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>でも3<ruby>度<rt>ど</rt></ruby>になって、12<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろのような<ruby>寒さ<rt>さむさ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Hiroshima City also fell to three degrees, as cold as late December."
+    },
+    {
+      "speaker": "slow",
+      "text": "同じ広島県の山の方では、マイナス2.4度になった所もありました。",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>では、マイナス2.4<ruby>度<rt>ど</rt></ruby>になった<ruby>所<rt>ところ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the mountains of Hiroshima Prefecture, some places fell to minus two point four degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、昼は晴れて暖かくなり、東京の都心では14.7度まで上がりました。",
+      "ruby": "でも、<ruby>昼<rt>ひる</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>て<ruby>暖かく<rt>あたたかく</rt></ruby>なり、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>では14.7<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But in the daytime it was sunny and warm, and central Tokyo rose to fourteen point seven degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "23日の朝も、関東から西の地方では、22日より寒くなる所が多いと予想されています。",
+      "ruby": "23<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>も、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>西<rt>にし</rt></ruby>の<ruby>地方<rt>ちほう</rt></ruby>では、22<ruby>日<rt>にち</rt></ruby>より<ruby>寒く<rt>さむく</rt></ruby>なる<ruby>所<rt>ところ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>と<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation; to expect\"><ruby>予想<rt>よそう</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the twenty-third too, many places from Kanto westward are expected to be even colder."
+    },
+    {
+      "speaker": "vocab",
+      "text": "予想",
+      "ruby": "<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation; to expect\"><ruby>予想<rt>よそう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a forecast, or to expect something."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝と昼の気温の差が大きいので、体に気をつけてください。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>昼<rt>ひる</rt></ruby>の<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference; gap\"><ruby>差が<rt>さが</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby>ので、<ruby>体<rt>からだ</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "The gap between morning and daytime temperatures is big, so please take care of yourself."
+    },
+    {
+      "speaker": "vocab",
+      "text": "差",
+      "ruby": "<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference; gap\"><ruby>差<rt>さ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a difference or a gap."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気をつける",
+      "ruby": "<span class=\"vw\" data-ja=\"気をつける\" data-reading=\"きをつける\" data-en=\"to be careful; to take care\"><ruby>気を<rt>きを</rt></ruby>つける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be careful, or to take care."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "3連休の2日目の22日の朝は、日本の広い範囲で、とても寒くなりました。",
+      "zh": "三连休第二天的22日早上，日本大范围地区都非常寒冷。",
+      "en": "On the morning of the 22nd, the second day of the three-day weekend, it was very cold across a wide area of Japan.",
+      "tts": "3連休のふつかめの22日の朝は、日本の広い範囲で、とても寒くなりました。",
+      "ruby": "3<ruby>連休<rt>れんきゅう</rt></ruby>の<ruby>2日目<rt>ふつかめ</rt></ruby>の22<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>広い<rt>ひろい</rt></ruby><span class=\"vw\" data-ja=\"範囲\" data-reading=\"はんい\" data-en=\"range; area (広い範囲 = a wide area)\"><ruby>範囲<rt>はんい</rt></ruby></span>で、とても<ruby>寒く<rt>さむく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "空が晴れて、風も弱かったので、夜の間に気温が大きく下がりました。",
+      "zh": "因为天空晴朗、风也很弱，夜间气温大幅下降。",
+      "en": "Because the sky was clear and the wind was weak, the temperature dropped a lot during the night.",
+      "ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>晴れ<rt>はれ</rt></ruby>て、<ruby>風<rt>かぜ</rt></ruby>も<ruby>弱か<rt>よわか</rt></ruby>ったので、<ruby>夜<rt>よる</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心では、午前4時19分に、気温が4.9度になりました。",
+      "zh": "东京市中心在凌晨4点19分，气温降到了4.9度。",
+      "en": "In central Tokyo, the temperature fell to 4.9 degrees at 4:19 a.m.",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>では、<ruby>午前<rt>ごぜん</rt></ruby>4<ruby>時<rt>じ</rt></ruby>19<ruby>分<rt>ふん</rt></ruby>に、<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が4.9<ruby>度<rt>ど</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "東京の都心で5度より低くなったのは、今シーズン初めてです。",
+      "zh": "东京市中心气温低于5度，这是本季第一次。",
+      "en": "It was the first time this season that central Tokyo went below 5 degrees.",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>で5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、<ruby>今<rt>いま</rt></ruby>シーズン<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "11月に5度より低くなったのは、5年ぶりです。",
+      "zh": "11月气温低于5度，是5年来的第一次。",
+      "en": "It was the first time in 5 years that it went below 5 degrees in November.",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>に5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、5<ruby>年<rt>ねん</rt></ruby>ぶりです。"
+    },
+    {
+      "speaker": "news",
+      "text": "広島市でも3度になって、12月の終わりごろのような寒さになりました。",
+      "zh": "广岛市气温也降到了3度，冷得像12月下旬一样。",
+      "en": "Hiroshima City also fell to 3 degrees, as cold as late December.",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>でも3<ruby>度<rt>ど</rt></ruby>になって、12<ruby>月<rt>がつ</rt></ruby>の<ruby>終わり<rt>おわり</rt></ruby>ごろのような<ruby>寒さ<rt>さむさ</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "同じ広島県の山の方では、マイナス2.4度になった所もありました。",
+      "zh": "同在广岛县的山区，有的地方降到了零下2.4度。",
+      "en": "In the mountains of the same Hiroshima Prefecture, some places fell to minus 2.4 degrees.",
+      "ruby": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>では、マイナス2.4<ruby>度<rt>ど</rt></ruby>になった<ruby>所<rt>ところ</rt></ruby>もありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、昼は晴れて暖かくなり、東京の都心では14.7度まで上がりました。",
+      "zh": "不过白天天气晴朗、变得暖和，东京市中心气温升到了14.7度。",
+      "en": "But in the daytime it was sunny and warm, and central Tokyo rose to 14.7 degrees.",
+      "ruby": "でも、<ruby>昼<rt>ひる</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>て<ruby>暖かく<rt>あたたかく</rt></ruby>なり、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>では14.7<ruby>度<rt>ど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "23日の朝も、関東から西の地方では、22日より寒くなる所が多いと予想されています。",
+      "zh": "预计23日早上，关东以西的地区也有很多地方会比22日更冷。",
+      "en": "On the morning of the 23rd too, many places from Kanto westward are expected to be colder than on the 22nd.",
+      "ruby": "23<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>も、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>西<rt>にし</rt></ruby>の<ruby>地方<rt>ちほう</rt></ruby>では、22<ruby>日<rt>にち</rt></ruby>より<ruby>寒く<rt>さむく</rt></ruby>なる<ruby>所<rt>ところ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>と<span class=\"vw\" data-ja=\"予想\" data-reading=\"よそう\" data-en=\"forecast; expectation; to expect\"><ruby>予想<rt>よそう</rt></ruby></span>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝と昼の気温の差が大きいので、体に気をつけてください。",
+      "zh": "早上和白天的温差很大，请注意身体。",
+      "en": "The difference between morning and daytime temperatures is large, so please take care of your health.",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>昼<rt>ひる</rt></ruby>の<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>の<span class=\"vw\" data-ja=\"差\" data-reading=\"さ\" data-en=\"difference; gap\"><ruby>差が<rt>さが</rt></ruby></span><ruby>大きい<rt>おおきい</rt></ruby>ので、<ruby>体<rt>からだ</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけてください。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の都心は、22日の朝、何度になりましたか。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>は、22<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>何度<rt>なんど</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four point nine degrees."
+    },
+    {
+      "speaker": "slow",
+      "text": "どうして、夜の間に気温が大きく下がりましたか。",
+      "ruby": "どうして、<ruby>夜<rt>よる</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span class=\"vw\" data-ja=\"気温\" data-reading=\"きおん\" data-en=\"air temperature\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>下が<rt>さが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because the sky was clear and the wind was weak."
+    },
+    {
+      "speaker": "slow",
+      "text": "11月に5度より低くなったのは、何年ぶりですか。",
+      "ruby": "11<ruby>月<rt>がつ</rt></ruby>に5<ruby>度<rt>ど</rt></ruby>より<ruby>低く<rt>ひくく</rt></ruby>なったのは、<ruby>何年<rt>なんねん</rt></ruby>ぶりですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The first time in five years."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島市は、いつごろのような寒さになりましたか。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>市<rt>し</rt></ruby>は、いつごろのような<ruby>寒さ<rt>さむさ</rt></ruby>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "As cold as late December."
+    },
+    {
+      "speaker": "slow",
+      "text": "昼、東京の都心は、何度まで上がりましたか。",
+      "ruby": "<ruby>昼<rt>ひる</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span class=\"vw\" data-ja=\"都心\" data-reading=\"としん\" data-en=\"city center; central Tokyo\"><ruby>都心<rt>としん</rt></ruby></span>は、<ruby>何度<rt>なんど</rt></ruby>まで<ruby>上が<rt>あが</rt></ruby>りましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Fourteen point seven degrees."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
