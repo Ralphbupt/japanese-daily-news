@@ -1,0 +1,649 @@
+{
+  "episode": 300,
+  "title": "前橋の住宅街にクマ、川の「暗きょ」に隠れたか",
+  "titleZh": "前桥住宅区出现熊，或藏身地下暗渠",
+  "titleEn": "A bear in Maebashi may be hiding in an underground river channel",
+  "date": "2026-11-22",
+  "source": "NHK、群馬テレビ、TBS NEWS DIG、日テレNEWS",
+  "level": "N4-N3",
+  "contentVersion": "2026112201",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "相次ぐ",
+      "reading": "あいつぐ",
+      "en": "to happen one after another",
+      "zh": "接连发生；相继"
+    },
+    {
+      "ja": "追いかける",
+      "reading": "おいかける",
+      "en": "to chase; to run after",
+      "zh": "追赶"
+    },
+    {
+      "ja": "現れる",
+      "reading": "あらわれる",
+      "en": "to appear; to show up",
+      "zh": "出现"
+    },
+    {
+      "ja": "隠れる",
+      "reading": "かくれる",
+      "en": "to hide",
+      "zh": "躲藏；藏起来"
+    },
+    {
+      "ja": "見張る",
+      "reading": "みはる",
+      "en": "to keep watch; to guard",
+      "zh": "看守；监视"
+    },
+    {
+      "ja": "ふさぐ",
+      "reading": "ふさぐ",
+      "en": "to block; to close up",
+      "zh": "堵住；堵塞"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on; to appeal to (people)",
+      "zh": "呼吁；号召"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜とみられる / 〜とみる",
+      "meaning": "thought to be ~; to believe that ~",
+      "meaningZh": "被认为……；认为……",
+      "formation": "Noun / plain form + とみられる (とみる)",
+      "example": "警察は、クマがこの暗きょの中に隠れているとみています。",
+      "translation": "Police believe the bear is hiding inside this underground channel.",
+      "note": "A news expression for a judgment based on evidence; とみられる is the passive, \"it is thought\".",
+      "noteZh": "新闻中常用，表示根据情况作出的判断；とみられる是被动形式，意为“被认为”。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜うちに",
+      "meaning": "within ~; while still ~",
+      "meaningZh": "在……之内；趁……",
+      "formation": "Noun + の + うちに",
+      "example": "子どものクマはその日のうちに捕まえられました。",
+      "translation": "The cub was caught that same day.",
+      "note": "その日のうちに means \"before that day ended\".",
+      "noteZh": "その日のうちに表示“在当天之内”。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ないようにする",
+      "meaning": "to make it so that ~ cannot happen",
+      "meaningZh": "使……不能……；设法不……",
+      "formation": "Verb ない-form + ようにする",
+      "example": "近くの道路を通れないようにして探しました。",
+      "translation": "They closed nearby roads (made them impassable) and searched.",
+      "note": "With a potential verb (通れる), it means making something impossible.",
+      "noteZh": "与可能动词（通れる）连用，表示使某事无法进行。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ても",
+      "meaning": "even if ~; even though ~",
+      "meaningZh": "即使……也……",
+      "formation": "Verb て-form + も",
+      "example": "上流に60メートルの所まで調べても、クマは見つかりませんでした。",
+      "translation": "Even after checking 60 meters upstream, they did not find the bear.",
+      "note": "The result is the opposite of what you would expect.",
+      "noteZh": "表示结果与预期相反。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜よう（に）呼びかける",
+      "meaning": "to call on (people) to ~",
+      "meaningZh": "呼吁……",
+      "formation": "Verb dictionary form + よう（に）+ 呼びかける",
+      "example": "近くに住む人たちに、十分に気をつけるよう呼びかけています。",
+      "translation": "They are calling on people living nearby to be very careful.",
+      "note": "Common in news for requests from police or the government; に is often dropped.",
+      "noteZh": "新闻中常用于警方或政府的呼吁；に常被省略。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "群馬県前橋市の住宅街で、今月17日から、クマを見たという人が相次いでいます。\n群马县前桥市的住宅区，从本月17日起，接连有人目击到熊。\n相次ぐ = to happen one after another",
+    "17日には、親子とみられる2頭のクマが見つかり、近くに住む男性が頭などにけがをしました。\n17日，发现了两头疑似母子的熊，住在附近的一名男子头部等处受伤。",
+    "子どものクマはその日のうちに捕まえられましたが、親のクマはまだ捕まっていません。\n小熊当天就被捕获了，但母熊至今还没有被抓到。",
+    "19日の朝には、自転車で学校に向かっていた男子高校生が、クマに追いかけられましたが、けがはありませんでした。\n19日早上，一名骑自行车上学的男高中生被熊追赶，但没有受伤。\n追いかける = to chase; to run after",
+    "防犯カメラには、クマが急に後ろから現れて、速いスピードで追いかける様子が映っていました。\n防盗摄像头拍下了熊突然从后面出现、高速追赶的样子。\n現れる = to appear; to show up",
+    "そして21日の朝6時20分ごろ、パトロールをしていた警察官が、川の近くでクマを見つけました。\n然后在21日早上6点20分左右，正在巡逻的警察在河边发现了熊。",
+    "クマは、橋の下にある「暗きょ」から顔を出していました。\n熊从桥下的“暗渠”里探出了头。",
+    "暗きょは、道路などの下を通っていて、外から見えない川のことです。\n暗渠是指从道路等下方穿过、从外面看不见的河道。",
+    "警察は、クマがこの暗きょの中に隠れているとみています。\n警方认为熊藏在这条暗渠里。\n隠れる = to hide",
+    "21日の夕方には、近くの道路を通れないようにして探しましたが、クマは捕まりませんでした。\n21日傍晚，警方封锁了附近的道路进行搜寻，但没有抓到熊。",
+    "夜は、出入り口に赤外線カメラを置いて見張りましたが、クマは出てきませんでした。\n夜里，他们在出入口安装红外线摄像头进行监视，但熊没有出来。\n見張る = to keep watch; to guard",
+    "22日の午後、市はマンホールから暗きょの中にカメラを入れました。\n22日下午，市政府从井盖处把摄像头放进了暗渠里。",
+    "しかし、上流に60メートルの所まで調べても、クマは見つかりませんでした。\n但是，即使查看了上游60米范围，也没有找到熊。",
+    "市は、暗きょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。\n市政府堵住了暗渠的出入口等处，缩小熊能活动的范围，正在寻找它的位置。\nふさぐ = to block; to close up",
+    "警察と市は、近くに住む人たちに、十分に気をつけるよう呼びかけています。\n警方和市政府呼吁附近居民充分注意。\n呼びかける = to call on; to appeal to (people)"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-second: a bear is loose in a city in Gunma, and police think it is hiding in a river that runs under the streets. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県前橋市の住宅街で、今月17日から、クマを見たという人が相次いでいます。",
+      "zh": "群马县前桥市的住宅区，从本月17日起，接连有人目击到熊。",
+      "en": "In a residential area of Maebashi, Gunma Prefecture, people have been reporting bear sightings one after another since the 17th of this month.",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>前橋市<rt>まえばしし</rt></ruby>の<ruby>住宅街<rt>じゅうたくがい</rt></ruby>で、<ruby>今月<rt>こんげつ</rt></ruby><ruby>17日<rt>じゅうしちにち</rt></ruby>から、クマを<ruby>見た<rt>みた</rt></ruby>という<ruby>人<rt>ひと</rt></ruby>が<ruby>相次<rt>あいつぎ</rt></ruby>いでいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "17日には、親子とみられる2頭のクマが見つかり、近くに住む男性が頭などにけがをしました。",
+      "zh": "17日，发现了两头疑似母子的熊，住在附近的一名男子头部等处受伤。",
+      "en": "On the 17th, two bears thought to be a mother and cub were found, and a man who lives nearby was injured on the head and elsewhere.",
+      "ruby": "<ruby>17日<rt>じゅうしちにち</rt></ruby>には、<ruby>親子<rt>おやこ</rt></ruby>とみられる2<ruby>頭<rt>あたま</rt></ruby>のクマが<ruby>見つ<rt>みつ</rt></ruby>かり、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>男性<rt>だんせい</rt></ruby>が<ruby>頭<rt>あたま</rt></ruby>などにけがをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "子どものクマはその日のうちに捕まえられましたが、親のクマはまだ捕まっていません。",
+      "zh": "小熊当天就被捕获了，但母熊至今还没有被抓到。",
+      "en": "The cub was caught that same day, but the parent bear has still not been caught.",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>のクマはその<ruby>日<rt>ひ</rt></ruby>のうちに<ruby>捕ま<rt>つかま</rt></ruby>えられましたが、<ruby>親<rt>おや</rt></ruby>のクマはまだ<ruby>捕ま<rt>つかま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日の朝には、自転車で学校に向かっていた男子高校生が、クマに追いかけられましたが、けがはありませんでした。",
+      "zh": "19日早上，一名骑自行车上学的男高中生被熊追赶，但没有受伤。",
+      "en": "On the morning of the 19th, a male high school student riding his bicycle to school was chased by a bear, but he was not hurt.",
+      "ruby": "<ruby>19日<rt>じゅうくにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>には、<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>っていた<ruby>男子高校生<rt>だんしこうこうせい</rt></ruby>が、クマに<ruby>追い<rt>おい</rt></ruby>かけられましたが、けがはありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "防犯カメラには、クマが急に後ろから現れて、速いスピードで追いかける様子が映っていました。",
+      "zh": "防盗摄像头拍下了熊突然从后面出现、高速追赶的样子。",
+      "en": "A security camera showed the bear suddenly appearing from behind and chasing him at high speed.",
+      "ruby": "<ruby>防犯<rt>ぼうはん</rt></ruby>カメラには、クマが<ruby>急に<rt>きゅうに</rt></ruby><ruby>後ろ<rt>うしろ</rt></ruby>から<ruby>現れ<rt>あらわれ</rt></ruby>て、<ruby>速い<rt>はやい</rt></ruby>スピードで<span class=\"vw\" data-ja=\"追いかける\" data-reading=\"おいかける\" data-en=\"to chase; to run after\"><ruby>追い<rt>おい</rt></ruby>かける</span><ruby>様子<rt>ようす</rt></ruby>が<ruby>映っ<rt>うつっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして21日の朝6時20分ごろ、パトロールをしていた警察官が、川の近くでクマを見つけました。",
+      "zh": "然后在21日早上6点20分左右，正在巡逻的警察在河边发现了熊。",
+      "en": "Then, at around 6:20 a.m. on the 21st, a police officer on patrol found a bear near a river.",
+      "ruby": "そして<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>6時<rt>ろくじ</rt></ruby><ruby>20分<rt>にじゅっぷん</rt></ruby>ごろ、パトロールをしていた<ruby>警察官<rt>けいさつかん</rt></ruby>が、<ruby>川<rt>かわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>でクマを<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "news",
+      "text": "クマは、橋の下にある「暗きょ」から顔を出していました。",
+      "zh": "熊从桥下的“暗渠”里探出了头。",
+      "en": "The bear was poking its head out of an underground channel under a bridge.",
+      "tts": "クマは、橋の下にある「あんきょ」から顔を出していました。",
+      "ruby": "クマは、<ruby>橋<rt>はし</rt></ruby>の<ruby>下に<rt>したに</rt></ruby>ある「<ruby>暗<rt>あん</rt></ruby>きょ」から<ruby>顔<rt>かお</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "暗きょは、道路などの下を通っていて、外から見えない川のことです。",
+      "zh": "暗渠是指从道路等下方穿过、从外面看不见的河道。",
+      "en": "An underground channel is a river that runs under roads and other places, where it can't be seen from outside.",
+      "tts": "あんきょは、道路などの下を通っていて、外から見えない川のことです。",
+      "ruby": "<ruby>暗<rt>あん</rt></ruby>きょは、<ruby>道路<rt>どうろ</rt></ruby>などの<ruby>下<rt>した</rt></ruby>を<ruby>通って<rt>とおって</rt></ruby>いて、<ruby>外<rt>そと</rt></ruby>から<ruby>見え<rt>みえ</rt></ruby>ない<ruby>川<rt>かわ</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察は、クマがこの暗きょの中に隠れているとみています。",
+      "zh": "警方认为熊藏在这条暗渠里。",
+      "en": "Police believe the bear is hiding inside this underground channel.",
+      "tts": "警察は、クマがこのあんきょの中に隠れているとみています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>は、クマがこの<ruby>暗<rt>あん</rt></ruby>きょの<ruby>中に<rt>なかに</rt></ruby><ruby>隠れ<rt>かくれ</rt></ruby>ているとみています。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日の夕方には、近くの道路を通れないようにして探しましたが、クマは捕まりませんでした。",
+      "zh": "21日傍晚，警方封锁了附近的道路进行搜寻，但没有抓到熊。",
+      "en": "On the evening of the 21st, they closed nearby roads and searched, but the bear was not caught.",
+      "ruby": "<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>には、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>を<ruby>通れ<rt>とおれ</rt></ruby>ないようにして<ruby>探し<rt>さがし</rt></ruby>ましたが、クマは<ruby>捕ま<rt>つかま</rt></ruby>りませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜は、出入り口に赤外線カメラを置いて見張りましたが、クマは出てきませんでした。",
+      "zh": "夜里，他们在出入口安装红外线摄像头进行监视，但熊没有出来。",
+      "en": "At night, they placed infrared cameras at the entrance and kept watch, but the bear did not come out.",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>は、<ruby>出入り口<rt>でいりぐち</rt></ruby>に<ruby>赤外線<rt>せきがいせん</rt></ruby>カメラを<ruby>置い<rt>おい</rt></ruby>て<ruby>見張り<rt>みはり</rt></ruby>ましたが、クマは<ruby>出て<rt>でて</rt></ruby>きませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日の午後、市はマンホールから暗きょの中にカメラを入れました。",
+      "zh": "22日下午，市政府从井盖处把摄像头放进了暗渠里。",
+      "en": "On the afternoon of the 22nd, the city put a camera into the underground channel through a manhole.",
+      "tts": "22日の午後、市はマンホールからあんきょの中にカメラを入れました。",
+      "ruby": "<ruby>22日<rt>にじゅうににち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>市<rt>し</rt></ruby>はマンホールから<ruby>暗<rt>あん</rt></ruby>きょの<ruby>中に<rt>なかに</rt></ruby>カメラを<ruby>入れ<rt>いれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、上流に60メートルの所まで調べても、クマは見つかりませんでした。",
+      "zh": "但是，即使查看了上游60米范围，也没有找到熊。",
+      "en": "However, even after checking 60 meters upstream, they did not find the bear.",
+      "ruby": "しかし、<ruby>上流<rt>じょうりゅう</rt></ruby>に60メートルの<ruby>所<rt>ところ</rt></ruby>まで<ruby>調べ<rt>しらべ</rt></ruby>ても、クマは<ruby>見つ<rt>みつ</rt></ruby>かりませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "市は、暗きょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。",
+      "zh": "市政府堵住了暗渠的出入口等处，缩小熊能活动的范围，正在寻找它的位置。",
+      "en": "The city has blocked the channel's entrances and other spots to limit where the bear can move, and is looking for where it is.",
+      "tts": "市は、あんきょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。",
+      "ruby": "<ruby>市<rt>し</rt></ruby>は、<ruby>暗<rt>あん</rt></ruby>きょの<ruby>出入り口<rt>でいりぐち</rt></ruby>などをふさいで、クマが<ruby>動け<rt>うごけ</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>少なく<rt>すくなく</rt></ruby>し、どこにいるかを<ruby>探し<rt>さがし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察と市は、近くに住む人たちに、十分に気をつけるよう呼びかけています。",
+      "zh": "警方和市政府呼吁附近居民充分注意。",
+      "en": "Police and the city are calling on people living nearby to be very careful.",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>市<rt>し</rt></ruby>は、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "群馬県前橋市の住宅街で、今月17日から、クマを見たという人が相次いでいます。",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>前橋市<rt>まえばしし</rt></ruby>の<ruby>住宅街<rt>じゅうたくがい</rt></ruby>で、<ruby>今月<rt>こんげつ</rt></ruby><ruby>17日<rt>じゅうしちにち</rt></ruby>から、クマを<ruby>見た<rt>みた</rt></ruby>という<ruby>人<rt>ひと</rt></ruby>が<ruby>相次<rt>あいつぎ</rt></ruby>いでいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "In a residential area of Maebashi city in Gunma, people have been seeing a bear, one after another, since the seventeenth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "相次ぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"相次ぐ\" data-reading=\"あいつぐ\" data-en=\"to happen one after another\"><ruby>相次ぐ<rt>あいつぐ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to happen one after another."
+    },
+    {
+      "speaker": "slow",
+      "text": "17日には、親子とみられる2頭のクマが見つかり、近くに住む男性が頭などにけがをしました。",
+      "ruby": "<ruby>17日<rt>じゅうしちにち</rt></ruby>には、<ruby>親子<rt>おやこ</rt></ruby>とみられる2<ruby>頭<rt>あたま</rt></ruby>のクマが<ruby>見つ<rt>みつ</rt></ruby>かり、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>男性<rt>だんせい</rt></ruby>が<ruby>頭<rt>あたま</rt></ruby>などにけがをしました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the seventeenth, two bears that seemed to be a parent and its cub were found, and a man living nearby was hurt on the head."
+    },
+    {
+      "speaker": "slow",
+      "text": "子どものクマはその日のうちに捕まえられましたが、親のクマはまだ捕まっていません。",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>のクマはその<ruby>日<rt>ひ</rt></ruby>のうちに<ruby>捕ま<rt>つかま</rt></ruby>えられましたが、<ruby>親<rt>おや</rt></ruby>のクマはまだ<ruby>捕ま<rt>つかま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The cub was caught that same day, but the parent bear has not been caught yet."
+    },
+    {
+      "speaker": "slow",
+      "text": "19日の朝には、自転車で学校に向かっていた男子高校生が、クマに追いかけられましたが、けがはありませんでした。",
+      "ruby": "<ruby>19日<rt>じゅうくにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>には、<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>っていた<ruby>男子高校生<rt>だんしこうこうせい</rt></ruby>が、クマに<ruby>追い<rt>おい</rt></ruby>かけられましたが、けがはありませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the morning of the nineteenth, a high school boy riding his bike to school was chased by a bear, but he wasn't hurt."
+    },
+    {
+      "speaker": "vocab",
+      "text": "追いかける",
+      "ruby": "<span class=\"vw\" data-ja=\"追いかける\" data-reading=\"おいかける\" data-en=\"to chase; to run after\"><ruby>追い<rt>おい</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to chase, or run after someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "防犯カメラには、クマが急に後ろから現れて、速いスピードで追いかける様子が映っていました。",
+      "ruby": "<ruby>防犯<rt>ぼうはん</rt></ruby>カメラには、クマが<ruby>急に<rt>きゅうに</rt></ruby><ruby>後ろ<rt>うしろ</rt></ruby>から<ruby>現れ<rt>あらわれ</rt></ruby>て、<ruby>速い<rt>はやい</rt></ruby>スピードで<span class=\"vw\" data-ja=\"追いかける\" data-reading=\"おいかける\" data-en=\"to chase; to run after\"><ruby>追い<rt>おい</rt></ruby>かける</span><ruby>様子<rt>ようす</rt></ruby>が<ruby>映っ<rt>うつっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A security camera showed the bear suddenly appearing from behind and chasing him very fast."
+    },
+    {
+      "speaker": "vocab",
+      "text": "現れる",
+      "ruby": "<span class=\"vw\" data-ja=\"現れる\" data-reading=\"あらわれる\" data-en=\"to appear; to show up\"><ruby>現れ<rt>あらわれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to appear, or show up."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして21日の朝6時20分ごろ、パトロールをしていた警察官が、川の近くでクマを見つけました。",
+      "ruby": "そして<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>6時<rt>ろくじ</rt></ruby><ruby>20分<rt>にじゅっぷん</rt></ruby>ごろ、パトロールをしていた<ruby>警察官<rt>けいさつかん</rt></ruby>が、<ruby>川<rt>かわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>でクマを<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then, at about six twenty in the morning on the twenty-first, a police officer on patrol found a bear near a river."
+    },
+    {
+      "speaker": "slow",
+      "text": "クマは、橋の下にある「暗きょ」から顔を出していました。",
+      "tts": "クマは、橋の下にある「あんきょ」から顔を出していました。",
+      "ruby": "クマは、<ruby>橋<rt>はし</rt></ruby>の<ruby>下に<rt>したに</rt></ruby>ある「<ruby>暗<rt>あん</rt></ruby>きょ」から<ruby>顔<rt>かお</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The bear was sticking its head out of an underground channel under a bridge."
+    },
+    {
+      "speaker": "slow",
+      "text": "暗きょは、道路などの下を通っていて、外から見えない川のことです。",
+      "tts": "あんきょは、道路などの下を通っていて、外から見えない川のことです。",
+      "ruby": "<ruby>暗<rt>あん</rt></ruby>きょは、<ruby>道路<rt>どうろ</rt></ruby>などの<ruby>下<rt>した</rt></ruby>を<ruby>通って<rt>とおって</rt></ruby>いて、<ruby>外<rt>そと</rt></ruby>から<ruby>見え<rt>みえ</rt></ruby>ない<ruby>川<rt>かわ</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "host",
+      "text": "This kind of channel is a river that runs under roads, so you can't see it from outside."
+    },
+    {
+      "speaker": "slow",
+      "text": "警察は、クマがこの暗きょの中に隠れているとみています。",
+      "tts": "警察は、クマがこのあんきょの中に隠れているとみています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>は、クマがこの<ruby>暗<rt>あん</rt></ruby>きょの<ruby>中に<rt>なかに</rt></ruby><ruby>隠れ<rt>かくれ</rt></ruby>ているとみています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Police think the bear is hiding inside this channel."
+    },
+    {
+      "speaker": "vocab",
+      "text": "隠れる",
+      "ruby": "<span class=\"vw\" data-ja=\"隠れる\" data-reading=\"かくれる\" data-en=\"to hide\"><ruby>隠れ<rt>かくれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hide."
+    },
+    {
+      "speaker": "slow",
+      "text": "21日の夕方には、近くの道路を通れないようにして探しましたが、クマは捕まりませんでした。",
+      "ruby": "<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>には、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>を<ruby>通れ<rt>とおれ</rt></ruby>ないようにして<ruby>探し<rt>さがし</rt></ruby>ましたが、クマは<ruby>捕ま<rt>つかま</rt></ruby>りませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the evening of the twenty-first, they closed nearby roads and searched, but the bear wasn't caught."
+    },
+    {
+      "speaker": "slow",
+      "text": "夜は、出入り口に赤外線カメラを置いて見張りましたが、クマは出てきませんでした。",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>は、<ruby>出入り口<rt>でいりぐち</rt></ruby>に<ruby>赤外線<rt>せきがいせん</rt></ruby>カメラを<ruby>置い<rt>おい</rt></ruby>て<ruby>見張り<rt>みはり</rt></ruby>ましたが、クマは<ruby>出て<rt>でて</rt></ruby>きませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "At night, they put infrared cameras at the entrance and kept watch, but the bear didn't come out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見張る",
+      "ruby": "<span class=\"vw\" data-ja=\"見張る\" data-reading=\"みはる\" data-en=\"to keep watch; to guard\"><ruby>見張る<rt>みはる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to keep watch."
+    },
+    {
+      "speaker": "slow",
+      "text": "22日の午後、市はマンホールから暗きょの中にカメラを入れました。",
+      "tts": "22日の午後、市はマンホールからあんきょの中にカメラを入れました。",
+      "ruby": "<ruby>22日<rt>にじゅうににち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>市<rt>し</rt></ruby>はマンホールから<ruby>暗<rt>あん</rt></ruby>きょの<ruby>中に<rt>なかに</rt></ruby>カメラを<ruby>入れ<rt>いれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the afternoon of the twenty-second, the city put a camera into the channel through a manhole."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、上流に60メートルの所まで調べても、クマは見つかりませんでした。",
+      "ruby": "しかし、<ruby>上流<rt>じょうりゅう</rt></ruby>に60メートルの<ruby>所<rt>ところ</rt></ruby>まで<ruby>調べ<rt>しらべ</rt></ruby>ても、クマは<ruby>見つ<rt>みつ</rt></ruby>かりませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "But even after checking sixty meters upstream, they didn't find the bear."
+    },
+    {
+      "speaker": "slow",
+      "text": "市は、暗きょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。",
+      "tts": "市は、あんきょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。",
+      "ruby": "<ruby>市<rt>し</rt></ruby>は、<ruby>暗<rt>あん</rt></ruby>きょの<ruby>出入り口<rt>でいりぐち</rt></ruby>などをふさいで、クマが<ruby>動け<rt>うごけ</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>少なく<rt>すくなく</rt></ruby>し、どこにいるかを<ruby>探し<rt>さがし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The city blocked the entrances and other spots to limit where the bear can move, and is trying to find where it is."
+    },
+    {
+      "speaker": "vocab",
+      "text": "ふさぐ",
+      "ruby": "<span class=\"vw\" data-ja=\"ふさぐ\" data-reading=\"ふさぐ\" data-en=\"to block; to close up\">ふさぐ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to block, or close up an opening."
+    },
+    {
+      "speaker": "slow",
+      "text": "警察と市は、近くに住む人たちに、十分に気をつけるよう呼びかけています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>市<rt>し</rt></ruby>は、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Police and the city are asking people who live nearby to be very careful."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on; to appeal to (people)\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on people, or appeal to them to do something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "群馬県前橋市の住宅街で、今月17日から、クマを見たという人が相次いでいます。",
+      "zh": "群马县前桥市的住宅区，从本月17日起，接连有人目击到熊。",
+      "en": "In a residential area of Maebashi, Gunma Prefecture, people have been reporting bear sightings one after another since the 17th of this month.",
+      "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>前橋市<rt>まえばしし</rt></ruby>の<ruby>住宅街<rt>じゅうたくがい</rt></ruby>で、<ruby>今月<rt>こんげつ</rt></ruby><ruby>17日<rt>じゅうしちにち</rt></ruby>から、クマを<ruby>見た<rt>みた</rt></ruby>という<ruby>人<rt>ひと</rt></ruby>が<ruby>相次<rt>あいつぎ</rt></ruby>いでいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "17日には、親子とみられる2頭のクマが見つかり、近くに住む男性が頭などにけがをしました。",
+      "zh": "17日，发现了两头疑似母子的熊，住在附近的一名男子头部等处受伤。",
+      "en": "On the 17th, two bears thought to be a mother and cub were found, and a man who lives nearby was injured on the head and elsewhere.",
+      "ruby": "<ruby>17日<rt>じゅうしちにち</rt></ruby>には、<ruby>親子<rt>おやこ</rt></ruby>とみられる2<ruby>頭<rt>あたま</rt></ruby>のクマが<ruby>見つ<rt>みつ</rt></ruby>かり、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>男性<rt>だんせい</rt></ruby>が<ruby>頭<rt>あたま</rt></ruby>などにけがをしました。"
+    },
+    {
+      "speaker": "news",
+      "text": "子どものクマはその日のうちに捕まえられましたが、親のクマはまだ捕まっていません。",
+      "zh": "小熊当天就被捕获了，但母熊至今还没有被抓到。",
+      "en": "The cub was caught that same day, but the parent bear has still not been caught.",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>のクマはその<ruby>日<rt>ひ</rt></ruby>のうちに<ruby>捕ま<rt>つかま</rt></ruby>えられましたが、<ruby>親<rt>おや</rt></ruby>のクマはまだ<ruby>捕ま<rt>つかま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "19日の朝には、自転車で学校に向かっていた男子高校生が、クマに追いかけられましたが、けがはありませんでした。",
+      "zh": "19日早上，一名骑自行车上学的男高中生被熊追赶，但没有受伤。",
+      "en": "On the morning of the 19th, a male high school student riding his bicycle to school was chased by a bear, but he was not hurt.",
+      "ruby": "<ruby>19日<rt>じゅうくにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>には、<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>っていた<ruby>男子高校生<rt>だんしこうこうせい</rt></ruby>が、クマに<ruby>追い<rt>おい</rt></ruby>かけられましたが、けがはありませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "防犯カメラには、クマが急に後ろから現れて、速いスピードで追いかける様子が映っていました。",
+      "zh": "防盗摄像头拍下了熊突然从后面出现、高速追赶的样子。",
+      "en": "A security camera showed the bear suddenly appearing from behind and chasing him at high speed.",
+      "ruby": "<ruby>防犯<rt>ぼうはん</rt></ruby>カメラには、クマが<ruby>急に<rt>きゅうに</rt></ruby><ruby>後ろ<rt>うしろ</rt></ruby>から<ruby>現れ<rt>あらわれ</rt></ruby>て、<ruby>速い<rt>はやい</rt></ruby>スピードで<span class=\"vw\" data-ja=\"追いかける\" data-reading=\"おいかける\" data-en=\"to chase; to run after\"><ruby>追い<rt>おい</rt></ruby>かける</span><ruby>様子<rt>ようす</rt></ruby>が<ruby>映っ<rt>うつっ</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして21日の朝6時20分ごろ、パトロールをしていた警察官が、川の近くでクマを見つけました。",
+      "zh": "然后在21日早上6点20分左右，正在巡逻的警察在河边发现了熊。",
+      "en": "Then, at around 6:20 a.m. on the 21st, a police officer on patrol found a bear near a river.",
+      "ruby": "そして<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>6時<rt>ろくじ</rt></ruby><ruby>20分<rt>にじゅっぷん</rt></ruby>ごろ、パトロールをしていた<ruby>警察官<rt>けいさつかん</rt></ruby>が、<ruby>川<rt>かわ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>でクマを<ruby>見つ<rt>みつ</rt></ruby>けました。"
+    },
+    {
+      "speaker": "news",
+      "text": "クマは、橋の下にある「暗きょ」から顔を出していました。",
+      "zh": "熊从桥下的“暗渠”里探出了头。",
+      "en": "The bear was poking its head out of an underground channel under a bridge.",
+      "tts": "クマは、橋の下にある「あんきょ」から顔を出していました。",
+      "ruby": "クマは、<ruby>橋<rt>はし</rt></ruby>の<ruby>下に<rt>したに</rt></ruby>ある「<ruby>暗<rt>あん</rt></ruby>きょ」から<ruby>顔<rt>かお</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "news",
+      "text": "暗きょは、道路などの下を通っていて、外から見えない川のことです。",
+      "zh": "暗渠是指从道路等下方穿过、从外面看不见的河道。",
+      "en": "An underground channel is a river that runs under roads and other places, where it can't be seen from outside.",
+      "tts": "あんきょは、道路などの下を通っていて、外から見えない川のことです。",
+      "ruby": "<ruby>暗<rt>あん</rt></ruby>きょは、<ruby>道路<rt>どうろ</rt></ruby>などの<ruby>下<rt>した</rt></ruby>を<ruby>通って<rt>とおって</rt></ruby>いて、<ruby>外<rt>そと</rt></ruby>から<ruby>見え<rt>みえ</rt></ruby>ない<ruby>川<rt>かわ</rt></ruby>のことです。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察は、クマがこの暗きょの中に隠れているとみています。",
+      "zh": "警方认为熊藏在这条暗渠里。",
+      "en": "Police believe the bear is hiding inside this underground channel.",
+      "tts": "警察は、クマがこのあんきょの中に隠れているとみています。",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>は、クマがこの<ruby>暗<rt>あん</rt></ruby>きょの<ruby>中に<rt>なかに</rt></ruby><ruby>隠れ<rt>かくれ</rt></ruby>ているとみています。"
+    },
+    {
+      "speaker": "news",
+      "text": "21日の夕方には、近くの道路を通れないようにして探しましたが、クマは捕まりませんでした。",
+      "zh": "21日傍晚，警方封锁了附近的道路进行搜寻，但没有抓到熊。",
+      "en": "On the evening of the 21st, they closed nearby roads and searched, but the bear was not caught.",
+      "ruby": "<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>には、<ruby>近く<rt>ちかく</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>を<ruby>通れ<rt>とおれ</rt></ruby>ないようにして<ruby>探し<rt>さがし</rt></ruby>ましたが、クマは<ruby>捕ま<rt>つかま</rt></ruby>りませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜は、出入り口に赤外線カメラを置いて見張りましたが、クマは出てきませんでした。",
+      "zh": "夜里，他们在出入口安装红外线摄像头进行监视，但熊没有出来。",
+      "en": "At night, they placed infrared cameras at the entrance and kept watch, but the bear did not come out.",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>は、<ruby>出入り口<rt>でいりぐち</rt></ruby>に<ruby>赤外線<rt>せきがいせん</rt></ruby>カメラを<ruby>置い<rt>おい</rt></ruby>て<ruby>見張り<rt>みはり</rt></ruby>ましたが、クマは<ruby>出て<rt>でて</rt></ruby>きませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日の午後、市はマンホールから暗きょの中にカメラを入れました。",
+      "zh": "22日下午，市政府从井盖处把摄像头放进了暗渠里。",
+      "en": "On the afternoon of the 22nd, the city put a camera into the underground channel through a manhole.",
+      "tts": "22日の午後、市はマンホールからあんきょの中にカメラを入れました。",
+      "ruby": "<ruby>22日<rt>にじゅうににち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>市<rt>し</rt></ruby>はマンホールから<ruby>暗<rt>あん</rt></ruby>きょの<ruby>中に<rt>なかに</rt></ruby>カメラを<ruby>入れ<rt>いれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、上流に60メートルの所まで調べても、クマは見つかりませんでした。",
+      "zh": "但是，即使查看了上游60米范围，也没有找到熊。",
+      "en": "However, even after checking 60 meters upstream, they did not find the bear.",
+      "ruby": "しかし、<ruby>上流<rt>じょうりゅう</rt></ruby>に60メートルの<ruby>所<rt>ところ</rt></ruby>まで<ruby>調べ<rt>しらべ</rt></ruby>ても、クマは<ruby>見つ<rt>みつ</rt></ruby>かりませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "市は、暗きょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。",
+      "zh": "市政府堵住了暗渠的出入口等处，缩小熊能活动的范围，正在寻找它的位置。",
+      "en": "The city has blocked the channel's entrances and other spots to limit where the bear can move, and is looking for where it is.",
+      "tts": "市は、あんきょの出入り口などをふさいで、クマが動ける場所を少なくし、どこにいるかを探しています。",
+      "ruby": "<ruby>市<rt>し</rt></ruby>は、<ruby>暗<rt>あん</rt></ruby>きょの<ruby>出入り口<rt>でいりぐち</rt></ruby>などをふさいで、クマが<ruby>動け<rt>うごけ</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>少なく<rt>すくなく</rt></ruby>し、どこにいるかを<ruby>探し<rt>さがし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "警察と市は、近くに住む人たちに、十分に気をつけるよう呼びかけています。",
+      "zh": "警方和市政府呼吁附近居民充分注意。",
+      "en": "Police and the city are calling on people living nearby to be very careful.",
+      "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>市<rt>し</rt></ruby>は、<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住む<rt>すむ</rt></ruby><ruby>人<rt>ひと</rt></ruby>たちに、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "17日に、けがをしたのはだれですか。",
+      "ruby": "<ruby>17日<rt>じゅうしちにち</rt></ruby>に、けがをしたのはだれですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A man who lives nearby."
+    },
+    {
+      "speaker": "slow",
+      "text": "19日の朝、クマに追いかけられたのはだれですか。",
+      "ruby": "<ruby>19日<rt>じゅうくにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、クマに<ruby>追い<rt>おい</rt></ruby>かけられたのはだれですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A high school boy riding his bike to school."
+    },
+    {
+      "speaker": "slow",
+      "text": "21日の朝、クマはどこから顔を出していましたか。",
+      "ruby": "<ruby>21日<rt>にじゅういちにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、クマはどこから<ruby>顔<rt>かお</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ていましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From an underground channel under a bridge."
+    },
+    {
+      "speaker": "slow",
+      "text": "22日、市はどこからカメラを入れましたか。",
+      "ruby": "<ruby>22日<rt>にじゅうににち</rt></ruby>、<ruby>市<rt>し</rt></ruby>はどこからカメラを<ruby>入れ<rt>いれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Through a manhole."
+    },
+    {
+      "speaker": "slow",
+      "text": "カメラで、上流に何メートルの所まで調べましたか。",
+      "ruby": "カメラで、<ruby>上流<rt>じょうりゅう</rt></ruby>に<ruby>何<rt>なん</rt></ruby>メートルの<ruby>所<rt>ところ</rt></ruby>まで<ruby>調べ<rt>しらべ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty meters."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
