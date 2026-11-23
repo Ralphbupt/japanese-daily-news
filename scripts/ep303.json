@@ -1,0 +1,503 @@
+{
+  "episode": 303,
+  "title": "「たまごっち」が発売から30年、世界で約1億個",
+  "titleZh": "电子宠物“拓麻歌子”发售30年，全球卖出约1亿个",
+  "titleEn": "Tamagotchi turns 30, with about 100 million sold worldwide",
+  "date": "2026-11-24",
+  "source": "時事通信、めざましmedia、ファミ通",
+  "level": "N5-N4",
+  "contentVersion": "2026112401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "育てる",
+      "reading": "そだてる",
+      "en": "to raise; to bring up",
+      "zh": "养育；培养"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popularity; popular",
+      "zh": "人气；受欢迎"
+    },
+    {
+      "ja": "残る",
+      "reading": "のこる",
+      "en": "to remain; to be left over",
+      "zh": "剩下；留下"
+    },
+    {
+      "ja": "祝う",
+      "reading": "いわう",
+      "en": "to celebrate",
+      "zh": "庆祝"
+    },
+    {
+      "ja": "並ぶ",
+      "reading": "ならぶ",
+      "en": "to be lined up; to stand in a line",
+      "zh": "排列；排队"
+    },
+    {
+      "ja": "列",
+      "reading": "れつ",
+      "en": "line; queue",
+      "zh": "队列；行列"
+    },
+    {
+      "ja": "増える",
+      "reading": "ふえる",
+      "en": "to increase",
+      "zh": "增加"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "なかなか〜ない",
+      "meaning": "not easily; hard to ~",
+      "meaningZh": "不容易……；很难……",
+      "formation": "なかなか + negative verb (買えない, 来ない)",
+      "example": "店ではなかなか買えませんでした。",
+      "translation": "It was hard to buy in stores.",
+      "note": "Says something does not happen easily, even when you try.",
+      "noteZh": "表示即使努力也不容易实现。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜なくなる",
+      "meaning": "to stop ~ing; to no longer ~",
+      "meaningZh": "变得不……；不再……",
+      "formation": "Verb ない-form stem + なくなる (売れない → 売れなくなる)",
+      "example": "そのあと、だんだん売れなくなりました。",
+      "translation": "After that, it gradually stopped selling.",
+      "note": "Shows a change from doing something to not doing it.",
+      "noteZh": "表示从“能/会做”变成“不再做”的变化。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ing (often with regret)",
+      "meaningZh": "……了（多含遗憾）",
+      "formation": "Verb て-form + しまう (残って → 残ってしまう)",
+      "example": "たくさんのたまごっちが残ってしまいました。",
+      "translation": "A lot of Tamagotchis ended up left over.",
+      "note": "Adds a feeling that the result was unwanted or unfortunate.",
+      "noteZh": "表示结果不如意或令人遗憾。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜そうです（伝聞）",
+      "meaning": "I hear that ~; it is said that ~",
+      "meaningZh": "据说……；听说……",
+      "formation": "Plain form + そうです",
+      "example": "自分の子どもに買うことも増えているそうです。",
+      "translation": "It is said that more people are buying it for their own children.",
+      "note": "Passes on information you heard or read from someone else.",
+      "noteZh": "转述从别人那里听到或读到的信息。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "「たまごっち」は、小さな画面の中でキャラクターを育てるおもちゃです。\n“拓麻歌子”是一种在小屏幕里养育角色的玩具。\n育てる = to raise; to bring up",
+    "バンダイが1996年11月23日に売り出して、23日で30年になりました。\n万代于1996年11月23日开始发售，到23日正好30年。",
+    "最初は女子高校生の間でとても人気になって、店ではなかなか買えませんでした。\n起初它在女高中生之间非常受欢迎，在店里很难买到。\n人気 = popularity; popular",
+    "でも、そのあと、だんだん売れなくなって、たくさんのたまごっちが残ってしまいました。\n但是后来渐渐卖不出去，剩下了大量的拓麻歌子。\n残る = to remain; to be left over",
+    "2004年に、小学生の女の子のための新しいたまごっちが出て、また人気になりました。\n2004年，面向小学女生的新款拓麻歌子推出，再次受到欢迎。",
+    "1997年からは外国でも売っていて、今までに約1億個売れました。\n从1997年起也在海外销售，至今已卖出约1亿个。",
+    "そのうち3割は、北アメリカや中南米で売れました。\n其中3成是在北美和中南美卖出的。",
+    "22日には、アメリカのニューヨークで、30歳の誕生日を祝うイベントがありました。\n22日，在美国纽约举办了庆祝它30岁生日的活动。\n祝う = to celebrate",
+    "会場には昔のたまごっちが並んで、ファンが長い列を作りました。\n会场里摆放着过去的拓麻歌子，粉丝们排起了长队。\n並ぶ = to be lined up; to stand in a line\n列 = line; queue",
+    "子どものころに遊んだ人が親になって、自分の子どもに買うことも増えているそうです。\n据说，小时候玩过的人当了父母后，给自己孩子买的情况也在增加。\n増える = to increase"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-fourth: a famous digital pet toy from Japan, where you raise a little character on a tiny screen, has turned thirty. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "「たまごっち」は、小さな画面の中でキャラクターを育てるおもちゃです。",
+      "zh": "“拓麻歌子”是一种在小屏幕里养育角色的玩具。",
+      "en": "Tamagotchi is a toy where you raise a character on a small screen.",
+      "ruby": "「たまごっち」は、<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>画面<rt>がめん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でキャラクターを<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>るおもちゃです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "バンダイが1996年11月23日に売り出して、23日で30年になりました。",
+      "zh": "万代于1996年11月23日开始发售，到23日正好30年。",
+      "en": "Bandai started selling it on November 23, 1996, and on the 23rd it turned 30 years old.",
+      "ruby": "バンダイが1996<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>に<ruby>売り出し<rt>うりだし</rt></ruby>て、23<ruby>日<rt>にち</rt></ruby>で30<ruby>年<rt>ねん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初は女子高校生の間でとても人気になって、店ではなかなか買えませんでした。",
+      "zh": "起初它在女高中生之间非常受欢迎，在店里很难买到。",
+      "en": "At first it became very popular among high school girls, and it was hard to buy in stores.",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>女子高校生<rt>じょしこうこうせい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>でとても<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になって、<ruby>店<rt>みせ</rt></ruby>ではなかなか<ruby>買え<rt>かえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、そのあと、だんだん売れなくなって、たくさんのたまごっちが残ってしまいました。",
+      "zh": "但是后来渐渐卖不出去，剩下了大量的拓麻歌子。",
+      "en": "But after that, it gradually stopped selling, and a lot of Tamagotchis were left over.",
+      "ruby": "でも、そのあと、だんだん<ruby>売れ<rt>うれ</rt></ruby>なくなって、たくさんのたまごっちが<ruby>残っ<rt>のこっ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2004年に、小学生の女の子のための新しいたまごっちが出て、また人気になりました。",
+      "zh": "2004年，面向小学女生的新款拓麻歌子推出，再次受到欢迎。",
+      "en": "In 2004, a new Tamagotchi for elementary school girls came out, and it became popular again.",
+      "ruby": "2004<ruby>年<rt>ねん</rt></ruby>に、<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>女の子<rt>おんなのこ</rt></ruby>のための<ruby>新しい<rt>あたらしい</rt></ruby>たまごっちが<ruby>出て<rt>でて</rt></ruby>、また<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1997年からは外国でも売っていて、今までに約1億個売れました。",
+      "zh": "从1997年起也在海外销售，至今已卖出约1亿个。",
+      "en": "It has also been sold abroad since 1997, and about 100 million have been sold so far.",
+      "ruby": "1997<ruby>年<rt>ねん</rt></ruby>からは<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>売っ<rt>うっ</rt></ruby>ていて、<ruby>今まで<rt>いままで</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1<ruby>億個<rt>おくこ</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのうち3割は、北アメリカや中南米で売れました。",
+      "zh": "其中3成是在北美和中南美卖出的。",
+      "en": "30% of them were sold in North America and Latin America.",
+      "ruby": "そのうち3<ruby>割<rt>わり</rt></ruby>は、<ruby>北<rt>きた</rt></ruby>アメリカや<ruby>中南米<rt>ちゅうなんべい</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日には、アメリカのニューヨークで、30歳の誕生日を祝うイベントがありました。",
+      "zh": "22日，在美国纽约举办了庆祝它30岁生日的活动。",
+      "en": "On the 22nd, an event to celebrate its 30th birthday was held in New York in the United States.",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>には、アメリカのニューヨークで、30<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>を<span class=\"vw\" data-ja=\"祝う\" data-reading=\"いわう\" data-en=\"to celebrate\"><ruby>祝う<rt>いわう</rt></ruby></span>イベントがありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には昔のたまごっちが並んで、ファンが長い列を作りました。",
+      "zh": "会场里摆放着过去的拓麻歌子，粉丝们排起了长队。",
+      "en": "Old Tamagotchis were lined up at the venue, and fans formed long lines.",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には<ruby>昔<rt>むかし</rt></ruby>のたまごっちが<ruby>並ん<rt>ならん</rt></ruby>で、ファンが<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"列\" data-reading=\"れつ\" data-en=\"line; queue\"><ruby>列<rt>れつ</rt></ruby></span>を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "子どものころに遊んだ人が親になって、自分の子どもに買うことも増えているそうです。",
+      "zh": "据说，小时候玩过的人当了父母后，给自己孩子买的情况也在增加。",
+      "en": "It is said that people who played with it as children have become parents, and more of them are buying it for their own children.",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>のころに<ruby>遊んだ<rt>あそんだ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>親<rt>おや</rt></ruby>になって、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>子ども<rt>こども</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>ことも<ruby>増え<rt>ふえ</rt></ruby>ているそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "「たまごっち」は、小さな画面の中でキャラクターを育てるおもちゃです。",
+      "ruby": "「たまごっち」は、<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>画面<rt>がめん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でキャラクターを<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>るおもちゃです</span>。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tamagotchi is a toy where you raise a character on a small screen."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育てる",
+      "ruby": "<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to raise or bring up, like a child, a pet, or a plant."
+    },
+    {
+      "speaker": "slow",
+      "text": "バンダイが1996年11月23日に売り出して、23日で30年になりました。",
+      "ruby": "バンダイが1996<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>に<ruby>売り出し<rt>うりだし</rt></ruby>て、23<ruby>日<rt>にち</rt></ruby>で30<ruby>年<rt>ねん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Bandai started selling it on November twenty-third, nineteen ninety-six, so on the twenty-third it turned thirty."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初は女子高校生の間でとても人気になって、店ではなかなか買えませんでした。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>女子高校生<rt>じょしこうこうせい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>でとても<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になって、<ruby>店<rt>みせ</rt></ruby>ではなかなか<ruby>買え<rt>かえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "host",
+      "text": "At first it became very popular among high school girls, and it was hard to find in stores."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popularity. Together with the verb to become, it means to become popular."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、そのあと、だんだん売れなくなって、たくさんのたまごっちが残ってしまいました。",
+      "ruby": "でも、そのあと、だんだん<ruby>売れ<rt>うれ</rt></ruby>なくなって、たくさんのたまごっちが<ruby>残っ<rt>のこっ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But after that, sales slowly dropped, and a lot of the toys were left unsold."
+    },
+    {
+      "speaker": "vocab",
+      "text": "残る",
+      "ruby": "<span class=\"vw\" data-ja=\"残る\" data-reading=\"のこる\" data-en=\"to remain; to be left over\"><ruby>残る<rt>のこる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to remain, or to be left over."
+    },
+    {
+      "speaker": "slow",
+      "text": "2004年に、小学生の女の子のための新しいたまごっちが出て、また人気になりました。",
+      "ruby": "2004<ruby>年<rt>ねん</rt></ruby>に、<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>女の子<rt>おんなのこ</rt></ruby>のための<ruby>新しい<rt>あたらしい</rt></ruby>たまごっちが<ruby>出て<rt>でて</rt></ruby>、また<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In two thousand four, a new version for elementary school girls came out, and it became popular again."
+    },
+    {
+      "speaker": "slow",
+      "text": "1997年からは外国でも売っていて、今までに約1億個売れました。",
+      "ruby": "1997<ruby>年<rt>ねん</rt></ruby>からは<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>売っ<rt>うっ</rt></ruby>ていて、<ruby>今まで<rt>いままで</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1<ruby>億個<rt>おくこ</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It has been sold abroad since nineteen ninety-seven, and about one hundred million have been sold so far."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのうち3割は、北アメリカや中南米で売れました。",
+      "ruby": "そのうち3<ruby>割<rt>わり</rt></ruby>は、<ruby>北<rt>きた</rt></ruby>アメリカや<ruby>中南米<rt>ちゅうなんべい</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Thirty percent of them were sold in North America and Latin America."
+    },
+    {
+      "speaker": "slow",
+      "text": "22日には、アメリカのニューヨークで、30歳の誕生日を祝うイベントがありました。",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>には、アメリカのニューヨークで、30<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>を<span class=\"vw\" data-ja=\"祝う\" data-reading=\"いわう\" data-en=\"to celebrate\"><ruby>祝う<rt>いわう</rt></ruby></span>イベントがありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-second, an event to celebrate its thirtieth birthday was held in New York."
+    },
+    {
+      "speaker": "vocab",
+      "text": "祝う",
+      "ruby": "<span class=\"vw\" data-ja=\"祝う\" data-reading=\"いわう\" data-en=\"to celebrate\"><ruby>祝う<rt>いわう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to celebrate, like a birthday or a holiday."
+    },
+    {
+      "speaker": "slow",
+      "text": "会場には昔のたまごっちが並んで、ファンが長い列を作りました。",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には<ruby>昔<rt>むかし</rt></ruby>のたまごっちが<ruby>並ん<rt>ならん</rt></ruby>で、ファンが<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"列\" data-reading=\"れつ\" data-en=\"line; queue\"><ruby>列<rt>れつ</rt></ruby></span>を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Old models were lined up at the venue, and fans formed long lines."
+    },
+    {
+      "speaker": "vocab",
+      "text": "並ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"並ぶ\" data-reading=\"ならぶ\" data-en=\"to be lined up; to stand in a line\"><ruby>並ぶ<rt>ならぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be lined up, or to stand in a row."
+    },
+    {
+      "speaker": "vocab",
+      "text": "列",
+      "ruby": "<span class=\"vw\" data-ja=\"列\" data-reading=\"れつ\" data-en=\"line; queue\"><ruby>列<rt>れつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a line or a queue of people. Together with the verb to make, it means to form a line."
+    },
+    {
+      "speaker": "slow",
+      "text": "子どものころに遊んだ人が親になって、自分の子どもに買うことも増えているそうです。",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>のころに<ruby>遊んだ<rt>あそんだ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>親<rt>おや</rt></ruby>になって、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>子ども<rt>こども</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>ことも<ruby>増え<rt>ふえ</rt></ruby>ているそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "People who played with it as kids are now parents, and more of them are buying it for their own children."
+    },
+    {
+      "speaker": "vocab",
+      "text": "増える",
+      "ruby": "<span class=\"vw\" data-ja=\"増える\" data-reading=\"ふえる\" data-en=\"to increase\"><ruby>増え<rt>ふえ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to increase, or to become more."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "「たまごっち」は、小さな画面の中でキャラクターを育てるおもちゃです。",
+      "zh": "“拓麻歌子”是一种在小屏幕里养育角色的玩具。",
+      "en": "Tamagotchi is a toy where you raise a character on a small screen.",
+      "ruby": "「たまごっち」は、<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>画面<rt>がめん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でキャラクターを<span class=\"vw\" data-ja=\"育てる\" data-reading=\"そだてる\" data-en=\"to raise; to bring up\"><ruby>育て<rt>そだて</rt></ruby>るおもちゃです</span>。"
+    },
+    {
+      "speaker": "news",
+      "text": "バンダイが1996年11月23日に売り出して、23日で30年になりました。",
+      "zh": "万代于1996年11月23日开始发售，到23日正好30年。",
+      "en": "Bandai started selling it on November 23, 1996, and on the 23rd it turned 30 years old.",
+      "ruby": "バンダイが1996<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>に<ruby>売り出し<rt>うりだし</rt></ruby>て、23<ruby>日<rt>にち</rt></ruby>で30<ruby>年<rt>ねん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "最初は女子高校生の間でとても人気になって、店ではなかなか買えませんでした。",
+      "zh": "起初它在女高中生之间非常受欢迎，在店里很难买到。",
+      "en": "At first it became very popular among high school girls, and it was hard to buy in stores.",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>女子高校生<rt>じょしこうこうせい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>でとても<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になって、<ruby>店<rt>みせ</rt></ruby>ではなかなか<ruby>買え<rt>かえ</rt></ruby>ませんでした。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、そのあと、だんだん売れなくなって、たくさんのたまごっちが残ってしまいました。",
+      "zh": "但是后来渐渐卖不出去，剩下了大量的拓麻歌子。",
+      "en": "But after that, it gradually stopped selling, and a lot of Tamagotchis were left over.",
+      "ruby": "でも、そのあと、だんだん<ruby>売れ<rt>うれ</rt></ruby>なくなって、たくさんのたまごっちが<ruby>残っ<rt>のこっ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2004年に、小学生の女の子のための新しいたまごっちが出て、また人気になりました。",
+      "zh": "2004年，面向小学女生的新款拓麻歌子推出，再次受到欢迎。",
+      "en": "In 2004, a new Tamagotchi for elementary school girls came out, and it became popular again.",
+      "ruby": "2004<ruby>年<rt>ねん</rt></ruby>に、<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>女の子<rt>おんなのこ</rt></ruby>のための<ruby>新しい<rt>あたらしい</rt></ruby>たまごっちが<ruby>出て<rt>でて</rt></ruby>、また<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1997年からは外国でも売っていて、今までに約1億個売れました。",
+      "zh": "从1997年起也在海外销售，至今已卖出约1亿个。",
+      "en": "It has also been sold abroad since 1997, and about 100 million have been sold so far.",
+      "ruby": "1997<ruby>年<rt>ねん</rt></ruby>からは<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>売っ<rt>うっ</rt></ruby>ていて、<ruby>今まで<rt>いままで</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1<ruby>億個<rt>おくこ</rt></ruby><ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのうち3割は、北アメリカや中南米で売れました。",
+      "zh": "其中3成是在北美和中南美卖出的。",
+      "en": "30% of them were sold in North America and Latin America.",
+      "ruby": "そのうち3<ruby>割<rt>わり</rt></ruby>は、<ruby>北<rt>きた</rt></ruby>アメリカや<ruby>中南米<rt>ちゅうなんべい</rt></ruby>で<ruby>売れ<rt>うれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "22日には、アメリカのニューヨークで、30歳の誕生日を祝うイベントがありました。",
+      "zh": "22日，在美国纽约举办了庆祝它30岁生日的活动。",
+      "en": "On the 22nd, an event to celebrate its 30th birthday was held in New York in the United States.",
+      "ruby": "22<ruby>日<rt>にち</rt></ruby>には、アメリカのニューヨークで、30<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>を<span class=\"vw\" data-ja=\"祝う\" data-reading=\"いわう\" data-en=\"to celebrate\"><ruby>祝う<rt>いわう</rt></ruby></span>イベントがありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会場には昔のたまごっちが並んで、ファンが長い列を作りました。",
+      "zh": "会场里摆放着过去的拓麻歌子，粉丝们排起了长队。",
+      "en": "Old Tamagotchis were lined up at the venue, and fans formed long lines.",
+      "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>には<ruby>昔<rt>むかし</rt></ruby>のたまごっちが<ruby>並ん<rt>ならん</rt></ruby>で、ファンが<ruby>長い<rt>ながい</rt></ruby><span class=\"vw\" data-ja=\"列\" data-reading=\"れつ\" data-en=\"line; queue\"><ruby>列<rt>れつ</rt></ruby></span>を<ruby>作り<rt>つくり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "子どものころに遊んだ人が親になって、自分の子どもに買うことも増えているそうです。",
+      "zh": "据说，小时候玩过的人当了父母后，给自己孩子买的情况也在增加。",
+      "en": "It is said that people who played with it as children have become parents, and more of them are buying it for their own children.",
+      "ruby": "<ruby>子ども<rt>こども</rt></ruby>のころに<ruby>遊んだ<rt>あそんだ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>親<rt>おや</rt></ruby>になって、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>子ども<rt>こども</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>ことも<ruby>増え<rt>ふえ</rt></ruby>ているそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "バンダイは、何年にたまごっちを売り出しましたか。",
+      "ruby": "バンダイは、<ruby>何年<rt>なんねん</rt></ruby>にたまごっちを<ruby>売り出し<rt>うりだし</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In nineteen ninety-six."
+    },
+    {
+      "speaker": "slow",
+      "text": "最初、たまごっちは、だれの間で人気になりましたか。",
+      "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>、たまごっちは、だれの<ruby>間<rt>あいだ</rt></ruby>で<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular\"><ruby>人気<rt>にんき</rt></ruby></span>になりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Among high school girls."
+    },
+    {
+      "speaker": "slow",
+      "text": "2004年の新しいたまごっちは、だれのためのものでしたか。",
+      "ruby": "2004<ruby>年<rt>ねん</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby>たまごっちは、だれのためのものでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was for elementary school girls."
+    },
+    {
+      "speaker": "slow",
+      "text": "今までに、たまごっちは何個ぐらい売れましたか。",
+      "ruby": "<ruby>今まで<rt>いままで</rt></ruby>に、たまごっちは<ruby>何個<rt>なんこ</rt></ruby>ぐらい<ruby>売れ<rt>うれ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one hundred million."
+    },
+    {
+      "speaker": "slow",
+      "text": "30歳の誕生日を祝うイベントは、どこでありましたか。",
+      "ruby": "30<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>を<span class=\"vw\" data-ja=\"祝う\" data-reading=\"いわう\" data-en=\"to celebrate\"><ruby>祝う<rt>いわう</rt></ruby></span>イベントは、どこでありましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "In New York."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
