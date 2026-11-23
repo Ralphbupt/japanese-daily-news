@@ -1,0 +1,503 @@
+{
+  "episode": 18,
+  "title": "「スーパーカップ」が205円に　明治、アイスやチーズなど65品目値上げ",
+  "titleZh": "明治超级杯涨至205日元，冰淇淋奶酪等65种商品涨价",
+  "titleEn": "Meiji's Super Cup ice cream goes to ¥205 as 65 products get pricier",
+  "date": "2026-11-23",
+  "source": "時事通信 / 日本経済新聞 / 帝国データバンク（「食品主要195社」価格改定動向調査 2026年11月）",
+  "level": "N3-N2",
+  "contentVersion": "2026112301",
+  "grammar": [
+    {
+      "pattern": "〜にあたる",
+      "meaning": "to be equivalent to ~",
+      "meaningZh": "相当于……",
+      "formation": "Noun + にあたる",
+      "example": "これは、明治の商品全体の、およそ1割にあたります。",
+      "translation": "This is equivalent to about 10% of all Meiji's products.",
+      "note": "Says what something corresponds to, often a share or amount.",
+      "noteZh": "说明相当于什么，常用于比例或数量。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜ことになる",
+      "meaning": "it turns out that ~, it will mean ~",
+      "meaningZh": "结果会……，将会……",
+      "formation": "Verb dictionary form + ことになる",
+      "example": "11円の値上げで、200円を超えることになります。",
+      "translation": "With an 11-yen increase, it will go over 200 yen.",
+      "note": "Describes a result that follows from a decision or situation.",
+      "noteZh": "表示由某个决定或情况自然导致的结果。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜まま",
+      "meaning": "as it is, unchanged",
+      "meaningZh": "保持……的状态",
+      "formation": "Noun + の + まま / Verb た-form + まま",
+      "example": "今の値段のままで売り続けるのは難しくなった。",
+      "translation": "It has become difficult to keep selling at the current prices.",
+      "note": "Something stays in the same state without changing.",
+      "noteZh": "表示维持原状、不改变。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜によりますと",
+      "meaning": "according to ~",
+      "meaningZh": "据……，根据……",
+      "formation": "Noun + によりますと / によると",
+      "example": "帝国データバンクによりますと、今年値上げされた食品や飲み物は、2万327品目になりました。",
+      "translation": "According to Teikoku Databank, 20,327 food and drink items went up in price this year.",
+      "note": "Names the source. News uses the polite によりますと.",
+      "noteZh": "表示信息来源。新闻中常用礼貌形によりますと。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜としている",
+      "meaning": "(a company/official) says that ~",
+      "meaningZh": "（某方）表示……",
+      "formation": "Quote / Plain form + としている",
+      "example": "「今の値段のままで売り続けるのは難しくなった」としています。",
+      "translation": "It says that continuing to sell at current prices has become difficult.",
+      "note": "A news way to report someone's stated position.",
+      "noteZh": "新闻中转述某方立场或说法的表达。",
+      "level": "N2"
+    }
+  ],
+  "practiceZh": [
+    "これは、明治の商品全体の、およそ1割にあたります。\n这相当于明治全部商品的约一成。\nにあたる：相当于",
+    "人気の「エッセル スーパーカップ 超バニラ」は、希望小売価格が194円から205円になります。\n人气商品「Essel超级杯 超香草」的建议零售价将从194日元涨到205日元。\n希望小売価格：建议零售价",
+    "11円の値上げで、200円を超えることになります。\n涨价11日元，价格将超过200日元。\n〜ことになる：表示结果",
+    "また、凍らせたヨーグルトのデザートは、1月下旬から、量が85ミリリットルから80ミリリットルに減ります。\n另外，冷冻酸奶甜点将从1月下旬起，容量从85毫升减少到80毫升。\n下旬：下旬；凍らせる：使冻结",
+    "そして、「今の値段のままで売り続けるのは難しくなった」としています。\n并表示「以现在的价格继续销售已经很困难了」。\n〜のままで：保持原样；〜としています：表示",
+    "帝国データバンクによりますと、今年値上げされた食品や飲み物は、2万327品目になりました。\n据帝国数据银行统计，今年涨价的食品和饮料达到2万327种。\n〜によりますと：据……"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "品目",
+      "reading": "ひんもく",
+      "en": "item, product line",
+      "zh": "品种，品类"
+    },
+    {
+      "ja": "値上がり",
+      "reading": "ねあがり",
+      "en": "price rise",
+      "zh": "涨价"
+    },
+    {
+      "ja": "希望小売価格",
+      "reading": "きぼうこうりかかく",
+      "en": "suggested retail price",
+      "zh": "建议零售价"
+    },
+    {
+      "ja": "対象",
+      "reading": "たいしょう",
+      "en": "target, subject (of)",
+      "zh": "对象"
+    },
+    {
+      "ja": "下旬",
+      "reading": "げじゅん",
+      "en": "last ten days of a month",
+      "zh": "下旬"
+    },
+    {
+      "ja": "原材料",
+      "reading": "げんざいりょう",
+      "en": "raw materials",
+      "zh": "原材料"
+    },
+    {
+      "ja": "手ごろ",
+      "reading": "てごろ",
+      "en": "reasonable, affordable",
+      "zh": "价格合适，实惠"
+    },
+    {
+      "ja": "積み重なる",
+      "reading": "つみかさなる",
+      "en": "to pile up, to accumulate",
+      "zh": "累积，堆积"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "スーパーカップ超バニラの希望小売価格は、いくらになりますか。",
+      "a": "194円から205円になります。"
+    },
+    {
+      "q": "明治は、値上げの主な理由を何だと説明していますか。",
+      "a": "原材料やエネルギーなどのコストが上がっていることです。"
+    },
+    {
+      "q": "ヨーグルトのデザートは、どう変わりますか。",
+      "a": "1月下旬から、量が85ミリリットルから80ミリリットルに減ります。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月23日、月曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月23日，星期一。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Monday, November 23rd.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは、じゅういちがつにじゅうさんにち、月曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>、<ruby>月曜日<rt>げつようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "コンビニやスーパーでおなじみのアイス、スーパーカップ。その値段が、来年、ついに200円を超えます。",
+      "zh": "便利店和超市里常见的冰淇淋“超级杯”，明年价格终于要突破200日元了。",
+      "en": "Super Cup, the ice cream you see in every convenience store and supermarket, will finally cost more than 200 yen next year.",
+      "tts": "コンビニやスーパーでおなじみのアイス、スーパーカップ。その値段が、来年、ついに、にひゃくえんを超えます。",
+      "ruby": "コンビニやスーパーでおなじみのアイス、スーパーカップ。その<ruby>値段<rt>ねだん</rt></ruby>が、<ruby>来年<rt>らいねん</rt></ruby>、ついに200<ruby>円<rt>えん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "明治は、アイスクリームやチーズなど、合わせて65品目の値段を上げると発表しました。",
+      "zh": "明治宣布，将上调冰淇淋、奶酪等共65种商品的价格。",
+      "en": "Meiji announced it will raise the prices of 65 products in total, including ice cream and cheese.",
+      "tts": "明治は、アイスクリームやチーズなど、合わせて、ろくじゅうご品目の値段を上げると発表しました。",
+      "ruby": "<ruby>明治<rt>めいじ</rt></ruby>は、アイスクリームやチーズなど、<ruby>合わ<rt>あわ</rt></ruby>せて65<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げは、来年1月1日から、順番に行われます。",
+      "zh": "涨价将从明年1月1日起依次实施。",
+      "en": "The price increases will take effect in stages from January 1st next year.",
+      "tts": "値上げは、来年、いちがつついたちから、順番に行われます。",
+      "ruby": "<ruby>値上げ<rt>ねあげ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、明治の商品全体の、およそ1割にあたります。",
+      "zh": "这相当于明治全部商品的约一成。",
+      "en": "This is equivalent to about 10% of all Meiji's products.",
+      "tts": "これは、明治の商品全体の、およそ、いちわりにあたります。",
+      "ruby": "これは、<ruby>明治<rt>めいじ</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の、およそ1<ruby>割<rt>わり</rt></ruby>にあたります。"
+    },
+    {
+      "speaker": "news",
+      "text": "アイスクリームは、5%から12%ほど値上がりします。",
+      "zh": "冰淇淋将上涨约5%到12%。",
+      "en": "Ice cream prices will rise by about 5% to 12%.",
+      "tts": "アイスクリームは、ごパーセントから、じゅうにパーセントほど値上がりします。",
+      "ruby": "アイスクリームは、5%から12%ほど<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price rise\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "人気の「エッセル スーパーカップ 超バニラ」は、希望小売価格が194円から205円になります。",
+      "zh": "人气商品「Essel超级杯 超香草」的建议零售价将从194日元涨到205日元。",
+      "en": "The popular Essel Super Cup Super Vanilla will go from a suggested retail price of 194 yen to 205 yen.",
+      "tts": "人気の、エッセル、スーパーカップ、ちょうバニラは、きぼうこうりかかくが、ひゃくきゅうじゅうよえんから、にひゃくごえんになります。",
+      "ruby": "<ruby>人気<rt>にんき</rt></ruby>の「エッセル スーパーカップ <ruby>超<rt>ちょう</rt></ruby>バニラ」は、<span class=\"vw\" data-ja=\"希望小売価格\" data-reading=\"きぼうこうりかかく\" data-en=\"suggested retail price\"><ruby>希望小売価格<rt>きぼうこうりかかく</rt></ruby></span>が194<ruby>円<rt>えん</rt></ruby>から205<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "11円の値上げで、200円を超えることになります。",
+      "zh": "涨价11日元，价格将超过200日元。",
+      "en": "That is an 11-yen increase, which takes it over 200 yen.",
+      "tts": "じゅういちえんの値上げで、にひゃくえんを超えることになります。",
+      "ruby": "11<ruby>円<rt>えん</rt></ruby>の<ruby>値上げ<rt>ねあげ</rt></ruby>で、200<ruby>円<rt>えん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ることになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "チーズは20品目、バターなどは14品目が、値上げの対象です。",
+      "zh": "涨价对象包括20种奶酪和14种黄油等产品。",
+      "en": "Twenty cheese products and fourteen butter and similar products are subject to the increase.",
+      "tts": "チーズは、にじゅう品目、バターなどは、じゅうよん品目が、値上げの対象です。",
+      "ruby": "チーズは20<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>、バターなどは14<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>が、<ruby>値上げ<rt>ねあげ</rt></ruby>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, subject (of)\"><ruby>対象<rt>たいしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、北海道十勝のカマンベールチーズの商品の一つは、30円上がって689円になります。",
+      "zh": "例如，北海道十胜的一款卡门贝尔奶酪将上涨30日元，变成689日元。",
+      "en": "For example, one Camembert cheese product from Tokachi, Hokkaido, will go up 30 yen to 689 yen.",
+      "tts": "例えば、北海道、とかちの、カマンベールチーズの商品の一つは、さんじゅうえん上がって、ろっぴゃくはちじゅうきゅうえんになります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>十勝<rt>とかち</rt></ruby>のカマンベールチーズの<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、30<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって689<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "レトルトカレー6品目は、2月1日から、およそ12%値上がりします。",
+      "zh": "6种速食咖喱将从2月1日起上涨约12%。",
+      "en": "Six retort curry products will rise about 12% from February 1st.",
+      "tts": "レトルトカレー、ろく品目は、にがつついたちから、およそ、じゅうにパーセント値上がりします。",
+      "ruby": "レトルトカレー6<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>は、2<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、およそ12%<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price rise\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、凍らせたヨーグルトのデザートは、1月下旬から、量が85ミリリットルから80ミリリットルに減ります。",
+      "zh": "另外，冷冻酸奶甜点将从1月下旬起，容量从85毫升减少到80毫升。",
+      "en": "Also, a frozen yogurt dessert will shrink from 85 milliliters to 80 milliliters from late January.",
+      "tts": "また、凍らせたヨーグルトのデザートは、いちがつげじゅんから、量が、はちじゅうごミリリットルから、はちじゅうミリリットルに減ります。",
+      "ruby": "また、<ruby>凍ら<rt>こおら</rt></ruby>せたヨーグルトのデザートは、1<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>から、<ruby>量<rt>りょう</rt></ruby>が85ミリリットルから80ミリリットルに<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "明治は、原材料やエネルギーなどのコストが上がっていることが、主な理由だと説明しています。",
+      "zh": "明治解释说，主要原因是原材料和能源等成本上涨。",
+      "en": "Meiji explained that the main reason is rising costs for raw materials, energy and other things.",
+      "ruby": "<ruby>明治<rt>めいじ</rt></ruby>は、<span class=\"vw\" data-ja=\"原材料\" data-reading=\"げんざいりょう\" data-en=\"raw materials\"><ruby>原材料<rt>げんざいりょう</rt></ruby></span>やエネルギーなどのコストが<ruby>上が<rt>あが</rt></ruby>っていることが、<ruby>主な<rt>おもな</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>だと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「今の値段のままで売り続けるのは難しくなった」としています。",
+      "zh": "并表示「以现在的价格继续销售已经很困难了」。",
+      "en": "It also said that \"continuing to sell at the current prices has become difficult.\"",
+      "ruby": "そして、「<ruby>今<rt>いま</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>のままで<ruby>売り<rt>うり</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>るのは<ruby>難しく<rt>むずかしく</rt></ruby>なった」としています。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクによりますと、今年値上げされた食品や飲み物は、2万327品目になりました。",
+      "zh": "据帝国数据银行统计，今年涨价的食品和饮料达到2万327种。",
+      "en": "According to Teikoku Databank, 20,327 food and drink items have had price increases this year.",
+      "tts": "ていこくデータバンクによりますと、今年値上げされた食品や飲み物は、にまんさんびゃくにじゅうなな品目になりました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクによりますと、<ruby>今年<rt>ことし</rt></ruby><ruby>値上げ<rt>ねあげ</rt></ruby>された<ruby>食品<rt>しょくひん</rt></ruby>や<ruby>飲み物<rt>のみもの</rt></ruby>は、2<ruby>万<rt>まん</rt></ruby>327<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年で2万品目を超えるのは、2年続けてです。",
+      "zh": "一年超过2万种，这已经是连续第2年。",
+      "en": "It is the second year in a row that the number has topped 20,000 in a year.",
+      "tts": "いちねんで、にまん品目を超えるのは、にねん続けてです。",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>で2<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>るのは、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "スーパーカップは、量が多くて手ごろなアイスとして、長く親しまれてきました。",
+      "zh": "超级杯冰淇淋量大又实惠，长期以来深受大家喜爱。",
+      "en": "Super Cup has long been loved as a big, affordable ice cream.",
+      "ruby": "スーパーカップは、<ruby>量<rt>りょう</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て<span class=\"vw\" data-ja=\"手ごろ\" data-reading=\"てごろ\" data-en=\"reasonable, affordable\"><ruby>手ごろ<rt>てごろ</rt></ruby></span>なアイスとして、<ruby>長く<rt>ながく</rt></ruby><ruby>親しま<rt>したしま</rt></ruby>れてきました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "その値段が、194円から205円になります。11円の値上げです。",
+      "zh": "它的价格将从194日元变成205日元，涨了11日元。",
+      "en": "Its price will go from 194 yen to 205 yen. That's an 11-yen increase.",
+      "tts": "その値段が、ひゃくきゅうじゅうよえんから、にひゃくごえんになります。じゅういちえんの値上げです。",
+      "ruby": "その<ruby>値段<rt>ねだん</rt></ruby>が、194<ruby>円<rt>えん</rt></ruby>から205<ruby>円<rt>えん</rt></ruby>になります。11<ruby>円<rt>えん</rt></ruby>の<ruby>値上げ<rt>ねあげ</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "たった11円、と思うかもしれません。でも、200円を超えると、なんだか急に高くなった気がしますよね。",
+      "zh": "也许你会觉得只是11日元而已。但是一超过200日元，总感觉一下子变贵了。",
+      "en": "You might think it's only 11 yen. But once it goes over 200 yen, it somehow feels a lot more expensive, doesn't it?",
+      "tts": "たった、じゅういちえん、と思うかもしれません。でも、にひゃくえんを超えると、なんだか急に高くなった気がしますよね。",
+      "ruby": "たった11<ruby>円<rt>えん</rt></ruby>、と<ruby>思う<rt>おもう</rt></ruby>かもしれません。でも、200<ruby>円<rt>えん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ると、なんだか<ruby>急に<rt>きゅうに</rt></ruby><ruby>高く<rt>たかく</rt></ruby>なった<ruby>気が<rt>きが</rt></ruby>しますよね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "しかも、値上げはアイスだけではありません。チーズやバター、カレーも上がります。",
+      "zh": "而且涨价的不只是冰淇淋，奶酪、黄油和咖喱也要涨。",
+      "en": "And it's not just ice cream. Cheese, butter and curry are going up too.",
+      "ruby": "しかも、<ruby>値上げ<rt>ねあげ</rt></ruby>はアイスだけではありません。チーズやバター、カレーも<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "guide",
+      "text": "明治は、材料やエネルギーの値段が上がって、今の値段では続けられないと説明しています。",
+      "zh": "明治解释说，材料和能源价格上涨，以现在的价格无法继续下去。",
+      "en": "Meiji says the prices of ingredients and energy have risen, so it can't keep its current prices.",
+      "ruby": "<ruby>明治<rt>めいじ</rt></ruby>は、<ruby>材料<rt>ざいりょう</rt></ruby>やエネルギーの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>って、<ruby>今<rt>いま</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>では<ruby>続け<rt>つづけ</rt></ruby>られないと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "これは、明治だけの話ではありません。",
+      "zh": "这不只是明治一家的事。",
+      "en": "This isn't just about Meiji.",
+      "ruby": "これは、<ruby>明治<rt>めいじ</rt></ruby>だけの<ruby>話<rt>はなし</rt></ruby>ではありません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "帝国データバンクによると、11月に値上げされた食品は1477品目で、去年の11月のおよそ10倍でした。",
+      "zh": "据帝国数据银行统计，11月涨价的食品有1477种，约为去年11月的10倍。",
+      "en": "According to Teikoku Databank, 1,477 food items went up in price in November, about ten times as many as last November.",
+      "tts": "ていこくデータバンクによると、じゅういちがつに値上げされた食品は、せんよんひゃくななじゅうなな品目で、去年のじゅういちがつの、およそ、じゅうばいでした。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクによると、11<ruby>月<rt>がつ</rt></ruby>に<ruby>値上げ<rt>ねあげ</rt></ruby>された<ruby>食品<rt>しょくひん</rt></ruby>は1477<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>で、<ruby>去年<rt>きょねん</rt></ruby>の11<ruby>月<rt>がつ</rt></ruby>のおよそ10<ruby>倍<rt>ばい</rt></ruby>でした。"
+    },
+    {
+      "speaker": "guide",
+      "text": "理由として一番多いのは材料の値段ですが、働く人の給料、つまり人件費を理由にした値上げも、半分を超えて、今までで一番高い割合になっています。",
+      "zh": "最常见的原因是原材料价格，但以员工工资，也就是人工费为理由的涨价也超过一半，比例创下新高。",
+      "en": "The most common reason is ingredient costs, but price rises blamed on workers' pay, that is labor costs, now make up more than half, the highest share ever.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>として<ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby>のは<ruby>材料<rt>ざいりょう</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>ですが、<ruby>働く<rt>はたらく</rt></ruby><ruby>人<rt>ひと</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>、つまり<ruby>人件費<rt>じんけんひ</rt></ruby>を<ruby>理由<rt>りゆう</rt></ruby>にした<ruby>値上げ<rt>ねあげ</rt></ruby>も、<ruby>半分<rt>はんぶん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>て、<ruby>今まで<rt>いままで</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>割合<rt>わりあい</rt></ruby>になっています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "もう一つ気になるのは、ヨーグルトのデザートです。こちらは、量が5ミリリットル減ります。",
+      "zh": "还有一点值得注意的是酸奶甜点，它的容量减少5毫升。",
+      "en": "Another thing to watch is the yogurt dessert. Its amount shrinks by 5 milliliters.",
+      "tts": "もう一つ気になるのは、ヨーグルトのデザートです。こちらは、量が、ごミリリットル減ります。",
+      "ruby": "もう<ruby>一つ<rt>ひとつ</rt></ruby><ruby>気に<rt>きに</rt></ruby>なるのは、ヨーグルトのデザートです。こちらは、<ruby>量<rt>りょう</rt></ruby>が5ミリリットル<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "量が少し減るのは、買う人が気づきにくい形の値上げと言えますね。",
+      "zh": "分量稍微减少，可以说是一种消费者不容易察觉的涨价方式。",
+      "en": "A small cut in quantity is a kind of price rise that shoppers find hard to notice.",
+      "ruby": "<ruby>量<rt>りょう</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>減る<rt>へる</rt></ruby>のは、<ruby>買う<rt>かう</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>気づ<rt>きづ</rt></ruby>きにくい<ruby>形<rt>かたち</rt></ruby>の<ruby>値上げ<rt>ねあげ</rt></ruby>と<ruby>言え<rt>いえ</rt></ruby>ますね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "来年は、輸入する小麦の値段が上がって、パンなども値上がりしそうだと見られています。",
+      "zh": "预计明年进口小麦价格上涨，面包等也可能涨价。",
+      "en": "Next year, imported wheat is getting pricier, and bread and other foods are expected to go up too.",
+      "ruby": "<ruby>来年<rt>らいねん</rt></ruby>は、<ruby>輸入<rt>ゆにゅう</rt></ruby>する<ruby>小麦<rt>こむぎ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>って、パンなども<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price rise\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>しそうだと<ruby>見ら<rt>みら</rt></ruby>れています。"
+    },
+    {
+      "speaker": "guide",
+      "text": "1月になる前に、今のうちに買っておこう、という人もいるかもしれませんね。",
+      "zh": "也许有人会想趁1月之前赶紧买一些。",
+      "en": "Some people might want to stock up before January.",
+      "tts": "いちがつになる前に、今のうちに買っておこう、という人もいるかもしれませんね。",
+      "ruby": "1<ruby>月<rt>がつ</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に、<ruby>今<rt>いま</rt></ruby>のうちに<ruby>買っ<rt>かっ</rt></ruby>ておこう、という<ruby>人<rt>ひと</rt></ruby>もいるかもしれませんね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "一つ一つは小さな値上げでも、毎日の買い物では、少しずつ積み重なっていきます。",
+      "zh": "每一次涨价虽小，但在日常购物中会一点点累积起来。",
+      "en": "Each price rise may be small, but in everyday shopping they add up little by little.",
+      "ruby": "<ruby>一つ一つ<rt>ひとつひとつ</rt></ruby>は<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>値上げ<rt>ねあげ</rt></ruby>でも、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>買い物<rt>かいもの</rt></ruby>では、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>積み重な<rt>つみかさな</rt></ruby>っていきます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻吧。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. This time it should be easier to follow.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "明治は、アイスクリームやチーズなど、合わせて65品目の値段を上げると発表しました。",
+      "zh": "明治宣布，将上调冰淇淋、奶酪等共65种商品的价格。",
+      "en": "Meiji announced it will raise the prices of 65 products in total, including ice cream and cheese.",
+      "tts": "明治は、アイスクリームやチーズなど、合わせて、ろくじゅうご品目の値段を上げると発表しました。",
+      "ruby": "<ruby>明治<rt>めいじ</rt></ruby>は、アイスクリームやチーズなど、<ruby>合わ<rt>あわ</rt></ruby>せて65<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げは、来年1月1日から、順番に行われます。",
+      "zh": "涨价将从明年1月1日起依次实施。",
+      "en": "The price increases will take effect in stages from January 1st next year.",
+      "tts": "値上げは、来年、いちがつついたちから、順番に行われます。",
+      "ruby": "<ruby>値上げ<rt>ねあげ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>1<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
+    },
+    {
+      "speaker": "news",
+      "text": "これは、明治の商品全体の、およそ1割にあたります。",
+      "zh": "这相当于明治全部商品的约一成。",
+      "en": "This is equivalent to about 10% of all Meiji's products.",
+      "tts": "これは、明治の商品全体の、およそ、いちわりにあたります。",
+      "ruby": "これは、<ruby>明治<rt>めいじ</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の、およそ1<ruby>割<rt>わり</rt></ruby>にあたります。"
+    },
+    {
+      "speaker": "news",
+      "text": "アイスクリームは、5%から12%ほど値上がりします。",
+      "zh": "冰淇淋将上涨约5%到12%。",
+      "en": "Ice cream prices will rise by about 5% to 12%.",
+      "tts": "アイスクリームは、ごパーセントから、じゅうにパーセントほど値上がりします。",
+      "ruby": "アイスクリームは、5%から12%ほど<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price rise\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "人気の「エッセル スーパーカップ 超バニラ」は、希望小売価格が194円から205円になります。",
+      "zh": "人气商品「Essel超级杯 超香草」的建议零售价将从194日元涨到205日元。",
+      "en": "The popular Essel Super Cup Super Vanilla will go from a suggested retail price of 194 yen to 205 yen.",
+      "tts": "人気の、エッセル、スーパーカップ、ちょうバニラは、きぼうこうりかかくが、ひゃくきゅうじゅうよえんから、にひゃくごえんになります。",
+      "ruby": "<ruby>人気<rt>にんき</rt></ruby>の「エッセル スーパーカップ <ruby>超<rt>ちょう</rt></ruby>バニラ」は、<span class=\"vw\" data-ja=\"希望小売価格\" data-reading=\"きぼうこうりかかく\" data-en=\"suggested retail price\"><ruby>希望小売価格<rt>きぼうこうりかかく</rt></ruby></span>が194<ruby>円<rt>えん</rt></ruby>から205<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "11円の値上げで、200円を超えることになります。",
+      "zh": "涨价11日元，价格将超过200日元。",
+      "en": "That is an 11-yen increase, which takes it over 200 yen.",
+      "tts": "じゅういちえんの値上げで、にひゃくえんを超えることになります。",
+      "ruby": "11<ruby>円<rt>えん</rt></ruby>の<ruby>値上げ<rt>ねあげ</rt></ruby>で、200<ruby>円<rt>えん</rt></ruby>を<ruby>超え<rt>こえ</rt></ruby>ることになります。"
+    },
+    {
+      "speaker": "news",
+      "text": "チーズは20品目、バターなどは14品目が、値上げの対象です。",
+      "zh": "涨价对象包括20种奶酪和14种黄油等产品。",
+      "en": "Twenty cheese products and fourteen butter and similar products are subject to the increase.",
+      "tts": "チーズは、にじゅう品目、バターなどは、じゅうよん品目が、値上げの対象です。",
+      "ruby": "チーズは20<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>、バターなどは14<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>が、<ruby>値上げ<rt>ねあげ</rt></ruby>の<span class=\"vw\" data-ja=\"対象\" data-reading=\"たいしょう\" data-en=\"target, subject (of)\"><ruby>対象<rt>たいしょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "例えば、北海道十勝のカマンベールチーズの商品の一つは、30円上がって689円になります。",
+      "zh": "例如，北海道十胜的一款卡门贝尔奶酪将上涨30日元，变成689日元。",
+      "en": "For example, one Camembert cheese product from Tokachi, Hokkaido, will go up 30 yen to 689 yen.",
+      "tts": "例えば、北海道、とかちの、カマンベールチーズの商品の一つは、さんじゅうえん上がって、ろっぴゃくはちじゅうきゅうえんになります。",
+      "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>十勝<rt>とかち</rt></ruby>のカマンベールチーズの<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>は、30<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって689<ruby>円<rt>えん</rt></ruby>になります。"
+    },
+    {
+      "speaker": "news",
+      "text": "レトルトカレー6品目は、2月1日から、およそ12%値上がりします。",
+      "zh": "6种速食咖喱将从2月1日起上涨约12%。",
+      "en": "Six retort curry products will rise about 12% from February 1st.",
+      "tts": "レトルトカレー、ろく品目は、にがつついたちから、およそ、じゅうにパーセント値上がりします。",
+      "ruby": "レトルトカレー6<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>は、2<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から、およそ12%<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price rise\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>します。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、凍らせたヨーグルトのデザートは、1月下旬から、量が85ミリリットルから80ミリリットルに減ります。",
+      "zh": "另外，冷冻酸奶甜点将从1月下旬起，容量从85毫升减少到80毫升。",
+      "en": "Also, a frozen yogurt dessert will shrink from 85 milliliters to 80 milliliters from late January.",
+      "tts": "また、凍らせたヨーグルトのデザートは、いちがつげじゅんから、量が、はちじゅうごミリリットルから、はちじゅうミリリットルに減ります。",
+      "ruby": "また、<ruby>凍ら<rt>こおら</rt></ruby>せたヨーグルトのデザートは、1<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>から、<ruby>量<rt>りょう</rt></ruby>が85ミリリットルから80ミリリットルに<ruby>減り<rt>へり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "明治は、原材料やエネルギーなどのコストが上がっていることが、主な理由だと説明しています。",
+      "zh": "明治解释说，主要原因是原材料和能源等成本上涨。",
+      "en": "Meiji explained that the main reason is rising costs for raw materials, energy and other things.",
+      "ruby": "<ruby>明治<rt>めいじ</rt></ruby>は、<span class=\"vw\" data-ja=\"原材料\" data-reading=\"げんざいりょう\" data-en=\"raw materials\"><ruby>原材料<rt>げんざいりょう</rt></ruby></span>やエネルギーなどのコストが<ruby>上が<rt>あが</rt></ruby>っていることが、<ruby>主な<rt>おもな</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>だと<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、「今の値段のままで売り続けるのは難しくなった」としています。",
+      "zh": "并表示「以现在的价格继续销售已经很困难了」。",
+      "en": "It also said that \"continuing to sell at the current prices has become difficult.\"",
+      "ruby": "そして、「<ruby>今<rt>いま</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>のままで<ruby>売り<rt>うり</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>るのは<ruby>難しく<rt>むずかしく</rt></ruby>なった」としています。"
+    },
+    {
+      "speaker": "news",
+      "text": "帝国データバンクによりますと、今年値上げされた食品や飲み物は、2万327品目になりました。",
+      "zh": "据帝国数据银行统计，今年涨价的食品和饮料达到2万327种。",
+      "en": "According to Teikoku Databank, 20,327 food and drink items have had price increases this year.",
+      "tts": "ていこくデータバンクによりますと、今年値上げされた食品や飲み物は、にまんさんびゃくにじゅうなな品目になりました。",
+      "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクによりますと、<ruby>今年<rt>ことし</rt></ruby><ruby>値上げ<rt>ねあげ</rt></ruby>された<ruby>食品<rt>しょくひん</rt></ruby>や<ruby>飲み物<rt>のみもの</rt></ruby>は、2<ruby>万<rt>まん</rt></ruby>327<span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1年で2万品目を超えるのは、2年続けてです。",
+      "zh": "一年超过2万种，这已经是连续第2年。",
+      "en": "It is the second year in a row that the number has topped 20,000 in a year.",
+      "tts": "いちねんで、にまん品目を超えるのは、にねん続けてです。",
+      "ruby": "1<ruby>年<rt>ねん</rt></ruby>で2<ruby>万<rt>まん</rt></ruby><span class=\"vw\" data-ja=\"品目\" data-reading=\"ひんもく\" data-en=\"item, product line\"><ruby>品目<rt>ひんもく</rt></ruby></span>を<ruby>超え<rt>こえ</rt></ruby>るのは、2<ruby>年<rt>ねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんは、好きなアイスやお菓子が値上がりしたら、それでも買いますか。それとも、ほかの物を探しますか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "如果你喜欢的冰淇淋或零食涨价了，你还会买吗？还是会去找别的？感谢今天的收听，明天见。",
+      "en": "If your favorite ice cream or snack got more expensive, would you still buy it, or look for something else? Thanks for listening today. See you tomorrow.",
+      "tts": "皆さんは、好きなアイスやお菓子が値上がりしたら、それでも買いますか。それとも、ほかの物を探しますか。きょうも聞いてくださって、ありがとうございました。また明日。",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>は、<ruby>好き<rt>すき</rt></ruby>なアイスやお<ruby>菓子<rt>かし</rt></ruby>が<span class=\"vw\" data-ja=\"値上がり\" data-reading=\"ねあがり\" data-en=\"price rise\"><ruby>値上がり<rt>ねあがり</rt></ruby></span>したら、それでも<ruby>買い<rt>かい</rt></ruby>ますか。それとも、ほかの<ruby>物<rt>もの</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>ますか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
