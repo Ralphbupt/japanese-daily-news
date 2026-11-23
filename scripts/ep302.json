@@ -1,0 +1,649 @@
+{
+  "episode": 302,
+  "title": "タワーレコードに不正アクセス、個人情報1100万件が流出",
+  "titleZh": "淘儿唱片网店遭非法访问，1100万条个人信息外泄",
+  "titleEn": "Tower Records online shop hacked, 11 million customer records leaked",
+  "date": "2026-11-23",
+  "source": "NHK、FNNプライムオンライン、日本経済新聞",
+  "level": "N4-N3",
+  "contentVersion": "2026112301",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "不正",
+      "reading": "ふせい",
+      "en": "illegal; unauthorized; dishonest",
+      "zh": "非法；不正当"
+    },
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak; to get out",
+      "zh": "泄露；漏出"
+    },
+    {
+      "ja": "届ける",
+      "reading": "とどける",
+      "en": "to deliver; to bring to someone",
+      "zh": "送到；递送"
+    },
+    {
+      "ja": "含まれる",
+      "reading": "ふくまれる",
+      "en": "to be included",
+      "zh": "被包含；包括在内"
+    },
+    {
+      "ja": "再開する",
+      "reading": "さいかいする",
+      "en": "to restart; to reopen",
+      "zh": "重新开始；恢复"
+    },
+    {
+      "ja": "怪しい",
+      "reading": "あやしい",
+      "en": "suspicious; fishy",
+      "zh": "可疑的"
+    },
+    {
+      "ja": "入力する",
+      "reading": "にゅうりょくする",
+      "en": "to enter; to type in (data)",
+      "zh": "输入（数据）"
+    },
+    {
+      "ja": "勧める",
+      "reading": "すすめる",
+      "en": "to recommend; to advise",
+      "zh": "建议；劝"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~; reportedly ~",
+      "meaningZh": "据说……；据称……",
+      "formation": "Plain form + ということです",
+      "example": "クレジットカードの情報は、漏れていないということです。",
+      "translation": "Credit card information reportedly did not leak.",
+      "note": "Used in news to pass on information from another source, here the company.",
+      "noteZh": "新闻中常用，用来转述从别处（这里是公司）得到的信息。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜だけでなく〜も",
+      "meaning": "not only ~ but also ~",
+      "meaningZh": "不仅……而且……",
+      "formation": "Noun + だけでなく + Noun + も",
+      "example": "今の会員だけでなく、やめてから3年以内の人の情報も含まれています。",
+      "translation": "It includes not only current members but also people who quit within three years.",
+      "note": "Adds a second, often surprising, item to the first.",
+      "noteZh": "在前项之外再追加一项，常带有意外的语气。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜たり〜たりしない",
+      "meaning": "not do things like ~ or ~",
+      "meaningZh": "不做……或……之类的事",
+      "formation": "Verb た-form + り、Verb た-form + り + しない",
+      "example": "リンクを開いたり、個人情報を入力したりしないでほしいと話しています。",
+      "translation": "It asks people not to open links or enter personal information.",
+      "note": "Lists example actions; with しない, it rules out all of them.",
+      "noteZh": "列举动作的例子；与しない连用，表示这些都不要做。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ふりをする",
+      "meaning": "to pretend to be ~",
+      "meaningZh": "假装……；冒充……",
+      "formation": "Noun + の + ふりをする / Verb plain form + ふりをする",
+      "example": "タワーレコードのふりをした怪しいメールに気をつけてください。",
+      "translation": "Watch out for suspicious emails pretending to be from Tower Records.",
+      "note": "Common in news about scams and fake messages.",
+      "noteZh": "在诈骗、假冒信息相关的新闻中很常见。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜よう（に）勧める / 呼びかける",
+      "meaning": "to recommend / urge (someone) to ~",
+      "meaningZh": "建议……；呼吁……",
+      "formation": "Verb dictionary form + よう（に）+ 勧める / 呼びかける",
+      "example": "同じパスワードを使っている人には、すぐに変えるよう勧めています。",
+      "translation": "It recommends that people using the same password change it right away.",
+      "note": "Reports a request or advice; に is often dropped in news.",
+      "noteZh": "转述请求或建议；新闻中に常被省略。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "CDや音楽の商品を売っている「タワーレコード」は、通信販売のサイトが外から不正にアクセスされたと発表しました。\n销售CD等音乐商品的“淘儿唱片”（Tower Records）宣布，其网购网站遭到了外部的非法访问。\n不正 = illegal; unauthorized; dishonest",
+    "タワーレコードは、全国に店がある、大きな音楽の店です。\n淘儿唱片是在全国都有门店的大型音乐商店。",
+    "お客さんの個人情報、およそ1100万件が、外に漏れたということです。\n据称，顾客的个人信息约1100万条泄露到了外部。\n漏れる = to leak; to get out",
+    "会社によると、19日の午後5時10分ごろ、不正なアクセスに気がつきました。\n据公司称，19日下午5点10分左右，他们发现了非法访问。",
+    "そして、すぐにサイトを止めて、調べ始めました。\n随后，公司立即关闭了网站，开始进行调查。",
+    "漏れた情報で一番多いのは、メールアドレスや会員のIDなど、ログインに使う情報で、およそ1021万件です。\n泄露的信息中最多的是邮箱地址、会员ID等登录用的信息，约1021万条。",
+    "名前や生まれた日などの情報も、およそ278万件漏れました。\n姓名、出生日期等信息也泄露了约278万条。",
+    "また、住所や電話番号など、品物を届けるための情報も、およそ78万件ありました。\n此外，还有住址、电话号码等用于配送商品的信息约78万条。\n届ける = to deliver; to bring to someone",
+    "今の会員だけでなく、やめてから3年以内の人の情報も含まれています。\n不仅是现在的会员，退会3年以内的人的信息也包含在内。\n含まれる = to be included",
+    "クレジットカードの情報は、漏れていないということです。\n据称，信用卡信息没有泄露。",
+    "通信販売のサイトは今も止まっていて、いつ再開するかは、まだ決まっていません。\n网购网站目前仍处于停止状态，何时恢复还没有确定。\n再開する = to restart; to reopen",
+    "すでに注文された商品は、23日から順番に送り始めるということです。\n据称，已经下单的商品将从23日起依次开始发货。",
+    "会社は、タワーレコードのふりをした怪しいメールに、気をつけるよう呼びかけています。\n公司呼吁大家注意冒充淘儿唱片的可疑邮件。\n怪しい = suspicious; fishy",
+    "メールの中のリンクを開いたり、個人情報を入力したりしないでほしいと話しています。\n公司表示，希望大家不要打开邮件中的链接，也不要输入个人信息。\n入力する = to enter; to type in (data)",
+    "また、ほかのサイトで同じパスワードを使っている人には、すぐに変えるよう勧めています。\n此外，公司还建议在其他网站使用相同密码的人立即更改密码。\n勧める = to recommend; to advise"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-third: a big music store in Japan says about eleven million records of customer data leaked from its online shop. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "CDや音楽の商品を売っている「タワーレコード」は、通信販売のサイトが外から不正にアクセスされたと発表しました。",
+      "zh": "销售CD等音乐商品的“淘儿唱片”（Tower Records）宣布，其网购网站遭到了外部的非法访问。",
+      "en": "Tower Records, which sells CDs and other music products, announced that its online shopping site was illegally accessed from outside.",
+      "ruby": "CDや<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>ている「タワーレコード」は、<ruby>通信販売<rt>つうしんはんばい</rt></ruby>のサイトが<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>にアクセスされたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "タワーレコードは、全国に店がある、大きな音楽の店です。",
+      "zh": "淘儿唱片是在全国都有门店的大型音乐商店。",
+      "en": "Tower Records is a large music store chain with shops across the country.",
+      "ruby": "タワーレコードは、<ruby>全国<rt>ぜんこく</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>がある、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お客さんの個人情報、およそ1100万件が、外に漏れたということです。",
+      "zh": "据称，顾客的个人信息约1100万条泄露到了外部。",
+      "en": "About 11 million items of customers' personal information are said to have leaked out.",
+      "ruby": "お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>個人情報<rt>こじんじょうほう</rt></ruby>、およそ1100<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が、<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によると、19日の午後5時10分ごろ、不正なアクセスに気がつきました。",
+      "zh": "据公司称，19日下午5点10分左右，他们发现了非法访问。",
+      "en": "According to the company, it noticed the unauthorized access at about 5:10 p.m. on the 19th.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、19<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>ごろ、<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気が<rt>きが</rt></ruby>つきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、すぐにサイトを止めて、調べ始めました。",
+      "zh": "随后，公司立即关闭了网站，开始进行调查。",
+      "en": "It then immediately shut down the site and started investigating.",
+      "ruby": "そして、すぐにサイトを<ruby>止め<rt>とめ</rt></ruby>て、<ruby>調べ<rt>しらべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れた情報で一番多いのは、メールアドレスや会員のIDなど、ログインに使う情報で、およそ1021万件です。",
+      "zh": "泄露的信息中最多的是邮箱地址、会员ID等登录用的信息，约1021万条。",
+      "en": "The largest group of leaked data is login information such as email addresses and member IDs, about 10.21 million items.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby>のは、メールアドレスや<ruby>会員<rt>かいいん</rt></ruby>のIDなど、ログインに<ruby>使う<rt>つかう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>で、およそ1021<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前や生まれた日などの情報も、およそ278万件漏れました。",
+      "zh": "姓名、出生日期等信息也泄露了约278万条。",
+      "en": "Information such as names and dates of birth, about 2.78 million items, also leaked.",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>などの<ruby>情報<rt>じょうほう</rt></ruby>も、およそ278<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>漏れ<rt>もれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、住所や電話番号など、品物を届けるための情報も、およそ78万件ありました。",
+      "zh": "此外，还有住址、电话号码等用于配送商品的信息约78万条。",
+      "en": "There were also about 780,000 items of delivery information, such as addresses and phone numbers.",
+      "ruby": "また、<ruby>住所<rt>じゅうしょ</rt></ruby>や<ruby>電話番号<rt>でんわばんごう</rt></ruby>など、<ruby>品物<rt>しなもの</rt></ruby>を<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to bring to someone\"><ruby>届け<rt>とどけ</rt></ruby>るための</span><ruby>情報<rt>じょうほう</rt></ruby>も、およそ78<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>ありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の会員だけでなく、やめてから3年以内の人の情報も含まれています。",
+      "zh": "不仅是现在的会员，退会3年以内的人的信息也包含在内。",
+      "en": "It includes not only current members but also people who quit within the last three years.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby>だけでなく、やめてから3<ruby>年<rt>ねん</rt></ruby><ruby>以内<rt>いない</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>も<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "クレジットカードの情報は、漏れていないということです。",
+      "zh": "据称，信用卡信息没有泄露。",
+      "en": "Credit card information reportedly did not leak.",
+      "ruby": "クレジットカードの<ruby>情報<rt>じょうほう</rt></ruby>は、<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "通信販売のサイトは今も止まっていて、いつ再開するかは、まだ決まっていません。",
+      "zh": "网购网站目前仍处于停止状态，何时恢复还没有确定。",
+      "en": "The online shopping site is still down, and it has not yet been decided when it will reopen.",
+      "ruby": "<ruby>通信販売<rt>つうしんはんばい</rt></ruby>のサイトは<ruby>今<rt>いま</rt></ruby>も<ruby>止ま<rt>とま</rt></ruby>っていて、いつ<span class=\"vw\" data-ja=\"再開する\" data-reading=\"さいかいする\" data-en=\"to restart; to reopen\"><ruby>再開<rt>さいかい</rt></ruby>するかは</span>、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "すでに注文された商品は、23日から順番に送り始めるということです。",
+      "zh": "据称，已经下单的商品将从23日起依次开始发货。",
+      "en": "Products that have already been ordered will be shipped in turn starting on the 23rd.",
+      "ruby": "すでに<ruby>注文<rt>ちゅうもん</rt></ruby>された<ruby>商品<rt>しょうひん</rt></ruby>は、23<ruby>日<rt>にち</rt></ruby>から<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>送り<rt>おくり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>るということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、タワーレコードのふりをした怪しいメールに、気をつけるよう呼びかけています。",
+      "zh": "公司呼吁大家注意冒充淘儿唱片的可疑邮件。",
+      "en": "The company is urging people to watch out for suspicious emails pretending to be from Tower Records.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、タワーレコードのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールに、<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールの中のリンクを開いたり、個人情報を入力したりしないでほしいと話しています。",
+      "zh": "公司表示，希望大家不要打开邮件中的链接，也不要输入个人信息。",
+      "en": "It says it wants people not to open links in such emails or enter their personal information.",
+      "ruby": "メールの<ruby>中の<rt>なかの</rt></ruby>リンクを<ruby>開い<rt>ひらい</rt></ruby>たり、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>入力<rt>にゅうりょく</rt></ruby>したりしないでほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、ほかのサイトで同じパスワードを使っている人には、すぐに変えるよう勧めています。",
+      "zh": "此外，公司还建议在其他网站使用相同密码的人立即更改密码。",
+      "en": "It also recommends that people who use the same password on other sites change it right away.",
+      "ruby": "また、ほかのサイトで<ruby>同じ<rt>おなじ</rt></ruby>パスワードを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>には、すぐに<ruby>変え<rt>かえ</rt></ruby>るよう<ruby>勧め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "CDや音楽の商品を売っている「タワーレコード」は、通信販売のサイトが外から不正にアクセスされたと発表しました。",
+      "ruby": "CDや<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>ている「タワーレコード」は、<ruby>通信販売<rt>つうしんはんばい</rt></ruby>のサイトが<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>にアクセスされたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tower Records, which sells CDs and music goods, announced that its online shop was accessed illegally from outside."
+    },
+    {
+      "speaker": "vocab",
+      "text": "不正",
+      "ruby": "<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means illegal or unauthorized."
+    },
+    {
+      "speaker": "slow",
+      "text": "タワーレコードは、全国に店がある、大きな音楽の店です。",
+      "ruby": "タワーレコードは、<ruby>全国<rt>ぜんこく</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>がある、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Tower Records is a big music store with shops all over Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "お客さんの個人情報、およそ1100万件が、外に漏れたということです。",
+      "ruby": "お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>個人情報<rt>こじんじょうほう</rt></ruby>、およそ1100<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が、<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eleven million records of customers' personal information leaked out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漏れる",
+      "ruby": "<span class=\"vw\" data-ja=\"漏れる\" data-reading=\"もれる\" data-en=\"to leak; to get out\"><ruby>漏れ<rt>もれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leak, like water or information."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社によると、19日の午後5時10分ごろ、不正なアクセスに気がつきました。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、19<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>ごろ、<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気が<rt>きが</rt></ruby>つきました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says it noticed the attack at about ten past five in the afternoon on the nineteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、すぐにサイトを止めて、調べ始めました。",
+      "ruby": "そして、すぐにサイトを<ruby>止め<rt>とめ</rt></ruby>て、<ruby>調べ<rt>しらべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It shut the site down right away and started looking into it."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れた情報で一番多いのは、メールアドレスや会員のIDなど、ログインに使う情報で、およそ1021万件です。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby>のは、メールアドレスや<ruby>会員<rt>かいいん</rt></ruby>のIDなど、ログインに<ruby>使う<rt>つかう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>で、およそ1021<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The biggest part is login information, like email addresses and member IDs: about ten point two million records."
+    },
+    {
+      "speaker": "slow",
+      "text": "名前や生まれた日などの情報も、およそ278万件漏れました。",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>などの<ruby>情報<rt>じょうほう</rt></ruby>も、およそ278<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>漏れ<rt>もれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Names, birthdays and similar details also leaked: about two point seven eight million records."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、住所や電話番号など、品物を届けるための情報も、およそ78万件ありました。",
+      "ruby": "また、<ruby>住所<rt>じゅうしょ</rt></ruby>や<ruby>電話番号<rt>でんわばんごう</rt></ruby>など、<ruby>品物<rt>しなもの</rt></ruby>を<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to bring to someone\"><ruby>届け<rt>とどけ</rt></ruby>るための</span><ruby>情報<rt>じょうほう</rt></ruby>も、およそ78<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>ありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "There were also about seven hundred eighty thousand records for delivering goods, like addresses and phone numbers."
+    },
+    {
+      "speaker": "vocab",
+      "text": "届ける",
+      "ruby": "<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to bring to someone\"><ruby>届け<rt>とどけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to deliver something to someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "今の会員だけでなく、やめてから3年以内の人の情報も含まれています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby>だけでなく、やめてから3<ruby>年<rt>ねん</rt></ruby><ruby>以内<rt>いない</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>も<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Not only current members are affected, but also people who quit within the last three years."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"含まれる\" data-reading=\"ふくまれる\" data-en=\"to be included\"><ruby>含ま<rt>ふくま</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be included."
+    },
+    {
+      "speaker": "slow",
+      "text": "クレジットカードの情報は、漏れていないということです。",
+      "ruby": "クレジットカードの<ruby>情報<rt>じょうほう</rt></ruby>は、<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Credit card information did not leak."
+    },
+    {
+      "speaker": "slow",
+      "text": "通信販売のサイトは今も止まっていて、いつ再開するかは、まだ決まっていません。",
+      "ruby": "<ruby>通信販売<rt>つうしんはんばい</rt></ruby>のサイトは<ruby>今<rt>いま</rt></ruby>も<ruby>止ま<rt>とま</rt></ruby>っていて、いつ<span class=\"vw\" data-ja=\"再開する\" data-reading=\"さいかいする\" data-en=\"to restart; to reopen\"><ruby>再開<rt>さいかい</rt></ruby>するかは</span>、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "host",
+      "text": "The online shop is still closed, and there is no date yet for when it will open again."
+    },
+    {
+      "speaker": "vocab",
+      "text": "再開する",
+      "ruby": "<span class=\"vw\" data-ja=\"再開する\" data-reading=\"さいかいする\" data-en=\"to restart; to reopen\"><ruby>再開<rt>さいかい</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to start again after a stop."
+    },
+    {
+      "speaker": "slow",
+      "text": "すでに注文された商品は、23日から順番に送り始めるということです。",
+      "ruby": "すでに<ruby>注文<rt>ちゅうもん</rt></ruby>された<ruby>商品<rt>しょうひん</rt></ruby>は、23<ruby>日<rt>にち</rt></ruby>から<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>送り<rt>おくり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>るということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Items people already ordered will start shipping, one after another, from the twenty-third."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、タワーレコードのふりをした怪しいメールに、気をつけるよう呼びかけています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、タワーレコードのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールに、<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company is warning people to watch out for suspicious emails that pretend to be from Tower Records."
+    },
+    {
+      "speaker": "vocab",
+      "text": "怪しい",
+      "ruby": "<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\"><ruby>怪しい<rt>あやしい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means suspicious, or fishy."
+    },
+    {
+      "speaker": "slow",
+      "text": "メールの中のリンクを開いたり、個人情報を入力したりしないでほしいと話しています。",
+      "ruby": "メールの<ruby>中の<rt>なかの</rt></ruby>リンクを<ruby>開い<rt>ひらい</rt></ruby>たり、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>入力<rt>にゅうりょく</rt></ruby>したりしないでほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It asks people not to open links in those emails or type in their personal details."
+    },
+    {
+      "speaker": "vocab",
+      "text": "入力する",
+      "ruby": "<span class=\"vw\" data-ja=\"入力する\" data-reading=\"にゅうりょくする\" data-en=\"to enter; to type in (data)\"><ruby>入力<rt>にゅうりょく</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to type in, or enter information."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、ほかのサイトで同じパスワードを使っている人には、すぐに変えるよう勧めています。",
+      "ruby": "また、ほかのサイトで<ruby>同じ<rt>おなじ</rt></ruby>パスワードを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>には、すぐに<ruby>変え<rt>かえ</rt></ruby>るよう<ruby>勧め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also tells people who use the same password on other sites to change it right away."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勧める",
+      "ruby": "<span class=\"vw\" data-ja=\"勧める\" data-reading=\"すすめる\" data-en=\"to recommend; to advise\"><ruby>勧め<rt>すすめ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to recommend, or advise someone to do something."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "CDや音楽の商品を売っている「タワーレコード」は、通信販売のサイトが外から不正にアクセスされたと発表しました。",
+      "zh": "销售CD等音乐商品的“淘儿唱片”（Tower Records）宣布，其网购网站遭到了外部的非法访问。",
+      "en": "Tower Records, which sells CDs and other music products, announced that its online shopping site was illegally accessed from outside.",
+      "ruby": "CDや<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>ている「タワーレコード」は、<ruby>通信販売<rt>つうしんはんばい</rt></ruby>のサイトが<ruby>外<rt>そと</rt></ruby>から<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>にアクセスされたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "タワーレコードは、全国に店がある、大きな音楽の店です。",
+      "zh": "淘儿唱片是在全国都有门店的大型音乐商店。",
+      "en": "Tower Records is a large music store chain with shops across the country.",
+      "ruby": "タワーレコードは、<ruby>全国<rt>ぜんこく</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>がある、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "お客さんの個人情報、およそ1100万件が、外に漏れたということです。",
+      "zh": "据称，顾客的个人信息约1100万条泄露到了外部。",
+      "en": "About 11 million items of customers' personal information are said to have leaked out.",
+      "ruby": "お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>個人情報<rt>こじんじょうほう</rt></ruby>、およそ1100<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>が、<ruby>外<rt>そと</rt></ruby>に<ruby>漏れ<rt>もれ</rt></ruby>たということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社によると、19日の午後5時10分ごろ、不正なアクセスに気がつきました。",
+      "zh": "据公司称，19日下午5点10分左右，他们发现了非法访问。",
+      "en": "According to the company, it noticed the unauthorized access at about 5:10 p.m. on the 19th.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>によると、19<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>ごろ、<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気が<rt>きが</rt></ruby>つきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、すぐにサイトを止めて、調べ始めました。",
+      "zh": "随后，公司立即关闭了网站，开始进行调查。",
+      "en": "It then immediately shut down the site and started investigating.",
+      "ruby": "そして、すぐにサイトを<ruby>止め<rt>とめ</rt></ruby>て、<ruby>調べ<rt>しらべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れた情報で一番多いのは、メールアドレスや会員のIDなど、ログインに使う情報で、およそ1021万件です。",
+      "zh": "泄露的信息中最多的是邮箱地址、会员ID等登录用的信息，约1021万条。",
+      "en": "The largest group of leaked data is login information such as email addresses and member IDs, about 10.21 million items.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>情報<rt>じょうほう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby>のは、メールアドレスや<ruby>会員<rt>かいいん</rt></ruby>のIDなど、ログインに<ruby>使う<rt>つかう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>で、およそ1021<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "名前や生まれた日などの情報も、およそ278万件漏れました。",
+      "zh": "姓名、出生日期等信息也泄露了约278万条。",
+      "en": "Information such as names and dates of birth, about 2.78 million items, also leaked.",
+      "ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>などの<ruby>情報<rt>じょうほう</rt></ruby>も、およそ278<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>漏れ<rt>もれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、住所や電話番号など、品物を届けるための情報も、およそ78万件ありました。",
+      "zh": "此外，还有住址、电话号码等用于配送商品的信息约78万条。",
+      "en": "There were also about 780,000 items of delivery information, such as addresses and phone numbers.",
+      "ruby": "また、<ruby>住所<rt>じゅうしょ</rt></ruby>や<ruby>電話番号<rt>でんわばんごう</rt></ruby>など、<ruby>品物<rt>しなもの</rt></ruby>を<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to bring to someone\"><ruby>届け<rt>とどけ</rt></ruby>るための</span><ruby>情報<rt>じょうほう</rt></ruby>も、およそ78<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>ありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今の会員だけでなく、やめてから3年以内の人の情報も含まれています。",
+      "zh": "不仅是现在的会员，退会3年以内的人的信息也包含在内。",
+      "en": "It includes not only current members but also people who quit within the last three years.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby>だけでなく、やめてから3<ruby>年<rt>ねん</rt></ruby><ruby>以内<rt>いない</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>も<ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "クレジットカードの情報は、漏れていないということです。",
+      "zh": "据称，信用卡信息没有泄露。",
+      "en": "Credit card information reportedly did not leak.",
+      "ruby": "クレジットカードの<ruby>情報<rt>じょうほう</rt></ruby>は、<ruby>漏れ<rt>もれ</rt></ruby>ていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "通信販売のサイトは今も止まっていて、いつ再開するかは、まだ決まっていません。",
+      "zh": "网购网站目前仍处于停止状态，何时恢复还没有确定。",
+      "en": "The online shopping site is still down, and it has not yet been decided when it will reopen.",
+      "ruby": "<ruby>通信販売<rt>つうしんはんばい</rt></ruby>のサイトは<ruby>今<rt>いま</rt></ruby>も<ruby>止ま<rt>とま</rt></ruby>っていて、いつ<span class=\"vw\" data-ja=\"再開する\" data-reading=\"さいかいする\" data-en=\"to restart; to reopen\"><ruby>再開<rt>さいかい</rt></ruby>するかは</span>、まだ<ruby>決ま<rt>きま</rt></ruby>っていません。"
+    },
+    {
+      "speaker": "news",
+      "text": "すでに注文された商品は、23日から順番に送り始めるということです。",
+      "zh": "据称，已经下单的商品将从23日起依次开始发货。",
+      "en": "Products that have already been ordered will be shipped in turn starting on the 23rd.",
+      "ruby": "すでに<ruby>注文<rt>ちゅうもん</rt></ruby>された<ruby>商品<rt>しょうひん</rt></ruby>は、23<ruby>日<rt>にち</rt></ruby>から<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>送り<rt>おくり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>るということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、タワーレコードのふりをした怪しいメールに、気をつけるよう呼びかけています。",
+      "zh": "公司呼吁大家注意冒充淘儿唱片的可疑邮件。",
+      "en": "The company is urging people to watch out for suspicious emails pretending to be from Tower Records.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、タワーレコードのふりをした<span class=\"vw\" data-ja=\"怪しい\" data-reading=\"あやしい\" data-en=\"suspicious; fishy\"><ruby>怪しい<rt>あやしい</rt></ruby></span>メールに、<ruby>気を<rt>きを</rt></ruby>つけるよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "news",
+      "text": "メールの中のリンクを開いたり、個人情報を入力したりしないでほしいと話しています。",
+      "zh": "公司表示，希望大家不要打开邮件中的链接，也不要输入个人信息。",
+      "en": "It says it wants people not to open links in such emails or enter their personal information.",
+      "ruby": "メールの<ruby>中の<rt>なかの</rt></ruby>リンクを<ruby>開い<rt>ひらい</rt></ruby>たり、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>入力<rt>にゅうりょく</rt></ruby>したりしないでほしいと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、ほかのサイトで同じパスワードを使っている人には、すぐに変えるよう勧めています。",
+      "zh": "此外，公司还建议在其他网站使用相同密码的人立即更改密码。",
+      "en": "It also recommends that people who use the same password on other sites change it right away.",
+      "ruby": "また、ほかのサイトで<ruby>同じ<rt>おなじ</rt></ruby>パスワードを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>には、すぐに<ruby>変え<rt>かえ</rt></ruby>るよう<ruby>勧め<rt>すすめ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れた個人情報は、全部でおよそ何件ですか。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>た<ruby>個人情報<rt>こじんじょうほう</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>でおよそ<ruby>何件<rt>なんけん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eleven million."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社が不正なアクセスに気がついたのは、何日ですか。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"vw\" data-ja=\"不正\" data-reading=\"ふせい\" data-en=\"illegal; unauthorized; dishonest\"><ruby>不正<rt>ふせい</rt></ruby></span>なアクセスに<ruby>気が<rt>きが</rt></ruby>ついたのは、<ruby>何日<rt>なんにち</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The nineteenth."
+    },
+    {
+      "speaker": "slow",
+      "text": "漏れなかった情報は、何ですか。",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>なかった<ruby>情報<rt>じょうほう</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Credit card information."
+    },
+    {
+      "speaker": "slow",
+      "text": "すでに注文された商品は、何日から送り始めますか。",
+      "ruby": "すでに<ruby>注文<rt>ちゅうもん</rt></ruby>された<ruby>商品<rt>しょうひん</rt></ruby>は、<ruby>何日<rt>なんにち</rt></ruby>から<ruby>送り<rt>おくり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From the twenty-third."
+    },
+    {
+      "speaker": "slow",
+      "text": "ほかのサイトで同じパスワードを使っている人は、何をしたほうがいいですか。",
+      "ruby": "ほかのサイトで<ruby>同じ<rt>おなじ</rt></ruby>パスワードを<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>ひと</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby>したほうがいいですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Change the password right away."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
