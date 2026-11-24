@@ -1,0 +1,498 @@
+{
+  "episode": 305,
+  "title": "北九州の「旦過市場」、火事から4年で新しい建物",
+  "titleZh": "北九州“旦过市场”火灾4年后新楼开业",
+  "titleEn": "Kitakyushu's Tanga Market opens a new building four years after fires",
+  "date": "2026-11-25",
+  "source": "共同通信、九州朝日放送、TNCテレビ西日本、西日本新聞",
+  "level": "N5-N4",
+  "contentVersion": "2026112501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "歴史",
+      "reading": "れきし",
+      "en": "history",
+      "zh": "历史"
+    },
+    {
+      "ja": "台所",
+      "reading": "だいどころ",
+      "en": "kitchen",
+      "zh": "厨房"
+    },
+    {
+      "ja": "火事",
+      "reading": "かじ",
+      "en": "fire (a building on fire)",
+      "zh": "火灾"
+    },
+    {
+      "ja": "広がる",
+      "reading": "ひろがる",
+      "en": "to spread; to widen",
+      "zh": "扩大；蔓延"
+    },
+    {
+      "ja": "焼ける",
+      "reading": "やける",
+      "en": "to burn; to be burned",
+      "zh": "烧毁；被烧"
+    },
+    {
+      "ja": "気持ち",
+      "reading": "きもち",
+      "en": "feeling",
+      "zh": "心情；感受"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と呼ばれています",
+      "meaning": "is called ~",
+      "meaningZh": "被称为……",
+      "formation": "Noun + と呼ばれています (呼ぶ → 呼ばれる)",
+      "example": "「北九州の台所」と呼ばれています。",
+      "translation": "It is called \"Kitakyushu's kitchen.\"",
+      "note": "Passive of 呼ぶ (to call): the name people use for something.",
+      "noteZh": "“呼ぶ（称呼）”的被动形式，表示人们怎样称呼某事物。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~; since ~",
+      "meaningZh": "因为……；由于……",
+      "formation": "Plain form + ので (な-adj / noun + なので)",
+      "example": "古い木の建物が近くに集まっていたので、火が広がりました。",
+      "translation": "Because the old wooden buildings were close together, the fire spread.",
+      "note": "Gives a reason in a soft, objective way; common in news.",
+      "noteZh": "用比较客观、柔和的方式说明原因，新闻中很常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ing (often with regret)",
+      "meaningZh": "……了（多含遗憾）",
+      "formation": "Verb て-form + しまう (焼けて → 焼けてしまいました)",
+      "example": "87の店が焼けてしまいました。",
+      "translation": "87 shops ended up burning down.",
+      "note": "Adds a feeling that the result was unwanted or unfortunate.",
+      "noteZh": "表示结果不如意或令人遗憾。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜にくい",
+      "meaning": "hard to ~; not easily ~",
+      "meaningZh": "不容易……；难以……",
+      "formation": "Verb ます-stem + にくい (燃えます → 燃えにくい)",
+      "example": "燃えにくい壁があります。",
+      "translation": "There are walls that are hard to burn.",
+      "note": "Says something does not happen easily; it works like an い-adjective.",
+      "noteZh": "表示某事不容易发生，用法同い形容词。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "福岡県北九州市にある「旦過市場」は、100年以上の歴史がある市場です。\n福冈县北九州市的“旦过市场”是一个有100多年历史的市场。\n歴史 = history",
+    "魚や野菜、肉などの店がたくさんあって、「北九州の台所」と呼ばれています。\n这里有很多卖鱼、蔬菜、肉等的店，被称为“北九州的厨房”。\n台所 = kitchen",
+    "でも、2022年の4月と8月に、大きな火事が2回起きました。\n但是，2022年4月和8月，这里发生了两次大火。\n火事 = fire (a building on fire)",
+    "古い木の建物が近くに集まっていたので、火が広がって、合わせて87の店が焼けてしまいました。\n因为老旧的木造建筑挤在一起，火势蔓延，一共烧毁了87家店。\n広がる = to spread; to widen\n焼ける = to burn; to be burned",
+    "24日、この市場に、4階建ての新しい建物「いちばん館」ができました。\n24日，这个市场里一栋4层的新楼“一番馆”建成开业了。",
+    "新しい建物には、火を消すスプリンクラーや、燃えにくい壁があります。\n新楼里装有灭火用的自动喷水装置和不易燃烧的墙壁。",
+    "24日に開いたのは1階だけで、食事ができる店や野菜を売る店など、19の店が入りました。\n24日开放的只有1楼，入驻了餐馆和蔬菜店等19家店。",
+    "そのうち16の店は、火事の前からこの市場にあった店です。\n其中16家店是火灾之前就在这个市场里的店。",
+    "朝、店が開く前に、およそ300人が並びました。\n早上开门之前，大约有300人排队等候。",
+    "火事で店が焼けた人は、もう一度始める気持ちでがんばると話していました。\n因火灾失去店铺的人说，会抱着重新出发的心情努力。\n気持ち = feeling"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-fifth: a famous food market in southern Japan, badly damaged by two fires four years ago, has opened a new building. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "福岡県北九州市にある「旦過市場」は、100年以上の歴史がある市場です。",
+      "zh": "福冈县北九州市的“旦过市场”是一个有100多年历史的市场。",
+      "en": "Tanga Market in Kitakyushu, Fukuoka Prefecture, is a market with more than 100 years of history.",
+      "tts": "福岡県北九州市にある「たんがいちば」は、100年以上の歴史があるいちばです。",
+      "ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>北九州市<rt>きたきゅうしゅうし</rt></ruby>にある「<ruby>旦過<rt>たんが</rt></ruby><ruby>市場<rt>いちば</rt></ruby>」は、100<ruby>年以上<rt>ねんいじょう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>がある<ruby>市場<rt>いちば</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "魚や野菜、肉などの店がたくさんあって、「北九州の台所」と呼ばれています。",
+      "zh": "这里有很多卖鱼、蔬菜、肉等的店，被称为“北九州的厨房”。",
+      "en": "It has many shops selling fish, vegetables, meat and more, and it is called \"Kitakyushu's kitchen.\"",
+      "ruby": "<ruby>魚<rt>さかな</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>、<ruby>肉<rt>にく</rt></ruby>などの<ruby>店<rt>みせ</rt></ruby>がたくさんあって、「<ruby>北九州<rt>きたきゅうしゅう</rt></ruby>の<span class=\"vw\" data-ja=\"台所\" data-reading=\"だいどころ\" data-en=\"kitchen\"><ruby>台所<rt>だいどころ</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、2022年の4月と8月に、大きな火事が2回起きました。",
+      "zh": "但是，2022年4月和8月，这里发生了两次大火。",
+      "en": "But in April and August 2022, two big fires broke out.",
+      "ruby": "でも、2022<ruby>年<rt>ねん</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>と8<ruby>月<rt>がつ</rt></ruby>に、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>が2<ruby>回<rt>かい</rt></ruby><ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "古い木の建物が近くに集まっていたので、火が広がって、合わせて87の店が焼けてしまいました。",
+      "zh": "因为老旧的木造建筑挤在一起，火势蔓延，一共烧毁了87家店。",
+      "en": "Because the old wooden buildings were packed close together, the fire spread, and a total of 87 shops burned down.",
+      "ruby": "<ruby>古い<rt>ふるい</rt></ruby><ruby>木<rt>き</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>が<ruby>近く<rt>ちかく</rt></ruby>に<ruby>集ま<rt>あつま</rt></ruby>っていたので、<ruby>火<rt>ひ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>って、<ruby>合わ<rt>あわ</rt></ruby>せて87の<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "24日、この市場に、4階建ての新しい建物「いちばん館」ができました。",
+      "zh": "24日，这个市场里一栋4层的新楼“一番馆”建成开业了。",
+      "en": "On the 24th, a new four-story building, \"Ichibankan,\" opened at the market.",
+      "tts": "24日、このいちばに、4階建ての新しい建物「いちばんかん」ができました。",
+      "ruby": "24<ruby>日<rt>にち</rt></ruby>、この<ruby>市場<rt>いちば</rt></ruby>に、4<ruby>階建<rt>かいだ</rt></ruby>ての<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>「いちばん<ruby>館<rt>かん</rt></ruby>」ができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい建物には、火を消すスプリンクラーや、燃えにくい壁があります。",
+      "zh": "新楼里装有灭火用的自动喷水装置和不易燃烧的墙壁。",
+      "en": "The new building has sprinklers to put out fires and walls that are hard to burn.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>には、<ruby>火<rt>ひ</rt></ruby>を<ruby>消す<rt>けす</rt></ruby>スプリンクラーや、<ruby>燃え<rt>もえ</rt></ruby>にくい<ruby>壁<rt>かべ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "24日に開いたのは1階だけで、食事ができる店や野菜を売る店など、19の店が入りました。",
+      "zh": "24日开放的只有1楼，入驻了餐馆和蔬菜店等19家店。",
+      "en": "Only the first floor opened on the 24th, with 19 shops, including places to eat and shops selling vegetables.",
+      "ruby": "24<ruby>日<rt>にち</rt></ruby>に<ruby>開い<rt>ひらい</rt></ruby>たのは1<ruby>階<rt>かい</rt></ruby>だけで、<ruby>食事<rt>しょくじ</rt></ruby>ができる<ruby>店<rt>みせ</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>など、19の<ruby>店<rt>みせ</rt></ruby>が<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのうち16の店は、火事の前からこの市場にあった店です。",
+      "zh": "其中16家店是火灾之前就在这个市场里的店。",
+      "en": "16 of them are shops that were in this market before the fires.",
+      "ruby": "そのうち16の<ruby>店<rt>みせ</rt></ruby>は、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>からこの<ruby>市場<rt>いちば</rt></ruby>にあった<ruby>店<rt>みせ</rt></ruby>です。",
+      "tts": "そのうち16の店は、火事の前からこのいちばにあった店です。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝、店が開く前に、およそ300人が並びました。",
+      "zh": "早上开门之前，大约有300人排队等候。",
+      "en": "In the morning, about 300 people lined up before the shops opened.",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>が<ruby>開く<rt>ひらく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、およそ300<ruby>人<rt>ひと</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "火事で店が焼けた人は、もう一度始める気持ちでがんばると話していました。",
+      "zh": "因火灾失去店铺的人说，会抱着重新出发的心情努力。",
+      "en": "A shop owner whose shop burned in the fire said they would work hard with the feeling of starting over.",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>で<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、もう<ruby>一度<rt>いちど</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"気持ち\" data-reading=\"きもち\" data-en=\"feeling\"><ruby>気持ち<rt>きもち</rt></ruby></span>でがんばると<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "福岡県北九州市にある「旦過市場」は、100年以上の歴史がある市場です。",
+      "tts": "福岡県北九州市にある「たんがいちば」は、100年以上の歴史があるいちばです。",
+      "ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>北九州市<rt>きたきゅうしゅうし</rt></ruby>にある「<ruby>旦過<rt>たんが</rt></ruby><ruby>市場<rt>いちば</rt></ruby>」は、100<ruby>年以上<rt>ねんいじょう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>がある<ruby>市場<rt>いちば</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kitakyushu's Tanga Market is a market with more than one hundred years of history."
+    },
+    {
+      "speaker": "vocab",
+      "text": "歴史",
+      "ruby": "<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means history."
+    },
+    {
+      "speaker": "slow",
+      "text": "魚や野菜、肉などの店がたくさんあって、「北九州の台所」と呼ばれています。",
+      "ruby": "<ruby>魚<rt>さかな</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>、<ruby>肉<rt>にく</rt></ruby>などの<ruby>店<rt>みせ</rt></ruby>がたくさんあって、「<ruby>北九州<rt>きたきゅうしゅう</rt></ruby>の<span class=\"vw\" data-ja=\"台所\" data-reading=\"だいどころ\" data-en=\"kitchen\"><ruby>台所<rt>だいどころ</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It has many shops selling fish, vegetables and meat, and people call it the kitchen of the city."
+    },
+    {
+      "speaker": "vocab",
+      "text": "台所",
+      "ruby": "<span class=\"vw\" data-ja=\"台所\" data-reading=\"だいどころ\" data-en=\"kitchen\"><ruby>台所<rt>だいどころ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means kitchen. Here it is used for a place that feeds a whole city."
+    },
+    {
+      "speaker": "slow",
+      "text": "でも、2022年の4月と8月に、大きな火事が2回起きました。",
+      "ruby": "でも、2022<ruby>年<rt>ねん</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>と8<ruby>月<rt>がつ</rt></ruby>に、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>が2<ruby>回<rt>かい</rt></ruby><ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But in April and August of twenty twenty-two, two big fires broke out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "火事",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a fire, like a house or building on fire."
+    },
+    {
+      "speaker": "slow",
+      "text": "古い木の建物が近くに集まっていたので、火が広がって、合わせて87の店が焼けてしまいました。",
+      "ruby": "<ruby>古い<rt>ふるい</rt></ruby><ruby>木<rt>き</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>が<ruby>近く<rt>ちかく</rt></ruby>に<ruby>集ま<rt>あつま</rt></ruby>っていたので、<ruby>火<rt>ひ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>って、<ruby>合わ<rt>あわ</rt></ruby>せて87の<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The old wooden buildings were close together, so the fire spread, and eighty-seven shops burned down."
+    },
+    {
+      "speaker": "vocab",
+      "text": "広がる",
+      "ruby": "<span class=\"vw\" data-ja=\"広がる\" data-reading=\"ひろがる\" data-en=\"to spread; to widen\"><ruby>広が<rt>ひろが</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to spread, or to get wider."
+    },
+    {
+      "speaker": "vocab",
+      "text": "焼ける",
+      "ruby": "<span class=\"vw\" data-ja=\"焼ける\" data-reading=\"やける\" data-en=\"to burn; to be burned\"><ruby>焼け<rt>やけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to burn, or to be burned."
+    },
+    {
+      "speaker": "slow",
+      "text": "24日、この市場に、4階建ての新しい建物「いちばん館」ができました。",
+      "tts": "24日、このいちばに、4階建ての新しい建物「いちばんかん」ができました。",
+      "ruby": "24<ruby>日<rt>にち</rt></ruby>、この<ruby>市場<rt>いちば</rt></ruby>に、4<ruby>階建<rt>かいだ</rt></ruby>ての<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>「いちばん<ruby>館<rt>かん</rt></ruby>」ができました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the twenty-fourth, a new four-story building opened at the market."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい建物には、火を消すスプリンクラーや、燃えにくい壁があります。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>には、<ruby>火<rt>ひ</rt></ruby>を<ruby>消す<rt>けす</rt></ruby>スプリンクラーや、<ruby>燃え<rt>もえ</rt></ruby>にくい<ruby>壁<rt>かべ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "The new building has sprinklers to put out fires, and walls that don't burn easily."
+    },
+    {
+      "speaker": "slow",
+      "text": "24日に開いたのは1階だけで、食事ができる店や野菜を売る店など、19の店が入りました。",
+      "ruby": "24<ruby>日<rt>にち</rt></ruby>に<ruby>開い<rt>ひらい</rt></ruby>たのは1<ruby>階<rt>かい</rt></ruby>だけで、<ruby>食事<rt>しょくじ</rt></ruby>ができる<ruby>店<rt>みせ</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>など、19の<ruby>店<rt>みせ</rt></ruby>が<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Only the first floor opened, with nineteen shops, like places to eat and vegetable shops."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのうち16の店は、火事の前からこの市場にあった店です。",
+      "ruby": "そのうち16の<ruby>店<rt>みせ</rt></ruby>は、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>からこの<ruby>市場<rt>いちば</rt></ruby>にあった<ruby>店<rt>みせ</rt></ruby>です。",
+      "tts": "そのうち16の店は、火事の前からこのいちばにあった店です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixteen of them were already in the market before the fires."
+    },
+    {
+      "speaker": "slow",
+      "text": "朝、店が開く前に、およそ300人が並びました。",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>が<ruby>開く<rt>ひらく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、およそ300<ruby>人<rt>ひと</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "In the morning, about three hundred people lined up before the shops opened."
+    },
+    {
+      "speaker": "slow",
+      "text": "火事で店が焼けた人は、もう一度始める気持ちでがんばると話していました。",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>で<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、もう<ruby>一度<rt>いちど</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"気持ち\" data-reading=\"きもち\" data-en=\"feeling\"><ruby>気持ち<rt>きもち</rt></ruby></span>でがんばると<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "A shop owner who lost their shop in the fire said they would work hard, as if starting over."
+    },
+    {
+      "speaker": "vocab",
+      "text": "気持ち",
+      "ruby": "<span class=\"vw\" data-ja=\"気持ち\" data-reading=\"きもち\" data-en=\"feeling\"><ruby>気持ち<rt>きもち</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means feeling, or the way you feel inside."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "福岡県北九州市にある「旦過市場」は、100年以上の歴史がある市場です。",
+      "zh": "福冈县北九州市的“旦过市场”是一个有100多年历史的市场。",
+      "en": "Tanga Market in Kitakyushu, Fukuoka Prefecture, is a market with more than 100 years of history.",
+      "tts": "福岡県北九州市にある「たんがいちば」は、100年以上の歴史があるいちばです。",
+      "ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>北九州市<rt>きたきゅうしゅうし</rt></ruby>にある「<ruby>旦過<rt>たんが</rt></ruby><ruby>市場<rt>いちば</rt></ruby>」は、100<ruby>年以上<rt>ねんいじょう</rt></ruby>の<span class=\"vw\" data-ja=\"歴史\" data-reading=\"れきし\" data-en=\"history\"><ruby>歴史<rt>れきし</rt></ruby></span>がある<ruby>市場<rt>いちば</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "魚や野菜、肉などの店がたくさんあって、「北九州の台所」と呼ばれています。",
+      "zh": "这里有很多卖鱼、蔬菜、肉等的店，被称为“北九州的厨房”。",
+      "en": "It has many shops selling fish, vegetables, meat and more, and it is called \"Kitakyushu's kitchen.\"",
+      "ruby": "<ruby>魚<rt>さかな</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>、<ruby>肉<rt>にく</rt></ruby>などの<ruby>店<rt>みせ</rt></ruby>がたくさんあって、「<ruby>北九州<rt>きたきゅうしゅう</rt></ruby>の<span class=\"vw\" data-ja=\"台所\" data-reading=\"だいどころ\" data-en=\"kitchen\"><ruby>台所<rt>だいどころ</rt></ruby></span>」と<ruby>呼ば<rt>よば</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "でも、2022年の4月と8月に、大きな火事が2回起きました。",
+      "zh": "但是，2022年4月和8月，这里发生了两次大火。",
+      "en": "But in April and August 2022, two big fires broke out.",
+      "ruby": "でも、2022<ruby>年<rt>ねん</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>と8<ruby>月<rt>がつ</rt></ruby>に、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>が2<ruby>回<rt>かい</rt></ruby><ruby>起き<rt>おき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "古い木の建物が近くに集まっていたので、火が広がって、合わせて87の店が焼けてしまいました。",
+      "zh": "因为老旧的木造建筑挤在一起，火势蔓延，一共烧毁了87家店。",
+      "en": "Because the old wooden buildings were packed close together, the fire spread, and a total of 87 shops burned down.",
+      "ruby": "<ruby>古い<rt>ふるい</rt></ruby><ruby>木<rt>き</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>が<ruby>近く<rt>ちかく</rt></ruby>に<ruby>集ま<rt>あつま</rt></ruby>っていたので、<ruby>火<rt>ひ</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>って、<ruby>合わ<rt>あわ</rt></ruby>せて87の<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>てしまいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "24日、この市場に、4階建ての新しい建物「いちばん館」ができました。",
+      "zh": "24日，这个市场里一栋4层的新楼“一番馆”建成开业了。",
+      "en": "On the 24th, a new four-story building, \"Ichibankan,\" opened at the market.",
+      "tts": "24日、このいちばに、4階建ての新しい建物「いちばんかん」ができました。",
+      "ruby": "24<ruby>日<rt>にち</rt></ruby>、この<ruby>市場<rt>いちば</rt></ruby>に、4<ruby>階建<rt>かいだ</rt></ruby>ての<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>「いちばん<ruby>館<rt>かん</rt></ruby>」ができました。"
+    },
+    {
+      "speaker": "news",
+      "text": "新しい建物には、火を消すスプリンクラーや、燃えにくい壁があります。",
+      "zh": "新楼里装有灭火用的自动喷水装置和不易燃烧的墙壁。",
+      "en": "The new building has sprinklers to put out fires and walls that are hard to burn.",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>には、<ruby>火<rt>ひ</rt></ruby>を<ruby>消す<rt>けす</rt></ruby>スプリンクラーや、<ruby>燃え<rt>もえ</rt></ruby>にくい<ruby>壁<rt>かべ</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "24日に開いたのは1階だけで、食事ができる店や野菜を売る店など、19の店が入りました。",
+      "zh": "24日开放的只有1楼，入驻了餐馆和蔬菜店等19家店。",
+      "en": "Only the first floor opened on the 24th, with 19 shops, including places to eat and shops selling vegetables.",
+      "ruby": "24<ruby>日<rt>にち</rt></ruby>に<ruby>開い<rt>ひらい</rt></ruby>たのは1<ruby>階<rt>かい</rt></ruby>だけで、<ruby>食事<rt>しょくじ</rt></ruby>ができる<ruby>店<rt>みせ</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>など、19の<ruby>店<rt>みせ</rt></ruby>が<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのうち16の店は、火事の前からこの市場にあった店です。",
+      "zh": "其中16家店是火灾之前就在这个市场里的店。",
+      "en": "16 of them are shops that were in this market before the fires.",
+      "ruby": "そのうち16の<ruby>店<rt>みせ</rt></ruby>は、<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>からこの<ruby>市場<rt>いちば</rt></ruby>にあった<ruby>店<rt>みせ</rt></ruby>です。",
+      "tts": "そのうち16の店は、火事の前からこのいちばにあった店です。"
+    },
+    {
+      "speaker": "news",
+      "text": "朝、店が開く前に、およそ300人が並びました。",
+      "zh": "早上开门之前，大约有300人排队等候。",
+      "en": "In the morning, about 300 people lined up before the shops opened.",
+      "ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>が<ruby>開く<rt>ひらく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、およそ300<ruby>人<rt>ひと</rt></ruby>が<ruby>並び<rt>ならび</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "火事で店が焼けた人は、もう一度始める気持ちでがんばると話していました。",
+      "zh": "因火灾失去店铺的人说，会抱着重新出发的心情努力。",
+      "en": "A shop owner whose shop burned in the fire said they would work hard with the feeling of starting over.",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>で<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、もう<ruby>一度<rt>いちど</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<span class=\"vw\" data-ja=\"気持ち\" data-reading=\"きもち\" data-en=\"feeling\"><ruby>気持ち<rt>きもち</rt></ruby></span>でがんばると<ruby>話し<rt>はなし</rt></ruby>ていました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "旦過市場は、何と呼ばれていますか。",
+      "tts": "たんがいちばは、何と呼ばれていますか。",
+      "ruby": "<ruby>旦過<rt>たんが</rt></ruby><ruby>市場<rt>いちば</rt></ruby>は、<ruby>何と<rt>なんと</rt></ruby><ruby>呼ば<rt>よば</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "\"Kitakyushu's kitchen.\""
+    },
+    {
+      "speaker": "slow",
+      "text": "2022年に、大きな火事は何回起きましたか。",
+      "ruby": "2022<ruby>年<rt>ねん</rt></ruby>に、<ruby>大き<rt>おおき</rt></ruby>な<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>は<ruby>何回<rt>なんかい</rt></ruby><ruby>起き<rt>おき</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Two times, in April and August."
+    },
+    {
+      "speaker": "slow",
+      "text": "火事で、いくつの店が焼けましたか。",
+      "ruby": "<span class=\"vw\" data-ja=\"火事\" data-reading=\"かじ\" data-en=\"fire (a building on fire)\"><ruby>火事<rt>かじ</rt></ruby></span>で、いくつの<ruby>店<rt>みせ</rt></ruby>が<ruby>焼け<rt>やけ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Eighty-seven shops."
+    },
+    {
+      "speaker": "slow",
+      "text": "新しい建物は、何階建てですか。",
+      "ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>は、<ruby>何階<rt>なんかい</rt></ruby><ruby>建て<rt>たて</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four stories."
+    },
+    {
+      "speaker": "slow",
+      "text": "店が開く前に、何人ぐらい並びましたか。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>が<ruby>開く<rt>ひらく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、<ruby>何人<rt>なんにん</rt></ruby>ぐらい<ruby>並び<rt>ならび</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About three hundred people."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
