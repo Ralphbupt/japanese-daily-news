@@ -1,0 +1,638 @@
+{
+  "episode": 304,
+  "title": "この冬は暖冬に、日本海側は雪が少ない見込み",
+  "titleZh": "日本今冬或为暖冬，日本海一侧降雪偏少",
+  "titleEn": "Japan expects a warm winter with less snow on the Sea of Japan side",
+  "date": "2026-11-24",
+  "source": "気象庁 3か月予報、時事通信、共同通信、ウェザーマップ、TBS NEWS DIG、テレビ新潟",
+  "level": "N4-N3",
+  "contentVersion": "2026112401",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "暖冬",
+      "reading": "だんとう",
+      "en": "warm winter; mild winter",
+      "zh": "暖冬"
+    },
+    {
+      "ja": "平年",
+      "reading": "へいねん",
+      "en": "normal year; the average year (平年より = than normal)",
+      "zh": "常年；平年（平年より＝比常年）"
+    },
+    {
+      "ja": "湿る",
+      "reading": "しめる",
+      "en": "to become damp; to get moist (湿った空気 = moist air)",
+      "zh": "潮湿；变湿（湿った空気＝湿润的空气）"
+    },
+    {
+      "ja": "流れ込む",
+      "reading": "ながれこむ",
+      "en": "to flow in; to pour in",
+      "zh": "流入；涌入"
+    },
+    {
+      "ja": "見込み",
+      "reading": "みこみ",
+      "en": "expectation; outlook (〜見込みです = is expected to ~)",
+      "zh": "预计；前景（〜見込みです＝预计……）"
+    },
+    {
+      "ja": "一方",
+      "reading": "いっぽう",
+      "en": "on the other hand; meanwhile",
+      "zh": "另一方面"
+    },
+    {
+      "ja": "一時的",
+      "reading": "いちじてき",
+      "en": "temporary; for a short time",
+      "zh": "暂时的；一时的"
+    },
+    {
+      "ja": "おそれ",
+      "reading": "おそれ",
+      "en": "risk; danger (〜おそれがある = there is a risk of ~)",
+      "zh": "恐怕；危险（〜おそれがある＝有……的危险）"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜によると",
+      "meaning": "according to ~",
+      "meaningZh": "根据……；据……",
+      "formation": "Noun + によると (それによると = according to that)",
+      "example": "それによると、この冬は、全国的に暖冬になりそうです。",
+      "translation": "According to the forecast, this winter is likely to be a warm winter across the country.",
+      "note": "Names the source of information; often paired with 〜そうです or 〜ということです.",
+      "noteZh": "表示信息来源，常与〜そうです、〜ということです搭配使用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜そうです（様子）",
+      "meaning": "looks like ~; is likely to ~",
+      "meaningZh": "好像要……；可能会……",
+      "formation": "Verb ます-stem + そうです (なる → なりそうです)",
+      "example": "北日本でも、気温は平年並みか、平年より高くなりそうです。",
+      "translation": "In northern Japan too, temperatures are likely to be normal or higher than normal.",
+      "note": "A guess based on what you can see or know now, not hearsay.",
+      "noteZh": "根据现在看到或了解的情况做出推测，不是传闻。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜にくい／〜やすい",
+      "meaning": "hard to ~ / easy to ~",
+      "meaningZh": "难以……／容易……",
+      "formation": "Verb ます-stem + にくい / やすい (入る → 入りにくい, 流れ込む → 流れ込みやすい)",
+      "example": "南から暖かくて湿った空気が流れ込みやすくなります。",
+      "translation": "Warm, moist air from the south will flow in more easily.",
+      "note": "They work like i-adjectives, so くなる shows a change.",
+      "noteZh": "变化方式与い形容词相同，加くなる表示变化。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜見込みです",
+      "meaning": "is expected to ~",
+      "meaningZh": "预计……",
+      "formation": "Plain form + 見込みです",
+      "example": "日本海側で降る雪の量は、東日本と西日本で、平年より少なくなる見込みです。",
+      "translation": "The amount of snow on the Sea of Japan side is expected to be less than normal in eastern and western Japan.",
+      "note": "A formal way to state a forecast, common in news.",
+      "noteZh": "表示预测的正式说法，新闻中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜おそれがあります",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "有……的危险；恐怕会……",
+      "formation": "Verb dictionary form / Noun + の + おそれがあります",
+      "example": "ふだん雪の少ない太平洋側でも、大雪になるおそれがあります。",
+      "translation": "Even the Pacific side, which usually gets little snow, could see heavy snow.",
+      "note": "Used only for bad things that might happen; very common in weather news.",
+      "noteZh": "只用于可能发生的坏事，天气新闻中很常见。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "気象庁は24日、12月から来年2月までの3か月の天気の予報を発表しました。\n日本气象厅24日发布了从12月到明年2月这3个月的天气预报。",
+    "それによると、この冬は、全国的に暖冬になりそうです。\n根据预报，今年冬天全国范围内可能会是暖冬。\n暖冬 = warm winter; mild winter",
+    "東日本と西日本、それに沖縄・奄美では、気温が平年より高くなると予想されています。\n预计东日本、西日本以及冲绳、奄美地区的气温将高于常年。\n平年 = normal year; the average year (平年より = than normal)",
+    "北日本でも、気温は平年並みか、平年より高くなりそうです。\n北日本的气温也可能与常年持平或高于常年。",
+    "理由は、エルニーニョ現象が、冬の前半まで続くと考えられているためです。\n原因是，厄尔尼诺现象预计将持续到冬季前半段。",
+    "このため、日本の近くには、北から冷たい空気が入りにくくなります。\n因此，来自北方的冷空气将难以进入日本附近。",
+    "反対に、南から暖かくて湿った空気が流れ込みやすくなります。\n相反，来自南方的暖湿空气将更容易流入。\n湿る = to become damp; to get moist (湿った空気 = moist air)\n流れ込む = to flow in; to pour in",
+    "日本海側で降る雪の量は、東日本と西日本で、平年より少なくなる見込みです。\n日本海一侧的降雪量，预计在东日本和西日本将少于常年。\n見込み = expectation; outlook (〜見込みです = is expected to ~)",
+    "一方、東日本の太平洋側や西日本などでは、雨や雪の量が平年より多くなりそうです。\n另一方面，东日本太平洋一侧和西日本等地，雨雪量可能多于常年。\n一方 = on the other hand; meanwhile",
+    "このため、冬の晴れた日は、いつもの年より少なくなるかもしれません。\n因此，冬季的晴天可能会比往年少。",
+    "ただ、この冬は、気温が大きく変わる可能性があります。\n不过，今年冬天气温可能会有较大变化。",
+    "一時的に強い寒気が入ると、ふだん雪の少ない太平洋側でも、大雪になるおそれがあります。\n如果暂时有强冷空气进入，平时少雪的太平洋一侧也可能下大雪。\n一時的 = temporary; for a short time\nおそれ = risk; danger (〜おそれがある = there is a risk of ~)",
+    "また、来週は、東北から沖縄までの広い範囲で、気温が平年よりかなり高くなるかもしれません。\n此外，下周从东北到冲绳的大范围地区，气温可能会明显高于常年。",
+    "暖かい冬になりそうでも、急な寒さや大雪には注意が必要です。\n即使可能是暖冬，也需要注意突然的寒冷和大雪。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-fourth: Japan's weather agency says this winter will likely be warmer than usual, with less snow in many areas. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は24日、12月から来年2月までの3か月の天気の予報を発表しました。",
+      "zh": "日本气象厅24日发布了从12月到明年2月这3个月的天气预报。",
+      "en": "On the 24th, the Japan Meteorological Agency released its weather forecast for the three months from December to next February.",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は24<ruby>日<rt>にち</rt></ruby>、12<ruby>月<rt>がつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby>までの3か<ruby>月<rt>げつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>の<ruby>予報<rt>よほう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それによると、この冬は、全国的に暖冬になりそうです。",
+      "zh": "根据预报，今年冬天全国范围内可能会是暖冬。",
+      "en": "According to the forecast, this winter is likely to be a warm winter across the country.",
+      "ruby": "それによると、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"warm winter; mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東日本と西日本、それに沖縄・奄美では、気温が平年より高くなると予想されています。",
+      "zh": "预计东日本、西日本以及冲绳、奄美地区的气温将高于常年。",
+      "en": "In eastern and western Japan, as well as Okinawa and Amami, temperatures are expected to be higher than normal.",
+      "tts": "東日本と西日本、それに沖縄・あまみでは、気温が平年より高くなると予想されています。",
+      "ruby": "<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>、それに<ruby>沖縄<rt>おきなわ</rt></ruby>・<ruby>奄美<rt>あまみ</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>高く<rt>たかく</rt></ruby>なると<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "北日本でも、気温は平年並みか、平年より高くなりそうです。",
+      "zh": "北日本的气温也可能与常年持平或高于常年。",
+      "en": "In northern Japan too, temperatures are likely to be normal or higher than normal.",
+      "ruby": "<ruby>北日本<rt>きたにほん</rt></ruby>でも、<ruby>気温<rt>きおん</rt></ruby>は<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年並<rt>へいねんなみ</rt></ruby></span>みか、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>高く<rt>たかく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "理由は、エルニーニョ現象が、冬の前半まで続くと考えられているためです。",
+      "zh": "原因是，厄尔尼诺现象预计将持续到冬季前半段。",
+      "en": "The reason is that the El Niño phenomenon is expected to continue into the first half of winter.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、エルニーニョ<ruby>現象<rt>げんしょう</rt></ruby>が、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>前半<rt>ぜんはん</rt></ruby>まで<ruby>続く<rt>つづく</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られているためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、日本の近くには、北から冷たい空気が入りにくくなります。",
+      "zh": "因此，来自北方的冷空气将难以进入日本附近。",
+      "en": "Because of this, cold air from the north will have a harder time reaching the area around Japan.",
+      "ruby": "このため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には、<ruby>北<rt>きた</rt></ruby>から<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>入り<rt>はいり</rt></ruby>にくくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "反対に、南から暖かくて湿った空気が流れ込みやすくなります。",
+      "zh": "相反，来自南方的暖湿空气将更容易流入。",
+      "en": "On the other hand, warm, moist air from the south will flow in more easily.",
+      "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>南<rt>みなみ</rt></ruby>から<ruby>暖かく<rt>あたたかく</rt></ruby>て<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込み<rt>こみ</rt></ruby>やすくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本海側で降る雪の量は、東日本と西日本で、平年より少なくなる見込みです。",
+      "zh": "日本海一侧的降雪量，预计在东日本和西日本将少于常年。",
+      "en": "The amount of snow falling on the Sea of Japan side is expected to be less than normal in eastern and western Japan.",
+      "ruby": "<ruby>日本海側<rt>にほんかいがわ</rt></ruby>で<ruby>降る<rt>ふる</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>で、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>少なく<rt>すくなく</rt></ruby>なる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; outlook (〜見込みです = is expected to ~)\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、東日本の太平洋側や西日本などでは、雨や雪の量が平年より多くなりそうです。",
+      "zh": "另一方面，东日本太平洋一侧和西日本等地，雨雪量可能多于常年。",
+      "en": "Meanwhile, on the Pacific side of eastern Japan and in western Japan and other areas, the amount of rain and snow is likely to be more than normal.",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand; meanwhile\"><ruby>一方<rt>いっぽう</rt></ruby></span>、<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>や<ruby>西日本<rt>にしにほん</rt></ruby>などでは、<ruby>雨<rt>あめ</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>多く<rt>おおく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、冬の晴れた日は、いつもの年より少なくなるかもしれません。",
+      "zh": "因此，冬季的晴天可能会比往年少。",
+      "en": "Because of this, there may be fewer sunny winter days than in a usual year.",
+      "ruby": "このため、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>晴れ<rt>はれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>少なく<rt>すくなく</rt></ruby>なるかもしれません。",
+      "tts": "このため、冬の晴れた日は、いつものとしより少なくなるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、この冬は、気温が大きく変わる可能性があります。",
+      "zh": "不过，今年冬天气温可能会有较大变化。",
+      "en": "However, temperatures may change a lot this winter.",
+      "ruby": "ただ、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>気温<rt>きおん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一時的に強い寒気が入ると、ふだん雪の少ない太平洋側でも、大雪になるおそれがあります。",
+      "zh": "如果暂时有强冷空气进入，平时少雪的太平洋一侧也可能下大雪。",
+      "en": "If strong cold air comes in for a while, even the Pacific side, which usually gets little snow, could see heavy snow.",
+      "tts": "一時的に強いかんきが入ると、ふだん雪の少ない太平洋側でも、おおゆきになるおそれがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一時的\" data-reading=\"いちじてき\" data-en=\"temporary; for a short time\"><ruby>一時的<rt>いちじてき</rt></ruby></span>に<ruby>強い<rt>つよい</rt></ruby><ruby>寒気<rt>かんき</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>と、ふだん<ruby>雪<rt>ゆき</rt></ruby>の<ruby>少ない<rt>すくない</rt></ruby><ruby>太平洋側<rt>たいへいようがわ</rt></ruby>でも、<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、来週は、東北から沖縄までの広い範囲で、気温が平年よりかなり高くなるかもしれません。",
+      "zh": "此外，下周从东北到冲绳的大范围地区，气温可能会明显高于常年。",
+      "en": "Also, next week, temperatures may be much higher than normal across a wide area from Tohoku to Okinawa.",
+      "ruby": "また、<ruby>来週<rt>らいしゅう</rt></ruby>は、<ruby>東北<rt>とうほく</rt></ruby>から<ruby>沖縄<rt>おきなわ</rt></ruby>までの<ruby>広い<rt>ひろい</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>で、<ruby>気温<rt>きおん</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>よりかなり<ruby>高く<rt>たかく</rt></ruby>なるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "暖かい冬になりそうでも、急な寒さや大雪には注意が必要です。",
+      "zh": "即使可能是暖冬，也需要注意突然的寒冷和大雪。",
+      "en": "Even if it looks like a warm winter, people need to watch out for sudden cold and heavy snow.",
+      "tts": "暖かい冬になりそうでも、急な寒さやおおゆきには注意が必要です。",
+      "ruby": "<ruby>暖かい<rt>あたたかい</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>になりそうでも、<ruby>急な<rt>きゅうな</rt></ruby><ruby>寒さ<rt>さむさ</rt></ruby>や<ruby>大雪<rt>おおゆき</rt></ruby>には<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁は24日、12月から来年2月までの3か月の天気の予報を発表しました。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は24<ruby>日<rt>にち</rt></ruby>、12<ruby>月<rt>がつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby>までの3か<ruby>月<rt>げつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>の<ruby>予報<rt>よほう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The weather agency released its forecast for the three months from December to February."
+    },
+    {
+      "speaker": "slow",
+      "text": "それによると、この冬は、全国的に暖冬になりそうです。",
+      "ruby": "それによると、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"warm winter; mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "According to it, this winter will likely be warm across the whole country."
+    },
+    {
+      "speaker": "vocab",
+      "text": "暖冬",
+      "ruby": "<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"warm winter; mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a warm winter, warmer than usual."
+    },
+    {
+      "speaker": "slow",
+      "text": "東日本と西日本、それに沖縄・奄美では、気温が平年より高くなると予想されています。",
+      "tts": "東日本と西日本、それに沖縄・あまみでは、気温が平年より高くなると予想されています。",
+      "ruby": "<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>、それに<ruby>沖縄<rt>おきなわ</rt></ruby>・<ruby>奄美<rt>あまみ</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>高く<rt>たかく</rt></ruby>なると<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In eastern and western Japan, and in Okinawa and Amami, temperatures are expected to be higher than normal."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平年",
+      "ruby": "<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a normal year, or the average for an ordinary year."
+    },
+    {
+      "speaker": "slow",
+      "text": "北日本でも、気温は平年並みか、平年より高くなりそうです。",
+      "ruby": "<ruby>北日本<rt>きたにほん</rt></ruby>でも、<ruby>気温<rt>きおん</rt></ruby>は<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年並<rt>へいねんなみ</rt></ruby></span>みか、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>高く<rt>たかく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "In northern Japan too, temperatures will likely be normal or higher."
+    },
+    {
+      "speaker": "slow",
+      "text": "理由は、エルニーニョ現象が、冬の前半まで続くと考えられているためです。",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、エルニーニョ<ruby>現象<rt>げんしょう</rt></ruby>が、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>前半<rt>ぜんはん</rt></ruby>まで<ruby>続く<rt>つづく</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られているためです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The reason is that El Niño is expected to continue into the first half of winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、日本の近くには、北から冷たい空気が入りにくくなります。",
+      "ruby": "このため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には、<ruby>北<rt>きた</rt></ruby>から<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>入り<rt>はいり</rt></ruby>にくくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Because of this, cold air from the north will find it harder to come near Japan."
+    },
+    {
+      "speaker": "slow",
+      "text": "反対に、南から暖かくて湿った空気が流れ込みやすくなります。",
+      "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>南<rt>みなみ</rt></ruby>から<ruby>暖かく<rt>あたたかく</rt></ruby>て<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込み<rt>こみ</rt></ruby>やすくなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the other hand, warm and moist air from the south will flow in more easily."
+    },
+    {
+      "speaker": "vocab",
+      "text": "湿る",
+      "ruby": "<span class=\"vw\" data-ja=\"湿る\" data-reading=\"しめる\" data-en=\"to become damp; to get moist (湿った空気 = moist air)\"><ruby>湿る<rt>しめる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to become damp or moist."
+    },
+    {
+      "speaker": "vocab",
+      "text": "流れ込む",
+      "ruby": "<span class=\"vw\" data-ja=\"流れ込む\" data-reading=\"ながれこむ\" data-en=\"to flow in; to pour in\"><ruby>流れ<rt>ながれ</rt></ruby><ruby>込む<rt>こむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to flow in, like water or air."
+    },
+    {
+      "speaker": "slow",
+      "text": "日本海側で降る雪の量は、東日本と西日本で、平年より少なくなる見込みです。",
+      "ruby": "<ruby>日本海側<rt>にほんかいがわ</rt></ruby>で<ruby>降る<rt>ふる</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>で、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>少なく<rt>すくなく</rt></ruby>なる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; outlook (〜見込みです = is expected to ~)\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The amount of snow on the Sea of Japan side is expected to be less than normal in eastern and western Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "見込み",
+      "ruby": "<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; outlook (〜見込みです = is expected to ~)\"><ruby>見込み<rt>みこみ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an expectation or outlook."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、東日本の太平洋側や西日本などでは、雨や雪の量が平年より多くなりそうです。",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand; meanwhile\"><ruby>一方<rt>いっぽう</rt></ruby></span>、<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>や<ruby>西日本<rt>にしにほん</rt></ruby>などでは、<ruby>雨<rt>あめ</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>多く<rt>おおく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Meanwhile, on the Pacific side of eastern Japan and in western Japan, there will likely be more rain and snow than normal."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一方",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand; meanwhile\"><ruby>一方<rt>いっぽう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means on the other hand, or meanwhile."
+    },
+    {
+      "speaker": "slow",
+      "text": "このため、冬の晴れた日は、いつもの年より少なくなるかもしれません。",
+      "ruby": "このため、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>晴れ<rt>はれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>少なく<rt>すくなく</rt></ruby>なるかもしれません。",
+      "tts": "このため、冬の晴れた日は、いつものとしより少なくなるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "So there may be fewer sunny winter days than usual."
+    },
+    {
+      "speaker": "slow",
+      "text": "ただ、この冬は、気温が大きく変わる可能性があります。",
+      "ruby": "ただ、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>気温<rt>きおん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "host",
+      "text": "However, temperatures may go up and down a lot this winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "一時的に強い寒気が入ると、ふだん雪の少ない太平洋側でも、大雪になるおそれがあります。",
+      "tts": "一時的に強いかんきが入ると、ふだん雪の少ない太平洋側でも、おおゆきになるおそれがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一時的\" data-reading=\"いちじてき\" data-en=\"temporary; for a short time\"><ruby>一時的<rt>いちじてき</rt></ruby></span>に<ruby>強い<rt>つよい</rt></ruby><ruby>寒気<rt>かんき</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>と、ふだん<ruby>雪<rt>ゆき</rt></ruby>の<ruby>少ない<rt>すくない</rt></ruby><ruby>太平洋側<rt>たいへいようがわ</rt></ruby>でも、<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "If strong cold air comes in for a while, even the Pacific side, which usually gets little snow, could get heavy snow."
+    },
+    {
+      "speaker": "vocab",
+      "text": "一時的",
+      "ruby": "<span class=\"vw\" data-ja=\"一時的\" data-reading=\"いちじてき\" data-en=\"temporary; for a short time\"><ruby>一時的<rt>いちじてき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means temporary, or for a short time."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おそれ",
+      "ruby": "<span class=\"vw\" data-ja=\"おそれ\" data-reading=\"おそれ\" data-en=\"risk; danger (〜おそれがある = there is a risk of ~)\">おそれ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a risk or danger that something bad may happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、来週は、東北から沖縄までの広い範囲で、気温が平年よりかなり高くなるかもしれません。",
+      "ruby": "また、<ruby>来週<rt>らいしゅう</rt></ruby>は、<ruby>東北<rt>とうほく</rt></ruby>から<ruby>沖縄<rt>おきなわ</rt></ruby>までの<ruby>広い<rt>ひろい</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>で、<ruby>気温<rt>きおん</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>よりかなり<ruby>高く<rt>たかく</rt></ruby>なるかもしれません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Also, next week, it may be much warmer than normal across a wide area from Tohoku to Okinawa."
+    },
+    {
+      "speaker": "slow",
+      "text": "暖かい冬になりそうでも、急な寒さや大雪には注意が必要です。",
+      "tts": "暖かい冬になりそうでも、急な寒さやおおゆきには注意が必要です。",
+      "ruby": "<ruby>暖かい<rt>あたたかい</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>になりそうでも、<ruby>急な<rt>きゅうな</rt></ruby><ruby>寒さ<rt>さむさ</rt></ruby>や<ruby>大雪<rt>おおゆき</rt></ruby>には<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even if the winter looks warm, people should watch out for sudden cold and heavy snow."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "気象庁は24日、12月から来年2月までの3か月の天気の予報を発表しました。",
+      "zh": "日本气象厅24日发布了从12月到明年2月这3个月的天气预报。",
+      "en": "On the 24th, the Japan Meteorological Agency released its weather forecast for the three months from December to next February.",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>は24<ruby>日<rt>にち</rt></ruby>、12<ruby>月<rt>がつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby>までの3か<ruby>月<rt>げつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>の<ruby>予報<rt>よほう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それによると、この冬は、全国的に暖冬になりそうです。",
+      "zh": "根据预报，今年冬天全国范围内可能会是暖冬。",
+      "en": "According to the forecast, this winter is likely to be a warm winter across the country.",
+      "ruby": "それによると、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<span class=\"vw\" data-ja=\"暖冬\" data-reading=\"だんとう\" data-en=\"warm winter; mild winter\"><ruby>暖冬<rt>だんとう</rt></ruby></span>になりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "東日本と西日本、それに沖縄・奄美では、気温が平年より高くなると予想されています。",
+      "zh": "预计东日本、西日本以及冲绳、奄美地区的气温将高于常年。",
+      "en": "In eastern and western Japan, as well as Okinawa and Amami, temperatures are expected to be higher than normal.",
+      "tts": "東日本と西日本、それに沖縄・あまみでは、気温が平年より高くなると予想されています。",
+      "ruby": "<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>、それに<ruby>沖縄<rt>おきなわ</rt></ruby>・<ruby>奄美<rt>あまみ</rt></ruby>では、<ruby>気温<rt>きおん</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>高く<rt>たかく</rt></ruby>なると<ruby>予想<rt>よそう</rt></ruby>されています。"
+    },
+    {
+      "speaker": "news",
+      "text": "北日本でも、気温は平年並みか、平年より高くなりそうです。",
+      "zh": "北日本的气温也可能与常年持平或高于常年。",
+      "en": "In northern Japan too, temperatures are likely to be normal or higher than normal.",
+      "ruby": "<ruby>北日本<rt>きたにほん</rt></ruby>でも、<ruby>気温<rt>きおん</rt></ruby>は<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年並<rt>へいねんなみ</rt></ruby></span>みか、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>高く<rt>たかく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "理由は、エルニーニョ現象が、冬の前半まで続くと考えられているためです。",
+      "zh": "原因是，厄尔尼诺现象预计将持续到冬季前半段。",
+      "en": "The reason is that the El Niño phenomenon is expected to continue into the first half of winter.",
+      "ruby": "<ruby>理由<rt>りゆう</rt></ruby>は、エルニーニョ<ruby>現象<rt>げんしょう</rt></ruby>が、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>前半<rt>ぜんはん</rt></ruby>まで<ruby>続く<rt>つづく</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られているためです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、日本の近くには、北から冷たい空気が入りにくくなります。",
+      "zh": "因此，来自北方的冷空气将难以进入日本附近。",
+      "en": "Because of this, cold air from the north will have a harder time reaching the area around Japan.",
+      "ruby": "このため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>には、<ruby>北<rt>きた</rt></ruby>から<ruby>冷たい<rt>つめたい</rt></ruby><ruby>空気<rt>くうき</rt></ruby>が<ruby>入り<rt>はいり</rt></ruby>にくくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "反対に、南から暖かくて湿った空気が流れ込みやすくなります。",
+      "zh": "相反，来自南方的暖湿空气将更容易流入。",
+      "en": "On the other hand, warm, moist air from the south will flow in more easily.",
+      "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>南<rt>みなみ</rt></ruby>から<ruby>暖かく<rt>あたたかく</rt></ruby>て<ruby>湿っ<rt>しめっ</rt></ruby>た<ruby>空気<rt>くうき</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby><ruby>込み<rt>こみ</rt></ruby>やすくなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本海側で降る雪の量は、東日本と西日本で、平年より少なくなる見込みです。",
+      "zh": "日本海一侧的降雪量，预计在东日本和西日本将少于常年。",
+      "en": "The amount of snow falling on the Sea of Japan side is expected to be less than normal in eastern and western Japan.",
+      "ruby": "<ruby>日本海側<rt>にほんかいがわ</rt></ruby>で<ruby>降る<rt>ふる</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は、<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>で、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>少なく<rt>すくなく</rt></ruby>なる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; outlook (〜見込みです = is expected to ~)\"><ruby>見込み<rt>みこみ</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、東日本の太平洋側や西日本などでは、雨や雪の量が平年より多くなりそうです。",
+      "zh": "另一方面，东日本太平洋一侧和西日本等地，雨雪量可能多于常年。",
+      "en": "Meanwhile, on the Pacific side of eastern Japan and in western Japan and other areas, the amount of rain and snow is likely to be more than normal.",
+      "ruby": "<span class=\"vw\" data-ja=\"一方\" data-reading=\"いっぽう\" data-en=\"on the other hand; meanwhile\"><ruby>一方<rt>いっぽう</rt></ruby></span>、<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>太平洋側<rt>たいへいようがわ</rt></ruby>や<ruby>西日本<rt>にしにほん</rt></ruby>などでは、<ruby>雨<rt>あめ</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>より<ruby>多く<rt>おおく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このため、冬の晴れた日は、いつもの年より少なくなるかもしれません。",
+      "zh": "因此，冬季的晴天可能会比往年少。",
+      "en": "Because of this, there may be fewer sunny winter days than in a usual year.",
+      "ruby": "このため、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>晴れ<rt>はれ</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>少なく<rt>すくなく</rt></ruby>なるかもしれません。",
+      "tts": "このため、冬の晴れた日は、いつものとしより少なくなるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "ただ、この冬は、気温が大きく変わる可能性があります。",
+      "zh": "不过，今年冬天气温可能会有较大变化。",
+      "en": "However, temperatures may change a lot this winter.",
+      "ruby": "ただ、この<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>気温<rt>きおん</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>があります。"
+    },
+    {
+      "speaker": "news",
+      "text": "一時的に強い寒気が入ると、ふだん雪の少ない太平洋側でも、大雪になるおそれがあります。",
+      "zh": "如果暂时有强冷空气进入，平时少雪的太平洋一侧也可能下大雪。",
+      "en": "If strong cold air comes in for a while, even the Pacific side, which usually gets little snow, could see heavy snow.",
+      "tts": "一時的に強いかんきが入ると、ふだん雪の少ない太平洋側でも、おおゆきになるおそれがあります。",
+      "ruby": "<span class=\"vw\" data-ja=\"一時的\" data-reading=\"いちじてき\" data-en=\"temporary; for a short time\"><ruby>一時的<rt>いちじてき</rt></ruby></span>に<ruby>強い<rt>つよい</rt></ruby><ruby>寒気<rt>かんき</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>と、ふだん<ruby>雪<rt>ゆき</rt></ruby>の<ruby>少ない<rt>すくない</rt></ruby><ruby>太平洋側<rt>たいへいようがわ</rt></ruby>でも、<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、来週は、東北から沖縄までの広い範囲で、気温が平年よりかなり高くなるかもしれません。",
+      "zh": "此外，下周从东北到冲绳的大范围地区，气温可能会明显高于常年。",
+      "en": "Also, next week, temperatures may be much higher than normal across a wide area from Tohoku to Okinawa.",
+      "ruby": "また、<ruby>来週<rt>らいしゅう</rt></ruby>は、<ruby>東北<rt>とうほく</rt></ruby>から<ruby>沖縄<rt>おきなわ</rt></ruby>までの<ruby>広い<rt>ひろい</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>で、<ruby>気温<rt>きおん</rt></ruby>が<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>よりかなり<ruby>高く<rt>たかく</rt></ruby>なるかもしれません。"
+    },
+    {
+      "speaker": "news",
+      "text": "暖かい冬になりそうでも、急な寒さや大雪には注意が必要です。",
+      "zh": "即使可能是暖冬，也需要注意突然的寒冷和大雪。",
+      "en": "Even if it looks like a warm winter, people need to watch out for sudden cold and heavy snow.",
+      "tts": "暖かい冬になりそうでも、急な寒さやおおゆきには注意が必要です。",
+      "ruby": "<ruby>暖かい<rt>あたたかい</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>になりそうでも、<ruby>急な<rt>きゅうな</rt></ruby><ruby>寒さ<rt>さむさ</rt></ruby>や<ruby>大雪<rt>おおゆき</rt></ruby>には<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "気象庁が発表したのは、何月から何月までの予報ですか。",
+      "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>したのは、<ruby>何月<rt>なんがつ</rt></ruby>から<ruby>何月<rt>なんがつ</rt></ruby>までの<ruby>予報<rt>よほう</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From December to February."
+    },
+    {
+      "speaker": "slow",
+      "text": "この冬の気温は、平年と比べてどうなりそうですか。",
+      "ruby": "この<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>は、<span class=\"vw\" data-ja=\"平年\" data-reading=\"へいねん\" data-en=\"normal year; the average year (平年より = than normal)\"><ruby>平年<rt>へいねん</rt></ruby></span>と<ruby>比べ<rt>くらべ</rt></ruby>てどうなりそうですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Higher than normal. A warm winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "この冬が暖かくなりそうな理由は、何ですか。",
+      "ruby": "この<ruby>冬<rt>ふゆ</rt></ruby>が<ruby>暖かく<rt>あたたかく</rt></ruby>なりそうな<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>何で<rt>なんで</rt></ruby>すか。"
+    },
+    {
+      "speaker": "host",
+      "text": "El Nino is expected to continue into the first half of winter."
+    },
+    {
+      "speaker": "slow",
+      "text": "東日本と西日本の日本海側では、雪の量はどうなる見込みですか。",
+      "ruby": "<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>日本海側<rt>にほんかいがわ</rt></ruby>では、<ruby>雪<rt>ゆき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>はどうなる<span class=\"vw\" data-ja=\"見込み\" data-reading=\"みこみ\" data-en=\"expectation; outlook (〜見込みです = is expected to ~)\"><ruby>見込み<rt>みこみ</rt></ruby></span>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Less than normal."
+    },
+    {
+      "speaker": "slow",
+      "text": "強い寒気が入ると、ふだん雪の少ないどこで、大雪になるおそれがありますか。",
+      "tts": "強いかんきが入ると、ふだん雪の少ないどこで、おおゆきになるおそれがありますか。",
+      "ruby": "<ruby>強い<rt>つよい</rt></ruby><ruby>寒気<rt>かんき</rt></ruby>が<ruby>入る<rt>はいる</rt></ruby>と、ふだん<ruby>雪<rt>ゆき</rt></ruby>の<ruby>少ない<rt>すくない</rt></ruby>どこで、<ruby>大雪<rt>おおゆき</rt></ruby>になるおそれがありますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The Pacific side."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
