@@ -1,0 +1,527 @@
+{
+  "episode": 19,
+  "title": "探査機「みお」、8年かけて水星に到着　旅は約100億キロ",
+  "titleZh": "探测器Mio历时8年抵达水星，旅程约100亿公里",
+  "titleEn": "Japan's Mio probe reaches Mercury after an 8-year, 10-billion-km trip",
+  "date": "2026-11-24",
+  "source": "時事通信 / Forbes JAPAN / CNET Japan / NHK（欧州宇宙機関・JAXA発表）",
+  "level": "N3-N2",
+  "contentVersion": "2026112401",
+  "grammar": [
+    {
+      "pattern": "〜ため",
+      "meaning": "because of ~; due to ~",
+      "meaningZh": "因为……，由于……",
+      "formation": "Plain form / Noun + の + ため",
+      "example": "水星は太陽に近いため、探査機はどんどん速くなってしまいます。",
+      "translation": "Because Mercury is close to the Sun, a probe keeps speeding up.",
+      "note": "A formal way to give a reason, common in news.",
+      "noteZh": "较正式的表示原因的说法，新闻中常用。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜とされている",
+      "meaning": "it is considered / said that ~",
+      "meaningZh": "被认为……，据说……",
+      "formation": "Plain form + とされている",
+      "example": "水星を回る軌道に入るのは、とても難しいとされています。",
+      "translation": "Getting into orbit around Mercury is considered very difficult.",
+      "note": "States a generally accepted view without naming who holds it.",
+      "noteZh": "陈述一般公认的看法，不点明是谁的观点。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜以来",
+      "meaning": "since ~; the first time since ~",
+      "meaningZh": "自……以来",
+      "formation": "Noun / Verb て-form + 以来",
+      "example": "2011年のアメリカの探査機以来、2回目です。",
+      "translation": "It is the second time, after an American probe in 2011.",
+      "note": "Marks the last time something similar happened.",
+      "noteZh": "表示上一次发生类似事情的时间。",
+      "level": "N2"
+    },
+    {
+      "pattern": "〜てしまう",
+      "meaning": "to end up ~ (unwanted result)",
+      "meaningZh": "（不希望地）……了",
+      "formation": "Verb て-form + しまう",
+      "example": "速すぎると、水星のそばを通り過ぎてしまいます。",
+      "translation": "If it's too fast, it ends up flying past Mercury.",
+      "note": "Shows a result the speaker sees as unwanted or uncontrollable.",
+      "noteZh": "表示说话人认为不希望或无法控制的结果。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜わけだ",
+      "meaning": "so that means ~; that's why ~",
+      "meaningZh": "也就是说……，难怪……",
+      "formation": "Plain form + わけだ",
+      "example": "それでも旅を続けて、ついに水星にたどり着いたわけです。",
+      "translation": "Even so, it kept going and finally made it to Mercury.",
+      "note": "Draws a conclusion from what was just said.",
+      "noteZh": "根据前面所说的内容得出结论。",
+      "level": "N2"
+    }
+  ],
+  "practiceZh": [
+    "日本とヨーロッパが一緒に進めている水星の探査で、2機の探査機が、水星を回る軌道に入りました。\n在日本和欧洲共同推进的水星探测中，2个探测器进入了环绕水星的轨道。\n探査機：探测器　軌道：轨道",
+    "途中で、地球や金星、水星の近くを合わせて9回通り、少しずつスピードを落としてきました。\n途中它们共9次从地球、金星和水星附近飞过，一点点降低了速度。\n金星：金星　〜てきた：（一直）……过来",
+    "水星は太陽に近いため、探査機は太陽の強い重力に引っ張られて、どんどん速くなってしまいます。\n由于水星离太阳很近，探测器会被太阳强大的引力拉扯，速度越来越快。\nため：因为　重力：引力",
+    "そのため、水星を回る軌道に入るのは、とても難しいとされています。\n因此，进入环绕水星的轨道被认为非常困难。\nとされている：被认为",
+    "到着は、途中でエンジンにトラブルが起きたため、予定より1年ほど遅れました。\n由于途中发动机出了故障，到达时间比原计划晚了约1年。\n予定より遅れる：比计划晚",
+    "そして、来年の4月ごろから、本格的な観測を始める予定です。\n并计划从明年4月前后开始正式观测。\n本格的：正式的　観測：观测"
+  ],
+  "characters": {
+    "guide": {
+      "voice": "Charon",
+      "role": "日本語の案内役",
+      "lang": "ja",
+      "rate": "+0%"
+    },
+    "news": {
+      "voice": "Leda",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "+0%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "探査機",
+      "reading": "たんさき",
+      "en": "space probe",
+      "zh": "探测器"
+    },
+    {
+      "ja": "軌道",
+      "reading": "きどう",
+      "en": "orbit",
+      "zh": "轨道"
+    },
+    {
+      "ja": "打ち上げる",
+      "reading": "うちあげる",
+      "en": "to launch",
+      "zh": "发射"
+    },
+    {
+      "ja": "重力",
+      "reading": "じゅうりょく",
+      "en": "gravity",
+      "zh": "引力，重力"
+    },
+    {
+      "ja": "噴射",
+      "reading": "ふんしゃ",
+      "en": "firing (of an engine), jet",
+      "zh": "喷射"
+    },
+    {
+      "ja": "切り離す",
+      "reading": "きりはなす",
+      "en": "to separate, to detach",
+      "zh": "分离，断开"
+    },
+    {
+      "ja": "本格的",
+      "reading": "ほんかくてき",
+      "en": "full-scale, in earnest",
+      "zh": "正式的，真正的"
+    },
+    {
+      "ja": "たどり着く",
+      "reading": "たどりつく",
+      "en": "to finally reach",
+      "zh": "好不容易到达"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "「みお」は、水星の何を調べますか。",
+      "a": "水星の磁場や、薄い大気などを調べます。"
+    },
+    {
+      "q": "水星を回る軌道に入るのが難しいのは、なぜですか。",
+      "a": "探査機が太陽の強い重力に引っ張られて、どんどん速くなってしまうからです。"
+    },
+    {
+      "q": "到着が予定より遅れたのは、なぜですか。",
+      "a": "途中でエンジンにトラブルが起きたからです。"
+    }
+  ],
+  "segments": [
+    {
+      "speaker": "guide",
+      "text": "こんにちは。日本語で聞くニュースです。今日は11月24日、火曜日です。",
+      "zh": "大家好，这里是「日本語で聞くニュース」。今天是11月24日，星期二。",
+      "en": "Hello, this is Nihongo de Kiku News. Today is Tuesday, November 24th.",
+      "tts": "こんにちは。日本語で聞くニュースです。きょうは、じゅういちがつにじゅうよっか、火曜日です。",
+      "ruby": "こんにちは。<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>聞く<rt>きく</rt></ruby>ニュースです。<ruby>今日<rt>きょう</rt></ruby>は11<ruby>月<rt>がつ</rt></ruby><ruby>24日<rt>よっか</rt></ruby>、<ruby>火曜日<rt>かようび</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "8年かけて、およそ100億キロ。日本の探査機が、ついに水星にたどり着きました。",
+      "zh": "历时8年，约100亿公里。日本的探测器终于抵达了水星。",
+      "en": "Eight years and about 10 billion kilometers. A Japanese probe has finally reached Mercury.",
+      "tts": "はちねんかけて、およそ、ひゃくおくキロ。日本の探査機が、ついに水星にたどり着きました。",
+      "ruby": "8<ruby>年<rt>ねん</rt></ruby>かけて、およそ100<ruby>億<rt>おく</rt></ruby>キロ。<ruby>日本<rt>にほん</rt></ruby>の<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が、ついに<ruby>水星<rt>すいせい</rt></ruby>にたどり<ruby>着き<rt>つき</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本とヨーロッパが一緒に進めている水星の探査で、2機の探査機が、水星を回る軌道に入りました。",
+      "zh": "在日本和欧洲共同推进的水星探测中，2个探测器进入了环绕水星的轨道。",
+      "en": "In a Mercury mission run jointly by Japan and Europe, two probes have entered orbit around Mercury.",
+      "tts": "日本とヨーロッパが一緒に進めている水星の探査で、にきの探査機が、水星を回る軌道に入りました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>とヨーロッパが<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>進め<rt>すすめ</rt></ruby>ている<ruby>水星<rt>すいせい</rt></ruby>の<ruby>探査<rt>たんさ</rt></ruby>で、2<ruby>機<rt>き</rt></ruby>の<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が、<ruby>水星<rt>すいせい</rt></ruby>を<ruby>回る<rt>まわる</rt></ruby><span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ヨーロッパ宇宙機関が、22日に発表しました。",
+      "zh": "欧洲航天局于22日宣布了这一消息。",
+      "en": "The European Space Agency announced it on the 22nd.",
+      "tts": "ヨーロッパうちゅうきかんが、にじゅうににちに発表しました。",
+      "ruby": "ヨーロッパ<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>が、22<ruby>日<rt>にち</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1機は、JAXAの探査機「みお」で、水星の磁場や、薄い大気などを調べます。",
+      "zh": "其中1个是JAXA的探测器「Mio」，将调查水星的磁场和稀薄的大气等。",
+      "en": "One is JAXA's probe Mio, which will study Mercury's magnetic field, its thin atmosphere and more.",
+      "tts": "いっきは、ジャクサの探査機、みおで、水星の磁場や、薄い大気などを調べます。",
+      "ruby": "1<ruby>機<rt>き</rt></ruby>は、JAXAの<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「みお」で、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>磁場<rt>じば</rt></ruby>や、<ruby>薄い<rt>うすい</rt></ruby><ruby>大気<rt>たいき</rt></ruby>などを<ruby>調べ<rt>しらべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "もう1機は、ヨーロッパの探査機「MPO」で、水星の表面を調べます。",
+      "zh": "另1个是欧洲的探测器「MPO」，将调查水星的表面。",
+      "en": "The other is Europe's probe MPO, which will study Mercury's surface.",
+      "tts": "もういっきは、ヨーロッパの探査機、エムピーオーで、水星の表面を調べます。",
+      "ruby": "もう1<ruby>機<rt>き</rt></ruby>は、ヨーロッパの<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「MPO」で、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>表面<rt>ひょうめん</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "2機は、つながった状態で、2018年10月に打ち上げられました。",
+      "zh": "2个探测器以连接在一起的状态，于2018年10月发射升空。",
+      "en": "The two were launched together, joined as one, in October 2018.",
+      "tts": "にきは、つながった状態で、にせんじゅうはちねん、じゅうがつに打ち上げられました。",
+      "ruby": "2<ruby>機<rt>き</rt></ruby>は、つながった<ruby>状態<rt>じょうたい</rt></ruby>で、2018<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>に<ruby>打ち上げ<rt>うちあげ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それから8年かけて、およそ100億キロの長い旅をしてきました。",
+      "zh": "此后历时8年，完成了约100亿公里的漫长旅程。",
+      "en": "Since then they have traveled for eight years, a long journey of about 10 billion kilometers.",
+      "tts": "それから、はちねんかけて、およそ、ひゃくおくキロの長い旅をしてきました。",
+      "ruby": "それから8<ruby>年<rt>ねん</rt></ruby>かけて、およそ100<ruby>億<rt>おく</rt></ruby>キロの<ruby>長い<rt>ながい</rt></ruby><ruby>旅<rt>たび</rt></ruby>をしてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "途中で、地球や金星、水星の近くを合わせて9回通り、少しずつスピードを落としてきました。",
+      "zh": "途中它们共9次从地球、金星和水星附近飞过，一点点降低了速度。",
+      "en": "Along the way they flew past Earth, Venus and Mercury nine times in total, slowing down little by little.",
+      "tts": "途中で、地球や金星、水星の近くを合わせて、きゅうかい通り、少しずつスピードを落としてきました。",
+      "ruby": "<ruby>途中<rt>とちゅう</rt></ruby>で、<ruby>地球<rt>ちきゅう</rt></ruby>や<ruby>金星<rt>きんせい</rt></ruby>、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて9<ruby>回<rt>かい</rt></ruby><ruby>通り<rt>とおり</rt></ruby>、<ruby>少し<rt>すこし</rt></ruby>ずつスピードを<ruby>落と<rt>おと</rt></ruby>してきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、日本時間の22日午前3時24分から、およそ37分間エンジンを噴射して、水星の軌道に入りました。",
+      "zh": "然后从日本时间22日凌晨3点24分开始，发动机喷射约37分钟，进入了水星轨道。",
+      "en": "Then, from 3:24 a.m. Japan time on the 22nd, they fired their engines for about 37 minutes and entered Mercury's orbit.",
+      "tts": "そして、日本時間の、にじゅうににち、ごぜんさんじにじゅうよんぷんから、およそ、さんじゅうななふんかん、エンジンをふんしゃして、水星の軌道に入りました。",
+      "ruby": "そして、<ruby>日本時間<rt>にほんじかん</rt></ruby>の22<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>3<ruby>時<rt>じ</rt></ruby>24<ruby>分<rt>ふん</rt></ruby>から、およそ37<ruby>分間<rt>ふんかん</rt></ruby>エンジンを<span class=\"vw\" data-ja=\"噴射\" data-reading=\"ふんしゃ\" data-en=\"firing (of an engine), jet\"><ruby>噴射<rt>ふんしゃ</rt></ruby></span>して、<ruby>水星<rt>すいせい</rt></ruby>の<span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水星は太陽に近いため、探査機は太陽の強い重力に引っ張られて、どんどん速くなってしまいます。",
+      "zh": "由于水星离太阳很近，探测器会被太阳强大的引力拉扯，速度越来越快。",
+      "en": "Because Mercury is close to the Sun, a probe is pulled by the Sun's strong gravity and keeps speeding up.",
+      "ruby": "<ruby>水星<rt>すいせい</rt></ruby>は<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>ため、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>は<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"重力\" data-reading=\"じゅうりょく\" data-en=\"gravity\"><ruby>重力<rt>じゅうりょく</rt></ruby></span>に<ruby>引っ張ら<rt>ひっぱら</rt></ruby>れて、どんどん<ruby>速く<rt>はやく</rt></ruby>なってしまいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、水星を回る軌道に入るのは、とても難しいとされています。",
+      "zh": "因此，进入环绕水星的轨道被认为非常困难。",
+      "en": "That is why getting into orbit around Mercury is considered very difficult.",
+      "ruby": "そのため、<ruby>水星<rt>すいせい</rt></ruby>を<ruby>回る<rt>まわる</rt></ruby><span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>のは、とても<ruby>難しい<rt>むずかしい</rt></ruby>とされています。"
+    },
+    {
+      "speaker": "news",
+      "text": "探査機が水星を回る軌道に入ったのは、2011年のアメリカの探査機以来、2回目です。",
+      "zh": "探测器进入环绕水星的轨道，这是继2011年美国探测器之后的第2次。",
+      "en": "It is the second time a probe has entered orbit around Mercury, after an American probe in 2011.",
+      "tts": "探査機が水星を回る軌道に入ったのは、にせんじゅういちねんの、アメリカの探査機以来、にかいめです。",
+      "ruby": "<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が<ruby>水星<rt>すいせい</rt></ruby>を<ruby>回る<rt>まわる</rt></ruby><span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入っ<rt>はいっ</rt></ruby>たのは、2011<ruby>年<rt>ねん</rt></ruby>のアメリカの<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span><ruby>以来<rt>いらい</rt></ruby>、2<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "到着は、途中でエンジンにトラブルが起きたため、予定より1年ほど遅れました。",
+      "zh": "由于途中发动机出了故障，到达时间比原计划晚了约1年。",
+      "en": "The arrival came about a year later than planned, because of engine trouble along the way.",
+      "tts": "到着は、途中でエンジンにトラブルが起きたため、予定より、いちねんほど遅れました。",
+      "ruby": "<ruby>到着<rt>とうちゃく</rt></ruby>は、<ruby>途中<rt>とちゅう</rt></ruby>でエンジンにトラブルが<ruby>起き<rt>おき</rt></ruby>たため、<ruby>予定<rt>よてい</rt></ruby>より1<ruby>年<rt>ねん</rt></ruby>ほど<ruby>遅れ<rt>おくれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2機は、12月10日ごろに切り離される予定です。",
+      "zh": "2个探测器预计将于12月10日前后分离。",
+      "en": "The two probes are scheduled to separate around December 10th.",
+      "tts": "にきは、じゅうにがつとおかごろに、切り離される予定です。",
+      "ruby": "2<ruby>機<rt>き</rt></ruby>は、12<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>ごろに<ruby>切り離さ<rt>きりはなさ</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、来年の4月ごろから、本格的な観測を始める予定です。",
+      "zh": "并计划从明年4月前后开始正式观测。",
+      "en": "Then they plan to begin full-scale observations around April next year.",
+      "tts": "そして、来年の、しがつごろから、本格的な観測を始める予定です。",
+      "ruby": "そして、<ruby>来年<rt>らいねん</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>ごろから、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale, in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>観測<rt>かんそく</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "水星は、太陽に一番近い惑星です。",
+      "zh": "水星是离太阳最近的行星。",
+      "en": "Mercury is the planet closest to the Sun.",
+      "ruby": "<ruby>水星<rt>すいせい</rt></ruby>は、<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>一番近い<rt>いちばんちかい</rt></ruby><ruby>惑星<rt>わくせい</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "地球から見ると、それほど遠くないように思えますが、行くのはとても大変です。",
+      "zh": "从地球来看似乎并不算远，但要去那里非常困难。",
+      "en": "From Earth it might not seem that far, but getting there is very hard.",
+      "ruby": "<ruby>地球<rt>ちきゅう</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>と、それほど<ruby>遠く<rt>とおく</rt></ruby>ないように<ruby>思え<rt>おもえ</rt></ruby>ますが、<ruby>行く<rt>いく</rt></ruby>のはとても<ruby>大変<rt>たいへん</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "太陽に向かって進むと、坂道を下るように、スピードがどんどん上がってしまうからです。",
+      "zh": "因为朝太阳前进时，就像下坡一样，速度会越来越快。",
+      "en": "That's because heading toward the Sun, a probe keeps speeding up, like rolling down a hill.",
+      "ruby": "<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>って<ruby>進む<rt>すすむ</rt></ruby>と、<ruby>坂道<rt>さかみち</rt></ruby>を<ruby>下る<rt>くだる</rt></ruby>ように、スピードがどんどん<ruby>上が<rt>あが</rt></ruby>ってしまうからです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "速すぎると、水星のそばを通り過ぎてしまいます。",
+      "zh": "速度太快的话，就会从水星旁边飞过去。",
+      "en": "If it's going too fast, it just flies past Mercury.",
+      "ruby": "<ruby>速<rt>はや</rt></ruby>すぎると、<ruby>水星<rt>すいせい</rt></ruby>のそばを<ruby>通り<rt>とおり</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>てしまいます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "だから「みお」は、8年もかけて、ほかの星の近くを何度も通り、少しずつブレーキをかけてきたんです。",
+      "zh": "所以「Mio」花了整整8年，多次从其他星球附近飞过，一点点地刹车减速。",
+      "en": "So Mio spent eight whole years flying past other planets again and again, braking little by little.",
+      "tts": "だから、みおは、はちねんもかけて、ほかの星の近くを何度も通り、少しずつブレーキをかけてきたんです。",
+      "ruby": "だから「みお」は、8<ruby>年<rt>ねん</rt></ruby>もかけて、ほかの<ruby>星<rt>ほし</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>を<ruby>何度<rt>なんど</rt></ruby>も<ruby>通り<rt>とおり</rt></ruby>、<ruby>少し<rt>すこし</rt></ruby>ずつブレーキをかけてきたんです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "途中ではエンジンのトラブルもあって、到着は1年ほど遅れました。",
+      "zh": "途中还遇到了发动机故障，到达晚了大约1年。",
+      "en": "There was engine trouble along the way too, and the arrival was about a year late.",
+      "tts": "途中ではエンジンのトラブルもあって、到着は、いちねんほど遅れました。",
+      "ruby": "<ruby>途中<rt>とちゅう</rt></ruby>ではエンジンのトラブルもあって、<ruby>到着<rt>とうちゃく</rt></ruby>は1<ruby>年<rt>ねん</rt></ruby>ほど<ruby>遅れ<rt>おくれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "guide",
+      "text": "もともとは、去年の12月に着く予定でした。電気で動くエンジンが、予定どおりの力を出せなくなったんです。",
+      "zh": "原本计划去年12月到达。但靠电力驱动的发动机无法发挥预定的推力了。",
+      "en": "It was originally supposed to arrive last December. Its electric engine could no longer run at its planned power.",
+      "tts": "もともとは、去年のじゅうにがつに着く予定でした。電気で動くエンジンが、予定どおりの力を出せなくなったんです。",
+      "ruby": "もともとは、<ruby>去年<rt>きょねん</rt></ruby>の12<ruby>月<rt>がつ</rt></ruby>に<ruby>着く<rt>つく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>でした。<ruby>電気<rt>でんき</rt></ruby>で<ruby>動く<rt>うごく</rt></ruby>エンジンが、<ruby>予定<rt>よてい</rt></ruby>どおりの<ruby>力<rt>ちから</rt></ruby>を<ruby>出せ<rt>だせ</rt></ruby>なくなったんです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでも旅を続けて、ついに水星にたどり着いたわけです。",
+      "zh": "即便如此它还是继续旅程，终于抵达了水星。",
+      "en": "Even so, it kept going and finally made it to Mercury.",
+      "ruby": "それでも<ruby>旅<rt>たび</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>て、ついに<ruby>水星<rt>すいせい</rt></ruby>にたどり<ruby>着い<rt>つい</rt></ruby>たわけです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "2018年に打ち上げられたとき、小学1年生だった子どもは、今はもう中学2年生ですね。",
+      "zh": "2018年发射时还是小学一年级的孩子，现在已经是初中二年级了。",
+      "en": "A child who was in first grade when it launched in 2018 is already in the second year of junior high now.",
+      "tts": "にせんじゅうはちねんに打ち上げられたとき、小学いちねんせいだった子どもは、今はもう、中学にねんせいですね。",
+      "ruby": "2018<ruby>年<rt>ねん</rt></ruby>に<ruby>打ち上げ<rt>うちあげ</rt></ruby>られたとき、<ruby>小学<rt>しょうがく</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>だった<ruby>子ども<rt>こども</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>はもう<ruby>中学<rt>ちゅうがく</rt></ruby>2<ruby>年生<rt>ねんせい</rt></ruby>ですね。"
+    },
+    {
+      "speaker": "guide",
+      "text": "水星は、太陽系の中でも、まだあまり調べられていない星です。",
+      "zh": "水星是太阳系中至今还很少被研究的星球。",
+      "en": "Mercury is one of the least explored places in the solar system.",
+      "ruby": "<ruby>水星<rt>すいせい</rt></ruby>は、<ruby>太陽系<rt>たいようけい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも、まだあまり<ruby>調べ<rt>しらべ</rt></ruby>られていない<ruby>星<rt>ほし</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "人間が水星に探査機を送るのは、今回で3回目です。",
+      "zh": "人类向水星发送探测器，这次是第3次。",
+      "en": "This is only the third time humans have sent a probe to Mercury.",
+      "tts": "人間が水星に探査機を送るのは、今回で、さんかいめです。",
+      "ruby": "<ruby>人間<rt>にんげん</rt></ruby>が<ruby>水星<rt>すいせい</rt></ruby>に<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>を<ruby>送る<rt>おくる</rt></ruby>のは、<ruby>今回<rt>こんかい</rt></ruby>で3<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "しかも今回は、2機が同時に水星を回りながら観測します。これは初めての試みです。",
+      "zh": "而且这次是2个探测器同时环绕水星进行观测，这是首次尝试。",
+      "en": "And this time, two probes will orbit Mercury and observe it at the same time. That has never been tried before.",
+      "tts": "しかも今回は、にきが同時に水星を回りながら観測します。これは初めての試みです。",
+      "ruby": "しかも<ruby>今回<rt>こんかい</rt></ruby>は、2<ruby>機<rt>き</rt></ruby>が<ruby>同時に<rt>どうじに</rt></ruby><ruby>水星<rt>すいせい</rt></ruby>を<ruby>回り<rt>まわり</rt></ruby>ながら<ruby>観測<rt>かんそく</rt></ruby>します。これは<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>試み<rt>こころみ</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "「みお」は、水星のまわりの磁場や、太陽から吹いてくる粒子の流れを調べます。",
+      "zh": "「Mio」将调查水星周围的磁场，以及从太阳吹来的粒子流。",
+      "en": "Mio will study the magnetic field around Mercury and the stream of particles blowing from the Sun.",
+      "tts": "みおは、水星のまわりの磁場や、太陽から吹いてくる粒子の流れを調べます。",
+      "ruby": "「みお」は、<ruby>水星<rt>すいせい</rt></ruby>のまわりの<ruby>磁場<rt>じば</rt></ruby>や、<ruby>太陽<rt>たいよう</rt></ruby>から<ruby>吹い<rt>ふい</rt></ruby>てくる<ruby>粒子<rt>りゅうし</rt></ruby>の<ruby>流れ<rt>ながれ</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "guide",
+      "text": "2機が別々の場所で同時に磁場を測ると、水星そのものの磁場と、太陽から吹いてくる風の影響を、分けて考えやすくなるそうです。",
+      "zh": "据说2个探测器在不同位置同时测量磁场，就更容易区分水星自身的磁场和太阳吹来的风的影响。",
+      "en": "Measuring the magnetic field from two places at once reportedly makes it easier to tell Mercury's own field apart from the effects of the wind blowing from the Sun.",
+      "tts": "にきが別々の場所で同時に磁場を測ると、水星そのものの磁場と、太陽から吹いてくる風の影響を、分けて考えやすくなるそうです。",
+      "ruby": "2<ruby>機<rt>き</rt></ruby>が<ruby>別々<rt>べつべつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>同時に<rt>どうじに</rt></ruby><ruby>磁場<rt>じば</rt></ruby>を<ruby>測る<rt>はかる</rt></ruby>と、<ruby>水星<rt>すいせい</rt></ruby>そのものの<ruby>磁場<rt>じば</rt></ruby>と、<ruby>太陽<rt>たいよう</rt></ruby>から<ruby>吹い<rt>ふい</rt></ruby>てくる<ruby>風<rt>かぜ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を、<ruby>分け<rt>わけ</rt></ruby>て<ruby>考え<rt>かんがえ</rt></ruby>やすくなるそうです。"
+    },
+    {
+      "speaker": "guide",
+      "text": "そうすれば、水星の中がどうなっているのかも、もっと詳しく分かるかもしれません。",
+      "zh": "这样一来，或许也能更详细地了解水星内部的情况。",
+      "en": "That could also tell us much more about what Mercury is like inside.",
+      "ruby": "そうすれば、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>がどうなっているのかも、もっと<ruby>詳しく<rt>くわしく</rt></ruby><ruby>分か<rt>わか</rt></ruby>るかもしれません。"
+    },
+    {
+      "speaker": "guide",
+      "text": "本格的な観測が始まるのは、来年の春です。",
+      "zh": "正式观测将于明年春天开始。",
+      "en": "Full-scale observations begin next spring.",
+      "ruby": "<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale, in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>観測<rt>かんそく</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>るのは、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "それでは、もう一度、ニュースを聞いてみましょう。今度は、さっきより分かるはずです。",
+      "zh": "那么，我们再听一遍新闻吧。这次应该比刚才更容易听懂。",
+      "en": "Now let's listen to the news once more. This time it should be easier to follow.",
+      "break": true,
+      "ruby": "それでは、もう<ruby>一度<rt>いちど</rt></ruby>、ニュースを<ruby>聞い<rt>きい</rt></ruby>てみましょう。<ruby>今度<rt>こんど</rt></ruby>は、さっきより<ruby>分か<rt>わか</rt></ruby>るはずです。"
+    },
+    {
+      "speaker": "news",
+      "text": "日本とヨーロッパが一緒に進めている水星の探査で、2機の探査機が、水星を回る軌道に入りました。",
+      "zh": "在日本和欧洲共同推进的水星探测中，2个探测器进入了环绕水星的轨道。",
+      "en": "In a Mercury mission run jointly by Japan and Europe, two probes have entered orbit around Mercury.",
+      "tts": "日本とヨーロッパが一緒に進めている水星の探査で、にきの探査機が、水星を回る軌道に入りました。",
+      "ruby": "<ruby>日本<rt>にほん</rt></ruby>とヨーロッパが<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>進め<rt>すすめ</rt></ruby>ている<ruby>水星<rt>すいせい</rt></ruby>の<ruby>探査<rt>たんさ</rt></ruby>で、2<ruby>機<rt>き</rt></ruby>の<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が、<ruby>水星<rt>すいせい</rt></ruby>を<ruby>回る<rt>まわる</rt></ruby><span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ヨーロッパ宇宙機関が、22日に発表しました。",
+      "zh": "欧洲航天局于22日宣布了这一消息。",
+      "en": "The European Space Agency announced it on the 22nd.",
+      "tts": "ヨーロッパうちゅうきかんが、にじゅうににちに発表しました。",
+      "ruby": "ヨーロッパ<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>が、22<ruby>日<rt>にち</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "1機は、JAXAの探査機「みお」で、水星の磁場や、薄い大気などを調べます。",
+      "zh": "其中1个是JAXA的探测器「Mio」，将调查水星的磁场和稀薄的大气等。",
+      "en": "One is JAXA's probe Mio, which will study Mercury's magnetic field, its thin atmosphere and more.",
+      "tts": "いっきは、ジャクサの探査機、みおで、水星の磁場や、薄い大気などを調べます。",
+      "ruby": "1<ruby>機<rt>き</rt></ruby>は、JAXAの<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「みお」で、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>磁場<rt>じば</rt></ruby>や、<ruby>薄い<rt>うすい</rt></ruby><ruby>大気<rt>たいき</rt></ruby>などを<ruby>調べ<rt>しらべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "もう1機は、ヨーロッパの探査機「MPO」で、水星の表面を調べます。",
+      "zh": "另1个是欧洲的探测器「MPO」，将调查水星的表面。",
+      "en": "The other is Europe's probe MPO, which will study Mercury's surface.",
+      "tts": "もういっきは、ヨーロッパの探査機、エムピーオーで、水星の表面を調べます。",
+      "ruby": "もう1<ruby>機<rt>き</rt></ruby>は、ヨーロッパの<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>「MPO」で、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>表面<rt>ひょうめん</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "2機は、つながった状態で、2018年10月に打ち上げられました。",
+      "zh": "2个探测器以连接在一起的状态，于2018年10月发射升空。",
+      "en": "The two were launched together, joined as one, in October 2018.",
+      "tts": "にきは、つながった状態で、にせんじゅうはちねん、じゅうがつに打ち上げられました。",
+      "ruby": "2<ruby>機<rt>き</rt></ruby>は、つながった<ruby>状態<rt>じょうたい</rt></ruby>で、2018<ruby>年<rt>ねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>に<ruby>打ち上げ<rt>うちあげ</rt></ruby>られました。"
+    },
+    {
+      "speaker": "news",
+      "text": "それから8年かけて、およそ100億キロの長い旅をしてきました。",
+      "zh": "此后历时8年，完成了约100亿公里的漫长旅程。",
+      "en": "Since then they have traveled for eight years, a long journey of about 10 billion kilometers.",
+      "tts": "それから、はちねんかけて、およそ、ひゃくおくキロの長い旅をしてきました。",
+      "ruby": "それから8<ruby>年<rt>ねん</rt></ruby>かけて、およそ100<ruby>億<rt>おく</rt></ruby>キロの<ruby>長い<rt>ながい</rt></ruby><ruby>旅<rt>たび</rt></ruby>をしてきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "途中で、地球や金星、水星の近くを合わせて9回通り、少しずつスピードを落としてきました。",
+      "zh": "途中它们共9次从地球、金星和水星附近飞过，一点点降低了速度。",
+      "en": "Along the way they flew past Earth, Venus and Mercury nine times in total, slowing down little by little.",
+      "tts": "途中で、地球や金星、水星の近くを合わせて、きゅうかい通り、少しずつスピードを落としてきました。",
+      "ruby": "<ruby>途中<rt>とちゅう</rt></ruby>で、<ruby>地球<rt>ちきゅう</rt></ruby>や<ruby>金星<rt>きんせい</rt></ruby>、<ruby>水星<rt>すいせい</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて9<ruby>回<rt>かい</rt></ruby><ruby>通り<rt>とおり</rt></ruby>、<ruby>少し<rt>すこし</rt></ruby>ずつスピードを<ruby>落と<rt>おと</rt></ruby>してきました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、日本時間の22日午前3時24分から、およそ37分間エンジンを噴射して、水星の軌道に入りました。",
+      "zh": "然后从日本时间22日凌晨3点24分开始，发动机喷射约37分钟，进入了水星轨道。",
+      "en": "Then, from 3:24 a.m. Japan time on the 22nd, they fired their engines for about 37 minutes and entered Mercury's orbit.",
+      "tts": "そして、日本時間の、にじゅうににち、ごぜんさんじにじゅうよんぷんから、およそ、さんじゅうななふんかん、エンジンをふんしゃして、水星の軌道に入りました。",
+      "ruby": "そして、<ruby>日本時間<rt>にほんじかん</rt></ruby>の22<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>3<ruby>時<rt>じ</rt></ruby>24<ruby>分<rt>ふん</rt></ruby>から、およそ37<ruby>分間<rt>ふんかん</rt></ruby>エンジンを<span class=\"vw\" data-ja=\"噴射\" data-reading=\"ふんしゃ\" data-en=\"firing (of an engine), jet\"><ruby>噴射<rt>ふんしゃ</rt></ruby></span>して、<ruby>水星<rt>すいせい</rt></ruby>の<span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入り<rt>はいり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "水星は太陽に近いため、探査機は太陽の強い重力に引っ張られて、どんどん速くなってしまいます。",
+      "zh": "由于水星离太阳很近，探测器会被太阳强大的引力拉扯，速度越来越快。",
+      "en": "Because Mercury is close to the Sun, a probe is pulled by the Sun's strong gravity and keeps speeding up.",
+      "ruby": "<ruby>水星<rt>すいせい</rt></ruby>は<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>ため、<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>は<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>強い<rt>つよい</rt></ruby><span class=\"vw\" data-ja=\"重力\" data-reading=\"じゅうりょく\" data-en=\"gravity\"><ruby>重力<rt>じゅうりょく</rt></ruby></span>に<ruby>引っ張ら<rt>ひっぱら</rt></ruby>れて、どんどん<ruby>速く<rt>はやく</rt></ruby>なってしまいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、水星を回る軌道に入るのは、とても難しいとされています。",
+      "zh": "因此，进入环绕水星的轨道被认为非常困难。",
+      "en": "That is why getting into orbit around Mercury is considered very difficult.",
+      "ruby": "そのため、<ruby>水星<rt>すいせい</rt></ruby>を<ruby>回る<rt>まわる</rt></ruby><span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入る<rt>はいる</rt></ruby>のは、とても<ruby>難しい<rt>むずかしい</rt></ruby>とされています。"
+    },
+    {
+      "speaker": "news",
+      "text": "探査機が水星を回る軌道に入ったのは、2011年のアメリカの探査機以来、2回目です。",
+      "zh": "探测器进入环绕水星的轨道，这是继2011年美国探测器之后的第2次。",
+      "en": "It is the second time a probe has entered orbit around Mercury, after an American probe in 2011.",
+      "tts": "探査機が水星を回る軌道に入ったのは、にせんじゅういちねんの、アメリカの探査機以来、にかいめです。",
+      "ruby": "<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span>が<ruby>水星<rt>すいせい</rt></ruby>を<ruby>回る<rt>まわる</rt></ruby><span class=\"vw\" data-ja=\"軌道\" data-reading=\"きどう\" data-en=\"orbit\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入っ<rt>はいっ</rt></ruby>たのは、2011<ruby>年<rt>ねん</rt></ruby>のアメリカの<span class=\"vw\" data-ja=\"探査機\" data-reading=\"たんさき\" data-en=\"space probe\"><ruby>探査機<rt>たんさき</rt></ruby></span><ruby>以来<rt>いらい</rt></ruby>、2<ruby>回目<rt>かいめ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "到着は、途中でエンジンにトラブルが起きたため、予定より1年ほど遅れました。",
+      "zh": "由于途中发动机出了故障，到达时间比原计划晚了约1年。",
+      "en": "The arrival came about a year later than planned, because of engine trouble along the way.",
+      "tts": "到着は、途中でエンジンにトラブルが起きたため、予定より、いちねんほど遅れました。",
+      "ruby": "<ruby>到着<rt>とうちゃく</rt></ruby>は、<ruby>途中<rt>とちゅう</rt></ruby>でエンジンにトラブルが<ruby>起き<rt>おき</rt></ruby>たため、<ruby>予定<rt>よてい</rt></ruby>より1<ruby>年<rt>ねん</rt></ruby>ほど<ruby>遅れ<rt>おくれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "2機は、12月10日ごろに切り離される予定です。",
+      "zh": "2个探测器预计将于12月10日前后分离。",
+      "en": "The two probes are scheduled to separate around December 10th.",
+      "tts": "にきは、じゅうにがつとおかごろに、切り離される予定です。",
+      "ruby": "2<ruby>機<rt>き</rt></ruby>は、12<ruby>月<rt>がつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>ごろに<ruby>切り離さ<rt>きりはなさ</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、来年の4月ごろから、本格的な観測を始める予定です。",
+      "zh": "并计划从明年4月前后开始正式观测。",
+      "en": "Then they plan to begin full-scale observations around April next year.",
+      "tts": "そして、来年の、しがつごろから、本格的な観測を始める予定です。",
+      "ruby": "そして、<ruby>来年<rt>らいねん</rt></ruby>の4<ruby>月<rt>がつ</rt></ruby>ごろから、<span class=\"vw\" data-ja=\"本格的\" data-reading=\"ほんかくてき\" data-en=\"full-scale, in earnest\"><ruby>本格的<rt>ほんかくてき</rt></ruby></span>な<ruby>観測<rt>かんそく</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "guide",
+      "text": "皆さんは、8年かけて何かをやりとげたことがありますか。8年後の自分は、何をしていると思いますか。今日も聞いてくださって、ありがとうございました。また明日。",
+      "zh": "你有没有花8年时间完成过什么事？你觉得8年后的自己会在做什么？感谢今天的收听，明天见。",
+      "en": "Have you ever spent eight years seeing something through? What do you think you'll be doing eight years from now? Thanks for listening today. See you tomorrow.",
+      "tts": "皆さんは、はちねんかけて何かをやりとげたことがありますか。はちねんごの自分は、何をしていると思いますか。きょうも聞いてくださって、ありがとうございました。また明日。",
+      "ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>は、8<ruby>年<rt>ねん</rt></ruby>かけて<ruby>何か<rt>なにか</rt></ruby>をやりとげたことがありますか。8<ruby>年後<rt>ねんご</rt></ruby>の<ruby>自分<rt>じぶん</rt></ruby>は、<ruby>何を<rt>なにを</rt></ruby>していると<ruby>思い<rt>おもい</rt></ruby>ますか。<ruby>今日<rt>きょう</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てくださって、ありがとうございました。また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
