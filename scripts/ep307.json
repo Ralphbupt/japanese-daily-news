@@ -1,0 +1,518 @@
+{
+  "episode": 307,
+  "title": "ケチャップが来年値上げ、カゴメは409の商品",
+  "titleZh": "可果美等明年上调番茄酱价格",
+  "titleEn": "Kagome and Kikkoman will raise ketchup prices next year",
+  "date": "2026-11-26",
+  "source": "NHK、共同通信、時事通信",
+  "level": "N5-N4",
+  "contentVersion": "2026112601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "値段",
+      "reading": "ねだん",
+      "en": "price",
+      "zh": "价格"
+    },
+    {
+      "ja": "発表",
+      "reading": "はっぴょう",
+      "en": "announcement; to announce (発表する)",
+      "zh": "发表；宣布"
+    },
+    {
+      "ja": "届ける",
+      "reading": "とどける",
+      "en": "to deliver; to send to",
+      "zh": "送到；递送"
+    },
+    {
+      "ja": "値上げ",
+      "reading": "ねあげ",
+      "en": "price increase; to raise prices (値上げする)",
+      "zh": "涨价"
+    },
+    {
+      "ja": "材料",
+      "reading": "ざいりょう",
+      "en": "ingredients; materials",
+      "zh": "原料；材料"
+    },
+    {
+      "ja": "入れ物",
+      "reading": "いれもの",
+      "en": "container",
+      "zh": "容器"
+    },
+    {
+      "ja": "運ぶ",
+      "reading": "はこぶ",
+      "en": "to carry; to transport",
+      "zh": "搬运；运输"
+    },
+    {
+      "ja": "努力",
+      "reading": "どりょく",
+      "en": "effort",
+      "zh": "努力"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜と発表しました",
+      "meaning": "announced that ~",
+      "meaningZh": "宣布……",
+      "formation": "Plain form + と発表しました",
+      "example": "トマトケチャップなどの値段を上げると発表しました。",
+      "translation": "It announced that it will raise the prices of tomato ketchup and other products.",
+      "note": "と marks what was announced or said; very common in news.",
+      "noteZh": "と表示宣布或说话的内容，新闻中非常常见。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜から",
+      "meaning": "from ~ (a starting point)",
+      "meaningZh": "从……（起点）",
+      "formation": "Noun (time / place) + から",
+      "example": "来年3月1日から上げます。",
+      "translation": "They will raise them from March 1 next year.",
+      "note": "Shows when or where something starts.",
+      "noteZh": "表示事情开始的时间或地点。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜だけでは",
+      "meaning": "with only ~ (it is not enough)",
+      "meaningZh": "仅靠……（不够）",
+      "formation": "Noun + だけでは + negative / 難しい",
+      "example": "会社の努力だけでは、もう難しいです。",
+      "translation": "The company's efforts alone are no longer enough.",
+      "note": "だけ means only; だけでは says that alone is not enough.",
+      "noteZh": "だけ表示“只”，だけでは表示仅此是不够的。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜そうです",
+      "meaning": "looks likely to ~",
+      "meaningZh": "看样子会……；似乎要……",
+      "formation": "Verb ます-stem + そうです (なります → なりそうです)",
+      "example": "5%から15%ぐらい高くなりそうです。",
+      "translation": "It looks likely to go up by about 5% to 15%.",
+      "note": "Gives a guess about what will probably happen.",
+      "noteZh": "表示对将来可能发生的事情的推测。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "食品の会社「カゴメ」は、トマトケチャップなどの値段を上げると発表しました。\n食品公司可果美宣布，将上调番茄酱等商品的价格。\n値段 = price\n発表 = announcement; to announce (発表する)",
+    "値段が上がるのは、来年2月1日に店などに届ける商品からです。\n涨价从明年2月1日起送到商店等处的商品开始。\n届ける = to deliver; to send to",
+    "値上げするのは、家で使う商品と、レストランなどで使う商品、合わせて409の商品です。\n涨价的是家庭用商品和餐厅等使用的商品，一共409种。\n値上げ = price increase; to raise prices (値上げする)",
+    "その中には、500グラムのトマトケチャップも入っています。\n其中也包括500克装的番茄酱。",
+    "家で使う食べ物は、最大で13.1%値段が上がります。\n家庭用食品的价格最多上涨13.1%。",
+    "家で飲むジュースなどの飲み物は、最大で14.6%上がります。\n家庭用果汁等饮料最多上涨14.6%。",
+    "会社は、野菜などの材料や、入れ物、運ぶお金が高くなっていると説明しています。\n公司解释说，蔬菜等原料、包装容器以及运输费用都在上涨。\n材料 = ingredients; materials\n入れ物 = container\n運ぶ = to carry; to transport",
+    "そして、会社の努力だけでは、もう難しいと話しています。\n公司还表示，仅靠企业自身的努力已经很难应对。\n努力 = effort",
+    "「キッコーマン食品」も、「デルモンテ」のケチャップなど58の商品の値段を、来年3月1日から上げます。\n龟甲万食品也将从明年3月1日起，上调“德尔蒙”番茄酱等58种商品的价格。",
+    "店で売る値段は、5%から15%ぐらい高くなりそうです。\n店里的售价预计将上涨约5%到15%。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-sixth: ketchup and other everyday foods in Japan will cost more next year. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "食品の会社「カゴメ」は、トマトケチャップなどの値段を上げると発表しました。",
+      "zh": "食品公司可果美宣布，将上调番茄酱等商品的价格。",
+      "en": "The food company Kagome announced that it will raise the prices of tomato ketchup and other products.",
+      "ruby": "<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>「カゴメ」は、トマトケチャップなどの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>ると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (発表する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が上がるのは、来年2月1日に店などに届ける商品からです。",
+      "zh": "涨价从明年2月1日起送到商店等处的商品开始。",
+      "en": "The higher prices start with products delivered to stores and other buyers from February 1 next year.",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>るのは、<ruby>来年<rt>らいねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>などに<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to send to\"><ruby>届け<rt>とどけ</rt></ruby>る</span><ruby>商品<rt>しょうひん</rt></ruby>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げするのは、家で使う商品と、レストランなどで使う商品、合わせて409の商品です。",
+      "zh": "涨价的是家庭用商品和餐厅等使用的商品，一共409种。",
+      "en": "The price increase covers 409 products in total, both for use at home and for use at restaurants and other businesses.",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; to raise prices (値上げする)\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>するのは、<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>と、レストランなどで<ruby>使う<rt>つかう</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>、<ruby>合わ<rt>あわ</rt></ruby>せて409の<ruby>商品<rt>しょうひん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "その中には、500グラムのトマトケチャップも入っています。",
+      "zh": "其中也包括500克装的番茄酱。",
+      "en": "They include its 500-gram tomato ketchup.",
+      "ruby": "その<ruby>中に<rt>なかに</rt></ruby>は、500グラムのトマトケチャップも<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "家で使う食べ物は、最大で13.1%値段が上がります。",
+      "zh": "家庭用食品的价格最多上涨13.1%。",
+      "en": "Food for home use will go up in price by up to 13.1%.",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>食べ物<rt>たべもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で13.1%<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "家で飲むジュースなどの飲み物は、最大で14.6%上がります。",
+      "zh": "家庭用果汁等饮料最多上涨14.6%。",
+      "en": "Drinks for home, such as juice, will go up by up to 14.6%.",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>飲む<rt>のむ</rt></ruby>ジュースなどの<ruby>飲み物<rt>のみもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で14.6%<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、野菜などの材料や、入れ物、運ぶお金が高くなっていると説明しています。",
+      "zh": "公司解释说，蔬菜等原料、包装容器以及运输费用都在上涨。",
+      "en": "The company explains that ingredients such as vegetables, containers, and the cost of transporting goods have become more expensive.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>野菜<rt>やさい</rt></ruby>などの<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"ingredients; materials\"><ruby>材料<rt>ざいりょう</rt></ruby></span>や、<span class=\"vw\" data-ja=\"入れ物\" data-reading=\"いれもの\" data-en=\"container\"><ruby>入れ物<rt>いれもの</rt></ruby></span>、<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry; to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっていると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、会社の努力だけでは、もう難しいと話しています。",
+      "zh": "公司还表示，仅靠企业自身的努力已经很难应对。",
+      "en": "It also says that its own efforts alone are no longer enough.",
+      "ruby": "そして、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"努力\" data-reading=\"どりょく\" data-en=\"effort\"><ruby>努力<rt>どりょく</rt></ruby></span>だけでは、もう<ruby>難しい<rt>むずかしい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "「キッコーマン食品」も、「デルモンテ」のケチャップなど58の商品の値段を、来年3月1日から上げます。",
+      "zh": "龟甲万食品也将从明年3月1日起，上调“德尔蒙”番茄酱等58种商品的价格。",
+      "en": "Kikkoman Foods will also raise the prices of 58 products, including Del Monte ketchup, from March 1 next year.",
+      "ruby": "「キッコーマン<ruby>食品<rt>しょくひん</rt></ruby>」も、「デルモンテ」のケチャップなど58の<ruby>商品<rt>しょうひん</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>上げ<rt>あげ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "店で売る値段は、5%から15%ぐらい高くなりそうです。",
+      "zh": "店里的售价预计将上涨约5%到15%。",
+      "en": "Store prices are likely to go up by about 5% to 15%.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>で<ruby>売る<rt>うる</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、5%から15%ぐらい<ruby>高く<rt>たかく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "食品の会社「カゴメ」は、トマトケチャップなどの値段を上げると発表しました。",
+      "ruby": "<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>「カゴメ」は、トマトケチャップなどの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>ると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (発表する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The food company Kagome announced it will raise the prices of tomato ketchup and other products."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値段",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means price."
+    },
+    {
+      "speaker": "vocab",
+      "text": "発表",
+      "ruby": "<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (発表する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an announcement. With the verb for do, it means to announce."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段が上がるのは、来年2月1日に店などに届ける商品からです。",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>るのは、<ruby>来年<rt>らいねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>などに<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to send to\"><ruby>届け<rt>とどけ</rt></ruby>る</span><ruby>商品<rt>しょうひん</rt></ruby>からです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The higher prices start with products delivered to stores from February first next year."
+    },
+    {
+      "speaker": "vocab",
+      "text": "届ける",
+      "ruby": "<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to send to\"><ruby>届け<rt>とどけ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to deliver, or to take something to someone."
+    },
+    {
+      "speaker": "slow",
+      "text": "値上げするのは、家で使う商品と、レストランなどで使う商品、合わせて409の商品です。",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; to raise prices (値上げする)\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>するのは、<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>と、レストランなどで<ruby>使う<rt>つかう</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>、<ruby>合わ<rt>あわ</rt></ruby>せて409の<ruby>商品<rt>しょうひん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The increase covers four hundred and nine products, for homes and for restaurants."
+    },
+    {
+      "speaker": "vocab",
+      "text": "値上げ",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; to raise prices (値上げする)\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a price increase. It is made from the words for price and raise."
+    },
+    {
+      "speaker": "slow",
+      "text": "その中には、500グラムのトマトケチャップも入っています。",
+      "ruby": "その<ruby>中に<rt>なかに</rt></ruby>は、500グラムのトマトケチャップも<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "They include the five-hundred-gram bottle of tomato ketchup."
+    },
+    {
+      "speaker": "slow",
+      "text": "家で使う食べ物は、最大で13.1%値段が上がります。",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>食べ物<rt>たべもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で13.1%<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Food for use at home will cost up to thirteen point one percent more."
+    },
+    {
+      "speaker": "slow",
+      "text": "家で飲むジュースなどの飲み物は、最大で14.6%上がります。",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>飲む<rt>のむ</rt></ruby>ジュースなどの<ruby>飲み物<rt>のみもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で14.6%<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Drinks for home, like juice, will go up by up to fourteen point six percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、野菜などの材料や、入れ物、運ぶお金が高くなっていると説明しています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>野菜<rt>やさい</rt></ruby>などの<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"ingredients; materials\"><ruby>材料<rt>ざいりょう</rt></ruby></span>や、<span class=\"vw\" data-ja=\"入れ物\" data-reading=\"いれもの\" data-en=\"container\"><ruby>入れ物<rt>いれもの</rt></ruby></span>、<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry; to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっていると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says ingredients like vegetables, containers, and transport costs have all gone up."
+    },
+    {
+      "speaker": "vocab",
+      "text": "材料",
+      "ruby": "<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"ingredients; materials\"><ruby>材料<rt>ざいりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means ingredients, or materials used to make something."
+    },
+    {
+      "speaker": "vocab",
+      "text": "入れ物",
+      "ruby": "<span class=\"vw\" data-ja=\"入れ物\" data-reading=\"いれもの\" data-en=\"container\"><ruby>入れ物<rt>いれもの</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a container, like a bottle or a box."
+    },
+    {
+      "speaker": "vocab",
+      "text": "運ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry; to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to carry or transport."
+    },
+    {
+      "speaker": "slow",
+      "text": "そして、会社の努力だけでは、もう難しいと話しています。",
+      "ruby": "そして、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"努力\" data-reading=\"どりょく\" data-en=\"effort\"><ruby>努力<rt>どりょく</rt></ruby></span>だけでは、もう<ruby>難しい<rt>むずかしい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also says its own efforts alone are no longer enough."
+    },
+    {
+      "speaker": "vocab",
+      "text": "努力",
+      "ruby": "<span class=\"vw\" data-ja=\"努力\" data-reading=\"どりょく\" data-en=\"effort\"><ruby>努力<rt>どりょく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means effort."
+    },
+    {
+      "speaker": "slow",
+      "text": "「キッコーマン食品」も、「デルモンテ」のケチャップなど58の商品の値段を、来年3月1日から上げます。",
+      "ruby": "「キッコーマン<ruby>食品<rt>しょくひん</rt></ruby>」も、「デルモンテ」のケチャップなど58の<ruby>商品<rt>しょうひん</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>上げ<rt>あげ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kikkoman Foods will also raise prices on fifty-eight products, including Del Monte ketchup, from March first."
+    },
+    {
+      "speaker": "slow",
+      "text": "店で売る値段は、5%から15%ぐらい高くなりそうです。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>で<ruby>売る<rt>うる</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、5%から15%ぐらい<ruby>高く<rt>たかく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Prices in stores will likely go up by about five to fifteen percent."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "食品の会社「カゴメ」は、トマトケチャップなどの値段を上げると発表しました。",
+      "zh": "食品公司可果美宣布，将上调番茄酱等商品的价格。",
+      "en": "The food company Kagome announced that it will raise the prices of tomato ketchup and other products.",
+      "ruby": "<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>「カゴメ」は、トマトケチャップなどの<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>ると<span class=\"vw\" data-ja=\"発表\" data-reading=\"はっぴょう\" data-en=\"announcement; to announce (発表する)\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が上がるのは、来年2月1日に店などに届ける商品からです。",
+      "zh": "涨价从明年2月1日起送到商店等处的商品开始。",
+      "en": "The higher prices start with products delivered to stores and other buyers from February 1 next year.",
+      "ruby": "<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>るのは、<ruby>来年<rt>らいねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>などに<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to send to\"><ruby>届け<rt>とどけ</rt></ruby>る</span><ruby>商品<rt>しょうひん</rt></ruby>からです。"
+    },
+    {
+      "speaker": "news",
+      "text": "値上げするのは、家で使う商品と、レストランなどで使う商品、合わせて409の商品です。",
+      "zh": "涨价的是家庭用商品和餐厅等使用的商品，一共409种。",
+      "en": "The price increase covers 409 products in total, both for use at home and for use at restaurants and other businesses.",
+      "ruby": "<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; to raise prices (値上げする)\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>するのは、<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>と、レストランなどで<ruby>使う<rt>つかう</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>、<ruby>合わ<rt>あわ</rt></ruby>せて409の<ruby>商品<rt>しょうひん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "その中には、500グラムのトマトケチャップも入っています。",
+      "zh": "其中也包括500克装的番茄酱。",
+      "en": "They include its 500-gram tomato ketchup.",
+      "ruby": "その<ruby>中に<rt>なかに</rt></ruby>は、500グラムのトマトケチャップも<ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "家で使う食べ物は、最大で13.1%値段が上がります。",
+      "zh": "家庭用食品的价格最多上涨13.1%。",
+      "en": "Food for home use will go up in price by up to 13.1%.",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>食べ物<rt>たべもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で13.1%<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>が<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "家で飲むジュースなどの飲み物は、最大で14.6%上がります。",
+      "zh": "家庭用果汁等饮料最多上涨14.6%。",
+      "en": "Drinks for home, such as juice, will go up by up to 14.6%.",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>飲む<rt>のむ</rt></ruby>ジュースなどの<ruby>飲み物<rt>のみもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で14.6%<ruby>上が<rt>あが</rt></ruby>ります。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、野菜などの材料や、入れ物、運ぶお金が高くなっていると説明しています。",
+      "zh": "公司解释说，蔬菜等原料、包装容器以及运输费用都在上涨。",
+      "en": "The company explains that ingredients such as vegetables, containers, and the cost of transporting goods have become more expensive.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>野菜<rt>やさい</rt></ruby>などの<span class=\"vw\" data-ja=\"材料\" data-reading=\"ざいりょう\" data-en=\"ingredients; materials\"><ruby>材料<rt>ざいりょう</rt></ruby></span>や、<span class=\"vw\" data-ja=\"入れ物\" data-reading=\"いれもの\" data-en=\"container\"><ruby>入れ物<rt>いれもの</rt></ruby></span>、<span class=\"vw\" data-ja=\"運ぶ\" data-reading=\"はこぶ\" data-en=\"to carry; to transport\"><ruby>運ぶ<rt>はこぶ</rt></ruby></span>お<ruby>金<rt>かね</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>なっていると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "そして、会社の努力だけでは、もう難しいと話しています。",
+      "zh": "公司还表示，仅靠企业自身的努力已经很难应对。",
+      "en": "It also says that its own efforts alone are no longer enough.",
+      "ruby": "そして、<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"vw\" data-ja=\"努力\" data-reading=\"どりょく\" data-en=\"effort\"><ruby>努力<rt>どりょく</rt></ruby></span>だけでは、もう<ruby>難しい<rt>むずかしい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "「キッコーマン食品」も、「デルモンテ」のケチャップなど58の商品の値段を、来年3月1日から上げます。",
+      "zh": "龟甲万食品也将从明年3月1日起，上调“德尔蒙”番茄酱等58种商品的价格。",
+      "en": "Kikkoman Foods will also raise the prices of 58 products, including Del Monte ketchup, from March 1 next year.",
+      "ruby": "「キッコーマン<ruby>食品<rt>しょくひん</rt></ruby>」も、「デルモンテ」のケチャップなど58の<ruby>商品<rt>しょうひん</rt></ruby>の<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>から<ruby>上げ<rt>あげ</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "店で売る値段は、5%から15%ぐらい高くなりそうです。",
+      "zh": "店里的售价预计将上涨约5%到15%。",
+      "en": "Store prices are likely to go up by about 5% to 15%.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>で<ruby>売る<rt>うる</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、5%から15%ぐらい<ruby>高く<rt>たかく</rt></ruby>なりそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "カゴメは、いつ届ける商品から値段を上げますか。",
+      "ruby": "カゴメは、いつ<span class=\"vw\" data-ja=\"届ける\" data-reading=\"とどける\" data-en=\"to deliver; to send to\"><ruby>届け<rt>とどけ</rt></ruby>る</span><ruby>商品<rt>しょうひん</rt></ruby>から<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From products delivered on February first next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "カゴメが値上げするのは、いくつの商品ですか。",
+      "ruby": "カゴメが<span class=\"vw\" data-ja=\"値上げ\" data-reading=\"ねあげ\" data-en=\"price increase; to raise prices (値上げする)\"><ruby>値上げ<rt>ねあげ</rt></ruby></span>するのは、いくつの<ruby>商品<rt>しょうひん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four hundred and nine products."
+    },
+    {
+      "speaker": "slow",
+      "text": "家で使う食べ物は、最大で何%上がりますか。",
+      "ruby": "<ruby>家<rt>いえ</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>食べ物<rt>たべもの</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>で<ruby>何<rt>なん</rt></ruby>%<ruby>上が<rt>あが</rt></ruby>りますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Up to thirteen point one percent."
+    },
+    {
+      "speaker": "slow",
+      "text": "キッコーマン食品は、いつから値段を上げますか。",
+      "ruby": "キッコーマン<ruby>食品<rt>しょくひん</rt></ruby>は、いつから<span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>を<ruby>上げ<rt>あげ</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From March first next year."
+    },
+    {
+      "speaker": "slow",
+      "text": "店で売る値段は、どのぐらい高くなりそうですか。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>で<ruby>売る<rt>うる</rt></ruby><span class=\"vw\" data-ja=\"値段\" data-reading=\"ねだん\" data-en=\"price\"><ruby>値段<rt>ねだん</rt></ruby></span>は、どのぐらい<ruby>高く<rt>たかく</rt></ruby>なりそうですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About five to fifteen percent."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
