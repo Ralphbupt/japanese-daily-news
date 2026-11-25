@@ -1,0 +1,628 @@
+{
+  "episode": 306,
+  "title": "JR芸備線の一部、国が初の「バス転換」案",
+  "titleZh": "JR艺备线部分区间，政府首次提出改为巴士",
+  "titleEn": "Japan proposes buses for part of the JR Geibi Line, a first",
+  "date": "2026-11-25",
+  "source": "RCC中国放送、広島テレビ、KSB瀬戸内海放送、時事通信",
+  "level": "N4-N3",
+  "contentVersion": "2026112501",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "結ぶ",
+      "reading": "むすぶ",
+      "en": "to connect; to link",
+      "zh": "连接"
+    },
+    {
+      "ja": "区間",
+      "reading": "くかん",
+      "en": "section (of a line or road)",
+      "zh": "区间"
+    },
+    {
+      "ja": "適当",
+      "reading": "てきとう",
+      "en": "suitable; appropriate",
+      "zh": "适当；合适"
+    },
+    {
+      "ja": "平均",
+      "reading": "へいきん",
+      "en": "average",
+      "zh": "平均"
+    },
+    {
+      "ja": "話し合い",
+      "reading": "はなしあい",
+      "en": "discussion; talks",
+      "zh": "商谈；协商"
+    },
+    {
+      "ja": "足りない",
+      "reading": "たりない",
+      "en": "not enough; to be short of",
+      "zh": "不够；不足"
+    },
+    {
+      "ja": "災害",
+      "reading": "さいがい",
+      "en": "disaster",
+      "zh": "灾害"
+    },
+    {
+      "ja": "本数",
+      "reading": "ほんすう",
+      "en": "number of runs (trains, buses)",
+      "zh": "班次数"
+    },
+    {
+      "ja": "方針",
+      "reading": "ほうしん",
+      "en": "policy; plan of action",
+      "zh": "方针"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜について",
+      "meaning": "about ~; regarding ~",
+      "meaningZh": "关于……",
+      "formation": "Noun + について",
+      "example": "JR芸備線について、国は新しい案を示しました。",
+      "translation": "The government presented a new plan regarding the JR Geibi Line.",
+      "note": "Introduces the topic being discussed; very common at the start of news.",
+      "noteZh": "引出所谈论的话题，新闻开头很常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜という案",
+      "meaning": "a plan that says ~",
+      "meaningZh": "……的方案",
+      "formation": "Plain form + という + Noun",
+      "example": "バスに変えるのが適当だという案です。",
+      "translation": "It is a plan saying that changing to buses is appropriate.",
+      "note": "という links a content clause to a noun such as 案, 声 or 話.",
+      "noteZh": "という把内容从句和“案、声、話”等名词连接起来。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜場合",
+      "meaning": "in the case of ~; if ~",
+      "meaningZh": "……的情况下；如果……",
+      "formation": "Plain form / Noun + の + 場合",
+      "example": "バスに変わる場合、約19億円を出します。",
+      "translation": "If it changes to buses, they will give about 1.9 billion yen.",
+      "note": "A more formal way to say 'if', common in news and rules.",
+      "noteZh": "比较正式的“如果”，常用于新闻和规定。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want (someone) to ~",
+      "meaningZh": "希望（别人）……",
+      "formation": "Verb て-form + ほしい",
+      "example": "鉄道を残してほしいという声もあります。",
+      "translation": "Some people want the railway to be kept.",
+      "note": "Expresses a wish for someone else to do something.",
+      "noteZh": "表示希望别人做某事。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜のではないか",
+      "meaning": "isn't it that ~?; I'm afraid that ~",
+      "meaningZh": "会不会……；恐怕……",
+      "formation": "Plain form + のではないか",
+      "example": "あとで本数が減るのではないか。",
+      "translation": "Won't the number of runs be cut later?",
+      "note": "Shows worry or a guess, often with 心配する or 思う.",
+      "noteZh": "表示担心或推测，常和“心配する”“思う”一起用。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "広島県と岡山県を結ぶJR芸備線について、国は24日、新しい案を示しました。\n关于连接广岛县和冈山县的JR艺备线，日本政府24日提出了一项新方案。\n結ぶ = to connect; to link",
+    "一部の区間を、鉄道からバスに変えるのが適当だという案です。\n方案认为，部分区间由铁路改为巴士比较合适。\n区間 = section (of a line or road)\n適当 = suitable; appropriate",
+    "対象は、岡山県新見市から広島県庄原市までの68.5キロの区間です。\n对象是从冈山县新见市到广岛县庄原市的68.5公里区间。",
+    "この区間は山の中を走っていて、乗る人がとても少なくなっています。\n这一区间在山里行驶，乘客已经变得非常少。",
+    "1日の乗客は、平均で62人だけです。\n每天的乘客平均只有62人。\n平均 = average",
+    "この話し合いは、JR西日本が国に求めて、2024年に始まりました。\n这场协商是JR西日本向政府提出要求后，于2024年开始的。\n話し合い = discussion; talks",
+    "国が入ったこの話し合いで、バスに変える案が出たのは、全国で初めてです。\n在有政府参与的这类协商中，提出改为巴士的方案，在全国还是第一次。",
+    "国の計算では、バスにすると、1年にかかるお金が、鉄道より5億3000万円ぐらい少なくなります。\n根据政府的估算，改成巴士的话，每年的费用比铁路少大约5亿3000万日元。",
+    "また、線路や設備を直す人が足りなくなっていることも、理由に挙げました。\n此外，政府还把修理铁轨和设备的人手越来越不足也列为理由。\n足りない = not enough; to be short of",
+    "大雨などの災害のときも、バスのほうが早く動けると説明しています。\n政府还说明，在暴雨等灾害发生时，巴士也能更快地恢复运行。\n災害 = disaster",
+    "JR西日本は、バスに変わる場合、地元の市に、合わせて約19億円を出す考えを示しました。\nJR西日本表示，如果改为巴士，将向当地的市共提供约19亿日元。",
+    "一方、地元の人の中には、鉄道を残してほしいという声もあります。\n另一方面，当地也有人希望保留铁路。",
+    "「バスになったら、あとで本数が減るのではないか」と心配する人もいます。\n也有人担心：“改成巴士以后，班次会不会慢慢减少？”\n本数 = number of runs (trains, buses)",
+    "最終的な方針は、来年3月までに決まる予定です。\n最终方针预计在明年3月之前决定。\n方針 = policy; plan of action"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-fifth: the government has proposed replacing part of a quiet rural train line in western Japan with buses. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "広島県と岡山県を結ぶJR芸備線について、国は24日、新しい案を示しました。",
+      "zh": "关于连接广岛县和冈山县的JR艺备线，日本政府24日提出了一项新方案。",
+      "en": "On the 24th, the national government presented a new plan for the JR Geibi Line, which links Hiroshima and Okayama prefectures.",
+      "tts": "広島県と岡山県を結ぶJRげいびせんについて、国は24日、新しい案を示しました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby>と<ruby>岡山県<rt>おかやまけん</rt></ruby>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect; to link\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span>JR<ruby>芸備線<rt>げいびせん</rt></ruby>について、<ruby>国<rt>くに</rt></ruby>は<ruby>24日<rt>にじゅうよっか</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一部の区間を、鉄道からバスに変えるのが適当だという案です。",
+      "zh": "方案认为，部分区间由铁路改为巴士比较合适。",
+      "en": "The plan says it would be appropriate to change part of the line from rail to buses.",
+      "ruby": "<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>を、<ruby>鉄道<rt>てつどう</rt></ruby>からバスに<ruby>変え<rt>かえ</rt></ruby>るのが<span class=\"vw\" data-ja=\"適当\" data-reading=\"てきとう\" data-en=\"suitable; appropriate\"><ruby>適当<rt>てきとう</rt></ruby></span>だという<ruby>案<rt>あん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "対象は、岡山県新見市から広島県庄原市までの68.5キロの区間です。",
+      "zh": "对象是从冈山县新见市到广岛县庄原市的68.5公里区间。",
+      "en": "It covers a 68.5-kilometer section from Niimi in Okayama Prefecture to Shobara in Hiroshima Prefecture.",
+      "tts": "対象は、岡山県にいみしから広島県しょうばらしまでの68.5キロの区間です。",
+      "ruby": "<ruby>対象<rt>たいしょう</rt></ruby>は、<ruby>岡山県<rt>おかやまけん</rt></ruby><ruby>新見<rt>にいみ</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>庄原市<rt>しょうばらし</rt></ruby>までの68.5キロの<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この区間は山の中を走っていて、乗る人がとても少なくなっています。",
+      "zh": "这一区间在山里行驶，乘客已经变得非常少。",
+      "en": "This section runs through the mountains, and very few people ride it now.",
+      "ruby": "この<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>は<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>ていて、<ruby>乗る<rt>のる</rt></ruby><ruby>人<rt>ひと</rt></ruby>がとても<ruby>少なく<rt>すくなく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "1日の乗客は、平均で62人だけです。",
+      "zh": "每天的乘客平均只有62人。",
+      "en": "On average, it carries only 62 passengers a day.",
+      "ruby": "<ruby>1日<rt>いちにち</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>で62<ruby>人<rt>にん</rt></ruby>だけです。"
+    },
+    {
+      "speaker": "news",
+      "text": "この話し合いは、JR西日本が国に求めて、2024年に始まりました。",
+      "zh": "这场协商是JR西日本向政府提出要求后，于2024年开始的。",
+      "en": "These talks began in 2024 after JR West asked the government for them.",
+      "ruby": "この<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>は、JR<ruby>西日本<rt>にしにほん</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>求め<rt>もとめ</rt></ruby>て、2024<ruby>年<rt>ねん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国が入ったこの話し合いで、バスに変える案が出たのは、全国で初めてです。",
+      "zh": "在有政府参与的这类协商中，提出改为巴士的方案，在全国还是第一次。",
+      "en": "It is the first time in Japan that a plan to switch to buses has come out of talks like these that include the government.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>たこの<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>で、バスに<ruby>変え<rt>かえ</rt></ruby>る<ruby>案<rt>あん</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>のは、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "国の計算では、バスにすると、1年にかかるお金が、鉄道より5億3000万円ぐらい少なくなります。",
+      "zh": "根据政府的估算，改成巴士的话，每年的费用比铁路少大约5亿3000万日元。",
+      "en": "By the government's calculation, switching to buses would cost about 530 million yen less a year than the railway.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>では、バスにすると、1<ruby>年<rt>ねん</rt></ruby>にかかるお<ruby>金<rt>かね</rt></ruby>が、<ruby>鉄道<rt>てつどう</rt></ruby>より5<ruby>億<rt>おく</rt></ruby>3000<ruby>万円<rt>まんえん</rt></ruby>ぐらい<ruby>少なく<rt>すくなく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、線路や設備を直す人が足りなくなっていることも、理由に挙げました。",
+      "zh": "此外，政府还把修理铁轨和设备的人手越来越不足也列为理由。",
+      "en": "It also gave as a reason that there are no longer enough people to repair the tracks and equipment.",
+      "ruby": "また、<ruby>線路<rt>せんろ</rt></ruby>や<ruby>設備<rt>せつび</rt></ruby>を<ruby>直す<rt>なおす</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなっていることも、<ruby>理由<rt>りゆう</rt></ruby>に<ruby>挙げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大雨などの災害のときも、バスのほうが早く動けると説明しています。",
+      "zh": "政府还说明，在暴雨等灾害发生时，巴士也能更快地恢复运行。",
+      "en": "It also explains that in disasters such as heavy rain, buses can get moving again sooner.",
+      "ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>などの<span class=\"vw\" data-ja=\"災害\" data-reading=\"さいがい\" data-en=\"disaster\"><ruby>災害<rt>さいがい</rt></ruby></span>のときも、バスのほうが<ruby>早く<rt>はやく</rt></ruby><ruby>動け<rt>うごけ</rt></ruby>ると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR西日本は、バスに変わる場合、地元の市に、合わせて約19億円を出す考えを示しました。",
+      "zh": "JR西日本表示，如果改为巴士，将向当地的市共提供约19亿日元。",
+      "en": "JR West said that if the line switches to buses, it plans to give the local cities about 1.9 billion yen in total.",
+      "ruby": "JR<ruby>西日本<rt>にしにほん</rt></ruby>は、バスに<ruby>変わ<rt>かわ</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>市<rt>し</rt></ruby>に、<ruby>合わ<rt>あわ</rt></ruby>せて<ruby>約<rt>やく</rt></ruby>19<ruby>億円<rt>おくえん</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、地元の人の中には、鉄道を残してほしいという声もあります。",
+      "zh": "另一方面，当地也有人希望保留铁路。",
+      "en": "Meanwhile, some local people want the railway to stay.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>鉄道<rt>てつどう</rt></ruby>を<ruby>残し<rt>のこし</rt></ruby>てほしいという<ruby>声<rt>こえ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「バスになったら、あとで本数が減るのではないか」と心配する人もいます。",
+      "zh": "也有人担心：“改成巴士以后，班次会不会慢慢减少？”",
+      "en": "Some also worry, \"If it becomes a bus, won't the number of runs be cut later?\"",
+      "ruby": "「バスになったら、あとで<span class=\"vw\" data-ja=\"本数\" data-reading=\"ほんすう\" data-en=\"number of runs (trains, buses)\"><ruby>本数<rt>ほんすう</rt></ruby></span>が<ruby>減る<rt>へる</rt></ruby>のではないか」と<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終的な方針は、来年3月までに決まる予定です。",
+      "zh": "最终方针预计在明年3月之前决定。",
+      "en": "The final policy is scheduled to be decided by next March.",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; plan of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>までに<ruby>決ま<rt>きま</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "広島県と岡山県を結ぶJR芸備線について、国は24日、新しい案を示しました。",
+      "tts": "広島県と岡山県を結ぶJRげいびせんについて、国は24日、新しい案を示しました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby>と<ruby>岡山県<rt>おかやまけん</rt></ruby>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect; to link\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span>JR<ruby>芸備線<rt>げいびせん</rt></ruby>について、<ruby>国<rt>くに</rt></ruby>は<ruby>24日<rt>にじゅうよっか</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The government made a new plan for a train line between Hiroshima and Okayama."
+    },
+    {
+      "speaker": "vocab",
+      "text": "結ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect; to link\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to connect or link two places."
+    },
+    {
+      "speaker": "slow",
+      "text": "一部の区間を、鉄道からバスに変えるのが適当だという案です。",
+      "ruby": "<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>を、<ruby>鉄道<rt>てつどう</rt></ruby>からバスに<ruby>変え<rt>かえ</rt></ruby>るのが<span class=\"vw\" data-ja=\"適当\" data-reading=\"てきとう\" data-en=\"suitable; appropriate\"><ruby>適当<rt>てきとう</rt></ruby></span>だという<ruby>案<rt>あん</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The plan says changing part of the line from trains to buses is the right choice."
+    },
+    {
+      "speaker": "vocab",
+      "text": "区間",
+      "ruby": "<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a section of a train line or road."
+    },
+    {
+      "speaker": "vocab",
+      "text": "適当",
+      "ruby": "<span class=\"vw\" data-ja=\"適当\" data-reading=\"てきとう\" data-en=\"suitable; appropriate\"><ruby>適当<rt>てきとう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "Here it means suitable or appropriate."
+    },
+    {
+      "speaker": "slow",
+      "text": "対象は、岡山県新見市から広島県庄原市までの68.5キロの区間です。",
+      "tts": "対象は、岡山県にいみしから広島県しょうばらしまでの68.5キロの区間です。",
+      "ruby": "<ruby>対象<rt>たいしょう</rt></ruby>は、<ruby>岡山県<rt>おかやまけん</rt></ruby><ruby>新見<rt>にいみ</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>庄原市<rt>しょうばらし</rt></ruby>までの68.5キロの<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It covers sixty-eight and a half kilometers between two small cities."
+    },
+    {
+      "speaker": "slow",
+      "text": "この区間は山の中を走っていて、乗る人がとても少なくなっています。",
+      "ruby": "この<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>は<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>ていて、<ruby>乗る<rt>のる</rt></ruby><ruby>人<rt>ひと</rt></ruby>がとても<ruby>少なく<rt>すくなく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "host",
+      "text": "This part runs through the mountains, and very few people ride it."
+    },
+    {
+      "speaker": "slow",
+      "text": "1日の乗客は、平均で62人だけです。",
+      "ruby": "<ruby>1日<rt>いちにち</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>で62<ruby>人<rt>にん</rt></ruby>だけです。"
+    },
+    {
+      "speaker": "host",
+      "text": "On average, only sixty-two people ride it a day."
+    },
+    {
+      "speaker": "vocab",
+      "text": "平均",
+      "ruby": "<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means average."
+    },
+    {
+      "speaker": "slow",
+      "text": "この話し合いは、JR西日本が国に求めて、2024年に始まりました。",
+      "ruby": "この<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>は、JR<ruby>西日本<rt>にしにほん</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>求め<rt>もとめ</rt></ruby>て、2024<ruby>年<rt>ねん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "These talks started in twenty twenty-four, after the rail company asked the government."
+    },
+    {
+      "speaker": "vocab",
+      "text": "話し合い",
+      "ruby": "<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a discussion or talks."
+    },
+    {
+      "speaker": "slow",
+      "text": "国が入ったこの話し合いで、バスに変える案が出たのは、全国で初めてです。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>たこの<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>で、バスに<ruby>変え<rt>かえ</rt></ruby>る<ruby>案<rt>あん</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>のは、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It's the first time talks like this, with the government involved, have proposed buses."
+    },
+    {
+      "speaker": "slow",
+      "text": "国の計算では、バスにすると、1年にかかるお金が、鉄道より5億3000万円ぐらい少なくなります。",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>では、バスにすると、1<ruby>年<rt>ねん</rt></ruby>にかかるお<ruby>金<rt>かね</rt></ruby>が、<ruby>鉄道<rt>てつどう</rt></ruby>より5<ruby>億<rt>おく</rt></ruby>3000<ruby>万円<rt>まんえん</rt></ruby>ぐらい<ruby>少なく<rt>すくなく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Buses would cost about five hundred thirty million yen less each year."
+    },
+    {
+      "speaker": "slow",
+      "text": "また、線路や設備を直す人が足りなくなっていることも、理由に挙げました。",
+      "ruby": "また、<ruby>線路<rt>せんろ</rt></ruby>や<ruby>設備<rt>せつび</rt></ruby>を<ruby>直す<rt>なおす</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなっていることも、<ruby>理由<rt>りゆう</rt></ruby>に<ruby>挙げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Another reason: there aren't enough workers to repair the tracks."
+    },
+    {
+      "speaker": "vocab",
+      "text": "足りない",
+      "ruby": "<span class=\"vw\" data-ja=\"足りない\" data-reading=\"たりない\" data-en=\"not enough; to be short of\"><ruby>足り<rt>たり</rt></ruby>ない</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means not enough."
+    },
+    {
+      "speaker": "slow",
+      "text": "大雨などの災害のときも、バスのほうが早く動けると説明しています。",
+      "ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>などの<span class=\"vw\" data-ja=\"災害\" data-reading=\"さいがい\" data-en=\"disaster\"><ruby>災害<rt>さいがい</rt></ruby></span>のときも、バスのほうが<ruby>早く<rt>はやく</rt></ruby><ruby>動け<rt>うごけ</rt></ruby>ると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "In disasters like heavy rain, buses can start running again faster."
+    },
+    {
+      "speaker": "vocab",
+      "text": "災害",
+      "ruby": "<span class=\"vw\" data-ja=\"災害\" data-reading=\"さいがい\" data-en=\"disaster\"><ruby>災害<rt>さいがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a disaster."
+    },
+    {
+      "speaker": "slow",
+      "text": "JR西日本は、バスに変わる場合、地元の市に、合わせて約19億円を出す考えを示しました。",
+      "ruby": "JR<ruby>西日本<rt>にしにほん</rt></ruby>は、バスに<ruby>変わ<rt>かわ</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>市<rt>し</rt></ruby>に、<ruby>合わ<rt>あわ</rt></ruby>せて<ruby>約<rt>やく</rt></ruby>19<ruby>億円<rt>おくえん</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "If buses replace the trains, the rail company plans to give the local cities about one point nine billion yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "一方、地元の人の中には、鉄道を残してほしいという声もあります。",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>鉄道<rt>てつどう</rt></ruby>を<ruby>残し<rt>のこし</rt></ruby>てほしいという<ruby>声<rt>こえ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "host",
+      "text": "But some local people want to keep the railway."
+    },
+    {
+      "speaker": "slow",
+      "text": "「バスになったら、あとで本数が減るのではないか」と心配する人もいます。",
+      "ruby": "「バスになったら、あとで<span class=\"vw\" data-ja=\"本数\" data-reading=\"ほんすう\" data-en=\"number of runs (trains, buses)\"><ruby>本数<rt>ほんすう</rt></ruby></span>が<ruby>減る<rt>へる</rt></ruby>のではないか」と<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Some worry the number of buses will be cut later."
+    },
+    {
+      "speaker": "vocab",
+      "text": "本数",
+      "ruby": "<span class=\"vw\" data-ja=\"本数\" data-reading=\"ほんすう\" data-en=\"number of runs (trains, buses)\"><ruby>本数<rt>ほんすう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the number of trains or buses that run."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終的な方針は、来年3月までに決まる予定です。",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; plan of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>までに<ruby>決ま<rt>きま</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The final decision is due by next March."
+    },
+    {
+      "speaker": "vocab",
+      "text": "方針",
+      "ruby": "<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; plan of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a policy or plan of action."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "広島県と岡山県を結ぶJR芸備線について、国は24日、新しい案を示しました。",
+      "zh": "关于连接广岛县和冈山县的JR艺备线，日本政府24日提出了一项新方案。",
+      "en": "On the 24th, the national government presented a new plan for the JR Geibi Line, which links Hiroshima and Okayama prefectures.",
+      "tts": "広島県と岡山県を結ぶJRげいびせんについて、国は24日、新しい案を示しました。",
+      "ruby": "<ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby>と<ruby>岡山県<rt>おかやまけん</rt></ruby>を<span class=\"vw\" data-ja=\"結ぶ\" data-reading=\"むすぶ\" data-en=\"to connect; to link\"><ruby>結ぶ<rt>むすぶ</rt></ruby></span>JR<ruby>芸備線<rt>げいびせん</rt></ruby>について、<ruby>国<rt>くに</rt></ruby>は<ruby>24日<rt>にじゅうよっか</rt></ruby>、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一部の区間を、鉄道からバスに変えるのが適当だという案です。",
+      "zh": "方案认为，部分区间由铁路改为巴士比较合适。",
+      "en": "The plan says it would be appropriate to change part of the line from rail to buses.",
+      "ruby": "<ruby>一部<rt>いちぶ</rt></ruby>の<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>を、<ruby>鉄道<rt>てつどう</rt></ruby>からバスに<ruby>変え<rt>かえ</rt></ruby>るのが<span class=\"vw\" data-ja=\"適当\" data-reading=\"てきとう\" data-en=\"suitable; appropriate\"><ruby>適当<rt>てきとう</rt></ruby></span>だという<ruby>案<rt>あん</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "対象は、岡山県新見市から広島県庄原市までの68.5キロの区間です。",
+      "zh": "对象是从冈山县新见市到广岛县庄原市的68.5公里区间。",
+      "en": "It covers a 68.5-kilometer section from Niimi in Okayama Prefecture to Shobara in Hiroshima Prefecture.",
+      "tts": "対象は、岡山県にいみしから広島県しょうばらしまでの68.5キロの区間です。",
+      "ruby": "<ruby>対象<rt>たいしょう</rt></ruby>は、<ruby>岡山県<rt>おかやまけん</rt></ruby><ruby>新見<rt>にいみ</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>広島<rt>ひろしま</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>庄原市<rt>しょうばらし</rt></ruby>までの68.5キロの<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "この区間は山の中を走っていて、乗る人がとても少なくなっています。",
+      "zh": "这一区间在山里行驶，乘客已经变得非常少。",
+      "en": "This section runs through the mountains, and very few people ride it now.",
+      "ruby": "この<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>は<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>ていて、<ruby>乗る<rt>のる</rt></ruby><ruby>人<rt>ひと</rt></ruby>がとても<ruby>少なく<rt>すくなく</rt></ruby>なっています。"
+    },
+    {
+      "speaker": "news",
+      "text": "1日の乗客は、平均で62人だけです。",
+      "zh": "每天的乘客平均只有62人。",
+      "en": "On average, it carries only 62 passengers a day.",
+      "ruby": "<ruby>1日<rt>いちにち</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>で62<ruby>人<rt>にん</rt></ruby>だけです。"
+    },
+    {
+      "speaker": "news",
+      "text": "この話し合いは、JR西日本が国に求めて、2024年に始まりました。",
+      "zh": "这场协商是JR西日本向政府提出要求后，于2024年开始的。",
+      "en": "These talks began in 2024 after JR West asked the government for them.",
+      "ruby": "この<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>は、JR<ruby>西日本<rt>にしにほん</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>求め<rt>もとめ</rt></ruby>て、2024<ruby>年<rt>ねん</rt></ruby>に<ruby>始まり<rt>はじまり</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "国が入ったこの話し合いで、バスに変える案が出たのは、全国で初めてです。",
+      "zh": "在有政府参与的这类协商中，提出改为巴士的方案，在全国还是第一次。",
+      "en": "It is the first time in Japan that a plan to switch to buses has come out of talks like these that include the government.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>が<ruby>入っ<rt>はいっ</rt></ruby>たこの<span class=\"vw\" data-ja=\"話し合い\" data-reading=\"はなしあい\" data-en=\"discussion; talks\"><ruby>話し合い<rt>はなしあい</rt></ruby></span>で、バスに<ruby>変え<rt>かえ</rt></ruby>る<ruby>案<rt>あん</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>のは、<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "国の計算では、バスにすると、1年にかかるお金が、鉄道より5億3000万円ぐらい少なくなります。",
+      "zh": "根据政府的估算，改成巴士的话，每年的费用比铁路少大约5亿3000万日元。",
+      "en": "By the government's calculation, switching to buses would cost about 530 million yen less a year than the railway.",
+      "ruby": "<ruby>国<rt>くに</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>では、バスにすると、1<ruby>年<rt>ねん</rt></ruby>にかかるお<ruby>金<rt>かね</rt></ruby>が、<ruby>鉄道<rt>てつどう</rt></ruby>より5<ruby>億<rt>おく</rt></ruby>3000<ruby>万円<rt>まんえん</rt></ruby>ぐらい<ruby>少なく<rt>すくなく</rt></ruby>なります。"
+    },
+    {
+      "speaker": "news",
+      "text": "また、線路や設備を直す人が足りなくなっていることも、理由に挙げました。",
+      "zh": "此外，政府还把修理铁轨和设备的人手越来越不足也列为理由。",
+      "en": "It also gave as a reason that there are no longer enough people to repair the tracks and equipment.",
+      "ruby": "また、<ruby>線路<rt>せんろ</rt></ruby>や<ruby>設備<rt>せつび</rt></ruby>を<ruby>直す<rt>なおす</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なくなっていることも、<ruby>理由<rt>りゆう</rt></ruby>に<ruby>挙げ<rt>あげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "大雨などの災害のときも、バスのほうが早く動けると説明しています。",
+      "zh": "政府还说明，在暴雨等灾害发生时，巴士也能更快地恢复运行。",
+      "en": "It also explains that in disasters such as heavy rain, buses can get moving again sooner.",
+      "ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>などの<span class=\"vw\" data-ja=\"災害\" data-reading=\"さいがい\" data-en=\"disaster\"><ruby>災害<rt>さいがい</rt></ruby></span>のときも、バスのほうが<ruby>早く<rt>はやく</rt></ruby><ruby>動け<rt>うごけ</rt></ruby>ると<ruby>説明し<rt>せつめいし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "JR西日本は、バスに変わる場合、地元の市に、合わせて約19億円を出す考えを示しました。",
+      "zh": "JR西日本表示，如果改为巴士，将向当地的市共提供约19亿日元。",
+      "en": "JR West said that if the line switches to buses, it plans to give the local cities about 1.9 billion yen in total.",
+      "ruby": "JR<ruby>西日本<rt>にしにほん</rt></ruby>は、バスに<ruby>変わ<rt>かわ</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>市<rt>し</rt></ruby>に、<ruby>合わ<rt>あわ</rt></ruby>せて<ruby>約<rt>やく</rt></ruby>19<ruby>億円<rt>おくえん</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "一方、地元の人の中には、鉄道を残してほしいという声もあります。",
+      "zh": "另一方面，当地也有人希望保留铁路。",
+      "en": "Meanwhile, some local people want the railway to stay.",
+      "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>地元<rt>じもと</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は、<ruby>鉄道<rt>てつどう</rt></ruby>を<ruby>残し<rt>のこし</rt></ruby>てほしいという<ruby>声<rt>こえ</rt></ruby>もあります。"
+    },
+    {
+      "speaker": "news",
+      "text": "「バスになったら、あとで本数が減るのではないか」と心配する人もいます。",
+      "zh": "也有人担心：“改成巴士以后，班次会不会慢慢减少？”",
+      "en": "Some also worry, \"If it becomes a bus, won't the number of runs be cut later?\"",
+      "ruby": "「バスになったら、あとで<span class=\"vw\" data-ja=\"本数\" data-reading=\"ほんすう\" data-en=\"number of runs (trains, buses)\"><ruby>本数<rt>ほんすう</rt></ruby></span>が<ruby>減る<rt>へる</rt></ruby>のではないか」と<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>もいます。"
+    },
+    {
+      "speaker": "news",
+      "text": "最終的な方針は、来年3月までに決まる予定です。",
+      "zh": "最终方针预计在明年3月之前决定。",
+      "en": "The final policy is scheduled to be decided by next March.",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; plan of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>は、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>までに<ruby>決ま<rt>きま</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "バスに変える案が出た区間は、何キロですか。",
+      "ruby": "バスに<ruby>変え<rt>かえ</rt></ruby>る<ruby>案<rt>あん</rt></ruby>が<ruby>出た<rt>でた</rt></ruby><span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>は、<ruby>何<rt>なに</rt></ruby>キロですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty-eight and a half kilometers."
+    },
+    {
+      "speaker": "slow",
+      "text": "この区間の1日の乗客は、平均で何人ですか。",
+      "ruby": "この<span class=\"vw\" data-ja=\"区間\" data-reading=\"くかん\" data-en=\"section (of a line or road)\"><ruby>区間<rt>くかん</rt></ruby></span>の<ruby>1日<rt>いちにち</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>は、<span class=\"vw\" data-ja=\"平均\" data-reading=\"へいきん\" data-en=\"average\"><ruby>平均<rt>へいきん</rt></ruby></span>で<ruby>何人<rt>なんにん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty-two people."
+    },
+    {
+      "speaker": "slow",
+      "text": "最終的な方針は、いつまでに決まる予定ですか。",
+      "ruby": "<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<span class=\"vw\" data-ja=\"方針\" data-reading=\"ほうしん\" data-en=\"policy; plan of action\"><ruby>方針<rt>ほうしん</rt></ruby></span>は、いつまでに<ruby>決ま<rt>きま</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "By next March."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
