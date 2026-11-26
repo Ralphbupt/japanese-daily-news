@@ -1,0 +1,509 @@
+{
+  "episode": 309,
+  "title": "丸亀製麺がうどんを値下げ、かけうどんは390円に",
+  "titleZh": "丸龟制面乌冬面降价，清汤乌冬面降至390日元",
+  "titleEn": "Marugame Seimen cuts udon prices, with kake udon now 390 yen",
+  "date": "2026-11-27",
+  "source": "Impress Watch、えん食べ、マイナビニュース",
+  "level": "N5-N4",
+  "contentVersion": "2026112701",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "下げる",
+      "reading": "さげる",
+      "en": "to lower; to bring down",
+      "zh": "降低；下调"
+    },
+    {
+      "ja": "人気",
+      "reading": "にんき",
+      "en": "popularity; popular (人気の)",
+      "zh": "人气；受欢迎"
+    },
+    {
+      "ja": "量",
+      "reading": "りょう",
+      "en": "amount; quantity",
+      "zh": "量；分量"
+    },
+    {
+      "ja": "変わる",
+      "reading": "かわる",
+      "en": "to change",
+      "zh": "变化；改变"
+    },
+    {
+      "ja": "選ぶ",
+      "reading": "えらぶ",
+      "en": "to choose",
+      "zh": "选择；挑选"
+    },
+    {
+      "ja": "無料",
+      "reading": "むりょう",
+      "en": "free of charge",
+      "zh": "免费"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜ても",
+      "meaning": "even if ~; even though ~",
+      "meaningZh": "即使……也……",
+      "formation": "Verb て-form + も",
+      "example": "値段を下げても、うどんの量や材料、作り方は変わりません。",
+      "translation": "Even with the lower prices, the amount of udon, the ingredients and the way it is made will not change.",
+      "note": "The second part happens (or stays the same) regardless of the first part.",
+      "noteZh": "表示无论前项如何，后项都会成立或保持不变。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜にくい",
+      "meaning": "hard to ~; difficult to ~",
+      "meaningZh": "难以……；不容易……",
+      "formation": "Verb ます-stem + にくい",
+      "example": "外で食事をしにくくなっていると話しています。",
+      "translation": "He says it has become harder to eat out.",
+      "note": "Attach to a verb stem to say an action is hard to do; it conjugates like an い-adjective (にくくなる).",
+      "noteZh": "接在动词ます形词干后，表示某动作不容易做；按い形容词变形（にくくなる）。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜てほしい",
+      "meaning": "want (someone) to ~",
+      "meaningZh": "希望（别人）……",
+      "formation": "Verb て-form + ほしい",
+      "example": "好きな天ぷらを選んでほしいと話しています。",
+      "translation": "It says it wants customers to choose the tempura they like.",
+      "note": "Expresses a wish for someone else to do something.",
+      "noteZh": "表示希望别人做某事。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜そうです (hearsay)",
+      "meaning": "I hear that ~; reportedly ~",
+      "meaningZh": "据说……；听说……",
+      "formation": "Plain form + そうです",
+      "example": "たくさん使ってほしいそうです。",
+      "translation": "Reportedly, it wants people to use plenty of them.",
+      "note": "Passes on information heard from someone else.",
+      "noteZh": "用于转述从别人那里听到的信息。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜から〜になりました",
+      "meaning": "went from ~ to ~",
+      "meaningZh": "从……变成了……",
+      "formation": "Noun + から + Noun + になりました",
+      "example": "440円から390円になりました。",
+      "translation": "It went from 440 yen to 390 yen.",
+      "note": "Describes a change from one state or number to another.",
+      "noteZh": "表示从一种状态或数值变为另一种。",
+      "level": "N5"
+    }
+  ],
+  "practiceZh": [
+    "うどんの店「丸亀製麺」は、11月25日から、うどんの値段を下げました。\n乌冬面连锁店丸龟制面从11月25日起下调了乌冬面的价格。\n下げる = to lower; to bring down",
+    "値段が安くなったのは、人気のうどん5つです。\n降价的是5款人气乌冬面。\n人気 = popularity; popular (人気の)",
+    "いちばん人気の「かけうどん」は、普通のサイズで、440円から390円になりました。\n最受欢迎的“清汤乌冬面”普通份从440日元降到了390日元。",
+    "「釜玉うどん」は、550円から490円になりました。\n“釜玉乌冬面”从550日元降到了490日元。",
+    "「きつねうどん」も、640円から590円に下がりました。\n“油豆腐乌冬面”也从640日元降到了590日元。",
+    "値段を下げても、うどんの量や材料、作り方は変わりません。\n虽然降价，但乌冬面的分量、原料和做法都不变。\n量 = amount; quantity\n変わる = to change",
+    "今、食べ物や電気など、いろいろな物の値段が上がっています。\n现在，食品和电费等各种东西的价格都在上涨。",
+    "会社の社長は、そのため、外で食事をしにくくなっていると話しています。\n公司社长表示，因此人们越来越难去外面吃饭了。",
+    "会社は、うどんが安くなった分、好きな天ぷらを選んでほしいと話しています。\n公司表示，希望顾客用乌冬面省下的钱挑选自己喜欢的天妇罗。\n選ぶ = to choose",
+    "店にある無料のねぎなども、たくさん使ってほしいそうです。\n公司还希望顾客多多使用店里免费提供的葱等配料。\n無料 = free of charge"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-seventh: a popular udon chain in Japan has made its noodles cheaper. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "うどんの店「丸亀製麺」は、11月25日から、うどんの値段を下げました。",
+      "zh": "乌冬面连锁店丸龟制面从11月25日起下调了乌冬面的价格。",
+      "en": "The udon restaurant chain Marugame Seimen lowered the prices of its udon from November 25.",
+      "tts": "うどんの店「まるがめせいめん」は、11月25日から、うどんの値段を下げました。",
+      "ruby": "うどんの<ruby>店<rt>みせ</rt></ruby>「<ruby>丸亀<rt>まるがめ</rt></ruby><ruby>製麺<rt>せいめん</rt></ruby>」は、11<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>から、うどんの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が安くなったのは、人気のうどん5つです。",
+      "zh": "降价的是5款人气乌冬面。",
+      "en": "The cheaper dishes are five of its popular udon.",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安く<rt>やすく</rt></ruby>なったのは、<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>のうどん5つです。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん人気の「かけうどん」は、普通のサイズで、440円から390円になりました。",
+      "zh": "最受欢迎的“清汤乌冬面”普通份从440日元降到了390日元。",
+      "en": "Its most popular dish, kake udon, went from 440 yen to 390 yen for the regular size.",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>の「かけうどん」は、<ruby>普通<rt>ふつう</rt></ruby>のサイズで、440<ruby>円<rt>えん</rt></ruby>から390<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「釜玉うどん」は、550円から490円になりました。",
+      "zh": "“釜玉乌冬面”从550日元降到了490日元。",
+      "en": "Kamatama udon went from 550 yen to 490 yen.",
+      "tts": "「かまたまうどん」は、550円から490円になりました。",
+      "ruby": "「<ruby>釜玉<rt>かまたま</rt></ruby>うどん」は、550<ruby>円<rt>えん</rt></ruby>から490<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「きつねうどん」も、640円から590円に下がりました。",
+      "zh": "“油豆腐乌冬面”也从640日元降到了590日元。",
+      "en": "Kitsune udon also went down, from 640 yen to 590 yen.",
+      "ruby": "「きつねうどん」も、640<ruby>円<rt>えん</rt></ruby>から590<ruby>円<rt>えん</rt></ruby>に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段を下げても、うどんの量や材料、作り方は変わりません。",
+      "zh": "虽然降价，但乌冬面的分量、原料和做法都不变。",
+      "en": "Even with the lower prices, the amount of udon, the ingredients and the way it is made will not change.",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ても、うどんの<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>や<ruby>材料<rt>ざいりょう</rt></ruby>、<ruby>作り方<rt>つくりかた</rt></ruby>は<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、食べ物や電気など、いろいろな物の値段が上がっています。",
+      "zh": "现在，食品和电费等各种东西的价格都在上涨。",
+      "en": "Right now, the prices of many things, such as food and electricity, are rising.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>食べ物<rt>たべもの</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>など、いろいろな<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の社長は、そのため、外で食事をしにくくなっていると話しています。",
+      "zh": "公司社长表示，因此人们越来越难去外面吃饭了。",
+      "en": "The company's president says that because of this, it has become harder for people to eat out.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、そのため、<ruby>外<rt>そと</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしにくくなっていると<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、うどんが安くなった分、好きな天ぷらを選んでほしいと話しています。",
+      "zh": "公司表示，希望顾客用乌冬面省下的钱挑选自己喜欢的天妇罗。",
+      "en": "The company says it wants customers to use the money saved on udon to choose the tempura they like.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、うどんが<ruby>安く<rt>やすく</rt></ruby>なった<ruby>分<rt>ぶん</rt></ruby>、<ruby>好き<rt>すき</rt></ruby>な<ruby>天ぷら<rt>てんぷら</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>でほしいと<ruby>話し<rt>はなし</rt></ruby>ています。",
+      "tts": "会社は、うどんが安くなったぶん、好きな天ぷらを選んでほしいと話しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店にある無料のねぎなども、たくさん使ってほしいそうです。",
+      "zh": "公司还希望顾客多多使用店里免费提供的葱等配料。",
+      "en": "It also wants them to use plenty of the free green onions and other toppings in the shop.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>にある<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>のねぎなども、たくさん<ruby>使って<rt>つかって</rt></ruby>ほしいそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "うどんの店「丸亀製麺」は、11月25日から、うどんの値段を下げました。",
+      "tts": "うどんの店「まるがめせいめん」は、11月25日から、うどんの値段を下げました。",
+      "ruby": "うどんの<ruby>店<rt>みせ</rt></ruby>「<ruby>丸亀<rt>まるがめ</rt></ruby><ruby>製麺<rt>せいめん</rt></ruby>」は、11<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>から、うどんの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The udon chain Marugame Seimen lowered its udon prices from November twenty-fifth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "下げる",
+      "ruby": "<span class=\"vw\" data-ja=\"下げる\" data-reading=\"さげる\" data-en=\"to lower; to bring down\"><ruby>下げ<rt>さげ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to lower, or to bring something down."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段が安くなったのは、人気のうどん5つです。",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安く<rt>やすく</rt></ruby>なったのは、<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>のうどん5つです。"
+    },
+    {
+      "speaker": "host",
+      "text": "The cheaper dishes are five popular kinds of udon."
+    },
+    {
+      "speaker": "vocab",
+      "text": "人気",
+      "ruby": "<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means popularity. Before a noun, it means popular."
+    },
+    {
+      "speaker": "slow",
+      "text": "いちばん人気の「かけうどん」は、普通のサイズで、440円から390円になりました。",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>の「かけうどん」は、<ruby>普通<rt>ふつう</rt></ruby>のサイズで、440<ruby>円<rt>えん</rt></ruby>から390<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The most popular one, kake udon, went from four hundred and forty yen to three hundred and ninety yen for a regular size."
+    },
+    {
+      "speaker": "slow",
+      "text": "「釜玉うどん」は、550円から490円になりました。",
+      "tts": "「かまたまうどん」は、550円から490円になりました。",
+      "ruby": "「<ruby>釜玉<rt>かまたま</rt></ruby>うどん」は、550<ruby>円<rt>えん</rt></ruby>から490<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kamatama udon, noodles with egg, went from five hundred and fifty yen to four hundred and ninety yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "「きつねうどん」も、640円から590円に下がりました。",
+      "ruby": "「きつねうどん」も、640<ruby>円<rt>えん</rt></ruby>から590<ruby>円<rt>えん</rt></ruby>に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Kitsune udon, with sweet fried tofu, also went down from six hundred and forty yen to five hundred and ninety yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段を下げても、うどんの量や材料、作り方は変わりません。",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ても、うどんの<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>や<ruby>材料<rt>ざいりょう</rt></ruby>、<ruby>作り方<rt>つくりかた</rt></ruby>は<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "host",
+      "text": "Even with lower prices, the amount, the ingredients, and how it is made stay the same."
+    },
+    {
+      "speaker": "vocab",
+      "text": "量",
+      "ruby": "<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means amount or quantity."
+    },
+    {
+      "speaker": "vocab",
+      "text": "変わる",
+      "ruby": "<span class=\"vw\" data-ja=\"変わる\" data-reading=\"かわる\" data-en=\"to change\"><ruby>変わ<rt>かわ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to change."
+    },
+    {
+      "speaker": "slow",
+      "text": "今、食べ物や電気など、いろいろな物の値段が上がっています。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>食べ物<rt>たべもの</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>など、いろいろな<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Right now, the prices of many things, like food and electricity, are going up."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社の社長は、そのため、外で食事をしにくくなっていると話しています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、そのため、<ruby>外<rt>そと</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしにくくなっていると<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company's president says that because of this, eating out has become harder for people."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、うどんが安くなった分、好きな天ぷらを選んでほしいと話しています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、うどんが<ruby>安く<rt>やすく</rt></ruby>なった<ruby>分<rt>ぶん</rt></ruby>、<ruby>好き<rt>すき</rt></ruby>な<ruby>天ぷら<rt>てんぷら</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>でほしいと<ruby>話し<rt>はなし</rt></ruby>ています。",
+      "tts": "会社は、うどんが安くなったぶん、好きな天ぷらを選んでほしいと話しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company wants customers to use the money they save to choose the tempura they like."
+    },
+    {
+      "speaker": "vocab",
+      "text": "選ぶ",
+      "ruby": "<span class=\"vw\" data-ja=\"選ぶ\" data-reading=\"えらぶ\" data-en=\"to choose\"><ruby>選ぶ<rt>えらぶ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to choose."
+    },
+    {
+      "speaker": "slow",
+      "text": "店にある無料のねぎなども、たくさん使ってほしいそうです。",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>にある<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>のねぎなども、たくさん<ruby>使って<rt>つかって</rt></ruby>ほしいそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It also hopes people use plenty of the free green onions and other toppings in the shop."
+    },
+    {
+      "speaker": "vocab",
+      "text": "無料",
+      "ruby": "<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means free of charge."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "うどんの店「丸亀製麺」は、11月25日から、うどんの値段を下げました。",
+      "zh": "乌冬面连锁店丸龟制面从11月25日起下调了乌冬面的价格。",
+      "en": "The udon restaurant chain Marugame Seimen lowered the prices of its udon from November 25.",
+      "tts": "うどんの店「まるがめせいめん」は、11月25日から、うどんの値段を下げました。",
+      "ruby": "うどんの<ruby>店<rt>みせ</rt></ruby>「<ruby>丸亀<rt>まるがめ</rt></ruby><ruby>製麺<rt>せいめん</rt></ruby>」は、11<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>から、うどんの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段が安くなったのは、人気のうどん5つです。",
+      "zh": "降价的是5款人气乌冬面。",
+      "en": "The cheaper dishes are five of its popular udon.",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安く<rt>やすく</rt></ruby>なったのは、<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>のうどん5つです。"
+    },
+    {
+      "speaker": "news",
+      "text": "いちばん人気の「かけうどん」は、普通のサイズで、440円から390円になりました。",
+      "zh": "最受欢迎的“清汤乌冬面”普通份从440日元降到了390日元。",
+      "en": "Its most popular dish, kake udon, went from 440 yen to 390 yen for the regular size.",
+      "ruby": "いちばん<span class=\"vw\" data-ja=\"人気\" data-reading=\"にんき\" data-en=\"popularity; popular (人気の)\"><ruby>人気<rt>にんき</rt></ruby></span>の「かけうどん」は、<ruby>普通<rt>ふつう</rt></ruby>のサイズで、440<ruby>円<rt>えん</rt></ruby>から390<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「釜玉うどん」は、550円から490円になりました。",
+      "zh": "“釜玉乌冬面”从550日元降到了490日元。",
+      "en": "Kamatama udon went from 550 yen to 490 yen.",
+      "tts": "「かまたまうどん」は、550円から490円になりました。",
+      "ruby": "「<ruby>釜玉<rt>かまたま</rt></ruby>うどん」は、550<ruby>円<rt>えん</rt></ruby>から490<ruby>円<rt>えん</rt></ruby>になりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "「きつねうどん」も、640円から590円に下がりました。",
+      "zh": "“油豆腐乌冬面”也从640日元降到了590日元。",
+      "en": "Kitsune udon also went down, from 640 yen to 590 yen.",
+      "ruby": "「きつねうどん」も、640<ruby>円<rt>えん</rt></ruby>から590<ruby>円<rt>えん</rt></ruby>に<ruby>下が<rt>さが</rt></ruby>りました。"
+    },
+    {
+      "speaker": "news",
+      "text": "値段を下げても、うどんの量や材料、作り方は変わりません。",
+      "zh": "虽然降价，但乌冬面的分量、原料和做法都不变。",
+      "en": "Even with the lower prices, the amount of udon, the ingredients and the way it is made will not change.",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ても、うどんの<span class=\"vw\" data-ja=\"量\" data-reading=\"りょう\" data-en=\"amount; quantity\"><ruby>量<rt>りょう</rt></ruby></span>や<ruby>材料<rt>ざいりょう</rt></ruby>、<ruby>作り方<rt>つくりかた</rt></ruby>は<ruby>変わり<rt>かわり</rt></ruby>ません。"
+    },
+    {
+      "speaker": "news",
+      "text": "今、食べ物や電気など、いろいろな物の値段が上がっています。",
+      "zh": "现在，食品和电费等各种东西的价格都在上涨。",
+      "en": "Right now, the prices of many things, such as food and electricity, are rising.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>食べ物<rt>たべもの</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>など、いろいろな<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社の社長は、そのため、外で食事をしにくくなっていると話しています。",
+      "zh": "公司社长表示，因此人们越来越难去外面吃饭了。",
+      "en": "The company's president says that because of this, it has become harder for people to eat out.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は、そのため、<ruby>外<rt>そと</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしにくくなっていると<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、うどんが安くなった分、好きな天ぷらを選んでほしいと話しています。",
+      "zh": "公司表示，希望顾客用乌冬面省下的钱挑选自己喜欢的天妇罗。",
+      "en": "The company says it wants customers to use the money saved on udon to choose the tempura they like.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、うどんが<ruby>安く<rt>やすく</rt></ruby>なった<ruby>分<rt>ぶん</rt></ruby>、<ruby>好き<rt>すき</rt></ruby>な<ruby>天ぷら<rt>てんぷら</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>でほしいと<ruby>話し<rt>はなし</rt></ruby>ています。",
+      "tts": "会社は、うどんが安くなったぶん、好きな天ぷらを選んでほしいと話しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "店にある無料のねぎなども、たくさん使ってほしいそうです。",
+      "zh": "公司还希望顾客多多使用店里免费提供的葱等配料。",
+      "en": "It also wants them to use plenty of the free green onions and other toppings in the shop.",
+      "ruby": "<ruby>店<rt>みせ</rt></ruby>にある<span class=\"vw\" data-ja=\"無料\" data-reading=\"むりょう\" data-en=\"free of charge\"><ruby>無料<rt>むりょう</rt></ruby></span>のねぎなども、たくさん<ruby>使って<rt>つかって</rt></ruby>ほしいそうです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "丸亀製麺は、いつからうどんの値段を下げましたか。",
+      "tts": "まるがめせいめんは、いつからうどんの値段を下げましたか。",
+      "ruby": "<ruby>丸亀<rt>まるがめ</rt></ruby><ruby>製麺<rt>せいめん</rt></ruby>は、いつからうどんの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From November twenty-fifth."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段が安くなったうどんは、いくつですか。",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安く<rt>やすく</rt></ruby>なったうどんは、いくつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Five."
+    },
+    {
+      "speaker": "slow",
+      "text": "かけうどんは、普通のサイズでいくらになりましたか。",
+      "ruby": "かけうどんは、<ruby>普通<rt>ふつう</rt></ruby>のサイズでいくらになりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Three hundred and ninety yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "値段を下げても、何が変わりませんか。",
+      "ruby": "<ruby>値段<rt>ねだん</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>ても、<ruby>何<rt>なに</rt></ruby>が<ruby>変わり<rt>かわり</rt></ruby>ませんか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The amount of udon, the ingredients, and the way it is made."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、お客さんに何を選んでほしいと話していますか。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>何を<rt>なにを</rt></ruby><ruby>選ん<rt>えらん</rt></ruby>でほしいと<ruby>話し<rt>はなし</rt></ruby>ていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "The tempura they like."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
