@@ -1,0 +1,620 @@
+{
+  "episode": 308,
+  "title": "京王グループに攻撃、1100万人分の個人情報漏れたおそれ",
+  "titleZh": "京王集团遭网络攻击，约1100万人信息或泄露",
+  "titleEn": "Keio Group cyberattack may have leaked data on 11 million people",
+  "date": "2026-11-26",
+  "source": "NHK、日本経済新聞、ITmedia NEWS、TBS NEWS DIG",
+  "level": "N4-N3",
+  "contentVersion": "2026112601",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-sixth: a huge data leak at a Tokyo railway group, including passport copies of hotel guests. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "東京の私鉄「京王電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。",
+      "zh": "东京的私营铁路公司京王电铁宣布，其集团公司遭到网络攻击，个人信息可能已经泄露。",
+      "en": "Keio Corporation, a private railway in Tokyo, announced that its group companies were hit by a cyberattack and that personal information may have leaked.",
+      "tts": "東京の私鉄「けいおう電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>私鉄<rt>してつ</rt></ruby>「<ruby>京王<rt>けいおう</rt></ruby><ruby>電鉄<rt>でんてつ</rt></ruby>」は、グループの<ruby>会社<rt>かいしゃ</rt></ruby>がサイバー<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>て、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたおそれがあるのは、のべ約1108万人分の情報です。",
+      "zh": "可能泄露的信息累计约1108万人。",
+      "en": "The information that may have leaked covers a total of about 11.08 million people.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあるのは、のべ<ruby>約<rt>やく</rt></ruby>1108<ruby>万人<rt>まんにん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "攻撃があったのは、9月26日の朝早くでした。",
+      "zh": "攻击发生在9月26日清晨。",
+      "en": "The attack took place early in the morning on September 26.",
+      "ruby": "<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>があったのは、9<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "使われたのは「ランサムウェア」という、データを人質にしてお金を要求するコンピューターウイルスです。",
+      "zh": "攻击使用的是“勒索软件”，一种把数据当作人质来索要钱财的电脑病毒。",
+      "en": "It used ransomware, a computer virus that holds data hostage and demands money.",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>れたのは「ランサムウェア」という、データを<ruby>人質<rt>ひとじち</rt></ruby>にしてお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"要求する\" data-reading=\"ようきゅうする\" data-en=\"to demand\"><ruby>要求<rt>ようきゅう</rt></ruby>する</span>コンピューターウイルスです。"
+    },
+    {
+      "speaker": "news",
+      "text": "被害を受けたのは、ホテルや不動産、旅行などの仕事をするグループの会社です。",
+      "zh": "受害的是从事酒店、房地产、旅游等业务的集团公司。",
+      "en": "The companies hit were group companies that run hotels, real estate, travel and other businesses.",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>たのは、ホテルや<ruby>不動産<rt>ふどうさん</rt></ruby>、<ruby>旅行<rt>りょこう</rt></ruby>などの<ruby>仕事<rt>しごと</rt></ruby>をするグループの<ruby>会社<rt>かいしゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "客や取引先の名前、住所、電話番号などは、約1063万人分にのぼります。",
+      "zh": "顾客和交易方的姓名、地址、电话号码等多达约1063万人。",
+      "en": "Names, addresses, phone numbers and other details of customers and business partners amount to about 10.63 million people.",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>や<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner, client\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>、<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>などは、<ruby>約<rt>やく</rt></ruby>1063<ruby>万人<rt>まんにん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>にのぼります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ホテルに泊まった客のパスポートのコピーも、約160万件含まれています。",
+      "zh": "其中还包括约160万份酒店住客的护照复印件。",
+      "en": "They also include about 1.6 million copies of passports of hotel guests.",
+      "ruby": "ホテルに<ruby>泊ま<rt>とま</rt></ruby>った<ruby>客<rt>きゃく</rt></ruby>のパスポートのコピーも、<ruby>約<rt>やく</rt></ruby>160<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "その多くは、外国から来た客のものです。",
+      "zh": "其中大部分属于来自国外的客人。",
+      "en": "Most of them belong to guests from abroad.",
+      "ruby": "その<ruby>多く<rt>おおく</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>客<rt>きゃく</rt></ruby>のものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一部の客のクレジットカードの番号も、約2万件含まれています。",
+      "zh": "还包括部分顾客的信用卡号码约2万条。",
+      "en": "About 20,000 credit card numbers of some customers are also included.",
+      "ruby": "<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>のクレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>も、<ruby>約<rt>やく</rt></ruby>2<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "不動産の契約に使った免許証やマイナンバーカードなど、本人確認の書類も約4万6000件ありました。",
+      "zh": "还有约4万6000份用于房地产合同的驾照、个人编号卡等身份证明文件。",
+      "en": "There were also about 46,000 identity documents, such as driver's licenses and My Number cards, used for real estate contracts.",
+      "ruby": "<ruby>不動産<rt>ふどうさん</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>に<ruby>使った<rt>つかった</rt></ruby><ruby>免許証<rt>めんきょしょう</rt></ruby>やマイナンバーカードなど、<ruby>本人<rt>ほんにん</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>の<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents, papers\"><ruby>書類<rt>しょるい</rt></ruby></span>も<ruby>約<rt>やく</rt></ruby>4<ruby>万<rt>まん</rt></ruby>6000<ruby>件<rt>けん</rt></ruby>ありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "海外のハッカーのグループが、自分たちがやったと主張しています。",
+      "zh": "一个海外黑客组织声称是他们所为。",
+      "en": "An overseas hacker group has claimed it was behind the attack.",
+      "ruby": "<ruby>海外<rt>かいがい</rt></ruby>のハッカーのグループが、<ruby>自分たち<rt>じぶんたち</rt></ruby>がやったと<ruby>主張<rt>しゅちょう</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、カードが勝手に使われるなどの被害は確認されていないということです。",
+      "zh": "据称，目前尚未发现信用卡被盗刷等损失。",
+      "en": "So far, no damage such as cards being used without permission has been confirmed, the company says.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、カードが<span class=\"vw\" data-ja=\"勝手に\" data-reading=\"かってに\" data-en=\"without permission; on one's own\"><ruby>勝手<rt>かって</rt></ruby>に</span><ruby>使わ<rt>つかわ</rt></ruby>れるなどの<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>確認さ<rt>かくにんさ</rt></ruby>れていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、覚えのないカードの利用があったら、カード会社に連絡するよう呼びかけています。",
+      "zh": "公司呼吁，如果发现自己不记得的刷卡记录，请联系信用卡公司。",
+      "en": "The company is urging people to contact their card company if they see card charges they don't recognize.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>覚え<rt>おぼえ</rt></ruby>のないカードの<ruby>利用<rt>りよう</rt></ruby>があったら、カード<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "東京の私鉄「京王電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。",
+      "tts": "東京の私鉄「けいおう電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>私鉄<rt>してつ</rt></ruby>「<ruby>京王<rt>けいおう</rt></ruby><ruby>電鉄<rt>でんてつ</rt></ruby>」は、グループの<ruby>会社<rt>かいしゃ</rt></ruby>がサイバー<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>て、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Keio, a private railway in Tokyo, said its group companies were hit by a cyberattack, and personal information may have leaked."
+    },
+    {
+      "speaker": "vocab",
+      "text": "漏れる",
+      "ruby": "<span class=\"vw\" data-ja=\"漏れる\" data-reading=\"もれる\" data-en=\"to leak\"><ruby>漏れ<rt>もれ</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to leak, or to get out."
+    },
+    {
+      "speaker": "vocab",
+      "text": "おそれ",
+      "ruby": "<span class=\"vw\" data-ja=\"おそれ\" data-reading=\"おそれ\" data-en=\"risk, fear (that something bad may happen)\">おそれ</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a risk or a fear that something bad may happen."
+    },
+    {
+      "speaker": "slow",
+      "text": "攻撃があったのは、9月26日の朝早くでした。",
+      "ruby": "<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>があったのは、9<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>でした。"
+    },
+    {
+      "speaker": "host",
+      "text": "The attack came early in the morning on September twenty-sixth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "攻撃",
+      "ruby": "<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means an attack."
+    },
+    {
+      "speaker": "slow",
+      "text": "使われたのは「ランサムウェア」という、データを人質にしてお金を要求するコンピューターウイルスです。",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>れたのは「ランサムウェア」という、データを<ruby>人質<rt>ひとじち</rt></ruby>にしてお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"要求する\" data-reading=\"ようきゅうする\" data-en=\"to demand\"><ruby>要求<rt>ようきゅう</rt></ruby>する</span>コンピューターウイルスです。"
+    },
+    {
+      "speaker": "host",
+      "text": "It was ransomware, a virus that holds data hostage and demands money."
+    },
+    {
+      "speaker": "vocab",
+      "text": "要求する",
+      "ruby": "<span class=\"vw\" data-ja=\"要求する\" data-reading=\"ようきゅうする\" data-en=\"to demand\"><ruby>要求<rt>ようきゅう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to demand."
+    },
+    {
+      "speaker": "slow",
+      "text": "被害を受けたのは、ホテルや不動産、旅行などの仕事をするグループの会社です。",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>たのは、ホテルや<ruby>不動産<rt>ふどうさん</rt></ruby>、<ruby>旅行<rt>りょこう</rt></ruby>などの<ruby>仕事<rt>しごと</rt></ruby>をするグループの<ruby>会社<rt>かいしゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "The victims were group companies in hotels, real estate and travel."
+    },
+    {
+      "speaker": "vocab",
+      "text": "被害",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means damage, or harm suffered."
+    },
+    {
+      "speaker": "slow",
+      "text": "客や取引先の名前、住所、電話番号などは、約1063万人分にのぼります。",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>や<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner, client\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>、<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>などは、<ruby>約<rt>やく</rt></ruby>1063<ruby>万人<rt>まんにん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>にのぼります。"
+    },
+    {
+      "speaker": "host",
+      "text": "Names, addresses and phone numbers reach about ten point six three million people."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取引先",
+      "ruby": "<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner, client\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a business partner or client."
+    },
+    {
+      "speaker": "slow",
+      "text": "ホテルに泊まった客のパスポートのコピーも、約160万件含まれています。",
+      "ruby": "ホテルに<ruby>泊ま<rt>とま</rt></ruby>った<ruby>客<rt>きゃく</rt></ruby>のパスポートのコピーも、<ruby>約<rt>やく</rt></ruby>160<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one point six million passport copies of hotel guests are included too."
+    },
+    {
+      "speaker": "vocab",
+      "text": "含まれる",
+      "ruby": "<span class=\"vw\" data-ja=\"含まれる\" data-reading=\"ふくまれる\" data-en=\"to be included\"><ruby>含ま<rt>ふくま</rt></ruby>れる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to be included."
+    },
+    {
+      "speaker": "slow",
+      "text": "不動産の契約に使った免許証やマイナンバーカードなど、本人確認の書類も約4万6000件ありました。",
+      "ruby": "<ruby>不動産<rt>ふどうさん</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>に<ruby>使った<rt>つかった</rt></ruby><ruby>免許証<rt>めんきょしょう</rt></ruby>やマイナンバーカードなど、<ruby>本人<rt>ほんにん</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>の<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents, papers\"><ruby>書類<rt>しょるい</rt></ruby></span>も<ruby>約<rt>やく</rt></ruby>4<ruby>万<rt>まん</rt></ruby>6000<ruby>件<rt>けん</rt></ruby>ありました。"
+    },
+    {
+      "speaker": "host",
+      "text": "There were also about forty-six thousand identity documents, like driver's licenses."
+    },
+    {
+      "speaker": "vocab",
+      "text": "書類",
+      "ruby": "<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents, papers\"><ruby>書類<rt>しょるい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means documents or papers."
+    },
+    {
+      "speaker": "slow",
+      "text": "海外のハッカーのグループが、自分たちがやったと主張しています。",
+      "ruby": "<ruby>海外<rt>かいがい</rt></ruby>のハッカーのグループが、<ruby>自分たち<rt>じぶんたち</rt></ruby>がやったと<ruby>主張<rt>しゅちょう</rt></ruby>しています。"
+    },
+    {
+      "speaker": "host",
+      "text": "An overseas hacker group says it did this."
+    },
+    {
+      "speaker": "vocab",
+      "text": "主張する",
+      "ruby": "<span class=\"vw\" data-ja=\"主張する\" data-reading=\"しゅちょうする\" data-en=\"to claim, to insist\"><ruby>主張<rt>しゅちょう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to claim or insist."
+    },
+    {
+      "speaker": "slow",
+      "text": "今のところ、カードが勝手に使われるなどの被害は確認されていないということです。",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、カードが<span class=\"vw\" data-ja=\"勝手に\" data-reading=\"かってに\" data-en=\"without permission; on one's own\"><ruby>勝手<rt>かって</rt></ruby>に</span><ruby>使わ<rt>つかわ</rt></ruby>れるなどの<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>確認さ<rt>かくにんさ</rt></ruby>れていないということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "So far, no damage like cards being used without permission has been confirmed."
+    },
+    {
+      "speaker": "vocab",
+      "text": "勝手に",
+      "ruby": "<span class=\"vw\" data-ja=\"勝手に\" data-reading=\"かってに\" data-en=\"without permission; on one's own\"><ruby>勝手<rt>かって</rt></ruby>に</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means without permission, or on one's own."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、覚えのないカードの利用があったら、カード会社に連絡するよう呼びかけています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>覚え<rt>おぼえ</rt></ruby>のないカードの<ruby>利用<rt>りよう</rt></ruby>があったら、カード<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company asks people to call their card company if they see charges they don't recognize."
+    },
+    {
+      "speaker": "vocab",
+      "text": "呼びかける",
+      "ruby": "<span class=\"vw\" data-ja=\"呼びかける\" data-reading=\"よびかける\" data-en=\"to call on, to urge\"><ruby>呼び<rt>よび</rt></ruby>かける</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call on or urge people."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "東京の私鉄「京王電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。",
+      "zh": "东京的私营铁路公司京王电铁宣布，其集团公司遭到网络攻击，个人信息可能已经泄露。",
+      "en": "Keio Corporation, a private railway in Tokyo, announced that its group companies were hit by a cyberattack and that personal information may have leaked.",
+      "tts": "東京の私鉄「けいおう電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。",
+      "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>私鉄<rt>してつ</rt></ruby>「<ruby>京王<rt>けいおう</rt></ruby><ruby>電鉄<rt>でんてつ</rt></ruby>」は、グループの<ruby>会社<rt>かいしゃ</rt></ruby>がサイバー<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>て、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあると<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "漏れたおそれがあるのは、のべ約1108万人分の情報です。",
+      "zh": "可能泄露的信息累计约1108万人。",
+      "en": "The information that may have leaked covers a total of about 11.08 million people.",
+      "ruby": "<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあるのは、のべ<ruby>約<rt>やく</rt></ruby>1108<ruby>万人<rt>まんにん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "攻撃があったのは、9月26日の朝早くでした。",
+      "zh": "攻击发生在9月26日清晨。",
+      "en": "The attack took place early in the morning on September 26.",
+      "ruby": "<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>があったのは、9<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>の<ruby>朝早く<rt>あさはやく</rt></ruby>でした。"
+    },
+    {
+      "speaker": "news",
+      "text": "使われたのは「ランサムウェア」という、データを人質にしてお金を要求するコンピューターウイルスです。",
+      "zh": "攻击使用的是“勒索软件”，一种把数据当作人质来索要钱财的电脑病毒。",
+      "en": "It used ransomware, a computer virus that holds data hostage and demands money.",
+      "ruby": "<ruby>使わ<rt>つかわ</rt></ruby>れたのは「ランサムウェア」という、データを<ruby>人質<rt>ひとじち</rt></ruby>にしてお<ruby>金<rt>かね</rt></ruby>を<span class=\"vw\" data-ja=\"要求する\" data-reading=\"ようきゅうする\" data-en=\"to demand\"><ruby>要求<rt>ようきゅう</rt></ruby>する</span>コンピューターウイルスです。"
+    },
+    {
+      "speaker": "news",
+      "text": "被害を受けたのは、ホテルや不動産、旅行などの仕事をするグループの会社です。",
+      "zh": "受害的是从事酒店、房地产、旅游等业务的集团公司。",
+      "en": "The companies hit were group companies that run hotels, real estate, travel and other businesses.",
+      "ruby": "<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>たのは、ホテルや<ruby>不動産<rt>ふどうさん</rt></ruby>、<ruby>旅行<rt>りょこう</rt></ruby>などの<ruby>仕事<rt>しごと</rt></ruby>をするグループの<ruby>会社<rt>かいしゃ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "客や取引先の名前、住所、電話番号などは、約1063万人分にのぼります。",
+      "zh": "顾客和交易方的姓名、地址、电话号码等多达约1063万人。",
+      "en": "Names, addresses, phone numbers and other details of customers and business partners amount to about 10.63 million people.",
+      "ruby": "<ruby>客<rt>きゃく</rt></ruby>や<span class=\"vw\" data-ja=\"取引先\" data-reading=\"とりひきさき\" data-en=\"business partner, client\"><ruby>取引先<rt>とりひきさき</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>、<ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>などは、<ruby>約<rt>やく</rt></ruby>1063<ruby>万人<rt>まんにん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>にのぼります。"
+    },
+    {
+      "speaker": "news",
+      "text": "ホテルに泊まった客のパスポートのコピーも、約160万件含まれています。",
+      "zh": "其中还包括约160万份酒店住客的护照复印件。",
+      "en": "They also include about 1.6 million copies of passports of hotel guests.",
+      "ruby": "ホテルに<ruby>泊ま<rt>とま</rt></ruby>った<ruby>客<rt>きゃく</rt></ruby>のパスポートのコピーも、<ruby>約<rt>やく</rt></ruby>160<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "その多くは、外国から来た客のものです。",
+      "zh": "其中大部分属于来自国外的客人。",
+      "en": "Most of them belong to guests from abroad.",
+      "ruby": "その<ruby>多く<rt>おおく</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来た<rt>きた</rt></ruby><ruby>客<rt>きゃく</rt></ruby>のものです。"
+    },
+    {
+      "speaker": "news",
+      "text": "一部の客のクレジットカードの番号も、約2万件含まれています。",
+      "zh": "还包括部分顾客的信用卡号码约2万条。",
+      "en": "About 20,000 credit card numbers of some customers are also included.",
+      "ruby": "<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>のクレジットカードの<ruby>番号<rt>ばんごう</rt></ruby>も、<ruby>約<rt>やく</rt></ruby>2<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby><ruby>含ま<rt>ふくま</rt></ruby>れています。"
+    },
+    {
+      "speaker": "news",
+      "text": "不動産の契約に使った免許証やマイナンバーカードなど、本人確認の書類も約4万6000件ありました。",
+      "zh": "还有约4万6000份用于房地产合同的驾照、个人编号卡等身份证明文件。",
+      "en": "There were also about 46,000 identity documents, such as driver's licenses and My Number cards, used for real estate contracts.",
+      "ruby": "<ruby>不動産<rt>ふどうさん</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>に<ruby>使った<rt>つかった</rt></ruby><ruby>免許証<rt>めんきょしょう</rt></ruby>やマイナンバーカードなど、<ruby>本人<rt>ほんにん</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>の<span class=\"vw\" data-ja=\"書類\" data-reading=\"しょるい\" data-en=\"documents, papers\"><ruby>書類<rt>しょるい</rt></ruby></span>も<ruby>約<rt>やく</rt></ruby>4<ruby>万<rt>まん</rt></ruby>6000<ruby>件<rt>けん</rt></ruby>ありました。"
+    },
+    {
+      "speaker": "news",
+      "text": "海外のハッカーのグループが、自分たちがやったと主張しています。",
+      "zh": "一个海外黑客组织声称是他们所为。",
+      "en": "An overseas hacker group has claimed it was behind the attack.",
+      "ruby": "<ruby>海外<rt>かいがい</rt></ruby>のハッカーのグループが、<ruby>自分たち<rt>じぶんたち</rt></ruby>がやったと<ruby>主張<rt>しゅちょう</rt></ruby>しています。"
+    },
+    {
+      "speaker": "news",
+      "text": "今のところ、カードが勝手に使われるなどの被害は確認されていないということです。",
+      "zh": "据称，目前尚未发现信用卡被盗刷等损失。",
+      "en": "So far, no damage such as cards being used without permission has been confirmed, the company says.",
+      "ruby": "<ruby>今<rt>いま</rt></ruby>のところ、カードが<span class=\"vw\" data-ja=\"勝手に\" data-reading=\"かってに\" data-en=\"without permission; on one's own\"><ruby>勝手<rt>かって</rt></ruby>に</span><ruby>使わ<rt>つかわ</rt></ruby>れるなどの<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は<ruby>確認さ<rt>かくにんさ</rt></ruby>れていないということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、覚えのないカードの利用があったら、カード会社に連絡するよう呼びかけています。",
+      "zh": "公司呼吁，如果发现自己不记得的刷卡记录，请联系信用卡公司。",
+      "en": "The company is urging people to contact their card company if they see card charges they don't recognize.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>覚え<rt>おぼえ</rt></ruby>のないカードの<ruby>利用<rt>りよう</rt></ruby>があったら、カード<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>するよう<ruby>呼び<rt>よび</rt></ruby>かけています。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "京王電鉄のグループがサイバー攻撃を受けたのは、いつですか。",
+      "tts": "けいおう電鉄のグループがサイバー攻撃を受けたのは、いつですか。",
+      "ruby": "<ruby>京王<rt>けいおう</rt></ruby><ruby>電鉄<rt>でんてつ</rt></ruby>のグループがサイバー<span class=\"vw\" data-ja=\"攻撃\" data-reading=\"こうげき\" data-en=\"attack\"><ruby>攻撃<rt>こうげき</rt></ruby></span>を<ruby>受け<rt>うけ</rt></ruby>たのは、いつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Early in the morning on September twenty-sixth."
+    },
+    {
+      "speaker": "slow",
+      "text": "情報が漏れたおそれがあるのは、のべ何人分ですか。",
+      "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>漏れ<rt>もれ</rt></ruby>たおそれがあるのは、のべ<ruby>何人分<rt>なんにんぶん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About eleven point oh eight million people."
+    },
+    {
+      "speaker": "slow",
+      "text": "ホテルの客のパスポートのコピーは、約何件ですか。",
+      "ruby": "ホテルの<ruby>客<rt>きゃく</rt></ruby>のパスポートのコピーは、<ruby>約<rt>やく</rt></ruby><ruby>何件<rt>なんけん</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "About one point six million."
+    },
+    {
+      "speaker": "slow",
+      "text": "カードが勝手に使われる被害は、確認されていますか。",
+      "ruby": "カードが<span class=\"vw\" data-ja=\"勝手に\" data-reading=\"かってに\" data-en=\"without permission; on one's own\"><ruby>勝手<rt>かって</rt></ruby>に</span><ruby>使わ<rt>つかわ</rt></ruby>れる<span class=\"vw\" data-ja=\"被害\" data-reading=\"ひがい\" data-en=\"damage, harm\"><ruby>被害<rt>ひがい</rt></ruby></span>は、<ruby>確認さ<rt>かくにんさ</rt></ruby>れていますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "No, not so far."
+    },
+    {
+      "speaker": "slow",
+      "text": "覚えのないカードの利用があったら、どこに連絡しますか。",
+      "ruby": "<ruby>覚え<rt>おぼえ</rt></ruby>のないカードの<ruby>利用<rt>りよう</rt></ruby>があったら、どこに<ruby>連絡<rt>れんらく</rt></ruby>しますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Their card company."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "ja": "漏れる",
+      "reading": "もれる",
+      "en": "to leak",
+      "zh": "泄露；漏出"
+    },
+    {
+      "ja": "おそれ",
+      "reading": "おそれ",
+      "en": "risk, fear (that something bad may happen)",
+      "zh": "恐怕；有……的危险"
+    },
+    {
+      "ja": "攻撃",
+      "reading": "こうげき",
+      "en": "attack",
+      "zh": "攻击"
+    },
+    {
+      "ja": "要求する",
+      "reading": "ようきゅうする",
+      "en": "to demand",
+      "zh": "要求；索要"
+    },
+    {
+      "ja": "被害",
+      "reading": "ひがい",
+      "en": "damage, harm",
+      "zh": "受害；损失"
+    },
+    {
+      "ja": "取引先",
+      "reading": "とりひきさき",
+      "en": "business partner, client",
+      "zh": "交易方；客户"
+    },
+    {
+      "ja": "含まれる",
+      "reading": "ふくまれる",
+      "en": "to be included",
+      "zh": "被包含"
+    },
+    {
+      "ja": "書類",
+      "reading": "しょるい",
+      "en": "documents, papers",
+      "zh": "文件；材料"
+    },
+    {
+      "ja": "主張する",
+      "reading": "しゅちょうする",
+      "en": "to claim, to insist",
+      "zh": "主张；声称"
+    },
+    {
+      "ja": "勝手に",
+      "reading": "かってに",
+      "en": "without permission; on one's own",
+      "zh": "擅自；随便"
+    },
+    {
+      "ja": "呼びかける",
+      "reading": "よびかける",
+      "en": "to call on, to urge",
+      "zh": "呼吁"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜おそれがある",
+      "meaning": "there is a risk that ~",
+      "meaningZh": "有……的可能（危险）",
+      "formation": "Plain form / Noun + の + おそれがある",
+      "example": "個人情報が漏れたおそれがあると発表しました。",
+      "translation": "It announced that personal information may have leaked.",
+      "note": "Used for bad possibilities; common in news and warnings.",
+      "noteZh": "用于不好的可能性，新闻和警报中常见。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜を受ける",
+      "meaning": "to suffer / receive ~",
+      "meaningZh": "受到……；遭到……",
+      "formation": "Noun + を受ける",
+      "example": "グループの会社がサイバー攻撃を受けました。",
+      "translation": "Group companies were hit by a cyberattack.",
+      "note": "With nouns like 攻撃 or 被害, it means to suffer them.",
+      "noteZh": "与攻击、损害等名词搭配，表示遭受。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜にのぼる",
+      "meaning": "to amount to / reach (a large number)",
+      "meaningZh": "达到；多达",
+      "formation": "Number + にのぼる",
+      "example": "約1063万人分にのぼります。",
+      "translation": "It amounts to about 10.63 million people.",
+      "note": "Stresses that the number is large.",
+      "noteZh": "强调数量很大。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~ / reportedly",
+      "meaningZh": "据说……；据称……",
+      "formation": "Plain form + ということです",
+      "example": "被害は確認されていないということです。",
+      "translation": "No damage has been confirmed, it is reported.",
+      "note": "News uses it to pass on what someone said.",
+      "noteZh": "新闻中用来转述消息来源的话。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜よう（に）呼びかける",
+      "meaning": "to urge (someone) to ~",
+      "meaningZh": "呼吁……",
+      "formation": "Dictionary form + よう（に）呼びかける",
+      "example": "カード会社に連絡するよう呼びかけています。",
+      "translation": "It urges people to contact their card company.",
+      "note": "よう shows the content of a request.",
+      "noteZh": "よう表示请求或呼吁的内容。",
+      "level": "N3"
+    }
+  ],
+  "practiceZh": [
+    "東京の私鉄「京王電鉄」は、グループの会社がサイバー攻撃を受けて、個人情報が漏れたおそれがあると発表しました。\n东京的私营铁路公司京王电铁宣布，其集团公司遭到网络攻击，个人信息可能已经泄露。\n漏れる = to leak\nおそれ = risk, fear (that something bad may happen)",
+    "攻撃があったのは、9月26日の朝早くでした。\n攻击发生在9月26日清晨。\n攻撃 = attack",
+    "使われたのは「ランサムウェア」という、データを人質にしてお金を要求するコンピューターウイルスです。\n攻击使用的是“勒索软件”，一种把数据当作人质来索要钱财的电脑病毒。\n要求する = to demand",
+    "被害を受けたのは、ホテルや不動産、旅行などの仕事をするグループの会社です。\n受害的是从事酒店、房地产、旅游等业务的集团公司。\n被害 = damage, harm",
+    "客や取引先の名前、住所、電話番号などは、約1063万人分にのぼります。\n顾客和交易方的姓名、地址、电话号码等多达约1063万人。\n取引先 = business partner, client",
+    "ホテルに泊まった客のパスポートのコピーも、約160万件含まれています。\n其中还包括约160万份酒店住客的护照复印件。\n含まれる = to be included",
+    "不動産の契約に使った免許証やマイナンバーカードなど、本人確認の書類も約4万6000件ありました。\n还有约4万6000份用于房地产合同的驾照、个人编号卡等身份证明文件。\n書類 = documents, papers",
+    "海外のハッカーのグループが、自分たちがやったと主張しています。\n一个海外黑客组织声称是他们所为。\n主張する = to claim, to insist",
+    "今のところ、カードが勝手に使われるなどの被害は確認されていないということです。\n据称，目前尚未发现信用卡被盗刷等损失。\n勝手に = without permission; on one's own",
+    "会社は、覚えのないカードの利用があったら、カード会社に連絡するよう呼びかけています。\n公司呼吁，如果发现自己不记得的刷卡记录，请联系信用卡公司。\n呼びかける = to call on, to urge"
+  ]
+}
