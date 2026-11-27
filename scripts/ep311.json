@@ -1,0 +1,508 @@
+{
+  "episode": 311,
+  "title": "マック、売れすぎで休んだチキンの商品をまた販売へ",
+  "titleZh": "麦当劳因热销停售的鸡肉汉堡将重新开卖",
+  "titleEn": "McDonald's Japan brings back chicken burgers that sold out too fast",
+  "date": "2026-11-28",
+  "source": "ライブドアニュース、マイナビニュース、ASCII.jp",
+  "level": "N5-N4",
+  "contentVersion": "2026112801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "売る",
+      "reading": "うる",
+      "en": "to sell",
+      "zh": "卖；销售"
+    },
+    {
+      "ja": "商品",
+      "reading": "しょうひん",
+      "en": "product; goods for sale",
+      "zh": "商品"
+    },
+    {
+      "ja": "厚い",
+      "reading": "あつい",
+      "en": "thick",
+      "zh": "厚"
+    },
+    {
+      "ja": "用意する",
+      "reading": "よういする",
+      "en": "to prepare; to get ready",
+      "zh": "准备；预备"
+    },
+    {
+      "ja": "準備",
+      "reading": "じゅんび",
+      "en": "preparation",
+      "zh": "准备"
+    },
+    {
+      "ja": "全国",
+      "reading": "ぜんこく",
+      "en": "the whole country; nationwide",
+      "zh": "全国"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜始める",
+      "meaning": "to start ~ing",
+      "meaningZh": "开始……",
+      "formation": "Verb ます-stem + 始める",
+      "example": "これらの商品は、10月21日に売り始めた、新しいメニューです。",
+      "translation": "These products are new menu items that went on sale on October 21.",
+      "note": "Attach 始める to the verb stem to say an action starts.",
+      "noteZh": "接在动词ます形词干后，表示动作开始。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜より",
+      "meaning": "than ~",
+      "meaningZh": "比……",
+      "formation": "Noun / plain verb + より",
+      "example": "思っていたよりずっとたくさん売れたため、鶏肉を十分に用意するのが難しくなりました。",
+      "translation": "Because they sold far more than expected, it became hard to prepare enough chicken.",
+      "note": "Marks the thing being compared against; ずっと makes the difference bigger.",
+      "noteZh": "表示比较的基准；加上ずっと表示差距很大。",
+      "level": "N5"
+    },
+    {
+      "pattern": "〜ため",
+      "meaning": "because of ~; due to ~",
+      "meaningZh": "因为……；由于……",
+      "formation": "Plain form + ため",
+      "example": "思っていたよりずっとたくさん売れたため、鶏肉を十分に用意するのが難しくなりました。",
+      "translation": "Because they sold far more than expected, it became hard to prepare enough chicken.",
+      "note": "A formal way to give a reason, common in news.",
+      "noteZh": "表示原因，语气较正式，新闻中常用。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことにする",
+      "meaning": "to decide to ~",
+      "meaningZh": "决定……",
+      "formation": "Verb dictionary form + ことにする",
+      "example": "会社は、準備ができたので、また売ることにしたと話しています。",
+      "translation": "The company says it decided to sell them again because it is now ready.",
+      "note": "Shows a decision made by the speaker or subject.",
+      "noteZh": "表示主语自己做出的决定。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ことができる",
+      "meaning": "can ~; be able to ~",
+      "meaningZh": "能……；可以……",
+      "formation": "Verb dictionary form + ことができる",
+      "example": "30日は、午前10時半から、全国の店で買うことができます。",
+      "translation": "On the 30th, people can buy them at shops across the country from 10:30 a.m.",
+      "note": "A slightly formal way to say something is possible.",
+      "noteZh": "表示可能，语气稍正式。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "ハンバーガーの店「マクドナルド」は、休んでいたチキンのハンバーガーなどを、11月30日から、また売ります。\n汉堡店麦当劳将从11月30日起，重新开始销售之前暂停的鸡肉汉堡等商品。\n売る = to sell",
+    "売るのは、鶏のもも肉を使った「ザクザクジューシーマック」など、7つの商品です。\n重新销售的是使用鸡腿肉的“酥脆多汁麦”等7款商品。\n商品 = product; goods for sale",
+    "これらの商品は、10月21日に売り始めた、新しいメニューです。\n这些商品是10月21日开始销售的新菜单。",
+    "外側はザクザクしていて、中には厚い鶏肉が1枚入っています。\n外皮酥脆，里面夹着一整块厚厚的鸡肉。\n厚い = thick",
+    "しかし、思っていたよりずっとたくさん売れたため、鶏肉を十分に用意するのが難しくなりました。\n但是，由于卖得比预想的多得多，很难准备足够的鸡肉。\n用意する = to prepare; to get ready",
+    "そのため、11月13日から、売るのを休んでいました。\n因此，从11月13日起暂停了销售。",
+    "会社は、準備ができたので、また売ることにしたと話しています。\n公司表示，因为已经做好了准备，所以决定重新销售。\n準備 = preparation",
+    "30日は、午前10時半から、全国の店で買うことができます。\n30日上午10点半起，可以在全国的门店购买。\n全国 = the whole country; nationwide",
+    "12月6日までの1週間は、アプリのクーポンで、セットが100円安くなります。\n到12月6日为止的一周内，用应用程序的优惠券，套餐便宜100日元。",
+    "夜5時からは、チキンが2枚入ったハンバーガーも食べられます。\n晚上5点以后，还可以吃到夹两块鸡肉的汉堡。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-eighth: McDonald's in Japan is bringing back chicken burgers that sold too well. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "ハンバーガーの店「マクドナルド」は、休んでいたチキンのハンバーガーなどを、11月30日から、また売ります。",
+      "zh": "汉堡店麦当劳将从11月30日起，重新开始销售之前暂停的鸡肉汉堡等商品。",
+      "en": "The hamburger chain McDonald's will start selling its paused chicken burgers and other items again from November 30.",
+      "ruby": "ハンバーガーの<ruby>店<rt>みせ</rt></ruby>「マクドナルド」は、<ruby>休ん<rt>やすん</rt></ruby>でいたチキンのハンバーガーなどを、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>から、また<ruby>売り<rt>うり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "売るのは、鶏のもも肉を使った「ザクザクジューシーマック」など、7つの商品です。",
+      "zh": "重新销售的是使用鸡腿肉的“酥脆多汁麦”等7款商品。",
+      "en": "The items going back on sale are seven products, such as the Zaku Zaku Juicy Mac, made with chicken thigh meat.",
+      "tts": "売るのは、とりのもも肉を使った「ザクザクジューシーマック」など、7つの商品です。",
+      "ruby": "<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のは、<ruby>鶏<rt>とり</rt></ruby>のもも<ruby>肉<rt>にく</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby>「ザクザクジューシーマック」など、7つの<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これらの商品は、10月21日に売り始めた、新しいメニューです。",
+      "zh": "这些商品是10月21日开始销售的新菜单。",
+      "en": "These products are new menu items that went on sale on October 21.",
+      "ruby": "これらの<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た、<ruby>新しい<rt>あたらしい</rt></ruby>メニューです。"
+    },
+    {
+      "speaker": "news",
+      "text": "外側はザクザクしていて、中には厚い鶏肉が1枚入っています。",
+      "zh": "外皮酥脆，里面夹着一整块厚厚的鸡肉。",
+      "en": "The outside is crunchy, and inside there is one thick piece of chicken.",
+      "tts": "外側はザクザクしていて、中には厚いとりにくが1枚入っています。",
+      "ruby": "<ruby>外側<rt>そとがわ</rt></ruby>はザクザクしていて、<ruby>中に<rt>なかに</rt></ruby>は<span class=\"vw\" data-ja=\"厚い\" data-reading=\"あつい\" data-en=\"thick\"><ruby>厚い<rt>あつい</rt></ruby></span><ruby>鶏肉<rt>とりにく</rt></ruby>が1<ruby>枚<rt>まい</rt></ruby><ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、思っていたよりずっとたくさん売れたため、鶏肉を十分に用意するのが難しくなりました。",
+      "zh": "但是，由于卖得比预想的多得多，很难准备足够的鸡肉。",
+      "en": "However, because they sold far more than expected, it became hard to prepare enough chicken.",
+      "tts": "しかし、思っていたよりずっとたくさん売れたため、とりにくを十分に用意するのが難しくなりました。",
+      "ruby": "しかし、<ruby>思って<rt>おもって</rt></ruby>いたよりずっとたくさん<ruby>売れ<rt>うれ</rt></ruby>たため、<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<span class=\"vw\" data-ja=\"用意する\" data-reading=\"よういする\" data-en=\"to prepare; to get ready\"><ruby>用意す<rt>よういす</rt></ruby>るのが</span><ruby>難しく<rt>むずかしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、11月13日から、売るのを休んでいました。",
+      "zh": "因此，从11月13日起暂停了销售。",
+      "en": "So, from November 13, the company stopped selling them for a while.",
+      "ruby": "そのため、11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>から、<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のを<ruby>休ん<rt>やすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、準備ができたので、また売ることにしたと話しています。",
+      "zh": "公司表示，因为已经做好了准备，所以决定重新销售。",
+      "en": "The company says it decided to sell them again because it is now ready.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>ができたので、また<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことにしたと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "30日は、午前10時半から、全国の店で買うことができます。",
+      "zh": "30日上午10点半起，可以在全国的门店购买。",
+      "en": "On the 30th, people can buy them at shops across the country from 10:30 a.m.",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時半<rt>じはん</rt></ruby>から、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country; nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>で<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "12月6日までの1週間は、アプリのクーポンで、セットが100円安くなります。",
+      "zh": "到12月6日为止的一周内，用应用程序的优惠券，套餐便宜100日元。",
+      "en": "For one week until December 6, sets will be 100 yen cheaper with a coupon in the app.",
+      "ruby": "12<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>までの1<ruby>週間<rt>しゅうかん</rt></ruby>は、アプリのクーポンで、セットが100<ruby>円<rt>えん</rt></ruby><ruby>安<rt>やす</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜5時からは、チキンが2枚入ったハンバーガーも食べられます。",
+      "zh": "晚上5点以后，还可以吃到夹两块鸡肉的汉堡。",
+      "en": "From 5 p.m., people can also eat burgers with two pieces of chicken.",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>5<ruby>時<rt>じ</rt></ruby>からは、チキンが2<ruby>枚<rt>まい</rt></ruby><ruby>入っ<rt>はいっ</rt></ruby>たハンバーガーも<ruby>食べ<rt>たべ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "ハンバーガーの店「マクドナルド」は、休んでいたチキンのハンバーガーなどを、11月30日から、また売ります。",
+      "ruby": "ハンバーガーの<ruby>店<rt>みせ</rt></ruby>「マクドナルド」は、<ruby>休ん<rt>やすん</rt></ruby>でいたチキンのハンバーガーなどを、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>から、また<ruby>売り<rt>うり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "host",
+      "text": "McDonald's will sell its paused chicken burgers and other items again from November thirtieth."
+    },
+    {
+      "speaker": "vocab",
+      "text": "売る",
+      "ruby": "<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to sell."
+    },
+    {
+      "speaker": "slow",
+      "text": "売るのは、鶏のもも肉を使った「ザクザクジューシーマック」など、7つの商品です。",
+      "tts": "売るのは、とりのもも肉を使った「ザクザクジューシーマック」など、7つの商品です。",
+      "ruby": "<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のは、<ruby>鶏<rt>とり</rt></ruby>のもも<ruby>肉<rt>にく</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby>「ザクザクジューシーマック」など、7つの<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "They are seven products, like the Zaku Zaku Juicy Mac, made with chicken thigh meat."
+    },
+    {
+      "speaker": "vocab",
+      "text": "商品",
+      "ruby": "<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means product, or goods for sale."
+    },
+    {
+      "speaker": "slow",
+      "text": "これらの商品は、10月21日に売り始めた、新しいメニューです。",
+      "ruby": "これらの<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た、<ruby>新しい<rt>あたらしい</rt></ruby>メニューです。"
+    },
+    {
+      "speaker": "host",
+      "text": "These are new menu items that went on sale on October twenty-first."
+    },
+    {
+      "speaker": "slow",
+      "text": "外側はザクザクしていて、中には厚い鶏肉が1枚入っています。",
+      "tts": "外側はザクザクしていて、中には厚いとりにくが1枚入っています。",
+      "ruby": "<ruby>外側<rt>そとがわ</rt></ruby>はザクザクしていて、<ruby>中に<rt>なかに</rt></ruby>は<span class=\"vw\" data-ja=\"厚い\" data-reading=\"あつい\" data-en=\"thick\"><ruby>厚い<rt>あつい</rt></ruby></span><ruby>鶏肉<rt>とりにく</rt></ruby>が1<ruby>枚<rt>まい</rt></ruby><ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The outside is crunchy, and inside there is one thick piece of chicken."
+    },
+    {
+      "speaker": "vocab",
+      "text": "厚い",
+      "ruby": "<span class=\"vw\" data-ja=\"厚い\" data-reading=\"あつい\" data-en=\"thick\"><ruby>厚い<rt>あつい</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means thick, for things like meat, books or walls."
+    },
+    {
+      "speaker": "slow",
+      "text": "しかし、思っていたよりずっとたくさん売れたため、鶏肉を十分に用意するのが難しくなりました。",
+      "tts": "しかし、思っていたよりずっとたくさん売れたため、とりにくを十分に用意するのが難しくなりました。",
+      "ruby": "しかし、<ruby>思って<rt>おもって</rt></ruby>いたよりずっとたくさん<ruby>売れ<rt>うれ</rt></ruby>たため、<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<span class=\"vw\" data-ja=\"用意する\" data-reading=\"よういする\" data-en=\"to prepare; to get ready\"><ruby>用意す<rt>よういす</rt></ruby>るのが</span><ruby>難しく<rt>むずかしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "But they sold much more than expected, so it became hard to prepare enough chicken."
+    },
+    {
+      "speaker": "vocab",
+      "text": "用意する",
+      "ruby": "<span class=\"vw\" data-ja=\"用意する\" data-reading=\"よういする\" data-en=\"to prepare; to get ready\"><ruby>用意す<rt>よういす</rt></ruby>る</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to prepare or get something ready."
+    },
+    {
+      "speaker": "slow",
+      "text": "そのため、11月13日から、売るのを休んでいました。",
+      "ruby": "そのため、11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>から、<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のを<ruby>休ん<rt>やすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "host",
+      "text": "So from November thirteenth, the company stopped selling them for a while."
+    },
+    {
+      "speaker": "slow",
+      "text": "会社は、準備ができたので、また売ることにしたと話しています。",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>ができたので、また<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことにしたと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The company says it is ready now, so it decided to sell them again."
+    },
+    {
+      "speaker": "vocab",
+      "text": "準備",
+      "ruby": "<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means preparation. Ready means the preparation is done."
+    },
+    {
+      "speaker": "slow",
+      "text": "30日は、午前10時半から、全国の店で買うことができます。",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時半<rt>じはん</rt></ruby>から、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country; nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>で<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "host",
+      "text": "On the thirtieth, you can buy them at shops all over the country from ten thirty in the morning."
+    },
+    {
+      "speaker": "vocab",
+      "text": "全国",
+      "ruby": "<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country; nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means the whole country, or nationwide."
+    },
+    {
+      "speaker": "slow",
+      "text": "12月6日までの1週間は、アプリのクーポンで、セットが100円安くなります。",
+      "ruby": "12<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>までの1<ruby>週間<rt>しゅうかん</rt></ruby>は、アプリのクーポンで、セットが100<ruby>円<rt>えん</rt></ruby><ruby>安<rt>やす</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "host",
+      "text": "For one week until December sixth, sets are one hundred yen cheaper with an app coupon."
+    },
+    {
+      "speaker": "slow",
+      "text": "夜5時からは、チキンが2枚入ったハンバーガーも食べられます。",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>5<ruby>時<rt>じ</rt></ruby>からは、チキンが2<ruby>枚<rt>まい</rt></ruby><ruby>入っ<rt>はいっ</rt></ruby>たハンバーガーも<ruby>食べ<rt>たべ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "host",
+      "text": "From five in the evening, you can also eat burgers with two pieces of chicken."
+    },
+    {
+      "speaker": "host",
+      "text": "Let's listen to the full story again."
+    },
+    {
+      "speaker": "news",
+      "text": "ハンバーガーの店「マクドナルド」は、休んでいたチキンのハンバーガーなどを、11月30日から、また売ります。",
+      "zh": "汉堡店麦当劳将从11月30日起，重新开始销售之前暂停的鸡肉汉堡等商品。",
+      "en": "The hamburger chain McDonald's will start selling its paused chicken burgers and other items again from November 30.",
+      "ruby": "ハンバーガーの<ruby>店<rt>みせ</rt></ruby>「マクドナルド」は、<ruby>休ん<rt>やすん</rt></ruby>でいたチキンのハンバーガーなどを、11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>から、また<ruby>売り<rt>うり</rt></ruby>ます。"
+    },
+    {
+      "speaker": "news",
+      "text": "売るのは、鶏のもも肉を使った「ザクザクジューシーマック」など、7つの商品です。",
+      "zh": "重新销售的是使用鸡腿肉的“酥脆多汁麦”等7款商品。",
+      "en": "The items going back on sale are seven products, such as the Zaku Zaku Juicy Mac, made with chicken thigh meat.",
+      "tts": "売るのは、とりのもも肉を使った「ザクザクジューシーマック」など、7つの商品です。",
+      "ruby": "<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のは、<ruby>鶏<rt>とり</rt></ruby>のもも<ruby>肉<rt>にく</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby>「ザクザクジューシーマック」など、7つの<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "これらの商品は、10月21日に売り始めた、新しいメニューです。",
+      "zh": "这些商品是10月21日开始销售的新菜单。",
+      "en": "These products are new menu items that went on sale on October 21.",
+      "ruby": "これらの<span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>は、10<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>に<ruby>売り<rt>うり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た、<ruby>新しい<rt>あたらしい</rt></ruby>メニューです。"
+    },
+    {
+      "speaker": "news",
+      "text": "外側はザクザクしていて、中には厚い鶏肉が1枚入っています。",
+      "zh": "外皮酥脆，里面夹着一整块厚厚的鸡肉。",
+      "en": "The outside is crunchy, and inside there is one thick piece of chicken.",
+      "tts": "外側はザクザクしていて、中には厚いとりにくが1枚入っています。",
+      "ruby": "<ruby>外側<rt>そとがわ</rt></ruby>はザクザクしていて、<ruby>中に<rt>なかに</rt></ruby>は<span class=\"vw\" data-ja=\"厚い\" data-reading=\"あつい\" data-en=\"thick\"><ruby>厚い<rt>あつい</rt></ruby></span><ruby>鶏肉<rt>とりにく</rt></ruby>が1<ruby>枚<rt>まい</rt></ruby><ruby>入っ<rt>はいっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "しかし、思っていたよりずっとたくさん売れたため、鶏肉を十分に用意するのが難しくなりました。",
+      "zh": "但是，由于卖得比预想的多得多，很难准备足够的鸡肉。",
+      "en": "However, because they sold far more than expected, it became hard to prepare enough chicken.",
+      "tts": "しかし、思っていたよりずっとたくさん売れたため、とりにくを十分に用意するのが難しくなりました。",
+      "ruby": "しかし、<ruby>思って<rt>おもって</rt></ruby>いたよりずっとたくさん<ruby>売れ<rt>うれ</rt></ruby>たため、<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<span class=\"vw\" data-ja=\"用意する\" data-reading=\"よういする\" data-en=\"to prepare; to get ready\"><ruby>用意す<rt>よういす</rt></ruby>るのが</span><ruby>難しく<rt>むずかしく</rt></ruby>なりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "そのため、11月13日から、売るのを休んでいました。",
+      "zh": "因此，从11月13日起暂停了销售。",
+      "en": "So, from November 13, the company stopped selling them for a while.",
+      "ruby": "そのため、11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>から、<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のを<ruby>休ん<rt>やすん</rt></ruby>でいました。"
+    },
+    {
+      "speaker": "news",
+      "text": "会社は、準備ができたので、また売ることにしたと話しています。",
+      "zh": "公司表示，因为已经做好了准备，所以决定重新销售。",
+      "en": "The company says it decided to sell them again because it is now ready.",
+      "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"vw\" data-ja=\"準備\" data-reading=\"じゅんび\" data-en=\"preparation\"><ruby>準備<rt>じゅんび</rt></ruby></span>ができたので、また<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>ことにしたと<ruby>話し<rt>はなし</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "30日は、午前10時半から、全国の店で買うことができます。",
+      "zh": "30日上午10点半起，可以在全国的门店购买。",
+      "en": "On the 30th, people can buy them at shops across the country from 10:30 a.m.",
+      "ruby": "30<ruby>日<rt>にち</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時半<rt>じはん</rt></ruby>から、<span class=\"vw\" data-ja=\"全国\" data-reading=\"ぜんこく\" data-en=\"the whole country; nationwide\"><ruby>全国<rt>ぜんこく</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>で<ruby>買う<rt>かう</rt></ruby>ことができます。"
+    },
+    {
+      "speaker": "news",
+      "text": "12月6日までの1週間は、アプリのクーポンで、セットが100円安くなります。",
+      "zh": "到12月6日为止的一周内，用应用程序的优惠券，套餐便宜100日元。",
+      "en": "For one week until December 6, sets will be 100 yen cheaper with a coupon in the app.",
+      "ruby": "12<ruby>月<rt>がつ</rt></ruby><ruby>6日<rt>むいか</rt></ruby>までの1<ruby>週間<rt>しゅうかん</rt></ruby>は、アプリのクーポンで、セットが100<ruby>円<rt>えん</rt></ruby><ruby>安<rt>やす</rt></ruby>くなります。"
+    },
+    {
+      "speaker": "news",
+      "text": "夜5時からは、チキンが2枚入ったハンバーガーも食べられます。",
+      "zh": "晚上5点以后，还可以吃到夹两块鸡肉的汉堡。",
+      "en": "From 5 p.m., people can also eat burgers with two pieces of chicken.",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>5<ruby>時<rt>じ</rt></ruby>からは、チキンが2<ruby>枚<rt>まい</rt></ruby><ruby>入っ<rt>はいっ</rt></ruby>たハンバーガーも<ruby>食べ<rt>たべ</rt></ruby>られます。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "マクドナルドは、いつからチキンのハンバーガーをまた売りますか。",
+      "ruby": "マクドナルドは、いつからチキンのハンバーガーをまた<ruby>売り<rt>うり</rt></ruby>ますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From November thirtieth."
+    },
+    {
+      "speaker": "slow",
+      "text": "また売る商品は、いくつですか。",
+      "ruby": "また<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span><span class=\"vw\" data-ja=\"商品\" data-reading=\"しょうひん\" data-en=\"product; goods for sale\"><ruby>商品<rt>しょうひん</rt></ruby></span>は、いくつですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Seven."
+    },
+    {
+      "speaker": "slow",
+      "text": "どうして、売るのを休んでいましたか。",
+      "ruby": "どうして、<span class=\"vw\" data-ja=\"売る\" data-reading=\"うる\" data-en=\"to sell\"><ruby>売る<rt>うる</rt></ruby></span>のを<ruby>休ん<rt>やすん</rt></ruby>でいましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "They sold much more than expected, and it became hard to prepare enough chicken."
+    },
+    {
+      "speaker": "slow",
+      "text": "アプリのクーポンで、セットはいくら安くなりますか。",
+      "ruby": "アプリのクーポンで、セットはいくら<ruby>安く<rt>やすく</rt></ruby>なりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "One hundred yen."
+    },
+    {
+      "speaker": "slow",
+      "text": "夜5時からは、どんなハンバーガーが食べられますか。",
+      "ruby": "<ruby>夜<rt>よる</rt></ruby>5<ruby>時<rt>じ</rt></ruby>からは、どんなハンバーガーが<ruby>食べ<rt>たべ</rt></ruby>られますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Burgers with two pieces of chicken."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
