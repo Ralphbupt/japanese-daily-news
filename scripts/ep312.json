@@ -1,0 +1,662 @@
+{
+  "episode": 312,
+  "title": "絶滅危惧種のペンギン、人工授精で赤ちゃん誕生　世界初",
+  "titleZh": "濒危北跳岩企鹅人工授精繁殖成功，全球首例",
+  "titleEn": "Endangered penguin chick born by artificial insemination, a world first",
+  "date": "2026-11-28",
+  "source": "NHK、時事通信、テレビ朝日（ANN）、読売テレビ",
+  "level": "N4-N3",
+  "contentVersion": "2026112801",
+  "characters": {
+    "host": {
+      "voice": "en-US-AvaNeural",
+      "role": "English host",
+      "lang": "en",
+      "rate": "-5%"
+    },
+    "news": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "News reader",
+      "lang": "ja",
+      "rate": "-25%"
+    },
+    "slow": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Slow repeat",
+      "lang": "ja",
+      "rate": "-30%"
+    },
+    "vocab": {
+      "voice": "ja-JP-NanamiNeural",
+      "role": "Vocabulary word",
+      "lang": "ja",
+      "rate": "-30%"
+    }
+  },
+  "vocabulary": [
+    {
+      "ja": "絶滅",
+      "reading": "ぜつめつ",
+      "en": "extinction",
+      "zh": "灭绝"
+    },
+    {
+      "ja": "特徴",
+      "reading": "とくちょう",
+      "en": "feature; characteristic",
+      "zh": "特征"
+    },
+    {
+      "ja": "取り組む",
+      "reading": "とりくむ",
+      "en": "to work on; to tackle",
+      "zh": "致力于；着手"
+    },
+    {
+      "ja": "かえる",
+      "reading": "かえる",
+      "en": "to hatch (from an egg)",
+      "zh": "孵化"
+    },
+    {
+      "ja": "成功する",
+      "reading": "せいこうする",
+      "en": "to succeed",
+      "zh": "成功"
+    },
+    {
+      "ja": "育つ",
+      "reading": "そだつ",
+      "en": "to grow up; to be raised",
+      "zh": "成长；长大"
+    },
+    {
+      "ja": "飼う",
+      "reading": "かう",
+      "en": "to keep (an animal)",
+      "zh": "饲养"
+    },
+    {
+      "ja": "募集する",
+      "reading": "ぼしゅうする",
+      "en": "to invite applications; to call for",
+      "zh": "募集；征集"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "〜にかけて",
+      "meaning": "from ~ to ~ (over a stretch)",
+      "meaningZh": "从……到……（一段范围）",
+      "formation": "Noun + から + Noun + にかけて",
+      "example": "目のあたりから頭の後ろにかけて、黄色い飾りの羽があるのが特徴です。",
+      "translation": "Its feature is the yellow ornamental feathers from around its eyes to the back of its head.",
+      "note": "Marks a stretch of space or time without exact edges.",
+      "noteZh": "表示空间或时间上的一段范围，界限不太明确。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜てきました",
+      "meaning": "have been ~ing (up to now)",
+      "meaningZh": "（一直）……到现在",
+      "formation": "Verb て-form + きました",
+      "example": "2024年から、このペンギンの人工授精に取り組んできました。",
+      "translation": "They have been working on artificial insemination of this penguin since 2024.",
+      "note": "Shows an action that continued from the past up to now.",
+      "noteZh": "表示动作从过去一直持续到现在。",
+      "level": "N4"
+    },
+    {
+      "pattern": "AではなくB",
+      "meaning": "not A but B",
+      "meaningZh": "不是A而是B",
+      "formation": "Noun + ではなく + Noun",
+      "example": "母親とペアになっているオスではなく、精子を取ったオスの子どもだとわかりました。",
+      "translation": "It was found to be the child not of the male paired with the mother, but of the male the sperm was taken from.",
+      "note": "Denies A and gives B as the correct one.",
+      "noteZh": "否定A，指出B才是正确的。",
+      "level": "N4"
+    },
+    {
+      "pattern": "〜ということです",
+      "meaning": "it is said that ~; reportedly",
+      "meaningZh": "据说……",
+      "formation": "Plain form + ということです",
+      "example": "成功したのは、18種類のうち4種類だけだということです。",
+      "translation": "Reportedly it has succeeded in only 4 of the 18 kinds.",
+      "note": "Used in the news to pass on information from a source.",
+      "noteZh": "新闻中常用，转述从消息来源得到的信息。",
+      "level": "N3"
+    },
+    {
+      "pattern": "〜ようになる",
+      "meaning": "to come to (be able to) ~",
+      "meaningZh": "变得（能）……",
+      "formation": "Verb dictionary / potential form + ようになる",
+      "example": "一般の人が見られるようになるのは、来年3月ごろの予定です。",
+      "translation": "The public is expected to be able to see it from around March next year.",
+      "note": "Shows a change into a new state or ability.",
+      "noteZh": "表示状态或能力发生了变化。",
+      "level": "N4"
+    }
+  ],
+  "practiceZh": [
+    "和歌山県白浜町の「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、人工授精で生まれたと発表しました。\n和歌山县白滨町的“冒险大世界”于11月27日宣布，一只令人担心灭绝的企鹅宝宝通过人工授精出生了。\n絶滅 = extinction",
+    "このペンギンは、「キタイワトビペンギン」という種類です。\n这种企鹅是一种叫作“北跳岩企鹅”的种类。",
+    "目のあたりから頭の後ろにかけて、黄色い飾りの羽があるのが特徴です。\n从眼睛附近到脑后长着黄色的饰羽，这是它的特征。\n特徴 = feature; characteristic",
+    "南極の周りにすんでいて、絶滅のおそれがある動物の一つです。\n它生活在南极周边，是有灭绝危险的动物之一。",
+    "アドベンチャーワールドでは、2024年から、このペンギンの人工授精に取り組んできました。\n冒险大世界从2024年起一直致力于这种企鹅的人工授精。\n取り組む = to work on; to tackle",
+    "今年9月、8歳のオスから精子を取って、メスの体の中に入れました。\n今年9月，从一只8岁的雄企鹅身上采集精子，放入了雌企鹅体内。",
+    "その後、卵ができて、10月28日に、重さ62グラムの赤ちゃんがかえりました。\n之后产下了受精卵，10月28日，一只重62克的企鹅宝宝孵化了。\nかえる = to hatch (from an egg)",
+    "外の専門の機関が、赤ちゃんのDNAを調べました。\n外部的专业机构对宝宝的DNA进行了检测。",
+    "その結果、母親とペアになっているオスではなく、精子を取ったオスの子どもだとわかりました。\n结果确认，它不是母亲的配偶雄企鹅的孩子，而是被采集精子的那只雄企鹅的孩子。",
+    "ペンギンの人工授精は難しく、成功したのは、18種類のうち4種類だけだということです。\n据说企鹅的人工授精很难，在18种企鹅中只有4种获得过成功。\n成功する = to succeed",
+    "このペンギンで成功したのは、世界で初めてです。\n在这种企鹅身上取得成功，在世界上尚属首次。",
+    "赤ちゃんはメスで、今は561グラムまで大きくなって、元気に育っています。\n宝宝是雌性，现在已经长到561克，正在健康成长。\n育つ = to grow up; to be raised",
+    "アドベンチャーワールドでは、国内でいちばん多い10種類、およそ470羽のペンギンを飼っています。\n冒险大世界饲养着日本国内最多的10种、约470只企鹅。\n飼う = to keep (an animal)",
+    "赤ちゃんの名前は、12月に募集する予定です。\n宝宝的名字计划在12月征集。\n募集する = to invite applications; to call for",
+    "一般の人が見られるようになるのは、来年3月ごろの予定です。\n预计从明年3月左右起，普通游客就可以看到它了。"
+  ],
+  "segments": [
+    {
+      "speaker": "host",
+      "text": "Welcome to Japanese Daily News. I'm Maya. Today, November twenty-eighth: a park in western Japan has bred a rare penguin chick in a world first. Let's listen."
+    },
+    {
+      "speaker": "news",
+      "text": "和歌山県白浜町の「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、人工授精で生まれたと発表しました。",
+      "zh": "和歌山县白滨町的“冒险大世界”于11月27日宣布，一只令人担心灭绝的企鹅宝宝通过人工授精出生了。",
+      "en": "Adventure World in Shirahama, Wakayama Prefecture, announced on November 27 that a baby of a penguin feared to be going extinct was born through artificial insemination.",
+      "tts": "和歌山県しらはまちょうの「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、じんこうじゅせいで生まれたと発表しました。",
+      "ruby": "<ruby>和歌山県<rt>わかやまけん</rt></ruby><ruby>白浜町<rt>しらはまちょう</rt></ruby>の「アドベンチャーワールド」は、11<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>されているペンギンの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が、<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>たと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このペンギンは、「キタイワトビペンギン」という種類です。",
+      "zh": "这种企鹅是一种叫作“北跳岩企鹅”的种类。",
+      "en": "This penguin is a kind called the northern rockhopper penguin.",
+      "ruby": "このペンギンは、「キタイワトビペンギン」という<ruby>種類<rt>しゅるい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "目のあたりから頭の後ろにかけて、黄色い飾りの羽があるのが特徴です。",
+      "zh": "从眼睛附近到脑后长着黄色的饰羽，这是它的特征。",
+      "en": "Its special feature is the yellow ornamental feathers from around its eyes to the back of its head.",
+      "ruby": "<ruby>目の<rt>めの</rt></ruby>あたりから<ruby>頭<rt>あたま</rt></ruby>の<ruby>後ろ<rt>うしろ</rt></ruby>にかけて、<ruby>黄色い<rt>きいろい</rt></ruby><ruby>飾り<rt>かざり</rt></ruby>の<ruby>羽<rt>はね</rt></ruby>があるのが<span class=\"vw\" data-ja=\"特徴\" data-reading=\"とくちょう\" data-en=\"feature; characteristic\"><ruby>特徴<rt>とくちょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "南極の周りにすんでいて、絶滅のおそれがある動物の一つです。",
+      "zh": "它生活在南极周边，是有灭绝危险的动物之一。",
+      "en": "It lives around Antarctica and is one of the animals at risk of extinction.",
+      "ruby": "<ruby>南極<rt>なんきょく</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>にすんでいて、<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>のおそれがある<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "アドベンチャーワールドでは、2024年から、このペンギンの人工授精に取り組んできました。",
+      "zh": "冒险大世界从2024年起一直致力于这种企鹅的人工授精。",
+      "en": "Adventure World has been working on artificial insemination of this penguin since 2024.",
+      "tts": "アドベンチャーワールドでは、2024年から、このペンギンのじんこうじゅせいに取り組んできました。",
+      "ruby": "アドベンチャーワールドでは、2024<ruby>年<rt>ねん</rt></ruby>から、このペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>に<ruby>取り組ん<rt>とりくん</rt></ruby>できました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年9月、8歳のオスから精子を取って、メスの体の中に入れました。",
+      "zh": "今年9月，从一只8岁的雄企鹅身上采集精子，放入了雌企鹅体内。",
+      "en": "This September, sperm was taken from an 8-year-old male and put into a female's body.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>9<ruby>月<rt>がつ</rt></ruby>、8<ruby>歳<rt>さい</rt></ruby>のオスから<ruby>精子<rt>せいし</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て、メスの<ruby>体<rt>からだ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後、卵ができて、10月28日に、重さ62グラムの赤ちゃんがかえりました。",
+      "zh": "之后产下了受精卵，10月28日，一只重62克的企鹅宝宝孵化了。",
+      "en": "After that, an egg was laid, and on October 28 a chick weighing 62 grams hatched.",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>、<ruby>卵<rt>たまご</rt></ruby>ができて、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>に、<ruby>重さ<rt>おもさ</rt></ruby>62グラムの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>がかえりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "外の専門の機関が、赤ちゃんのDNAを調べました。",
+      "zh": "外部的专业机构对宝宝的DNA进行了检测。",
+      "en": "An outside specialist organization tested the chick's DNA.",
+      "ruby": "<ruby>外<rt>そと</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby>の<ruby>機関<rt>きかん</rt></ruby>が、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>のDNAを<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、母親とペアになっているオスではなく、精子を取ったオスの子どもだとわかりました。",
+      "zh": "结果确认，它不是母亲的配偶雄企鹅的孩子，而是被采集精子的那只雄企鹅的孩子。",
+      "en": "As a result, it was found to be the child not of the male paired with the mother, but of the male the sperm was taken from.",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<ruby>母親<rt>ははおや</rt></ruby>とペアになっているオスではなく、<ruby>精子<rt>せいし</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>たオスの<ruby>子ども<rt>こども</rt></ruby>だとわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンの人工授精は難しく、成功したのは、18種類のうち4種類だけだということです。",
+      "zh": "据说企鹅的人工授精很难，在18种企鹅中只有4种获得过成功。",
+      "en": "Artificial insemination of penguins is difficult, and reportedly it has succeeded in only 4 of the 18 kinds.",
+      "tts": "ペンギンのじんこうじゅせいは難しく、成功したのは、18種類のうち4種類だけだということです。",
+      "ruby": "ペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>は<ruby>難しく<rt>むずかしく</rt></ruby>、<ruby>成功<rt>せいこう</rt></ruby>したのは、18<ruby>種類<rt>しゅるい</rt></ruby>のうち4<ruby>種類<rt>しゅるい</rt></ruby>だけだということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このペンギンで成功したのは、世界で初めてです。",
+      "zh": "在这种企鹅身上取得成功，在世界上尚属首次。",
+      "en": "This is the first time in the world it has succeeded with this penguin.",
+      "ruby": "このペンギンで<ruby>成功<rt>せいこう</rt></ruby>したのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんはメスで、今は561グラムまで大きくなって、元気に育っています。",
+      "zh": "宝宝是雌性，现在已经长到561克，正在健康成长。",
+      "en": "The chick is a female; it has now grown to 561 grams and is growing up healthy.",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>はメスで、<ruby>今<rt>いま</rt></ruby>は561グラムまで<ruby>大きく<rt>おおきく</rt></ruby>なって、<ruby>元気<rt>げんき</rt></ruby>に<ruby>育っ<rt>そだっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "アドベンチャーワールドでは、国内でいちばん多い10種類、およそ470羽のペンギンを飼っています。",
+      "zh": "冒险大世界饲养着日本国内最多的10种、约470只企鹅。",
+      "en": "Adventure World keeps about 470 penguins of 10 kinds, the most in Japan.",
+      "ruby": "アドベンチャーワールドでは、<ruby>国内<rt>こくない</rt></ruby>でいちばん<ruby>多い<rt>おおい</rt></ruby>10<ruby>種類<rt>しゅるい</rt></ruby>、およそ470<ruby>羽<rt>わ</rt></ruby>のペンギンを<ruby>飼っ<rt>かっ</rt></ruby>ています。",
+      "tts": "アドベンチャーワールドでは、国内でいちばん多い10種類、およそよんひゃくななじゅうわのペンギンを飼っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの名前は、12月に募集する予定です。",
+      "zh": "宝宝的名字计划在12月征集。",
+      "en": "The park plans to ask the public for names for the chick in December.",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、12<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"募集する\" data-reading=\"ぼしゅうする\" data-en=\"to invite applications; to call for\"><ruby>募集<rt>ぼしゅう</rt></ruby>する</span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一般の人が見られるようになるのは、来年3月ごろの予定です。",
+      "zh": "预计从明年3月左右起，普通游客就可以看到它了。",
+      "en": "The public is expected to be able to see it from around March next year.",
+      "ruby": "<ruby>一般の<rt>いっぱんの</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れるようになるのは、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>ごろの<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Now let's break it down."
+    },
+    {
+      "speaker": "slow",
+      "text": "和歌山県白浜町の「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、人工授精で生まれたと発表しました。",
+      "tts": "和歌山県しらはまちょうの「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、じんこうじゅせいで生まれたと発表しました。",
+      "ruby": "<ruby>和歌山県<rt>わかやまけん</rt></ruby><ruby>白浜町<rt>しらはまちょう</rt></ruby>の「アドベンチャーワールド」は、11<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>されているペンギンの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が、<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>たと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "host",
+      "text": "On November twenty-seventh, Adventure World in Wakayama announced that a chick of an endangered penguin was born through artificial insemination."
+    },
+    {
+      "speaker": "vocab",
+      "text": "絶滅",
+      "ruby": "<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means extinction."
+    },
+    {
+      "speaker": "slow",
+      "text": "このペンギンは、「キタイワトビペンギン」という種類です。",
+      "ruby": "このペンギンは、「キタイワトビペンギン」という<ruby>種類<rt>しゅるい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This penguin is a northern rockhopper penguin."
+    },
+    {
+      "speaker": "slow",
+      "text": "目のあたりから頭の後ろにかけて、黄色い飾りの羽があるのが特徴です。",
+      "ruby": "<ruby>目の<rt>めの</rt></ruby>あたりから<ruby>頭<rt>あたま</rt></ruby>の<ruby>後ろ<rt>うしろ</rt></ruby>にかけて、<ruby>黄色い<rt>きいろい</rt></ruby><ruby>飾り<rt>かざり</rt></ruby>の<ruby>羽<rt>はね</rt></ruby>があるのが<span class=\"vw\" data-ja=\"特徴\" data-reading=\"とくちょう\" data-en=\"feature; characteristic\"><ruby>特徴<rt>とくちょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Its feature is the yellow decorative feathers from around the eyes to the back of the head."
+    },
+    {
+      "speaker": "vocab",
+      "text": "特徴",
+      "ruby": "<span class=\"vw\" data-ja=\"特徴\" data-reading=\"とくちょう\" data-en=\"feature; characteristic\"><ruby>特徴<rt>とくちょう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means a feature or characteristic."
+    },
+    {
+      "speaker": "slow",
+      "text": "南極の周りにすんでいて、絶滅のおそれがある動物の一つです。",
+      "ruby": "<ruby>南極<rt>なんきょく</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>にすんでいて、<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>のおそれがある<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "It lives around Antarctica and is one of the animals at risk of dying out."
+    },
+    {
+      "speaker": "slow",
+      "text": "アドベンチャーワールドでは、2024年から、このペンギンの人工授精に取り組んできました。",
+      "tts": "アドベンチャーワールドでは、2024年から、このペンギンのじんこうじゅせいに取り組んできました。",
+      "ruby": "アドベンチャーワールドでは、2024<ruby>年<rt>ねん</rt></ruby>から、このペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>に<ruby>取り組ん<rt>とりくん</rt></ruby>できました。"
+    },
+    {
+      "speaker": "host",
+      "text": "The park has been working on artificial insemination for this penguin since twenty twenty-four."
+    },
+    {
+      "speaker": "vocab",
+      "text": "取り組む",
+      "ruby": "<span class=\"vw\" data-ja=\"取り組む\" data-reading=\"とりくむ\" data-en=\"to work on; to tackle\"><ruby>取り組む<rt>とりくむ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to work on or tackle something."
+    },
+    {
+      "speaker": "slow",
+      "text": "今年9月、8歳のオスから精子を取って、メスの体の中に入れました。",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>9<ruby>月<rt>がつ</rt></ruby>、8<ruby>歳<rt>さい</rt></ruby>のオスから<ruby>精子<rt>せいし</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て、メスの<ruby>体<rt>からだ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "This September, they took sperm from an eight-year-old male and put it into a female."
+    },
+    {
+      "speaker": "slow",
+      "text": "その後、卵ができて、10月28日に、重さ62グラムの赤ちゃんがかえりました。",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>、<ruby>卵<rt>たまご</rt></ruby>ができて、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>に、<ruby>重さ<rt>おもさ</rt></ruby>62グラムの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>がかえりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "Then an egg came, and on October twenty-eighth a sixty-two gram chick hatched."
+    },
+    {
+      "speaker": "vocab",
+      "text": "かえる",
+      "ruby": "<span class=\"vw\" data-ja=\"かえる\" data-reading=\"かえる\" data-en=\"to hatch (from an egg)\">かえる</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to hatch from an egg."
+    },
+    {
+      "speaker": "slow",
+      "text": "外の専門の機関が、赤ちゃんのDNAを調べました。",
+      "ruby": "<ruby>外<rt>そと</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby>の<ruby>機関<rt>きかん</rt></ruby>が、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>のDNAを<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "host",
+      "text": "An outside expert organization checked the chick's DNA."
+    },
+    {
+      "speaker": "slow",
+      "text": "その結果、母親とペアになっているオスではなく、精子を取ったオスの子どもだとわかりました。",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<ruby>母親<rt>ははおや</rt></ruby>とペアになっているオスではなく、<ruby>精子<rt>せいし</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>たオスの<ruby>子ども<rt>こども</rt></ruby>だとわかりました。"
+    },
+    {
+      "speaker": "host",
+      "text": "It turned out the father was not the mother's partner, but the male that gave the sperm."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンの人工授精は難しく、成功したのは、18種類のうち4種類だけだということです。",
+      "tts": "ペンギンのじんこうじゅせいは難しく、成功したのは、18種類のうち4種類だけだということです。",
+      "ruby": "ペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>は<ruby>難しく<rt>むずかしく</rt></ruby>、<ruby>成功<rt>せいこう</rt></ruby>したのは、18<ruby>種類<rt>しゅるい</rt></ruby>のうち4<ruby>種類<rt>しゅるい</rt></ruby>だけだということです。"
+    },
+    {
+      "speaker": "host",
+      "text": "Penguin artificial insemination is hard; it has worked for only four of the eighteen kinds."
+    },
+    {
+      "speaker": "vocab",
+      "text": "成功する",
+      "ruby": "<span class=\"vw\" data-ja=\"成功する\" data-reading=\"せいこうする\" data-en=\"to succeed\"><ruby>成功<rt>せいこう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to succeed."
+    },
+    {
+      "speaker": "slow",
+      "text": "このペンギンで成功したのは、世界で初めてです。",
+      "ruby": "このペンギンで<ruby>成功<rt>せいこう</rt></ruby>したのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "This is the first success in the world with this penguin."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんはメスで、今は561グラムまで大きくなって、元気に育っています。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>はメスで、<ruby>今<rt>いま</rt></ruby>は561グラムまで<ruby>大きく<rt>おおきく</rt></ruby>なって、<ruby>元気<rt>げんき</rt></ruby>に<ruby>育っ<rt>そだっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The chick is a female. It now weighs five hundred sixty-one grams and is growing well."
+    },
+    {
+      "speaker": "vocab",
+      "text": "育つ",
+      "ruby": "<span class=\"vw\" data-ja=\"育つ\" data-reading=\"そだつ\" data-en=\"to grow up; to be raised\"><ruby>育つ<rt>そだつ</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to grow up."
+    },
+    {
+      "speaker": "slow",
+      "text": "アドベンチャーワールドでは、国内でいちばん多い10種類、およそ470羽のペンギンを飼っています。",
+      "ruby": "アドベンチャーワールドでは、<ruby>国内<rt>こくない</rt></ruby>でいちばん<ruby>多い<rt>おおい</rt></ruby>10<ruby>種類<rt>しゅるい</rt></ruby>、およそ470<ruby>羽<rt>わ</rt></ruby>のペンギンを<ruby>飼っ<rt>かっ</rt></ruby>ています。",
+      "tts": "アドベンチャーワールドでは、国内でいちばん多い10種類、およそよんひゃくななじゅうわのペンギンを飼っています。"
+    },
+    {
+      "speaker": "host",
+      "text": "The park keeps about four hundred seventy penguins of ten kinds, the most in Japan."
+    },
+    {
+      "speaker": "vocab",
+      "text": "飼う",
+      "ruby": "<span class=\"vw\" data-ja=\"飼う\" data-reading=\"かう\" data-en=\"to keep (an animal)\"><ruby>飼う<rt>かう</rt></ruby></span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to keep an animal."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんの名前は、12月に募集する予定です。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、12<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"募集する\" data-reading=\"ぼしゅうする\" data-en=\"to invite applications; to call for\"><ruby>募集<rt>ぼしゅう</rt></ruby>する</span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "They plan to ask the public for name ideas in December."
+    },
+    {
+      "speaker": "vocab",
+      "text": "募集する",
+      "ruby": "<span class=\"vw\" data-ja=\"募集する\" data-reading=\"ぼしゅうする\" data-en=\"to invite applications; to call for\"><ruby>募集<rt>ぼしゅう</rt></ruby>する</span>"
+    },
+    {
+      "speaker": "host",
+      "text": "It means to call for entries or applications."
+    },
+    {
+      "speaker": "slow",
+      "text": "一般の人が見られるようになるのは、来年3月ごろの予定です。",
+      "ruby": "<ruby>一般の<rt>いっぱんの</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れるようになるのは、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>ごろの<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Visitors should be able to see it from around March next year."
+    },
+    {
+      "speaker": "host",
+      "text": "Now listen to the whole story again."
+    },
+    {
+      "speaker": "news",
+      "text": "和歌山県白浜町の「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、人工授精で生まれたと発表しました。",
+      "zh": "和歌山县白滨町的“冒险大世界”于11月27日宣布，一只令人担心灭绝的企鹅宝宝通过人工授精出生了。",
+      "en": "Adventure World in Shirahama, Wakayama Prefecture, announced on November 27 that a baby of a penguin feared to be going extinct was born through artificial insemination.",
+      "tts": "和歌山県しらはまちょうの「アドベンチャーワールド」は、11月27日、絶滅が心配されているペンギンの赤ちゃんが、じんこうじゅせいで生まれたと発表しました。",
+      "ruby": "<ruby>和歌山県<rt>わかやまけん</rt></ruby><ruby>白浜町<rt>しらはまちょう</rt></ruby>の「アドベンチャーワールド」は、11<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>、<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>されているペンギンの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が、<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby>たと<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    {
+      "speaker": "news",
+      "text": "このペンギンは、「キタイワトビペンギン」という種類です。",
+      "zh": "这种企鹅是一种叫作“北跳岩企鹅”的种类。",
+      "en": "This penguin is a kind called the northern rockhopper penguin.",
+      "ruby": "このペンギンは、「キタイワトビペンギン」という<ruby>種類<rt>しゅるい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "目のあたりから頭の後ろにかけて、黄色い飾りの羽があるのが特徴です。",
+      "zh": "从眼睛附近到脑后长着黄色的饰羽，这是它的特征。",
+      "en": "Its special feature is the yellow ornamental feathers from around its eyes to the back of its head.",
+      "ruby": "<ruby>目の<rt>めの</rt></ruby>あたりから<ruby>頭<rt>あたま</rt></ruby>の<ruby>後ろ<rt>うしろ</rt></ruby>にかけて、<ruby>黄色い<rt>きいろい</rt></ruby><ruby>飾り<rt>かざり</rt></ruby>の<ruby>羽<rt>はね</rt></ruby>があるのが<span class=\"vw\" data-ja=\"特徴\" data-reading=\"とくちょう\" data-en=\"feature; characteristic\"><ruby>特徴<rt>とくちょう</rt></ruby></span>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "南極の周りにすんでいて、絶滅のおそれがある動物の一つです。",
+      "zh": "它生活在南极周边，是有灭绝危险的动物之一。",
+      "en": "It lives around Antarctica and is one of the animals at risk of extinction.",
+      "ruby": "<ruby>南極<rt>なんきょく</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>にすんでいて、<span class=\"vw\" data-ja=\"絶滅\" data-reading=\"ぜつめつ\" data-en=\"extinction\"><ruby>絶滅<rt>ぜつめつ</rt></ruby></span>のおそれがある<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "アドベンチャーワールドでは、2024年から、このペンギンの人工授精に取り組んできました。",
+      "zh": "冒险大世界从2024年起一直致力于这种企鹅的人工授精。",
+      "en": "Adventure World has been working on artificial insemination of this penguin since 2024.",
+      "tts": "アドベンチャーワールドでは、2024年から、このペンギンのじんこうじゅせいに取り組んできました。",
+      "ruby": "アドベンチャーワールドでは、2024<ruby>年<rt>ねん</rt></ruby>から、このペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>に<ruby>取り組ん<rt>とりくん</rt></ruby>できました。"
+    },
+    {
+      "speaker": "news",
+      "text": "今年9月、8歳のオスから精子を取って、メスの体の中に入れました。",
+      "zh": "今年9月，从一只8岁的雄企鹅身上采集精子，放入了雌企鹅体内。",
+      "en": "This September, sperm was taken from an 8-year-old male and put into a female's body.",
+      "ruby": "<ruby>今年<rt>ことし</rt></ruby>9<ruby>月<rt>がつ</rt></ruby>、8<ruby>歳<rt>さい</rt></ruby>のオスから<ruby>精子<rt>せいし</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て、メスの<ruby>体<rt>からだ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その後、卵ができて、10月28日に、重さ62グラムの赤ちゃんがかえりました。",
+      "zh": "之后产下了受精卵，10月28日，一只重62克的企鹅宝宝孵化了。",
+      "en": "After that, an egg was laid, and on October 28 a chick weighing 62 grams hatched.",
+      "ruby": "その<ruby>後<rt>ご</rt></ruby>、<ruby>卵<rt>たまご</rt></ruby>ができて、10<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>に、<ruby>重さ<rt>おもさ</rt></ruby>62グラムの<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>がかえりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "外の専門の機関が、赤ちゃんのDNAを調べました。",
+      "zh": "外部的专业机构对宝宝的DNA进行了检测。",
+      "en": "An outside specialist organization tested the chick's DNA.",
+      "ruby": "<ruby>外<rt>そと</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby>の<ruby>機関<rt>きかん</rt></ruby>が、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>のDNAを<ruby>調べ<rt>しらべ</rt></ruby>ました。"
+    },
+    {
+      "speaker": "news",
+      "text": "その結果、母親とペアになっているオスではなく、精子を取ったオスの子どもだとわかりました。",
+      "zh": "结果确认，它不是母亲的配偶雄企鹅的孩子，而是被采集精子的那只雄企鹅的孩子。",
+      "en": "As a result, it was found to be the child not of the male paired with the mother, but of the male the sperm was taken from.",
+      "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、<ruby>母親<rt>ははおや</rt></ruby>とペアになっているオスではなく、<ruby>精子<rt>せいし</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>たオスの<ruby>子ども<rt>こども</rt></ruby>だとわかりました。"
+    },
+    {
+      "speaker": "news",
+      "text": "ペンギンの人工授精は難しく、成功したのは、18種類のうち4種類だけだということです。",
+      "zh": "据说企鹅的人工授精很难，在18种企鹅中只有4种获得过成功。",
+      "en": "Artificial insemination of penguins is difficult, and reportedly it has succeeded in only 4 of the 18 kinds.",
+      "tts": "ペンギンのじんこうじゅせいは難しく、成功したのは、18種類のうち4種類だけだということです。",
+      "ruby": "ペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>は<ruby>難しく<rt>むずかしく</rt></ruby>、<ruby>成功<rt>せいこう</rt></ruby>したのは、18<ruby>種類<rt>しゅるい</rt></ruby>のうち4<ruby>種類<rt>しゅるい</rt></ruby>だけだということです。"
+    },
+    {
+      "speaker": "news",
+      "text": "このペンギンで成功したのは、世界で初めてです。",
+      "zh": "在这种企鹅身上取得成功，在世界上尚属首次。",
+      "en": "This is the first time in the world it has succeeded with this penguin.",
+      "ruby": "このペンギンで<ruby>成功<rt>せいこう</rt></ruby>したのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初めて<rt>はじめて</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんはメスで、今は561グラムまで大きくなって、元気に育っています。",
+      "zh": "宝宝是雌性，现在已经长到561克，正在健康成长。",
+      "en": "The chick is a female; it has now grown to 561 grams and is growing up healthy.",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>はメスで、<ruby>今<rt>いま</rt></ruby>は561グラムまで<ruby>大きく<rt>おおきく</rt></ruby>なって、<ruby>元気<rt>げんき</rt></ruby>に<ruby>育っ<rt>そだっ</rt></ruby>ています。"
+    },
+    {
+      "speaker": "news",
+      "text": "アドベンチャーワールドでは、国内でいちばん多い10種類、およそ470羽のペンギンを飼っています。",
+      "zh": "冒险大世界饲养着日本国内最多的10种、约470只企鹅。",
+      "en": "Adventure World keeps about 470 penguins of 10 kinds, the most in Japan.",
+      "ruby": "アドベンチャーワールドでは、<ruby>国内<rt>こくない</rt></ruby>でいちばん<ruby>多い<rt>おおい</rt></ruby>10<ruby>種類<rt>しゅるい</rt></ruby>、およそ470<ruby>羽<rt>わ</rt></ruby>のペンギンを<ruby>飼っ<rt>かっ</rt></ruby>ています。",
+      "tts": "アドベンチャーワールドでは、国内でいちばん多い10種類、およそよんひゃくななじゅうわのペンギンを飼っています。"
+    },
+    {
+      "speaker": "news",
+      "text": "赤ちゃんの名前は、12月に募集する予定です。",
+      "zh": "宝宝的名字计划在12月征集。",
+      "en": "The park plans to ask the public for names for the chick in December.",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は、12<ruby>月<rt>がつ</rt></ruby>に<span class=\"vw\" data-ja=\"募集する\" data-reading=\"ぼしゅうする\" data-en=\"to invite applications; to call for\"><ruby>募集<rt>ぼしゅう</rt></ruby>する</span><ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "news",
+      "text": "一般の人が見られるようになるのは、来年3月ごろの予定です。",
+      "zh": "预计从明年3月左右起，普通游客就可以看到它了。",
+      "en": "The public is expected to be able to see it from around March next year.",
+      "ruby": "<ruby>一般の<rt>いっぱんの</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れるようになるのは、<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>ごろの<ruby>予定<rt>よてい</rt></ruby>です。"
+    },
+    {
+      "speaker": "host",
+      "text": "Quiz time. Listen and answer."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、何月何日にかえりましたか。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、<ruby>何月何日<rt>なんがつなんにち</rt></ruby>にかえりましたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "On October twenty-eighth."
+    },
+    {
+      "speaker": "slow",
+      "text": "かえったとき、赤ちゃんの重さは何グラムでしたか。",
+      "ruby": "かえったとき、<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>重さ<rt>おもさ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>グラムでしたか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Sixty-two grams."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、オスですか、メスですか。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、オスですか、メスですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "A female."
+    },
+    {
+      "speaker": "slow",
+      "text": "ペンギンの人工授精が成功したのは、何種類のうち何種類ですか。",
+      "tts": "ペンギンのじんこうじゅせいが成功したのは、何種類のうち何種類ですか。",
+      "ruby": "ペンギンの<ruby>人工<rt>じんこう</rt></ruby><ruby>授精<rt>じゅせい</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>したのは、<ruby>何種類<rt>なんしゅるい</rt></ruby>のうち<ruby>何種類<rt>なんしゅるい</rt></ruby>ですか。"
+    },
+    {
+      "speaker": "host",
+      "text": "Four out of eighteen kinds."
+    },
+    {
+      "speaker": "slow",
+      "text": "赤ちゃんは、いつごろから見られるようになりますか。",
+      "ruby": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は、いつごろから<ruby>見ら<rt>みら</rt></ruby>れるようになりますか。"
+    },
+    {
+      "speaker": "host",
+      "text": "From around March next year."
+    },
+    {
+      "speaker": "host",
+      "text": "That's all for today. If you're enjoying the show, follow it in your podcast app so you never miss an episode. See you tomorrow."
+    },
+    {
+      "speaker": "news",
+      "text": "また明日。",
+      "ruby": "また<ruby>明日<rt>あした</rt></ruby>。"
+    }
+  ]
+}
